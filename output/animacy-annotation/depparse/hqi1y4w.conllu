@@ -1,0 +1,44 @@
+1	Kid	kid	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	:	:	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+3	*	*	PUNCT	NFP	_	6	punct	_	start_char=5|end_char=6
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=6|end_char=8
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=9|end_char=10
+6	kid	kid	NOUN	NN	Number=Sing	1	appos	_	start_char=11|end_char=14
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=15|end_char=18
+8	unpredictable	unpredictable	ADJ	JJ	Degree=Pos	6	conj	_	start_char=19|end_char=32
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=33|end_char=36
+10	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=44
+11	of	of	ADP	IN	_	12	case	_	start_char=45|end_char=47
+12	surroundings	surroundings	NOUN	NNS	Number=Plur	10	obl	_	start_char=48|end_char=60
+13	*	*	PUNCT	NFP	_	1	punct	_	start_char=60|end_char=61
+
+1	Reddit	Reddit	PROPN	NNP	Number=Sing	0	root	_	start_char=63|end_char=69
+2	:	:	PUNCT	:	_	1	punct	_	start_char=69|end_char=70
+
+1	Wow	wow	INTJ	UH	_	14	discourse	_	start_char=71|end_char=74
+2	,	,	PUNCT	,	_	14	punct	_	start_char=74|end_char=75
+3	what	what	PRON	WP	PronType=Int	6	det:predet	_	start_char=76|end_char=80
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=81|end_char=82
+5	horrible	horrible	ADJ	JJ	Degree=Pos	6	amod	_	start_char=83|end_char=91
+6	parent	parent	NOUN	NN	Number=Sing	14	nsubj	_	start_char=92|end_char=98
+7	,	,	PUNCT	,	_	14	punct	_	start_char=98|end_char=99
+8	both	both	CCONJ	CC	_	10	cc:preconj	_	start_char=100|end_char=104
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=105|end_char=108
+10	parent	parent	NOUN	NN	Number=Sing	14	nsubj	_	start_char=109|end_char=115
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=116|end_char=119
+12	kid	kid	NOUN	NN	Number=Sing	10	conj	_	start_char=120|end_char=123
+13	should	should	AUX	MD	VerbForm=Fin	14	aux	_	start_char=124|end_char=130
+14	go	go	VERB	VB	VerbForm=Inf	0	root	_	start_char=131|end_char=133
+15	to	to	ADP	IN	_	16	case	_	start_char=134|end_char=136
+16	court	court	VERB	VB	VerbForm=Inf	14	obl	_	start_char=137|end_char=142
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=143|end_char=146
+18	be	be	AUX	VB	VerbForm=Inf	19	aux:pass	_	start_char=147|end_char=149
+19	tried	try	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	conj	_	start_char=150|end_char=155
+20	for	for	SCONJ	IN	_	23	mark	_	start_char=156|end_char=159
+21	being	be	AUX	VBG	VerbForm=Ger	23	cop	_	start_char=160|end_char=165
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=166|end_char=167
+23	scourge	scourge	NOUN	NN	Number=Sing	19	advcl	_	start_char=168|end_char=175
+24	on	on	ADP	IN	_	25	case	_	start_char=176|end_char=178
+25	society	society	NOUN	NN	Number=Sing	23	nmod	_	start_char=179|end_char=186
+26	.	.	PUNCT	.	_	6	punct	_	start_char=186|end_char=187
+

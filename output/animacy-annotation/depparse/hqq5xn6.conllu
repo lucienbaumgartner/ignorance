@@ -1,0 +1,14 @@
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=0|end_char=7
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=8|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=16
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=36
+7	,	,	PUNCT	,	_	9	punct	_	start_char=36|end_char=37
+8	then	then	ADV	RB	PronType=Dem	9	advmod	_	start_char=38|end_char=42
+9	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=43|end_char=50
+10	to	to	PART	TO	_	13	mark	_	start_char=51|end_char=53
+11	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=54|end_char=56
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=57|end_char=58
+13	judge	judge	NOUN	NN	Number=Sing	9	xcomp	_	start_char=59|end_char=64
+

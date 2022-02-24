@@ -1,0 +1,5 @@
+Yah, the distinction doesn't really matter much from a legal standpoint. Carmack's experiments in VR while under contract and using ZeniMax resources are effectively "ZeniMax"'s experiments/funding of VR. That there was an NDA an some early agreement between ZeniMax and Luckey, and that it was shown off at an official booth at a trade show, makes it all the more apparent that this doesn't constitute a personal project of Carmack's unless Carmack's employment contract was *extremely* liberal in this aspect.
+
+The sketchy part I think is the discussions regarding a licensing deal before Oculus moved forward with a commercial project. It's totally possible from my experience with large corporate legal departments that they were wholly unaware and uninterested putting in the resources to work out a licensing deal with some small "side project". Unfortunately, even if they just sat on their hands the whole time, that still means Oculus may have been in violation went they went ahead with it.
+
+It's a toughy.

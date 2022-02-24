@@ -1,0 +1,6 @@
+http://rockstor.com/docs/data_loss.html
+
+&gt; Rockstor Web-UI and Data Loss Monitoring
+Currently, there is no support for monitoring of drives or pools in Rockstor. So the web-ui is simply unaware and incapable of notifying potential problems or failures. It is a high priority for us to improve this aspect of Rockstor and we are working on it.
+At the moment, we suggest that you have your own scripts and methods to detect any potential failures.
+Rockstor also does not support any recovery features at this time. Given the current state of rapid BTRFS development, we have not added this support as it may need to fundamentally change again. So wear your Linux ninja hat to troubleshoot serious data loss problems. Hope this document helps.

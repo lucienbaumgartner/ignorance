@@ -1,0 +1,28 @@
+1	Can	can	AUX	MD	VerbForm=Fin	0	root	_	start_char=0|end_char=3
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4|end_char=5
+2	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=9
+3	what	what	PRON	WP	PronType=Int	2	obj	_	start_char=10|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=15|end_char=17
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=18|end_char=22
+6	standard	standard	NOUN	NN	Number=Sing	3	nsubj	_	start_char=23|end_char=31
+7	for	for	ADP	IN	_	9	case	_	start_char=32|end_char=35
+8	blue	blue	ADJ	JJ	Degree=Pos	9	amod	_	start_char=36|end_char=40
+9	belt	belt	NOUN	NN	Number=Sing	6	nmod	_	start_char=41|end_char=45
+10	?	?	PUNCT	.	_	2	punct	_	start_char=45|end_char=46
+
+1	Personally	personally	ADV	RB	_	8	advmod	_	start_char=48|end_char=58
+2	after	after	ADP	IN	_	4	case	_	start_char=59|end_char=64
+3	80	80	NUM	CD	NumType=Card	4	nummod	_	start_char=65|end_char=67
+4	classes	class	NOUN	NNS	Number=Plur	8	obl	_	start_char=68|end_char=75
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=76|end_char=77
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=78|end_char=81
+7	still	still	ADV	RB	_	8	advmod	_	start_char=82|end_char=87
+8	awful	awful	ADJ	JJ	Degree=Pos	0	root	_	start_char=88|end_char=93
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=94|end_char=97
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=98|end_char=106
+11	of	of	ADP	IN	_	13	case	_	start_char=107|end_char=109
+12	many	many	ADJ	JJ	Degree=Pos	13	amod	_	start_char=110|end_char=114
+13	fundamentals	fundamental	NOUN	NNS	Number=Plur	10	obl	_	start_char=115|end_char=127
+14	.	.	PUNCT	.	_	8	punct	_	start_char=127|end_char=128
+

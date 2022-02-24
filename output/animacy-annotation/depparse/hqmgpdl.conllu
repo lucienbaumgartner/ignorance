@@ -1,0 +1,55 @@
+1	Oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=9|end_char=12
+4	for	for	ADP	IN	_	6	case	_	start_char=13|end_char=16
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=17|end_char=21
+6	services	service	NOUN	NNS	Number=Plur	2	obl	_	start_char=22|end_char=30
+7	of	of	SCONJ	IN	_	8	case	_	start_char=31|end_char=33
+8	judging	judge	NOUN	NN	Number=Sing	6	nmod	_	start_char=34|end_char=41
+9	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=42|end_char=45
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=46|end_char=48
+11	dense	dense	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=49|end_char=54
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=55|end_char=58
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=59|end_char=67
+14	…	…	PUNCT	,	_	2	punct	_	start_char=67|end_char=68
+15	of	of	ADP	IN	_	20	advmod	_	start_char=68|end_char=70
+16	course	course	NOUN	NN	Number=Sing	15	fixed	_	start_char=71|end_char=77
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=78|end_char=81
+18	could	could	AUX	MD	VerbForm=Fin	20	aux	_	start_char=82|end_char=87
+19	never	never	ADV	RB	_	20	advmod	_	start_char=88|end_char=93
+20	be	be	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=94|end_char=96
+21	.	.	PUNCT	.	_	2	punct	_	start_char=96|end_char=97
+
+1	All	all	DET	DT	_	2	nsubj	_	start_char=98|end_char=101
+2	hail	hail	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=102|end_char=106
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=107|end_char=110
+4	high	high	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=111|end_char=115
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=116|end_char=119
+6	mighty	mighty	ADJ	JJ	Degree=Pos	4	conj	_	start_char=120|end_char=126
+7	.	.	PUNCT	.	_	2	punct	_	start_char=126|end_char=127
+
+1	Oh	oh	INTJ	UH	_	6	discourse	_	start_char=128|end_char=130
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=131|end_char=133
+3	gosh	gosh	INTJ	UH	_	6	discourse	_	start_char=134|end_char=138
+4	,	,	PUNCT	,	_	6	punct	_	start_char=138|end_char=139
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=140|end_char=143
+6	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	start_char=144|end_char=149
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	_	start_char=150|end_char=154
+8	qualities	quality	NOUN	NNS	Number=Plur	6	obj	_	start_char=155|end_char=164
+9	…	…	PUNCT	.	_	6	punct	_	start_char=164|end_char=165
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=165|end_char=166
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=166|end_char=168
+3	so	so	ADV	RB	_	4	advmod	_	start_char=169|end_char=171
+4	happy	happy	ADJ	JJ	Degree=Pos	0	root	_	start_char=172|end_char=177
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=178|end_char=181
+6	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=182|end_char=187
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=188|end_char=192
+8	perfect	perfect	ADJ	JJ	Degree=Pos	9	amod	_	start_char=193|end_char=200
+9	penis	penis	NOUN	NN	Number=Sing	6	obj	_	start_char=201|end_char=206
+10	after	after	ADP	IN	_	13	case	_	start_char=207|end_char=212
+11	so	so	ADV	RB	_	12	advmod	_	start_char=213|end_char=215
+12	many	many	ADJ	JJ	Degree=Pos	13	amod	_	start_char=216|end_char=220
+13	tries	try	NOUN	NNS	Number=Plur	6	obl	_	start_char=221|end_char=226
+14	.	.	PUNCT	.	_	4	punct	_	start_char=226|end_char=227
+

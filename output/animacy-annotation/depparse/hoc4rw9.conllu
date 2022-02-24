@@ -1,0 +1,31 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=4|end_char=7
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=13
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=14|end_char=17
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=18|end_char=21
+7	capable	capable	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=22|end_char=29
+8	of	of	SCONJ	IN	_	9	mark	_	start_char=30|end_char=32
+9	understanding	understand	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=33|end_char=46
+10	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=47|end_char=50
+11	stupid	stupid	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=51|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=62|end_char=70
+14	that	that	DET	DT	Number=Sing|PronType=Dem	15	det	_	start_char=71|end_char=75
+15	comment	comment	NOUN	NN	Number=Sing	16	nsubj	_	start_char=76|end_char=83
+16	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=84|end_char=86
+17	.	.	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+
+1	Like	like	INTJ	UH	_	4	discourse	_	start_char=88|end_char=92
+2	legitimately	legitimately	ADV	RB	_	4	advmod	_	start_char=93|end_char=105
+3	just	just	ADV	RB	_	4	advmod	_	start_char=106|end_char=110
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=111|end_char=116
+5	.	.	PUNCT	.	_	4	punct	_	start_char=116|end_char=117
+
+1	Turkey	Turkey	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=118|end_char=124
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=125|end_char=127
+3	SECULAR	secular	ADJ	JJ	Degree=Pos	0	root	_	start_char=128|end_char=135
+4	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=136|end_char=139
+5	DUMBASS	dumbass	NOUN	NN	Number=Sing	3	parataxis	_	start_char=140|end_char=147
+6	🤣	''	PUNCT	.	_	3	punct	_	start_char=148|end_char=149
+

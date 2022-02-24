@@ -1,0 +1,9 @@
+Question for rules peeps out there, as I think its a nebulous issue.
+
+The Galebr...Mud skeleton used earth glide before attacking Hollis. While using earth glide, the Mud Skellington would have total concealment from Hollis. Upon emerging would Hollis not be flat footed against its attack, and thereby unaware and unable to use an immediate action (ethereal step)
+
+OR would you instead view the attack as she merely is denied her dex bonus to AC for the concealment but not mechanically flat footed.
+
+Its always been a somewhat contentious issue since one makes more sense IMO but isn't spelled out - that is to say, if you are unaware, you are flat footed; however this is really only addressed in a forum post and there's not a formal FAQ.
+
+So thoughts?

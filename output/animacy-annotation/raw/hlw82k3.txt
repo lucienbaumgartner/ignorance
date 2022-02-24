@@ -1,0 +1,17 @@
+So, you want to have code generating code? The general area is called meta-programming, the specific task is code generation.
+
+There are approaches in code generation ranging from simple but wrong to difficult but less wrong. The simplest way you can go about it is just string replacement (in this context, it's often called "interpolation"). This approach is very common because it's easy to implement. The drawbacks are: nesting becomes very complicated, hard to generalize the code, a lot of errors due to lax validation.
+
+Historically, second best thing was so-called F-expressions. We won't dwell on it since this is virtually extinct today.
+
+Next were macros. Macros work well if your programming language can expose the structure of your code as data. (Python cannot really). There are all kinds of macros: syntax macros, symbol-level macros, macros applied to whole expressions.
+
+Especially syntax macros proved to be dangerous / inconvenient because in the languages which have those it's sometimes possible to break unrelated code by implementing a syntax macro.
+
+Then, people invented hygienic macros which limited the scope in which the macros could be applied, and syntax case to replace the overreaching syntax macros.
+
+One thing that was lacking was generality and some sort of systematization, and that's how meta-parsers appeared, i.e. languages specifically designed to create another languages.
+
+---
+
+Python since its conception and to the present day is by and large unaware and unaffected by the research that was happening in this field. It only has the most crude tools possible (eg. `string.Template` or third-party libraries like Jinja2). Yet, it seems, like nobody's really upset by it.

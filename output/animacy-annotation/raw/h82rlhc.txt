@@ -1,0 +1,7 @@
+&gt;The Turing test is orders of magnitude more difficult than a customer service chatbot.
+
+Not really.  The premise of the Turing test is that you can't tell the difference between an automation and a human.  It's not a statement on any actual (artificial) intelligence .  In a true Turing test the "customer" is aware that one of the "service agents" he is talking to is human and the other is an automation.  If the customer can guess correctly which is which, the automation fails.
+
+&amp;#x200B;
+
+But the real-world application is even more powerful (IMHO) - which is if an automation can respond like a human, draw out answers from a human, and the human is unaware and unsuspecting that he's talking to an automation, then the automation is a success.

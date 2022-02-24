@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=7
+3	never	never	ADV	RB	_	4	advmod	_	start_char=8|end_char=13
+4	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=21
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=22|end_char=27
+6	so	so	ADV	RB	_	7	advmod	_	start_char=28|end_char=30
+7	selfish	selfish	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=31|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=51
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=52|end_char=56
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=57|end_char=58
+12	would	would	AUX	MD	VerbForm=Fin	13	aux	_	start_char=59|end_char=64
+13	risk	risk	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=65|end_char=69
+14	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=70|end_char=72
+15	childs	child	NOUN	NNS	Number=Plur	16	compound	_	start_char=73|end_char=79
+16	life	life	NOUN	NN	Number=Sing	13	obj	_	start_char=80|end_char=84
+17	.	.	PUNCT	.	_	4	punct	_	start_char=84|end_char=85
+
+1	Religion	religion	NOUN	NN	Number=Sing	2	nsubj	_	start_char=86|end_char=94
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=95|end_char=100
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=101|end_char=107
+4	so	so	ADV	RB	_	5	advmod	_	start_char=108|end_char=110
+5	delusional	delusional	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=111|end_char=121
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=122|end_char=126
+7	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=127|end_char=130
+8	fucking	fucking	NOUN	NN	Number=Sing	9	nsubj	_	start_char=131|end_char=138
+9	scary	scary	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=139|end_char=144
+10	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

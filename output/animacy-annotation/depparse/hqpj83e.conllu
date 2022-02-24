@@ -1,0 +1,34 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=8|end_char=13
+4	for	for	ADP	IN	_	6	case	_	start_char=14|end_char=17
+5	3	3	NUM	CD	NumType=Card	6	nummod	_	start_char=18|end_char=19
+6	years	year	NOUN	NNS	Number=Plur	2	obl	_	start_char=20|end_char=25
+7	but	but	CCONJ	CC	_	10	cc	_	start_char=26|end_char=29
+8	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=30|end_char=31
+9	dont	do	AUX	MD	VerbForm=Fin	10	aux	_	start_char=32|end_char=36
+10	like	like	VERB	VB	VerbForm=Inf	2	conj	_	start_char=37|end_char=41
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=42|end_char=44
+12	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=51
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=52|end_char=53
+3	dont	do	AUX	MD	VerbForm=Fin	5	aux	_	start_char=54|end_char=58
+4	wanna	wanna	AUX	MD	VerbForm=Fin	5	aux	_	start_char=59|end_char=64
+5	judge	judge	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=65|end_char=70
+6	but	but	CCONJ	CC	_	13	cc	_	start_char=71|end_char=74
+7	many	many	ADJ	JJ	Degree=Pos	8	amod	_	start_char=75|end_char=79
+8	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=80|end_char=86
+9	there	there	ADV	RB	PronType=Dem	8	advmod	_	start_char=87|end_char=92
+10	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=93|end_char=94
+11	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=95|end_char=98
+12	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	cop	_	start_char=99|end_char=103
+13	boring	boring	ADJ	JJ	Degree=Pos	1	conj	_	start_char=104|end_char=110
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=111|end_char=114
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=115|end_char=123
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=124|end_char=127
+17	not	not	ADV	RB	_	18	advmod	_	start_char=128|end_char=131
+18	productive	productive	ADJ	JJ	Degree=Pos	13	conj	_	start_char=132|end_char=142
+19	or	or	CCONJ	CC	_	20	cc	_	start_char=143|end_char=145
+20	motivated	motivate	ADJ	JJ	Degree=Pos	18	conj	_	start_char=146|end_char=155
+

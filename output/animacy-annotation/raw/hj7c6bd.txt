@@ -1,0 +1,33 @@
+Wow, thank you for being so thorough!! I'm glad you find all the creature types appropriate, I actually wasn't sure if people would question a lot of them being beasts rather than elementals/monstrosities, for example. As you mentioned, this is an "adaptation" rather than a direct translation, so their stats aren't going to line up exactly to how they are in the games. (But like anything else D&amp;D, a DM is welcome to change anything they wish, this is just my own interpretation)
+
+Squirtle: Good catch.
+
+Zubat/Golbat: Since this version of them is focused on blood-sucking (which I think the Poison type is meant to represent), I opted to not factor in poison damage or resistance, but I'll consider it.
+
+The high/epic-level ones having huge statblocks with tons of features was something I was a bit unsure about; I wanted to make them really epic and memorable and do many things, one-of-a-kind encounters rather than "big bags of hit points" with simple attacks, but combat complexity is be a factor to consider. As mentioned in another comment, "simplified" versions for DMs that want a straightforward fight might be a good idea, in addition to the "complex" versions for DMs that get inspired by it.
+
+Kadabra: This is one of those "personal bias" things, I prefer Kadabra's design with the big bushy tail more than Alakazam's. It could easily be renamed to Alakazam with no other changes, I just didn't see a need for two similar 'all-knowing sages' and chose the one I liked.
+
+Slowpoke/Weezing: They're defensive in Pokemon, but my interpretation here is different. Slowpoke's primary trait is being dopey and unaware of its surroundings, thus it has poor AC, but high HP and an Uncanny Dodge equivalent so it's still annoying to fight. Weezing's a floating ball of toxic gas, so its danger is primarily from exploding (which might happen instantly if the party likes fire/lightning damage!). It actually does have pretty sturdy natural armor - 17 before being reduced by DEX.
+
+Mr. Mime: Was super fun to choose thematic spells for! Wall of Force might be a bit too potent as a barrier when it already has a lot of mime tricks, but it's worth considering. I figured it doesn't need Mage Armor more than once a day anyway, but at-will is probably a better idea.
+
+Ditto: Its Shapechanger does say, "It copies all the target's equipment that is being worn or carried [...] and all copied items disappear when the ditto reverts to its true form." Does it need more specificity? I have to admit, I never would've thought about it duplicating food!
+
+Eevees: Vaporeon/Flareon have super high HP/Attack in Pokemon for game balance, but I try to judge their stats here based on how they compare to an average human (all 10s), or other similar creatures, to keep the numbers in check. Vaporeon does have extra hit dice to compensate. Vaporeon's spells are mostly water control, Flareon's are offensive support, and I figured Jolteon's high speed and ranged attacks would compensate (plus, a lack of flavorful spell options), but I could give it another look.
+
+Kabutops: I totally didn't realize that's how Parry worked, or the connection to Defensive Duelist, thanks!
+
+Snorlax: Because it's such a big, slow target, I felt it made more sense for it to be easy to hit but be able to take a serious beating from its sheer bulk. Likewise, even though it has high Special Defense, the intent for it to be a brute that cares only about eating, hence its average WIS (perhaps x2 proficiency on Keen Smell would work?).
+
+Legendary Birds: At-will Control Weather was something I was going to include as a regional effect/lair action, like the ki-rin in Volo's, but I haven't gotten that far yet.
+
+Dragonite: Since Dragonair/ite are so physically different, rather than one growing into the other, I considered them as separate creatures. They're both neutral good dragons, but otherwise unrelated. Seismic Slam does say "The dragonite piledrives a creature it is grappling into the ground," should it be reiterated?
+
+Mewtwo: I honestly wondered if it was TOO crazy, but as some kind of insane superboss I figured it has that right :P Catapult is on its spell list, but having it at-will works too. Regional effects/lair actions weren't included yet, some effects might be moved there instead (and damage might need adjusting to compensate). I planned to save "change anything to any damage type" for Arceus, and gave Mewtwo an insane spell list instead, which it can cast as a legendary action while using recharge moves on its own turn, but because of its sheer complexity I should probably make a "simplified" version. Scrying isn't a bad idea, but I figured it can already see everything within 2 miles with Creature Sense, Arcane Eye, and Clairvoyance, and it probably wants to be left alone rather than spy on people.
+
+Mew: Another deviation from Pokemon lore, my interpretation is that Mew is something like Arceus' special creation and #2, a celestial/angelic being rather than a 'psychic' one, and not connected to Mewtwo (another reason why it'd be nice to make different names). Technically Mewtwo has more HP from its regeneration (225 + (25 x 3) = 300, by the DMG calculations), but if Mew were ever 'killed' (extraordinarily difficult with all its escape tools), it would re-appear on Mt. Celestia as if nothing happened. Its higher CR mostly comes from being able to deal insane damage with, say, Meteor Swarm and Incendiary Cloud if it *really* wanted to, which Mewtwo doesn't have access to. Mew's Change Shape also retains its own spellcasting ability (which is all but a few spells in the entire game), so I don't think turning into another spellcaster would benefit it, right? Or does that need specifying?
+
+For calculating CR, I started with a target range, then used the info in the Dungeon Master's Guide to calculate effective AC/HP/damage, but in some instances I had to use guesswork. Unfortunately, I have no way of realistically testing all these creatures (don't even have a group that could do it anyway), so I'm just hoping the math all works out.
+
+Thanks again for the review and support! I'll take your thoughts into consideration, let me know if anything further comes to mind :)

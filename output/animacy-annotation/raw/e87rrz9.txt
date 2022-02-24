@@ -1,0 +1,14 @@
+Any piece of software can have security vulnerabilities.
+
+Considering that often times in the Data Science realm you'll be connecting to multiple different disparate source data sets, some being those that are pulled from online sources, you're especially vulnerable.
+
+I'm not a security engineer by any means, but [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed) comes to mind.
+
+Additionally, Python - like most every programming language out there, [has their own security team](https://www.python.org/news/security/) just for these purposes that releases bulletins on the security vulnerabilities in their language that are found. 
+
+When a version of a piece of software is approved by an IT department, it usually goes into a software inventory list. The security team would then begin receiving security notifications for that software/version of the software. Additionally, the download of the software itself will have it's download checked to make sure it downloaded correctly and safely. 
+
+When security vulnerabilities pop up, the security team will grab the hotfixes/patches and deploy them out to those affected users/devices within the company - without you even knowing about it. It's important that security teams keep up with what software is in their environment.
+
+If, for example, your security team didn't know you were using Python - then when something massive like Heartbleed comes about - they may not know to patch it or update/upgrade your version of python or the library python is using that is affected - and now you sit vulnerable, and unaware that you are. 
+

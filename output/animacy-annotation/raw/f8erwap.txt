@@ -1,0 +1,7 @@
+Regarding your first point, here’s what the Moldvay edition of B/X D&amp;D says about adjustments to attack rolls, “Melee combat may occur if the opponents are within 5' of each other. In melee combat, the score needed ‘to hit’ may be adjusted by Strength, magical weapons, **and by occasional special situations.** Unless missile attacks are mentioned, monsters will only engage in melee combat.” (emphasis added). 
+
+As the DM, you would be perfectly within the rules to give a bonus to a non-thief character attacking while unnoticed (personally, I’d give a +2). 
+
+Regarding your second point, it’s precisely because HP do not represent “meat points” that unnoticed thief attacks do double damage *while in combat*. The target’s HP total accounts for the same intangible factors as the PCs’. Remember, the rules for combat cover situations in which the player characters are engaged with opponents and both sides know that the other is trying to kill them. 
+
+However, as the DM, it is perfectly reasonable for you to rule that a character managing to sneak up on a completely unaware and vulnerable target could simply execute the target without rolling to hit or damage.

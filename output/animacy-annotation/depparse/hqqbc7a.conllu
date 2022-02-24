@@ -1,0 +1,15 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=3|end_char=6
+3	not	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=7|end_char=10
+4	intellectually	intellectually	ADV	RB	Degree=Pos	5	advmod	_	start_char=11|end_char=25
+5	disabled	disabled	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=26|end_char=34
+6	,	,	PUNCT	,	_	5	punct	_	start_char=34|end_char=35
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=36|end_char=39
+8	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=39|end_char=42
+9	willfully	willfully	ADV	RB	Degree=Pos	10	advmod	_	start_char=43|end_char=52
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=53|end_char=61
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=62|end_char=65
+12	intellectually	intellectually	ADV	RB	Degree=Pos	13	advmod	_	start_char=66|end_char=80
+13	lazy	lazy	ADJ	JJ	Degree=Pos	10	conj	_	start_char=81|end_char=85
+14	.	.	PUNCT	.	_	5	punct	_	start_char=85|end_char=86
+

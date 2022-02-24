@@ -1,0 +1,23 @@
+Its literally infuriating how ignorant you are.... You are so clueless it hurts to read your BS. I mean how someone can go around living with such ignorant views is just, hard to comprehend.
+
+&gt;Sometimes it only takes 8ms for a new frame to appear because the input was made in the middle of a refresh.
+
+ABSOLUTELY WRONG. You are clearly confused by crappy nvidia marketing for their LDAT crap.
+
+https://www.tftcentral.co.uk/images/nvidia_reflex/5.png
+
+This is Nvidia marketing. You clearly are thinking of "input lag" in terms of including mouse/keyboard inputs, where "new frame appears because of an input". That is not what reviewers mean when they talk about "input lag".... The monitor does not care.
+
+Input lag when it comes to monitors, comes down to one metric. GPU OUTPUT to MONITOR INPUT. That's it.
+
+Your example, happens within the peripheral and pc latency, where your "mouse input" will trigger a change to the render pipeline, BEFORE it goes to the monitor!!!! Which holds no metric to "input lag" in RTINGS and TFTcentral reviews....
+
+INPUT LAG as I stated, only has to do with the monitor itself. How fast it takes the gpu output and turns it into a picture to be seen by your eyes.
+
+RTINGS viewsonic monitor, says 13.5ms at 60hz. This IS NOT system latency, nor pc latency, nor peripheral latency. Its purely "display latency" as per linked picture. IN ORDER TO FIND INPUT LAG, you have to subtract refresh rate from the equation. Because in order to KNOW the input has happened, you have to SEE the image. So that 1hz required to show the image, at 60hz, takes 16.66ms to change. So If I were to get 30.16ms from my testing, I would then subtract 16.66ms in terms of refresh rate to find input lag. Which would be 13.5ms. That is how its done. Rather you like it or not. I actually do testing for a living. DO YOU? I bet you don't. I bet you don't even have the tools to test. And yet you try to gate-keep with your ignorant information.... its just sad. "I'm done with the conversation now" why because you repeat your ignorant statements over and over again you think that magically makes it true? Every reviewer would agree with me if they chimed in. Input Lag for monitors is one metric, and you seem to want it to be something it isn't. 
+
+A monitor cannot stop displaying something just because you triggered a new frame on the back end of things (peripheral/pc latency). A monitor at 60hz will ALWAYS change in 1hz increments every 16.66ms. IT NEVER CHANGES. Unless you change the refresh rate, which then 120hz would be 8.33ms per 1hz. You cannot interrupt those refreshes and display a new frame. Because IF THAT WERE TRUE, I could send 500fps to my 60hz monitor and end up with a 500hz monitor. THAT IS HOW IGNRANT YOU ARE. And how WRONG you are.
+
+As far as "both being wrong" well in my testing I generally end up matching TFTcentral results to the number. RTINGS is where I get pissed off because their results are bs. And they admitted to "making their own tool" which clearly their tool is a POS.
+
+And feel free to be "done" because I am blocking you for being ignorant and annoying. Imagine living in a world where ignorance is accepted as being smart and truly smart people, who have FACTS to back up their claims, are ignored and even downvoted on websites like reddit by the ignorant. You absolutely have no clue what you are talking about. You have no idea how technology works. And it shows.

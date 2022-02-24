@@ -1,0 +1,31 @@
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=0|end_char=6
+2	in	in	ADP	IN	_	3	case	_	start_char=7|end_char=9
+3	who	who	PRON	WP	PronType=Rel	1	nmod	_	start_char=10|end_char=13
+4	ride	ride	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=18
+5	bikes	bike	NOUN	NNS	Number=Plur	4	obj	_	start_char=19|end_char=24
+6	in	in	ADP	IN	_	7	case	_	start_char=25|end_char=27
+7	roads	road	NOUN	NNS	Number=Plur	4	obl	_	start_char=28|end_char=33
+8	with	with	ADP	IN	_	12	case	_	start_char=34|end_char=38
+9	no	no	DET	DT	Polarity=Neg	12	det	_	start_char=39|end_char=41
+10	designated	designate	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	start_char=42|end_char=52
+11	bike	bike	NOUN	NN	Number=Sing	12	compound	_	start_char=53|end_char=57
+12	lane	lane	NOUN	NN	Number=Sing	4	obl	_	start_char=58|end_char=62
+13	.	.	PUNCT	.	_	4	punct	_	start_char=62|end_char=63
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=64|end_char=65
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=66|end_char=70
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=71|end_char=73
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=73|end_char=75
+5	legal	legal	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=76|end_char=81
+6	in	in	ADP	IN	_	8	case	_	start_char=82|end_char=84
+7	some	some	DET	DT	_	8	det	_	start_char=85|end_char=89
+8	places	place	NOUN	NNS	Number=Plur	5	obl	_	start_char=90|end_char=96
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=97|end_char=99
+10	just	just	ADV	RB	_	11	advmod	_	start_char=100|end_char=104
+11	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=105|end_char=110
+12	incredibly	incredibly	ADV	RB	_	13	advmod	_	start_char=111|end_char=121
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=122|end_char=130
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=131|end_char=134
+15	dangerous	dangerous	ADJ	JJ	Degree=Pos	13	conj	_	start_char=135|end_char=144
+16	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

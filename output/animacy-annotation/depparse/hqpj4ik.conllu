@@ -1,0 +1,45 @@
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=4
+2	n't	not	PART	RB	_	3	advmod	_	start_char=4|end_char=7
+3	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=13|end_char=16
+5	should	should	AUX	MD	VerbForm=Fin	7	aux	_	start_char=17|end_char=23
+6	n't	not	PART	RB	_	7	advmod	_	start_char=23|end_char=26
+7	buy	buy	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=27|end_char=30
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=31|end_char=33
+9	though	though	ADV	RB	_	7	advmod	_	start_char=34|end_char=40
+10	.	.	PUNCT	.	_	3	punct	_	start_char=40|end_char=41
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=42|end_char=46
+2	know	know	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=47|end_char=51
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=52|end_char=55
+4	process	process	NOUN	NN	Number=Sing	2	obj	_	start_char=56|end_char=63
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=64|end_char=67
+6	cost	cost	NOUN	NN	Number=Sing	4	conj	_	start_char=68|end_char=72
+7	to	to	ADP	IN	_	8	case	_	start_char=73|end_char=75
+8	repair	repair	NOUN	NN	Number=Sing	4	nmod	_	start_char=76|end_char=82
+9	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=84|end_char=85
+2	high	high	ADJ	JJ	Degree=Pos	3	amod	_	start_char=86|end_char=90
+3	%	%	SYM	NN	Number=Sing	7	nsubj	_	start_char=91|end_char=92
+4	of	of	ADP	IN	_	5	case	_	start_char=93|end_char=95
+5	buyers	buyer	NOUN	NNS	Number=Plur	3	nmod	_	start_char=96|end_char=102
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=103|end_char=106
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=107|end_char=115
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=116|end_char=119
+9	scared	scared	ADJ	JJ	Degree=Pos	7	conj	_	start_char=120|end_char=126
+10	of	of	ADP	IN	_	12	case	_	start_char=127|end_char=129
+11	structural	structural	ADJ	JJ	Degree=Pos	12	amod	_	start_char=130|end_char=140
+12	issues	issue	NOUN	NNS	Number=Plur	9	obl	_	start_char=141|end_char=147
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=148|end_char=151
+14	that	that	PRON	DT	Number=Sing|PronType=Dem	15	nsubj	_	start_char=152|end_char=156
+15	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=157|end_char=162
+16	those	that	PRON	DT	Number=Plur|PronType=Dem	15	obj	_	start_char=163|end_char=168
+17	who	who	PRON	WP	PronType=Rel	22	nsubj	_	start_char=169|end_char=172
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=173|end_char=176
+19	n't	not	PART	RB	_	22	advmod	_	start_char=176|end_char=179
+20	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=180|end_char=181
+21	huge	huge	ADJ	JJ	Degree=Pos	22	amod	_	start_char=182|end_char=186
+22	advantage	advantage	NOUN	NN	Number=Sing	16	acl:relcl	_	start_char=187|end_char=196
+23	.	.	PUNCT	.	_	7	punct	_	start_char=196|end_char=197
+

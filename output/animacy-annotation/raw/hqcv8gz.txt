@@ -1,0 +1,23 @@
+Ironically, most of the people who talk about the Dunning Kruger effect online are using it a little bit wrong and misunderstanding what the study actually showed.
+
+The way it's usually described online is that people with no knowledge think they are experts in a subject, and as people gain knowledge in subject their self assessment drops (due to recognizing that they don't know a lot about a subject), and gradually rises as they become experts in said subject.
+
+You see a lot of [graphs like this one] with cute names like "Mount Stupid", "Slope of Enlightenment" etc.
+
+None of that is really what the initial study indicated, and those graphs do not represent what was found during the study.
+
+Here's a link to the actual study:
+
+- Kruger &amp; Dunning 2000 *[Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments](https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One's_Own_Incompetence_Lead_to_Inflated_Self-Assessments)*.
+
+And here's what the [actual graph shows](https://i2.wp.com/jerz.setonhill.edu/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-2.09.56-PM.png).
+
+In short, what the study found is that, when self assessment of knowledge and competence in a subject are compared with test results in a subject everyone tends to assume that they themselves are somewhere close to the "average" level of knowledge and competence.  People with less knowledge do assess themselves lower than experts, but they place themselves much closer to the average than their skill level justifies.  Similarly, experts do rank their own knowledge higher than average, but they also tend to underestimate their own level of knowledge and place themselves closer to the "average".
+
+The difference between self assessment and actual competence is greatest in those with little knowledge of a subject, and is easiest for others to see, but in Dunning &amp; Kruger's results it those people didn't place themselves above experts in their self assessment.
+
+Part of the misunderstanding of the results is due to how the authors framed the conclusions:
+
+&gt;In sum, we present this article as an exploration into why people tend to hold overly optimistic and miscalibrated views about themselves. We propose that those with limited knowledge in a domain suffer a dual burden: Not only do they reach mistaken conclusions and make regrettable errors, but their incompetence robs them of the ability to realize it.
+
+It's an accurate description and conclusion, but some important aspects of the nuance are missing, and in the time of media, memes, and soundbytes we don't pay as much attention to nuance and detail as we probably should.

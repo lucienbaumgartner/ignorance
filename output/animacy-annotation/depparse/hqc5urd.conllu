@@ -1,0 +1,52 @@
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=6
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=6|end_char=9
+4	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=10|end_char=17
+5	in	in	ADP	IN	_	7	case	_	start_char=18|end_char=20
+6	sexual	sexual	ADJ	JJ	Degree=Pos	7	amod	_	start_char=21|end_char=27
+7	intercourse	intercourse	NOUN	NN	Number=Sing	4	obl	_	start_char=28|end_char=39
+8	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=41|end_char=42
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=43|end_char=47
+3	not	not	PART	RB	_	4	advmod	_	start_char=48|end_char=51
+4	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=52|end_char=63
+5	coitus	coitus	NOUN	NN	Number=Sing	4	obj	_	start_char=64|end_char=70
+6	with	with	ADP	IN	_	8	case	_	start_char=71|end_char=75
+7	another	another	DET	DT	_	8	det	_	start_char=76|end_char=83
+8	human	human	ADJ	JJ	Degree=Pos	4	obl	_	start_char=84|end_char=89
+9	.	.	PUNCT	.	_	4	punct	_	start_char=89|end_char=90
+
+1	fornication	fornication	NOUN	NN	Number=Sing	4	nsubj	_	start_char=91|end_char=102
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=103|end_char=105
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=105|end_char=108
+4	something	something	PRON	NN	Number=Sing	0	root	_	start_char=109|end_char=118
+5	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=119|end_char=120
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=121|end_char=125
+7	any	any	DET	DT	_	8	det	_	start_char=126|end_char=129
+8	experience	experience	NOUN	NN	Number=Sing	6	obj	_	start_char=130|end_char=140
+9	in	in	ADP	IN	_	6	obl	_	start_char=141|end_char=143
+10	.	.	PUNCT	.	_	4	punct	_	start_char=143|end_char=144
+
+1	pick	pick	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=145|end_char=149
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=150|end_char=154
+3	favorite	favorite	ADJ	JJ	Degree=Pos	4	amod	_	start_char=155|end_char=163
+4	idc	idc	NOUN	NN	Number=Sing	1	obj	_	start_char=164|end_char=167
+
+1	also	also	ADV	RB	_	4	advmod	_	start_char=169|end_char=173
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	_	start_char=174|end_char=177
+3	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=178|end_char=181
+4	ratioed	ratio	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=182|end_char=189
+5	because	because	SCONJ	IN	_	8	mark	_	start_char=190|end_char=197
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=198|end_char=201
+7	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=201|end_char=204
+8	sexist	sexist	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=205|end_char=211
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=212|end_char=215
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=216|end_char=223
+11	of	of	ADP	IN	_	12	case	_	start_char=224|end_char=226
+12	how	how	SCONJ	WRB	PronType=Int	10	obl	_	start_char=227|end_char=230
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=231|end_char=234
+14	human	human	ADJ	JJ	Degree=Pos	15	amod	_	start_char=235|end_char=240
+15	body	body	NOUN	NN	Number=Sing	16	nsubj	_	start_char=241|end_char=245
+16	behaves	behave	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=246|end_char=253
+

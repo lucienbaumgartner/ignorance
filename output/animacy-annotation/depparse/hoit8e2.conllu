@@ -1,0 +1,22 @@
+1	After	after	SCONJ	IN	_	2	mark	_	start_char=0|end_char=5
+2	scrolling	scrol	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=6|end_char=15
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=16|end_char=19
+4	reading	read	VERB	VBG	VerbForm=Ger	2	conj	_	start_char=20|end_char=27
+5	most	most	ADJ	JJS	Degree=Sup	4	obj	_	start_char=28|end_char=32
+6	of	of	ADP	IN	_	8	case	_	start_char=33|end_char=35
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=36|end_char=40
+8	comments	comment	NOUN	NNS	Number=Plur	5	obl	_	start_char=41|end_char=49
+9	...	...	PUNCT	,	_	13	punct	_	start_char=49|end_char=52
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=53|end_char=56
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=56|end_char=59
+12	so	so	ADV	RB	_	13	advmod	_	start_char=60|end_char=62
+13	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=68
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=69|end_char=72
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=73|end_char=81
+16	.	.	PUNCT	.	_	13	punct	_	start_char=81|end_char=82
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=83|end_char=87
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=88|end_char=90
+3	all	all	DET	DT	_	0	root	_	start_char=91|end_char=94
+4	.	.	PUNCT	.	_	3	punct	_	start_char=94|end_char=95
+

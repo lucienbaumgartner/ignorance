@@ -127,8 +127,8 @@ names(Lurls) <- search.terms$word
 ## as a starting point. If the calls do not
 ## produce usable observations, we induce
 ## a time jump of a day (480000 utc units).
-for(m in search.terms$word){
-  #m <- search.terms$word[1]
+for(m in search.terms$word[1:6]){
+  #m <- search.terms$word[3]
   urls <- Lurls[[m]] # extract root of API call
   print(m)
   ## ---------------------------
@@ -184,7 +184,7 @@ for(m in search.terms$word){
     
     ## ---------------------------
     ## Text mining to filter out the target structures BY LEXICAL CONTENT
-    .word <- tolower(stri_extract(regex='(?<=22)(.*)(?=\\%20)',str=urls)) # regex
+    .word <- tolower(stri_extract(regex='Ignorant|Unaware',str=urls)) # regex
     .lookup <- paste0(paste0('(\\w+(\\,)?\\s\\band\\b\\s\\b', .word, '\\b', ')|(\\b', .word, '\\b'), '(\\,)?\\s\\band\\b\\s\\w+)', collapse = '|')
     
     ## Mining Operation
@@ -258,7 +258,7 @@ for(m in search.terms$word){
       write.csv(df, file=out, row.names = F)
       print(nrow(df))
       ## Update the log for the while loop
-      rowLOG <- !nrow(df) >= 100
+      rowLOG <- !nrow(df) >= 3000
     }
     ## Udate iteration index
     its <- its + 1

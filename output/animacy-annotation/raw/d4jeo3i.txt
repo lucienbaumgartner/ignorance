@@ -1,0 +1,19 @@
+&gt; Unrolling parameters from an associative array also doesn't make something more or less anemic. 
+
+I disagree. Throwing in some 'bag' of 'stuff' is bad design. You need to have knowledge of the internal implementation to use it 'the right way'
+
+&gt; It won't help to unroll the parameters, it'll only add verbosity to the code.
+
+That's a _good_ thing. Unrolling parameters is bad until we get proper named parameters in php. Until then I'd much rather explicitly force my consumer to know what the arguments are, instead of just 'winging it'.
+
+&gt; There are three classes in total, so "everything" is two classes extending Item, for the obvious reason that they have the same base fields. Not exactly a bad thing to do. 
+
+A very bad thing to do. It makes the developer lazy and unaware that they're _not_ the same thing. This type of inheritance is exactly why I banned the usage of `extends` in my previous project. Inheritance for the sake of laziness is an anti-pattern and a refactor nightmare. Yes, inheritance has its place in OOP, but not for code-reuse. 
+
+&gt; They already might be. There's no type restriction on them.
+
+That is exactly my problem.
+
+&gt; What exactly would the injected strategy be here? If I want a summary, I probably wouldn't want the result to be arbitrary depending on what strategy was set for summary generation during construction. I'd want predictable output.
+
+A lot of assumptions. One of the strategies could be "the first paragraph". One could be "max amount of characters". One could be "max amount of words". If we are talking example here, this would be a great chance to show the power of interfaces.

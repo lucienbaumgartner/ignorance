@@ -1,0 +1,15 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	genuinely	genuinely	ADV	RB	_	4	advmod	_	start_char=8|end_char=17
+4	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=40
+7	of	of	ADP	IN	_	8	case	_	start_char=41|end_char=43
+8	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=44|end_char=51
+9	.	.	PUNCT	.	_	4	punct	_	start_char=51|end_char=52
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=53|end_char=59
+2	seek	seek	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=60|end_char=64
+3	help	help	NOUN	NN	Number=Sing	2	obj	_	start_char=65|end_char=69
+4	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+

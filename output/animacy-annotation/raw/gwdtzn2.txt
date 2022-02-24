@@ -1,0 +1,33 @@
+Bro, get the fuck out of here, seriously.
+
+&gt;Your right this sub is full of morons. 
+
+God. The irony.
+
+&gt;If you honestly believe they have time to do that or you think its that easy. You are naive and ignorant of video game development. 
+
+I have 15 years in Software Development, Project Management and IT Management. You don't get to tell me I'm ignorant about the subject matter.
+
+&gt;And if you have some experience in the field then you truly are ignorant and i feel sorry for you.
+
+Save your false pity for someone who gives a shit.
+
+&gt;The way the system currently works is that the kick function is controlled client side and not server side. 
+
+You don't actually know this, you have no visibility over the code.
+
+&gt;So when should the flag be triggered to prevent a clientside function from being executed? 
+
+When the expedition reaches the final stage, just like a flag is raised to prevent someone from joining at that point.
+
+&gt;Also the post game team have bigger actual problems to deal with so again they wont touch this for a while and even if they do itll be a bandage solution thatll probably wont work long term. 
+
+Ok so let me give you a lesson on management. A short, crash course.
+
+When large software bugs are preventing a program from performing up to expectations, the relevant teams meet up, discuss the problems one by one and give them priorities. That doesn't mean they shut out everything else. Bug report continues and compiling these problems means new ones can pop up that supersede the ones that were initially categorized or depending on the difficulty to fix them and progress on other tasks, an specific individual or individuals are put to work on that.
+
+In short, whatever you're trying to say, and trust me; it's really cute that you try, it's wrong and not how any serious software development team operates.
+
+&gt;And another point: this isnt a technial problem to begin with. Its literally a social/morale problem in terms of kicking people from games at the wrong time.
+
+Pro tip: if players or users are or can be assholes, you have to take the possibility of doing it from them.

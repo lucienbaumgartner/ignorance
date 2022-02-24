@@ -1,0 +1,29 @@
+1	Failure	failure	NOUN	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=10
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	start_char=11|end_char=14
+4	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=20
+5	,	,	PUNCT	,	_	4	punct	_	start_char=20|end_char=21
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=22|end_char=26
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=27|end_char=30
+8	all	all	ADV	RB	_	10	advmod	_	start_char=31|end_char=34
+9	genuinely	genuinely	ADV	RB	_	10	advmod	_	start_char=35|end_char=44
+10	delusional	delusional	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=45|end_char=55
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=60|end_char=68
+13	of	of	ADP	IN	_	15	case	_	start_char=69|end_char=71
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=72|end_char=77
+15	shortcomings	shortcomings	NOUN	NNS	Number=Plur	12	obl	_	start_char=78|end_char=90
+16	.	.	PUNCT	.	_	4	punct	_	start_char=90|end_char=91
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=92|end_char=93
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=98
+3	children	child	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=99|end_char=107
+4	of	of	ADP	IN	_	7	case	_	start_char=108|end_char=110
+5	much	much	ADV	RB	_	6	advmod	_	start_char=111|end_char=115
+6	bigger	big	ADJ	JJR	Degree=Cmp	7	amod	_	start_char=116|end_char=122
+7	stars	star	NOUN	NNS	Number=Plur	3	nmod	_	start_char=123|end_char=128
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=129|end_char=133
+9	better	good	ADJ	JJR	Degree=Cmp	11	amod	_	start_char=134|end_char=140
+10	self	self	NOUN	NN	Number=Sing	11	compound	_	start_char=141|end_char=145
+11	realization	realization	NOUN	NN	Number=Sing	8	obj	_	start_char=146|end_char=157
+

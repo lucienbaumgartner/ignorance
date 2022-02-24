@@ -1,0 +1,29 @@
+Your team might work in low ladder, but then again so will anything.  Anyone above that will make quick work of you.  In LC reliable priority is very valuable, as well as ways to break through sashes/sturdy.  An easy way to fix the second part is use entry hazards on your team.  Fake out is not reliable priority as it doesn't hit ghosts and can only be used first turn.  Mienfoo is good for chip damage and momentum, but fake out can't be your only priority since sweepers are very common.  A big part about team building is thinking about what beats your team, and figuring out how to beat that.
+
+A good start is always the viability rankings: [https://www.smogon.com/forums/threads/usm-lc-viability-rankings.3621440/](https://www.smogon.com/forums/threads/usm-lc-viability-rankings.3621440/).  This shows what stands out among the others and you will likely see a lot of the ones that are higher up.
+
+Honestly, your Magby set is nearly useless.  Belly drum is fine, but you need to run less HP IVs that way your berry juice pops after you belly drum and you can get back to full to tank a hit.  Flame charge is useless here. Magby already has good speed and you'll almost never get to get a flame charge off.  If you're still keen on using Magby you need to change its attacks.  Rhyhorn and Onyx can tank him even at +6 attack and fire back.   
+
+\&gt; **+6 236 Atk Magby Fire Punch vs. 76 HP / 0 Def Onix: 12-15 (57.1 - 71.4\%) -- guaranteed 2HKO**   
+
+\&gt; **+6 236 Atk Magby Fire Punch vs. 76 HP / 76 Def Rhyhorn: 16-19 (64 - 76\%) -- guaranteed 2HKO**   
+
+\&gt;  2**36 Atk Magby Return vs. 76 HP / 236 Def Eviolite Wooper: 6-8 (26 - 34.7\%) -- 0.9\% chance to 3HKO** 
+
+So here you "coverage" move is useless and you're dead to a rock blast/eq.  Use Belly drum, mach punch, fire punch, and return if you're using Magby.  But personally I would scrap him for a useful revenge killer.
+
+I can't speak for 7th gen threats LC, because I stopped playing the tier a few years ago, but it used to be my most played in 5th gen.  But if your friend told you he's using 2 setup sweepers, consider using a Wooper on your team with unaware and toxic/recover.  Lastly, below is the EV spreads you need for stat changes:
+
+ If the Base Stat number ends in # then - x/y/z EVs are required required for 1/2/3/4 stat point gain:  
+3 - 12/92/172/252 EVs  
+4 - 4/84/164/244 EVs  
+5 - 76/156/236 EVs  
+6 - 68/148/228 EVs  
+7 - 60/140/220 EVs  
+8 - 52/132/212 EVs  
+9 - 44/124/204 EVs  
+0 - 36/116/196 EVs  
+1 - 28/108/188 EVs  
+2 - 20/100/180 EVs   
+
+Hope this helped a little.  Good luck beating your friend.  

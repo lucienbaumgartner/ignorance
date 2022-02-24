@@ -1,0 +1,51 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=9|end_char=12
+4	freedom	freedom	NOUN	NN	Number=Sing	2	obj	_	start_char=13|end_char=20
+5	to	to	PART	TO	_	6	mark	_	start_char=21|end_char=23
+6	think	think	VERB	VB	VerbForm=Inf	4	acl	_	start_char=24|end_char=29
+7	what	what	PRON	WP	PronType=Int	9	obj	_	start_char=30|end_char=34
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=35|end_char=38
+9	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=39|end_char=43
+10	about	about	ADP	IN	_	11	case	_	start_char=44|end_char=49
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	start_char=50|end_char=52
+12	.	.	PUNCT	.	_	2	punct	_	start_char=52|end_char=53
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=54|end_char=55
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=56|end_char=58
+3	not	not	PART	RB	_	4	advmod	_	start_char=59|end_char=62
+4	care	care	VERB	VB	VerbForm=Inf	0	root	_	start_char=63|end_char=67
+5	about	about	ADP	IN	_	7	case	_	start_char=68|end_char=73
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=74|end_char=78
+7	opinions	opinion	NOUN	NNS	Number=Plur	4	obl	_	start_char=79|end_char=87
+8	,	,	PUNCT	,	_	11	punct	_	start_char=87|end_char=88
+9	which	which	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=89|end_char=94
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=95|end_char=98
+11	subjective	subjective	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=99|end_char=109
+12	.	.	PUNCT	.	_	4	punct	_	start_char=109|end_char=110
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=111|end_char=113
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=114|end_char=117
+3	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=118|end_char=122
+4	nothing	nothing	PRON	NN	Number=Sing	3	obj	_	start_char=123|end_char=130
+5	objective	objective	ADJ	JJ	Degree=Pos	4	amod	_	start_char=131|end_char=140
+6	here	here	ADV	RB	PronType=Dem	5	advmod	_	start_char=141|end_char=145
+7	.	.	PUNCT	.	_	3	punct	_	start_char=145|end_char=146
+
+1	With	with	ADP	IN	_	2	case	_	start_char=148|end_char=152
+2	all	all	DET	DT	_	0	root	_	start_char=153|end_char=156
+3	that	that	PRON	WDT	PronType=Rel	5	obj	_	start_char=157|end_char=161
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=162|end_char=165
+5	show	show	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=166|end_char=170
+6	signs	sign	NOUN	NNS	Number=Plur	5	obj	_	start_char=171|end_char=176
+7	that	that	PRON	WDT	PronType=Rel	10	mark	_	start_char=177|end_char=181
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=182|end_char=185
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=186|end_char=189
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=190|end_char=198
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=199|end_char=202
+12	arrogant	arrogant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=203|end_char=211
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=212|end_char=215
+14	nothing	nothing	PRON	NN	Number=Sing	10	conj	_	start_char=216|end_char=223
+15	more	more	ADV	RBR	Degree=Cmp	14	amod	_	start_char=224|end_char=228
+16	.	.	PUNCT	.	_	2	punct	_	start_char=228|end_char=229
+

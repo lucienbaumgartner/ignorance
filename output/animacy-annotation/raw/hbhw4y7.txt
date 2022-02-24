@@ -1,0 +1,7 @@
+Everything seems to resolve correctly. 
+
+When I “ping machine name” I get it’s correct static ip, when I do a “ping -a IP address” I get the correct machine name.
+
+This is the same for all machines we see the issue on.  
+
+For clarification things were fine, and unaware of any DNS changes.

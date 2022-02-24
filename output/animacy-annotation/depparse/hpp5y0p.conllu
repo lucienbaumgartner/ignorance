@@ -1,0 +1,90 @@
+1	\&gt	\&gt	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	;	;	PUNCT	:	_	1	punct	_	start_char=4|end_char=5
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=5|end_char=9
+2	argument	argument	NOUN	NN	Number=Sing	4	nsubj	_	start_char=10|end_char=18
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=19|end_char=21
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=41
+7	of	of	ADP	IN	_	9	case	_	start_char=42|end_char=44
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=45|end_char=48
+9	understanding	understanding	NOUN	NN	Number=Sing	6	obl	_	start_char=49|end_char=62
+10	that	that	SCONJ	IN	_	18	mark	_	start_char=63|end_char=67
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=68|end_char=71
+12	Government	government	NOUN	NN	Number=Sing	18	nsubj	_	start_char=72|end_char=82
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=83|end_char=85
+14	just	just	ADV	RB	_	18	advmod	_	start_char=86|end_char=90
+15	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=91|end_char=92
+16	continually	continually	ADV	RB	_	17	advmod	_	start_char=93|end_char=104
+17	growing	grow	VERB	VBG	VerbForm=Ger	18	amod	_	start_char=105|end_char=112
+18	monster	monster	NOUN	NN	Number=Sing	9	acl	_	start_char=113|end_char=120
+19	.	.	PUNCT	.	_	4	punct	_	start_char=120|end_char=121
+
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=123|end_char=126
+2	.	.	PUNCT	.	_	1	punct	_	start_char=126|end_char=127
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=128|end_char=132
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=133|end_char=135
+3	exactly	exactly	ADV	RB	_	5	advmod	_	start_char=136|end_char=143
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=144|end_char=146
+5	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=147|end_char=152
+6	.	.	PUNCT	.	_	5	punct	_	start_char=152|end_char=153
+
+1	People	person	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=154|end_char=160
+2	claiming	claim	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=161|end_char=169
+3	Trump	Trump	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=170|end_char=175
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=176|end_char=179
+5	some	some	DET	DT	_	6	det	_	start_char=180|end_char=184
+6	sort	sort	NOUN	NN	Number=Sing	11	nsubj	_	start_char=185|end_char=189
+7	of	of	ADP	IN	_	8	case	_	start_char=190|end_char=192
+8	savior	savior	NOUN	NN	Number=Sing	6	nmod	_	start_char=193|end_char=199
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=200|end_char=202
+10	absolutely	absolutely	ADV	RB	_	11	advmod	_	start_char=203|end_char=213
+11	retarded	retarded	ADJ	JJ	Degree=Pos	0	root	_	start_char=214|end_char=222
+12	.	.	PUNCT	.	_	11	punct	_	start_char=222|end_char=223
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=224|end_char=226
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=227|end_char=230
+3	just	just	ADV	RB	_	5	advmod	_	start_char=231|end_char=235
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=236|end_char=237
+5	continuation	continuation	NOUN	NN	Number=Sing	0	root	_	start_char=238|end_char=250
+6	of	of	ADP	IN	_	9	case	_	start_char=251|end_char=253
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=254|end_char=257
+8	status	status	NOUN	NN	Number=Sing	9	compound	_	start_char=258|end_char=264
+9	quo	quo	NOUN	NN	Number=Sing	5	nmod	_	start_char=265|end_char=268
+10	.	.	PUNCT	.	_	5	punct	_	start_char=268|end_char=269
+
+1	Also	also	ADV	RB	_	0	root	_	start_char=271|end_char=275
+2	,	,	PUNCT	,	_	1	punct	_	start_char=275|end_char=276
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=277|end_char=279
+2	literally	literally	ADV	RB	_	3	advmod	_	start_char=280|end_char=289
+3	campaigned	campaign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=290|end_char=300
+4	on	on	SCONJ	IN	_	5	mark	_	start_char=301|end_char=303
+5	eliminating	eliminate	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=304|end_char=315
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=316|end_char=319
+7	national	national	ADJ	JJ	Degree=Pos	8	amod	_	start_char=320|end_char=328
+8	debt	debt	NOUN	NN	Number=Sing	5	obj	_	start_char=329|end_char=333
+9	,	,	PUNCT	,	_	13	punct	_	start_char=333|end_char=334
+10	but	but	CCONJ	CC	_	13	cc	_	start_char=335|end_char=338
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=339|end_char=341
+12	only	only	ADV	RB	_	13	advmod	_	start_char=342|end_char=346
+13	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=347|end_char=351
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=352|end_char=354
+15	grow	grow	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=355|end_char=359
+16	.	.	PUNCT	.	_	3	punct	_	start_char=359|end_char=360
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=361|end_char=368
+2	getting	get	AUX	VBG	VerbForm=Ger	3	aux:pass	_	start_char=369|end_char=376
+3	schooled	school	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=377|end_char=385
+4	on	on	ADP	IN	_	6	case	_	start_char=386|end_char=388
+5	American	American	ADJ	JJ	Degree=Pos	6	amod	_	start_char=389|end_char=397
+6	Politics	Politics	PROPN	NNP	Number=Sing	3	obl	_	start_char=398|end_char=406
+7	by	by	ADP	IN	_	10	case	_	start_char=407|end_char=409
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=410|end_char=411
+9	fucking	fucking	ADJ	JJ	Degree=Pos	10	amod	_	start_char=412|end_char=419
+10	Canadian	Canadian	ADJ	JJ	Degree=Pos	3	obl	_	start_char=420|end_char=428
+11	lol	lol	INTJ	UH	_	1	discourse	_	start_char=429|end_char=432
+12	.	.	PUNCT	.	_	1	punct	_	start_char=432|end_char=433
+

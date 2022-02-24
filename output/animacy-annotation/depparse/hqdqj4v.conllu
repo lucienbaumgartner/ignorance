@@ -1,0 +1,42 @@
+1	In	in	ADP	IN	_	4	case	_	start_char=0|end_char=2
+2	Harry	Harry	PROPN	NNP	Number=Sing	4	compound	_	start_char=3|end_char=8
+3	Potter	Potter	PROPN	NNP	Number=Sing	2	flat	_	start_char=9|end_char=15
+4	universe	universe	NOUN	NN	Number=Sing	8	obl	_	start_char=16|end_char=24
+5	,	,	PUNCT	,	_	8	punct	_	start_char=24|end_char=25
+6	muggles	muggle	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=26|end_char=33
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=34|end_char=37
+8	humans	human	NOUN	NNS	Number=Plur	0	root	_	start_char=38|end_char=44
+9	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=45|end_char=48
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=49|end_char=52
+11	incapable	incapable	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=53|end_char=62
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=63|end_char=66
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=67|end_char=75
+14	of	of	ADP	IN	_	15	case	_	start_char=76|end_char=78
+15	magic	magic	NOUN	NN	Number=Sing	13	obl	_	start_char=79|end_char=84
+16	.	.	PUNCT	.	_	8	punct	_	start_char=84|end_char=85
+
+1	Squibs	squib	NOUN	NNS	Number=Plur	3	nsubj:pass	_	start_char=86|end_char=92
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=93|end_char=96
+3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=97|end_char=101
+4	to	to	ADP	IN	_	5	case	_	start_char=102|end_char=104
+5	non-muggles	non-muggles	ADJ	JJ	Degree=Pos	3	obl	_	start_char=105|end_char=116
+6	but	but	CCONJ	CC	_	8	cc	_	start_char=117|end_char=120
+7	cannot	cannot	AUX	MD	VerbForm=Fin	8	aux	_	start_char=121|end_char=127
+8	perform	perform	VERB	VB	VerbForm=Inf	3	conj	_	start_char=128|end_char=135
+9	magic	magic	NOUN	NN	Number=Sing	8	obj	_	start_char=136|end_char=141
+10	.	.	PUNCT	.	_	3	punct	_	start_char=141|end_char=142
+
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=144|end_char=148
+2	Harry	Harry	PROPN	NNP	Number=Sing	1	iobj	_	start_char=149|end_char=154
+3	Potter	Potter	PROPN	NNP	Number=Sing	2	flat	_	start_char=155|end_char=161
+4	books	book	NOUN	NNS	Number=Plur	1	obj	_	start_char=162|end_char=167
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=168|end_char=169
+6	try	try	NOUN	NN	Number=Sing	1	obj	_	start_char=170|end_char=173
+7	.	.	PUNCT	.	_	1	punct	_	start_char=173|end_char=174
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=175|end_char=178
+2	never	never	ADV	RB	_	4	advmod	_	start_char=179|end_char=184
+3	too	too	ADV	RB	_	4	advmod	_	start_char=185|end_char=188
+4	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=189|end_char=192
+5	.	.	PUNCT	.	_	4	punct	_	start_char=192|end_char=193
+

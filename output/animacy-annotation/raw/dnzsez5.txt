@@ -1,0 +1,3 @@
+Stealth multiplier and damages only apply when targets are unaware and unalerted. The very fact of Saryn casting spore on a target makes them alerted and aware. Even if you do manage to blind them or put them in a defenseless state to enable a finisher attack, it won't be a stealth finisher and you will either lose stealth multiplier or not gain any.  
+  
+

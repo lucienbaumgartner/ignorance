@@ -1,0 +1,77 @@
+&gt;And Cortana couldn’t do that?
+
+Honestly, post-343i cortana definitely can IMO, and easily. But I don't think old Cortana could do that.
+
+&gt;The only time the effects of MJOLNIR’s stat multiplication was ever stated by a character was by Halsey. Every other instance was from narration/out of universe source. Therefore it’s not a word of character, by definition.
+
+I know that at least one of the other sources was Halsey's journal so that's character too right? I think Halo Encyclopedia also has a mention, but that's cancelled out by its explicit statement of 5x multiplication which we know goes against the feats. Is there anything else I'm missing?
+
+&gt;This is stupid because not every person who wears the suit has the same strength or speed, in fact they make a point to denote noticeable gaps between the strengths and weaknesses of Spartans compared to one another.
+
+No that's my point my good man. If the armor had a fixed amount of power that it could bring to bear via CNS signal control, and that amount is multiple times that of a SPARTAN II, then it would
+
+1) justify, albeit loosely, the term "force multiplying circuits". I acknowledge that the interpretation is fairly loose here but I do think it wouldn't be a total misnomer
+
+2) explain why normal humans break themselves even though 5x normal fit human strength isn't enough - their CNS signals are tapping into the suit's SPARTAN level strength which is what's breaking them bones.
+
+&gt;Why not just call it what it allegedly is then if it’s secretly this very straightforward and ununique technology that doesn’t do anything that doesn’t already exist, let alone the main thing it’s marketed as doing?
+
+What would you call such a thing then, while making it sound reasonably not-lame? Fixed-quantity strength-increasing circuits? Circuits that can apply force equal to multiple times that of a SPARTAN II? What would you actually call the thing to reflect the fact that it can bring to bear multiple times the strength of a Spartan? I'm not being facetious. I actually can't think of a good name to call it. Strength-increasing circuit is just too generic and doesn't reflect its capabilities, because we know that spartan 2s could overpower mark 3 mjolnirs, which had normal strength increasing hardware, with their bare hands. The mark 4's raw strength marked a quantum leap from the previous strength increasing hardware and justifies a better name. If you wanted a term that adequately reflected the immense strength of MJOLNIR mark 4, without making it sound stupid, what would you call it? Sincerely, I would call it strength multiplying circuits, which isn't far off from force multiplying circuits.
+
+Anyway, that's my answer to why they don't just call it what it is.
+
+&gt;Before Halsey even had a clue how strong her Spartans were, she said that the armor doubled the wearer’s strength. I guess she’s either trolling or secretly an idiot if somehow she forgot that her Spartans were massively stronger than before, even more than she expected.
+
+Wait what? Mendez had already reported the Spartan IIs' post-augmentation physical strength before she remarked that the armor doubles their strength.
+
+&gt;Then it’s completely unreconcilable either way. I don’t understand how this point is any less relevant to the interpretation that the armor is entirely conceptually based. It just sounds like he made a mistake due to inexperience which is why he pummeled himself.
+
+The thing is though, if he could control the armor's strength with his thoughts (similar to the way he can control its other systems mentally) then it would explain everything. He was at max relaxation, but his thoughts were not - he was ordered to think the armor to move. It would also explain his extreme inexperience. Spartans do not lack fine motor control. It would not be difficult to move his arm with small enough force that 2x or even 5x that amount would not translate to lightning fast movement. A Spartan's full armored arm is, what, a hundred pounds? To move it lightning fast we're talking multiple kilonewtons of force easily. Unless John crushes every glass, fruit, piece of meat, etc that he puts his hands on, he should have no problems exerting less than multiple kilonewtons of force even at 5x multiplication. 200 newtons of force would only translate to 1 kilonewton and there's no way that Chief can't easily hold himself back to below 200 newtons.
+
+&gt;Where does that leave us? You’re just as much arguing against yourself because apparently the sheer concept of moving his arm a little is imperceptibly fast.
+
+Well that would actually make perfect sense if the armor had its own fixed strength controlled by thought. Chief's thoughts were not at maximum relaxation. He wasn't used to controlling the armor either. If he thought a bit too hard it would jerk up with its full strength, which would make it fly up quite fast. It actually makes perfect sense.
+
+&gt;We already know the suit can exert stimuli onto the wearer sufficient to cause involuntary convulsion given Cortana exploded an Infection form that had latched on to Chief by shocking him with electricity.
+
+Cmon man that's QUITE a bit different than hacking a person's nervous system to move him. 
+
+&gt;Try and hold your arm completely still parallel to the ground. You wouldn’t be able to do it if you tried. 
+
+Make a junk e-mail and I'll send you a video. I can't hold it PERFECTLY still but I can limit my movements to low single digit millimeters easily (I actually tried doing it before writing this comment). And I'm well known in my circle of friends to have below-average fine motor control btw - so much so that I struggle to shoot 1 MOA with my friend's thompson and center which he gets half MOA on. Chief honestly shouldn't have any issues with this.
+
+&gt;Humans aren’t machines, we don’t have absolute or perfect control of our bodies and we aren’t infallible. John is being clumsy because he’s going through a heavy handed analogy for puberty, and therefore not used to controlling himself with his “new body”. He made a mistake that wasn’t purposeful.
+
+But the thing is, if the circuits are force multiplying, then there's nothing to learn in terms of relaxing and bringing his arm up. Again, Chief's fully armored arm probably weighs a literal hundred pounds. To move it up that fast requires multiple kilonewtons. Are you saying that normally, Chief can't hold back his strength to below hundreds of newtons? How does he even eat food then lol?
+
+&gt;Says you. It shows how unaware and clumsy he is in this state.
+
+No I'm reading the text right now. She wasn't ordering him.
+
+&gt;You came up with this term to describe a motion I never made.
+
+Came up with what term?
+
+&gt;This is a conclusion you made long before i voiced this opinion when objecting to the notion that a Spartan could warp titanium barehanded. Don’t act as if it’s now unreasonable to hold this view when it’s convenient.
+
+You know what, that's fair.
+
+&gt;Anyway, if not doubled or quintupled or what have you, what is the relationship between Spartan speed and strength with and without their armor according to you? Since “fractal scaling” is just this buzz term Halsey came up with no meaning. Spartans are still accidentally moving at blur speeds and hitting themselves hard enough to pulverize bones by accident.
+
+Here's what I think. There really wasn't any explanation of the exact "fractal amplification" mechanism so any technical talk is gonna be conjecture but this is what I think is the most likely given known science and the established feats.
+
+The "circuits" and "crystal layer" are controlled by CNS signals and can exert their own force according to the strength of the signal received. Why? Because we know from modern science that CNS signals are not just chemical signals, but electrical signals well, and the electrical signal is detectable even without a direct neural interface. We also know that both crystals and circuits can be highly responsive to electricity. If the circuits amplified the neural signals and fed them to the crystals, which then exert the force, all feats, WOG, and WOC are reconciled.
+
+1) It explains why Chief's arm shot up and it it explains why soldiers spasmed their bones to pieces - chief was ordered to think his arm up so he probably thought hard
+
+2) it explains why the soldier destroyed his own body - his CNS signals during the pain spasms were obviously strong, so the full strength of MJOLNIR sprung into action.
+
+3) it explains how the forerunner ai could control the armor. just hack the thing and make it think that the ai's signals are cns signals.
+
+4) It explains the name force-multiplying circuit. Think about it. Unless you're purposely forcing yourself to relax and think thoughts alone, how would you normally send a strong "MOVE" CNS signal? By actually moving. The harder you try to move, the stronger the signal. Under normal circumstances, the armor does indeed "multiply" your force, because the amount of force that the armor itself is applying is proportional to your CNS signal strength which, in most situations, is in turn proportional to how hard you're flexing your muscles.
+
+5) it fits the known science about crystals and circuits.
+
+Ultimately as much as I think this is the perfect conclusion, it's a conjecture and I'm open to input or criticism.
+
+Anyway man let's stop antagonizing each other. I disagree with a lot of what you say but I respect your knowledge on the topic. Honestly you probably started getting mad at me first because I called your interpretations wank, so I'll apologize for that. I still don't agree with your conclusions but I'm down to prove you wrong, and in turn be open to you proving me wrong, with a friendly state of mind.

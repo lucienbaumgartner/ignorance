@@ -1,0 +1,35 @@
+Hm, I see there are downvotes. Yet it's true that UK data shows Delta deaths are mostly to the vaccinated right now and the link I gave is to official UK data on a UK gov site. So these facts should be acknowledged and addressed and the actual specific lies in the conspiracy site article OP published be addresses and refuted. All the most convincing lies are draped on skeletons of truth. It's fundamental to cons and propaganda and limited hangouts.
+
+&gt; The government of the United Kingdom has released new data showing that the vast majority of “delta variant” deaths are occurring among people who got “fully vaccinated” for the Wuhan coronavirus (Covid-19).
+
+It's not the "vast" majority but it's a small numerical majority (54%).
+
+&gt; Only one third of all deaths [in the UK form Feb 1 to Aug 2] caused by the delta variant are occurring in people who did not get the jab,
+
+Misleading.  Some deaths were to partially vaccinated. 54% were to fully vaxxed, 34% to unvaxxed, 11% to partially vaxxed, the rest unknown vax status.
+
+&gt; which clearly shows that “Operation Warp Speed” is an utter failure – assuming that “saving lives” was the goal, anyway.
+
+This claim that the vaccines are utter failures is totally false and ignorant of data and statistics.
+
+&gt; From February 1 through August 2, the U.K. recorded 742 deaths allegedly caused by the delta variant. Of these, 402 were fully vaccinated while 79 had received just one shot. The remaining 253 cases were unvaccinated.
+
+You can view the official government report outlining the data at page 18 at [this link](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf).
+
+- 741 deaths total (71 under age 50, 670 over age 50)
+- 402 fully vaxxed (13 under, 389 over)
+- 253 unvaxxed (48 under, 205 over)
+- 79 partially vaxxed (8 under, 71 over)
+- 7 unknown
+
+Do note that 71 deaths were people under 50 and 48 of them were unvaxxed and 13 vaxxed. So 68% of under 50 deaths were to unvaxxed and 11% partial and 18% vaxxed.
+
+Think about that carefully.
+
+**Only 18% of under 50 delta UK deaths were to fully vaxxed people.** Vaxxed are 4.4 times less likely to die (79/18) than the others for under 50. So efficacy against death, given that you are infected, is currently 77% for this age group.
+
+For over 50 though things don't look as good. 58% of over 50 UK delta deaths were to fully vaxxed and 41% to unvaxxed and partially vaxxed.
+
+This is possibly because the older group got vaxxed in January, younger people more recently, and we are finding vax effectiveness drop off over time. Older people also have more health problems and comorbidities. This is all a huge problem. But still doesn't explain the numbers seen as the rates should not be upside down as they are. Breakdowns into more age ranges might give insights. For example if 65+ is much more vaxxed than 50-64.
+
+The issue with the under 50 group being opposite of what it seemed at first is related to Simpson's Paradox which turned out to explain some of the weird data from Israel earlier this summer.

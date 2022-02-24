@@ -1,0 +1,10 @@
+This is a bad opinion.  Legitimately it's just bad.  There's no other response than your opinion is bad and wrong.   Also, whatever you think you know about computers, I suggest just keeping it inside your head, because the things coming out aren't helpful, thoughtful, or valuable.   
+
+
+Any GPU will off-load work from a processor that cant handle a lot of work so it will make a HUGE difference.    
+
+
+Now if you wanted to give intelligent advice that resembles yours but isn't ignorant and bad it would look like this:  
+
+
+\*I understand money is a huge constraint for you but that CPU is very out of date.  All of the parts are going to have to come off e-bay because they are outdated and not sold in the primary market.  To even replace the mobo, you could get a brand new mobo and cpu probably for cheaper than just replacing the mobo.  But doing so will mean you need new ram.  Also, if you upgraded your mobo, you'd likely have to buy a new PSU and you'd likely need a new case.  So, while I can understand the drive to save money by upgrading what you have, because the parts are so out of date and not compatible with new parts, I dont think there's an upgrade path for you with these parts.  You could try to ask around for other old PC parts from other people.  Beyond that, likely, the only parts of your old PC that you could use in a new one is your disk drives.\*

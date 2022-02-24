@@ -1,0 +1,13 @@
+1	Not	not	PART	RB	_	3	advmod	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	worst	bad	ADJ	JJS	Degree=Sup	0	root	_	start_char=8|end_char=13
+4	,	,	PUNCT	,	_	3	punct	_	start_char=13|end_char=14
+5	just	just	ADV	RB	_	8	advmod	_	start_char=15|end_char=19
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=20|end_char=23
+7	most	most	ADV	RBS	_	8	advmod	_	start_char=24|end_char=28
+8	blatent	blatent	ADJ	JJ	Degree=Pos	3	appos	_	start_char=29|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=49
+11	of	of	ADP	IN	_	12	case	_	start_char=50|end_char=52
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=53|end_char=55
+

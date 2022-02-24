@@ -1,0 +1,3 @@
+I have multiple years of development on both proprietary and commercial engines, but that’s meaningless to you, regardless of whether you believe me or not, their authority on the subject is as suspect to me as your belief in my background, hence it’s a moot point.
+
+What I know, is that their concerns throughout the video are subjective and ignorant of real world application. It’s what they like, not necessarily what’s feasible given tool implementation and hardware limitations.

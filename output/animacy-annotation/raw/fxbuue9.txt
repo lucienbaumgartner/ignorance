@@ -1,0 +1,17 @@
+&gt;Where would I go to invest?
+
+If you have reached Step 5 of the [PFC money Step steps](https://www.reddit.com/r/PersonalFinanceCanada/wiki/money-steps) and you have some money you are confident you won’t need for at least 10 years you could  invest in a low cost, passively managed, globally diversified, index tracking (i.e. "couch potato") portfolio such as those discussed on the following pages.
+
+https://www.reddit.com/r/PersonalFinanceCanada/wiki/investing 
+
+https://canadiancouchpotato.com/about/	
+
+The simplest solution is to use a passive robo-  advisor account (eg. WealthSimple, JustWealth, NestWealth, RBC InvestEase). After asking you questions about your goals, timeline, knowledge/ experience with investing and your comfort with volatility they will choose and then manage a suitable ETF portfolio for you. You would be able to set up automatic contributions. The total annual management fee would be about $70 per $10,000 invested.  This compares to about $200 per $10,000 invested for typical bank mutual funds.
+
+Step 3 on [this CPM page.](https://www.canadianportfoliomanagerblog.com/model-etf-portfolios/) shows the math and mechanics of using a brokerage account to purchase ETFs.  If it looks daunting I suggest that you use a robo-advisor.  Otherwise, Step 1 will help you determine a suitable asset allocation and in step 2 you can choose a "Light" Asset Allocation option for that asset allocation.  Depending on the brokerage you use you may be able to use iShares's PACC plan to automate purchases of  XGRO or XBAL.  The annual management cost for these options would be about $20 to $24 per $10,000 invested but make sure you understand the trading and maintenance fees.  Questrade  is a good choice for ETF investors because: 1/ they don't charge commissions for ETF purchases  2/ they don't charge maintenance fee if the account balance is above $1000 3/ they support DRIP and they support Blackrock’s PACC.
+
+&gt;How do I make the break?
+
+The mechanics are that you open new accounts at your preferred financial institution and fill out the forms so that can request a direct transfer from IG.  
+
+There is no requirement that you give IG the heads up that you are making the switch but if it has been a beneficial and cordial relationship you will probably want to do so.  You can mention that when you started you were young and unaware.  That you haven't minded paying for the advice and management that you have received.  That you have now taken the time to learn about other options and you no longer feel the need to pay for advice and management.

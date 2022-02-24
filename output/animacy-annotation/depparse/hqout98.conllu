@@ -1,0 +1,151 @@
+1	USA	USA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=6|end_char=8
+3	Communist	Communist	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=18
+4	on	on	ADP	IN	_	6	case	_	start_char=19|end_char=21
+5	ground	ground	NOUN	NN	Number=Sing	6	compound	_	start_char=22|end_char=28
+6	level	level	NOUN	NN	Number=Sing	3	obl	_	start_char=29|end_char=34
+7	,	,	PUNCT	,	_	10	punct	_	start_char=34|end_char=35
+8	democratic-socialist	democratic-socialist	ADJ	JJ	Degree=Pos	10	amod	_	start_char=36|end_char=56
+9	government	government	NOUN	NN	Number=Sing	10	compound	_	start_char=57|end_char=67
+10	level	level	NOUN	NN	Number=Sing	3	parataxis	_	start_char=68|end_char=73
+11	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	Kind	kind	NOUN	NN	Number=Sing	0	root	_	start_char=75|end_char=79
+2	of	of	ADP	IN	_	4	case	_	start_char=80|end_char=82
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=83|end_char=84
+4	hippie	hippie	NOUN	NN	Number=Sing	1	nmod	_	start_char=85|end_char=91
+5	.	.	PUNCT	.	_	1	punct	_	start_char=91|end_char=92
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=93|end_char=96
+2	USMC	USMC	PROPN	NNP	Number=Sing	3	compound	_	start_char=97|end_char=101
+3	veteran	veteran	NOUN	NN	Number=Sing	0	root	_	start_char=102|end_char=109
+4	.	.	PUNCT	.	_	3	punct	_	start_char=109|end_char=110
+
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=113|end_char=116
+2	military	military	NOUN	NN	Number=Sing	4	nsubj	_	start_char=117|end_char=125
+3	still	still	ADV	RB	_	4	advmod	_	start_char=126|end_char=131
+4	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=132|end_char=137
+5	to	to	PART	TO	_	7	mark	_	start_char=138|end_char=140
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=141|end_char=143
+7	good	good	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=144|end_char=148
+8	.	.	PUNCT	.	_	4	punct	_	start_char=148|end_char=149
+
+1	Throughout	throughout	ADP	IN	_	2	case	_	start_char=151|end_char=161
+2	history	history	NOUN	NN	Number=Sing	5	obl	_	start_char=162|end_char=169
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=170|end_char=172
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=173|end_char=176
+5	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=177|end_char=180
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=181|end_char=182
+7	pattern	pattern	NOUN	NN	Number=Sing	5	obj	_	start_char=183|end_char=190
+8	.	.	PUNCT	.	_	5	punct	_	start_char=190|end_char=191
+
+1	Strong	strong	ADJ	JJ	Degree=Pos	2	amod	_	start_char=194|end_char=200
+2	nation	nation	NOUN	NN	Number=Sing	3	nsubj	_	start_char=201|end_char=207
+3	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=208|end_char=212
+4	uppity	uppity	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=213|end_char=219
+5	.	.	PUNCT	.	_	3	punct	_	start_char=219|end_char=220
+
+1	Weak	weak	ADJ	JJ	Degree=Pos	2	amod	_	start_char=223|end_char=227
+2	nation	nation	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=228|end_char=234
+3	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=235|end_char=239
+4	genocided	genocide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=240|end_char=249
+5	by	by	ADP	IN	_	7	case	_	start_char=250|end_char=252
+6	strong	strong	ADJ	JJ	Degree=Pos	7	amod	_	start_char=253|end_char=259
+7	nation	nation	NOUN	NN	Number=Sing	4	obl	_	start_char=260|end_char=266
+8	.	.	PUNCT	.	_	4	punct	_	start_char=266|end_char=267
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=270|end_char=271
+2	dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=272|end_char=276
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=277|end_char=282
+4	for	for	ADP	IN	_	9	case	_	start_char=283|end_char=286
+5	one	one	NUM	CD	NumType=Card	9	nummod	_	start_char=287|end_char=290
+6	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	_	start_char=291|end_char=297
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=298|end_char=301
+8	military	military	NOUN	NN	Number=Sing	9	compound	_	start_char=302|end_char=310
+9	needs	need	NOUN	NNS	Number=Plur	3	obl	_	start_char=311|end_char=316
+10	to	to	PART	TO	_	11	mark	_	start_char=317|end_char=319
+11	have	have	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=320|end_char=324
+12	more	more	ADJ	JJR	Degree=Cmp	13	amod	_	start_char=325|end_char=329
+13	bases	basis	NOUN	NNS	Number=Plur	11	obj	_	start_char=330|end_char=335
+14	around	around	ADP	IN	_	16	case	_	start_char=336|end_char=342
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=343|end_char=346
+16	world	world	NOUN	NN	Number=Sing	13	nmod	_	start_char=347|end_char=352
+17	than	than	SCONJ	IN	_	19	mark	_	start_char=353|end_char=357
+18	there	there	PRON	EX	_	19	expl	_	start_char=358|end_char=363
+19	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=364|end_char=367
+20	countries	country	NOUN	NNS	Number=Plur	19	nsubj	_	start_char=368|end_char=377
+21	.	.	PUNCT	.	_	3	punct	_	start_char=377|end_char=378
+
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=379|end_char=382
+2	military	military	NOUN	NN	Number=Sing	6	nsubj	_	start_char=383|end_char=391
+3	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=392|end_char=398
+4	n't	not	PART	RB	_	6	advmod	_	start_char=398|end_char=401
+5	be	be	AUX	VB	VerbForm=Inf	6	aux	_	start_char=402|end_char=404
+6	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=405|end_char=410
+7	what	what	PRON	WP	PronType=Int	6	obj	_	start_char=411|end_char=415
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=416|end_char=418
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=418|end_char=420
+10	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	7	acl:relcl	_	start_char=421|end_char=426
+11	in	in	ADP	IN	_	13	case	_	start_char=427|end_char=429
+12	other	other	ADJ	JJ	Degree=Pos	13	amod	_	start_char=430|end_char=435
+13	countries	country	NOUN	NNS	Number=Plur	10	obl	_	start_char=436|end_char=445
+14	.	.	PUNCT	.	_	6	punct	_	start_char=445|end_char=446
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=447|end_char=450
+2	imperialism	imperialism	NOUN	NN	Number=Sing	6	nsubj	_	start_char=451|end_char=462
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=463|end_char=466
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	conj	_	start_char=467|end_char=469
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=469|end_char=471
+6	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=472|end_char=482
+7	.	.	PUNCT	.	_	6	punct	_	start_char=482|end_char=483
+
+1	But	but	CCONJ	CC	_	0	root	_	start_char=486|end_char=489
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=491|end_char=493
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=494|end_char=496
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	advcl	_	start_char=497|end_char=500
+4	to	to	PART	TO	_	5	mark	_	start_char=501|end_char=503
+5	let	let	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=504|end_char=507
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=508|end_char=511
+7	military	military	ADJ	JJ	Degree=Pos	8	amod	_	start_char=512|end_char=520
+8	fall	fall	NOUN	NN	Number=Sing	5	obj	_	start_char=521|end_char=525
+9	behind	behind	ADP	IN	_	10	case	_	start_char=526|end_char=532
+10	Russia	Russia	PROPN	NNP	Number=Sing	8	nmod	_	start_char=533|end_char=539
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=540|end_char=542
+12	China	China	PROPN	NNP	Number=Sing	10	conj	_	start_char=543|end_char=548
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	expl	_	start_char=549|end_char=551
+14	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=551|end_char=553
+15	fair	fair	ADJ	JJ	Degree=Pos	0	root	_	start_char=554|end_char=558
+16	to	to	PART	TO	_	17	mark	_	start_char=559|end_char=561
+17	say	say	VERB	VB	VerbForm=Inf	15	csubj	_	start_char=562|end_char=565
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj:pass	_	start_char=566|end_char=568
+19	will	will	AUX	MD	VerbForm=Fin	21	aux	_	start_char=569|end_char=573
+20	be	be	AUX	VB	VerbForm=Inf	21	aux:pass	_	start_char=574|end_char=576
+21	invaded	invade	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	ccomp	_	start_char=577|end_char=584
+22	genocided	genocide	VERB	VBN	Tense=Past|VerbForm=Part	21	xcomp	_	start_char=585|end_char=594
+23	or	or	CCONJ	CC	_	24	cc	_	start_char=595|end_char=597
+24	become	become	VERB	VB	VerbForm=Inf	21	conj	_	start_char=598|end_char=604
+25	Russian	Russian	ADJ	JJ	Degree=Pos	28	amod	_	start_char=605|end_char=612
+26	/	/	SYM	,	_	27	punct	_	start_char=612|end_char=613
+27	Chinese	Chinese	ADJ	JJ	Degree=Pos	25	conj	_	start_char=613|end_char=620
+28	citizens	citizen	NOUN	NNS	Number=Plur	24	xcomp	_	start_char=621|end_char=629
+29	.	.	PUNCT	.	_	15	punct	_	start_char=629|end_char=630
+
+1	Saying	say	VERB	VBG	VerbForm=Ger	8	csubj	_	start_char=633|end_char=639
+2	otherwise	otherwise	ADV	RB	_	1	advmod	_	start_char=640|end_char=649
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=650|end_char=652
+4	in	in	ADP	IN	_	6	case	_	start_char=653|end_char=655
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=656|end_char=658
+6	opinion	opinion	NOUN	NN	Number=Sing	8	obl	_	start_char=659|end_char=666
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=667|end_char=669
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=670|end_char=678
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=679|end_char=682
+10	detrimental	detrimental	ADJ	JJ	Degree=Pos	8	conj	_	start_char=683|end_char=694
+11	to	to	ADP	IN	_	13	case	_	start_char=695|end_char=697
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=698|end_char=701
+13	survival	survival	NOUN	NN	Number=Sing	10	obl	_	start_char=702|end_char=710
+14	.	.	PUNCT	.	_	8	punct	_	start_char=710|end_char=711
+

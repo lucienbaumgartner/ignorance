@@ -1,0 +1,23 @@
+&gt; I disagree. Throwing in some 'bag' of 'stuff' is bad design. You need to have knowledge of the internal implementation to use it 'the right way'
+
+It's a dictionary of values. Your alternative is a list of values (more specifically a tuple of arguments). How is one a "bag" and the other isn't?
+
+The more important distinction would be the kind of validation that's applied to either the dictionary or list. So if you'd argue about a "bag of stuff", argue about the lack of strict validation, not about the input format. 
+
+A list is no stricter than a dictionary. And the provided type annotations in PHP are hardly specific and restrictive when it comes to primitive types (you'd still need to do additional validation for most types of input you'd handle).
+
+&gt; That's a good thing. Unrolling parameters is bad until we get proper named parameters in php. Until then I'd much rather explicitly force my consumer to know what the arguments are, instead of just 'winging it'.
+
+This comes down again to talking about input format when your problem is lack of validation. You can validate an associative array. It's quite trivial.
+
+&gt; A very bad thing to do. It makes the developer lazy and unaware that they're not the same thing. This type of inheritance is exactly why I banned the usage of extends in my previous project.
+
+How can you claim they're not "the same thing" without knowing anything about the business logic of the app?
+
+I find it awkward to defend inheritance, as I rarely use it, but I rarely use it because that's a choice I make in the context of my projects, and not because of "bans" or gross overgeneralizations, like you're making. 
+
+The "Item" class here is very similar to the concept of a file. You have image files, text files, document files, archive files. But all files have a filename, size, date of creation etc. Same here. You'd find a similar "base" type of entity in many PHP systems. Drupal's "Node", WordPress' "Post". And here it's "Item".
+
+&gt; A lot of assumptions. One of the strategies could be "the first paragraph". One could be "max amount of characters". One could be "max amount of words". If we are talking example here, this would be a great chance to show the power of interfaces.
+
+And you're saying all those variations, which don't even match in type (string, int, int in your examples) should seemingly arbitrarily come out of the same getSummary() method depending on the strategy? ... Weird.

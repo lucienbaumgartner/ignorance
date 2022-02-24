@@ -1,0 +1,7 @@
+OP, I would be extremely concerned if I were you.
+
+If I'm reading this correctly (I might not be, just woke up so a little slow right now) then you have not used that address before you got this random deposit and you have never given it to anyone.
+
+If this is the case I only see two ways this would happen: someone has your public master key for some reason, so they can deposit into the 'next' address your wallet would make, as well as see all of the spending you do, but can't spend your money. Or someone has the same 12/24 HD words that you do (due to the wallet not using a good source of entropy for wallet generation, for example), and can spend your money as well as receive it. The other party may be completely innocent and unaware and also as confused as you are. 
+
+Both would be extremely concerning to me and you should set up a fresh wallet immediately, using different wallet software and immediately move funds to it.

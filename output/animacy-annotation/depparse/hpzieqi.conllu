@@ -1,0 +1,33 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'd	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	leave	leave	VERB	VB	VerbForm=Inf	0	root	_	start_char=4|end_char=9
+4	someone	someone	PRON	NN	Number=Sing	3	obj	_	start_char=10|end_char=17
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=18|end_char=22
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=23|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=34|end_char=42
+9	of	of	ADP	IN	_	11	case	_	start_char=43|end_char=45
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=46|end_char=49
+11	health	health	NOUN	NN	Number=Sing	6	obl	_	start_char=50|end_char=56
+12	of	of	ADP	IN	_	13	case	_	start_char=57|end_char=59
+13	those	that	PRON	DT	Number=Plur|PronType=Dem	11	nmod	_	start_char=60|end_char=65
+14	around	around	ADP	IN	_	15	case	_	start_char=66|end_char=72
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	start_char=73|end_char=77
+16	.	.	PUNCT	.	_	3	punct	_	start_char=77|end_char=78
+
+1	Ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=79|end_char=81
+2	n't	not	PART	RB	_	4	advmod	_	start_char=81|end_char=84
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=85|end_char=87
+4	someone	someone	PRON	NN	Number=Sing	0	root	_	start_char=88|end_char=95
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=96|end_char=99
+6	'd	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=99|end_char=101
+7	want	want	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=102|end_char=106
+8	to	to	PART	TO	_	9	mark	_	start_char=107|end_char=109
+9	continue	continue	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=110|end_char=118
+10	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=119|end_char=124
+11	in	in	ADP	IN	_	13	case	_	start_char=125|end_char=127
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=128|end_char=129
+13	relationship	relationship	NOUN	NN	Number=Sing	9	advcl	_	start_char=130|end_char=142
+14	with	with	ADP	IN	_	13	nmod	_	start_char=143|end_char=147
+15	.	.	PUNCT	.	_	4	punct	_	start_char=147|end_char=148
+

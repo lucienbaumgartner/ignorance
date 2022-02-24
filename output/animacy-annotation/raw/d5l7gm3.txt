@@ -1,0 +1,15 @@
+No. From a pure programming standpoint, those issues can not at all be blamed on server load. The "unable to connect to servers" issues that were experienced in the first couple days were server load, but anything that involves a game crash, freeze, or broken functions (like the 3 step bug) are entirely due to poor programming.
+
+EDIT: 
+
+To elaborate, first off, a program should NEVER freeze or crash. Some freezes/crashes are unpredictable and can't be prevented, like when you try to run the latest Call of Duty on your Commodore 64 - but no crash or freeze should ever happen during the normal operation of a program on target hardware.
+
+Now, excessive server load can cause latency, which can bring on it's own issues. For example, location lag would be somewhat expected, as well as difficulty establishing and maintaining a connection. The thing is, this should be programmed into the game - if the client can't connect to the server, it should, worst case scenario, run some exception code that displays a message saying "ERROR: Cannot connect to server" or something along those lines. It shouldn't freeze, crash, and cause your phone to spontaneously combust. Latency is pretty much the most expectable problem you will have in *any* internet based game - even if you *don't* have problems with server load, you *still* need to prepare for latency issues just for when players go into an area where they get poor reception, or run up against their data limit.
+
+To make an analogy, it's sort of like a McDonalds. When there's a lot of people in McDonalds, you might have to wait in line to order. Knowing that this happens, they have several registers at McDonalds, and call people up to the register one at a time. When your order is ready, they call your order number, and present it to you at the counter for pickup. If there was some incredible, unprecedented rush, the McDonalds would tell people that the restaurant was full and that they should come back later. In this analogy, the McDonalds is a well designed program, that anticipates potential issues and is designed to still work under a load.
+
+In the Pokemon GO McDonalds, if there's a line, they throw live angry badgers at everyone in the restaurant. Also, no matter what you order, you only get 3/4ths of a large order of fries and a lukewarm diet Pepsi. There is, supposedly, some way to order other drinks, but no one can tell you how to do it because all the employees were hired without their knowledge, and are actually totally untrained and unaware that they have been kidnapped from the local mental hospital.
+
+Pokemon GO is full of bugs, some of which effect **all players all the time**, lacks any documentation, and is missing several major features planned for release. It is, at best, at a state acceptable for a closed beta. The game clearly did **not** have any meaningful QA testing.
+
+Don't get me wrong, it's a fun game still, and I do play it myself - but it's inexcusable to fuck up a product launch this bad.

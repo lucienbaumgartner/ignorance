@@ -1,0 +1,3 @@
+The gaslight comment wasn't aimed at you, just fools in general that like to be snide little shits claiming people who know how things worked, have always been wrong.  Such as stating that JSON has never been a subset of JS -- what utter rubbish.
+
+Hey, guys, Javascript Object Notation isn't a subset of JS, specifically the Object Notation part... Pedantic, foolish, and ignorant of history.  If you're not of that opinion then the comment isn't aimed at you.

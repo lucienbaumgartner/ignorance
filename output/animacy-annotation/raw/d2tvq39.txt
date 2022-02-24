@@ -1,0 +1,5 @@
+While enthusiasts can keep track of where they are going and what way they are are oriented, either through experience or mentally locking on a location ("The enemy's gate is down."), people who aren't used to 6dof tend to completely lose it.
+
+Makes me think of WoW, any time I was raiding/partying with people in the freespace fights (underwater, malygos, and a few other locations), there was almost always someone who was completely lost, unaware and inexperienced with how to navigate and scan their surroundings effectively.
+
+I share your passion and enthusiasm for it on a personal level, but I can't help but feel that making this change will negatively impact peoples' ability to play archwing modes on a larger scale.

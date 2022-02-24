@@ -1,0 +1,42 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=8|end_char=10
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=12
+5	great	great	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=13|end_char=18
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=19|end_char=23
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	start_char=24|end_char=26
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	start_char=27|end_char=30
+9	released	release	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	csubj	_	start_char=31|end_char=39
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=40|end_char=44
+11	year	year	NOUN	NN	Number=Sing	9	obl:tmod	_	start_char=45|end_char=49
+12	.	.	PUNCT	.	_	2	punct	_	start_char=49|end_char=50
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=51|end_char=52
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=53|end_char=57
+3	like	like	SCONJ	IN	_	7	mark	_	start_char=58|end_char=62
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=63|end_char=64
+5	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=65|end_char=70
+6	not	not	PART	RB	_	7	advmod	_	start_char=71|end_char=74
+7	like	like	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=75|end_char=79
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=80|end_char=82
+9	if	if	SCONJ	IN	_	12	mark	_	start_char=83|end_char=85
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj:pass	_	start_char=86|end_char=88
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	start_char=89|end_char=92
+12	released	release	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	start_char=93|end_char=101
+13	earlier	early	ADV	RB	Degree=Cmp	12	advmod	_	start_char=102|end_char=109
+14	or	or	CCONJ	CC	_	15	cc	_	start_char=110|end_char=112
+15	maybe	maybe	ADV	RB	_	13	conj	_	start_char=113|end_char=118
+
+1	Im	Im	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=119|end_char=121
+2	just	just	ADV	RB	_	3	advmod	_	start_char=122|end_char=126
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=127|end_char=134
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=135|end_char=138
+5	naive	naive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=139|end_char=144
+6	of	of	ADP	IN	_	7	case	_	start_char=145|end_char=147
+7	how	how	SCONJ	WRB	PronType=Int	3	obl	_	start_char=148|end_char=151
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=152|end_char=155
+9	society	society	NOUN	NN	Number=Sing	10	nsubj	_	start_char=156|end_char=163
+10	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=164|end_char=169
+11	before	before	ADV	RB	Degree=Pos	10	advmod	_	start_char=170|end_char=176
+12	💀	''	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+

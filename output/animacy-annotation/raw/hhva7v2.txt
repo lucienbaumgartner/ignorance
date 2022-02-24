@@ -1,0 +1,7 @@
+&gt;I don’t know what kind of metropolis city sized bases you’re making
+
+I'm not.  That's like, literally half my point.
+
+The other part of my point is that your "simple" solutions won't work for anyone who doesn't magically happen to build things in the right order.  If you luck into the right order - great!  Power is simple!  But if you don't, it's really, really hard to figure out *why* it doesn't work, because the system is so obtuse.
+
+And yeah, I'm peeved because I spent a very long time trying to figure out something because of replies like this one:  unhelpful, dismissive, and unaware of why it's an issue.  A lot of posts/content creators just act like they have it figured out when they don't, which makes it really hard to figure out how it *actually* works.  Hopefully this post will help.

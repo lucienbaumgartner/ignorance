@@ -1,0 +1,1 @@
+Running a second OS has nothing to do with the performance of the first one. You may want to look into issues that may have raised as a result of your new bios settings. But the OSes are totally separate and unaware of each other, other than the filesystems.

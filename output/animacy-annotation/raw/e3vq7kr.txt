@@ -1,0 +1,5 @@
+Is it your (the user and their browser's) job to avoid sending anything that could be used to track you (see supercookies, panopticlick, various header; IP-based; and other forms of device fingerprinting), or is it enough that the user/browser sends a "opt-out" header or other signal that the server is obligated to obey?
+
+If the latter, how you ensure compliance? If the former, what about cases where you want to send potentially trackable info for a specific purpose, but not allow it to be used for other things?
+
+And in either case, how do you achieve any of this when the bulk of the B2C internet depends on tracking (or thinks it does) to sell ads and make money? And when consumers are largely unaware and apathetic?

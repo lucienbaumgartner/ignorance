@@ -1,0 +1,27 @@
+&gt; g, where do i store it physicly how do i keep it away from people etc
+
+You dont need to worry about someone finding your HW wallet , they cant do anything with it to steal your coins if they find your HW wallet 
+
+&gt;that can be physicly hacked and stolen.
+
+That should not be a concern if you follow the faq and use the passphrase feature 
+
+&gt; Is it like a usb i need to use for every trade?
+
+Every trade? Are you day trading or are you talking about spending your coins ?
+
+&gt; I mean its the same as having any other mobile phone wallet isnt it?
+
+No, its completely different 
+
+&gt; coinomi, metamask, and exodus are all NOT opensource,
+
+Which should be a large warning sign and defeats many the security assumptions of cryptocurrencies in the first place. 
+
+&gt;why are so many using it if thats the case?
+
+Many people are misled and unaware of basic security assumptions. This ecosystem is filled mostly with scams and pump and dump speculators who really have almost no understanding of what they are investing in or care to understand. 
+
+&gt;Doesnt that mean it could have a backdoor
+
+Absolutely , or a privacy exploit , or an unintentional bug that leads to loss of funds. But its much worse than this because not only are these concerns there but much more likely as you increase the codebase(attack surface from supporting many coins) and increase the dependencies.

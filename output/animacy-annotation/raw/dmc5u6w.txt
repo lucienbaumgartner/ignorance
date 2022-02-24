@@ -1,0 +1,17 @@
+&gt; It's very stressful, but what could actually go wrong?
+
+Due to error in your mission or drone malfunction, the drone could crash in an area where it causes property damage, injury, or death. If it's out of sight and beyond communication range, you'd be unaware and unable to safely crash land it using CSC before this happens.
+
+It is very stressful because what you are doing is very stupid.
+
+&gt; as long as I've got my altitude set properly and everything, what are the chances it goes south? 
+
+I don't know what the exact failure rates are on these things. I have had my P3 fall out of the sky without warning with something like 90% battery remaining due to electronics failure. DJI repaired it under warranty. Don't ever fly over anything you wouldn't mind the drone falling on.
+
+&gt; Does anyone else set really far waypoints on the regular as well?
+
+It's not unheard of. The only time I'd even consider doing something like this is if I had to, and there was virtually nothing and nobody in a good radius around where I'd be taking of from.
+
+&gt; I'd like to One day set a waypoint so far away that basically going there and back would consume the entire battery.
+
+Let us know how this works out

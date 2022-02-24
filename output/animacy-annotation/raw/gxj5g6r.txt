@@ -1,0 +1,5 @@
+Original tweet is a great example of someone demonstrating Dunning-Kruger. Dunning and Kruger identified that there is a systematic bias related to both overestimation AND underestimation in self-evaluation.
+
+See: *Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments* by Kruger &amp; Dunning, 1999.
+
+The discussion of the results has a section titled *The Burden of Expertise* wherein they state: "Although our emphasis has been on the miscalibration of incompetent individuals, along the way we discovered that highly competent individuals also show some systematic bias in their self-appraisals. Across the four sets of studies, participants in the top quartile tended to underestimate their ability and test performance relative to their peers... What accounts for this underestimation? Here, too, the regression effect seems a likely candidate: Just as extremely low performances are likely to be associated with slightly higher perceptions of performance, so too are extremely high performances likely to be associated with slightly lower perceptions of performance. "

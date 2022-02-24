@@ -1,0 +1,3 @@
+This entire thread is upsetting because it proves GNU has a ton of new users that don't understand it and are trying to make it something it's not, and sadly with enough uproar from vocal new ignorant (used in the strictest sense of the word, as in unaware and uninformed, not as an insult) GNU users these complaints become reality, like the new dumb packaging system Ubuntu wants. 
+
+If you don't like GNU the way it is, go use *BSD, or Windows, or Macs.  Yes, GNU is fine the way it is.  Yes.  Yes, it is.

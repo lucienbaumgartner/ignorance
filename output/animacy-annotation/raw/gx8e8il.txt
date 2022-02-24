@@ -1,0 +1,24 @@
+&gt; I get that it makes the premium really high on the sold option, but you also have to buy further OTM to cover yourself, which will also have a high premium, right?
+
+Well, there's more than one way to cover yourself. For example, you could use the underlying to hedge your option position.
+
+But more to your point, the problem with your thinking is that you're visualizing the difference between premiums in linear terms, like you would with the underlying, but options pricing is non-linear, so when you get a contraction of the spread, it's happening according to non-linear mathematics, so you are basically getting destroyed by a set of quadratic equations and their differentials. 
+
+That's why people struggle understanding the risks of options trading, because you are entering the world of calculus and the pricing dynamics are not easily understood with simple linear algebra.
+
+&gt; I just can't wrap my head around why exactly high IV/more expensive options=better for sellers and none of the websites explain it very well
+
+
+Websites won't explain it because it requires a greater understanding of mathematics than the general population has and even so (my first degree was in math) it is extremely dull stuff!
+
+If you are sufficiently motivated to study this, pick up a copy of Natenberg's Option Volatility &amp; Pricing. It is extremely dry but well worth the effort. For a book, it is expensive but still costs a lot less than the money you've already lost and will help you avoid losing more money in the future if you study it well.
+
+I wish I could explain this to you in a simple sentence, but I can't. There's a reason why Natenberg's book is 500 pages long.
+
+Maybe someone else can chime in here with a clever explanation, but the way I think about it is going back to the old expression about how "time is money." Options are more valuable when you have more time or more volatility, because that increases the probability your option will expire in the money. So volatility gives you time and time potentially gives you money.
+
+Implied volatility is not realized volatility, it's just an opinion by the market about the future volatility and it's calculated backward based on the price. Prices are often wrong, because people are stupid and ignorant. That sounds harsh, but it's true: people overpay for things when they can't ascertain the fundamental value. We are also all truly ignorant because we don't have the capacity to see the future.
+
+For these reasons and more, options prices are often way overvalued. When the price is subsequently reevaluated, it is done so by a mathematical model that is non-linear (think about how compound interest is very nice when it is working in your favor and then reverse that so it's going against you) and therefore you get crunched to death by the calculus. That's what has happened to your option value.
+
+Anyway, until you get a chance to study this stuff in more depth, just accept that with options "volatility is price" so high vol is expensive and low vol is cheap.

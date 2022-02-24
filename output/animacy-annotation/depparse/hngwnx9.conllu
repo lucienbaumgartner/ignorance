@@ -1,0 +1,14 @@
+1	Wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=8|end_char=11
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=11|end_char=13
+3	unconscious	unconscious	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=25
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=26|end_char=29
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=30|end_char=37
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=38|end_char=42
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=43|end_char=45
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=46|end_char=48
+9	there	there	ADV	RB	PronType=Dem	5	ccomp	_	start_char=49|end_char=54
+10	.	.	PUNCT	.	_	3	punct	_	start_char=54|end_char=55
+

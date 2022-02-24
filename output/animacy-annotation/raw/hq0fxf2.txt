@@ -1,0 +1,43 @@
+&gt;You're prancing around throwing insults while showing that you can't even add 1 + 1.
+
+You're confidence that you are correct is amusing.
+I keep saying you don't know what you are talking about because you keep proving it over and over again. If there's somebody here that can't "add 1 + 1"  it's you. You are unable to understand simple economical realities.
+
+&gt;Yeah guess what Sgt. Smartass, if those companies sell less phones the SoC manufacturers also sell less of their product.
+
+SoC companies sell their chips to all Android smartphone OEMs. The Android maket itself has to shrink overall quite severely for the chip demand to weaken which in turn could have a negative effect on companies thta design and sell SOCs and simply it hasn't happened and it doesn't look like it will happen. Like I've said the simple truth is that Qualcomm directly competes with Mediatek, that's the company that threatens their bottom line, period.
+
+&gt;No they don't, that's exactly the point you fail to understand. Apple competes with other manufacturers at the price point iPhones are available. People who haven't got enough money and buy a 100$ phone will most likely choose a low-end Android phone, yes. But as soon as we come into iPhone SE territory the game is on. The better an iPhone is, the more likely it will persuade customers to choose one over Samsung, Xiaomi etc.
+
+Yes they do. I don't fail to understand anything.
+The SE barely made any dent in the Android maket share, it's irrelevant for most Android phone buyers as it has a small battery and screen. It's mosty preferred by people that use older iPhones not Android users. 
+
+&gt;The better an iPhone is, the more likely it will persuade customers to choose one over Samsung, Xiaomi etc.
+
+You do realize thta at this point you aren't talking about the SOC but the phones overall? Nah, you obviously don't.
+
+&gt;If companies like Samsung sell less of their phones because more people buy iPhones that leads to less phones manufactured which in turn means SoC manufacturers sell less of their product. So "they buy those chips either way" is complete and utter nonsense, of course Samsung for example will buy less SoCs if they expect their phones to sell less.
+
+If Samsung would sell less of their phones it will be because of how good their phones are overall and how well they compete on the market and not primary because of the SOC. There's no "complete and utter nonsense". 
+Again, you do understand you are talking about phones completing between each other and not SOCs?
+
+&gt;That's not because they are so popular, quite the contrary.
+
+It is one of the reasons why actually. "Quite the contrary", LOL 
+
+&gt;Samsung designs their own SoC and uses it in many variants of their phones, and Google also ditched Qualcomm.
+
+Actually they mainly use Exynos in their Galaxy S models now and have switched to Qualcomm for their mid-rangers, which are the bulk of Samsung's volume. They actually relly way more on Qualcomm now than they did in the last 5 years.
+
+&gt;They can't keep up with demand because we have an extreme shortage of CPUs and GPUs for around 2 years by now, something you are either to stupid to factor in or just too ignorant to take into account.
+
+I'm ignorant for stating a fact? LoL, you have problems. I mentioned the chip shortage to help you understand the current reality of companies that design SOC and you call me ignorant and stupid? Aren't you the one that keeps insisting thta Qualcomm directly competes with A series chips, or you already forgot about that?
+
+&gt;They can't "meet demand" because there isn't enough capacity to produce it, not because demand is suddenly so much higher.
+
+LoL, than was a good laugh. There's isn't enough capacity because of the general higher demand, Qualcomm. Qualcomm always books capacity in advance so if demand wouldn't be higher they wouldn't have any problems.
+
+&gt;Even car manufacturers can't "meet demand", not because they suddenly sell much more cars, but because of the chip shortage.
+
+Terrible example, you should know that that's totally different.
+And it's not because of the "chip shortage", it's because when the pandemic started they canceled their chip orders and when people started to buy cars again car companies made new orders but they were placed at the bottom of the list with delivery times of 6 months or higher because foundries realocated their capacity to other orders. Qualcomm obviously never canceled any chip order, they actually increased them.

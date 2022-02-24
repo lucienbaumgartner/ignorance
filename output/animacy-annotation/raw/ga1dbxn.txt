@@ -1,0 +1,35 @@
+I think the way to solve this is by not rolling characters into initiative unless they know that combat is happening. Example:
+
+Assassin Archer: "I sneak up and take a shot with my bow on Guard A"
+
+Cleric: "I move up with the archer and cast Guiding Bolt on Guard A"
+
+Barbarian: "I run in from the other side and attack Guard B with my axe!"
+
+DM: "Wait a second guys, let's roll for initiative first"
+
+Archer: 17  
+Cleric: 12  
+Barbarian: 7
+
+Round 1:  
+Archer: "I ready shot on Guard A if they notice our presence to allow my friends some time to ready their attacks"  
+Cleric: "I ready a Guiding Bolt on Guard A for when Archer shoots his first shot"  
+Barbarian: "I ready a move for when combat begins"
+
+Round 2:  
+Archer: "I take a shot at guard A". Guard A is surprised and unaware of the attacker so it's at advantage. At the same time Cleric's readied Guiding Bolt goes off, also at advantage on the surprised Guard A. Also at the same time Barbarian moves 30ft towards Guard B.  
+At this point the guards are aware of combat and they roll into initiative:  
+Guard A: 20  
+Archer: 17  
+Cleric: 12  
+Barbarian: 7  
+Guard B: 5  
+It's still Archer's turn and he gets his second attack since he's level 5 and takes another shot on the still-surprised Guard A, but not at advantage since the guard now knows about the Archers presence and location.  
+Guard A has the highest initiative and gets to go next, he was surprised and does nothing on his turn but is now no longer surprised.  
+Cleric goes next and casts a Sacred Flame on Guard A, who is no longer surprised and aware of his attackers.  
+Barbarian goes next and runs another 30ft and attacks Guard B with his axe. Guard B is still surprised at this point.  
+Guard B goes next, and he was surprised and does nothing on his turn but is now no longer surprised.
+
+Round 3:  
+Continues as a normal round, all creatures are in combat and aware of each-other at this point, and none of them are surprised anymore.

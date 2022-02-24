@@ -1,0 +1,1 @@
+Measuring the amount of energy needed to secure the network by a per transaction basis is acting in bad faith at worst and ignorant of how Bitcoin and other cryptos work at best. The value of Bitcoin is in its blockchain and that value is secured by the work and energy put into it to secure the network. This work also happens to have the ability to transfer data.

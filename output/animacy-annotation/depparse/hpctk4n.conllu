@@ -1,0 +1,46 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	better	good	ADJ	JJR	Degree=Cmp	0	root	_	start_char=5|end_char=11
+4	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=12|end_char=16
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=18
+6	roll	roll	NOUN	NN	Number=Sing	3	parataxis	_	start_char=19|end_char=23
+7	up	up	ADP	RP	_	3	advmod	_	start_char=24|end_char=26
+8	.	.	PUNCT	.	_	3	punct	_	start_char=26|end_char=27
+
+1	Dude	dude	NOUN	NN	Number=Sing	3	nsubj	_	start_char=28|end_char=32
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=33|end_char=35
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=43
+4	and	and	CCONJ	CC	_	8	cc	_	start_char=44|end_char=47
+5	other	other	ADJ	JJ	Degree=Pos	6	amod	_	start_char=48|end_char=53
+6	wrestler	wrestler	NOUN	NN	Number=Sing	8	nsubj	_	start_char=54|end_char=62
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=63|end_char=66
+8	catch	catch	VERB	VB	VerbForm=Inf	3	conj	_	start_char=67|end_char=72
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=73|end_char=76
+10	in	in	ADP	IN	_	12	case	_	start_char=77|end_char=79
+11	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=80|end_char=82
+12	armbar	armbar	NOUN	NN	Number=Sing	8	obl	_	start_char=83|end_char=89
+13	.	.	PUNCT	.	_	3	punct	_	start_char=89|end_char=90
+
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=91|end_char=100
+2	every	every	DET	DT	_	3	det	_	start_char=101|end_char=106
+3	wrestler	wrestler	NOUN	NN	Number=Sing	5	nsubj	_	start_char=107|end_char=115
+4	should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=116|end_char=122
+5	know	know	VERB	VB	VerbForm=Inf	1	acl:relcl	_	start_char=123|end_char=127
+6	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=128|end_char=131
+7	to	to	PART	TO	_	8	mark	_	start_char=132|end_char=134
+8	do	do	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=135|end_char=137
+9	and	and	CCONJ	CC	_	13	cc	_	start_char=138|end_char=141
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj:pass	_	start_char=142|end_char=144
+11	should	should	AUX	MD	VerbForm=Fin	13	aux	_	start_char=145|end_char=151
+12	be	be	AUX	VB	VerbForm=Inf	13	aux:pass	_	start_char=152|end_char=154
+13	conditioned	condition	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	start_char=155|end_char=166
+14	if	if	SCONJ	IN	_	17	mark	_	start_char=167|end_char=169
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj:pass	_	start_char=170|end_char=172
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	start_char=172|end_char=174
+17	locked	lock	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	start_char=175|end_char=181
+18	in	in	ADP	IN	_	20	case	_	start_char=182|end_char=184
+19	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=185|end_char=188
+20	tap	tap	NOUN	NN	Number=Sing	17	obl	_	start_char=189|end_char=192
+21	or	or	CCONJ	CC	_	22	cc	_	start_char=193|end_char=195
+22	pop	pop	NOUN	NN	Number=Sing	20	conj	_	start_char=196|end_char=199
+

@@ -1,0 +1,28 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=5|end_char=7
+3	always	always	ADV	RB	_	7	advmod	_	start_char=8|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=15|end_char=18
+5	most	most	ADV	RBS	_	6	advmod	_	start_char=19|end_char=23
+6	hilarious	hilarious	ADJ	JJ	Degree=Pos	7	amod	_	start_char=24|end_char=33
+7	answer	answer	NOUN	NN	Number=Sing	0	root	_	start_char=34|end_char=40
+8	to	to	ADP	IN	_	9	case	_	start_char=41|end_char=43
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nmod	_	start_char=44|end_char=46
+10	.	.	PUNCT	.	_	7	punct	_	start_char=46|end_char=47
+
+1	Basically	basically	ADV	RB	_	2	advmod	_	start_char=48|end_char=57
+2	admitting	admit	VERB	VBG	VerbForm=Ger	0	root	_	start_char=58|end_char=67
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=68|end_char=72
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=73|end_char=83
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=84|end_char=92
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=93|end_char=96
+7	incapable	incapable	ADJ	JJ	Degree=Pos	5	conj	_	start_char=97|end_char=106
+8	of	of	SCONJ	IN	_	9	mark	_	start_char=107|end_char=109
+9	giving	give	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=110|end_char=116
+10	any	any	DET	DT	_	12	det	_	start_char=117|end_char=120
+11	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	start_char=121|end_char=129
+12	opinion	opinion	NOUN	NN	Number=Sing	9	obj	_	start_char=130|end_char=137
+13	on	on	ADP	IN	_	16	case	_	start_char=138|end_char=140
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=141|end_char=142
+15	simple	simple	ADJ	JJ	Degree=Pos	16	amod	_	start_char=143|end_char=149
+16	topic	topic	NOUN	NN	Number=Sing	12	nmod	_	start_char=150|end_char=155
+

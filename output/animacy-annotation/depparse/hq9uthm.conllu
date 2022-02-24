@@ -1,0 +1,64 @@
+1	No	no	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3|end_char=5
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=6|end_char=10
+4	not	not	PART	RB	_	5	advmod	_	start_char=11|end_char=14
+5	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=18
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=19|end_char=23
+7	.	.	PUNCT	.	_	5	punct	_	start_char=23|end_char=24
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=25|end_char=29
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=30|end_char=32
+3	incredibly	incredibly	ADV	RB	Degree=Pos	4	advmod	_	start_char=33|end_char=43
+4	misleading	misleading	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=54
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=55|end_char=58
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=59|end_char=67
+7	of	of	ADP	IN	_	9	case	_	start_char=68|end_char=70
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=71|end_char=74
+9	content	content	NOUN	NN	Number=Sing	6	obl	_	start_char=75|end_char=82
+10	of	of	ADP	IN	_	13	case	_	start_char=83|end_char=85
+11	most	most	ADV	RBS	Degree=Sup	12	advmod	_	start_char=86|end_char=90
+12	psychological	psychological	ADJ	JJ	Degree=Pos	13	amod	_	start_char=91|end_char=104
+13	studies	study	NOUN	NNS	Number=Plur	9	nmod	_	start_char=105|end_char=112
+14	.	.	PUNCT	.	_	4	punct	_	start_char=112|end_char=113
+
+1	*	*	PUNCT	NFP	_	10	punct	_	start_char=114|end_char=115
+2	Any	any	DET	DT	_	4	det	_	start_char=115|end_char=118
+3	*	*	PUNCT	NFP	_	4	punct	_	start_char=118|end_char=119
+4	study	study	NOUN	NN	Number=Sing	10	nsubj	_	start_char=120|end_char=125
+5	worth	worth	ADJ	JJ	Degree=Pos	4	amod	_	start_char=126|end_char=131
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	start_char=132|end_char=134
+7	's	's	PART	POS	_	6	case	_	start_char=134|end_char=136
+8	merit	merit	NOUN	NN	Number=Sing	10	nsubj	_	start_char=137|end_char=142
+9	will	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=143|end_char=147
+10	outline	outline	VERB	VB	VerbForm=Inf	0	root	_	start_char=148|end_char=155
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nmod:poss	_	start_char=156|end_char=158
+12	's	's	PART	POS	_	11	case	_	start_char=158|end_char=160
+13	own	own	ADJ	JJ	Degree=Pos	14	amod	_	start_char=161|end_char=164
+14	limitations	limitation	NOUN	NNS	Number=Plur	10	obj	_	start_char=165|end_char=176
+15	.	.	PUNCT	.	_	10	punct	_	start_char=176|end_char=177
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=178|end_char=180
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=181|end_char=185
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=186|end_char=188
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=189|end_char=192
+5	limitations	limitation	NOUN	NNS	Number=Plur	4	obj	_	start_char=193|end_char=204
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=205|end_char=208
+7	outlines	outline	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=209|end_char=217
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=218|end_char=222
+9	.	.	PUNCT	.	_	2	punct	_	start_char=222|end_char=223
+
+1	Saying	say	VERB	VBG	VerbForm=Ger	13	csubj	_	start_char=226|end_char=232
+2	'	'	PUNCT	``	_	4	punct	_	start_char=233|end_char=234
+3	poorly	poorly	ADV	RB	_	4	advmod	_	start_char=234|end_char=240
+4	done	do	VERB	VBN	Tense=Past|VerbForm=Part	1	xcomp	_	start_char=241|end_char=245
+5	'	'	PUNCT	''	_	4	punct	_	start_char=245|end_char=246
+6	in	in	ADP	IN	_	8	case	_	start_char=247|end_char=249
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=250|end_char=254
+8	way	way	NOUN	NN	Number=Sing	4	obl	_	start_char=255|end_char=258
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=259|end_char=261
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=262|end_char=263
+11	flat	flat	ADJ	JJ	Degree=Pos	13	amod	_	start_char=264|end_char=268
+12	out	out	ADP	RP	_	13	compound	_	start_char=269|end_char=272
+13	lie	lie	NOUN	NN	Number=Sing	0	root	_	start_char=273|end_char=276
+14	.	.	PUNCT	.	_	13	punct	_	start_char=276|end_char=277
+

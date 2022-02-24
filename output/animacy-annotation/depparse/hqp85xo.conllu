@@ -1,0 +1,46 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	like	like	ADP	IN	_	8	case	_	start_char=10|end_char=14
+4	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=15|end_char=16
+5	sad	sad	ADJ	JJ	Degree=Pos	8	amod	_	start_char=17|end_char=20
+6	angry	angry	ADJ	JJ	Degree=Pos	8	amod	_	start_char=21|end_char=26
+7	pathetic	pathetic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=27|end_char=35
+8	troll	troll	NOUN	NN	Number=Sing	2	obl	_	start_char=36|end_char=41
+9	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=43|end_char=44
+2	will	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=45|end_char=49
+3	no	no	ADV	RB	_	4	advmod	_	start_char=50|end_char=52
+4	longer	long	ADV	RBR	Degree=Cmp	6	advmod	_	start_char=53|end_char=59
+5	be	be	AUX	VB	VerbForm=Inf	6	aux	_	start_char=60|end_char=62
+6	engaging	engage	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=63|end_char=71
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=72|end_char=76
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=77|end_char=85
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=86|end_char=89
+10	selfish	selfish	ADJ	JJ	Degree=Pos	8	conj	_	start_char=90|end_char=97
+11	ass	ass	NOUN	NN	Number=Sing	6	obj	_	start_char=98|end_char=101
+12	.	.	PUNCT	.	_	6	punct	_	start_char=101|end_char=102
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=103|end_char=107
+2	fun	fun	NOUN	NN	Number=Sing	1	obj	_	start_char=108|end_char=111
+3	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=112|end_char=117
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=118|end_char=119
+5	hateful	hateful	ADJ	JJ	Degree=Pos	6	amod	_	start_char=120|end_char=127
+6	monster	monster	NOUN	NN	Number=Sing	1	xcomp	_	start_char=128|end_char=135
+7	.	.	PUNCT	.	_	1	punct	_	start_char=135|end_char=136
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=137|end_char=138
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=139|end_char=143
+3	spend	spend	VERB	VB	VerbForm=Inf	0	root	_	start_char=144|end_char=149
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=150|end_char=152
+5	time	time	NOUN	NN	Number=Sing	3	obj	_	start_char=153|end_char=157
+6	actually	actually	ADV	RB	_	7	advmod	_	start_char=158|end_char=166
+7	caring	care	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=167|end_char=173
+8	about	about	ADP	IN	_	10	case	_	start_char=174|end_char=179
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	start_char=180|end_char=185
+10	people	people	NOUN	NNS	Number=Plur	7	obl	_	start_char=186|end_char=192
+11	.	.	PUNCT	.	_	3	punct	_	start_char=192|end_char=193
+
+1	Peace	peace	NOUN	NN	Number=Sing	0	root	_	start_char=194|end_char=199
+2	.	.	PUNCT	.	_	1	punct	_	start_char=199|end_char=200
+

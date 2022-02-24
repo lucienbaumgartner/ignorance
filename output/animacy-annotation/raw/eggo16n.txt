@@ -1,0 +1,11 @@
+Yeah, the GNS430, designed in the last century, accommodated an event 20 years in the future.
+
+The Register posted an article this week about the upcoming (April 6th) rollover of the week counter in the GPS signal:
+
+https://www.theregister.co.uk/2019/02/12/current_gps_epoch_ends/
+
+The article includes this:
+
+“Fortunately, devices on sale right now should be prepared for this rollover and handle it gracefully. Uncle Sam's GPS nerve-center GPS.gov says(PDF) receivers that follow the ICD-200/IS-GPS-200 specification should be able to deal with the week number overflow. This basically means newer receivers built after, say, 2010 should be fine, provided they follow the specs and notice the rollover.”
+
+There's a spec out there about this, Avidyne was unaware, and worse, the organization responsible for certifying it seemed unawre, too.

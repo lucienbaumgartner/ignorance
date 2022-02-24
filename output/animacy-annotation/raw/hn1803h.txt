@@ -1,0 +1,3 @@
+Dude 90% of dev studios don’t give a shit about QA testing or testers. Most do it internally now to avoid public backlash if  incompetence was to leak out. It’s also to keep investors unaware and happy. 
+
+The only devs nowadays that care about hiring fresh QA testers are indie devs who need the extra hands.

@@ -1,0 +1,3 @@
+Origin and Steam have their own unique game libraries and are very stringent and ignorant of people wanting to move games into and out of their respective DRMS.
+
+Unfortunately, my take is that this cannot be done.  If you buy on Steam you'll have to play on Steam.  I'd love to be wrong about this but other games have not allowed this.

@@ -1,0 +1,23 @@
+&gt; I still feel that this particular setting should have been disabled by default
+
+In hindsight, this is true. Why didn't *you* say this *before* everyone installed it with the wrong settings? Why didn't *you* announce this to everyone and point out the problem before it was exploited? You seem to be very quick to accuse some guy of negligence when there's a million people using the code without bothering to read the instructions.
+
+See the problem?  "Something went wrong! We need to find someone to hang!" That's never an appropriate response.
+
+&gt; "It's in the documentation" isn't good enough, IMO
+
+Your opinion in this case is incorrect.  You might bemoan the fact that one guy doing this for free didn't foresee every ramification of major corporations taking his free work, but that doesn't overrule the SCOTUS.
+
+The fact that you think (say) AT&amp;T should be suing a guy who doesn't get paid for his work, documented how it works, and gave you the source, all for free, because it doesn't work the way ignorant people at AT&amp;T guess they'd like it to work, well, I hope you never do any volunteer work.  https://www.reddit.com/r/ChoosingBeggars/
+
+&gt; That is why you shouldn't enable non-essential features by default.
+
+That's why you should at least read the configuration documentation, for sure. Also, what's essential for you might not be essential for me.  "I was lazy and ignorant of how the free software I base my business on but don't pay any money for works. I was so lazy I didn't even bother to read the instructions on how to install it. And then I got hurt. I think the guy who gave me free stuff should have to pay a lot of money."
+
+Here's a better suggestion: Write your own code, and then take responsibility for it working the way you want it to work. 
+
+&gt; I was only suggesting a (fair) "trial" on the basis that I think there is at least a case to answer.
+
+Honestly, I can't even begin to imagine why you think I owe you any duty of care for software you downloaded for free without telling me. If you pirated it and it didn't work, would you be suing me too?
+
+We already had that fair trial, 40+ years ago. Also, you decline to even state how you would think a hypothetical trial of your own choosing should go. So sure, it seems like the conversation is done.

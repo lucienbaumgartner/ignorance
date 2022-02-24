@@ -1,0 +1,9 @@
+Well this is a weird question to read for me. I'm a non-technical development manager. I don't think I'm a bad manager at all, but only because I recognize my technical limitations. I have a fsking brilliant team of senior and principal developers who with all due respect just aren't great a communicating, organizing, and prioritising. That's where I come in and why I was hired; I won't be on anyone's code reviews to advise them on best practices at a coding level, but I do have a ton of project management, people management and testing experience which is the gap this team currently has. 
+
+I guess it comes down to self-awareness. I've worked for technical bosses who were aware of their short comings as people/process managers and that's fine. I've worked with non-technical bosses who were self-aware of their short comings at a technical level. 
+
+But really for me it boils down to I cannot tolerate working for people who aren't self-aware of their strengths and weaknesses, and I cannot work for someone who is completely incompetent and unaware. That goes for technical managers as well as non-technical managers (though I absolutely expect non-technical managers to understand enough to hold the conversation at a high level of project organization, architecture, and/or design, even if they're not assisting down to the coding level). 
+
+I guess what I'm trying to say is that in the right situations, a self-aware non-technical manager can absolutely work. But what you have seems to be just a generic, all-round shitty manager. They're not shitty because they're not technical; they're shitty because they don't realise they're non-technical and are just full of shit. 
+
+How to deal with this? Honestly I would move away. You can't teach self-awareness.

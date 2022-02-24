@@ -1,0 +1,11 @@
+I think your primary distrust comes from lack of understanding of how data storage works.
+
+This isn't a case of "hacker gets into their servers (which is a bold statement already) and just knows all your passwords".
+
+They have encryption being used, likely unique hash encryption based on your own master password. So every user is different. Could they work on decrypting? Sure. But by the time they make any headway the intrusion would be detected and fixed, as that's the whole business of these companies.
+
+Again, a bank is a perfect analogy. I can bet my bottom dollar you have all or most of your money in a bank right? What if that bank gets hacked and you lose all your money? You might say insurance gets you it back, sure. Your insurance in digital security is 2FA on services. Them knowing your password doesn't get them in anyway, so you're secure.
+
+Also you can have self managed password managers that run locally, never connect to the internet and you can control the security / encryption level. So even people who are a bit obsessive / unaware and afraid of online based tools and their security can utilise password managers.
+
+Legitimately a notepad is less secure than an encrypted password manager. And some people swear by that. You get robbed and someone could literally steal your bank password and PIN in the process, which is how you remember it. Same fear, different methodology.

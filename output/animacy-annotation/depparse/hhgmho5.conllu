@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	grew	grow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	up	up	ADP	RP	_	2	compound:prt	_	start_char=7|end_char=9
+4	watching	watch	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=10|end_char=18
+5	Fat	fat	ADJ	NNP	Degree=Pos	6	amod	_	start_char=19|end_char=22
+6	Albert	Albert	PROPN	NNP	Number=Sing	4	obj	_	start_char=23|end_char=29
+7	on	on	ADP	IN	_	10	case	_	start_char=30|end_char=32
+8	Saturday	Saturday	PROPN	NNP	Number=Sing	10	compound	_	start_char=33|end_char=41
+9	morning	morning	NOUN	NN	Number=Sing	10	compound	_	start_char=42|end_char=49
+10	television	television	NOUN	NN	Number=Sing	4	obl	_	start_char=50|end_char=60
+11	.	.	PUNCT	.	_	2	punct	_	start_char=60|end_char=61
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=62|end_char=63
+2	watched	watch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=64|end_char=71
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=72|end_char=75
+4	DVDs	dvd	NOUN	NNS	Number=Plur	2	obj	_	start_char=76|end_char=80
+5	with	with	ADP	IN	_	7	case	_	start_char=81|end_char=85
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=86|end_char=88
+7	kids	kid	NOUN	NNS	Number=Plur	2	obl	_	start_char=89|end_char=93
+8	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=94|end_char=98
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=99|end_char=103
+10	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	start_char=104|end_char=108
+11	younger	young	ADJ	JJR	Degree=Cmp	2	advcl	_	start_char=109|end_char=116
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=117|end_char=120
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=121|end_char=128
+14	that	that	SCONJ	IN	_	18	mark	_	start_char=129|end_char=133
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=134|end_char=136
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	start_char=137|end_char=140
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=141|end_char=142
+18	scumbag	scumbag	NOUN	NN	Number=Sing	13	ccomp	_	start_char=143|end_char=150
+19	.	.	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+
+1	Scumbag	scumbag	NOUN	NN	Number=Sing	11	nsubj	_	start_char=152|end_char=159
+2	or	or	CCONJ	CC	_	3	cc	_	start_char=160|end_char=162
+3	not	not	PART	RB	_	1	conj	_	start_char=163|end_char=166
+4	,	,	PUNCT	,	_	11	punct	_	start_char=166|end_char=167
+5	Fat	fat	ADJ	NNP	Degree=Pos	6	amod	_	start_char=168|end_char=171
+6	Albert	Albert	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=172|end_char=178
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=179|end_char=181
+8	pure	pure	ADJ	JJ	Degree=Pos	11	amod	_	start_char=182|end_char=186
+9	1970	1970	NUM	CD	NumType=Card	11	nmod:poss	_	start_char=187|end_char=191
+10	's	's	PART	POS	_	9	case	_	start_char=191|end_char=193
+11	awesomeness	awesomeness	NOUN	NN	Number=Sing	0	root	_	start_char=194|end_char=205
+12	.	.	PUNCT	.	_	11	punct	_	start_char=205|end_char=206
+

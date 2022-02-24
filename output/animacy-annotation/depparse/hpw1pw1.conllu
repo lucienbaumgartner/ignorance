@@ -1,0 +1,20 @@
+1	Or	or	CCONJ	CC	_	2	cc	_	start_char=0|end_char=2
+2	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=3|end_char=9
+3	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=10|end_char=13
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=14|end_char=17
+5	so	so	ADV	RB	_	6	advmod	_	start_char=18|end_char=20
+6	desperate	desperate	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=21|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=44|end_char=48
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=49|end_char=53
+11	’ll	will	AUX	MD	VerbForm=Fin	12	aux	_	start_char=53|end_char=56
+12	support	support	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=57|end_char=64
+13	any	any	DET	DT	_	14	det	_	start_char=65|end_char=68
+14	populism	populism	NOUN	NN	Number=Sing	12	obj	_	start_char=69|end_char=77
+15	whether	whether	SCONJ	IN	_	16	mark	_	start_char=78|end_char=85
+16	genuine	genuine	ADJ	JJ	Degree=Pos	14	acl	_	start_char=86|end_char=93
+17	or	or	CCONJ	CC	_	18	cc	_	start_char=94|end_char=96
+18	charlatan	charlatan	NOUN	NN	Number=Sing	16	conj	_	start_char=97|end_char=106
+19	.	.	PUNCT	.	_	2	punct	_	start_char=106|end_char=107
+

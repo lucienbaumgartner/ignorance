@@ -1,0 +1,31 @@
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	start_char=0|end_char=4
+2	here	here	ADV	RB	PronType=Dem	1	advmod	_	start_char=5|end_char=9
+3	!	!	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	Never	never	ADV	RB	_	2	advmod	_	start_char=11|end_char=16
+2	understood	understand	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=17|end_char=27
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=28|end_char=31
+4	hype	hype	NOUN	NN	Number=Sing	2	obj	_	start_char=32|end_char=36
+5	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=38|end_char=41
+2	seemed	seem	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=42|end_char=48
+3	mean-spirited	mean-spirited	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=49|end_char=62
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=63|end_char=66
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=67|end_char=74
+6	of	of	ADP	IN	_	9	case	_	start_char=75|end_char=77
+7	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=78|end_char=81
+8	immense	immense	ADJ	JJ	Degree=Pos	9	amod	_	start_char=82|end_char=89
+9	privilege	privilege	NOUN	NN	Number=Sing	5	obl	_	start_char=90|end_char=99
+10	from	from	ADP	IN	_	12	case	_	start_char=100|end_char=104
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=105|end_char=108
+12	beginning	beginning	NOUN	NN	Number=Sing	9	nmod	_	start_char=109|end_char=118
+13	in	in	ADP	IN	_	15	case	_	start_char=119|end_char=121
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=122|end_char=123
+15	way	way	NOUN	NN	Number=Sing	12	nmod	_	start_char=124|end_char=127
+16	that	that	PRON	WDT	PronType=Rel	19	nsubj	_	start_char=128|end_char=132
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=133|end_char=136
+18	n't	not	PART	RB	Polarity=Neg	19	advmod	_	start_char=136|end_char=139
+19	cute	cute	ADJ	JJ	Degree=Pos	15	acl:relcl	_	start_char=140|end_char=144
+20	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

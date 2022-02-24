@@ -1,0 +1,31 @@
+1	Kids	kid	NOUN	NNS	Number=Plur	0	root	_	start_char=0|end_char=4
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=5|end_char=8
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=9|end_char=14
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=15|end_char=19
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=20|end_char=23
+6	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=24|end_char=29
+7	super	super	ADV	RB	_	8	advmod	_	start_char=30|end_char=35
+8	subtle	subtle	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=36|end_char=42
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=43|end_char=46
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=47|end_char=54
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=55|end_char=59
+12	everyone	everyone	PRON	NN	Number=Sing	13	nsubj	_	start_char=60|end_char=68
+13	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=69|end_char=74
+14	.	.	PUNCT	.	_	1	punct	_	start_char=74|end_char=75
+
+1	Talk	talk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=78|end_char=82
+2	to	to	ADP	IN	_	5	case	_	start_char=83|end_char=85
+3	high	high	ADJ	JJ	Degree=Pos	5	amod	_	start_char=86|end_char=90
+4	school	school	NOUN	NN	Number=Sing	5	compound	_	start_char=91|end_char=97
+5	teachers	teacher	NOUN	NNS	Number=Plur	1	obl	_	start_char=98|end_char=106
+6	,	,	PUNCT	,	_	8	punct	_	start_char=106|end_char=107
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=108|end_char=110
+8	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=111|end_char=118
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=119|end_char=120
+10	lot	lot	NOUN	NN	Number=Sing	11	obl:npmod	_	start_char=121|end_char=124
+11	more	more	ADJ	JJR	Degree=Cmp	8	obj	_	start_char=125|end_char=129
+12	than	than	SCONJ	IN	_	15	mark	_	start_char=130|end_char=134
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=135|end_char=138
+14	'd	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=138|end_char=140
+15	think	think	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=141|end_char=146
+

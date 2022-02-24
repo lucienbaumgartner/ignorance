@@ -1,0 +1,20 @@
+1	More	more	ADJ	JJR	Degree=Cmp	2	amod	_	start_char=0|end_char=4
+2	options	option	NOUN	NNS	Number=Plur	0	root	_	start_char=5|end_char=12
+3	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=13|end_char=21
+4	to	to	ADP	IN	_	5	case	_	start_char=22|end_char=24
+5	what	what	PRON	WP	PronType=Int	3	obl	_	start_char=25|end_char=29
+6	?	?	PUNCT	.	_	2	punct	_	start_char=29|end_char=30
+
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=34
+2	there	there	PRON	EX	_	1	expl	_	start_char=35|end_char=40
+3	people	people	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=41|end_char=47
+4	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=48|end_char=51
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=52|end_char=55
+6	pregnant	pregnant	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=56|end_char=64
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=65|end_char=68
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=69|end_char=76
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=77|end_char=81
+10	adoption	adoption	NOUN	NN	Number=Sing	11	nsubj	_	start_char=82|end_char=90
+11	exists	exist	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=91|end_char=97
+12	?	?	PUNCT	.	_	1	punct	_	start_char=97|end_char=98
+

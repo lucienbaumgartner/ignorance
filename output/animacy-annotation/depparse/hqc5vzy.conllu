@@ -1,0 +1,24 @@
+1	Probably	probably	ADV	RB	_	9	advmod	_	start_char=0|end_char=8
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=9|end_char=12
+3	only	only	ADJ	JJ	Degree=Pos	4	amod	_	start_char=13|end_char=17
+4	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=18|end_char=24
+5	on	on	ADP	IN	_	6	case	_	start_char=25|end_char=27
+6	earth	earth	NOUN	NN	Number=Sing	4	nmod	_	start_char=28|end_char=33
+7	100	100	NUM	CD	NumType=Card	8	nummod	_	start_char=34|end_char=37
+8	%	%	SYM	NN	Number=Sing	9	obl:npmod	_	start_char=37|end_char=38
+9	unaffected	unaffected	ADJ	JJ	Degree=Pos	0	root	_	start_char=39|end_char=49
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=61
+12	of	of	ADP	IN	_	14	case	_	start_char=62|end_char=64
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=65|end_char=68
+14	pandemic	pandemic	NOUN	NN	Number=Sing	11	obl	_	start_char=69|end_char=77
+15	.	.	PUNCT	.	_	9	punct	_	start_char=77|end_char=78
+
+1	Crazy	crazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=79|end_char=84
+2	when	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=85|end_char=89
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=90|end_char=93
+4	think	think	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=94|end_char=99
+5	about	about	ADP	IN	_	6	case	_	start_char=100|end_char=105
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=106|end_char=108
+7	.	.	PUNCT	.	_	1	punct	_	start_char=108|end_char=109
+

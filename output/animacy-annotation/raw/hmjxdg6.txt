@@ -1,0 +1,1 @@
+To add anecdotal experience, I've talked to a few indie devs pre-Epic Achievements and it was a mix of who were aware and unaware of how to even implement the internal Achievements (this includes games that already had Achievements on Steam).  So I wouldn't doubt if it's YMMV for the Epic XP Achievements.

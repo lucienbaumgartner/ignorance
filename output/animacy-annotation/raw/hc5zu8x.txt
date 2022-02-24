@@ -1,0 +1,21 @@
+&gt;It seems like windows server is better suited for you then.
+
+No. No, no, no. That is not how this works. It is not "If you want GUIs, use Windows, if you don't use Linux." That is insanely stupid and ignorant of how and why one would choose Linux intentionally or utilize GUIs on their server.
+
+&gt;It depends, on many thing but, if it's an IT guy, learning CLI is good for him, and I would say good for the company if he is not a contractor.
+
+Let's take the example of a small business in which IT is literally one person, and the owner wants to be able to do something on the server. The owner will *never* learn the GUI. But it is probably better to give him access to the server to do whatever it is he wants because, if you don't do it now he's gonna demand it later, or worse, break something in the CLI.
+
+GUIs provide dumbed-down idiot-safe interfaces to the server. These interfaces are for people who may need or deserve access to the server, but cannot be trusted to actually directly interface with the server.
+
+Another good example; the server is only meant to be run during business hours. Normally it shuts down and starts up automatically, but managers need to be able to disable this automatic functionality and override it for holidays, events, or early shutdowns.
+
+There are a variety of other reasons for why someone who shouldn't be trusted with a CLI interface, and very likely would be greatly intimidated and frustrated by one, may need access to a server. Accounting may, for example, need to verify input data for a timecard system. I could go on.
+
+&gt;If he isn't an IT guy, a well written procedure should suffice. Worst case, get a webui.
+
+A webui has a variety of it's own specialty issues, such as connecting the computer to at the very least the LAN.
+
+&gt;And if what you need is UI for people to use the server, then I'd say use windows server.
+
+No. Use Linux with a GUI because there's no reason not to. You can very easily make it so that the GUI does not take up resources until called on. Most notably, it's easy to tell people "type in this command and hit enter" then let them use the GUI. This is as opposed to trying to sheepishly guide them through CLI.

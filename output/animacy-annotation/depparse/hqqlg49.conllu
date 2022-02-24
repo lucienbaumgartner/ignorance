@@ -1,0 +1,64 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=5
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=6|end_char=7
+4	friend	friend	NOUN	NN	Number=Sing	2	obj	_	start_char=8|end_char=14
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=15|end_char=19
+6	sang	sing	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=20|end_char=24
+7	at	at	ADP	IN	_	9	case	_	start_char=25|end_char=27
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=28|end_char=30
+9	wedding	wedding	NOUN	NN	Number=Sing	6	obl	_	start_char=31|end_char=38
+10	.	.	PUNCT	.	_	2	punct	_	start_char=38|end_char=39
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=41|end_char=44
+2	spent	spend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=45|end_char=50
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=51|end_char=54
+4	pandemic	pandemic	NOUN	NN	Number=Sing	2	obj	_	start_char=55|end_char=63
+5	getting	get	AUX	VBG	VerbForm=Ger	6	aux:pass	_	start_char=64|end_char=71
+6	radicalized	radicalize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	start_char=72|end_char=83
+7	online	online	ADV	RB	_	6	advmod	_	start_char=84|end_char=90
+8	and	and	CCONJ	CC	_	13	cc	_	start_char=91|end_char=94
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=95|end_char=97
+10	now	now	ADV	RB	_	13	advmod	_	start_char=98|end_char=101
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=102|end_char=103
+12	raging	raging	NOUN	NN	Number=Sing	13	compound	_	start_char=104|end_char=110
+13	q.	P.	NOUN	NN	Number=Sing	2	conj	_	start_char=111|end_char=113
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=114|end_char=117
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=117|end_char=119
+3	anti	anti	ADJ	JJ	Degree=Pos	4	amod	_	start_char=120|end_char=124
+4	vaccine	vaccine	NOUN	NN	Number=Sing	0	root	_	start_char=125|end_char=132
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=133|end_char=136
+6	anti	anti	NOUN	NN	Number=Sing	7	compound	_	start_char=137|end_char=141
+7	mask	mask	NOUN	NN	Number=Sing	4	conj	_	start_char=142|end_char=146
+8	.	.	PUNCT	.	_	4	punct	_	start_char=146|end_char=147
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=148|end_char=151
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=152|end_char=155
+3	just	just	ADV	RB	_	4	advmod	_	start_char=156|end_char=160
+4	started	start	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=161|end_char=168
+5	cancer	cancer	NOUN	NN	Number=Sing	6	compound	_	start_char=169|end_char=175
+6	treatments	treatment	NOUN	NNS	Number=Plur	4	obj	_	start_char=176|end_char=186
+7	.	.	PUNCT	.	_	4	punct	_	start_char=186|end_char=187
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=189|end_char=190
+2	fear	fear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=191|end_char=195
+3	for	for	ADP	IN	_	5	case	_	start_char=196|end_char=199
+4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=200|end_char=203
+5	life	life	NOUN	NN	Number=Sing	2	obl	_	start_char=204|end_char=208
+6	,	,	PUNCT	,	_	11	punct	_	start_char=208|end_char=209
+7	but	but	CCONJ	CC	_	11	cc	_	start_char=210|end_char=213
+8	no	no	DET	DT	_	9	det	_	start_char=214|end_char=216
+9	one	one	NOUN	NN	Number=Sing	11	nsubj	_	start_char=217|end_char=220
+10	can	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=221|end_char=224
+11	tell	tell	VERB	VB	VerbForm=Inf	2	conj	_	start_char=225|end_char=229
+12	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=230|end_char=233
+13	anything	anything	PRON	NN	Number=Sing	11	obj	_	start_char=234|end_char=242
+14	.	.	PUNCT	.	_	2	punct	_	start_char=242|end_char=243
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=245|end_char=248
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=249|end_char=251
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=252|end_char=260
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=261|end_char=264
+5	brainwashed	brainwash	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=265|end_char=276
+6	.	.	PUNCT	.	_	3	punct	_	start_char=276|end_char=277
+

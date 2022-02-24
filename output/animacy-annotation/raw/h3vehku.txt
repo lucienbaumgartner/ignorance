@@ -1,0 +1,1 @@
+No, the host is fine and unaware of the time loops, because of the reset. The experiments show what happens when you turn the reset off.

@@ -1,0 +1,35 @@
+1	Human	human	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=5
+2	shaped	shape	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=6|end_char=12
+3	pitbull	pitbull	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=20
+4	?	?	PUNCT	.	_	3	punct	_	start_char=20|end_char=21
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=22|end_char=26
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=27|end_char=32
+3	no	no	DET	DT	_	4	det	_	start_char=33|end_char=35
+4	sense	sense	NOUN	NN	Number=Sing	2	obj	_	start_char=36|end_char=41
+5	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=43|end_char=45
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=46|end_char=50
+3	implying	imply	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=51|end_char=59
+4	pitbulls	pitbull	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=60|end_char=68
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=69|end_char=72
+6	more	more	ADV	RBR	_	7	advmod	_	start_char=73|end_char=77
+7	aggressive	aggressive	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=78|end_char=88
+8	than	than	ADP	IN	_	10	case	_	start_char=89|end_char=93
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	start_char=94|end_char=99
+10	dogs	dog	NOUN	NNS	Number=Plur	7	obl	_	start_char=100|end_char=104
+11	?	?	PUNCT	.	_	3	punct	_	start_char=104|end_char=105
+
+1	Simply	simply	ADV	RB	_	3	advmod	_	start_char=106|end_char=112
+2	not	not	PART	RB	_	3	advmod	_	start_char=113|end_char=116
+3	true	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=117|end_char=121
+4	,	,	PUNCT	,	_	6	punct	_	start_char=121|end_char=122
+5	very	very	ADV	RB	_	6	advmod	_	start_char=123|end_char=127
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=128|end_char=136
+7	,	,	PUNCT	,	_	10	punct	_	start_char=136|end_char=137
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=138|end_char=141
+9	ultimately	ultimately	ADV	RB	_	10	advmod	_	start_char=142|end_char=152
+10	sad	sad	ADJ	JJ	Degree=Pos	3	conj	_	start_char=153|end_char=156
+11	.	.	PUNCT	.	_	3	punct	_	start_char=156|end_char=157
+

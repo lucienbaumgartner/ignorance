@@ -1,0 +1,18 @@
+If we take what you said as true then the reason the servers are down can be accounted to the non-payment of monthly server costs. If mdparity is absent then the servers will expire unless sufficient payment was made. As markets typically switch servers now and again because of attacks and LE pressure, we can presume that mdparity likely pays his server costs each month rather than say, 6 months in advance. I make this conclusion also because mdparity has been seen in the last 6 months and the servers only went dark last week.
+
+
+If the BlackBank servers went dark last Sunday, then the chances are mdparity vanished 1-3 weeks before that, under the presumption that the downtime is because of server non-payment. When was the last time mdpairty was heard from?
+
+
+
+If he has died, then BlackBank ends there and the Bitcoins never move from the current wallets. If arrested, then mdparity will have already been questioned by law enforcement since around two weeks have past, and law enforcement will question him within the first ~5 days, sometimes the same day as the arrest. Since the Bitcoin is not reported to have moved from any of the wallets then we can assume that either mdparity has refused to cooperate with law enforcement, has died/injured, or is a free man and is exit scamming/innocent and unaware that his servers are down.
+
+
+
+The servers not showing a seizure notice indicate he has not cooperated/been arrested, but it's possible for law enforcement to take the market down without putting up a notice. The Bitcoins have not moved, and law enforcement do not necessarily know that MrDoe does not have copies of the private keys, so had law enforcement seized the servers the Bitcoin would be moved instantly to prevent salvage by MrDoe. I would say we can likely conclude from this evidence that BlackBank has not been seized by law enforcement. The standard procedure for law enforcement is to put up a seizure notice unless doing so would jeopardize an investigation.
+
+Servers can go down unexpectedly for a variety or reasons. mdparity could simply be on a short vacation, leaving his administrative work to MrDoe, and has no knowledge that his servers are down and this situation is unfolding. As of the nature of the darknet and anonymity, MrDoe has no way of contacting mdparity to inform him of the situation.
+
+
+
+It's too soon to know what has happened, but those are some possible reasons for the current events.

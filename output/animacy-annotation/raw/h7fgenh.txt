@@ -1,0 +1,3 @@
+I'm leaning towards a mechanic where your HP is effectively one. Any unobstructed hit (stabbed in the chest while sleeping, sniper shot while unaware and unarmored) is fatal. Combat and even social situations are all about finding that opportunity and denying it to your opponent.
+
+But against an aware combatant, you have to whittle down their stats (Reflex and Endurance per se) until they can't defend themselves.

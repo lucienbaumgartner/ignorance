@@ -1,0 +1,46 @@
+1	All	all	DET	PDT	_	3	det:predet	_	start_char=0|end_char=3
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=4|end_char=8
+3	responses	response	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=9|end_char=18
+4	read	read	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=23
+5	as	as	ADP	IN	_	11	case	_	start_char=24|end_char=26
+6	very	very	ADV	RB	_	7	advmod	_	start_char=27|end_char=31
+7	socially	socially	ADV	RB	Degree=Pos	8	advmod	_	start_char=32|end_char=40
+8	unaware	unaware	ADJ	JJ	Degree=Pos	11	amod	_	start_char=41|end_char=48
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=49|end_char=52
+10	lacking	lack	ADJ	JJ	Degree=Pos	8	conj	_	start_char=53|end_char=60
+11	empathy	empathy	NOUN	NN	Number=Sing	4	obl	_	start_char=61|end_char=68
+12	.	.	PUNCT	.	_	4	punct	_	start_char=68|end_char=69
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=70|end_char=74
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	_	start_char=75|end_char=78
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux:pass	_	start_char=79|end_char=83
+4	tested	test	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=84|end_char=90
+5	for	for	ADP	IN	_	9	case	_	start_char=91|end_char=94
+6	any	any	DET	DT	_	9	det	_	start_char=95|end_char=98
+7	mental	mental	ADJ	JJ	Degree=Pos	8	amod	_	start_char=99|end_char=105
+8	health	health	NOUN	NN	Number=Sing	9	compound	_	start_char=106|end_char=112
+9	issues	issue	NOUN	NNS	Number=Plur	4	obl	_	start_char=113|end_char=119
+10	?	?	PUNCT	.	_	4	punct	_	start_char=119|end_char=120
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=123|end_char=124
+2	proper	proper	ADJ	JJ	Degree=Pos	3	amod	_	start_char=125|end_char=131
+3	diagnosis	diagnosis	NOUN	NN	Number=Sing	5	nsubj	_	start_char=132|end_char=141
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=142|end_char=147
+5	help	help	VERB	VB	VerbForm=Inf	0	root	_	start_char=148|end_char=152
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	_	start_char=153|end_char=156
+7	process	process	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=157|end_char=164
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=165|end_char=169
+9	feelings	feeling	NOUN	NNS	Number=Plur	7	obj	_	start_char=170|end_char=178
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=179|end_char=182
+11	better	well	ADV	RBR	Degree=Cmp	12	advmod	_	start_char=183|end_char=189
+12	understand	understand	VERB	VB	VerbForm=Inf	7	conj	_	start_char=190|end_char=200
+13	why	why	SCONJ	WRB	PronType=Int	20	mark	_	start_char=201|end_char=204
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=205|end_char=209
+15	perception	perception	NOUN	NN	Number=Sing	20	nsubj	_	start_char=210|end_char=220
+16	of	of	ADP	IN	_	17	case	_	start_char=221|end_char=223
+17	friendships	friendship	NOUN	NNS	Number=Plur	15	nmod	_	start_char=224|end_char=235
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=236|end_char=238
+19	not	not	PART	RB	_	20	advmod	_	start_char=239|end_char=242
+20	healthy	healthy	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=243|end_char=250
+21	.	.	PUNCT	.	_	5	punct	_	start_char=250|end_char=251
+

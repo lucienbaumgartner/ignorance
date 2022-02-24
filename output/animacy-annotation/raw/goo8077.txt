@@ -1,0 +1,1 @@
+Or they're just incompetent and unaware that password can be brute force by a NVIDIA 3090 in matters of seconds. Passwordless signon is the way to go, with combination of biometric signon.

@@ -1,0 +1,1 @@
+Early game for me one of the characters' gun wasn't rendering so it looked like he was "pretend firing" a gun but still damaging stuff. Same character later on started pathing towards a doorway, completely unaware and unfazed by anything in his way, so things started getting thrown around and destroyed as he casually walked through everything.

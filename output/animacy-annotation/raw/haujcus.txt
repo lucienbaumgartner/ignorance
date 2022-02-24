@@ -1,0 +1,4 @@
+It's pretty clear they don't do much at all given how they:
+* were founded a year earlier but have only one suborbital flight to show for it while SpaceX have dozens of orbits, landings, booster refurbishments, and a handful of crew missions under their belt
+* promised ULA some BE-4 engines and, when beset with delays, proceeded to try to [negotiate a higher price](https://arstechnica.com/science/2031/08/blue-origins-powerful-be-4-engine-is-more-than-four-years-late-heres-why/)
+* in their protest to the GAO against SpaceX's award of the HLS contract, cited Starship's failed prototypes as evidence that SpaceX is a risky and ineffective choice of contractor, which either means they are stupid and ignorant of how R&amp;D works or they are arguing in bad faith and think NASA and the GAO are stupid

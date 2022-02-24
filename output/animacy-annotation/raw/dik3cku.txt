@@ -1,0 +1,3 @@
+Warranty and outputs are an insignificant portion of the BOM cost. The part that matters is the GPU core, and thats goign to cost them the same whether it goes into a $250 gaming card or a $200 Crypto-special.
+
+And second hand market is already accounted for internally, they aren't running around blind and unaware that other hardware exists.

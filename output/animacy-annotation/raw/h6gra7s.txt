@@ -1,0 +1,8 @@
+Calling a valid solution asinine doesn't make it so.
+
+1. Modern Ubuntu doesn't function THAT differently from Windows to the end user - skills kids learn will carry over from Ubuntu to Windows 10 and MacOS arguably as well as from XP. Sure, the admin'll be different, so, obviously, adequate considerations should be made. But given it's an institution of learning, it's not a given that staff with appropriate skills is not already available, just not utilized.
+2. If the old app works well with Wine (which obviously you would determine before moving to it), it'll do so transparently to the end users - so anyone trained with the app will still be able to use it just as they do on XP.
+
+I'd argue staying on a long out of date insecure OS is a more asinine suggestion for anyone concerned about that in the first place.
+
+The above assertion that Ubuntu is completely alien and useless outside of servers is really quite outdated and ignorant of the current state of things.

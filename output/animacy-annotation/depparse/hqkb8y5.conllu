@@ -1,0 +1,35 @@
+1	Bullshit	bullshit	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=8
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=9|end_char=12
+3	stupid	stupid	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=13|end_char=19
+4	fuck	fuck	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=20|end_char=24
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=25|end_char=29
+6	so	so	ADV	RB	_	7	advmod	_	start_char=30|end_char=32
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=33|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=53
+10	of	of	ADP	IN	_	12	case	_	start_char=54|end_char=56
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=57|end_char=60
+12	facts	fact	NOUN	NNS	Number=Plur	9	obl	_	start_char=61|end_char=66
+13	.	.	PUNCT	.	_	1	punct	_	start_char=66|end_char=67
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=68|end_char=71
+2	probably	probably	ADV	RB	Degree=Pos	3	advmod	_	start_char=72|end_char=80
+3	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=81|end_char=86
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=87|end_char=89
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=89|end_char=91
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=92|end_char=93
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	_	start_char=94|end_char=98
+8	person	person	NOUN	NN	Number=Sing	3	ccomp	_	start_char=99|end_char=105
+9	.	.	PUNCT	.	_	3	punct	_	start_char=105|end_char=106
+
+1	In	in	ADP	IN	_	3	case	_	start_char=107|end_char=109
+2	no	no	DET	DT	_	3	det	_	start_char=110|end_char=112
+3	way	way	NOUN	NN	Number=Sing	6	obl	_	start_char=113|end_char=116
+4	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=117|end_char=119
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=120|end_char=121
+6	describing	describe	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=122|end_char=132
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=133|end_char=136
+8	Kkk	Kkk	PROPN	NNP	Number=Sing	6	obj	_	start_char=137|end_char=140
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=141|end_char=144
+10	idiot	idiot	NOUN	NN	Number=Sing	6	obj	_	start_char=145|end_char=150
+

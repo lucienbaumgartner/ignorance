@@ -1,0 +1,5 @@
+"Fat model, skinny controller" is the notion that business logic should reside in classes we call "models" (but maybe are better called "services"), which are unaware and independent of any views and controllers, and are often not coupled to any framework. In the context of web apps, it means isolating HTTP handling concerns from business logic concerns, for better maintainability and reuse.
+
+This is what OP actually supports. But he's decided "fat model, skinny controller" means something else.
+
+So move along, nothing to see here.

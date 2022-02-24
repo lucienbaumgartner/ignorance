@@ -1,0 +1,19 @@
+1	More	more	ADV	RBR	_	7	advmod	_	start_char=0|end_char=4
+2	than	than	ADP	IN	_	3	case	_	start_char=5|end_char=9
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	1	obl	_	start_char=10|end_char=14
+4	,	,	PUNCT	,	_	7	punct	_	start_char=14|end_char=15
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=16|end_char=19
+6	close	close	ADV	RB	Degree=Pos	7	advmod	_	start_char=20|end_char=25
+7	minded	minded	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=32
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=33|end_char=36
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=37|end_char=44
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=45|end_char=49
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	start_char=50|end_char=55
+12	countries	country	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=56|end_char=65
+13	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=66|end_char=70
+14	different	different	ADJ	JJ	Degree=Pos	15	amod	_	start_char=71|end_char=80
+15	costumes	costume	NOUN	NNS	Number=Plur	13	obj	_	start_char=81|end_char=89
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=90|end_char=93
+17	practices	practice	NOUN	NNS	Number=Plur	15	conj	_	start_char=94|end_char=103
+18	.	.	PUNCT	.	_	7	punct	_	start_char=103|end_char=104
+

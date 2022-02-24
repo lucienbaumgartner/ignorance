@@ -1,0 +1,3 @@
+source animacy3.7.11/bin/activate
+cd phd/projects/done/tc_methods_paper/output/animacy-annotation/animacy_multicore/
+OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES python /Users/lucienbaumgartner/animacy3.7.11/lib/python3.7/site-packages/xrenner/xrenner.py -o html -x GUM "../depparse-2/*.conllu"

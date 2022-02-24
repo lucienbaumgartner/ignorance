@@ -1,0 +1,13 @@
+There’s a ton of guides and reasons for it. Read it for yourself. Test it for yourself. I didn’t believe it until I started doing it. A lot better performance on my 120hz monitor and using a 3080. I just can’t imagine being so stubborn and ignorant that I speak without trying. Personally, I thought the same before testing it. Difference between you and I is that I actually used both scenarios before talking shit. 
+
+https://linustechtips.com/topic/918492-g-sync-with-v-sync/
+
+“Depends what you want. 
+ 
+GSync with VSync will use GSync when below the monitor's maximum refresh rate, then switch to VSync when you go over it. This will prevent tearing, but in the event you go over your monitors refresh rate, you may encounter the input delay that VSync can cause. 
+ 
+GSync without VSync will use GSync when below the monitor's maximum refresh rate, then turn off GSync and allow the game to run above the monitor's refresh rate if you go over it. This means you don't get the input delay VSync can cause, but it also means you may encounter tearing when over the monitor's refresh rate. 
+ 
+If you have VSync enabled in Nvidia control panel, you should have it off in game. If you have it on, there's a chance it will try to use VSync when below the monitor's refresh rate as well.”
+
+https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/252015/understanding-how-g-sync-and-v-sync-work-together/

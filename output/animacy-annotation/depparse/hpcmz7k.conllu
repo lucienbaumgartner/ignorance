@@ -1,0 +1,75 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	replying	reply	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=4|end_char=12
+3	dramatically	dramatically	ADV	RB	_	2	advmod	_	start_char=13|end_char=25
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=26|end_char=30
+5	n't	not	PART	RB	_	6	advmod	_	start_char=30|end_char=33
+6	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=34|end_char=38
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=39|end_char=42
+8	any	any	DET	DT	_	11	det	_	start_char=43|end_char=46
+9	more	more	ADV	RBR	_	10	advmod	_	start_char=47|end_char=51
+10	right	right	ADJ	JJ	Degree=Pos	11	amod	_	start_char=52|end_char=57
+11	dude	dude	NOUN	NN	Number=Sing	6	obj	_	start_char=58|end_char=62
+12	.	.	PUNCT	.	_	6	punct	_	start_char=62|end_char=63
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=64|end_char=67
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=67|end_char=70
+3	just	just	ADV	RB	_	5	advmod	_	start_char=71|end_char=75
+4	objectively	objectively	ADV	RB	_	5	advmod	_	start_char=76|end_char=87
+5	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=88|end_char=93
+6	.	.	PUNCT	.	_	5	punct	_	start_char=93|end_char=94
+
+1	Socialist	socialist	ADJ	JJ	Degree=Pos	2	amod	_	start_char=95|end_char=104
+2	policy	policy	NOUN	NN	Number=Sing	3	nsubj	_	start_char=105|end_char=111
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=112|end_char=115
+4	nothing	nothing	PRON	NN	Number=Sing	3	obj	_	start_char=116|end_char=123
+5	to	to	PART	TO	_	6	mark	_	start_char=124|end_char=126
+6	do	do	VERB	VB	VerbForm=Inf	4	acl	_	start_char=127|end_char=129
+7	with	with	ADP	IN	_	8	case	_	start_char=130|end_char=134
+8	means	means	NOUN	NNS	Number=Plur	6	obl	_	start_char=135|end_char=140
+9	of	of	ADP	IN	_	10	case	_	start_char=141|end_char=143
+10	production	production	NOUN	NN	Number=Sing	8	nmod	_	start_char=144|end_char=154
+11	.	.	PUNCT	.	_	3	punct	_	start_char=154|end_char=155
+
+1	Either	either	DET	DT	_	2	det	_	start_char=158|end_char=164
+2	way	way	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=165|end_char=168
+3	,	,	PUNCT	,	_	8	punct	_	start_char=168|end_char=169
+4	countries	country	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=170|end_char=179
+5	moving	move	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=180|end_char=186
+6	towards	towards	ADP	IN	_	7	case	_	start_char=187|end_char=194
+7	progress	progress	NOUN	NN	Number=Sing	5	obl	_	start_char=195|end_char=203
+8	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=204|end_char=207
+9	socialist	socialist	ADJ	JJ	Degree=Pos	10	amod	_	start_char=208|end_char=217
+10	policies	policy	NOUN	NNS	Number=Plur	8	obj	_	start_char=218|end_char=226
+11	.	.	PUNCT	.	_	8	punct	_	start_char=226|end_char=227
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=228|end_char=232
+2	initial	initial	ADJ	JJ	Degree=Pos	3	amod	_	start_char=233|end_char=240
+3	statement	statement	NOUN	NN	Number=Sing	5	nsubj	_	start_char=241|end_char=250
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=251|end_char=253
+5	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=254|end_char=259
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=260|end_char=263
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=264|end_char=271
+8	of	of	ADP	IN	_	9	case	_	start_char=272|end_char=274
+9	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=275|end_char=282
+10	.	.	PUNCT	.	_	5	punct	_	start_char=282|end_char=283
+
+1	Take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=286|end_char=290
+2	care	care	NOUN	NN	Number=Sing	1	obj	_	start_char=291|end_char=295
+3	,	,	PUNCT	,	_	1	punct	_	start_char=295|end_char=296
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=297|end_char=298
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=299|end_char=301
+6	n't	not	PART	RB	_	7	advmod	_	start_char=301|end_char=304
+7	care	care	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=305|end_char=309
+8	to	to	PART	TO	_	9	mark	_	start_char=310|end_char=312
+9	argue	argue	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=313|end_char=318
+10	with	with	ADP	IN	_	12	case	_	start_char=319|end_char=323
+11	pure	pure	ADJ	JJ	Degree=Pos	12	amod	_	start_char=324|end_char=328
+12	ego	ego	NOUN	NN	Number=Sing	9	obl	_	start_char=329|end_char=332
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=333|end_char=336
+14	baseless	baseless	ADJ	JJ	Degree=Pos	17	amod	_	start_char=337|end_char=345
+15	"	"	PUNCT	``	_	17	punct	_	start_char=346|end_char=347
+16	Dear	dear	ADJ	JJ	Degree=Pos	17	amod	_	start_char=347|end_char=351
+17	God	God	PROPN	NNP	Number=Sing	12	conj	_	start_char=352|end_char=355
+18	"	"	PUNCT	''	_	17	punct	_	start_char=355|end_char=356
+19	s	's	PART	POS	_	17	case	_	start_char=356|end_char=357
+

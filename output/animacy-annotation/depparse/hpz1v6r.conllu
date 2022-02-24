@@ -1,0 +1,31 @@
+1	To	to	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obl	_	start_char=3|end_char=5
+3	,	,	PUNCT	,	_	6	punct	_	start_char=5|end_char=6
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=7|end_char=9
+5	just	just	ADV	RB	_	6	advmod	_	start_char=10|end_char=14
+6	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=15|end_char=21
+7	like	like	SCONJ	IN	_	10	mark	_	start_char=22|end_char=26
+8	Biden	Biden	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=27|end_char=32
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=33|end_char=36
+10	senile	senile	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=37|end_char=43
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=44|end_char=47
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=48|end_char=55
+13	of	of	ADP	IN	_	14	case	_	start_char=56|end_char=58
+14	what	what	PRON	WP	PronType=Int	12	obl	_	start_char=59|end_char=63
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	start_char=64|end_char=67
+16	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	14	acl:relcl	_	start_char=68|end_char=77
+17	as	as	ADP	IN	_	18	case	_	start_char=78|end_char=80
+18	usual	usual	ADJ	JJ	Degree=Pos	16	obl	_	start_char=81|end_char=86
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=88|end_char=90
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=90|end_char=92
+3	like	like	ADP	IN	_	5	case	_	start_char=93|end_char=97
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=98|end_char=99
+5	6/10	6/10	NUM	CD	NumType=Card	0	root	_	start_char=100|end_char=104
+6	for	for	ADP	IN	_	7	case	_	start_char=105|end_char=108
+7	funny	funny	ADJ	JJ	Degree=Pos	5	nmod	_	start_char=109|end_char=114
+8	,	,	PUNCT	,	_	11	punct	_	start_char=114|end_char=115
+9	not	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=116|end_char=119
+10	too	too	ADV	RB	_	11	advmod	_	start_char=120|end_char=123
+11	impressive	impressive	ADJ	JJ	Degree=Pos	5	conj	_	start_char=124|end_char=134
+

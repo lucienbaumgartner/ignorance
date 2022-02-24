@@ -1,0 +1,1 @@
+Respectfully, this is a very bad idea. That's almost double the work for practically no benefit. However, making a prototype in each style might be beneficial to getting a feel for which style you like more. You could make the core systems be abstract and unaware of which "style" you game is presented as.

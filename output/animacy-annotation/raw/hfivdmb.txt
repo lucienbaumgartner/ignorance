@@ -1,0 +1,17 @@
+&gt; N=60 is a small sample size.
+
+Again, you haven't given a single reason. A power analysis, a comparable study with a larger sample, a results-based argument that the study is underpowered -- nothing. Whereas, as I pointed out, the study is sufficiently powered to detect the reported effect.
+
+&gt; “Executive function” does not represent “readiness to learn.”
+
+That's an interesting argument. Not sure why you're only bringing it up now, but to address it: Executive function is a set of abilities that includes paying attention, behaving with self-control, staying calm and focused, sustaining working memory, etc. These subserve higher-order executive functions like problem-solving. Since most people don't know what executive function is, I think it's entirely fair to to report this finding as "readiness to learn" to a lay audience, though the study itself doesn't even mention learning.
+
+&gt; If you want “proficient” answers, check the peer reviews.
+
+If you had any meaningful experience in peer review, you would know that peer reviews are almost never made available to anyone but the authors and the editors.
+
+&gt; The entire point of my argument is that there is ONE study supporting OPs perspective
+
+If that's the point of your argument, then why did you not even mention it in the original comment? You didn't talk about the number of times similar results have been reported; you made baseless criticisms of the study.
+
+This is a classic case of unskilled and unaware of it. If you've even never gone to grad school, then why would you assume that your review captures mistakes missed by actual scientists?

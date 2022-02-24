@@ -1,0 +1,20 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	stupid	stupid	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=36
+7	that	that	SCONJ	IN	_	18	mark	_	start_char=37|end_char=41
+8	thinking	think	VERB	VBG	VerbForm=Ger	18	csubj	_	start_char=42|end_char=50
+9	treating	treat	VERB	VBG	VerbForm=Ger	8	xcomp	_	start_char=51|end_char=59
+10	someone	someone	PRON	NN	Number=Sing	9	obj	_	start_char=60|end_char=67
+11	differently	differently	ADV	RB	_	9	advmod	_	start_char=68|end_char=79
+12	based	base	VERB	VBN	Tense=Past|VerbForm=Part	9	xcomp	_	start_char=80|end_char=85
+13	on	on	ADP	IN	_	15	case	_	start_char=86|end_char=88
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=89|end_char=94
+15	genetics	genetics	NOUN	NNS	Number=Plur	12	obl	_	start_char=95|end_char=103
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=104|end_char=106
+17	n't	not	PART	RB	_	18	advmod	_	start_char=106|end_char=109
+18	discrimination	discrimination	NOUN	NN	Number=Sing	1	advcl	_	start_char=110|end_char=124
+19	.	.	PUNCT	.	_	1	punct	_	start_char=124|end_char=125
+

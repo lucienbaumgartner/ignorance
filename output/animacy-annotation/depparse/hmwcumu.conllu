@@ -1,0 +1,34 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	because	because	SCONJ	IN	_	9	mark	_	start_char=11|end_char=18
+5	Muslim	Muslim	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=19|end_char=25
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=26|end_char=28
+7	not	not	PART	RB	_	9	advmod	_	start_char=29|end_char=32
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=33|end_char=34
+9	race	race	NOUN	NN	Number=Sing	3	advcl	_	start_char=35|end_char=39
+10	.	.	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=41|end_char=43
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=43|end_char=45
+3	so	so	ADV	RB	_	4	advmod	_	start_char=46|end_char=48
+4	damn	damn	ADV	RB	_	5	advmod	_	start_char=49|end_char=53
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=60
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=61|end_char=64
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=65|end_char=73
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=74|end_char=78
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=79|end_char=81
+10	just	just	ADV	RB	_	11	advmod	_	start_char=82|end_char=86
+11	assumes	assume	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=87|end_char=94
+12	Muslim	Muslim	PROPN	NNP	Number=Sing	16	nsubj	_	start_char=95|end_char=101
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=102|end_char=104
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=105|end_char=106
+15	general	general	ADJ	JJ	Degree=Pos	16	amod	_	start_char=107|end_char=114
+16	term	term	NOUN	NN	Number=Sing	11	ccomp	_	start_char=115|end_char=119
+17	for	for	ADP	IN	_	21	case	_	start_char=120|end_char=123
+18	middle	middle	ADJ	JJ	Degree=Pos	20	amod	_	start_char=124|end_char=130
+19	-	-	PUNCT	HYPH	_	20	punct	_	start_char=130|end_char=131
+20	eastern	eastern	ADJ	JJ	Degree=Pos	21	amod	_	start_char=131|end_char=138
+21	folks	folk	NOUN	NNS	Number=Plur	16	nmod	_	start_char=139|end_char=144
+22	.	.	PUNCT	.	_	5	punct	_	start_char=144|end_char=145
+

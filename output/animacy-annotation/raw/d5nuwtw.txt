@@ -1,0 +1,10 @@
+I disagree, my position is that a rankingsystem should be purely based on winrate vs different opponents. If a gameplaystyle is OP which requires very little skill there is something wrong with the game and there should be changes in the gamebalance, not by just excluding games played in that way from the ranking. I also think that not the ranking should not be based on skill, but winning, and that the game should be based on skill, so in this case if your other assumptions are correct, the problem should be solved on the game-side and not the ranking-side.
+
+Absolutely, learning to helorush is a lot easier to do and execute to play at the "same level"(lets define level as Elo- range for the purpose of this example) then normal gameplay, in terms of time needed.
+
+However I think you underestimate skill needed to properly helorush. They are not the same skills needed for standard gameplay, but they are skills nonetheless. You need to come up with the deployment, the correct formation, very fast micro, correct responses to possible enemy deployments, types of responses to helorushes and the correct frequency to rush. 
+
+The hardest of those is to adjust the correct frequency based on all the other factors.
+
+Yes, you can just spam mi-25 and leftclick on the enemy spawn and get a decent amount of winrate vs an unaware and unprepared opponent, but to achieve the full potential of a helorush requires a lot of correct descisionmaking, in preparation and a lot of very fast descisionmaking, ingame (same applies for defending vs a helorush). 
+

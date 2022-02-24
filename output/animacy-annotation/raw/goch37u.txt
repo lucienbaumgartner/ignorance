@@ -1,0 +1,23 @@
+Comparing the US and UK's crime clearance rates is instructive here, and I already happen to have this data from a previous argument about exactly the same thing.
+
+According to the US's NCVS (National Crime Victimization Survey), the US had about [21 million violent crimes + thefts](https://www.bjs.gov/content/pub/pdf/cv18.pdf) in 2018. According to the FBI, we had 10.3 million arrests in 2018.
+
+According to the UK, they had [698,737 arrests](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/number-of-arrests/latest) over the same period. [The CSEW](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingmarch2018) (Crime Survey for England and Wales) put it at 1,259,000 violent crimes and 3,585,000 thefts.
+
+Note that these figures are a bit misleading; a naive view of the US stats would suggest that we're capturing a bit less than 50% of all criminals. Remember, however, that some crimes have multiple perpetrators, and some crimes (such as drug crimes and DUIs) don't have "victims" (so won't show up in the NCVS), so the [actual clearance rate](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/clearances) is about 46% for violent crimes and about 18% for property crimes.
+
+The comparable figure in the UK is apparently a depressing [9%.](https://www.bbc.com/news/uk-44884113) The violent crime clearance rate there is only 11%, which is less than 1/4th the US rate, and the theft clearance rate is apparently around 6%, which is about 1/3rd the US rate.
+
+So yeah, the differences are pretty stark.
+
+---
+
+Life pro tip: there's something known as the Dunning-Kruger Effect and illusory superiority.
+
+If you condescend at someone, but have no data to back up your beliefs, it probably means that you are the one who is ignorant and unaware of it.
+
+It would have taken you only a few minutes of googling to find things like this, but you didn't even bother. Instead, you simply talked about how I have been "enabled" to become so "ignorant".
+
+You are the problem.
+
+You, personally.

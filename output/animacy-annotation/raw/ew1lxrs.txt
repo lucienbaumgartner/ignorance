@@ -1,0 +1,11 @@
+The hardest to start with is Arch due to the manual install (not that hard but can be daunting for a beginner), but everything you will ever want or need is available in the Arch User Repository (AUR). Arch is a rolling distro meaning it gets updated constantly, but it always been extremely stable for me. I have heard horror stories about failed updates and messed up installs. ***Can say, "I use Arch btw" but nobody really gives a shit.*** (I use Arch, btw... and KDE Neon)
+
+Manjaro is good, based on Arch, has an installer, many choices for Desktop Environments (Plasma, XFCE, Gnome, Budgie, etc) and Window Managers (i3, BSPWM, Awesome), I believe they have access to the AUR (any Manjaro users please chime in here), good community. I've never used it but have heard both good and bad stories about it. ***Will be hated by actual Arch forum users, I'm kidding, well not really...***
+
+KDE Neon is good, based on Ubuntu LTS, Minimal Plasma Desktop only, easy installer, Ubuntu forums are very helpful. The KDE Plamsa desktop and select programs are rolling, while the Ubuntu base is not. I've also heard stories about it being a "franken-distro" but my install is so stable it's almost boring. (I like to tweak things)
+
+As for a DEs, Plasma and XFCE seem to be the easiest to start with due to their flexibility. They are the two I use, Arch XFCE and KDE Neon Plasma, so I'm probably a little bias. They have flexible panels, widgets and settings to tweak. Gnome, Budgie, and others not so much. Extensions can help but get broken from time to time. WMs like i3, well they open a whole world of possibilities but you will probably be editing config files by hand. 
+
+My advice? Grab Manjaro, pick your favorite DE or WM and use it as a live cd. Look at their config files and start messing with them and see what happens. If you break something, reboot, and try again. You do something you really like write it down or take a screen shot with your phone of your changes. My phone used to be full of config screen shots. Search Unixporn using your DE or WM as a filter and look at what others have done.
+
+Well that was a lot longer than I intended but remember, we all started a newbies, unaware and stupid are two vastly different things. You are not stupid! Good Luck!

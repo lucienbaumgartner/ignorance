@@ -1,0 +1,16 @@
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=6|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=13|end_char=16
+4	so	so	ADV	RB	_	5	advmod	_	start_char=17|end_char=19
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=20|end_char=30
+6	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=31|end_char=38
+7	unaware	unaware	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=39|end_char=46
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+9	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=63
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	start_char=64|end_char=68
+11	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	start_char=69|end_char=74
+12	like	like	ADP	IN	_	15	case	_	start_char=75|end_char=79
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=80|end_char=81
+14	comedy	comedy	NOUN	NN	Number=Sing	15	compound	_	start_char=82|end_char=88
+15	skit	skit	NOUN	NN	Number=Sing	11	obl	_	start_char=89|end_char=93
+

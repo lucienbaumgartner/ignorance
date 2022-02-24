@@ -1,0 +1,5 @@
+The way I see it Passive Perception is the thing that lets you roll perception. 
+
+Example: an enemy rolls lower than your PP. That warrants a perception check to gain further information. If the enemy rolled higher than your PP you would be unaware and unable to roll for perception. 
+
+Intent comes before the roll and the roll determines the results.

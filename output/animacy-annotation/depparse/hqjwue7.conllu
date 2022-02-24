@@ -1,0 +1,33 @@
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=0|end_char=3
+2	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=4|end_char=8
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=9|end_char=12
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=13|end_char=16
+5	labeling	label	VERB	VBG	Tense=Pres|VerbForm=Part	2	acl:relcl	_	start_char=17|end_char=25
+6	all	all	DET	DT	_	8	det	_	start_char=26|end_char=29
+7	motorcycle	motorcycle	NOUN	NN	Number=Sing	8	compound	_	start_char=30|end_char=40
+8	clubs	club	NOUN	NNS	Number=Plur	5	obj	_	start_char=41|end_char=46
+9	as	as	ADP	IN	_	10	case	_	start_char=47|end_char=49
+10	gangs	gangs	NOUN	NNS	Number=Plur	8	nmod	_	start_char=50|end_char=55
+11	lmao	lmao	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=56|end_char=60
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	15	nsubj	_	start_char=61|end_char=65
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=65|end_char=67
+14	real	real	ADJ	JJ	Degree=Pos	15	amod	_	start_char=68|end_char=72
+15	ignorance	ignorance	NOUN	NN	Number=Sing	11	ccomp	_	start_char=73|end_char=82
+16	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=84|end_char=87
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=87|end_char=90
+3	so	so	ADV	RB	_	4	advmod	_	start_char=91|end_char=93
+4	sheltered	shelter	ADJ	JJ	Degree=Pos	0	root	_	start_char=94|end_char=103
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=104|end_char=107
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=108|end_char=116
+7	of	of	ADP	IN	_	9	case	_	start_char=117|end_char=119
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=120|end_char=123
+9	world	world	NOUN	NN	Number=Sing	6	obl	_	start_char=124|end_char=129
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=130|end_char=133
+11	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=134|end_char=137
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=138|end_char=142
+13	lol	lol	INTJ	UH	_	15	discourse	_	start_char=143|end_char=146
+14	good	good	ADJ	JJ	Degree=Pos	15	amod	_	start_char=147|end_char=151
+15	job	job	NOUN	NN	Number=Sing	4	parataxis	_	start_char=152|end_char=155
+

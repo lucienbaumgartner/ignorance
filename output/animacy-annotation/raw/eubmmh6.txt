@@ -1,0 +1,3 @@
+Again, you are omitting the fact that Printify is the one processing the file for print, reviewing it and sending it to the provider. The provider may be wholly innocent and unaware that Printify has processed the file in some hellish way.
+
+The entire point of POD is that I don't have to contact the provider and chase up other people's screw ups. I'd rather print locally with a reliable company and ship myself.

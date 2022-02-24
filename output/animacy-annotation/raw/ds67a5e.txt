@@ -1,0 +1,7 @@
+1) Transaction fees. Not everyone that wants to buy BTC can afford to spend more than 10 dollars per month on it.
+
+2) I understand how day trading works, all that matters is your opening and closing position and the percentage gains since you trade the volatility...that said I suppose I could be mistaken since I have not tested it myself, but I was under the impression that your position had to settle on the blockchain before you could trade again similar to the settlement period one experiences trading stocks on cash. If not I fully admit I was unaware and incorrect in making that statement since internally the transactions could all be off ledger.
+
+3) What I was saying is that inflation encourages individuals to spend, since over time inflation devalues the worth of a currency. So with individuals choosing to hold their positions, they are making BTC less liquid than it could be making the inflation created by new coins being mined a drawback for those treating BTC as a security rather than a currency. If I was in fact mistaken about point 2 than point 3 is a bit weaker as well since there is liquidity among the actual exchanges if not directly on ledger.
+
+So if I am mistaken, feel free to correct me. But if I am correct, I stand by my initial statements.

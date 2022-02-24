@@ -1,0 +1,13 @@
+I use a ton of products from China but I am able to keep them firewalled from the internet.
+
+The basic idea of something like seafile necessitates internet access.
+
+While I have a ton of experience in programming and technology in general, I’m not arrogant enough to think that I would be able to audit the code myself.
+
+Sure you can watch and see if any traffic is leaking where it shouldn’t but you need to be actively monitoring the traffic when the leak happens. Not ideal.
+
+You’re assuming my intentions which is arrogant and ignorant of you. Like I said, I’ve installed seafile, like the product, and want to use it. But products based out of China have a heavy influence from the government there. That is a fact. Just today a new report came out that tiktok’s parent company is heavily influenced by the government there. 
+
+For the same reason I don’t trust Google with my personal data, I don’t want to risk an unaudited software from a country known to influence products with backdoors.
+
+This has nothing to do with China. I would have the same reservations with unaudited software from any other country with that sort of reputation.

@@ -1,0 +1,15 @@
+OS Level virtualisation is absolutely a real thing, and has been for decades. You don't have to emulate the entire hardware platform for it to be considered virtualisation.
+
+Instead of the virtual layer being at emulated hardware for multiple kernels to boot, you are presenting consistent kernel interfaces to multiple discrete userspace instances.
+
+There is a very interesting presentation on YouTube from a few years ago at a Couchbase conference by Bryan Cantrill, when he was still at Joyent, going into the details of hardware vs OS level virtualisation and the pros and cons for each.
+
+From VMware's own glossary they acknowledge the different types:
+
+Three Kinds of Server Virtualization:
+
+Full Virtualization: Full virtualization uses a hypervisor, a type of software that directly communicates with a physical server's disk space and CPU. The hypervisor monitors the physical server's resources and keeps each virtual server independent and unaware of the other virtual servers. It also relays resources from the physical server to the correct virtual server as it runs applications. The biggest limitation of using full virtualization is that a hypervisor has its own processing needs. This can slow down applications and impact server performance.
+
+Para-Virtualization: Unlike full virtualization, para-virtualization involves the entire network working together as a cohesive unit. Since each operating system on the virtual servers is aware of one another in para-virtualization, the hypervisor does not need to use as much processing power to manage the operating systems.
+
+OS-Level Virtualization: Unlike full and para-virtualization, OS-level visualization does not use a hypervisor. Instead, the virtualization capability, which is part of the physical server operating system, performs all the tasks of a hypervisor. However, all the virtual servers must run that same operating system in this server virtualization method.

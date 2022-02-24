@@ -1,0 +1,3 @@
+It’s gold. I was honestly shouting at my computer screen when I was reading it. I don’t mind people being uninformed, but there’s something specially enraging about the combination of ignorance with total smug certainty. In other words, PHP developers.
+
+Edit: That said, I’m sure you realise the guy who posted the comment you quoted - while it’s a funny comment - happens to be the one who’s totally wrong and ignorant of the basics of how HTTP works. I assume you were just amused by his jibe anyway, lol

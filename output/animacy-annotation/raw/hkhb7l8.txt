@@ -1,0 +1,22 @@
+&gt;I would rule that the sleeping Bandits are Unconscious, and would be awoken and added to the Initiative order after the first round. Is this RAW? 
+
+Mostly.
+
+* If they are sleeping they are *unconscious*. (XG p. 77) They are most likely also *prone*.
+* In order to wake someone they can simply yell using a free action. Attacking a creature also wakes it. This will end the unconscious condition, but if the first round is not yet done, they may still be surprised. (XG p. 77)
+* They should be added to the initiative order at the beginning of combat, not after they wake up. (PHB p. 189)
+* Whether or not they are surprised is determined when initiative is rolled. If they are unconscious, they should naturally also be surprised. (PHB p. 189)
+
+&gt; I would rule that the Rogue, due to this particular environment allowing him to get to melee range without being seen, is "Attacking from Hiding," even with a melee weapon, and has Advantage on the strike. Is this reasonable?
+
+The DM may allow for certain circumstances to grant advantage:
+
+&gt;In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. **However, under certain circumstances, the Dungeon Master might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack before you are seen.** (PHB p. 177)
+
+&gt;Despite having the first turn in Initiative order, the Bandit would, mechanically speaking, be both Surprised and unaware of the rogue, right? Losing his ability to take an action, and granting Advantage on the rogue's attack? This seems odd to me; can you be Surprised by something you aren't aware of (yet)? 
+
+Yes to all three. *Surprised* means you can't take actions or move on your turn, and can't use reactions until after your turn. Unseen and unheard are two psuedo-conditions that are pre-requisites to being hidden. If the rogue's stealth score beats the passive perception of the bandit, then they are both unseen and unheard, otherwise known as *hidden*. 
+
+&gt;The Bandit was Surprised because the Rogue, specifically, approached stealthily and beat his PP score. However, the other players are preceding the Rogue in Initiative Order and did not make additional stealth checks. So... Is the Bandit still Surprised, even before the Rogue's turn? Because these other players have suddenly made themselves known, sauntering in, guns swords akimbo, before the Rogue's big play. 
+
+If they are sixty feet away in the darkness, they may be effectively hidden. It's apparent that the bandit did not detect the party up until that point, meaning they are both unseen and unheard. Per RAW, normal noise can be heard up to 2d6x10 feet away, so you may wish to determine this as they party is approaching a potential encounter. If the other players act before the rogue, it's entirely possible that they give up their ambush. That being said, the bandit is absolutely still surprised. That condition lasts until the end of the first round.

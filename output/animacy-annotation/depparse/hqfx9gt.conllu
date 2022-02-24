@@ -1,0 +1,96 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	not	not	PART	RB	_	4	advmod	_	start_char=7|end_char=10
+4	attacking	attack	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=11|end_char=20
+5	.	.	PUNCT	.	_	4	punct	_	start_char=20|end_char=21
+
+1	Yeah	yeah	INTJ	UH	_	5	discourse	_	start_char=24|end_char=28
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=29|end_char=33
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=34|end_char=37
+4	pretty	pretty	ADV	RB	_	5	advmod	_	start_char=38|end_char=44
+5	shallow	shallow	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=52
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=53|end_char=56
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=57|end_char=65
+8	of	of	ADP	IN	_	10	case	_	start_char=66|end_char=68
+9	Christian	Christian	ADJ	JJ	Degree=Pos	10	amod	_	start_char=69|end_char=78
+10	theology	theology	NOUN	NN	Number=Sing	7	obl	_	start_char=79|end_char=87
+11	.	.	PUNCT	.	_	5	punct	_	start_char=87|end_char=88
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=91|end_char=94
+2	;	;	PUNCT	:	_	1	punct	_	start_char=94|end_char=95
+
+1	When	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=95|end_char=99
+2	in	in	ADP	IN	_	3	case	_	start_char=100|end_char=102
+3	reality	reality	NOUN	NN	Number=Sing	4	compound	_	start_char=103|end_char=110
+4	atheists	atheist	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=111|end_char=119
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=120|end_char=123
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=124|end_char=127
+7	ones	one	NOUN	NNS	Number=Plur	0	root	_	start_char=128|end_char=132
+8	bringing	bring	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=133|end_char=141
+9	critical	critical	ADJ	JJ	Degree=Pos	10	amod	_	start_char=142|end_char=150
+10	reasoning	reasoning	NOUN	NN	Number=Sing	8	obj	_	start_char=151|end_char=160
+11	to	to	ADP	IN	_	13	case	_	start_char=161|end_char=163
+12	religious	religious	ADJ	JJ	Degree=Pos	13	amod	_	start_char=164|end_char=173
+13	debate	debate	NOUN	NN	Number=Sing	8	obl	_	start_char=174|end_char=180
+14	.	.	PUNCT	.	_	7	punct	_	start_char=180|end_char=181
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=182|end_char=185
+2	religious	religious	ADJ	JJ	Degree=Pos	3	nsubj	_	start_char=186|end_char=195
+3	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=196|end_char=202
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=203|end_char=208
+5	teachings	teaching	NOUN	NNS	Number=Plur	3	obj	_	start_char=209|end_char=218
+6	,	,	PUNCT	,	_	9	punct	_	start_char=218|end_char=219
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=220|end_char=223
+8	atheists	atheist	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=224|end_char=232
+9	question	question	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=233|end_char=241
+10	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	start_char=242|end_char=246
+11	.	.	PUNCT	.	_	3	punct	_	start_char=246|end_char=247
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=249|end_char=252
+2	atheists	atheist	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=253|end_char=261
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=262|end_char=264
+4	n't	not	PART	RB	_	5	advmod	_	start_char=264|end_char=267
+5	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=268|end_char=272
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=273|end_char=276
+7	religious	religious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=277|end_char=286
+8	theology	theology	NOUN	NN	Number=Sing	5	obj	_	start_char=287|end_char=295
+9	.	.	PUNCT	.	_	5	punct	_	start_char=295|end_char=296
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=297|end_char=301
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=302|end_char=306
+3	shallow	shallow	ADJ	JJ	Degree=Pos	4	amod	_	start_char=307|end_char=314
+4	understanding	understanding	NOUN	NN	Number=Sing	2	obj	_	start_char=315|end_char=328
+5	.	.	PUNCT	.	_	2	punct	_	start_char=328|end_char=329
+
+1	All	all	DET	DT	_	5	nsubj	_	start_char=330|end_char=333
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=334|end_char=338
+3	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=339|end_char=341
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=342|end_char=344
+5	building	build	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=345|end_char=353
+6	strawman	strawman	NOUN	NN	Number=Sing	5	obj	_	start_char=354|end_char=362
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=363|end_char=366
+8	refute	refute	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=367|end_char=373
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=374|end_char=376
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=377|end_char=380
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=381|end_char=385
+12	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=386|end_char=391
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=392|end_char=396
+14	debunk	debink	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=397|end_char=403
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=404|end_char=407
+16	actual	actual	ADJ	JJ	Degree=Pos	17	amod	_	start_char=408|end_char=414
+17	theology	theology	NOUN	NN	Number=Sing	14	obj	_	start_char=415|end_char=423
+18	.	.	PUNCT	.	_	5	punct	_	start_char=423|end_char=424
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=427|end_char=431
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=432|end_char=436
+3	to	to	PART	TO	_	4	mark	_	start_char=437|end_char=439
+4	claim	claim	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=440|end_char=445
+5	to	to	PART	TO	_	7	mark	_	start_char=446|end_char=448
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=449|end_char=451
+7	critical	critical	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=452|end_char=460
+8	except	except	ADP	IN	_	11	case	_	start_char=461|end_char=467
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=468|end_char=473
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=474|end_char=477
+11	understanding	understanding	NOUN	NN	Number=Sing	7	obl	_	start_char=478|end_char=491
+12	.	.	PUNCT	.	_	2	punct	_	start_char=491|end_char=492
+

@@ -1,0 +1,9 @@
+data type - is the data a string, a number, a date etc.  different languages will have their own types (int, float, string, datetime)
+
+data structure - "a data organization, management, and storage format that enables efficient access and modification" examples of these would be an array, a binary search tree, a hash table.  they are all different ways of storing data that provide different benefits (speed, size, inserting, sorting, etc)
+
+data schema - i believe this is for describing the organization of data in a database. if you are new and don't know much about databases i don't think examples will be of much use
+
+data model - i'm familiar with this as a part of the MVC (model, view, controller) design pattern. the data model is how the data for your application is represented.  a key part of mvc is that this is kept separate from the view (what displays the data to the user) and the controller (the "brain" of sorts, it manipulates the views and data so they are always separate and unaware of the other)
+
+I guess they are all related in the sense that they all have the word data in them.  Data schema would have data types in it, as would a data model.  a data structure as a concept is independent of the rest in a sense, but you would also see an array in some languages declared with a certain data type

@@ -1,0 +1,25 @@
+This answer to the original post sums it up rather well:
+
+https://www.reddit.com/r/AskHistorians/comments/phtzt8/how_wellknown_were_tolkiens_works_in_the_ussr_or/hbruqu5/
+
+I would like to add a few tidbits.
+
+There is some hard-to-verify information that The Hobbit has been put into the publishing plans of Detizdat (State Publishing House for Children's Literature) for 1941-1943, but the war has prevented this. It's unproven until someone looks up closely in the archives of this publishing house, but not 100 % implausible. By that moment, fairy tale books have been somewhat rehabilitated, first the folktales, then the author fairy tales, too. 
+
+It's not altogether impossible, though that it would have been a loose adaptation rather than a close translation. That was, after all, the treatment applied to Pinocchio, The Wonderful Wizard of Oz, or Doctor Dolittle - all of these adaptations have become Soviet children's classics (The Adventures of Buratino, The Wizard of the Emerald City, Doctor Aibolit/Owithurts respectively) and completely overshadowed the originals. Some even had sequels of their own. So it's not hard to imagine the Soviet Hobbit getting multiple sequels completely unrelated to The Lord of the Rings, and their author unaware of its existence.
+
+The sole source of this info (in Russian, of course) is here, in a 2012 LJ conversation about the 1966 animated Hobbit:
+https://petro-gulak.livejournal.com/1103566.html?thread=8572622#t8572622
+The person giving it is a philologist from St Petersburg, and it doesn't look like they were pulling someone's leg. They even quote the editorial annotation written for the publishing plan:
+
+&gt;A humorous story about the little men - the Hobbits. They tend to like comfort and quiet life, but sometimes they venture on journeys and do heroic deeds. Thus, a modest and well-intentioned Hobbit, Mr. Bilbo Baggins, goes to battle with a monstrous dragon to win the hoard. The book is illustrated by the author who has ingenuity and imagination.
+
+The Samizdat translations were a fairly minor thing, and as far as Samizdat was going, fairly inoffensive.
+
+A fair bit of the first print run of The Keepers (The Fellowship of the Ring) has been shipped outside the USSR, to the Soviet bloc countries like Hungary, Czechoslovakia or GDR. The copy that I have at home has been brought from Hungary.
+
+The delay in the publishing of The Two Towers and The Return of the King is commonly explained by the worsening of the Cold War, by a (probably apocryphal) comparison of the USSR to Mordor that Reagan has made, or by the bad standing of the two translators themselves (Muravyev and Kistyakovsky) who had links to the dissident movement. Whatever it has been, it would never be mentioned in the official correspondence. Some more innocuous reasons would be given instead. Typically, if publication was refused, it was on the grounds of the planned economy's workings: that there was just no paper neither printing capacities allotted, or that the quota on authors from the capitalist countries has been filled already for this year, or that paying hard currency for the publishing rights is economically unfeasible, etc. Unless someone looks into the publishing house's archives, we'll never know.
+
+The explosion of Tolkien translations (and explosion it was - I can possibly name no less than five translations published in one decade) and published fanfics in the 90s was only possible because the international IP laws were loosely enforced or not enforced at all back then, and the right holders didn't really care about the Russian publishing market back then.
+
+Unlike your typical fan fiction, erotic themes were taking the back seat (if they appeared at all) in the Russian one. The Russian culture of Tolkien fanfics has developed largely independent and unaware of the Anglo-American one. It was going that way even after internet has become common enough at the major universities at least ('common' doesn't mean that it's easily available for the hobbies, though). The point of most fanfics was to rehabilitate such and such character (the second best known fanfic, The Black Book of Arda does that with Melkor and Sauron themselves, making out of both some angsty animé protagonists), to explore the corners and ages of Middle-earth that Tolkien has left unexplored, or to provide some vehicle for national resentment (that's largely what The Last Ringbearer is about).

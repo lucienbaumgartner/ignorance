@@ -1,0 +1,32 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=5
+3	shocking	shock	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=6|end_char=14
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=15|end_char=18
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=19|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	inept	inept	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=36
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=37|end_char=41
+9	administration	administration	NOUN	NN	Number=Sing	10	nsubj	_	start_char=42|end_char=56
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=57|end_char=59
+11	.	.	PUNCT	.	_	3	punct	_	start_char=59|end_char=60
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=62|end_char=65
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	_	start_char=66|end_char=70
+3	credit	credit	NOUN	NN	Number=Sing	10	nsubj	_	start_char=71|end_char=77
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=78|end_char=82
+5	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=83|end_char=86
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=87|end_char=89
+7	not	not	PART	RB	_	10	advmod	_	start_char=90|end_char=93
+8	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=94|end_char=99
+9	overtly	overtly	ADV	RB	_	10	advmod	_	start_char=100|end_char=107
+10	evil	evil	ADJ	JJ	Degree=Pos	0	root	_	start_char=108|end_char=112
+11	like	like	ADP	IN	_	14	case	_	start_char=113|end_char=117
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=118|end_char=121
+13	last	last	ADJ	JJ	Degree=Pos	14	amod	_	start_char=122|end_char=126
+14	one	one	NOUN	NN	Number=Sing	10	obl	_	start_char=127|end_char=130
+15	,	,	PUNCT	,	_	18	punct	_	start_char=130|end_char=131
+16	that	that	PRON	DT	Number=Sing|PronType=Dem	18	nsubj	_	start_char=132|end_char=136
+17	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=136|end_char=138
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	parataxis	_	start_char=139|end_char=141
+19	.	.	PUNCT	.	_	10	punct	_	start_char=141|end_char=142
+

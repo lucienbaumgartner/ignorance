@@ -1,0 +1,23 @@
+1	Ngl	Ngl	PROPN	NNP	Number=Sing	5	vocative	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4|end_char=5
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=6|end_char=9
+4	n’t	not	PART	RB	_	5	advmod	_	start_char=9|end_char=12
+5	expect	expect	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=19
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=20|end_char=24
+7	many	many	ADJ	JJ	Degree=Pos	5	obj	_	start_char=25|end_char=29
+8	to	to	PART	TO	_	10	mark	_	start_char=30|end_char=32
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=33|end_char=35
+10	green	green	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=36|end_char=41
+11	.	.	PUNCT	.	_	5	punct	_	start_char=41|end_char=42
+
+1	Obv	obv	INTJ	UH	_	4	discourse	_	start_char=43|end_char=46
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=47|end_char=48
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=49|end_char=52
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=53|end_char=58
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=59|end_char=62
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=63|end_char=71
+7	of	of	ADP	IN	_	9	case	_	start_char=72|end_char=74
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=75|end_char=77
+9	knowledge	knowledge	NOUN	NN	Number=Sing	6	obl	_	start_char=78|end_char=87
+10	.	.	PUNCT	.	_	4	punct	_	start_char=87|end_char=88
+

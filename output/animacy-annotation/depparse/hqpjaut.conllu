@@ -1,0 +1,28 @@
+1	No	no	INTJ	UH	Polarity=Neg	6	discourse	_	start_char=1|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	actually	actually	ADV	RB	_	6	advmod	_	start_char=5|end_char=13
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=14|end_char=17
+5	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=17|end_char=20
+6	TA	of	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=23
+7	.	.	PUNCT	.	_	6	punct	_	start_char=23|end_char=24
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=25|end_char=28
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=28|end_char=31
+3	also	also	ADV	RB	_	4	advmod	_	start_char=32|end_char=36
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=45
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=46|end_char=49
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	4	conj	_	start_char=50|end_char=60
+7	.	.	PUNCT	.	_	4	punct	_	start_char=60|end_char=61
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=62|end_char=64
+2	absolutely	absolutely	ADV	RB	_	3	advmod	_	start_char=65|end_char=75
+3	could	could	AUX	MD	VerbForm=Fin	0	root	_	start_char=76|end_char=81
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=82|end_char=85
+5	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=86|end_char=92
+6	lose	lose	VERB	VB	VerbForm=Inf	3	conj	_	start_char=93|end_char=97
+7	custody	custody	NOUN	NN	Number=Sing	6	obj	_	start_char=98|end_char=105
+8	over	over	ADP	IN	_	10	case	_	start_char=106|end_char=110
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=111|end_char=115
+10	issue	issue	NOUN	NN	Number=Sing	6	obl	_	start_char=116|end_char=121
+11	.	.	PUNCT	.	_	3	punct	_	start_char=121|end_char=122
+

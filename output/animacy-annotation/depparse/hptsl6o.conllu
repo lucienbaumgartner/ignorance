@@ -1,0 +1,16 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=16
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=29
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=30|end_char=34
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=35|end_char=38
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=39|end_char=43
+10	no	no	DET	DT	_	11	det	_	start_char=44|end_char=46
+11	idea	idea	NOUN	NN	Number=Sing	9	obj	_	start_char=47|end_char=51
+12	what	what	PRON	WP	PronType=Int	14	obj	_	start_char=52|end_char=56
+13	CYA	CYA	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=57|end_char=60
+14	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=61|end_char=63
+15	.	.	PUNCT	.	_	4	punct	_	start_char=63|end_char=64
+

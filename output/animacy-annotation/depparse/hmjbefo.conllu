@@ -1,0 +1,31 @@
+1	Trisha	Trisha	PROPN	NNP	Number=Sing	3	nsubj:pass	_	start_char=0|end_char=6
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=7|end_char=10
+3	amazed	amaze	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=11|end_char=17
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=18|end_char=22
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=23|end_char=26
+6	candle	candle	NOUN	NN	Number=Sing	7	nsubj	_	start_char=27|end_char=33
+7	extinguished	extinguish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=34|end_char=46
+8	eventually	eventually	ADV	RB	_	7	advmod	_	start_char=47|end_char=57
+9	.	.	PUNCT	.	_	3	punct	_	start_char=57|end_char=58
+
+1	How	how	ADV	WRB	PronType=Int	7	advmod	_	start_char=59|end_char=62
+2	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=63|end_char=66
+3	someone	someone	NOUN	NN	Number=Sing	7	nsubj	_	start_char=67|end_char=74
+4	33	33	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	_	start_char=75|end_char=77
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=78|end_char=80
+6	so	so	ADV	RB	_	7	advmod	_	start_char=81|end_char=83
+7	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=90
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=91|end_char=94
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=95|end_char=103
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=104|end_char=108
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=109|end_char=113
+12	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=114|end_char=116
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=116|end_char=119
+14	know	know	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=120|end_char=124
+15	how	how	SCONJ	WRB	PronType=Int	19	mark	_	start_char=125|end_char=128
+16	candles	candle	NOUN	NNS	Number=Plur	19	nsubj	_	start_char=129|end_char=136
+17	or	or	CCONJ	CC	_	18	cc	_	start_char=137|end_char=139
+18	fire	fire	NOUN	NN	Number=Sing	16	conj	_	start_char=140|end_char=144
+19	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=145|end_char=150
+20	?😂😂🤦‍♂️🤷‍♂️🤷‍♂️	?😂😂🤦‍♂️🤷‍♂️🤷‍♂️	NOUN	NNS	Number=Plur	19	obj	_	start_char=150|end_char=165
+

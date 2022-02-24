@@ -1,0 +1,28 @@
+&gt;Completely wrong and ignorant of probate law. The estate can't convey until your debts are settled, which means the loans are paid back from asset sales before the basis steps up, which means full capital gains taxes are paid.
+
+You're misunderstanding my point - I am not saying your estate can pay debt tax free at time of your death.  
+
+Let's run a simple example.  I have $10m in stock.  It costs my $1m to fund my lifestyle.  I can borrow that $1m or I can sell my $10m in stock. 
+
+Scenario 1:  I sell my stock.  Because I owe federal, NIIT, and state taxes on capital gains I need to sell $1.3m to have $1m after taxes for spending (30% effective long term capital gains tax).  I am left with a portfolio of $8.7m that grows by 10% to $9.57m next year.
+
+Scenario 2: I take out a $1m loan with 1.5% interest rate.  At the end of the year I owe $1.015m but my investment portfolio is now $11m.  
+
+I die at the end of the year to keep this example simple.  In **Scenario 1 the estate passes along $9.57m** directly to my children.  In scenario 2 my estate will need to sell $1.3195m to cover the loan balance of $1.015m and the taxes associated with capital gains.  In **scenario 2 my estate will pass along the remaining $9.6805m** to my heirs.  Note that although my total taxes paid are higher in scenario 2 it is paid at the END of the year rather than the beginning.  A 300k amount in taxes at the beginning of the year would have appreciated to $330k in the market rather than the $320k I ended up paying at time of death. 
+
+Clearly, it's best to avoid paying capital gains tax and allow your MORE of unsold assets to grow than to actually sell intermittently as you fund your lifestyle.  That's just one year with a $10m starting balance.  Scale that up to billions of dollars across 40-50 years across over 600 people (or tens of thousands of hundred millionaires) and you have a very material amount of capital gains tax avoided due to the ability to consumer using debt.   
+
+
+&gt;Indeed! Collateralized lending is available to everyone, as is uncollateralized lending in the form of credit cards and student loans. It's hardly a "billionaire trick" to get someone to lend you money to pay for your lifestyle consumption, it's just really stupid.
+
+Uncollateralized lending is not viable for consumption as interest rates would be too high.  Collateralized lending works because interest rates just need to be above the federal prime rate for a bank to make money when they know assets can be sold to pay off the principal balance.  Non-wealthy people cannot fund even a middle class lifestyle much less a lavish lifestyle using collateralized.  Someone who has a $500k house with a $250k mortgage and $250k in their 401k would only be able to safely access an annual spend of $3k given that the only have $250k home equity and retirement accounts cannot be margin loaned against.  So that individual needs to trade labor for wages, which are taxed immediately.  A billionaire can side-step income taxes by avoiding labor and consuming via debt given how consumption doesn't scale neatly with net worth.
+
+ 
+
+&gt;Well, yes. Because you do have $0 income. Like, you're describing a situation where your income is literally zero dollars.
+  
+
+  
+Most people would like their income to be a lot higher than zero. That's hardly an enviable position.
+
+You've created a false equivalence.  Lifestyle is only tethered to income if you need to produce labor for funds.  You are dishonestly comparing my hypothetical of a $10m net worth individual having $0 income and 'most people' who rely on wage income to preferring income of higher than zero.  Most people absolutely would prefer to maintain zero income IF they had $10m or more in net worth.

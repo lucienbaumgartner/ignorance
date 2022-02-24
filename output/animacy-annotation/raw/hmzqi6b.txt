@@ -1,0 +1,33 @@
+It's because in the original study they present actual test scores and participant estimation of test scores. That's why you don't see that plot there. The famous internet plot people associated with Dunning Kruger is actually of expectation error, the difference between actual test score and estimated. Positive differences indicate overconfidence and negative underconfidence, the absolute value is an indicator of confidence. I don't remember from which paper this idea originally comes from.
+
+&amp;#x200B;
+
+You can reproduce this if you're an educator by asking students in an assignment what do they think their grade will be, then just fill x and y:
+
+`import numpy as np`
+  
+`import matplotlib.pyplot as plt`
+  
+
+  
+`# Fig 2 from DK study`
+  
+`# Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments`
+  
+`# Estimated values from eye balling the graph`
+  
+`x = np.array([0, 11, 31, 55, 85]) # score predicted by participant`
+  
+`y = np.array([0, 61, 63, 53, 68]) # actual score from participant`
+  
+
+  
+`# Confidence is measured as absolute of difference between actual and predicted score, known as expectation error`
+  
+`c = y - x # residual`
+  
+`cpercent = c/np.max(c) # in percentage [0, 1]`
+  
+`plt.plot(np.abs(cpercent)) # absolute of confidence`
+  
+`plt.show()`

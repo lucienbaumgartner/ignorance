@@ -1,0 +1,57 @@
+Take my award and I have a couple of question in the replies below.
+
+&amp;#x200B;
+
+SCREEN. PROTECTOR. Cannot emphasize enough. Go cheap, go expensive, doesn't matter. ANYTHING is better than a ruined screen. - **Ok, will deffo get this.**
+  
+
+  
+Flex plate - contentious. If you build flat on the plate it's amazing. If you always use a raft+supports it's pointless. Still have to clean the mating surfaces before adding plate back or the resin between them will act as a lube and allow slop and layer lines. Much much easier to separate large footprint objects by bending the plate. **I looked at these. Maybe not for me right now**
+  
+
+  
+Air filter: factory elegoo ones are okay, but very very limited lifespan on the cartridges. Print a little holder to fill with aquarium carbon for cheap. **I got the Elagoo ones and I run a HEPA filter right next to it. Love the idea of making a box for aquarium carbon, any idea where I can get the plans?**
+  
+
+  
+Optionally, print a ventilation gasket that lets a fan actually exhaust the inside of the machine through a big big filter or outdoors. Fits between machine and lid, meaning you don't have to modify either to get airflow while maintaining a seal. **Would love to do this. Not conducive to where I have the printer as I would like the air going outside.**
+  
+
+  
+Lid handle/hook to store while working on the machine
+  
+
+  
+Lid lift - like a plant suspension retracting reel so the lid is always balanced above the machine - **Like this**
+  
+
+  
+build plate drip adapter - holds the plate at a 45º and 5º compound angle so the plate will drip 'cleaner' and save you on resin and alcohol - **Deffo on the list**
+  
+
+  
+Fully mod the lid to have a door - somewhat incompatible with the drip adapter as you need the lid off or the part may bump into the lid when rotated.
+  
+
+  
+Probably a good idea to add a filter to the air intake. Internals are optically important and covering them with years of dust, particularly the led and lens array will reduce effectiveness. Doesn't need to be hyper hepa - just any sort of fine mesh screen like a computer would use to cut dust on the intake - **I use a CPAP - I think the little filters that go in my machine would be perfect.**
+  
+
+  
+I love using resinator3d the program to let me upload via network, print, and monitor prints since my print room is on a different floor as my computer. Alternately you can add a pi internally by soldering it in where it will essentially have a web interface directly to the printer and take over a bunch of functions. Somewhat intrusive but faster, more powerful, and gooder. I haven't done this but many people swear by it - especially in a farm setting. Caution: the machine is dumb and unaware of its own preparedness to print. It WILL allow you to start a print remotely while the old print is still on the bed, gleefully ploughing the old print into the screen during 'homing', probably destroying both. **This is a deffo must. Thanks!**
+  
+
+  
+Resin tank pour spout - clips on the edge to allow pouring resin back into bottle without dripping as much down the edge. **I need this 100%, any idea where i can get one in the US?**
+  
+
+  
+Resin refill gadget - like a gerbil water feeder...when the level drops it allows a siphon drip into the tank. I don't have one but could see it being useful for those "I can't tend to the printer for &gt;15 hours and this is a 1 litre print" situations. Super rare but useful. **This is a good one. Will look into this.**
+  
+
+  
+uninterruptible power supply - nothing like a power bump to ruin a day long print. printer is fairly low power, 100w max, average well below 20 watts because of the light on/off. Even a tiny one would be able to keep you going for an extended outage. **Something to consider.**
+  
+
+  
+better (but not necessarily bigger or faster) usb 2.0 stick. Get a reliable brand usb 2.0. 3.0++ can draw too much power and crash some printers. Reliable brand will save you a lot of headaches from spotty elegoo sticks. - **Already taken care of.**

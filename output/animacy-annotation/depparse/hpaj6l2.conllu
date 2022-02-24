@@ -1,0 +1,36 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=8|end_char=9
+4	difference	difference	NOUN	NN	Number=Sing	2	nsubj	_	start_char=10|end_char=20
+5	between	between	SCONJ	IN	_	8	mark	_	start_char=21|end_char=28
+6	"	"	PUNCT	``	_	8	punct	_	start_char=29|end_char=30
+7	not	not	ADV	RB	_	8	advmod	_	start_char=30|end_char=33
+8	drinking	drink	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=34|end_char=42
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=43|end_char=46
+10	purple	purple	ADJ	JJ	Degree=Pos	12	amod	_	start_char=47|end_char=53
+11	kool	kool	NOUN	NN	Number=Sing	12	compound	_	start_char=54|end_char=58
+12	aid	aid	NOUN	NN	Number=Sing	8	obj	_	start_char=59|end_char=62
+13	"	"	PUNCT	''	_	8	punct	_	start_char=62|end_char=63
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=64|end_char=67
+15	coming	come	VERB	VBG	VerbForm=Ger	8	conj	_	start_char=68|end_char=74
+16	off	off	ADP	RP	_	15	compound:prt	_	start_char=75|end_char=78
+17	as	as	ADV	RB	_	18	advmod	_	start_char=79|end_char=81
+18	sexist	sexist	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=82|end_char=88
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=89|end_char=92
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=93|end_char=101
+21	.	.	PUNCT	.	_	2	punct	_	start_char=101|end_char=102
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=105|end_char=109
+2	comment	comment	NOUN	NN	Number=Sing	4	nsubj	_	start_char=110|end_char=117
+3	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=118|end_char=123
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=124|end_char=127
+5	down	down	ADV	RB	_	4	advmod	_	start_char=128|end_char=132
+6	voted	vote	VERB	VBN	Tense=Past|VerbForm=Part	4	xcomp	_	start_char=133|end_char=138
+7	anywhere	anywhere	ADV	RB	_	6	advmod	_	start_char=139|end_char=147
+8	,	,	PUNCT	,	_	10	punct	_	start_char=147|end_char=148
+9	ravens	raven	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=149|end_char=155
+10	related	related	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=156|end_char=163
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=164|end_char=166
+12	not	not	PART	RB	_	10	conj	_	start_char=167|end_char=170
+13	.	.	PUNCT	.	_	4	punct	_	start_char=170|end_char=171
+

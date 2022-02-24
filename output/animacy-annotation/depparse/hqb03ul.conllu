@@ -1,0 +1,72 @@
+1	Chiiiiild	Chiiiiild	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=9
+2	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	Class	class	NOUN	NN	Number=Sing	2	compound	_	start_char=11|end_char=16
+2	patterns	pattern	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=17|end_char=25
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=26|end_char=29
+4	REAL	real	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=34
+5	!	!	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+
+1	Reminds	remind	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=43
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=44|end_char=46
+3	of	of	ADP	IN	_	6	case	_	start_char=47|end_char=49
+4	someone	someone	PRON	NN	Number=Sing	6	nmod:poss	_	start_char=50|end_char=57
+5	’s	's	PART	POS	_	4	case	_	start_char=57|end_char=59
+6	comment	comment	NOUN	NN	Number=Sing	1	obl	_	start_char=60|end_char=67
+7	on	on	ADP	IN	_	13	case	_	start_char=68|end_char=70
+8	“	''	PUNCT	``	_	13	punct	_	start_char=71|end_char=72
+9	year	year	NOUN	NN	Number=Sing	13	compound	_	start_char=72|end_char=76
+10	theme	theme	NOUN	NN	Number=Sing	13	compound	_	start_char=77|end_char=82
+11	/	/	SYM	,	_	12	punct	_	start_char=83|end_char=84
+12	year	year	NOUN	NN	Number=Sing	10	conj	_	start_char=85|end_char=89
+13	intention	intention	NOUN	NN	Number=Sing	6	nmod	_	start_char=90|end_char=99
+14	”	''	PUNCT	''	_	13	punct	_	start_char=99|end_char=100
+15	about	about	SCONJ	IN	_	16	mark	_	start_char=101|end_char=106
+16	giving	give	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=107|end_char=113
+17	up	up	ADP	RP	_	16	compound:prt	_	start_char=114|end_char=116
+18	middle	middle	ADJ	JJ	Degree=Pos	19	amod	_	start_char=117|end_char=123
+19	class	class	NOUN	NN	Number=Sing	20	compound	_	start_char=124|end_char=129
+20	fakery	fakery	NOUN	NN	Number=Sing	16	obj	_	start_char=130|end_char=136
+21	lol	lol	INTJ	UH	_	1	discourse	_	start_char=137|end_char=140
+22	.	.	PUNCT	.	_	1	punct	_	start_char=140|end_char=141
+
+1	Even	even	ADV	RB	_	4	advmod	_	start_char=144|end_char=148
+2	when	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=149|end_char=153
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=154|end_char=155
+4	become	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	advcl	_	start_char=156|end_char=162
+5	“	''	PUNCT	``	_	6	punct	_	start_char=163|end_char=164
+6	owning	own	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=164|end_char=170
+7	”	''	PUNCT	''	_	6	punct	_	start_char=170|end_char=171
+8	class	class	NOUN	NN	Number=Sing	4	obj	_	start_char=172|end_char=177
+9	,	,	PUNCT	,	_	12	punct	_	start_char=177|end_char=178
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj:pass	_	start_char=179|end_char=180
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	start_char=181|end_char=184
+12	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=185|end_char=191
+13	poor	poor	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=192|end_char=196
+14	and	and	CCONJ	CC	_	20	cc	_	start_char=197|end_char=200
+15	those	that	DET	DT	Number=Plur|PronType=Dem	16	det	_	start_char=201|end_char=206
+16	values	value	NOUN	NNS	Number=Plur	20	nsubj:pass	_	start_char=207|end_char=213
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=214|end_char=217
+18	lessons	lesson	NOUN	NNS	Number=Plur	16	conj	_	start_char=218|end_char=225
+19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux:pass	_	start_char=226|end_char=229
+20	embedded	embed	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	conj	_	start_char=230|end_char=238
+21	in	in	ADP	IN	_	23	case	_	start_char=239|end_char=241
+22	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=242|end_char=244
+23	worldview	worldview	NOUN	NN	Number=Sing	20	obl	_	start_char=245|end_char=254
+24	.	.	PUNCT	.	_	12	punct	_	start_char=254|end_char=255
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=256|end_char=259
+2	same	same	ADJ	JJ	Degree=Pos	3	nsubj	_	start_char=260|end_char=264
+3	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=265|end_char=269
+4	for	for	ADP	IN	_	5	case	_	start_char=270|end_char=273
+5	those	that	PRON	DT	Number=Plur|PronType=Dem	3	obl	_	start_char=274|end_char=279
+6	raised	raise	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	_	start_char=280|end_char=286
+7	unaware	unaware	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=287|end_char=294
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=295|end_char=298
+9	fortunate	fortunate	ADJ	JJ	Degree=Pos	7	conj	_	start_char=299|end_char=308
+10	.	.	PUNCT	.	_	3	punct	_	start_char=308|end_char=309
+
+1	WAMP	WAMP	PROPN	NNP	Number=Sing	0	root	_	start_char=312|end_char=316
+2	wamp	wamp	PROPN	NNP	Number=Sing	1	flat	_	start_char=317|end_char=321
+3	wamp	wamp	PROPN	NNP	Number=Sing	1	flat	_	start_char=322|end_char=326
+

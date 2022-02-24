@@ -1,0 +1,11 @@
+You're opinion on it is beyond ridiculous, ridiculously misinformed and ignorant that is. 
+
+
+Mining isn't literally just running a computer as a electric heater in the middle of nowhere for no other reason than to make money. 
+
+
+Mining is transaction monitoring, with a monetary reward for you using electrical power and computational power to do it, rather than a banks server farm as typical. It's basically akin to the difference between downloading a movie from Apple's or Google's server or downloading it from a peer-to-peer torrent network. 
+
+
+
+If you actually want a valid comparison, you need to look at how much power the regular banking systems use for their servers farms, and the answer is also a fuck tonne. Anyone calling it ridiculous based on the total power usage for mining is clearly clueless and has never put a single thought into how much power say Visa or JPMorgan consumes. You'd need to compare some sort of kWh/USD or kgCO2eq/USD transferred figures to actually say anything. 

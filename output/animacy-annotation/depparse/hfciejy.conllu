@@ -1,0 +1,45 @@
+1	Aww	aww	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=4|end_char=7
+3	pathetic	pathetic	ADJ	JJ	Degree=Pos	4	amod	_	start_char=8|end_char=16
+4	troll	troll	NOUN	NN	Number=Sing	7	nsubj	_	start_char=17|end_char=22
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=23|end_char=25
+6	still	still	ADV	RB	_	7	advmod	_	start_char=26|end_char=31
+7	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=32|end_char=38
+8	,	,	PUNCT	,	_	7	punct	_	start_char=38|end_char=39
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=40|end_char=44
+10	time	time	NOUN	NN	Number=Sing	7	obl:tmod	_	start_char=45|end_char=49
+11	with	with	ADP	IN	_	15	case	_	start_char=50|end_char=54
+12	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=55|end_char=58
+13	straw	straw	ADJ	JJ	Degree=Pos	15	amod	_	start_char=59|end_char=64
+14	man	man	NOUN	NN	Number=Sing	15	compound	_	start_char=65|end_char=68
+15	argument	argument	NOUN	NN	Number=Sing	7	obl	_	start_char=69|end_char=77
+16	.	.	PUNCT	.	_	7	punct	_	start_char=77|end_char=78
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=80|end_char=87
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=88|end_char=93
+3	so	so	ADV	RB	_	4	advmod	_	start_char=94|end_char=96
+4	stupid	stupid	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=97|end_char=103
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=104|end_char=107
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=108|end_char=115
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=116|end_char=120
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=121|end_char=124
+9	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=125|end_char=128
+10	to	to	PART	TO	_	11	mark	_	start_char=129|end_char=131
+11	use	use	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=132|end_char=135
+12	logical	logical	ADJ	JJ	Degree=Pos	13	amod	_	start_char=136|end_char=143
+13	fallacies	fallacy	NOUN	NNS	Number=Plur	11	obj	_	start_char=144|end_char=153
+14	to	to	PART	TO	_	15	mark	_	start_char=154|end_char=156
+15	troll	troll	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=157|end_char=162
+16	an	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=163|end_char=165
+17	internet	internet	NOUN	NN	Number=Sing	18	compound	_	start_char=166|end_char=174
+18	stranger	stranger	NOUN	NN	Number=Sing	15	obj	_	start_char=175|end_char=183
+19	.	.	PUNCT	.	_	1	punct	_	start_char=183|end_char=184
+
+1	What	what	PRON	WP	PronType=Int	4	nsubj	_	start_char=186|end_char=190
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=191|end_char=192
+3	sad	sad	ADJ	JJ	Degree=Pos	4	amod	_	start_char=193|end_char=196
+4	life	life	NOUN	NN	Number=Sing	0	root	_	start_char=197|end_char=201
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=202|end_char=205
+6	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=206|end_char=210
+7	.	.	PUNCT	.	_	4	punct	_	start_char=210|end_char=211
+

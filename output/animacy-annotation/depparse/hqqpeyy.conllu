@@ -1,0 +1,13 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	shut	shut	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=10|end_char=12
+4	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=14|end_char=18
+2	prejudices	prejudice	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=19|end_char=29
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=30|end_char=33
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=42
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=43|end_char=46
+6	disgusting	disgusting	ADJ	JJ	Degree=Pos	4	conj	_	start_char=47|end_char=57
+7	.	.	PUNCT	.	_	4	punct	_	start_char=57|end_char=58
+

@@ -1,0 +1,35 @@
+1	Agreed	agree	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	start_char=0|end_char=6
+2	,	,	PUNCT	,	_	4	punct	_	start_char=6|end_char=7
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=8|end_char=9
+4	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=13
+5	where	where	SCONJ	WRB	PronType=Int	8	mark	_	start_char=14|end_char=19
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=20|end_char=22
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=22|end_char=24
+8	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	4	ccomp	_	start_char=25|end_char=31
+9	from	from	ADP	IN	_	8	obl	_	start_char=32|end_char=36
+10	(	(	PUNCT	-LRB-	_	12	punct	_	start_char=37|end_char=38
+11	well	well	INTJ	UH	_	12	discourse	_	start_char=38|end_char=42
+12	kinda	kinda	ADV	RB	_	8	advmod	_	start_char=43|end_char=48
+13	)	)	PUNCT	-RRB-	_	12	punct	_	start_char=48|end_char=49
+14	.	.	PUNCT	.	_	4	punct	_	start_char=49|end_char=50
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=51|end_char=54
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=55|end_char=57
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=57|end_char=59
+4	so	so	ADV	RB	_	5	advmod	_	start_char=60|end_char=62
+5	bitter	bitter	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=69
+6	,	,	PUNCT	,	_	7	punct	_	start_char=69|end_char=70
+7	hateful	hateful	ADJ	JJ	Degree=Pos	5	conj	_	start_char=71|end_char=78
+8	,	,	PUNCT	,	_	10	punct	_	start_char=78|end_char=79
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=80|end_char=83
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=84|end_char=92
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=93|end_char=97
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=98|end_char=99
+13	ca	can	AUX	MD	VerbForm=Fin	16	aux	_	start_char=100|end_char=102
+14	n't	not	PART	RB	_	16	advmod	_	start_char=102|end_char=105
+15	even	even	ADV	RB	_	16	advmod	_	start_char=106|end_char=110
+16	take	take	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=111|end_char=115
+17	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=116|end_char=119
+18	seriously	seriously	ADV	RB	_	16	advmod	_	start_char=120|end_char=129
+19	.	.	PUNCT	.	_	5	punct	_	start_char=129|end_char=130
+

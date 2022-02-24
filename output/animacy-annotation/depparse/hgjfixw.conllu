@@ -1,0 +1,86 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=7
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=8|end_char=11
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=25|end_char=32
+6	that	that	SCONJ	IN	_	11	mark	_	start_char=33|end_char=37
+7	government	government	NOUN	NN	Number=Sing	8	compound	_	start_char=38|end_char=48
+8	research	research	NOUN	NN	Number=Sing	11	nsubj	_	start_char=49|end_char=57
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=58|end_char=61
+10	development	development	NOUN	NN	Number=Sing	8	conj	_	start_char=62|end_char=73
+11	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=74|end_char=78
+12	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	11	iobj	_	start_char=79|end_char=81
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=82|end_char=85
+14	computer	computer	NOUN	NN	Number=Sing	11	obj	_	start_char=86|end_char=94
+15	,	,	PUNCT	,	_	16	punct	_	start_char=94|end_char=95
+16	satellites	satellite	NOUN	NNS	Number=Plur	14	conj	_	start_char=96|end_char=106
+17	,	,	PUNCT	,	_	20	punct	_	start_char=106|end_char=107
+18	and	and	CCONJ	CC	_	20	cc	_	start_char=108|end_char=111
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=112|end_char=115
+20	Internet	Internet	PROPN	NNP	Number=Sing	14	conj	_	start_char=116|end_char=124
+21	?	?	PUNCT	.	_	3	punct	_	start_char=124|end_char=125
+
+1	"	"	PUNCT	``	_	3	punct	_	start_char=127|end_char=128
+2	Socialism	Socialism	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=128|end_char=137
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=138|end_char=140
+4	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=141|end_char=145
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=146|end_char=149
+6	government	government	NOUN	NN	Number=Sing	7	nsubj	_	start_char=150|end_char=160
+7	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=161|end_char=165
+8	stuff	stuff	NOUN	NN	Number=Sing	7	obj	_	start_char=166|end_char=171
+9	"	"	PUNCT	''	_	3	punct	_	start_char=171|end_char=172
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=174|end_char=177
+2	;	;	PUNCT	:	_	1	punct	_	start_char=177|end_char=178
+
+1	Al	Al	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=178|end_char=180
+2	Gore	Gore	PROPN	NNP	Number=Sing	1	flat	_	start_char=181|end_char=185
+3	created	create	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=186|end_char=193
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=194|end_char=197
+5	World	World	PROPN	NNP	Number=Sing	7	compound	_	start_char=198|end_char=203
+6	Wide	Wide	ADJ	NNP	Degree=Pos	7	amod	_	start_char=204|end_char=208
+7	Web	Web	PROPN	NNP	Number=Sing	3	obj	_	start_char=209|end_char=212
+8	with	with	ADP	IN	_	13	case	_	start_char=213|end_char=217
+9	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=218|end_char=221
+10	Senate	Senate	PROPN	NNP	Number=Sing	13	compound	_	start_char=222|end_char=228
+11	Bill	Bill	PROPN	NNP	Number=Sing	13	compound	_	start_char=229|end_char=233
+12	authorizing	authorize	NOUN	NN	Number=Sing	13	compound	_	start_char=234|end_char=245
+13	spending	spending	NOUN	NN	Number=Sing	3	obl	_	start_char=246|end_char=254
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=255|end_char=258
+15	construction	construction	NOUN	NN	Number=Sing	13	conj	_	start_char=259|end_char=271
+16	of	of	ADP	IN	_	18	case	_	start_char=272|end_char=274
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=275|end_char=278
+18	network	network	NOUN	NN	Number=Sing	15	nmod	_	start_char=279|end_char=286
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	start_char=287|end_char=289
+20	now	now	ADV	RB	_	21	advmod	_	start_char=290|end_char=293
+21	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=294|end_char=298
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=299|end_char=302
+23	Internet	Internet	PROPN	NNP	Number=Sing	21	obj	_	start_char=303|end_char=311
+24	.	.	PUNCT	.	_	3	punct	_	start_char=311|end_char=312
+
+1	[	[	PUNCT	-LRB-	_	4	punct	_	start_char=314|end_char=315
+2	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=315|end_char=319
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=320|end_char=321
+4	meme	meme	NOUN	NN	Number=Sing	0	root	_	start_char=322|end_char=326
+5	.	.	PUNCT	.	_	4	punct	_	start_char=326|end_char=327
+6	]	]	PUNCT	-RRB-	_	4	punct	_	start_char=327|end_char=328
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=328|end_char=329
+2	https://www.youtube.com/watch?v=BnFJ8cHAlco)	https://www.youtube.com/watch?v=bnfj8chalco)	X	ADD	_	0	root	_	start_char=329|end_char=373
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=375|end_char=376
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=376|end_char=378
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=379|end_char=385
+4	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=386|end_char=390
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=391|end_char=394
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=394|end_char=397
+7	just	just	ADV	RB	_	8	advmod	_	start_char=398|end_char=402
+8	trolling	trol	VERB	VBG	Tense=Pres|VerbForm=Part	4	ccomp	_	start_char=403|end_char=411
+9	at	at	ADP	IN	_	11	case	_	start_char=412|end_char=414
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=415|end_char=419
+11	point	point	NOUN	NN	Number=Sing	8	obl	_	start_char=420|end_char=425
+12	.	.	PUNCT	.	_	4	punct	_	start_char=425|end_char=426
+

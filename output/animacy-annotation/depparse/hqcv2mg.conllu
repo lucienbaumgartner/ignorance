@@ -1,0 +1,30 @@
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=0|end_char=3
+2	…	…	PUNCT	:	_	3	punct	_	start_char=3|end_char=4
+3	Jesus	Jesus	PROPN	NNP	Number=Sing	0	root	_	start_char=5|end_char=10
+4	Christ	Christ	PROPN	NNP	Number=Sing	3	flat	_	start_char=11|end_char=17
+5	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	People	person	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=20|end_char=26
+2	ca	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=27|end_char=29
+3	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=29|end_char=32
+4	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=33|end_char=35
+5	*	*	PUNCT	NFP	_	8	punct	_	start_char=36|end_char=37
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=37|end_char=41
+7	*	*	PUNCT	NFP	_	8	punct	_	start_char=41|end_char=42
+8	oblivious	oblivious	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=52
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=53|end_char=56
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=57|end_char=64
+11	of	of	ADP	IN	_	13	case	_	start_char=65|end_char=67
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=68|end_char=71
+13	irony	irony	NOUN	NN	Number=Sing	10	obl	_	start_char=72|end_char=77
+14	in	in	ADP	IN	_	16	case	_	start_char=78|end_char=80
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=81|end_char=84
+16	things	thing	NOUN	NNS	Number=Plur	13	nmod	_	start_char=85|end_char=91
+17	that	that	PRON	WDT	PronType=Rel	19	obj	_	start_char=92|end_char=96
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=97|end_char=101
+19	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=102|end_char=105
+20	,	,	PUNCT	,	_	8	punct	_	start_char=105|end_char=106
+21	can	can	AUX	MD	VerbForm=Fin	8	parataxis	_	start_char=107|end_char=110
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=111|end_char=115
+23	?	?	PUNCT	.	_	8	punct	_	start_char=115|end_char=116
+

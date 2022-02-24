@@ -1,0 +1,9 @@
+You say that you are being honest, but even if you are being honest you are still asking to exploit someone. The natural way of things is to pay people for labor.
+
+You are asking for someone to provide to you a large amount of unpaid labor. According to you it will take 3-5 months, let's say 3 months. A low, starting salary for an inexperienced software developer might be $50k. Let's assume a relatively modest 50% overhead. This means that 3 months of pay is $18,500.
+
+Once the demo is done, if the demo meets some unknown and unspecified criteria by a third party, you say that this person will invest $15k in the project. At that point, the programmer would have already spent $18.5k in opportunity costs, so the project is $3.5k in the hole. But there is no guarantee that the investor will like the demo.
+
+So you can see that this is an extremely one-sided proposal. No matter what happens, if the project succeeds or fails, in either case, the programmer loses. That is why this proposal is exploitative. It is so one-sided that it is morally repugnant.
+
+You are either trying to take advantage of inexperienced developers who do not know any better, or you are ignorant and unaware that your proposal is exploitative.

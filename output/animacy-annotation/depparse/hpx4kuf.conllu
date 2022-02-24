@@ -1,0 +1,36 @@
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=5|end_char=7
+3	another	another	DET	DT	_	4	det	_	start_char=8|end_char=15
+4	problem	problem	NOUN	NN	Number=Sing	1	nsubj	_	start_char=16|end_char=23
+5	.	.	PUNCT	.	_	1	punct	_	start_char=23|end_char=24
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=25|end_char=28
+2	Dunning	Dunning	PROPN	NNP	Number=Sing	4	compound	_	start_char=29|end_char=36
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=36|end_char=37
+4	Kruger	Kruger	PROPN	NNP	Number=Sing	5	compound	_	start_char=37|end_char=43
+5	effect	effect	NOUN	NN	Number=Sing	9	nsubj:pass	_	start_char=44|end_char=50
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=51|end_char=54
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	aux:pass	_	start_char=55|end_char=59
+8	falsely	falsely	ADV	RB	_	9	advmod	_	start_char=60|end_char=67
+9	interpreted	interpret	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=68|end_char=79
+10	.	.	PUNCT	.	_	9	punct	_	start_char=79|end_char=80
+
+1	Take	take	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=84|end_char=88
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=89|end_char=93
+3	time	time	NOUN	NN	Number=Sing	1	obj	_	start_char=94|end_char=98
+4	to	to	PART	TO	_	5	mark	_	start_char=99|end_char=101
+5	read	read	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=102|end_char=106
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=107|end_char=110
+7	actual	actual	ADJ	JJ	Degree=Pos	8	amod	_	start_char=111|end_char=117
+8	publication	publication	NOUN	NN	Number=Sing	5	obj	_	start_char=118|end_char=129
+9	[	[	PUNCT	-LRB-	_	10	punct	_	start_char=130|end_char=131
+10	Unskilled	unskil	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	start_char=131|end_char=140
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=141|end_char=144
+12	Unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=145|end_char=152
+13	of	of	ADP	IN	_	14	case	_	start_char=153|end_char=155
+14	It	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=156|end_char=158
+15	]	]	PUNCT	-RRB-	_	10	punct	_	start_char=158|end_char=159
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=159|end_char=160
+2	https://www.researchgate.net/publication/12688660_Unskilled_and_Unaware_of_It_How_Difficulties_in_Recognizing_One's_Own_Incompetence_Lead_to_Inflated_Self-Assessments)	https://www.researchgate.net/publication/12688660_unskilled_and_unaware_of_it_how_difficulties_in_recognizing_one's_own_incompetence_lead_to_inflated_self-assessments)	X	ADD	_	0	root	_	start_char=160|end_char=327
+

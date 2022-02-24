@@ -1,0 +1,17 @@
+&gt;G2A could give devs an api to remove keys with
+
+That is decidedly too late. At that point the key is already stolen, the charge made to the stolen CC, and the charge-back initiated, causing cost to the devs. All that this does is reduce the incentive to steal keys slightly, because it isn't AS easy to sell them.
+
+Maybe you aren't really aware what the issue is. It isn't "lost money from fraudulent sale". It is "If someone pays us with a stolen credit card, on top of NOT getting the money, we have to pay the bank a penalty that is ridiculously as high as ANOTHER copy of the game. For any stolen copy they have to sell another legitimate copy just to break even." Or put differently, they would be ecstatic if the game was JUST pirated instead, that way they would JUST not have a sale, instead of no sale + charge-back fee.
+
+The only measure the devs could take would be to create a delay between a purchase and handing out the key, which is obviously not going to happen.
+
+Or maybe, just maybe, banks shouldn't be allowed to have charge-back mechanisms that means that the bank has NO incentive to fix a broken system and just charges the companies that need to accept CC's for the outcome of their lacking security.
+If the BANK hat to eat the cost, new security mechanism would be in place TOMORROW. There isn't even a requirement for 2way authentication, which would be the LEAST that would have to be done to increase security. Just having both the customer and the bank not be part of the penalty and have sellers of all kinds of goods pay the tab for CC fraud is what causes this issue.
+
+The companies themselves have NO mechanism to defend against this, and the banks no interest in fixing it. The customer is unaware and just happy to be able to charge-back even in cases where ultimately their irresponsibility caused the theft.
+
+"Fixing" G2A doesn't fix the issue, since they are by far not the only people selling stolen keys.
+Again, I am not against holding G2A accountable, specifically when they claim they are legit now.
+
+

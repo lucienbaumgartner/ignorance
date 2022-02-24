@@ -1,0 +1,3 @@
+In what situation are you unaware and unable to stop someone when you see them wave your phone in front of your face?
+
+If you’re referencing sleep, that won’t be an issue if they’ve done it right. FaceID won’t unlock unless the eyes are open and the person is “paying attention”, so hopefully Google implements something like that.

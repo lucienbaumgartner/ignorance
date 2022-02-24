@@ -1,0 +1,13 @@
+&gt;How do you do that thing where you include a bit of my text?
+
+On mobile, put \&gt; before the text, while on desktop use the quote formatting option in the fancy pants editor.
+
+ &gt;But the shove action is designed as a mid-combat action. So not analogous to someone having their back turned and unaware of you.
+
+But that can happen in combat. If you sneak up on someone and they're surprised, you don't automatically shove them. If someone is unconscious from Sleep or stunned by Hypnotic Pattern, you don't automatically shove them.
+
+You're talking about a shove--those are the rules governing shoving. I'm not saying you need to use them, but those are how the rules handle that situation.
+
+It sounds like you don't think they're realistic given the circumstance, which I'd agree with. Personally, I'd give the shovee disadvantage on their ability check. This represents then being unaware and unprepared. 
+
+Ultimately, you can run it how you'd like, but there are very few ways to move someone against their will without them getting to save/make a check against it, and I would be very hesitant to add "shove someone who isn't paying attention" to that *very limited* list,

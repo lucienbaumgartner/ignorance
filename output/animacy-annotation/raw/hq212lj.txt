@@ -1,0 +1,20 @@
+In this case the most appropriate thing to do is have one completely "dumb" form, generic and unaware of anything. All the business logic logic, including the decision which submit handlwr to pass to the form is in a custom hook. The hook can be passed ( along with everything else needed), an argument called action, or even id if you insist. Inside the hook there should bebthe handlers ( 2,3,... n), and which one of them is passed to the form will be decided by the action/id. 
+
+Example: 
+`const handlers = {
+edit: editHandler,
+create: createHandler
+}
+// .... other code here
+
+return {
+// some other stuff
+submitHandler: handlers[action]
+}`
+
+I apologize if something is not clear, I'm typing this on a phone. 
+
+No conditional logic required, anywhere. You just reuse the form component wherever you need.
+
+rant: I'm surprised ( unpleasantly! ) how many people seem to use React without actually knowing how it works. :-/
+rant over

@@ -1,0 +1,42 @@
+1	Whoa	whoa	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=7|end_char=12
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=15
+3	NO	no	DET	DT	_	4	det	_	start_char=16|end_char=18
+4	WAY	way	NOUN	NN	Number=Sing	2	nsubj	_	start_char=19|end_char=22
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=23|end_char=27
+6	season	season	NOUN	NN	Number=Sing	11	nsubj:pass	_	start_char=28|end_char=34
+7	3	3	NUM	CD	NumType=Card	6	nummod	_	start_char=35|end_char=36
+8	will	will	AUX	MD	VerbForm=Fin	11	aux	_	start_char=37|end_char=41
+9	be	be	AUX	VB	VerbForm=Inf	11	aux:pass	_	start_char=42|end_char=44
+10	well	well	ADV	RB	Degree=Pos	11	advmod	_	start_char=45|end_char=49
+11	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl:relcl	_	start_char=50|end_char=57
+12	.	.	PUNCT	.	_	2	punct	_	start_char=57|end_char=58
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=61|end_char=66
+2	writers	writer	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=67|end_char=74
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=75|end_char=78
+4	unskilled	unskilled	ADJ	JJ	Degree=Pos|Polarity=Neg	0	root	_	start_char=79|end_char=88
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=89|end_char=92
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=93|end_char=100
+7	of	of	ADP	IN	_	10	case	_	start_char=101|end_char=103
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=104|end_char=107
+9	franchise	franchise	NOUN	NN	Number=Sing	10	compound	_	start_char=108|end_char=117
+10	lore	lore	NOUN	NN	Number=Sing	6	obl	_	start_char=118|end_char=122
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=123|end_char=126
+12	identity	identity	NOUN	NN	Number=Sing	10	conj	_	start_char=127|end_char=135
+13	.	.	PUNCT	.	_	4	punct	_	start_char=135|end_char=136
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=138|end_char=140
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=141|end_char=145
+3	smoke	smoke	VERB	VB	VerbForm=Inf	0	root	_	start_char=146|end_char=151
+4	,	,	PUNCT	,	_	6	punct	_	start_char=151|end_char=152
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=153|end_char=155
+6	drink	drink	VERB	VB	VerbForm=Inf	3	conj	_	start_char=156|end_char=161
+7	something	something	PRON	NN	Number=Sing	6	obj	_	start_char=162|end_char=171
+8	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=172|end_char=176
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=177|end_char=181
+10	write	write	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=182|end_char=187
+11	?	?	PUNCT	.	_	3	punct	_	start_char=188|end_char=189
+

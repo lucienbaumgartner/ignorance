@@ -1,0 +1,16 @@
+1	Saying	say	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=0|end_char=6
+2	that	that	SCONJ	IN	_	5	mark	_	start_char=7|end_char=11
+3	vaccines	vaccine	NOUN	NNS	Number=Plur	5	nsubj:pass	_	start_char=12|end_char=20
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=21|end_char=24
+5	contraindicated	contraindicate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	start_char=25|end_char=40
+6	for	for	ADP	IN	_	8	case	_	start_char=41|end_char=44
+7	autoimmune	autoimmune	ADJ	JJ	Degree=Pos	8	amod	_	start_char=45|end_char=55
+8	disorders	disorder	NOUN	NNS	Number=Plur	5	obl	_	start_char=56|end_char=65
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=66|end_char=68
+10	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=69|end_char=74
+11	,	,	PUNCT	,	_	12	punct	_	start_char=74|end_char=75
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=76|end_char=84
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=85|end_char=88
+14	dangerous	dangerous	ADJ	JJ	Degree=Pos	10	conj	_	start_char=89|end_char=98
+15	.	.	PUNCT	.	_	10	punct	_	start_char=98|end_char=99
+

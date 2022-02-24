@@ -1,0 +1,7 @@
+Chomsky's review was and remains silly and ignorant. That was my main point. He didn't "destroy" behaviorism. The cognitive revolution was, again, a reaction to perceived failures of behaviorism. Today, the predictive processing paradigm and the 4E (enacted, embodied, extended, and embedded cognition) approach are more popular, and the ideas associated with Chomsky and Fodor are now met with less enthusiasm.
+
+Has Chomsky's notion of a universal grammar been destroyed by these developments? Some would argue that the answer is yes. And that would be just as stupid as to argue that Chomsky destroyed behaviorism. I wouldn't say that research on universal grammar has resulted in any sort of consensus as of yet. I'd be happy to see evidence to the contrary.
+
+Even if the best way to explain the origin of language is via cognitive modules shaped via evolution, the process of language development is obviously shaped in a way that would make sense in the framework of behaviorism. Which is partly why it's so stupid to say that Chomsky destroyed behaviorism. Learning by consequences is hugely important. Even meta-learning can result from RL, as demonstrated by Botvinick et al.
+
+Chomsky argued that all of behaviorism was conceptually rotten and wrongheaded, which is partly why it's such a stupid review. Behaviorism is alive and well.

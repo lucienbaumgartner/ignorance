@@ -1,0 +1,102 @@
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=7
+3	trade	trade	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=13
+4	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	100	100	NUM	CD	NumType=Card	2	nummod	_	start_char=15|end_char=18
+2	%	%	SYM	NN	Number=Sing	0	root	_	start_char=18|end_char=19
+3	.	.	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	not	not	ADV	RB	_	4	advmod	_	start_char=23|end_char=26
+2	because	because	SCONJ	IN	_	4	mark	_	start_char=27|end_char=34
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=35|end_char=36
+4	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=37|end_char=42
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	start_char=43|end_char=45
+6	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=46|end_char=51
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=52|end_char=54
+8	better	good	ADJ	JJR	Degree=Cmp	4	ccomp	_	start_char=55|end_char=61
+9	to	to	PART	TO	_	12	mark	_	start_char=62|end_char=64
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=65|end_char=67
+11	more	more	ADV	RBR	_	12	advmod	_	start_char=68|end_char=72
+12	likable	likable	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=73|end_char=80
+13	or	or	CCONJ	CC	_	15	cc	_	start_char=81|end_char=83
+14	better	well	ADV	RBR	Degree=Cmp	15	advmod	_	start_char=84|end_char=90
+15	looking	look	VERB	VBG	VerbForm=Ger	12	conj	_	start_char=91|end_char=98
+16	or	or	CCONJ	CC	_	18	cc	_	start_char=99|end_char=101
+17	more	more	ADV	RBR	_	18	advmod	_	start_char=102|end_char=106
+18	confident	confident	ADJ	JJ	Degree=Pos	15	conj	_	start_char=107|end_char=116
+19	.	.	PUNCT	.	_	4	punct	_	start_char=116|end_char=117
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=120|end_char=121
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=122|end_char=127
+3	give	give	VERB	VB	VerbForm=Inf	0	root	_	start_char=128|end_char=132
+4	anything	anything	PRON	NN	Number=Sing	3	obj	_	start_char=133|end_char=141
+5	to	to	PART	TO	_	7	mark	_	start_char=142|end_char=144
+6	be	be	AUX	VB	VerbForm=Inf	7	aux	_	start_char=145|end_char=147
+7	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	3	xcomp	_	start_char=148|end_char=155
+8	dumb	dumb	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=156|end_char=160
+9	.	.	PUNCT	.	_	3	punct	_	start_char=160|end_char=161
+
+1	intellect	intellect	NOUN	NN	Number=Sing	2	nsubj	_	start_char=164|end_char=173
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=174|end_char=179
+3	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=180|end_char=185
+4	truly	truly	ADV	RB	_	5	advmod	_	start_char=186|end_char=191
+5	happy	happy	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=192|end_char=197
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=198|end_char=199
+7	lot	lot	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=200|end_char=203
+8	harder	hard	ADJ	JJR	Degree=Cmp	5	xcomp	_	start_char=204|end_char=210
+9	.	.	PUNCT	.	_	2	punct	_	start_char=210|end_char=211
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=212|end_char=213
+2	just	just	ADV	RB	_	3	advmod	_	start_char=214|end_char=218
+3	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=219|end_char=223
+4	too	too	ADV	RB	_	5	advmod	_	start_char=224|end_char=227
+5	much	much	ADV	RB	_	3	advmod	_	start_char=228|end_char=232
+6	about	about	ADP	IN	_	10	case	_	start_char=233|end_char=238
+7	all	all	DET	PDT	_	10	det:predet	_	start_char=239|end_char=242
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=243|end_char=246
+9	terrible	terrible	ADJ	JJ	Degree=Pos	10	amod	_	start_char=247|end_char=255
+10	things	thing	NOUN	NNS	Number=Plur	3	obl	_	start_char=256|end_char=262
+11	happening	happen	VERB	VBG	VerbForm=Ger	10	acl	_	start_char=263|end_char=272
+12	in	in	ADP	IN	_	14	case	_	start_char=273|end_char=275
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=276|end_char=279
+14	world	world	NOUN	NN	Number=Sing	11	obl	_	start_char=280|end_char=285
+15	at	at	ADP	IN	_	18	case	_	start_char=286|end_char=288
+16	any	any	DET	DT	_	18	det	_	start_char=289|end_char=292
+17	given	give	VERB	VBN	Tense=Past|VerbForm=Part	18	amod	_	start_char=293|end_char=298
+18	time	time	NOUN	NN	Number=Sing	11	obl	_	start_char=299|end_char=303
+19	.	.	PUNCT	.	_	3	punct	_	start_char=303|end_char=304
+
+1	all	all	DET	PDT	_	3	det:predet	_	start_char=305|end_char=308
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=309|end_char=312
+3	injustice	injustice	NOUN	NN	Number=Sing	0	root	_	start_char=313|end_char=322
+4	.	.	PUNCT	.	_	3	punct	_	start_char=322|end_char=323
+
+1	what	what	PRON	WP	PronType=Int	3	nsubj	_	start_char=326|end_char=330
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=330|end_char=332
+3	worse	bad	ADJ	JJR	Degree=Cmp	0	root	_	start_char=333|end_char=338
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=339|end_char=340
+5	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=341|end_char=345
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=346|end_char=347
+7	responsibility	responsibility	NOUN	NN	Number=Sing	5	obj	_	start_char=348|end_char=362
+8	to	to	PART	TO	_	9	mark	_	start_char=363|end_char=365
+9	do	do	VERB	VB	VerbForm=Inf	7	acl	_	start_char=366|end_char=368
+10	something	something	PRON	NN	Number=Sing	9	obj	_	start_char=369|end_char=378
+11	about	about	ADP	IN	_	12	case	_	start_char=379|end_char=384
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nmod	_	start_char=385|end_char=387
+13	.	.	PUNCT	.	_	3	punct	_	start_char=387|end_char=388
+
+1	if	if	SCONJ	IN	_	4	mark	_	start_char=391|end_char=393
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=394|end_char=395
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=396|end_char=399
+4	dumb	dumb	ADJ	JJ	Degree=Pos	12	advcl	_	start_char=400|end_char=404
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=405|end_char=408
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=409|end_char=416
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=417|end_char=421
+8	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=422|end_char=427
+9	just	just	ADV	RB	_	12	advmod	_	start_char=428|end_char=432
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=433|end_char=435
+11	infinitely	infinitely	ADV	RB	_	12	advmod	_	start_char=436|end_char=446
+12	easier	easy	ADJ	JJR	Degree=Cmp	0	root	_	start_char=447|end_char=453
+13	.	.	PUNCT	.	_	12	punct	_	start_char=453|end_char=454
+

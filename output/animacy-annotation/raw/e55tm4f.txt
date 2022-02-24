@@ -1,0 +1,5 @@
+This hits an organization my company manages pretty heavy. Most of the users are young and unaware, and it feels impossible to keep them secured. 
+
+We've recently seen one phishing attempt that is *a lot* like this but at the top they've added a light green banner saying "this email comes from a trusted sender."
+
+I don't have a screen shot hand (on Mobile) but keep an eye out for this!

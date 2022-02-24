@@ -1,0 +1,9 @@
+The jam was awesome! I've been into VR since the 90's but I now consider it to have officially started with the Vive. Everything else is like a window into the room where the Vive is like actually entering the room. You are completely immersed and unaware that you are standing in a real room with a bunch of people in it.
+
+[Imgur](http://i.imgur.com/Mwsdb1D.jpg) Here's a picture of the jam floor.
+
+Our game puts you on a suburban porch with a bunch of kids running around. There are giant wasps (OK maybe bees) flying at your head and stealing your burgers as you try not to burn them. Kids are behind you eagerly awaiting your bounty. 
+
+The game was done in Unity. It took us a while to get everything running properly but there were support guys from Valve and Unity there to assist. We had to use a special Unity plugin to simulate the controllers so we could get some idea of what the interaction would be like. There were three Vive stations set up for people to test on but you had to wait a bit to be able to get onto one so the offline testing was critical. We were using a DK2 to test with. There were about 75 people at the jam.
+
+I'm pretty happy with the way it turned out. It was a blast watching people play it and do things we didn't anticipate. The best was watching someone toss the burger behind his back and CATCH IT. The Vive is amazing.

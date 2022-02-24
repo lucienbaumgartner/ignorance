@@ -1,0 +1,5 @@
+Unconsious. This effect is paralyze+prone+drop+unaware+extra. Remove the unaware and extra effect(s), and you are left with paralyze+prone+drop.
+
+Example: Eyebite. This is a 6th level spell that, with only a saving throw, can inflict unconsious, frightened, and a "poisoned but not poisoned" effect.
+
+And while unconsiousness can usually be ended by taking damage, prone+paralyze has another concequence. Because prone gives disadvaintage on attacks made more than 5 feet away from the creature, this means that attacks within 5 feet of a prone paralyzed creature have advaintage, while all other attacks are made normally.

@@ -1,0 +1,7 @@
+When you call it manually, it's a separate call. You aren't overriding the parameter for mouse input because it isn't being called with mouse input. There is nothing bound to the TurnAt function, it is simply called from another location every tick.
+
+So if you call TurnAt from BeginPlay and the constructor, they're all separate and unaware of each other. 
+
+In SetupPlayerInputComponent, the delegate for the mouse input has TurnAt bound to it, but you could bind any function you want to that so long as it has a float parameter. The InputComponent then executes that delegate however often, passing in the mouse input to TurnAt.
+
+So how do you want to use TurnAt?

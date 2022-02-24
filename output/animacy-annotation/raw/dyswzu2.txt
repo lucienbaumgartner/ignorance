@@ -1,0 +1,1 @@
+This is the Koch Curve, or Koch Snowflake, for anyone unaware and interested.

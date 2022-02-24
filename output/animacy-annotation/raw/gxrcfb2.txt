@@ -1,0 +1,7 @@
+Sorry, not to defend GGG, but that's just delusional and ignorant of how software development works. 
+
+For one thing, there *are* (atleast) thousands of people who's experience depends on whatever change to whatever degree in the absolute vast majority of software dev companies. And in tons of other companies too.
+
+Secondly, the changes are often unintentional in the sense that its hard to predict all the repercussions they will have. A dev isnt a spoiled redditor, they do the technical job they are given and dont spend hours playing the actual product to check every nuance that it might've caused. There simply isnt the time. 
+
+And thirdly, perhaps most importantly - you're blowing this really tiny thing way out of proportion. No company really cares about these hissy fits from customers that "hey 0.01% of the system changed and it mildly inconvenienced me, how dare they"..

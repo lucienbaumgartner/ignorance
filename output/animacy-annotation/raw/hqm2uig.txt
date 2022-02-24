@@ -1,0 +1,45 @@
+Well, as /u/y_sengaku has already already pointed out, the veracity of the so-called *Laudabiliter* is very much under question. If it isn’t an outright forgery then it seems probable that the version which survives was heavily doctored, perhaps owing more to Gerald of Wales than to Pope Adrian IV. However, leaving aside the historicity of the bull itself, there is no doubt that it played an important role in legitimising English imperialism in Ireland.
+
+The *Laudabiliter* was accepted as a legitimate papal grant, even by those who had reason to reject it’s authority (ie. the native Irish). Likewise, other contemporary papal documents express similar viewpoints to those of the *Laudabiliter*. For instance in 1172, following the English invasion Pope Alexander III had praised King Henry II for having:
+
+&gt; “subjected to his dominion that people, a barbarous one, one uncivilized and ignorant of the Divine law”
+
+Ireland was:
+
+&gt; “a kingdom which the Roman emperors, the conquerors of the world, left untouched in their time” 
+
+And Henry’s subjugation of that kingdom was portrayed by Pope Alexander as a kind of penance which would win him an eternal crown (Henry had just recently been responsible - directly or indirectly - for the death of Thomas Becket, Archbishop of Canterbury). 
+
+In addition, the majority of Ireland’s many petty-kings actually acquiesced to the overlordship of the English King (this [portion](https://www.reddit.com/r/AskHistorians/comments/r7nsj7/comment/hn1r927/?utm_source=share&amp;utm_medium=web2x&amp;context=3) of the main answer dealing with English colonialism in Ireland also might be of interest). This recognition of overlordship should also be seen in the context of the Irish High-kingship, but there was probably a religious component to this as well. Shortly after this submission Pope Alexander III wrote to the Irish Church and to these Irish Kings, praising them for accepting Henry as their “king and lord”. Though of course not all the Irish kings did accept Henry as such, and there would continue to be significant opposition in the centuries that followed. 
+
+To be a bit more specific, I’ll take your three questions in turn…
+
+**Was it particularly important for the Anglo-Normans to have Papal backing when they invaded Ireland?**
+
+As with many aspects of English imperialist ideologies towards Ireland these can be traced back largely to the works of Gerald of Wales. In his work *Expugnatio Hibernica* (the *Conquest of Ireland*) from 1189 Gerald makes reference to a “papal bull of privileges” granted by Pope Adrian; as noted the Laudabiliter itself is only extant in the copy included within Gerald’s text. However, this is not the only justification for English conquest in Ireland. 
+
+Gerald makes reference to England’s ‘fivefold right’ to Ireland. The first of these was rooted in the Arthurian legends of early medieval Britain, in which the Irish King Gilomarius was supposed to have recognised King Arthur as his liege (an invention of Gerald). However, even this was a re-affirmation of an existing right. In ancient times the original Irish settlers had apparently been granted the land by the British King Gurguntius. 
+
+In addition, those original settlers were said to have come from Spain and, in particular, the Basque Country. Since the Irish were descended from the Basques, whose modern capital - Bayonne - lay within King Henry’s II dominions in Gascony, it seemed self-evident to Gerald that they should recognise his authority elsewhere too. Aside from all this there was also a *jus irrefragabile* (irrefutable right) based on the ‘voluntary’ submission of the Irish kings to Henry II. 
+
+The fifth and final of these claims is that provided by the papal grant itself, which Gerald claims ‘is enough to complete the title and give it absolute confirmation’. Thus we can see that the Laudabiliter was an important aspect of the claim, but at least in Gerald’s account the English invasion of Ireland does not rest solely on it. It is presented as more of a ‘cherry on top’ as it were. 
+
+Claims like these continued to have an important role within English ideology even up to the early modern period, with several commentators merely rehearsing Gerald’s arguments without much regard for their accuracy. As Andrew Hadfield has noted, even ‘highly sceptical Tudor historians’ would make use of these same historical arguments in order to legitimise their political ambitions in Ireland. My own research for my MA dissertation actually looked at the process of colonial identity formation in 17th century Ireland through the lens of a particular historical text, and indeed in that work we find exactly the same arguments. 
+
+Ultimately, it was this two-pronged approach based on the historical claims of England to Ireland on the one hand, and the barbarity of its native inhabitants on the other, which provided the necessary justification for conquest. *Laudabiliter* was a very important part of this, but it was far from the only part. 
+
+**Were they going to anyway?**
+
+In [this answer](https://www.reddit.com/r/AskHistorians/comments/rdbkel/what_were_strongbows_objectives_in_ireland/) about Strongbow’s motivations I touch a bit on the political circumstances which led to the English invasion. The long and short of it is that although the English could conjure up all kinds of justifications for their right to rule Ireland, the initial invasion was more of a product of opportunism and expansion on the part of individual lords. King Henry II did not invade Ireland in the 1150s when the *Laudabiliter* was allegedly granted; perhaps he might not have invaded at all if the likes of Strongbow and other lords had not allied with the King of Leinster. 
+
+Yet the English state immediately came in behind these initial incursions, enforcing the authority of the English Crown in Ireland (over the Irish, but also over English adventurers like Strongbow) and attempting to create structures of English law and government. In this sense the *Laudabiliter* was crucial, since it provided a firm footing on which to launch this ‘civilising mission’ in Ireland. 
+
+**Was there any comment on how ... dehumanizing it depicts the Irish as?**
+
+This dehumanization was part and parcel of English imperialist ideologies of government. In effect, this was the entire point. In portraying the Irish as a barbarous people this justifies English imperialism on the basis that it would be a civilization mission, bringing light into Darkest Ireland. As John Dillingham has noted:
+
+&gt; “The moral justification, set out in *Laudabiliter* as well as in forged papal privileges, was that since the Irish were a barbarous and sinful people, it was right that Henry II should be set as a reforming ruler over them.  
+
+We need to place the *Laudabiliter* within the context of a fundamental ideological shift within the ‘British Isles’ which took place in this century. This saw English civility increasingly defined in contrast to the supposedly barbarous peoples of the Celtic Fringe. [Something I touch on briefly in this follow-up response](https://www.reddit.com/r/AskHistorians/comments/r7nsj7/comment/hnbifdi/?utm_source=share&amp;utm_medium=web2x&amp;context=3). 
+
+As always happy to answer any follow-ups, or delve a bit deeper into any particular aspect.

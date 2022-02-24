@@ -1,0 +1,25 @@
+1	Or	or	CCONJ	CC	_	19	cc	_	start_char=0|end_char=2
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3|end_char=5
+3	wishing	wish	VERB	VBG	VerbForm=Ger	19	advcl	_	start_char=6|end_char=13
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	iobj	_	start_char=14|end_char=17
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=18|end_char=21
+6	info	info	NOUN	NN	Number=Sing	3	obj	_	start_char=22|end_char=26
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=27|end_char=28
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=29|end_char=32
+9	awake	awake	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=33|end_char=38
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=39|end_char=42
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=43|end_char=50
+12	that	that	SCONJ	IN	_	17	mark	_	start_char=51|end_char=55
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=56|end_char=58
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=59|end_char=62
+15	at	at	ADP	IN	_	17	case	_	start_char=63|end_char=65
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=66|end_char=69
+17	beach	beach	NOUN	NN	Number=Sing	11	ccomp	_	start_char=70|end_char=75
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=76|end_char=78
+19	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=79|end_char=85
+20	exactly	exactly	ADV	RB	_	23	advmod	_	start_char=86|end_char=93
+21	like	like	ADP	IN	_	23	case	_	start_char=94|end_char=98
+22	real	real	ADJ	JJ	Degree=Pos	23	amod	_	start_char=99|end_char=103
+23	life	life	NOUN	NN	Number=Sing	19	obl	_	start_char=104|end_char=108
+24	.	.	PUNCT	.	_	19	punct	_	start_char=108|end_char=109
+

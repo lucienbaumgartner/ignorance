@@ -1,0 +1,11 @@
+You get good through practice, experience and through doing a lot of research on examples of what others have done (books, papers, google, youtube, anything etc...).  
+
+It's tough when you start out, especially in an environment like you've mentioned, but don't take it too personally if someone is impatient and unaware that a 3rd year intern is still learning. Because you are still learning. And anyone in your position would be. Hell, a 2nd year Grad is still learning. When you start working, all of it is an exercise in tenacity bc your ego takes a blow at first. But you get better over time, and one day you'll surprise yourself bc you suddenly confidently know what you're doing.
+
+I helped teach the design course as a TA at my uni, and I still was learning a ton when I went into industry. Some of the senior engineers weren't as patient as I would've liked either, but it forces you to be more meticulous in your work. My first job I could barely use AutoCAD (we learned SolidEdge in uni) but after a handful of years in industry I'm fluent in AutoCAD, CATIA V4/V5, Inventor and SolidWorks. 
+
+A lot of university is to give you a foundational base knowledge and to give you the skills of how to learn on the fly, because much of what you do after school will be an extension of what you did in university, not a carbon copy (otherwise it'd be rather boring...).  You'll be learning new topics, theory and software as you go through your career. You'll need to apply those problem solving and work habit skills you got from university in order to, as I said, learn on the fly. And that means tripping up and making mistakes here and there at the start of something new. Just own up to them and keep going. That's how you get better.
+
+If you're really keen though. and if you really want to get better, get an eval copy of the software you use (Aerospace, so CATIA I'm assuming? Solidworks?) and start designing stuff at home and get a prof, or a buddy from class (or if you can find a mentor) or someone to critique it. I got 100% score on my final drafting project in uni, and when someone in industry saw it, they tore it to shreds. Point is, keeping going, keep learning, keep your chin up, and you'll get there.
+
+Hang in there man and keep at it. We were all there once.

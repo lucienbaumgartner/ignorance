@@ -1,0 +1,28 @@
+1	Because	because	SCONJ	IN	_	6	mark	_	start_char=0|end_char=7
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=8|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=13|end_char=16
+4	narrow	narrow	ADJ	JJ	Degree=Pos	6	advmod	_	start_char=17|end_char=23
+5	-	-	PUNCT	HYPH	_	6	punct	_	start_char=23|end_char=24
+6	minded	minded	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	of	of	ADP	IN	_	10	case	_	start_char=44|end_char=46
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=47|end_char=51
+11	any	any	DET	DT	_	15	nsubj	_	start_char=52|end_char=55
+12	of	of	ADP	IN	_	13	case	_	start_char=56|end_char=58
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nmod	_	start_char=59|end_char=61
+14	really	really	ADV	RB	_	15	advmod	_	start_char=62|end_char=68
+15	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=69|end_char=74
+16	?	?	PUNCT	.	_	6	punct	_	start_char=74|end_char=75
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=77|end_char=78
+2	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=79|end_char=84
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=85|end_char=89
+4	question	question	NOUN	NN	Number=Sing	6	nsubj	_	start_char=90|end_char=98
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=99|end_char=102
+6	rhetorical	rhetorical	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=103|end_char=113
+7	,	,	PUNCT	,	_	2	punct	_	start_char=113|end_char=114
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=115|end_char=116
+9	suppose	suppose	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=117|end_char=124
+10	.	.	PUNCT	.	_	2	punct	_	start_char=124|end_char=125
+

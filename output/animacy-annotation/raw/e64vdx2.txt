@@ -1,0 +1,8 @@
+Currently playing a rogue/fighter crossbow sniper who just so happens to make a few minor mundane upgrades to his own crossbows, so here's a few I had:
+
+* A small metal clip on the underside to attach lanterns (being human, needs light sometimes), so you can have hands-free light; with a bullseye lantern's cone beam, basically works like a flashlight on a gun.
+* Small attachments on the sides to store bolts on: if ever caught unaware and unarmed/unarmored, only need to stop and grab one thing (the crossbow itself), you'll always have at least a few shots worth of ammo.
+* A bayonet; opportunity attacks have to use a melee weapon, and if you're wielding a crossbow at the time, you can now use it to make the AoO.  We gave it 1d6 for a damage die, non-finesse, so ineligible for sneak attack.
+* A spyglass on top of the stock as a sort of scope; have yet to implement this, so no decision yet on any mechanical benefits, but would be a decent flavor explanation for the long-range benefit of Sharpshooter
+
+Might be able to do something with trick bolts too.  Besides your standard grappling hook, maybe a long range delivery method for things like caltrops, ball bearings and alchemist's fire

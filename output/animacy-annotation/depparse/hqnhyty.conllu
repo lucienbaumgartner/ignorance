@@ -1,0 +1,67 @@
+1	Lol	lol	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=9|end_char=13
+4	post	post	NOUN	NN	Number=Sing	2	obj	_	start_char=14|end_char=18
+5	,	,	PUNCT	,	_	2	punct	_	start_char=18|end_char=19
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=20|end_char=23
+7	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=23|end_char=26
+8	batshit	batshit	ADV	RB	_	9	advmod	_	start_char=27|end_char=34
+9	insane	insane	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=35|end_char=41
+10	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	Get	get	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=43|end_char=46
+2	help	help	NOUN	NN	Number=Sing	1	obj	_	start_char=47|end_char=51
+3	.	.	PUNCT	.	_	1	punct	_	start_char=51|end_char=52
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=53|end_char=56
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=56|end_char=59
+3	clearly	clearly	ADV	RB	_	5	advmod	_	start_char=60|end_char=67
+4	on	on	ADP	IN	_	5	case	_	start_char=68|end_char=70
+5	track	track	NOUN	NN	Number=Sing	0	root	_	start_char=71|end_char=76
+6	to	to	PART	TO	_	9	mark	_	start_char=77|end_char=79
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=80|end_char=82
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=83|end_char=85
+9	abuser	abuser	NOUN	NN	Number=Sing	5	xcomp	_	start_char=86|end_char=92
+10	even	even	ADV	RB	_	16	advmod	_	start_char=93|end_char=97
+11	though	though	SCONJ	IN	_	16	mark	_	start_char=98|end_char=104
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj:pass	_	start_char=105|end_char=108
+13	probably	probably	ADV	RB	_	16	advmod	_	start_char=109|end_char=117
+14	already	already	ADV	RB	_	16	advmod	_	start_char=118|end_char=125
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux:pass	_	start_char=126|end_char=129
+16	given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	start_char=130|end_char=135
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=136|end_char=140
+18	history	history	NOUN	NN	Number=Sing	16	obj	_	start_char=141|end_char=148
+19	.	.	PUNCT	.	_	5	punct	_	start_char=148|end_char=149
+
+1	Ew	ew	INTJ	UH	_	0	root	_	start_char=150|end_char=152
+2	.	.	PUNCT	.	_	1	punct	_	start_char=152|end_char=153
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=154|end_char=156
+2	must	must	AUX	MD	VerbForm=Fin	3	aux	_	start_char=157|end_char=161
+3	suck	suck	VERB	VB	VerbForm=Inf	0	root	_	start_char=162|end_char=166
+4	to	to	PART	TO	_	9	mark	_	start_char=167|end_char=169
+5	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=170|end_char=172
+6	so	so	ADV	RB	_	9	advmod	_	start_char=173|end_char=175
+7	self	self	NOUN	NN	Number=Sing	9	obl:npmod	_	start_char=176|end_char=180
+8	-	-	PUNCT	HYPH	_	9	punct	_	start_char=180|end_char=181
+9	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=181|end_char=188
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=189|end_char=192
+11	averagely	averagely	ADV	RB	_	12	advmod	_	start_char=193|end_char=202
+12	boring	boring	ADJ	JJ	Degree=Pos	9	conj	_	start_char=203|end_char=209
+13	.	.	PUNCT	.	_	3	punct	_	start_char=209|end_char=210
+
+1	Hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=211|end_char=215
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=216|end_char=219
+3	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=220|end_char=223
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=224|end_char=228
+5	own	own	ADJ	JJ	Degree=Pos	6	amod	_	start_char=229|end_char=232
+6	identity	identity	NOUN	NN	Number=Sing	3	obj	_	start_char=233|end_char=241
+7	one	one	NUM	CD	NumType=Card	8	nummod	_	start_char=242|end_char=245
+8	day	day	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=246|end_char=249
+9	!	!	PUNCT	.	_	1	punct	_	start_char=249|end_char=250
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=251|end_char=254
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=254|end_char=257
+3	adorable	adorable	ADJ	JJ	Degree=Pos	0	root	_	start_char=258|end_char=266
+4	😘	''	PUNCT	.	_	3	punct	_	start_char=267|end_char=268
+

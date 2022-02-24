@@ -1,0 +1,37 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	shallow	shallow	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=38|end_char=42
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=43|end_char=46
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=47|end_char=52
+10	only	only	ADV	RB	_	11	advmod	_	start_char=53|end_char=57
+11	skipping	skip	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=58|end_char=66
+12	exercise	exercise	NOUN	NN	Number=Sing	11	obj	_	start_char=67|end_char=75
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=76|end_char=79
+14	eating	eat	VERB	VBG	VerbForm=Ger	11	conj	_	start_char=80|end_char=86
+15	junk	junk	NOUN	NN	Number=Sing	16	compound	_	start_char=87|end_char=91
+16	food	food	NOUN	NN	Number=Sing	14	obj	_	start_char=92|end_char=96
+17	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=97|end_char=102
+18	people	people	NOUN	NNS	Number=Plur	17	obj	_	start_char=103|end_char=109
+19	fat	fat	ADJ	JJ	Degree=Pos	17	xcomp	_	start_char=110|end_char=113
+20	.	.	PUNCT	.	_	1	punct	_	start_char=113|end_char=114
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=116|end_char=117
+2	appreciate	appreciate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=118|end_char=128
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=129|end_char=132
+4	trying	try	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=133|end_char=139
+5	,	,	PUNCT	,	_	12	punct	_	start_char=139|end_char=140
+6	but	but	CCONJ	CC	_	12	cc	_	start_char=141|end_char=144
+7	these	this	DET	DT	Number=Plur|PronType=Dem	8	det	_	start_char=145|end_char=150
+8	guys	guy	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=151|end_char=155
+9	really	really	ADV	RB	_	12	advmod	_	start_char=156|end_char=162
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=163|end_char=166
+11	n't	not	PART	RB	_	12	advmod	_	start_char=166|end_char=169
+12	worth	worth	ADJ	JJ	Degree=Pos	2	conj	_	start_char=170|end_char=175
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=176|end_char=179
+14	effort	effort	NOUN	NN	Number=Sing	12	obj	_	start_char=180|end_char=186
+15	.	.	PUNCT	.	_	2	punct	_	start_char=186|end_char=187
+

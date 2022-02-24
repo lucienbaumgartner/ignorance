@@ -1,0 +1,17 @@
+1	Thats	thats	ADP	IN	_	4	case	_	start_char=0|end_char=5
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=6|end_char=9
+3	fucking	fucking	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=17
+4	point	point	NOUN	NN	Number=Sing	9	obl	_	start_char=18|end_char=23
+5	,	,	PUNCT	,	_	9	punct	_	start_char=23|end_char=24
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=25|end_char=29
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	start_char=30|end_char=34
+8	too	too	ADV	RB	_	9	advmod	_	start_char=35|end_char=38
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=39|end_char=47
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=48|end_char=51
+11	prideful	prideful	ADJ	JJ	Degree=Pos	9	conj	_	start_char=52|end_char=60
+12	to	to	PART	TO	_	13	mark	_	start_char=61|end_char=63
+13	flee	flee	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=64|end_char=68
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=69|end_char=72
+15	city	city	NOUN	NN	Number=Sing	13	obj	_	start_char=73|end_char=77
+16	.	.	PUNCT	.	_	9	punct	_	start_char=77|end_char=78
+

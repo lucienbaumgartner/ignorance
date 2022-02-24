@@ -1,0 +1,69 @@
+
+**SAFETY**
+
+The UV spectrum is separated into four parts: UVA (315 nm to 400 nm), UVB (280 nm to 315 nm), UVC (200 nm to 280 nm) and UV Vacuum (100 nm to 200 nm). Decreasing wavelengths correspond with higher frequency radiation and a higher amount of energy per photon. While UVB radiation is widely recognized for its harmful effects on human skin and links to skin cancer, each of the UV bands (UVA, UVB and UVC) create different risks for humans.
+
+While 207-222nm far-UVC generated from filtered excimer lamps can [efficiently deactivate drug-resistant bacteria without apparent harm to exposed mammalian skin](https://www.nature.com/articles/s41598-018-21058-w), simplistic flashlights [like this one](http://budgetlightforum.com/comment/1640248#comment-1640248) are very dangerous for your skin and eyes and should not be used without certified protective equipment, and make for an extremely inefficient, dangerous, ignorant, and irresponsible disinfectant.
+
+Please read further on [wikipedia](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation) and [here](https://www.klaran.com/is-uvc-safe).
+
+Most of this section was copied from the old "UVC" bot entry by Triskite.
+
+All of the lights discussed below fall into the UVA spectrum and are reasonably safe. Best practice is to wear polycarbonate safety goggles (cheap generic ones work great) and not to point the light at anyone's eyes or skin.
+
+**RECOMENDATIONS**
+
+Filter: A ZWB2 filter is a filter that blocks all visible light but allows throught he UV wavelengths. It makes flourescent object really pop when they glow because there's no extra blue light bleeding through and lighting up non-flourescent objects. These filters make a huge difference so you should try and get a light that has one preinstalled if you can.
+
+Keychain: [Olight i3E UV](https://www.amazon.com/Mono-output-Keychain-Ultraviolet-Detector-Efficiency/dp/B07ZFS87G4/ref=sr_1_5?dchild=1&amp;keywords=olight+i3e+uv&amp;qid=1614267713&amp;sr=8-5) one mode, twisty, 1xAAA, keychain, ~$15.
+
+Keychain + White Light: [Rovyvon A8x](https://www.amazon.com/RovyVon-Multifunctional-Flashlight-Lumens-Keychain/dp/B083J9HHP5/ref=sr_1_5?dchild=1&amp;keywords=rovyvon%2Baurora%2Ba6%2Buv&amp;qid=1614278131&amp;sr=8-5&amp;th=1) or [A5x](https://www.rovyvon.com/collections/flashlight/products/a5x) high CRI white main emitter, auxiliary side emitters (uv, red, and white), keychain size, pocket clip, USB rechargeable, ~$40
+
+Compact: [Lumintop Tool AA UV](https://smile.amazon.com/Flashlights-LUMINTOP-Flashlight-Rechargeable-Ultraviolet/dp/B091D1C292/ref=sr_1_6?dchild=1&amp;keywords=lumintop+uv&amp;qid=1622228546&amp;sr=8-6) 1xAA/14500, USB rechargeable 14500 included, ZWB2 filter, pocket clip, tailswitch $30
+
+Medium: Convoy S2+ UV (Aliexpress item 32515105965) 1x18650, one mode, visible light filter (Aliexpress item 32649282235) available, $25. US distributor links for the the [light](https://mohrlumens.com/products/convoy-s2-nichia-uv365?_pos=1&amp;_sid=200f5cf52&amp;_ss=r) and [filter](https://mohrlumens.com/products/zwb2-uv-filter-20-5-2mm?_pos=1&amp;_sid=c577c91e5&amp;_ss=r).
+
+Medium + White Light: [Wurkkos WK30](https://www.amazon.com/Wurkkos-Flashlight-Rechargeable-Blacklight-Waterproof/dp/B07TKJH528/ref=sr_1_2?dchild=1&amp;keywords=wurkkos+wk30&amp;qid=1614267697&amp;sr=8-2) 1x26650 (included), usb recharging, high CRI white emitter, deep red emitter, 2 watt uv emitter, ~$40. [Here is my review.](https://www.reddit.com/r/flashlight/comments/n7ssip/tactical_grizzlys_wurkkos_wk30_review/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+
+Throwy: [Weltool M2-BF](https://www.amazon.com/Weltool-Flashlight-Blacklight-detection-Destructive/dp/B08C245FXY/ref=sr_1_4?dchild=1&amp;keywords=weltool+uv&amp;qid=1616425290&amp;sr=8-4) 1x18650, extra durable, ZWB2 filter preinstalled, relatively throwy, ~$80.
+
+High Output: Convoy S12 UV (Aliexpress item 1005001924001804) 1x21700, two modes, ZWB2 filter preinstalled, triple emitters for high output. I have this one and it's *awesome*. [Here's my review.](https://www.reddit.com/r/flashlight/comments/pjytr5/grizzlys_convoy_s12_uv_review_simple_uv_excellence/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+
+Higher Output: You can get UV mule variants of the [Emisar D4V2](https://intl-outdoor.com/emisar-d4v2-high-power-led-flashlight.html) and [Noctigon KR4](https://intl-outdoor.com/noctigon-kr4-quad-tail-e-switch-edc-led-flashlight.html). The emitters come in either 5W ($95) or 3W ($75) versions, with 8 emitters by default, or with 4 emitters if you ask via email and want to save a few bucks. They now come with a ZWB2 filter preinstalled as well. -Cheule- did a great video about the UV D4V2 options [here](https://www.youtube.com/watch?v=xdY52UY5NNU).
+
+Maximum Output: [Acebeam X80-UV](https://www.amazon.com/AceBeam-X80-UV/dp/B07FW8VNBZ/) 4x18650, 16x uv emitters, 4x white emitters (10,000lm), ~$480.
+
+**USES FOR UV LIGHT**
+
+Here are some practical and fun uses for a UV light:
+
+* Hidden colors/pattetns in flowers
+* Travertibe/limestone flooring
+* Writing hidden messages with vaseline
+* Curing UV resin
+* Driver’s Licenses
+* Bank Cards / Credit Cards
+* Passports / Government documents
+* ⁠Anything that is very white/neon. Manufacturers often add fluorescent materials to make these things look bright in sunlight (very white garments / paper / teeth whiteners)
+* Tonic water (very blue, compare to regular water)
+* Some Vitamins
+* Chlorophyll (red)
+* Scorpions (greenish, check YouTube)
+* Antifreeze (added purposely so that auto investigators can track auto accidents)
+* Some rocks / gemstones
+* Proteins in bodily fluids (say no more)
+* Money (dollars / pesos / euros etc)
+* Laundry detergent (blue)
+* Olive oil glows (orange/red)
+* Banana spots (blue rings)
+* Transparent plastics
+* ⁠some cosmetics
+* Rock salt / turmeric / honey / ketchup / canola oil
+* Spot pin-bones in uncooked fish
+* [Spot Nyogel 760G application](https://imgur.com/a/EbODv4V)
+* [Make some dogs glow, apparently](https://www.reddit.com/r/flashlight/comments/qkgyev/halloween_vibes_in_this_pic_of_my_oldest_dog_lit/?utm_medium=android_app&amp;utm_source=share)
+* [Spot caterpillars in your tomato plants](https://www.reddit.com/r/flashlight/comments/qmbtsp/spotting_tomato_hornworm_caterpillars_on_my/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+
+(originally written by u/tactical_grizzly with huge contributions from [-Cheule-](https://www.reddit.com/user/-Cheule-/) and [Triskite](https://www.reddit.com/user/Triskite/), updated 2021-11-03, if you have any suggestions for changes to this entry please don't hesitate to send me a message)
+
+^(I AM A BOT. PM WITH SUGGESTIONS AND CONTRIBUTIONS. SEE MY) [^(WIKI)](https://www.reddit.com/r/BrokenRecordBot/wiki/index) ^(FOR USE.)

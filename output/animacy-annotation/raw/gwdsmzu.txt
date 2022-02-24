@@ -1,0 +1,7 @@
+Your right this sub is full of morons. 
+
+If you honestly believe they have time to do that or you think its that easy. You are naive and ignorant of video game development. And if you have some experience in the field then you truly are ignorant and i feel sorry for you.
+
+The way the system currently works is that the kick function is controlled client side and not server side. So when should the flag be triggered to prevent a clientside function from being executed? 
+
+Also the post game team have bigger actual problems to deal with so again they wont touch this for a while and even if they do itll be a bandage solution thatll probably wont work long term. And another point: this isnt a technial problem to begin with. Its literally a social/morale problem in terms of kicking people from games at the wrong time.

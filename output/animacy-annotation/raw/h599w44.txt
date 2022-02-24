@@ -1,0 +1,35 @@
+I am afraid one major flaw with certain segments of academia is the Dunning-Kruger effect - they are incompetent and unaware of it, so believe they are having great thoughts when in fact they are not.
+
+This is a good example, unfortunately. The person you are quoting who was talking about trying to mod the game in this way doesn't understand how video games work.
+
+Paradox Interactive makes grand strategy games based around certain eras and cultures. These mechanics are ill suited to other eras. The hereditary nobility of the feudal era bears little resemblance to modern society as well.
+
+This has nothing to do with "colonialism" and everything to do with basic game mechanics. It is not some grand insight but a failure to understand what games are and how they function.
+
+Games have what is known as a scope - something that they are trying to do, some core gameplay loop they are trying to achieve. Trying to make a game function beyond its scope seldom ends well.
+
+The idea of "a game that can do everything" is attractive to people who are naive to game design. In reality, such games end up pretty terrible, because the scope creep results in lack of focus and poor game design. People play a particular game for a particular experience, and ignoring this has killed numerous projects.
+
+For instance, Titan was a MMORPG designed by Blizzard to succeed World of Warcraft. The idea behind it was that you were a bunch of superheroes who would do some jobs their secret identity by day and then go be superheroes at night.
+
+However, the bimodal gameplay made playing the game miserable because the half of the game that wasn't your preferred thing was busywork and you couldn't just focus on one thing to the exclusion of the other. It also just ended up being not all that fun.
+
+The project was canned and never released while a few superhero ideas got recycled into Overwatch, a much better and more focused game.
+
+The same applies here. Trying to depict tribal societies is probably a project unto itself that would not jive well with other sorts of gameplay. You would want to dedicate a game design to it, and it would probably not really resemble "grand strategy" games.
+
+There are additional issues as well, the largest being that the people who are talking about this would be absolutely enraged by a realistic depiction of tribal societies.
+
+For example, researchers have found that such societies were often extremely violent - 10-50% of men died violent deaths, and things like raiding nearby tribes for people and resources was common.
+
+On top of this, tribal societies fell before more advanced civilizations for a reason, and a "realistic" depiction of tribal society's potential long-term development would likely push players in the same direction of becoming more sedentary and generating more food and building settlements and cities supported by more advanced and efficient agricultural technologies to maximize their tribe's potential, as that is how you "win" as a society ("winning" here being able to support a large population with dominance over your surroundings which make you much less vulnerable to raids).
+
+Even if there is no explicit  "win" condition, many players would likely push this way if allowed to - and while playing out the neolithic agricultural revolution would be cool in a sense, it would probably not make people really happy who want this, especially indigenous Australians.
+
+Indeed, a lot of this stuff would be very upsetting - which is one major reason why so few games attempt to depict such societies in the first place.
+
+Do it accurately, people get upset, and some people would likely see it as evidence of racist animus against people in tribal societies.
+
+Do it inaccurately, people decry your lack of research and revisionist history.
+
+Indeed, realism is often not even desirable from a gameplay perspective - what is realistic and what is fun and engaging are often not the same thing.

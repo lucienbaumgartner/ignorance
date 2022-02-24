@@ -1,0 +1,9 @@
+It's not at all. Anybody in here saying anything otherwise is wrong and ignorant of just how robust SSDs are. 
+
+You could write, in gigabytes, the entire drive size of the SSD every single day for five years straight in most SSDs (exempting the ones that are lost early on to the bathtub curve) and it still work.
+
+Look for a drive's "Drive Writes Per Day" or "Terabytes Written" statistic to find out exactly how resilient they are. 
+
+&gt; DWPD measures how many times a user can rewrite an entire SSD every day throughout its warrantied lifetime. For example, if the DWPD is 1 on a 200GB SSD drive, and the warranty period is five years, then users can rewrite the entire 200GB daily for 5 years before anticipating failure. Users can also calculate TBW (terabytes written) from this number: at 200GB a day over 365 days a year, for 5 years, TBW is 365.
+
+Reformatting every day with a Linux distro is laughably negligible on SSD longevity.

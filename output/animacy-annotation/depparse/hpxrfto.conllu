@@ -1,0 +1,27 @@
+1	Yep	yep	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=6
+4	mindset	mindset	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=14
+5	of	of	SCONJ	IN	_	8	mark	_	start_char=15|end_char=17
+6	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=18|end_char=23
+7	so	so	ADV	RB	_	8	advmod	_	start_char=24|end_char=26
+8	lazy	lazy	ADJ	JJ	Degree=Pos	4	acl	_	start_char=27|end_char=31
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=32|end_char=35
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=36|end_char=44
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=45|end_char=49
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=50|end_char=53
+13	lose	lose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=54|end_char=58
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=59|end_char=60
+15	fuckload	fuckload	NOUN	NN	Number=Sing	13	obj	_	start_char=61|end_char=69
+16	of	of	ADP	IN	_	17	case	_	start_char=70|end_char=72
+17	money	money	NOUN	NN	Number=Sing	15	nmod	_	start_char=73|end_char=78
+18	.	.	PUNCT	.	_	4	punct	_	start_char=78|end_char=79
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=80|end_char=83
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=84|end_char=87
+3	gasoline	gasoline	NOUN	NN	Number=Sing	4	compound	_	start_char=88|end_char=96
+4	example	example	NOUN	NN	Number=Sing	6	nsubj	_	start_char=97|end_char=104
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=105|end_char=107
+6	moronic	moronic	ADJ	JJ	Degree=Pos	0	root	_	start_char=108|end_char=115
+7	too	too	ADV	RB	_	6	advmod	_	start_char=116|end_char=119
+

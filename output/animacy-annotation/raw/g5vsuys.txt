@@ -1,0 +1,25 @@
+crowbar=headcrabs, no ammo
+
+pistol=headcrabs, houndeyes, low ammo
+
+revolver=multiple enemies, assasins
+
+smg=finishing off enemies, quick grenades
+
+shotgun=close range melter
+
+crossbow=unaware and waterlogged enemies
+
+rocket launcher=powerful enemies and snipers
+
+tau cannon=normal shot can take down vortagaunts, alien grunts, and marines in a few hits, charge shot for tanks and helicopters
+
+gluon gun=point it at something, its gone, even gargantuas
+
+hivehand=firing from behind cover
+
+grenades, snarks=flushing out enemies, crowd control
+
+trip mines, satchel charges=traps
+
+these are not the sole intended uses for these weapons, but they are good at it.

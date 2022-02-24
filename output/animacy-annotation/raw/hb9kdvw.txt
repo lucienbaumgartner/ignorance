@@ -1,0 +1,9 @@
+On the contrary, CS and Development are completely different departments.  Customer Service has no control over what gets rolled out and how, and to regard CS as carrying the same blame as Development is frankly shortsighted and ignorant of how software companies of any kind are run and managed. 
+
+For that matter, I don't know if I'd even lay it at the feet of Development either.  They design the game and program it, but Project Management as well as Company Management can shut down whatever ideas they want, and push Development into putting out what they want the game to put out - such as more Full Marks, especially if FM is shown to be associated with higher amounts of buying energy or gems.  
+
+Yes, there is such thing as poor development, and some things can definitely be blamed on Development.  Less than stellar storylines, or absurd costume glitches are what they're mostly at fault for.  
+
+But for things like pushing more FM on us, or the up-and-down quality of clothing design or story development, I would argue that that's more the fault of what we in IT and software development like to call "Manglement," that is, management that is conducted with an eye towards the bottom line and getting out a certain quantity of content as opposed to a certain quality of content.  It often results in low morale and high stress levels, with Development just producing stuff to get it out rather than putting time and effort to make something they're proud of.  
+
+It's pretty common in game development, alas.  And a lot of game developers have a limited amount of control over what they produce and how, due both to the struggle to find well-paying jobs in the field, and the current oversaturation of game developers in the career field at the moment.

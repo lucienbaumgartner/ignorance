@@ -1,0 +1,13 @@
+Under section 3 of the Theft Act 1968, a person commits an offence if:
+
+* payment on the spot for any goods supplied or service done is required or expected of a person;
+
+* he knows that such payment is required or expected; 
+
+* and he dishonestly makes off without having paid as required or expected and with intent to avoid payment of the amount due
+
+If person C is so drunk that they do not “know” that payment is expected, then they do not commit the offence - though you’d have to be rendered utterly insensible through drink to forget that taxis need payment… like, he’d have to be unconscious and unaware that he was in a taxi. Let’s assume that C understands he’s in a taxi and that taxis require payment.
+
+A and B still *took a taxi* - it matters not a jot that they only did so because of C’s “vulnerability”. They know that payment is required from the passengers of a taxi (i.e. them), and they make off.
+
+In my view, all three are jointly liable for paying for the taxi, and if they failed to do so “dishonestly” (rather than, say, by mistake) then all three commit the offence.

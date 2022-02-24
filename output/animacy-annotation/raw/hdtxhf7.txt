@@ -1,0 +1,7 @@
+The brokers that do not have shares can see that their customers "own" shares, so another POV is to force the owner to sell. Remember the automatic stop loss that brokers set in February? Same goes for Take Profit. For new purchases by etoro an automatic take profit used to be set and you as a buyer would have to remove it. Granted it was something like 500% but we know that those are rookie numbers.
+
+If an owner of a synthetic share would sell (either by own will or forced by broker) then the brokers obligation for that share disappears.
+
+I wonder if a broker could show an artificial price for its user base so it could shake paper hands and keep these trades a secret, sort of a dark pool but completely inside the brokers house, DTCC uninvolved and unaware of such tactics. Would this be possible? Surely it would be illegal, but I am not sure they care about legal consequences anymore since the fines are a joke for them, or the "cost of doing business".
+
+Any silverback willing to shine a knowledgeable light on this subject?

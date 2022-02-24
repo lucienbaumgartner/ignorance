@@ -1,0 +1,36 @@
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	1	expl	_	start_char=4|end_char=9
+3	any	any	DET	DT	_	4	det	_	start_char=10|end_char=13
+4	animals	animal	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=14|end_char=21
+5	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=22|end_char=26
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=27|end_char=30
+7	so	so	ADV	RB	_	8	advmod	_	start_char=31|end_char=33
+8	illegitimate	illegitimate	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=34|end_char=46
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=51|end_char=59
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=60|end_char=64
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=65|end_char=69
+13	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=70|end_char=72
+14	out	out	ADP	IN	_	17	case	_	start_char=73|end_char=76
+15	of	of	ADP	IN	_	17	case	_	start_char=77|end_char=79
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=80|end_char=85
+17	way	way	NOUN	NN	Number=Sing	13	obl	_	start_char=86|end_char=89
+18	to	to	PART	TO	_	19	mark	_	start_char=90|end_char=92
+19	try	try	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=93|end_char=96
+20	to	to	PART	TO	_	21	mark	_	start_char=97|end_char=99
+21	keep	keep	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=100|end_char=104
+22	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	start_char=105|end_char=106
+23	very	very	ADV	RB	_	24	advmod	_	start_char=107|end_char=111
+24	small	small	ADJ	JJ	Degree=Pos	25	amod	_	start_char=112|end_char=117
+25	segment	segment	NOUN	NN	Number=Sing	21	obj	_	start_char=118|end_char=125
+26	of	of	ADP	IN	_	28	case	_	start_char=126|end_char=128
+27	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	_	start_char=129|end_char=134
+28	species	species	NOUN	NNS	Number=Plur	25	nmod	_	start_char=135|end_char=142
+29	from	from	SCONJ	IN	_	30	mark	_	start_char=143|end_char=147
+30	achieving	achieve	VERB	VBG	VerbForm=Ger	21	advcl	_	start_char=148|end_char=157
+31	happiness	happiness	NOUN	NN	Number=Sing	30	obj	_	start_char=158|end_char=167
+32	?	?	PUNCT	.	_	1	punct	_	start_char=167|end_char=168
+
+1	I'll	I'll	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=170|end_char=174
+2	wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=175|end_char=179
+

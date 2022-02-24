@@ -1,0 +1,5 @@
+"In Short Program, the final GOE must be -5 if the Jump Element is not according to requirements. This means for
+example that the Jump Element has wrong number of revolutions, jump is repeated or jump combination has only one
+jump and the sign +COMBO."
+
+I just realized that you think she should get -5? Are you that biased and unaware of when +COMBO should actually be  notated? Unreal.

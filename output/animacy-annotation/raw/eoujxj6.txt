@@ -1,0 +1,3 @@
+If you ever worked in the big data or machine data field you'd know how utterly wrong and ignorant that blanket statement was.
+
+90% of transmitted internet data is tossed.  And I'm erring on safe.

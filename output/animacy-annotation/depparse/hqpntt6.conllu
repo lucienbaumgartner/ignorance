@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=1|end_char=3
+3	probably	probably	ADV	RB	_	6	advmod	_	start_char=4|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+5	main	main	ADJ	JJ	Degree=Pos	6	amod	_	start_char=17|end_char=21
+6	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=28
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=29|end_char=32
+8	calls	call	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=33|end_char=38
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=39|end_char=41
+10	stupid	stupid	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=42|end_char=48
+11	.	.	PUNCT	.	_	6	punct	_	start_char=48|end_char=49
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=50|end_char=51
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=56
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=57|end_char=61
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=62|end_char=63
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=64|end_char=66
+6	n't	not	PART	RB	_	7	advmod	_	start_char=66|end_char=69
+7	know	know	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=70|end_char=74
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=75|end_char=76
+9	lot	lot	NOUN	NN	Number=Sing	7	obj	_	start_char=77|end_char=80
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=81|end_char=84
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	13	nsubj	_	start_char=85|end_char=89
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=90|end_char=92
+13	fine	fine	ADJ	JJ	Degree=Pos	2	conj	_	start_char=93|end_char=97
+14	.	.	PUNCT	.	_	2	punct	_	start_char=97|end_char=98
+
+1	People	person	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=99|end_char=105
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=106|end_char=109
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=110|end_char=115
+4	only	only	ADV	RB	_	5	advmod	_	start_char=116|end_char=120
+5	others	other	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=121|end_char=127
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=128|end_char=131
+7	stupid	stupid	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=132|end_char=138
+8	tend	tend	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=139|end_char=143
+9	to	to	PART	TO	_	13	mark	_	start_char=144|end_char=146
+10	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=147|end_char=149
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=150|end_char=153
+12	MOST	most	ADV	RBS	_	13	advmod	_	start_char=154|end_char=158
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=159|end_char=167
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=168|end_char=171
+15	stupid	stupid	ADJ	JJ	Degree=Pos	13	conj	_	start_char=172|end_char=178
+16	of	of	ADP	IN	_	17	case	_	start_char=179|end_char=181
+17	all	all	DET	DT	_	13	obl	_	start_char=182|end_char=185
+

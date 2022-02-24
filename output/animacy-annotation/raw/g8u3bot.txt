@@ -1,0 +1,11 @@
+Consultancies don’t generally care about actually building good software, because that’s not what generates their revenue.
+
+They generate revenue based on meeting the terms of contracts which are very cleverly written to basically have nothing to do with actually delivering a successful product. Copy this with slick talking consulting managers whose entire job is keeping senior clients stakeholders happy and unaware that their project is a giant money sink destined to go nowhere.
+
+The failure rate in consultancy software projects is mind boggling.
+
+Lastly, you’re rarely going to be anywhere near any kind of interesting or fun project. If a company is hiring a consultancy, they’re probably not someone that is technically strong in the first place, meaning they’re a nightmare to work with as a developer. Secondly, they tend to rarely be solving interesting problems. Most are usually ERP implementations or a company who think their needs are unique reinventing a shittier wheel.
+
+Also the pay is below industry level, the hours longer, and bullshit travel commitments that you will 100% be lied to about in the hiring process.
+
+I don’t like consultancies if you can’t tell. Fucking leeches.

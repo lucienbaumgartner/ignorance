@@ -1,0 +1,7 @@
+Sure, on benchmarks. Idk why so many people believe you can compare 2 entirely different architectures with the same benchmark. The OS also has a lot to do with it. Imagine comparing the RPMs of a race car with that of an 18wheel Semi, and then trying to tell me which one is better based purely on that number.... That's ludicrous and ignorant of how these technologies work.   Would you want amazon trying to deliver their packages with 10,000 sport cars or semi trucks? Would you want race car drive Jeff Gordon (Number 24 in NASCAR) driving a semi in the Daytona 500 if you wanted him to win?
+
+This is basically the argument your are falling victim for when comparing processors made for 2 entirely different use cases, hardware, and operating systems. 
+
+Where benchmarks really shine are when you use them to compare improvements in generational changes between the same processor across different years. Say like Apples A11 vs A12 "Bionic". The reason this works is because the only variable that changes are the improvements in the chip. The OS, software, and hardware surrounding the chip are virtually identical otherwise.
+
+Ask any respectible scientist, when doing a study you use the scientific method. In this method you change 1 variable in the test subject(s) and have 1 subject as a constant (nothing changed). Imagine changing everything at once and have no constant, your study would be useless, just like the benchmark results.

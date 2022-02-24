@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=2|end_char=4
+3	simulated	simulate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=5|end_char=14
+4	,	,	PUNCT	,	_	6	punct	_	start_char=14|end_char=15
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=16|end_char=19
+6	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=20|end_char=24
+7	...	...	PUNCT	,	_	8	punct	_	start_char=24|end_char=27
+8	fantasy	fantasy	NOUN	NN	Number=Sing	3	parataxis	_	start_char=28|end_char=35
+9	?	?	PUNCT	.	_	3	punct	_	start_char=35|end_char=36
+
+1	Role	role	NOUN	NN	Number=Sing	2	nsubj	_	start_char=37|end_char=41
+2	playing	play	VERB	VBG	VerbForm=Ger	0	root	_	start_char=42|end_char=49
+3	??	??	PUNCT	.	_	2	punct	_	start_char=49|end_char=51
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	compound	_	start_char=52|end_char=55
+2	prudes	prude	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=56|end_char=62
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=63|end_char=66
+4	so	so	ADV	RB	_	5	advmod	_	start_char=67|end_char=69
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=78
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=79|end_char=82
+7	uptight	uptight	ADJ	JJ	Degree=Pos	5	conj	_	start_char=83|end_char=90
+8	smh	smh	PUNCT	.	_	5	punct	_	start_char=91|end_char=94
+

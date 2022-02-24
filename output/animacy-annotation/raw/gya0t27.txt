@@ -1,0 +1,1 @@
+Use a VDI solution - image is updated and the end user is unaware and unaffected.

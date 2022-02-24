@@ -1,0 +1,82 @@
+1	Bullshit	bullshit	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=8
+2	.	.	PUNCT	.	_	1	punct	_	start_char=8|end_char=9
+
+1	Women	woman	NOUN	NNS	Number=Plur	3	nsubj:pass	_	start_char=11|end_char=16
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=17|end_char=20
+3	exploited	exploit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=21|end_char=30
+4	,	,	PUNCT	,	_	5	punct	_	start_char=30|end_char=31
+5	discriminated	discriminate	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=32|end_char=45
+6	against	against	ADP	IN	_	5	obl	_	start_char=46|end_char=53
+7	,	,	PUNCT	,	_	9	punct	_	start_char=53|end_char=54
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=55|end_char=58
+9	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=59|end_char=63
+10	in	in	ADP	IN	_	11	case	_	start_char=64|end_char=66
+11	contempt	contempt	NOUN	NN	Number=Sing	9	obl	_	start_char=67|end_char=75
+12	in	in	ADP	IN	_	14	case	_	start_char=76|end_char=78
+13	Islamic	Islamic	ADJ	JJ	Degree=Pos	14	amod	_	start_char=79|end_char=86
+14	society	society	NOUN	NN	Number=Sing	9	obl	_	start_char=87|end_char=94
+15	.	.	PUNCT	.	_	3	punct	_	start_char=94|end_char=95
+
+1	And	and	CCONJ	CC	_	9	cc	_	start_char=99|end_char=102
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=103|end_char=106
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=107|end_char=110
+4	obviously	obviously	ADV	RB	_	6	advmod	_	start_char=111|end_char=120
+5	so	so	ADV	RB	_	6	advmod	_	start_char=121|end_char=123
+6	completely	completely	ADV	RB	_	0	root	_	start_char=124|end_char=134
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=135|end_char=138
+8	utterly	utterly	ADV	RB	_	9	advmod	_	start_char=139|end_char=146
+9	brainwashed	brainwash	ADJ	JJ	Degree=Pos	6	conj	_	start_char=147|end_char=158
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=159|end_char=162
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=163|end_char=171
+12	,	,	PUNCT	,	_	16	punct	_	start_char=171|end_char=172
+13	that	that	SCONJ	IN	_	16	mark	_	start_char=173|end_char=177
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=178|end_char=181
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=182|end_char=185
+16	unable	unable	ADJ	JJ	Degree=Pos	9	parataxis	_	start_char=186|end_char=192
+17	to	to	PART	TO	_	18	mark	_	start_char=193|end_char=195
+18	see	see	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=196|end_char=199
+19	that	that	SCONJ	IN	_	23	mark	_	start_char=200|end_char=204
+20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	23	nsubj:pass	_	start_char=205|end_char=208
+21	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	aux	_	start_char=209|end_char=213
+22	been	be	AUX	VBN	Tense=Past|VerbForm=Part	23	aux:pass	_	start_char=214|end_char=218
+23	enslaved	enslave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	ccomp	_	start_char=219|end_char=227
+24	.	.	PUNCT	.	_	6	punct	_	start_char=227|end_char=228
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=232|end_char=234
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=234|end_char=236
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=237|end_char=240
+4	.	.	PUNCT	.	_	3	punct	_	start_char=240|end_char=241
+
+1	Honestly	honestly	ADV	RB	_	0	root	_	start_char=243|end_char=251
+2	.	.	PUNCT	.	_	1	punct	_	start_char=251|end_char=252
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=256|end_char=259
+2	shameful	shameful	ADJ	JJ	Degree=Pos	0	root	_	start_char=260|end_char=268
+3	.	.	PUNCT	.	_	2	punct	_	start_char=268|end_char=269
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=273|end_char=276
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=277|end_char=280
+3	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=281|end_char=285
+4	right	right	ADV	RB	Degree=Pos	3	advmod	_	start_char=286|end_char=291
+5	on	on	SCONJ	IN	_	6	mark	_	start_char=292|end_char=294
+6	supporting	support	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=295|end_char=305
+7	oppression	oppression	NOUN	NN	Number=Sing	6	obj	_	start_char=306|end_char=316
+8	.	.	PUNCT	.	_	3	punct	_	start_char=316|end_char=317
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=319|end_char=321
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=321|end_char=323
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=324|end_char=328
+4	right	right	NOUN	NN	Number=Sing	0	root	_	start_char=329|end_char=334
+5	to	to	PART	TO	_	6	mark	_	start_char=335|end_char=337
+6	exercise	exercise	VERB	VB	VerbForm=Inf	4	csubj	_	start_char=338|end_char=346
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=347|end_char=351
+8	religion	religion	NOUN	NN	Number=Sing	6	obj	_	start_char=352|end_char=360
+9	,	,	PUNCT	,	_	11	punct	_	start_char=360|end_char=361
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=362|end_char=365
+11	brainwash	brainwash	VERB	VB	VerbForm=Inf	6	conj	_	start_char=366|end_char=375
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=376|end_char=380
+13	sisters	sister	NOUN	NNS	Number=Plur	11	obj	_	start_char=381|end_char=388
+14	into	into	ADP	IN	_	15	case	_	start_char=389|end_char=393
+15	slavery	slavery	NOUN	NN	Number=Sing	11	obl	_	start_char=394|end_char=401
+16	.	.	PUNCT	.	_	4	punct	_	start_char=401|end_char=402
+

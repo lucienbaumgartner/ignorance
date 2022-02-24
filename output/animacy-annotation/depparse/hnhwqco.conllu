@@ -1,0 +1,68 @@
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	vaccine	vaccine	NOUN	NN	Number=Sing	3	nsubj	_	start_char=4|end_char=11
+3	killed	kill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+4	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=19|end_char=25
+5	,	,	PUNCT	,	_	3	punct	_	start_char=25|end_char=26
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=27|end_char=29
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=30|end_char=32
+8	on	on	ADP	IN	_	10	case	_	start_char=33|end_char=35
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=36|end_char=39
+10	package	package	NOUN	NN	Number=Sing	3	parataxis	_	start_char=40|end_char=47
+11	.	.	PUNCT	.	_	3	punct	_	start_char=47|end_char=48
+
+1	Ask	ask	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=49|end_char=52
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=53|end_char=57
+3	doctor	doctor	NOUN	NN	Number=Sing	1	obj	_	start_char=58|end_char=64
+4	.	.	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=66|end_char=70
+2	ignorance	ignorance	NOUN	NN	Number=Sing	5	nsubj	_	start_char=71|end_char=80
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=81|end_char=85
+4	n't	not	PART	RB	_	5	advmod	_	start_char=85|end_char=88
+5	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=89|end_char=93
+6	something	something	PRON	NN	Number=Sing	5	obj	_	start_char=94|end_char=103
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=104|end_char=105
+8	fact	fact	NOUN	NN	Number=Sing	5	obj	_	start_char=106|end_char=110
+9	.	.	PUNCT	.	_	5	punct	_	start_char=110|end_char=111
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=113|end_char=117
+2	so	so	ADV	RB	_	3	advmod	_	start_char=118|end_char=120
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=121|end_char=127
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=128|end_char=131
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=132|end_char=140
+6	that	that	SCONJ	IN	_	11	mark	_	start_char=141|end_char=145
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=146|end_char=149
+8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=150|end_char=154
+9	n't	not	PART	RB	_	11	advmod	_	start_char=154|end_char=157
+10	even	even	ADV	RB	_	11	advmod	_	start_char=158|end_char=162
+11	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	start_char=163|end_char=168
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=169|end_char=171
+13	if	if	SCONJ	IN	_	15	mark	_	start_char=172|end_char=174
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=175|end_char=176
+15	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=177|end_char=180
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=181|end_char=183
+17	vaccine	vaccine	NOUN	NN	Number=Sing	15	obj	_	start_char=184|end_char=191
+18	.	.	PUNCT	.	_	3	punct	_	start_char=191|end_char=192
+
+1	No	no	INTJ	UH	Polarity=Neg	11	discourse	_	start_char=194|end_char=196
+2	,	,	PUNCT	,	_	11	punct	_	start_char=196|end_char=197
+3	99	99	NUM	CD	NumType=Card	4	nummod	_	start_char=198|end_char=200
+4	%	%	SYM	NN	Number=Sing	11	nsubj	_	start_char=200|end_char=201
+5	of	of	ADP	IN	_	6	case	_	start_char=202|end_char=204
+6	deaths	death	NOUN	NNS	Number=Plur	4	nmod	_	start_char=205|end_char=211
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=212|end_char=215
+8	not	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=216|end_char=219
+9	in	in	ADP	IN	_	11	case	_	start_char=220|end_char=222
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=223|end_char=226
+11	unvaccinated	unvaccinated	ADJ	JJ	Degree=Pos	0	root	_	start_char=227|end_char=239
+12	.	.	PUNCT	.	_	11	punct	_	start_char=239|end_char=240
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=242|end_char=245
+2	CDC	CDC	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=246|end_char=249
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=250|end_char=253
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=254|end_char=257
+5	stats	stat	NOUN	NNS	Number=Plur	3	obj	_	start_char=258|end_char=263
+6	right	right	ADV	RB	_	7	advmod	_	start_char=264|end_char=269
+7	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=270|end_char=274
+8	https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status	https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status	X	ADD	_	3	parataxis	_	start_char=275|end_char=340
+

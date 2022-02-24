@@ -1,0 +1,32 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	as	as	ADV	RB	_	4	advmod	_	start_char=5|end_char=7
+4	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+5	as	as	ADP	IN	_	7	case	_	start_char=14|end_char=16
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=17|end_char=20
+7	nose	nose	NOUN	NN	Number=Sing	4	obl	_	start_char=21|end_char=25
+8	on	on	ADP	IN	_	10	case	_	start_char=26|end_char=28
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=29|end_char=33
+10	face	face	NOUN	NN	Number=Sing	7	nmod	_	start_char=34|end_char=38
+11	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=39|end_char=43
+12	not	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=44|end_char=47
+13	wearing	wear	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=48|end_char=55
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=56|end_char=57
+15	mask	mask	NOUN	NN	Number=Sing	13	obj	_	start_char=58|end_char=62
+16	.	.	PUNCT	.	_	4	punct	_	start_char=62|end_char=63
+
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=65|end_char=68
+2	.	.	PUNCT	.	_	1	punct	_	start_char=68|end_char=69
+
+1	But	but	CCONJ	CC	_	6	cc	_	start_char=71|end_char=74
+2	,	,	PUNCT	,	_	6	punct	_	start_char=74|end_char=75
+3	seriously	seriously	ADV	RB	_	6	advmod	_	start_char=76|end_char=85
+4	........	........	PUNCT	,	_	6	punct	_	start_char=85|end_char=93
+5	so	so	ADV	RB	_	6	advmod	_	start_char=93|end_char=95
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=96|end_char=102
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=103|end_char=106
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=107|end_char=115
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=116|end_char=119
+10	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	6	conj	_	start_char=120|end_char=130
+11	.	.	PUNCT	.	_	6	punct	_	start_char=130|end_char=131
+

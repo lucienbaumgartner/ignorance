@@ -1,0 +1,205 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	1	1	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=1|end_char=2
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=2|end_char=3
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=3|end_char=4
+2	https://imgur.com/eRdd5Ri.jpg)	https://imgur.com/erdd5ri.jpg)	X	ADD	_	0	root	_	start_char=4|end_char=34
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=36|end_char=37
+2	2	2	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=37|end_char=38
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=38|end_char=39
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=39|end_char=40
+2	https://imgur.com/fkhvIb4.jpg)	https://imgur.com/fkhvib4.jpg)	X	ADD	_	0	root	_	start_char=40|end_char=70
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=72|end_char=73
+2	3	3	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=73|end_char=74
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=74|end_char=75
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=75|end_char=76
+2	https://imgur.com/4chpwQr.jpg)	https://imgur.com/4chpwqr.jpg)	X	ADD	_	0	root	_	start_char=76|end_char=106
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=108|end_char=109
+2	4	4	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=109|end_char=110
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=110|end_char=111
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=111|end_char=112
+2	https://imgur.com/o5dYHM9.jpg)	https://imgur.com/o5dyhm9.jpg)	X	ADD	_	0	root	_	start_char=112|end_char=142
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=144|end_char=145
+2	5	5	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=145|end_char=146
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=146|end_char=147
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=147|end_char=148
+2	https://imgur.com/kS0Rz7D.jpg)	https://imgur.com/ks0rz7d.jpg)	X	ADD	_	0	root	_	start_char=148|end_char=178
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=180|end_char=181
+2	6	6	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=181|end_char=182
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=182|end_char=183
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=183|end_char=184
+2	https://imgur.com/5iJdsEe.jpg)	https://imgur.com/5ijdsee.jpg)	X	ADD	_	0	root	_	start_char=184|end_char=214
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=216|end_char=218
+2	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=219|end_char=221
+3	n't	not	PART	RB	_	4	advmod	_	start_char=221|end_char=224
+4	women	woman	NOUN	NNS	Number=Plur	0	root	_	start_char=225|end_char=230
+5	at	at	ADP	IN	_	7	case	_	start_char=231|end_char=233
+6	large	large	ADJ	JJ	Degree=Pos	4	obl	_	start_char=234|end_char=239
+7	running	run	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=240|end_char=247
+8	around	around	SCONJ	IN	_	9	mark	_	start_char=248|end_char=254
+9	objectifying	objectify	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=255|end_char=267
+10	random	random	ADJ	JJ	Degree=Pos	11	amod	_	start_char=268|end_char=274
+11	people	people	NOUN	NNS	Number=Plur	9	obj	_	start_char=275|end_char=281
+12	on	on	ADP	IN	_	14	case	_	start_char=282|end_char=284
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=285|end_char=288
+14	street	street	NOUN	NN	Number=Sing	9	obl	_	start_char=289|end_char=295
+15	,	,	PUNCT	,	_	17	punct	_	start_char=295|end_char=296
+16	sexually	sexually	ADV	RB	_	17	advmod	_	start_char=297|end_char=305
+17	harassing	harass	VERB	VBG	VerbForm=Ger	9	conj	_	start_char=306|end_char=315
+18	/	/	SYM	,	_	19	cc	_	start_char=315|end_char=316
+19	cat	cat	NOUN	NN	Number=Sing	17	conj	_	start_char=316|end_char=319
+20	calling	call	VERB	VBG	VerbForm=Ger	17	conj	_	start_char=320|end_char=327
+21	,	,	PUNCT	,	_	22	punct	_	start_char=327|end_char=328
+22	stalking	stalk	VERB	VBG	VerbForm=Ger	20	conj	_	start_char=329|end_char=337
+23	or	or	CCONJ	CC	_	24	cc	_	start_char=338|end_char=340
+24	harming	harm	VERB	VBG	VerbForm=Ger	22	conj	_	start_char=341|end_char=348
+25	and	and	CCONJ	CC	_	26	cc	_	start_char=349|end_char=352
+26	raping	rape	VERB	VBG	VerbForm=Ger	22	conj	_	start_char=353|end_char=359
+27	,	,	PUNCT	,	_	30	punct	_	start_char=359|end_char=360
+28	that	that	PRON	DT	Number=Sing|PronType=Dem	30	nsubj	_	start_char=361|end_char=365
+29	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	start_char=365|end_char=367
+30	men	man	NOUN	NNS	Number=Plur	4	parataxis	_	start_char=368|end_char=371
+31	.	.	PUNCT	.	_	4	punct	_	start_char=371|end_char=372
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	compound	_	start_char=373|end_char=376
+2	men	man	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=377|end_char=380
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=381|end_char=384
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=385|end_char=388
+5	predators	predator	NOUN	NNS	Number=Plur	0	root	_	start_char=389|end_char=398
+6	by	by	ADP	IN	_	11	case	_	start_char=399|end_char=401
+7	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=402|end_char=403
+8	whopping	whop	VERB	VBG	VerbForm=Ger	11	amod	_	start_char=404|end_char=412
+9	99	99	NUM	CD	NumType=Card	10	nummod	_	start_char=413|end_char=415
+10	%	%	SYM	NN	Number=Sing	11	compound	_	start_char=415|end_char=416
+11	landslide	landslide	NOUN	NN	Number=Sing	5	nmod	_	start_char=417|end_char=426
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=427|end_char=430
+13	perpetuate	perpetuate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=431|end_char=441
+14	this	this	DET	DT	Number=Sing|PronType=Dem	15	det	_	start_char=442|end_char=446
+15	WORLD	world	NOUN	NN	Number=Sing	13	obj	_	start_char=447|end_char=452
+16	WIDE	wide	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=453|end_char=457
+17	.	.	PUNCT	.	_	5	punct	_	start_char=457|end_char=458
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=460|end_char=461
+2	Assholes	asshole	NOUN	NNS	Number=Plur	0	root	_	start_char=461|end_char=469
+3	on	on	ADP	IN	_	5	case	_	start_char=470|end_char=472
+4	both	both	DET	DT	_	5	det	_	start_char=473|end_char=477
+5	sides	side	NOUN	NNS	Number=Plur	2	nmod	_	start_char=478|end_char=483
+6	"	"	PUNCT	''	_	2	punct	_	start_char=483|end_char=484
+7	but	but	CCONJ	CC	_	10	cc	_	start_char=485|end_char=488
+8	only	only	ADV	RB	_	9	advmod	_	start_char=489|end_char=493
+9	one	one	PRON	PRP	_	10	nsubj	_	start_char=494|end_char=497
+10	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=498|end_char=502
+11	99	99	NUM	CD	NumType=Card	12	nummod	_	start_char=503|end_char=505
+12	%	%	SYM	NN	Number=Sing	10	obj	_	start_char=505|end_char=506
+13	of	of	ADP	IN	_	16	case	_	start_char=507|end_char=509
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=510|end_char=513
+15	sexually	sexually	ADV	RB	_	16	advmod	_	start_char=514|end_char=522
+16	grotesque	grotesque	ADJ	JJ	Degree=Pos	12	nmod	_	start_char=523|end_char=532
+17	,	,	PUNCT	,	_	16	punct	_	start_char=532|end_char=533
+18	which	which	PRON	WDT	PronType=Rel	23	obl	_	start_char=534|end_char=539
+19	this	this	DET	DT	Number=Sing|PronType=Dem	21	det	_	start_char=540|end_char=544
+20	whole	whole	ADJ	JJ	Degree=Pos	21	amod	_	start_char=545|end_char=550
+21	post	post	NOUN	NN	Number=Sing	23	nsubj	_	start_char=551|end_char=555
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=556|end_char=558
+23	about	about	ADP	IN	_	16	acl:relcl	_	start_char=559|end_char=564
+24	.	.	PUNCT	.	_	2	punct	_	start_char=564|end_char=565
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=567|end_char=570
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=571|end_char=575
+3	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=576|end_char=584
+4	nothing	nothing	PRON	NN	Number=Sing	3	obj	_	start_char=585|end_char=592
+5	while	while	SCONJ	IN	_	6	mark	_	start_char=593|end_char=598
+6	bitching	bitch	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=599|end_char=607
+7	about	about	ADP	IN	_	10	case	_	start_char=608|end_char=613
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=614|end_char=616
+9	several	several	ADJ	JJ	Degree=Pos	10	amod	_	start_char=617|end_char=624
+10	sources	source	NOUN	NNS	Number=Plur	6	obl	_	start_char=625|end_char=632
+11	,	,	PUNCT	,	_	3	punct	_	start_char=632|end_char=633
+12	where	where	ADV	WRB	PronType=Int	3	parataxis	_	start_char=634|end_char=639
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=639|end_char=641
+14	*	*	PUNCT	NFP	_	17	punct	_	start_char=642|end_char=643
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=643|end_char=647
+16	*	*	PUNCT	NFP	_	17	punct	_	start_char=647|end_char=648
+17	sources	source	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=649|end_char=656
+18	,	,	PUNCT	,	_	19	punct	_	start_char=656|end_char=657
+19	sonny	sonny	NOUN	NN	Number=Sing	17	appos	_	start_char=658|end_char=663
+20	?	?	PUNCT	.	_	3	punct	_	start_char=663|end_char=664
+
+1	Clearly	clearly	ADV	RB	_	3	advmod	_	start_char=665|end_char=672
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=673|end_char=676
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=677|end_char=681
+4	nothing	nothing	PRON	NN	Number=Sing	3	obj	_	start_char=682|end_char=689
+5	but	but	CCONJ	CC	_	12	case	_	start_char=690|end_char=693
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=694|end_char=698
+7	uneducated	uneducated	ADJ	JJ	Degree=Pos	12	amod	_	start_char=699|end_char=709
+8	,	,	PUNCT	,	_	9	punct	_	start_char=709|end_char=710
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=711|end_char=719
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=720|end_char=723
+11	incorrect	incorrect	ADJ	JJ	Degree=Pos	7	conj	_	start_char=724|end_char=733
+12	opinion	opinion	NOUN	NN	Number=Sing	4	conj	_	start_char=734|end_char=741
+13	on	on	ADP	IN	_	15	case	_	start_char=742|end_char=744
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=745|end_char=746
+15	subject	subject	NOUN	NN	Number=Sing	12	nmod	_	start_char=747|end_char=754
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=755|end_char=758
+17	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=759|end_char=763
+18	n't	not	PART	RB	_	19	advmod	_	start_char=763|end_char=766
+19	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	15	acl:relcl	_	start_char=767|end_char=778
+20	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	21	amod	_	start_char=779|end_char=784
+21	hand	hand	NOUN	NN	Number=Sing	19	obj	_	start_char=785|end_char=789
+22	.	.	PUNCT	.	_	3	punct	_	start_char=789|end_char=790
+
+1	Typical	Typical	ADJ	JJ	Degree=Pos	0	root	_	start_char=791|end_char=798
+2	.	.	PUNCT	.	_	1	punct	_	start_char=798|end_char=799
+3	:)	:)	SYM	NFP	_	1	discourse	_	start_char=800|end_char=802
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=804|end_char=807
+2	of	of	ADP	IN	_	0	root	_	start_char=808|end_char=810
+3	course	course	NOUN	NN	Number=Sing	2	fixed	_	start_char=811|end_char=817
+4	...	...	PUNCT	.	_	2	punct	_	start_char=817|end_char=820
+
+1	NoT	not	PART	RB	_	3	advmod	_	start_char=821|end_char=824
+2	AlL	all	DET	DT	_	3	det	_	start_char=825|end_char=828
+3	MeN!1!11	MeN!1!11	PROPN	NNP	Number=Sing	0	root	_	start_char=829|end_char=837
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=839|end_char=843
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=844|end_char=848
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=849|end_char=852
+4	nothing	nothing	PRON	NN	Number=Sing	3	obj	_	start_char=853|end_char=860
+5	to	to	PART	TO	_	6	mark	_	start_char=861|end_char=863
+6	do	do	VERB	VB	VerbForm=Inf	4	acl	_	start_char=864|end_char=866
+7	with	with	ADP	IN	_	8	case	_	start_char=867|end_char=871
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=872|end_char=875
+9	at	at	ADP	IN	_	10	case	_	start_char=876|end_char=878
+10	all	all	DET	DT	_	6	obl	_	start_char=879|end_char=882
+11	,	,	PUNCT	,	_	16	punct	_	start_char=882|end_char=883
+12	unless	unless	SCONJ	IN	_	16	mark	_	start_char=884|end_char=890
+13	of	of	ADP	IN	_	16	advmod	_	start_char=891|end_char=893
+14	course	course	NOUN	NN	Number=Sing	13	fixed	_	start_char=894|end_char=900
+15	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	start_char=901|end_char=904
+16	feel	feel	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=905|end_char=909
+17	called	call	VERB	VBN	Tense=Past|VerbForm=Part	16	xcomp	_	start_char=910|end_char=916
+18	out	out	ADP	RP	_	17	compound:prt	_	start_char=917|end_char=920
+19	,	,	PUNCT	,	_	20	punct	_	start_char=920|end_char=921
+20	plenty	plenty	NOUN	NN	Number=Sing	16	obj	_	start_char=922|end_char=928
+21	of	of	ADP	IN	_	23	case	_	start_char=929|end_char=931
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=932|end_char=936
+23	kind	kind	NOUN	NN	Number=Sing	20	nmod	_	start_char=937|end_char=941
+24	screeching	screech	VERB	VBG	VerbForm=Ger	23	acl	_	start_char=942|end_char=952
+25	in	in	ADP	IN	_	26	case	_	start_char=953|end_char=955
+26	here	here	ADV	RB	PronType=Dem	24	obl	_	start_char=956|end_char=960
+27	.	.	PUNCT	.	_	3	punct	_	start_char=960|end_char=961
+
+1	Narcissists	narcissist	NOUN	NNS	Number=Plur	0	root	_	start_char=963|end_char=974
+2	.	.	PUNCT	.	_	1	punct	_	start_char=974|end_char=975
+

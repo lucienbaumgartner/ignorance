@@ -1,0 +1,56 @@
+1	Voyeurism	voyeurism	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=9
+2	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=11|end_char=15
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=15|end_char=18
+3	vulnerable	vulnerable	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=29
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=30|end_char=33
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=34|end_char=41
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=42|end_char=45
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=46|end_char=48
+8	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=49|end_char=54
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=55|end_char=57
+10	on	on	ADP	RP	_	8	compound:prt	_	start_char=58|end_char=60
+11	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=62|end_char=63
+2	wo	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=64|end_char=66
+3	n’t	not	PART	RB	_	5	advmod	_	start_char=66|end_char=69
+4	ever	ever	ADV	RB	_	5	advmod	_	start_char=70|end_char=74
+5	harm	harm	VERB	VB	VerbForm=Inf	0	root	_	start_char=75|end_char=79
+6	another	another	DET	DT	_	7	det	_	start_char=80|end_char=87
+7	human	human	ADJ	JJ	Degree=Pos	5	obj	_	start_char=88|end_char=93
+8	in	in	ADP	IN	_	11	mark	_	start_char=94|end_char=96
+9	order	order	NOUN	NN	Number=Sing	8	fixed	_	start_char=97|end_char=102
+10	to	to	PART	TO	_	11	mark	_	start_char=103|end_char=105
+11	have	have	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=106|end_char=110
+12	sex	sex	NOUN	NN	Number=Sing	11	obj	_	start_char=111|end_char=114
+13	with	with	ADP	IN	_	14	case	_	start_char=115|end_char=119
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	start_char=120|end_char=124
+15	or	or	CCONJ	CC	_	16	cc	_	start_char=125|end_char=127
+16	force	force	VERB	VB	VerbForm=Inf	11	conj	_	start_char=128|end_char=133
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obj	_	start_char=134|end_char=138
+18	to	to	PART	TO	_	19	mark	_	start_char=139|end_char=141
+19	have	have	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=142|end_char=146
+20	sex	sex	NOUN	NN	Number=Sing	19	obj	_	start_char=147|end_char=150
+21	.	.	PUNCT	.	_	5	punct	_	start_char=150|end_char=151
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=152|end_char=153
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=154|end_char=156
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=156|end_char=159
+4	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=160|end_char=164
+5	contact	contact	NOUN	NN	Number=Sing	4	obj	_	start_char=165|end_char=172
+6	,	,	PUNCT	,	_	4	punct	_	start_char=172|end_char=173
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=174|end_char=175
+8	just	just	ADV	RB	_	9	advmod	_	start_char=176|end_char=180
+9	need	need	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=181|end_char=185
+10	images	image	NOUN	NNS	Number=Plur	9	obj	_	start_char=186|end_char=192
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=193|end_char=196
+12	visuals	visual	NOUN	NNS	Number=Plur	10	conj	_	start_char=197|end_char=204
+13	to	to	PART	TO	_	14	mark	_	start_char=205|end_char=207
+14	record	record	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=208|end_char=214
+15	in	in	ADP	IN	_	17	case	_	start_char=215|end_char=217
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=218|end_char=220
+17	brain	brain	NOUN	NN	Number=Sing	14	obl	_	start_char=221|end_char=226
+18	.	.	PUNCT	.	_	4	punct	_	start_char=226|end_char=227
+

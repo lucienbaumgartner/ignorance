@@ -1,0 +1,5 @@
+&gt;MTGO does not visually represent this -- as of now it shows your card tucked under Binding in planeswalker form
+
+That's downright weird.
+
+Would make some sense if Ixalan's Binding just worked wrong on MTGO, but how can the program be both aware and unaware that the card is treated as though it was on its front?

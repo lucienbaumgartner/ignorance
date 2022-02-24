@@ -1,0 +1,12 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=8|end_char=10
+4	ugly	ugly	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=15
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=16|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=20|end_char=28
+7	of	of	ADP	IN	_	8	case	_	start_char=29|end_char=31
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=32|end_char=34
+9	,	,	PUNCT	,	_	4	punct	_	start_char=34|end_char=35
+10	yes	yes	INTJ	UH	_	4	discourse	_	start_char=36|end_char=39
+11	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+

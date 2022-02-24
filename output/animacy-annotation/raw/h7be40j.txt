@@ -1,0 +1,11 @@
+Why not charge $100K then, or $10M?  I mean, if this stuff should be restricted to just those companies that can *afford* to make this equipment, then we're really only talking about the likes of Siemens ($136B market cap.) and Mitsubish ($30B market cap.) And if Siemans is willing to pay $5M to [settle a few annoying little sexual harassment lawsuits back in 2001](https://www.dailypress.com/news/dp-xpm-20011101-2001-11-01-0111010118-story.html), just imagine what access to the standards that govern the entire industry they sell to must be worth!   (/s)
+
+Why not do that, then?  I'm sure Siemans and Mitsubishi would be more than happy to be the only companies that could get their equipment certified.
+
+Because it's not just about the manufacturers.  (But even if it were, there are lots of interested parties at the economic margins where costs at this level are actually kind of important.)  Other people care about these standards, like the power companies that buy from Siemens, and the communities that contract with them, all of whom have at least a passing interest in the standards and what they say.
+
+And then there's the more casually interested parties like you and I, who would love to debate the merits of these standards in more detail for whatever reasons, but can't because [it just ain't worth it](https://www.techstreet.com/ieee/standards/ieee-4-2013?gateway_code=ieee&amp;vendor_id=4777&amp;product_id=1857195).
+
+And so lots of people remain in the dark, unaware and ignorant of what those standards are about and why they're important.
+
+Look, I get that IEEE isn't a charity ([oh, wait](https://www.ieee.org/about/help/business-policies/tax-corporate-info.html)) and has costs they need to cover.  I'm happy to debate the need for standards paywalls on the merits of that argument, but that's a qualitatively different argument than the one being made here.  That's an argument based on the costs of developing and maintaining this information.  What you're arguing is that there is an intrinsic benefit of some sort to withholding this information from people who might abuse it, which I emphatically disagree with.
