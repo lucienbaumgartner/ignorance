@@ -1,0 +1,40 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	very	very	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	welcome	welcome	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=19
+5	.	.	PUNCT	.	_	4	punct	_	start_char=19|end_char=20
+
+1	Excuuuuse	excuuuuse	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=21|end_char=30
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=31|end_char=33
+3	for	for	SCONJ	IN	_	5	mark	_	start_char=34|end_char=37
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=38|end_char=43
+5	sick	sick	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=44|end_char=48
+6	of	of	ADP	IN	_	9	case	_	start_char=49|end_char=51
+7	all	all	DET	PDT	_	9	det:predet	_	start_char=52|end_char=55
+8	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=56|end_char=61
+9	questions	question	NOUN	NNS	Number=Plur	5	obl	_	start_char=62|end_char=71
+10	from	from	ADP	IN	_	11	case	_	start_char=72|end_char=76
+11	people	people	NOUN	NNS	Number=Plur	9	nmod	_	start_char=77|end_char=83
+12	just	just	ADV	RB	_	13	advmod	_	start_char=84|end_char=88
+13	spouting	spout	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=89|end_char=97
+14	“	''	PUNCT	``	_	17	punct	_	start_char=98|end_char=99
+15	americans	American	PROPN	NNPS	Number=Plur	17	nsubj	_	start_char=99|end_char=108
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=109|end_char=112
+17	stupid	stupid	ADJ	JJ	Degree=Pos	13	ccomp	_	start_char=113|end_char=119
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=120|end_char=123
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=124|end_char=132
+20	of	of	ADP	IN	_	22	case	_	start_char=133|end_char=135
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=136|end_char=139
+22	world	world	NOUN	NN	Number=Sing	24	compound	_	start_char=140|end_char=145
+23	”	''	PUNCT	''	_	17	punct	_	start_char=145|end_char=146
+24	stereotypes	stereotype	NOUN	NNS	Number=Plur	17	obl	_	start_char=147|end_char=158
+25	.	.	PUNCT	.	_	1	punct	_	start_char=158|end_char=159
+
+1	Glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=160|end_char=164
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=165|end_char=166
+3	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=167|end_char=172
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=173|end_char=175
+5	of	of	ADP	IN	_	6	case	_	start_char=176|end_char=178
+6	help	help	NOUN	NN	Number=Sing	1	ccomp	_	start_char=179|end_char=183
+7	.	.	PUNCT	.	_	1	punct	_	start_char=183|end_char=184
+

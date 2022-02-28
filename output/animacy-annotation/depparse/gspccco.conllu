@@ -1,0 +1,57 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=5
+3	lots	lot	NOUN	NNS	Number=Plur	2	obj	_	start_char=6|end_char=10
+4	of	of	ADP	IN	_	5	case	_	start_char=11|end_char=13
+5	memes	meme	NOUN	NNS	Number=Plur	3	nmod	_	start_char=14|end_char=19
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=20|end_char=23
+7	typing	type	VERB	VBG	VerbForm=Ger	2	conj	_	start_char=24|end_char=30
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=31|end_char=35
+9	ESTPs	estp	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=36|end_char=41
+10	can	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=42|end_char=45
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=46|end_char=48
+12	bullies	bully	NOUN	NNS	Number=Plur	7	ccomp	_	start_char=49|end_char=56
+13	.	.	PUNCT	.	_	2	punct	_	start_char=56|end_char=57
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=58|end_char=60
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=61|end_char=64
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=65|end_char=67
+4	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=68|end_char=79
+5	,	,	PUNCT	,	_	6	punct	_	start_char=79|end_char=80
+6	assertive	assertive	ADJ	JJ	Degree=Pos	4	conj	_	start_char=81|end_char=90
+7	,	,	PUNCT	,	_	9	punct	_	start_char=90|end_char=91
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=92|end_char=95
+9	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=96|end_char=103
+10	of	of	ADP	IN	_	11	case	_	start_char=104|end_char=106
+11	feelings	feeling	NOUN	NNS	Number=Plur	9	obl	_	start_char=107|end_char=115
+12	(	(	PUNCT	-LRB-	_	17	punct	_	start_char=116|end_char=117
+13	though	though	SCONJ	IN	_	17	mark	_	start_char=117|end_char=123
+14	usually	usually	ADV	RB	_	17	advmod	_	start_char=124|end_char=131
+15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	start_char=132|end_char=134
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=135|end_char=138
+17	perceptive	perceptive	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=139|end_char=149
+18	of	of	ADP	IN	_	20	case	_	start_char=150|end_char=152
+19	body	body	NOUN	NN	Number=Sing	20	compound	_	start_char=153|end_char=157
+20	language	language	NOUN	NN	Number=Sing	17	obl	_	start_char=158|end_char=166
+21	)	)	PUNCT	-RRB-	_	17	punct	_	start_char=166|end_char=167
+22	.	.	PUNCT	.	_	4	punct	_	start_char=167|end_char=168
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=169|end_char=170
+2	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=170|end_char=173
+3	also	also	ADV	RB	_	4	advmod	_	start_char=174|end_char=178
+4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=179|end_char=183
+5	ESTPs	ESTPs	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=184|end_char=189
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=190|end_char=192
+7	amazing	amazing	ADJ	JJ	Degree=Pos	8	amod	_	start_char=193|end_char=200
+8	advocates	advocate	NOUN	NNS	Number=Plur	4	ccomp	_	start_char=201|end_char=210
+9	of	of	ADP	IN	_	11	case	_	start_char=211|end_char=213
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=214|end_char=217
+11	underdog	underdog	NOUN	NN	Number=Sing	8	nmod	_	start_char=218|end_char=226
+12	.	.	PUNCT	.	_	4	punct	_	start_char=226|end_char=227
+
+1	So	so	ADV	RB	_	4	advmod	_	start_char=228|end_char=230
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=231|end_char=235
+3	dichotomy	dichotomy	NOUN	NN	Number=Sing	4	nsubj	_	start_char=236|end_char=245
+4	confuses	confuse	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=246|end_char=254
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=255|end_char=257
+6	.	.	PUNCT	.	_	4	punct	_	start_char=257|end_char=258
+

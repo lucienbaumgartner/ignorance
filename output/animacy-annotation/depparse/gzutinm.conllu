@@ -1,0 +1,67 @@
+1	Where	where	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=5
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6|end_char=8
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=9|end_char=12
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=16
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=17|end_char=21
+6	from	from	ADP	IN	_	8	case	_	start_char=22|end_char=26
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=27|end_char=29
+8	statement	statement	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=39
+9	?	?	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=41|end_char=45
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=46|end_char=49
+3	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=50|end_char=54
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=55|end_char=58
+5	capabilities	capability	NOUN	NNS	Number=Plur	3	obj	_	start_char=59|end_char=71
+6	of	of	ADP	IN	_	7	case	_	start_char=72|end_char=74
+7	LOEs	loe	NOUN	NNS	Number=Plur	5	nmod	_	start_char=75|end_char=79
+8	across	across	ADP	IN	_	10	case	_	start_char=80|end_char=86
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=87|end_char=91
+10	country	country	NOUN	NN	Number=Sing	3	obl	_	start_char=92|end_char=99
+11	?	?	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=101|end_char=105
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=106|end_char=110
+3	more	more	ADV	RBR	_	4	advmod	_	start_char=111|end_char=115
+4	interested	interested	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=116|end_char=126
+5	in	in	SCONJ	IN	_	6	mark	_	start_char=127|end_char=129
+6	making	make	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=130|end_char=136
+7	up	up	ADP	RP	_	6	compound:prt	_	start_char=137|end_char=139
+8	charges	charge	NOUN	NNS	Number=Plur	6	obj	_	start_char=140|end_char=147
+9	on	on	ADP	IN	_	11	case	_	start_char=148|end_char=150
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=151|end_char=152
+11	hunch	hunch	NOUN	NN	Number=Sing	6	obl	_	start_char=153|end_char=158
+12	then	then	ADV	RB	PronType=Dem	15	advmod	_	start_char=159|end_char=163
+13	actual	actual	ADJ	JJ	Degree=Pos	15	amod	_	start_char=164|end_char=170
+14	police	police	NOUN	NNS	Number=Plur	15	compound	_	start_char=171|end_char=177
+15	work	work	NOUN	NN	Number=Sing	2	parataxis	_	start_char=178|end_char=182
+16	in	in	ADP	IN	_	18	case	_	start_char=183|end_char=185
+17	some	some	DET	DT	_	18	det	_	start_char=186|end_char=190
+18	cases	case	NOUN	NNS	Number=Plur	15	nmod	_	start_char=191|end_char=196
+19	.	.	PUNCT	.	_	2	punct	_	start_char=196|end_char=197
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=198|end_char=199
+2	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=200|end_char=204
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=205|end_char=208
+4	postings	posting	NOUN	NNS	Number=Plur	2	obj	_	start_char=209|end_char=217
+5	after	after	SCONJ	IN	_	6	mark	_	start_char=218|end_char=223
+6	posting	post	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=224|end_char=231
+7	blind	blind	ADJ	JJ	Degree=Pos	6	obj	_	start_char=232|end_char=237
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=238|end_char=241
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=242|end_char=250
+10	of	of	ADP	IN	_	12	case	_	start_char=251|end_char=253
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=254|end_char=257
+12	case	case	NOUN	NN	Number=Sing	9	obl	_	start_char=258|end_char=262
+13	,	,	PUNCT	,	_	15	punct	_	start_char=262|end_char=263
+14	so	so	ADV	RB	_	15	advmod	_	start_char=264|end_char=266
+15	sue	sue	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=267|end_char=270
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obj	_	start_char=271|end_char=273
+17	.	.	PUNCT	.	_	2	punct	_	start_char=273|end_char=274
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=275|end_char=277
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=278|end_char=281
+3	only	only	ADV	RB	_	4	advmod	_	start_char=282|end_char=286
+4	supposition	supposition	NOUN	NN	Number=Sing	0	root	_	start_char=287|end_char=298
+5	anyways	anyways	ADV	RB	_	4	advmod	_	start_char=299|end_char=306
+6	?	?	PUNCT	.	_	4	punct	_	start_char=306|end_char=307
+

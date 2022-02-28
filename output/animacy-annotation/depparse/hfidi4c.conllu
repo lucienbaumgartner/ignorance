@@ -1,0 +1,38 @@
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=3|end_char=4
+3	depressed	depressed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=5|end_char=14
+4	person	person	NOUN	NN	Number=Sing	6	nsubj	_	start_char=15|end_char=21
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=22|end_char=24
+6	suffering	suffer	VERB	VBG	Tense=Pres|VerbForm=Part	15	advcl	_	start_char=25|end_char=34
+7	at	at	ADP	IN	_	9	case	_	start_char=35|end_char=37
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=38|end_char=41
+9	helm	helm	NOUN	NN	Number=Sing	6	obl	_	start_char=42|end_char=46
+10	of	of	ADP	IN	_	12	case	_	start_char=47|end_char=49
+11	prime	prime	ADJ	JJ	Degree=Pos	12	amod	_	start_char=50|end_char=55
+12	depression	depression	NOUN	NN	Number=Sing	9	nmod	_	start_char=56|end_char=66
+13	then	then	ADV	RB	PronType=Dem	15	advmod	_	start_char=67|end_char=71
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=72|end_char=76
+15	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=77|end_char=81
+16	no	no	DET	DT	_	17	det	_	start_char=82|end_char=84
+17	place	place	NOUN	NN	Number=Sing	15	obj	_	start_char=85|end_char=90
+18	in	in	ADP	IN	_	20	case	_	start_char=91|end_char=93
+19	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=94|end_char=98
+20	life	life	NOUN	NN	Number=Sing	17	nmod	_	start_char=99|end_char=103
+21	?	?	PUNCT	.	_	15	punct	_	start_char=103|end_char=104
+
+1	For	for	ADP	IN	_	0	root	_	start_char=105|end_char=108
+
+1	Te	Te	PROPN	NNP	Number=Sing	2	compound	_	start_char=109|end_char=111
+2	doms	dom	NOUN	NNS	Number=Plur	8	vocative	_	start_char=112|end_char=116
+3	,	,	PUNCT	,	_	8	punct	_	start_char=116|end_char=117
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=118|end_char=121
+5	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=121|end_char=124
+6	all	all	ADV	RB	_	8	advmod	_	start_char=125|end_char=128
+7	very	very	ADV	RB	_	8	advmod	_	start_char=129|end_char=133
+8	dismissive	dismissive	ADJ	JJ	Degree=Pos	0	root	_	start_char=134|end_char=144
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=145|end_char=148
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=149|end_char=157
+11	of	of	ADP	IN	_	13	case	_	start_char=158|end_char=160
+12	fucking	fuck	VERB	VBG	VerbForm=Ger	13	amod	_	start_char=161|end_char=168
+13	facts	fact	NOUN	NNS	Number=Plur	10	obl	_	start_char=169|end_char=174
+

@@ -1,0 +1,21 @@
+1	People	person	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=0|end_char=6
+2	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=7|end_char=10
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=11|end_char=13
+4	any	any	DET	DT	_	5	det	_	start_char=14|end_char=17
+5	combination	combination	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=29
+6	of	of	ADP	IN	_	12	case	_	start_char=30|end_char=32
+7	aware	aware	ADJ	JJ	Degree=Pos	5	nmod	_	start_char=33|end_char=38
+8	/	/	SYM	,	_	9	punct	_	start_char=38|end_char=39
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=46
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=47|end_char=50
+11	political	political	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=60
+12	fanatic	fanatic	NOUN	NN	Number=Sing	7	conj	_	start_char=61|end_char=68
+13	/	/	SYM	,	_	12	punct	_	start_char=68|end_char=69
+14	not	not	ADV	RB	_	17	advmod	_	start_char=69|end_char=72
+15	so	so	ADV	RB	_	17	advmod	_	start_char=73|end_char=75
+16	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=76|end_char=77
+17	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=78|end_char=82
+18	to	to	PART	TO	_	19	mark	_	start_char=83|end_char=85
+19	disagree	disagree	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=86|end_char=94
+20	.	.	PUNCT	.	_	5	punct	_	start_char=94|end_char=95
+

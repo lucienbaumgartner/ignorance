@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=0|end_char=3
+2	ca	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=4|end_char=6
+3	n't	not	PART	RB	_	7	advmod	_	start_char=6|end_char=9
+4	honestly	honestly	ADV	RB	_	7	advmod	_	start_char=10|end_char=18
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=19|end_char=21
+6	so	so	ADV	RB	_	7	advmod	_	start_char=22|end_char=24
+7	propagandized	propagandized	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=51
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=52|end_char=56
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=57|end_char=60
+12	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=61|end_char=68
+13	half	half	DET	PDT	_	15	det:predet	_	start_char=69|end_char=73
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=74|end_char=77
+15	country	country	NOUN	NN	Number=Sing	17	nsubj	_	start_char=78|end_char=85
+16	just	just	ADV	RB	_	17	advmod	_	start_char=86|end_char=90
+17	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=91|end_char=96
+18	to	to	PART	TO	_	19	mark	_	start_char=97|end_char=99
+19	oppress	oppress	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=100|end_char=107
+20	minorities	minority	NOUN	NNS	Number=Plur	19	obj	_	start_char=108|end_char=118
+21	,	,	PUNCT	,	_	7	punct	_	start_char=118|end_char=119
+22	right	right	ADV	RB	_	7	discourse	_	start_char=120|end_char=125
+23	?	?	PUNCT	.	_	7	punct	_	start_char=125|end_char=126
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=127|end_char=130
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=130|end_char=133
+3	just	just	ADV	RB	_	5	advmod	_	start_char=134|end_char=138
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=139|end_char=144
+5	hyperbolic	hyperbolic	ADJ	JJ	Degree=Pos	0	root	_	start_char=145|end_char=155
+6	,	,	PUNCT	,	_	5	punct	_	start_char=155|end_char=156
+7	right	right	ADV	RB	_	5	discourse	_	start_char=157|end_char=162
+8	?	?	PUNCT	.	_	5	punct	_	start_char=162|end_char=163
+

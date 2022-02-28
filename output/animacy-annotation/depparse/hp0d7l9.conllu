@@ -1,0 +1,26 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	win	win	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=8|end_char=11
+4	"	"	PUNCT	``	_	5	punct	_	start_char=12|end_char=13
+5	prove	prove	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=18
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=19|end_char=22
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=22|end_char=25
+8	white	white	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=26|end_char=31
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=32|end_char=35
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=36|end_char=44
+11	of	of	ADP	IN	_	12	case	_	start_char=45|end_char=47
+12	racism	racism	NOUN	NN	Number=Sing	10	obl	_	start_char=48|end_char=54
+13	"	"	PUNCT	''	_	8	punct	_	start_char=54|end_char=55
+14	without	without	SCONJ	IN	_	15	mark	_	start_char=56|end_char=63
+15	telling	tell	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=64|end_char=71
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	iobj	_	start_char=72|end_char=74
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=75|end_char=78
+18	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=78|end_char=81
+19	white	white	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=82|end_char=87
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=88|end_char=91
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	19	conj	_	start_char=92|end_char=100
+22	of	of	ADP	IN	_	24	case	_	start_char=101|end_char=103
+23	racism	racism	NOUN	NN	Number=Sing	24	compound	_	start_char=104|end_char=110
+24	award	award	NOUN	NN	Number=Sing	21	obl	_	start_char=111|end_char=116
+25	🎖	''	PUNCT	.	_	2	punct	_	start_char=117|end_char=118
+

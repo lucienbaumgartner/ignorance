@@ -1,0 +1,29 @@
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=0|end_char=3
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4|end_char=6
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=7|end_char=10
+4	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=14
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=15|end_char=17
+6	supports	support	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=18|end_char=26
+7	equality	equality	NOUN	NN	Number=Sing	6	obj	_	start_char=27|end_char=35
+8	.	.	PUNCT	.	_	4	punct	_	start_char=35|end_char=36
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=37|end_char=39
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=40|end_char=46
+3	to	to	ADP	IN	_	4	case	_	start_char=47|end_char=49
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=50|end_char=52
+5	like	like	SCONJ	IN	_	10	mark	_	start_char=53|end_char=57
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=58|end_char=60
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=60|end_char=62
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=63|end_char=64
+9	bit	bit	NOUN	NN	Number=Sing	10	obl:npmod	_	start_char=65|end_char=68
+10	immature	immature	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=69|end_char=77
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=78|end_char=81
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=82|end_char=89
+13	that	that	SCONJ	IN	_	19	mark	_	start_char=90|end_char=94
+14	most	most	ADJ	JJS	Degree=Sup	15	amod	_	start_char=95|end_char=99
+15	feminists	feminist	NOUN	NNS	Number=Plur	19	nsubj	_	start_char=100|end_char=109
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=110|end_char=113
+17	n't	not	PART	RB	Polarity=Neg	19	advmod	_	start_char=113|end_char=116
+18	man-hating	man-hating	ADJ	JJ	Degree=Pos	19	amod	_	start_char=117|end_char=127
+19	extremists	extremist	NOUN	NNS	Number=Plur	12	ccomp	_	start_char=128|end_char=138
+

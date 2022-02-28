@@ -1,0 +1,17 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=8|end_char=9
+4	greater	great	ADJ	JJR	Degree=Cmp	8	amod	_	start_char=10|end_char=17
+5	than	than	ADP	IN	_	6	case	_	start_char=18|end_char=22
+6	50	50	NUM	CD	NumType=Card	7	nummod	_	start_char=23|end_char=25
+7	%	%	SYM	NN	Number=Sing	8	compound	_	start_char=25|end_char=26
+8	chance	chance	NOUN	NN	Number=Sing	2	nsubj	_	start_char=27|end_char=33
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=34|end_char=37
+10	son	son	NOUN	NN	Number=Sing	13	nsubj	_	start_char=38|end_char=41
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=42|end_char=44
+12	equally	equally	ADV	RB	_	13	advmod	_	start_char=45|end_char=52
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=53|end_char=61
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=62|end_char=65
+15	idiotic	idiotic	ADJ	JJ	Degree=Pos	13	conj	_	start_char=66|end_char=73
+16	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+

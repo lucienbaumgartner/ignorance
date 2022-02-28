@@ -1,0 +1,64 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	never	never	ADV	RB	_	4	advmod	_	start_char=4|end_char=9
+3	even	even	ADV	RB	_	4	advmod	_	start_char=10|end_char=14
+4	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+5	Blue	Blue	ADJ	NNP	Degree=Pos	6	amod	_	start_char=20|end_char=24
+6	LM	LM	PROPN	NNP	Number=Sing	4	obj	_	start_char=25|end_char=27
+7	.	.	PUNCT	.	_	4	punct	_	start_char=27|end_char=28
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=29|end_char=32
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=33|end_char=37
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=38|end_char=40
+4	should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=41|end_char=47
+5	thank	thank	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=48|end_char=53
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=54|end_char=57
+7	cops	cop	NOUN	NNS	Number=Plur	5	obj	_	start_char=58|end_char=62
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=63|end_char=66
+9	performed	perform	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=67|end_char=76
+10	support	support	NOUN	NN	Number=Sing	9	obj	_	start_char=77|end_char=84
+11	for	for	ADP	IN	_	13	case	_	start_char=85|end_char=88
+12	Black	Black	ADJ	NNP	Degree=Pos	13	amod	_	start_char=89|end_char=94
+13	LM	LM	PROPN	NNP	Number=Sing	10	nmod	_	start_char=95|end_char=97
+14	,	,	PUNCT	,	_	18	punct	_	start_char=97|end_char=98
+15	and	and	CCONJ	CC	_	18	cc	_	start_char=99|end_char=102
+16	Not	not	ADV	RB	_	18	advmod	_	start_char=103|end_char=106
+17	All	all	DET	DT	_	18	det	_	start_char=107|end_char=110
+18	Cops	Cop	PROPN	NNPS	Number=Plur	13	conj	_	start_char=111|end_char=115
+19	.	.	PUNCT	.	_	2	punct	_	start_char=115|end_char=116
+
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=117|end_char=122
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=123|end_char=125
+3	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=126|end_char=131
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=132|end_char=135
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=136|end_char=144
+6	of	of	ADP	IN	_	9	case	_	start_char=145|end_char=147
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=148|end_char=151
+8	real	real	ADJ	JJ	Degree=Pos	9	amod	_	start_char=152|end_char=156
+9	situation	situation	NOUN	NN	Number=Sing	5	obl	_	start_char=157|end_char=166
+10	*	*	PUNCT	NFP	_	3	punct	_	start_char=167|end_char=168
+11	of	of	ADP	IN	_	3	advmod	_	start_char=168|end_char=170
+12	course	course	NOUN	NN	Number=Sing	11	fixed	_	start_char=171|end_char=177
+13	*	*	PUNCT	NFP	_	3	punct	_	start_char=177|end_char=178
+14	.	.	PUNCT	.	_	3	punct	_	start_char=178|end_char=179
+
+1	But	but	CCONJ	CC	_	6	cc	_	start_char=180|end_char=183
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=184|end_char=186
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=186|end_char=188
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=189|end_char=190
+5	giant	giant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=191|end_char=196
+6	leap	leap	NOUN	NN	Number=Sing	0	root	_	start_char=197|end_char=201
+7	from	from	ADP	IN	_	8	case	_	start_char=202|end_char=206
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nmod	_	start_char=207|end_char=211
+9	to	to	SCONJ	IN	_	15	mark	_	start_char=212|end_char=214
+10	being	be	AUX	VBG	VerbForm=Ger	15	cop	_	start_char=215|end_char=220
+11	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=221|end_char=222
+12	Blue	Blue	ADJ	NNP	Degree=Pos	15	amod	_	start_char=223|end_char=227
+13	Lives	Lives	PROPN	NNPS	Number=Plur	15	compound	_	start_char=228|end_char=233
+14	-	-	PUNCT	HYPH	_	15	punct	_	start_char=233|end_char=234
+15	er	er	NOUN	NN	Number=Sing	6	advcl	_	start_char=234|end_char=236
+16	.	.	PUNCT	.	_	6	punct	_	start_char=236|end_char=237
+
+1	Come	come	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=238|end_char=242
+2	on	on	ADV	RB	_	1	advmod	_	start_char=243|end_char=245
+3	.	.	PUNCT	.	_	1	punct	_	start_char=245|end_char=246
+

@@ -1,0 +1,56 @@
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=0|end_char=5
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=6|end_char=10
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=13
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=31
+7	of	of	ADP	IN	_	10	case	_	start_char=32|end_char=34
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=35|end_char=38
+9	dog	dog	NOUN	NN	Number=Sing	10	compound	_	start_char=39|end_char=42
+10	world	world	NOUN	NN	Number=Sing	6	obl	_	start_char=43|end_char=48
+11	.	.	PUNCT	.	_	4	punct	_	start_char=48|end_char=49
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=50|end_char=51
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=52|end_char=55
+3	really	really	ADV	RB	_	4	advmod	_	start_char=56|end_char=62
+4	surprised	surprised	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=72
+5	at	at	SCONJ	IN	_	9	mark	_	start_char=73|end_char=75
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=76|end_char=79
+7	much	much	ADJ	JJ	Degree=Pos	8	amod	_	start_char=80|end_char=84
+8	dogs	dog	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=85|end_char=89
+9	cost	cost	VERB	VBD	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=90|end_char=94
+10	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=95|end_char=99
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=100|end_char=101
+12	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	start_char=102|end_char=109
+13	getting	get	VERB	VBG	VerbForm=Ger	12	xcomp	_	start_char=110|end_char=117
+14	older	old	ADJ	JJR	Degree=Cmp	13	xcomp	_	start_char=118|end_char=123
+15	.	.	PUNCT	.	_	4	punct	_	start_char=123|end_char=124
+
+1	With	with	ADP	IN	_	4	case	_	start_char=125|end_char=129
+2	all	all	DET	PDT	_	4	det:predet	_	start_char=130|end_char=133
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=134|end_char=137
+4	stories	story	NOUN	NNS	Number=Plur	10	obl	_	start_char=138|end_char=145
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=146|end_char=149
+6	'd	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=149|end_char=151
+7	expect	expect	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=152|end_char=158
+8	there	there	PRON	EX	_	10	expl	_	start_char=159|end_char=164
+9	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=165|end_char=170
+10	be	be	VERB	VB	VerbForm=Inf	0	root	_	start_char=171|end_char=173
+11	hundreds	hundred	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=174|end_char=182
+12	of	of	ADP	IN	_	13	case	_	start_char=183|end_char=185
+13	dogs	dog	NOUN	NNS	Number=Plur	11	nmod	_	start_char=186|end_char=190
+14	needing	need	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=191|end_char=198
+15	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=199|end_char=201
+16	immediate	immediate	ADJ	JJ	Degree=Pos	17	amod	_	start_char=202|end_char=211
+17	home	home	NOUN	NN	Number=Sing	14	obj	_	start_char=212|end_char=216
+18	but	but	CCONJ	CC	_	20	cc	_	start_char=217|end_char=220
+19	not	not	ADV	RB	_	20	advmod	_	start_char=221|end_char=224
+20	really	really	ADV	RB	_	14	conj	_	start_char=225|end_char=231
+21	.	.	PUNCT	.	_	10	punct	_	start_char=231|end_char=232
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=233|end_char=236
+2	same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=237|end_char=241
+3	with	with	ADP	IN	_	4	case	_	start_char=242|end_char=246
+4	cats	cat	NOUN	NNS	Number=Plur	2	obl	_	start_char=247|end_char=251
+5	too	too	ADV	RB	_	2	advmod	_	start_char=252|end_char=255
+

@@ -1,0 +1,14 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	opinion	opinion	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=15
+4	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	of	of	ADP	IN	_	9	case	_	start_char=40|end_char=42
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=43|end_char=46
+9	facts	fact	NOUN	NNS	Number=Plur	6	obl	_	start_char=47|end_char=52
+10	.	.	PUNCT	.	_	4	punct	_	start_char=52|end_char=53
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=54|end_char=56
+2	opinion	opinion	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=64
+

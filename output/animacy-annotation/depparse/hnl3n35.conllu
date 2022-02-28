@@ -1,0 +1,10 @@
+1	Canada	Canada	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=6
+2	in	in	ADP	IN	_	3	case	_	start_char=7|end_char=9
+3	naive	naive	ADJ	JJ	Degree=Pos	1	nmod	_	start_char=10|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=27
+6	of	of	ADP	IN	_	8	case	_	start_char=28|end_char=30
+7	many	many	ADJ	JJ	Degree=Pos	8	amod	_	start_char=31|end_char=35
+8	things	thing	NOUN	NNS	Number=Plur	5	obl	_	start_char=36|end_char=42
+9	.	.	PUNCT	.	_	1	punct	_	start_char=42|end_char=43
+

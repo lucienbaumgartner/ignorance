@@ -1,0 +1,35 @@
+1	Man	man	NOUN	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=5
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=5|end_char=7
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=8|end_char=14
+5	to	to	PART	TO	_	6	mark	_	start_char=15|end_char=17
+6	help	help	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=18|end_char=22
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=23|end_char=26
+8	.	.	PUNCT	.	_	4	punct	_	start_char=26|end_char=27
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=28|end_char=30
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=37
+3	like	like	SCONJ	IN	_	7	mark	_	start_char=38|end_char=42
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=43|end_char=46
+5	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=47|end_char=49
+6	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=49|end_char=52
+7	like	like	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=53|end_char=57
+8	truth	truth	NOUN	NN	Number=Sing	7	obj	_	start_char=58|end_char=63
+9	.	.	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=65|end_char=66
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=66|end_char=68
+3	not	not	PART	RB	_	4	advmod	_	start_char=69|end_char=72
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=73|end_char=79
+5	to	to	PART	TO	_	8	mark	_	start_char=80|end_char=82
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=83|end_char=85
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=86|end_char=87
+8	dick	dick	NOUN	NN	Number=Sing	4	xcomp	_	start_char=88|end_char=92
+9	but	but	CCONJ	CC	_	13	cc	_	start_char=93|end_char=96
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=97|end_char=100
+11	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=100|end_char=103
+12	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=104|end_char=109
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=110|end_char=118
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=119|end_char=122
+15	childish	childish	ADJ	JJ	Degree=Pos	13	conj	_	start_char=123|end_char=131
+

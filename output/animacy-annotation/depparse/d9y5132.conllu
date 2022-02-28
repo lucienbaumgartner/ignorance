@@ -1,0 +1,27 @@
+1	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=2|end_char=5
+3	al	al	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=6|end_char=8
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=9|end_char=13
+5	happy	happy	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+6	to	to	PART	TO	_	7	mark	_	start_char=20|end_char=22
+7	create	create	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=23|end_char=29
+8	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=30|end_char=31
+9	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=32|end_char=39
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=40|end_char=43
+11	compliant	compliant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=44|end_char=53
+12	audience	audience	NOUN	NN	Number=Sing	7	obj	_	start_char=54|end_char=62
+13	something	something	PRON	NN	Number=Sing	12	appos	_	start_char=63|end_char=72
+14	something	something	PRON	NN	Number=Sing	13	appos	_	start_char=73|end_char=82
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=83|end_char=85
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=85|end_char=87
+17	def	def	VERB	VBN	Tense=Pres|VerbForm=Part	14	acl:relcl	_	start_char=88|end_char=91
+18	in	in	ADP	IN	_	20	case	_	start_char=92|end_char=94
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=95|end_char=98
+20	mails	mail	NOUN	NNS	Number=Plur	17	obl	_	start_char=99|end_char=104
+21	in	in	ADP	IN	_	22	case	_	start_char=105|end_char=107
+22	here	here	ADV	RB	PronType=Dem	17	obl	_	start_char=108|end_char=112
+23	somewhere	somewhere	ADV	RB	_	22	advmod	_	start_char=113|end_char=122
+24	on	on	ADP	IN	_	26	case	_	start_char=123|end_char=125
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	start_char=126|end_char=129
+26	donald	donald	NOUN	NN	Number=Sing	23	obl	_	start_char=130|end_char=136
+

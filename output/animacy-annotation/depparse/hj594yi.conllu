@@ -1,0 +1,57 @@
+1	No	no	DET	DT	_	2	det	_	start_char=0|end_char=2
+2	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=6
+3	,	,	PUNCT	,	_	5	punct	_	start_char=6|end_char=7
+4	but	but	CCONJ	CC	_	5	cc	_	start_char=8|end_char=11
+5	close	close	ADJ	JJ	Degree=Pos	2	conj	_	start_char=12|end_char=17
+6	.	.	PUNCT	.	_	2	punct	_	start_char=17|end_char=18
+
+1	Both	both	DET	DT	_	3	nsubj	_	start_char=19|end_char=23
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=24|end_char=27
+3	great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=33
+4	but	but	CCONJ	CC	_	6	cc	_	start_char=34|end_char=37
+5	not	not	PART	RB	_	6	advmod	_	start_char=38|end_char=41
+6	together	together	ADV	RB	_	3	conj	_	start_char=42|end_char=50
+7	for	for	ADP	IN	_	9	case	_	start_char=51|end_char=54
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=55|end_char=59
+9	game	game	NOUN	NN	Number=Sing	6	obl	_	start_char=60|end_char=64
+10	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=66|end_char=69
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=70|end_char=74
+3	someone	someone	PRON	NN	Number=Sing	2	obj	_	start_char=75|end_char=82
+4	stupid	stupid	ADJ	JJ	Degree=Pos	3	amod	_	start_char=83|end_char=89
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=90|end_char=93
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=94|end_char=101
+7	of	of	ADP	IN	_	9	case	_	start_char=102|end_char=104
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=105|end_char=108
+9	situation	situation	NOUN	NN	Number=Sing	6	obl	_	start_char=109|end_char=118
+10	,	,	PUNCT	,	_	14	punct	_	start_char=118|end_char=119
+11	because	because	SCONJ	IN	_	14	mark	_	start_char=120|end_char=127
+12	stupid	stupid	ADJ	JJ	Degree=Pos	14	nsubj	_	start_char=128|end_char=134
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=135|end_char=138
+14	get	get	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=139|end_char=142
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	iobj	_	start_char=143|end_char=146
+16	points	point	NOUN	NNS	Number=Plur	14	obj	_	start_char=147|end_char=153
+17	for	for	ADP	IN	_	18	case	_	start_char=154|end_char=157
+18	questions	question	NOUN	NNS	Number=Plur	16	nmod	_	start_char=158|end_char=167
+19	that	that	PRON	WDT	PronType=Rel	22	nsubj	_	start_char=168|end_char=172
+20	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	_	start_char=173|end_char=175
+21	n't	not	PART	RB	_	22	advmod	_	start_char=175|end_char=178
+22	make	make	VERB	VB	VerbForm=Inf	18	acl:relcl	_	start_char=179|end_char=183
+23	sense	sense	NOUN	NN	Number=Sing	22	obj	_	start_char=184|end_char=189
+24	.	.	PUNCT	.	_	2	punct	_	start_char=189|end_char=190
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=192|end_char=193
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=194|end_char=199
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=200|end_char=203
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=204|end_char=207
+5	lawyer	lawyer	NOUN	NN	Number=Sing	9	nsubj	_	start_char=208|end_char=214
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=215|end_char=218
+7	Bonnie	Bonnie	PROPN	NNP	Number=Sing	5	conj	_	start_char=219|end_char=225
+8	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=226|end_char=231
+9	make	make	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=232|end_char=236
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=237|end_char=238
+11	fit	fit	NOUN	NN	Number=Sing	12	compound	_	start_char=239|end_char=242
+12	team	team	NOUN	NN	Number=Sing	9	obj	_	start_char=243|end_char=247
+13	.	.	PUNCT	.	_	3	punct	_	start_char=247|end_char=248
+

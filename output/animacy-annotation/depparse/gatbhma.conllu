@@ -1,0 +1,36 @@
+1	Seriously	seriously	ADV	RB	_	0	root	_	start_char=0|end_char=9
+2	though	though	ADV	RB	Degree=Pos	1	advmod	_	start_char=10|end_char=16
+3	.	.	PUNCT	.	_	1	punct	_	start_char=16|end_char=17
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=18|end_char=20
+2	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=28
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=29|end_char=32
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=33|end_char=41
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=42|end_char=46
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=47|end_char=50
+7	’d	have	AUX	MD	VerbForm=Fin	9	aux	_	start_char=50|end_char=52
+8	even	even	ADV	RB	_	9	advmod	_	start_char=53|end_char=57
+9	use	use	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=58|end_char=61
+10	Paris	Paris	PROPN	NNP	Number=Sing	9	obj	_	start_char=62|end_char=67
+11	,	,	PUNCT	,	_	13	punct	_	start_char=67|end_char=68
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=69|end_char=70
+13	city	city	NOUN	NN	Number=Sing	10	appos	_	start_char=71|end_char=75
+14	known	know	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	_	start_char=76|end_char=81
+15	for	for	ADP	IN	_	18	case	_	start_char=82|end_char=85
+16	this	this	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=86|end_char=90
+17	same	same	ADJ	JJ	Degree=Pos	18	amod	_	start_char=91|end_char=95
+18	type	type	NOUN	NN	Number=Sing	14	obl	_	start_char=96|end_char=100
+19	of	of	ADP	IN	_	20	case	_	start_char=101|end_char=103
+20	weather	weather	NOUN	NN	Number=Sing	18	nmod	_	start_char=104|end_char=111
+21	in	in	ADP	IN	_	23	case	_	start_char=112|end_char=114
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=115|end_char=118
+23	autumn	autumn	NOUN	NN	Number=Sing	18	nmod	_	start_char=119|end_char=125
+24	and	and	CCONJ	CC	_	26	cc	_	start_char=126|end_char=129
+25	winter	winter	NOUN	NN	Number=Sing	26	compound	_	start_char=130|end_char=136
+26	months	month	NOUN	NNS	Number=Plur	23	conj	_	start_char=137|end_char=143
+27	,	,	PUNCT	,	_	30	punct	_	start_char=143|end_char=144
+28	as	as	ADP	IN	_	30	case	_	start_char=145|end_char=147
+29	an	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	start_char=148|end_char=150
+30	example	example	NOUN	NN	Number=Sing	9	obl	_	start_char=151|end_char=158
+31	.	.	PUNCT	.	_	2	punct	_	start_char=158|end_char=159
+

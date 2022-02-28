@@ -1,0 +1,24 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	conclusion	conclusion	NOUN	NN	Number=Sing	0	root	_	start_char=2|end_char=12
+3	based	base	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=13|end_char=18
+4	on	on	ADP	IN	_	5	case	_	start_char=19|end_char=21
+5	nothing	nothing	PRON	NN	Number=Sing	3	obl	_	start_char=22|end_char=29
+6	that	that	PRON	WDT	PronType=Rel	7	nsubj	_	start_char=30|end_char=34
+7	flies	fly	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=35|end_char=40
+8	completely	completely	ADV	RB	_	7	advmod	_	start_char=41|end_char=51
+9	in	in	ADP	IN	_	11	case	_	start_char=52|end_char=54
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=55|end_char=58
+11	face	face	NOUN	NN	Number=Sing	7	obl	_	start_char=59|end_char=63
+12	of	of	ADP	IN	_	13	case	_	start_char=64|end_char=66
+13	evidence	evidence	NOUN	NN	Number=Sing	11	nmod	_	start_char=67|end_char=75
+14	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=78|end_char=80
+2	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=81|end_char=85
+3	that	that	SCONJ	IN	_	6	mark	_	start_char=86|end_char=90
+4	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=91|end_char=96
+5	willfully	willfully	ADV	RB	_	6	advmod	_	start_char=97|end_char=106
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=107|end_char=115
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=116|end_char=119
+8	wrong	wrong	ADJ	JJ	Degree=Pos	6	conj	_	start_char=120|end_char=125
+

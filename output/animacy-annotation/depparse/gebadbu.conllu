@@ -1,0 +1,24 @@
+1	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=0|end_char=6
+2	like	like	ADP	IN	_	3	case	_	start_char=7|end_char=11
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	nmod	_	start_char=12|end_char=15
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=16|end_char=19
+5	so	so	ADV	RB	_	6	advmod	_	start_char=20|end_char=22
+6	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=23|end_char=30
+7	dumb	dumb	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=31|end_char=35
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=36|end_char=39
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=40|end_char=47
+10	of	of	ADP	IN	_	12	case	_	start_char=48|end_char=50
+11	general	general	ADJ	JJ	Degree=Pos	12	amod	_	start_char=51|end_char=58
+12	stuff	stuff	NOUN	NN	Number=Sing	9	obl	_	start_char=59|end_char=64
+13	in	in	ADP	IN	_	14	case	_	start_char=65|end_char=67
+14	life	life	NOUN	NN	Number=Sing	12	nmod	_	start_char=68|end_char=72
+15	,	,	PUNCT	,	_	17	punct	_	start_char=72|end_char=73
+16	just	just	ADV	RB	_	17	advmod	_	start_char=74|end_char=78
+17	keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	6	parataxis	_	start_char=79|end_char=83
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=84|end_char=88
+19	opinion	opinion	NOUN	NN	Number=Sing	17	obj	_	start_char=89|end_char=96
+20	to	to	ADP	IN	_	21	case	_	start_char=97|end_char=99
+21	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	17	obl	_	start_char=100|end_char=108
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=109|end_char=112
+23	gtfo	gtfo	VERB	VB	Mood=Imp|VerbForm=Fin	17	conj	_	start_char=113|end_char=117
+

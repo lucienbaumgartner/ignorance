@@ -1,0 +1,39 @@
+1	Forcing	force	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=0|end_char=7
+2	someone	someone	PRON	NN	Number=Sing	1	obj	_	start_char=8|end_char=15
+3	to	to	PART	TO	_	4	mark	_	start_char=16|end_char=18
+4	take	take	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=19|end_char=23
+5	meds	med	NOUN	NNS	Number=Plur	4	obj	_	start_char=24|end_char=28
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=29|end_char=31
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=40
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=41|end_char=44
+9	abusive	abusive	ADJ	JJ	Degree=Pos	7	conj	_	start_char=45|end_char=52
+10	.	.	PUNCT	.	_	7	punct	_	start_char=52|end_char=53
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=54|end_char=55
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=55|end_char=57
+3	not	not	PART	RB	_	5	advmod	_	start_char=58|end_char=61
+4	anti	anti	ADJ	JJ	Degree=Pos	5	amod	_	start_char=62|end_char=66
+5	meds	med	NOUN	NNS	Number=Plur	0	root	_	start_char=67|end_char=71
+6	-	-	PUNCT	,	_	5	punct	_	start_char=72|end_char=73
+7	everyone	everyone	PRON	NN	Number=Sing	9	nsubj	_	start_char=74|end_char=82
+8	should	should	AUX	MD	VerbForm=Fin	9	aux	_	start_char=83|end_char=89
+9	have	have	VERB	VB	VerbForm=Inf	5	parataxis	_	start_char=90|end_char=94
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=95|end_char=96
+11	choice	choice	NOUN	NN	Number=Sing	9	obj	_	start_char=97|end_char=103
+12	.	.	PUNCT	.	_	5	punct	_	start_char=103|end_char=104
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=105|end_char=108
+2	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=109|end_char=112
+3	short	short	ADJ	JJ	Degree=Pos	4	nsubj	_	start_char=113|end_char=118
+4	sighted	sight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=119|end_char=126
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=127|end_char=129
+6	potentially	potentially	ADV	RB	_	7	advmod	_	start_char=130|end_char=141
+7	harmful	harmful	ADJ	JJ	Degree=Pos	4	obj	_	start_char=142|end_char=149
+8	to	to	PART	TO	_	9	mark	_	start_char=150|end_char=152
+9	force	force	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=153|end_char=158
+10	someone	someone	PRON	NN	Number=Sing	9	obj	_	start_char=159|end_char=166
+11	to	to	PART	TO	_	12	mark	_	start_char=167|end_char=169
+12	take	take	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=170|end_char=174
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	obj	_	start_char=175|end_char=179
+14	.	.	PUNCT	.	_	4	punct	_	start_char=179|end_char=180
+

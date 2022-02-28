@@ -1,0 +1,19 @@
+1	6	6	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=1
+2	year	year	NOUN	NN	Number=Sing	3	obl:npmod	_	start_char=2|end_char=6
+3	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=10
+4	.	.	PUNCT	.	_	3	punct	_	start_char=10|end_char=11
+
+1	16	16	NUM	CD	NumType=Card	2	nummod	_	start_char=12|end_char=14
+2	year	year	NOUN	NN	Number=Sing	3	obl:npmod	_	start_char=15|end_char=19
+3	old	old	ADJ	JJ	Degree=Pos	4	amod	_	start_char=20|end_char=23
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=24|end_char=26
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=27|end_char=30
+6	incredibly	incredibly	ADV	RB	_	7	advmod	_	start_char=31|end_char=41
+7	awkward	awkward	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=49
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=50|end_char=53
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=54|end_char=61
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=62|end_char=66
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=67|end_char=68
+12	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	ccomp	_	start_char=69|end_char=72
+13	.	.	PUNCT	.	_	7	punct	_	start_char=72|end_char=73
+

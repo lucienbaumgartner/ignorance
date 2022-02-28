@@ -1,0 +1,41 @@
+1	Honestly	honestly	ADV	RB	_	8	advmod	_	start_char=0|end_char=8
+2	..	..	PUNCT	,	_	8	punct	_	start_char=8|end_char=10
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=10|end_char=13
+4	maintenance	maintenance	NOUN	NN	Number=Sing	5	compound	_	start_char=14|end_char=25
+5	man	man	NOUN	NN	Number=Sing	8	nsubj	_	start_char=26|end_char=29
+6	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=30|end_char=35
+7	've	have	AUX	VB	VerbForm=Inf	8	aux	_	start_char=35|end_char=38
+8	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=39|end_char=46
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=47|end_char=50
+10	5	5	NUM	CD	NumType=Card	11	nummod	_	start_char=52|end_char=53
+11	others	other	NOUN	NNS	Number=Plur	8	obj	_	start_char=54|end_char=60
+12	...	...	PUNCT	.	_	8	punct	_	start_char=60|end_char=63
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=63|end_char=64
+2	still	still	ADV	RB	_	5	advmod	_	start_char=65|end_char=70
+3	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=71|end_char=76
+4	've	have	AUX	VB	VerbForm=Inf	5	aux	_	start_char=76|end_char=79
+5	declined	decline	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=80|end_char=88
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=89|end_char=92
+7	still	still	ADV	RB	_	8	advmod	_	start_char=93|end_char=98
+8	left	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=99|end_char=103
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=104|end_char=106
+10	at	at	ADP	IN	_	11	case	_	start_char=107|end_char=109
+11	door	door	NOUN	NN	Number=Sing	8	obl	_	start_char=110|end_char=114
+12	with	with	ADP	IN	_	13	case	_	start_char=115|end_char=119
+13	pic	pic	NOUN	NN	Number=Sing	8	obl	_	start_char=120|end_char=123
+14	.	.	PUNCT	.	_	5	punct	_	start_char=123|end_char=124
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=125|end_char=128
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=128|end_char=130
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=131|end_char=139
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=140|end_char=143
+5	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=144|end_char=152
+6	..	..	PUNCT	,	_	3	punct	_	start_char=152|end_char=154
+7	so	so	ADV	RB	_	8	advmod	_	start_char=154|end_char=156
+8	teach	teach	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=157|end_char=162
+9	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	start_char=163|end_char=166
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=167|end_char=168
+11	lesson	lesson	NOUN	NN	Number=Sing	8	obj	_	start_char=169|end_char=175
+12	!!	!!	PUNCT	.	_	3	punct	_	start_char=175|end_char=177
+

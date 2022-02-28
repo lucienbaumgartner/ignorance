@@ -1,0 +1,27 @@
+1	Hopefully	hopefully	ADV	RB	_	9	advmod	_	start_char=0|end_char=9
+2	one	one	NUM	CD	NumType=Card	3	nummod	_	start_char=10|end_char=13
+3	day	day	NOUN	NN	Number=Sing	9	obl:tmod	_	start_char=14|end_char=17
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=18|end_char=21
+5	wo	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=22|end_char=24
+6	n’t	not	PART	RB	_	9	advmod	_	start_char=24|end_char=27
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=28|end_char=30
+8	so	so	ADV	RB	_	9	advmod	_	start_char=31|end_char=33
+9	pedantic	pedantic	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=42
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=43|end_char=46
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=47|end_char=55
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=56|end_char=60
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=61|end_char=64
+14	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=65|end_char=70
+15	getting	get	VERB	VBG	VerbForm=Ger	14	xcomp	_	start_char=71|end_char=78
+16	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=79|end_char=80
+17	car	car	NOUN	NN	Number=Sing	18	compound	_	start_char=81|end_char=84
+18	parts	part	NOUN	NNS	Number=Plur	19	compound	_	start_char=85|end_char=90
+19	name	name	NOUN	NN	Number=Sing	15	obj	_	start_char=91|end_char=95
+20	wrong	wrong	ADJ	JJ	Degree=Pos	19	amod	_	start_char=96|end_char=101
+21	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=102|end_char=107
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=108|end_char=111
+23	whole	whole	ADJ	JJ	Degree=Pos	24	amod	_	start_char=112|end_char=117
+24	event	event	NOUN	NN	Number=Sing	21	obj	_	start_char=118|end_char=123
+25	untrue	untrue	ADJ	JJ	Degree=Pos	21	xcomp	_	start_char=124|end_char=130
+26	.	.	PUNCT	.	_	9	punct	_	start_char=130|end_char=131
+

@@ -1,0 +1,19 @@
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	well	well	ADV	RB	Degree=Pos	0	root	_	start_char=5|end_char=9
+3	.	.	PUNCT	.	_	2	punct	_	start_char=9|end_char=10
+
+1	How	how	ADV	WRB	PronType=Int	0	root	_	start_char=12|end_char=15
+2	about	about	ADP	IN	_	5	mark	_	start_char=16|end_char=21
+3	"	"	PUNCT	``	_	5	punct	_	start_char=22|end_char=23
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=23|end_char=24
+5	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=25|end_char=29
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=30|end_char=34
+7	post	post	NOUN	NN	Number=Sing	5	obj	_	start_char=35|end_char=39
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=40|end_char=48
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=49|end_char=52
+10	detrimental	detrimental	ADJ	JJ	Degree=Pos	8	conj	_	start_char=53|end_char=64
+11	to	to	ADP	IN	_	12	case	_	start_char=65|end_char=67
+12	society	society	NOUN	NN	Number=Sing	10	obl	_	start_char=68|end_char=75
+13	?	?	PUNCT	.	_	1	punct	_	start_char=75|end_char=76
+14	"	"	PUNCT	''	_	1	punct	_	start_char=76|end_char=77
+

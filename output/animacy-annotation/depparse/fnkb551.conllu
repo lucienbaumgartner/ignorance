@@ -1,0 +1,328 @@
+1	LOL	lol	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	WHAT	what	PRON	WP	PronType=Int	0	root	_	start_char=4|end_char=8
+3	?!?!?	?!?!?	PUNCT	.	_	2	punct	_	start_char=8|end_char=13
+
+1	Dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=20
+2	.	.	PUNCT	.	_	1	punct	_	start_char=20|end_char=21
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=22|end_char=25
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=26|end_char=30
+3	be	be	AUX	VB	VerbForm=Inf	4	aux	_	start_char=31|end_char=33
+4	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=34|end_char=41
+5	joking	joke	VERB	VBG	Tense=Pres|VerbForm=Part	4	xcomp	_	start_char=42|end_char=48
+6	.	.	PUNCT	.	_	4	punct	_	start_char=48|end_char=49
+
+1	Which	which	DET	WDT	PronType=Int	2	det	_	start_char=52|end_char=57
+2	country	country	NOUN	NN	Number=Sing	3	nsubj	_	start_char=58|end_char=65
+3	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=66|end_char=68
+4	to	to	ADP	IN	_	5	case	_	start_char=69|end_char=71
+5	space	space	NOUN	NN	Number=Sing	3	obl	_	start_char=72|end_char=77
+6	first	first	ADV	RB	_	3	advmod	_	start_char=78|end_char=83
+7	?	?	PUNCT	.	_	3	punct	_	start_char=83|end_char=84
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=85|end_char=88
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=89|end_char=91
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=92|end_char=95
+4	capitalist	capitalist	ADJ	JJ	Degree=Pos	5	amod	_	start_char=96|end_char=106
+5	west	west	NOUN	NN	Number=Sing	0	root	_	start_char=107|end_char=111
+6	or	or	CCONJ	CC	_	9	cc	_	start_char=112|end_char=114
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=115|end_char=118
+8	communist	communist	ADJ	JJ	Degree=Pos	9	amod	_	start_char=119|end_char=128
+9	east	east	NOUN	NN	Number=Sing	5	conj	_	start_char=129|end_char=133
+10	?	?	PUNCT	.	_	5	punct	_	start_char=133|end_char=134
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=135|end_char=138
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=139|end_char=141
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=142|end_char=146
+4	that	that	SCONJ	IN	_	6	mark	_	start_char=147|end_char=151
+5	Cuba	Cuba	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=152|end_char=156
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=157|end_char=160
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=161|end_char=162
+8	fucking	fucking	ADJ	JJ	Degree=Pos	9	amod	_	start_char=163|end_char=170
+9	vaccine	vaccine	NOUN	NN	Number=Sing	6	obj	_	start_char=171|end_char=178
+10	to	to	ADP	IN	_	12	case	_	start_char=179|end_char=181
+11	Lung	Lung	PROPN	NNP	Number=Sing	12	compound	_	start_char=182|end_char=186
+12	Cancer	Cancer	PROPN	NNP	Number=Sing	9	nmod	_	start_char=187|end_char=193
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=194|end_char=197
+14	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=198|end_char=199
+15	higher	high	ADJ	JJR	Degree=Cmp	17	amod	_	start_char=200|end_char=206
+16	literacy	literacy	NOUN	NN	Number=Sing	17	compound	_	start_char=207|end_char=215
+17	rate	rate	NOUN	NN	Number=Sing	12	conj	_	start_char=216|end_char=220
+18	than	than	ADP	IN	_	20	case	_	start_char=221|end_char=225
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=226|end_char=229
+20	US	US	PROPN	NNP	Number=Sing	17	nmod	_	start_char=230|end_char=232
+21	,	,	PUNCT	,	_	3	punct	_	start_char=232|end_char=233
+22	right	right	ADV	RB	_	3	discourse	_	start_char=234|end_char=239
+23	?	?	PUNCT	.	_	3	punct	_	start_char=239|end_char=240
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=242|end_char=245
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=246|end_char=249
+3	actually	actually	ADV	RB	_	7	advmod	_	start_char=250|end_char=258
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=259|end_char=260
+5	fucking	fucking	ADJ	JJ	Degree=Pos	7	amod	_	start_char=261|end_char=268
+6	braindead	braindead	ADJ	JJ	Degree=Pos	7	amod	_	start_char=269|end_char=278
+7	fuckstick	fuckstick	NOUN	NN	Number=Sing	0	root	_	start_char=279|end_char=288
+8	.	.	PUNCT	.	_	7	punct	_	start_char=288|end_char=289
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=291|end_char=294
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=295|end_char=298
+3	just	just	ADV	RB	_	5	advmod	_	start_char=299|end_char=303
+4	too	too	ADV	RB	_	5	advmod	_	start_char=304|end_char=307
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=308|end_char=314
+6	.	.	PUNCT	.	_	5	punct	_	start_char=314|end_char=315
+
+1	So	so	ADV	RB	_	6	advmod	_	start_char=316|end_char=318
+2	apparently	apparently	ADV	RB	_	6	advmod	_	start_char=319|end_char=329
+3	colonialism	colonialism	NOUN	NN	Number=Sing	6	nsubj	_	start_char=330|end_char=341
+4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=342|end_char=345
+5	n't	not	PART	RB	_	6	advmod	_	start_char=345|end_char=348
+6	happen	happen	VERB	VB	VerbForm=Inf	0	root	_	start_char=349|end_char=355
+7	.	.	PUNCT	.	_	6	punct	_	start_char=355|end_char=356
+
+1	What	what	DET	WDT	PronType=Int	3	det	_	start_char=357|end_char=361
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	3	amod	_	start_char=362|end_char=369
+3	states	state	NOUN	NNS	Number=Plur	7	obj	_	start_char=370|end_char=376
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=377|end_char=380
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=381|end_char=384
+6	even	even	ADV	RB	_	7	advmod	_	start_char=385|end_char=389
+7	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=390|end_char=397
+8	about	about	ADP	IN	_	10	case	_	start_char=398|end_char=403
+9	instituted	institute	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	_	start_char=404|end_char=414
+10	taxes	tax	NOUN	NNS	Number=Plur	7	obl	_	start_char=415|end_char=420
+11	?	?	PUNCT	.	_	7	punct	_	start_char=420|end_char=421
+
+1	Somalia	Somalia	PROPN	NNP	Number=Sing	3	nsubj:pass	_	start_char=422|end_char=429
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=430|end_char=433
+3	ruined	ruin	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=434|end_char=440
+4	by	by	ADP	IN	_	5	case	_	start_char=441|end_char=443
+5	taxes	tax	NOUN	NNS	Number=Plur	3	obl	_	start_char=444|end_char=449
+6	???!?!?	???!?!?	PUNCT	.	_	3	punct	_	start_char=449|end_char=456
+
+1	LOL	lol	INTJ	UH	_	8	discourse	_	start_char=457|end_char=460
+2	Most	most	ADJ	JJS	Degree=Sup	8	nsubj	_	start_char=461|end_char=465
+3	of	of	ADP	IN	_	4	case	_	start_char=466|end_char=468
+4	Africa	Africa	PROPN	NNP	Number=Sing	2	nmod	_	start_char=469|end_char=475
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=476|end_char=479
+6	n't	not	PART	RB	_	8	advmod	_	start_char=479|end_char=482
+7	even	even	ADV	RB	_	8	advmod	_	start_char=483|end_char=487
+8	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=488|end_char=491
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=492|end_char=493
+10	functional	functional	ADJ	JJ	Degree=Pos	11	amod	_	start_char=494|end_char=504
+11	state	state	NOUN	NN	Number=Sing	8	obj	_	start_char=505|end_char=510
+12	to	to	PART	TO	_	13	mark	_	start_char=511|end_char=513
+13	impose	impose	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=514|end_char=520
+14	those	that	DET	DT	Number=Plur|PronType=Dem	15	det	_	start_char=521|end_char=526
+15	kinds	kind	NOUN	NNS	Number=Plur	13	obj	_	start_char=527|end_char=532
+16	of	of	ADP	IN	_	18	case	_	start_char=533|end_char=535
+17	fucking	fuck	VERB	VBG	VerbForm=Ger	18	amod	_	start_char=536|end_char=543
+18	things	thing	NOUN	NNS	Number=Plur	15	nmod	_	start_char=544|end_char=550
+19	.	.	PUNCT	.	_	8	punct	_	start_char=550|end_char=551
+
+1	Capitalism	capitalism	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=552|end_char=562
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=563|end_char=565
+3	n't	not	PART	RB	_	4	advmod	_	start_char=565|end_char=568
+4	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=569|end_char=576
+5	to	to	PART	TO	_	6	mark	_	start_char=577|end_char=579
+6	operate	operate	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=580|end_char=587
+7	properly	properly	ADV	RB	_	6	advmod	_	start_char=588|end_char=596
+8	?!	?!	PUNCT	.	_	4	punct	_	start_char=596|end_char=598
+
+1	Dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=599|end_char=603
+2	.	.	PUNCT	.	_	1	punct	_	start_char=603|end_char=604
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=605|end_char=607
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=608|end_char=611
+3	capitalists	capitalist	NOUN	NNS	Number=Plur	0	root	_	start_char=612|end_char=623
+4	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=624|end_char=628
+5	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=629|end_char=633
+6	Africa	Africa	PROPN	NNP	Number=Sing	5	obj	_	start_char=634|end_char=640
+7	what	what	PRON	WP	PronType=Int	5	obj	_	start_char=641|end_char=645
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=646|end_char=648
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=649|end_char=651
+10	today	today	NOUN	NN	Number=Sing	7	acl:relcl	_	start_char=652|end_char=657
+11	.	.	PUNCT	.	_	3	punct	_	start_char=657|end_char=658
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=659|end_char=662
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=663|end_char=666
+3	absolutely	absolutely	ADV	RB	_	4	advmod	_	start_char=667|end_char=677
+4	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=678|end_char=685
+5	moronic	moronic	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=686|end_char=693
+6	.	.	PUNCT	.	_	4	punct	_	start_char=693|end_char=694
+
+1	Who	who	PRON	WP	PronType=Int	2	nsubj	_	start_char=695|end_char=698
+2	propped	prop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=699|end_char=706
+3	up	up	ADP	RP	_	2	compound:prt	_	start_char=707|end_char=709
+4	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=710|end_char=715
+5	authoritarian	authoritarian	ADJ	JJ	Degree=Pos	6	amod	_	start_char=716|end_char=729
+6	regimes	regime	NOUN	NNS	Number=Plur	2	obj	_	start_char=730|end_char=737
+7	?	?	PUNCT	.	_	2	punct	_	start_char=737|end_char=738
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=739|end_char=742
+2	poor	poor	ADJ	JJ	Degree=Pos	4	amod	_	start_char=743|end_char=747
+3	fucking	fucking	ADJ	JJ	Degree=Pos	4	amod	_	start_char=748|end_char=755
+4	tribes	tribe	NOUN	NNS	Number=Plur	0	root	_	start_char=756|end_char=762
+5	?	?	PUNCT	.	_	4	punct	_	start_char=762|end_char=763
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=764|end_char=767
+2	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=768|end_char=774
+3	who	who	PRON	WP	PronType=Rel	5	nsubj:pass	_	start_char=775|end_char=778
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux:pass	_	start_char=779|end_char=783
+5	held	hold	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl:relcl	_	start_char=784|end_char=788
+6	down	down	ADP	RP	_	5	compound:prt	_	start_char=789|end_char=793
+7	by	by	ADP	IN	_	10	case	_	start_char=794|end_char=796
+8	"	"	PUNCT	``	_	10	punct	_	start_char=797|end_char=798
+9	oppressive	oppressive	ADJ	JJ	Degree=Pos	10	amod	_	start_char=798|end_char=808
+10	taxes	tax	NOUN	NNS	Number=Plur	5	obl	_	start_char=809|end_char=814
+11	?	?	PUNCT	.	_	2	punct	_	start_char=814|end_char=815
+12	"	"	PUNCT	''	_	2	punct	_	start_char=815|end_char=816
+
+1	Dear	dear	ADJ	JJ	Degree=Pos	3	amod	_	start_char=817|end_char=821
+2	fucking	fucking	ADJ	JJ	Degree=Pos	3	amod	_	start_char=822|end_char=829
+3	lord	lord	NOUN	NN	Number=Sing	7	nsubj	_	start_char=830|end_char=834
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=835|end_char=838
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=839|end_char=842
+6	so	so	ADV	RB	_	7	advmod	_	start_char=843|end_char=845
+7	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=846|end_char=852
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=853|end_char=855
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=855|end_char=857
+10	hilarious	hilarious	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=858|end_char=867
+11	.	.	PUNCT	.	_	7	punct	_	start_char=867|end_char=868
+
+1	XD	xd	SYM	NFP	_	0	root	_	start_char=869|end_char=871
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=873|end_char=876
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=877|end_char=880
+3	so	so	ADV	RB	_	4	advmod	_	start_char=881|end_char=883
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=884|end_char=892
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=893|end_char=896
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=897|end_char=905
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=906|end_char=910
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=911|end_char=912
+9	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=913|end_char=915
+10	surprised	surprised	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=916|end_char=925
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=926|end_char=929
+12	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=930|end_char=934
+13	n't	not	PART	RB	_	14	advmod	_	start_char=934|end_char=937
+14	choked	choke	VERB	VBN	Tense=Past|VerbForm=Part	10	ccomp	_	start_char=938|end_char=944
+15	on	on	ADP	IN	_	19	case	_	start_char=945|end_char=947
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=948|end_char=952
+17	own	own	ADJ	JJ	Degree=Pos	19	amod	_	start_char=953|end_char=956
+18	fucking	fucking	ADJ	JJ	Degree=Pos	19	amod	_	start_char=957|end_char=964
+19	ego	ego	NOUN	NN	Number=Sing	14	obl	_	start_char=965|end_char=968
+20	.	.	PUNCT	.	_	4	punct	_	start_char=968|end_char=969
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=970|end_char=971
+2	seriously	seriously	ADV	RB	_	3	advmod	_	start_char=972|end_char=981
+3	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=982|end_char=986
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=987|end_char=990
+5	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=991|end_char=994
+6	some	some	DET	DT	_	7	det	_	start_char=995|end_char=999
+7	help	help	NOUN	NN	Number=Sing	5	obj	_	start_char=1000|end_char=1004
+8	with	with	ADP	IN	_	11	case	_	start_char=1005|end_char=1009
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=1010|end_char=1013
+10	massive	massive	ADJ	JJ	Degree=Pos	11	amod	_	start_char=1014|end_char=1021
+11	amount	amount	NOUN	NN	Number=Sing	7	nmod	_	start_char=1022|end_char=1028
+12	of	of	ADP	IN	_	15	case	_	start_char=1029|end_char=1031
+13	mental	mental	ADJ	JJ	Degree=Pos	14	amod	_	start_char=1032|end_char=1038
+14	health	health	NOUN	NN	Number=Sing	15	compound	_	start_char=1039|end_char=1045
+15	issues	issue	NOUN	NNS	Number=Plur	11	nmod	_	start_char=1046|end_char=1052
+16	that	that	PRON	WDT	PronType=Rel	18	obj	_	start_char=1053|end_char=1057
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=1058|end_char=1061
+18	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=1062|end_char=1066
+19	.	.	PUNCT	.	_	3	punct	_	start_char=1066|end_char=1067
+
+1	Wow	wow	INTJ	UH	_	0	root	_	start_char=1068|end_char=1071
+2	.	.	PUNCT	.	_	1	punct	_	start_char=1071|end_char=1072
+
+1	Just	just	ADV	RB	_	3	advmod	_	start_char=1073|end_char=1077
+2	holy	holy	ADJ	JJ	Degree=Pos	3	amod	_	start_char=1078|end_char=1082
+3	shit	shit	NOUN	NN	Number=Sing	0	root	_	start_char=1083|end_char=1087
+4	so	so	ADV	RB	_	5	advmod	_	start_char=1088|end_char=1090
+5	many	many	ADJ	JJ	Degree=Pos	7	amod	_	start_char=1091|end_char=1095
+6	bad	bad	ADJ	JJ	Degree=Pos	7	amod	_	start_char=1096|end_char=1099
+7	ideas	idea	NOUN	NNS	Number=Plur	3	appos	_	start_char=1100|end_char=1105
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=1106|end_char=1109
+9	shit	shit	NOUN	NN	Number=Sing	7	conj	_	start_char=1110|end_char=1114
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=1115|end_char=1118
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=1119|end_char=1123
+12	absolutely	absolutely	ADV	RB	_	14	advmod	_	start_char=1124|end_char=1134
+13	no	no	DET	DT	_	14	det	_	start_char=1135|end_char=1137
+14	idea	idea	NOUN	NN	Number=Sing	11	obj	_	start_char=1138|end_char=1142
+15	about	about	ADP	IN	_	20	case	_	start_char=1143|end_char=1148
+16	in	in	ADP	IN	_	20	case	_	start_char=1149|end_char=1151
+17	such	such	DET	PDT	_	20	det:predet	_	start_char=1152|end_char=1156
+18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=1157|end_char=1158
+19	small	small	ADJ	JJ	Degree=Pos	20	amod	_	start_char=1159|end_char=1164
+20	amount	amount	NOUN	NN	Number=Sing	14	nmod	_	start_char=1165|end_char=1171
+21	of	of	ADP	IN	_	22	case	_	start_char=1172|end_char=1174
+22	words	word	NOUN	NNS	Number=Plur	20	nmod	_	start_char=1175|end_char=1180
+23	.	.	PUNCT	.	_	3	punct	_	start_char=1180|end_char=1181
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=1182|end_char=1185
+2	embarrassing	embarrassing	ADJ	JJ	Degree=Pos	0	root	_	start_char=1186|end_char=1198
+3	for	for	ADP	IN	_	4	case	_	start_char=1199|end_char=1202
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	_	start_char=1203|end_char=1206
+5	.	.	PUNCT	.	_	2	punct	_	start_char=1206|end_char=1207
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=1208|end_char=1211
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=1212|end_char=1218
+3	feel	feel	VERB	VB	VerbForm=Inf	0	root	_	start_char=1219|end_char=1223
+4	so	so	ADV	RB	_	5	advmod	_	start_char=1224|end_char=1226
+5	humiliated	humiliate	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	_	start_char=1227|end_char=1237
+6	.	.	PUNCT	.	_	3	punct	_	start_char=1237|end_char=1238
+
+1	Seriously	seriously	ADV	RB	_	0	root	_	start_char=1240|end_char=1249
+2	.	.	PUNCT	.	_	1	punct	_	start_char=1249|end_char=1250
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=1251|end_char=1255
+2	chill	chill	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=1256|end_char=1261
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=1262|end_char=1265
+4	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=1266|end_char=1268
+5	read	read	VERB	VB	VerbForm=Fin	4	xcomp	_	start_char=1269|end_char=1273
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=1274|end_char=1275
+7	book	book	NOUN	NN	Number=Sing	5	obj	_	start_char=1276|end_char=1280
+8	.	.	PUNCT	.	_	2	punct	_	start_char=1280|end_char=1281
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=1282|end_char=1285
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=1286|end_char=1289
+3	n't	not	PART	RB	_	5	advmod	_	start_char=1289|end_char=1292
+4	just	just	ADV	RB	_	5	advmod	_	start_char=1293|end_char=1297
+5	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=1298|end_char=1303
+6	.	.	PUNCT	.	_	5	punct	_	start_char=1303|end_char=1304
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=1305|end_char=1308
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1309|end_char=1312
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=1313|end_char=1314
+4	danger	danger	NOUN	NN	Number=Sing	0	root	_	start_char=1315|end_char=1321
+5	to	to	ADP	IN	_	6	case	_	start_char=1322|end_char=1324
+6	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	nmod	_	start_char=1325|end_char=1333
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=1334|end_char=1337
+8	others	other	NOUN	NNS	Number=Plur	6	conj	_	start_char=1338|end_char=1344
+9	.	.	PUNCT	.	_	4	punct	_	start_char=1344|end_char=1345
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=1346|end_char=1349
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1350|end_char=1354
+3	some	some	DET	DT	_	4	det	_	start_char=1355|end_char=1359
+4	help	help	NOUN	NN	Number=Sing	2	obj	_	start_char=1360|end_char=1364
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=1365|end_char=1368
+6	some	some	DET	DT	_	7	det	_	start_char=1369|end_char=1373
+7	education	education	NOUN	NN	Number=Sing	4	conj	_	start_char=1374|end_char=1383
+8	.	.	PUNCT	.	_	2	punct	_	start_char=1383|end_char=1384
+
+1	Phew	phew	INTJ	UH	_	4	discourse	_	start_char=1385|end_char=1389
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=1390|end_char=1392
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1393|end_char=1395
+4	rough	rough	ADJ	JJ	Degree=Pos	0	root	_	start_char=1396|end_char=1401
+5	just	just	ADV	RB	_	6	advmod	_	start_char=1402|end_char=1406
+6	thinking	think	VERB	VBG	Tense=Pres|VerbForm=Part	4	csubj	_	start_char=1407|end_char=1415
+7	about	about	SCONJ	IN	_	9	mark	_	start_char=1416|end_char=1421
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=1422|end_char=1425
+9	deep	deep	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=1426|end_char=1430
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=1431|end_char=1434
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=1435|end_char=1438
+12	in	in	ADP	IN	_	15	case	_	start_char=1439|end_char=1441
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=1442|end_char=1445
+14	bootlicker	bootlicker	NOUN	NN	Number=Sing	15	compound	_	start_char=1446|end_char=1456
+15	pit	pit	NOUN	NN	Number=Sing	9	obl	_	start_char=1457|end_char=1460
+16	.	.	PUNCT	.	_	4	punct	_	start_char=1460|end_char=1461
+

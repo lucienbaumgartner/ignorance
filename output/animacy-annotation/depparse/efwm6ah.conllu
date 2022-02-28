@@ -1,0 +1,18 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=4
+3	because	because	SCONJ	IN	_	6	mark	_	start_char=5|end_char=12
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=13|end_char=17
+5	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=17|end_char=20
+6	upset	upset	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=21|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=38
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=39|end_char=43
+10	complaining	complain	VERB	VBG	VerbForm=Ger	14	csubj	_	start_char=44|end_char=55
+11	about	about	ADP	IN	_	12	case	_	start_char=56|end_char=61
+12	downvotes	downvote	NOUN	NNS	Number=Plur	10	obl	_	start_char=62|end_char=71
+13	only	only	ADV	RB	_	14	advmod	_	start_char=72|end_char=76
+14	attracts	attract	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=77|end_char=85
+15	more	more	ADJ	JJR	Degree=Cmp	16	amod	_	start_char=86|end_char=90
+16	downvotes	downvote	NOUN	NNS	Number=Plur	14	obj	_	start_char=91|end_char=100
+17	.	.	PUNCT	.	_	2	punct	_	start_char=100|end_char=101
+

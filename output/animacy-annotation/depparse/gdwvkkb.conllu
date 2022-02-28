@@ -1,0 +1,26 @@
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=4
+2	Ampless	Ampless	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=5|end_char=12
+3	rig	rig	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=16
+4	just	just	ADV	RB	_	6	advmod	_	start_char=17|end_char=21
+5	for	for	SCONJ	IN	_	6	case	_	start_char=22|end_char=25
+6	recording	recording	NOUN	NN	Number=Sing	3	obl	_	start_char=26|end_char=35
+7	?	?	PUNCT	.	_	3	punct	_	start_char=35|end_char=36
+
+1	Or	or	CCONJ	CC	_	2	cc	_	start_char=38|end_char=40
+2	direct	direct	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=41|end_char=47
+3	into	into	ADP	IN	_	5	case	_	start_char=48|end_char=52
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=53|end_char=56
+5	PA	PA	PROPN	NNP	Number=Sing	2	obl	_	start_char=57|end_char=59
+6	?	?	PUNCT	.	_	2	punct	_	start_char=59|end_char=60
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=63|end_char=64
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=64|end_char=66
+3	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=70
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=71|end_char=74
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=75|end_char=82
+6	of	of	ADP	IN	_	8	case	_	start_char=83|end_char=85
+7	new	new	ADJ	JJ	Degree=Pos	8	amod	_	start_char=86|end_char=89
+8	techniques	technique	NOUN	NNS	Number=Plur	5	obl	_	start_char=90|end_char=100
+9	:	:	PUNCT	:	_	10	punct	_	start_char=101|end_char=102
+10	p	p	NOUN	NN	Number=Sing	3	parataxis	_	start_char=102|end_char=103
+

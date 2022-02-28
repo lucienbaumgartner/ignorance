@@ -1,0 +1,37 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=5|end_char=6
+4	total	total	ADJ	JJ	Degree=Pos	5	amod	_	start_char=7|end_char=12
+5	shithole	shithole	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=21
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=22|end_char=25
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=26|end_char=27
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=28|end_char=30
+9	n't	not	PART	RB	_	10	advmod	_	start_char=30|end_char=33
+10	understand	understand	VERB	VB	VerbForm=Inf	5	conj	_	start_char=34|end_char=44
+11	why	why	SCONJ	WRB	PronType=Int	13	mark	_	start_char=45|end_char=48
+12	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=49|end_char=55
+13	throw	throw	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=56|end_char=61
+14	garbage	garbage	NOUN	NN	Number=Sing	13	obj	_	start_char=62|end_char=69
+15	on	on	ADP	IN	_	17	case	_	start_char=70|end_char=72
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=73|end_char=76
+17	ground	ground	NOUN	NN	Number=Sing	13	obl	_	start_char=77|end_char=83
+18	everywhere	everywhere	ADV	RB	_	13	advmod	_	start_char=84|end_char=94
+19	.	.	PUNCT	.	_	5	punct	_	start_char=94|end_char=95
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=96|end_char=101
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=101|end_char=103
+3	utterly	utterly	ADV	RB	_	2	advmod	_	start_char=104|end_char=111
+4	no	no	DET	DT	_	5	det	_	start_char=112|end_char=114
+5	excuse	excuse	NOUN	NN	Number=Sing	2	nsubj	_	start_char=115|end_char=121
+6	.	.	PUNCT	.	_	2	punct	_	start_char=121|end_char=122
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=123|end_char=126
+2	Indian	Indian	ADJ	JJ	Degree=Pos	3	amod	_	start_char=127|end_char=133
+3	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=134|end_char=140
+4	just	just	ADV	RB	_	6	advmod	_	start_char=141|end_char=145
+5	that	that	ADV	RB	_	6	advmod	_	start_char=146|end_char=150
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=151|end_char=159
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=160|end_char=163
+8	selfish	selfish	ADJ	JJ	Degree=Pos	6	conj	_	start_char=164|end_char=171
+9	?	?	PUNCT	.	_	6	punct	_	start_char=171|end_char=172
+

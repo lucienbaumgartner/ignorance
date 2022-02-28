@@ -1,0 +1,18 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	stubborn	stubborn	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	u	u	PRON	PRP	Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=45
+9	stand	stand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=46|end_char=51
+10	on	on	ADP	IN	_	12	case	_	start_char=52|end_char=54
+11	ur	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=55|end_char=57
+12	opinion	opinion	NOUN	NN	Number=Sing	9	obl	_	start_char=58|end_char=65
+13	even	even	ADV	RB	_	14	advmod	_	start_char=66|end_char=70
+14	knowing	know	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=71|end_char=78
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=79|end_char=81
+16	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=81|end_char=83
+17	wrong	wrong	ADJ	JJ	Degree=Pos	14	ccomp	_	start_char=84|end_char=89
+

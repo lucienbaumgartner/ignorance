@@ -1,0 +1,34 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=7|end_char=10
+4	confidently	confidently	ADV	RB	_	6	advmod	_	start_char=11|end_char=22
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=23|end_char=26
+6	show	show	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=27|end_char=31
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=32|end_char=36
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=37|end_char=40
+9	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=40|end_char=43
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=44|end_char=52
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=53|end_char=56
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=57|end_char=63
+13	.	.	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=65|end_char=68
+2	know	know	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=69|end_char=73
+3	that	that	SCONJ	IN	_	5	mark	_	start_char=74|end_char=78
+4	there	there	PRON	EX	_	5	expl	_	start_char=79|end_char=84
+5	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=84|end_char=86
+6	different	different	ADJ	JJ	Degree=Pos	7	amod	_	start_char=87|end_char=96
+7	degrees	degree	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=97|end_char=104
+8	to	to	ADP	IN	_	10	case	_	start_char=105|end_char=107
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=108|end_char=112
+10	shit	shit	NOUN	NN	Number=Sing	5	obl	_	start_char=113|end_char=117
+11	right	right	ADV	RB	_	5	advmod	_	start_char=118|end_char=123
+12	?	?	PUNCT	.	_	2	punct	_	start_char=123|end_char=124
+
+1	Paper	Paper	NOUN	NN	Number=Sing	6	nsubj	_	start_char=125|end_char=130
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=131|end_char=133
+3	hardly	hardly	ADV	RB	_	6	advmod	_	start_char=134|end_char=140
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=141|end_char=143
+5	environmental	environmental	ADJ	JJ	Degree=Pos	6	amod	_	start_char=144|end_char=157
+6	disaster	disaster	NOUN	NN	Number=Sing	0	root	_	start_char=158|end_char=166
+

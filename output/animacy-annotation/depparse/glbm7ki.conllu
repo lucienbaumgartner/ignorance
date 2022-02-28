@@ -1,0 +1,18 @@
+1	So	so	ADV	RB	_	3	advmod	_	start_char=0|end_char=2
+2	unfathomably	unfathomably	ADV	RB	Degree=Pos	3	advmod	_	start_char=3|end_char=15
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=24
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=25|end_char=28
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=29|end_char=36
+6	of	of	ADP	IN	_	8	case	_	start_char=37|end_char=39
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=40|end_char=43
+8	rest	rest	NOUN	NN	Number=Sing	5	obl	_	start_char=44|end_char=48
+9	of	of	ADP	IN	_	11	case	_	start_char=49|end_char=51
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=52|end_char=55
+11	world	world	NOUN	NN	Number=Sing	8	nmod	_	start_char=56|end_char=61
+12	outside	outside	ADP	IN	_	16	case	_	start_char=62|end_char=69
+13	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=70|end_char=73
+14	teeny	teeny	ADJ	JJ	Degree=Pos	16	amod	_	start_char=74|end_char=79
+15	little	little	ADJ	JJ	Degree=Pos	16	amod	_	start_char=80|end_char=86
+16	one	one	NOUN	NN	Number=Sing	8	nmod	_	start_char=87|end_char=90
+17	.	.	PUNCT	.	_	3	punct	_	start_char=90|end_char=91
+

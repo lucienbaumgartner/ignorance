@@ -1,0 +1,22 @@
+1	Happiest	happy	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=8
+2	times	time	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=9|end_char=14
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+4	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=20|end_char=24
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=25|end_char=26
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=27|end_char=30
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=31|end_char=32
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	start_char=33|end_char=39
+9	child	child	NOUN	NN	Number=Sing	10	obl:npmod	_	start_char=40|end_char=45
+10	oblivious	oblivious	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=46|end_char=55
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=60|end_char=67
+13	of	of	ADP	IN	_	15	case	_	start_char=68|end_char=70
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=71|end_char=74
+15	life	life	NOUN	NN	Number=Sing	12	obl	_	start_char=75|end_char=79
+16	of	of	ADP	IN	_	17	case	_	start_char=80|end_char=82
+17	misery	misery	NOUN	NN	Number=Sing	15	nmod	_	start_char=83|end_char=89
+18	that	that	PRON	WDT	PronType=Rel	19	nsubj	_	start_char=90|end_char=94
+19	awaited	await	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	acl:relcl	_	start_char=95|end_char=102
+20	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	obj	_	start_char=103|end_char=105
+21	lol	lol	INTJ	UH	_	3	discourse	_	start_char=106|end_char=109
+

@@ -1,0 +1,55 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+4	blatant	blatant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=17
+5	lie	lie	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=21
+6	.	.	PUNCT	.	_	5	punct	_	start_char=21|end_char=22
+
+1	Honestly	honestly	ADV	RB	_	5	advmod	_	start_char=23|end_char=31
+2	,	,	PUNCT	,	_	5	punct	_	start_char=31|end_char=32
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj:pass	_	start_char=33|end_char=34
+4	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=34|end_char=36
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=37|end_char=41
+6	with	with	ADP	IN	_	8	case	_	start_char=42|end_char=46
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=47|end_char=51
+8	conversation	conversation	NOUN	NN	Number=Sing	5	obl	_	start_char=52|end_char=64
+9	.	.	PUNCT	.	_	5	punct	_	start_char=64|end_char=65
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=66|end_char=69
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=70|end_char=73
+3	so	so	ADV	RB	_	4	advmod	_	start_char=74|end_char=76
+4	thick	thick	ADJ	JJ	Degree=Pos	0	root	_	start_char=77|end_char=82
+5	-	-	PUNCT	HYPH	_	6	punct	_	start_char=82|end_char=83
+6	headed	head	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=83|end_char=89
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=90|end_char=93
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=94|end_char=102
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=103|end_char=107
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=108|end_char=109
+11	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=110|end_char=112
+12	n't	not	PART	RB	_	14	advmod	_	start_char=112|end_char=115
+13	even	even	ADV	RB	_	14	advmod	_	start_char=116|end_char=120
+14	know	know	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=121|end_char=125
+15	why	why	SCONJ	WRB	PronType=Int	17	mark	_	start_char=126|end_char=129
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=130|end_char=131
+17	commented	comment	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	ccomp	_	start_char=132|end_char=141
+18	in	in	ADP	IN	_	21	case	_	start_char=142|end_char=144
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=145|end_char=148
+20	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	21	amod	_	start_char=149|end_char=154
+21	place	place	NOUN	NN	Number=Sing	17	obl	_	start_char=155|end_char=160
+22	.	.	PUNCT	.	_	4	punct	_	start_char=160|end_char=161
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=162|end_char=166
+2	fun	fun	NOUN	NN	Number=Sing	1	obj	_	start_char=167|end_char=170
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=171|end_char=176
+4	angry	angry	ADJ	JJ	Degree=Pos	2	acl	_	start_char=177|end_char=182
+5	over	over	ADP	IN	_	7	case	_	start_char=183|end_char=187
+6	stupid	stupid	ADJ	JJ	Degree=Pos	7	amod	_	start_char=188|end_char=194
+7	shit	shit	NOUN	NN	Number=Sing	4	obl	_	start_char=195|end_char=199
+8	for	for	ADP	IN	_	10	case	_	start_char=200|end_char=203
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=204|end_char=207
+10	rest	rest	NOUN	NN	Number=Sing	4	obl	_	start_char=208|end_char=212
+11	of	of	ADP	IN	_	13	case	_	start_char=213|end_char=215
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=216|end_char=220
+13	life	life	NOUN	NN	Number=Sing	10	nmod	_	start_char=221|end_char=225
+14	.	.	PUNCT	.	_	1	punct	_	start_char=225|end_char=226
+

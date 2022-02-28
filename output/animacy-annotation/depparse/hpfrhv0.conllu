@@ -1,0 +1,13 @@
+1	Some	some	DET	DT	_	2	det	_	start_char=0|end_char=4
+2	memos	memo	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=5|end_char=10
+3	showing	show	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=11|end_char=18
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=19|end_char=23
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=24|end_char=27
+6	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=48
+9	of	of	ADP	IN	_	11	case	_	start_char=49|end_char=51
+10	basic	basic	ADJ	JJ	Degree=Pos	11	amod	_	start_char=52|end_char=57
+11	facts	fact	NOUN	NNS	Number=Plur	8	obl	_	start_char=58|end_char=63
+12	.	.	PUNCT	.	_	6	punct	_	start_char=63|end_char=64
+

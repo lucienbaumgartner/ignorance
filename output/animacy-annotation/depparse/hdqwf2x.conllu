@@ -1,0 +1,35 @@
+1	Shall	shall	AUX	MD	VerbForm=Fin	3	aux	_	start_char=0|end_char=5
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=6|end_char=8
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=12
+4	,	,	PUNCT	,	_	11	punct	_	start_char=12|end_char=13
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=14|end_char=18
+6	person	person	NOUN	NN	Number=Sing	11	nsubj	_	start_char=19|end_char=25
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=26|end_char=28
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=29|end_char=30
+9	bit	bit	NOUN	NN	Number=Sing	10	obl:npmod	_	start_char=31|end_char=34
+10	willfully	willfully	ADV	RB	_	11	advmod	_	start_char=35|end_char=44
+11	insensitive	insensitive	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=45|end_char=56
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=57|end_char=60
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=61|end_char=69
+14	of	of	ADP	IN	_	15	case	_	start_char=70|end_char=72
+15	facts	fact	NOUN	NNS	Number=Plur	13	obl	_	start_char=73|end_char=78
+16	,	,	PUNCT	,	_	17	punct	_	start_char=78|end_char=79
+17	allowing	allow	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=80|end_char=88
+18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=89|end_char=94
+19	personal	personal	ADJ	JJ	Degree=Pos	20	amod	_	start_char=95|end_char=103
+20	bias	bias	NOUN	NN	Number=Sing	17	obj	_	start_char=104|end_char=108
+21	to	to	PART	TO	_	22	mark	_	start_char=109|end_char=111
+22	show	show	VERB	VB	VerbForm=Inf	20	acl	_	start_char=112|end_char=116
+23	through	through	ADP	IN	_	22	obl	_	start_char=117|end_char=124
+24	.	.	PUNCT	.	_	3	punct	_	start_char=124|end_char=125
+
+1	However	however	ADV	RB	_	5	advmod	_	start_char=126|end_char=133
+2	,	,	PUNCT	,	_	5	punct	_	start_char=133|end_char=134
+3	everyone	everyone	PRON	NN	Number=Sing	5	nsubj:pass	_	start_char=135|end_char=143
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=144|end_char=146
+5	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=147|end_char=155
+6	to	to	ADP	IN	_	8	case	_	start_char=156|end_char=158
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=159|end_char=164
+8	opinion	opinion	NOUN	NN	Number=Sing	5	obl	_	start_char=165|end_char=172
+9	.	.	PUNCT	.	_	5	punct	_	start_char=172|end_char=173
+

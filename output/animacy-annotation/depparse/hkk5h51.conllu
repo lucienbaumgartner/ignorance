@@ -1,0 +1,15 @@
+1	People	person	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=0|end_char=6
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=7|end_char=10
+3	just	just	ADV	RB	_	6	advmod	_	start_char=11|end_char=15
+4	so	so	ADV	RB	_	5	advmod	_	start_char=16|end_char=18
+5	simple	simple	ADJ	JJ	Degree=Pos	6	amod	_	start_char=19|end_char=25
+6	minded	minded	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	of	of	ADP	IN	_	10	case	_	start_char=46|end_char=48
+10	logic	logic	NOUN	NN	Number=Sing	8	obl	_	start_char=49|end_char=54
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=55|end_char=58
+12	common	common	ADJ	JJ	Degree=Pos	13	amod	_	start_char=59|end_char=65
+13	sense	sense	NOUN	NN	Number=Sing	10	conj	_	start_char=66|end_char=71
+14	.	.	PUNCT	.	_	6	punct	_	start_char=71|end_char=72
+

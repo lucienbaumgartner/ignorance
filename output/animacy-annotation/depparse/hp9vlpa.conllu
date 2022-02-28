@@ -1,0 +1,13 @@
+1	To	to	PART	TO	_	4	mark	_	start_char=0|end_char=2
+2	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=3|end_char=5
+3	so	so	ADV	RB	_	4	advmod	_	start_char=6|end_char=8
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=28
+7	.	.	PUNCT	.	_	4	punct	_	start_char=28|end_char=29
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=31|end_char=34
+2	win	win	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=35|end_char=38
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=39|end_char=42
+4	prize	prize	NOUN	NN	Number=Sing	2	obj	_	start_char=43|end_char=48
+

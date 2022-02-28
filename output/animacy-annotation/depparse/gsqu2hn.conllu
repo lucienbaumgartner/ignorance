@@ -1,0 +1,35 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=6
+3	like	like	SCONJ	IN	_	4	mark	_	start_char=7|end_char=11
+4	saying	say	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=12|end_char=18
+5	Nazism	Nazism	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=19|end_char=25
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=26|end_char=29
+7	only	only	ADV	RB	_	10	advmod	_	start_char=30|end_char=34
+8	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=35|end_char=37
+9	economic	economic	ADJ	JJ	Degree=Pos	10	amod	_	start_char=38|end_char=46
+10	system	system	NOUN	NN	Number=Sing	4	ccomp	_	start_char=47|end_char=53
+11	.	.	PUNCT	.	_	2	punct	_	start_char=53|end_char=54
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=55|end_char=57
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=57|end_char=59
+3	absolutely	absolutely	ADV	RB	_	4	advmod	_	start_char=60|end_char=70
+4	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=71|end_char=78
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=79|end_char=82
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=83|end_char=91
+7	of	of	ADP	IN	_	8	case	_	start_char=92|end_char=94
+8	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=95|end_char=102
+9	.	.	PUNCT	.	_	4	punct	_	start_char=102|end_char=103
+
+1	Anyone	anyone	PRON	NN	Number=Sing	11	nsubj	_	start_char=106|end_char=112
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=113|end_char=116
+3	pretends	pretend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=117|end_char=125
+4	communism	communism	NOUN	NN	Number=Sing	3	obj	_	start_char=126|end_char=135
+5	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	start_char=136|end_char=139
+6	n’t	not	PART	RB	_	7	advmod	_	start_char=139|end_char=142
+7	kill	kill	VERB	VB	VerbForm=Inf	0	root	_	start_char=143|end_char=147
+8	millions	million	NOUN	NNS	Number=Plur	7	obj	_	start_char=148|end_char=156
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=157|end_char=159
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=160|end_char=161
+11	lunatic	lunatic	NOUN	NN	Number=Sing	7	ccomp	_	start_char=162|end_char=169
+12	.	.	PUNCT	.	_	7	punct	_	start_char=169|end_char=170
+

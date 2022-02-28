@@ -1,0 +1,112 @@
+1	YTA	YTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=4|end_char=6
+2	son	son	NOUN	NN	Number=Sing	3	nsubj	_	start_char=7|end_char=10
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=11|end_char=14
+4	night	night	NOUN	NN	Number=Sing	5	compound	_	start_char=15|end_char=20
+5	terrors	terror	NOUN	NNS	Number=Plur	3	obj	_	start_char=21|end_char=28
+6	.	.	PUNCT	.	_	3	punct	_	start_char=28|end_char=29
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=30|end_char=34
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=34|end_char=37
+3	deeply	deeply	ADV	RB	_	4	advmod	_	start_char=38|end_char=44
+4	horrific	horrific	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=53
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=54|end_char=57
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=58|end_char=60
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=61|end_char=64
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=65|end_char=66
+9	mess	mess	NOUN	NN	Number=Sing	4	conj	_	start_char=67|end_char=71
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=72|end_char=75
+11	next	next	ADJ	JJ	Degree=Pos	12	amod	_	start_char=76|end_char=80
+12	day	day	NOUN	NN	Number=Sing	9	obl:tmod	_	start_char=81|end_char=84
+13	,	,	PUNCT	,	_	4	punct	_	start_char=84|end_char=85
+14	every	every	DET	DT	_	15	det	_	start_char=86|end_char=91
+15	time	time	NOUN	NN	Number=Sing	9	obl:tmod	_	start_char=92|end_char=96
+16	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=98|end_char=101
+2	punished	punish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=102|end_char=110
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=111|end_char=115
+4	daughter	daughter	NOUN	NN	Number=Sing	2	obj	_	start_char=116|end_char=124
+5	for	for	SCONJ	IN	_	6	mark	_	start_char=125|end_char=128
+6	having	have	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=129|end_char=135
+7	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=136|end_char=137
+8	terrifying	terrifying	ADJ	JJ	Degree=Pos	11	amod	_	start_char=138|end_char=148
+9	,	,	PUNCT	,	_	11	punct	_	start_char=148|end_char=149
+10	traumatic	traumatic	ADJ	JJ	Degree=Pos	11	amod	_	start_char=150|end_char=159
+11	experience	experience	NOUN	NN	Number=Sing	6	obj	_	start_char=160|end_char=170
+12	.	.	PUNCT	.	_	2	punct	_	start_char=170|end_char=171
+
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=172|end_char=175
+2	KEPT	kept	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=176|end_char=180
+3	YOUR	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=181|end_char=185
+4	DAUGHTER	daughter	NOUN	NN	Number=Sing	2	obj	_	start_char=186|end_char=194
+5	FROM	from	SCONJ	IN	_	6	mark	_	start_char=195|end_char=199
+6	SLEEPING	sleep	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=200|end_char=208
+7	after	after	SCONJ	IN	_	8	mark	_	start_char=209|end_char=214
+8	having	have	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=215|end_char=221
+9	night	night	NOUN	NN	Number=Sing	10	compound	_	start_char=222|end_char=227
+10	terrors	terror	NOUN	NNS	Number=Plur	8	obj	_	start_char=228|end_char=235
+11	.	.	PUNCT	.	_	2	punct	_	start_char=235|end_char=236
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=237|end_char=240
+2	punished	punish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=241|end_char=249
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=250|end_char=253
+4	essentially	essentially	ADV	RB	_	5	advmod	_	start_char=254|end_char=265
+5	tortured	torture	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=266|end_char=274
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=275|end_char=279
+7	child	child	NOUN	NN	Number=Sing	5	obj	_	start_char=280|end_char=285
+8	for	for	ADP	IN	_	9	case	_	start_char=286|end_char=289
+9	something	something	PRON	NN	Number=Sing	5	obl	_	start_char=290|end_char=299
+10	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=300|end_char=304
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=304|end_char=306
+12	terribly	terribly	ADV	RB	_	13	advmod	_	start_char=307|end_char=315
+13	upsetting	upsetting	ADJ	JJ	Degree=Pos	9	acl:relcl	_	start_char=316|end_char=325
+14	and	and	CCONJ	CC	_	17	cc	_	start_char=326|end_char=329
+15	that	that	SCONJ	IN	_	17	mark	_	start_char=330|end_char=334
+16	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=335|end_char=338
+17	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	start_char=339|end_char=342
+18	no	no	DET	DT	_	19	det	_	start_char=343|end_char=345
+19	control	control	NOUN	NN	Number=Sing	17	obj	_	start_char=346|end_char=353
+20	over	over	ADV	RB	_	17	advmod	_	start_char=354|end_char=358
+21	.	.	PUNCT	.	_	2	punct	_	start_char=358|end_char=359
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=360|end_char=362
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=362|end_char=364
+3	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=365|end_char=371
+4	every	every	DET	DT	_	5	det	_	start_char=372|end_char=377
+5	cell	cell	NOUN	NN	Number=Sing	3	obj	_	start_char=378|end_char=382
+6	in	in	ADP	IN	_	8	case	_	start_char=383|end_char=385
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=386|end_char=388
+8	body	body	NOUN	NN	Number=Sing	3	obl	_	start_char=389|end_char=393
+9	to	to	PART	TO	_	10	mark	_	start_char=394|end_char=396
+10	stay	stay	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=397|end_char=401
+11	civil	civil	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=402|end_char=407
+12	.	.	PUNCT	.	_	3	punct	_	start_char=407|end_char=408
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=409|end_char=412
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=413|end_char=416
+3	profoundly	profoundly	ADV	RB	_	4	advmod	_	start_char=417|end_char=427
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=428|end_char=436
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=437|end_char=440
+6	actually	actually	ADV	RB	_	7	advmod	_	start_char=441|end_char=449
+7	abusive	abusive	ADJ	JJ	Degree=Pos	4	conj	_	start_char=450|end_char=457
+8	.	.	PUNCT	.	_	4	punct	_	start_char=457|end_char=458
+
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=459|end_char=461
+2	speak	speak	VERB	VB	VerbForm=Fin	1	xcomp	_	start_char=462|end_char=467
+3	to	to	ADP	IN	_	5	case	_	start_char=468|end_char=470
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=471|end_char=472
+5	doctor	doctor	NOUN	NN	Number=Sing	2	obl	_	start_char=473|end_char=479
+6	about	about	ADP	IN	_	8	case	_	start_char=480|end_char=485
+7	night	night	NOUN	NN	Number=Sing	8	compound	_	start_char=486|end_char=491
+8	terrors	terror	NOUN	NNS	Number=Plur	5	nmod	_	start_char=492|end_char=499
+9	.	.	PUNCT	.	_	1	punct	_	start_char=499|end_char=500
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=501|end_char=504
+2	apologize	apologize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=505|end_char=514
+3	to	to	ADP	IN	_	5	case	_	start_char=515|end_char=517
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=518|end_char=522
+5	daughter	daughter	NOUN	NN	Number=Sing	2	obl	_	start_char=523|end_char=531
+6	.	.	PUNCT	.	_	2	punct	_	start_char=531|end_char=532
+

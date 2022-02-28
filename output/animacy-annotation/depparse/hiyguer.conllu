@@ -1,0 +1,42 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=12
+3	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=14|end_char=15
+2	just	just	ADV	RB	_	5	advmod	_	start_char=16|end_char=20
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=21|end_char=23
+4	n't	not	PART	RB	_	5	advmod	_	start_char=23|end_char=26
+5	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=32
+6	telling	tell	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=33|end_char=40
+7	someone	someone	PRON	NN	Number=Sing	6	obj	_	start_char=41|end_char=48
+8	so	so	ADV	RB	_	9	advmod	_	start_char=49|end_char=51
+9	young	young	ADJ	JJ	Degree=Pos	7	amod	_	start_char=52|end_char=57
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=58|end_char=61
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=62|end_char=69
+12	of	of	ADP	IN	_	14	case	_	start_char=70|end_char=72
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=73|end_char=78
+14	finacials	finacial	NOUN	NNS	Number=Plur	11	obl	_	start_char=79|end_char=88
+15	that	that	SCONJ	IN	_	18	mark	_	start_char=89|end_char=93
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	18	nsubj	_	start_char=94|end_char=98
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=99|end_char=101
+18	possible	possible	ADJ	JJ	Degree=Pos	14	acl	_	start_char=102|end_char=110
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=111|end_char=113
+20	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=114|end_char=115
+21	good	good	ADJ	JJ	Degree=Pos	22	amod	_	start_char=116|end_char=120
+22	idea	idea	NOUN	NN	Number=Sing	5	ccomp	_	start_char=121|end_char=125
+23	right	right	ADV	RB	_	24	advmod	_	start_char=126|end_char=131
+24	now	now	ADV	RB	_	22	advmod	_	start_char=132|end_char=135
+25	.	.	PUNCT	.	_	5	punct	_	start_char=135|end_char=136
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=137|end_char=141
+2	comment	comment	NOUN	NN	Number=Sing	5	nsubj	_	start_char=142|end_char=149
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=150|end_char=153
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=154|end_char=164
+5	vague	vague	ADJ	JJ	Degree=Pos	0	root	_	start_char=165|end_char=170
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=171|end_char=174
+7	just	just	ADV	RB	_	8	advmod	_	start_char=175|end_char=179
+8	offered	offer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=180|end_char=187
+9	hope	hope	NOUN	NN	Number=Sing	8	obj	_	start_char=188|end_char=192
+10	to	to	PART	TO	_	11	mark	_	start_char=193|end_char=195
+11	op	op	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=196|end_char=198
+

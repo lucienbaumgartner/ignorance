@@ -1,0 +1,25 @@
+1	"	"	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=1|end_char=7
+3	,	,	PUNCT	,	_	2	punct	_	start_char=7|end_char=8
+4	big	big	ADJ	JJ	Degree=Pos	5	amod	_	start_char=9|end_char=12
+5	Pharma	Pharma	PROPN	NNP	Number=Sing	2	vocative	_	start_char=13|end_char=19
+6	!	!	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=21|end_char=24
+2	sure	sure	ADV	RB	_	4	advmod	_	start_char=25|end_char=29
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=30|end_char=33
+4	great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=39
+5	at	at	SCONJ	IN	_	6	mark	_	start_char=40|end_char=42
+6	keeping	keep	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=43|end_char=50
+7	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	obj	_	start_char=51|end_char=53
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=54|end_char=61
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=62|end_char=65
+10	sick	sick	ADJ	JJ	Degree=Pos	8	conj	_	start_char=66|end_char=70
+11	for	for	ADP	IN	_	14	case	_	start_char=71|end_char=74
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=75|end_char=79
+13	own	own	ADJ	JJ	Degree=Pos	14	amod	_	start_char=80|end_char=83
+14	profit	profit	NOUN	NN	Number=Sing	10	obl	_	start_char=84|end_char=90
+15	!	!	PUNCT	.	_	4	punct	_	start_char=90|end_char=91
+16	:)	:)	SYM	NFP	_	4	discourse	_	start_char=92|end_char=94
+17	"	"	PUNCT	''	_	4	punct	_	start_char=94|end_char=95
+

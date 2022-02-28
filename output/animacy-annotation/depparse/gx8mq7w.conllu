@@ -1,0 +1,32 @@
+1	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=4|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=9|end_char=11
+4	why	why	SCONJ	WRB	PronType=Int	1	ccomp	_	start_char=12|end_char=15
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=16|end_char=17
+6	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=17|end_char=19
+7	not	not	PART	RB	_	9	advmod	_	start_char=20|end_char=23
+8	gonna	gonna	PART	TO	_	9	advmod	_	start_char=24|end_char=29
+9	share	share	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=30|end_char=35
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=36|end_char=38
+11	stories	story	NOUN	NNS	Number=Plur	9	obj	_	start_char=39|end_char=46
+12	😅.	😅.	PUNCT	.	_	1	punct	_	start_char=47|end_char=49
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=50|end_char=54
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=54|end_char=56
+3	really	really	ADV	RB	_	4	advmod	_	start_char=57|end_char=63
+4	immature	immature	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=72
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=73|end_char=76
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=77|end_char=85
+7	of	of	ADP	IN	_	8	case	_	start_char=86|end_char=88
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obl	_	start_char=89|end_char=93
+9	to	to	PART	TO	_	11	mark	_	start_char=94|end_char=96
+10	just	just	ADV	RB	_	11	advmod	_	start_char=97|end_char=101
+11	expect	expect	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=102|end_char=108
+12	perfection	perfection	NOUN	NN	Number=Sing	11	obj	_	start_char=109|end_char=119
+13	from	from	ADP	IN	_	14	case	_	start_char=120|end_char=124
+14	someone	someone	NOUN	NN	Number=Sing	11	obl	_	start_char=125|end_char=132
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=133|end_char=137
+16	hardly	hardly	ADV	RB	Degree=Pos	17	advmod	_	start_char=138|end_char=144
+17	know	know	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=145|end_char=149
+18	.	.	PUNCT	.	_	4	punct	_	start_char=149|end_char=150
+

@@ -1,0 +1,13 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	just	just	ADV	RB	_	3	advmod	_	start_char=5|end_char=9
+3	lost	lose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=15|end_char=16
+5	potential	potential	ADJ	JJ	Degree=Pos	6	amod	_	start_char=17|end_char=26
+6	costumer	customer	NOUN	NN	Number=Sing	3	obj	_	start_char=27|end_char=35
+7	,	,	PUNCT	,	_	9	punct	_	start_char=35|end_char=36
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=37|end_char=40
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=41|end_char=49
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+11	disappointing	disappointing	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=67
+12	.	.	PUNCT	.	_	3	punct	_	start_char=67|end_char=68
+

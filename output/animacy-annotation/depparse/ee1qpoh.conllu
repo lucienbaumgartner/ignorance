@@ -1,0 +1,52 @@
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	quotes	quote	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=6|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=13|end_char=16
+4	so	so	ADV	RB	_	6	advmod	_	start_char=17|end_char=19
+5	extremely	extremely	ADV	RB	_	6	advmod	_	start_char=20|end_char=29
+6	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=41
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=42|end_char=45
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=46|end_char=54
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=55|end_char=59
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=60|end_char=61
+11	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	ccomp	_	start_char=62|end_char=65
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=66|end_char=67
+13	hard	hard	ADJ	JJ	Degree=Pos	14	amod	_	start_char=68|end_char=72
+14	time	time	NOUN	NN	Number=Sing	11	obj	_	start_char=73|end_char=77
+15	believing	believe	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=78|end_char=87
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=88|end_char=92
+17	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=92|end_char=95
+18	legitimate	legitimate	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=96|end_char=106
+19	so	so	ADV	RB	_	21	advmod	_	start_char=107|end_char=109
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=110|end_char=111
+21	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	parataxis	_	start_char=112|end_char=115
+22	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=116|end_char=117
+23	little	little	ADJ	JJ	Degree=Pos	24	amod	_	start_char=118|end_char=124
+24	research	research	NOUN	NN	Number=Sing	21	obj	_	start_char=125|end_char=133
+25	and	and	CCONJ	CC	_	27	cc	_	start_char=134|end_char=137
+26	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	start_char=138|end_char=139
+27	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	conj	_	start_char=140|end_char=145
+28	this	this	PRON	DT	Number=Sing|PronType=Dem	27	obj	_	start_char=146|end_char=150
+29	;	;	PUNCT	:	_	6	punct	_	start_char=150|end_char=151
+
+1	https://www.snopes.com/fact-check/personal-foul/	https://www.snopes.com/fact-check/personal-foul/	X	ADD	_	0	root	_	start_char=153|end_char=201
+
+1	Learning	learning	VERB	VBG	VerbForm=Ger	8	csubj	_	start_char=203|end_char=211
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=212|end_char=215
+3	context	context	NOUN	NN	Number=Sing	1	obj	_	start_char=216|end_char=223
+4	of	of	ADP	IN	_	6	case	_	start_char=224|end_char=226
+5	each	each	DET	DT	_	6	det	_	start_char=227|end_char=231
+6	quote	quote	NOUN	NN	Number=Sing	3	nmod	_	start_char=232|end_char=237
+7	actually	actually	ADV	RB	_	8	advmod	_	start_char=238|end_char=246
+8	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=247|end_char=252
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=253|end_char=257
+10	all	all	DET	PDT	_	13	advmod	_	start_char=258|end_char=261
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=262|end_char=265
+12	more	more	ADV	RBR	_	13	advmod	_	start_char=266|end_char=270
+13	heinous	heinous	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=271|end_char=278
+14	.	.	PUNCT	.	_	8	punct	_	start_char=278|end_char=279
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=282|end_char=286
+2	these	this	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=287|end_char=292
+3	people	people	NOUN	NNS	Number=Plur	1	obj	_	start_char=293|end_char=299
+4	.	.	PUNCT	.	_	1	punct	_	start_char=299|end_char=300
+

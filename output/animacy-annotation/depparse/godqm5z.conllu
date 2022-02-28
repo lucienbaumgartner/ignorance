@@ -1,0 +1,15 @@
+1	Then	then	ADV	RB	PronType=Dem	5	advmod	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=5|end_char=8
+3	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=12|end_char=22
+5	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=28
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=29|end_char=32
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=33|end_char=41
+8	of	of	ADP	IN	_	10	case	_	start_char=42|end_char=44
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=45|end_char=48
+10	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=49|end_char=56
+11	of	of	ADP	IN	_	13	case	_	start_char=57|end_char=59
+12	paedophilic	paedophilic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=60|end_char=71
+13	predators	predator	NOUN	NNS	Number=Plur	10	nmod	_	start_char=72|end_char=81
+14	.	.	PUNCT	.	_	5	punct	_	start_char=81|end_char=82
+

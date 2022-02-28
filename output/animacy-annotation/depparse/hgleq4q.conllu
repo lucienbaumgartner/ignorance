@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=7
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+4	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=15|end_char=16
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	start_char=17|end_char=20
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=20|end_char=23
+4	consider	consider	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=32
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=33|end_char=37
+6	at	at	ADP	IN	_	7	case	_	start_char=38|end_char=40
+7	all	all	DET	DT	_	4	obl	_	start_char=41|end_char=44
+8	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=46|end_char=47
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=47|end_char=49
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=50|end_char=55
+4	to	to	PART	TO	_	5	mark	_	start_char=56|end_char=58
+5	delete	delete	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=59|end_char=65
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=66|end_char=68
+7	comment	comment	NOUN	NN	Number=Sing	5	obj	_	start_char=69|end_char=76
+8	because	because	SCONJ	IN	_	11	mark	_	start_char=77|end_char=84
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	start_char=85|end_char=89
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=90|end_char=93
+11	naive	naive	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=94|end_char=99
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=100|end_char=103
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=104|end_char=112
+14	of	of	ADP	IN	_	15	case	_	start_char=113|end_char=115
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obl	_	start_char=116|end_char=118
+16	to	to	PART	TO	_	17	mark	_	start_char=119|end_char=121
+17	say	say	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=122|end_char=125
+18	.	.	PUNCT	.	_	3	punct	_	start_char=125|end_char=126
+

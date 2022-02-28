@@ -1,0 +1,11 @@
+1	CORRECT	correct	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	on	on	ADP	IN	_	4	case	_	start_char=8|end_char=10
+3	both	both	DET	DT	_	4	det	_	start_char=11|end_char=15
+4	accounts	account	NOUN	NNS	Number=Plur	1	obl	_	start_char=16|end_char=24
+5	...	...	PUNCT	.	_	1	punct	_	start_char=25|end_char=28
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=36
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=37|end_char=40
+3	Evil	Evil	ADJ	JJ	Degree=Pos	1	conj	_	start_char=41|end_char=45
+4	.	.	PUNCT	.	_	1	punct	_	start_char=45|end_char=46
+

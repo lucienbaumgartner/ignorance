@@ -1,0 +1,16 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=5
+3	bigoted	bigoted	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=26
+6	,	,	PUNCT	,	_	3	punct	_	start_char=26|end_char=27
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=28|end_char=32
+8	ticks	tick	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=33|end_char=38
+9	two	two	NUM	CD	NumType=Card	11	nummod	_	start_char=39|end_char=42
+10	large	large	ADJ	JJ	Degree=Pos	11	amod	_	start_char=43|end_char=48
+11	boxes	box	NOUN	NNS	Number=Plur	8	obj	_	start_char=49|end_char=54
+12	implying	imply	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=55|end_char=63
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=64|end_char=67
+14	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=68|end_char=70
+15	....	....	PUNCT	.	_	3	punct	_	start_char=70|end_char=74
+

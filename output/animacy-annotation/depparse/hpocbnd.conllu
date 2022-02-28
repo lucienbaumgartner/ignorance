@@ -1,0 +1,28 @@
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=8
+3	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	demonstrate	demonstrate	VERB	VB	VerbForm=Inf	2	acl	_	start_char=12|end_char=23
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=24|end_char=27
+6	illogical	illogical	ADJ	JJ	Degree=Pos	7	amod	_	start_char=28|end_char=37
+7	nature	nature	NOUN	NN	Number=Sing	4	obj	_	start_char=38|end_char=44
+8	of	of	ADP	IN	_	17	case	_	start_char=45|end_char=47
+9	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=48|end_char=49
+10	seemingly	seemingly	ADV	RB	_	11	advmod	_	start_char=50|end_char=59
+11	logical	logical	ADJ	JJ	Degree=Pos	17	amod	_	start_char=60|end_char=67
+12	but	but	CCONJ	CC	_	13	cc	_	start_char=68|end_char=71
+13	rather	rather	ADV	RB	_	14	advmod	_	start_char=72|end_char=78
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=79|end_char=87
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=88|end_char=91
+16	immature	immature	ADJ	JJ	Degree=Pos	11	conj	_	start_char=92|end_char=100
+17	statement	statement	NOUN	NN	Number=Sing	7	nmod	_	start_char=101|end_char=110
+18	.	.	PUNCT	.	_	2	punct	_	start_char=110|end_char=111
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=112|end_char=115
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=116|end_char=120
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=121|end_char=123
+4	upvote	upvote	NOUN	NN	Number=Sing	2	obj	_	start_char=124|end_char=130
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=131|end_char=134
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=135|end_char=137
+7	thanks	thanks	NOUN	NN	Number=Sing	4	conj	_	start_char=138|end_char=144
+8	!	!	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

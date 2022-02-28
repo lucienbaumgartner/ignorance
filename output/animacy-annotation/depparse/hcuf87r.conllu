@@ -1,0 +1,25 @@
+1	Stay	stay	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	at	at	ADP	IN	_	6	case	_	start_char=5|end_char=7
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=8|end_char=12
+4	friend	friend	NOUN	NN	Number=Sing	6	nmod:poss	_	start_char=13|end_char=19
+5	’s	's	PART	POS	_	4	case	_	start_char=19|end_char=21
+6	house	house	NOUN	NN	Number=Sing	1	obl	_	start_char=22|end_char=27
+7	.	.	PUNCT	.	_	1	punct	_	start_char=27|end_char=28
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=29|end_char=33
+2	bf	bf	NOUN	NN	Number=Sing	4	nsubj	_	start_char=34|end_char=36
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=37|end_char=39
+4	jealous	jealous	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=47
+5	,	,	PUNCT	,	_	6	punct	_	start_char=47|end_char=48
+6	insecure	insecure	ADJ	JJ	Degree=Pos	4	conj	_	start_char=49|end_char=57
+7	,	,	PUNCT	,	_	9	punct	_	start_char=57|end_char=58
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=59|end_char=62
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=63|end_char=71
+10	of	of	ADP	IN	_	12	case	_	start_char=72|end_char=74
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=75|end_char=78
+12	requirements	requirement	NOUN	NNS	Number=Plur	9	obl	_	start_char=79|end_char=91
+13	of	of	ADP	IN	_	15	case	_	start_char=92|end_char=94
+14	professional	professional	ADJ	JJ	Degree=Pos	15	amod	_	start_char=95|end_char=107
+15	academia	academia	NOUN	NN	Number=Sing	12	nmod	_	start_char=108|end_char=116
+16	.	.	PUNCT	.	_	4	punct	_	start_char=116|end_char=117
+

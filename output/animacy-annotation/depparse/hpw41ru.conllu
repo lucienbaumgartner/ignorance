@@ -1,0 +1,37 @@
+1	&gt;still	&gt;still	NOUN	NN	Number=Sing	21	nsubj	_	start_char=0|end_char=9
+2	,	,	PUNCT	,	_	21	punct	_	start_char=9|end_char=10
+3	to	to	PART	TO	_	4	mark	_	start_char=11|end_char=13
+4	claim	claim	VERB	VB	VerbForm=Inf	21	csubj	_	start_char=14|end_char=19
+5	that	that	SCONJ	IN	_	21	mark	_	start_char=20|end_char=24
+6	troops	troops	NOUN	NNS	Number=Plur	21	nsubj	_	start_char=25|end_char=31
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=32|end_char=35
+8	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=36|end_char=40
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=41|end_char=46
+10	lives	life	NOUN	NNS	Number=Plur	8	obj	_	start_char=47|end_char=52
+11	DONT	dont	PART	TO	_	12	mark	_	start_char=53|end_char=57
+12	have	have	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=58|end_char=62
+13	historical	historical	ADJ	JJ	Degree=Pos	14	amod	_	start_char=63|end_char=73
+14	significance	significance	NOUN	NN	Number=Sing	12	obj	_	start_char=74|end_char=86
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=87|end_char=89
+16	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=90|end_char=91
+17	very	very	ADV	RB	_	18	advmod	_	start_char=92|end_char=96
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	amod	_	start_char=97|end_char=105
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=106|end_char=109
+20	arrogant	arrogant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=110|end_char=118
+21	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=119|end_char=124
+22	to	to	PART	TO	_	23	mark	_	start_char=125|end_char=127
+23	say	say	VERB	VB	VerbForm=Inf	21	acl	_	start_char=128|end_char=131
+24	.	.	PUNCT	.	_	21	punct	_	start_char=131|end_char=132
+
+1	have	have	VERB	VBP	Mood=Imp|VerbForm=Fin	0	root	_	start_char=133|end_char=137
+2	some	some	DET	DT	_	3	det	_	start_char=138|end_char=142
+3	respect	respect	NOUN	NN	Number=Sing	1	obj	_	start_char=143|end_char=150
+4	,	,	PUNCT	,	_	1	punct	_	start_char=150|end_char=151
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=152|end_char=156
+6	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=157|end_char=161
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=162|end_char=167
+8	lives	life	NOUN	NNS	Number=Plur	6	obj	_	start_char=168|end_char=173
+9	.	.	PUNCT	.	_	1	punct	_	start_char=173|end_char=174
+
+1	🤨	🤨	PROPN	NNP	Number=Sing	0	root	_	start_char=176|end_char=177
+

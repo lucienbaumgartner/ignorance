@@ -1,0 +1,37 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+
+1	“	''	PUNCT	``	_	2	punct	_	start_char=10|end_char=11
+2	Act	act	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=11|end_char=14
+3	like	like	ADP	IN	_	4	case	_	start_char=15|end_char=19
+4	anything	anything	NOUN	NN	Number=Sing	2	obl	_	start_char=20|end_char=28
+5	but	but	CCONJ	CC	_	7	cc	_	start_char=29|end_char=32
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=33|end_char=35
+7	American	American	ADJ	JJ	Degree=Pos	4	conj	_	start_char=36|end_char=44
+8	”	''	PUNCT	''	_	2	punct	_	start_char=44|end_char=45
+9	which	which	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=46|end_char=51
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=52|end_char=54
+11	basically	basically	ADV	RB	Degree=Pos	12	advmod	_	start_char=55|end_char=64
+12	How	how	SCONJ	WRB	PronType=Int	2	parataxis	_	start_char=65|end_char=68
+13	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=69|end_char=72
+14	act	act	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=73|end_char=76
+15	.	.	PUNCT	.	_	2	punct	_	start_char=76|end_char=77
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=86
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=87|end_char=90
+3	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	1	conj	_	start_char=91|end_char=104
+4	.	.	PUNCT	.	_	1	punct	_	start_char=104|end_char=105
+
+1	And	and	CCONJ	CC	_	8	cc	_	start_char=106|end_char=109
+2	yes	yes	INTJ	UH	_	8	discourse	_	start_char=110|end_char=113
+3	,	,	PUNCT	,	_	8	punct	_	start_char=113|end_char=114
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj:pass	_	start_char=115|end_char=118
+5	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=118|end_char=121
+6	clearly	clearly	ADV	RB	Degree=Pos	8	advmod	_	start_char=122|end_char=129
+7	not	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=130|end_char=133
+8	wanted	want	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=134|end_char=140
+9	anywhere	anywhere	ADV	RB	_	8	advmod	_	start_char=141|end_char=149
+10	so	so	ADV	RB	_	11	advmod	_	start_char=150|end_char=152
+11	stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	8	parataxis	_	start_char=153|end_char=157
+12	home	home	ADV	RB	Degree=Pos	11	advmod	_	start_char=158|end_char=162
+

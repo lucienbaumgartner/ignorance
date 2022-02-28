@@ -1,0 +1,28 @@
+1	Truck	truck	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=5
+2	drivers	driver	NOUN	NNS	Number=Plur	3	compound	_	start_char=6|end_char=13
+3	mistake	mistake	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=21
+4	.	.	PUNCT	.	_	3	punct	_	start_char=21|end_char=22
+
+1	Mini	Mini	ADJ	JJ	Degree=Pos	2	amod	_	start_char=23|end_char=27
+2	driver	driver	NOUN	NN	Number=Sing	0	root	_	start_char=28|end_char=34
+3	unaware	unaware	ADJ	JJ	Degree=Pos	2	amod	_	start_char=35|end_char=42
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=43|end_char=46
+5	unskilled	unskilled	ADJ	JJ	Degree=Pos	3	conj	_	start_char=47|end_char=56
+6	.	.	PUNCT	.	_	2	punct	_	start_char=56|end_char=57
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=58|end_char=61
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	start_char=62|end_char=67
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=68|end_char=71
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=72|end_char=74
+5	kept	keep	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=75|end_char=79
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=80|end_char=83
+7	brakes	brake	NOUN	NNS	Number=Plur	5	obj	_	start_char=84|end_char=90
+8	on	on	ADP	RP	_	5	compound:prt	_	start_char=91|end_char=93
+9	and	and	CCONJ	CC	_	13	cc	_	start_char=94|end_char=97
+10	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux	_	start_char=98|end_char=101
+11	n’t	not	PART	RB	_	13	advmod	_	start_char=101|end_char=104
+12	even	even	ADV	RB	_	13	advmod	_	start_char=105|end_char=109
+13	try	try	VERB	VB	VerbForm=Inf	3	conj	_	start_char=110|end_char=113
+14	to	to	PART	TO	_	15	mark	_	start_char=114|end_char=116
+15	move	move	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=117|end_char=121
+

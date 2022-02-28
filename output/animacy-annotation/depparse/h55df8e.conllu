@@ -1,0 +1,25 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	rape	rape	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=12
+4	-	-	PUNCT	,	_	3	punct	_	start_char=13|end_char=14
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=15|end_char=18
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=19|end_char=22
+7	unconscious	unconscious	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=23|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=46
+10	of	of	ADP	IN	_	11	case	_	start_char=47|end_char=49
+11	what	what	PRON	WP	PronType=Int	9	obl	_	start_char=50|end_char=54
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=55|end_char=57
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=58|end_char=60
+14	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=61|end_char=66
+15	.	.	PUNCT	.	_	3	punct	_	start_char=66|end_char=67
+
+1	Totally	totally	ADV	RB	_	2	advmod	_	start_char=68|end_char=75
+2	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=81
+3	.	.	PUNCT	.	_	2	punct	_	start_char=81|end_char=82
+
+1	Predator	predator	NOUN	NN	Number=Sing	0	root	_	start_char=83|end_char=91
+2	at	at	ADP	IN	_	3	case	_	start_char=92|end_char=94
+3	best	good	ADJ	JJS	Degree=Sup	1	nmod	_	start_char=95|end_char=99
+4	.	.	PUNCT	.	_	1	punct	_	start_char=99|end_char=100
+

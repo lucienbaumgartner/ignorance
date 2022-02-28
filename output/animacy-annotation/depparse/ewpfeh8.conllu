@@ -1,0 +1,28 @@
+1	Yup	yup	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=4|end_char=6
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=6|end_char=8
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=9|end_char=10
+5	myth	myth	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=15
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=16|end_char=19
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=20|end_char=28
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=29|end_char=33
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=34|end_char=36
+10	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=37|end_char=42
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=43|end_char=46
+12	sterile	sterile	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=47|end_char=54
+13	.	.	PUNCT	.	_	5	punct	_	start_char=54|end_char=55
+
+1	Just	just	ADV	RB	_	3	advmod	_	start_char=56|end_char=60
+2	more	more	ADV	RBR	_	3	advmod	_	start_char=61|end_char=65
+3	difficult	difficult	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=75
+4	since	since	SCONJ	IN	_	10	mark	_	start_char=76|end_char=81
+5	egg	egg	NOUN	NN	Number=Sing	6	compound	_	start_char=82|end_char=85
+6	releasing	release	NOUN	NN	Number=Sing	10	nsubj	_	start_char=86|end_char=95
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=96|end_char=99
+8	cysts	cyst	NOUN	NNS	Number=Plur	6	conj	_	start_char=100|end_char=105
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=106|end_char=109
+10	competing	compete	VERB	VBG	Tense=Pres|VerbForm=Part	3	advcl	_	start_char=110|end_char=119
+11	for	for	ADP	IN	_	13	case	_	start_char=120|end_char=123
+12	each	each	DET	DT	_	13	det	_	start_char=124|end_char=128
+13	other	other	ADJ	JJ	Degree=Pos	10	obl	_	start_char=129|end_char=134
+

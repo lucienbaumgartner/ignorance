@@ -1,0 +1,25 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	book	book	NOUN	NN	Number=Sing	6	nsubj	_	start_char=5|end_char=9
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=10|end_char=13
+4	so	so	ADV	RB	_	5	advmod	_	start_char=14|end_char=16
+5	painfully	painfully	ADV	RB	_	6	advmod	_	start_char=17|end_char=26
+6	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=44|end_char=48
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=49|end_char=50
+11	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=51|end_char=54
+12	pretty	pretty	ADV	RB	_	13	advmod	_	start_char=55|end_char=61
+13	much	much	ADV	RB	_	14	advmod	_	start_char=62|end_char=66
+14	pinpoint	pinpoint	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=67|end_char=75
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=76|end_char=78
+16	turn	turn	NOUN	NN	Number=Sing	14	obj	_	start_char=79|end_char=83
+17	to	to	ADP	IN	_	18	case	_	start_char=84|end_char=86
+18	leftism	leftism	NOUN	NN	Number=Sing	14	obl	_	start_char=87|end_char=94
+19	to	to	ADP	IN	_	20	case	_	start_char=95|end_char=97
+20	when	when	SCONJ	WRB	PronType=Int	22	mark	_	start_char=98|end_char=102
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=103|end_char=104
+22	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	advcl	_	start_char=105|end_char=109
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=110|end_char=112
+24	.	.	PUNCT	.	_	6	punct	_	start_char=112|end_char=113
+

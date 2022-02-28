@@ -1,0 +1,54 @@
+1	As	as	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=3|end_char=4
+3	Cishet	Cishet	PROPN	NNP	Number=Sing	11	obl	_	start_char=5|end_char=11
+4	with	with	ADP	IN	_	6	case	_	start_char=12|end_char=16
+5	trans	trans	ADJ	JJ	Degree=Pos	6	amod	_	start_char=17|end_char=22
+6	family	family	NOUN	NN	Number=Sing	3	nmod	_	start_char=23|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	friends	friend	NOUN	NNS	Number=Plur	6	conj	_	start_char=34|end_char=41
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=42|end_char=46
+10	shit	shit	NOUN	NN	Number=Sing	11	nsubj	_	start_char=47|end_char=51
+11	bothers	bother	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=59
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=60|end_char=62
+13	so	so	ADV	RB	_	14	advmod	_	start_char=63|end_char=65
+14	much	much	ADV	RB	_	11	advmod	_	start_char=66|end_char=70
+15	.	.	PUNCT	.	_	11	punct	_	start_char=70|end_char=71
+
+1	Watching	watch	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=72|end_char=80
+2	others	other	NOUN	NNS	Number=Plur	1	obj	_	start_char=81|end_char=87
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=88|end_char=90
+4	so	so	ADV	RB	_	5	advmod	_	start_char=91|end_char=93
+5	willfully	willfully	ADV	RB	_	6	advmod	_	start_char=94|end_char=103
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=104|end_char=112
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=113|end_char=116
+8	inconsiderate	inconsiderate	ADJ	JJ	Degree=Pos	6	conj	_	start_char=117|end_char=130
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=131|end_char=133
+10	so	so	ADV	RB	_	11	advmod	_	start_char=134|end_char=136
+11	infuriating	infuriate	ADJ	JJ	Degree=Pos	6	conj	_	start_char=137|end_char=148
+12	.	.	PUNCT	.	_	6	punct	_	start_char=148|end_char=149
+
+1	On	on	ADP	IN	_	2	case	_	start_char=150|end_char=152
+2	behalf	behalf	NOUN	NN	Number=Sing	0	root	_	start_char=153|end_char=159
+3	of	of	ADP	IN	_	9	case	_	start_char=160|end_char=162
+4	all	all	DET	PDT	_	9	det:predet	_	start_char=163|end_char=166
+5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=167|end_char=170
+6	other	other	ADJ	JJ	Degree=Pos	9	amod	_	start_char=171|end_char=176
+7	shitty	shitty	ADJ	JJ	Degree=Pos	9	amod	_	start_char=177|end_char=183
+8	'	'	PUNCT	``	_	9	punct	_	start_char=184|end_char=185
+9	breeders	breeder	NOUN	NNS	Number=Plur	2	nmod	_	start_char=185|end_char=193
+10	'	'	PUNCT	''	_	9	punct	_	start_char=193|end_char=194
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=195|end_char=196
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=196|end_char=198
+3	sincerely	sincerely	ADV	RB	_	4	advmod	_	start_char=199|end_char=208
+4	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=209|end_char=214
+5	so	so	ADV	RB	_	9	advmod	_	start_char=215|end_char=217
+6	many	many	ADJ	JJ	Degree=Pos	9	nsubj	_	start_char=218|end_char=222
+7	of	of	ADP	IN	_	8	case	_	start_char=223|end_char=225
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	nmod	_	start_char=226|end_char=228
+9	suck	suck	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=229|end_char=233
+10	so	so	ADV	RB	_	11	advmod	_	start_char=234|end_char=236
+11	fucking	fuck	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=237|end_char=244
+12	bad	bad	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=245|end_char=248
+13	😔	''	PUNCT	.	_	4	punct	_	start_char=249|end_char=250
+

@@ -1,0 +1,21 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	pathetic	pathetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=13
+4	,	,	PUNCT	,	_	12	punct	_	start_char=13|end_char=14
+5	and	and	CCONJ	CC	_	12	cc	_	start_char=15|end_char=18
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=19|end_char=22
+7	guy	guy	NOUN	NN	Number=Sing	12	nsubj	_	start_char=23|end_char=26
+8	could	could	AUX	MD	VerbForm=Fin	12	aux	_	start_char=27|end_char=32
+9	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=33|end_char=35
+10	100	100	NUM	CD	NumType=Card	11	nummod	_	start_char=36|end_char=39
+11	%	%	SYM	NN	Number=Sing	12	obl:npmod	_	start_char=39|end_char=40
+12	innocent	innocent	ADJ	JJ	Degree=Pos	3	conj	_	start_char=41|end_char=49
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=50|end_char=53
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=54|end_char=61
+15	that	that	SCONJ	IN	_	17	mark	_	start_char=62|end_char=66
+16	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=67|end_char=70
+17	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=71|end_char=74
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=75|end_char=76
+19	boyfriend	boyfriend	NOUN	NN	Number=Sing	17	obj	_	start_char=77|end_char=86
+20	.	.	PUNCT	.	_	3	punct	_	start_char=86|end_char=87
+

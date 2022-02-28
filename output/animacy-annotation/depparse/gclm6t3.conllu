@@ -1,0 +1,45 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Leftists	leftist	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=6|end_char=14
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=15|end_char=18
+3	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=24
+4	about	about	ADP	IN	_	6	case	_	start_char=25|end_char=30
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=31|end_char=34
+6	problems	problem	NOUN	NNS	Number=Plur	3	obl	_	start_char=35|end_char=43
+7	in	in	ADP	IN	_	8	case	_	start_char=44|end_char=46
+8	christianity	christianity	NOUN	NN	Number=Sing	6	nmod	_	start_char=47|end_char=59
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=60|end_char=63
+10	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=64|end_char=67
+11	history	history	NOUN	NN	Number=Sing	8	conj	_	start_char=68|end_char=75
+12	,	,	PUNCT	,	_	16	punct	_	start_char=75|end_char=76
+13	but	but	CCONJ	CC	_	16	cc	_	start_char=77|end_char=80
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux:pass	_	start_char=81|end_char=84
+15	totally	totally	ADV	RB	_	16	advmod	_	start_char=85|end_char=92
+16	misled	misle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	start_char=93|end_char=99
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=100|end_char=103
+18	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=104|end_char=111
+19	of	of	ADP	IN	_	21	case	_	start_char=112|end_char=114
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=115|end_char=118
+21	problems	problem	NOUN	NNS	Number=Plur	18	obl	_	start_char=119|end_char=127
+22	in	in	ADP	IN	_	23	case	_	start_char=128|end_char=130
+23	islam	islam	PROPN	NNP	Number=Sing	21	nmod	_	start_char=131|end_char=136
+24	and	and	CCONJ	CC	_	27	cc	_	start_char=137|end_char=140
+25	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	nmod:poss	_	start_char=141|end_char=144
+26	own	own	ADJ	JJ	Degree=Pos	27	amod	_	start_char=145|end_char=148
+27	history	history	NOUN	NN	Number=Sing	23	conj	_	start_char=149|end_char=156
+28	.	.	PUNCT	.	_	3	punct	_	start_char=156|end_char=157
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=164|end_char=168
+2	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=169|end_char=175
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=176|end_char=181
+4	slavery	slavery	NOUN	NN	Number=Sing	11	nsubj	_	start_char=182|end_char=189
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=190|end_char=193
+6	colonialism	colonialism	NOUN	NN	Number=Sing	4	conj	_	start_char=194|end_char=205
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	start_char=206|end_char=210
+8	just	just	ADV	RB	_	11	advmod	_	start_char=211|end_char=215
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=216|end_char=217
+10	christian	Christian	ADJ	JJ	Degree=Pos	11	amod	_	start_char=218|end_char=227
+11	thing	thing	NOUN	NN	Number=Sing	3	ccomp	_	start_char=228|end_char=233
+12	.	.	PUNCT	.	_	3	punct	_	start_char=233|end_char=234
+

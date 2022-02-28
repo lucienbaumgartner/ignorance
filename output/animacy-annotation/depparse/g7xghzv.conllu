@@ -1,0 +1,45 @@
+1	Me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=0|end_char=2
+2	too	too	ADV	RB	_	4	advmod	_	start_char=3|end_char=6
+3	,	,	PUNCT	,	_	4	punct	_	start_char=6|end_char=7
+4	brother	brother	NOUN	NN	Number=Sing	1	appos	_	start_char=8|end_char=15
+5	.	.	PUNCT	.	_	1	punct	_	start_char=15|end_char=16
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=17|end_char=20
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=20|end_char=22
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=23|end_char=24
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	_	start_char=25|end_char=30
+5	dog	dog	NOUN	NN	Number=Sing	0	root	_	start_char=31|end_char=34
+6	.	.	PUNCT	.	_	5	punct	_	start_char=34|end_char=35
+
+1	Amazingly	amazingly	ADV	RB	_	2	advmod	_	start_char=36|end_char=45
+2	friendly	friendly	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=54
+3	,	,	PUNCT	,	_	8	punct	_	start_char=54|end_char=55
+4	but	but	CCONJ	CC	_	8	cc	_	start_char=56|end_char=59
+5	just	just	ADV	RB	_	8	advmod	_	start_char=60|end_char=64
+6	so	so	ADV	RB	_	7	advmod	_	start_char=65|end_char=67
+7	damn	damn	ADV	RB	_	8	advmod	_	start_char=68|end_char=72
+8	strong	strong	ADJ	JJ	Degree=Pos	2	conj	_	start_char=73|end_char=79
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=80|end_char=83
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=84|end_char=91
+11	of	of	ADP	IN	_	13	case	_	start_char=92|end_char=94
+12	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=95|end_char=98
+13	power	power	NOUN	NN	Number=Sing	10	obl	_	start_char=99|end_char=104
+14	.	.	PUNCT	.	_	2	punct	_	start_char=104|end_char=105
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=106|end_char=110
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=110|end_char=112
+3	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=113|end_char=116
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=117|end_char=120
+5	tore	tore	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=121|end_char=125
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=126|end_char=129
+7	ACL	ACL	PROPN	NNP	Number=Sing	5	obj	_	start_char=130|end_char=133
+8	,	,	PUNCT	,	_	10	punct	_	start_char=133|end_char=134
+9	just	just	ADV	RB	_	10	advmod	_	start_char=135|end_char=139
+10	chasing	chase	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=140|end_char=147
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=148|end_char=149
+12	tennis	tennis	ADJ	JJ	Degree=Pos	13	amod	_	start_char=150|end_char=156
+13	ball	ball	NOUN	NN	Number=Sing	10	obj	_	start_char=157|end_char=161
+14	too	too	ADV	RB	_	15	advmod	_	start_char=162|end_char=165
+15	hard	hard	ADV	RB	Degree=Pos	10	advmod	_	start_char=166|end_char=170
+16	.	.	PUNCT	.	_	2	punct	_	start_char=170|end_char=171
+

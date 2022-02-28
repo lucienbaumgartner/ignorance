@@ -1,0 +1,44 @@
+1	Exactly	exactly	ADV	RB	_	2	advmod	_	start_char=0|end_char=7
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=8|end_char=12
+3	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=14|end_char=16
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=18
+3	not	not	PART	RB	_	4	advmod	_	start_char=19|end_char=22
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=23|end_char=26
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=27|end_char=29
+6	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=30|end_char=35
+7	.	.	PUNCT	.	_	2	punct	_	start_char=35|end_char=36
+
+1	Especially	especially	ADV	RB	_	4	advmod	_	start_char=37|end_char=47
+2	since	since	SCONJ	IN	_	4	mark	_	start_char=48|end_char=53
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=54|end_char=56
+4	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	advcl	_	start_char=57|end_char=60
+5	both	both	DET	DT	_	9	nsubj	_	start_char=61|end_char=65
+6	of	of	ADP	IN	_	7	case	_	start_char=66|end_char=68
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nmod	_	start_char=69|end_char=73
+8	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=74|end_char=79
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=80|end_char=88
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=89|end_char=92
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=93|end_char=100
+12	of	of	ADP	IN	_	14	case	_	start_char=101|end_char=103
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=104|end_char=109
+14	privilege	privilege	NOUN	NN	Number=Sing	11	obl	_	start_char=110|end_char=119
+15	(	(	PUNCT	-LRB-	_	17	punct	_	start_char=120|end_char=121
+16	plus	plus	CCONJ	CC	_	17	cc	_	start_char=121|end_char=125
+17	Amelia	Amelia	PROPN	NNP	Number=Sing	14	conj	_	start_char=126|end_char=132
+18	who	who	PRON	WP	PronType=Rel	19	nsubj	_	start_char=133|end_char=136
+19	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=137|end_char=140
+20	black	black	ADJ	JJ	Degree=Pos	21	amod	_	start_char=141|end_char=146
+21	sister	sister	NOUN	NN	Number=Sing	19	obj	_	start_char=147|end_char=153
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=154|end_char=157
+23	niece	niece	NOUN	NN	Number=Sing	21	conj	_	start_char=158|end_char=163
+24	)	)	PUNCT	-RRB-	_	19	punct	_	start_char=163|end_char=164
+25	and	and	CCONJ	CC	_	30	cc	_	start_char=165|end_char=168
+26	this	this	DET	DT	Number=Sing|PronType=Dem	27	det	_	start_char=169|end_char=173
+27	argument	argument	NOUN	NN	Number=Sing	30	nsubj	_	start_char=174|end_char=182
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	start_char=183|end_char=185
+29	still	still	ADV	RB	_	30	advmod	_	start_char=186|end_char=191
+30	circulating	circulate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=192|end_char=203
+31	.	.	PUNCT	.	_	30	punct	_	start_char=203|end_char=204
+

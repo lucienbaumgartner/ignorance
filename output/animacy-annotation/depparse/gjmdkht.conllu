@@ -1,0 +1,19 @@
+1	_	_	PUNCT	NFP	_	0	root	_	start_char=0|end_char=1
+
+1	Ahhh	ahhh	INTJ	UH	_	5	discourse	_	start_char=1|end_char=5
+2	,	,	PUNCT	,	_	5	punct	_	start_char=5|end_char=6
+3	_	_	PUNCT	NFP	_	5	punct	_	start_char=6|end_char=7
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=8|end_char=9
+5	remember	remember	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=18
+6	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=19|end_char=24
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=25|end_char=29
+8	blissfully	blissfully	ADV	RB	_	9	advmod	_	start_char=30|end_char=40
+9	naive	naive	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=41|end_char=46
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=47|end_char=50
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=51|end_char=58
+12	of	of	ADP	IN	_	13	case	_	start_char=59|end_char=61
+13	what	what	PRON	WP	PronType=Int	11	obl	_	start_char=62|end_char=66
+14	awaited	await	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=67|end_char=74
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	start_char=75|end_char=77
+16	💸💸💸	💸💸💸	PUNCT	.	_	5	punct	_	start_char=78|end_char=81
+

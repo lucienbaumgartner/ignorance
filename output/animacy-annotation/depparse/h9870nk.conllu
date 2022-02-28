@@ -1,0 +1,12 @@
+1	As	as	SCONJ	IN	_	6	mark	_	start_char=0|end_char=2
+2	usual	usual	ADJ	JJ	Degree=Pos	4	amod	_	start_char=3|end_char=8
+3	American	American	ADJ	JJ	Degree=Pos	4	amod	_	start_char=9|end_char=17
+4	politicians	politician	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=18|end_char=29
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=30|end_char=35
+6	clueless	clueless	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=44
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=45|end_char=48
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=49|end_char=57
+9	of	of	ADP	IN	_	10	case	_	start_char=58|end_char=60
+10	world	world	NOUN	NN	Number=Sing	8	obl	_	start_char=61|end_char=66
+11	.	.	PUNCT	.	_	6	punct	_	start_char=66|end_char=67
+

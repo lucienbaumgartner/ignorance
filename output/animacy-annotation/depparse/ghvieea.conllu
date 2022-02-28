@@ -1,0 +1,6 @@
+1	so	so	ADV	RB	_	2	advmod	_	start_char=0|end_char=2
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=3|end_char=10
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=11|end_char=14
+4	so	so	ADV	RB	_	5	advmod	_	start_char=15|end_char=17
+5	sexy	sexy	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=22
+

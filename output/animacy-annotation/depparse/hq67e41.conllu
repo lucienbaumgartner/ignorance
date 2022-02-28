@@ -1,0 +1,85 @@
+1	What	what	PRON	WP	PronType=Int	4	obl	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=5|end_char=8
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=9|end_char=12
+4	babbling	babb	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=13|end_char=21
+5	about	about	ADP	IN	_	1	case	_	start_char=22|end_char=27
+6	?	?	PUNCT	.	_	4	punct	_	start_char=27|end_char=28
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=30|end_char=33
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=39
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=40|end_char=43
+4	pandemic	pandemic	NOUN	NN	Number=Sing	6	nsubj	_	start_char=44|end_char=52
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=53|end_char=56
+6	bullshit	bullshit	NOUN	NN	Number=Sing	2	ccomp	_	start_char=57|end_char=65
+7	?	?	PUNCT	.	_	2	punct	_	start_char=65|end_char=66
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=71|end_char=75
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=76|end_char=82
+3	like	like	ADP	IN	_	4	case	_	start_char=83|end_char=87
+4	more	more	ADJ	JJR	Degree=Cmp	2	obl	_	start_char=88|end_char=92
+5	of	of	ADP	IN	_	10	case	_	start_char=93|end_char=95
+6	that	that	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=96|end_char=100
+7	incredibly	incredibly	ADV	RB	_	8	advmod	_	start_char=101|end_char=111
+8	stupid	stupid	ADJ	JJ	Degree=Pos	10	amod	_	start_char=112|end_char=118
+9	"	"	PUNCT	''	_	11	punct	_	start_char=119|end_char=120
+10	Fauci	Fauci	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=120|end_char=125
+11	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=126|end_char=130
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	start_char=131|end_char=133
+13	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	aux	_	start_char=134|end_char=137
+14	n't	not	PART	RB	_	15	advmod	_	start_char=137|end_char=140
+15	have	have	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=141|end_char=145
+16	to	to	PART	TO	_	17	mark	_	start_char=146|end_char=148
+17	wear	wear	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=149|end_char=153
+18	masks	mask	NOUN	NNS	Number=Plur	17	obj	_	start_char=154|end_char=159
+19	but	but	CCONJ	CC	_	28	cc	_	start_char=160|end_char=163
+20	then	then	ADV	RB	PronType=Dem	21	advmod	_	start_char=164|end_char=168
+21	later	late	ADV	RB	_	28	advmod	_	start_char=169|end_char=174
+22	as	as	SCONJ	IN	_	25	mark	_	start_char=175|end_char=177
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=178|end_char=181
+24	pandemic	pandemic	NOUN	NN	Number=Sing	25	nsubj	_	start_char=182|end_char=190
+25	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	advcl	_	start_char=191|end_char=194
+26	worse	bad	ADJ	JJR	Degree=Cmp	25	xcomp	_	start_char=195|end_char=200
+27	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	start_char=201|end_char=203
+28	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	conj	_	start_char=204|end_char=208
+29	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	30	nsubj	_	start_char=209|end_char=211
+30	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28	ccomp	_	start_char=212|end_char=215
+31	so	so	ADV	RB	_	37	advmod	_	start_char=216|end_char=218
+32	now	now	ADV	RB	_	37	advmod	_	start_char=219|end_char=222
+33	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	start_char=223|end_char=225
+34	should	should	AUX	MD	VerbForm=Fin	37	aux	_	start_char=226|end_char=232
+35	be	be	AUX	VB	VerbForm=Inf	37	cop	_	start_char=233|end_char=235
+36	in	in	ADP	IN	_	37	case	_	start_char=236|end_char=238
+37	prison	prison	NOUN	NN	Number=Sing	28	ccomp	_	start_char=239|end_char=245
+38	!	!	PUNCT	.	_	11	punct	_	start_char=245|end_char=246
+
+1	MAGA	MAGA	PROPN	NNP	Number=Sing	0	root	_	start_char=248|end_char=252
+2	!	!	PUNCT	.	_	1	punct	_	start_char=252|end_char=253
+3	"	"	PUNCT	''	_	1	punct	_	start_char=253|end_char=254
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=256|end_char=260
+2	sort	sort	NOUN	NN	Number=Sing	0	root	_	start_char=261|end_char=265
+3	of	of	ADP	IN	_	9	case	_	start_char=266|end_char=268
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	amod	_	start_char=269|end_char=277
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=278|end_char=281
+6	intentionally	intentionally	ADV	RB	_	7	advmod	_	start_char=282|end_char=295
+7	thoughtless	thoughtless	ADJ	JJ	Degree=Pos	4	conj	_	start_char=296|end_char=307
+8	"	"	PUNCT	``	_	9	punct	_	start_char=308|end_char=309
+9	contradictions	contradiction	NOUN	NNS	Number=Plur	2	nmod	_	start_char=309|end_char=323
+10	"	"	PUNCT	''	_	9	punct	_	start_char=323|end_char=324
+
+1	Trump	Trump	PROPN	NNP	Number=Sing	2	compound	_	start_char=325|end_char=330
+2	supporters	supporter	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=331|end_char=341
+3	cry	cry	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=342|end_char=345
+4	about	about	SCONJ	IN	_	6	mark	_	start_char=346|end_char=351
+5	while	while	SCONJ	IN	_	6	mark	_	start_char=352|end_char=357
+6	opposing	oppose	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=358|end_char=366
+7	all	all	DET	DT	_	8	det	_	start_char=367|end_char=370
+8	masks	mask	NOUN	NNS	Number=Plur	6	obj	_	start_char=371|end_char=376
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=377|end_char=379
+10	vaccines	vaccine	NOUN	NNS	Number=Plur	8	conj	_	start_char=380|end_char=388
+11	?	?	PUNCT	.	_	3	punct	_	start_char=388|end_char=389
+
+1	Fucking	fucking	ADJ	JJ	Degree=Pos	2	amod	_	start_char=391|end_char=398
+2	morons	moron	NOUN	NNS	Number=Plur	0	root	_	start_char=399|end_char=405
+3	.	.	PUNCT	.	_	2	punct	_	start_char=405|end_char=406
+

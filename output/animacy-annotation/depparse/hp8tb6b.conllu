@@ -1,0 +1,23 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=5|end_char=7
+3	literally	literally	ADV	RB	_	10	advmod	_	start_char=8|end_char=17
+4	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=18|end_char=21
+5	most	most	ADV	RBS	_	6	advmod	_	start_char=22|end_char=26
+6	demonstrably	demonstrably	ADV	RB	_	7	advmod	_	start_char=27|end_char=39
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=40|end_char=48
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=49|end_char=52
+9	false	false	ADJ	JJ	Degree=Pos	7	conj	_	start_char=53|end_char=58
+10	statement	statement	NOUN	NN	Number=Sing	0	root	_	start_char=59|end_char=68
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=69|end_char=70
+12	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=71|end_char=75
+13	read	read	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	_	start_char=76|end_char=80
+14	today	today	NOUN	NN	Number=Sing	13	obl:tmod	_	start_char=81|end_char=86
+15	.	.	PUNCT	.	_	10	punct	_	start_char=86|end_char=87
+
+1	Reported	report	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=88|end_char=96
+2	for	for	ADP	IN	_	3	case	_	start_char=97|end_char=100
+3	choadism	choadism	NOUN	NN	Number=Sing	1	obl	_	start_char=101|end_char=109
+4	.	.	PUNCT	.	_	1	punct	_	start_char=109|end_char=110
+
+1	🤦🏽‍♂️🤡	🤦🏽‍♂️🤡	PROPN	NNP	Number=Sing	0	root	_	start_char=111|end_char=117
+

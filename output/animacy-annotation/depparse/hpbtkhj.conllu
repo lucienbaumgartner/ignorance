@@ -1,0 +1,22 @@
+1	Typical	Typical	ADJ	JJ	Degree=Pos	5	amod	_	start_char=0|end_char=7
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=8|end_char=16
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=17|end_char=20
+4	tough	tough	ADJ	JJ	Degree=Pos	2	conj	_	start_char=21|end_char=26
+5	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=34
+6	from	from	ADP	IN	_	7	case	_	start_char=35|end_char=39
+7	someone	someone	PRON	NN	Number=Sing	5	nmod	_	start_char=40|end_char=47
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=48|end_char=51
+9	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=52|end_char=57
+10	nothing	nothing	PRON	NN	Number=Sing	9	obj	_	start_char=58|end_char=65
+11	about	about	ADP	IN	_	12	case	_	start_char=66|end_char=71
+12	China	China	PROPN	NNP	Number=Sing	10	nmod	_	start_char=72|end_char=77
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=78|end_char=81
+14	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=82|end_char=85
+15	never	never	ADV	RB	_	17	advmod	_	start_char=86|end_char=91
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	17	cop	_	start_char=92|end_char=96
+17	there	there	ADV	RB	PronType=Dem	9	conj	_	start_char=97|end_char=102
+18	.	.	PUNCT	.	_	5	punct	_	start_char=102|end_char=103
+
+1	Bravo	Bravo	PROPN	NNP	Number=Sing	0	root	_	start_char=104|end_char=109
+2	!	!	PUNCT	.	_	1	punct	_	start_char=109|end_char=110
+

@@ -1,0 +1,22 @@
+1	Strange	strange	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=8|end_char=11
+3	all	all	PRON	PDT	_	5	det:predet	_	start_char=12|end_char=15
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=16|end_char=21
+5	anti-vaxxers	anti-vaxxer	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=22|end_char=34
+6	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=35|end_char=39
+7	to	to	PART	TO	_	10	mark	_	start_char=40|end_char=42
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=43|end_char=45
+9	both	both	CCONJ	CC	_	10	cc:preconj	_	start_char=46|end_char=50
+10	religious	religious	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=51|end_char=60
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=61|end_char=64
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=65|end_char=73
+13	of	of	ADP	IN	_	14	case	_	start_char=74|end_char=76
+14	science	science	NOUN	NN	Number=Sing	10	obl	_	start_char=77|end_char=84
+15	,	,	PUNCT	,	_	19	punct	_	start_char=84|end_char=85
+16	or	or	CCONJ	CC	_	19	cc	_	start_char=86|end_char=88
+17	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=89|end_char=91
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=92|end_char=93
+19	repeating	repeat	VERB	VBG	Tense=Pres|VerbForm=Part	1	conj	_	start_char=94|end_char=103
+20	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	19	obj	_	start_char=104|end_char=110
+21	?	?	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+

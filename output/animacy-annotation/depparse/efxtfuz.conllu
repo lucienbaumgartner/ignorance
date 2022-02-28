@@ -1,0 +1,27 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=6|end_char=8
+3	stating	state	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=9|end_char=16
+4	that	that	SCONJ	IN	_	12	mark	_	start_char=17|end_char=21
+5	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=22|end_char=28
+6	like	like	ADP	IN	_	8	case	_	start_char=29|end_char=33
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=34|end_char=37
+8	author	author	NOUN	NN	Number=Sing	5	nmod	_	start_char=38|end_char=44
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=45|end_char=48
+10	being	be	AUX	VBG	VerbForm=Ger	12	cop	_	start_char=49|end_char=54
+11	so	so	ADV	RB	_	12	advmod	_	start_char=55|end_char=57
+12	repulsive	repulsive	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=58|end_char=67
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=68|end_char=71
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=72|end_char=80
+15	that	that	SCONJ	IN	_	19	mark	_	start_char=81|end_char=85
+16	people	people	NOUN	NNS	Number=Plur	19	nsubj:pass	_	start_char=86|end_char=92
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux:pass	_	start_char=93|end_char=96
+18	actively	actively	ADV	RB	_	19	advmod	_	start_char=97|end_char=105
+19	repelled	repel	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	ccomp	_	start_char=106|end_char=114
+20	away	away	ADV	RB	_	19	advmod	_	start_char=115|end_char=119
+21	from	from	ADP	IN	_	22	case	_	start_char=120|end_char=124
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obl	_	start_char=125|end_char=129
+23	.	.	PUNCT	.	_	3	punct	_	start_char=129|end_char=130
+

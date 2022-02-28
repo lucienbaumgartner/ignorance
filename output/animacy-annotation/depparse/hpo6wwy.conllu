@@ -1,0 +1,24 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=12|end_char=15
+5	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=16|end_char=19
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=20|end_char=22
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=23|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	unable	unable	ADJ	JJ	Degree=Pos	7	conj	_	start_char=36|end_char=42
+10	to	to	PART	TO	_	11	mark	_	start_char=43|end_char=45
+11	understand	understand	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=46|end_char=56
+12	what	what	PRON	WP	PronType=Int	11	obj	_	start_char=57|end_char=61
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=62|end_char=63
+14	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=64|end_char=66
+15	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	12	acl:relcl	_	start_char=67|end_char=73
+16	.	.	PUNCT	.	_	4	punct	_	start_char=73|end_char=74
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=75|end_char=78
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=79|end_char=82
+3	continue	continue	VERB	VB	VerbForm=Inf	0	root	_	start_char=83|end_char=91
+4	staying	stay	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=92|end_char=99
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=100|end_char=108
+6	.	.	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+

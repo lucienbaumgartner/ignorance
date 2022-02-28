@@ -1,0 +1,12 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=4|end_char=7
+3	really	really	ADV	RB	_	5	advmod	_	start_char=8|end_char=14
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=15|end_char=19
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=20|end_char=27
+6	stupid	stupid	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=28|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=47
+9	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+10	history	history	NOUN	NN	Number=Sing	8	obl	_	start_char=51|end_char=58
+11	?	?	PUNCT	.	_	5	punct	_	start_char=58|end_char=59
+

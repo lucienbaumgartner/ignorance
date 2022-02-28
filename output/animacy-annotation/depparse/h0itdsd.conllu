@@ -1,0 +1,11 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=7
+3	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=31
+6	of	of	ADP	IN	_	9	case	_	start_char=32|end_char=34
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=35|end_char=38
+8	legal	legal	ADJ	JJ	Degree=Pos	9	amod	_	start_char=39|end_char=44
+9	system	system	NOUN	NN	Number=Sing	5	obl	_	start_char=45|end_char=51
+10	.	.	PUNCT	.	_	3	punct	_	start_char=51|end_char=52
+

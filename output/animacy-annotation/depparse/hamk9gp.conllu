@@ -1,0 +1,26 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	offended	offended	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=31
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=32|end_char=36
+8	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=37|end_char=43
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=44|end_char=47
+10	able	able	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=48|end_char=52
+11	to	to	PART	TO	_	12	mark	_	start_char=53|end_char=55
+12	click	click	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=56|end_char=61
+13	on	on	ADP	IN	_	15	case	_	start_char=62|end_char=64
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=65|end_char=69
+15	username	username	NOUN	NN	Number=Sing	12	obl	_	start_char=70|end_char=78
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=79|end_char=82
+17	see	see	VERB	VB	VerbForm=Inf	12	conj	_	start_char=83|end_char=86
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=87|end_char=91
+19	comment	comment	NOUN	NN	Number=Sing	20	compound	_	start_char=92|end_char=99
+20	history	history	NOUN	NN	Number=Sing	17	obj	_	start_char=100|end_char=107
+21	.	.	PUNCT	.	_	4	punct	_	start_char=107|end_char=108
+
+1	how	how	ADV	WRB	PronType=Int	0	root	_	start_char=109|end_char=112
+2	...	...	PUNCT	,	_	1	punct	_	start_char=113|end_char=116
+3	stereotypical	stereotypical	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=117|end_char=130
+

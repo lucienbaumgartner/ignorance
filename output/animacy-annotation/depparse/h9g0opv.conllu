@@ -1,0 +1,27 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=12
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=13|end_char=16
+5	moronic	moronic	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=17|end_char=24
+6	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=28|end_char=30
+8	to	to	PART	TO	_	9	mark	_	start_char=31|end_char=33
+9	post	post	VERB	VB	VerbForm=Inf	5	csubj	_	start_char=34|end_char=38
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=39|end_char=40
+11	link	link	NOUN	NN	Number=Sing	9	obj	_	start_char=41|end_char=45
+12	of	of	ADP	IN	_	15	case	_	start_char=46|end_char=48
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=49|end_char=52
+14	statistical	statistical	ADJ	JJ	Degree=Pos	15	amod	_	start_char=53|end_char=64
+15	correlations	correlation	NOUN	NNS	Number=Plur	11	nmod	_	start_char=65|end_char=77
+16	between	between	ADP	IN	_	17	case	_	start_char=78|end_char=85
+17	poverty	poverty	NOUN	NN	Number=Sing	15	nmod	_	start_char=86|end_char=93
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=94|end_char=97
+19	suicide	suicide	NOUN	NN	Number=Sing	17	conj	_	start_char=98|end_char=105
+20	,	,	PUNCT	,	_	22	punct	_	start_char=105|end_char=106
+21	so	so	ADV	RB	_	22	advmod	_	start_char=107|end_char=109
+22	privileged	privileged	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=110|end_char=120
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=121|end_char=124
+24	ignorant	ignorant	ADJ	JJ	Degree=Pos	22	conj	_	start_char=125|end_char=133
+25	of	of	ADP	IN	_	26	case	_	start_char=134|end_char=136
+26	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	24	obl	_	start_char=137|end_char=139
+

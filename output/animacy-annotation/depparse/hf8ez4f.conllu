@@ -1,0 +1,18 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=8
+3	've	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=8|end_char=11
+4	sold	sell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=16
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=17|end_char=21
+6	soul	soul	NOUN	NN	Number=Sing	4	obj	_	start_char=22|end_char=26
+7	for	for	ADP	IN	_	8	case	_	start_char=27|end_char=30
+8	something	something	PRON	NN	Number=Sing	4	obl	_	start_char=31|end_char=40
+9	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=41|end_char=45
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=46|end_char=49
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	_	start_char=50|end_char=54
+12	younger	young	ADJ	JJR	Degree=Cmp	4	advcl	_	start_char=55|end_char=62
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=63|end_char=66
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=67|end_char=74
+15	of	of	ADP	IN	_	17	case	_	start_char=75|end_char=77
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=78|end_char=81
+17	consequences	consequence	NOUN	NNS	Number=Plur	14	obl	_	start_char=82|end_char=94
+

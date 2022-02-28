@@ -1,0 +1,45 @@
+1	Should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=0|end_char=6
+2	have	have	AUX	VB	VerbForm=Inf	3	aux	_	start_char=7|end_char=11
+3	reported	report	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=20
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=21|end_char=24
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=25|end_char=27
+6	confronted	confront	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=28|end_char=38
+7	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=39|end_char=42
+8	.	.	PUNCT	.	_	3	punct	_	start_char=42|end_char=43
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=45|end_char=46
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=46|end_char=49
+3	found	find	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=50|end_char=55
+4	that	that	SCONJ	IN	_	9	mark	_	start_char=56|end_char=60
+5	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=61|end_char=66
+6	Boomers	Boomers	PROPN	NNPS	Number=Plur	9	nsubj	_	start_char=67|end_char=74
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=75|end_char=78
+8	so	so	ADV	RB	_	9	advmod	_	start_char=79|end_char=81
+9	entitled	entitled	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=82|end_char=90
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=91|end_char=94
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=95|end_char=103
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=104|end_char=108
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=109|end_char=113
+14	freak	freak	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=114|end_char=119
+15	out	out	ADP	RP	_	14	compound:prt	_	start_char=120|end_char=123
+16	or	or	CCONJ	CC	_	17	cc	_	start_char=124|end_char=126
+17	freeze	freeze	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	start_char=127|end_char=133
+18	up	up	ADP	RP	_	17	compound:prt	_	start_char=134|end_char=136
+19	when	when	SCONJ	WRB	PronType=Int	20	mark	_	start_char=137|end_char=141
+20	confronted	confront	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	_	start_char=142|end_char=152
+21	with	with	ADP	IN	_	23	case	_	start_char=153|end_char=157
+22	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=158|end_char=163
+23	BS	bs	NOUN	NN	Number=Sing	20	obl	_	start_char=164|end_char=166
+24	.	.	PUNCT	.	_	3	punct	_	start_char=166|end_char=167
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=168|end_char=172
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=173|end_char=179
+3	stand	stand	VERB	VB	VerbForm=Inf	0	root	_	start_char=180|end_char=185
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=186|end_char=191
+5	wrong	wrong	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=192|end_char=197
+6	even	even	ADV	RB	_	9	advmod	_	start_char=198|end_char=202
+7	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=203|end_char=207
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=208|end_char=212
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=213|end_char=216
+10	.	.	PUNCT	.	_	3	punct	_	start_char=216|end_char=217
+

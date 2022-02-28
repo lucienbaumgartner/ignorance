@@ -1,0 +1,16 @@
+1	"	"	PUNCT	``	_	4	punct	_	start_char=0|end_char=1
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1|end_char=2
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=5
+4	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=12
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=13|end_char=16
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=17|end_char=25
+7	,	,	PUNCT	,	_	10	punct	_	start_char=25|end_char=26
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=27|end_char=30
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=31|end_char=32
+10	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=33|end_char=37
+11	to	to	PART	TO	_	12	mark	_	start_char=38|end_char=40
+12	stay	stay	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=41|end_char=45
+13	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=46|end_char=50
+14	way	way	NOUN	NN	Number=Sing	12	obl:npmod	_	start_char=51|end_char=54
+15	"	"	PUNCT	''	_	4	punct	_	start_char=54|end_char=55
+

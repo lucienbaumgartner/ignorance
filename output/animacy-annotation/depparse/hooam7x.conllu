@@ -1,0 +1,32 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	that	that	SCONJ	IN	_	9	mark	_	start_char=7|end_char=11
+4	so	so	ADV	RB	_	5	advmod	_	start_char=12|end_char=14
+5	many	many	ADJ	JJ	Degree=Pos	6	amod	_	start_char=15|end_char=19
+6	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=20|end_char=26
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=27|end_char=30
+8	still	still	ADV	RB	_	9	advmod	_	start_char=31|end_char=36
+9	unaware	unaware	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=37|end_char=44
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=45|end_char=48
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=49|end_char=57
+12	to	to	ADP	IN	_	13	case	_	start_char=58|end_char=60
+13	NFT	NFT	PROPN	NNP	Number=Sing	9	obl	_	start_char=61|end_char=64
+14	’s	's	PART	POS	_	13	case	_	start_char=64|end_char=66
+15	.	.	PUNCT	.	_	2	punct	_	start_char=66|end_char=67
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=69|end_char=71
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=72|end_char=77
+3	there	there	PRON	EX	_	4	expl	_	start_char=78|end_char=83
+4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=83|end_char=85
+5	still	still	ADV	RB	_	4	advmod	_	start_char=86|end_char=91
+6	time	time	NOUN	NN	Number=Sing	4	nsubj	_	start_char=92|end_char=96
+7	for	for	SCONJ	IN	_	11	mark	_	start_char=97|end_char=100
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	nmod	_	start_char=101|end_char=103
+9	all	all	DET	DT	_	8	det	_	start_char=104|end_char=107
+10	to	to	PART	TO	_	11	mark	_	start_char=108|end_char=110
+11	fill	fill	VERB	VB	VerbForm=Inf	6	acl	_	start_char=111|end_char=115
+12	up	up	ADP	RP	_	11	compound:prt	_	start_char=116|end_char=118
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=119|end_char=122
+14	bags	bag	NOUN	NNS	Number=Plur	11	obj	_	start_char=123|end_char=127
+15	!	!	PUNCT	.	_	2	punct	_	start_char=127|end_char=128
+

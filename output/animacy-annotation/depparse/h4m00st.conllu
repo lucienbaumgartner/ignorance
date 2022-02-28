@@ -1,0 +1,80 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Kate	Kate	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=4|end_char=8
+2	questioned	question	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=19
+3	why	why	SCONJ	WRB	PronType=Int	7	mark	_	start_char=20|end_char=23
+4	OP	OP	PROPN	NNP	Number=Sing	7	nsubj:pass	_	start_char=24|end_char=26
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	start_char=27|end_char=30
+6	n't	not	PART	RB	_	7	advmod	_	start_char=30|end_char=33
+7	motivated	motivate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=34|end_char=43
+8	by	by	ADP	IN	_	9	case	_	start_char=44|end_char=46
+9	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=47|end_char=50
+10	,	,	PUNCT	,	_	12	punct	_	start_char=50|end_char=51
+11	to	to	PART	TO	_	12	mark	_	start_char=52|end_char=54
+12	want	want	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=55|end_char=59
+13	to	to	PART	TO	_	14	mark	_	start_char=60|end_char=62
+14	give	give	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=63|end_char=67
+15	more	more	ADJ	JJR	Degree=Cmp	14	obj	_	start_char=68|end_char=72
+16	,	,	PUNCT	,	_	2	punct	_	start_char=72|end_char=73
+
+1	I.....	i.....	NOUN	NN	Number=Sing	2	compound	_	start_char=75|end_char=81
+2	I......😳	i......😳	NOUN	NN	Number=Sing	0	root	_	start_char=81|end_char=89
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=90|end_char=91
+2	just	just	ADV	RB	_	5	advmod	_	start_char=92|end_char=96
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=97|end_char=99
+4	n't	not	PART	RB	_	5	advmod	_	start_char=99|end_char=102
+5	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=103|end_char=106
+6	over	over	ADP	IN	_	8	mark	_	start_char=107|end_char=111
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=112|end_char=115
+8	selfish	selfish	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=116|end_char=123
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=124|end_char=127
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=128|end_char=136
+11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=137|end_char=141
+12	question	question	NOUN	NN	Number=Sing	13	nsubj	_	start_char=142|end_char=150
+13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=151|end_char=153
+14	.	.	PUNCT	.	_	5	punct	_	start_char=153|end_char=154
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=155|end_char=156
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=157|end_char=162
+3	NEVER	never	ADV	RB	_	4	advmod	_	start_char=163|end_char=168
+4	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	start_char=169|end_char=172
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=173|end_char=175
+6	husband	husband	NOUN	NN	Number=Sing	4	obj	_	start_char=176|end_char=183
+7	why	why	SCONJ	WRB	PronType=Int	11	mark	_	start_char=184|end_char=187
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj:pass	_	start_char=188|end_char=190
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	start_char=191|end_char=194
+10	n't	not	PART	RB	_	11	advmod	_	start_char=194|end_char=197
+11	motivated	motivate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	start_char=198|end_char=207
+12	by	by	ADP	IN	_	13	case	_	start_char=208|end_char=210
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obl	_	start_char=211|end_char=213
+14	because	because	SCONJ	IN	_	17	mark	_	start_char=214|end_char=221
+15	someone	someone	PRON	NN	Number=Sing	17	nsubj	_	start_char=222|end_char=229
+16	else	else	ADJ	JJ	Degree=Pos	15	amod	_	start_char=230|end_char=234
+17	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=235|end_char=239
+18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=240|end_char=245
+19	wife	wife	NOUN	NN	Number=Sing	17	iobj	_	start_char=246|end_char=250
+20	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=251|end_char=252
+21	better	good	ADJ	JJR	Degree=Cmp	22	amod	_	start_char=253|end_char=259
+22	ring	ring	NOUN	NN	Number=Sing	17	obj	_	start_char=260|end_char=264
+23	/	/	SYM	,	_	24	cc	_	start_char=264|end_char=265
+24	car	car	NOUN	NN	Number=Sing	22	conj	_	start_char=265|end_char=268
+25	/	/	SYM	,	_	26	cc	_	start_char=268|end_char=269
+26	gift	gift	NOUN	NN	Number=Sing	22	conj	_	start_char=269|end_char=273
+27	.	.	PUNCT	.	_	4	punct	_	start_char=273|end_char=274
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=275|end_char=278
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=279|end_char=286
+3	crass	crass	ADJ	JJ	Degree=Pos	2	obj	_	start_char=287|end_char=292
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=293|end_char=296
+5	greedy	greedy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=297|end_char=303
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=304|end_char=305
+7	question	question	NOUN	NN	Number=Sing	10	nsubj	_	start_char=306|end_char=314
+8	like	like	ADP	IN	_	9	case	_	start_char=315|end_char=319
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nmod	_	start_char=320|end_char=324
+10	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=325|end_char=331
+11	.	.	PUNCT	.	_	10	punct	_	start_char=331|end_char=332
+
+1	😒	😒	PROPN	NNP	Number=Sing	0	root	_	start_char=333|end_char=334
+

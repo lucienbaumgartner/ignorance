@@ -1,0 +1,22 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	not	not	PART	RB	_	4	advmod	_	start_char=5|end_char=8
+4	worth	worth	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=14
+5	debating	debate	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=15|end_char=23
+6	with	with	ADP	IN	_	7	case	_	start_char=24|end_char=28
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=29|end_char=32
+8	.	.	PUNCT	.	_	4	punct	_	start_char=32|end_char=33
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=34|end_char=38
+2	comment	comment	NOUN	NN	Number=Sing	4	nsubj	_	start_char=39|end_char=46
+3	just	just	ADV	RB	_	4	advmod	_	start_char=47|end_char=51
+4	proves	prove	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=58
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=59|end_char=62
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=63|end_char=70
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=71|end_char=74
+8	dumb	dumb	ADJ	JJ	Degree=Pos	6	conj	_	start_char=75|end_char=79
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=80|end_char=83
+10	actually	actually	ADV	RB	_	11	advmod	_	start_char=84|end_char=92
+11	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=93|end_char=96
+12	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+

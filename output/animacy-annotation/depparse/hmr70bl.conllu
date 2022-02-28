@@ -1,0 +1,53 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	title	title	NOUN	NN	Number=Sing	6	nsubj	_	start_char=4|end_char=9
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=12
+4	not	not	PART	RB	_	6	advmod	_	start_char=13|end_char=16
+5	necessarily	necessarily	ADV	RB	_	6	advmod	_	start_char=17|end_char=28
+6	correct	correct	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=36
+7	.	.	PUNCT	.	_	6	punct	_	start_char=36|end_char=37
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=38|end_char=39
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=40|end_char=45
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=46|end_char=49
+4	kid	kid	NOUN	NN	Number=Sing	8	nsubj:pass	_	start_char=50|end_char=53
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	start_char=54|end_char=57
+6	pretty	pretty	ADV	RB	_	7	advmod	_	start_char=58|end_char=64
+7	badly	badly	ADV	RB	Degree=Pos	8	advmod	_	start_char=65|end_char=70
+8	injured	injure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=71|end_char=78
+9	,	,	PUNCT	,	_	2	punct	_	start_char=78|end_char=79
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=80|end_char=84
+11	just	just	ADV	RB	_	14	advmod	_	start_char=85|end_char=89
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=90|end_char=92
+13	n't	not	PART	RB	_	14	advmod	_	start_char=92|end_char=95
+14	know	know	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=96|end_char=100
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=101|end_char=103
+16	yet	yet	ADV	RB	_	14	advmod	_	start_char=104|end_char=107
+17	.	.	PUNCT	.	_	2	punct	_	start_char=107|end_char=108
+
+1	Also	also	ADV	RB	_	2	advmod	_	start_char=109|end_char=113
+2	what	what	PRON	WP	PronType=Int	6	obl	_	start_char=114|end_char=118
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=119|end_char=122
+4	fuck	fuck	NOUN	NN	Number=Sing	6	nsubj	_	start_char=123|end_char=127
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=128|end_char=130
+6	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=131|end_char=136
+7	with	with	ADP	IN	_	9	case	_	start_char=137|end_char=141
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=142|end_char=146
+9	driver	driver	NOUN	NN	Number=Sing	6	obl	_	start_char=147|end_char=153
+10	.	.	PUNCT	.	_	2	punct	_	start_char=153|end_char=154
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=155|end_char=158
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=159|end_char=163
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=164|end_char=174
+4	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=175|end_char=180
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=181|end_char=184
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=185|end_char=192
+7	of	of	ADP	IN	_	9	case	_	start_char=193|end_char=195
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=196|end_char=201
+9	surroundings	surroundings	NOUN	NNS	Number=Plur	6	obl	_	start_char=202|end_char=214
+10	or	or	CCONJ	CC	_	11	cc	_	start_char=215|end_char=217
+11	what	what	PRON	WP	PronType=Int	9	conj	_	start_char=218|end_char=222
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=223|end_char=227
+13	just	just	ADV	RB	_	14	advmod	_	start_char=228|end_char=232
+14	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	acl:relcl	_	start_char=233|end_char=236
+15	?	?	PUNCT	.	_	4	punct	_	start_char=236|end_char=237
+

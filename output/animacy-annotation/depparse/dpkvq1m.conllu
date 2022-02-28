@@ -1,0 +1,28 @@
+1	and	and	CCONJ	CC	_	6	cc	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=4|end_char=7
+3	Clinton	Clinton	PROPN	NNP	Number=Sing	5	compound	_	start_char=8|end_char=15
+4	camp	camp	NOUN	NN	Number=Sing	3	flat	_	start_char=16|end_char=20
+5	verbatim	verbatim	NOUN	NN	Number=Sing	6	nsubj	_	start_char=21|end_char=29
+6	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=30|end_char=36
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=37|end_char=42
+8	supporters	supporter	NOUN	NNS	Number=Plur	6	obj	_	start_char=43|end_char=53
+9	to	to	PART	TO	_	10	mark	_	start_char=54|end_char=56
+10	remain	remain	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=57|end_char=63
+11	"	"	PUNCT	``	_	16	punct	_	start_char=64|end_char=65
+12	an	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=65|end_char=67
+13	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=68|end_char=75
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=76|end_char=79
+15	compliant	compliant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=80|end_char=89
+16	citizenry	citizenry	NOUN	NN	Number=Sing	10	xcomp	_	start_char=90|end_char=99
+17	"	"	PUNCT	''	_	16	punct	_	start_char=99|end_char=100
+
+1	&amp;nbsp	&amp;nbsp	NOUN	NN	Number=Sing	0	root	_	start_char=102|end_char=111
+2	;	;	PUNCT	:	_	1	punct	_	start_char=111|end_char=112
+
+1	lemming	lemming	NOUN	NN	Number=Sing	2	compound	_	start_char=114|end_char=121
+2	movements	movement	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=122|end_char=131
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=132|end_char=135
+4	n't	not	PART	RB	_	6	advmod	_	start_char=135|end_char=138
+5	solely	solely	ADV	RB	_	6	advmod	_	start_char=139|end_char=145
+6	religious	religious	ADJ	JJ	Degree=Pos	0	root	_	start_char=146|end_char=155
+

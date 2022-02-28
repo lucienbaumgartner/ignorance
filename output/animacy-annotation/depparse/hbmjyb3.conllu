@@ -1,0 +1,45 @@
+1	Wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=5|end_char=8
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=9|end_char=11
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=12|end_char=13
+5	need	need	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=14|end_char=18
+6	to	to	PART	TO	_	7	mark	_	start_char=19|end_char=21
+7	die	die	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=22|end_char=25
+8	lmao	lmao	ADV	RB	_	7	advmod	_	start_char=26|end_char=30
+9	?	?	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=32|end_char=33
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=39
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=40|end_char=43
+4	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=44|end_char=48
+5	some	some	DET	DT	_	10	det	_	start_char=49|end_char=53
+6	serious	serious	ADJ	JJ	Degree=Pos	10	amod	_	start_char=54|end_char=61
+7	mental	mental	ADJ	JJ	Degree=Pos	10	amod	_	start_char=62|end_char=68
+8	check	check	NOUN	NN	Number=Sing	10	compound	_	start_char=69|end_char=74
+9	-	-	PUNCT	HYPH	_	10	punct	_	start_char=74|end_char=75
+10	up	up	NOUN	NN	Number=Sing	4	obj	_	start_char=75|end_char=77
+11	for	for	ADP	IN	_	13	case	_	start_char=78|end_char=81
+12	that	that	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=82|end_char=86
+13	breakdown	breakdown	NOUN	NN	Number=Sing	10	nmod	_	start_char=87|end_char=96
+14	.	.	PUNCT	.	_	2	punct	_	start_char=96|end_char=97
+
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=99|end_char=104
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=105|end_char=108
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=108|end_char=111
+4	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=112|end_char=115
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=116|end_char=119
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=120|end_char=127
+7	of	of	ADP	IN	_	8	case	_	start_char=128|end_char=130
+8	LMGTFY	LMGTFY	PROPN	NNP	Number=Sing	6	obl	_	start_char=131|end_char=137
+9	but	but	CCONJ	CC	_	18	cc	_	start_char=138|end_char=141
+10	then	then	ADV	RB	PronType=Dem	18	advmod	_	start_char=142|end_char=146
+11	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	start_char=147|end_char=150
+12	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=150|end_char=153
+13	just	just	ADV	RB	_	18	advmod	_	start_char=154|end_char=158
+14	being	be	AUX	VBG	VerbForm=Ger	18	cop	_	start_char=159|end_char=164
+15	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=165|end_char=166
+16	needlessly	needlessly	ADV	RB	_	17	advmod	_	start_char=167|end_char=177
+17	edgy	edgy	ADJ	JJ	Degree=Pos	18	amod	_	start_char=178|end_char=182
+18	adolescent	adolescent	ADJ	JJ	Degree=Pos	4	conj	_	start_char=183|end_char=193
+19	.	.	PUNCT	.	_	4	punct	_	start_char=193|end_char=194
+

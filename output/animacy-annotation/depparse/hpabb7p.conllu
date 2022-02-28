@@ -1,0 +1,46 @@
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=0|end_char=3
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=4|end_char=10
+3	still	still	ADV	RB	Degree=Pos	4	advmod	_	start_char=11|end_char=16
+4	hate	hate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	complain	complain	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=26|end_char=34
+7	about	about	ADP	IN	_	8	case	_	start_char=35|end_char=40
+8	everything	everything	NOUN	NN	Number=Sing	6	obl	_	start_char=41|end_char=51
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=52|end_char=56
+10	ca	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=57|end_char=59
+11	n’t	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=59|end_char=62
+12	just	just	ADV	RB	_	13	advmod	_	start_char=63|end_char=67
+13	roll	roll	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=68|end_char=72
+14	keyboards	keyboard	NOUN	NNS	Number=Plur	13	obj	_	start_char=73|end_char=82
+15	over	over	ADP	RP	_	13	compound:prt	_	start_char=83|end_char=87
+16	without	without	SCONJ	IN	_	17	mark	_	start_char=88|end_char=95
+17	thinking	think	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=96|end_char=104
+18	.	.	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+
+1	Say	say	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=106|end_char=109
+2	all	all	DET	DT	_	1	obj	_	start_char=110|end_char=113
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=114|end_char=117
+4	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=118|end_char=122
+5	,	,	PUNCT	,	_	8	punct	_	start_char=122|end_char=123
+6	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=124|end_char=128
+7	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=128|end_char=131
+8	change	change	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=132|end_char=138
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj:pass	_	start_char=139|end_char=142
+10	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=142|end_char=145
+11	closed	close	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	ccomp	_	start_char=146|end_char=152
+12	minded	minded	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=153|end_char=159
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=160|end_char=163
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=164|end_char=172
+15	.	.	PUNCT	.	_	1	punct	_	start_char=172|end_char=173
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=177|end_char=180
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=181|end_char=184
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=184|end_char=187
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=188|end_char=189
+5	strag	strag	NOUN	NN	Number=Sing	0	root	_	start_char=190|end_char=195
+6	,	,	PUNCT	,	_	5	punct	_	start_char=195|end_char=196
+7	stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	5	parataxis	_	start_char=197|end_char=201
+8	mad	mad	ADJ	JJ	Degree=Pos	9	amod	_	start_char=202|end_char=205
+9	worstie	worstie	NOUN	NN	Number=Sing	7	obj	_	start_char=206|end_char=213
+10	💅	''	PUNCT	.	_	5	punct	_	start_char=214|end_char=215
+

@@ -1,0 +1,30 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	right	right	NOUN	NN	Number=Sing	7	nsubj	_	start_char=5|end_char=10
+3	…	…	PUNCT	,	_	2	punct	_	start_char=10|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=11|end_char=14
+5	government	government	NOUN	NN	Number=Sing	2	appos	_	start_char=15|end_char=25
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=26|end_char=29
+7	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=38
+8	,	,	PUNCT	,	_	10	punct	_	start_char=38|end_char=39
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=52
+11	of	of	ADP	IN	_	12	case	_	start_char=53|end_char=55
+12	things	thing	NOUN	NNS	Number=Plur	10	obl	_	start_char=56|end_char=62
+13	going	go	VERB	VBG	VerbForm=Ger	12	acl	_	start_char=63|end_char=68
+14	on	on	ADP	RP	_	13	compound:prt	_	start_char=69|end_char=71
+15	outside	outside	ADP	IN	_	17	case	_	start_char=72|end_char=79
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=80|end_char=83
+17	M25	M25	PROPN	NNP	Number=Sing	13	obl	_	start_char=84|end_char=87
+18	.	.	PUNCT	.	_	7	punct	_	start_char=87|end_char=88
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=89|end_char=93
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=94|end_char=96
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=97|end_char=100
+4	fruit	fruit	NOUN	NN	Number=Sing	0	root	_	start_char=101|end_char=106
+5	of	of	ADP	IN	_	7	case	_	start_char=107|end_char=109
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=110|end_char=114
+7	arrogance	arrogance	NOUN	NN	Number=Sing	4	nmod	_	start_char=115|end_char=124
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=125|end_char=128
+9	ignorance	ignorance	NOUN	NN	Number=Sing	7	conj	_	start_char=129|end_char=138
+10	.	.	PUNCT	.	_	4	punct	_	start_char=138|end_char=139
+

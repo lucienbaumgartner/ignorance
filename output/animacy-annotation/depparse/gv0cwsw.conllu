@@ -1,0 +1,100 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=7|end_char=10
+4	all	all	DET	DT	_	3	det	_	start_char=11|end_char=14
+5	enjoy	enjoy	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=15|end_char=20
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=21|end_char=25
+7	covid	covid	NOUN	NN	Number=Sing	8	compound	_	start_char=26|end_char=31
+8	prison	prison	NOUN	NN	Number=Sing	5	obj	_	start_char=32|end_char=38
+9	.	.	PUNCT	.	_	2	punct	_	start_char=38|end_char=39
+
+1	Even	even	ADV	RB	_	4	advmod	_	start_char=40|end_char=44
+2	with	with	ADP	IN	_	4	case	_	start_char=45|end_char=49
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=50|end_char=51
+4	vaccine	vaccine	NOUN	NN	Number=Sing	10	obl	_	start_char=52|end_char=59
+5	,	,	PUNCT	,	_	10	punct	_	start_char=59|end_char=60
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=61|end_char=64
+7	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=64|end_char=67
+8	all	all	DET	DT	_	10	det	_	start_char=68|end_char=71
+9	nut	nut	NOUN	NN	Number=Sing	10	compound	_	start_char=72|end_char=75
+10	cases	case	NOUN	NNS	Number=Plur	0	root	_	start_char=76|end_char=81
+11	.	.	PUNCT	.	_	10	punct	_	start_char=81|end_char=82
+
+1	Stay	stay	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=83|end_char=87
+2	home	home	ADV	RB	_	1	advmod	_	start_char=88|end_char=92
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=93|end_char=96
+4	stitch	stitch	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=97|end_char=103
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=104|end_char=108
+6	masks	mask	NOUN	NNS	Number=Plur	4	obj	_	start_char=109|end_char=114
+7	to	to	ADP	IN	_	9	case	_	start_char=115|end_char=117
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=118|end_char=122
+9	faces	face	NOUN	NNS	Number=Plur	4	obl	_	start_char=123|end_char=128
+10	.	.	PUNCT	.	_	1	punct	_	start_char=128|end_char=129
+
+1	Covid	Covid	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=130|end_char=135
+2	rains	rain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=137|end_char=142
+3	from	from	ADP	IN	_	5	case	_	start_char=143|end_char=147
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=148|end_char=151
+5	sky	sky	NOUN	NN	Number=Sing	2	obl	_	start_char=152|end_char=155
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=156|end_char=159
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=160|end_char=162
+8	contagious	contagious	ADJ	JJ	Degree=Pos	2	conj	_	start_char=163|end_char=173
+9	in	in	ADP	IN	_	11	case	_	start_char=175|end_char=177
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=178|end_char=182
+11	car	car	NOUN	NN	Number=Sing	8	obl	_	start_char=183|end_char=186
+12	while	while	SCONJ	IN	_	13	mark	_	start_char=187|end_char=192
+13	driving	drive	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=193|end_char=200
+14	alone	alone	ADV	RB	_	13	advmod	_	start_char=201|end_char=206
+15	.	.	PUNCT	.	_	2	punct	_	start_char=206|end_char=207
+
+1	Right	right	ADV	RB	_	0	root	_	start_char=208|end_char=213
+2	?	?	PUNCT	.	_	1	punct	_	start_char=213|end_char=214
+
+1	Omg	omg	INTJ	UH	_	0	root	_	start_char=216|end_char=219
+2	!	!	PUNCT	.	_	1	punct	_	start_char=219|end_char=220
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=222|end_char=225
+2	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=226|end_char=228
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=228|end_char=231
+4	even	even	ADV	RB	_	5	advmod	_	start_char=232|end_char=236
+5	respond	respond	VERB	VB	VerbForm=Inf	0	root	_	start_char=237|end_char=244
+6	rationally	rationally	ADV	RB	Degree=Pos	5	advmod	_	start_char=245|end_char=255
+7	.	.	PUNCT	.	_	5	punct	_	start_char=255|end_char=256
+
+1	Uneducated	Uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=259|end_char=269
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=270|end_char=273
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=274|end_char=282
+4	of	of	ADP	IN	_	5	case	_	start_char=283|end_char=285
+5	science	science	NOUN	NN	Number=Sing	1	obl	_	start_char=286|end_char=293
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=294|end_char=296
+7	facts	fact	NOUN	NNS	Number=Plur	5	conj	_	start_char=297|end_char=302
+8	.	.	PUNCT	.	_	1	punct	_	start_char=302|end_char=303
+
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	start_char=304|end_char=306
+2	NOT	not	PART	RB	_	3	advmod	_	start_char=307|end_char=310
+3	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=311|end_char=315
+4	on	on	ADP	IN	_	5	case	_	start_char=316|end_char=318
+5	here	here	ADV	RB	PronType=Dem	3	obl	_	start_char=319|end_char=323
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=324|end_char=327
+7	whine	whine	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	start_char=328|end_char=333
+8	about	about	ADP	IN	_	10	case	_	start_char=334|end_char=339
+9	adverse	adverse	ADJ	JJ	Degree=Pos	10	amod	_	start_char=340|end_char=347
+10	reactions	reaction	NOUN	NNS	Number=Plur	7	obl	_	start_char=348|end_char=357
+11	to	to	ADP	IN	_	14	case	_	start_char=358|end_char=360
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=361|end_char=364
+13	covid	covid	NOUN	NN	Number=Sing	14	compound	_	start_char=365|end_char=370
+14	vaccines	vaccine	NOUN	NNS	Number=Plur	10	nmod	_	start_char=371|end_char=379
+15	.	.	PUNCT	.	_	3	punct	_	start_char=379|end_char=380
+
+1	Ever	ever	ADV	RB	_	0	root	_	start_char=381|end_char=385
+2	!!!	!!!	PUNCT	.	_	1	punct	_	start_char=385|end_char=388
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=389|end_char=393
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=394|end_char=399
+3	10	10	NUM	CD	NumType=Card	4	nummod	_	start_char=400|end_char=402
+4	years	year	NOUN	NNS	Number=Plur	2	obj	_	start_char=403|end_char=408
+5	.	.	PUNCT	.	_	2	punct	_	start_char=408|end_char=409
+
+1	Ciao	Ciao	PROPN	NNP	Number=Sing	0	root	_	start_char=411|end_char=415
+2	🐑🐑🐑🐑🐑	🐑🐑🐑🐑🐑	PROPN	NNP	Number=Sing	1	flat	_	start_char=417|end_char=422
+

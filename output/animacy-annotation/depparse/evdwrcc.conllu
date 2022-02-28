@@ -1,0 +1,56 @@
+1	Hahahaha	hahahaha	INTJ	UH	_	3	discourse	_	start_char=0|end_char=8
+2	holy	holy	ADJ	JJ	Degree=Pos	3	amod	_	start_char=9|end_char=13
+3	fuck	fuck	INTJ	UH	_	0	root	_	start_char=14|end_char=18
+4	.	.	PUNCT	.	_	3	punct	_	start_char=18|end_char=19
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=20|end_char=27
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=28|end_char=33
+3	so	so	ADV	RB	_	4	advmod	_	start_char=34|end_char=36
+4	gullible	gullible	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=37|end_char=45
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=46|end_char=49
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=50|end_char=58
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=59|end_char=63
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=64|end_char=67
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=68|end_char=73
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=75|end_char=79
+11	moron	moron	NOUN	NN	Number=Sing	12	nsubj	_	start_char=80|end_char=85
+12	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	ccomp	_	start_char=86|end_char=90
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=91|end_char=92
+14	good	good	ADJ	JJ	Degree=Pos	15	amod	_	start_char=93|end_char=97
+15	point	point	NOUN	NN	Number=Sing	12	obj	_	start_char=98|end_char=103
+16	here	here	ADV	RB	PronType=Dem	12	advmod	_	start_char=104|end_char=108
+17	.	.	PUNCT	.	_	1	punct	_	start_char=108|end_char=109
+
+1	Which	which	DET	WDT	PronType=Int	2	det	_	start_char=110|end_char=115
+2	one	one	NUM	CD	NumType=Card	7	nsubj:pass	_	start_char=116|end_char=119
+3	of	of	ADP	IN	_	5	case	_	start_char=120|end_char=122
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=123|end_char=128
+5	people	people	NOUN	NNS	Number=Plur	2	nmod	_	start_char=129|end_char=135
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux:pass	_	start_char=136|end_char=140
+7	proven	prove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=141|end_char=147
+8	right	right	ADV	RB	_	10	advmod	_	start_char=148|end_char=153
+9	by	by	ADP	IN	_	10	case	_	start_char=154|end_char=156
+10	Mueller	Mueller	PROPN	NNP	Number=Sing	7	obl	_	start_char=157|end_char=164
+11	again	again	ADV	RB	_	7	advmod	_	start_char=165|end_char=170
+12	?	?	PUNCT	.	_	7	punct	_	start_char=170|end_char=171
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=172|end_char=175
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=176|end_char=178
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=179|end_char=182
+4	moron	moron	NOUN	NN	Number=Sing	0	root	_	start_char=183|end_char=188
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=189|end_char=192
+6	kept	keep	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=193|end_char=197
+7	telling	tell	VERB	VBG	VerbForm=Ger	6	xcomp	_	start_char=198|end_char=205
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	start_char=206|end_char=208
+9	donald	donald	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=209|end_char=215
+10	trump	trump	PROPN	NNP	Number=Sing	9	flat	_	start_char=216|end_char=221
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	start_char=222|end_char=225
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=226|end_char=227
+13	russian	russian	ADJ	JJ	Degree=Pos	14	amod	_	start_char=228|end_char=235
+14	spy	spy	NOUN	NN	Number=Sing	7	ccomp	_	start_char=236|end_char=239
+15	or	or	CCONJ	CC	_	18	cc	_	start_char=240|end_char=242
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=243|end_char=246
+17	other	other	ADJ	JJ	Degree=Pos	18	amod	_	start_char=247|end_char=252
+18	one	one	NOUN	NN	Number=Sing	14	conj	_	start_char=253|end_char=256
+19	?	?	PUNCT	.	_	4	punct	_	start_char=256|end_char=257
+

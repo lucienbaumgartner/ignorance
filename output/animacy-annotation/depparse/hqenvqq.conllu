@@ -1,0 +1,15 @@
+1	So	so	ADV	RB	_	11	advmod	_	start_char=0|end_char=2
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=3|end_char=6
+3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	_	start_char=7|end_char=13
+4	population	population	NOUN	NN	Number=Sing	11	nsubj	_	start_char=14|end_char=24
+5	of	of	ADP	IN	_	8	case	_	start_char=25|end_char=27
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=28|end_char=31
+7	Bible	Bible	PROPN	NNP	Number=Sing	8	compound	_	start_char=32|end_char=37
+8	Belt	Belt	PROPN	NNP	Number=Sing	4	nmod	_	start_char=38|end_char=42
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=43|end_char=45
+10	fundamentally	fundamentally	ADV	RB	_	11	advmod	_	start_char=46|end_char=59
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=60|end_char=68
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=69|end_char=72
+13	fascist	fascist	ADJ	JJ	Degree=Pos	11	conj	_	start_char=73|end_char=80
+14	?	?	PUNCT	.	_	11	punct	_	start_char=80|end_char=81
+

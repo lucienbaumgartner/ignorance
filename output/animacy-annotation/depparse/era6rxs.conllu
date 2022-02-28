@@ -1,0 +1,12 @@
+1	Exactly	exactly	ADV	RB	_	0	root	_	start_char=0|end_char=7
+2	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	7	amod	_	start_char=9|end_char=16
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=17|end_char=20
+3	socially	socially	ADV	RB	_	4	advmod	_	start_char=21|end_char=29
+4	awkward	awkward	ADJ	JJ	Degree=Pos	1	conj	_	start_char=30|end_char=37
+5	/	/	SYM	,	_	6	cc	_	start_char=37|end_char=38
+6	inept	inept	ADJ	JJ	Degree=Pos	1	conj	_	start_char=38|end_char=43
+7	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=44|end_char=50
+8	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=53
+

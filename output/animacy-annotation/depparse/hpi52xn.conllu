@@ -1,0 +1,22 @@
+1	Damn	damn	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	i’d	i’d	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=5|end_char=8
+3	prefer	prefer	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=15
+4	if	if	SCONJ	IN	_	6	mark	_	start_char=16|end_char=18
+5	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=19|end_char=25
+6	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=26|end_char=30
+7	u	u	PRON	PRP	PronType=Prs	8	nsubj	_	start_char=31|end_char=32
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	ccomp	_	start_char=33|end_char=36
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=37|end_char=41
+10	own	own	ADJ	JJ	Degree=Pos	12	amod	_	start_char=42|end_char=45
+11	little	little	ADJ	JJ	Degree=Pos	12	amod	_	start_char=46|end_char=52
+12	island	island	NOUN	NN	Number=Sing	8	obj	_	start_char=53|end_char=59
+13	to	to	PART	TO	_	14	mark	_	start_char=60|end_char=62
+14	live	live	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=63|end_char=67
+15	out	out	ADP	RP	_	14	compound:prt	_	start_char=68|end_char=71
+16	ur	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=72|end_char=74
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	20	amod	_	start_char=75|end_char=83
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=84|end_char=87
+19	boring	boring	ADJ	JJ	Degree=Pos	17	conj	_	start_char=88|end_char=94
+20	life	life	NOUN	NN	Number=Sing	14	obj	_	start_char=95|end_char=99
+21	’s	's	PART	POS	_	17	case	_	start_char=99|end_char=101
+

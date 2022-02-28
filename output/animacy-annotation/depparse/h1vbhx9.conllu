@@ -1,0 +1,27 @@
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=0|end_char=9
+2	like	like	ADP	IN	_	4	case	_	start_char=10|end_char=14
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=15|end_char=17
+4	nft	nft	NOUN	NN	Number=Sing	1	nmod	_	start_char=18|end_char=21
+5	?	?	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+1	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=24|end_char=25
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=25|end_char=26
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=26|end_char=28
+4	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=32
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=33|end_char=36
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=37|end_char=45
+7	of	of	ADP	IN	_	8	case	_	start_char=46|end_char=48
+8	what	what	PRON	WP	PronType=Int	4	obl	_	start_char=49|end_char=53
+9	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=54|end_char=58
+10	whole	whole	ADJ	JJ	Degree=Pos	12	amod	_	start_char=59|end_char=64
+11	nft	nft	NOUN	NN	Number=Sing	12	compound	_	start_char=65|end_char=68
+12	thing	thing	NOUN	NN	Number=Sing	13	nsubj	_	start_char=69|end_char=74
+13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=75|end_char=77
+14	,	,	PUNCT	,	_	4	punct	_	start_char=77|end_char=78
+15	so	so	ADV	RB	_	18	advmod	_	start_char=79|end_char=81
+16	,	,	PUNCT	,	_	18	punct	_	start_char=81|end_char=82
+17	maybe	maybe	ADV	RB	_	18	advmod	_	start_char=83|end_char=88
+18	not	not	PART	RB	_	4	parataxis	_	start_char=89|end_char=92
+19	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+20	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=93|end_char=94
+

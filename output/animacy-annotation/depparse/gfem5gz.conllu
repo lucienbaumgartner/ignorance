@@ -1,0 +1,34 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	7	punct	_	start_char=3|end_char=4
+3	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=5|end_char=8
+4	toddler	toddler	NOUN	NN	Number=Sing	7	nsubj:pass	_	start_char=9|end_char=16
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	start_char=17|end_char=20
+6	also	also	ADV	RB	_	7	advmod	_	start_char=21|end_char=25
+7	threatened	threaten	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	appos	_	start_char=26|end_char=36
+8	.	.	PUNCT	.	_	1	punct	_	start_char=36|end_char=37
+
+1	Gamers	gamer	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=39|end_char=45
+2	just	just	ADV	RB	_	3	advmod	_	start_char=46|end_char=50
+3	keepin	keepin	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=57
+4	'	'	PUNCT	``	_	6	punct	_	start_char=57|end_char=58
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=59|end_char=61
+6	classy	classy	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=62|end_char=68
+7	.	.	PUNCT	.	_	3	punct	_	start_char=68|end_char=69
+
+1	Seriously	seriously	ADV	RB	_	10	advmod	_	start_char=70|end_char=79
+2	,	,	PUNCT	,	_	10	punct	_	start_char=79|end_char=80
+3	how	how	ADV	WRB	PronType=Int	10	advmod	_	start_char=81|end_char=84
+4	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=85|end_char=88
+5	one	one	NUM	CD	NumType=Card	10	nsubj	_	start_char=89|end_char=92
+6	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=93|end_char=95
+7	so	so	ADV	RB	_	10	advmod	_	start_char=96|end_char=98
+8	self	self	NOUN	NN	Number=Sing	10	obl:npmod	_	start_char=99|end_char=103
+9	-	-	PUNCT	HYPH	_	10	punct	_	start_char=103|end_char=104
+10	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=104|end_char=111
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=112|end_char=115
+12	oblivious	oblivious	ADJ	JJ	Degree=Pos	10	conj	_	start_char=116|end_char=125
+13	to	to	ADP	IN	_	15	case	_	start_char=126|end_char=128
+14	such	such	ADJ	JJ	Degree=Pos	15	amod	_	start_char=129|end_char=133
+15	shittiness	shittiness	NOUN	NN	Number=Sing	12	obl	_	start_char=134|end_char=144
+16	?	?	PUNCT	.	_	10	punct	_	start_char=144|end_char=145
+

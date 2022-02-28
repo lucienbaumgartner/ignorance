@@ -1,0 +1,32 @@
+1	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	even	even	ADV	RB	_	4	advmod	_	start_char=8|end_char=12
+4	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=17
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=18|end_char=20
+6	care	care	VERB	VB	VerbForm=Inf	4	conj	_	start_char=21|end_char=25
+7	about	about	ADP	IN	_	9	case	_	start_char=26|end_char=31
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=32|end_char=35
+9	reasoning	reasoning	NOUN	NN	Number=Sing	4	obl	_	start_char=36|end_char=45
+10	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=46|end_char=47
+11	posted	post	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=48|end_char=54
+12	?	?	PUNCT	.	_	4	punct	_	start_char=54|end_char=55
+
+1	or	or	CCONJ	CC	_	6	cc	_	start_char=56|end_char=58
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=59|end_char=62
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=63|end_char=66
+4	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=67|end_char=72
+5	so	so	ADV	RB	_	6	advmod	_	start_char=73|end_char=75
+6	emotional	emotional	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=85
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=86|end_char=89
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=90|end_char=98
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=99|end_char=103
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=104|end_char=107
+11	ca	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=108|end_char=110
+12	n't	not	PART	RB	_	14	advmod	_	start_char=110|end_char=113
+13	even	even	ADV	RB	_	14	advmod	_	start_char=114|end_char=118
+14	try	try	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=119|end_char=122
+15	to	to	PART	TO	_	16	mark	_	start_char=123|end_char=125
+16	use	use	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=126|end_char=129
+17	context	context	NOUN	NN	Number=Sing	16	obj	_	start_char=130|end_char=137
+18	?	?	PUNCT	.	_	6	punct	_	start_char=137|end_char=138
+

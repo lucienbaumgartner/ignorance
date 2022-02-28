@@ -1,0 +1,15 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	fact	fact	NOUN	NN	Number=Sing	9	nsubj	_	start_char=4|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=9|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=12|end_char=15
+5	majority	majority	NOUN	NN	Number=Sing	9	nsubj	_	start_char=16|end_char=24
+6	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=28|end_char=34
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=35|end_char=38
+9	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=39|end_char=45
+10	,	,	PUNCT	,	_	11	punct	_	start_char=45|end_char=46
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=47|end_char=54
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=55|end_char=58
+13	selfish	selfish	ADJ	JJ	Degree=Pos	11	conj	_	start_char=59|end_char=66
+14	.	.	PUNCT	.	_	9	punct	_	start_char=66|end_char=67
+

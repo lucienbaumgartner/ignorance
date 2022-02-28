@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=5|end_char=8
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=9|end_char=10
+4	matter	matter	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=17
+5	of	of	ADP	IN	_	7	case	_	start_char=18|end_char=20
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=21|end_char=22
+7	neighbour	neighbour	NOUN	NN	Number=Sing	4	nmod	_	start_char=23|end_char=32
+8	making	make	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=33|end_char=39
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=40|end_char=41
+10	choice	choice	NOUN	NN	Number=Sing	8	obj	_	start_char=42|end_char=48
+11	to	to	PART	TO	_	13	mark	_	start_char=49|end_char=51
+12	not	not	PART	RB	_	13	advmod	_	start_char=52|end_char=55
+13	secure	secure	VERB	VB	VerbForm=Inf	10	acl	_	start_char=56|end_char=62
+14	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=63|end_char=66
+15	pool	pool	NOUN	NN	Number=Sing	13	obj	_	start_char=67|end_char=71
+16	that	that	PRON	WDT	PronType=Rel	17	nsubj	_	start_char=72|end_char=76
+17	impacted	impact	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	acl:relcl	_	start_char=77|end_char=85
+18	someone	someone	PRON	NN	Number=Sing	17	obj	_	start_char=86|end_char=93
+19	,	,	PUNCT	,	_	21	punct	_	start_char=93|end_char=94
+20	completely	completely	ADV	RB	_	21	advmod	_	start_char=95|end_char=105
+21	unaware	unaware	ADJ	JJ	Degree=Pos	18	amod	_	start_char=106|end_char=113
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=114|end_char=117
+23	unrelated	unrelated	ADJ	JJ	Degree=Pos	21	conj	_	start_char=118|end_char=127
+24	to	to	ADP	IN	_	26	case	_	start_char=128|end_char=130
+25	that	that	DET	DT	Number=Sing|PronType=Dem	26	det	_	start_char=131|end_char=135
+26	choice	choice	NOUN	NN	Number=Sing	23	obl	_	start_char=136|end_char=142
+27	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+
+1	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=145|end_char=148
+2	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=149|end_char=152
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=153|end_char=157
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=158|end_char=160
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=161|end_char=164
+6	same	same	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=165|end_char=169
+7	?	?	PUNCT	.	_	1	punct	_	start_char=169|end_char=170
+

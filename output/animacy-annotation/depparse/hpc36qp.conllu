@@ -1,0 +1,25 @@
+1	Oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	man	man	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=6
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=7|end_char=9
+4	too	too	ADV	RB	_	2	advmod	_	start_char=10|end_char=13
+5	,	,	PUNCT	,	_	2	punct	_	start_char=13|end_char=14
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=15|end_char=16
+7	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=17|end_char=22
+8	someone	someone	PRON	NN	Number=Sing	11	nsubj	_	start_char=23|end_char=30
+9	really	really	ADV	RB	_	8	advmod	_	start_char=31|end_char=37
+10	*	*	PUNCT	NFP	_	11	punct	_	start_char=38|end_char=39
+11	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=39|end_char=42
+12	*	*	PUNCT	NFP	_	15	punct	_	start_char=42|end_char=43
+13	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=44|end_char=46
+14	that	that	SCONJ	IN	_	15	mark	_	start_char=47|end_char=51
+15	stupid	stupid	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=52|end_char=58
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=59|end_char=62
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=63|end_char=71
+18	of	of	ADP	IN	_	20	case	_	start_char=72|end_char=74
+19	other	other	ADJ	JJ	Degree=Pos	20	amod	_	start_char=75|end_char=80
+20	people	people	NOUN	NNS	Number=Plur	17	obl	_	start_char=81|end_char=87
+21	and	and	CCONJ	CC	_	23	cc	_	start_char=88|end_char=91
+22	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=92|end_char=97
+23	surroundings	surroundings	NOUN	NNS	Number=Plur	20	conj	_	start_char=98|end_char=110
+24	.	.	PUNCT	.	_	2	punct	_	start_char=110|end_char=111
+

@@ -1,0 +1,46 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	no	no	DET	DT	_	4	det	_	start_char=9|end_char=11
+4	heartbeat	heartbeat	NOUN	NN	Number=Sing	2	nsubj	_	start_char=12|end_char=21
+5	because	because	SCONJ	IN	_	7	mark	_	start_char=22|end_char=29
+6	there	there	PRON	EX	_	7	expl	_	start_char=30|end_char=35
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=36|end_char=38
+8	no	no	DET	DT	_	9	det	_	start_char=39|end_char=41
+9	heart	heart	NOUN	NN	Number=Sing	7	nsubj	_	start_char=42|end_char=47
+10	.	.	PUNCT	.	_	2	punct	_	start_char=47|end_char=48
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=50|end_char=55
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=56|end_char=58
+3	cardiac	cardiac	ADJ	JJ	Degree=Pos	4	amod	_	start_char=59|end_char=66
+4	tissue	tissue	NOUN	NN	Number=Sing	2	nsubj	_	start_char=67|end_char=73
+5	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=74|end_char=78
+6	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=79|end_char=82
+7	*	*	PUNCT	NFP	_	8	punct	_	start_char=83|end_char=84
+8	become	become	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=84|end_char=90
+9	*	*	PUNCT	NFP	_	11	punct	_	start_char=90|end_char=91
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=92|end_char=93
+11	heart	heart	NOUN	NN	Number=Sing	8	xcomp	_	start_char=94|end_char=99
+12	,	,	PUNCT	,	_	16	punct	_	start_char=99|end_char=100
+13	but	but	CCONJ	CC	_	16	cc	_	start_char=101|end_char=104
+14	not	not	PART	RB	_	16	advmod	_	start_char=105|end_char=108
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=109|end_char=110
+16	heart	heart	NOUN	NN	Number=Sing	11	conj	_	start_char=111|end_char=116
+17	.	.	PUNCT	.	_	2	punct	_	start_char=116|end_char=117
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=119|end_char=121
+2	some	some	DET	DT	_	3	det	_	start_char=122|end_char=126
+3	research	research	NOUN	NN	Number=Sing	1	obj	_	start_char=127|end_char=135
+4	,	,	PUNCT	,	_	1	punct	_	start_char=135|end_char=136
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=137|end_char=140
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=141|end_char=144
+7	so	so	ADV	RB	_	8	advmod	_	start_char=145|end_char=147
+8	woefully	woefully	ADV	RB	_	9	advmod	_	start_char=148|end_char=156
+9	uneducated	uneducated	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=157|end_char=167
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=168|end_char=171
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=172|end_char=180
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=181|end_char=185
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=186|end_char=188
+14	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=188|end_char=190
+15	sad	sad	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=191|end_char=194
+16	.	.	PUNCT	.	_	1	punct	_	start_char=194|end_char=195
+

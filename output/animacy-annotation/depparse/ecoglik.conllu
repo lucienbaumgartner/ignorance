@@ -1,0 +1,96 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=10
+3	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=14
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=15|end_char=19
+5	information	information	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=31
+6	from	from	ADP	IN	_	8	case	_	start_char=32|end_char=36
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=37|end_char=38
+8	source	source	NOUN	NN	Number=Sing	3	obl	_	start_char=39|end_char=45
+9	that	that	PRON	WDT	PronType=Rel	12	nsubj:pass	_	start_char=46|end_char=50
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	start_char=51|end_char=53
+11	n't	not	PART	RB	_	12	advmod	_	start_char=53|end_char=56
+12	biased	biased	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl:relcl	_	start_char=57|end_char=63
+13	.	.	PUNCT	.	_	3	punct	_	start_char=63|end_char=64
+
+1	https://www.ncbi.nlm.nih.gov/pubmed/23401210	https://www.ncbi.nlm.nih.gov/pubmed/23401210	X	ADD	_	0	root	_	start_char=66|end_char=110
+
+1	https://www.who.int/vaccine_safety/committee/topics/thiomersal/statement_jul2006/en/	https://www.who.int/vaccine_safety/committee/topics/thiomersal/statement_jul2006/en/	X	ADD	_	0	root	_	start_char=112|end_char=196
+
+1	Ethyl	Ethyl	PROPN	NNP	Number=Sing	2	compound	_	start_char=198|end_char=203
+2	mercury	mercury	NOUN	NN	Number=Sing	10	nsubj	_	start_char=204|end_char=211
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=212|end_char=213
+4	etHg	etHg	PROPN	NNP	Number=Sing	2	appos	_	start_char=213|end_char=217
+5	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=217|end_char=218
+6	in	in	ADP	IN	_	7	case	_	start_char=219|end_char=221
+7	vaccines	vaccine	NOUN	NNS	Number=Plur	2	nmod	_	start_char=222|end_char=230
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=231|end_char=233
+9	not	not	PART	RB	_	10	advmod	_	start_char=234|end_char=237
+10	harmful	harmful	ADJ	JJ	Degree=Pos	0	root	_	start_char=238|end_char=245
+11	to	to	ADP	IN	_	13	case	_	start_char=246|end_char=248
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=249|end_char=252
+13	body	body	NOUN	NN	Number=Sing	10	obl	_	start_char=253|end_char=257
+14	.	.	PUNCT	.	_	10	punct	_	start_char=257|end_char=258
+
+1	Methyl	Methyl	PROPN	NNP	Number=Sing	2	compound	_	start_char=259|end_char=265
+2	mercury	mercury	NOUN	NN	Number=Sing	8	nsubj	_	start_char=266|end_char=273
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=274|end_char=275
+4	meHg	meHg	PROPN	NNP	Number=Sing	2	appos	_	start_char=275|end_char=279
+5	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=279|end_char=280
+6	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=281|end_char=284
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=285|end_char=287
+8	harmful	harmful	ADJ	JJ	Degree=Pos	0	root	_	start_char=288|end_char=295
+9	,	,	PUNCT	,	_	14	punct	_	start_char=295|end_char=296
+10	but	but	CCONJ	CC	_	14	cc	_	start_char=297|end_char=300
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=301|end_char=303
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=304|end_char=306
+13	n't	not	PART	RB	_	14	advmod	_	start_char=306|end_char=309
+14	what	what	PRON	WP	PronType=Int	8	conj	_	start_char=310|end_char=314
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	start_char=315|end_char=317
+16	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl:relcl	_	start_char=318|end_char=322
+17	in	in	ADP	IN	_	18	case	_	start_char=323|end_char=325
+18	vaccines	vaccine	NOUN	NNS	Number=Plur	16	obl	_	start_char=326|end_char=334
+19	.	.	PUNCT	.	_	8	punct	_	start_char=334|end_char=335
+
+1	et	et	X	LS	_	0	root	_	start_char=337|end_char=339
+
+1	Hg	Hg	PROPN	NNP	Number=Sing	0	root	_	start_char=339|end_char=341
+2	!==	!==	PUNCT	,	_	1	punct	_	start_char=342|end_char=345
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	appos	_	start_char=346|end_char=348
+
+1	Hg	Hg	PROPN	NNP	Number=Sing	0	root	_	start_char=348|end_char=350
+
+1	Seriously	seriously	ADV	RB	_	2	advmod	_	start_char=352|end_char=361
+2	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=362|end_char=364
+3	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	iobj	_	start_char=365|end_char=373
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=374|end_char=375
+5	favor	favor	NOUN	NN	Number=Sing	2	obj	_	start_char=376|end_char=381
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=382|end_char=385
+7	research	research	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=386|end_char=394
+8	unbiased	unbiased	ADJ	JJ	Degree=Pos	9	amod	_	start_char=395|end_char=403
+9	material	material	NOUN	NN	Number=Sing	7	obj	_	start_char=404|end_char=412
+10	on	on	ADP	IN	_	12	case	_	start_char=413|end_char=415
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=416|end_char=419
+12	subject	subject	NOUN	NN	Number=Sing	7	obl	_	start_char=420|end_char=427
+13	.	.	PUNCT	.	_	2	punct	_	start_char=427|end_char=428
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=429|end_char=430
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=431|end_char=435
+3	to	to	PART	TO	_	5	mark	_	start_char=436|end_char=438
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=439|end_char=441
+5	anti-vaccine	anti-vaccine	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=442|end_char=454
+6	until	until	SCONJ	IN	_	8	mark	_	start_char=455|end_char=460
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=461|end_char=462
+8	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	start_char=463|end_char=466
+9	real	real	ADJ	JJ	Degree=Pos	10	amod	_	start_char=467|end_char=471
+10	research	research	NOUN	NN	Number=Sing	8	obj	_	start_char=472|end_char=480
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=481|end_char=484
+12	realized	realize	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=485|end_char=493
+13	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=494|end_char=497
+14	stupid	stupid	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=498|end_char=504
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=505|end_char=508
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=509|end_char=517
+17	that	that	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=518|end_char=522
+18	position	position	NOUN	NN	Number=Sing	19	nsubj	_	start_char=523|end_char=531
+19	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=532|end_char=534
+20	.	.	PUNCT	.	_	2	punct	_	start_char=534|end_char=535
+

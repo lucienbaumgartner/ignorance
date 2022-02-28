@@ -1,0 +1,66 @@
+1	Human	human	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=5
+2	beings	being	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=6|end_char=12
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=13|end_char=15
+4	not	not	PART	RB	_	5	advmod	_	start_char=16|end_char=19
+5	lay	lay	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=23
+6	eggs	egg	NOUN	NNS	Number=Plur	5	obj	_	start_char=24|end_char=28
+7	.	.	PUNCT	.	_	5	punct	_	start_char=28|end_char=29
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=31|end_char=32
+2	zygote	zygote	NOUN	NN	Number=Sing	7	nsubj	_	start_char=33|end_char=39
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=40|end_char=42
+4	not	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=43|end_char=46
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=47|end_char=49
+6	“	''	PUNCT	``	_	7	punct	_	start_char=50|end_char=51
+7	egg	egg	NOUN	NN	Number=Sing	0	root	_	start_char=51|end_char=54
+8	.	.	PUNCT	.	_	7	punct	_	start_char=54|end_char=55
+9	”	''	PUNCT	''	_	7	punct	_	start_char=55|end_char=56
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=58|end_char=62
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=63|end_char=65
+3	insipid	insipid	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=73
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=74|end_char=77
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=78|end_char=86
+6	of	of	ADP	IN	_	7	case	_	start_char=87|end_char=89
+7	fact	fact	NOUN	NN	Number=Sing	5	obl	_	start_char=90|end_char=94
+8	.	.	PUNCT	.	_	3	punct	_	start_char=94|end_char=95
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=97|end_char=99
+2	fertilization	fertilization	NOUN	NN	Number=Sing	4	nsubj	_	start_char=100|end_char=113
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=114|end_char=117
+4	occurred	occur	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	start_char=118|end_char=126
+5	there	there	PRON	EX	_	6	expl	_	start_char=127|end_char=132
+6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=133|end_char=135
+7	no	no	DET	DT	_	9	det	_	start_char=136|end_char=138
+8	sperm	sperm	NOUN	NN	Number=Sing	9	compound	_	start_char=139|end_char=144
+9	cell	cell	NOUN	NN	Number=Sing	6	nsubj	_	start_char=145|end_char=149
+10	anymore	anymore	ADV	RB	_	9	advmod	_	start_char=150|end_char=157
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=158|end_char=161
+12	no	no	DET	DT	_	14	det	_	start_char=162|end_char=164
+13	egg	egg	NOUN	NN	Number=Sing	14	compound	_	start_char=165|end_char=168
+14	cell	cell	NOUN	NN	Number=Sing	9	conj	_	start_char=169|end_char=173
+15	anymore	anymore	ADV	RB	_	14	advmod	_	start_char=174|end_char=181
+16	.	.	PUNCT	.	_	6	punct	_	start_char=181|end_char=182
+
+1	**	**	PUNCT	NFP	_	5	punct	_	start_char=184|end_char=186
+2	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=186|end_char=189
+3	definitionally	definitionally	ADV	RB	_	5	advmod	_	start_char=190|end_char=204
+4	cannot	cannot	AUX	MD	VerbForm=Fin	5	aux	_	start_char=205|end_char=211
+5	anthropomorphize	anthropomorphize	VERB	VB	VerbForm=Inf	0	root	_	start_char=212|end_char=228
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=229|end_char=230
+7	human	human	ADJ	JJ	Degree=Pos	8	amod	_	start_char=231|end_char=236
+8	being	being	NOUN	NN	Number=Sing	5	obj	_	start_char=237|end_char=242
+9	.	.	PUNCT	.	_	5	punct	_	start_char=242|end_char=243
+10	**	**	PUNCT	NFP	_	5	punct	_	start_char=243|end_char=245
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=247|end_char=251
+2	post	post	NOUN	NN	Number=Sing	4	nsubj	_	start_char=252|end_char=256
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=257|end_char=259
+4	obscenity	obscenity	NOUN	NN	Number=Sing	0	root	_	start_char=260|end_char=269
+5	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=270|end_char=274
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=275|end_char=277
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=278|end_char=280
+8	not	not	PART	RB	_	9	advmod	_	start_char=281|end_char=284
+9	absurdity	absurdity	NOUN	NN	Number=Sing	4	advcl	_	start_char=285|end_char=294
+10	.	.	PUNCT	.	_	4	punct	_	start_char=294|end_char=295
+

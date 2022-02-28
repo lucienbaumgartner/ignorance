@@ -1,0 +1,169 @@
+1	1984	1984	NUM	CD	NumType=Card	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=6|end_char=7
+2	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=13|end_char=15
+4	with	with	ADP	IN	_	6	case	_	start_char=16|end_char=20
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=21|end_char=22
+6	class	class	NOUN	NN	Number=Sing	2	obl	_	start_char=23|end_char=28
+7	of	of	ADP	IN	_	8	case	_	start_char=29|end_char=31
+8	seniors	senior	NOUN	NNS	Number=Plur	6	nmod	_	start_char=32|end_char=39
+9	.	.	PUNCT	.	_	2	punct	_	start_char=39|end_char=40
+
+1	(	(	PUNCT	-LRB-	_	5	punct	_	start_char=41|end_char=42
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=42|end_char=43
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=43|end_char=45
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=46|end_char=49
+5	teacher	teacher	NOUN	NN	Number=Sing	0	root	_	start_char=50|end_char=57
+6	.	.	PUNCT	.	_	5	punct	_	start_char=57|end_char=58
+7	)	)	PUNCT	-RRB-	_	5	punct	_	start_char=58|end_char=59
+
+1	Some	some	DET	DT	_	3	det	_	start_char=60|end_char=64
+2	good	good	ADJ	JJ	Degree=Pos	3	amod	_	start_char=65|end_char=69
+3	stuff	stuff	NOUN	NN	Number=Sing	0	root	_	start_char=70|end_char=75
+4	.	.	PUNCT	.	_	3	punct	_	start_char=75|end_char=76
+
+1	Weird	weird	ADJ	JJ	Degree=Pos	2	nsubj	_	start_char=77|end_char=82
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=83|end_char=88
+3	on	on	ADP	IN	_	4	case	_	start_char=89|end_char=91
+4	sex	sex	NOUN	NN	Number=Sing	2	obl	_	start_char=92|end_char=95
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=96|end_char=99
+6	women	woman	NOUN	NNS	Number=Plur	4	conj	_	start_char=100|end_char=105
+7	.	.	PUNCT	.	_	2	punct	_	start_char=105|end_char=106
+
+1	Too	too	ADV	RB	_	2	advmod	_	start_char=107|end_char=110
+2	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=111|end_char=114
+3	about	about	ADP	IN	_	5	case	_	start_char=115|end_char=120
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=121|end_char=124
+5	rats	rat	NOUN	NNS	Number=Plur	2	obl	_	start_char=125|end_char=129
+6	.	.	PUNCT	.	_	2	punct	_	start_char=129|end_char=130
+
+1	Room	room	NOUN	NN	Number=Sing	3	nsubj	_	start_char=131|end_char=135
+2	101	101	NUM	CD	NumType=Card	1	nummod	_	start_char=136|end_char=139
+3	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=140|end_char=147
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	start_char=148|end_char=150
+5	all	all	DET	DT	_	4	det	_	start_char=151|end_char=154
+6	down	down	ADP	RP	_	3	compound:prt	_	start_char=155|end_char=159
+7	.	.	PUNCT	.	_	3	punct	_	start_char=159|end_char=160
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=161|end_char=162
+2	'd	would	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	3	aux	_	start_char=162|end_char=164
+3	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=165|end_char=170
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=171|end_char=175
+5	to	to	PART	TO	_	6	mark	_	start_char=176|end_char=178
+6	make	make	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=179|end_char=183
+7	predictions	prediction	NOUN	NNS	Number=Plur	6	obj	_	start_char=184|end_char=195
+8	,	,	PUNCT	,	_	13	punct	_	start_char=195|end_char=196
+9	and	and	CCONJ	CC	_	13	cc	_	start_char=197|end_char=200
+10	so	so	ADV	RB	_	11	advmod	_	start_char=201|end_char=203
+11	many	many	ADJ	JJ	Degree=Pos	13	nsubj	_	start_char=204|end_char=208
+12	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux	_	start_char=209|end_char=212
+13	wanted	want	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=213|end_char=219
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=220|end_char=221
+15	happily	happily	ADV	RB	_	16	advmod	_	start_char=222|end_char=229
+16	ever	ever	ADV	RB	_	17	advmod	_	start_char=230|end_char=234
+17	after	after	ADV	RB	_	13	advmod	_	start_char=235|end_char=240
+18	.	.	PUNCT	.	_	3	punct	_	start_char=240|end_char=241
+
+1	Ha	ha	INTJ	UH	_	0	root	_	start_char=242|end_char=244
+2	!	!	PUNCT	.	_	1	punct	_	start_char=244|end_char=245
+
+1	Best	good	ADJ	JJS	Degree=Sup	3	amod	_	start_char=246|end_char=250
+2	student	student	NOUN	NN	Number=Sing	3	compound	_	start_char=251|end_char=258
+3	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=259|end_char=266
+4	:	:	PUNCT	:	_	3	punct	_	start_char=266|end_char=267
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=268|end_char=271
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=272|end_char=275
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	start_char=276|end_char=279
+4	question	question	NOUN	NN	Number=Sing	2	obj	_	start_char=280|end_char=288
+5	(	(	PUNCT	-LRB-	_	7	punct	_	start_char=289|end_char=290
+6	of	of	ADP	IN	_	7	case	_	start_char=290|end_char=292
+7	Charrington	Charrington	PROPN	NNP	Number=Sing	4	nmod	_	start_char=293|end_char=304
+8	,	,	PUNCT	,	_	11	punct	_	start_char=304|end_char=305
+9	before	before	ADP	IN	_	11	case	_	start_char=306|end_char=312
+10	biggest	big	ADJ	JJS	Degree=Sup	11	amod	_	start_char=313|end_char=320
+11	reveal	reveal	NOUN	NN	Number=Sing	2	obl	_	start_char=321|end_char=327
+12	)	)	PUNCT	-RRB-	_	11	punct	_	start_char=327|end_char=328
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=329|end_char=332
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	start_char=333|end_char=336
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=337|end_char=340
+4	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=341|end_char=345
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=346|end_char=348
+6	about	about	ADP	IN	_	11	case	_	start_char=349|end_char=354
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=355|end_char=358
+8	damn	damn	ADJ	JJ	Degree=Pos	9	amod	_	start_char=359|end_char=363
+9	children	child	NOUN	NNS	Number=Plur	11	nmod:poss	_	start_char=364|end_char=372
+10	's	's	PART	POS	_	9	case	_	start_char=372|end_char=374
+11	rhyme	rhyme	NOUN	NN	Number=Sing	4	obl	_	start_char=375|end_char=380
+12	?	?	PUNCT	.	_	4	punct	_	start_char=380|end_char=381
+
+1	Emanuel	Emanuel	PROPN	NNP	Number=Sing	4	nmod:poss	_	start_char=383|end_char=390
+2	Goldstein	Goldstein	PROPN	NNP	Number=Sing	1	flat	_	start_char=391|end_char=400
+3	's	's	PART	POS	_	1	case	_	start_char=400|end_char=402
+4	book	book	NOUN	NN	Number=Sing	7	nsubj	_	start_char=403|end_char=407
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=408|end_char=411
+6	very	very	ADV	RB	_	7	advmod	_	start_char=412|end_char=416
+7	hard	hard	ADJ	JJ	Degree=Pos	0	root	_	start_char=417|end_char=421
+8	to	to	PART	TO	_	9	mark	_	start_char=422|end_char=424
+9	get	get	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=425|end_char=428
+10	through	through	ADP	RP	_	9	compound:prt	_	start_char=429|end_char=436
+11	.	.	PUNCT	.	_	7	punct	_	start_char=436|end_char=437
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=438|end_char=439
+2	still	still	ADV	RB	_	5	advmod	_	start_char=440|end_char=445
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=446|end_char=448
+4	n't	not	PART	RB	_	5	advmod	_	start_char=448|end_char=451
+5	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=452|end_char=456
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=457|end_char=460
+7	much	much	ADJ	JJ	Degree=Pos	11	nsubj	_	start_char=461|end_char=465
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=466|end_char=467
+9	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=468|end_char=475
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=476|end_char=479
+11	actual	actual	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=480|end_char=486
+12	and	and	CCONJ	CC	_	16	cc	_	start_char=487|end_char=490
+13	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=491|end_char=494
+14	much	much	ADV	RB	_	16	advmod	_	start_char=495|end_char=499
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=500|end_char=501
+16	lie	lie	NOUN	NN	Number=Sing	11	conj	_	start_char=502|end_char=505
+17	.	.	PUNCT	.	_	5	punct	_	start_char=505|end_char=506
+
+1	Obviously	obviously	ADV	RB	_	7	advmod	_	start_char=507|end_char=516
+2	,	,	PUNCT	,	_	7	punct	_	start_char=516|end_char=517
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=518|end_char=521
+4	entire	entire	ADJ	JJ	Degree=Pos	5	amod	_	start_char=522|end_char=528
+5	book	book	NOUN	NN	Number=Sing	7	nsubj	_	start_char=529|end_char=533
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=534|end_char=537
+7	propaganda	propaganda	NOUN	NN	Number=Sing	0	root	_	start_char=538|end_char=548
+8	.	.	PUNCT	.	_	7	punct	_	start_char=548|end_char=549
+
+1	But	but	CCONJ	CC	_	9	cc	_	start_char=550|end_char=553
+2	by	by	ADP	IN	_	5	case	_	start_char=554|end_char=556
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=557|end_char=560
+4	same	same	ADJ	JJ	Degree=Pos	5	amod	_	start_char=561|end_char=565
+5	token	token	NOUN	NN	Number=Sing	12	obl	_	start_char=566|end_char=571
+6	,	,	PUNCT	,	_	9	punct	_	start_char=571|end_char=572
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=573|end_char=576
+8	plan	plan	NOUN	NN	Number=Sing	9	nsubj	_	start_char=577|end_char=581
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=582|end_char=585
+10	obviously	obviously	ADV	RB	_	12	advmod	_	start_char=586|end_char=595
+11	to	to	PART	TO	_	12	mark	_	start_char=596|end_char=598
+12	keep	keep	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=599|end_char=603
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=604|end_char=607
+14	proles	prole	NOUN	NNS	Number=Plur	12	obj	_	start_char=608|end_char=614
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=615|end_char=623
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=624|end_char=627
+17	maleable	maleable	ADJ	JJ	Degree=Pos	15	conj	_	start_char=628|end_char=636
+18	.	.	PUNCT	.	_	9	punct	_	start_char=636|end_char=637
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=638|end_char=642
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=643|end_char=646
+3	in	in	ADP	IN	_	5	case	_	start_char=647|end_char=649
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=650|end_char=653
+5	book	book	NOUN	NN	Number=Sing	0	root	_	start_char=654|end_char=658
+6	,	,	PUNCT	,	_	5	punct	_	start_char=658|end_char=659
+7	too	too	ADV	RB	_	5	advmod	_	start_char=660|end_char=663
+8	.	.	PUNCT	.	_	5	punct	_	start_char=663|end_char=664
+

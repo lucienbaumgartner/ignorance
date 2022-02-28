@@ -1,0 +1,115 @@
+1	crowbar=headcrabs	crowbar=headcrabs	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=17
+2	,	,	PUNCT	,	_	1	punct	_	start_char=17|end_char=18
+3	no	no	DET	DT	_	4	det	_	start_char=19|end_char=21
+4	ammo	ammo	NOUN	NN	Number=Sing	1	parataxis	_	start_char=22|end_char=26
+
+1	pistol=headcrabs	pistol=headcrabs	NOUN	NNS	Number=Plur	0	root	_	start_char=28|end_char=44
+2	,	,	PUNCT	,	_	3	punct	_	start_char=44|end_char=45
+3	houndeyes	houndeye	NOUN	NNS	Number=Plur	1	conj	_	start_char=46|end_char=55
+4	,	,	PUNCT	,	_	6	punct	_	start_char=55|end_char=56
+5	low	low	ADJ	JJ	Degree=Pos	6	amod	_	start_char=57|end_char=60
+6	ammo	ammo	NOUN	NN	Number=Sing	1	parataxis	_	start_char=61|end_char=65
+
+1	revolver=multiple	revolver=multiple	NOUN	NN	Number=Sing	2	compound	_	start_char=67|end_char=84
+2	enemies	enemy	NOUN	NNS	Number=Plur	0	root	_	start_char=85|end_char=92
+3	,	,	PUNCT	,	_	2	punct	_	start_char=92|end_char=93
+4	assasins	assasin	NOUN	NNS	Number=Plur	2	conj	_	start_char=94|end_char=102
+
+1	smg=finishing	smg=finish	VERB	VBG	VerbForm=Ger	0	root	_	start_char=104|end_char=117
+2	off	off	ADP	RP	_	1	compound:prt	_	start_char=118|end_char=121
+3	enemies	enemy	NOUN	NNS	Number=Plur	1	obj	_	start_char=122|end_char=129
+4	,	,	PUNCT	,	_	6	punct	_	start_char=129|end_char=130
+5	quick	quick	ADJ	JJ	Degree=Pos	6	amod	_	start_char=131|end_char=136
+6	grenades	grenade	NOUN	NNS	Number=Plur	3	conj	_	start_char=137|end_char=145
+
+1	shotgun=close	shotgun=close	NOUN	NN	Number=Sing	2	compound	_	start_char=147|end_char=160
+2	range	range	NOUN	NN	Number=Sing	3	compound	_	start_char=161|end_char=166
+3	melter	melter	NOUN	NN	Number=Sing	0	root	_	start_char=167|end_char=173
+
+1	crossbow=unaware	crossbow=unaware	ADJ	JJ	Degree=Pos	4	amod	_	start_char=175|end_char=191
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=192|end_char=195
+3	waterlogged	waterlogge	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	start_char=196|end_char=207
+4	enemies	enemy	NOUN	NNS	Number=Plur	0	root	_	start_char=208|end_char=215
+
+1	rocket	rocket	NOUN	NN	Number=Sing	2	compound	_	start_char=217|end_char=223
+2	launcher=powerful	launcher=powerful	NOUN	NN	Number=Sing	3	compound	_	start_char=224|end_char=241
+3	enemies	enemy	NOUN	NNS	Number=Plur	0	root	_	start_char=242|end_char=249
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=250|end_char=253
+5	snipers	sniper	NOUN	NNS	Number=Plur	3	conj	_	start_char=254|end_char=261
+
+1	tau	tau	NOUN	NN	Number=Sing	3	compound	_	start_char=263|end_char=266
+2	cannon=normal	cannon=normal	ADJ	JJ	Degree=Pos	3	amod	_	start_char=267|end_char=280
+3	shot	shot	NOUN	NN	Number=Sing	5	nsubj	_	start_char=281|end_char=285
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=286|end_char=289
+5	take	take	VERB	VB	VerbForm=Inf	0	root	_	start_char=290|end_char=294
+6	down	down	ADP	RP	_	5	compound:prt	_	start_char=295|end_char=299
+7	vortagaunts	vortagaunt	NOUN	NNS	Number=Plur	5	obj	_	start_char=300|end_char=311
+8	,	,	PUNCT	,	_	10	punct	_	start_char=311|end_char=312
+9	alien	Alien	ADJ	JJ	Degree=Pos	10	amod	_	start_char=313|end_char=318
+10	grunts	grunt	NOUN	NNS	Number=Plur	7	conj	_	start_char=319|end_char=325
+11	,	,	PUNCT	,	_	13	punct	_	start_char=325|end_char=326
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=327|end_char=330
+13	marines	marine	NOUN	NNS	Number=Plur	7	conj	_	start_char=331|end_char=338
+14	in	in	ADP	IN	_	17	case	_	start_char=339|end_char=341
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=342|end_char=343
+16	few	few	ADJ	JJ	Degree=Pos	17	amod	_	start_char=344|end_char=347
+17	hits	hit	NOUN	NNS	Number=Plur	13	nmod	_	start_char=348|end_char=352
+18	,	,	PUNCT	,	_	20	punct	_	start_char=352|end_char=353
+19	charge	charge	NOUN	NN	Number=Sing	20	compound	_	start_char=354|end_char=360
+20	shot	shot	NOUN	NN	Number=Sing	7	conj	_	start_char=361|end_char=365
+21	for	for	ADP	IN	_	22	case	_	start_char=366|end_char=369
+22	tanks	tank	NOUN	NNS	Number=Plur	20	nmod	_	start_char=370|end_char=375
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=376|end_char=379
+24	helicopters	helicopter	NOUN	NNS	Number=Plur	22	conj	_	start_char=380|end_char=391
+
+1	gluon	gluon	NOUN	NN	Number=Sing	2	nsubj	_	start_char=393|end_char=398
+2	gun=point	gun=point	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=399|end_char=408
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=409|end_char=411
+4	at	at	ADP	IN	_	5	case	_	start_char=412|end_char=414
+5	something	something	NOUN	NN	Number=Sing	2	obl	_	start_char=415|end_char=424
+6	,	,	PUNCT	,	_	8	punct	_	start_char=424|end_char=425
+7	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nsubj	_	start_char=426|end_char=429
+8	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	2	parataxis	_	start_char=430|end_char=434
+9	,	,	PUNCT	,	_	11	punct	_	start_char=434|end_char=435
+10	even	even	ADV	RB	_	11	advmod	_	start_char=436|end_char=440
+11	gargantuas	gargantuas	PROPN	NNP	Number=Sing	8	appos	_	start_char=441|end_char=451
+
+1	hivehand=firing	hivehand=f	VERB	VBG	VerbForm=Ger	0	root	_	start_char=453|end_char=468
+2	from	from	ADP	IN	_	4	case	_	start_char=469|end_char=473
+3	behind	behind	ADP	IN	_	4	case	_	start_char=474|end_char=480
+4	cover	cover	NOUN	NN	Number=Sing	1	obl	_	start_char=481|end_char=486
+
+1	grenades	grenade	NOUN	NNS	Number=Plur	0	root	_	start_char=488|end_char=496
+2	,	,	PUNCT	,	_	3	punct	_	start_char=496|end_char=497
+3	snarks=flushing	snarks=flush	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=498|end_char=513
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=514|end_char=517
+5	enemies	enemy	NOUN	NNS	Number=Plur	3	obj	_	start_char=518|end_char=525
+6	,	,	PUNCT	,	_	8	punct	_	start_char=525|end_char=526
+7	crowd	crowd	NOUN	NN	Number=Sing	8	compound	_	start_char=527|end_char=532
+8	control	control	NOUN	NN	Number=Sing	1	parataxis	_	start_char=533|end_char=540
+
+1	trip	trip	NOUN	NN	Number=Sing	2	compound	_	start_char=542|end_char=546
+2	mines	mine	NOUN	NNS	Number=Plur	0	root	_	start_char=547|end_char=552
+3	,	,	PUNCT	,	_	2	punct	_	start_char=552|end_char=553
+4	satchel	satchel	NOUN	NN	Number=Sing	5	compound	_	start_char=554|end_char=561
+5	charges=traps	charges=traps	NOUN	NN	Number=Sing	2	conj	_	start_char=562|end_char=575
+
+1	these	this	PRON	DT	Number=Plur|PronType=Dem	7	nsubj	_	start_char=577|end_char=582
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=583|end_char=586
+3	not	not	PART	RB	_	7	advmod	_	start_char=587|end_char=590
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=591|end_char=594
+5	sole	sole	ADJ	JJ	Degree=Pos	7	amod	_	start_char=595|end_char=599
+6	intended	intend	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	start_char=600|end_char=608
+7	uses	use	NOUN	NNS	Number=Plur	0	root	_	start_char=609|end_char=613
+8	for	for	ADP	IN	_	10	case	_	start_char=614|end_char=617
+9	these	this	DET	DT	Number=Plur|PronType=Dem	10	det	_	start_char=618|end_char=623
+10	weapons	weapon	NOUN	NNS	Number=Plur	7	nmod	_	start_char=624|end_char=631
+11	,	,	PUNCT	,	_	15	punct	_	start_char=631|end_char=632
+12	but	but	CCONJ	CC	_	15	cc	_	start_char=633|end_char=636
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=637|end_char=641
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=642|end_char=645
+15	good	good	ADJ	JJ	Degree=Pos	7	conj	_	start_char=646|end_char=650
+16	at	at	ADP	IN	_	17	case	_	start_char=651|end_char=653
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=654|end_char=656
+18	.	.	PUNCT	.	_	7	punct	_	start_char=656|end_char=657
+

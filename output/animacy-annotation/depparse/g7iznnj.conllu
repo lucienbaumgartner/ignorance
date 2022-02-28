@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	always	always	ADV	RB	_	4	advmod	_	start_char=4|end_char=10
+4	shocked	shocked	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=18
+5	at	at	SCONJ	IN	_	7	mark	_	start_char=19|end_char=21
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=22|end_char=25
+7	oblivious	oblivious	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=26|end_char=35
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=36|end_char=39
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=40|end_char=47
+10	of	of	ADP	IN	_	13	case	_	start_char=48|end_char=50
+11	one	one	NUM	CD	NumType=Card	13	nmod:poss	_	start_char=51|end_char=54
+12	's	's	PART	POS	_	11	case	_	start_char=54|end_char=56
+13	surroundings	surroundings	NOUN	NNS	Number=Plur	9	obl	_	start_char=57|end_char=69
+14	some	some	DET	DT	_	15	det	_	start_char=70|end_char=74
+15	people	people	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=75|end_char=81
+16	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=82|end_char=85
+17	be	be	VERB	VB	VerbForm=Inf	13	acl:relcl	_	start_char=86|end_char=88
+18	.	.	PUNCT	.	_	4	punct	_	start_char=88|end_char=89
+
+1	Like	like	INTJ	UH	_	7	discourse	_	start_char=90|end_char=94
+2	,	,	PUNCT	,	_	7	punct	_	start_char=94|end_char=95
+3	some	some	DET	DT	_	4	det	_	start_char=96|end_char=100
+4	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=101|end_char=107
+5	just	just	ADV	RB	_	7	advmod	_	start_char=108|end_char=112
+6	utterly	utterly	ADV	RB	_	7	advmod	_	start_char=113|end_char=120
+7	lack	lack	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=121|end_char=125
+8	spacial	spacial	ADJ	JJ	Degree=Pos	9	amod	_	start_char=126|end_char=133
+9	awareness	awareness	NOUN	NN	Number=Sing	7	obj	_	start_char=134|end_char=143
+10	.	.	PUNCT	.	_	7	punct	_	start_char=143|end_char=144
+

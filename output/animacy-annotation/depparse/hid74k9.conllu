@@ -1,0 +1,31 @@
+1	So	so	ADV	RB	_	3	advmod	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	admit	admit	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=13|end_char=16
+5	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=16|end_char=19
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=20|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	?	?	PUNCT	.	_	3	punct	_	start_char=43|end_char=44
+
+1	That	that	SCONJ	IN	_	5	mark	_	start_char=45|end_char=49
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=50|end_char=53
+3	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=53|end_char=56
+4	not	not	PART	RB	_	5	advmod	_	start_char=57|end_char=60
+5	willing	willing	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=61|end_char=68
+6	to	to	PART	TO	_	7	mark	_	start_char=69|end_char=71
+7	learn	learn	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=72|end_char=77
+8	about	about	ADP	IN	_	10	case	_	start_char=78|end_char=83
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=84|end_char=87
+10	disorder	disorder	NOUN	NN	Number=Sing	7	obl	_	start_char=88|end_char=96
+11	everyone	everyone	PRON	NN	Number=Sing	13	nsubj	_	start_char=97|end_char=105
+12	here	here	ADV	RB	PronType=Dem	11	advmod	_	start_char=106|end_char=110
+13	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=111|end_char=116
+14	to	to	PART	TO	_	15	mark	_	start_char=117|end_char=119
+15	think	think	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=120|end_char=125
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=126|end_char=130
+17	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	_	start_char=131|end_char=135
+18	everything	everything	PRON	NN	Number=Sing	17	obj	_	start_char=136|end_char=146
+19	about	about	ADP	IN	_	17	obl	_	start_char=147|end_char=152
+20	?	?	PUNCT	.	_	13	punct	_	start_char=152|end_char=153
+

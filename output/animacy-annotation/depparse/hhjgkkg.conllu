@@ -1,0 +1,26 @@
+1	DD	DD	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=5
+3	super	super	ADV	RB	_	4	advmod	_	start_char=6|end_char=11
+4	attainable	attainable	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=22
+5	,	,	PUNCT	,	_	4	punct	_	start_char=22|end_char=23
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=24|end_char=25
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	start_char=26|end_char=29
+8	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	4	parataxis	_	start_char=30|end_char=36
+9	to	to	PART	TO	_	10	mark	_	start_char=37|end_char=39
+10	get	get	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=40|end_char=43
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=44|end_char=45
+12	complete	complete	ADJ	JJ	Degree=Pos	13	amod	_	start_char=46|end_char=54
+13	set	set	NOUN	NN	Number=Sing	10	obj	_	start_char=55|end_char=58
+14	of	of	ADP	IN	_	15	case	_	start_char=59|end_char=61
+15	Batman	Batman	PROPN	NNP	Number=Sing	13	nmod	_	start_char=62|end_char=68
+16	when	when	SCONJ	WRB	PronType=Int	19	mark	_	start_char=69|end_char=73
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=74|end_char=75
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=76|end_char=79
+19	naive	naive	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=80|end_char=85
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=86|end_char=89
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	19	conj	_	start_char=90|end_char=98
+22	of	of	ADP	IN	_	23	case	_	start_char=99|end_char=101
+23	money	money	NOUN	NN	Number=Sing	21	obl	_	start_char=102|end_char=107
+24	lol	lol	INTJ	UH	_	4	discourse	_	start_char=108|end_char=111
+25	.	.	PUNCT	.	_	4	punct	_	start_char=111|end_char=112
+

@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=6
+3	not	not	PART	RB	_	4	advmod	_	start_char=7|end_char=10
+4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=11|end_char=15
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=16|end_char=18
+6	,	,	PUNCT	,	_	9	punct	_	start_char=18|end_char=19
+7	but	but	CCONJ	CC	_	9	cc	_	start_char=20|end_char=23
+8	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=24|end_char=25
+9	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=26|end_char=30
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=31|end_char=34
+11	premise	premise	NOUN	NN	Number=Sing	9	obj	_	start_char=35|end_char=42
+12	and	and	CCONJ	CC	_	17	cc	_	start_char=43|end_char=46
+13	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=47|end_char=48
+14	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=49|end_char=51
+15	already	already	ADV	RB	_	17	advmod	_	start_char=52|end_char=59
+16	well	well	ADV	RB	Degree=Pos	17	advmod	_	start_char=60|end_char=64
+17	aware	aware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=65|end_char=70
+18	of	of	SCONJ	IN	_	20	mark	_	start_char=71|end_char=73
+19	how	how	SCONJ	WRB	PronType=Int	20	mark	_	start_char=74|end_char=77
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	advcl	_	start_char=78|end_char=86
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=87|end_char=90
+22	complacent	complacent	ADJ	JJ	Degree=Pos	20	conj	_	start_char=91|end_char=101
+23	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	24	nmod:poss	_	start_char=102|end_char=104
+24	species	species	NOUN	NNS	Number=Plur	25	nsubj	_	start_char=105|end_char=112
+25	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=113|end_char=116
+26	...	...	PUNCT	.	_	4	punct	_	start_char=116|end_char=119
+

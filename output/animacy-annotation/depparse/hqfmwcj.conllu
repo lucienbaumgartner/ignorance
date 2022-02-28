@@ -1,0 +1,26 @@
+1	Another	another	DET	DT	_	5	det	_	start_char=0|end_char=7
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=8|end_char=16
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=17|end_char=20
+4	baseless	baseless	ADJ	JJ	Degree=Pos	2	conj	_	start_char=21|end_char=29
+5	opinion	opinion	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=37
+6	from	from	ADP	IN	_	10	case	_	start_char=38|end_char=42
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=43|end_char=46
+8	resident	resident	NOUN	NN	Number=Sing	10	compound	_	start_char=47|end_char=55
+9	bleeding	bleed	NOUN	NN	Number=Sing	10	compound	_	start_char=56|end_char=64
+10	heart	heart	NOUN	NN	Number=Sing	5	nmod	_	start_char=65|end_char=70
+11	.	.	PUNCT	.	_	5	punct	_	start_char=70|end_char=71
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=72|end_char=73
+2	honestly	honestly	ADV	RB	_	3	advmod	_	start_char=74|end_char=82
+3	cringe	cringe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=83|end_char=89
+4	anytime	anytime	ADV	RB	_	3	advmod	_	start_char=90|end_char=97
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=98|end_char=99
+6	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=100|end_char=103
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=104|end_char=107
+8	write	write	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=108|end_char=113
+9	stuff	stuff	NOUN	NN	Number=Sing	8	obj	_	start_char=114|end_char=119
+10	in	in	ADP	IN	_	12	case	_	start_char=120|end_char=122
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=123|end_char=127
+12	sub	sub	NOUN	NN	Number=Sing	8	obl	_	start_char=128|end_char=131
+13	.	.	PUNCT	.	_	3	punct	_	start_char=131|end_char=132
+

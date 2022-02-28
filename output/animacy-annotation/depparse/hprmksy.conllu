@@ -1,0 +1,65 @@
+1	By	by	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	definition	definition	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=13
+3	.	.	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+
+1	Each	each	DET	DT	_	2	det	_	start_char=15|end_char=19
+2	rotation	rotation	NOUN	NN	Number=Sing	6	nsubj	_	start_char=20|end_char=28
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=29|end_char=31
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=32|end_char=33
+5	New	New	ADJ	JJ	Degree=Pos	6	amod	_	start_char=34|end_char=37
+6	rotation	rotation	NOUN	NN	Number=Sing	0	root	_	start_char=38|end_char=46
+7	.	.	PUNCT	.	_	6	punct	_	start_char=46|end_char=47
+
+1	But	but	CCONJ	CC	_	6	cc	_	start_char=48|end_char=51
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=52|end_char=53
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=54|end_char=57
+4	right	right	ADV	RB	_	6	advmod	_	start_char=58|end_char=63
+5	All	all	ADV	RB	_	6	advmod	_	start_char=64|end_char=67
+6	along	along	ADV	RB	_	0	root	_	start_char=68|end_char=73
+7	.	.	PUNCT	.	_	6	punct	_	start_char=73|end_char=74
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	4	amod	_	start_char=75|end_char=83
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=84|end_char=87
+3	stupid	stupid	ADJ	JJ	Degree=Pos	1	conj	_	start_char=88|end_char=94
+4	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=95|end_char=101
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=102|end_char=105
+2	impossible	impossible	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=116
+3	to	to	PART	TO	_	4	mark	_	start_char=117|end_char=119
+4	talk	talk	VERB	VB	VerbForm=Inf	2	csubj	_	start_char=120|end_char=124
+5	to	to	ADP	IN	_	4	obl	_	start_char=125|end_char=127
+6	.	.	PUNCT	.	_	2	punct	_	start_char=127|end_char=128
+
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=129|end_char=134
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=135|end_char=140
+3	dense	dense	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=141|end_char=146
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=147|end_char=150
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=151|end_char=159
+6	.	.	PUNCT	.	_	1	punct	_	start_char=159|end_char=160
+
+1	Hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=161|end_char=165
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=166|end_char=168
+3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=169|end_char=174
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=175|end_char=178
+5	world	world	NOUN	NN	Number=Sing	3	obj	_	start_char=179|end_char=184
+6	simple	simple	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=185|end_char=191
+7	enough	enough	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=192|end_char=198
+8	for	for	ADP	IN	_	11	mark	_	start_char=199|end_char=202
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obl	_	start_char=203|end_char=206
+10	to	to	PART	TO	_	11	mark	_	start_char=207|end_char=209
+11	navigate	navigate	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=210|end_char=218
+12	.	.	PUNCT	.	_	1	punct	_	start_char=218|end_char=219
+
+1	Otherwhise	otherwhise	ADV	RB	_	4	advmod	_	start_char=221|end_char=231
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=232|end_char=233
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=234|end_char=236
+4	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=237|end_char=241
+5	there	there	PRON	EX	_	6	expl	_	start_char=242|end_char=247
+6	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=248|end_char=251
+7	professional	professional	ADJ	JJ	Degree=Pos	6	nsubj	_	start_char=252|end_char=264
+8	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=265|end_char=268
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=269|end_char=272
+10	help	help	VERB	VB	VerbForm=Inf	7	acl:relcl	_	start_char=273|end_char=277
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=278|end_char=281
+12	:)	:)	SYM	NFP	_	4	discourse	_	start_char=282|end_char=284
+

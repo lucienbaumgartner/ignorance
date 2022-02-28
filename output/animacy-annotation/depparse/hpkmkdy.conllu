@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	did	do	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=5
+3	actually	actually	ADV	RB	Degree=Pos	2	advmod	_	start_char=6|end_char=14
+4	because	because	SCONJ	IN	_	6	mark	_	start_char=15|end_char=22
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=23|end_char=26
+6	comment	comment	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=27|end_char=34
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=35|end_char=38
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=39|end_char=47
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=48|end_char=51
+10	dumb	dumb	ADJ	JJ	Degree=Pos	8	conj	_	start_char=52|end_char=56
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=57|end_char=60
+12	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=61|end_char=64
+13	never	never	ADV	RB	_	14	advmod	_	start_char=65|end_char=70
+14	had	have	VERB	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	conj	_	start_char=71|end_char=74
+15	to	to	PART	TO	_	16	mark	_	start_char=75|end_char=77
+16	talk	talk	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=78|end_char=82
+17	because	because	SCONJ	IN	_	21	mark	_	start_char=83|end_char=90
+18	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	21	nsubj	_	start_char=91|end_char=94
+19	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=95|end_char=97
+20	n’t	not	PART	RB	Polarity=Neg	21	advmod	_	start_char=97|end_char=100
+21	play	play	VERB	VB	VerbForm=Inf	16	advcl	_	start_char=101|end_char=105
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=106|end_char=109
+23	game	game	NOUN	NN	Number=Sing	21	obj	_	start_char=110|end_char=114
+

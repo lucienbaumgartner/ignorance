@@ -1,0 +1,54 @@
+1	Wtf	Wtf	PROPN	NNP	Number=Sing	5	obj	_	start_char=0|end_char=3
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=4|end_char=8
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=9|end_char=13
+4	even	even	ADV	RB	_	5	advmod	_	start_char=14|end_char=18
+5	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=19|end_char=23
+6	?	?	PUNCT	.	_	5	punct	_	start_char=23|end_char=24
+
+1	Major	major	ADJ	JJ	Degree=Pos	2	nsubj	_	start_char=25|end_char=30
+2	trying	try	VERB	VBG	VerbForm=Ger	0	root	_	start_char=31|end_char=37
+3	to	to	PART	TO	_	4	mark	_	start_char=38|end_char=40
+4	clever	clever	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=41|end_char=47
+5	fail	fail	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=48|end_char=52
+6	.	.	PUNCT	.	_	2	punct	_	start_char=52|end_char=53
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=54|end_char=55
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=56|end_char=60
+3	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=61|end_char=64
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=65|end_char=68
+5	media	media	NOUN	NN	Number=Sing	6	nsubj	_	start_char=69|end_char=74
+6	drilled	drill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=75|end_char=82
+7	into	into	ADP	IN	_	9	case	_	start_char=83|end_char=87
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=88|end_char=91
+9	heads	head	NOUN	NNS	Number=Plur	6	obl	_	start_char=92|end_char=97
+10	of	of	ADP	IN	_	13	case	_	start_char=98|end_char=100
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=101|end_char=104
+12	weak	weak	ADJ	JJ	Degree=Pos	13	amod	_	start_char=105|end_char=109
+13	minded	minded	ADJ	JJ	Degree=Pos	9	nmod	_	start_char=110|end_char=116
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=117|end_char=120
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=121|end_char=129
+16	that	that	SCONJ	IN	_	20	mark	_	start_char=130|end_char=134
+17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=135|end_char=137
+18	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=137|end_char=139
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=140|end_char=141
+20	racist	racist	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=142|end_char=148
+21	.	.	PUNCT	.	_	2	punct	_	start_char=148|end_char=149
+
+1	Literally	literally	ADV	RB	_	4	advmod	_	start_char=150|end_char=159
+2	nothing	nothing	PRON	NN	Number=Sing	4	nsubj:pass	_	start_char=160|end_char=167
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=168|end_char=171
+4	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=172|end_char=177
+5	on	on	ADP	IN	_	7	case	_	start_char=178|end_char=180
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=181|end_char=184
+7	phone	phone	NOUN	NN	Number=Sing	4	obl	_	start_char=185|end_char=190
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=191|end_char=193
+9	computer	computer	NOUN	NN	Number=Sing	7	conj	_	start_char=194|end_char=202
+10	involving	involve	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=203|end_char=212
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=213|end_char=215
+12	linking	link	VERB	VBG	VerbForm=Ger	10	conj	_	start_char=216|end_char=223
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=224|end_char=227
+14	to	to	ADP	IN	_	16	case	_	start_char=228|end_char=230
+15	white	white	ADJ	JJ	Degree=Pos	16	amod	_	start_char=231|end_char=236
+16	supremacy	supremacy	NOUN	NN	Number=Sing	12	obl	_	start_char=237|end_char=246
+17	.	.	PUNCT	.	_	4	punct	_	start_char=246|end_char=247
+

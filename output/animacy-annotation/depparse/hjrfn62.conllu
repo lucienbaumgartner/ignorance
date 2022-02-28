@@ -1,0 +1,82 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=4
+3	not	not	PART	RB	_	2	advmod	_	start_char=5|end_char=8
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=9|end_char=13
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=14|end_char=16
+6	actively	actively	ADV	RB	_	7	advmod	_	start_char=17|end_char=25
+7	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=26|end_char=32
+8	people	people	NOUN	NNS	Number=Plur	7	obj	_	start_char=33|end_char=39
+9	to	to	PART	TO	_	10	mark	_	start_char=40|end_char=42
+10	die	die	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=43|end_char=46
+11	,	,	PUNCT	,	_	17	punct	_	start_char=46|end_char=47
+12	but	but	CCONJ	CC	_	17	cc	_	start_char=48|end_char=51
+13	that	that	SCONJ	IN	_	17	mark	_	start_char=52|end_char=56
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=57|end_char=59
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=60|end_char=63
+16	grossly	grossly	ADV	RB	_	17	advmod	_	start_char=64|end_char=71
+17	negligent	negligent	ADJ	JJ	Degree=Pos	7	conj	_	start_char=72|end_char=81
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=82|end_char=85
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=86|end_char=94
+20	of	of	ADP	IN	_	21	case	_	start_char=95|end_char=97
+21	procedure	procedure	NOUN	NN	Number=Sing	19	obl	_	start_char=98|end_char=107
+22	.	.	PUNCT	.	_	2	punct	_	start_char=107|end_char=108
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=109|end_char=114
+2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=115|end_char=119
+3	advances	advance	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=120|end_char=128
+4	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=129|end_char=134
+5	,	,	PUNCT	,	_	2	punct	_	start_char=134|end_char=135
+6	unconscious	unconscious	ADJ	JJ	Degree=Pos	7	amod	_	start_char=136|end_char=147
+7	people	people	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=148|end_char=154
+8	getting	get	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=155|end_char=162
+9	crowd	crowd	NOUN	NN	Number=Sing	8	obj	_	start_char=163|end_char=168
+10	surfed	surf	VERB	VBN	Tense=Past|VerbForm=Part	8	xcomp	_	start_char=169|end_char=175
+11	put	put	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=176|end_char=179
+12	if	if	SCONJ	IN	_	13	mark	_	start_char=180|end_char=182
+13	there	there	ADV	RB	PronType=Dem	11	advcl	_	start_char=183|end_char=188
+14	.	.	PUNCT	.	_	2	punct	_	start_char=188|end_char=189
+
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=190|end_char=196
+2	telling	tell	VERB	VBG	VerbForm=Ger	0	root	_	start_char=197|end_char=204
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=205|end_char=208
+4	to	to	PART	TO	_	5	mark	_	start_char=209|end_char=211
+5	stop	stop	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=212|end_char=216
+6	.	.	PUNCT	.	_	2	punct	_	start_char=216|end_char=217
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=219|end_char=222
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=223|end_char=226
+3	claim	claim	VERB	VB	VerbForm=Inf	0	root	_	start_char=227|end_char=232
+4	ignorance	ignorance	NOUN	NN	Number=Sing	3	obj	_	start_char=233|end_char=242
+5	on	on	ADP	IN	_	6	case	_	start_char=243|end_char=245
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	start_char=246|end_char=250
+7	.	.	PUNCT	.	_	3	punct	_	start_char=250|end_char=251
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=252|end_char=253
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=253|end_char=256
+3	worked	work	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=257|end_char=263
+4	onstage	onstage	ADV	RB	_	3	advmod	_	start_char=264|end_char=271
+5	at	at	ADP	IN	_	8	case	_	start_char=272|end_char=274
+6	many	many	ADJ	JJ	Degree=Pos	8	amod	_	start_char=275|end_char=279
+7	large	large	ADJ	JJ	Degree=Pos	8	amod	_	start_char=280|end_char=285
+8	festivals	festival	NOUN	NNS	Number=Plur	3	obl	_	start_char=286|end_char=295
+9	.	.	PUNCT	.	_	3	punct	_	start_char=295|end_char=296
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=297|end_char=300
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=301|end_char=305
+3	what	what	PRON	WP	PronType=Int	5	nsubj	_	start_char=306|end_char=310
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=310|end_char=312
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=313|end_char=318
+6	on	on	ADP	RP	_	5	compound:prt	_	start_char=319|end_char=321
+7	.	.	PUNCT	.	_	2	punct	_	start_char=321|end_char=322
+
+1	Both	both	DET	DT	_	2	cc:preconj	_	start_char=323|end_char=327
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=328|end_char=330
+3	and	and	CCONJ	CC	_	6	cc	_	start_char=331|end_char=334
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=335|end_char=338
+5	event	event	NOUN	NN	Number=Sing	6	compound	_	start_char=339|end_char=344
+6	organisers	organiser	NOUN	NNS	Number=Plur	2	conj	_	start_char=345|end_char=355
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	start_char=356|end_char=360
+8	grossly	grossly	ADV	RB	_	9	advmod	_	start_char=361|end_char=368
+9	negligent	negligent	ADJ	JJ	Degree=Pos	0	root	_	start_char=369|end_char=378
+10	.	.	PUNCT	.	_	9	punct	_	start_char=378|end_char=379
+

@@ -1,0 +1,25 @@
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=12|end_char=15
+4	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=16|end_char=20
+5	recognized	recognize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=21|end_char=31
+6	by	by	ADP	IN	_	7	case	_	start_char=32|end_char=34
+7	someone	someone	PRON	NN	Number=Sing	5	obl	_	start_char=35|end_char=42
+8	and	and	CCONJ	CC	_	11	cc	_	start_char=43|end_char=46
+9	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=47|end_char=51
+10	publically	publically	ADV	RB	_	11	advmod	_	start_char=52|end_char=62
+11	shamed	shame	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	start_char=63|end_char=69
+12	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=71|end_char=74
+2	selfless	selfless	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=83
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=84|end_char=87
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=88|end_char=95
+5	of	of	ADP	IN	_	7	case	_	start_char=96|end_char=98
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=99|end_char=103
+7	surroundings	surroundings	NOUN	NNS	Number=Plur	4	obl	_	start_char=104|end_char=116
+8	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=117|end_char=120
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=121|end_char=124
+10	be	be	VERB	VB	VerbForm=Inf	2	cop	_	start_char=125|end_char=127
+11	?!?!	?!?!	PUNCT	.	_	2	punct	_	start_char=127|end_char=131
+

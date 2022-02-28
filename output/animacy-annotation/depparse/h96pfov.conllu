@@ -1,0 +1,11 @@
+1	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=4|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj:pass	_	start_char=8|end_char=11
+4	so	so	ADV	RB	_	5	advmod	_	start_char=12|end_char=14
+5	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=15|end_char=24
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=29|end_char=36
+8	of	of	ADP	IN	_	9	case	_	start_char=37|end_char=39
+9	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=40|end_char=47
+10	?	?	PUNCT	.	_	5	punct	_	start_char=47|end_char=48
+

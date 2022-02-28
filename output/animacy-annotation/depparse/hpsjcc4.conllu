@@ -1,0 +1,35 @@
+1	Uh	uh	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	3	punct	_	start_char=2|end_char=3
+3	no	no	INTJ	UH	Polarity=Neg	1	discourse	_	start_char=4|end_char=6
+4	.	.	PUNCT	.	_	1	punct	_	start_char=6|end_char=7
+
+1	T	T	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=8|end_char=9
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=12
+3	as	as	ADV	RB	_	4	advmod	_	start_char=13|end_char=15
+4	basic	basic	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=21
+5	,	,	PUNCT	,	_	6	punct	_	start_char=21|end_char=22
+6	boring	boring	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=29
+7	,	,	PUNCT	,	_	8	punct	_	start_char=29|end_char=30
+8	entitled	entitled	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+9	,	,	PUNCT	,	_	10	punct	_	start_char=39|end_char=40
+10	bitchy	bitchy	ADJ	JJ	Degree=Pos	4	conj	_	start_char=41|end_char=47
+11	,	,	PUNCT	,	_	12	punct	_	start_char=47|end_char=48
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=49|end_char=57
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=58|end_char=61
+14	insufferable	insufferable	ADJ	JJ	Degree=Pos	4	conj	_	start_char=62|end_char=74
+15	as	as	ADP	IN	_	16	case	_	start_char=75|end_char=77
+16	O.	O.	PROPN	NNP	Number=Sing	4	obl	_	start_char=78|end_char=80
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=81|end_char=82
+18	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=83|end_char=85
+19	think	think	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=86|end_char=91
+20	O	o	PRON	PRP	Number=Sing|PronType=Prs	22	nsubj	_	start_char=92|end_char=93
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=94|end_char=96
+22	more	more	ADJ	JJR	Degree=Cmp	19	ccomp	_	start_char=97|end_char=101
+23	of	of	ADP	IN	_	25	case	_	start_char=102|end_char=104
+24	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	start_char=105|end_char=106
+25	grifter	grifter	NOUN	NN	Number=Sing	22	obl	_	start_char=107|end_char=114
+26	and	and	CCONJ	CC	_	27	cc	_	start_char=115|end_char=118
+27	conniving	connive	VERB	VBG	VerbForm=Ger	25	conj	_	start_char=119|end_char=128
+28	than	than	ADP	IN	_	29	case	_	start_char=129|end_char=133
+29	T.	T.	PROPN	NNP	Number=Sing	27	obl	_	start_char=134|end_char=136
+

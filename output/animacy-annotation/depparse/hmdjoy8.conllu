@@ -1,0 +1,75 @@
+1	dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Please	please	INTJ	UH	_	4	discourse	_	start_char=6|end_char=12
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=13|end_char=14
+3	literally	literally	ADV	RB	_	4	advmod	_	start_char=15|end_char=24
+4	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=25|end_char=29
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=30|end_char=32
+6	at	at	ADP	IN	_	8	case	_	start_char=33|end_char=35
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=36|end_char=40
+8	point	point	NOUN	NN	Number=Sing	4	obl	_	start_char=41|end_char=46
+9	.	.	PUNCT	.	_	4	punct	_	start_char=46|end_char=47
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=48|end_char=49
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=50|end_char=52
+3	n't	not	PART	RB	_	4	advmod	_	start_char=52|end_char=55
+4	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=56|end_char=66
+5	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=67|end_char=70
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=71|end_char=73
+7	adult	adult	NOUN	NN	Number=Sing	11	nsubj	_	start_char=74|end_char=79
+8	could	could	AUX	MD	VerbForm=Fin	11	aux	_	start_char=80|end_char=85
+9	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=86|end_char=88
+10	so	so	ADV	RB	_	11	advmod	_	start_char=89|end_char=91
+11	dense	dense	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=92|end_char=97
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=98|end_char=101
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=102|end_char=110
+14	of	of	ADP	IN	_	16	case	_	start_char=111|end_char=113
+15	actual	actual	ADJ	JJ	Degree=Pos	16	amod	_	start_char=114|end_char=120
+16	science	science	NOUN	NN	Number=Sing	13	obl	_	start_char=121|end_char=128
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=129|end_char=132
+18	news	news	NOUN	NN	Number=Sing	16	conj	_	start_char=133|end_char=137
+19	.	.	PUNCT	.	_	4	punct	_	start_char=137|end_char=138
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=139|end_char=141
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=141|end_char=143
+3	almost	almost	ADV	RB	Degree=Pos	6	advmod	_	start_char=144|end_char=150
+4	like	like	SCONJ	IN	_	6	mark	_	start_char=151|end_char=155
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=156|end_char=159
+6	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=160|end_char=162
+7	out	out	ADP	IN	_	10	case	_	start_char=163|end_char=166
+8	of	of	ADP	IN	_	10	case	_	start_char=167|end_char=169
+9	ur	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=170|end_char=172
+10	way	way	NOUN	NN	Number=Sing	6	obl	_	start_char=173|end_char=176
+11	to	to	PART	TO	_	12	mark	_	start_char=177|end_char=179
+12	read	read	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=180|end_char=184
+13	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=185|end_char=188
+14	least	least	ADJ	JJS	Degree=Sup	15	advmod	_	start_char=189|end_char=194
+15	credible	credible	ADJ	JJ	Degree=Pos	18	amod	_	start_char=195|end_char=203
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=204|end_char=207
+17	far-fetched	far-fetched	ADJ	JJ	Degree=Pos	15	conj	_	start_char=208|end_char=219
+18	studies	study	NOUN	NNS	Number=Plur	12	obj	_	start_char=220|end_char=227
+19	.	.	PUNCT	.	_	6	punct	_	start_char=227|end_char=228
+
+1	Please	please	INTJ	UH	_	5	discourse	_	start_char=229|end_char=235
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=236|end_char=237
+3	really	really	ADV	RB	_	5	advmod	_	start_char=238|end_char=244
+4	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=245|end_char=247
+5	wasting	waste	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=248|end_char=255
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=256|end_char=258
+7	time	time	NOUN	NN	Number=Sing	5	obj	_	start_char=259|end_char=263
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=264|end_char=267
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=268|end_char=269
+10	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=270|end_char=274
+11	up	up	ADP	RP	_	10	compound:prt	_	start_char=275|end_char=277
+12	lol	lol	INTJ	UH	_	5	discourse	_	start_char=278|end_char=281
+13	.	.	PUNCT	.	_	5	punct	_	start_char=281|end_char=282
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=283|end_char=286
+2	anti-vaxxers	anti-vaxxer	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=287|end_char=299
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=300|end_char=304
+4	give	give	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=305|end_char=309
+5	yourselves	yourselves	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	iobj	_	start_char=310|end_char=320
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=321|end_char=322
+7	rep	rep	NOUN	NN	Number=Sing	4	obj	_	start_char=323|end_char=326
+

@@ -1,0 +1,92 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	While	while	SCONJ	IN	_	6	mark	_	start_char=4|end_char=9
+2	Biden	Biden	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=10|end_char=15
+3	may	may	AUX	MD	VerbForm=Fin	6	aux	_	start_char=16|end_char=19
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=20|end_char=22
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=23|end_char=24
+6	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=31
+
+1	&gt	&gt	INTJ	UH	_	6	discourse	_	start_char=33|end_char=36
+2	;	;	PUNCT	:	_	6	punct	_	start_char=36|end_char=37
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=37|end_char=40
+4	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=40|end_char=43
+5	extremely	extremely	ADV	RB	_	6	advmod	_	start_char=44|end_char=53
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=62
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=63|end_char=66
+8	misguided	misguided	ADJ	JJ	Degree=Pos	6	conj	_	start_char=67|end_char=76
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=78|end_char=80
+2	youre	your	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=81|end_char=86
+3	agreeing	agree	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=87|end_char=95
+4	with	with	ADP	IN	_	5	case	_	start_char=96|end_char=100
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=101|end_char=103
+6	while	while	SCONJ	IN	_	7	mark	_	start_char=104|end_char=109
+7	calling	call	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=110|end_char=117
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=118|end_char=120
+9	misguided	misguided	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=121|end_char=130
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=131|end_char=134
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=135|end_char=143
+12	?	?	PUNCT	.	_	3	punct	_	start_char=143|end_char=144
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=145|end_char=149
+2	pretty	pretty	ADV	RB	_	3	amod	_	start_char=150|end_char=156
+3	suspect	suspect	NOUN	NN	Number=Sing	0	root	_	start_char=157|end_char=164
+4	.	.	PUNCT	.	_	3	punct	_	start_char=164|end_char=165
+
+1	Also	also	ADV	RB	_	3	advmod	_	start_char=168|end_char=172
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=173|end_char=177
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=178|end_char=181
+4	to	to	PART	TO	_	8	mark	_	start_char=182|end_char=184
+5	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=185|end_char=187
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=188|end_char=191
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	start_char=192|end_char=197
+8	time	time	NOUN	NN	Number=Sing	3	xcomp	_	start_char=198|end_char=202
+9	ive	ive	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=203|end_char=206
+10	ever	ever	ADV	RB	_	11	advmod	_	start_char=207|end_char=211
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	_	start_char=212|end_char=216
+12	anyone	anyone	PRON	NN	Number=Sing	13	nsubj	_	start_char=217|end_char=223
+13	call	call	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=224|end_char=228
+14	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	13	obj	_	start_char=229|end_char=239
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=240|end_char=241
+16	"	"	PUNCT	``	_	17	punct	_	start_char=242|end_char=243
+17	person	person	NOUN	NN	Number=Sing	13	obj	_	start_char=243|end_char=249
+18	of	of	ADP	IN	_	19	case	_	start_char=250|end_char=252
+19	color	color	NOUN	NN	Number=Sing	17	nmod	_	start_char=253|end_char=258
+20	"	"	PUNCT	''	_	17	punct	_	start_char=258|end_char=259
+21	.	.	PUNCT	.	_	3	punct	_	start_char=259|end_char=260
+
+1	POC	POC	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=261|end_char=264
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=265|end_char=267
+3	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=268|end_char=269
+4	low	low	ADJ	JJ	Degree=Pos	9	amod	_	start_char=270|end_char=273
+5	key	key	ADJ	JJ	Degree=Pos	9	amod	_	start_char=274|end_char=277
+6	racist	racist	ADJ	JJ	Degree=Pos	9	amod	_	start_char=278|end_char=284
+7	white	white	ADJ	JJ	Degree=Pos	8	amod	_	start_char=285|end_char=290
+8	person	person	NOUN	NN	Number=Sing	9	compound	_	start_char=291|end_char=297
+9	word	word	NOUN	NN	Number=Sing	0	root	_	start_char=298|end_char=302
+10	,	,	PUNCT	,	_	9	punct	_	start_char=302|end_char=303
+11	like	like	ADP	IN	_	12	case	_	start_char=304|end_char=308
+12	minority	minority	NOUN	NN	Number=Sing	9	nmod	_	start_char=309|end_char=317
+13	.	.	PUNCT	.	_	9	punct	_	start_char=317|end_char=318
+
+1	Edit-	Edit-	PROPN	NNP	Number=Sing	4	vocative	_	start_char=320|end_char=325
+2	lmao	lmao	INTJ	UH	_	4	discourse	_	start_char=326|end_char=330
+3	just	just	ADV	RB	_	4	advmod	_	start_char=331|end_char=335
+4	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=336|end_char=339
+5	pics	pic	NOUN	NNS	Number=Plur	4	obj	_	start_char=340|end_char=344
+6	of	of	ADP	IN	_	7	case	_	start_char=345|end_char=347
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	nmod	_	start_char=348|end_char=351
+8	.	.	PUNCT	.	_	4	punct	_	start_char=351|end_char=352
+
+1	Certainly	certainly	ADV	RB	_	9	advmod	_	start_char=353|end_char=362
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=363|end_char=366
+3	whitest	whitest	NOUN	NN	Number=Sing	9	nsubj	_	start_char=367|end_char=374
+4	"	"	PUNCT	``	_	5	punct	_	start_char=375|end_char=376
+5	POC	poc	NOUN	NN	Number=Sing	3	appos	_	start_char=376|end_char=379
+6	"	"	PUNCT	''	_	5	punct	_	start_char=379|end_char=380
+7	ive	ive	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=381|end_char=384
+8	ever	ever	ADV	RB	_	9	advmod	_	start_char=385|end_char=389
+9	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=390|end_char=394
+

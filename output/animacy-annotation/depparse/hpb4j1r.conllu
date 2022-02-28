@@ -1,0 +1,21 @@
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=5|end_char=8
+3	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=9|end_char=12
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=13|end_char=16
+5	educate	educate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=17|end_char=24
+6	someone	someone	PRON	NN	Number=Sing	5	obj	_	start_char=25|end_char=32
+7	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=33|end_char=36
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=36|end_char=38
+9	very	very	ADV	RB	_	10	advmod	_	start_char=39|end_char=43
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=44|end_char=52
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=53|end_char=56
+12	stubborn	stubborn	ADJ	JJ	Degree=Pos	10	conj	_	start_char=57|end_char=65
+13	this	this	PRON	DT	Number=Sing|PronType=Dem	17	nsubj	_	start_char=66|end_char=70
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=71|end_char=73
+15	typically	typically	ADV	RB	_	17	advmod	_	start_char=74|end_char=83
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=84|end_char=89
+17	go	go	NOUN	NN	Number=Sing	0	root	_	start_char=90|end_char=92
+18	to	to	ADP	IN	_	19	case	_	start_char=93|end_char=95
+19	defense	defense	NOUN	NN	Number=Sing	17	nmod	_	start_char=96|end_char=103
+20	.	.	PUNCT	.	_	17	punct	_	start_char=103|end_char=104
+

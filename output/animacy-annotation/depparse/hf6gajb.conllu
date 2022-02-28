@@ -1,0 +1,17 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=8|end_char=10
+4	clever	clever	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=30
+7	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+8	things	thing	NOUN	NNS	Number=Plur	6	obl	_	start_char=34|end_char=40
+9	too	too	ADV	RB	_	4	advmod	_	start_char=41|end_char=44
+10	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+
+1	Those	that	PRON	DT	Number=Plur|PronType=Dem	4	nsubj	_	start_char=46|end_char=51
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=52|end_char=55
+3	different	different	ADJ	JJ	Degree=Pos	4	amod	_	start_char=56|end_char=65
+4	intelligences	intelligence	NOUN	NNS	Number=Plur	0	root	_	start_char=66|end_char=79
+5	.	.	PUNCT	.	_	4	punct	_	start_char=79|end_char=80
+

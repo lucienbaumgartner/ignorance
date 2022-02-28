@@ -1,0 +1,99 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	anything	anything	PRON	NN	Number=Sing	9	nsubj:pass	_	start_char=7|end_char=15
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=16|end_char=19
+5	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=20|end_char=24
+6	sexually	sexually	ADV	RB	_	7	advmod	_	start_char=25|end_char=33
+7	attractive	attractive	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=34|end_char=44
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=45|end_char=47
+9	fetishized	fetishize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=48|end_char=58
+10	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	Women	woman	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=60|end_char=65
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=66|end_char=69
+3	sexual	sexual	ADJ	JJ	Degree=Pos	4	amod	_	start_char=70|end_char=76
+4	objects	object	NOUN	NNS	Number=Plur	0	root	_	start_char=77|end_char=84
+5	of	of	ADP	IN	_	6	case	_	start_char=85|end_char=87
+6	desire	desire	NOUN	NN	Number=Sing	4	nmod	_	start_char=88|end_char=94
+7	to	to	ADP	IN	_	8	case	_	start_char=95|end_char=97
+8	men	man	NOUN	NNS	Number=Plur	6	nmod	_	start_char=98|end_char=101
+9	.	.	PUNCT	.	_	4	punct	_	start_char=101|end_char=102
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=103|end_char=105
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=105|end_char=107
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=108|end_char=111
+4	primary	primary	ADJ	JJ	Degree=Pos	5	amod	_	start_char=112|end_char=119
+5	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=120|end_char=125
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=126|end_char=128
+7	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=129|end_char=133
+8	about	about	ADP	IN	_	9	case	_	start_char=134|end_char=139
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obl	_	start_char=140|end_char=143
+10	.	.	PUNCT	.	_	5	punct	_	start_char=143|end_char=144
+
+1	and	and	CCONJ	CC	_	8	cc	_	start_char=145|end_char=148
+2	any	any	DET	DT	_	3	det	_	start_char=149|end_char=152
+3	man	man	NOUN	NN	Number=Sing	8	nsubj	_	start_char=153|end_char=156
+4	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=157|end_char=161
+5	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=162|end_char=166
+6	otherwise	otherwise	ADV	RB	_	8	advmod	_	start_char=167|end_char=176
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=177|end_char=179
+8	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=180|end_char=185
+9	to	to	ADP	IN	_	11	case	_	start_char=186|end_char=188
+10	both	both	CCONJ	CC	_	11	cc:preconj	_	start_char=189|end_char=193
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obl	_	start_char=194|end_char=197
+12	AND	and	CCONJ	CC	_	13	cc	_	start_char=198|end_char=201
+13	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	conj	_	start_char=202|end_char=209
+14	.	.	PUNCT	.	_	8	punct	_	start_char=209|end_char=210
+
+1	men	man	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=211|end_char=214
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=215|end_char=218
+3	possessive	possessive	ADJ	JJ	Degree=Pos	0	root	_	start_char=219|end_char=229
+4	of	of	ADP	IN	_	5	case	_	start_char=230|end_char=232
+5	women	woman	NOUN	NNS	Number=Plur	3	obl	_	start_char=233|end_char=238
+6	.	.	PUNCT	.	_	3	punct	_	start_char=238|end_char=239
+
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=240|end_char=244
+2	always	always	ADV	RB	_	4	advmod	_	start_char=245|end_char=251
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=252|end_char=256
+4	been	be	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=257|end_char=261
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=262|end_char=265
+6	always	always	ADV	RB	_	8	advmod	_	start_char=266|end_char=272
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=273|end_char=277
+8	be	be	VERB	VB	VerbForm=Inf	4	conj	_	start_char=278|end_char=280
+9	.	.	PUNCT	.	_	4	punct	_	start_char=280|end_char=281
+
+1	no	no	DET	DT	_	2	det	_	start_char=282|end_char=284
+2	man	man	NOUN	NN	Number=Sing	3	nsubj	_	start_char=285|end_char=288
+3	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=289|end_char=293
+4	to	to	ADP	IN	_	6	case	_	start_char=294|end_char=296
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=297|end_char=300
+6	club	club	NOUN	NN	Number=Sing	3	obl	_	start_char=301|end_char=305
+7	looking	look	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=306|end_char=313
+8	for	for	ADP	IN	_	11	case	_	start_char=314|end_char=317
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=318|end_char=319
+10	human	human	ADJ	JJ	Degree=Pos	11	amod	_	start_char=320|end_char=325
+11	being	being	NOUN	NN	Number=Sing	7	obl	_	start_char=326|end_char=331
+12	.	.	PUNCT	.	_	3	punct	_	start_char=331|end_char=332
+
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=333|end_char=337
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=337|end_char=340
+3	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=341|end_char=348
+4	for	for	ADP	IN	_	6	case	_	start_char=349|end_char=352
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=353|end_char=354
+6	conquest	conquest	NOUN	NN	Number=Sing	3	obl	_	start_char=355|end_char=363
+7	.	.	PUNCT	.	_	3	punct	_	start_char=363|end_char=364
+
+1	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=365|end_char=369
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	_	start_char=370|end_char=375
+3	premise	premise	NOUN	NN	Number=Sing	5	nsubj	_	start_char=376|end_char=383
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=384|end_char=386
+5	absurd	absurd	ADJ	JJ	Degree=Pos	0	root	_	start_char=387|end_char=393
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=394|end_char=397
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=398|end_char=406
+8	of	of	ADP	IN	_	9	case	_	start_char=407|end_char=409
+9	mankind	mankind	NOUN	NN	Number=Sing	7	obl	_	start_char=410|end_char=417
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=418|end_char=421
+11	sexual	sexual	ADJ	JJ	Degree=Pos	12	amod	_	start_char=422|end_char=428
+12	behavior	behavior	NOUN	NN	Number=Sing	9	conj	_	start_char=429|end_char=437
+13	.	.	PUNCT	.	_	5	punct	_	start_char=437|end_char=438
+

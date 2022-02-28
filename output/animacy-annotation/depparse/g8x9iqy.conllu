@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	hate	hate	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+5	bikers	biker	NOUN	NNS	Number=Plur	4	obj	_	start_char=13|end_char=19
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=20|end_char=23
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=24|end_char=25
+8	wo	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=26|end_char=28
+9	n't	not	PART	RB	_	10	advmod	_	start_char=28|end_char=31
+10	touch	touch	VERB	VB	VerbForm=Inf	4	conj	_	start_char=32|end_char=37
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=38|end_char=39
+12	motorcycle	motorcycle	NOUN	NN	Number=Sing	10	obj	_	start_char=40|end_char=50
+13	.	.	PUNCT	.	_	4	punct	_	start_char=50|end_char=51
+
+1	Mainly	mainly	ADV	RB	_	6	advmod	_	start_char=53|end_char=59
+2	because	because	SCONJ	IN	_	6	mark	_	start_char=60|end_char=67
+3	drivers	driver	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=68|end_char=75
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=76|end_char=79
+5	too	too	ADV	RB	_	6	advmod	_	start_char=80|end_char=83
+6	careless	careless	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=92
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=93|end_char=96
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=97|end_char=104
+9	of	of	ADP	IN	_	11	case	_	start_char=105|end_char=107
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=108|end_char=113
+11	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=114|end_char=126
+12	.	.	PUNCT	.	_	6	punct	_	start_char=126|end_char=127
+

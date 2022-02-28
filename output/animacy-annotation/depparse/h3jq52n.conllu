@@ -1,0 +1,33 @@
+1	Yeah	yeah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	7	punct	_	start_char=4|end_char=5
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=6|end_char=10
+4	one	one	NOUN	NN	Number=Sing	7	nsubj	_	start_char=11|end_char=14
+5	really	really	ADV	RB	Degree=Pos	6	advmod	_	start_char=15|end_char=21
+6	unironically	unironically	ADV	RB	Degree=Pos	7	advmod	_	start_char=22|end_char=34
+7	hurt	hurt	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=35|end_char=39
+8	.	.	PUNCT	.	_	7	punct	_	start_char=39|end_char=40
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=41|end_char=42
+2	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=43|end_char=48
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=48|end_char=51
+4	even	even	ADV	RB	_	5	advmod	_	start_char=52|end_char=56
+5	respond	respond	VERB	VB	VerbForm=Inf	0	root	_	start_char=57|end_char=64
+6	to	to	ADP	IN	_	8	case	_	start_char=65|end_char=67
+7	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=68|end_char=72
+8	level	level	NOUN	NN	Number=Sing	5	obl	_	start_char=73|end_char=78
+9	of	of	ADP	IN	_	10	case	_	start_char=79|end_char=81
+10	vitriol	vitriol	NOUN	NN	Number=Sing	8	nmod	_	start_char=82|end_char=89
+11	,	,	PUNCT	,	_	5	punct	_	start_char=89|end_char=90
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=91|end_char=93
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=93|end_char=95
+14	so	so	ADV	RB	_	15	advmod	_	start_char=96|end_char=98
+15	cruel	cruel	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=99|end_char=104
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=105|end_char=108
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=109|end_char=117
+18	of	of	ADP	IN	_	20	case	_	start_char=118|end_char=120
+19	both	both	CCONJ	CC	_	20	cc:preconj	_	start_char=121|end_char=125
+20	Christianity	Christianity	PROPN	NNP	Number=Sing	17	obl	_	start_char=126|end_char=138
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=139|end_char=142
+22	Anarchism	Anarchism	PROPN	NNP	Number=Sing	20	conj	_	start_char=143|end_char=152
+23	.	.	PUNCT	.	_	5	punct	_	start_char=152|end_char=153
+

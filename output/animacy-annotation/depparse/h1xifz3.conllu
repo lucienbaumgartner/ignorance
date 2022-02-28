@@ -1,0 +1,39 @@
+1	Why	why	ADV	WRB	PronType=Int	0	root	_	start_char=0|end_char=3
+2	?	?	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=5|end_char=8
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=10
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=11|end_char=12
+4	UN	UN	PROPN	NNP	Number=Sing	5	compound	_	start_char=13|end_char=15
+5	ambassador	ambassador	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=26
+6	.	.	PUNCT	.	_	5	punct	_	start_char=26|end_char=27
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=28|end_char=30
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=30|end_char=32
+3	not	not	PART	RB	_	2	advmod	_	start_char=33|end_char=36
+4	like	like	SCONJ	IN	_	7	mark	_	start_char=37|end_char=41
+5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=42|end_char=45
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=45|end_char=47
+7	stupid	stupid	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=48|end_char=54
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=55|end_char=58
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=59|end_char=66
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=67|end_char=71
+11	different	different	ADJ	JJ	Degree=Pos	12	amod	_	start_char=72|end_char=81
+12	countries	country	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=82|end_char=91
+13	treat	treat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=92|end_char=97
+14	heads	head	NOUN	NNS	Number=Plur	13	obj	_	start_char=98|end_char=103
+15	of	of	ADP	IN	_	16	case	_	start_char=104|end_char=106
+16	state	state	NOUN	NN	Number=Sing	14	nmod	_	start_char=107|end_char=112
+17	differently	differently	ADV	RB	_	13	advmod	_	start_char=113|end_char=124
+18	.	.	PUNCT	.	_	2	punct	_	start_char=124|end_char=125
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=126|end_char=130
+2	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=131|end_char=137
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=138|end_char=140
+4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=141|end_char=144
+5	one	one	NUM	CD	NumType=Card	6	nummod	_	start_char=145|end_char=148
+6	area	area	NOUN	NN	Number=Sing	0	root	_	start_char=149|end_char=153
+7	of	of	ADP	IN	_	8	case	_	start_char=154|end_char=156
+8	expertise	expertise	NOUN	NN	Number=Sing	6	nmod	_	start_char=157|end_char=166
+9	.	.	PUNCT	.	_	6	punct	_	start_char=166|end_char=167
+

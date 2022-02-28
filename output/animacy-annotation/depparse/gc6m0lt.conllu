@@ -1,0 +1,29 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	pathetic	pathetic	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=39|end_char=43
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nsubj	_	start_char=44|end_char=48
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=49|end_char=57
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=58|end_char=63
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	13	nsubj	_	start_char=64|end_char=68
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=69|end_char=71
+13	what	what	PRON	WP	PronType=Int	10	ccomp	_	start_char=72|end_char=76
+14	liberals	liberal	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=77|end_char=85
+15	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=86|end_char=91
+16	.	.	PUNCT	.	_	1	punct	_	start_char=91|end_char=92
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=94|end_char=98
+2	bitch	bitch	NOUN	NN	Number=Sing	3	compound	_	start_char=99|end_char=104
+3	ass	ass	NOUN	NN	Number=Sing	6	nsubj	_	start_char=105|end_char=108
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=109|end_char=112
+5	only	only	ADV	RB	_	6	advmod	_	start_char=113|end_char=117
+6	argue	argue	VERB	VB	VerbForm=Inf	0	root	_	start_char=118|end_char=123
+7	against	against	ADP	IN	_	10	case	_	start_char=124|end_char=131
+8	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	10	amod	_	start_char=132|end_char=142
+9	straw	straw	NOUN	NN	Number=Sing	10	compound	_	start_char=143|end_char=148
+10	men	man	NOUN	NNS	Number=Plur	6	obl	_	start_char=149|end_char=152
+11	.	.	PUNCT	.	_	6	punct	_	start_char=152|end_char=153
+

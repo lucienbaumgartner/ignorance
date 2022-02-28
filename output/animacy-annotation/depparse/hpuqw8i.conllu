@@ -1,0 +1,45 @@
+1	Yes	yes	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=4|end_char=7
+3	CW	CW	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=8|end_char=10
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=13
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=14|end_char=24
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=33
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=34|end_char=37
+8	blind	blind	ADJ	JJ	Degree=Pos	6	conj	_	start_char=38|end_char=43
+9	to	to	ADP	IN	_	10	case	_	start_char=44|end_char=46
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=47|end_char=49
+11	.	.	PUNCT	.	_	6	punct	_	start_char=49|end_char=50
+
+1	Even	even	ADV	RB	_	2	advmod	_	start_char=51|end_char=55
+2	further	further	ADV	RB	_	0	root	_	start_char=56|end_char=63
+3	-	-	PUNCT	,	_	2	punct	_	start_char=63|end_char=64
+4	unwilling	unwilling	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=65|end_char=74
+5	to	to	PART	TO	_	6	mark	_	start_char=75|end_char=77
+6	consider	consider	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=78|end_char=86
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=87|end_char=91
+8	as	as	ADP	IN	_	10	case	_	start_char=92|end_char=94
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=95|end_char=96
+10	possibility	possibility	NOUN	NN	Number=Sing	6	obl	_	start_char=97|end_char=108
+11	but	but	CCONJ	CC	_	18	cc	_	start_char=109|end_char=112
+12	anyone	anyone	PRON	NN	Number=Sing	18	nsubj	_	start_char=113|end_char=119
+13	who	who	PRON	WP	PronType=Rel	14	nsubj	_	start_char=120|end_char=123
+14	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=124|end_char=128
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=129|end_char=131
+16	crazy	crazy	ADJ	JJ	Degree=Pos	18	amod	_	start_char=132|end_char=137
+17	/	/	SYM	,	_	18	cc	_	start_char=137|end_char=138
+18	quack	quack	NOUN	NN	Number=Sing	4	conj	_	start_char=138|end_char=143
+19	.	.	PUNCT	.	_	4	punct	_	start_char=143|end_char=144
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=145|end_char=146
+2	certainly	certainly	ADV	RB	_	3	advmod	_	start_char=147|end_char=156
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=157|end_char=160
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=161|end_char=165
+5	belief	belief	NOUN	NN	Number=Sing	3	obj	_	start_char=166|end_char=172
+6	before	before	SCONJ	IN	_	8	mark	_	start_char=173|end_char=179
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=180|end_char=181
+8	learned	learn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=182|end_char=189
+9	otherwise	otherwise	ADV	RB	_	8	advmod	_	start_char=190|end_char=199
+10	for	for	ADP	IN	_	11	case	_	start_char=200|end_char=203
+11	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	8	obl	_	start_char=204|end_char=210
+12	.	.	PUNCT	.	_	3	punct	_	start_char=210|end_char=211
+

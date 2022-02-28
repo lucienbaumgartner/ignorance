@@ -1,0 +1,21 @@
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=2
+2	dear	dear	ADJ	JJ	Degree=Pos	5	advmod	_	start_char=3|end_char=7
+3	,	,	PUNCT	,	_	5	punct	_	start_char=7|end_char=8
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=9|end_char=10
+5	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=16|end_char=19
+7	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	ccomp	_	start_char=20|end_char=24
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=25|end_char=28
+9	stupid	stupid	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=29|end_char=35
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=36|end_char=39
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=40|end_char=48
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=49|end_char=53
+13	statement	statement	NOUN	NN	Number=Sing	15	nsubj	_	start_char=54|end_char=63
+14	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=64|end_char=67
+15	made	make	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	_	start_char=68|end_char=72
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	obj	_	start_char=73|end_char=76
+17	look	look	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=77|end_char=81
+18	.	.	PUNCT	.	_	5	punct	_	start_char=81|end_char=82
+
+1	X	X	PROPN	NNP	Number=Sing	0	root	_	start_char=83|end_char=84
+

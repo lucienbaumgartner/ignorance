@@ -1,0 +1,25 @@
+1	BUT	but	CCONJ	CC	_	7	cc	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	7	punct	_	start_char=3|end_char=4
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=5|end_char=9
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=10|end_char=12
+5	100	100	NUM	CD	NumType=Card	6	nummod	_	start_char=13|end_char=16
+6	%	%	SYM	NN	Number=Sing	7	compound	_	start_char=16|end_char=17
+7	something	something	PRON	NN	Number=Sing	0	root	_	start_char=18|end_char=27
+8	that	that	PRON	WDT	PronType=Rel	11	obj	_	start_char=28|end_char=32
+9	Taylor	Taylor	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=33|end_char=39
+10	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=40|end_char=45
+11	do	do	VERB	VB	VerbForm=Inf	7	acl:relcl	_	start_char=46|end_char=48
+12	.	.	PUNCT	.	_	7	punct	_	start_char=48|end_char=49
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=51|end_char=54
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=55|end_char=57
+3	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=58|end_char=65
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=66|end_char=69
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=70|end_char=77
+6	of	of	ADP	IN	_	8	mark	_	start_char=78|end_char=80
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=81|end_char=84
+8	selfish	selfish	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=85|end_char=92
+9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=93|end_char=96
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=97|end_char=99
+11	.	.	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+

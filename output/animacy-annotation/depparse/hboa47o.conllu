@@ -1,0 +1,13 @@
+1	Im	Im	AUX	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	very	very	ADV	RB	_	3	advmod	_	start_char=3|end_char=7
+3	spoiled	spoiled	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=28
+6	of	of	ADP	IN	_	7	case	_	start_char=29|end_char=31
+7	many	many	ADJ	JJ	Degree=Pos	5	obl	_	start_char=32|end_char=36
+8	...	...	PUNCT	.	_	3	punct	_	start_char=36|end_char=39
+
+1	Many	many	ADJ	JJ	Degree=Pos	2	amod	_	start_char=40|end_char=44
+2	things	thing	NOUN	NNS	Number=Plur	0	root	_	start_char=45|end_char=51
+3	.	.	PUNCT	.	_	2	punct	_	start_char=51|end_char=52
+

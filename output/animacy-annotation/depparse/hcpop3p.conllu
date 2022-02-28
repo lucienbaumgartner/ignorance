@@ -1,0 +1,37 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=10
+3	never	never	ADV	RB	_	4	advmod	_	start_char=11|end_char=16
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=21
+5	children	child	NOUN	NNS	Number=Plur	4	obj	_	start_char=22|end_char=30
+6	.	.	PUNCT	.	_	4	punct	_	start_char=30|end_char=31
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=32|end_char=36
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=36|end_char=39
+3	more	more	ADV	RBR	_	5	advmod	_	start_char=40|end_char=44
+4	'	'	PUNCT	``	_	5	punct	_	start_char=45|end_char=46
+5	assholes	asshole	NOUN	NNS	Number=Plur	0	root	_	start_char=46|end_char=54
+6	'	'	PUNCT	''	_	5	punct	_	start_char=54|end_char=55
+7	than	than	ADP	IN	_	8	case	_	start_char=56|end_char=60
+8	cats	cat	NOUN	NNS	Number=Plur	5	nmod	_	start_char=61|end_char=65
+9	.	.	PUNCT	.	_	5	punct	_	start_char=65|end_char=66
+
+1	To	to	PART	TO	_	4	mark	_	start_char=67|end_char=69
+2	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=70|end_char=72
+3	more	more	ADV	RBR	_	4	advmod	_	start_char=73|end_char=77
+4	specific	specific	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=78|end_char=86
+5	,	,	PUNCT	,	_	4	punct	_	start_char=86|end_char=87
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=88|end_char=92
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=92|end_char=95
+8	just	just	ADV	RB	_	13	advmod	_	start_char=96|end_char=100
+9	as	as	SCONJ	IN	_	13	mark	_	start_char=101|end_char=103
+10	if	if	SCONJ	IN	_	13	mark	_	start_char=104|end_char=106
+11	not	not	PART	RB	_	13	advmod	_	start_char=107|end_char=110
+12	more	more	ADV	RBR	_	13	advmod	_	start_char=111|end_char=115
+13	destructive	destructive	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=116|end_char=127
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=128|end_char=131
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=132|end_char=140
+16	of	of	ADP	IN	_	18	case	_	start_char=141|end_char=143
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=144|end_char=149
+18	actions	action	NOUN	NNS	Number=Plur	15	obl	_	start_char=150|end_char=157
+19	.	.	PUNCT	.	_	7	punct	_	start_char=157|end_char=158
+

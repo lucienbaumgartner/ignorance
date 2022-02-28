@@ -1,0 +1,37 @@
+1	FYI	fyi	ADV	RB	_	5	advmod	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	5	punct	_	start_char=3|end_char=4
+3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	aux	_	start_char=5|end_char=8
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=8|end_char=11
+5	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=12|end_char=16
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=17|end_char=21
+7	,	,	PUNCT	,	_	5	punct	_	start_char=21|end_char=22
+8	not	not	PART	RB	Polarity=Neg	9	advmod	_	start_char=23|end_char=26
+9	going	go	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=27|end_char=32
+10	to	to	ADP	IN	_	9	obl	_	start_char=33|end_char=35
+11	.	.	PUNCT	.	_	5	punct	_	start_char=35|end_char=36
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=37|end_char=40
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=40|end_char=43
+3	discourteous	discourteous	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=56
+4	,	,	PUNCT	,	_	6	punct	_	start_char=56|end_char=57
+5	intellectually	intellectually	ADV	RB	_	6	advmod	_	start_char=58|end_char=72
+6	dishonest	dishonest	ADJ	JJ	Degree=Pos	3	conj	_	start_char=73|end_char=82
+7	,	,	PUNCT	,	_	9	punct	_	start_char=82|end_char=83
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=84|end_char=87
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=88|end_char=96
+10	of	of	ADP	IN	_	12	case	_	start_char=97|end_char=99
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=100|end_char=103
+12	concepts	concept	NOUN	NNS	Number=Plur	9	obl	_	start_char=104|end_char=112
+13	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=113|end_char=116
+14	engage	engage	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=117|end_char=123
+15	with	with	ADP	IN	_	14	obl	_	start_char=124|end_char=128
+16	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=130|end_char=133
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=134|end_char=137
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=137|end_char=140
+4	worth	worth	ADJ	JJ	Degree=Pos	0	root	_	start_char=141|end_char=146
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=147|end_char=149
+6	time	time	NOUN	NN	Number=Sing	4	obj	_	start_char=150|end_char=154
+7	.	.	PUNCT	.	_	4	punct	_	start_char=154|end_char=155
+

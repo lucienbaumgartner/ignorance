@@ -1,0 +1,306 @@
+<html>
+<head>
+	<link rel="stylesheet" href="http://corpling.uis.georgetown.edu/xrenner/css/renner.css" type="text/css" charset="utf-8"/>
+	<link rel="stylesheet" href="https://corpling.uis.georgetown.edu/xrenner/css/font-awesome-4.2.0/css/font-awesome.min.css"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+</head>
+<body>
+<script src="http://corpling.uis.georgetown.edu/xrenner/script/jquery-1.11.3.min.js"></script>
+<script src="http://corpling.uis.georgetown.edu/xrenner/script/chroma.min.js"></script>
+<script src="http://corpling.uis.georgetown.edu/xrenner/script/xrenner.js"></script>
+Suppose
+<div id="referent_2" head="4" onmouseover="highlight_group('2')" onmouseout="unhighlight_group('2')" class="referent" group="2" title="class: person | subclass: &#10;definiteness: indef | agree: female&#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: young woman | lemma: woman"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+a
+young
+woman
+</div>
+wants
+to
+have
+<div id="referent_3" head="10" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: person&#10;definiteness: indef | agree: female&#10;cardinality: 1 | form: common&#10;func: obj&#10;core_text: exactly one child | lemma: child"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+exactly
+one
+child
+</div>
+.
+Suppose
+<div id="referent_4" head="13" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_3"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+gets
+pregnant
+at
+<div id="referent_5" head="17" onmouseover="highlight_group('5')" onmouseout="unhighlight_group('5')" class="referent" group="5" title="class: time | subclass: time&#10;definiteness: indef | agree: &#10;cardinality: 14.0 | form: common&#10;func: obl_at&#10;core_text: 14 | lemma: 14"><span class="entity_type"><i title="time" class="fa fa-clock-o"></i></span>
+14
+</div>
+.
+If
+<div id="referent_6" head="20" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_4"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+keeps
+<div id="referent_7" head="23" onmouseover="highlight_group('7')" onmouseout="unhighlight_group('7')" class="referent" group="7" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: baby | lemma: baby"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+the
+baby
+</div>
+,
+<div id="referent_8" head="25" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 13" antecedent="referent_6"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+will
+not
+have
+<div id="referent_9" head="29" onmouseover="highlight_group('7')" onmouseout="unhighlight_group('7')" class="referent" group="7" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: obj&#10;core_text: another | lemma: another&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_7"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+another
+</div>
+.
+If
+<div id="referent_10" head="32" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_8"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+aborts
+<div id="referent_11" head="35" onmouseover="highlight_group('7')" onmouseout="unhighlight_group('7')" class="referent" group="7" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: baby | lemma: baby&#10;coref_type: coref&#10;coref_rule: 29" antecedent="referent_9"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+the
+baby
+</div>
+,
+<div id="referent_12" head="37" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 13" antecedent="referent_10"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+will
+have
+another
+later
+in
+<div id="referent_14" head="44" onmouseover="highlight_group('14')" onmouseout="unhighlight_group('14')" class="referent" group="14" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obl_in&#10;core_text: life | lemma: life"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+<div id="referent_13" head="43" onmouseover="highlight_group('7')" onmouseout="unhighlight_group('7')" class="referent" group="7" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nmod:poss&#10;core_text:  | lemma: she&#10;coref_type: ana&#10;coref_rule: 14" antecedent="referent_11"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+her
+</div>
+life
+</div>
+.
+Plausibly
+,
+<div id="referent_15" head="51" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: both the young girl | lemma: girl&#10;coref_type: coref&#10;coref_rule: 30" antecedent="referent_12"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+both
+the
+young
+girl
+</div>
+and
+<div id="referent_18" head="55" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: person&#10;definiteness: def | agree: &#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: potential child | lemma: child&#10;coref_type: coref&#10;coref_rule: 29" antecedent="referent_17"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+<div id="referent_17" head="53" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nmod:poss&#10;core_text:  | lemma: she&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_15"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+her
+</div>
+potential
+child
+</div>
+would
+be
+better
+off
+if
+<div id="referent_19" head="61" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 25" antecedent="referent_18"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+waits
+until
+<div id="referent_20" head="64" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 13" antecedent="referent_19"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+is
+out
+of
+<div id="referent_21" head="69" onmouseover="highlight_group('21')" onmouseout="unhighlight_group('21')" class="referent" group="21" title="class: organization | subclass: organization&#10;definiteness: indef | agree: &#10;cardinality: 0 | form: common&#10;func: advcl&#10;core_text: high school | lemma: school"><span class="entity_type"><i title="organization" class="fa fa-bank"></i></span>
+high
+school
+</div>
+and
+has
+<div id="referent_22" head="74" onmouseover="highlight_group('22')" onmouseout="unhighlight_group('22')" class="referent" group="22" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: sustainable income | lemma: income"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+a
+sustainable
+income
+</div>
+.
+Thus
+,
+from
+<div id="referent_23" head="81" onmouseover="highlight_group('23')" onmouseout="unhighlight_group('23')" class="referent" group="23" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obl_from&#10;core_text: utilitarian perspective | lemma: perspective"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+a
+utilitarian
+perspective
+</div>
+,
+<div id="referent_24" head="83" onmouseover="highlight_group('3')" onmouseout="unhighlight_group('3')" class="referent" group="3" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: she | lemma: she&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_20"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+she
+</div>
+should
+abort
+<div id="referent_25" head="87" onmouseover="highlight_group('7')" onmouseout="unhighlight_group('7')" class="referent" group="7" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: baby | lemma: baby&#10;coref_type: coref&#10;coref_rule: 29" antecedent="referent_13"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+the
+baby
+</div>
+.
+<div id="referent_26" head="91" onmouseover="highlight_group('26')" onmouseout="unhighlight_group('26')" class="referent" group="26" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: Another important argument for the utility of abortion | lemma: argument"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+Another
+important
+argument
+for
+<div id="referent_27" head="94" onmouseover="highlight_group('27')" onmouseout="unhighlight_group('27')" class="referent" group="27" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_for&#10;core_text: utility of abortion | lemma: utility"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+the
+utility
+of
+<div id="referent_28" head="96" onmouseover="highlight_group('28')" onmouseout="unhighlight_group('28')" class="referent" group="28" title="class: abstract | subclass: event&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_of&#10;core_text: abortion | lemma: abortion"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+abortion
+</div>
+</div>
+</div>
+is
+<div id="referent_29" head="102" onmouseover="highlight_group('26')" onmouseout="unhighlight_group('26')" class="referent" group="26" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: plural&#10;cardinality: 0 | form: common&#10;func: root&#10;core_text: positive social effects | lemma: effect&#10;coref_type: coref&#10;coref_rule: 18" antecedent="referent_26"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+the
+many
+positive
+social
+effects
+</div>
+.
+<div id="referent_30" head="104" onmouseover="highlight_group('26')" onmouseout="unhighlight_group('26')" class="referent" group="26" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: pronoun&#10;func: nsubj:pass&#10;core_text: It | lemma: it&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_29"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+It
+</div>
+has
+been
+shown
+to
+lead
+to
+<div id="referent_32" head="113" onmouseover="highlight_group('32')" onmouseout="unhighlight_group('32')" class="referent" group="32" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: plural&#10;cardinality: 0 | form: common&#10;func: obl_to&#10;core_text: reduced crime rates , slowed environmental deterioration | lemma: rate"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+reduced
+<div id="referent_31" head="112" onmouseover="highlight_group('31')" onmouseout="unhighlight_group('31')" class="referent" group="31" title="class: event | subclass: event&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: compound&#10;core_text: crime | lemma: crime"><span class="entity_type"><i title="event" class="fa fa-bell-o"></i></span>
+crime
+</div>
+rates
+,
+slowed
+<div id="referent_34" head="117" onmouseover="highlight_group('34')" onmouseout="unhighlight_group('34')" class="referent" group="34" title="class: event | subclass: event&#10;definiteness: indef | agree: &#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: environmental deterioration | lemma: deterioration"><span class="entity_type"><i title="event" class="fa fa-bell-o"></i></span>
+environmental
+deterioration
+</div>
+</div>
+,
+<div id="referent_35" head="120" onmouseover="highlight_group('35')" onmouseout="unhighlight_group('35')" class="referent" group="35" title="class: event | subclass: event&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obl_to&#10;core_text: significant decrease in poverty | lemma: decrease"><span class="entity_type"><i title="event" class="fa fa-bell-o"></i></span>
+significant
+decrease
+in
+<div id="referent_36" head="122" onmouseover="highlight_group('36')" onmouseout="unhighlight_group('36')" class="referent" group="36" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_in&#10;core_text: poverty | lemma: poverty"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+poverty
+</div>
+</div>
+,
+<div id="referent_37" head="124" onmouseover="highlight_group('37')" onmouseout="unhighlight_group('37')" class="referent" group="37" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obl_to&#10;core_text: improvement in the quality of child care | lemma: improvement"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+improvement
+in
+<div id="referent_38" head="127" onmouseover="highlight_group('38')" onmouseout="unhighlight_group('38')" class="referent" group="38" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_in&#10;core_text: quality of child care | lemma: quality"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+the
+quality
+of
+<div id="referent_39" head="130" onmouseover="highlight_group('39')" onmouseout="unhighlight_group('39')" class="referent" group="39" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_of&#10;core_text: child care | lemma: care"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+child
+care
+</div>
+</div>
+</div>
+.
+(
+See
+*
+<div id="referent_40" head="135" onmouseover="highlight_group('40')" onmouseout="unhighlight_group('40')" class="referent" group="40" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: plural&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: freakonomics | lemma: freakonomics"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+freakonomics
+</div>
+*
+,
+and
+<div id="referent_42" head="140" onmouseover="highlight_group('42')" onmouseout="unhighlight_group('42')" class="referent" group="42" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: paper | lemma: paper"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+the
+paper
+</div>
+<div id="referent_43" head="143" onmouseover="highlight_group('42')" onmouseout="unhighlight_group('42')" class="referent" group="42" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: plural&#10;cardinality: 0 | form: proper&#10;func: appos&#10;core_text: Social Effects of Legal Abortion by Richard Schwartz | lemma: Effect&#10;coref_type: appos&#10;coref_rule: 10" antecedent="referent_42"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+The
+Social
+Effects
+of
+<div id="referent_44" head="146" onmouseover="highlight_group('44')" onmouseout="unhighlight_group('44')" class="referent" group="44" title="class: event | subclass: event&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: proper&#10;func: nmod_of&#10;core_text: Legal Abortion | lemma: Abortion"><span class="entity_type"><i title="event" class="fa fa-bell-o"></i></span>
+Legal
+Abortion
+</div>
+by
+<div id="referent_45" head="148" onmouseover="highlight_group('45')" onmouseout="unhighlight_group('45')" class="referent" group="45" title="class: person | subclass: person&#10;definiteness: def | agree: male&#10;cardinality: 0 | form: proper&#10;func: nmod_by&#10;core_text: Richard Schwartz | lemma: Richard"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+Richard
+Schwartz
+</div>
+</div>
+)
+<div id="referent_47" head="153" onmouseover="highlight_group('47')" onmouseout="unhighlight_group('47')" class="referent" group="47" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: limited understanding of Singer 's view on abortion | lemma: understanding"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+<div id="referent_46" head="151" onmouseover="highlight_group('46')" onmouseout="unhighlight_group('46')" class="referent" group="46" title="class: person | subclass: person&#10;definiteness: def | agree: 1sg&#10;cardinality: 0 | form: pronoun&#10;func: nmod:poss&#10;core_text:  | lemma: my"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+My
+</div>
+limited
+understanding
+of
+<div id="referent_49" head="157" onmouseover="highlight_group('49')" onmouseout="unhighlight_group('49')" class="referent" group="49" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_of&#10;core_text: Singer 's view on abortion | lemma: view"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+<div id="referent_48" head="155" onmouseover="highlight_group('48')" onmouseout="unhighlight_group('48')" class="referent" group="48" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: proper&#10;func: nmod:poss&#10;core_text: Singer | lemma: Singer"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+Singer
+'s
+</div>
+view
+on
+<div id="referent_50" head="159" onmouseover="highlight_group('28')" onmouseout="unhighlight_group('28')" class="referent" group="28" title="class: abstract | subclass: abstract&#10;definiteness: indef | agree: inanim&#10;cardinality: 0 | form: common&#10;func: nmod_on&#10;core_text: abortion | lemma: abortion&#10;coref_type: coref&#10;coref_rule: 29" antecedent="referent_28"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+abortion
+</div>
+</div>
+</div>
+is
+that
+<div id="referent_51" head="162" onmouseover="highlight_group('45')" onmouseout="unhighlight_group('45')" class="referent" group="45" title="class: person | subclass: person&#10;definiteness: def | agree: male&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: he | lemma: he&#10;coref_type: ana&#10;coref_rule: 26" antecedent="referent_45"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+he
+</div>
+thinks
+that
+<div id="referent_52" head="165" onmouseover="highlight_group('52')" onmouseout="unhighlight_group('52')" class="referent" group="52" title="class: animal | subclass: animal&#10;definiteness: indef | agree: plural&#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: fetuses | lemma: fetuse"><span class="entity_type"><i title="animal" class="fa fa-paw"></i></span>
+fetuses
+</div>
+do
+not
+have
+<div id="referent_53" head="170" onmouseover="highlight_group('53')" onmouseout="unhighlight_group('53')" class="referent" group="53" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: inanim&#10;cardinality: 0 | form: common&#10;func: obj&#10;core_text: right to life | lemma: right"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+the
+right
+to
+life
+</div>
+because
+<div id="referent_54" head="174" onmouseover="highlight_group('54')" onmouseout="unhighlight_group('54')" class="referent" group="54" title="class: animal | subclass: animal&#10;definiteness: def | agree: plural&#10;cardinality: 0 | form: pronoun&#10;func: nsubj&#10;core_text: they | lemma: they"><span class="entity_type"><i title="animal" class="fa fa-paw"></i></span>
+they
+</div>
+are
+unaware
+and
+non-rational
+.
+Thus
+,
+<div id="referent_56" head="185" onmouseover="highlight_group('56')" onmouseout="unhighlight_group('56')" class="referent" group="56" title="class: abstract | subclass: abstract&#10;definiteness: def | agree: plural&#10;cardinality: 0 | form: common&#10;func: nsubj&#10;core_text: mother 's rights | lemma: rights"><span class="entity_type"><i title="abstract" class="fa fa-cloud"></i></span>
+the
+<div id="referent_55" head="183" onmouseover="highlight_group('2')" onmouseout="unhighlight_group('2')" class="referent" group="2" title="class: person | subclass: &#10;definiteness: def | agree: female&#10;cardinality: 0 | form: common&#10;func: nmod:poss&#10;core_text: mother | lemma: mother&#10;coref_type: coref&#10;coref_rule: 30" antecedent="referent_2"><span class="entity_type"><i title="person" class="fa fa-male"></i></span>
+mother
+'s
+</div>
+rights
+</div>
+automatically
+take
+precedence
+.
+<script>colorize();</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=2|end_char=4
+3	almost	almost	ADV	RB	_	8	advmod	_	start_char=5|end_char=11
+4	like	like	ADP	IN	_	8	case	_	start_char=12|end_char=16
+5	to	to	PART	TO	_	8	mark	_	start_char=17|end_char=19
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=20|end_char=22
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=23|end_char=24
+8	conservative	conservative	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=37
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=38|end_char=41
+10	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=42|end_char=46
+11	to	to	PART	TO	_	14	mark	_	start_char=47|end_char=49
+12	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=50|end_char=52
+13	really	really	ADV	RB	_	14	advmod	_	start_char=53|end_char=59
+14	stupid	stupid	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=60|end_char=66
+15	,	,	PUNCT	,	_	16	punct	_	start_char=66|end_char=67
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=68|end_char=76
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=77|end_char=80
+18	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=81|end_char=88
+19	of	of	ADP	IN	_	21	case	_	start_char=89|end_char=91
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=92|end_char=96
+21	surroundings	surroundings	NOUN	NNS	Number=Plur	18	obl	_	start_char=97|end_char=109
+22	🤔	''	PUNCT	.	_	8	punct	_	start_char=110|end_char=111
+

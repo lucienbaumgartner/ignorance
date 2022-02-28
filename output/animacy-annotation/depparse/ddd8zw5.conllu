@@ -1,0 +1,24 @@
+1	lololololol	lololololol	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=11
+
+1	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=14|end_char=18
+2	entire	entire	ADJ	JJ	Degree=Pos	3	amod	_	start_char=19|end_char=25
+3	subreddit	subreddit	NOUN	NN	Number=Sing	6	nsubj	_	start_char=26|end_char=35
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=36|end_char=38
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=39|end_char=40
+6	lie	lie	NOUN	NN	Number=Sing	0	root	_	start_char=41|end_char=44
+
+1	wikileaks	wikileak	NOUN	NNS	Number=Plur	2	compound	_	start_char=46|end_char=55
+2	e-mails	e-mail	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=56|end_char=63
+3	show	show	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=64|end_char=68
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=69|end_char=72
+5	DNC	DNC	PROPN	NNP	Number=Sing	3	obj	_	start_char=73|end_char=76
+6	literally	literally	ADV	RB	_	7	advmod	_	start_char=77|end_char=86
+7	conspiring	conspire	VERB	VBG	VerbForm=Ger	3	ccomp	_	start_char=87|end_char=97
+8	to	to	PART	TO	_	9	mark	_	start_char=98|end_char=100
+9	make	make	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=101|end_char=105
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	start_char=106|end_char=109
+11	guys	guy	NOUN	NNS	Number=Plur	9	obj	_	start_char=110|end_char=114
+12	unaware	unaware	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=115|end_char=122
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=123|end_char=126
+14	compliant	compliant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=127|end_char=136
+

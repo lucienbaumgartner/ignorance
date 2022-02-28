@@ -1,0 +1,15 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	whining	whine	VERB	VBG	VerbForm=Ger	1	parataxis	_	start_char=4|end_char=11
+
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=15|end_char=18
+2	incredibly	incredibly	ADV	RB	_	3	advmod	_	start_char=19|end_char=29
+3	self-unaware	self-unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=42
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=43|end_char=46
+5	ironic	ironic	ADJ	JJ	Degree=Pos	3	conj	_	start_char=47|end_char=53
+6	.	.	PUNCT	.	_	3	punct	_	start_char=53|end_char=54
+
+1	Like	like	INTJ	UH	_	3	discourse	_	start_char=55|end_char=59
+2	almost	almost	ADV	RB	_	3	advmod	_	start_char=60|end_char=66
+3	unbelievable	unbelievable	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=79
+

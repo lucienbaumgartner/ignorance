@@ -1,0 +1,32 @@
+1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	story	story	NOUN	NN	Number=Sing	3	nsubj	_	start_char=4|end_char=9
+3	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+4	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=15|end_char=18
+5	Sun	Sun	PROPN	NNP	Number=Sing	6	compound	_	start_char=19|end_char=22
+6	newspaper	newspaper	NOUN	NN	Number=Sing	3	obj	_	start_char=23|end_char=32
+7	.	.	PUNCT	.	_	3	punct	_	start_char=32|end_char=33
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=34|end_char=37
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=38|end_char=41
+3	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=42|end_char=45
+4	family	family	NOUN	NN	Number=Sing	1	conj	_	start_char=46|end_char=52
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	start_char=53|end_char=57
+6	/	/	PUNCT	,	_	8	punct	_	start_char=57|end_char=58
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=58|end_char=61
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=62|end_char=70
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=71|end_char=74
+10	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	8	conj	_	start_char=75|end_char=88
+11	.	.	PUNCT	.	_	8	punct	_	start_char=88|end_char=89
+
+1	Also	also	ADV	RB	_	5	advmod	_	start_char=90|end_char=94
+2	several	several	ADJ	JJ	Degree=Pos	5	nsubj	_	start_char=95|end_char=102
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=103|end_char=106
+4	morbidly	morbidly	ADV	RB	_	5	advmod	_	start_char=107|end_char=115
+5	obese	obese	ADJ	JJ	Degree=Pos	0	root	_	start_char=116|end_char=121
+6	including	include	VERB	VBG	VerbForm=Ger	8	case	_	start_char=122|end_char=131
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=132|end_char=135
+8	deceased	decease	VERB	VBN	Tense=Past|VerbForm=Part	5	obl	_	start_char=136|end_char=144
+9	.	.	PUNCT	.	_	5	punct	_	start_char=144|end_char=145
+
+1	https://www.google.com/amp/s/www.the-sun.com/news/4365133/anti-vaxxer-mom-of-three-dead-from-covid/amp/	https://www.google.com/amp/s/www.the-sun.com/news/4365133/anti-vaxxer-mom-of-three-dead-from-covid/amp/	X	ADD	_	0	root	_	start_char=147|end_char=250
+

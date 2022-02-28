@@ -1,0 +1,19 @@
+1	probably	probably	ADV	RB	_	2	advmod	_	start_char=0|end_char=8
+2	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=16
+3	because	because	ADP	IN	_	5	case	_	start_char=17|end_char=24
+4	water	water	NOUN	NN	Number=Sing	5	compound	_	start_char=25|end_char=30
+5	fountains	fountain	NOUN	NNS	Number=Plur	2	nmod	_	start_char=31|end_char=40
+6	but	but	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+7	SJWs	sjw	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=45|end_char=49
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=50|end_char=53
+9	so	so	ADV	RB	_	10	advmod	_	start_char=54|end_char=56
+10	crazy	crazy	ADJ	JJ	Degree=Pos	2	conj	_	start_char=57|end_char=62
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=63|end_char=66
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=67|end_char=75
+13	that	that	SCONJ	IN	_	18	mark	_	start_char=76|end_char=80
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=81|end_char=83
+15	might	might	AUX	MD	VerbForm=Fin	18	aux	_	start_char=84|end_char=89
+16	actually	actually	ADV	RB	_	18	advmod	_	start_char=90|end_char=98
+17	not	not	PART	RB	_	18	advmod	_	start_char=99|end_char=102
+18	be	be	AUX	VB	VerbForm=Inf	10	advcl	_	start_char=103|end_char=105
+

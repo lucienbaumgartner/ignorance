@@ -1,0 +1,34 @@
+1	Two	two	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	possibilities	possibility	NOUN	NNS	Number=Plur	0	root	_	start_char=4|end_char=17
+3	.	.	PUNCT	.	_	2	punct	_	start_char=17|end_char=18
+
+1	1	1	NUM	LS	_	3	nummod	_	start_char=20|end_char=21
+2	)	)	PUNCT	-RRB-	_	1	punct	_	start_char=21|end_char=22
+3	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=31
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=32|end_char=35
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=36|end_char=43
+6	of	of	ADP	IN	_	7	case	_	start_char=44|end_char=46
+7	kink	kink	NOUN	NN	Number=Sing	5	obl	_	start_char=47|end_char=51
+8	in	in	ADP	IN	_	9	case	_	start_char=52|end_char=54
+9	general	general	ADJ	JJ	Degree=Pos	3	obl	_	start_char=55|end_char=62
+10	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	2	2	NUM	LS	_	3	nummod	_	start_char=65|end_char=66
+2	)	)	PUNCT	-RRB-	_	1	punct	_	start_char=66|end_char=67
+3	Troll	troll	NOUN	NN	Number=Sing	0	root	_	start_char=68|end_char=73
+4	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=75|end_char=76
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=76|end_char=78
+3	hopeing	hope	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=79|end_char=86
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=87|end_char=89
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=89|end_char=91
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=92|end_char=96
+7	option	option	NOUN	NN	Number=Sing	3	ccomp	_	start_char=97|end_char=103
+8	,	,	PUNCT	,	_	9	punct	_	start_char=103|end_char=104
+9	cause	cause	VERB	VB	VerbForm=Fin	12	case	_	start_char=105|end_char=110
+10	otherwise	otherwise	ADV	RB	_	12	advmod	_	start_char=111|end_char=120
+11	,	,	PUNCT	,	_	12	punct	_	start_char=120|end_char=121
+12	MAN	man	NOUN	NN	Number=Sing	3	parataxis	_	start_char=122|end_char=125
+13	.	.	PUNCT	.	_	3	punct	_	start_char=125|end_char=126
+

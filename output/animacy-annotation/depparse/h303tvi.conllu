@@ -1,0 +1,46 @@
+1	Yes	yes	INTJ	UH	_	10	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	10	punct	_	start_char=3|end_char=4
+3	unfortunately	unfortunately	ADV	RB	_	10	advmod	_	start_char=5|end_char=18
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+5	ambulance	ambulance	NOUN	NN	Number=Sing	6	compound	_	start_char=23|end_char=32
+6	driver	driver	NOUN	NN	Number=Sing	10	nsubj:pass	_	start_char=33|end_char=39
+7	here	here	ADV	RB	PronType=Dem	8	advmod	_	start_char=40|end_char=44
+8	apples	apple	NOUN	NNS	Number=Plur	10	nsubj:pass	_	start_char=45|end_char=51
+9	be	be	AUX	VB	VerbForm=Inf	10	aux:pass	_	start_char=52|end_char=54
+10	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=55|end_char=60
+11	at	at	ADP	IN	_	12	case	_	start_char=61|end_char=63
+12	fault	fault	NOUN	NN	Number=Sing	10	obl	_	start_char=64|end_char=69
+13	.	.	PUNCT	.	_	10	punct	_	start_char=69|end_char=70
+
+1	But	but	CCONJ	CC	_	10	cc	_	start_char=71|end_char=74
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=75|end_char=78
+3	guy	guy	NOUN	NN	Number=Sing	10	nsubj	_	start_char=79|end_char=82
+4	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=83|end_char=86
+5	hit	hit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=87|end_char=90
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=91|end_char=94
+7	should	should	AUX	MD	VerbForm=Fin	10	aux	_	start_char=95|end_char=101
+8	have	have	AUX	VB	VerbForm=Inf	10	aux	_	start_char=102|end_char=106
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	_	start_char=107|end_char=111
+10	guilty	guilty	ADJ	JJ	Degree=Pos	0	root	_	start_char=112|end_char=118
+11	for	for	SCONJ	IN	_	13	mark	_	start_char=119|end_char=122
+12	not	not	PART	RB	_	13	advmod	_	start_char=123|end_char=126
+13	knowing	know	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=127|end_char=134
+14	WTF	WTF	PROPN	NNP	Number=Sing	16	nsubj	_	start_char=135|end_char=138
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	start_char=139|end_char=142
+16	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	13	ccomp	_	start_char=143|end_char=152
+17	around	around	ADP	IN	_	18	case	_	start_char=153|end_char=159
+18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=160|end_char=163
+19	.	.	PUNCT	.	_	10	punct	_	start_char=164|end_char=165
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=166|end_char=172
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=173|end_char=176
+3	just	just	ADV	RB	_	4	advmod	_	start_char=177|end_char=181
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=182|end_char=189
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=190|end_char=193
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=194|end_char=202
+7	of	of	ADP	IN	_	8	case	_	start_char=203|end_char=205
+8	what	what	PRON	WP	PronType=Int	6	obl	_	start_char=206|end_char=210
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=211|end_char=213
+10	proper	proper	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=214|end_char=220
+11	.	.	PUNCT	.	_	4	punct	_	start_char=220|end_char=221
+

@@ -1,0 +1,44 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=6
+4	sub	sub	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=10
+5	because	because	SCONJ	IN	_	13	mark	_	start_char=11|end_char=18
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=19|end_char=22
+7	stupid	stupid	ADJ	JJ	Degree=Pos	8	amod	_	start_char=23|end_char=29
+8	shit	shit	NOUN	NN	Number=Sing	13	nsubj	_	start_char=30|end_char=34
+9	Americans	American	PROPN	NNPS	Number=Plur	10	nsubj	_	start_char=35|end_char=44
+10	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=45|end_char=48
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=49|end_char=51
+12	so	so	ADV	RB	_	13	advmod	_	start_char=52|end_char=54
+13	ubiquitous	ubiquitous	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=55|end_char=65
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=66|end_char=69
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=70|end_char=78
+16	that	that	SCONJ	IN	_	20	mark	_	start_char=79|end_char=83
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=84|end_char=86
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=87|end_char=89
+19	often	often	ADV	RB	_	20	advmod	_	start_char=90|end_char=95
+20	amusing	amusing	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=96|end_char=103
+21	when	when	SCONJ	WRB	PronType=Int	22	mark	_	start_char=104|end_char=108
+22	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	20	advcl	_	start_char=109|end_char=117
+23	to	to	ADP	IN	_	25	case	_	start_char=118|end_char=120
+24	actual	actual	ADJ	JJ	Degree=Pos	25	amod	_	start_char=121|end_char=127
+25	reality	reality	NOUN	NN	Number=Sing	22	obl	_	start_char=128|end_char=135
+26	.	.	PUNCT	.	_	4	punct	_	start_char=135|end_char=136
+
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=140|end_char=146
+2	share	share	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=147|end_char=152
+3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=153|end_char=158
+4	experiences	experience	NOUN	NNS	Number=Plur	2	obj	_	start_char=159|end_char=170
+5	of	of	ADP	IN	_	7	case	_	start_char=171|end_char=173
+6	such	such	ADJ	JJ	Degree=Pos	7	amod	_	start_char=174|end_char=178
+7	things	thing	NOUN	NNS	Number=Plur	4	nmod	_	start_char=179|end_char=185
+8	.	.	PUNCT	.	_	2	punct	_	start_char=185|end_char=186
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=188|end_char=191
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=192|end_char=196
+3	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=197|end_char=205
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=206|end_char=208
+5	excellent	excellent	ADJ	JJ	Degree=Pos	6	amod	_	start_char=209|end_char=218
+6	example	example	NOUN	NN	Number=Sing	3	obj	_	start_char=219|end_char=226
+7	.	.	PUNCT	.	_	3	punct	_	start_char=226|end_char=227
+

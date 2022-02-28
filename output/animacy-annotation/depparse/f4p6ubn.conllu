@@ -1,0 +1,52 @@
+1	Some	some	DET	DT	_	6	nsubj	_	start_char=0|end_char=4
+2	of	of	ADP	IN	_	3	case	_	start_char=5|end_char=7
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	start_char=8|end_char=12
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=13|end_char=15
+5	n't	not	PART	RB	_	6	advmod	_	start_char=15|end_char=18
+6	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=19|end_char=23
+7	there	there	PRON	EX	_	8	expl	_	start_char=24|end_char=29
+8	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=30|end_char=33
+9	alternatives	alternative	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=34|end_char=46
+10	.	.	PUNCT	.	_	6	punct	_	start_char=46|end_char=47
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=48|end_char=52
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=53|end_char=57
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux:pass	_	start_char=58|end_char=62
+4	told	tell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=63|end_char=67
+5	atheism	atheism	NOUN	NN	Number=Sing	4	obj	_	start_char=68|end_char=75
+6	and	and	CCONJ	CC	_	11	cc	_	start_char=76|end_char=79
+7	even	even	ADV	RB	_	9	advmod	_	start_char=80|end_char=84
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	_	start_char=85|end_char=90
+9	religions	religion	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=91|end_char=100
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=101|end_char=104
+11	bad	bad	ADJ	JJ	Degree=Pos	4	conj	_	start_char=105|end_char=108
+12	,	,	PUNCT	,	_	13	punct	_	start_char=108|end_char=109
+13	selfish	selfish	ADJ	JJ	Degree=Pos	11	conj	_	start_char=110|end_char=117
+14	,	,	PUNCT	,	_	15	punct	_	start_char=117|end_char=118
+15	backwards	backwards	ADV	RB	_	11	conj	_	start_char=119|end_char=128
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=129|end_char=132
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=133|end_char=141
+18	.	.	PUNCT	.	_	4	punct	_	start_char=141|end_char=142
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=145|end_char=149
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=150|end_char=152
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=153|end_char=156
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=157|end_char=158
+5	site	site	NOUN	NN	Number=Sing	9	nsubj	_	start_char=159|end_char=163
+6	like	like	ADP	IN	_	7	case	_	start_char=164|end_char=168
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nmod	_	start_char=169|end_char=173
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=174|end_char=176
+9	important	important	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=177|end_char=186
+10	.	.	PUNCT	.	_	3	punct	_	start_char=186|end_char=187
+
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=188|end_char=194
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=195|end_char=199
+3	to	to	PART	TO	_	4	mark	_	start_char=200|end_char=202
+4	see	see	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=203|end_char=206
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=207|end_char=211
+6	there	there	PRON	EX	_	7	expl	_	start_char=212|end_char=217
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=218|end_char=220
+8	something	something	PRON	NN	Number=Sing	7	nsubj	_	start_char=221|end_char=230
+9	else	else	ADJ	JJ	Degree=Pos	8	amod	_	start_char=231|end_char=235
+10	.	.	PUNCT	.	_	2	punct	_	start_char=235|end_char=236
+

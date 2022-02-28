@@ -1,0 +1,14 @@
+1	Maybe	maybe	ADV	RB	_	3	advmod	_	start_char=0|end_char=5
+2	not	not	PART	RB	_	3	advmod	_	start_char=6|end_char=9
+3	suicidal	suicidal	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=18
+4	,	,	PUNCT	,	_	7	punct	_	start_char=18|end_char=19
+5	just	just	ADV	RB	_	7	advmod	_	start_char=20|end_char=24
+6	extremely	extremely	ADV	RB	_	7	advmod	_	start_char=25|end_char=34
+7	sheltered	shelter	ADJ	JJ	Degree=Pos	3	conj	_	start_char=35|end_char=44
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=45|end_char=48
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=49|end_char=56
+10	of	of	ADP	IN	_	12	case	_	start_char=57|end_char=59
+11	stranger	stranger	NOUN	NN	Number=Sing	12	compound	_	start_char=60|end_char=68
+12	danger	danger	NOUN	NN	Number=Sing	9	obl	_	start_char=69|end_char=75
+13	.	.	PUNCT	.	_	3	punct	_	start_char=75|end_char=76
+

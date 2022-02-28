@@ -1,0 +1,73 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	offensive	offensive	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=33
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=34|end_char=38
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=39|end_char=40
+9	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=41|end_char=45
+10	to	to	PART	TO	_	11	mark	_	start_char=46|end_char=48
+11	laugh	laugh	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=49|end_char=54
+12	.	.	PUNCT	.	_	4	punct	_	start_char=54|end_char=55
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=56|end_char=58
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=58|end_char=60
+3	especially	especially	ADV	RB	_	4	advmod	_	start_char=61|end_char=71
+4	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=72|end_char=77
+5	coming	come	VERB	VBG	VerbForm=Ger	4	csubj	_	start_char=78|end_char=84
+6	from	from	ADP	IN	_	7	case	_	start_char=85|end_char=89
+7	someone	someone	PRON	NN	Number=Sing	5	obl	_	start_char=90|end_char=97
+8	in	in	ADP	IN	_	9	case	_	start_char=98|end_char=100
+9	Florida	Florida	PROPN	NNP	Number=Sing	7	nmod	_	start_char=101|end_char=108
+10	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=112|end_char=115
+2	realize	realize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=116|end_char=123
+3	that	that	SCONJ	IN	_	13	mark	_	start_char=124|end_char=128
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=129|end_char=130
+5	lot	lot	NOUN	NN	Number=Sing	13	nsubj	_	start_char=131|end_char=134
+6	of	of	ADP	IN	_	7	case	_	start_char=135|end_char=137
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=138|end_char=144
+8	from	from	ADP	IN	_	10	case	_	start_char=145|end_char=149
+9	all	all	DET	DT	_	10	det	_	start_char=150|end_char=153
+10	kinds	kind	NOUN	NNS	Number=Plur	5	nmod	_	start_char=154|end_char=159
+11	of	of	ADP	IN	_	12	case	_	start_char=160|end_char=162
+12	nationalities	nationality	NOUN	NNS	Number=Plur	10	nmod	_	start_char=163|end_char=176
+13	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=177|end_char=181
+14	olive	olive	NOUN	NN	Number=Sing	15	compound	_	start_char=182|end_char=187
+15	skin	skin	NOUN	NN	Number=Sing	13	obj	_	start_char=188|end_char=192
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=193|end_char=196
+17	curly	curly	ADJ	JJ	Degree=Pos	18	amod	_	start_char=197|end_char=202
+18	hair	hair	NOUN	NN	Number=Sing	15	conj	_	start_char=203|end_char=207
+19	?	?	PUNCT	.	_	2	punct	_	start_char=207|end_char=208
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=209|end_char=211
+2	parents	parent	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=212|end_char=219
+3	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=220|end_char=222
+4	.	.	PUNCT	.	_	3	punct	_	start_char=222|end_char=223
+
+1	No	no	DET	DT	_	2	det	_	start_char=224|end_char=226
+2	one	one	NOUN	NN	Number=Sing	5	nsubj	_	start_char=227|end_char=230
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=231|end_char=234
+4	ever	ever	ADV	RB	_	5	advmod	_	start_char=235|end_char=239
+5	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=240|end_char=244
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=245|end_char=246
+7	thing	thing	NOUN	NN	Number=Sing	5	obj	_	start_char=247|end_char=252
+8	about	about	ADP	IN	_	9	case	_	start_char=253|end_char=258
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	start_char=259|end_char=263
+10	or	or	CCONJ	CC	_	14	cc	_	start_char=264|end_char=266
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=267|end_char=269
+12	ethnic	ethnic	ADJ	JJ	Degree=Pos	14	amod	_	start_char=270|end_char=276
+13	last	last	ADJ	JJ	Degree=Pos	14	amod	_	start_char=277|end_char=281
+14	name	name	NOUN	NN	Number=Sing	9	conj	_	start_char=282|end_char=286
+15	.	.	PUNCT	.	_	5	punct	_	start_char=286|end_char=287
+
+1	Please	please	INTJ	UH	_	3	discourse	_	start_char=290|end_char=296
+2	,	,	PUNCT	,	_	3	punct	_	start_char=296|end_char=297
+3	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=298|end_char=302
+4	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=303|end_char=308
+5	so	so	ADV	RB	_	6	advmod	_	start_char=309|end_char=311
+6	bigoted	bigoted	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=312|end_char=319
+7	.	.	PUNCT	.	_	3	punct	_	start_char=319|end_char=320
+

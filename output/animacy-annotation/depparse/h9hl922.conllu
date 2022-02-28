@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	didnt	didnt	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=7
+3	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=11
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=12|end_char=13
+5	diagnosis	diagnosis	NOUN	NN	Number=Sing	3	obj	_	start_char=14|end_char=23
+6	until	until	ADP	IN	_	8	case	_	start_char=24|end_char=29
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=30|end_char=32
+8	30s	30	NOUN	NNS	Number=Plur	3	obl	_	start_char=33|end_char=36
+9	.	.	PUNCT	.	_	3	punct	_	start_char=36|end_char=37
+
+1	Looking	look	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=41|end_char=48
+2	back	back	ADV	RB	_	1	advmod	_	start_char=49|end_char=53
+3	,	,	PUNCT	,	_	5	punct	_	start_char=53|end_char=54
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=55|end_char=57
+5	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=62
+6	so	so	ADV	RB	_	7	advmod	_	start_char=63|end_char=65
+7	much	much	ADJ	JJ	Degree=Pos	8	amod	_	start_char=66|end_char=70
+8	sense	sense	NOUN	NN	Number=Sing	5	obj	_	start_char=71|end_char=76
+9	.	.	PUNCT	.	_	5	punct	_	start_char=76|end_char=77
+
+1	Additionally	additionally	ADV	RB	Degree=Pos	4	advmod	_	start_char=78|end_char=90
+2	,	,	PUNCT	,	_	4	punct	_	start_char=90|end_char=91
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=92|end_char=93
+4	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=97
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=98|end_char=100
+6	in	in	ADP	IN	_	7	case	_	start_char=101|end_char=103
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	4	obl	_	start_char=104|end_char=107
+8	of	of	ADP	IN	_	10	case	_	start_char=108|end_char=110
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=111|end_char=113
+10	parents	parent	NOUN	NNS	Number=Plur	7	nmod	_	start_char=114|end_char=121
+11	,	,	PUNCT	,	_	20	punct	_	start_char=121|end_char=122
+12	and	and	CCONJ	CC	_	20	cc	_	start_char=123|end_char=126
+13	since	since	SCONJ	IN	_	16	mark	_	start_char=127|end_char=132
+14	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=133|end_char=136
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=137|end_char=140
+16	unaware	unaware	ADJ	JJ	Degree=Pos	20	advcl	_	start_char=141|end_char=148
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=149|end_char=152
+18	unmedicated	unmedicated	ADJ	JJ	Degree=Pos|Polarity=Neg	16	conj	_	start_char=153|end_char=164
+19	,	,	PUNCT	,	_	20	punct	_	start_char=164|end_char=165
+20	explains	explain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=166|end_char=174
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=175|end_char=178
+22	subpar	subpar	ADJ	JJ	Degree=Pos	23	amod	_	start_char=179|end_char=185
+23	parenting	parenting	NOUN	NN	Number=Sing	20	obj	_	start_char=186|end_char=195
+24	.	.	PUNCT	.	_	4	punct	_	start_char=195|end_char=196
+

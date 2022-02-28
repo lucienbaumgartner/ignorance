@@ -1,0 +1,33 @@
+1	Still	still	ADV	RB	_	3	advmod	_	start_char=0|end_char=5
+2	not	not	PART	RB	_	3	advmod	_	start_char=6|end_char=9
+3	enough	enough	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=16
+4	to	to	PART	TO	_	5	mark	_	start_char=17|end_char=19
+5	care	care	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=20|end_char=24
+6	,	,	PUNCT	,	_	3	punct	_	start_char=24|end_char=25
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=26|end_char=30
+8	like	like	ADP	IN	_	10	case	_	start_char=31|end_char=35
+9	10	10	NUM	CD	NumType=Card	10	nummod	_	start_char=36|end_char=38
+10	%	%	SYM	NN	Number=Sing	3	obl	_	start_char=38|end_char=39
+11	of	of	ADP	IN	_	12	case	_	start_char=40|end_char=42
+12	gross	gross	NOUN	NN	Number=Sing	10	nmod	_	start_char=43|end_char=48
+13	.	.	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=50|end_char=53
+2	majority	majority	NOUN	NN	Number=Sing	6	nsubj	_	start_char=54|end_char=62
+3	of	of	ADP	IN	_	4	case	_	start_char=63|end_char=65
+4	viewers	viewer	NOUN	NNS	Number=Plur	2	nmod	_	start_char=66|end_char=73
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=74|end_char=77
+6	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=78|end_char=83
+7	to	to	PART	TO	_	9	mark	_	start_char=84|end_char=86
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=87|end_char=89
+9	uninformed	uninformed	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=90|end_char=100
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=101|end_char=104
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=105|end_char=112
+12	of	of	ADP	IN	_	13	case	_	start_char=113|end_char=115
+13	amber	amber	NOUN	NN	Number=Sing	11	obl	_	start_char=116|end_char=121
+14	Heard	Heard	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	_	start_char=122|end_char=127
+15	being	be	AUX	VBG	VerbForm=Ger	16	cop	_	start_char=128|end_char=133
+16	anyone	anyone	PRON	NN	Number=Sing	14	xcomp	_	start_char=134|end_char=140
+17	of	of	ADP	IN	_	18	case	_	start_char=141|end_char=143
+18	interest	interest	NOUN	NN	Number=Sing	16	nmod	_	start_char=144|end_char=152
+

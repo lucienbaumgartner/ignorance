@@ -1,0 +1,56 @@
+1	Disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=10
+2	.	.	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=12|end_char=13
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=15
+3	not	not	PART	RB	_	5	advmod	_	start_char=16|end_char=19
+4	even	even	ADV	RB	_	5	advmod	_	start_char=20|end_char=24
+5	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=30
+6	.	.	PUNCT	.	_	5	punct	_	start_char=30|end_char=31
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=32|end_char=36
+2	behaviour	behaviour	NOUN	NN	Number=Sing	4	nsubj	_	start_char=37|end_char=46
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=47|end_char=49
+4	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=60
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=61|end_char=64
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=65|end_char=68
+7	"	"	PUNCT	``	_	8	punct	_	start_char=69|end_char=70
+8	apologised	apologise	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=70|end_char=80
+9	"	"	PUNCT	''	_	8	punct	_	start_char=80|end_char=81
+10	on	on	ADP	IN	_	11	case	_	start_char=82|end_char=84
+11	Twitter	Twitter	PROPN	NNP	Number=Sing	8	obl	_	start_char=85|end_char=92
+12	to	to	ADP	IN	_	13	case	_	start_char=93|end_char=95
+13	those	that	PRON	DT	Number=Plur|PronType=Dem	8	obl	_	start_char=96|end_char=101
+14	"	"	PUNCT	``	_	18	punct	_	start_char=102|end_char=103
+15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=103|end_char=106
+16	might	might	AUX	MD	VerbForm=Fin	18	aux	_	start_char=107|end_char=112
+17	have	have	AUX	VB	VerbForm=Inf	18	aux	_	start_char=113|end_char=117
+18	offended	offend	VERB	VBN	Tense=Past|VerbForm=Part	13	acl:relcl	_	start_char=118|end_char=126
+19	"	"	PUNCT	''	_	18	punct	_	start_char=126|end_char=127
+20	by	by	SCONJ	IN	_	21	mark	_	start_char=128|end_char=130
+21	saying	say	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=131|end_char=137
+22	that	that	SCONJ	IN	_	29	mark	_	start_char=138|end_char=142
+23	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	start_char=143|end_char=146
+24	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	start_char=146|end_char=148
+25	also	also	ADV	RB	_	29	advmod	_	start_char=149|end_char=153
+26	from	from	ADP	IN	_	29	case	_	start_char=154|end_char=158
+27	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	start_char=159|end_char=160
+28	poor	poor	ADJ	JJ	Degree=Pos	29	amod	_	start_char=161|end_char=165
+29	country	country	NOUN	NN	Number=Sing	21	ccomp	_	start_char=166|end_char=173
+30	.	.	PUNCT	.	_	4	punct	_	start_char=173|end_char=174
+
+1	Sometimes	sometimes	ADV	RB	_	4	advmod	_	start_char=175|end_char=184
+2	Americans	American	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=185|end_char=194
+3	really	really	ADV	RB	_	4	advmod	_	start_char=195|end_char=201
+4	baffle	baffle	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=202|end_char=208
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=209|end_char=211
+6	.	.	PUNCT	.	_	4	punct	_	start_char=211|end_char=212
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=213|end_char=217
+2	immature	immature	ADJ	JJ	Degree=Pos	0	root	_	start_char=218|end_char=226
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=227|end_char=230
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=231|end_char=239
+5	of	of	ADP	IN	_	6	case	_	start_char=240|end_char=242
+6	Kandy	Kandy	PROPN	NNP	Number=Sing	4	obl	_	start_char=243|end_char=248
+7	.	.	PUNCT	.	_	2	punct	_	start_char=248|end_char=249
+

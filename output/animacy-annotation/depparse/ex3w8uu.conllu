@@ -1,0 +1,34 @@
+1	Local	local	ADJ	JJ	Degree=Pos	3	amod	_	start_char=0|end_char=5
+2	LAN	LAN	PROPN	NNP	Number=Sing	3	compound	_	start_char=6|end_char=9
+3	PepeLaugh	PepeLaugh	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=10|end_char=19
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=20|end_char=23
+5	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=23|end_char=26
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=34
+7	.	.	PUNCT	.	_	6	punct	_	start_char=34|end_char=35
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=38|end_char=41
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=42|end_char=45
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=46|end_char=50
+4	CAL	CAL	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=51|end_char=54
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=55|end_char=56
+6	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=56|end_char=58
+7	not	not	PART	RB	_	8	advmod	_	start_char=59|end_char=62
+8	sure	sure	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=63|end_char=67
+9	if	if	SCONJ	IN	_	14	mark	_	start_char=68|end_char=70
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=71|end_char=74
+11	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=74|end_char=77
+12	just	just	ADV	RB	_	14	advmod	_	start_char=78|end_char=82
+13	brain	brain	NOUN	NN	Number=Sing	14	obl:npmod	_	start_char=83|end_char=88
+14	dead	dead	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=89|end_char=93
+15	and	and	CCONJ	CC	_	20	cc	_	start_char=94|end_char=97
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=98|end_char=105
+17	Cyberathlete	Cyberathlete	PROPN	NNP	Number=Sing	18	compound	_	start_char=106|end_char=118
+18	League	League	PROPN	NNP	Number=Sing	20	nsubj:pass	_	start_char=119|end_char=125
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	start_char=126|end_char=128
+20	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=129|end_char=135
+21	CAL	CAL	PROPN	NNP	Number=Sing	20	xcomp	_	start_char=136|end_char=139
+22	,	,	PUNCT	,	_	24	punct	_	start_char=140|end_char=141
+23	not	not	ADV	RB	_	24	advmod	_	start_char=142|end_char=145
+24	CPL	CPL	PROPN	NNP	Number=Sing	21	conj	_	start_char=146|end_char=149
+25	.	.	PUNCT	.	_	3	punct	_	start_char=149|end_char=150
+

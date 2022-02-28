@@ -1,0 +1,12 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	2	cop	_	start_char=0|end_char=5
+2	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=11
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=12|end_char=15
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=16|end_char=24
+5	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=28|end_char=31
+7	shit	shit	NOUN	NN	Number=Sing	2	obl	_	start_char=32|end_char=36
+8	adult	adult	ADJ	JJ	Degree=Pos	9	amod	_	start_char=37|end_char=42
+9	life	life	NOUN	NN	Number=Sing	7	nsubj	_	start_char=43|end_char=47
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=48|end_char=50
+11	.	.	PUNCT	.	_	2	punct	_	start_char=50|end_char=51
+

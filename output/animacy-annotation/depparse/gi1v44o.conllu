@@ -1,0 +1,16 @@
+1	Unless	unless	SCONJ	IN	_	5	mark	_	start_char=0|end_char=6
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=7|end_char=10
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=15|end_char=18
+5	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=22
+6	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=23|end_char=26
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=26|end_char=28
+8	mentally	mentally	ADV	RB	_	9	advmod	_	start_char=29|end_char=37
+9	unstable	unstable	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=38|end_char=46
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=47|end_char=50
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=51|end_char=58
+12	of	of	ADP	IN	_	14	case	_	start_char=59|end_char=61
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=62|end_char=66
+14	actoins	actoin	NOUN	NNS	Number=Plur	11	obl	_	start_char=67|end_char=74
+15	;)	;)	SYM	NFP	_	5	discourse	_	start_char=75|end_char=77
+

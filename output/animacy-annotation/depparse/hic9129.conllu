@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	misguided	misguided	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=33
+7	of	of	ADP	IN	_	8	case	_	start_char=34|end_char=36
+8	Hinduism	Hinduism	PROPN	NNP	Number=Sing	6	obl	_	start_char=37|end_char=45
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=46|end_char=48
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=49|end_char=51
+11	amazing	amazing	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=52|end_char=59
+12	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+
+1	Got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=61|end_char=64
+2	to	to	PART	TO	_	6	mark	_	start_char=65|end_char=67
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=68|end_char=70
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=71|end_char=74
+5	dumbest	dumb	ADJ	JJS	Degree=Sup	6	amod	_	start_char=75|end_char=82
+6	statement	statement	NOUN	NN	Number=Sing	1	xcomp	_	start_char=83|end_char=92
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=93|end_char=94
+8	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=95|end_char=99
+9	on	on	ADP	IN	_	11	case	_	start_char=100|end_char=102
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=103|end_char=106
+11	internet	internet	NOUN	NN	Number=Sing	8	obl	_	start_char=107|end_char=115
+12	“	''	PUNCT	``	_	16	punct	_	start_char=116|end_char=117
+13	Hindus	Hindus	PROPN	NNPS	Number=Plur	16	nsubj	_	start_char=117|end_char=123
+14	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=124|end_char=126
+15	n’t	not	PART	RB	_	16	advmod	_	start_char=126|end_char=129
+16	follow	follow	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=130|end_char=136
+17	Hinduism	Hinduism	PROPN	NNP	Number=Sing	16	obj	_	start_char=137|end_char=145
+18	”	''	PUNCT	''	_	16	punct	_	start_char=145|end_char=146
+19	.	.	PUNCT	.	_	1	punct	_	start_char=147|end_char=148
+

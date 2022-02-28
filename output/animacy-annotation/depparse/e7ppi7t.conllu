@@ -1,0 +1,24 @@
+1	Plenty	plenty	NOUN	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=6
+2	of	of	ADP	IN	_	3	case	_	start_char=7|end_char=9
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	nmod	_	start_char=10|end_char=12
+4	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=17
+5	why	why	SCONJ	WRB	PronType=Int	8	mark	_	start_char=18|end_char=21
+6	,	,	PUNCT	,	_	8	punct	_	start_char=21|end_char=22
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=23|end_char=27
+8	want	want	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=28|end_char=32
+9	to	to	PART	TO	_	10	mark	_	start_char=33|end_char=35
+10	keep	keep	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=36|end_char=40
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	obj	_	start_char=41|end_char=43
+12	dumb	dumb	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=44|end_char=48
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=49|end_char=52
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=53|end_char=60
+15	,	,	PUNCT	,	_	19	punct	_	start_char=60|end_char=61
+16	and	and	CCONJ	CC	_	19	cc	_	start_char=62|end_char=65
+17	psychedelic	psychedelic	ADJ	JJ	Degree=Pos	18	amod	_	start_char=66|end_char=77
+18	drugs	drug	NOUN	NNS	Number=Plur	19	nsubj	_	start_char=78|end_char=83
+19	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=84|end_char=86
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=87|end_char=90
+21	opposite	opposite	ADJ	JJ	Degree=Pos	19	obj	_	start_char=91|end_char=99
+22	lol	lol	INTJ	UH	_	4	discourse	_	start_char=100|end_char=103
+23	.	.	PUNCT	.	_	4	punct	_	start_char=103|end_char=104
+

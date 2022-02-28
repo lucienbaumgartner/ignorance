@@ -1,0 +1,12 @@
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=2
+2	generation	generation	NOUN	NN	Number=Sing	4	nsubj	_	start_char=3|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=14|end_char=16
+4	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=24
+5	/	/	SYM	,	_	6	punct	_	start_char=24|end_char=25
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=36|end_char=43
+9	of	of	ADP	IN	_	10	case	_	start_char=44|end_char=46
+10	history	history	NOUN	NN	Number=Sing	8	obl	_	start_char=47|end_char=54
+11	..........	..........	PUNCT	.	_	4	punct	_	start_char=54|end_char=64
+

@@ -1,0 +1,38 @@
+1	Hold	hold	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	up	up	ADP	RP	_	1	compound:prt	_	start_char=5|end_char=7
+3	,	,	PUNCT	,	_	1	punct	_	start_char=7|end_char=8
+4	how	how	ADV	WRB	PronType=Int	8	advmod	_	start_char=9|end_char=12
+5	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=13|end_char=17
+6	one	one	NUM	CD	NumType=Card	8	nsubj	_	start_char=18|end_char=21
+7	"	"	PUNCT	``	_	8	punct	_	start_char=22|end_char=23
+8	create	create	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=23|end_char=29
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=30|end_char=34
+10	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	obj	_	start_char=35|end_char=43
+11	"	"	PUNCT	''	_	8	punct	_	start_char=43|end_char=44
+
+1	Being	be	AUX	VBG	VerbForm=Ger	2	cop	_	start_char=47|end_char=52
+2	gay	gay	ADJ	JJ	Degree=Pos	5	csubj	_	start_char=53|end_char=56
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=57|end_char=59
+4	n't	not	PART	RB	_	5	advmod	_	start_char=59|end_char=62
+5	something	something	PRON	NN	Number=Sing	0	root	_	start_char=63|end_char=72
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=73|end_char=76
+7	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=77|end_char=83
+8	to	to	PART	TO	_	9	mark	_	start_char=84|end_char=86
+9	do	do	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=87|end_char=89
+10	.	.	PUNCT	.	_	5	punct	_	start_char=89|end_char=90
+
+1	And	and	CCONJ	CC	_	10	cc	_	start_char=91|end_char=94
+2	honestly	honestly	ADV	RB	_	4	advmod	_	start_char=95|end_char=103
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=104|end_char=107
+4	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=108|end_char=111
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=112|end_char=115
+6	word	word	NOUN	NN	Number=Sing	4	acl:relcl	_	start_char=116|end_char=120
+7	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=121|end_char=125
+8	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=126|end_char=131
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obj	_	start_char=132|end_char=135
+10	sound	sound	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=136|end_char=141
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=142|end_char=150
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=151|end_char=154
+13	homophobic	homophobic	ADJ	JJ	Degree=Pos	11	conj	_	start_char=155|end_char=165
+14	.	.	PUNCT	.	_	4	punct	_	start_char=165|end_char=166
+

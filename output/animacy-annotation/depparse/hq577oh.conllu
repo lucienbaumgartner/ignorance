@@ -1,0 +1,42 @@
+1	Lol	lol	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=5
+3	cant	cant	AUX	MD	VerbForm=Fin	4	aux	_	start_char=6|end_char=10
+4	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=19|end_char=22
+6	mindless	mindless	ADJ	JJ	Degree=Pos	7	amod	_	start_char=23|end_char=31
+7	racist	racist	NOUN	NN	Number=Sing	10	nsubj	_	start_char=32|end_char=38
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=39|end_char=41
+9	also	also	ADV	RB	_	10	advmod	_	start_char=42|end_char=46
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=47|end_char=55
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=56|end_char=59
+12	highly	highly	ADV	RB	_	13	advmod	_	start_char=60|end_char=66
+13	opinionated	opinionated	ADJ	JJ	Degree=Pos	10	conj	_	start_char=67|end_char=78
+
+1	&gt	&gt	INTJ	UH	_	3	discourse	_	start_char=80|end_char=83
+2	;	;	PUNCT	,	_	3	punct	_	start_char=83|end_char=84
+3	fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=85|end_char=89
+4	off	off	ADP	RP	_	3	compound:prt	_	start_char=90|end_char=93
+5	tankie	tankie	NOUN	NN	Number=Sing	3	obj	_	start_char=94|end_char=100
+
+1	Im	Im	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=102|end_char=104
+2	not	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=105|end_char=108
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=109|end_char=110
+4	tankie	tankie	NOUN	NN	Number=Sing	0	root	_	start_char=111|end_char=117
+5	,	,	PUNCT	,	_	9	punct	_	start_char=117|end_char=118
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=119|end_char=122
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=123|end_char=125
+8	both	both	DET	DT	_	7	det	_	start_char=126|end_char=130
+9	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=131|end_char=135
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=136|end_char=139
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=139|end_char=142
+12	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=143|end_char=144
+13	meek	meek	ADJ	JJ	Degree=Pos	15	amod	_	start_char=145|end_char=149
+14	little	little	ADJ	JJ	Degree=Pos	15	amod	_	start_char=150|end_char=156
+15	bitch	bitch	NOUN	NN	Number=Sing	9	ccomp	_	start_char=157|end_char=162
+16	so	so	ADV	RB	_	17	advmod	_	start_char=163|end_char=165
+17	calm	calm	ADJ	JJ	Degree=Pos	15	amod	_	start_char=166|end_char=170
+18	down	down	ADP	RP	_	17	advmod	_	start_char=171|end_char=175
+19	with	with	ADP	IN	_	21	case	_	start_char=176|end_char=180
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=181|end_char=184
+21	barking	barking	NOUN	NN	Number=Sing	17	obl	_	start_char=185|end_char=192
+

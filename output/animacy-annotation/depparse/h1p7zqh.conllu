@@ -1,0 +1,46 @@
+1	Just	just	ADV	RB	_	5	advmod	_	start_char=0|end_char=4
+2	because	because	SCONJ	IN	_	5	mark	_	start_char=5|end_char=12
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=13|end_char=15
+4	“	''	PUNCT	``	_	5	punct	_	start_char=16|end_char=17
+5	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	start_char=17|end_char=22
+6	to	to	PART	TO	_	7	mark	_	start_char=23|end_char=25
+7	make	make	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=26|end_char=30
+8	sense	sense	NOUN	NN	Number=Sing	7	obj	_	start_char=31|end_char=36
+9	”	''	PUNCT	''	_	5	punct	_	start_char=36|end_char=37
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=38|end_char=42
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=42|end_char=45
+12	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=46|end_char=50
+13	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=51|end_char=54
+14	should	should	AUX	MD	VerbForm=Fin	15	aux	_	start_char=55|end_char=61
+15	connect	connect	VERB	VB	VerbForm=Inf	12	ccomp	_	start_char=62|end_char=69
+16	dots	dot	NOUN	NNS	Number=Plur	15	obj	_	start_char=70|end_char=74
+17	lmao	lmao	ADV	RB	_	15	advmod	_	start_char=75|end_char=79
+18	.	.	PUNCT	.	_	12	punct	_	start_char=79|end_char=80
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=81|end_char=83
+2	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=84|end_char=89
+3	pathetic	pathetic	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=90|end_char=98
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=99|end_char=102
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=103|end_char=111
+6	of	of	ADP	IN	_	7	case	_	start_char=112|end_char=114
+7	reality	reality	NOUN	NN	Number=Sing	5	obl	_	start_char=115|end_char=122
+8	.	.	PUNCT	.	_	2	punct	_	start_char=122|end_char=123
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=124|end_char=127
+2	reality	reality	NOUN	NN	Number=Sing	10	nsubj	_	start_char=128|end_char=135
+3	of	of	ADP	IN	_	5	case	_	start_char=136|end_char=138
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=139|end_char=142
+5	matter	matter	NOUN	NN	Number=Sing	2	nmod	_	start_char=143|end_char=149
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=150|end_char=152
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=153|end_char=156
+8	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=157|end_char=159
+9	n’t	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=159|end_char=162
+10	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=163|end_char=167
+11	shit	shit	NOUN	NN	Number=Sing	10	obj	_	start_char=168|end_char=172
+12	lmao	lmao	INTJ	UH	_	16	discourse	_	start_char=173|end_char=177
+13	so	so	ADV	RB	_	16	advmod	_	start_char=178|end_char=180
+14	do	do	AUX	VB	VerbForm=Fin	16	aux	_	start_char=181|end_char=183
+15	n’t	not	PART	RB	Polarity=Neg	16	advmod	_	start_char=183|end_char=186
+16	assume	assume	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	10	parataxis	_	start_char=187|end_char=193
+17	shit	shit	NOUN	NN	Number=Sing	16	obj	_	start_char=194|end_char=198
+

@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=0|end_char=1
+2	definitely	definitely	ADV	RB	_	6	advmod	_	start_char=2|end_char=12
+3	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=13|end_char=19
+4	n't	not	PART	RB	_	6	advmod	_	start_char=19|end_char=22
+5	have	have	AUX	VB	VerbForm=Inf	6	aux	_	start_char=23|end_char=27
+6	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=28|end_char=32
+7	"	"	PUNCT	``	_	9	punct	_	start_char=33|end_char=34
+8	idiot	idiot	ADJ	JJ	Degree=Pos	9	amod	_	start_char=34|end_char=39
+9	people	people	NOUN	NNS	Number=Plur	6	obj	_	start_char=40|end_char=46
+10	wasting	waste	VERB	VBG	VerbForm=Ger	9	acl	_	start_char=47|end_char=54
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=55|end_char=60
+12	money	money	NOUN	NN	Number=Sing	10	obj	_	start_char=61|end_char=66
+13	"	"	PUNCT	''	_	9	punct	_	start_char=66|end_char=67
+14	.	.	PUNCT	.	_	6	punct	_	start_char=67|end_char=68
+
+1	Now	now	ADV	RB	_	3	advmod	_	start_char=69|end_char=72
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=73|end_char=74
+3	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=75|end_char=78
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=79|end_char=83
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=84|end_char=87
+6	wrong	wrong	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=88|end_char=93
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=94|end_char=97
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=98|end_char=106
+9	of	of	ADP	IN	_	10	case	_	start_char=107|end_char=109
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	start_char=110|end_char=112
+11	.	.	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+

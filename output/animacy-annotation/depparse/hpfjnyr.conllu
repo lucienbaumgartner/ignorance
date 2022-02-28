@@ -1,0 +1,92 @@
+1	&gt	&gt	INTJ	UH	_	14	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=5
+4	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	parataxis	_	start_char=6|end_char=10
+5	,	,	PUNCT	,	_	7	punct	_	start_char=10|end_char=11
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=12|end_char=17
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	advcl	_	start_char=18|end_char=26
+8	,	,	PUNCT	,	_	9	punct	_	start_char=26|end_char=27
+9	filthy	filthy	ADJ	JJ	Degree=Pos	7	conj	_	start_char=28|end_char=34
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=35|end_char=38
+11	needy	needy	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=44
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=45|end_char=47
+13	more	more	ADV	RBR	_	14	advmod	_	start_char=48|end_char=52
+14	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=53|end_char=58
+15	on	on	SCONJ	IN	_	18	mark	_	start_char=59|end_char=61
+16	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=62|end_char=65
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=66|end_char=69
+18	bring	bring	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=70|end_char=75
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	obj	_	start_char=76|end_char=80
+20	up	up	ADP	RP	_	18	compound:prt	_	start_char=81|end_char=83
+21	.	.	PUNCT	.	_	14	punct	_	start_char=83|end_char=84
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=86|end_char=88
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=88|end_char=90
+3	not	not	PART	RB	_	2	advmod	_	start_char=91|end_char=94
+4	.	.	PUNCT	.	_	2	punct	_	start_char=94|end_char=95
+
+1	All	all	DET	DT	_	2	det	_	start_char=97|end_char=100
+2	kids	kid	NOUN	NNS	Number=Plur	4	nsubj:pass	_	start_char=101|end_char=105
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=106|end_char=109
+4	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=110|end_char=114
+5	fully	fully	ADV	RB	_	6	advmod	_	start_char=115|end_char=120
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=121|end_char=129
+7	to	to	ADP	IN	_	9	case	_	start_char=130|end_char=132
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=133|end_char=136
+9	world	world	NOUN	NN	Number=Sing	6	obl	_	start_char=137|end_char=142
+10	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+
+1	All	all	DET	DT	_	2	det	_	start_char=145|end_char=148
+2	kids	kid	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=149|end_char=153
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=154|end_char=158
+4	needs	need	NOUN	NNS	Number=Plur	3	obj	_	start_char=159|end_char=164
+5	for	for	ADP	IN	_	6	case	_	start_char=165|end_char=168
+6	food	food	NOUN	NN	Number=Sing	4	nmod	_	start_char=169|end_char=173
+7	/	/	SYM	,	_	8	punct	_	start_char=173|end_char=174
+8	shelter	shelter	NOUN	NN	Number=Sing	6	conj	_	start_char=174|end_char=181
+9	/	/	SYM	,	_	11	punct	_	start_char=181|end_char=182
+10	water/entertainment	water/entertainment	NOUN	NN	Number=Sing	11	compound	_	start_char=182|end_char=201
+11	/education	/education	NOUN	NN	Number=Sing	6	conj	_	start_char=201|end_char=211
+12	/	/	SYM	,	_	13	cc	_	start_char=211|end_char=212
+13	etc	etc	X	FW	_	6	conj	_	start_char=212|end_char=215
+14	...	...	PUNCT	.	_	3	punct	_	start_char=215|end_char=218
+
+1	All	all	DET	DT	_	2	det	_	start_char=220|end_char=223
+2	kids	kid	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=224|end_char=228
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=229|end_char=232
+4	filthy	filthy	ADJ	JJ	Degree=Pos	0	root	_	start_char=233|end_char=239
+5	,	,	PUNCT	,	_	4	punct	_	start_char=239|end_char=240
+6	mainly	mainly	ADV	RB	_	10	advmod	_	start_char=241|end_char=247
+7	because	because	SCONJ	IN	_	10	mark	_	start_char=248|end_char=255
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=256|end_char=260
+9	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=260|end_char=263
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=264|end_char=272
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=273|end_char=276
+12	uncoordinated	uncoordinated	ADJ	JJ	Degree=Pos	10	conj	_	start_char=277|end_char=290
+13	.	.	PUNCT	.	_	4	punct	_	start_char=290|end_char=291
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=294|end_char=297
+2	;	;	PUNCT	:	_	1	punct	_	start_char=297|end_char=298
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=299|end_char=301
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=302|end_char=305
+3	chuck	chuck	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=306|end_char=311
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=312|end_char=313
+5	child	child	NOUN	NN	Number=Sing	3	obj	_	start_char=314|end_char=319
+6	in	in	ADP	IN	_	9	case	_	start_char=320|end_char=322
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=323|end_char=324
+8	shit	shit	NOUN	NN	Number=Sing	9	compound	_	start_char=325|end_char=329
+9	household	household	NOUN	NN	Number=Sing	3	obl	_	start_char=330|end_char=339
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=340|end_char=343
+11	child	child	NOUN	NN	Number=Sing	13	nsubj	_	start_char=344|end_char=349
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=350|end_char=352
+13	gonna	gonna	PART	TO	_	0	root	_	start_char=353|end_char=358
+14	mostly	mostly	ADV	RB	_	18	advmod	_	start_char=359|end_char=365
+15	be	be	AUX	VB	VerbForm=Inf	18	cop	_	start_char=366|end_char=368
+16	like	like	ADP	IN	_	18	case	_	start_char=369|end_char=373
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=374|end_char=377
+18	parents	parent	NOUN	NNS	Number=Plur	13	obl	_	start_char=378|end_char=385
+
+1	Sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=387|end_char=391
+2	.	.	PUNCT	.	_	1	punct	_	start_char=391|end_char=392
+

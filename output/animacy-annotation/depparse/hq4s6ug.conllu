@@ -1,0 +1,15 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=1|end_char=4
+3	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=9
+4	black	black	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=15
+5	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=16|end_char=22
+6	without	without	ADP	IN	_	7	case	_	start_char=23|end_char=30
+7	shoes	shoe	NOUN	NNS	Number=Plur	3	obl	_	start_char=31|end_char=36
+8	.	.	PUNCT	.	_	3	punct	_	start_char=36|end_char=37
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=38|end_char=42
+2	just	just	ADV	RB	_	3	advmod	_	start_char=43|end_char=47
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=48|end_char=56
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=57|end_char=60
+5	racist	racist	ADJ	JJ	Degree=Pos	3	conj	_	start_char=61|end_char=67
+

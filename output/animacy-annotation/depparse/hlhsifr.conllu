@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	literally	literally	ADV	RB	_	4	advmod	_	start_char=2|end_char=11
+3	dont	do	AUX	MD	VerbForm=Fin	4	aux	_	start_char=12|end_char=16
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=21
+5	any	any	DET	DT	_	9	nsubj	_	start_char=22|end_char=25
+6	of	of	ADP	IN	_	8	case	_	start_char=26|end_char=28
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=29|end_char=32
+8	men	man	NOUN	NNS	Number=Plur	5	nmod	_	start_char=33|end_char=36
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=37|end_char=41
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=42|end_char=45
+11	wives	wife	NOUN	NNS	Number=Plur	9	obj	_	start_char=46|end_char=51
+12	that	that	PRON	WDT	PronType=Rel	14	obj	_	start_char=52|end_char=56
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=57|end_char=61
+14	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=62|end_char=64
+15	on	on	ADP	IN	_	17	case	_	start_char=65|end_char=67
+16	real	real	ADJ	JJ	Degree=Pos	17	amod	_	start_char=68|end_char=72
+17	housewives	housewive	NOUN	NNS	Number=Plur	14	obl	_	start_char=73|end_char=83
+18	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+
+1	Jennie	Jennie	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=86|end_char=92
+2	's	's	PART	POS	_	1	case	_	start_char=92|end_char=94
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=95|end_char=98
+4	meredith	meredith	PROPN	NNP	Number=Sing	1	conj	_	start_char=99|end_char=107
+5	's	's	PART	POS	_	4	case	_	start_char=107|end_char=109
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=110|end_char=113
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=114|end_char=117
+8	absolute	absolute	ADJ	JJ	Degree=Pos	9	amod	_	start_char=118|end_char=126
+9	worst	bad	ADJ	JJS	Degree=Sup	0	root	_	start_char=127|end_char=132
+10	though	though	ADV	RB	_	9	advmod	_	start_char=133|end_char=139
+11	.	.	PUNCT	.	_	9	punct	_	start_char=139|end_char=140
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=141|end_char=145
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=145|end_char=148
+3	both	both	ADV	RB	_	5	advmod	_	start_char=149|end_char=153
+4	so	so	ADV	RB	_	5	advmod	_	start_char=154|end_char=156
+5	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=157|end_char=164
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=165|end_char=168
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=169|end_char=176
+8	of	of	ADP	IN	_	10	mark	_	start_char=177|end_char=179
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=180|end_char=183
+10	stupid	stupid	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=184|end_char=190
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=191|end_char=196
+12	comments	comment	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=197|end_char=205
+13	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=206|end_char=209
+14	.	.	PUNCT	.	_	5	punct	_	start_char=209|end_char=210
+

@@ -1,0 +1,13 @@
+1	Jesus	Jesus	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=0|end_char=5
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=6|end_char=13
+3	Christ	Christ	PROPN	NNP	Number=Sing	2	obj	_	start_char=14|end_char=20
+4	all	all	DET	DT	_	3	det	_	start_char=21|end_char=24
+5	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=28|end_char=33
+7	comments	comment	NOUN	NNS	Number=Plur	4	nmod	_	start_char=34|end_char=42
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=43|end_char=46
+9	so	so	ADV	RB	_	10	advmod	_	start_char=47|end_char=49
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=58
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=59|end_char=62
+12	awful	awful	ADJ	JJ	Degree=Pos	10	conj	_	start_char=63|end_char=68
+

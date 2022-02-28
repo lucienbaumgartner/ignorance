@@ -1,0 +1,36 @@
+1	Excuse	excuse	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=6
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=7|end_char=9
+3	what	what	PRON	WP	PronType=Int	1	obj	_	start_char=10|end_char=14
+4	?	?	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=16|end_char=19
+2	realize	realize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=20|end_char=27
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=28|end_char=31
+4	moronic	moronic	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=32|end_char=39
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=40|end_char=43
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=44|end_char=52
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=53|end_char=57
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=58|end_char=60
+9	right	right	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=61|end_char=66
+10	?	?	PUNCT	.	_	2	punct	_	start_char=66|end_char=67
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=68|end_char=71
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=72|end_char=76
+3	to	to	PART	TO	_	4	mark	_	start_char=77|end_char=79
+4	label	label	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=80|end_char=85
+5	someone	someone	PRON	NN	Number=Sing	4	obj	_	start_char=86|end_char=93
+6	as	as	ADP	IN	_	8	case	_	start_char=94|end_char=96
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=97|end_char=98
+8	criminal	criminal	NOUN	NN	Number=Sing	4	obl	_	start_char=99|end_char=107
+9	because	because	SCONJ	IN	_	13	mark	_	start_char=108|end_char=115
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=116|end_char=120
+11	do	do	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=121|end_char=123
+12	n’t	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=123|end_char=126
+13	like	like	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=127|end_char=131
+14	someone	someone	PRON	NN	Number=Sing	13	obj	_	start_char=132|end_char=139
+15	?	?	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=141|end_char=144
+2	fuck	fuck	NOUN	NN	Number=Sing	0	root	_	start_char=145|end_char=149
+3	?	?	PUNCT	.	_	2	punct	_	start_char=149|end_char=150
+

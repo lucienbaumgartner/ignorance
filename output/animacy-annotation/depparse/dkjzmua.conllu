@@ -1,0 +1,9 @@
+1	From	from	ADP	IN	_	2	case	_	start_char=0|end_char=4
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	compliant	compliant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=17|end_char=26
+5	to	to	PART	TO	_	6	mark	_	start_char=27|end_char=29
+6	woke	wake	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=30|end_char=34
+7	af	af	NOUN	NN	Number=Sing	6	obj	_	start_char=35|end_char=37
+8	.	.	PUNCT	.	_	2	punct	_	start_char=37|end_char=38
+

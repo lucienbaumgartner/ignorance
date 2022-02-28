@@ -1,0 +1,55 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	thread	thread	NOUN	NN	Number=Sing	3	nsubj	_	start_char=5|end_char=11
+3	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=16
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=17|end_char=19
+5	smile	smile	NOUN	NN	Number=Sing	3	xcomp	_	start_char=20|end_char=25
+6	.	.	PUNCT	.	_	3	punct	_	start_char=25|end_char=26
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=27|end_char=28
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	cop	_	start_char=29|end_char=32
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=33|end_char=34
+4	wedding	wedding	NOUN	NN	Number=Sing	5	compound	_	start_char=35|end_char=42
+5	photographer	photographer	NOUN	NN	Number=Sing	0	root	_	start_char=43|end_char=55
+6	for	for	ADP	IN	_	9	case	_	start_char=56|end_char=59
+7	10	10	NUM	CD	NumType=Card	9	nummod	_	start_char=60|end_char=62
+8	+	+	SYM	SYM	_	9	compound	_	start_char=62|end_char=63
+9	years	year	NOUN	NNS	Number=Plur	5	nmod	_	start_char=64|end_char=69
+10	and	and	CCONJ	CC	_	17	cc	_	start_char=70|end_char=73
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=74|end_char=77
+12	love	love	NOUN	NN	Number=Sing	17	nsubj	_	start_char=78|end_char=82
+13	of	of	ADP	IN	_	15	case	_	start_char=83|end_char=85
+14	dress	dress	NOUN	NN	Number=Sing	15	compound	_	start_char=86|end_char=91
+15	pockets	pocket	NOUN	NNS	Number=Plur	12	nmod	_	start_char=92|end_char=99
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=100|end_char=103
+17	universal	universal	ADJ	JJ	Degree=Pos	5	conj	_	start_char=104|end_char=113
+18	.	.	PUNCT	.	_	5	punct	_	start_char=113|end_char=114
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=115|end_char=116
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=117|end_char=122
+3	always	always	ADV	RB	_	4	advmod	_	start_char=123|end_char=129
+4	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	start_char=130|end_char=133
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=134|end_char=137
+6	bride	bride	NOUN	NN	Number=Sing	4	obj	_	start_char=138|end_char=143
+7	if	if	SCONJ	IN	_	10	mark	_	start_char=144|end_char=146
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=147|end_char=150
+9	dress	dress	NOUN	NN	Number=Sing	10	nsubj	_	start_char=151|end_char=156
+10	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	start_char=157|end_char=160
+11	pockets	pocket	NOUN	NNS	Number=Plur	10	obj	_	start_char=161|end_char=168
+12	,	,	PUNCT	,	_	17	punct	_	start_char=168|end_char=169
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=170|end_char=173
+14	sometimes	sometimes	ADV	RB	_	17	advmod	_	start_char=174|end_char=183
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=184|end_char=188
+16	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	cop	_	start_char=189|end_char=193
+17	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=194|end_char=201
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=202|end_char=205
+19	surprised	surprise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	conj	_	start_char=206|end_char=215
+20	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=216|end_char=220
+21	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	ccomp	_	start_char=221|end_char=224
+22	!	!	PUNCT	.	_	4	punct	_	start_char=224|end_char=225
+
+1	Such	such	PRON	PDT	_	4	det:predet	_	start_char=226|end_char=230
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=231|end_char=232
+3	fun	fun	ADJ	JJ	Degree=Pos	4	amod	_	start_char=233|end_char=236
+4	moment	moment	NOUN	NN	Number=Sing	0	root	_	start_char=237|end_char=243
+5	.	.	PUNCT	.	_	4	punct	_	start_char=243|end_char=244
+

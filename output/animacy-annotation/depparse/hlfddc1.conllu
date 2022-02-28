@@ -1,0 +1,31 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=1|end_char=5
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=5|end_char=6
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=6|end_char=7
+2	https://youtu.be/jhcgmwj3NAc)	https://youtu.be/jhcgmwj3nac)	X	ADD	_	0	root	_	start_char=7|end_char=36
+
+1	Like	like	INTJ	UH	_	0	root	_	start_char=39|end_char=43
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=44|end_char=45
+2	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=46|end_char=49
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=50|end_char=55
+4	old	old	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=56|end_char=59
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=60|end_char=63
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=64|end_char=72
+7	of	of	ADP	IN	_	9	case	_	start_char=73|end_char=75
+8	public	public	ADJ	JJ	Degree=Pos	9	amod	_	start_char=76|end_char=82
+9	consciousness	consciousness	NOUN	NN	Number=Sing	6	obl	_	start_char=83|end_char=96
+10	,	,	PUNCT	,	_	16	punct	_	start_char=96|end_char=97
+11	but	but	CCONJ	CC	_	16	cc	_	start_char=98|end_char=101
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=102|end_char=106
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=107|end_char=109
+14	probably	probably	ADV	RB	_	17	advmod	_	start_char=110|end_char=118
+15	more	more	ADJ	JJR	Degree=Cmp	16	amod	_	start_char=119|end_char=123
+16	tone	tone	NOUN	NN	Number=Sing	2	conj	_	start_char=124|end_char=128
+17	deaf	deaf	ADJ	JJ	Degree=Pos	16	amod	_	start_char=129|end_char=133
+18	than	than	ADP	IN	_	19	case	_	start_char=134|end_char=138
+19	anything	anything	PRON	NN	Number=Sing	17	obl	_	start_char=139|end_char=147
+20	Trump	Trump	PROPN	NNP	Number=Sing	21	nsubj	_	start_char=148|end_char=153
+21	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	acl:relcl	_	start_char=154|end_char=158
+

@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=8
+4	but	but	CCONJ	CC	_	8	cc	_	start_char=9|end_char=12
+5	also	also	ADV	RB	_	8	advmod	_	start_char=13|end_char=17
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=18|end_char=19
+7	bit	bit	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=20|end_char=23
+8	embarrassing	embarrassing	ADJ	JJ	Degree=Pos	3	conj	_	start_char=24|end_char=36
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=37|end_char=41
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=42|end_char=45
+11	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=45|end_char=48
+12	too	too	ADV	RB	_	13	advmod	_	start_char=49|end_char=52
+13	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	start_char=53|end_char=60
+14	dumb	dumb	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=61|end_char=65
+15	to	to	PART	TO	_	16	mark	_	start_char=66|end_char=68
+16	see	see	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=69|end_char=72
+17	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=73|end_char=76
+18	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=77|end_char=90
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=91|end_char=94
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=95|end_char=103
+21	that	that	SCONJ	IN	_	23	mark	_	start_char=104|end_char=108
+22	comparison	comparison	NOUN	NN	Number=Sing	23	nsubj	_	start_char=109|end_char=119
+23	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=120|end_char=122
+24	.	.	PUNCT	.	_	3	punct	_	start_char=122|end_char=123
+
+1	Yokels	yokel	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=124|end_char=130
+2	gonna	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=131|end_char=136
+3	yokel	yokel	NOUN	NN	Number=Sing	2	obj	_	start_char=137|end_char=142
+4	,	,	PUNCT	,	_	2	punct	_	start_char=142|end_char=143
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=144|end_char=145
+6	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=146|end_char=151
+7	.	.	PUNCT	.	_	2	punct	_	start_char=151|end_char=152
+

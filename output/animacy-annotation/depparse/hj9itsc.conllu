@@ -1,0 +1,7 @@
+1	very	very	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=17|end_char=25
+5	of	of	ADP	IN	_	6	case	_	start_char=26|end_char=28
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=29|end_char=32
+

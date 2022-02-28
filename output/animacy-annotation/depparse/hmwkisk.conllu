@@ -1,0 +1,31 @@
+1	Ruby	Ruby	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=4
+2	chocolate	chocolate	NOUN	NN	Number=Sing	3	nsubj	_	start_char=5|end_char=14
+3	contains	contain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=23
+4	cocoa	cocoa	NOUN	NN	Number=Sing	5	compound	_	start_char=24|end_char=29
+5	solids	solid	NOUN	NNS	Number=Plur	3	obj	_	start_char=30|end_char=36
+6	just	just	ADV	RB	_	9	advmod	_	start_char=37|end_char=41
+7	like	like	ADP	IN	_	9	case	_	start_char=42|end_char=46
+8	brown	brown	ADJ	JJ	Degree=Pos	9	amod	_	start_char=47|end_char=52
+9	chocolate	chocolate	NOUN	NN	Number=Sing	3	obl	_	start_char=53|end_char=62
+10	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	If	if	SCONJ	IN	_	7	mark	_	start_char=65|end_char=67
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=68|end_char=71
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=72|end_char=75
+4	actually	actually	ADV	RB	_	7	advmod	_	start_char=76|end_char=84
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=85|end_char=87
+6	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	start_char=88|end_char=99
+7	chef	chef	NOUN	NN	Number=Sing	12	advcl	_	start_char=100|end_char=104
+8	,	,	PUNCT	,	_	12	punct	_	start_char=104|end_char=105
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=106|end_char=109
+10	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=109|end_char=112
+11	probably	probably	ADV	RB	_	12	advmod	_	start_char=113|end_char=121
+12	British	British	ADJ	JJ	Degree=Pos	0	root	_	start_char=122|end_char=129
+13	.	.	PUNCT	.	_	12	punct	_	start_char=129|end_char=130
+
+1	Simultaneously	simultaneously	ADV	RB	_	2	advmod	_	start_char=131|end_char=145
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=146|end_char=153
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=154|end_char=157
+4	confident	confident	ADJ	JJ	Degree=Pos	2	conj	_	start_char=158|end_char=167
+5	…	…	PUNCT	.	_	2	punct	_	start_char=167|end_char=168
+

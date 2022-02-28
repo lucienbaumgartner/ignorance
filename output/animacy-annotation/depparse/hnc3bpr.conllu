@@ -1,0 +1,35 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=0|end_char=4
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=13
+3	commenter	commenter	NOUN	NN	Number=Sing	7	nsubj	_	start_char=14|end_char=23
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=24|end_char=26
+5	clearly	clearly	ADV	RB	_	7	advmod	_	start_char=27|end_char=34
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=35|end_char=36
+7	man	man	NOUN	NN	Number=Sing	0	root	_	start_char=37|end_char=40
+8	.	.	PUNCT	.	_	7	punct	_	start_char=40|end_char=41
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=43|end_char=47
+2	rational	rational	ADJ	JJ	Degree=Pos	3	amod	_	start_char=48|end_char=56
+3	fear	fear	NOUN	NN	Number=Sing	9	nsubj	_	start_char=57|end_char=61
+4	of	of	ADP	IN	_	6	case	_	start_char=62|end_char=64
+5	men	man	NOUN	NNS	Number=Plur	6	compound	_	start_char=65|end_char=68
+6	r/whenwomenrefuse	r/whenwomenrefuse	NOUN	NN	Number=Sing	3	nmod	_	start_char=69|end_char=86
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=87|end_char=89
+8	entirely	entirely	ADV	RB	_	9	advmod	_	start_char=90|end_char=98
+9	understandable	understandable	ADJ	JJ	Degree=Pos	0	root	_	start_char=99|end_char=113
+10	-	-	PUNCT	,	_	9	punct	_	start_char=113|end_char=114
+11	only	only	ADJ	JJ	Degree=Pos	12	amod	_	start_char=115|end_char=119
+12	men	man	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=120|end_char=123
+13	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	parataxis	_	start_char=124|end_char=128
+14	to	to	PART	TO	_	15	mark	_	start_char=129|end_char=131
+15	miss	miss	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=132|end_char=136
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=137|end_char=140
+17	memo	memo	NOUN	NN	Number=Sing	15	obj	_	start_char=141|end_char=145
+18	in	in	ADP	IN	_	24	case	_	start_char=146|end_char=148
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	_	start_char=149|end_char=154
+20	blissfully	blissfully	ADV	RB	_	21	advmod	_	start_char=155|end_char=165
+21	unaware	unaware	ADJ	JJ	Degree=Pos	24	amod	_	start_char=166|end_char=173
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=174|end_char=177
+23	privileged	privileged	ADJ	JJ	Degree=Pos	21	conj	_	start_char=178|end_char=188
+24	lives	life	NOUN	NNS	Number=Plur	15	obl	_	start_char=189|end_char=194
+25	.	.	PUNCT	.	_	9	punct	_	start_char=194|end_char=195
+

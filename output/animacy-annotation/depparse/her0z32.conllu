@@ -1,0 +1,14 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	aspire	aspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=8
+3	to	to	PART	TO	_	6	mark	_	start_char=9|end_char=11
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=12|end_char=14
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obl:npmod	_	start_char=15|end_char=19
+6	insane	insane	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=20|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=38
+9	of	of	ADP	IN	_	11	case	_	start_char=39|end_char=41
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=42|end_char=45
+11	world	world	NOUN	NN	Number=Sing	8	obl	_	start_char=46|end_char=51
+12	around	around	ADP	IN	_	13	case	_	start_char=52|end_char=58
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	nmod	_	start_char=59|end_char=61
+

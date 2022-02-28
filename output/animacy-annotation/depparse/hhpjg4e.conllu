@@ -1,0 +1,13 @@
+1	Lobotomy	lobotomy	NOUN	NN	Number=Sing	2	nsubj	_	start_char=0|end_char=8
+2	tends	tend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+3	to	to	PART	TO	_	4	mark	_	start_char=15|end_char=17
+4	make	make	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=18|end_char=22
+5	people	people	NOUN	NNS	Number=Plur	4	obj	_	start_char=23|end_char=29
+6	quiet	quiet	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=30|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=47
+9	of	of	ADP	IN	_	11	case	_	start_char=48|end_char=50
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=51|end_char=56
+11	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=57|end_char=69
+12	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+

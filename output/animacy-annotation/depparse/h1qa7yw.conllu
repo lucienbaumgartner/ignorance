@@ -1,0 +1,76 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=9
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=10|end_char=12
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=12|end_char=14
+6	not	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=15|end_char=18
+7	as	as	ADV	RB	_	8	advmod	_	start_char=19|end_char=21
+8	easy	easy	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=22|end_char=26
+9	as	as	ADP	IN	_	10	case	_	start_char=27|end_char=29
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	8	obl	_	start_char=30|end_char=34
+11	.	.	PUNCT	.	_	3	punct	_	start_char=34|end_char=35
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=36|end_char=37
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=37|end_char=39
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=44
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	_	start_char=45|end_char=48
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=48|end_char=50
+6	tried	try	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=51|end_char=56
+7	countless	countless	ADJ	JJ	Degree=Pos	8	amod	_	start_char=57|end_char=66
+8	times	time	NOUN	NNS	Number=Plur	6	obl:tmod	_	start_char=67|end_char=72
+9	and	and	CCONJ	CC	_	12	cc	_	start_char=73|end_char=76
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=77|end_char=80
+11	’ll	will	AUX	MD	VerbForm=Fin	12	aux	_	start_char=80|end_char=83
+12	continue	continue	VERB	VB	VerbForm=Inf	3	conj	_	start_char=84|end_char=92
+13	to	to	PART	TO	_	14	mark	_	start_char=93|end_char=95
+14	try	try	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=96|end_char=99
+15	countless	countless	ADJ	JJ	Degree=Pos	16	amod	_	start_char=100|end_char=109
+16	times	time	NOUN	NNS	Number=Plur	14	obl:tmod	_	start_char=110|end_char=115
+17	.	.	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=119|end_char=123
+2	judging	judge	NOUN	NN	Number=Sing	3	nsubj	_	start_char=124|end_char=131
+3	hurts	hurt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=132|end_char=137
+4	.	.	PUNCT	.	_	3	punct	_	start_char=137|end_char=138
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=139|end_char=141
+2	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=142|end_char=146
+3	.	.	PUNCT	.	_	2	punct	_	start_char=146|end_char=147
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=148|end_char=150
+2	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=151|end_char=158
+3	cruel	cruel	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=159|end_char=164
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=165|end_char=168
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=169|end_char=177
+6	of	of	ADP	IN	_	8	case	_	start_char=178|end_char=180
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=181|end_char=184
+8	struggle	struggle	NOUN	NN	Number=Sing	5	obl	_	start_char=185|end_char=193
+9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=194|end_char=197
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=198|end_char=201
+11	people	people	NOUN	NNS	Number=Plur	9	conj	_	start_char=202|end_char=208
+12	like	like	ADP	IN	_	13	case	_	start_char=209|end_char=213
+13	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	start_char=214|end_char=217
+14	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=218|end_char=222
+15	had	have	VERB	VBN	Tense=Past|VerbForm=Part	8	acl:relcl	_	start_char=223|end_char=226
+16	.	.	PUNCT	.	_	2	punct	_	start_char=226|end_char=227
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=230|end_char=234
+2	comments	comment	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=235|end_char=243
+3	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=244|end_char=248
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=249|end_char=252
+5	what	what	PRON	WP	PronType=Int	0	root	_	start_char=253|end_char=257
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=257|end_char=259
+7	wrong	wrong	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=260|end_char=265
+8	with	with	ADP	IN	_	10	case	_	start_char=266|end_char=270
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=271|end_char=274
+10	world	world	NOUN	NN	Number=Sing	7	obl	_	start_char=275|end_char=280
+11	.	.	PUNCT	.	_	5	punct	_	start_char=280|end_char=281
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=282|end_char=283
+2	lack	lack	NOUN	NN	Number=Sing	0	root	_	start_char=284|end_char=288
+3	of	of	ADP	IN	_	4	case	_	start_char=289|end_char=291
+4	compassion	compassion	NOUN	NN	Number=Sing	2	nmod	_	start_char=292|end_char=302
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=303|end_char=306
+6	empathy	empathy	NOUN	NN	Number=Sing	4	conj	_	start_char=307|end_char=314
+7	.	.	PUNCT	.	_	2	punct	_	start_char=314|end_char=315
+

@@ -1,0 +1,16 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=0|end_char=5
+2	so	so	ADV	RB	_	3	advmod	_	start_char=6|end_char=8
+3	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=12
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=13|end_char=16
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=17|end_char=24
+6	that	that	SCONJ	IN	_	10	mark	_	start_char=25|end_char=29
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=30|end_char=34
+8	gear	gear	NOUN	NN	Number=Sing	10	nsubj	_	start_char=35|end_char=39
+9	randomly	randomly	ADV	RB	_	10	advmod	_	start_char=40|end_char=48
+10	procs	proce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=49|end_char=54
+11	for	for	ADP	IN	_	14	case	_	start_char=55|end_char=58
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=59|end_char=63
+13	entire	entire	ADJ	JJ	Degree=Pos	14	amod	_	start_char=64|end_char=70
+14	healthbar	healthbar	NOUN	NN	Number=Sing	10	obl	_	start_char=71|end_char=80
+15	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+

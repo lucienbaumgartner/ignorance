@@ -1,0 +1,18 @@
+1	Keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=5|end_char=8
+3	plebians	plebian	NOUN	NNS	Number=Plur	1	obj	_	start_char=9|end_char=17
+4	poor	poor	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=18|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=37|end_char=41
+2	way	way	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=42|end_char=45
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=46|end_char=50
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=51|end_char=54
+5	breed	breed	VERB	VB	VerbForm=Inf	0	root	_	start_char=55|end_char=60
+6	more	more	ADJ	JJR	Degree=Cmp	8	amod	_	start_char=61|end_char=65
+7	UCP	UCP	PROPN	NNP	Number=Sing	8	compound	_	start_char=66|end_char=69
+8	voters	voter	NOUN	NNS	Number=Plur	5	obj	_	start_char=70|end_char=76
+9	.	.	PUNCT	.	_	5	punct	_	start_char=76|end_char=77
+

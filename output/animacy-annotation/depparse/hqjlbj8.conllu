@@ -1,0 +1,23 @@
+1	Refusing	refuse	VERB	VBG	VerbForm=Ger	8	csubj	_	start_char=0|end_char=8
+2	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+3	get	get	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=12|end_char=15
+4	vaccinated	vaccinate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=16|end_char=26
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=27|end_char=29
+6	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=30|end_char=35
+7	willfully	willfully	ADV	RB	_	8	advmod	_	start_char=36|end_char=45
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=54
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=55|end_char=58
+10	obtuse	obtuse	ADJ	JJ	Degree=Pos	8	conj	_	start_char=59|end_char=65
+11	.	.	PUNCT	.	_	8	punct	_	start_char=65|end_char=66
+
+1	Being	be	AUX	VBG	VerbForm=Ger	2	aux:pass	_	start_char=67|end_char=72
+2	addicted	addict	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	csubj	_	start_char=73|end_char=81
+3	to	to	ADP	IN	_	4	case	_	start_char=82|end_char=84
+4	narcotics	narcotic	NOUN	NNS	Number=Plur	2	obl	_	start_char=85|end_char=94
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=95|end_char=97
+6	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=98|end_char=100
+7	extremely	extremely	ADV	RB	_	8	advmod	_	start_char=101|end_char=110
+8	difficult	difficult	ADJ	JJ	Degree=Pos	9	amod	_	start_char=111|end_char=120
+9	illness	illness	NOUN	NN	Number=Sing	0	root	_	start_char=121|end_char=128
+10	.	.	PUNCT	.	_	9	punct	_	start_char=128|end_char=129
+

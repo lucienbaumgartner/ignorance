@@ -1,0 +1,46 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Assuming	assume	VERB	VBG	VerbForm=Ger	16	csubj	_	start_char=4|end_char=12
+2	everyone	everyone	PRON	NN	Number=Sing	4	nsubj	_	start_char=13|end_char=21
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=22|end_char=24
+4	able	able	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=25|end_char=29
+5	enough	enough	ADJ	JJ	Degree=Pos	4	advmod	_	start_char=30|end_char=36
+6	to	to	PART	TO	_	7	mark	_	start_char=37|end_char=39
+7	bike	bike	VERB	VB	VerbForm=Inf	5	acl	_	start_char=40|end_char=44
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=45|end_char=47
+9	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=48|end_char=51
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=52|end_char=55
+11	time	time	NOUN	NN	Number=Sing	9	obj	_	start_char=56|end_char=60
+12	to	to	ADP	IN	_	13	case	_	start_char=61|end_char=63
+13	bus	bus	NOUN	NN	Number=Sing	11	nmod	_	start_char=64|end_char=67
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=68|end_char=70
+15	pretty	pretty	ADV	RB	_	16	advmod	_	start_char=71|end_char=77
+16	privileged	privileged	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=88
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=89|end_char=92
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=93|end_char=101
+19	of	of	ADP	IN	_	22	case	_	start_char=102|end_char=104
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=105|end_char=108
+21	real	real	ADJ	JJ	Degree=Pos	22	amod	_	start_char=109|end_char=113
+22	world	world	NOUN	NN	Number=Sing	18	obl	_	start_char=114|end_char=119
+23	and	and	CCONJ	CC	_	25	cc	_	start_char=120|end_char=123
+24	peoples	people	NOUN	NNS	Number=Plur	25	compound	_	start_char=124|end_char=131
+25	lives	life	NOUN	NNS	Number=Plur	22	conj	_	start_char=132|end_char=137
+26	.	.	PUNCT	.	_	16	punct	_	start_char=137|end_char=138
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=140|end_char=144
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=145|end_char=149
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=150|end_char=152
+4	laugh	laugh	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=153|end_char=158
+5	.	.	PUNCT	.	_	2	punct	_	start_char=158|end_char=159
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=160|end_char=163
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=164|end_char=168
+3	to	to	PART	TO	_	4	mark	_	start_char=169|end_char=171
+4	learn	learn	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=172|end_char=177
+5	what	what	DET	WDT	PronType=Int	6	det	_	start_char=178|end_char=182
+6	privilege	privilege	NOUN	NN	Number=Sing	8	nsubj	_	start_char=183|end_char=192
+7	actually	actually	ADV	RB	_	8	advmod	_	start_char=193|end_char=201
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=202|end_char=204
+9	.	.	PUNCT	.	_	2	punct	_	start_char=204|end_char=205
+

@@ -1,0 +1,49 @@
+1	Lol	lol	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	“	''	PUNCT	``	_	3	punct	_	start_char=4|end_char=5
+3	protect	protect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=12
+4	children	child	NOUN	NNS	Number=Plur	3	obj	_	start_char=13|end_char=21
+5	”	''	PUNCT	''	_	3	punct	_	start_char=21|end_char=22
+6	ostracizing	ostracize	VERB	VBG	VerbForm=Ger	7	amod	_	start_char=23|end_char=34
+7	pedophiles	pedophile	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=35|end_char=45
+8	just	just	ADV	RB	_	9	advmod	_	start_char=46|end_char=50
+9	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=51|end_char=56
+10	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	start_char=57|end_char=61
+11	act	act	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=62|end_char=65
+12	out	out	ADP	RP	_	11	compound:prt	_	start_char=66|end_char=69
+13	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	Those	that	DET	DT	Number=Plur|PronType=Dem	7	nsubj	_	start_char=71|end_char=76
+2	seeking	seek	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=77|end_char=84
+3	help	help	NOUN	NN	Number=Sing	2	obj	_	start_char=85|end_char=89
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=90|end_char=93
+5	therapy	therapy	NOUN	NN	Number=Sing	3	conj	_	start_char=94|end_char=101
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=102|end_char=105
+7	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=106|end_char=111
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=112|end_char=115
+9	opposite	opposite	NOUN	NN	Number=Sing	7	obj	_	start_char=116|end_char=124
+10	of	of	ADP	IN	_	11	case	_	start_char=125|end_char=127
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nmod	_	start_char=128|end_char=132
+12	.	.	PUNCT	.	_	7	punct	_	start_char=132|end_char=133
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=136|end_char=139
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=139|end_char=142
+3	so	so	ADV	RB	_	4	advmod	_	start_char=143|end_char=145
+4	hateful	hateful	ADJ	JJ	Degree=Pos	0	root	_	start_char=146|end_char=153
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=154|end_char=157
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=158|end_char=166
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=167|end_char=171
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=172|end_char=175
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=176|end_char=184
+10	advocate	advocate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=185|end_char=193
+11	for	for	ADP	IN	_	13	case	_	start_char=194|end_char=197
+12	more	more	ADJ	JJR	Degree=Cmp	13	amod	_	start_char=198|end_char=202
+13	molesting	molesting	NOUN	NN	Number=Sing	10	obl	_	start_char=203|end_char=212
+14	of	of	ADP	IN	_	15	case	_	start_char=213|end_char=215
+15	children	child	NOUN	NNS	Number=Plur	13	nmod	_	start_char=216|end_char=224
+16	.	.	PUNCT	.	_	4	punct	_	start_char=224|end_char=225
+
+1	By	by	ADP	IN	_	3	case	_	start_char=226|end_char=228
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=229|end_char=233
+3	logic	logic	NOUN	NN	Number=Sing	0	root	_	start_char=234|end_char=239
+4	.	.	PUNCT	.	_	3	punct	_	start_char=239|end_char=240
+

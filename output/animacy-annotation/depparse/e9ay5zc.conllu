@@ -1,0 +1,31 @@
+1	Yet	yet	CCONJ	CC	_	8	cc	_	start_char=0|end_char=3
+2	another	another	DET	DT	_	8	det	_	start_char=4|end_char=11
+3	enlightening	enlightening	ADJ	JJ	Degree=Pos	8	amod	_	start_char=12|end_char=24
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=25|end_char=28
+5	well	well	ADV	RB	Degree=Pos	3	conj	_	start_char=29|end_char=33
+6	thought	think	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	start_char=34|end_char=41
+7	out	out	ADP	RP	_	8	compound	_	start_char=42|end_char=45
+8	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=46|end_char=51
+9	.	.	PUNCT	.	_	8	punct	_	start_char=51|end_char=52
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=53|end_char=56
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=57|end_char=60
+3	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=61|end_char=67
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=68|end_char=72
+5	party	party	NOUN	NN	Number=Sing	3	obj	_	start_char=73|end_char=78
+6	look	look	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=79|end_char=83
+7	totally	totally	ADV	RB	_	9	advmod	_	start_char=84|end_char=91
+8	NOT	not	ADV	RB	_	9	advmod	_	start_char=92|end_char=95
+9	stupid	stupid	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=96|end_char=102
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=103|end_char=106
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=107|end_char=115
+12	.	.	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=117|end_char=118
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=118|end_char=122
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=123|end_char=126
+4	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	start_char=127|end_char=134
+5	,	,	PUNCT	,	_	6	punct	_	start_char=134|end_char=135
+6	champ	champ	NOUN	NN	Number=Sing	4	vocative	_	start_char=136|end_char=141
+7	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=141|end_char=142
+

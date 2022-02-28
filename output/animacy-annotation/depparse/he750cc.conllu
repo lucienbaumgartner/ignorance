@@ -1,0 +1,33 @@
+1	Maybe	maybe	ADV	RB	_	0	root	_	start_char=0|end_char=5
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=7
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=9
+3	too	too	ADV	RB	_	4	advmod	_	start_char=10|end_char=13
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=31
+7	of	of	ADP	IN	_	9	case	_	start_char=32|end_char=34
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=35|end_char=38
+9	pitfalls	pitfall	NOUN	NNS	Number=Plur	6	obl	_	start_char=39|end_char=47
+10	of	of	ADP	IN	_	12	case	_	start_char=48|end_char=50
+11	mom	mom	NOUN	NN	Number=Sing	12	compound	_	start_char=51|end_char=54
+12	jeans	jeans	NOUN	NNS	Number=Plur	9	nmod	_	start_char=55|end_char=60
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=62|end_char=65
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj:pass	_	start_char=66|end_char=67
+3	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=68|end_char=73
+4	get	get	AUX	VB	VerbForm=Inf	5	aux:pass	_	start_char=74|end_char=77
+5	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=78|end_char=82
+6	to	to	ADP	IN	_	8	case	_	start_char=83|end_char=85
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=86|end_char=89
+8	trend	trend	NOUN	NN	Number=Sing	5	obl	_	start_char=90|end_char=95
+9	.	.	PUNCT	.	_	5	punct	_	start_char=95|end_char=96
+
+1	Kinda	kinda	ADV	RB	Degree=Pos	2	advmod	_	start_char=97|end_char=102
+2	dig	dig	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=103|end_char=106
+3	em	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=107|end_char=109
+4	on	on	ADP	IN	_	6	case	_	start_char=110|end_char=112
+5	most	most	ADJ	JJS	Degree=Sup	6	amod	_	start_char=113|end_char=117
+6	girls	girl	NOUN	NNS	Number=Plur	2	obl	_	start_char=118|end_char=123
+7	tbh	tbh	PUNCT	.	_	2	punct	_	start_char=124|end_char=127
+

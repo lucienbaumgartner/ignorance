@@ -1,0 +1,30 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	same	same	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=9
+3	vibe	vibe	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=14
+4	as	as	ADP	IN	_	5	case	_	start_char=15|end_char=17
+5	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	start_char=18|end_char=21
+6	posting	post	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=22|end_char=29
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=30|end_char=33
+8	blachelorettes	blachelorette	NOUN	NNS	Number=Plur	9	compound	_	start_char=34|end_char=48
+9	video	video	NOUN	NN	Number=Sing	6	obj	_	start_char=49|end_char=54
+10	on	on	ADP	IN	_	11	case	_	start_char=55|end_char=57
+11	racism	racism	NOUN	NN	Number=Sing	6	obl	_	start_char=58|end_char=64
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=65|end_char=68
+13	nothing	nothing	PRON	NN	Number=Sing	11	conj	_	start_char=69|end_char=76
+14	else	else	ADJ	JJ	Degree=Pos	13	amod	_	start_char=77|end_char=81
+15	.	.	PUNCT	.	_	3	punct	_	start_char=81|end_char=82
+
+1	Lazy	lazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=87
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=88|end_char=91
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=92|end_char=100
+4	.	.	PUNCT	.	_	1	punct	_	start_char=100|end_char=101
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=102|end_char=106
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=107|end_char=110
+3	around	around	ADP	IN	_	5	case	_	start_char=111|end_char=117
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=118|end_char=121
+5	time	time	NOUN	NN	Number=Sing	0	root	_	start_char=122|end_char=126
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=127|end_char=128
+7	unfollowed	unfollow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=129|end_char=139
+8	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=140|end_char=143
+

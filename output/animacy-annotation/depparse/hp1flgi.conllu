@@ -1,0 +1,12 @@
+1	someone	someone	PRON	NN	Number=Sing	3	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=8|end_char=10
+3	salty	salty	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=29
+6	of	of	SCONJ	IN	_	7	case	_	start_char=30|end_char=32
+7	what	what	PRON	WP	PronType=Int	5	obl	_	start_char=33|end_char=37
+8	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=38|end_char=42
+9	on	on	ADP	IN	_	8	obl	_	start_char=43|end_char=45
+10	outside	outside	ADP	IN	_	11	case	_	start_char=46|end_char=53
+11	Instagram	Instagram	PROPN	NNP	Number=Sing	8	obl	_	start_char=54|end_char=63
+

@@ -1,0 +1,25 @@
+1	How	how	ADV	WRB	PronType=Int	0	root	_	start_char=0|end_char=3
+2	about	about	SCONJ	IN	_	4	mark	_	start_char=4|end_char=9
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=10|end_char=12
+4	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=13|end_char=17
+5	posts	post	NOUN	NNS	Number=Plur	4	obj	_	start_char=18|end_char=23
+6	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=24|end_char=28
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=29|end_char=32
+8	beneficial	beneficial	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=33|end_char=43
+9	and	and	CCONJ	CC	_	12	cc	_	start_char=44|end_char=47
+10	not	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=48|end_char=51
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=52|end_char=62
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=63|end_char=71
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=72|end_char=75
+14	useless	useless	ADJ	JJ	Degree=Pos	12	conj	_	start_char=76|end_char=83
+15	.	.	PUNCT	.	_	1	punct	_	start_char=83|end_char=84
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=85|end_char=91
+2	.	.	PUNCT	.	_	1	punct	_	start_char=91|end_char=92
+
+1	Act	act	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=93|end_char=96
+2	like	like	ADP	IN	_	3	case	_	start_char=97|end_char=101
+3	adults	adult	NOUN	NNS	Number=Plur	1	obl	_	start_char=102|end_char=108
+4	people	people	NOUN	NNS	Number=Plur	1	obl	_	start_char=109|end_char=115
+5	….	..	PUNCT	.	_	1	punct	_	start_char=115|end_char=117
+

@@ -1,0 +1,34 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	.	.	PUNCT	.	_	2	punct	_	start_char=7|end_char=8
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=9|end_char=13
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=18
+3	seriously	seriously	ADV	RB	_	4	advmod	_	start_char=19|end_char=28
+4	damaged	damage	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=29|end_char=36
+5	,	,	PUNCT	,	_	6	punct	_	start_char=36|end_char=37
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=38|end_char=46
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+8	generally	generally	ADV	RB	_	9	advmod	_	start_char=51|end_char=60
+9	obnoxious	obnoxious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=61|end_char=70
+10	.	.	PUNCT	.	_	2	punct	_	start_char=70|end_char=71
+
+1	Especially	especially	ADV	RB	_	3	advmod	_	start_char=72|end_char=82
+2	towards	towards	ADP	IN	_	3	case	_	start_char=83|end_char=90
+3	those	that	PRON	DT	Number=Plur|PronType=Dem	0	root	_	start_char=91|end_char=96
+4	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=97|end_char=100
+5	aspire	aspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=101|end_char=107
+6	to	to	ADP	IN	_	5	obl	_	start_char=108|end_char=110
+7	,	,	PUNCT	,	_	11	punct	_	start_char=110|end_char=111
+8	or	or	CCONJ	CC	_	11	cc	_	start_char=112|end_char=114
+9	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=115|end_char=119
+10	already	already	ADV	RB	_	11	advmod	_	start_char=120|end_char=127
+11	attained	attain	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	start_char=128|end_char=136
+12	what	what	PRON	WP	PronType=Int	11	obj	_	start_char=137|end_char=141
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=142|end_char=146
+14	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=147|end_char=150
+15	not	not	PART	RB	_	17	advmod	_	start_char=151|end_char=154
+16	even	even	ADV	RB	_	17	advmod	_	start_char=155|end_char=159
+17	imagine	imagine	VERB	VB	VerbForm=Inf	12	acl:relcl	_	start_char=160|end_char=167
+18	.	.	PUNCT	.	_	3	punct	_	start_char=167|end_char=168
+

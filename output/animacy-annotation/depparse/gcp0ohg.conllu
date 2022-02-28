@@ -1,0 +1,23 @@
+1	Independent	independent	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=11
+2	women	woman	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=12|end_char=17
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=18|end_char=21
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=22|end_char=25
+5	ones	one	NOUN	NNS	Number=Plur	0	root	_	start_char=26|end_char=30
+6	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=31|end_char=35
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=36|end_char=39
+8	so	so	ADV	RB	_	9	advmod	_	start_char=40|end_char=42
+9	bitchy	bitchy	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=43|end_char=49
+10	,	,	PUNCT	,	_	11	punct	_	start_char=49|end_char=50
+11	arrogant	arrogant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=51|end_char=59
+12	,	,	PUNCT	,	_	14	punct	_	start_char=59|end_char=60
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=61|end_char=64
+14	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=65|end_char=72
+15	that	that	SCONJ	IN	_	20	mark	_	start_char=73|end_char=77
+16	even	even	ADV	RB	_	19	advmod	_	start_char=78|end_char=82
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=83|end_char=88
+18	own	own	ADJ	JJ	Degree=Pos	19	amod	_	start_char=89|end_char=92
+19	kind	kind	NOUN	NN	Number=Sing	20	nsubj	_	start_char=93|end_char=97
+20	stay	stay	VERB	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=98|end_char=102
+21	away	away	ADV	RB	Degree=Pos	20	advmod	_	start_char=103|end_char=107
+22	.	.	PUNCT	.	_	5	punct	_	start_char=107|end_char=108
+

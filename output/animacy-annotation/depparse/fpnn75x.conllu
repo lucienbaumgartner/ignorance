@@ -1,0 +1,14 @@
+1	Ignoring	ignore	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=0|end_char=8
+2	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=9|end_char=12
+3	incredibly	incredibly	ADV	RB	_	4	advmod	_	start_char=13|end_char=23
+4	simple	simple	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=24|end_char=30
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=31|end_char=34
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=35|end_char=43
+7	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=44|end_char=48
+8	statement	statement	NOUN	NN	Number=Sing	4	nsubj	_	start_char=49|end_char=58
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=59|end_char=61
+10	,	,	PUNCT	,	_	11	punct	_	start_char=61|end_char=62
+11	correlation	correlation	NOUN	NN	Number=Sing	13	compound	_	start_char=63|end_char=74
+12	!=	!=	PUNCT	,	_	13	punct	_	start_char=75|end_char=77
+13	causation	causation	NOUN	NN	Number=Sing	0	root	_	start_char=78|end_char=87
+

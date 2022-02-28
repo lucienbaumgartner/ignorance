@@ -1,0 +1,46 @@
+1	Sue	Sue	PROPN	NNP	Number=Sing	5	vocative	_	start_char=0|end_char=3
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	flat	_	start_char=4|end_char=6
+3	,	,	PUNCT	,	_	5	punct	_	start_char=6|end_char=7
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=8|end_char=9
+5	edit	edit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+6	for	for	ADP	IN	_	7	case	_	start_char=15|end_char=18
+7	typos	typo	NOUN	NNS	Number=Plur	5	obl	_	start_char=19|end_char=24
+8	,	,	PUNCT	,	_	9	punct	_	start_char=24|end_char=25
+9	grammar	grammar	NOUN	NN	Number=Sing	7	conj	_	start_char=26|end_char=33
+10	&amp	&amp	PUNCT	,	_	5	punct	_	start_char=34|end_char=38
+11	;	;	PUNCT	,	_	12	punct	_	start_char=38|end_char=39
+12	clarity	clarity	NOUN	NN	Number=Sing	7	appos	_	start_char=40|end_char=47
+13	.	.	PUNCT	.	_	5	punct	_	start_char=47|end_char=48
+
+1	Anyway	anyway	ADV	RB	_	4	advmod	_	start_char=49|end_char=55
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=56|end_char=59
+3	point	point	NOUN	NN	Number=Sing	4	nsubj	_	start_char=60|end_char=65
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=66|end_char=68
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=69|end_char=72
+6	do	do	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=73|end_char=75
+7	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=75|end_char=78
+8	have	have	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=79|end_char=83
+9	to	to	PART	TO	_	10	mark	_	start_char=84|end_char=86
+10	wear	wear	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=87|end_char=91
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=92|end_char=93
+12	mask	mask	NOUN	NN	Number=Sing	10	obj	_	start_char=94|end_char=98
+13	outside	outside	ADV	RB	_	10	advmod	_	start_char=99|end_char=106
+14	and	and	CCONJ	CC	_	17	cc	_	start_char=107|end_char=110
+15	doing	do	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=111|end_char=116
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=117|end_char=119
+17	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=120|end_char=125
+18	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	17	obj	_	start_char=126|end_char=129
+19	look	look	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=130|end_char=134
+20	dumb	dumb	ADJ	JJ	Degree=Pos	19	xcomp	_	start_char=135|end_char=139
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=140|end_char=143
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	20	conj	_	start_char=144|end_char=152
+23	of	of	ADP	IN	_	24	case	_	start_char=153|end_char=155
+24	science	science	NOUN	NN	Number=Sing	22	obl	_	start_char=156|end_char=163
+25	.	.	PUNCT	.	_	4	punct	_	start_char=163|end_char=164
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=165|end_char=169
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=170|end_char=171
+3	good	good	ADJ	JJ	Degree=Pos	4	amod	_	start_char=172|end_char=176
+4	day	day	NOUN	NN	Number=Sing	1	obj	_	start_char=177|end_char=180
+5	!	!	PUNCT	.	_	1	punct	_	start_char=180|end_char=181
+

@@ -1,0 +1,33 @@
+1	spoken	speak	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	start_char=0|end_char=6
+2	like	like	ADP	IN	_	3	case	_	start_char=7|end_char=11
+3	someone	someone	PRON	NN	Number=Sing	1	obl	_	start_char=12|end_char=19
+4	so	so	ADV	RB	_	5	advmod	_	start_char=20|end_char=22
+5	deeply	deeply	ADV	RB	_	6	advmod	_	start_char=23|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	amod	_	start_char=30|end_char=38
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=39|end_char=42
+8	lazy	lazy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=43|end_char=47
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj:pass	_	start_char=48|end_char=51
+10	could	could	AUX	MD	VerbForm=Fin	13	aux	_	start_char=52|end_char=57
+11	n't	not	PART	RB	_	13	advmod	_	start_char=57|end_char=60
+12	be	be	AUX	VB	VerbForm=Inf	13	aux:pass	_	start_char=61|end_char=63
+13	bothered	bother	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=64|end_char=72
+14	to	to	PART	TO	_	15	mark	_	start_char=73|end_char=75
+15	learn	learn	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=76|end_char=81
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=82|end_char=83
+17	single	single	ADJ	JJ	Degree=Pos	18	amod	_	start_char=84|end_char=90
+18	thing	thing	NOUN	NN	Number=Sing	15	obj	_	start_char=91|end_char=96
+19	about	about	ADP	IN	_	22	case	_	start_char=97|end_char=102
+20	biden	biden	PROPN	NNP	Number=Sing	22	nmod:poss	_	start_char=103|end_char=108
+21	's	's	PART	POS	_	20	case	_	start_char=108|end_char=110
+22	agenda	agenda	NOUN	NN	Number=Sing	18	nmod	_	start_char=111|end_char=117
+23	.	.	PUNCT	.	_	13	punct	_	start_char=117|end_char=118
+
+1	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=120|end_char=123
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=124|end_char=129
+3	like	like	ADP	IN	_	7	case	_	start_char=130|end_char=134
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=135|end_char=136
+5	right	right	ADJ	JJ	Degree=Pos	7	amod	_	start_char=137|end_char=142
+6	wing	wing	NOUN	NN	Number=Sing	7	compound	_	start_char=143|end_char=147
+7	troll	troll	NOUN	NN	Number=Sing	2	obl	_	start_char=148|end_char=153
+8	.	.	PUNCT	.	_	2	punct	_	start_char=153|end_char=154
+

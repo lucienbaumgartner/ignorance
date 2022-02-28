@@ -1,0 +1,28 @@
+1	Yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	1	punct	_	start_char=4|end_char=5
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=6|end_char=8
+4	grandmother	grandmother	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=20
+5	today	today	NOUN	NN	Number=Sing	4	nmod:tmod	_	start_char=21|end_char=26
+6	,	,	PUNCT	,	_	5	punct	_	start_char=26|end_char=27
+7	lol	lol	INTJ	UH	_	4	discourse	_	start_char=28|end_char=31
+8	.	.	PUNCT	.	_	4	punct	_	start_char=31|end_char=32
+
+1	So	so	ADV	RB	_	4	advmod	_	start_char=33|end_char=35
+2	so	so	ADV	RB	_	4	advmod	_	start_char=36|end_char=38
+3	so	so	ADV	RB	_	4	advmod	_	start_char=39|end_char=41
+4	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=46
+5	!	!	PUNCT	.	_	4	punct	_	start_char=46|end_char=47
+
+1	Oh	oh	INTJ	UH	_	6	discourse	_	start_char=48|end_char=50
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=51|end_char=53
+3	God	God	PROPN	NNP	Number=Sing	6	vocative	_	start_char=54|end_char=57
+4	,	,	PUNCT	,	_	6	punct	_	start_char=57|end_char=58
+5	so	so	ADV	RB	_	6	advmod	_	start_char=60|end_char=62
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=71
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=72|end_char=75
+8	dumb	dumb	ADJ	JJ	Degree=Pos	6	conj	_	start_char=76|end_char=80
+9	!	!	PUNCT	.	_	6	punct	_	start_char=80|end_char=81
+
+1	WTF	wtf	INTJ	UH	_	0	root	_	start_char=82|end_char=85
+2	!	!	PUNCT	.	_	1	punct	_	start_char=85|end_char=86
+

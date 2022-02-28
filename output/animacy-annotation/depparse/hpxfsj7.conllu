@@ -1,0 +1,29 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	pandemic	pandemic	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=13
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=14|end_char=17
+4	shown	show	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=18|end_char=23
+5	with	with	ADP	IN	_	9	case	_	start_char=24|end_char=28
+6	absolute	absolute	ADJ	JJ	Degree=Pos	9	amod	_	start_char=29|end_char=37
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=38|end_char=41
+8	unflinching	unflinching	ADJ	JJ	Degree=Pos	6	conj	_	start_char=42|end_char=53
+9	clarity	clarity	NOUN	NN	Number=Sing	4	obl	_	start_char=54|end_char=61
+10	just	just	ADV	RB	_	12	advmod	_	start_char=62|end_char=66
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=67|end_char=70
+12	selfish	selfish	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=71|end_char=78
+13	,	,	PUNCT	,	_	14	punct	_	start_char=78|end_char=79
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=80|end_char=88
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=89|end_char=92
+16	hateful	hateful	ADJ	JJ	Degree=Pos	12	conj	_	start_char=93|end_char=100
+17	literally	literally	ADV	RB	_	18	advmod	_	start_char=101|end_char=110
+18	millions	million	NOUN	NNS	Number=Plur	21	nsubj	_	start_char=111|end_char=119
+19	of	of	ADP	IN	_	20	case	_	start_char=120|end_char=122
+20	people	people	NOUN	NNS	Number=Plur	18	nmod	_	start_char=123|end_char=129
+21	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=130|end_char=133
+22	.	.	PUNCT	.	_	4	punct	_	start_char=133|end_char=134
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=135|end_char=137
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=141
+3	to	to	PART	TO	_	4	mark	_	start_char=142|end_char=144
+4	see	see	VERB	VB	VerbForm=Inf	2	csubj	_	start_char=145|end_char=148
+5	.	.	PUNCT	.	_	2	punct	_	start_char=148|end_char=149
+

@@ -1,0 +1,37 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=8
+3	probably	probably	ADV	RB	_	6	advmod	_	start_char=9|end_char=17
+4	more	more	ADV	RBR	_	6	advmod	_	start_char=18|end_char=22
+5	likely	likely	ADV	RB	_	6	advmod	_	start_char=23|end_char=29
+6	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=48
+9	of	of	ADP	IN	_	10	case	_	start_char=49|end_char=51
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=52|end_char=54
+11	than	than	ADP	IN	_	13	case	_	start_char=55|end_char=59
+12	average	average	ADJ	JJ	Degree=Pos	13	amod	_	start_char=60|end_char=67
+13	rednecks	redneck	NOUN	NNS	Number=Plur	8	obl	_	start_char=68|end_char=76
+14	lol	lol	INTJ	UH	_	6	discourse	_	start_char=77|end_char=80
+15	.	.	PUNCT	.	_	6	punct	_	start_char=80|end_char=81
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=82|end_char=84
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=85|end_char=90
+3	talent	talent	NOUN	NN	Number=Sing	2	obj	_	start_char=91|end_char=97
+4	to	to	PART	TO	_	5	mark	_	start_char=98|end_char=100
+5	find	find	VERB	VB	VerbForm=Inf	2	csubj	_	start_char=101|end_char=105
+6	music	music	NOUN	NN	Number=Sing	5	obj	_	start_char=106|end_char=111
+7	as	as	ADP	IN	_	8	case	_	start_char=112|end_char=114
+8	shit	shit	NOUN	NN	Number=Sing	5	obl	_	start_char=115|end_char=119
+9	as	as	ADP	IN	_	10	case	_	start_char=120|end_char=122
+10	Drake	Drake	PROPN	NNP	Number=Sing	8	nmod	_	start_char=123|end_char=128
+11	to	to	PART	TO	_	12	mark	_	start_char=129|end_char=131
+12	jam	jam	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=132|end_char=135
+13	to	to	ADP	IN	_	12	obl	_	start_char=136|end_char=138
+14	in	in	ADP	IN	_	16	case	_	start_char=139|end_char=141
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=142|end_char=145
+16	age	age	NOUN	NN	Number=Sing	12	obl	_	start_char=146|end_char=149
+17	of	of	ADP	IN	_	19	case	_	start_char=150|end_char=152
+18	internet	internet	NOUN	NN	Number=Sing	19	compound	_	start_char=153|end_char=161
+19	access	access	NOUN	NN	Number=Sing	16	nmod	_	start_char=162|end_char=168
+20	.	.	PUNCT	.	_	2	punct	_	start_char=168|end_char=169
+

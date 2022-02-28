@@ -1,0 +1,17 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=0|end_char=5
+2	so	so	ADV	RB	_	3	advmod	_	start_char=6|end_char=8
+3	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=14
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=15|end_char=18
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=19|end_char=26
+6	of	of	ADP	IN	_	7	case	_	start_char=27|end_char=29
+7	everything	everything	PRON	NN	Number=Sing	5	obl	_	start_char=30|end_char=40
+8	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=41|end_char=45
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	start_char=46|end_char=49
+10	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	7	acl:relcl	_	start_char=50|end_char=59
+11	...	...	PUNCT	.	_	3	punct	_	start_char=59|end_char=62
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=63|end_char=64
+2	miss	miss	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=65|end_char=69
+3	those	that	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=70|end_char=75
+4	times	time	NOUN	NNS	Number=Plur	2	obj	_	start_char=76|end_char=81
+

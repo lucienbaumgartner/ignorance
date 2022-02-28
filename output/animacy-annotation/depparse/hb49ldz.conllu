@@ -1,0 +1,19 @@
+1	And	and	CCONJ	CC	_	0	root	_	start_char=0|end_char=3
+2	?	?	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=5|end_char=9
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=10|end_char=14
+3	n't	not	PART	RB	_	4	advmod	_	start_char=14|end_char=17
+4	stop	stop	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=23|end_char=26
+6	guy	guy	NOUN	NN	Number=Sing	4	obj	_	start_char=27|end_char=30
+7	from	from	SCONJ	IN	_	9	mark	_	start_char=31|end_char=35
+8	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=36|end_char=41
+9	new	new	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=42|end_char=45
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=46|end_char=49
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=50|end_char=57
+12	of	of	ADP	IN	_	14	case	_	start_char=58|end_char=60
+13	obscure	obscure	ADJ	JJ	Degree=Pos	14	amod	_	start_char=61|end_char=68
+14	details	detail	NOUN	NNS	Number=Plur	11	obl	_	start_char=69|end_char=76
+15	.	.	PUNCT	.	_	4	punct	_	start_char=76|end_char=77
+

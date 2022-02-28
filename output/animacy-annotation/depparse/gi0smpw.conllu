@@ -1,0 +1,49 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=0|end_char=1
+2	...	...	PUNCT	,	_	6	punct	_	start_char=1|end_char=4
+3	just	just	ADV	RB	_	6	advmod	_	start_char=5|end_char=9
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=10|end_char=12
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=12|end_char=15
+6	like	like	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+7	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=21|end_char=24
+8	at	at	ADP	IN	_	9	case	_	start_char=25|end_char=27
+9	all	all	DET	DT	_	6	obl	_	start_char=28|end_char=31
+10	to	to	PART	TO	_	12	mark	_	start_char=32|end_char=34
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=35|end_char=37
+12	honest	honest	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=38|end_char=44
+13	.	.	PUNCT	.	_	6	punct	_	start_char=44|end_char=45
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=46|end_char=49
+2	not	not	PART	RB	_	6	advmod	_	start_char=50|end_char=53
+3	just	just	ADV	RB	_	6	advmod	_	start_char=54|end_char=58
+4	because	because	SCONJ	IN	_	6	mark	_	start_char=59|end_char=66
+5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=67|end_char=70
+6	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=71|end_char=78
+7	to	to	PART	TO	_	8	mark	_	start_char=79|end_char=81
+8	stand	stand	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=82|end_char=87
+9	by	by	ADP	IN	_	10	case	_	start_char=88|end_char=90
+10	sarah	Sarah	PROPN	NNP	Number=Sing	8	obl	_	start_char=91|end_char=96
+11	100	100	NUM	CD	NumType=Card	12	nummod	_	start_char=97|end_char=100
+12	%	%	SYM	NN	Number=Sing	8	obl:tmod	_	start_char=100|end_char=101
+13	.	.	PUNCT	.	_	6	punct	_	start_char=101|end_char=102
+
+1	To	to	ADP	IN	_	2	case	_	start_char=103|end_char=105
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=106|end_char=108
+3	,	,	PUNCT	,	_	5	punct	_	start_char=108|end_char=109
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=110|end_char=113
+5	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=114|end_char=119
+6	off	off	ADP	RP	_	5	compound:prt	_	start_char=120|end_char=123
+7	as	as	ADV	RB	_	9	advmod	_	start_char=124|end_char=126
+8	very	very	ADV	RB	_	9	advmod	_	start_char=127|end_char=131
+9	privileged	privileged	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=132|end_char=142
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=143|end_char=146
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=147|end_char=154
+12	of	of	ADP	IN	_	13	case	_	start_char=155|end_char=157
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=158|end_char=160
+14	.	.	PUNCT	.	_	5	punct	_	start_char=160|end_char=161
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=162|end_char=165
+2	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=166|end_char=170
+3	fucking	fuck	VERB	VBG	VerbForm=Ger	4	amod	_	start_char=171|end_char=178
+4	pose	pose	NOUN	NN	Number=Sing	0	root	_	start_char=179|end_char=183
+5	.	.	PUNCT	.	_	4	punct	_	start_char=183|end_char=184
+

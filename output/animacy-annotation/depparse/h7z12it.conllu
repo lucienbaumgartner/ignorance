@@ -1,0 +1,30 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	both	both	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=30
+7	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+8	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=34|end_char=41
+9	of	of	ADP	IN	_	10	case	_	start_char=42|end_char=44
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	nmod	_	start_char=45|end_char=48
+11	think	think	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=49|end_char=54
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=55|end_char=58
+13	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=59|end_char=62
+14	ever	ever	ADV	RB	_	15	advmod	_	start_char=63|end_char=67
+15	reason	reason	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=68|end_char=74
+16	with	with	ADP	IN	_	18	case	_	start_char=75|end_char=79
+17	these	this	DET	DT	Number=Plur|PronType=Dem	18	det	_	start_char=80|end_char=85
+18	people	people	NOUN	NNS	Number=Plur	15	obl	_	start_char=86|end_char=92
+19	!	!	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	*	*	PUNCT	NFP	_	2	punct	_	start_char=95|end_char=96
+2	GRRRRRRRRR	GRRRRRRRR	PROPN	NNP	Number=Sing	0	root	_	start_char=96|end_char=106
+3	!!!!*	!!!!*	PUNCT	.	_	2	punct	_	start_char=106|end_char=111
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=113|end_char=116
+2	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=117|end_char=121
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=122|end_char=124
+4	mad	mad	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=125|end_char=128
+5	!	!	PUNCT	.	_	2	punct	_	start_char=128|end_char=129
+

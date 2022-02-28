@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	just	just	ADV	RB	_	3	advmod	_	start_char=3|end_char=7
+3	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	extremely	extremely	ADV	RB	_	5	advmod	_	start_char=14|end_char=23
+5	shortsighted	shortsighted	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=24|end_char=36
+6	,	,	PUNCT	,	_	7	punct	_	start_char=36|end_char=37
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=38|end_char=46
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+9	purposefully	purposefully	ADV	RB	_	10	advmod	_	start_char=51|end_char=63
+10	partisan	Cartisan	ADJ	JJ	Degree=Pos	5	conj	_	start_char=64|end_char=72
+11	.	.	PUNCT	.	_	3	punct	_	start_char=72|end_char=73
+
+1	Especially	especially	ADV	RB	_	8	advmod	_	start_char=74|end_char=84
+2	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=85|end_char=89
+3	2/3rds	2/3rd	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=90|end_char=96
+4	of	of	ADP	IN	_	6	case	_	start_char=97|end_char=99
+5	gun	gun	NOUN	NN	Number=Sing	6	compound	_	start_char=100|end_char=103
+6	deaths	death	NOUN	NNS	Number=Plur	3	nmod	_	start_char=104|end_char=110
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=111|end_char=114
+8	suicides	suicide	NOUN	NNS	Number=Plur	0	root	_	start_char=115|end_char=123
+9	,	,	PUNCT	,	_	8	punct	_	start_char=123|end_char=124
+10	which	which	PRON	WDT	PronType=Rel	14	nsubj:pass	_	start_char=125|end_char=130
+11	would	would	AUX	MD	VerbForm=Fin	14	aux	_	start_char=131|end_char=136
+12	be	be	AUX	VB	VerbForm=Inf	14	aux:pass	_	start_char=137|end_char=139
+13	better	well	ADV	RBR	Degree=Cmp	14	advmod	_	start_char=140|end_char=146
+14	served	serve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl:relcl	_	start_char=147|end_char=153
+15	via	via	ADP	IN	_	16	case	_	start_char=154|end_char=157
+16	healthcare	healthcare	NOUN	NN	Number=Sing	14	obl	_	start_char=158|end_char=168
+17	to	to	PART	TO	_	18	mark	_	start_char=169|end_char=171
+18	begin	begin	VERB	VB	VerbForm=Inf	14	advcl	_	start_char=172|end_char=177
+19	with	with	ADP	IN	_	18	obl	_	start_char=178|end_char=182
+20	.	.	PUNCT	.	_	8	punct	_	start_char=182|end_char=183
+

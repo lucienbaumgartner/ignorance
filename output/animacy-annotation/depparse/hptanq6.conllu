@@ -1,0 +1,35 @@
+1	Crusades	Crusade	PROPN	NNPS	Number=Plur	4	nsubj:pass	_	start_char=0|end_char=8
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=9|end_char=13
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=14|end_char=24
+4	justified	justify	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=25|end_char=34
+5	but	but	CCONJ	CC	_	6	cc	_	start_char=35|end_char=38
+6	whatever	whatever	PRON	WDT	PronType=Int	4	conj	_	start_char=39|end_char=47
+7	.	.	PUNCT	.	_	4	punct	_	start_char=47|end_char=48
+
+1	Also	also	ADV	RB	_	5	advmod	_	start_char=49|end_char=53
+2	,	,	PUNCT	,	_	5	punct	_	start_char=53|end_char=54
+3	no	no	DET	DT	_	4	det	_	start_char=55|end_char=57
+4	one	one	NOUN	NN	Number=Sing	5	nsubj	_	start_char=58|end_char=61
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=62|end_char=66
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=67|end_char=69
+7	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	ccomp	_	start_char=70|end_char=73
+8	.	.	PUNCT	.	_	5	punct	_	start_char=73|end_char=74
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=75|end_char=76
+2	just	just	ADV	RB	_	3	advmod	_	start_char=77|end_char=81
+3	pointed	point	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=82|end_char=89
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=90|end_char=93
+5	that	that	SCONJ	IN	_	14	mark	_	start_char=94|end_char=98
+6	putting	put	VERB	VBG	VerbForm=Ger	14	csubj	_	start_char=99|end_char=106
+7	every	every	DET	DT	_	8	det	_	start_char=107|end_char=112
+8	religion	religion	NOUN	NN	Number=Sing	6	obj	_	start_char=113|end_char=121
+9	into	into	ADP	IN	_	12	case	_	start_char=122|end_char=126
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=127|end_char=130
+11	same	same	ADJ	JJ	Degree=Pos	12	amod	_	start_char=131|end_char=135
+12	bucket	bucket	NOUN	NN	Number=Sing	6	obl	_	start_char=136|end_char=142
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=143|end_char=145
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=146|end_char=154
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=155|end_char=158
+16	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	14	conj	_	start_char=159|end_char=171
+17	.	.	PUNCT	.	_	3	punct	_	start_char=171|end_char=172
+

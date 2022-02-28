@@ -1,0 +1,29 @@
+1	And	and	CCONJ	CC	_	15	cc	_	start_char=0|end_char=3
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=4|end_char=5
+3	lot	lot	NOUN	NN	Number=Sing	0	root	_	start_char=6|end_char=9
+4	of	of	ADP	IN	_	5	case	_	start_char=10|end_char=12
+5	words	word	NOUN	NNS	Number=Plur	3	nmod	_	start_char=13|end_char=18
+6	to	to	PART	TO	_	7	mark	_	start_char=19|end_char=21
+7	show	show	VERB	VB	VerbForm=Inf	5	acl	_	start_char=22|end_char=26
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=27|end_char=30
+9	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=30|end_char=33
+10	stupid	stupid	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=34|end_char=40
+11	,	,	PUNCT	,	_	12	punct	_	start_char=40|end_char=41
+12	uneducated	uneducated	ADJ	JJ	Degree=Pos|Polarity=Neg	10	conj	_	start_char=42|end_char=52
+13	,	,	PUNCT	,	_	15	punct	_	start_char=52|end_char=53
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=54|end_char=57
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=58|end_char=66
+16	of	of	ADP	IN	_	19	case	_	start_char=67|end_char=69
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=70|end_char=74
+18	own	own	ADJ	JJ	Degree=Pos	19	amod	_	start_char=75|end_char=78
+19	lack	lack	NOUN	NN	Number=Sing	15	obl	_	start_char=79|end_char=83
+20	of	of	ADP	IN	_	21	case	_	start_char=84|end_char=86
+21	knowledge	knowledge	NOUN	NN	Number=Sing	19	nmod	_	start_char=87|end_char=96
+22	.	.	PUNCT	.	_	3	punct	_	start_char=96|end_char=97
+
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=98|end_char=103
+2	killing	kill	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=104|end_char=111
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=112|end_char=118
+4	moron	moron	NOUN	NN	Number=Sing	2	obj	_	start_char=119|end_char=124
+5	.	.	PUNCT	.	_	1	punct	_	start_char=124|end_char=125
+

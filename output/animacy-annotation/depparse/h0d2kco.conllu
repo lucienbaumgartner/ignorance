@@ -1,0 +1,24 @@
+1	Those	that	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	dimbulbs	dimbulb	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=6|end_char=14
+3	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=22
+4	that	that	SCONJ	IN	_	12	mark	_	start_char=23|end_char=27
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=28|end_char=31
+6	planet	planet	NOUN	NN	Number=Sing	12	nsubj	_	start_char=32|end_char=38
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=39|end_char=41
+8	4000	4000	NUM	CD	NumType=Card	12	obl:npmod	_	start_char=42|end_char=46
+9	to	to	ADP	IN	_	10	case	_	start_char=47|end_char=49
+10	6000	6000	NUM	CD	NumType=Card	8	nmod	_	start_char=50|end_char=54
+11	years	year	NOUN	NNS	Number=Plur	12	obl:npmod	_	start_char=55|end_char=60
+12	old	old	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=61|end_char=64
+13	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=66|end_char=68
+2	thick	thick	ADJ	JJ	Degree=Pos	0	root	_	start_char=69|end_char=74
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=75|end_char=78
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=79|end_char=87
+5	of	of	ADP	IN	_	6	case	_	start_char=88|end_char=90
+6	science	science	NOUN	NN	Number=Sing	4	obl	_	start_char=91|end_char=98
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=99|end_char=102
+8	knowledge	knowledge	NOUN	NN	Number=Sing	6	conj	_	start_char=103|end_char=112
+9	.	.	PUNCT	.	_	2	punct	_	start_char=112|end_char=113
+

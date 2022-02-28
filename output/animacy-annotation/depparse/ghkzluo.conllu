@@ -1,0 +1,26 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	cant	cant	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=8
+3	stand	stand	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=14
+4	in	in	ADP	IN	_	6	case	_	start_char=15|end_char=17
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=18|end_char=21
+6	open	open	ADJ	JJ	Degree=Pos	3	obl	_	start_char=22|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=38
+9	of	of	ADP	IN	_	11	case	_	start_char=39|end_char=41
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=42|end_char=46
+11	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=47|end_char=59
+12	in	in	ADP	IN	_	16	case	_	start_char=60|end_char=62
+13	an	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=63|end_char=65
+14	fast	fast	ADJ	JJ	Degree=Pos	16	amod	_	start_char=66|end_char=70
+15	paced	paced	ADJ	JJ	Degree=Pos	16	amod	_	start_char=71|end_char=76
+16	fps	fps	NOUN	NN	Number=Sing	11	nmod	_	start_char=77|end_char=80
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=81|end_char=84
+18	claim	claim	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=85|end_char=90
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	_	start_char=91|end_char=94
+20	dont	do	AUX	MD	VerbForm=Fin	21	aux	_	start_char=95|end_char=99
+21	have	have	VERB	VB	VerbForm=Inf	18	ccomp	_	start_char=100|end_char=104
+22	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=105|end_char=106
+23	fighting	fighting	NOUN	NN	Number=Sing	24	compound	_	start_char=107|end_char=115
+24	chance	chance	NOUN	NN	Number=Sing	21	obj	_	start_char=116|end_char=122
+25	.	.	PUNCT	.	_	3	punct	_	start_char=122|end_char=123
+

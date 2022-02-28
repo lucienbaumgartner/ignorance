@@ -1,0 +1,30 @@
+1	Congratulated	congratulate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=0|end_char=13
+2	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=14|end_char=17
+3	for	for	SCONJ	IN	_	5	mark	_	start_char=18|end_char=21
+4	“	''	PUNCT	``	_	5	punct	_	start_char=22|end_char=23
+5	making	make	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=23|end_char=29
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=30|end_char=32
+7	out	out	ADP	RP	_	5	compound:prt	_	start_char=33|end_char=36
+8	”	''	PUNCT	''	_	5	punct	_	start_char=36|end_char=37
+9	and	and	CCONJ	CC	_	13	cc	_	start_char=38|end_char=41
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=42|end_char=44
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=45|end_char=48
+12	just	just	ADV	RB	_	13	advmod	_	start_char=49|end_char=53
+13	like	like	ADP	IN	_	1	conj	_	start_char=54|end_char=58
+14	“	''	PUNCT	''	_	13	punct	_	start_char=59|end_char=60
+15	………	………	PUNCT	.	_	1	punct	_	start_char=60|end_char=63
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=63|end_char=64
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=64|end_char=66
+3	from	from	ADP	IN	_	4	case	_	start_char=67|end_char=71
+4	Detroit	Detroit	PROPN	NNP	Number=Sing	0	root	_	start_char=72|end_char=79
+5	”	''	PUNCT	''	_	4	punct	_	start_char=79|end_char=80
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=81|end_char=84
+7	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=84|end_char=86
+8	so	so	ADV	RB	_	9	advmod	_	start_char=87|end_char=89
+9	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	4	parataxis	_	start_char=90|end_char=97
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=98|end_char=106
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=107|end_char=110
+12	xenophobic	xenophobic	ADJ	JJ	Degree=Pos	10	conj	_	start_char=111|end_char=121
+13	.	.	PUNCT	.	_	4	punct	_	start_char=121|end_char=122
+

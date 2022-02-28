@@ -1,0 +1,31 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	cat	cat	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=8
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=9|end_char=12
+4	so	so	ADV	RB	_	5	advmod	_	start_char=13|end_char=15
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=23
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=24|end_char=27
+7	happy	happy	ADJ	JJ	Degree=Pos	5	conj	_	start_char=28|end_char=33
+8	so	so	ADV	RB	_	16	advmod	_	start_char=34|end_char=36
+9	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=37|end_char=41
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=42|end_char=44
+11	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux:pass	_	start_char=45|end_char=48
+12	hit	hit	VERB	VBN	Tense=Past|VerbForm=Part	16	advcl	_	start_char=49|end_char=52
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nmod:poss	_	start_char=53|end_char=55
+14	's	's	PART	POS	_	13	case	_	start_char=55|end_char=57
+15	face	face	NOUN	NN	Number=Sing	16	nsubj	_	start_char=58|end_char=62
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	start_char=63|end_char=66
+17	just	just	ADV	RB	_	22	advmod	_	start_char=67|end_char=71
+18	like	like	ADP	RP	_	16	compound:prt	_	start_char=72|end_char=76
+19	'	'	PUNCT	``	_	22	punct	_	start_char=77|end_char=78
+20	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	22	aux	_	start_char=78|end_char=81
+21	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj	_	start_char=82|end_char=85
+22	see	see	VERB	VB	VerbForm=Inf	16	ccomp	_	start_char=86|end_char=89
+23	that	that	PRON	DT	Number=Sing|PronType=Dem	22	obj	_	start_char=90|end_char=94
+24	?	?	PUNCT	.	_	5	punct	_	start_char=94|end_char=95
+
+1	What	what	PRON	WP	PronType=Int	4	obj	_	start_char=96|end_char=100
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=101|end_char=104
+3	heck	heck	NOUN	NN	Number=Sing	4	nsubj	_	start_char=105|end_char=109
+4	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=110|end_char=118
+5	?'.	?'.	PUNCT	.	_	4	punct	_	start_char=118|end_char=121
+

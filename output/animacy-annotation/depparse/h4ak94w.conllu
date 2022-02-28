@@ -1,0 +1,36 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	sort	sort	NOUN	NN	Number=Sing	9	nsubj	_	start_char=5|end_char=9
+3	of	of	ADP	IN	_	4	case	_	start_char=10|end_char=12
+4	judgmentalness	judgmentalness	NOUN	NN	Number=Sing	2	nmod	_	start_char=13|end_char=27
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=28|end_char=30
+6	highly	highly	ADV	RB	_	9	advmod	_	start_char=31|end_char=37
+7	self	self	NOUN	NN	Number=Sing	9	obl:npmod	_	start_char=38|end_char=42
+8	-	-	PUNCT	HYPH	_	9	punct	_	start_char=42|end_char=43
+9	destructive	destructive	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=54
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=55|end_char=58
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=59|end_char=67
+12	of	of	ADP	IN	_	17	case	_	start_char=68|end_char=70
+13	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=71|end_char=74
+14	medical	medical	ADJ	JJ	Degree=Pos	17	amod	_	start_char=75|end_char=82
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=83|end_char=86
+16	psychological	psychological	ADJ	JJ	Degree=Pos	14	conj	_	start_char=87|end_char=100
+17	causes	cause	NOUN	NNS	Number=Plur	11	obl	_	start_char=101|end_char=107
+18	of	of	ADP	IN	_	19	case	_	start_char=108|end_char=110
+19	obesity	obesity	NOUN	NN	Number=Sing	17	nmod	_	start_char=111|end_char=118
+20	.	.	PUNCT	.	_	9	punct	_	start_char=118|end_char=119
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=120|end_char=121
+2	Openly	openly	ADV	RB	_	9	advmod	_	start_char=121|end_char=127
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=128|end_char=131
+4	willingly	willingly	ADV	RB	_	2	conj	_	start_char=132|end_char=141
+5	"	"	PUNCT	''	_	2	punct	_	start_char=141|end_char=142
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=143|end_char=145
+7	quite	quite	DET	PDT	_	9	det:predet	_	start_char=146|end_char=151
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=152|end_char=153
+9	stretch	stretch	NOUN	NN	Number=Sing	0	root	_	start_char=154|end_char=161
+10	if	if	SCONJ	IN	_	13	mark	_	start_char=162|end_char=164
+11	not	not	PART	RB	_	13	advmod	_	start_char=165|end_char=168
+12	outright	outright	ADV	RB	_	13	advmod	_	start_char=169|end_char=177
+13	false	false	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=178|end_char=183
+14	.	.	PUNCT	.	_	9	punct	_	start_char=183|end_char=184
+

@@ -1,0 +1,43 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	off	off	ADP	RP	_	2	compound:prt	_	start_char=9|end_char=12
+4	as	as	ADP	IN	_	6	case	_	start_char=13|end_char=15
+5	self	self	NOUN	NN	Number=Sing	6	compound	_	start_char=16|end_char=20
+6	righteous	righteous	ADJ	JJ	Degree=Pos	2	obl	_	start_char=21|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=35|end_char=42
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=43|end_char=47
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=48|end_char=51
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=52|end_char=54
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=55|end_char=56
+13	piece	piece	NOUN	NN	Number=Sing	8	ccomp	_	start_char=57|end_char=62
+14	of	of	ADP	IN	_	15	case	_	start_char=63|end_char=65
+15	shit	shit	NOUN	NN	Number=Sing	13	nmod	_	start_char=66|end_char=70
+16	,	,	PUNCT	,	_	17	punct	_	start_char=70|end_char=71
+17	same	same	ADJ	JJ	Degree=Pos	13	appos	_	start_char=72|end_char=76
+18	with	with	ADP	IN	_	22	case	_	start_char=77|end_char=81
+19	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=82|end_char=85
+20	other	other	ADJ	JJ	Degree=Pos	22	amod	_	start_char=86|end_char=91
+21	media	media	NOUN	NN	Number=Sing	22	compound	_	start_char=92|end_char=97
+22	buddy	buddy	NOUN	NN	Number=Sing	17	obl	_	start_char=98|end_char=103
+23	.	.	PUNCT	.	_	2	punct	_	start_char=103|end_char=104
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=105|end_char=109
+2	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=110|end_char=116
+3	like	like	ADP	IN	_	7	case	_	start_char=117|end_char=121
+4	"	"	PUNCT	``	_	7	punct	_	start_char=121|end_char=122
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	compound	_	start_char=122|end_char=124
+6	"	"	PUNCT	''	_	7	punct	_	start_char=124|end_char=125
+7	people	people	NOUN	NNS	Number=Plur	2	obl	_	start_char=126|end_char=132
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=133|end_char=136
+9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=137|end_char=140
+10	overacted	overact	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=141|end_char=150
+11	everything	everything	PRON	NN	Number=Sing	10	obj	_	start_char=151|end_char=161
+12	time	time	NOUN	NN	Number=Sing	10	obj	_	start_char=162|end_char=166
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=167|end_char=170
+14	spoke	speak	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl:relcl	_	start_char=171|end_char=176
+15	.	.	PUNCT	.	_	2	punct	_	start_char=176|end_char=177
+
+1	Awful	awful	ADJ	JJ	Degree=Pos	0	root	_	start_char=178|end_char=183
+2	.	.	PUNCT	.	_	1	punct	_	start_char=183|end_char=184
+

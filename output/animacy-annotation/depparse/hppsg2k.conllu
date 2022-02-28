@@ -1,0 +1,56 @@
+1	Dude	dude	NOUN	NN	Number=Sing	8	vocative	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	8	punct	_	start_char=4|end_char=5
+3	no	no	DET	DT	_	4	det	_	start_char=6|end_char=8
+4	one	one	NOUN	NN	Number=Sing	8	nsubj	_	start_char=9|end_char=12
+5	here	here	ADV	RB	PronType=Dem	4	advmod	_	start_char=13|end_char=17
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=18|end_char=20
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=21|end_char=25
+8	babysitter	babysitter	NOUN	NN	Number=Sing	0	root	_	start_char=26|end_char=36
+9	.	.	PUNCT	.	_	8	punct	_	start_char=36|end_char=37
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=38|end_char=42
+2	issue	issue	NOUN	NN	Number=Sing	5	nsubj	_	start_char=43|end_char=48
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=49|end_char=52
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux	_	start_char=53|end_char=57
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=58|end_char=63
+6	on	on	ADP	RP	_	5	compound:prt	_	start_char=64|end_char=66
+7	for	for	ADP	IN	_	8	case	_	start_char=67|end_char=70
+8	days	day	NOUN	NNS	Number=Plur	5	obl	_	start_char=71|end_char=75
+9	.	.	PUNCT	.	_	5	punct	_	start_char=75|end_char=76
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=77|end_char=82
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=82|end_char=84
+3	dozens	dozen	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=85|end_char=91
+4	of	of	ADP	IN	_	5	case	_	start_char=92|end_char=94
+5	comments	comment	NOUN	NNS	Number=Plur	3	nmod	_	start_char=95|end_char=103
+6	in	in	ADP	IN	_	8	case	_	start_char=104|end_char=106
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=107|end_char=111
+8	thread	thread	NOUN	NN	Number=Sing	5	nmod	_	start_char=112|end_char=118
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=119|end_char=123
+10	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=124|end_char=127
+11	sources	source	NOUN	NNS	Number=Plur	10	obj	_	start_char=128|end_char=135
+12	.	.	PUNCT	.	_	2	punct	_	start_char=135|end_char=136
+
+1	Every	every	DET	DT	_	3	det	_	start_char=137|end_char=142
+2	major	major	ADJ	JJ	Degree=Pos	3	amod	_	start_char=143|end_char=148
+3	kpop	kpop	NOUN	NN	Number=Sing	8	nsubj	_	start_char=149|end_char=153
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=154|end_char=157
+5	Korean	Korean	ADJ	JJ	Degree=Pos	6	amod	_	start_char=158|end_char=164
+6	subreddit	subreddit	NOUN	NN	Number=Sing	3	conj	_	start_char=165|end_char=174
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=175|end_char=177
+8	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=178|end_char=185
+9	about	about	ADP	IN	_	10	case	_	start_char=186|end_char=191
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=192|end_char=194
+11	in	in	ADP	IN	_	12	case	_	start_char=195|end_char=197
+12	detail	detail	NOUN	NN	Number=Sing	8	obl	_	start_char=198|end_char=204
+13	.	.	PUNCT	.	_	8	punct	_	start_char=204|end_char=205
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=206|end_char=209
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	start_char=210|end_char=214
+3	just	just	ADV	RB	_	6	advmod	_	start_char=215|end_char=219
+4	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=220|end_char=225
+5	willfully	willfully	ADV	RB	_	6	advmod	_	start_char=226|end_char=235
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=236|end_char=244
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=245|end_char=248
+8	lazy	lazy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=249|end_char=253
+

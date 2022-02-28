@@ -1,0 +1,303 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	costs	cost	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+3	more	more	ADJ	JJR	Degree=Cmp	2	obj	_	start_char=9|end_char=13
+4	than	than	SCONJ	IN	_	5	mark	_	start_char=14|end_char=18
+5	feeding	feed	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=19|end_char=26
+6	those	that	DET	DT	Number=Plur|PronType=Dem	8	det	_	start_char=27|end_char=32
+7	same	same	ADJ	JJ	Degree=Pos	8	amod	_	start_char=33|end_char=37
+8	homeless	homeless	ADJ	JJ	Degree=Pos	5	obj	_	start_char=38|end_char=46
+9	.	.	PUNCT	.	_	2	punct	_	start_char=46|end_char=47
+
+1	At	at	ADP	IN	_	3	case	_	start_char=48|end_char=50
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=51|end_char=54
+3	restaurants	restaurant	NOUN	NNS	Number=Plur	6	obl	_	start_char=55|end_char=66
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=67|end_char=70
+5	food	food	NOUN	NN	Number=Sing	6	nsubj	_	start_char=71|end_char=75
+6	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=76|end_char=81
+7	from	from	ADP	IN	_	6	obl	_	start_char=82|end_char=86
+8	.	.	PUNCT	.	_	6	punct	_	start_char=86|end_char=87
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=89|end_char=91
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=92|end_char=93
+3	restaurant	restaurant	NOUN	NN	Number=Sing	0	root	_	start_char=94|end_char=104
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=107|end_char=108
+
+1	More	more	ADV	RBR	_	2	advmod	_	start_char=109|end_char=113
+2	efficient	efficient	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=123
+3	to	to	ADP	IN	_	5	case	_	start_char=124|end_char=126
+4	ship	ship	NOUN	NN	Number=Sing	5	compound	_	start_char=127|end_char=131
+5	components	component	NOUN	NNS	Number=Plur	2	obl	_	start_char=132|end_char=142
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=144|end_char=145
+
+1	Cook	cook	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=146|end_char=150
+2	on	on	ADP	IN	_	4	case	_	start_char=151|end_char=153
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=153|end_char=154
+4	site	site	NOUN	NN	Number=Sing	1	obl	_	start_char=154|end_char=158
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=160|end_char=161
+
+1	Feed	feed	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=162|end_char=166
+2	homeless	homeless	ADJ	JJ	Degree=Pos	1	obj	_	start_char=167|end_char=175
+3	using	use	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=176|end_char=181
+4	subsidy	subsidy	NOUN	NN	Number=Sing	3	obj	_	start_char=182|end_char=189
+5	in	in	ADP	IN	_	6	case	_	start_char=190|end_char=192
+6	cash	cash	NOUN	NN	Number=Sing	3	obl	_	start_char=193|end_char=197
+
+1	Than	than	ADV	RB	_	0	root	_	start_char=199|end_char=203
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=205|end_char=206
+2	Transporting	transport	VERB	VBG	VerbForm=Ger	0	root	_	start_char=207|end_char=219
+3	practically	practically	ADV	RB	_	4	advmod	_	start_char=220|end_char=231
+4	unedible	unedible	ADJ	JJ	Degree=Pos	6	amod	_	start_char=232|end_char=240
+5	waste	waste	NOUN	NN	Number=Sing	6	compound	_	start_char=241|end_char=246
+6	products	product	NOUN	NNS	Number=Plur	2	obj	_	start_char=247|end_char=255
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=257|end_char=258
+
+1	To	to	ADP	IN	_	2	case	_	start_char=259|end_char=261
+2	homeless	homeless	ADJ	JJ	Degree=Pos	0	root	_	start_char=262|end_char=270
+
+1	**	**	PUNCT	NFP	_	4	punct	_	start_char=273|end_char=275
+2	After	after	ADP	IN	_	4	mark	_	start_char=275|end_char=280
+3	**	**	PUNCT	NFP	_	4	punct	_	start_char=280|end_char=282
+4	requiring	require	VERB	VBG	VerbForm=Ger	0	root	_	start_char=283|end_char=292
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=293|end_char=296
+6	restaurant	restaurant	NOUN	NN	Number=Sing	4	obj	_	start_char=297|end_char=307
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=309|end_char=310
+
+1	To	to	PART	TO	_	2	mark	_	start_char=311|end_char=313
+2	store	store	VERB	VB	VerbForm=Inf	0	root	_	start_char=314|end_char=319
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=320|end_char=323
+4	"	"	PUNCT	``	_	6	punct	_	start_char=324|end_char=325
+5	almost	almost	ADV	RB	_	6	advmod	_	start_char=325|end_char=331
+6	waste	waste	NOUN	NN	Number=Sing	2	obj	_	start_char=332|end_char=337
+7	"	"	PUNCT	''	_	6	punct	_	start_char=337|end_char=338
+8	neatly	neatly	ADV	RB	_	2	advmod	_	start_char=339|end_char=345
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=347|end_char=348
+
+1	To	to	PART	TO	_	3	mark	_	start_char=349|end_char=351
+2	even	even	ADV	RB	_	3	advmod	_	start_char=352|end_char=356
+3	allow	allow	VERB	VB	VerbForm=Inf	0	root	_	start_char=357|end_char=362
+4	for	for	ADP	IN	_	5	case	_	start_char=363|end_char=366
+5	transit	transit	NOUN	NN	Number=Sing	3	obl	_	start_char=367|end_char=374
+
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=377|end_char=378
+
+1	At	at	ADP	IN	_	3	case	_	start_char=379|end_char=381
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=382|end_char=385
+3	end	end	NOUN	NN	Number=Sing	0	root	_	start_char=386|end_char=389
+4	of	of	ADP	IN	_	7	case	_	start_char=390|end_char=392
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=393|end_char=394
+6	business	business	NOUN	NN	Number=Sing	7	compound	_	start_char=395|end_char=403
+7	period	period	NOUN	NN	Number=Sing	3	nmod	_	start_char=404|end_char=410
+
+1	Costing	cost	VERB	VBG	VerbForm=Ger	0	root	_	start_char=412|end_char=419
+2	massively	massively	ADV	RB	_	1	advmod	_	start_char=420|end_char=429
+3	in	in	ADP	IN	_	4	case	_	start_char=430|end_char=432
+4	refrigeration	refrigeration	NOUN	NN	Number=Sing	1	obl	_	start_char=433|end_char=446
+5	.	.	PUNCT	.	_	1	punct	_	start_char=446|end_char=447
+
+1	Plus	plus	CCONJ	CC	_	4	cc	_	start_char=448|end_char=452
+2	premium	premium	ADJ	JJ	Degree=Pos	4	amod	_	start_char=453|end_char=460
+3	floor	floor	NOUN	NN	Number=Sing	4	compound	_	start_char=461|end_char=466
+4	space	space	NOUN	NN	Number=Sing	0	root	_	start_char=467|end_char=472
+5	.	.	PUNCT	.	_	4	punct	_	start_char=472|end_char=473
+
+1	All	all	DET	DT	_	6	nsubj:pass	_	start_char=476|end_char=479
+2	of	of	ADP	IN	_	4	case	_	start_char=480|end_char=482
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=483|end_char=486
+4	kitchen	kitchen	NOUN	NN	Number=Sing	1	nmod	_	start_char=487|end_char=494
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=495|end_char=497
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=498|end_char=502
+7	,	,	PUNCT	,	_	14	punct	_	start_char=502|end_char=503
+8	all	all	DET	DT	_	14	nsubj:pass	_	start_char=504|end_char=507
+9	of	of	ADP	IN	_	12	case	_	start_char=508|end_char=510
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=511|end_char=514
+11	storage	storage	NOUN	NN	Number=Sing	12	compound	_	start_char=515|end_char=522
+12	section	section	NOUN	NN	Number=Sing	8	nmod	_	start_char=523|end_char=530
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=531|end_char=533
+14	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	start_char=534|end_char=538
+15	.	.	PUNCT	.	_	6	punct	_	start_char=538|end_char=539
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=542|end_char=544
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=545|end_char=546
+3	restaurant	restaurant	NOUN	NN	Number=Sing	4	nsubj	_	start_char=547|end_char=557
+4	requires	require	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=558|end_char=566
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=567|end_char=568
+6	mid-period	mid-period	ADJ	JJ	Degree=Pos	7	amod	_	start_char=569|end_char=579
+7	delivery	delivery	NOUN	NN	Number=Sing	4	obj	_	start_char=580|end_char=588
+8	.	.	PUNCT	.	_	4	punct	_	start_char=588|end_char=589
+
+1	To	to	PART	TO	_	2	mark	_	start_char=590|end_char=592
+2	meet	meet	VERB	VB	VerbForm=Inf	0	root	_	start_char=593|end_char=597
+3	expected	expect	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=598|end_char=606
+4	demand	demand	NOUN	NN	Number=Sing	2	obj	_	start_char=607|end_char=613
+5	.	.	PUNCT	.	_	2	punct	_	start_char=613|end_char=614
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=617|end_char=619
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=620|end_char=626
+3	store	store	VERB	VB	VerbForm=Inf	0	root	_	start_char=627|end_char=632
+4	"	"	PUNCT	``	_	6	punct	_	start_char=633|end_char=634
+5	almost	almost	ADV	RB	_	6	advmod	_	start_char=634|end_char=640
+6	waste	waste	NOUN	NN	Number=Sing	3	obj	_	start_char=641|end_char=646
+7	"	"	PUNCT	''	_	6	punct	_	start_char=646|end_char=647
+8	.	.	PUNCT	.	_	3	punct	_	start_char=647|end_char=648
+
+1	Not	not	ADV	RB	_	4	advmod	_	start_char=651|end_char=654
+2	to	to	PART	TO	_	4	mark	_	start_char=655|end_char=657
+3	*	*	PUNCT	NFP	_	4	punct	_	start_char=658|end_char=659
+4	allow	allow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=659|end_char=664
+5	*	*	PUNCT	NFP	_	4	punct	_	start_char=664|end_char=665
+6	for	for	ADP	IN	_	9	case	_	start_char=666|end_char=669
+7	**	**	PUNCT	NFP	_	9	punct	_	start_char=670|end_char=672
+8	human	human	ADJ	JJ	Degree=Pos	9	amod	_	start_char=672|end_char=677
+9	consumption	consumption	NOUN	NN	Number=Sing	4	obl	_	start_char=678|end_char=689
+10	**.	**.	PUNCT	NFP	_	4	punct	_	start_char=689|end_char=692
+
+1	Humans	human	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=695|end_char=701
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=702|end_char=706
+3	allergies	allergy	NOUN	NNS	Number=Plur	2	obj	_	start_char=707|end_char=716
+4	.	.	PUNCT	.	_	2	punct	_	start_char=716|end_char=717
+
+1	Easier	easy	ADJ	JJR	Degree=Cmp	0	root	_	start_char=718|end_char=724
+2	to	to	PART	TO	_	3	mark	_	start_char=725|end_char=727
+3	aquire	aquire	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=728|end_char=734
+4	paid	pay	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	_	start_char=735|end_char=739
+5	for	for	ADP	IN	_	6	case	_	start_char=740|end_char=743
+6	food	food	NOUN	NN	Number=Sing	4	obl	_	start_char=744|end_char=748
+7	.	.	PUNCT	.	_	1	punct	_	start_char=748|end_char=749
+
+1	Each	each	DET	DT	_	2	nsubj	_	start_char=750|end_char=754
+2	accommodating	accommodate	VERB	VBG	VerbForm=Ger	0	root	_	start_char=755|end_char=768
+3	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	start_char=769|end_char=779
+4	according	accord	VERB	VBG	VerbForm=Ger	6	mark	_	start_char=780|end_char=789
+5	to	to	PART	TO	_	4	fixed	_	start_char=790|end_char=792
+6	need	need	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=793|end_char=797
+7	.	.	PUNCT	.	_	2	punct	_	start_char=797|end_char=798
+
+1	Instead	instead	ADV	RB	_	4	mark	_	start_char=801|end_char=808
+2	of	of	SCONJ	IN	_	1	fixed	_	start_char=809|end_char=811
+3	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=812|end_char=817
+4	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=818|end_char=821
+5	"	"	PUNCT	``	_	6	punct	_	start_char=822|end_char=823
+6	Days	Day	PROPN	NNPS	Number=Plur	8	compound	_	start_char=823|end_char=827
+7	Mush	Mush	PROPN	NNP	Number=Sing	8	compound	_	start_char=828|end_char=832
+8	#	#	SYM	NN	Number=Sing	4	obj	_	start_char=833|end_char=834
+9	10000	10000	NUM	CD	NumType=Card	8	nummod	_	start_char=834|end_char=839
+10	"	"	PUNCT	''	_	8	punct	_	start_char=839|end_char=840
+11	.	.	PUNCT	.	_	4	punct	_	start_char=840|end_char=841
+
+1	Untested	untested	ADJ	JJ	Degree=Pos	0	root	_	start_char=842|end_char=850
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=851|end_char=854
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=855|end_char=862
+4	of	of	ADP	IN	_	6	case	_	start_char=863|end_char=865
+5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=866|end_char=869
+6	contents	content	NOUN	NNS	Number=Plur	3	obl	_	start_char=870|end_char=878
+7	.	.	PUNCT	.	_	1	punct	_	start_char=878|end_char=879
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=881|end_char=884
+2	much	much	ADJ	JJ	Degree=Pos	6	nsubj	_	start_char=885|end_char=889
+3	of	of	ADP	IN	_	5	case	_	start_char=890|end_char=892
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=893|end_char=896
+5	mush	mush	NOUN	NN	Number=Sing	2	nmod	_	start_char=897|end_char=901
+6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=902|end_char=904
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=906|end_char=907
+2	Shellfish	shellfish	NOUN	NN	Number=Sing	0	root	_	start_char=908|end_char=917
+3	?	?	PUNCT	.	_	2	punct	_	start_char=917|end_char=918
+4	🤔	''	PUNCT	''	_	2	punct	_	start_char=919|end_char=920
+
+1	-	-	PUNCT	NFP	_	3	punct	_	start_char=922|end_char=923
+2	Lactose	Lactose	PROPN	NNP	Number=Sing	3	compound	_	start_char=924|end_char=931
+3	Proteins	Proteins	PROPN	NNPS	Number=Plur	0	root	_	start_char=932|end_char=940
+4	?	?	PUNCT	.	_	3	punct	_	start_char=940|end_char=941
+5	🤔	''	PUNCT	''	_	3	punct	_	start_char=942|end_char=943
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=945|end_char=946
+2	Nuts	nut	NOUN	NNS	Number=Plur	0	root	_	start_char=947|end_char=951
+3	?	?	PUNCT	.	_	2	punct	_	start_char=951|end_char=952
+4	🤔	''	PUNCT	''	_	2	punct	_	start_char=953|end_char=954
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=956|end_char=957
+2	Gluten	Gluten	PROPN	NNP	Number=Sing	0	root	_	start_char=958|end_char=964
+3	?	?	PUNCT	.	_	2	punct	_	start_char=964|end_char=965
+4	🤔	''	PUNCT	''	_	2	punct	_	start_char=966|end_char=967
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=969|end_char=970
+2	Eggshells	eggshell	NOUN	NNS	Number=Sing	0	root	_	start_char=971|end_char=980
+3	?	?	PUNCT	.	_	2	punct	_	start_char=980|end_char=981
+4	🤔	''	PUNCT	''	_	2	punct	_	start_char=982|end_char=983
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=985|end_char=988
+2	;	;	PUNCT	:	_	1	punct	_	start_char=988|end_char=989
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=990|end_char=993
+2	there	there	PRON	EX	_	3	expl	_	start_char=994|end_char=999
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1000|end_char=1002
+4	n't	not	PART	RB	_	3	advmod	_	start_char=1002|end_char=1005
+5	much	much	ADJ	JJ	Degree=Pos	6	amod	_	start_char=1006|end_char=1010
+6	profit	profit	NOUN	NN	Number=Sing	3	nsubj	_	start_char=1011|end_char=1017
+7	in	in	ADP	IN	_	8	case	_	start_char=1018|end_char=1020
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nmod	_	start_char=1021|end_char=1023
+9	,	,	PUNCT	,	_	3	punct	_	start_char=1023|end_char=1024
+10	so	so	ADV	RB	_	14	advmod	_	start_char=1025|end_char=1027
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=1028|end_char=1032
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=1033|end_char=1035
+13	n't	not	PART	RB	_	14	advmod	_	start_char=1035|end_char=1038
+14	bother	bother	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=1039|end_char=1045
+15	.	.	PUNCT	.	_	3	punct	_	start_char=1045|end_char=1046
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=1048|end_char=1053
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1054|end_char=1056
+3	n't	not	PART	RB	_	2	advmod	_	start_char=1056|end_char=1059
+4	profit	profit	NOUN	NN	Number=Sing	2	nsubj	_	start_char=1060|end_char=1066
+5	in	in	ADP	IN	_	6	case	_	start_char=1067|end_char=1069
+6	death	death	NOUN	NN	Number=Sing	4	nmod	_	start_char=1070|end_char=1075
+7	.	.	PUNCT	.	_	2	punct	_	start_char=1075|end_char=1076
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=1079|end_char=1080
+2	'd	would	AUX	MD	Mood=Ind|VerbForm=Fin	7	aux	_	start_char=1080|end_char=1082
+3	rather	rather	ADV	RB	_	5	advmod	_	start_char=1083|end_char=1089
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=1090|end_char=1093
+5	homeless	homeless	ADJ	JJ	Degree=Pos	7	amod	_	start_char=1094|end_char=1102
+6	**	**	PUNCT	NFP	_	7	punct	_	start_char=1103|end_char=1105
+7	live	live	VERB	VB	VerbForm=Fin	0	root	_	start_char=1105|end_char=1109
+8	**.	**.	PUNCT	NFP	_	7	punct	_	start_char=1109|end_char=1112
+
+1	Even	even	ADV	RB	_	5	advmod	_	start_char=1113|end_char=1117
+2	if	if	SCONJ	IN	_	5	mark	_	start_char=1118|end_char=1120
+3	without	without	ADP	IN	_	5	case	_	start_char=1121|end_char=1128
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=1129|end_char=1130
+5	roof	roof	NOUN	NN	Number=Sing	0	root	_	start_char=1131|end_char=1135
+6	.	.	PUNCT	.	_	5	punct	_	start_char=1135|end_char=1136
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=1139|end_char=1140
+2	future	future	NOUN	NN	Number=Sing	0	root	_	start_char=1141|end_char=1147
+3	of	of	ADP	IN	_	5	case	_	start_char=1148|end_char=1150
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=1151|end_char=1152
+5	roof	roof	NOUN	NN	Number=Sing	2	nmod	_	start_char=1153|end_char=1157
+6	.	.	PUNCT	.	_	2	punct	_	start_char=1157|end_char=1158
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1159|end_char=1161
+2	still	still	ADV	RB	_	4	advmod	_	start_char=1162|end_char=1167
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=1168|end_char=1169
+4	future	future	NOUN	NN	Number=Sing	0	root	_	start_char=1170|end_char=1176
+5	,	,	PUNCT	,	_	8	punct	_	start_char=1176|end_char=1177
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=1178|end_char=1181
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=1182|end_char=1183
+8	life	life	NOUN	NN	Number=Sing	4	conj	_	start_char=1184|end_char=1188
+9	.	.	PUNCT	.	_	4	punct	_	start_char=1188|end_char=1189
+
+1	Personally	personally	ADV	RB	_	5	advmod	_	start_char=1191|end_char=1201
+2	,	,	PUNCT	,	_	5	punct	_	start_char=1201|end_char=1202
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=1203|end_char=1207
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=1207|end_char=1209
+5	worth	worth	ADJ	JJ	Degree=Pos	0	root	_	start_char=1210|end_char=1215
+6	any	any	DET	DT	_	7	det	_	start_char=1216|end_char=1219
+7	resources	resource	NOUN	NNS	Number=Plur	5	obj	_	start_char=1220|end_char=1229
+8	.	.	PUNCT	.	_	5	punct	_	start_char=1229|end_char=1230
+

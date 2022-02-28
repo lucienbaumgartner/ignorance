@@ -1,0 +1,14 @@
+1	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=0|end_char=5
+2	so	so	ADV	RB	_	3	advmod	_	start_char=6|end_char=8
+3	insecure	insecure	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=29
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=30|end_char=34
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=35|end_char=38
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=39|end_char=43
+9	to	to	PART	TO	_	10	mark	_	start_char=44|end_char=46
+10	ask	ask	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=47|end_char=50
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=51|end_char=55
+12	question	question	NOUN	NN	Number=Sing	10	obj	_	start_char=56|end_char=64
+13	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+

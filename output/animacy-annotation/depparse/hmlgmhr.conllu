@@ -1,0 +1,82 @@
+1	On	on	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=3|end_char=6
+3	sidebar	sidebar	NOUN	NN	Number=Sing	6	obl	_	start_char=7|end_char=14
+4	,	,	PUNCT	,	_	6	punct	_	start_char=14|end_char=15
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=16|end_char=18
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=23
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=24|end_char=25
+8	tab	tab	NOUN	NN	Number=Sing	6	obj	_	start_char=26|end_char=29
+9	for	for	ADP	IN	_	12	case	_	start_char=30|end_char=33
+10	"	"	PUNCT	``	_	12	punct	_	start_char=34|end_char=35
+11	upcoming	upcoming	ADJ	JJ	Degree=Pos	12	amod	_	start_char=35|end_char=43
+12	giveaways	giveaway	NOUN	NNS	Number=Plur	8	nmod	_	start_char=44|end_char=53
+13	"	"	PUNCT	''	_	12	punct	_	start_char=53|end_char=54
+14	.	.	PUNCT	.	_	6	punct	_	start_char=54|end_char=55
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=56|end_char=58
+2	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=59|end_char=63
+3	updated	update	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=64|end_char=71
+4	with	with	ADP	IN	_	5	case	_	start_char=72|end_char=76
+5	stuff	stuff	NOUN	NN	Number=Sing	3	obl	_	start_char=77|end_char=82
+6	/	/	SYM	,	_	7	cc	_	start_char=83|end_char=84
+7	u/	u/	NOUN	NN	Number=Sing	5	conj	_	start_char=84|end_char=86
+8	Saulios	Saulios	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=86|end_char=93
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=94|end_char=97
+10	confirm	confirm	VERB	VB	VerbForm=Inf	5	acl:relcl	_	start_char=98|end_char=105
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=106|end_char=108
+12	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	start_char=109|end_char=115
+13	.	.	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=117|end_char=122
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=122|end_char=124
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=125|end_char=126
+4	note	note	NOUN	NN	Number=Sing	2	nsubj	_	start_char=127|end_char=131
+5	in	in	ADP	IN	_	6	case	_	start_char=132|end_char=134
+6	there	there	ADV	RB	PronType=Dem	4	nmod	_	start_char=135|end_char=140
+7	for	for	ADP	IN	_	8	case	_	start_char=141|end_char=144
+8	Tuesday	Tuesday	PROPN	NNP	Number=Sing	2	obl	_	start_char=145|end_char=152
+9	,	,	PUNCT	,	_	2	punct	_	start_char=152|end_char=153
+10	so	so	ADV	RB	_	14	advmod	_	start_char=154|end_char=156
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=157|end_char=159
+12	should	should	AUX	MD	VerbForm=Fin	14	aux	_	start_char=160|end_char=166
+13	be	be	AUX	VB	VerbForm=Inf	14	aux	_	start_char=167|end_char=169
+14	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	2	parataxis	_	start_char=170|end_char=179
+15	.	.	PUNCT	.	_	2	punct	_	start_char=179|end_char=180
+
+1	https://i.imgur.com/BzGmVTm.png	https://i.imgur.com/bzgmvtm.png	X	ADD	_	0	root	_	start_char=183|end_char=214
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=216|end_char=219
+
+1	To	to	ADP	IN	_	2	case	_	start_char=221|end_char=223
+2	anyone	anyone	PRON	NN	Number=Sing	12	obl	_	start_char=224|end_char=230
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=231|end_char=234
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=235|end_char=237
+5	interested	interested	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=238|end_char=248
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=249|end_char=252
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=253|end_char=260
+8	of	of	ADP	IN	_	9	case	_	start_char=261|end_char=263
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=264|end_char=266
+10	,	,	PUNCT	,	_	12	punct	_	start_char=266|end_char=267
+11	[	[	PUNCT	-LRB-	_	12	punct	_	start_char=268|end_char=269
+12	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=269|end_char=273
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=273|end_char=275
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=276|end_char=279
+15	link	link	NOUN	NN	Number=Sing	12	nsubj	_	start_char=280|end_char=284
+16	]	]	PUNCT	-RRB-	_	12	punct	_	start_char=284|end_char=285
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=285|end_char=286
+2	https://calendar.google.com/calendar/u/0/embed?src=4a60kt4gpei6b768q5844vg340@group.calendar.google.com&amp;ctz=UTC).	https://calendar.google.com/calendar/u/0/embed?src=4a60kt4gpei6b768q5844vg340@group.calendar.google.com&amp;ctz=utc).	X	ADD	_	0	root	_	start_char=286|end_char=403
+
+1	To	to	PART	TO	_	2	mark	_	start_char=404|end_char=406
+2	note	note	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=407|end_char=411
+3	again	again	ADV	RB	_	2	advmod	_	start_char=412|end_char=417
+4	,	,	PUNCT	,	_	7	punct	_	start_char=417|end_char=418
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=419|end_char=422
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=423|end_char=426
+7	find	find	VERB	VB	VerbForm=Inf	0	root	_	start_char=427|end_char=431
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	7	obj	_	start_char=432|end_char=436
+9	within	within	ADP	IN	_	11	case	_	start_char=437|end_char=443
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=444|end_char=447
+11	sidebar	sidebar	NOUN	NN	Number=Sing	7	obl	_	start_char=448|end_char=455
+12	.	.	PUNCT	.	_	7	punct	_	start_char=455|end_char=456
+

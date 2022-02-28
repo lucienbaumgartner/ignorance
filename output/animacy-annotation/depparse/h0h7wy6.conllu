@@ -1,0 +1,43 @@
+1	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	comment	comment	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=15
+4	so	so	ADV	RB	_	5	advmod	_	start_char=16|end_char=18
+5	pathetic	pathetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=27
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=28|end_char=31
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=32|end_char=40
+8	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=41|end_char=45
+9	i'm	be	AUX	VBZ	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=46|end_char=49
+10	not	not	PART	RB	_	12	advmod	_	start_char=50|end_char=53
+11	even	even	ADV	RB	_	12	advmod	_	start_char=54|end_char=58
+12	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	7	ccomp	_	start_char=59|end_char=64
+13	to	to	PART	TO	_	14	mark	_	start_char=65|end_char=67
+14	counter	counter	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=68|end_char=75
+15	with	with	ADP	IN	_	19	case	_	start_char=76|end_char=80
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=81|end_char=85
+17	wrong	wrong	ADJ	JJ	Degree=Pos	19	amod	_	start_char=86|end_char=91
+18	ass	ass	NOUN	NN	Number=Sing	19	compound	_	start_char=92|end_char=95
+19	opinion	opinion	NOUN	NN	Number=Sing	14	obl	_	start_char=96|end_char=103
+20	.	.	PUNCT	.	_	5	punct	_	start_char=103|end_char=104
+
+1	Israel	Israel	PROPN	NNP	Number=Sing	0	root	_	start_char=105|end_char=111
+2	+	+	PUNCT	NFP	_	1	punct	_	start_char=112|end_char=113
+
+1	Usa	Usa	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=114|end_char=117
+2	both	both	DET	DT	_	3	det	_	start_char=118|end_char=122
+3	colonizers	colonizer	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=123|end_char=133
+4	open	open	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=134|end_char=138
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=139|end_char=141
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=142|end_char=143
+7	book	book	NOUN	NN	Number=Sing	4	obj	_	start_char=144|end_char=148
+8	and	and	CCONJ	CC	_	12	cc	_	start_char=149|end_char=152
+9	not	not	ADV	RB	_	12	advmod	_	start_char=153|end_char=156
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=157|end_char=160
+11	whitewashed	whitewashed	ADJ	JJ	Degree=Pos	12	amod	_	start_char=161|end_char=172
+12	version	version	NOUN	NN	Number=Sing	7	conj	_	start_char=173|end_char=180
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=181|end_char=185
+14	education	education	NOUN	NN	Number=Sing	15	compound	_	start_char=186|end_char=195
+15	system	system	NOUN	NN	Number=Sing	16	nsubj	_	start_char=196|end_char=202
+16	taught	teach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl:relcl	_	start_char=203|end_char=209
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	16	obj	_	start_char=210|end_char=213
+18	.	.	PUNCT	.	_	4	punct	_	start_char=213|end_char=214
+

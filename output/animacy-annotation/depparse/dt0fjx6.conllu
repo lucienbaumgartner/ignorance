@@ -1,0 +1,71 @@
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=5|end_char=8
+3	Podesta	Podesta	PROPN	NNP	Number=Sing	5	compound	_	start_char=9|end_char=16
+4	email	email	NOUN	NN	Number=Sing	5	compound	_	start_char=17|end_char=22
+5	quote	quote	NOUN	NN	Number=Sing	6	nsubj	_	start_char=23|end_char=28
+6	implies	imply	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=29|end_char=36
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=38|end_char=41
+2	;	;	PUNCT	,	_	1	punct	_	start_char=41|end_char=42
+3	conspire	conspire	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=42|end_char=50
+4	to	to	PART	TO	_	5	mark	_	start_char=51|end_char=53
+5	produce	produce	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=54|end_char=61
+6	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=62|end_char=64
+7	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=65|end_char=72
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=73|end_char=76
+9	compliant	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=77|end_char=86
+10	citizenry	citizenry	NOUN	NN	Number=Sing	5	obj	_	start_char=87|end_char=96
+
+1	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=100
+2	that	that	SCONJ	IN	_	9	mark	_	start_char=101|end_char=105
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=106|end_char=109
+4	political	political	ADJ	JJ	Degree=Pos	5	amod	_	start_char=110|end_char=119
+5	class	class	NOUN	NN	Number=Sing	9	nsubj	_	start_char=120|end_char=125
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=126|end_char=128
+7	n't	not	PART	RB	_	9	advmod	_	start_char=128|end_char=131
+8	just	just	ADV	RB	_	9	advmod	_	start_char=132|end_char=136
+9	view	view	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=137|end_char=141
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=142|end_char=147
+11	constituents	constituent	NOUN	NNS	Number=Plur	9	obj	_	start_char=148|end_char=160
+12	as	as	ADV	RB	_	9	advmod	_	start_char=161|end_char=163
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=165|end_char=168
+2	;	;	PUNCT	,	_	1	punct	_	start_char=168|end_char=169
+3	not	not	ADV	RB	_	4	advmod	_	start_char=169|end_char=172
+4	smart	smart	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=173|end_char=178
+5	enough	enough	ADJ	JJ	Degree=Pos	4	advmod	_	start_char=179|end_char=185
+6	to	to	PART	TO	_	7	mark	_	start_char=186|end_char=188
+7	run	run	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=189|end_char=192
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=193|end_char=197
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=198|end_char=201
+10	life	life	NOUN	NN	Number=Sing	7	obj	_	start_char=202|end_char=206
+11	so	so	ADV	RB	_	14	mark	_	start_char=207|end_char=209
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=210|end_char=212
+13	’ll	will	AUX	MD	VerbForm=Fin	14	aux	_	start_char=212|end_char=215
+14	do	do	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=216|end_char=218
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=219|end_char=221
+16	for	for	ADP	IN	_	17	case	_	start_char=222|end_char=225
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	obl	_	start_char=226|end_char=229
+
+1	but	but	CCONJ	CC	_	6	cc	_	start_char=231|end_char=234
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=235|end_char=238
+3	political	political	ADJ	JJ	Degree=Pos	4	amod	_	start_char=239|end_char=248
+4	class	class	NOUN	NN	Number=Sing	6	nsubj	_	start_char=249|end_char=254
+5	actively	actively	ADV	RB	_	6	advmod	_	start_char=255|end_char=263
+6	conspires	conspire	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=264|end_char=273
+7	to	to	PART	TO	_	8	mark	_	start_char=274|end_char=276
+8	make	make	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=277|end_char=281
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=282|end_char=286
+10	so	so	ADV	RB	_	8	advmod	_	start_char=287|end_char=289
+11	.	.	PUNCT	.	_	6	punct	_	start_char=289|end_char=290
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=292|end_char=294
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=295|end_char=297
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=298|end_char=299
+4	goal	goal	NOUN	NN	Number=Sing	0	root	_	start_char=300|end_char=304
+5	,	,	PUNCT	,	_	8	punct	_	start_char=304|end_char=305
+6	not	not	ADV	RB	_	8	advmod	_	start_char=306|end_char=309
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=310|end_char=312
+8	observation	observation	NOUN	NN	Number=Sing	4	conj	_	start_char=313|end_char=324
+9	.	.	PUNCT	.	_	4	punct	_	start_char=324|end_char=325
+

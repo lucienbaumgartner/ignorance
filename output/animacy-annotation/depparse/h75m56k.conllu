@@ -1,0 +1,53 @@
+1	Los	Los	PROPN	NNP	Number=Sing	13	nsubj	_	start_char=0|end_char=3
+2	Angeles	Angeles	PROPN	NNP	Number=Sing	1	flat	_	start_char=4|end_char=11
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=12|end_char=14
+4	nearly	nearly	ADV	RB	_	5	advmod	_	start_char=15|end_char=21
+5	50	50	NUM	CD	NumType=Card	6	nummod	_	start_char=22|end_char=24
+6	%	%	SYM	NN	Number=Sing	7	obl:npmod	_	start_char=24|end_char=25
+7	Hispanic.	hispanic.	ADV	RB	_	13	advmod	_	start_char=26|end_char=35
+8	39	39	NUM	CD	NumType=Card	9	nummod	_	start_char=36|end_char=38
+9	%	%	SYM	NN	Number=Sing	13	nsubj	_	start_char=38|end_char=39
+10	of	of	ADP	IN	_	11	case	_	start_char=40|end_char=42
+11	California	California	PROPN	NNP	Number=Sing	9	nmod	_	start_char=43|end_char=53
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=54|end_char=56
+13	Hispanic	Hispanic	ADJ	JJ	Degree=Pos	0	root	_	start_char=57|end_char=65
+14	.	.	PUNCT	.	_	13	punct	_	start_char=65|end_char=66
+
+1	Disneyland	Disneyland	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=67|end_char=77
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=78|end_char=80
+3	only	only	ADV	RB	_	4	advmod	_	start_char=81|end_char=85
+4	allowing	allow	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=86|end_char=94
+5	California	California	PROPN	NNP	Number=Sing	6	compound	_	start_char=95|end_char=105
+6	residents	resident	NOUN	NNS	Number=Plur	7	compound	_	start_char=106|end_char=115
+7	atm	atm	NOUN	NN	Number=Sing	4	obj	_	start_char=116|end_char=119
+8	.	.	PUNCT	.	_	4	punct	_	start_char=119|end_char=120
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=121|end_char=124
+2	claim	claim	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=125|end_char=130
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=131|end_char=133
+4	incorrect	incorrect	ADJ	JJ	Degree=Pos	0	root	_	start_char=134|end_char=143
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=144|end_char=147
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=148|end_char=156
+7	of	of	ADP	IN	_	8	case	_	start_char=157|end_char=159
+8	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=160|end_char=167
+9	.	.	PUNCT	.	_	4	punct	_	start_char=167|end_char=168
+
+1	Believe	believe	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=169|end_char=176
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=177|end_char=179
+3	or	or	CCONJ	CC	_	4	cc	_	start_char=180|end_char=182
+4	not	not	PART	RB	_	1	conj	_	start_char=183|end_char=186
+5	,	,	PUNCT	,	_	12	punct	_	start_char=186|end_char=187
+6	plenty	plenty	NOUN	NN	Number=Sing	12	nsubj	_	start_char=188|end_char=194
+7	of	of	ADP	IN	_	10	case	_	start_char=195|end_char=197
+8	non-	non-	ADJ	JJ	Degree=Pos	10	amod	_	start_char=198|end_char=202
+9	white	white	ADJ	JJ	Degree=Pos	10	amod	_	start_char=202|end_char=207
+10	people	people	NOUN	NNS	Number=Plur	6	nmod	_	start_char=208|end_char=214
+11	can	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=215|end_char=218
+12	pony	pony	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=219|end_char=223
+13	up	up	ADP	RP	_	12	compound:prt	_	start_char=224|end_char=226
+14	$	$	SYM	$	_	12	obj	_	start_char=227|end_char=228
+15	125	125	NUM	CD	NumType=Card	14	nummod	_	start_char=228|end_char=231
+16	-	-	SYM	SYM	_	17	case	_	start_char=231|end_char=232
+17	150	150	NUM	CD	NumType=Card	14	nmod	_	start_char=232|end_char=235
+18	.	.	PUNCT	.	_	1	punct	_	start_char=235|end_char=236
+

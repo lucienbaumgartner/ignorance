@@ -1,0 +1,51 @@
+1	Such	such	PRON	PDT	_	4	det:predet	_	start_char=0|end_char=4
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=6
+3	good	good	ADJ	JJ	Degree=Pos	4	amod	_	start_char=7|end_char=11
+4	episode	episode	NOUN	NN	Number=Sing	0	root	_	start_char=12|end_char=19
+5	.	.	PUNCT	.	_	4	punct	_	start_char=19|end_char=20
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=21|end_char=22
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=23|end_char=26
+3	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=32
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=33|end_char=36
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=37|end_char=44
+6	of	of	ADP	IN	_	7	case	_	start_char=45|end_char=47
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=48|end_char=50
+8	at	at	ADP	IN	_	10	case	_	start_char=51|end_char=53
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=54|end_char=57
+10	time	time	NOUN	NN	Number=Sing	3	obl	_	start_char=58|end_char=62
+11	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=64|end_char=66
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=67|end_char=68
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=69|end_char=72
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=73|end_char=74
+5	fan	fan	NOUN	NN	Number=Sing	0	root	_	start_char=75|end_char=78
+6	for	for	ADP	IN	_	9	case	_	start_char=79|end_char=82
+7	about	about	ADV	RB	_	9	advmod	_	start_char=83|end_char=88
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=89|end_char=90
+9	decade	decade	NOUN	NN	Number=Sing	5	obl	_	start_char=91|end_char=97
+10	before	before	SCONJ	IN	_	12	mark	_	start_char=98|end_char=104
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=105|end_char=106
+12	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	start_char=107|end_char=111
+13	either	either	DET	DT	_	12	obj	_	start_char=112|end_char=118
+14	of	of	ADP	IN	_	17	case	_	start_char=119|end_char=121
+15	those	that	DET	DT	Number=Plur|PronType=Dem	17	det	_	start_char=122|end_char=127
+16	two	two	NUM	CD	NumType=Card	17	nummod	_	start_char=128|end_char=131
+17	parts	part	NOUN	NNS	Number=Plur	13	nmod	_	start_char=132|end_char=137
+18	of	of	ADP	IN	_	21	case	_	start_char=138|end_char=140
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=141|end_char=144
+20	back	back	ADJ	JJ	Degree=Pos	21	amod	_	start_char=145|end_char=149
+21	story	story	NOUN	NN	Number=Sing	17	nmod	_	start_char=150|end_char=155
+22	.	.	PUNCT	.	_	5	punct	_	start_char=155|end_char=156
+
+1	Glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=158|end_char=162
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=163|end_char=164
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	start_char=165|end_char=170
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	start_char=171|end_char=176
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=177|end_char=179
+5	with	with	ADP	IN	_	6	case	_	start_char=180|end_char=184
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=185|end_char=188
+7	.	.	PUNCT	.	_	3	punct	_	start_char=188|end_char=189
+

@@ -1,0 +1,18 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	How	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=5|end_char=8
+4	cold	cold	ADJ	JJ	Degree=Pos	1	appos	_	start_char=9|end_char=13
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=14|end_char=17
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=18|end_char=26
+7	of	of	ADP	IN	_	8	case	_	start_char=27|end_char=29
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=30|end_char=33
+9	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=41
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=42|end_char=45
+3	for	for	SCONJ	IN	_	4	mark	_	start_char=46|end_char=49
+4	proving	prove	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=50|end_char=57
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=58|end_char=60
+6	point	point	NOUN	NN	Number=Sing	4	obj	_	start_char=61|end_char=66
+7	lmao	lmao	INTJ	UH	_	1	discourse	_	start_char=67|end_char=71
+

@@ -1,0 +1,26 @@
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=0|end_char=3
+2	also	also	ADV	RB	_	3	advmod	_	start_char=4|end_char=8
+3	delusional	delusional	ADJ	JJ	Degree=Pos	8	amod	_	start_char=9|end_char=19
+4	,	,	PUNCT	,	_	5	punct	_	start_char=19|end_char=20
+5	classist	classist	ADJ	JJ	Degree=Pos	8	amod	_	start_char=21|end_char=29
+6	,	,	PUNCT	,	_	8	punct	_	start_char=29|end_char=30
+7	willfully	willfully	ADV	RB	_	8	advmod	_	start_char=31|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=49
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+10	hella	hella	ADV	RB	_	11	advmod	_	start_char=54|end_char=59
+11	judgmental	judgmental	ADJ	JJ	Degree=Pos	8	conj	_	start_char=60|end_char=70
+12	.	.	PUNCT	.	_	8	punct	_	start_char=70|end_char=71
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=73|end_char=76
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=77|end_char=78
+3	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=79|end_char=83
+4	u	u	PRON	PRP$	PronType=Prs	5	nmod:poss	_	start_char=84|end_char=85
+5	reasons	reason	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=86|end_char=93
+6	r	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=94|end_char=95
+7	awesome	awesome	ADJ	JJ	Degree=Pos	8	amod	_	start_char=96|end_char=103
+8	too😏	too😏	NOUN	NN	Number=Sing	3	ccomp	_	start_char=104|end_char=108
+9	.	.	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+
+1	Happy	happy	ADJ	JJ	Degree=Pos	2	amod	_	start_char=111|end_char=116
+2	holidays	holiday	NOUN	NNS	Number=Plur	0	root	_	start_char=117|end_char=125
+

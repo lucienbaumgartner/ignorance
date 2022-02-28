@@ -1,0 +1,21 @@
+1	Jupiter	Jupiter	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=10
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=11|end_char=14
+4	cool	cool	ADJ	JJ	Degree=Pos	5	amod	_	start_char=15|end_char=19
+5	friend	friend	NOUN	NN	Number=Sing	0	root	_	start_char=20|end_char=26
+6	taking	take	VERB	VBG	VerbForm=Ger	5	acl	_	start_char=27|end_char=33
+7	care	care	NOUN	NN	Number=Sing	6	obj	_	start_char=34|end_char=38
+8	of	of	ADP	IN	_	14	case	_	start_char=39|end_char=41
+9	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=42|end_char=43
+10	very	very	ADV	RB	_	11	advmod	_	start_char=44|end_char=48
+11	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=49|end_char=56
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=57|end_char=60
+13	drunk	drunk	ADJ	JJ	Degree=Pos	11	conj	_	start_char=61|end_char=66
+14	Earth	Earth	PROPN	NNP	Number=Sing	6	obl	_	start_char=67|end_char=72
+15	.	.	PUNCT	.	_	5	punct	_	start_char=72|end_char=73
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=74|end_char=80
+2	,	,	PUNCT	,	_	1	punct	_	start_char=80|end_char=81
+3	pal	pal	NOUN	NN	Number=Sing	1	vocative	_	start_char=82|end_char=85
+4	.	.	PUNCT	.	_	1	punct	_	start_char=85|end_char=86
+

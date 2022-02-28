@@ -1,0 +1,16 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=8|end_char=11
+4	most	most	ADV	RBS	_	5	advmod	_	start_char=12|end_char=16
+5	socially	socially	ADV	RB	_	6	advmod	_	start_char=17|end_char=25
+6	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=26|end_char=33
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=34|end_char=37
+8	morally	morally	ADV	RB	_	9	advmod	_	start_char=38|end_char=45
+9	bankrupt	bankrupt	ADJ	JJ	Degree=Pos	6	conj	_	start_char=46|end_char=54
+10	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=55|end_char=62
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=63|end_char=64
+12	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=64|end_char=67
+13	ever	ever	ADV	RB	_	14	advmod	_	start_char=68|end_char=72
+14	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	_	start_char=73|end_char=77
+15	.	.	PUNCT	.	_	10	punct	_	start_char=77|end_char=78
+

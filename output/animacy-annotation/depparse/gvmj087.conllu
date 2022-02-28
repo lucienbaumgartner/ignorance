@@ -1,0 +1,28 @@
+1	Oh	oh	INTJ	UH	_	4	discourse	_	start_char=0|end_char=2
+2	to	to	PART	TO	_	4	mark	_	start_char=3|end_char=5
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=6|end_char=8
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=29
+7	of	of	ADP	IN	_	8	case	_	start_char=30|end_char=32
+8	differences	difference	NOUN	NNS	Number=Plur	6	obl	_	start_char=33|end_char=44
+9	in	in	ADP	IN	_	11	case	_	start_char=45|end_char=47
+10	dietary	dietary	NOUN	NN	Number=Sing	11	compound	_	start_char=48|end_char=55
+11	consumption	consumption	NOUN	NN	Number=Sing	8	nmod	_	start_char=56|end_char=67
+12	&amp	&amp	PUNCT	NFP	_	4	punct	_	start_char=68|end_char=72
+13	;	;	PUNCT	:	_	14	punct	_	start_char=72|end_char=73
+14	eating	eat	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=74|end_char=80
+15	preferences	preference	NOUN	NNS	Number=Plur	14	obj	_	start_char=81|end_char=92
+16	,	,	PUNCT	,	_	17	punct	_	start_char=92|end_char=93
+17	culture	culture	NOUN	NN	Number=Sing	15	conj	_	start_char=94|end_char=101
+18	to	to	ADP	IN	_	19	case	_	start_char=102|end_char=104
+19	culture	culture	NOUN	NN	Number=Sing	17	nmod	_	start_char=105|end_char=112
+
+1	Yall	yall	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=114|end_char=118
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=119|end_char=122
+3	wack	wack	ADJ	JJ	Degree=Pos	0	root	_	start_char=123|end_char=127
+4	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=128|end_char=132
+5	shit	shit	NOUN	NN	Number=Sing	6	compound	_	start_char=133|end_char=137
+6	hits	hit	NOUN	NNS	Number=Plur	3	obj	_	start_char=138|end_char=142
+7	😂😂	😂😂	PUNCT	.	_	3	punct	_	start_char=143|end_char=145
+

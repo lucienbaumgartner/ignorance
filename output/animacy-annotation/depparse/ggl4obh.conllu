@@ -1,0 +1,47 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	parataxis	_	start_char=2|end_char=6
+3	,	,	PUNCT	,	_	7	punct	_	start_char=6|end_char=7
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=8|end_char=10
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=10|end_char=12
+6	not	not	PART	RB	_	7	advmod	_	start_char=13|end_char=16
+7	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=22
+8	.	.	PUNCT	.	_	7	punct	_	start_char=22|end_char=23
+
+1	Everyone	everyone	PRON	NN	Number=Sing	2	nsubj	_	start_char=24|end_char=32
+2	dreams	dream	NOUN	NNS	Number=Plur	0	root	_	start_char=33|end_char=39
+3	about	about	SCONJ	IN	_	4	mark	_	start_char=40|end_char=45
+4	driving	drive	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=46|end_char=53
+5	for	for	ADP	IN	_	7	case	_	start_char=54|end_char=57
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=58|end_char=61
+7	Scuderia	Scuderia	PROPN	NNP	Number=Sing	4	obl	_	start_char=62|end_char=70
+8	,	,	PUNCT	,	_	12	punct	_	start_char=70|end_char=71
+9	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=72|end_char=76
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=77|end_char=81
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=81|end_char=84
+12	young	young	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=85|end_char=90
+13	,	,	PUNCT	,	_	14	punct	_	start_char=90|end_char=91
+14	innocent	innocent	ADJ	JJ	Degree=Pos	12	conj	_	start_char=92|end_char=100
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=101|end_char=104
+16	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=105|end_char=112
+17	of	of	ADP	IN	_	19	case	_	start_char=113|end_char=115
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=116|end_char=119
+19	bullshittery	bullshittery	NOUN	NN	Number=Sing	16	obl	_	start_char=120|end_char=132
+20	that	that	PRON	WDT	PronType=Rel	21	nsubj	_	start_char=133|end_char=137
+21	occurs	occur	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	start_char=138|end_char=144
+22	at	at	ADP	IN	_	23	case	_	start_char=145|end_char=147
+23	Ferrari	Ferrari	PROPN	NNP	Number=Sing	21	obl	_	start_char=148|end_char=155
+24	.	.	PUNCT	.	_	2	punct	_	start_char=155|end_char=156
+
+1	Usually	usually	ADV	RB	_	4	advmod	_	start_char=158|end_char=165
+2	,	,	PUNCT	,	_	4	punct	_	start_char=165|end_char=166
+3	reality	reality	NOUN	NN	Number=Sing	4	nsubj	_	start_char=167|end_char=174
+4	hits	hit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=175|end_char=179
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=180|end_char=184
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=185|end_char=189
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=190|end_char=194
+8	reach	reach	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=195|end_char=200
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=201|end_char=204
+10	F2	F2	NOUN	NN	Number=Sing	11	compound	_	start_char=205|end_char=207
+11	scene	scene	NOUN	NN	Number=Sing	8	obj	_	start_char=208|end_char=213
+12	.	.	PUNCT	.	_	4	punct	_	start_char=213|end_char=214
+

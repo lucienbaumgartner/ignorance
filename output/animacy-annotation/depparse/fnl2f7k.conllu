@@ -1,0 +1,32 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=7
+3	just	just	ADV	RB	_	6	advmod	_	start_char=8|end_char=12
+4	peak	peak	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=17
+5	'	'	PUNCT	``	_	6	punct	_	start_char=18|end_char=19
+6	murica	murica	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=25
+7	right	right	ADV	RB	_	8	advmod	_	start_char=26|end_char=31
+8	here	here	ADV	RB	PronType=Dem	6	advmod	_	start_char=32|end_char=36
+9	.	.	PUNCT	.	_	6	punct	_	start_char=36|end_char=37
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=38|end_char=40
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=41|end_char=48
+3	stupid	stupid	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=49|end_char=55
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=56|end_char=59
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=60|end_char=68
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=69|end_char=73
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=74|end_char=76
+8	hurts	hurt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=77|end_char=82
+9	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	"	"	PUNCT	``	_	3	punct	_	start_char=85|end_char=86
+2	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=86|end_char=91
+3	2020	2020	NUM	CD	NumType=Card	0	root	_	start_char=92|end_char=96
+4	:	:	PUNCT	:	_	3	punct	_	start_char=96|end_char=97
+
+1	No	no	DET	DT	_	3	det	_	start_char=98|end_char=100
+2	more	more	ADV	RBR	_	3	amod	_	start_char=101|end_char=105
+3	bullshit	bullshit	NOUN	NN	Number=Sing	0	root	_	start_char=106|end_char=114
+4	"	"	PUNCT	''	_	3	punct	_	start_char=114|end_char=115
+
+1	Incredulous	incredulous	ADJ	JJ	Degree=Pos	0	root	_	start_char=117|end_char=128
+

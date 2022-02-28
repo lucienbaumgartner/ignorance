@@ -1,0 +1,19 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=3|end_char=6
+3	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=7|end_char=9
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=10|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	terrible	terrible	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=31
+7	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=32|end_char=38
+8	if	if	SCONJ	IN	_	11	mark	_	start_char=39|end_char=41
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=42|end_char=45
+10	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=46|end_char=51
+11	allow	allow	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=52|end_char=57
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=58|end_char=62
+13	child	child	NOUN	NN	Number=Sing	11	obj	_	start_char=63|end_char=68
+14	to	to	PART	TO	_	15	mark	_	start_char=69|end_char=71
+15	read	read	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=72|end_char=76
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=77|end_char=81
+17	garbage	garbage	NOUN	NN	Number=Sing	15	obj	_	start_char=82|end_char=89
+18	.	.	PUNCT	.	_	7	punct	_	start_char=89|end_char=90
+

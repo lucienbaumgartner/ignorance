@@ -1,0 +1,26 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=6
+3	terrible	terrible	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=15
+4	.	.	PUNCT	.	_	3	punct	_	start_char=15|end_char=16
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=17|end_char=18
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=18|end_char=20
+3	so	so	ADV	RB	_	4	advmod	_	start_char=21|end_char=23
+4	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=29
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=30|end_char=34
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=34|end_char=37
+7	choosing	choose	VERB	VBG	Tense=Pres|VerbForm=Part	4	ccomp	_	start_char=38|end_char=46
+8	to	to	PART	TO	_	10	mark	_	start_char=47|end_char=49
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=50|end_char=52
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=53|end_char=61
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=62|end_char=65
+12	selfish	selfish	ADJ	JJ	Degree=Pos	10	conj	_	start_char=66|end_char=73
+13	.	.	PUNCT	.	_	4	punct	_	start_char=73|end_char=74
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=75|end_char=78
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=78|end_char=81
+3	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=82|end_char=87
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=88|end_char=91
+5	right	right	ADJ	JJ	Degree=Pos	6	amod	_	start_char=92|end_char=97
+6	thing	thing	NOUN	NN	Number=Sing	3	obj	_	start_char=98|end_char=103
+

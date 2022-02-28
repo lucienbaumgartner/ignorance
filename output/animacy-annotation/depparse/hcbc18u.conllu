@@ -1,0 +1,37 @@
+1	Absolutely	absolutely	ADV	RB	_	4	advmod	_	start_char=0|end_char=10
+2	,	,	PUNCT	,	_	4	punct	_	start_char=10|end_char=11
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=12|end_char=13
+4	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=19
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=20|end_char=24
+6	children	child	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=25|end_char=33
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=34|end_char=37
+8	often	often	ADV	RB	_	9	advmod	_	start_char=38|end_char=43
+9	clumsy	clumsy	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=44|end_char=50
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=51|end_char=54
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=55|end_char=62
+12	of	of	ADP	IN	_	14	case	_	start_char=63|end_char=65
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=66|end_char=71
+14	surroundings	surroundings	NOUN	NNS	Number=Plur	11	obl	_	start_char=72|end_char=84
+15	.	.	PUNCT	.	_	4	punct	_	start_char=84|end_char=85
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=86|end_char=88
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=89|end_char=91
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=92|end_char=95
+4	intentional	intentional	ADJ	JJ	Degree=Pos	16	advcl	_	start_char=96|end_char=107
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=108|end_char=110
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=110|end_char=112
+7	concerning	concern	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=113|end_char=123
+8	,	,	PUNCT	,	_	16	punct	_	start_char=123|end_char=124
+9	if	if	SCONJ	IN	_	12	mark	_	start_char=125|end_char=127
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=128|end_char=130
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=131|end_char=134
+12	accidental	accidental	ADJ	JJ	Degree=Pos	16	advcl	_	start_char=135|end_char=145
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=146|end_char=148
+14	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=148|end_char=150
+15	not	not	PART	RB	Polarity=Neg	16	advmod	_	start_char=151|end_char=154
+16	relevant	relevant	ADJ	JJ	Degree=Pos	7	parataxis	_	start_char=155|end_char=163
+17	to	to	ADP	IN	_	19	case	_	start_char=164|end_char=166
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=167|end_char=170
+19	case	case	NOUN	NN	Number=Sing	16	obl	_	start_char=171|end_char=175
+20	.	.	PUNCT	.	_	7	punct	_	start_char=175|end_char=176
+

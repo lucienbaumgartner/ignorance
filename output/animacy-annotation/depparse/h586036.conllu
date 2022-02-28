@@ -1,0 +1,44 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=0|end_char=4
+2	absolutely	absolutely	ADV	RB	_	9	advmod	_	start_char=5|end_char=15
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=16|end_char=18
+4	not	not	PART	RB	_	9	advmod	_	start_char=19|end_char=22
+5	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=23|end_char=24
+6	"	"	PUNCT	``	_	9	punct	_	start_char=25|end_char=26
+7	very	very	ADV	RB	_	8	advmod	_	start_char=26|end_char=30
+8	easy	easy	ADJ	JJ	Degree=Pos	9	amod	_	start_char=31|end_char=35
+9	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=39
+10	to	to	PART	TO	_	11	mark	_	start_char=40|end_char=42
+11	identify	identify	VERB	VB	VerbForm=Inf	9	acl	_	start_char=43|end_char=51
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=52|end_char=56
+13	"	"	PUNCT	''	_	9	punct	_	start_char=56|end_char=57
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=61|end_char=65
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=66|end_char=68
+3	just	just	ADV	RB	_	6	advmod	_	start_char=69|end_char=73
+4	more	more	ADV	RBR	_	6	advmod	_	start_char=74|end_char=78
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=79|end_char=84
+6	unskilled	unskilled	ADJ	JJ	Degree=Pos	0	root	_	start_char=85|end_char=94
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=95|end_char=98
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=99|end_char=107
+9	of	of	ADP	IN	_	11	case	_	start_char=108|end_char=110
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=111|end_char=114
+11	game	game	NOUN	NN	Number=Sing	8	obl	_	start_char=115|end_char=119
+12	.	.	PUNCT	.	_	6	punct	_	start_char=119|end_char=120
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=121|end_char=123
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=124|end_char=129
+3	more	more	ADJ	JJR	Degree=Cmp	4	amod	_	start_char=130|end_char=134
+4	evidence	evidence	NOUN	NN	Number=Sing	2	obj	_	start_char=135|end_char=143
+5	than	than	ADP	IN	_	6	case	_	start_char=144|end_char=148
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nmod	_	start_char=149|end_char=153
+7	to	to	PART	TO	_	9	mark	_	start_char=154|end_char=156
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=157|end_char=159
+9	able	able	ADJ	JJ	Degree=Pos	2	csubj	_	start_char=160|end_char=164
+10	to	to	PART	TO	_	12	mark	_	start_char=165|end_char=167
+11	accurately	accurately	ADV	RB	_	12	advmod	_	start_char=168|end_char=178
+12	determine	determine	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=179|end_char=188
+13	someone	someone	PRON	NN	Number=Sing	15	nmod:poss	_	start_char=189|end_char=196
+14	's	's	PART	POS	_	13	case	_	start_char=196|end_char=198
+15	intentions	intention	NOUN	NNS	Number=Plur	12	obj	_	start_char=199|end_char=209
+16	.	.	PUNCT	.	_	2	punct	_	start_char=209|end_char=210
+

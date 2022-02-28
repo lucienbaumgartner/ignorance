@@ -1,0 +1,47 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	right	right	ADV	RB	_	2	advmod	_	start_char=7|end_char=12
+4	,	,	PUNCT	,	_	2	punct	_	start_char=12|end_char=13
+5	there	there	PRON	EX	_	6	expl	_	start_char=14|end_char=19
+6	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=19|end_char=21
+7	certainly	certainly	ADV	RB	_	6	advmod	_	start_char=22|end_char=31
+8	no	no	DET	DT	_	9	det	_	start_char=32|end_char=34
+9	examples	example	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=35|end_char=43
+10	of	of	ADP	IN	_	11	case	_	start_char=44|end_char=46
+11	people	people	NOUN	NNS	Number=Plur	9	nmod	_	start_char=47|end_char=53
+12	talking	talk	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=54|end_char=61
+13	about	about	ADP	IN	_	17	case	_	start_char=62|end_char=67
+14	any	any	DET	DT	_	17	det	_	start_char=68|end_char=71
+15	other	other	ADJ	JJ	Degree=Pos	17	amod	_	start_char=72|end_char=77
+16	martial	martial	ADJ	JJ	Degree=Pos	17	amod	_	start_char=78|end_char=85
+17	art	art	NOUN	NN	Number=Sing	12	obl	_	start_char=86|end_char=89
+18	.	.	PUNCT	.	_	2	punct	_	start_char=89|end_char=90
+19	/	/	SYM	,	_	17	punct	_	start_char=91|end_char=92
+20	s	's	PART	POS	_	17	case	_	start_char=92|end_char=93
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=95|end_char=106
+2	;	;	PUNCT	:	_	1	punct	_	start_char=106|end_char=107
+
+1	In	in	ADP	IN	_	4	case	_	start_char=109|end_char=111
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=112|end_char=115
+3	unlikely	unlikely	ADJ	JJ	Degree=Pos	4	amod	_	start_char=116|end_char=124
+4	event	event	NOUN	NN	Number=Sing	16	obl	_	start_char=125|end_char=130
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=131|end_char=134
+6	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=134|end_char=137
+7	both	both	ADV	RB	_	8	advmod	_	start_char=138|end_char=142
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=143|end_char=150
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=151|end_char=154
+10	interested	interested	ADJ	JJ	Degree=Pos	8	conj	_	start_char=155|end_char=165
+11	to	to	PART	TO	_	12	mark	_	start_char=166|end_char=168
+12	know	know	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=169|end_char=173
+13	,	,	PUNCT	,	_	16	punct	_	start_char=173|end_char=174
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=175|end_char=179
+15	comment	comment	NOUN	NN	Number=Sing	16	nsubj	_	start_char=180|end_char=187
+16	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=188|end_char=193
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	16	obj	_	start_char=194|end_char=197
+18	sound	sound	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=198|end_char=203
+19	like	like	ADP	IN	_	21	case	_	start_char=204|end_char=208
+20	an	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=209|end_char=211
+21	asshole	asshole	NOUN	NN	Number=Sing	18	obl	_	start_char=212|end_char=219
+22	.	.	PUNCT	.	_	16	punct	_	start_char=219|end_char=220
+

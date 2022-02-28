@@ -1,0 +1,66 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	_	start_char=0|end_char=4
+2	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=5|end_char=11
+3	never	never	ADV	RB	_	6	advmod	_	start_char=12|end_char=17
+4	ever	ever	ADV	RB	_	6	advmod	_	start_char=18|end_char=22
+5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	start_char=23|end_char=25
+6	put	put	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=26|end_char=29
+7	in	in	ADP	IN	_	8	case	_	start_char=30|end_char=32
+8	zoo	zoo	NOUN	NN	Number=Sing	6	obl	_	start_char=33|end_char=36
+9	’s	's	PART	POS	_	8	case	_	start_char=36|end_char=38
+10	!	!	PUNCT	.	_	6	punct	_	start_char=38|end_char=39
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj:pass	_	start_char=40|end_char=46
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=47|end_char=53
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=54|end_char=56
+4	put	put	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=57|end_char=60
+5	there	there	ADV	RB	PronType=Dem	4	advmod	_	start_char=61|end_char=66
+6	!	!	PUNCT	.	_	4	punct	_	start_char=66|end_char=67
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=68|end_char=70
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=70|end_char=72
+3	truly	truly	ADV	RB	_	4	advmod	_	start_char=73|end_char=78
+4	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=79|end_char=89
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=90|end_char=93
+6	even	even	ADV	RB	_	8	advmod	_	start_char=94|end_char=98
+7	more	more	ADV	RBR	_	8	advmod	_	start_char=99|end_char=103
+8	disgusting	disgusting	ADJ	JJ	Degree=Pos	4	conj	_	start_char=104|end_char=114
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=115|end_char=118
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=119|end_char=127
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=128|end_char=132
+12	parents	parent	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=133|end_char=140
+13	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=141|end_char=145
+14	there	there	PRON	PRP$	Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=147|end_char=152
+15	children	child	NOUN	NNS	Number=Plur	13	obj	_	start_char=153|end_char=161
+16	there	there	ADV	RB	PronType=Dem	13	advmod	_	start_char=162|end_char=167
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=168|end_char=171
+18	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	conj	_	start_char=172|end_char=179
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=180|end_char=183
+20	abuse	abuse	NOUN	NN	Number=Sing	18	obj	_	start_char=184|end_char=189
+21	!	!	PUNCT	.	_	4	punct	_	start_char=189|end_char=190
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=191|end_char=192
+2	also	also	ADV	RB	_	5	advmod	_	start_char=193|end_char=197
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=198|end_char=200
+4	not	not	PART	RB	_	5	advmod	_	start_char=201|end_char=204
+5	supportive	supportive	ADJ	JJ	Degree=Pos	0	root	_	start_char=205|end_char=215
+6	of	of	ADP	IN	_	7	case	_	start_char=216|end_char=218
+7	PETA	PETA	PROPN	NNP	Number=Sing	5	obl	_	start_char=219|end_char=223
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj:pass	_	start_char=224|end_char=228
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=229|end_char=232
+10	far	far	ADV	RB	Degree=Pos	11	advmod	_	start_char=233|end_char=236
+11	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	parataxis	_	start_char=237|end_char=241
+12	too	too	ADV	RB	_	11	advmod	_	start_char=242|end_char=245
+13	.	.	PUNCT	.	_	5	punct	_	start_char=245|end_char=246
+
+1	Animals	animal	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=247|end_char=254
+2	belong	belong	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=255|end_char=261
+3	where	where	SCONJ	WRB	PronType=Int	6	mark	_	start_char=262|end_char=267
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	_	start_char=268|end_char=272
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=273|end_char=276
+6	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	start_char=277|end_char=282
+7	from	from	ADP	IN	_	10	mark	_	start_char=283|end_char=287
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=288|end_char=290
+9	again	again	ADV	RB	_	10	advmod	_	start_char=291|end_char=296
+10	promote	promote	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=297|end_char=304
+11	slavery	slavery	NOUN	NN	Number=Sing	10	obj	_	start_char=305|end_char=312
+

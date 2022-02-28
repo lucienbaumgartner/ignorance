@@ -1,0 +1,18 @@
+1	Some	some	DET	DT	_	3	nsubj	_	start_char=0|end_char=4
+2	might	might	AUX	MD	VerbForm=Fin	3	aux	_	start_char=5|end_char=10
+3	call	call	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=15
+4	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=16|end_char=21
+5	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=22|end_char=28
+6	immature	immature	ADJ	JJ	Degree=Pos	5	amod	_	start_char=29|end_char=37
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=38|end_char=41
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=42|end_char=50
+9	of	of	ADP	IN	_	11	case	_	start_char=51|end_char=53
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=54|end_char=57
+11	importance	importance	NOUN	NN	Number=Sing	8	obl	_	start_char=58|end_char=68
+12	of	of	ADP	IN	_	13	case	_	start_char=69|end_char=71
+13	safety	safety	NOUN	NN	Number=Sing	11	nmod	_	start_char=72|end_char=78
+14	in	in	ADP	IN	_	16	case	_	start_char=79|end_char=81
+15	public	public	ADJ	JJ	Degree=Pos	16	amod	_	start_char=82|end_char=88
+16	events	event	NOUN	NNS	Number=Plur	13	nmod	_	start_char=89|end_char=95
+17	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+

@@ -1,0 +1,25 @@
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+5	to	to	PART	TO	_	6	mark	_	start_char=11|end_char=13
+6	stay	stay	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=14|end_char=18
+7	out	out	ADP	IN	_	9	case	_	start_char=19|end_char=22
+8	of	of	ADP	IN	_	9	case	_	start_char=23|end_char=25
+9	politics	politics	NOUN	NNS	Number=Plur	6	obl	_	start_char=26|end_char=34
+
+1	*	*	PUNCT	NFP	_	2	punct	_	start_char=36|end_char=37
+2	Proceeds	proceed	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=37|end_char=45
+3	to	to	PART	TO	_	4	mark	_	start_char=46|end_char=48
+4	get	get	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=49|end_char=52
+5	into	into	ADP	IN	_	7	case	_	start_char=53|end_char=57
+6	political	political	ADJ	JJ	Degree=Pos	7	amod	_	start_char=58|end_char=67
+7	discussion	discussion	NOUN	NN	Number=Sing	4	obl	_	start_char=68|end_char=78
+8	with	with	ADP	IN	_	13	case	_	start_char=79|end_char=83
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	amod	_	start_char=84|end_char=92
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=93|end_char=96
+11	incorrect	incorrect	ADJ	JJ	Degree=Pos	9	conj	_	start_char=97|end_char=106
+12	hot	hot	ADJ	JJ	Degree=Pos	13	amod	_	start_char=107|end_char=110
+13	takes	take	NOUN	NNS	Number=Plur	4	obl	_	start_char=111|end_char=116
+14	*	*	PUNCT	NFP	_	2	punct	_	start_char=116|end_char=117
+

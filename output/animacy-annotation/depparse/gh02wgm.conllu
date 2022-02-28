@@ -1,0 +1,34 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	most	most	ADJ	JJS	Degree=Sup	7	nsubj	_	start_char=7|end_char=11
+4	of	of	ADP	IN	_	5	case	_	start_char=12|end_char=14
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	start_char=15|end_char=19
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=20|end_char=23
+7	happy	happy	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=24|end_char=29
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=30|end_char=33
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=34|end_char=41
+10	of	of	ADP	IN	_	12	case	_	start_char=42|end_char=44
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=45|end_char=48
+12	fact	fact	NOUN	NN	Number=Sing	9	obl	_	start_char=49|end_char=53
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=54|end_char=56
+14	mock	mock	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=57|end_char=61
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	start_char=62|end_char=66
+16	constantly	constantly	ADV	RB	_	14	advmod	_	start_char=67|end_char=77
+17	.	.	PUNCT	.	_	2	punct	_	start_char=77|end_char=78
+
+1	Btw	btw	INTJ	UH	_	0	root	_	start_char=81|end_char=84
+2	:	:	PUNCT	:	_	1	punct	_	start_char=84|end_char=85
+
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	2	nsubj	_	start_char=86|end_char=91
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=92|end_char=95
+3	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=96|end_char=99
+4	ellipses	ellipses	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=100|end_char=108
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=109|end_char=112
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=113|end_char=117
+7	.	.	PUNCT	.	_	2	punct	_	start_char=117|end_char=118
+8	[...	[...	PUNCT	.	_	2	punct	_	start_char=119|end_char=123
+9	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=123|end_char=124
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=124|end_char=125
+2	https://www.thepunctuationguide.com/ellipses.html)	https://www.thepunctuationguide.com/ellipses.html)	X	ADD	_	0	root	_	start_char=125|end_char=175
+

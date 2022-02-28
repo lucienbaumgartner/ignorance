@@ -1,0 +1,136 @@
+1	Yaaa..	Yaaa..	PROPN	NNP	Number=Sing	3	compound	_	start_char=0|end_char=6
+2	human	human	ADJ	JJ	Degree=Pos	3	amod	_	start_char=7|end_char=12
+3	rights	rights	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=13|end_char=19
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=20|end_char=23
+5	so	so	ADV	RB	_	6	advmod	_	start_char=24|end_char=26
+6	tiresome	tiresome	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=35
+7	right	right	ADV	RB	_	6	advmod	_	start_char=36|end_char=41
+8	?	?	PUNCT	.	_	6	punct	_	start_char=41|end_char=42
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=43|end_char=47
+2	conflict	conflict	NOUN	NN	Number=Sing	6	nsubj	_	start_char=48|end_char=56
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=57|end_char=59
+4	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=59|end_char=62
+5	about	about	ADP	IN	_	6	case	_	start_char=63|end_char=68
+6	religion	religion	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=77
+7	.	.	PUNCT	.	_	6	punct	_	start_char=77|end_char=78
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=79|end_char=81
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=81|end_char=83
+3	straight	straight	ADV	RB	_	4	advmod	_	start_char=84|end_char=92
+4	up	up	ADP	RP	_	0	root	_	start_char=93|end_char=95
+5	about	about	ADP	IN	_	6	case	_	start_char=96|end_char=101
+6	land	land	NOUN	NN	Number=Sing	4	obl	_	start_char=102|end_char=106
+7	.	.	PUNCT	.	_	4	punct	_	start_char=106|end_char=107
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=110|end_char=111
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=112|end_char=119
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=120|end_char=123
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	start_char=124|end_char=128
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=129|end_char=130
+6	troll	troll	NOUN	NN	Number=Sing	2	ccomp	_	start_char=131|end_char=136
+7	before	before	ADV	RB	_	6	advmod	_	start_char=137|end_char=143
+8	,	,	PUNCT	,	_	12	punct	_	start_char=143|end_char=144
+9	but	but	CCONJ	CC	_	12	cc	_	start_char=145|end_char=148
+10	now	now	ADV	RB	_	12	advmod	_	start_char=149|end_char=152
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=153|end_char=154
+12	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=155|end_char=158
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj:pass	_	start_char=159|end_char=162
+14	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux:pass	_	start_char=162|end_char=165
+15	just	just	ADV	RB	_	19	advmod	_	start_char=166|end_char=170
+16	not	not	PART	RB	_	19	advmod	_	start_char=171|end_char=174
+17	very	very	ADV	RB	_	18	advmod	_	start_char=175|end_char=179
+18	well	well	ADV	RB	Degree=Pos	19	advmod	_	start_char=180|end_char=184
+19	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	ccomp	_	start_char=185|end_char=193
+20	.	.	PUNCT	.	_	2	punct	_	start_char=193|end_char=194
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=195|end_char=198
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=199|end_char=203
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=203|end_char=205
+4	ok	ok	ADJ	JJ	Degree=Pos	0	root	_	start_char=206|end_char=208
+5	.	.	PUNCT	.	_	4	punct	_	start_char=208|end_char=209
+
+1	Assuming	assume	VERB	VBG	VerbForm=Ger	0	root	_	start_char=210|end_char=218
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=219|end_char=222
+3	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=222|end_char=225
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=226|end_char=228
+5	American	American	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=229|end_char=237
+6	.	.	PUNCT	.	_	1	punct	_	start_char=237|end_char=238
+
+1	Many	many	ADJ	JJ	Degree=Pos	9	nsubj:pass	_	start_char=239|end_char=243
+2	of	of	ADP	IN	_	3	case	_	start_char=244|end_char=246
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	nmod	_	start_char=247|end_char=249
+4	over	over	ADP	IN	_	5	case	_	start_char=250|end_char=254
+5	here	here	ADV	RB	PronType=Dem	1	nmod	_	start_char=255|end_char=259
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=260|end_char=263
+7	n’t	not	PART	RB	_	9	advmod	_	start_char=263|end_char=266
+8	well	well	ADV	RB	Degree=Pos	9	advmod	_	start_char=267|end_char=271
+9	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=272|end_char=280
+10	on	on	ADP	IN	_	11	case	_	start_char=281|end_char=283
+11	ME	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	start_char=284|end_char=286
+12	matters	matter	NOUN	NNS	Number=Plur	9	obl	_	start_char=287|end_char=294
+13	.	.	PUNCT	.	_	9	punct	_	start_char=294|end_char=295
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=298|end_char=300
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=300|end_char=302
+3	ok	ok	ADJ	JJ	Degree=Pos	0	root	_	start_char=303|end_char=305
+4	to	to	PART	TO	_	7	mark	_	start_char=306|end_char=308
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=309|end_char=311
+6	really	really	ADV	RB	_	7	advmod	_	start_char=312|end_char=318
+7	young	young	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=319|end_char=324
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=325|end_char=328
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=329|end_char=337
+10	of	of	ADP	IN	_	12	case	_	start_char=338|end_char=340
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=341|end_char=344
+12	world	world	NOUN	NN	Number=Sing	9	obl	_	start_char=345|end_char=350
+13	.	.	PUNCT	.	_	3	punct	_	start_char=350|end_char=351
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=352|end_char=354
+2	live	live	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=355|end_char=359
+3	fairly	fairly	ADV	RB	_	4	advmod	_	start_char=360|end_char=366
+4	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	start_char=367|end_char=376
+5	lives	life	NOUN	NNS	Number=Plur	2	obj	_	start_char=377|end_char=382
+6	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=383|end_char=387
+7	.	.	PUNCT	.	_	2	punct	_	start_char=387|end_char=388
+
+1	Hopefully	hopefully	ADV	RB	_	6	advmod	_	start_char=389|end_char=398
+2	some	some	DET	DT	_	3	det	_	start_char=399|end_char=403
+3	day	day	NOUN	NN	Number=Sing	6	obl:tmod	_	start_char=404|end_char=407
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=408|end_char=411
+5	’ll	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=411|end_char=414
+6	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=415|end_char=419
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=420|end_char=421
+8	desire	desire	NOUN	NN	Number=Sing	6	obj	_	start_char=422|end_char=428
+9	to	to	PART	TO	_	10	mark	_	start_char=429|end_char=431
+10	learn	learn	VERB	VB	VerbForm=Inf	8	acl	_	start_char=432|end_char=437
+11	.	.	PUNCT	.	_	6	punct	_	start_char=437|end_char=438
+
+1	But	but	CCONJ	CC	_	10	cc	_	start_char=441|end_char=444
+2	if	if	SCONJ	IN	_	6	mark	_	start_char=445|end_char=447
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=448|end_char=451
+4	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=451|end_char=454
+5	not	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=455|end_char=458
+6	young	young	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=459|end_char=464
+7	,	,	PUNCT	,	_	10	punct	_	start_char=464|end_char=465
+8	ya	ya	INTJ	UH	_	10	discourse	_	start_char=466|end_char=468
+9	there	there	PRON	EX	_	10	expl	_	start_char=469|end_char=474
+10	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=474|end_char=476
+11	no	no	DET	DT	Polarity=Neg	12	det	_	start_char=477|end_char=479
+12	excuse	excuse	NOUN	NN	Number=Sing	10	nsubj	_	start_char=480|end_char=486
+13	for	for	SCONJ	IN	_	15	mark	_	start_char=487|end_char=490
+14	being	be	AUX	VBG	VerbForm=Ger	15	cop	_	start_char=491|end_char=496
+15	uninformed	uninformed	ADJ	JJ	Degree=Pos|Polarity=Neg	12	acl	_	start_char=497|end_char=507
+16	.	.	PUNCT	.	_	10	punct	_	start_char=507|end_char=508
+
+1	Unless	unless	SCONJ	IN	_	4	mark	_	start_char=509|end_char=515
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=516|end_char=519
+3	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=519|end_char=522
+4	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=523|end_char=526
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=527|end_char=528
+6	traumatic	traumatic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=529|end_char=538
+7	brain	brain	NOUN	NN	Number=Sing	8	compound	_	start_char=539|end_char=544
+8	injury	injury	NOUN	NN	Number=Sing	4	obj	_	start_char=545|end_char=551
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=552|end_char=554
+10	something	something	NOUN	NN	Number=Sing	8	conj	_	start_char=555|end_char=564
+11	.	.	PUNCT	.	_	4	punct	_	start_char=564|end_char=565
+

@@ -1,0 +1,27 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=4|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	racist	racist	ADJ	JJ	Degree=Pos	2	conj	_	start_char=17|end_char=23
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=24|end_char=26
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=27|end_char=30
+7	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=31|end_char=35
+8	to	to	PART	TO	_	9	mark	_	start_char=36|end_char=38
+9	be	be	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=39|end_char=41
+10	to	to	PART	TO	_	11	mark	_	start_char=42|end_char=44
+11	assume	assume	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=45|end_char=51
+12	everything	everything	PRON	NN	Number=Sing	15	nsubj	_	start_char=52|end_char=62
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=63|end_char=65
+14	about	about	ADP	IN	_	15	case	_	start_char=66|end_char=71
+15	race	race	NOUN	NN	Number=Sing	11	ccomp	_	start_char=72|end_char=76
+16	.	.	PUNCT	.	_	7	punct	_	start_char=76|end_char=77
+
+1	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=79|end_char=80
+2	Black	Black	ADJ	JJ	Degree=Pos	3	amod	_	start_char=80|end_char=85
+3	cat	cat	NOUN	NN	Number=Sing	5	compound	_	start_char=86|end_char=89
+4	myth	myth	NOUN	NN	Number=Sing	5	compound	_	start_char=90|end_char=94
+5	origin	origin	NOUN	NN	Number=Sing	0	root	_	start_char=95|end_char=101
+6	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=101|end_char=102
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=102|end_char=103
+2	https://www.awlnsw.com.au/halloween-is-almost-here/)	https://www.awlnsw.com.au/halloween-is-almost-here/)	X	ADD	_	0	root	_	start_char=103|end_char=155
+

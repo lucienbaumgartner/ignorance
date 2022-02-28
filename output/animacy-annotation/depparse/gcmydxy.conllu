@@ -1,0 +1,47 @@
+1	aw	aw	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3|end_char=4
+3	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+4	seeing	see	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=10|end_char=16
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=18
+6	BB30	BB30	PROPN	NNP	Number=Sing	4	obj	_	start_char=19|end_char=23
+7	before	before	SCONJ	IN	_	9	mark	_	start_char=24|end_char=30
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nsubj	_	start_char=31|end_char=34
+9	creaked	creake	VERB	VBD	Tense=Past|VerbForm=Part	4	advcl	_	start_char=35|end_char=42
+10	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=43|end_char=46
+11	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	12	amod	_	start_char=47|end_char=52
+12	creak	creak	NOUN	NN	Number=Sing	9	obj	_	start_char=53|end_char=58
+13	.	.	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=60|end_char=62
+2	quiet	quiet	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=68
+3	,	,	PUNCT	,	_	5	punct	_	start_char=68|end_char=69
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=70|end_char=73
+5	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=74|end_char=81
+6	of	of	ADP	IN	_	9	case	_	start_char=82|end_char=84
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=85|end_char=88
+8	impending	impend	VERB	VBG	VerbForm=Ger	9	amod	_	start_char=89|end_char=98
+9	scorn	scorn	NOUN	NN	Number=Sing	5	obl	_	start_char=99|end_char=104
+10	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	9	acl	_	start_char=105|end_char=113
+11	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=114|end_char=117
+12	way	way	NOUN	NN	Number=Sing	10	obj	_	start_char=118|end_char=121
+13	.	.	PUNCT	.	_	2	punct	_	start_char=121|end_char=122
+
+1	nature	nature	NOUN	NN	Number=Sing	4	nsubj	_	start_char=123|end_char=129
+2	really	really	ADV	RB	_	4	advmod	_	start_char=130|end_char=136
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=137|end_char=139
+4	something	something	PRON	NN	Number=Sing	0	root	_	start_char=140|end_char=149
+5	.	.	PUNCT	.	_	4	punct	_	start_char=149|end_char=150
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=153|end_char=164
+2	;	;	PUNCT	:	_	1	punct	_	start_char=164|end_char=165
+
+1	but	but	CCONJ	CC	_	8	cc	_	start_char=167|end_char=170
+2	,	,	PUNCT	,	_	8	punct	_	start_char=170|end_char=171
+3	seriously	seriously	ADV	RB	_	8	advmod	_	start_char=172|end_char=181
+4	,	,	PUNCT	,	_	8	punct	_	start_char=181|end_char=182
+5	thats	thats	INTJ	UH	_	8	discourse	_	start_char=183|end_char=188
+6	gonna	go	AUX	MD	VerbForm=Fin	8	aux	_	start_char=189|end_char=194
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=195|end_char=197
+8	sweet	sweet	ADJ	JJ	Degree=Pos	0	root	_	start_char=198|end_char=203
+9	!	!	PUNCT	.	_	8	punct	_	start_char=203|end_char=204
+

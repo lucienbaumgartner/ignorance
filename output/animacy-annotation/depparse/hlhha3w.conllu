@@ -1,0 +1,27 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	2	cop	_	start_char=0|end_char=5
+2	conscious	conscious	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=15
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=16|end_char=19
+4	aware	aware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=20|end_char=25
+5	of	of	ADP	IN	_	7	case	_	start_char=26|end_char=28
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=29|end_char=33
+7	surroundings	surroundings	NOUN	NNS	Number=Plur	4	obl	_	start_char=34|end_char=46
+8	,	,	PUNCT	,	_	13	punct	_	start_char=46|end_char=47
+9	as	as	SCONJ	IN	_	13	mark	_	start_char=48|end_char=50
+10	opposed	oppose	VERB	VBN	Tense=Past|VerbForm=Part	9	fixed	_	start_char=51|end_char=58
+11	to	to	SCONJ	IN	_	9	fixed	_	start_char=59|end_char=61
+12	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=62|end_char=67
+13	unconscious	unconscious	ADJ	JJ	Degree=Pos|Polarity=Neg	2	advcl	_	start_char=68|end_char=79
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=80|end_char=83
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=84|end_char=91
+16	of	of	ADP	IN	_	18	case	_	start_char=92|end_char=94
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=95|end_char=99
+18	surroundings	surroundings	NOUN	NNS	Number=Plur	15	obl	_	start_char=100|end_char=112
+19	,	,	PUNCT	,	_	25	punct	_	start_char=112|end_char=113
+20	such	such	ADJ	JJ	Degree=Pos	25	mark	_	start_char=114|end_char=118
+21	as	as	SCONJ	IN	_	20	fixed	_	start_char=119|end_char=121
+22	when	when	SCONJ	WRB	PronType=Int	25	mark	_	start_char=122|end_char=126
+23	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	nsubj	_	start_char=127|end_char=130
+24	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	25	cop	_	start_char=130|end_char=133
+25	asleep	asleep	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=134|end_char=140
+26	.	.	PUNCT	.	_	2	punct	_	start_char=140|end_char=141
+

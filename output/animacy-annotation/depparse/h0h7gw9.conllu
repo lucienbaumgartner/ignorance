@@ -1,0 +1,16 @@
+1	Congrats	congrat	NOUN	NNS	Number=Plur	5	discourse	_	start_char=0|end_char=8
+2	,	,	PUNCT	,	_	5	punct	_	start_char=8|end_char=9
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=10|end_char=13
+4	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=13|end_char=16
+5	advising	advise	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=17|end_char=25
+6	people	people	NOUN	NNS	Number=Plur	5	obj	_	start_char=26|end_char=32
+7	on	on	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	something	something	PRON	NN	Number=Sing	5	obl	_	start_char=36|end_char=45
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=46|end_char=49
+10	clearly	clearly	ADV	RB	_	12	advmod	_	start_char=50|end_char=57
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=58|end_char=61
+12	underestimating	underestimate	VERB	VBG	Tense=Pres|VerbForm=Part	8	acl:relcl	_	start_char=62|end_char=77
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=78|end_char=81
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=82|end_char=89
+15	of	of	ADP	IN	_	14	obl	_	start_char=90|end_char=92
+

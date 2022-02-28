@@ -1,0 +1,106 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	45	45	NUM	CD	NumType=Card	4	nummod	_	start_char=7|end_char=9
+4	years	year	NOUN	NNS	Number=Plur	2	obj	_	start_char=10|end_char=15
+5	of	of	ADP	IN	_	6	case	_	start_char=16|end_char=18
+6	unmedicated	unmedicated	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=19|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	of	of	ADP	IN	_	13	case	_	start_char=44|end_char=46
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=48|end_char=50
+11	adhd	adhd	NOUN	NN	Number=Sing	13	compound	_	start_char=51|end_char=55
+12	-	-	PUNCT	HYPH	_	13	punct	_	start_char=55|end_char=56
+13	pi	pi	NOUN	NN	Number=Sing	8	obl	_	start_char=56|end_char=58
+14	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	At	at	ADP	IN	_	2	case	_	start_char=62|end_char=64
+2	45	45	NUM	CD	NumType=Card	4	obl	_	start_char=65|end_char=67
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=68|end_char=69
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=70|end_char=74
+5	one	one	NUM	CD	NumType=Card	7	nummod	_	start_char=75|end_char=78
+6	hour	hour	NOUN	NN	Number=Sing	7	compound	_	start_char=79|end_char=83
+7	discussion	discussion	NOUN	NN	Number=Sing	4	obj	_	start_char=84|end_char=94
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=95|end_char=98
+9	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=99|end_char=103
+10	one	one	NUM	CD	NumType=Card	11	nummod	_	start_char=104|end_char=107
+11	test	test	NOUN	NN	Number=Sing	9	obj	_	start_char=108|end_char=112
+12	and	and	CCONJ	CC	_	17	cc	_	start_char=113|end_char=116
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=117|end_char=120
+14	dr	dr	NOUN	NN	Number=Sing	15	nsubj	_	start_char=121|end_char=123
+15	flat	flat	ADJ	JJ	Degree=Pos	17	csubj	_	start_char=124|end_char=128
+16	out	out	ADP	RP	_	15	compound:prt	_	start_char=129|end_char=132
+17	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=133|end_char=137
+18	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	17	obj	_	start_char=138|end_char=140
+19	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=141|end_char=143
+20	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=143|end_char=145
+21	not	not	PART	RB	_	23	advmod	_	start_char=146|end_char=149
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=150|end_char=151
+23	question	question	NOUN	NN	Number=Sing	17	ccomp	_	start_char=152|end_char=160
+24	that	that	PRON	WDT	PronType=Rel	26	obj	_	start_char=161|end_char=165
+25	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	start_char=166|end_char=167
+26	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	start_char=168|end_char=172
+27	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	obj	_	start_char=173|end_char=175
+28	.	.	PUNCT	.	_	4	punct	_	start_char=175|end_char=176
+
+1	Meds	med	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=178|end_char=182
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=183|end_char=187
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=188|end_char=192
+4	life	life	NOUN	NN	Number=Sing	5	compound	_	start_char=193|end_char=197
+5	changing	change	VERB	VBG	VerbForm=Ger	0	root	_	start_char=198|end_char=206
+6	.	.	PUNCT	.	_	5	punct	_	start_char=206|end_char=207
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=213|end_char=214
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=215|end_char=219
+3	age	age	NOUN	NN	Number=Sing	2	obj	_	start_char=220|end_char=223
+4	on	on	ADP	IN	_	6	case	_	start_char=224|end_char=226
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=227|end_char=229
+6	side	side	NOUN	NN	Number=Sing	2	obl	_	start_char=230|end_char=234
+7	.	.	PUNCT	.	_	2	punct	_	start_char=234|end_char=235
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=237|end_char=238
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=238|end_char=240
+3	not	not	PART	RB	_	7	advmod	_	start_char=241|end_char=244
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=245|end_char=246
+5	twenty	twenty	NUM	CD	NumType=Card	6	nummod	_	start_char=247|end_char=253
+6	year	year	NOUN	NN	Number=Sing	7	obl:npmod	_	start_char=254|end_char=258
+7	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=259|end_char=262
+8	trying	try	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=263|end_char=269
+9	to	to	PART	TO	_	10	mark	_	start_char=270|end_char=272
+10	get	get	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=273|end_char=276
+11	stimulants	stimulant	NOUN	NNS	Number=Plur	10	obj	_	start_char=277|end_char=287
+12	.	.	PUNCT	.	_	7	punct	_	start_char=287|end_char=288
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=291|end_char=294
+2	regardless	regardless	ADV	RB	_	0	root	_	start_char=295|end_char=305
+3	.	.	PUNCT	.	_	2	punct	_	start_char=305|end_char=306
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=308|end_char=309
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=310|end_char=314
+3	what	what	PRON	WP	PronType=Int	2	ccomp	_	start_char=315|end_char=319
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=320|end_char=322
+5	life	life	NOUN	NN	Number=Sing	3	nsubj	_	start_char=323|end_char=327
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=328|end_char=331
+7	like	like	ADP	IN	_	3	case	_	start_char=332|end_char=336
+8	prior	prior	ADJ	JJ	Degree=Pos	3	case	_	start_char=337|end_char=342
+9	.	.	PUNCT	.	_	2	punct	_	start_char=342|end_char=343
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=346|end_char=347
+2	tell	tell	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=348|end_char=352
+3	everyone	everyone	PRON	NN	Number=Sing	2	obj	_	start_char=353|end_char=361
+4	about	about	ADP	IN	_	6	case	_	start_char=362|end_char=367
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=368|end_char=370
+6	meds	med	NOUN	NNS	Number=Plur	3	nmod	_	start_char=371|end_char=375
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=376|end_char=379
+8	about	about	ADP	IN	_	10	case	_	start_char=380|end_char=385
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=386|end_char=388
+10	life	life	NOUN	NN	Number=Sing	6	conj	_	start_char=389|end_char=393
+11	prior	prior	ADJ	JJ	Degree=Pos	10	case	_	start_char=394|end_char=399
+12	.	.	PUNCT	.	_	2	punct	_	start_char=399|end_char=400
+
+1	Hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=403|end_char=407
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=408|end_char=410
+3	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=411|end_char=416
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=417|end_char=420
+5	awareness	awareness	NOUN	NN	Number=Sing	3	obj	_	start_char=421|end_char=430
+6	.	.	PUNCT	.	_	1	punct	_	start_char=430|end_char=431
+

@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	brother	brother	NOUN	NN	Number=Sing	2	obj	_	start_char=8|end_char=15
+4	!	!	PUNCT	.	_	2	punct	_	start_char=15|end_char=16
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=17|end_char=19
+2	CANNOT	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=20|end_char=26
+3	become	become	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=33
+4	complacent	complacent	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=34|end_char=44
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=45|end_char=48
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=49|end_char=57
+7	of	of	ADP	IN	_	11	case	_	start_char=58|end_char=60
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=61|end_char=64
+9	anti	anti	ADJ	JJ	Degree=Pos	11	amod	_	start_char=65|end_char=69
+10	2A	2a	NOUN	NN	Number=Sing	11	compound	_	start_char=70|end_char=72
+11	agenda	agenda	NOUN	NN	Number=Sing	4	obl	_	start_char=73|end_char=79
+12	that	that	PRON	WDT	PronType=Rel	14	nsubj	_	start_char=80|end_char=84
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=84|end_char=86
+14	controlling	control	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=87|end_char=98
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=99|end_char=102
+16	house	house	NOUN	NN	Number=Sing	14	obj	_	start_char=103|end_char=108
+17	,	,	PUNCT	,	_	18	punct	_	start_char=108|end_char=109
+18	senate	senate	NOUN	NN	Number=Sing	16	conj	_	start_char=110|end_char=116
+19	,	,	PUNCT	,	_	22	punct	_	start_char=116|end_char=117
+20	and	and	CCONJ	CC	_	22	cc	_	start_char=118|end_char=121
+21	White	White	ADJ	NNP	Degree=Pos	22	amod	_	start_char=122|end_char=127
+22	House	House	PROPN	NNP	Number=Sing	16	conj	_	start_char=128|end_char=133
+23	!	!	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+

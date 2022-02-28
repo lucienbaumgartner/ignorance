@@ -1,0 +1,34 @@
+1	Nicki	Nicki	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=5
+2	Minaj	Minaj	PROPN	NNP	Number=Sing	1	flat	_	start_char=6|end_char=11
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=14
+4	subhuman	subhuman	ADJ	JJ	Degree=Pos	0	root	_	start_char=15|end_char=23
+5	.	.	PUNCT	.	_	4	punct	_	start_char=23|end_char=24
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=25|end_char=28
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=28|end_char=30
+3	too	too	ADV	RB	Degree=Pos	4	advmod	_	start_char=31|end_char=34
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=42
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=43|end_char=46
+6	low	low	ADJ	JJ	Degree=Pos	7	amod	_	start_char=47|end_char=50
+7	intelligence	intelligence	NOUN	NN	Number=Sing	4	conj	_	start_char=51|end_char=63
+8	to	to	PART	TO	_	9	mark	_	start_char=64|end_char=66
+9	realize	realize	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=67|end_char=74
+10	what	what	PRON	WP	PronType=Int	13	obj	_	start_char=75|end_char=79
+11	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=80|end_char=83
+12	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=83|end_char=85
+13	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	9	ccomp	_	start_char=86|end_char=92
+14	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=94|end_char=96
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=96|end_char=98
+3	not	not	PART	RB	_	5	advmod	_	start_char=99|end_char=102
+4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=103|end_char=106
+5	fault	fault	NOUN	NN	Number=Sing	0	root	_	start_char=107|end_char=112
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	start_char=113|end_char=116
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	start_char=117|end_char=120
+8	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	start_char=121|end_char=125
+9	with	with	ADP	IN	_	11	case	_	start_char=126|end_char=130
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=131|end_char=132
+11	disability	disability	NOUN	NN	Number=Sing	8	obl	_	start_char=133|end_char=143
+12	.	.	PUNCT	.	_	5	punct	_	start_char=143|end_char=144
+

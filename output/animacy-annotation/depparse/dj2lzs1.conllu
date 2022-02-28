@@ -1,0 +1,134 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=4|end_char=8
+2	shirk	shirk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=15|end_char=20
+4	domestic	domestic	ADJ	JJ	Degree=Pos	5	amod	_	start_char=21|end_char=29
+5	chores	chore	NOUN	NNS	Number=Plur	2	obj	_	start_char=30|end_char=36
+6	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=38|end_char=42
+2	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=43|end_char=48
+3	all	all	DET	PDT	_	6	det:predet	_	start_char=49|end_char=52
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=53|end_char=56
+5	emotional	emotional	ADJ	JJ	Degree=Pos	6	amod	_	start_char=57|end_char=66
+6	work	work	NOUN	NN	Number=Sing	2	obj	_	start_char=67|end_char=71
+7	to	to	ADP	IN	_	8	case	_	start_char=72|end_char=74
+8	women	woman	NOUN	NNS	Number=Plur	6	nmod	_	start_char=75|end_char=80
+9	.	.	PUNCT	.	_	2	punct	_	start_char=80|end_char=81
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=82|end_char=86
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=87|end_char=91
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=92|end_char=97
+4	parents	parent	NOUN	NNS	Number=Plur	2	xcomp	_	start_char=98|end_char=105
+5	,	,	PUNCT	,	_	14	punct	_	start_char=105|end_char=106
+6	but	but	CCONJ	CC	_	14	cc	_	start_char=107|end_char=110
+7	not	not	PART	RB	_	14	advmod	_	start_char=111|end_char=114
+8	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=115|end_char=118
+9	messy	messy	ADJ	JJ	Degree=Pos	14	amod	_	start_char=119|end_char=124
+10	,	,	PUNCT	,	_	14	punct	_	start_char=124|end_char=125
+11	tedious	tedious	ADJ	JJ	Degree=Pos	14	amod	_	start_char=126|end_char=133
+12	,	,	PUNCT	,	_	14	punct	_	start_char=133|end_char=134
+13	yucky	yucky	ADJ	JJ	Degree=Pos	14	amod	_	start_char=135|end_char=140
+14	bits	bit	NOUN	NNS	Number=Plur	4	conj	_	start_char=141|end_char=145
+15	.	.	PUNCT	.	_	2	punct	_	start_char=145|end_char=146
+
+1	Who	who	PRON	WP	PronType=Int	2	nsubj	_	start_char=147|end_char=150
+2	organizes	organize	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=151|end_char=160
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=161|end_char=164
+4	birthday	birthday	NOUN	NN	Number=Sing	5	compound	_	start_char=165|end_char=173
+5	parties	party	NOUN	NNS	Number=Plur	2	obj	_	start_char=174|end_char=181
+6	?	?	PUNCT	.	_	2	punct	_	start_char=181|end_char=182
+
+1	Not	not	PART	RB	_	2	advmod	_	start_char=183|end_char=186
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	0	root	_	start_char=187|end_char=191
+3	!	!	PUNCT	.	_	2	punct	_	start_char=191|end_char=192
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=193|end_char=197
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=198|end_char=201
+3	self	self	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=202|end_char=206
+4	-	-	PUNCT	HYPH	_	5	punct	_	start_char=206|end_char=207
+5	absorbed	absorb	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=207|end_char=215
+6	,	,	PUNCT	,	_	7	punct	_	start_char=215|end_char=216
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=217|end_char=224
+8	,	,	PUNCT	,	_	11	punct	_	start_char=224|end_char=225
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=226|end_char=229
+10	generally	generally	ADV	RB	_	11	advmod	_	start_char=230|end_char=239
+11	clueless	clueless	ADJ	JJ	Degree=Pos	5	conj	_	start_char=240|end_char=248
+12	about	about	SCONJ	IN	_	13	case	_	start_char=249|end_char=254
+13	what	what	PRON	WP	PronType=Int	11	obl	_	start_char=255|end_char=259
+14	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=259|end_char=261
+15	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	13	acl:relcl	_	start_char=262|end_char=267
+16	on	on	ADP	IN	_	17	case	_	start_char=268|end_char=270
+17	all	all	DET	DT	_	15	obl	_	start_char=271|end_char=274
+18	around	around	ADP	IN	_	19	case	_	start_char=275|end_char=281
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	nmod	_	start_char=282|end_char=286
+20	.	.	PUNCT	.	_	5	punct	_	start_char=286|end_char=287
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=288|end_char=292
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=293|end_char=296
+3	deficient	deficient	ADJ	JJ	Degree=Pos	0	root	_	start_char=297|end_char=306
+4	in	in	ADP	IN	_	7	case	_	start_char=307|end_char=309
+5	almost	almost	ADV	RB	_	7	advmod	_	start_char=310|end_char=316
+6	every	every	DET	DT	_	7	det	_	start_char=317|end_char=322
+7	way	way	NOUN	NN	Number=Sing	3	obl	_	start_char=323|end_char=326
+8	.	.	PUNCT	.	_	3	punct	_	start_char=326|end_char=327
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=329|end_char=333
+2	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=334|end_char=337
+3	.	.	PUNCT	.	_	1	punct	_	start_char=337|end_char=338
+
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=339|end_char=344
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=345|end_char=348
+3	cant	cant	AUX	MD	VerbForm=Fin	4	aux	_	start_char=349|end_char=353
+4	land	land	VERB	VB	VerbForm=Inf	0	root	_	start_char=354|end_char=358
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=359|end_char=360
+6	good	good	ADJ	JJ	Degree=Pos	7	amod	_	start_char=361|end_char=365
+7	man	man	NOUN	NN	Number=Sing	4	obj	_	start_char=366|end_char=369
+8	but	but	CCONJ	CC	_	10	cc	_	start_char=370|end_char=373
+9	there	there	PRON	EX	_	10	expl	_	start_char=374|end_char=379
+10	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=380|end_char=383
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=384|end_char=385
+12	lot	lot	NOUN	NN	Number=Sing	10	nsubj	_	start_char=386|end_char=389
+13	of	of	ADP	IN	_	15	case	_	start_char=390|end_char=392
+14	good	good	ADJ	JJ	Degree=Pos	15	amod	_	start_char=393|end_char=397
+15	dads	dad	NOUN	NNS	Number=Plur	12	nmod	_	start_char=398|end_char=402
+16	and	and	CCONJ	CC	_	19	cc	_	start_char=403|end_char=406
+17	also	also	ADV	RB	_	19	advmod	_	start_char=407|end_char=411
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=412|end_char=413
+19	lot	lot	NOUN	NN	Number=Sing	12	conj	_	start_char=414|end_char=417
+20	of	of	ADP	IN	_	22	case	_	start_char=418|end_char=420
+21	shit	shit	NOUN	NN	Number=Sing	22	compound	_	start_char=421|end_char=425
+22	mothers	mother	NOUN	NNS	Number=Plur	19	nmod	_	start_char=426|end_char=433
+23	.	.	PUNCT	.	_	4	punct	_	start_char=433|end_char=434
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=437|end_char=440
+2	fathers	father	NOUN	NNS	Number=Plur	3	compound	_	start_char=441|end_char=448
+3	day	day	NOUN	NN	Number=Sing	0	root	_	start_char=449|end_char=452
+4	to	to	PART	TO	_	5	mark	_	start_char=453|end_char=455
+5	push	push	VERB	VB	VerbForm=Inf	3	acl	_	start_char=456|end_char=460
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=461|end_char=465
+7	garbage	garbage	NOUN	NN	Number=Sing	5	obj	_	start_char=466|end_char=473
+8	.	.	PUNCT	.	_	3	punct	_	start_char=473|end_char=474
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=476|end_char=478
+2	question	question	NOUN	NN	Number=Sing	3	nsubj	_	start_char=479|end_char=487
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=488|end_char=490
+4	-	-	PUNCT	,	_	3	punct	_	start_char=491|end_char=492
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=493|end_char=496
+6	todays	today	NOUN	NNS	Number=Plur	8	nmod:poss	_	start_char=497|end_char=503
+7	's	's	PART	POS	_	6	case	_	start_char=503|end_char=505
+8	journalists	journalist	NOUN	NNS	Number=Plur	3	ccomp	_	start_char=506|end_char=517
+9	really	really	ADV	RB	_	11	advmod	_	start_char=518|end_char=524
+10	so	so	ADV	RB	_	11	advmod	_	start_char=525|end_char=527
+11	pathetic	pathetic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=528|end_char=536
+12	?	?	PUNCT	.	_	3	punct	_	start_char=536|end_char=537
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=538|end_char=541
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=542|end_char=545
+3	answer	answer	NOUN	NN	Number=Sing	5	nsubj	_	start_char=546|end_char=552
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=553|end_char=555
+5	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=556|end_char=561
+6	.	.	PUNCT	.	_	5	punct	_	start_char=561|end_char=562
+

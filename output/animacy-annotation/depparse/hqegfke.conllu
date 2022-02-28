@@ -1,0 +1,13 @@
+1	Memes	meme	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=0|end_char=5
+2	like	like	ADP	IN	_	3	case	_	start_char=6|end_char=10
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	1	nmod	_	start_char=11|end_char=15
+4	just	just	ADV	RB	_	5	advmod	_	start_char=16|end_char=20
+5	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=26|end_char=29
+7	right	right	ADJ	JJ	Degree=Pos	8	nsubj	_	start_char=30|end_char=35
+8	look	look	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=36|end_char=40
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=41|end_char=49
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+11	dumb	dumb	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=58
+12	.	.	PUNCT	.	_	5	punct	_	start_char=58|end_char=59
+

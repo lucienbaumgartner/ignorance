@@ -1,0 +1,31 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=4|end_char=10
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=11|end_char=13
+4	“	''	PUNCT	``	_	8	punct	_	start_char=14|end_char=15
+5	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=15|end_char=17
+6	angry	angry	ADJ	JJ	Degree=Pos	8	amod	_	start_char=18|end_char=23
+7	little	little	ADJ	JJ	Degree=Pos	8	amod	_	start_char=24|end_char=30
+8	dem	dem	X	FW	_	2	obj	_	start_char=31|end_char=34
+9	”	''	PUNCT	''	_	8	punct	_	start_char=34|end_char=35
+10	because	because	SCONJ	IN	_	12	mark	_	start_char=36|end_char=43
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=44|end_char=45
+12	pointed	point	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=46|end_char=53
+13	out	out	ADP	RP	_	12	compound:prt	_	start_char=54|end_char=57
+14	that	that	SCONJ	IN	_	17	mark	_	start_char=58|end_char=62
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=63|end_char=66
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=67|end_char=70
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=71|end_char=79
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=80|end_char=83
+19	wrong	wrong	ADJ	JJ	Degree=Pos	17	conj	_	start_char=84|end_char=89
+20	.	.	PUNCT	.	_	2	punct	_	start_char=89|end_char=90
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=92|end_char=95
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=96|end_char=99
+3	desperately	desperately	ADV	RB	_	4	advmod	_	start_char=100|end_char=111
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=112|end_char=118
+5	to	to	PART	TO	_	6	mark	_	start_char=119|end_char=121
+6	justify	justify	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=122|end_char=129
+7	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=130|end_char=134
+8	ignorance	ignorance	NOUN	NN	Number=Sing	6	obj	_	start_char=135|end_char=144
+9	.	.	PUNCT	.	_	4	punct	_	start_char=144|end_char=145
+

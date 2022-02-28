@@ -1,0 +1,34 @@
+1	Bill	Bill	PROPN	NNP	Number=Sing	5	nmod:poss	_	start_char=0|end_char=4
+2	'	's	PART	POS	_	1	case	_	start_char=5|end_char=6
+3	still	still	ADV	RB	_	5	advmod	_	start_char=6|end_char=11
+4	dickin	dickin	NOUN	NN	Number=Sing	5	compound	_	start_char=12|end_char=18
+5	bimbos	bimbo	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=19|end_char=25
+6	at	at	ADP	IN	_	7	case	_	start_char=26|end_char=28
+7	home	home	NOUN	NN	Number=Sing	5	nmod	_	start_char=29|end_char=33
+8	"	"	PUNCT	''	_	5	punct	_	start_char=33|end_char=34
+9	Clinton	Clinton	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=35|end_char=42
+10	summed	sum	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=43|end_char=49
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=50|end_char=52
+12	up	up	ADP	RP	_	10	compound:prt	_	start_char=53|end_char=55
+13	pretty	pretty	ADV	RB	_	14	advmod	_	start_char=56|end_char=62
+14	nicely	nicely	ADV	RB	_	10	advmod	_	start_char=63|end_char=69
+15	when	when	SCONJ	WRB	PronType=Int	17	mark	_	start_char=70|end_char=74
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=75|end_char=77
+17	talked	talk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	_	start_char=78|end_char=84
+18	about	about	ADP	IN	_	17	obl	_	start_char=85|end_char=90
+19	[	[	PUNCT	-LRB-	_	23	punct	_	start_char=91|end_char=92
+20	*	*	PUNCT	NFP	_	23	punct	_	start_char=92|end_char=93
+21	how	how	SCONJ	WRB	PronType=Int	23	mark	_	start_char=93|end_char=96
+22	to	to	PART	TO	_	23	mark	_	start_char=97|end_char=99
+23	produce	produce	VERB	VB	VerbForm=Inf	17	advcl	_	start_char=100|end_char=107
+24	an	a	DET	DT	Definite=Ind|PronType=Art	28	det	_	start_char=108|end_char=110
+25	unaware	unaware	ADJ	JJ	Degree=Pos	28	amod	_	start_char=111|end_char=118
+26	and	and	CCONJ	CC	_	27	cc	_	start_char=119|end_char=122
+27	compliant	compliant	ADJ	JJ	Degree=Pos	25	conj	_	start_char=123|end_char=132
+28	citizenry	citizenry	NOUN	NN	Number=Sing	23	obj	_	start_char=133|end_char=142
+29	*	*	PUNCT	NFP	_	23	punct	_	start_char=142|end_char=143
+30	]	]	PUNCT	-RRB-	_	23	punct	_	start_char=143|end_char=144
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=144|end_char=145
+2	https://pbs.twimg.com/media/CuuSOn3WgAAXqlF.jpg)	https://pbs.twimg.com/media/cuuson3wgaaxqlf.jpg)	X	ADD	_	0	root	_	start_char=145|end_char=193
+

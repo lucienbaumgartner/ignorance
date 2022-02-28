@@ -1,0 +1,18 @@
+1	I'll	i'll	INTJ	UH	_	2	discourse	_	start_char=0|end_char=4
+2	mark	mark	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=10|end_char=13
+4	down	down	ADP	RP	_	2	compound:prt	_	start_char=14|end_char=18
+5	as	as	ADV	RB	_	6	advmod	_	start_char=19|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=22|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	angry	angry	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	move	move	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=45|end_char=49
+11	on	on	ADP	RP	_	10	compound:prt	_	start_char=50|end_char=52
+12	from	from	ADP	IN	_	14	case	_	start_char=53|end_char=57
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=58|end_char=62
+14	conversation	conversation	NOUN	NN	Number=Sing	10	obl	_	start_char=63|end_char=75
+15	,	,	PUNCT	,	_	16	punct	_	start_char=75|end_char=76
+16	thanks	thanks	NOUN	NN	Number=Sing	2	discourse	_	start_char=77|end_char=83
+17	.	.	PUNCT	.	_	2	punct	_	start_char=83|end_char=84
+

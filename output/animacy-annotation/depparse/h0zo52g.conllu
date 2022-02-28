@@ -1,0 +1,29 @@
+1	Yes	yes	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=11
+3	performing	perform	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=12|end_char=22
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=23|end_char=24
+5	single	single	ADJ	JJ	Degree=Pos	7	amod	_	start_char=25|end_char=31
+6	variable	variable	ADJ	JJ	Degree=Pos	7	amod	_	start_char=32|end_char=40
+7	analysis	analysis	NOUN	NN	Number=Sing	3	obj	_	start_char=41|end_char=49
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+9	immediately	immediately	ADV	RB	_	10	advmod	_	start_char=54|end_char=65
+10	linking	link	VERB	VBG	VerbForm=Ger	3	conj	_	start_char=66|end_char=73
+11	cause	cause	NOUN	NN	Number=Sing	10	obj	_	start_char=74|end_char=79
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=80|end_char=83
+13	effect	effect	NOUN	NN	Number=Sing	11	conj	_	start_char=84|end_char=90
+14	.	.	PUNCT	.	_	2	punct	_	start_char=90|end_char=91
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=93|end_char=100
+2	being	be	AUX	VBG	VerbForm=Ger	1	xcomp	_	start_char=101|end_char=106
+3	that	that	SCONJ	IN	_	4	mark	_	start_char=107|end_char=111
+4	unscientific	unscientific	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=112|end_char=124
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=125|end_char=128
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=129|end_char=137
+7	of	of	ADP	IN	_	9	case	_	start_char=138|end_char=140
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=141|end_char=144
+9	complex	complex	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=145|end_char=152
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=153|end_char=156
+11	world	world	NOUN	NN	Number=Sing	9	nsubj	_	start_char=157|end_char=162
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=163|end_char=165
+13	.	.	PUNCT	.	_	1	punct	_	start_char=165|end_char=166
+

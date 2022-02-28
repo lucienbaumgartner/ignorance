@@ -1,0 +1,25 @@
+1	nothing	nothing	PRON	NN	Number=Sing	0	root	_	start_char=0|end_char=7
+2	,	,	PUNCT	,	_	1	punct	_	start_char=7|end_char=8
+3	kinda	kinda	ADV	RB	Degree=Pos	1	advmod	_	start_char=9|end_char=14
+4	like	like	ADP	IN	_	8	mark	_	start_char=15|end_char=19
+5	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=20|end_char=24
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=25|end_char=28
+7	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=28|end_char=31
+8	asleep	asleep	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=32|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=43|end_char=50
+11	of	of	ADP	IN	_	12	case	_	start_char=51|end_char=53
+12	anything	anything	NOUN	NN	Number=Sing	10	obl	_	start_char=54|end_char=62
+13	going	go	VERB	VBG	VerbForm=Ger	12	acl	_	start_char=63|end_char=68
+14	on	on	ADP	RP	_	13	compound:prt	_	start_char=69|end_char=71
+15	at	at	ADP	IN	_	16	case	_	start_char=72|end_char=74
+16	all	all	DET	DT	_	13	obl	_	start_char=75|end_char=78
+17	,	,	PUNCT	,	_	20	punct	_	start_char=78|end_char=79
+18	so	so	ADV	RB	_	20	advmod	_	start_char=80|end_char=82
+19	like	like	ADP	IN	_	20	case	_	start_char=83|end_char=87
+20	sleep	sleep	NOUN	NN	Number=Sing	13	obl	_	start_char=88|end_char=93
+21	but	but	CCONJ	CC	_	23	cc	_	start_char=94|end_char=97
+22	without	without	SCONJ	IN	_	23	mark	_	start_char=98|end_char=105
+23	dreaming	dream	VERB	VBG	VerbForm=Ger	20	conj	_	start_char=106|end_char=114
+24	.	.	PUNCT	.	_	1	punct	_	start_char=114|end_char=115
+

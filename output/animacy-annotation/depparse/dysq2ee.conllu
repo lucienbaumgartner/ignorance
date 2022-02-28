@@ -1,0 +1,44 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=2|end_char=6
+3	got	get	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=10
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=11|end_char=13
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	_	start_char=14|end_char=18
+6	with	with	ADP	IN	_	7	case	_	start_char=19|end_char=23
+7	propofol	propofol	NOUN	NN	Number=Sing	5	obl	_	start_char=24|end_char=32
+8	before	before	ADV	RB	_	5	advmod	_	start_char=33|end_char=39
+9	.	.	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+
+1	Totally	totally	ADV	RB	_	2	advmod	_	start_char=41|end_char=48
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=56
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=57|end_char=60
+4	asleep	asleep	ADJ	JJ	Degree=Pos	2	conj	_	start_char=61|end_char=67
+5	through	through	ADP	IN	_	8	case	_	start_char=68|end_char=75
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=76|end_char=79
+7	whole	whole	ADJ	JJ	Degree=Pos	8	amod	_	start_char=80|end_char=85
+8	thing	thing	NOUN	NN	Number=Sing	2	obl	_	start_char=86|end_char=91
+9	.	.	PUNCT	.	_	2	punct	_	start_char=91|end_char=92
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=93|end_char=94
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=95|end_char=97
+3	in	in	ADP	IN	_	5	case	_	start_char=98|end_char=100
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=101|end_char=104
+5	US	US	PROPN	NNP	Number=Sing	0	root	_	start_char=105|end_char=107
+6	so	so	ADV	RB	_	10	advmod	_	start_char=108|end_char=110
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=111|end_char=112
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=113|end_char=115
+9	n't	not	PART	RB	_	10	advmod	_	start_char=115|end_char=118
+10	have	have	VERB	VB	VerbForm=Inf	5	conj	_	start_char=119|end_char=123
+11	experience	experience	NOUN	NN	Number=Sing	10	obj	_	start_char=124|end_char=134
+12	in	in	SCONJ	IN	_	15	mark	_	start_char=135|end_char=137
+13	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=138|end_char=141
+14	to	to	PART	TO	_	15	mark	_	start_char=142|end_char=144
+15	make	make	VERB	VB	VerbForm=Inf	11	acl	_	start_char=145|end_char=149
+16	that	that	PRON	DT	Number=Sing|PronType=Dem	15	obj	_	start_char=150|end_char=154
+17	happen	happen	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=155|end_char=161
+18	in	in	ADP	IN	_	20	case	_	start_char=162|end_char=164
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=165|end_char=168
+20	UK	UK	PROPN	NNP	Number=Sing	17	obl	_	start_char=169|end_char=171
+21	,	,	PUNCT	,	_	22	punct	_	start_char=171|end_char=172
+22	sorry	sorry	ADJ	JJ	Degree=Pos	15	discourse	_	start_char=173|end_char=178
+23	.	.	PUNCT	.	_	5	punct	_	start_char=178|end_char=179
+

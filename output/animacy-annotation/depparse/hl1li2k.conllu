@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	debate	debate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=8
+3	with	with	ADP	IN	_	5	case	_	start_char=9|end_char=13
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=14|end_char=15
+5	theology	theology	NOUN	NN	Number=Sing	2	obl	_	start_char=16|end_char=24
+6	major	major	ADJ	JJ	Degree=Pos	5	amod	_	start_char=25|end_char=30
+7	almost	almost	ADV	RB	_	9	advmod	_	start_char=31|end_char=37
+8	every	every	DET	DT	_	9	det	_	start_char=38|end_char=43
+9	day	day	NOUN	NN	Number=Sing	2	obl:tmod	_	start_char=44|end_char=47
+10	at	at	ADP	IN	_	12	case	_	start_char=48|end_char=50
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=51|end_char=53
+12	job	job	NOUN	NN	Number=Sing	2	obl	_	start_char=54|end_char=57
+13	..	..	PUNCT	.	_	2	punct	_	start_char=57|end_char=59
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=61|end_char=63
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=64|end_char=67
+3	no	no	DET	DT	_	4	det	_	start_char=68|end_char=70
+4	belief	belief	NOUN	NN	Number=Sing	2	obj	_	start_char=71|end_char=77
+
+1	In	in	ADP	IN	_	2	case	_	start_char=78|end_char=80
+2	aliens	alien	NOUN	NNS	Number=Plur	0	root	_	start_char=81|end_char=87
+3	/	/	SYM	,	_	4	cc	_	start_char=87|end_char=88
+4	extraterrestrials	extraterrestrial	NOUN	NNS	Number=Plur	2	conj	_	start_char=88|end_char=105
+5	whatsoever	whatsoever	ADV	RB	_	2	advmod	_	start_char=106|end_char=116
+6	.	.	PUNCT	.	_	2	punct	_	start_char=116|end_char=117
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=118|end_char=119
+2	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=120|end_char=123
+3	to	to	PART	TO	_	4	mark	_	start_char=124|end_char=126
+4	explain	explain	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=127|end_char=134
+5	to	to	ADP	IN	_	6	case	_	start_char=135|end_char=137
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=138|end_char=141
+7	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=142|end_char=145
+8	terribly	terribly	ADV	RB	_	9	advmod	_	start_char=146|end_char=154
+9	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	start_char=155|end_char=161
+10	minded	minded	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=162|end_char=168
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=169|end_char=172
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=173|end_char=181
+13	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=182|end_char=186
+14	assumption	assumption	NOUN	NN	Number=Sing	15	nsubj	_	start_char=187|end_char=197
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=198|end_char=200
+16	..	..	PUNCT	,	_	2	punct	_	start_char=200|end_char=202
+17	no	no	DET	DT	_	18	det	_	start_char=203|end_char=205
+18	luck	luck	NOUN	NN	Number=Sing	2	parataxis	_	start_char=206|end_char=210
+

@@ -1,0 +1,17 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=0|end_char=3
+2	most	most	ADV	RBS	Degree=Sup	3	advmod	_	start_char=4|end_char=8
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=9|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	offensive	offensive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=31
+6	argument	argument	NOUN	NN	Number=Sing	8	nsubj	_	start_char=32|end_char=40
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=41|end_char=43
+8	thinking	think	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=44|end_char=52
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=53|end_char=57
+10	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=58|end_char=64
+11	ca	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=65|end_char=67
+12	n’t	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=67|end_char=70
+13	afford	afford	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=71|end_char=77
+14	or	or	CCONJ	CC	_	15	cc	_	start_char=78|end_char=80
+15	obtain	obtain	VERB	VB	VerbForm=Inf	13	conj	_	start_char=81|end_char=87
+16	IDs	id	NOUN	NNS	Number=Plur	13	obj	_	start_char=88|end_char=91
+

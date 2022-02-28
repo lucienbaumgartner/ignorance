@@ -1,0 +1,19 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	presaved	presave	VERB	VBN	Tense=Past|VerbForm=Part	6	csubj	_	start_char=5|end_char=13
+3	by	by	ADP	IN	_	4	case	_	start_char=14|end_char=16
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=17|end_char=18
+5	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=21
+6	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=25
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=26|end_char=29
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=30|end_char=37
+9	of	of	ADP	IN	_	10	case	_	start_char=38|end_char=40
+10	what	what	DET	WDT	PronType=Int	8	obl	_	start_char=41|end_char=45
+11	pre-saving	pre-saving	NOUN	NN	Number=Sing	12	nsubj	_	start_char=46|end_char=56
+12	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=57|end_char=61
+13	.	.	PUNCT	.	_	6	punct	_	start_char=61|end_char=62
+
+1	Can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=63|end_char=66
+2	anyone	anyone	PRON	NN	Number=Sing	3	nsubj	_	start_char=67|end_char=73
+3	explain	explain	VERB	VB	VerbForm=Inf	0	root	_	start_char=74|end_char=81
+4	?	?	PUNCT	.	_	3	punct	_	start_char=81|end_char=82
+

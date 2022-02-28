@@ -1,0 +1,11 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	7	advmod	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	5	cc	_	start_char=8|end_char=11
+3	poor	poor	ADJ	JJ	Degree=Pos	4	amod	_	start_char=12|end_char=16
+4	mannered	mannered	ADJ	JJ	Degree=Pos	5	amod	_	start_char=17|end_char=25
+5	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=26|end_char=32
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=33|end_char=36
+7	annoying	annoying	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=45
+8	,	,	PUNCT	,	_	7	punct	_	start_char=45|end_char=46
+9	yes	yes	INTJ	UH	_	7	discourse	_	start_char=47|end_char=50
+10	.	.	PUNCT	.	_	7	punct	_	start_char=50|end_char=51
+

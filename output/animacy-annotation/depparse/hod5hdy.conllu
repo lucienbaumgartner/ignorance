@@ -1,0 +1,11 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	unskilled	unskilled	ADJ	JJ	Degree=Pos	0	root	_	start_char=1|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=22
+5	of	of	ADP	IN	_	6	case	_	start_char=23|end_char=25
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=26|end_char=28
+7	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=28|end_char=29
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=29|end_char=30
+2	https://pubmed.ncbi.nlm.nih.gov/10626367/)	https://pubmed.ncbi.nlm.nih.gov/10626367/)	X	ADD	_	0	root	_	start_char=30|end_char=72
+

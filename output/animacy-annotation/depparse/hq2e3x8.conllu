@@ -1,0 +1,49 @@
+1	Actually	actually	ADV	RB	_	4	advmod	_	start_char=0|end_char=8
+2	Russell	Russell	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=9|end_char=16
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=17|end_char=19
+4	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=20|end_char=26
+5	around	around	ADV	RB	_	4	advmod	_	start_char=27|end_char=33
+6	.	.	PUNCT	.	_	4	punct	_	start_char=33|end_char=34
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=35|end_char=37
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=38|end_char=42
+3	to	to	PART	TO	_	7	mark	_	start_char=43|end_char=45
+4	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=46|end_char=48
+5	WAY	way	ADV	RB	_	6	advmod	_	start_char=49|end_char=52
+6	more	more	ADV	RBR	_	7	advmod	_	start_char=53|end_char=57
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=58|end_char=66
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=67|end_char=70
+9	liberal	liberal	ADJ	JJ	Degree=Pos	7	conj	_	start_char=71|end_char=78
+10	.	.	PUNCT	.	_	2	punct	_	start_char=78|end_char=79
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=80|end_char=81
+2	watch	watch	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=82|end_char=87
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=88|end_char=91
+4	show	show	NOUN	NN	Number=Sing	2	obj	_	start_char=92|end_char=96
+5	pretty	pretty	ADV	RB	_	6	advmod	_	start_char=97|end_char=103
+6	regularly	regularly	ADV	RB	_	2	advmod	_	start_char=104|end_char=113
+7	on	on	ADP	IN	_	8	case	_	start_char=114|end_char=116
+8	Rumble	Rumble	PROPN	NNP	Number=Sing	2	obl	_	start_char=117|end_char=123
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=124|end_char=127
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=128|end_char=129
+11	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=130|end_char=134
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=135|end_char=138
+13	entertaining	entertaining	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=139|end_char=151
+14	and	and	CCONJ	CC	_	16	cc	_	start_char=152|end_char=155
+15	pretty	pretty	ADV	RB	_	16	advmod	_	start_char=156|end_char=162
+16	smart	smart	ADJ	JJ	Degree=Pos	13	conj	_	start_char=163|end_char=168
+17	.	.	PUNCT	.	_	2	punct	_	start_char=168|end_char=169
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=170|end_char=173
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=174|end_char=177
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=178|end_char=181
+4	conservatism	conservatism	NOUN	NN	Number=Sing	3	obj	_	start_char=182|end_char=194
+5	creeping	creep	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=195|end_char=203
+6	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=204|end_char=207
+7	way	way	NOUN	NN	Number=Sing	5	obj	_	start_char=208|end_char=211
+8	into	into	ADP	IN	_	11	case	_	start_char=212|end_char=216
+9	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=217|end_char=220
+10	thought	thought	NOUN	NN	Number=Sing	11	compound	_	start_char=221|end_char=228
+11	process	process	NOUN	NN	Number=Sing	5	obl	_	start_char=229|end_char=236
+12	.	.	PUNCT	.	_	3	punct	_	start_char=236|end_char=237
+

@@ -1,0 +1,25 @@
+1	Jesus	Jesus	PROPN	NNP	Number=Sing	6	vocative	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	6	punct	_	start_char=5|end_char=6
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	start_char=7|end_char=9
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=9|end_char=11
+5	almost	almost	ADV	RB	_	6	advmod	_	start_char=12|end_char=18
+6	impressive	impressive	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=29
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=30|end_char=33
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=34|end_char=41
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=42|end_char=45
+10	oblivious	oblivious	ADJ	JJ	Degree=Pos	8	conj	_	start_char=46|end_char=55
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=56|end_char=59
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=60|end_char=63
+13	.	.	PUNCT	.	_	6	punct	_	start_char=63|end_char=64
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=65|end_char=68
+2	biased	biased	ADJ	JJ	Degree=Pos	3	amod	_	start_char=69|end_char=75
+3	liberals	liberal	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=76|end_char=84
+4	tend	tend	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=85|end_char=89
+5	to	to	PART	TO	_	6	mark	_	start_char=90|end_char=92
+6	exhibit	exhibit	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=93|end_char=100
+7	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=101|end_char=106
+8	character	character	NOUN	NN	Number=Sing	9	compound	_	start_char=107|end_char=116
+9	traits	trait	NOUN	NNS	Number=Plur	6	obj	_	start_char=117|end_char=123
+10	.	.	PUNCT	.	_	4	punct	_	start_char=123|end_char=124
+

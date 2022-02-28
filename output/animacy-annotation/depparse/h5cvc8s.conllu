@@ -1,0 +1,35 @@
+1	Callous	Callous	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	unnecessary	unnecessary	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=23
+4	.	.	PUNCT	.	_	1	punct	_	start_char=23|end_char=24
+
+1	Brutally	brutally	ADV	RB	_	2	advmod	_	start_char=25|end_char=33
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=41
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=42|end_char=45
+4	rude	rude	ADJ	JJ	Degree=Pos	2	conj	_	start_char=46|end_char=50
+5	.	.	PUNCT	.	_	2	punct	_	start_char=50|end_char=51
+
+1	Zero	Zero	ADJ	JJ	Degree=Pos	2	amod	_	start_char=52|end_char=56
+2	understanding	understanding	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=70
+3	.	.	PUNCT	.	_	2	punct	_	start_char=70|end_char=71
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=73|end_char=79
+2	refrain	refrain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=80|end_char=87
+3	from	from	SCONJ	IN	_	4	mark	_	start_char=88|end_char=92
+4	commenting	comment	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=93|end_char=103
+5	on	on	ADP	IN	_	6	case	_	start_char=104|end_char=106
+6	affairs	affair	NOUN	NNS	Number=Plur	4	obl	_	start_char=107|end_char=114
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=115|end_char=118
+8	clearly	clearly	ADV	RB	_	11	advmod	_	start_char=119|end_char=126
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=127|end_char=129
+10	n’t	not	PART	RB	_	11	advmod	_	start_char=129|end_char=132
+11	understand	understand	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=133|end_char=143
+12	.	.	PUNCT	.	_	2	punct	_	start_char=143|end_char=144
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=145|end_char=148
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=149|end_char=152
+3	hurting	hurt	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=153|end_char=160
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	_	start_char=161|end_char=166
+5	humans	human	NOUN	NNS	Number=Plur	3	obj	_	start_char=167|end_char=173
+6	.	.	PUNCT	.	_	3	punct	_	start_char=173|end_char=174
+

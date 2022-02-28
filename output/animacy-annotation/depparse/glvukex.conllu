@@ -1,0 +1,20 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	lot	lot	NOUN	NN	Number=Sing	9	nsubj	_	start_char=2|end_char=5
+3	of	of	ADP	IN	_	4	case	_	start_char=6|end_char=8
+4	people	people	NOUN	NNS	Number=Plur	2	nmod	_	start_char=9|end_char=15
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=16|end_char=20
+6	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=21|end_char=25
+7	help	help	NOUN	NN	Number=Sing	6	obj	_	start_char=26|end_char=30
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=31|end_char=34
+9	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=38
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=39|end_char=42
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=43|end_char=50
+12	of	of	ADP	IN	_	13	case	_	start_char=51|end_char=53
+13	shortcuts	shortcut	NOUN	NNS	Number=Plur	11	obl	_	start_char=54|end_char=63
+14	.	.	PUNCT	.	_	9	punct	_	start_char=63|end_char=64
+
+1	Cut	cut	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=65|end_char=68
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	iobj	_	start_char=69|end_char=73
+3	some	some	DET	DT	_	4	det	_	start_char=74|end_char=78
+4	slack	slack	NOUN	NN	Number=Sing	1	obj	_	start_char=79|end_char=84
+

@@ -1,0 +1,14 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=0|end_char=1
+2	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=2|end_char=6
+3	individual	individual	NOUN	NN	Number=Sing	5	nsubj	_	start_char=7|end_char=17
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=18|end_char=28
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=37
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=38|end_char=41
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=42|end_char=49
+8	of	of	ADP	IN	_	10	case	_	start_char=50|end_char=52
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=53|end_char=56
+10	events	event	NOUN	NNS	Number=Plur	7	obl	_	start_char=57|end_char=63
+11	occurring	occur	VERB	VBG	VerbForm=Ger	10	acl	_	start_char=64|end_char=73
+12	around	around	ADP	IN	_	13	case	_	start_char=74|end_char=80
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=81|end_char=84
+

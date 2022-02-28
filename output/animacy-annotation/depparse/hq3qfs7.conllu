@@ -1,0 +1,24 @@
+1	lol	lol	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	at	at	ADP	IN	_	5	case	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=7|end_char=10
+4	Roll	Roll	PROPN	NNP	Number=Sing	5	compound	_	start_char=11|end_char=15
+5	Tide	Tide	PROPN	NNP	Number=Sing	0	root	_	start_char=16|end_char=20
+6	.	.	PUNCT	.	_	5	punct	_	start_char=20|end_char=21
+
+1	“	''	PUNCT	``	_	4	punct	_	start_char=22|end_char=23
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=23|end_char=24
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=24|end_char=26
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=35
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=36|end_char=39
+6	selfish	selfish	ADJ	JJ	Degree=Pos	4	conj	_	start_char=40|end_char=47
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=48|end_char=51
+8	proud	proud	ADJ	JJ	Degree=Pos	4	conj	_	start_char=52|end_char=57
+9	of	of	ADP	IN	_	10	case	_	start_char=58|end_char=60
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=61|end_char=63
+11	!	!	PUNCT	.	_	4	punct	_	start_char=63|end_char=64
+
+1	Roll	Roll	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=65|end_char=69
+2	Tide	Tide	PROPN	NNP	Number=Sing	1	obj	_	start_char=70|end_char=74
+3	!	!	PUNCT	.	_	1	punct	_	start_char=74|end_char=75
+4	”	''	PUNCT	''	_	1	punct	_	start_char=75|end_char=76
+

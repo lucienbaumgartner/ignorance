@@ -1,0 +1,22 @@
+1	Thats	thats	INTJ	UH	_	5	discourse	_	start_char=0|end_char=5
+2	basically	basically	ADV	RB	_	5	advmod	_	start_char=6|end_char=15
+3	Peggy	Peggy	PROPN	NNP	Number=Sing	5	nmod:poss	_	start_char=16|end_char=21
+4	's	's	PART	POS	_	3	case	_	start_char=21|end_char=23
+5	character	character	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=33
+6	.	.	PUNCT	.	_	5	punct	_	start_char=33|end_char=34
+
+1	Hypocritical	hypocritical	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=47
+2	,	,	PUNCT	,	_	3	punct	_	start_char=47|end_char=48
+3	arrogant	arrogant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=49|end_char=57
+4	,	,	PUNCT	,	_	5	punct	_	start_char=57|end_char=58
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=59|end_char=67
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=68|end_char=71
+7	narcissistic	narcissistic	ADJ	JJ	Degree=Pos	1	conj	_	start_char=72|end_char=84
+8	.	.	PUNCT	.	_	1	punct	_	start_char=84|end_char=85
+
+1	Can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=86|end_char=89
+2	still	still	ADV	RB	_	3	advmod	_	start_char=90|end_char=95
+3	provide	provide	VERB	VB	VerbForm=Inf	0	root	_	start_char=96|end_char=103
+4	some	some	DET	DT	_	5	det	_	start_char=104|end_char=108
+5	laughs	laugh	NOUN	NNS	Number=Plur	3	obj	_	start_char=109|end_char=115
+

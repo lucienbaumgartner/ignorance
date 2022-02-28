@@ -1,0 +1,19 @@
+1	Anyone	anyone	PRON	NN	Number=Sing	12	nsubj	_	start_char=0|end_char=6
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=7|end_char=10
+3	calls	call	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=11|end_char=16
+4	others	other	NOUN	NNS	Number=Plur	3	obj	_	start_char=17|end_char=23
+5	idiots	idiot	NOUN	NNS	Number=Plur	3	obj	_	start_char=24|end_char=30
+6	to	to	PART	TO	_	7	mark	_	start_char=31|end_char=33
+7	make	make	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=34|end_char=38
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=39|end_char=40
+9	point	point	NOUN	NN	Number=Sing	7	obj	_	start_char=41|end_char=46
+10	…	…	PUNCT	,	_	12	punct	_	start_char=46|end_char=47
+11	just	just	ADV	RB	_	12	advmod	_	start_char=47|end_char=51
+12	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=57
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	obj	_	start_char=58|end_char=61
+14	sound	sound	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=62|end_char=67
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=68|end_char=76
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=77|end_char=80
+17	angry	angry	ADJ	JJ	Degree=Pos	15	conj	_	start_char=81|end_char=86
+18	.	.	PUNCT	.	_	12	punct	_	start_char=86|end_char=87
+

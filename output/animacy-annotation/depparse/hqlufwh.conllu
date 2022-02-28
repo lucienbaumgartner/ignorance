@@ -1,0 +1,35 @@
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=5
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+4	vaccinated	vaccinate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=8|end_char=18
+5	?	?	PUNCT	.	_	4	punct	_	start_char=18|end_char=19
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=20|end_char=23
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=23|end_char=26
+3	just	just	ADV	RB	_	4	advmod	_	start_char=27|end_char=31
+4	chosen	choose	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=32|end_char=38
+5	to	to	PART	TO	_	6	mark	_	start_char=39|end_char=41
+6	ignore	ignore	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=42|end_char=48
+7	any	any	DET	DT	_	8	det	_	start_char=49|end_char=52
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	start_char=53|end_char=64
+9	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=65|end_char=69
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=70|end_char=74
+11	n't	not	PART	RB	_	12	advmod	_	start_char=74|end_char=77
+12	fit	fit	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=78|end_char=81
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=82|end_char=86
+14	world	world	NOUN	NN	Number=Sing	16	compound	_	start_char=87|end_char=92
+15	-	-	PUNCT	HYPH	_	16	punct	_	start_char=92|end_char=93
+16	view	view	NOUN	NN	Number=Sing	12	obj	_	start_char=93|end_char=97
+17	.	.	PUNCT	.	_	4	punct	_	start_char=97|end_char=98
+
+1	In	in	ADP	IN	_	3	case	_	start_char=99|end_char=101
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	_	start_char=102|end_char=107
+3	words	word	NOUN	NNS	Number=Plur	5	obl	_	start_char=108|end_char=113
+4	,	,	PUNCT	,	_	5	punct	_	start_char=113|end_char=114
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=115|end_char=123
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=124|end_char=127
+7	proud	proud	ADJ	JJ	Degree=Pos	5	conj	_	start_char=128|end_char=133
+8	of	of	ADP	IN	_	9	case	_	start_char=134|end_char=136
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=137|end_char=139
+10	.	.	PUNCT	.	_	5	punct	_	start_char=139|end_char=140
+

@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=4|end_char=7
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=13
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=14|end_char=16
+6	ought	ought	AUX	MD	VerbForm=Fin	4	ccomp	_	start_char=17|end_char=22
+7	to	to	PART	TO	_	8	mark	_	start_char=23|end_char=25
+8	have	have	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=26|end_char=30
+9	patience	patience	NOUN	NN	Number=Sing	8	obj	_	start_char=31|end_char=39
+10	for	for	ADP	IN	_	11	case	_	start_char=40|end_char=43
+11	those	that	PRON	DT	Number=Plur|PronType=Dem	9	nmod	_	start_char=44|end_char=49
+12	who	who	PRON	WP	PronType=Rel	15	nsubj	_	start_char=50|end_char=53
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=54|end_char=57
+14	both	both	ADV	RB	_	15	advmod	_	start_char=58|end_char=62
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	acl:relcl	_	start_char=63|end_char=71
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=72|end_char=75
+17	pretentious	pretentious	ADJ	JJ	Degree=Pos	15	conj	_	start_char=76|end_char=87
+18	.	.	PUNCT	.	_	4	punct	_	start_char=87|end_char=88
+
+1	Better	better	ADJ	JJR	Degree=Cmp	0	root	_	start_char=89|end_char=95
+2	to	to	PART	TO	_	3	mark	_	start_char=96|end_char=98
+3	make	make	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=99|end_char=103
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=104|end_char=108
+5	feel	feel	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=109|end_char=113
+6	ashamed	ashamed	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=114|end_char=121
+7	.	.	PUNCT	.	_	1	punct	_	start_char=121|end_char=122
+

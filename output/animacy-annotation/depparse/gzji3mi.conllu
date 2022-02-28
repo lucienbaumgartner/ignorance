@@ -1,0 +1,29 @@
+1	Ah	ah	INTJ	UH	_	6	discourse	_	start_char=0|end_char=2
+2	right	right	INTJ	UH	_	6	discourse	_	start_char=3|end_char=8
+3	,	,	PUNCT	,	_	6	punct	_	start_char=8|end_char=9
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=10|end_char=11
+5	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=13
+6	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=17
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=18|end_char=21
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=22|end_char=29
+9	of	of	ADP	IN	_	10	case	_	start_char=30|end_char=32
+10	what	what	DET	WDT	PronType=Int	6	obl	_	start_char=33|end_char=37
+11	170g	170g	NUM	CD	NumType=Card	15	nsubj	_	start_char=38|end_char=42
+12	of	of	ADP	IN	_	13	case	_	start_char=43|end_char=45
+13	edibles	edible	NOUN	NNS	Number=Plur	11	nmod	_	start_char=46|end_char=53
+14	even	even	ADV	RB	_	15	advmod	_	start_char=54|end_char=58
+15	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=59|end_char=64
+16	like	like	ADP	IN	_	15	obl	_	start_char=65|end_char=69
+17	,	,	PUNCT	,	_	18	punct	_	start_char=69|end_char=70
+18	imagines	imagine	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	start_char=71|end_char=79
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=80|end_char=82
+20	to	to	PART	TO	_	22	mark	_	start_char=83|end_char=85
+21	be	be	AUX	VB	VerbForm=Inf	22	cop	_	start_char=86|end_char=88
+22	more	more	ADV	RBR	_	18	xcomp	_	start_char=89|end_char=93
+23	.	.	PUNCT	.	_	6	punct	_	start_char=93|end_char=94
+
+1	Carry	Carry	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=95|end_char=100
+2	on	on	ADP	RP	_	1	compound:prt	_	start_char=101|end_char=103
+3	so	so	ADV	RB	_	1	advmod	_	start_char=104|end_char=106
+4	.	.	PUNCT	.	_	1	punct	_	start_char=106|end_char=107
+

@@ -1,0 +1,29 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	advocate	advocate	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=20
+5	for	for	SCONJ	IN	_	6	mark	_	start_char=21|end_char=24
+6	pretending	pretend	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=25|end_char=35
+7	Nazis	Nazi	PROPN	NNPS	Number=Plur	9	nsubj	_	start_char=36|end_char=41
+8	never	never	ADV	RB	_	9	advmod	_	start_char=42|end_char=47
+9	existed	exist	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=55
+10	.	.	PUNCT	.	_	2	punct	_	start_char=55|end_char=56
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=58|end_char=62
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=63|end_char=66
+3	only	only	ADV	RB	_	4	advmod	_	start_char=67|end_char=71
+4	lead	lead	VERB	VB	VerbForm=Inf	0	root	_	start_char=72|end_char=76
+5	to	to	SCONJ	IN	_	7	mark	_	start_char=77|end_char=79
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=80|end_char=85
+7	unaware	unaware	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=86|end_char=93
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=94|end_char=97
+9	unprepared	unprepared	ADJ	JJ	Degree=Pos	7	conj	_	start_char=98|end_char=108
+10	when	when	SCONJ	WRB	PronType=Int	16	mark	_	start_char=109|end_char=113
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=114|end_char=117
+12	next	next	ADJ	JJ	Degree=Pos	13	amod	_	start_char=118|end_char=122
+13	iteration	iteration	NOUN	NN	Number=Sing	16	nsubj	_	start_char=123|end_char=132
+14	of	of	ADP	IN	_	15	case	_	start_char=133|end_char=135
+15	fascism	fascism	NOUN	NN	Number=Sing	13	nmod	_	start_char=136|end_char=143
+16	arrives	arrive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=144|end_char=151
+17	.	.	PUNCT	.	_	4	punct	_	start_char=151|end_char=152
+

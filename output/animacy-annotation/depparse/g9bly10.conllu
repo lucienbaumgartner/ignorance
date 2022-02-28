@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	Republican	Republican	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=14
+3	party	party	NOUN	NN	Number=Sing	4	nsubj	_	start_char=15|end_char=20
+4	convinced	convince	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=21|end_char=30
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=31|end_char=34
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	4	obj	_	start_char=35|end_char=45
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=46|end_char=49
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=50|end_char=58
+9	that	that	SCONJ	IN	_	16	mark	_	start_char=59|end_char=63
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=64|end_char=69
+11	misinformed	misinformed	ADJ	JJ	Degree=Pos	12	amod	_	start_char=70|end_char=81
+12	opinion	opinion	NOUN	NN	Number=Sing	16	nsubj	_	start_char=82|end_char=89
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=90|end_char=93
+14	just	just	ADV	RB	_	16	advmod	_	start_char=94|end_char=98
+15	as	as	ADV	RB	_	16	advmod	_	start_char=99|end_char=101
+16	good	good	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=102|end_char=106
+17	as	as	ADP	IN	_	18	case	_	start_char=107|end_char=109
+18	that	that	PRON	DT	Number=Sing|PronType=Dem	16	obl	_	start_char=110|end_char=114
+19	of	of	ADP	IN	_	21	case	_	start_char=115|end_char=117
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=118|end_char=121
+21	experts	expert	NOUN	NNS	Number=Plur	18	nmod	_	start_char=122|end_char=129
+22	.	.	PUNCT	.	_	4	punct	_	start_char=129|end_char=130
+

@@ -1,0 +1,28 @@
+1	Oh	oh	INTJ	UH	_	12	discourse	_	start_char=0|end_char=2
+2	no	no	DET	DT	_	3	det	_	start_char=3|end_char=5
+3	someone	someone	NOUN	NN	Number=Sing	12	nsubj	_	start_char=6|end_char=13
+4	on	on	ADP	IN	_	6	case	_	start_char=14|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	internet	internet	NOUN	NN	Number=Sing	3	nmod	_	start_char=21|end_char=29
+7	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=30|end_char=33
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=34|end_char=38
+9	n't	not	PART	RB	_	10	advmod	_	start_char=38|end_char=41
+10	know	know	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=42|end_char=46
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	start_char=47|end_char=49
+12	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=50|end_char=56
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=57|end_char=58
+14	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=58|end_char=60
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=61|end_char=69
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=70|end_char=73
+17	delusional	delusional	ADJ	JJ	Degree=Pos	15	conj	_	start_char=74|end_char=84
+18	.	.	PUNCT	.	_	12	punct	_	start_char=84|end_char=85
+
+1	What	what	PRON	WP	PronType=Int	5	obj	_	start_char=87|end_char=91
+2	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=92|end_char=96
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=97|end_char=98
+4	ever	ever	ADV	RB	_	5	advmod	_	start_char=99|end_char=103
+5	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=104|end_char=106
+6	.	.	PUNCT	.	_	5	punct	_	start_char=106|end_char=107
+
+1	Lol	lol	INTJ	UH	_	0	root	_	start_char=109|end_char=112
+

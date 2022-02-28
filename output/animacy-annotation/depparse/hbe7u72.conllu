@@ -1,0 +1,40 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=5
+3	truly	truly	ADV	RB	_	4	advmod	_	start_char=6|end_char=11
+4	remarkable	remarkable	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=22
+5	just	just	ADV	RB	_	7	advmod	_	start_char=23|end_char=27
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=28|end_char=31
+7	shortsighted	shortsighted	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=32|end_char=44
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=45|end_char=48
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=49|end_char=57
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=58|end_char=62
+11	comment	comment	NOUN	NN	Number=Sing	12	nsubj	_	start_char=63|end_char=70
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=71|end_char=73
+13	.	.	PUNCT	.	_	4	punct	_	start_char=73|end_char=74
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=76|end_char=77
+2	’ll	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=77|end_char=80
+3	leave	leave	VERB	VB	VerbForm=Inf	0	root	_	start_char=81|end_char=86
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=87|end_char=90
+5	with	with	ADP	IN	_	7	case	_	start_char=91|end_char=95
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=96|end_char=99
+7	words	word	NOUN	NNS	Number=Plur	3	obl	_	start_char=100|end_char=105
+8	of	of	ADP	IN	_	9	case	_	start_char=106|end_char=108
+9	those	that	PRON	DT	Number=Plur|PronType=Dem	7	nmod	_	start_char=109|end_char=114
+10	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=115|end_char=118
+11	framed	frame	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=119|end_char=125
+12	modern	modern	ADJ	JJ	Degree=Pos	13	amod	_	start_char=126|end_char=132
+13	democracy	democracy	NOUN	NN	Number=Sing	11	obj	_	start_char=133|end_char=142
+14	,	,	PUNCT	,	_	3	punct	_	start_char=142|end_char=143
+
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=146|end_char=147
+
+1	Ci	ci	X	FW	_	2	compound	_	start_char=147|end_char=149
+2	vis	vis	X	FW	_	0	root	_	start_char=150|end_char=153
+3	pacem	pacem	X	FW	_	2	flat	_	start_char=154|end_char=159
+4	,	,	PUNCT	,	_	5	punct	_	start_char=159|end_char=160
+5	para	para	X	FW	_	3	list	_	start_char=161|end_char=165
+6	bellum	bellum	X	FW	_	5	flat	_	start_char=166|end_char=172
+7	.	.	PUNCT	.	_	2	punct	_	start_char=172|end_char=173
+8	*	*	PUNCT	NFP	_	2	punct	_	start_char=173|end_char=174
+

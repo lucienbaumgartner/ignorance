@@ -1,0 +1,33 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	outdated	outdated	ADJ	JJ	Degree=Pos	0	root	_	start_char=1|end_char=9
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=9|end_char=10
+4	(	(	PUNCT	-LRB-	_	5	punct	_	start_char=10|end_char=11
+5	https://www.capitolhillseattle.com/2021/07/no-trespassing-accountability-office-recommends-firing-two-of-six-seattle-police-officers-in-january-6th-investigation/)	https://www.capitolhillseattle.com/2021/07/no-trespassing-accountability-office-recommends-firing-two-of-six-seattle-police-officers-in-january-6th-investigation/)	X	ADD	_	2	list	_	start_char=11|end_char=174
+6	article	article	NOUN	NN	Number=Sing	5	flat	_	start_char=175|end_char=182
+7	,	,	PUNCT	,	_	2	punct	_	start_char=182|end_char=183
+8	so	so	ADV	RB	_	14	advmod	_	start_char=184|end_char=186
+9	either	either	CCONJ	CC	_	14	cc:preconj	_	start_char=187|end_char=193
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=194|end_char=197
+11	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=197|end_char=200
+12	being	be	AUX	VBG	VerbForm=Ger	14	cop	_	start_char=201|end_char=206
+13	both	both	ADV	RB	_	14	advmod	_	start_char=207|end_char=211
+14	smug	smug	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=212|end_char=216
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=217|end_char=220
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=221|end_char=229
+17	of	of	ADP	IN	_	19	case	_	start_char=230|end_char=232
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=233|end_char=236
+19	situation	situation	NOUN	NN	Number=Sing	16	obl	_	start_char=237|end_char=246
+20	simultaneously	simultaneously	ADV	RB	_	14	advmod	_	start_char=247|end_char=261
+21	,	,	PUNCT	,	_	26	punct	_	start_char=261|end_char=262
+22	or	or	CCONJ	CC	_	26	cc	_	start_char=263|end_char=265
+23	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	26	nsubj	_	start_char=266|end_char=269
+24	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	aux	_	start_char=269|end_char=272
+25	being	be	AUX	VBG	VerbForm=Ger	26	cop	_	start_char=273|end_char=278
+26	dishonest	dishonest	ADJ	JJ	Degree=Pos	14	conj	_	start_char=279|end_char=288
+27	.	.	PUNCT	.	_	2	punct	_	start_char=288|end_char=289
+
+1	Neither	neither	DET	DT	_	3	nsubj	_	start_char=290|end_char=297
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=298|end_char=301
+3	great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=302|end_char=307
+4	.	.	PUNCT	.	_	3	punct	_	start_char=307|end_char=308
+

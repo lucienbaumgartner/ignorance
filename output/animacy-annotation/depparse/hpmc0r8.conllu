@@ -1,0 +1,10 @@
+1	Found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	yet	yet	CCONJ	CC	_	8	cc	_	start_char=6|end_char=9
+3	another	another	DET	DT	_	8	det	_	start_char=10|end_char=17
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=18|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	insufferable	insufferable	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=43
+7	Reddit	Reddit	NOUN	NN	Number=Sing	8	compound	_	start_char=44|end_char=50
+8	user	user	NOUN	NN	Number=Sing	1	obj	_	start_char=51|end_char=55
+9	.	.	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+

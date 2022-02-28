@@ -1,0 +1,46 @@
+1	Lol	lol	INTJ	UH	_	9	discourse	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	way	way	NOUN	NN	Number=Sing	9	nsubj	_	start_char=8|end_char=11
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=12|end_char=15
+5	write	write	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=16|end_char=21
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=22|end_char=26
+7	comment	comment	NOUN	NN	Number=Sing	5	obj	_	start_char=27|end_char=34
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=35|end_char=37
+9	include	include	VERB	VB	VerbForm=Inf	0	root	_	start_char=38|end_char=45
+10	more	more	ADJ	JJR	Degree=Cmp	11	amod	_	start_char=46|end_char=50
+11	propaganda	propaganda	NOUN	NN	Number=Sing	9	obj	_	start_char=51|end_char=61
+12	.	.	PUNCT	.	_	9	punct	_	start_char=61|end_char=62
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=63|end_char=64
+2	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=65|end_char=72
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=73|end_char=76
+4	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=77|end_char=84
+5	right	right	ADJ	JJ	Degree=Pos	6	amod	_	start_char=85|end_char=90
+6	wing	wing	NOUN	NN	Number=Sing	4	obj	_	start_char=91|end_char=95
+7	.	.	PUNCT	.	_	2	punct	_	start_char=95|end_char=96
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=100|end_char=101
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=101|end_char=103
+3	not	not	PART	RB	_	5	advmod	_	start_char=104|end_char=107
+4	gonna	gonna	ADV	RB	_	5	advmod	_	start_char=108|end_char=113
+5	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=114|end_char=117
+6	much	much	ADV	RB	_	5	obj	_	start_char=118|end_char=122
+7	but	but	CCONJ	CC	_	11	cc	_	start_char=123|end_char=126
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=127|end_char=131
+9	comment	comment	NOUN	NN	Number=Sing	11	nsubj	_	start_char=132|end_char=139
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=140|end_char=142
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=143|end_char=151
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=152|end_char=155
+13	rude	rude	ADJ	JJ	Degree=Pos	11	conj	_	start_char=156|end_char=160
+14	.	.	PUNCT	.	_	5	punct	_	start_char=160|end_char=161
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=162|end_char=164
+2	,	,	PUNCT	,	_	5	punct	_	start_char=164|end_char=165
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=166|end_char=167
+4	'll	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=167|end_char=170
+5	stop	stop	VERB	VB	VerbForm=Inf	0	root	_	start_char=171|end_char=175
+6	here	here	ADV	RB	PronType=Dem	5	advmod	_	start_char=176|end_char=180
+7	.	.	PUNCT	.	_	5	punct	_	start_char=180|end_char=181
+
+1	Bye	Bye	PROPN	NNP	Number=Sing	0	root	_	start_char=182|end_char=185
+

@@ -1,0 +1,19 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	rude	rude	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=24
+6	,	,	PUNCT	,	_	3	punct	_	start_char=24|end_char=25
+7	why	why	ADV	WRB	PronType=Int	10	advmod	_	start_char=26|end_char=29
+8	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=30|end_char=35
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=36|end_char=39
+10	deserve	deserve	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=40|end_char=47
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=48|end_char=49
+12	response	response	NOUN	NN	Number=Sing	10	obj	_	start_char=50|end_char=58
+13	when	when	SCONJ	WRB	PronType=Int	15	mark	_	start_char=59|end_char=63
+14	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=64|end_char=67
+15	behave	behave	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	start_char=68|end_char=74
+16	like	like	ADP	IN	_	17	case	_	start_char=75|end_char=79
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	15	obl	_	start_char=80|end_char=84
+18	?	?	PUNCT	.	_	3	punct	_	start_char=84|end_char=85
+

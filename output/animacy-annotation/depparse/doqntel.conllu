@@ -1,0 +1,50 @@
+1	TL	TL	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=2
+2	;	;	PUNCT	,	_	1	punct	_	start_char=2|end_char=3
+
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	start_char=3|end_char=5
+2	n't	not	PART	RB	_	3	advmod	_	start_char=5|end_char=8
+3	Buy	buy	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=9|end_char=12
+
+1	i3	i3	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=16
+2	+	+	SYM	SYM	_	3	cc	_	start_char=17|end_char=18
+3	4gb	4gb	NOUN	NN	Number=Sing	1	conj	_	start_char=19|end_char=22
+4	+	+	SYM	SYM	_	5	cc	_	start_char=23|end_char=24
+5	HDD	HDD	PROPN	NNP	Number=Sing	1	conj	_	start_char=25|end_char=28
+
+1	case	case	NOUN	NN	Number=Sing	2	nsubj	_	start_char=30|end_char=34
+2	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=35|end_char=40
+3	nice	nice	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=41|end_char=45
+4	and	and	CCONJ	CC	_	13	cc	_	start_char=46|end_char=49
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=50|end_char=51
+6	1080	1080	NUM	CD	NumType=Card	7	nummod	_	start_char=52|end_char=56
+7	p	p	NOUN	NN	Number=Sing	8	compound	_	start_char=56|end_char=57
+8	screen	screen	NOUN	NN	Number=Sing	13	nsubj	_	start_char=58|end_char=64
+9	at	at	ADP	IN	_	11	case	_	start_char=65|end_char=67
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=68|end_char=72
+11	price	price	NOUN	NN	Number=Sing	8	nmod	_	start_char=73|end_char=78
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=79|end_char=81
+13	nice	nice	ADJ	JJ	Degree=Pos	2	conj	_	start_char=82|end_char=86
+14	to	to	PART	TO	_	15	mark	_	start_char=87|end_char=89
+15	see	see	VERB	VB	VerbForm=Inf	13	ccomp	_	start_char=90|end_char=93
+16	...	...	PUNCT	,	_	2	punct	_	start_char=93|end_char=96
+17	but	but	CCONJ	CC	_	18	cc	_	start_char=97|end_char=100
+18	still	still	ADV	RB	_	13	conj	_	start_char=101|end_char=106
+19	...	...	PUNCT	.	_	2	punct	_	start_char=106|end_char=109
+
+1	dude	dude	NOUN	NN	Number=Sing	3	nsubj	_	start_char=111|end_char=115
+2	just	just	ADV	RB	_	3	advmod	_	start_char=116|end_char=120
+3	amazed	amaze	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=121|end_char=127
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=128|end_char=131
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=132|end_char=139
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=140|end_char=143
+7	igpu	igpu	NOUN	NN	Number=Sing	10	nsubj	_	start_char=144|end_char=148
+8	's	's	PART	POS	_	7	case	_	start_char=148|end_char=150
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=151|end_char=154
+10	do	do	VERB	VB	VerbForm=Inf	3	conj	_	start_char=155|end_char=157
+11	very	very	ADV	RB	_	12	advmod	_	start_char=158|end_char=162
+12	basic	basic	ADJ	JJ	Degree=Pos	14	amod	_	start_char=163|end_char=168
+13	3d	3d	NOUN	NN	Number=Sing	14	compound	_	start_char=169|end_char=171
+14	gaming	game	NOUN	NN	Number=Sing	10	obj	_	start_char=172|end_char=178
+15	now	now	ADV	RB	_	10	advmod	_	start_char=179|end_char=182
+16	.	.	PUNCT	.	_	3	punct	_	start_char=182|end_char=183
+

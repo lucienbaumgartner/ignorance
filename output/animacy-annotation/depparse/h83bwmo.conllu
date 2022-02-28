@@ -1,0 +1,17 @@
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=0|end_char=3
+2	Canadians	Canadian	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=4|end_char=13
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=14|end_char=17
+4	largely	largely	ADV	RB	_	5	advmod	_	start_char=18|end_char=25
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=33
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=34|end_char=37
+7	completely	completely	ADV	RB	_	8	advmod	_	start_char=38|end_char=48
+8	unused	unused	ADJ	JJ	Degree=Pos	5	conj	_	start_char=49|end_char=55
+9	to	to	ADP	IN	_	11	case	_	start_char=56|end_char=58
+10	these	this	DET	DT	Number=Plur|PronType=Dem	11	det	_	start_char=59|end_char=64
+11	scams	scam	NOUN	NNS	Number=Plur	8	obl	_	start_char=65|end_char=70
+12	,	,	PUNCT	,	_	15	punct	_	start_char=70|end_char=71
+13	hence	hence	ADV	RB	_	15	advmod	_	start_char=72|end_char=77
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=78|end_char=81
+15	sign	sign	NOUN	NN	Number=Sing	5	parataxis	_	start_char=82|end_char=86
+16	.	.	PUNCT	.	_	5	punct	_	start_char=86|end_char=87
+

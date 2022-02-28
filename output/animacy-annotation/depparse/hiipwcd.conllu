@@ -1,0 +1,24 @@
+1	"	"	PUNCT	``	_	3	punct	_	start_char=0|end_char=1
+2	Never	never	ADV	RB	_	3	advmod	_	start_char=1|end_char=6
+3	improve	improve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=7|end_char=14
+4	anything	anything	PRON	NN	Number=Sing	3	obj	_	start_char=15|end_char=23
+5	,	,	PUNCT	,	_	14	punct	_	start_char=23|end_char=24
+6	because	because	SCONJ	IN	_	14	mark	_	start_char=25|end_char=32
+7	if	if	SCONJ	IN	_	10	mark	_	start_char=33|end_char=35
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=36|end_char=38
+9	technically	technically	ADV	RB	_	10	advmod	_	start_char=39|end_char=50
+10	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=51|end_char=56
+11	then	then	ADV	RB	PronType=Dem	14	advmod	_	start_char=57|end_char=61
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=62|end_char=64
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=65|end_char=68
+14	become	become	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=69|end_char=75
+15	complacent	complacent	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=76|end_char=86
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=87|end_char=90
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=91|end_char=99
+18	of	of	ADP	IN	_	21	case	_	start_char=100|end_char=102
+19	any	any	DET	DT	_	21	det	_	start_char=103|end_char=106
+20	alternative	alternative	ADJ	JJ	Degree=Pos	21	amod	_	start_char=107|end_char=118
+21	solutions	solution	NOUN	NNS	Number=Plur	17	obl	_	start_char=119|end_char=128
+22	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+23	"	"	PUNCT	''	_	3	punct	_	start_char=129|end_char=130
+

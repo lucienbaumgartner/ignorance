@@ -1,0 +1,17 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=4|end_char=10
+3	of	of	ADP	IN	_	4	case	_	start_char=11|end_char=13
+4	Teldrassil	Teldrassil	PROPN	NNP	Number=Sing	2	nmod	_	start_char=14|end_char=24
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	start_char=25|end_char=29
+6	effectively	effectively	ADV	RB	_	7	advmod	_	start_char=30|end_char=41
+7	unconscious	unconscious	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=53
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=54|end_char=57
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=58|end_char=65
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=66|end_char=70
+11	everyone	everyone	PRON	NN	Number=Sing	12	nsubj	_	start_char=71|end_char=79
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=80|end_char=83
+13	Eternal	eternal	ADJ	NNP	Degree=Pos	15	amod	_	start_char=84|end_char=91
+14	Damnation	Damnation	PROPN	NNP	Number=Sing	15	compound	_	start_char=92|end_char=101
+15	Cancer	Cancer	PROPN	NNP	Number=Sing	12	obj	_	start_char=102|end_char=108
+16	.	.	PUNCT	.	_	7	punct	_	start_char=108|end_char=109
+

@@ -1,0 +1,10 @@
+1	Ah	ah	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	to	to	PART	TO	_	4	mark	_	start_char=3|end_char=5
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=6|end_char=8
+4	young	young	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=9|end_char=14
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=15|end_char=18
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=19|end_char=27
+7	of	of	ADP	IN	_	9	case	_	start_char=28|end_char=30
+8	TV	tv	NOUN	NN	Number=Sing	9	compound	_	start_char=31|end_char=33
+9	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=34|end_char=41
+

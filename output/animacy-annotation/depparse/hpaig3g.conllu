@@ -1,0 +1,18 @@
+1	Funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	that	that	SCONJ	IN	_	16	mark	_	start_char=6|end_char=10
+3	most	most	ADJ	JJS	Degree=Sup	16	nsubj	_	start_char=11|end_char=15
+4	of	of	ADP	IN	_	13	case	_	start_char=16|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=19|end_char=22
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	13	amod	_	start_char=23|end_char=33
+7	,	,	PUNCT	,	_	8	punct	_	start_char=33|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=44|end_char=47
+10	anti-science	anti-science	ADJ	JJ	Degree=Pos	6	conj	_	start_char=48|end_char=60
+11	,	,	PUNCT	,	_	13	punct	_	start_char=60|end_char=61
+12	anti-logic	anti-logic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=62|end_char=72
+13	people	people	NOUN	NNS	Number=Plur	3	nmod	_	start_char=73|end_char=79
+14	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=80|end_char=84
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	16	cop	_	start_char=85|end_char=89
+16	lefties	lefty	NOUN	NNS	Number=Plur	1	ccomp	_	start_char=90|end_char=97
+17	.	.	PUNCT	.	_	1	punct	_	start_char=97|end_char=98
+

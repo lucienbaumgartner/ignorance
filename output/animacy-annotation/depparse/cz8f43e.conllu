@@ -1,0 +1,33 @@
+1	Ca	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=0|end_char=2
+2	n't	not	PART	RB	_	3	advmod	_	start_char=2|end_char=5
+3	answer	answer	VERB	VB	VerbForm=Inf	0	root	_	start_char=6|end_char=12
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=13|end_char=17
+5	easily	easily	ADV	RB	_	3	advmod	_	start_char=18|end_char=24
+6	.	.	PUNCT	.	_	3	punct	_	start_char=24|end_char=25
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=26|end_char=29
+2	there	there	PRON	EX	_	3	expl	_	start_char=30|end_char=35
+3	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=35|end_char=37
+4	something	something	PRON	NN	Number=Sing	3	nsubj	_	start_char=38|end_char=47
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=48|end_char=52
+6	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=53|end_char=58
+7	guys	guy	NOUN	NNS	Number=Plur	6	obj	_	start_char=59|end_char=63
+8	away	away	ADV	RB	Degree=Pos	6	advmod	_	start_char=64|end_char=68
+9	.	.	PUNCT	.	_	3	punct	_	start_char=68|end_char=69
+
+1	Many	many	ADJ	JJ	Degree=Pos	2	amod	_	start_char=70|end_char=74
+2	girls	girl	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=75|end_char=80
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=81|end_char=84
+4	very	very	ADV	RB	_	5	advmod	_	start_char=85|end_char=89
+5	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=90|end_char=97
+6	,	,	PUNCT	,	_	10	punct	_	start_char=97|end_char=98
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=99|end_char=102
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=103|end_char=107
+9	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=107|end_char=110
+10	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=111|end_char=118
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=119|end_char=122
+12	unashamed	unashamed	ADJ	JJ	Degree=Pos	10	conj	_	start_char=123|end_char=132
+13	of	of	ADP	IN	_	14	case	_	start_char=133|end_char=135
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=136|end_char=138
+15	.	.	PUNCT	.	_	5	punct	_	start_char=138|end_char=139
+

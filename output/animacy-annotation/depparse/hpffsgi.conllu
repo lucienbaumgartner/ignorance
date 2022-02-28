@@ -1,0 +1,33 @@
+1	Ireland	Ireland	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=10
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	start_char=11|end_char=14
+4	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=19
+5	of	of	ADP	IN	_	6	case	_	start_char=20|end_char=22
+6	what	what	PRON	WP	PronType=Int	4	nmod	_	start_char=23|end_char=27
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=28|end_char=30
+8	termed	term	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	_	start_char=31|end_char=37
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=38|end_char=41
+10	'	'	PUNCT	``	_	12	punct	_	start_char=42|end_char=43
+11	British	British	ADJ	JJ	Degree=Pos	12	amod	_	start_char=43|end_char=50
+12	Isles	Isles	PROPN	NNPS	Number=Plur	8	xcomp	_	start_char=51|end_char=56
+13	'	'	PUNCT	''	_	12	punct	_	start_char=56|end_char=57
+14	.	.	PUNCT	.	_	4	punct	_	start_char=57|end_char=58
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=59|end_char=63
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=63|end_char=65
+3	just	just	ADV	RB	_	6	advmod	_	start_char=66|end_char=70
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=71|end_char=72
+5	geographic	geographic	ADJ	JJ	Degree=Pos	6	amod	_	start_char=73|end_char=83
+6	fact	fact	NOUN	NN	Number=Sing	0	root	_	start_char=84|end_char=88
+7	.	.	PUNCT	.	_	6	punct	_	start_char=88|end_char=89
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=90|end_char=93
+2	sound	sound	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=99
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=100|end_char=108
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=109|end_char=112
+5	angry	angry	ADJ	JJ	Degree=Pos	3	conj	_	start_char=113|end_char=118
+6	for	for	ADP	IN	_	9	case	_	start_char=119|end_char=122
+7	no	no	DET	DT	_	9	det	_	start_char=123|end_char=125
+8	substantive	substantive	ADJ	JJ	Degree=Pos	9	amod	_	start_char=126|end_char=137
+9	reason	reason	NOUN	NN	Number=Sing	3	obl	_	start_char=138|end_char=144
+

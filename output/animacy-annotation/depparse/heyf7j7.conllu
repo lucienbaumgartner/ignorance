@@ -1,0 +1,25 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=0|end_char=4
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=10
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=11|end_char=13
+4	wonder	wonder	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=14|end_char=20
+5	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=21|end_char=24
+6	someone	someone	PRON	NN	Number=Sing	15	nsubj	_	start_char=25|end_char=32
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=33|end_char=37
+8	stupid	stupid	ADJ	JJ	Degree=Pos	6	amod	_	start_char=38|end_char=44
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=49|end_char=56
+11	of	of	ADP	IN	_	13	case	_	start_char=57|end_char=59
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=60|end_char=65
+13	surroundings	surroundings	NOUN	NNS	Number=Plur	10	obl	_	start_char=66|end_char=78
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	start_char=79|end_char=82
+15	able	able	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=83|end_char=87
+16	to	to	PART	TO	_	17	mark	_	start_char=88|end_char=90
+17	get	get	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=91|end_char=94
+18	to	to	ADP	IN	_	19	case	_	start_char=95|end_char=97
+19	adulthood	adulthood	NOUN	NN	Number=Sing	17	obl	_	start_char=98|end_char=107
+20	in	in	ADP	IN	_	23	case	_	start_char=108|end_char=110
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=111|end_char=114
+22	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	23	amod	_	start_char=115|end_char=120
+23	place	place	NOUN	NN	Number=Sing	17	obl	_	start_char=121|end_char=126
+24	.	.	PUNCT	.	_	2	punct	_	start_char=126|end_char=127
+

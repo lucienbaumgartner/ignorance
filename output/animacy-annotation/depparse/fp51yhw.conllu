@@ -1,0 +1,13 @@
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=2
+2	u	u	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=4
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=5|end_char=9
+4	ANY	any	DET	DT	_	5	det	_	start_char=10|end_char=13
+5	idea	idea	NOUN	NN	Number=Sing	3	obj	_	start_char=14|end_char=18
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=19|end_char=22
+7	racist	racist	ADJ	JJ	Degree=Pos	5	amod	_	start_char=23|end_char=29
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=30|end_char=33
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=34|end_char=42
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=43|end_char=47
+11	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=48|end_char=54
+12	?	?	PUNCT	.	_	3	punct	_	start_char=54|end_char=55
+

@@ -1,0 +1,27 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	ever	ever	ADV	RB	_	4	advmod	_	start_char=8|end_char=12
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=18
+5	that	that	SCONJ	IN	_	8	mark	_	start_char=19|end_char=23
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=24|end_char=28
+7	might	might	AUX	MD	VerbForm=Fin	8	aux	_	start_char=29|end_char=34
+8	like	like	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=35|end_char=39
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=40|end_char=45
+10	sick	sick	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=46|end_char=50
+11	,	,	PUNCT	,	_	12	punct	_	start_char=50|end_char=51
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=52|end_char=60
+13	,	,	PUNCT	,	_	15	punct	_	start_char=60|end_char=61
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=62|end_char=65
+15	unemployed	unemployed	ADJ	JJ	Degree=Pos	10	conj	_	start_char=66|end_char=76
+16	?	?	PUNCT	.	_	4	punct	_	start_char=76|end_char=77
+
+1	Not	not	ADV	RB	_	2	advmod	_	start_char=78|end_char=81
+2	everyone	everyone	PRON	NN	Number=Sing	8	nsubj	_	start_char=82|end_char=90
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=91|end_char=93
+4	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=94|end_char=95
+5	radical	radical	ADJ	JJ	Degree=Pos	7	amod	_	start_char=96|end_char=103
+6	-	-	PUNCT	HYPH	_	7	punct	_	start_char=103|end_char=104
+7	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	start_char=104|end_char=108
+8	liberal	liberal	NOUN	NN	Number=Sing	0	root	_	start_char=109|end_char=116
+9	!	!	PUNCT	.	_	8	punct	_	start_char=116|end_char=117
+

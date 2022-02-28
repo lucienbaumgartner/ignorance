@@ -1,0 +1,43 @@
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=6|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=16
+4	clowns	clown	NOUN	NNS	Number=Plur	0	root	_	start_char=17|end_char=23
+5	or	or	CCONJ	CC	_	8	cc	_	start_char=24|end_char=26
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=27|end_char=30
+7	too	too	ADV	RB	_	8	advmod	_	start_char=31|end_char=34
+8	inexperienced	inexperienced	ADJ	JJ	Degree=Pos	4	conj	_	start_char=35|end_char=48
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=49|end_char=52
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=53|end_char=61
+11	of	of	ADP	IN	_	13	case	_	start_char=62|end_char=64
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=65|end_char=68
+13	past	past	NOUN	NN	Number=Sing	10	obl	_	start_char=69|end_char=73
+14	to	to	PART	TO	_	15	mark	_	start_char=74|end_char=76
+15	see	see	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=77|end_char=80
+16	how	how	SCONJ	WRB	PronType=Int	15	obj	_	start_char=81|end_char=84
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	18	nsubj	_	start_char=85|end_char=89
+18	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=90|end_char=95
+19	.	.	PUNCT	.	_	4	punct	_	start_char=95|end_char=96
+
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=97|end_char=103
+2	hate	hate	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=104|end_char=108
+3	admitting	admit	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=109|end_char=118
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	_	start_char=119|end_char=123
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=124|end_char=128
+6	conned	con	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=129|end_char=135
+7	.	.	PUNCT	.	_	2	punct	_	start_char=135|end_char=136
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=137|end_char=140
+2	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	7	nsubj	_	start_char=141|end_char=145
+3	in	in	ADP	IN	_	4	case	_	start_char=146|end_char=148
+4	America	America	PROPN	NNP	Number=Sing	2	obl	_	start_char=149|end_char=156
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=157|end_char=159
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=160|end_char=161
+7	joke	joke	NOUN	NN	Number=Sing	0	root	_	start_char=162|end_char=166
+8	between	between	ADP	IN	_	10	case	_	start_char=167|end_char=174
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=175|end_char=178
+10	grifting	grifting	NOUN	NN	Number=Sing	7	nmod	_	start_char=179|end_char=187
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=188|end_char=191
+12	identity	identity	NOUN	NN	Number=Sing	13	compound	_	start_char=192|end_char=200
+13	politics	politics	NOUN	NNS	Number=Plur	10	conj	_	start_char=201|end_char=209
+14	.	.	PUNCT	.	_	7	punct	_	start_char=209|end_char=210
+

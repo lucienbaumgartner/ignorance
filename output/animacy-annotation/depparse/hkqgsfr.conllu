@@ -1,0 +1,14 @@
+1	No	no	ADV	RB	_	3	advmod	_	start_char=0|end_char=2
+2	just	just	ADV	RB	_	3	advmod	_	start_char=3|end_char=7
+3	blame	blame	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=14|end_char=17
+5	for	for	SCONJ	IN	_	7	mark	_	start_char=18|end_char=21
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=22|end_char=27
+7	selfish	selfish	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=28|end_char=35
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=36|end_char=39
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=40|end_char=47
+10	of	of	ADP	IN	_	12	case	_	start_char=48|end_char=50
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	start_char=51|end_char=56
+12	humans	human	NOUN	NNS	Number=Plur	9	obl	_	start_char=57|end_char=63
+13	suffering	suffer	VERB	VBG	VerbForm=Ger	12	acl	_	start_char=64|end_char=73
+

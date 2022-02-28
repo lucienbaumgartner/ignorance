@@ -1,0 +1,27 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	adorably	adorably	ADV	RB	_	4	advmod	_	start_char=7|end_char=15
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	of	of	ADP	IN	_	8	case	_	start_char=35|end_char=37
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=38|end_char=41
+9	.	.	PUNCT	.	_	4	punct	_	start_char=41|end_char=42
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=43|end_char=45
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=46|end_char=49
+3	enjoy	enjoy	VERB	VB	VerbForm=Inf	0	root	_	start_char=50|end_char=55
+4	lying	lie	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=56|end_char=61
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=62|end_char=66
+6	much	much	ADV	RB	_	4	advmod	_	start_char=67|end_char=71
+7	or	or	CCONJ	CC	_	11	cc	_	start_char=72|end_char=74
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=75|end_char=78
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=79|end_char=82
+10	just	just	ADV	RB	_	11	advmod	_	start_char=83|end_char=87
+11	happy	happy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=88|end_char=93
+12	with	with	SCONJ	IN	_	15	mark	_	start_char=94|end_char=98
+13	being	be	AUX	VBG	VerbForm=Ger	15	cop	_	start_char=99|end_char=104
+14	so	so	ADV	RB	_	15	advmod	_	start_char=105|end_char=107
+15	wrong	wrong	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=108|end_char=113
+16	?	?	PUNCT	.	_	3	punct	_	start_char=113|end_char=114
+

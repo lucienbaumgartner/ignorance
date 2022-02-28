@@ -1,0 +1,52 @@
+1	Cultures	culture	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=0|end_char=8
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=9|end_char=12
+3	what	what	PRON	WP	PronType=Int	0	root	_	start_char=13|end_char=17
+4	separates	separate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=18|end_char=27
+5	many	many	ADJ	JJ	Degree=Pos	7	amod	_	start_char=28|end_char=32
+6	white	white	ADJ	JJ	Degree=Pos	7	amod	_	start_char=33|end_char=38
+7	people	people	NOUN	NNS	Number=Plur	4	obj	_	start_char=39|end_char=45
+8	.	.	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	Like	like	INTJ	UH	_	5	discourse	_	start_char=47|end_char=51
+2	,	,	PUNCT	,	_	5	punct	_	start_char=51|end_char=52
+3	Italian	Italian	ADJ	JJ	Degree=Pos	4	amod	_	start_char=53|end_char=60
+4	culture	culture	NOUN	NN	Number=Sing	5	nsubj	_	start_char=61|end_char=68
+5	differs	differ	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=69|end_char=76
+6	greatly	greatly	ADV	RB	Degree=Pos	5	advmod	_	start_char=77|end_char=84
+7	from	from	ADP	IN	_	9	case	_	start_char=85|end_char=89
+8	Polish	Polish	ADJ	JJ	Degree=Pos	9	amod	_	start_char=90|end_char=96
+9	culture	culture	NOUN	NN	Number=Sing	5	obl	_	start_char=97|end_char=104
+10	,	,	PUNCT	,	_	12	punct	_	start_char=104|end_char=105
+11	for	for	ADP	IN	_	12	case	_	start_char=106|end_char=109
+12	example	example	NOUN	NN	Number=Sing	5	obl	_	start_char=110|end_char=117
+13	.	.	PUNCT	.	_	5	punct	_	start_char=117|end_char=118
+
+1	Both	both	DET	DT	_	2	det	_	start_char=119|end_char=123
+2	cultures	culture	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=124|end_char=132
+3	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=133|end_char=138
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=139|end_char=141
+5	predominantly	predominantly	ADV	RB	_	6	advmod	_	start_char=142|end_char=155
+6	white	white	ADJ	JJ	Degree=Pos	0	root	_	start_char=156|end_char=161
+7	,	,	PUNCT	,	_	12	punct	_	start_char=161|end_char=162
+8	but	but	CCONJ	CC	_	12	cc	_	start_char=163|end_char=166
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=167|end_char=169
+10	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=169|end_char=171
+11	incredibly	incredibly	ADV	RB	_	12	advmod	_	start_char=172|end_char=182
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=183|end_char=191
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=192|end_char=195
+14	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	12	conj	_	start_char=196|end_char=209
+15	to	to	PART	TO	_	16	mark	_	start_char=210|end_char=212
+16	claim	claim	VERB	VB	VerbForm=Inf	14	advcl	_	start_char=213|end_char=218
+17	that	that	SCONJ	IN	_	22	mark	_	start_char=219|end_char=223
+18	all	all	DET	DT	_	19	det	_	start_char=224|end_char=227
+19	cultures	culture	NOUN	NNS	Number=Plur	22	nsubj	_	start_char=228|end_char=236
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=237|end_char=240
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=241|end_char=244
+22	same	same	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=245|end_char=249
+23	.	.	PUNCT	.	_	6	punct	_	start_char=249|end_char=250
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=253|end_char=256
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=257|end_char=263
+3	travel	travel	VERB	VB	VerbForm=Inf	0	root	_	start_char=264|end_char=270
+4	.	.	PUNCT	.	_	3	punct	_	start_char=270|end_char=271
+

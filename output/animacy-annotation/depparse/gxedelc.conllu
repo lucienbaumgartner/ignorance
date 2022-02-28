@@ -1,0 +1,31 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	stupid	stupid	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=4|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=22
+5	of	of	ADP	IN	_	7	case	_	start_char=23|end_char=25
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=26|end_char=29
+7	world	world	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=35
+8	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=36|end_char=39
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=40|end_char=43
+10	be	be	VERB	VB	VerbForm=Inf	0	root	_	start_char=44|end_char=46
+11	to	to	PART	TO	_	12	mark	_	start_char=47|end_char=49
+12	make	make	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=50|end_char=54
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=55|end_char=56
+14	statement	statement	NOUN	NN	Number=Sing	12	obj	_	start_char=57|end_char=66
+15	like	like	ADP	IN	_	16	case	_	start_char=67|end_char=71
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	14	nmod	_	start_char=72|end_char=76
+17	?	?	PUNCT	.	_	10	punct	_	start_char=76|end_char=77
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=78|end_char=80
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=81|end_char=84
+3	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=85|end_char=89
+4	rape	rape	NOUN	NN	Number=Sing	5	compound	_	start_char=90|end_char=94
+5	victims	victim	NOUN	NNS	Number=Plur	3	obj	_	start_char=95|end_char=102
+6	that	that	PRON	WDT	PronType=Rel	11	obj	_	start_char=103|end_char=107
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=108|end_char=112
+8	should	should	AUX	MD	VerbForm=Fin	11	aux	_	start_char=113|end_char=119
+9	n't	not	PART	RB	_	11	advmod	_	start_char=119|end_char=122
+10	have	have	AUX	VB	VerbForm=Inf	11	aux	_	start_char=123|end_char=127
+11	resisted	resist	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	start_char=128|end_char=136
+12	?	?	PUNCT	.	_	3	punct	_	start_char=136|end_char=137
+

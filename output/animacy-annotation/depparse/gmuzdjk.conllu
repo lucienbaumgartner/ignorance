@@ -1,0 +1,30 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	way	way	NOUN	NN	Number=Sing	6	nsubj	_	start_char=4|end_char=7
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=8|end_char=12
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=13|end_char=15
+5	so	so	ADV	RB	_	6	advmod	_	start_char=16|end_char=18
+6	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=34|end_char=42
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=43|end_char=47
+10	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=48|end_char=54
+11	almost	almost	ADV	RB	_	12	advmod	_	start_char=55|end_char=61
+12	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=62|end_char=71
+13	-	-	PUNCT	,	_	6	punct	_	start_char=71|end_char=72
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=74|end_char=75
+2	genuinely	genuinely	ADV	RB	Degree=Pos	5	advmod	_	start_char=76|end_char=85
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=86|end_char=88
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=88|end_char=91
+5	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=92|end_char=96
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=97|end_char=99
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=100|end_char=102
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=103|end_char=105
+9	hahah	hahah	INTJ	UH	_	14	discourse	_	start_char=106|end_char=111
+10	...	...	PUNCT	,	_	5	punct	_	start_char=111|end_char=114
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=115|end_char=119
+12	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=119|end_char=121
+13	not	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=122|end_char=125
+14	good	good	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=126|end_char=130
+15	...	...	PUNCT	.	_	5	punct	_	start_char=130|end_char=133
+

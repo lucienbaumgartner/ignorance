@@ -1,0 +1,60 @@
+1	Yeah	yeah	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	5	punct	_	start_char=4|end_char=5
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=6|end_char=7
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=8|end_char=13
+5	fancy	fancy	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=19
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=20|end_char=22
+7	chances	chance	NOUN	NNS	Number=Plur	5	obj	_	start_char=23|end_char=30
+8	.	.	PUNCT	.	_	5	punct	_	start_char=30|end_char=31
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=32|end_char=36
+2	again	again	ADV	RB	_	3	advmod	_	start_char=37|end_char=42
+3	whats	what	VERB	VB	Mood=Ind|VerbForm=Fin	0	root	_	start_char=43|end_char=48
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=49|end_char=52
+5	alternative	alternative	NOUN	NN	Number=Sing	3	obj	_	start_char=53|end_char=64
+6	?	?	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+
+1	Continue	continue	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=66|end_char=74
+2	fannying	fanny	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=75|end_char=83
+3	around	around	ADV	RB	_	2	advmod	_	start_char=84|end_char=90
+4	on	on	ADP	IN	_	6	case	_	start_char=91|end_char=93
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=94|end_char=97
+6	Frontiers	Frontiers	PROPN	NNP	Number=Sing	2	obl	_	start_char=98|end_char=107
+7	of	of	ADP	IN	_	10	case	_	start_char=108|end_char=110
+8	Imperial	Imperial	ADJ	JJ	Degree=Pos	10	amod	_	start_char=111|end_char=119
+9	Space	Space	PROPN	NNP	Number=Sing	10	compound	_	start_char=120|end_char=125
+10	trading	trading	NOUN	NN	Number=Sing	6	nmod	_	start_char=126|end_char=133
+11	with	with	ADP	IN	_	12	case	_	start_char=134|end_char=138
+12	Unknowing	unknow	VERB	VBG	VerbForm=Ger	2	obl	_	start_char=139|end_char=148
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=149|end_char=152
+14	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=153|end_char=161
+15	-	-	PUNCT	HYPH	_	14	punct	_	start_char=161|end_char=162
+16	of	of	ADP	IN	_	20	case	_	start_char=162|end_char=164
+17	-	-	PUNCT	HYPH	_	20	punct	_	start_char=164|end_char=165
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=165|end_char=168
+19	-	-	PUNCT	HYPH	_	20	punct	_	start_char=168|end_char=169
+20	fact	fact	NOUN	NN	Number=Sing	22	compound	_	start_char=169|end_char=173
+21	Backwater	Backwater	PROPN	NNP	Number=Sing	22	compound	_	start_char=174|end_char=183
+22	Sectors	sector	NOUN	NNS	Number=Plur	12	obl	_	start_char=184|end_char=191
+23	?	?	PUNCT	.	_	1	punct	_	start_char=191|end_char=192
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=193|end_char=196
+2	thus	thus	ADV	RB	_	3	advmod	_	start_char=197|end_char=201
+3	leave	leave	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=202|end_char=207
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=208|end_char=210
+5	to	to	ADP	IN	_	7	case	_	start_char=211|end_char=213
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=214|end_char=219
+7	Descendants	descendant	NOUN	NNS	Number=Plur	3	obl	_	start_char=220|end_char=231
+8	to	to	PART	TO	_	9	mark	_	start_char=232|end_char=234
+9	sort	sort	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=235|end_char=239
+10	out	out	ADP	RP	_	9	compound:prt	_	start_char=240|end_char=243
+11	?	?	PUNCT	.	_	3	punct	_	start_char=243|end_char=244
+
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=245|end_char=250
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=251|end_char=256
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=257|end_char=261
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	start_char=262|end_char=266
+5	total	total	ADJ	JJ	Degree=Pos	6	amod	_	start_char=267|end_char=272
+6	bastards	bastard	NOUN	NNS	Number=Plur	3	obj	_	start_char=273|end_char=281
+7	lol	lol	INTJ	UH	_	3	discourse	_	start_char=282|end_char=285
+

@@ -1,0 +1,61 @@
+1	Submission	submission	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=10
+2	Statement	statement	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=20
+3	:	:	PUNCT	:	_	2	punct	_	start_char=20|end_char=21
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=23|end_char=26
+2	case	case	NOUN	NN	Number=Sing	4	compound	_	start_char=27|end_char=31
+3	fatality	fatality	NOUN	NN	Number=Sing	4	compound	_	start_char=32|end_char=40
+4	rate	rate	NOUN	NN	Number=Sing	9	nsubj	_	start_char=41|end_char=45
+5	for	for	ADP	IN	_	6	case	_	start_char=46|end_char=49
+6	COVID	COVID	PROPN	NNP	Number=Sing	4	nmod	_	start_char=50|end_char=55
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=56|end_char=58
+8	0.25	0.25	NUM	CD	NumType=Card	9	nummod	_	start_char=59|end_char=63
+9	%	%	SYM	NN	Number=Sing	0	root	_	start_char=63|end_char=64
+10	per	per	ADP	IN	_	11	case	_	start_char=65|end_char=68
+11	year	year	NOUN	NN	Number=Sing	9	nmod	_	start_char=69|end_char=73
+12	.	.	PUNCT	.	_	9	punct	_	start_char=73|end_char=74
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=77|end_char=80
+2	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=81|end_char=85
+3	at	at	ADP	IN	_	4	case	_	start_char=86|end_char=88
+4	people	people	NOUN	NNS	Number=Plur	2	obl	_	start_char=89|end_char=95
+5	under	under	ADP	IN	_	7	case	_	start_char=96|end_char=101
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=102|end_char=105
+7	age	age	NOUN	NN	Number=Sing	2	obl	_	start_char=106|end_char=109
+8	of	of	ADP	IN	_	9	case	_	start_char=110|end_char=112
+9	45	45	NUM	CD	NumType=Card	7	nmod	_	start_char=113|end_char=115
+10	,	,	PUNCT	,	_	12	punct	_	start_char=115|end_char=116
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=117|end_char=119
+12	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=120|end_char=124
+13	down	down	ADP	RP	_	12	compound:prt	_	start_char=125|end_char=129
+14	to	to	ADP	IN	_	16	case	_	start_char=130|end_char=132
+15	0.01	0.01	NUM	CD	NumType=Card	16	nummod	_	start_char=133|end_char=137
+16	%	%	SYM	NN	Number=Sing	12	obl	_	start_char=137|end_char=138
+17	per	per	ADP	IN	_	18	case	_	start_char=139|end_char=142
+18	year	year	NOUN	NN	Number=Sing	16	nmod	_	start_char=143|end_char=147
+19	.	.	PUNCT	.	_	2	punct	_	start_char=147|end_char=148
+
+1	Mass	mass	ADJ	JJ	Degree=Pos	2	amod	_	start_char=150|end_char=154
+2	psychosis	psychosis	NOUN	NN	Number=Sing	0	root	_	start_char=155|end_char=164
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=165|end_char=168
+4	hysteria	hysteria	NOUN	NN	Number=Sing	2	conj	_	start_char=169|end_char=177
+5	in	in	ADP	IN	_	8	case	_	start_char=178|end_char=180
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=181|end_char=184
+7	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	start_char=185|end_char=189
+8	century	century	NOUN	NN	Number=Sing	2	nmod	_	start_char=190|end_char=197
+9	because	because	SCONJ	IN	_	13	mark	_	start_char=198|end_char=205
+10	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=206|end_char=212
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=213|end_char=216
+12	too	too	ADV	RB	_	13	advmod	_	start_char=217|end_char=220
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=221|end_char=229
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=230|end_char=233
+15	lazy	lazy	ADJ	JJ	Degree=Pos	13	conj	_	start_char=234|end_char=238
+16	to	to	PART	TO	_	17	mark	_	start_char=239|end_char=241
+17	educate	educate	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=242|end_char=249
+18	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	start_char=250|end_char=260
+19	.	.	PUNCT	.	_	2	punct	_	start_char=260|end_char=261
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=262|end_char=265
+2	too	too	ADV	RB	_	3	advmod	_	start_char=266|end_char=269
+3	gullible	gullible	ADJ	JJ	Degree=Pos	0	root	_	start_char=270|end_char=278
+

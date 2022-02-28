@@ -1,0 +1,60 @@
+1	Exaclty	Exaclty	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=7
+2	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=9|end_char=16
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=17|end_char=21
+3	dont	do	AUX	MD	VerbForm=Fin	4	aux	_	start_char=22|end_char=26
+4	question	question	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=35
+5	everything	everything	PRON	NN	Number=Sing	4	obj	_	start_char=36|end_char=46
+6	.	.	PUNCT	.	_	4	punct	_	start_char=46|end_char=47
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=48|end_char=52
+2	arent	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=53|end_char=58
+3	walking	walk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=59|end_char=66
+4	around	around	ADV	RB	_	3	advmod	_	start_char=67|end_char=73
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=74|end_char=77
+6	going	go	VERB	VBG	VerbForm=Part	3	conj	_	start_char=78|end_char=83
+7	"	"	PUNCT	``	_	10	punct	_	start_char=84|end_char=85
+8	What	what	PRON	WP	PronType=Int	10	nsubj	_	start_char=85|end_char=89
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=90|end_char=92
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	6	ccomp	_	start_char=93|end_char=97
+11	?	?	PUNCT	.	_	3	punct	_	start_char=97|end_char=98
+
+1	What	what	PRON	WP	PronType=Int	5	obj	_	start_char=99|end_char=103
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=104|end_char=108
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=109|end_char=113
+4	all	all	DET	DT	_	3	det	_	start_char=114|end_char=117
+5	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=118|end_char=122
+6	?	?	PUNCT	.	_	5	punct	_	start_char=122|end_char=123
+7	"	"	PUNCT	''	_	5	punct	_	start_char=123|end_char=124
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=125|end_char=129
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=129|end_char=132
+3	just	just	ADV	RB	_	4	advmod	_	start_char=133|end_char=137
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=144
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=145|end_char=148
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=149|end_char=156
+7	of	of	ADP	IN	_	9	case	_	start_char=157|end_char=159
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=160|end_char=165
+9	problems	problem	NOUN	NNS	Number=Plur	6	obl	_	start_char=166|end_char=174
+10	.	.	PUNCT	.	_	4	punct	_	start_char=174|end_char=175
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=176|end_char=179
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=180|end_char=184
+3	dont	do	AUX	MD	VerbForm=Fin	4	aux	_	start_char=185|end_char=189
+4	care	care	VERB	VB	VerbForm=Inf	0	root	_	start_char=190|end_char=194
+
+1	Be	be	AUX	VB	Mood=Imp|VerbForm=Fin	4	cop	_	start_char=197|end_char=199
+2	like	like	ADP	IN	_	4	case	_	start_char=200|end_char=204
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=205|end_char=208
+4	dog	dog	NOUN	NN	Number=Sing	0	root	_	start_char=209|end_char=212
+5	,	,	PUNCT	,	_	4	punct	_	start_char=212|end_char=213
+6	People	person	NOUN	NNS	Number=Plur	4	vocative	_	start_char=214|end_char=220
+7	!	!	PUNCT	.	_	4	punct	_	start_char=220|end_char=221
+
+1	Be	be	AUX	VB	Mood=Imp|VerbForm=Fin	4	cop	_	start_char=222|end_char=224
+2	like	like	ADP	IN	_	4	case	_	start_char=225|end_char=229
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=230|end_char=233
+4	dog	dog	NOUN	NN	Number=Sing	0	root	_	start_char=234|end_char=237
+5	!	!	PUNCT	.	_	4	punct	_	start_char=237|end_char=238
+

@@ -1,0 +1,33 @@
+1	Except	except	SCONJ	IN	_	4	mark	_	start_char=0|end_char=6
+2	weve	weve	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	start_char=12|end_char=16
+4	dying	die	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=17|end_char=22
+5	from	from	ADP	IN	_	6	case	_	start_char=23|end_char=27
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=28|end_char=32
+7	since	since	ADP	IN	_	9	case	_	start_char=33|end_char=38
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=39|end_char=42
+9	60s	60	NOUN	NNS	Number=Plur	4	obl	_	start_char=43|end_char=46
+10	.	.	PUNCT	.	_	4	punct	_	start_char=46|end_char=47
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=48|end_char=52
+2	path	path	NOUN	NN	Number=Sing	5	nsubj	_	start_char=53|end_char=57
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=58|end_char=61
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux	_	start_char=62|end_char=66
+5	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=67|end_char=76
+6	for	for	ADP	IN	_	7	case	_	start_char=77|end_char=80
+7	half	half	NOUN	NN	Number=Sing	5	obl	_	start_char=81|end_char=85
+8	of	of	ADP	IN	_	10	case	_	start_char=86|end_char=88
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=89|end_char=90
+10	century	century	NOUN	NN	Number=Sing	7	nmod	_	start_char=91|end_char=98
+11	,	,	PUNCT	,	_	14	punct	_	start_char=98|end_char=99
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=100|end_char=103
+13	everyone	everyone	PRON	NN	Number=Sing	14	nsubj	_	start_char=104|end_char=112
+14	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=113|end_char=120
+15	totally	totally	ADV	RB	_	16	advmod	_	start_char=121|end_char=128
+16	complacent	complacent	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=129|end_char=139
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=140|end_char=143
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=144|end_char=152
+19	of	of	ADP	IN	_	20	case	_	start_char=153|end_char=155
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obl	_	start_char=156|end_char=158
+21	.	.	PUNCT	.	_	5	punct	_	start_char=158|end_char=159
+

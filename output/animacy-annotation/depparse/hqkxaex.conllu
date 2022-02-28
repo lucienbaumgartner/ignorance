@@ -1,0 +1,58 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	thread	thread	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=11
+3	just	just	ADV	RB	_	4	advmod	_	start_char=12|end_char=16
+4	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=22
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=27|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	judgemental	judgemental	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=51
+9	humans	human	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=52|end_char=58
+10	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=59|end_char=62
+11	.	.	PUNCT	.	_	4	punct	_	start_char=62|end_char=63
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=64|end_char=68
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=69|end_char=71
+3	fabulous	fabulous	ADJ	JJ	Degree=Pos	0	root	_	start_char=72|end_char=80
+4	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+
+1	Do	do	AUX	VB	VerbForm=Fin	3	aux	_	start_char=83|end_char=85
+2	n't	not	PART	RB	_	3	advmod	_	start_char=85|end_char=88
+3	shame	shame	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=89|end_char=94
+4	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=95|end_char=101
+5	just	just	ADV	RB	_	8	advmod	_	start_char=102|end_char=106
+6	because	because	SCONJ	IN	_	8	mark	_	start_char=107|end_char=114
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=115|end_char=119
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=120|end_char=124
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=125|end_char=126
+10	culture	culture	NOUN	NN	Number=Sing	8	obj	_	start_char=127|end_char=134
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=135|end_char=138
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=139|end_char=141
+13	not	not	PART	RB	_	14	advmod	_	start_char=142|end_char=145
+14	understand	understand	VERB	VB	VerbForm=Inf	10	acl:relcl	_	start_char=146|end_char=156
+15	.	.	PUNCT	.	_	3	punct	_	start_char=156|end_char=157
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=158|end_char=162
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=163|end_char=165
+3	up	up	ADP	RP	_	1	compound:prt	_	start_char=166|end_char=168
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=169|end_char=172
+5	read	read	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=173|end_char=177
+6	about	about	ADP	IN	_	7	case	_	start_char=178|end_char=183
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=184|end_char=186
+8	instead	instead	ADV	RB	Degree=Pos	5	advmod	_	start_char=187|end_char=194
+9	,	,	PUNCT	,	_	10	punct	_	start_char=194|end_char=195
+10	put	put	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=196|end_char=199
+11	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	10	obj	_	start_char=200|end_char=208
+12	in	in	ADP	IN	_	14	case	_	start_char=209|end_char=211
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=212|end_char=217
+14	shoes	shoe	NOUN	NNS	Number=Plur	10	obl	_	start_char=218|end_char=223
+15	.	.	PUNCT	.	_	1	punct	_	start_char=223|end_char=224
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=225|end_char=227
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=228|end_char=231
+3	beauty	beauty	NOUN	NN	Number=Sing	2	obj	_	start_char=232|end_char=238
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=239|end_char=242
+5	meaning	meaning	NOUN	NN	Number=Sing	3	conj	_	start_char=243|end_char=250
+6	for	for	ADP	IN	_	7	case	_	start_char=251|end_char=254
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obl	_	start_char=255|end_char=259
+8	.	.	PUNCT	.	_	2	punct	_	start_char=259|end_char=260
+

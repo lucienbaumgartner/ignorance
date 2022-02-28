@@ -1,0 +1,10 @@
+1	Completely	completely	ADV	RB	_	2	advmod	_	start_char=0|end_char=10
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=19
+3	AND	and	CCONJ	CC	_	4	cc	_	start_char=20|end_char=23
+4	evil	evil	ADJ	JJ	Degree=Pos	2	conj	_	start_char=24|end_char=28
+5	.	.	PUNCT	.	_	2	punct	_	start_char=28|end_char=29
+
+1	Fixed	fix	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=30|end_char=35
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=36|end_char=38
+3	.	.	PUNCT	.	_	1	punct	_	start_char=38|end_char=39
+

@@ -1,0 +1,25 @@
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	to	to	PART	TO	_	4	mark	_	start_char=12|end_char=14
+4	show	show	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=15|end_char=19
+5	how	how	SCONJ	WRB	PronType=Int	4	obj	_	start_char=20|end_char=23
+6	black	black	ADJ	JJ	Degree=Pos	7	amod	_	start_char=24|end_char=29
+7	Americans	American	PROPN	NNPS	Number=Plur	10	nsubj	_	start_char=30|end_char=39
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=40|end_char=43
+9	just	just	ADV	RB	_	16	advmod	_	start_char=44|end_char=48
+10	as	as	ADV	RB	_	16	advmod	_	start_char=49|end_char=51
+11	,	,	PUNCT	,	_	16	punct	_	start_char=51|end_char=52
+12	if	if	SCONJ	IN	_	14	mark	_	start_char=53|end_char=55
+13	not	not	PART	RB	_	14	advmod	_	start_char=56|end_char=59
+14	more	more	ADV	RBR	_	16	advmod	_	start_char=60|end_char=64
+15	,	,	PUNCT	,	_	16	punct	_	start_char=64|end_char=65
+16	hostile	hostile	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=66|end_char=73
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=74|end_char=77
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=78|end_char=86
+19	of	of	ADP	IN	_	21	case	_	start_char=87|end_char=89
+20	other	other	ADJ	JJ	Degree=Pos	21	amod	_	start_char=90|end_char=95
+21	cultures	culture	NOUN	NNS	Number=Plur	18	obl	_	start_char=96|end_char=104
+22	as	as	ADP	IN	_	24	case	_	start_char=105|end_char=107
+23	white	white	ADJ	JJ	Degree=Pos	24	amod	_	start_char=108|end_char=113
+24	Americans	American	PROPN	NNPS	Number=Plur	21	nmod	_	start_char=114|end_char=123
+

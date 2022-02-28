@@ -1,0 +1,27 @@
+1	Yes	yes	INTJ	UH	_	13	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	13	punct	_	start_char=3|end_char=4
+3	having	have	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=5|end_char=11
+4	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=12|end_char=13
+5	baby	baby	NOUN	NN	Number=Sing	6	compound	_	start_char=14|end_char=18
+6	wake	wake	NOUN	NN	Number=Sing	8	compound	_	start_char=19|end_char=23
+7	up	up	ADP	RP	_	3	compound:prt	_	start_char=24|end_char=26
+8	sucks	suck	NOUN	NNS	Number=Plur	3	obj	_	start_char=27|end_char=32
+9	,	,	PUNCT	,	_	3	punct	_	start_char=32|end_char=33
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=34|end_char=35
+11	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=35|end_char=38
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	cop	_	start_char=39|end_char=43
+13	there	there	ADV	RB	PronType=Dem	0	root	_	start_char=44|end_char=49
+14	.	.	PUNCT	.	_	13	punct	_	start_char=49|end_char=50
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=51|end_char=54
+2	seriously	seriously	ADV	RB	_	5	advmod	_	start_char=55|end_char=64
+3	,	,	PUNCT	,	_	5	punct	_	start_char=64|end_char=65
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=66|end_char=69
+5	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=74
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=75|end_char=78
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=79|end_char=87
+8	of	of	ADP	IN	_	10	case	_	start_char=88|end_char=90
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=91|end_char=92
+10	comment	comment	NOUN	NN	Number=Sing	5	obl	_	start_char=93|end_char=100
+11	.	.	PUNCT	.	_	5	punct	_	start_char=100|end_char=101
+

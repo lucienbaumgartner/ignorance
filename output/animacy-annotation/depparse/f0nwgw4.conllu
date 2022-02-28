@@ -1,0 +1,572 @@
+1	Original	original	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=8
+2	post	post	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=13
+3	:	:	PUNCT	:	_	2	punct	_	start_char=13|end_char=14
+4	[	[	PUNCT	-LRB-	_	7	punct	_	start_char=15|end_char=16
+5	Someone	someone	PRON	NN	Number=Sing	7	nsubj	_	start_char=16|end_char=23
+6	here	here	ADV	RB	PronType=Dem	5	advmod	_	start_char=24|end_char=28
+7	loved	love	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	start_char=29|end_char=34
+8	Lilly	Lilly	PROPN	NNP	Number=Sing	7	obj	_	start_char=35|end_char=40
+9	Singh	Singh	PROPN	NNP	Number=Sing	8	flat	_	start_char=41|end_char=46
+10	so	so	ADV	RB	_	11	advmod	_	start_char=47|end_char=49
+11	much	much	ADV	RB	_	7	advmod	_	start_char=50|end_char=54
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=55|end_char=59
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=60|end_char=64
+14	removed	remove	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=65|end_char=72
+15	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=73|end_char=76
+16	cringe	cringe	ADJ	JJ	Degree=Pos	17	amod	_	start_char=77|end_char=83
+17	posts	post	NOUN	NNS	Number=Plur	14	obj	_	start_char=84|end_char=89
+18	...	...	PUNCT	.	_	2	punct	_	start_char=89|end_char=92
+19	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=92|end_char=93
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=93|end_char=94
+2	https://reddit.com/r/cringe/comments/d5s0sc/someone_here_loved_lilly_singh_so_much_that_they/)	https://reddit.com/r/cringe/comments/d5s0sc/someone_here_loved_lilly_singh_so_much_that_they/)	X	ADD	_	0	root	_	start_char=94|end_char=188
+
+1	Comments	comment	NOUN	NNS	Number=Plur	0	root	_	start_char=191|end_char=199
+2	:	:	PUNCT	:	_	1	punct	_	start_char=199|end_char=200
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=206|end_char=212
+2	:	:	PUNCT	:	_	1	punct	_	start_char=212|end_char=213
+3	Hyperwhelmed	hyperwhelmed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=214|end_char=226
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=227|end_char=231
+5	:	:	PUNCT	:	_	4	punct	_	start_char=231|end_char=232
+6	Next	next	ADV	RB	_	8	advmod	_	start_char=233|end_char=237
+7	to	to	ADP	IN	_	8	mark	_	start_char=238|end_char=240
+8	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	10	advcl	_	start_char=241|end_char=248
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=249|end_char=251
+10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	appos	_	start_char=252|end_char=256
+11	-	-	PUNCT	,	_	13	punct	_	start_char=257|end_char=258
+12	"	"	PUNCT	``	_	13	punct	_	start_char=259|end_char=260
+13	Intentional	Intentional	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=260|end_char=271
+14	or	or	CCONJ	CC	_	15	cc	_	start_char=272|end_char=274
+15	scripted	script	VERB	VBN	Tense=Past|VerbForm=Part	13	conj	_	start_char=275|end_char=283
+16	"	"	PUNCT	''	_	13	punct	_	start_char=283|end_char=284
+17	.	.	PUNCT	.	_	1	punct	_	start_char=284|end_char=285
+
+1	Bullshit	bullshit	NOUN	NN	Number=Sing	0	root	_	start_char=286|end_char=294
+2	.	.	PUNCT	.	_	1	punct	_	start_char=294|end_char=295
+
+1	Obviously	obviously	ADV	RB	_	4	advmod	_	start_char=296|end_char=305
+2	everything	everything	PRON	NN	Number=Sing	4	nsubj	_	start_char=306|end_char=316
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=317|end_char=320
+4	scripted	script	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=321|end_char=329
+5	,	,	PUNCT	,	_	11	punct	_	start_char=329|end_char=330
+6	but	but	CCONJ	CC	_	11	cc	_	start_char=331|end_char=334
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=335|end_char=338
+8	cringe	cringe	NOUN	NN	Number=Sing	11	nsubj:pass	_	start_char=339|end_char=345
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	start_char=346|end_char=349
+10	n't	not	PART	RB	_	11	advmod	_	start_char=349|end_char=352
+11	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=353|end_char=360
+12	into	into	ADP	IN	_	13	case	_	start_char=361|end_char=365
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=366|end_char=368
+14	intentionally	intentionally	ADV	RB	_	11	advmod	_	start_char=369|end_char=382
+15	.	.	PUNCT	.	_	4	punct	_	start_char=382|end_char=383
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=384|end_char=387
+2	cringe	cringe	NOUN	NN	Number=Sing	8	nsubj	_	start_char=388|end_char=394
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=395|end_char=397
+4	from	from	ADP	IN	_	8	case	_	start_char=398|end_char=402
+5	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=403|end_char=406
+6	self	self	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=407|end_char=411
+7	-	-	PUNCT	HYPH	_	8	punct	_	start_char=411|end_char=412
+8	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=412|end_char=419
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=420|end_char=423
+10	hacky	hacky	ADJ	JJ	Degree=Pos	8	conj	_	start_char=424|end_char=429
+11	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=430|end_char=433
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	start_char=434|end_char=436
+13	,	,	PUNCT	,	_	8	punct	_	start_char=436|end_char=437
+14	as	as	ADV	RB	_	20	cc	_	start_char=438|end_char=440
+15	well	well	ADV	RB	Degree=Pos	14	fixed	_	start_char=441|end_char=445
+16	as	as	ADP	IN	_	14	fixed	_	start_char=446|end_char=448
+17	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=449|end_char=452
+18	much	much	ADV	RB	_	19	advmod	_	start_char=453|end_char=457
+19	constant	constant	ADJ	JJ	Degree=Pos	20	amod	_	start_char=458|end_char=466
+20	pandering	pandering	NOUN	NN	Number=Sing	23	obj	_	start_char=467|end_char=476
+21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=477|end_char=480
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	start_char=481|end_char=484
+23	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	8	conj	_	start_char=485|end_char=490
+24	.	.	PUNCT	.	_	8	punct	_	start_char=490|end_char=491
+
+1	Someone	someone	PRON	NN	Number=Sing	4	nsubj	_	start_char=492|end_char=499
+2	here	here	ADV	RB	PronType=Dem	1	advmod	_	start_char=500|end_char=504
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=505|end_char=507
+4	censoring	censor	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=508|end_char=517
+5	differing	differ	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=518|end_char=527
+6	opinions	opinion	NOUN	NNS	Number=Plur	4	obj	_	start_char=528|end_char=536
+7	.	.	PUNCT	.	_	4	punct	_	start_char=536|end_char=537
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=547|end_char=553
+2	:	:	PUNCT	:	_	1	punct	_	start_char=553|end_char=554
+3	-	-	PUNCT	,	_	1	punct	_	start_char=555|end_char=556
+4	churbs	churb	NOUN	NNS	Number=Plur	5	compound	_	start_char=556|end_char=562
+5	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=563|end_char=567
+6	:	:	PUNCT	:	_	1	punct	_	start_char=567|end_char=568
+7	Since	since	SCONJ	IN	_	11	mark	_	start_char=569|end_char=574
+8	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=575|end_char=579
+9	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	_	start_char=580|end_char=583
+10	cringe	cringe	NOUN	NN	Number=Sing	11	nsubj	_	start_char=584|end_char=590
+11	have	have	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=591|end_char=595
+12	to	to	PART	TO	_	14	mark	_	start_char=596|end_char=598
+13	be	be	AUX	VB	VerbForm=Inf	14	aux:pass	_	start_char=599|end_char=601
+14	improvised	improvise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	start_char=602|end_char=612
+15	?	?	PUNCT	.	_	1	punct	_	start_char=612|end_char=613
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=623|end_char=629
+2	:	:	PUNCT	:	_	1	punct	_	start_char=629|end_char=630
+3	None	none	NOUN	NN	Number=Sing	4	compound	_	start_char=631|end_char=635
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=636|end_char=640
+5	:	:	PUNCT	:	_	4	punct	_	start_char=640|end_char=641
+6	[	[	PUNCT	-LRB-	_	7	punct	_	start_char=642|end_char=643
+7	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=643|end_char=650
+8	]	]	PUNCT	-RRB-	_	7	punct	_	start_char=650|end_char=651
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=661|end_char=667
+2	:	:	PUNCT	:	_	1	punct	_	start_char=667|end_char=668
+3	nicksilo	nicksilo	NOUN	NN	Number=Sing	4	compound	_	start_char=669|end_char=677
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=678|end_char=682
+5	:	:	PUNCT	:	_	1	punct	_	start_char=682|end_char=683
+
+1	To	to	ADP	IN	_	3	case	_	start_char=684|end_char=686
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=687|end_char=691
+3	day	day	NOUN	NN	Number=Sing	7	obl	_	start_char=692|end_char=695
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=696|end_char=697
+5	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=698|end_char=701
+6	not	not	PART	RB	_	7	advmod	_	start_char=702|end_char=705
+7	rewatch	rewatch	VERB	VB	VerbForm=Inf	0	root	_	start_char=706|end_char=713
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=714|end_char=718
+9	episode	episode	NOUN	NN	Number=Sing	7	obj	_	start_char=719|end_char=726
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=736|end_char=742
+2	:	:	PUNCT	:	_	1	punct	_	start_char=742|end_char=743
+3	YouSeeWhere	YouSeeWhere	PROPN	NNP	Number=Sing	1	dep	_	start_char=744|end_char=755
+
+1	Brad	Brad	PROPN	NNP	Number=Sing	0	root	_	start_char=755|end_char=759
+
+1	At	at	ADP	IN	_	2	case	_	start_char=759|end_char=761
+2	Body	body	NOUN	NN	Number=Sing	6	obl	_	start_char=762|end_char=766
+3	:	:	PUNCT	:	_	6	punct	_	start_char=766|end_char=767
+4	Would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=768|end_char=773
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=774|end_char=777
+6	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=778|end_char=782
+7	fries	fry	NOUN	NNS	Number=Plur	6	obj	_	start_char=783|end_char=788
+8	with	with	ADP	IN	_	9	case	_	start_char=789|end_char=793
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	6	obl	_	start_char=794|end_char=798
+10	?	?	PUNCT	.	_	6	punct	_	start_char=798|end_char=799
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=809|end_char=815
+2	:	:	PUNCT	:	_	1	punct	_	start_char=815|end_char=816
+3	Mmmmustard	Mmmmustard	PROPN	NNP	Number=Sing	4	compound	_	start_char=817|end_char=827
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=828|end_char=832
+5	:	:	PUNCT	:	_	1	punct	_	start_char=832|end_char=833
+6	[	[	PUNCT	-LRB-	_	12	punct	_	start_char=834|end_char=835
+7	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=835|end_char=838
+8	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=838|end_char=841
+9	not	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=842|end_char=845
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=846|end_char=849
+11	only	only	ADJ	JJ	Degree=Pos	12	amod	_	start_char=850|end_char=854
+12	one	one	NOUN	NN	Number=Sing	1	appos	_	start_char=855|end_char=858
+13	.	.	PUNCT	.	_	12	punct	_	start_char=858|end_char=859
+14	]	]	PUNCT	-RRB-	_	12	punct	_	start_char=859|end_char=860
+15	(	(	PUNCT	-LRB-	_	1	punct	_	start_char=860|end_char=861
+
+1	https://www.reddit.com/r/CantWatchScottsTots/)	https://www.reddit.com/r/cantwatchscottstots/)	X	ADD	_	0	root	_	start_char=862|end_char=908
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=918|end_char=924
+2	:	:	PUNCT	:	_	1	punct	_	start_char=924|end_char=925
+3	kanye_is_a_douche	kanye_is_a_douche	NOUN	NN	Number=Sing	4	compound	_	start_char=926|end_char=943
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=944|end_char=948
+5	:	:	PUNCT	:	_	4	punct	_	start_char=948|end_char=949
+6	Annnd	Annnd	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=950|end_char=955
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=956|end_char=959
+8	song	song	NOUN	NN	Number=Sing	12	nsubj	_	start_char=960|end_char=964
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=965|end_char=967
+10	in	in	ADP	IN	_	12	case	_	start_char=968|end_char=970
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=971|end_char=973
+12	head	head	NOUN	NN	Number=Sing	4	parataxis	_	start_char=974|end_char=978
+13	now	now	ADV	RB	_	12	advmod	_	start_char=979|end_char=982
+14	.	.	PUNCT	.	_	1	punct	_	start_char=982|end_char=983
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=993|end_char=999
+2	:	:	PUNCT	:	_	1	punct	_	start_char=999|end_char=1000
+3	None	none	NOUN	NN	Number=Sing	4	compound	_	start_char=1001|end_char=1005
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1006|end_char=1010
+5	:	:	PUNCT	:	_	4	punct	_	start_char=1010|end_char=1011
+6	[	[	PUNCT	-LRB-	_	7	punct	_	start_char=1012|end_char=1013
+7	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=1013|end_char=1020
+8	]	]	PUNCT	-RRB-	_	7	punct	_	start_char=1020|end_char=1021
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1031|end_char=1037
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1037|end_char=1038
+3	kanye_is_a_douche	kanye_is_a_douche	NOUN	NN	Number=Sing	4	compound	_	start_char=1039|end_char=1056
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1057|end_char=1061
+5	:	:	PUNCT	:	_	1	punct	_	start_char=1061|end_char=1062
+6	Exactly	exactly	ADV	RB	_	11	advmod	_	start_char=1063|end_char=1070
+7	,	,	PUNCT	,	_	11	punct	_	start_char=1070|end_char=1071
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=1072|end_char=1073
+9	’ll	will	AUX	MD	VerbForm=Fin	11	aux	_	start_char=1073|end_char=1076
+10	be	be	AUX	VB	VerbForm=Inf	11	aux	_	start_char=1077|end_char=1079
+11	singing	sing	VERB	VBG	Tense=Pres|VerbForm=Part	1	appos	_	start_char=1080|end_char=1087
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=1088|end_char=1092
+13	all	all	DET	DT	_	14	det	_	start_char=1093|end_char=1096
+14	week	week	NOUN	NN	Number=Sing	11	obl:tmod	_	start_char=1097|end_char=1101
+15	now	now	ADV	RB	_	11	advmod	_	start_char=1102|end_char=1105
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1115|end_char=1121
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1121|end_char=1122
+3	Hyperwhelmed	hyperwhelmed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=1123|end_char=1135
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1136|end_char=1140
+5	:	:	PUNCT	:	_	4	punct	_	start_char=1140|end_char=1141
+6	What	what	PRON	WP	PronType=Int	4	appos	_	start_char=1142|end_char=1146
+7	?	?	PUNCT	.	_	1	punct	_	start_char=1146|end_char=1147
+
+1	When	when	ADV	WRB	PronType=Int	4	advmod	_	start_char=1148|end_char=1152
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	start_char=1153|end_char=1156
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1157|end_char=1158
+4	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=1159|end_char=1162
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=1163|end_char=1167
+6	?	?	PUNCT	.	_	4	punct	_	start_char=1167|end_char=1168
+
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=1169|end_char=1172
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=1173|end_char=1176
+3	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=1177|end_char=1181
+4	what	what	PRON	WP	PronType=Int	3	obj	_	start_char=1182|end_char=1186
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=1187|end_char=1188
+6	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=1189|end_char=1194
+7	?	?	PUNCT	.	_	3	punct	_	start_char=1194|end_char=1195
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1205|end_char=1211
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1211|end_char=1212
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=1213|end_char=1214
+4	churbs	churb	NOUN	NNS	Number=Plur	5	compound	_	start_char=1214|end_char=1220
+5	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1221|end_char=1225
+6	:	:	PUNCT	:	_	1	punct	_	start_char=1225|end_char=1226
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=1227|end_char=1228
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	start_char=1229|end_char=1232
+9	agreeing	agree	VERB	VBG	Tense=Pres|VerbForm=Part	1	parataxis	_	start_char=1233|end_char=1241
+10	with	with	ADP	IN	_	11	case	_	start_char=1242|end_char=1246
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obl	_	start_char=1247|end_char=1250
+12	.	.	PUNCT	.	_	1	punct	_	start_char=1250|end_char=1251
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1261|end_char=1267
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1267|end_char=1268
+3	Hyperwhelmed	hyperwhelmed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=1269|end_char=1281
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1282|end_char=1286
+5	:	:	PUNCT	:	_	4	punct	_	start_char=1286|end_char=1287
+6	Ah	ah	INTJ	UH	_	4	discourse	_	start_char=1288|end_char=1290
+7	,	,	PUNCT	,	_	8	punct	_	start_char=1290|end_char=1291
+8	sorry	sorry	ADJ	JJ	Degree=Pos	1	appos	_	start_char=1292|end_char=1297
+9	.	.	PUNCT	.	_	1	punct	_	start_char=1297|end_char=1298
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=1299|end_char=1302
+2	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=1303|end_char=1306
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=1307|end_char=1310
+4	worded	word	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=1311|end_char=1317
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=1318|end_char=1322
+6	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=1323|end_char=1326
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=1327|end_char=1329
+8	confused	confused	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=1330|end_char=1338
+9	.	.	PUNCT	.	_	2	punct	_	start_char=1338|end_char=1339
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1349|end_char=1355
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1355|end_char=1356
+3	-	-	PUNCT	,	_	5	punct	_	start_char=1357|end_char=1358
+4	churbs	churb	NOUN	NNS	Number=Plur	5	compound	_	start_char=1358|end_char=1364
+5	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1365|end_char=1369
+6	:	:	PUNCT	:	_	1	punct	_	start_char=1369|end_char=1370
+
+1	No	no	DET	DT	_	2	det	_	start_char=1371|end_char=1373
+2	worries	worry	NOUN	NNS	Number=Plur	0	root	_	start_char=1374|end_char=1381
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=1382|end_char=1383
+4	totally	totally	ADV	RB	_	5	advmod	_	start_char=1384|end_char=1391
+5	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=1392|end_char=1395
+6	why	why	SCONJ	WRB	PronType=Int	9	mark	_	start_char=1396|end_char=1399
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=1400|end_char=1403
+8	’d	have	AUX	MD	VerbForm=Fin	9	aux	_	start_char=1403|end_char=1405
+9	think	think	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=1406|end_char=1411
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	9	obj	_	start_char=1412|end_char=1416
+11	.	.	PUNCT	.	_	2	punct	_	start_char=1416|end_char=1417
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1427|end_char=1433
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1433|end_char=1434
+3	None	none	NOUN	NN	Number=Sing	4	compound	_	start_char=1435|end_char=1439
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1440|end_char=1444
+5	:	:	PUNCT	:	_	4	punct	_	start_char=1444|end_char=1445
+6	[	[	PUNCT	-LRB-	_	7	punct	_	start_char=1446|end_char=1447
+7	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=1447|end_char=1454
+8	]	]	PUNCT	-RRB-	_	7	punct	_	start_char=1454|end_char=1455
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1461|end_char=1467
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1467|end_char=1468
+3	Hyperwhelmed	hyperwhelmed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=1469|end_char=1481
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1482|end_char=1486
+5	:	:	PUNCT	:	_	7	punct	_	start_char=1486|end_char=1487
+6	Just	just	ADV	RB	_	7	advmod	_	start_char=1488|end_char=1492
+7	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=1493|end_char=1497
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=1498|end_char=1499
+9	post	post	NOUN	NN	Number=Sing	7	obj	_	start_char=1500|end_char=1504
+10	effectively	effectively	ADV	RB	_	11	advmod	_	start_char=1505|end_char=1516
+11	parroting	parrote	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=1517|end_char=1526
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obj	_	start_char=1527|end_char=1530
+13	,	,	PUNCT	,	_	7	punct	_	start_char=1530|end_char=1531
+14	just	just	ADV	RB	_	16	advmod	_	start_char=1532|end_char=1536
+15	to	to	PART	TO	_	16	mark	_	start_char=1537|end_char=1539
+16	make	make	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=1540|end_char=1544
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=1545|end_char=1547
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=1548|end_char=1549
+19	little	little	ADJ	JJ	Degree=Pos	20	obl:npmod	_	start_char=1550|end_char=1556
+20	louder	loud	ADJ	JJR	Degree=Cmp	16	xcomp	_	start_char=1557|end_char=1563
+21	.	.	PUNCT	.	_	1	punct	_	start_char=1563|end_char=1564
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1565|end_char=1566
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=1566|end_char=1568
+3	not	not	PART	RB	_	4	advmod	_	start_char=1569|end_char=1572
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=1573|end_char=1579
+5	to	to	PART	TO	_	6	mark	_	start_char=1580|end_char=1582
+6	steal	steal	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=1583|end_char=1588
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=1589|end_char=1593
+8	thunder	thunder	NOUN	NN	Number=Sing	6	obj	_	start_char=1594|end_char=1601
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=1602|end_char=1604
+10	anything	anything	PRON	NN	Number=Sing	8	conj	_	start_char=1605|end_char=1613
+11	...	...	PUNCT	.	_	4	punct	_	start_char=1613|end_char=1616
+
+1	'	'	PUNCT	``	_	4	punct	_	start_char=1617|end_char=1618
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1618|end_char=1619
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1620|end_char=1622
+4	Spartacus	Spartacus	PROPN	NNP	Number=Sing	0	root	_	start_char=1623|end_char=1632
+5	'	'	PUNCT	''	_	4	punct	_	start_char=1632|end_char=1633
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=1634|end_char=1636
+7	whatever	whatever	PRON	WDT	PronType=Int	4	conj	_	start_char=1637|end_char=1645
+8	.	.	PUNCT	.	_	4	punct	_	start_char=1645|end_char=1646
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1656|end_char=1662
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1662|end_char=1663
+3	None	none	NOUN	NN	Number=Sing	4	compound	_	start_char=1664|end_char=1668
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1669|end_char=1673
+5	:	:	PUNCT	:	_	4	punct	_	start_char=1673|end_char=1674
+6	[	[	PUNCT	-LRB-	_	7	punct	_	start_char=1675|end_char=1676
+7	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=1676|end_char=1683
+8	]	]	PUNCT	-RRB-	_	7	punct	_	start_char=1683|end_char=1684
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1694|end_char=1700
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1700|end_char=1701
+3	hedzinbed	hedzinb	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=1702|end_char=1711
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1712|end_char=1716
+5	:	:	PUNCT	:	_	1	punct	_	start_char=1716|end_char=1717
+
+1	What	what	PRON	WP	PronType=Int	4	obj	_	start_char=1718|end_char=1722
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=1723|end_char=1726
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=1727|end_char=1729
+4	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=1730|end_char=1732
+5	about	about	ADP	IN	_	6	case	_	start_char=1733|end_char=1738
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obl	_	start_char=1739|end_char=1743
+7	?	?	PUNCT	.	_	4	punct	_	start_char=1743|end_char=1744
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=1745|end_char=1746
+2	Srsly	Srsly	PROPN	NNP	Number=Sing	0	root	_	start_char=1746|end_char=1751
+3	asking	ask	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=1752|end_char=1758
+4	)	)	PUNCT	-RRB-	_	2	punct	_	start_char=1758|end_char=1759
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1769|end_char=1775
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1775|end_char=1776
+3	mcjaggerbeck	mcjaggerbeck	NOUN	NN	Number=Sing	4	compound	_	start_char=1777|end_char=1789
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1790|end_char=1794
+5	:	:	PUNCT	:	_	4	punct	_	start_char=1794|end_char=1795
+6	Psa	psa	NOUN	NN	Number=Sing	4	appos	_	start_char=1796|end_char=1799
+7	:	:	PUNCT	:	_	9	punct	_	start_char=1799|end_char=1800
+8	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	9	cop	_	start_char=1801|end_char=1803
+9	careful	careful	ADJ	JJ	Degree=Pos	1	appos	_	start_char=1804|end_char=1811
+10	looking	look	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=1812|end_char=1819
+11	through	through	ADP	IN	_	15	case	_	start_char=1820|end_char=1827
+12	this	this	DET	DT	Number=Sing|PronType=Dem	15	det	_	start_char=1828|end_char=1832
+13	guys	guy	NOUN	NNS	Number=Plur	15	compound	_	start_char=1833|end_char=1837
+14	post	post	NOUN	NN	Number=Sing	15	compound	_	start_char=1838|end_char=1842
+15	history	history	NOUN	NN	Number=Sing	10	obl	_	start_char=1843|end_char=1850
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1860|end_char=1866
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1866|end_char=1867
+3	Hyperwhelmed	hyperwhelmed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=1868|end_char=1880
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=1881|end_char=1885
+5	:	:	PUNCT	:	_	1	punct	_	start_char=1885|end_char=1886
+6	Sorry	sorry	ADJ	JJ	Degree=Pos	1	appos	_	start_char=1887|end_char=1892
+7	if	if	SCONJ	IN	_	9	mark	_	start_char=1893|end_char=1895
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=1896|end_char=1899
+9	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	advcl	_	start_char=1900|end_char=1903
+10	more	more	ADJ	JJR	Degree=Cmp	9	obj	_	start_char=1904|end_char=1908
+11	than	than	SCONJ	IN	_	13	mark	_	start_char=1909|end_char=1913
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=1914|end_char=1917
+13	bargained	bargain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	_	start_char=1918|end_char=1927
+14	for	for	ADP	IN	_	15	case	_	start_char=1928|end_char=1931
+15	there	there	ADV	RB	PronType=Dem	13	obl	_	start_char=1932|end_char=1937
+16	,	,	PUNCT	,	_	20	punct	_	start_char=1937|end_char=1938
+17	but	but	CCONJ	CC	_	20	cc	_	start_char=1939|end_char=1942
+18	that	that	PRON	DT	Number=Sing|PronType=Dem	20	nsubj	_	start_char=1943|end_char=1947
+19	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=1947|end_char=1949
+20	why	why	SCONJ	WRB	PronType=Int	6	conj	_	start_char=1950|end_char=1953
+21	there	there	PRON	EX	_	22	expl	_	start_char=1954|end_char=1959
+22	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=1959|end_char=1961
+23	an	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	start_char=1962|end_char=1964
+24	NSFW	nsfw	NOUN	NN	Number=Sing	25	compound	_	start_char=1965|end_char=1969
+25	alert	alert	NOUN	NN	Number=Sing	22	nsubj	_	start_char=1970|end_char=1975
+26	.	.	PUNCT	.	_	1	punct	_	start_char=1975|end_char=1976
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=1986|end_char=1992
+2	:	:	PUNCT	:	_	1	punct	_	start_char=1992|end_char=1993
+3	mcjaggerbeck	mcjaggerbeck	NOUN	NN	Number=Sing	4	compound	_	start_char=1994|end_char=2006
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2007|end_char=2011
+5	:	:	PUNCT	:	_	4	punct	_	start_char=2011|end_char=2012
+6	Haha	haha	INTJ	UH	_	8	discourse	_	start_char=2013|end_char=2017
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	_	start_char=2018|end_char=2022
+8	point	point	NOUN	NN	Number=Sing	4	parataxis	_	start_char=2023|end_char=2028
+9	,	,	PUNCT	,	_	11	punct	_	start_char=2028|end_char=2029
+10	just	just	ADV	RB	_	11	advmod	_	start_char=2030|end_char=2034
+11	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part	4	parataxis	_	start_char=2035|end_char=2041
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=2042|end_char=2044
+13	by	by	ADP	IN	_	14	case	_	start_char=2045|end_char=2047
+14	surprise	surprise	NOUN	NN	Number=Sing	11	obl	_	start_char=2048|end_char=2056
+15	.	.	PUNCT	.	_	1	punct	_	start_char=2056|end_char=2057
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2063|end_char=2069
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2069|end_char=2070
+3	koumus	koumus	NOUN	NN	Number=Sing	4	compound	_	start_char=2071|end_char=2077
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2078|end_char=2082
+5	:	:	PUNCT	:	_	6	punct	_	start_char=2082|end_char=2083
+6	Wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	1	appos	_	start_char=2084|end_char=2088
+7	,	,	PUNCT	,	_	10	punct	_	start_char=2088|end_char=2089
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=2090|end_char=2091
+9	mod	mod	NOUN	NN	Number=Sing	10	nsubj	_	start_char=2092|end_char=2095
+10	removed	remove	VERB	VBD	Tense=Past|VerbForm=Part	6	parataxis	_	start_char=2096|end_char=2103
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=2104|end_char=2106
+12	?	?	PUNCT	.	_	1	punct	_	start_char=2106|end_char=2107
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=2108|end_char=2109
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2110|end_char=2112
+3	n't	not	PART	RB	_	4	advmod	_	start_char=2112|end_char=2115
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=2116|end_char=2119
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=2120|end_char=2122
+6	,	,	PUNCT	,	_	8	punct	_	start_char=2122|end_char=2123
+7	just	just	ADV	RB	_	8	advmod	_	start_char=2124|end_char=2128
+8	watched	watch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	_	start_char=2129|end_char=2136
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=2137|end_char=2140
+10	video	video	NOUN	NN	Number=Sing	8	obj	_	start_char=2141|end_char=2146
+11	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=2147|end_char=2149
+12	hour	hour	NOUN	NN	Number=Sing	13	obl:npmod	_	start_char=2150|end_char=2154
+13	ago	ago	ADV	RB	_	8	advmod	_	start_char=2155|end_char=2158
+14	and	and	CCONJ	CC	_	19	cc	_	start_char=2159|end_char=2162
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=2163|end_char=2166
+16	thread	thread	NOUN	NN	Number=Sing	19	nsubj	_	start_char=2167|end_char=2173
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=2174|end_char=2177
+18	on	on	ADP	IN	_	19	case	_	start_char=2178|end_char=2180
+19	fire	fire	NOUN	NN	Number=Sing	4	conj	_	start_char=2181|end_char=2185
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2195|end_char=2201
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2201|end_char=2202
+3	None	none	NOUN	NN	Number=Sing	4	compound	_	start_char=2203|end_char=2207
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2208|end_char=2212
+5	:	:	PUNCT	:	_	4	punct	_	start_char=2212|end_char=2213
+6	[	[	PUNCT	-LRB-	_	7	punct	_	start_char=2214|end_char=2215
+7	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=2215|end_char=2222
+8	]	]	PUNCT	-RRB-	_	7	punct	_	start_char=2222|end_char=2223
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2233|end_char=2239
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2239|end_char=2240
+3	dsquidmusic	dsquidmusic	ADJ	JJ	Degree=Pos	4	amod	_	start_char=2241|end_char=2252
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2253|end_char=2257
+5	:	:	PUNCT	:	_	6	punct	_	start_char=2257|end_char=2258
+6	Lots	lot	NOUN	NNS	Number=Plur	1	appos	_	start_char=2259|end_char=2263
+7	of	of	ADP	IN	_	8	case	_	start_char=2264|end_char=2266
+8	downvoted	downvote	VERB	VBN	Tense=Past|VerbForm=Part	6	nmod	_	start_char=2267|end_char=2276
+9	here	here	ADV	RB	PronType=Dem	6	advmod	_	start_char=2277|end_char=2281
+10	too	too	ADV	RB	_	6	advmod	_	start_char=2282|end_char=2285
+11	.	.	PUNCT	.	_	1	punct	_	start_char=2285|end_char=2286
+
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=2287|end_char=2296
+2	fishy	fishy	ADJ	JJ	Degree=Pos	1	amod	_	start_char=2297|end_char=2302
+3	going	go	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=2303|end_char=2308
+4	on	on	ADP	RP	_	3	compound:prt	_	start_char=2309|end_char=2311
+5	.	.	PUNCT	.	_	1	punct	_	start_char=2311|end_char=2312
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2322|end_char=2328
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2328|end_char=2329
+3	JustAnOldProspector	JustAnOldProspector	ADJ	JJ	Degree=Pos	4	amod	_	start_char=2330|end_char=2349
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2350|end_char=2354
+5	:	:	PUNCT	:	_	4	punct	_	start_char=2354|end_char=2355
+6	Cringegate	Cringegate	PROPN	NNP	Number=Sing	4	dep	_	start_char=2356|end_char=2366
+7	...	...	PUNCT	.	_	1	punct	_	start_char=2366|end_char=2369
+
+1	Dun	Dun	PROPN	NNP	Number=Sing	0	root	_	start_char=2383|end_char=2386
+2	dun	dun	NOUN	NN	Number=Sing	3	compound	_	start_char=2387|end_char=2390
+3	dunnn	dunnn	NOUN	NN	Number=Sing	1	appos	_	start_char=2391|end_char=2396
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2406|end_char=2412
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2412|end_char=2413
+3	GrumpyWendigo	GrumpyWendigo	PROPN	NNP	Number=Sing	4	compound	_	start_char=2414|end_char=2427
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2428|end_char=2432
+5	:	:	PUNCT	:	_	4	punct	_	start_char=2432|end_char=2433
+6	Lilly	Lilly	PROPN	NNP	Number=Sing	4	dep	_	start_char=2434|end_char=2439
+7	!	!	PUNCT	.	_	1	punct	_	start_char=2439|end_char=2440
+
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=2454|end_char=2458
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=2459|end_char=2461
+3	!	!	PUNCT	.	_	1	punct	_	start_char=2461|end_char=2462
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2468|end_char=2474
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2474|end_char=2475
+3	chrituan-rumpel	chrituan-rumpel	ADJ	JJ	Degree=Pos	4	amod	_	start_char=2476|end_char=2491
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2492|end_char=2496
+5	:	:	PUNCT	:	_	1	punct	_	start_char=2496|end_char=2497
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=2498|end_char=2502
+2	video	video	NOUN	NN	Number=Sing	4	nsubj	_	start_char=2503|end_char=2508
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=2509|end_char=2512
+4	cringe	cringe	ADJ	JJ	Degree=Pos	0	root	_	start_char=2513|end_char=2519
+5	to	to	ADP	IN	_	7	case	_	start_char=2520|end_char=2522
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=2523|end_char=2526
+7	core	core	NOUN	NN	Number=Sing	4	obl	_	start_char=2527|end_char=2531
+8	.	.	PUNCT	.	_	4	punct	_	start_char=2531|end_char=2532
+
+1	Ridiculous	Ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=2533|end_char=2543
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2543|end_char=2544
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2550|end_char=2556
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2556|end_char=2557
+3	say_sheez	say_sheez	NOUN	NN	Number=Sing	4	compound	_	start_char=2558|end_char=2567
+4	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2568|end_char=2572
+5	:	:	PUNCT	:	_	1	punct	_	start_char=2572|end_char=2573
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=2574|end_char=2577
+2	lily	lily	NOUN	NN	Number=Sing	4	compound	_	start_char=2578|end_char=2582
+3	singh	singh	PROPN	NNP	Number=Sing	4	compound	_	start_char=2583|end_char=2588
+4	videos	video	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=2589|end_char=2595
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	start_char=2596|end_char=2600
+6	peak	peak	ADJ	JJ	Degree=Pos	7	advmod	_	start_char=2601|end_char=2605
+7	cringe	cringe	ADJ	JJ	Degree=Pos	0	root	_	start_char=2606|end_char=2612
+8	...	...	PUNCT	,	_	7	punct	_	start_char=2612|end_char=2615
+9	why	why	ADV	WRB	PronType=Int	10	advmod	_	start_char=2615|end_char=2618
+10	remove	remove	VERB	VB	VerbForm=Inf	7	parataxis	_	start_char=2619|end_char=2625
+11	?	?	PUNCT	.	_	7	punct	_	start_char=2625|end_char=2626
+
+1	Author	author	NOUN	NN	Number=Sing	0	root	_	start_char=2632|end_char=2638
+2	:	:	PUNCT	:	_	1	punct	_	start_char=2638|end_char=2639
+3	kido	kido	PROPN	NNP	Number=Sing	5	compound	_	start_char=2640|end_char=2644
+4	86	86	NUM	CD	NumType=Card	3	nummod	_	start_char=2644|end_char=2646
+5	Body	body	NOUN	NN	Number=Sing	1	appos	_	start_char=2647|end_char=2651
+6	:	:	PUNCT	:	_	9	punct	_	start_char=2651|end_char=2652
+7	Ca	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=2653|end_char=2655
+8	n’t	not	PART	RB	_	9	advmod	_	start_char=2655|end_char=2658
+9	find	find	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=2659|end_char=2663
+10	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=2664|end_char=2667
+11	opening	open	VERB	VBG	VerbForm=Ger	12	amod	_	start_char=2668|end_char=2675
+12	monologue	monologue	NOUN	NN	Number=Sing	9	obj	_	start_char=2676|end_char=2685
+13	one	one	NUM	CD	NumType=Card	9	obj	_	start_char=2686|end_char=2689
+14	from	from	ADP	IN	_	15	case	_	start_char=2690|end_char=2694
+15	yesterday	yesterday	NOUN	NN	Number=Sing	9	obl	_	start_char=2695|end_char=2704
+16	either	either	ADV	RB	_	9	advmod	_	start_char=2705|end_char=2711
+17	.	.	PUNCT	.	_	1	punct	_	start_char=2711|end_char=2712
+
+1	----	----	PUNCT	NFP	_	3	punct	_	start_char=2716|end_char=2720
+2	^[	^[	PUNCT	-LRB-	_	3	punct	_	start_char=2721|end_char=2723
+3	Bugs	bug	NOUN	NNS	Number=Plur	0	root	_	start_char=2723|end_char=2727
+4	]	]	PUNCT	-RRB-	_	3	punct	_	start_char=2727|end_char=2728
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=2728|end_char=2729
+2	https://www.reddit.com/message/compose?to=%2Fr%2FNoLockedThreads)	https://www.reddit.com/message/compose?to=%2fr%2fnolockedthreads)	X	ADD	_	0	root	_	start_char=2729|end_char=2794
+

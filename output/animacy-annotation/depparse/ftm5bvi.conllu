@@ -1,0 +1,33 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	hateful	hateful	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=38|end_char=42
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=43|end_char=46
+9	’d	have	AUX	MD	VerbForm=Fin	10	aux	_	start_char=46|end_char=48
+10	threaten	threaten	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=49|end_char=57
+11	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=58|end_char=64
+12	standing	stand	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=65|end_char=73
+13	up	up	ADP	RP	_	12	compound:prt	_	start_char=74|end_char=76
+14	for	for	ADP	IN	_	16	case	_	start_char=77|end_char=80
+15	equal	equal	ADJ	JJ	Degree=Pos	16	amod	_	start_char=81|end_char=86
+16	rights	rights	NOUN	NNS	Number=Plur	12	obl	_	start_char=87|end_char=93
+17	.	.	PUNCT	.	_	1	punct	_	start_char=93|end_char=94
+
+1	Absolutely	absolutely	ADV	RB	_	2	advmod	_	start_char=95|end_char=105
+2	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=116
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=117|end_char=118
+4	best	good	ADJ	JJS	Degree=Sup	2	conj	_	start_char=119|end_char=123
+5	of	of	ADP	IN	_	6	case	_	start_char=124|end_char=126
+6	luck	luck	NOUN	NN	Number=Sing	4	obl	_	start_char=127|end_char=131
+7	to	to	ADP	IN	_	8	case	_	start_char=132|end_char=134
+8	everyone	everyone	PRON	NN	Number=Sing	6	nmod	_	start_char=135|end_char=143
+9	fighting	fight	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=144|end_char=152
+10	for	for	ADP	IN	_	11	case	_	start_char=153|end_char=156
+11	BLM	BLM	PROPN	NNP	Number=Sing	9	obl	_	start_char=157|end_char=160
+12	in	in	ADP	IN	_	13	case	_	start_char=161|end_char=163
+13	Shoreview	Shoreview	PROPN	NNP	Number=Sing	9	obl	_	start_char=164|end_char=173
+14	.	.	PUNCT	.	_	2	punct	_	start_char=173|end_char=174
+

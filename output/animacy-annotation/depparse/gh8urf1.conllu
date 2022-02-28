@@ -1,0 +1,46 @@
+1	One	one	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	guy	guy	NOUN	NN	Number=Sing	3	nsubj	_	start_char=4|end_char=7
+3	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=11
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=12|end_char=16
+5	to	to	ADP	IN	_	6	case	_	start_char=17|end_char=19
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=20|end_char=22
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=23|end_char=26
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=27|end_char=28
+9	shot	shoot	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=29|end_char=33
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=34|end_char=37
+11	ass	ass	NOUN	NN	Number=Sing	9	obj	_	start_char=38|end_char=41
+12	.	.	PUNCT	.	_	3	punct	_	start_char=41|end_char=42
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=43|end_char=44
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=45|end_char=48
+3	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=52
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=53|end_char=56
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=57|end_char=64
+6	of	of	ADP	IN	_	8	case	_	start_char=65|end_char=67
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=68|end_char=71
+8	culture	culture	NOUN	NN	Number=Sing	5	obl	_	start_char=72|end_char=79
+9	surrounding	surround	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=80|end_char=91
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=92|end_char=95
+11	friendly	friendly	ADJ	JJ	Degree=Pos	12	amod	_	start_char=96|end_char=104
+12	crouch	crouch	NOUN	NN	Number=Sing	9	obj	_	start_char=105|end_char=111
+13	.	.	PUNCT	.	_	3	punct	_	start_char=111|end_char=112
+
+1	Regret	regret	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=113|end_char=119
+2	to	to	ADP	IN	_	4	case	_	start_char=120|end_char=122
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=123|end_char=127
+4	day	day	NOUN	NN	Number=Sing	1	obl	_	start_char=128|end_char=131
+5	😂😭	😂😭	CCONJ	CC	_	10	cc	_	start_char=132|end_char=134
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=135|end_char=137
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=137|end_char=139
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=140|end_char=143
+9	little	little	ADJ	JJ	Degree=Pos	10	amod	_	start_char=144|end_char=150
+10	things	thing	NOUN	NNS	Number=Plur	1	parataxis	_	start_char=151|end_char=157
+11	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=158|end_char=162
+12	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=163|end_char=167
+13	DMRs	dmr	NOUN	NNS	Number=Plur	12	obj	_	start_char=168|end_char=172
+14	to	to	ADP	IN	_	16	case	_	start_char=173|end_char=175
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=176|end_char=179
+16	ass	ass	NOUN	NN	Number=Sing	12	obl	_	start_char=180|end_char=183
+17	worth	worth	ADJ	JJ	Degree=Pos	16	amod	_	start_char=184|end_char=189
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=190|end_char=192
+

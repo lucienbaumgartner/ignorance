@@ -1,0 +1,8 @@
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=4
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5|end_char=8
+3	act	act	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=12
+4	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=13|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	natural	natural	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=32
+7	?	?	PUNCT	.	_	3	punct	_	start_char=33|end_char=34
+

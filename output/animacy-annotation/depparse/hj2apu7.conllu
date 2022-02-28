@@ -1,0 +1,51 @@
+1	Of	of	ADP	IN	_	0	root	_	start_char=0|end_char=2
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=3|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	nsubj	_	start_char=11|end_char=15
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+3	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=22|end_char=23
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=24|end_char=26
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=27|end_char=29
+4	engineer	engineer	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=38
+5	so	so	ADV	RB	_	9	advmod	_	start_char=39|end_char=41
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=42|end_char=43
+7	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=44|end_char=48
+8	also	also	ADV	RB	_	9	advmod	_	start_char=49|end_char=53
+9	interacted	interact	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=54|end_char=64
+10	with	with	ADP	IN	_	13	case	_	start_char=65|end_char=69
+11	numerous	numerous	ADJ	JJ	Degree=Pos	13	amod	_	start_char=70|end_char=78
+12	incels	incel	NOUN	NNS	Number=Plur	13	compound	_	start_char=79|end_char=85
+13	IRL	IRL	NOUN	NN	Number=Sing	9	obl	_	start_char=86|end_char=89
+14	as	as	SCONJ	IN	_	17	mark	_	start_char=90|end_char=92
+15	most	most	ADV	RBS	_	17	advmod	_	start_char=93|end_char=97
+16	also	also	ADV	RB	_	17	advmod	_	start_char=98|end_char=102
+17	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=103|end_char=107
+18	.	.	PUNCT	.	_	4	punct	_	start_char=107|end_char=108
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=109|end_char=112
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	_	start_char=113|end_char=117
+3	type	type	NOUN	NN	Number=Sing	23	nsubj	_	start_char=118|end_char=122
+4	of	of	ADP	IN	_	5	case	_	start_char=123|end_char=125
+5	person	person	NOUN	NN	Number=Sing	3	nmod	_	start_char=126|end_char=132
+6	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=133|end_char=136
+7	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=137|end_char=142
+8	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=143|end_char=145
+9	both	both	CCONJ	CC	_	11	cc:preconj	_	start_char=146|end_char=150
+10	self	self	NOUN	NN	Number=Sing	11	obl:npmod	_	start_char=151|end_char=155
+11	unaware	unaware	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=156|end_char=163
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=164|end_char=167
+13	generally	generally	ADV	RB	_	14	advmod	_	start_char=168|end_char=177
+14	shitty	shitty	ADJ	JJ	Degree=Pos	11	conj	_	start_char=178|end_char=184
+15	enough	enough	ADJ	JJ	Degree=Pos	14	advmod	_	start_char=185|end_char=191
+16	to	to	PART	TO	_	17	mark	_	start_char=192|end_char=194
+17	equate	equate	VERB	VB	VerbForm=Inf	15	advcl	_	start_char=195|end_char=201
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=202|end_char=205
+19	two	two	NUM	CD	NumType=Card	17	obj	_	start_char=206|end_char=209
+20	would	would	AUX	MD	VerbForm=Fin	23	aux	_	start_char=210|end_char=215
+21	be	be	AUX	VB	VerbForm=Inf	23	cop	_	start_char=216|end_char=218
+22	an	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=219|end_char=221
+23	incel	incel	NOUN	NN	Number=Sing	0	root	_	start_char=222|end_char=227
+

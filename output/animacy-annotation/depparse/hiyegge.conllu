@@ -1,0 +1,43 @@
+1	uuuuuhhhhh	uuuuuhhhhh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=10
+2	yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=11|end_char=15
+3	,	,	PUNCT	,	_	2	punct	_	start_char=15|end_char=16
+4	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=17|end_char=20
+5	.	.	PUNCT	.	_	4	punct	_	start_char=20|end_char=21
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=22|end_char=25
+2	least	least	ADJ	JJS	Degree=Sup	3	advmod	_	start_char=26|end_char=31
+3	harsh	harsh	ADJ	JJ	Degree=Pos	4	amod	_	start_char=32|end_char=37
+4	thing	thing	NOUN	NN	Number=Sing	10	nsubj	_	start_char=38|end_char=43
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=44|end_char=47
+6	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=48|end_char=53
+7	have	have	AUX	VB	VerbForm=Inf	8	aux	_	start_char=54|end_char=58
+8	done	do	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	_	start_char=59|end_char=63
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	start_char=64|end_char=67
+10	kick	kick	VERB	VB	VerbForm=Inf	0	root	_	start_char=68|end_char=72
+11	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=73|end_char=76
+12	out	out	ADP	RP	_	10	compound:prt	_	start_char=77|end_char=80
+13	.	.	PUNCT	.	_	10	punct	_	start_char=80|end_char=81
+
+1	Clearly	clearly	ADV	RB	_	3	advmod	_	start_char=82|end_char=89
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=90|end_char=91
+3	sociopath	sociopath	NOUN	NN	Number=Sing	0	root	_	start_char=92|end_char=101
+4	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+
+1	Or	or	CCONJ	CC	_	4	cc	_	start_char=103|end_char=105
+2	just	just	ADV	RB	_	4	advmod	_	start_char=106|end_char=110
+3	very	very	ADV	RB	_	4	advmod	_	start_char=111|end_char=115
+4	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=116|end_char=120
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=121|end_char=124
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=125|end_char=132
+7	that	that	SCONJ	IN	_	14	mark	_	start_char=133|end_char=137
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=138|end_char=139
+9	lot	lot	NOUN	NN	Number=Sing	14	nsubj	_	start_char=140|end_char=143
+10	of	of	ADP	IN	_	12	case	_	start_char=144|end_char=146
+11	house	house	NOUN	NN	Number=Sing	12	compound	_	start_char=147|end_char=152
+12	cats	cat	NOUN	NNS	Number=Plur	9	nmod	_	start_char=153|end_char=157
+13	dont	do	AUX	MD	VerbForm=Fin	14	aux	_	start_char=158|end_char=162
+14	belong	belong	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=163|end_char=169
+15	outside	outside	ADV	RB	_	14	advmod	_	start_char=170|end_char=177
+16	alone	alone	ADV	RB	_	14	advmod	_	start_char=178|end_char=183
+17	.	.	PUNCT	.	_	4	punct	_	start_char=183|end_char=184
+

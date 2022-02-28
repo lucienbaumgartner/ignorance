@@ -1,0 +1,11 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	careless	careless	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=20
+4	humans	human	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=21|end_char=27
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=28|end_char=31
+6	what	what	PRON	WP	PronType=Int	1	conj	_	start_char=32|end_char=36
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=37|end_char=39
+8	really	really	ADV	RB	_	9	advmod	_	start_char=40|end_char=46
+9	scary	scary	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=47|end_char=52
+10	.	.	PUNCT	.	_	1	punct	_	start_char=52|end_char=53
+

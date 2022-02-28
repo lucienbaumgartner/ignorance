@@ -1,0 +1,25 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	criminal	criminal	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=16
+4	...	...	PUNCT	,	_	3	punct	_	start_char=16|end_char=19
+5	what	what	DET	WDT	PronType=Int	6	det	_	start_char=20|end_char=24
+6	country	country	NOUN	NN	Number=Sing	8	nsubj	_	start_char=25|end_char=32
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=33|end_char=35
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	3	parataxis	_	start_char=36|end_char=40
+9	anyways	anyways	ADV	RB	_	8	advmod	_	start_char=41|end_char=48
+10	.	.	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	Poor	poor	ADJ	JJ	Degree=Pos	2	amod	_	start_char=50|end_char=54
+2	women	woman	NOUN	NNS	Number=Plur	0	root	_	start_char=55|end_char=60
+3	and	and	CCONJ	CC	_	6	cc	_	start_char=61|end_char=64
+4	usually	usually	ADV	RB	_	6	advmod	_	start_char=65|end_char=72
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=73|end_char=76
+6	poor	poor	ADJ	JJ	Degree=Pos	2	conj	_	start_char=77|end_char=81
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=82|end_char=85
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=86|end_char=94
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=95|end_char=99
+10	produce	produce	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=100|end_char=107
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=108|end_char=111
+12	most	most	ADJ	JJS	Degree=Sup	10	obj	_	start_char=112|end_char=116
+13	!	!	PUNCT	.	_	2	punct	_	start_char=116|end_char=117
+

@@ -1,0 +1,33 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj:pass	_	start_char=0|end_char=1
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=1|end_char=4
+3	almost	almost	ADV	RB	_	5	advmod	_	start_char=5|end_char=11
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=12|end_char=16
+5	hit	hit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=17|end_char=20
+6	by	by	ADP	IN	_	8	case	_	start_char=21|end_char=23
+7	more	more	ADJ	JJR	Degree=Cmp	8	amod	_	start_char=24|end_char=28
+8	Lexus	Lexus	PROPN	NNP	Number=Sing	5	obl	_	start_char=29|end_char=34
+9	than	than	ADP	IN	_	12	case	_	start_char=35|end_char=39
+10	any	any	DET	DT	_	12	det	_	start_char=40|end_char=43
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	start_char=44|end_char=49
+12	brand	brand	NOUN	NN	Number=Sing	5	obl	_	start_char=50|end_char=55
+13	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=62
+2	like	like	ADP	IN	_	9	mark	_	start_char=63|end_char=67
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=68|end_char=71
+4	person	person	NOUN	NN	Number=Sing	9	nsubj	_	start_char=72|end_char=78
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=79|end_char=82
+6	buys	busy	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=83|end_char=87
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	start_char=88|end_char=92
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=93|end_char=95
+9	older	old	ADJ	JJR	Degree=Cmp	1	ccomp	_	start_char=96|end_char=101
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=102|end_char=105
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=106|end_char=113
+12	of	of	ADP	IN	_	13	case	_	start_char=114|end_char=116
+13	anything	anything	PRON	NN	Number=Sing	11	obl	_	start_char=117|end_char=125
+14	going	go	VERB	VBG	VerbForm=Ger	13	acl	_	start_char=126|end_char=131
+15	on	on	ADP	RP	_	14	compound:prt	_	start_char=132|end_char=134
+16	around	around	ADP	IN	_	17	case	_	start_char=135|end_char=141
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obl	_	start_char=142|end_char=146
+18	.	.	PUNCT	.	_	1	punct	_	start_char=146|end_char=147
+

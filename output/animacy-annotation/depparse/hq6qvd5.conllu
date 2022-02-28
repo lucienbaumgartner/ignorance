@@ -1,0 +1,50 @@
+1	YTA	YTA	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=0|end_char=3
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=4|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	conj	_	start_char=8|end_char=11
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=11|end_char=14
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=15|end_char=20
+6	willfully	willfully	ADV	RB	_	7	advmod	_	start_char=21|end_char=30
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=39
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=40|end_char=43
+9	cruel	cruel	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=49
+10	.	.	PUNCT	.	_	7	punct	_	start_char=49|end_char=50
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=51|end_char=54
+2	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=55|end_char=59
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	iobj	_	start_char=60|end_char=63
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=64|end_char=67
+5	PERFCT	perfct	NOUN	NN	Number=Sing	6	compound	_	start_char=68|end_char=74
+6	reason	reason	NOUN	NN	Number=Sing	2	obj	_	start_char=75|end_char=81
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=82|end_char=86
+8	family	family	NOUN	NN	Number=Sing	11	nsubj	_	start_char=87|end_char=93
+9	should	should	AUX	MD	VerbForm=Fin	11	aux	_	start_char=94|end_char=100
+10	n't	not	PART	RB	_	11	advmod	_	start_char=100|end_char=103
+11	come	come	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=104|end_char=108
+12	visit	visit	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=109|end_char=114
+13	.	.	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=116|end_char=119
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=120|end_char=124
+3	NEVER	never	ADV	RB	_	4	advmod	_	start_char=125|end_char=130
+4	forget	forget	VERB	VB	VerbForm=Inf	0	root	_	start_char=131|end_char=137
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=138|end_char=142
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=143|end_char=146
+7	may	may	AUX	MD	VerbForm=Fin	9	aux	_	start_char=147|end_char=150
+8	not	not	PART	RB	_	9	advmod	_	start_char=151|end_char=154
+9	forgive	forgive	VERB	VB	VerbForm=Inf	4	conj	_	start_char=155|end_char=162
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	start_char=163|end_char=166
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=167|end_char=170
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=171|end_char=174
+13	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=175|end_char=182
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=183|end_char=185
+15	.	.	PUNCT	.	_	4	punct	_	start_char=185|end_char=186
+
+1	Horrible	horrible	ADJ	JJ	Degree=Pos	0	root	_	start_char=187|end_char=195
+2	.	.	PUNCT	.	_	1	punct	_	start_char=195|end_char=196
+
+1	Awful	awful	ADJ	JJ	Degree=Pos	0	root	_	start_char=197|end_char=202
+2	.	.	PUNCT	.	_	1	punct	_	start_char=202|end_char=203
+
+1	Gross	Gross	ADJ	JJ	Degree=Pos	0	root	_	start_char=204|end_char=209
+2	.	.	PUNCT	.	_	1	punct	_	start_char=209|end_char=210
+

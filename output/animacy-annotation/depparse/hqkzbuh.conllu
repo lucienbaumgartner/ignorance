@@ -1,0 +1,22 @@
+1	Oh	oh	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	yes	yes	INTJ	UH	_	5	discourse	_	start_char=3|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=7|end_char=8
+4	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=10
+5	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=16
+6	.	.	PUNCT	.	_	5	punct	_	start_char=16|end_char=17
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=18|end_char=19
+2	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=19|end_char=21
+3	just	just	ADV	RB	_	4	advmod	_	start_char=22|end_char=26
+4	proving	prove	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=27|end_char=34
+5	GenZedong	GenZedong	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=35|end_char=44
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=45|end_char=47
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=48|end_char=56
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=57|end_char=60
+9	stupid	stupid	ADJ	JJ	Degree=Pos	7	conj	_	start_char=61|end_char=67
+10	in	in	ADP	IN	_	13	case	_	start_char=68|end_char=70
+11	*	*	PUNCT	NFP	_	13	punct	_	start_char=71|end_char=72
+12	another	another	DET	DT	_	13	det	_	start_char=72|end_char=79
+13	way	way	NOUN	NN	Number=Sing	7	obl	_	start_char=80|end_char=83
+14	*	*	PUNCT	NFP	_	4	punct	_	start_char=83|end_char=84
+

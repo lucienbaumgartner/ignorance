@@ -1,0 +1,27 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	mistake	mistake	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=11
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=12|end_char=15
+4	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=16|end_char=20
+5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=23
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=24|end_char=28
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=29|end_char=32
+8	assume	assume	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=33|end_char=39
+9	because	because	SCONJ	IN	_	12	mark	_	start_char=40|end_char=47
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=48|end_char=51
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=52|end_char=55
+12	biased	biased	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	start_char=56|end_char=62
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=63|end_char=66
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=67|end_char=75
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=76|end_char=80
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=81|end_char=83
+17	everyone	everyone	PRON	NN	Number=Sing	20	nsubj	_	start_char=84|end_char=92
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=93|end_char=95
+19	like	like	ADP	IN	_	20	case	_	start_char=96|end_char=100
+20	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	conj	_	start_char=101|end_char=104
+21	.	.	PUNCT	.	_	5	punct	_	start_char=104|end_char=105
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=106|end_char=110
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=111|end_char=113
+3	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=119
+4	.	.	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

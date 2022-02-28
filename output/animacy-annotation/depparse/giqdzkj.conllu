@@ -1,0 +1,19 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	triggered	trigger	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=9|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=30
+6	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+7	mob	mob	NOUN	NN	Number=Sing	8	compound	_	start_char=34|end_char=37
+8	mentality	mentality	NOUN	NN	Number=Sing	5	obl	_	start_char=38|end_char=47
+9	.	.	PUNCT	.	_	2	punct	_	start_char=47|end_char=48
+
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=49|end_char=51
+2	forth	forth	ADV	RB	_	1	advmod	_	start_char=52|end_char=57
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=58|end_char=61
+4	find	find	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=62|end_char=66
+5	entitlement	entitlement	NOUN	NN	Number=Sing	7	compound	_	start_char=67|end_char=78
+6	young	young	ADJ	JJ	Degree=Pos	7	amod	_	start_char=79|end_char=84
+7	man	man	NOUN	NN	Number=Sing	4	obj	_	start_char=85|end_char=88
+8	.	.	PUNCT	.	_	1	punct	_	start_char=88|end_char=89
+

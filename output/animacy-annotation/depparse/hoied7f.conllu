@@ -1,0 +1,96 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	very	very	ADV	RB	_	4	advmod	_	start_char=8|end_char=12
+4	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	of	of	ADP	IN	_	8	case	_	start_char=35|end_char=37
+8	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=38|end_char=45
+9	.	.	PUNCT	.	_	4	punct	_	start_char=45|end_char=46
+
+1	In	in	ADP	IN	_	3	case	_	start_char=47|end_char=49
+2	soviet	soviet	ADJ	JJ	Degree=Pos	3	amod	_	start_char=50|end_char=56
+3	Russia	Russia	PROPN	NNP	Number=Sing	5	obl	_	start_char=57|end_char=63
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=64|end_char=68
+5	slaughtered	slaughter	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=69|end_char=80
+6	orthodox	orthodox	ADJ	JJ	Degree=Pos	7	amod	_	start_char=81|end_char=89
+7	priests	priest	NOUN	NNS	Number=Plur	5	obj	_	start_char=90|end_char=97
+8	for	for	SCONJ	IN	_	10	mark	_	start_char=98|end_char=101
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=102|end_char=107
+10	Christian	Christian	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=108|end_char=117
+11	.	.	PUNCT	.	_	5	punct	_	start_char=117|end_char=118
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=119|end_char=123
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=124|end_char=126
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=127|end_char=128
+4	well	well	ADV	RB	Degree=Pos	5	advmod	_	start_char=129|end_char=133
+5	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=134|end_char=145
+6	fact	fact	NOUN	NN	Number=Sing	0	root	_	start_char=146|end_char=150
+7	.	.	PUNCT	.	_	6	punct	_	start_char=150|end_char=151
+
+1	Further	further	ADV	RB	_	5	advmod	_	start_char=152|end_char=159
+2	,	,	PUNCT	,	_	5	punct	_	start_char=159|end_char=160
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=161|end_char=164
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=165|end_char=169
+5	confused	confuse	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=170|end_char=178
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=179|end_char=180
+7	stern	stern	NOUN	NN	Number=Sing	8	compound	_	start_char=181|end_char=186
+8	rebuke	rebuke	NOUN	NN	Number=Sing	5	obj	_	start_char=187|end_char=193
+9	with	with	ADP	IN	_	10	case	_	start_char=194|end_char=198
+10	hatefulness	hatefulness	NOUN	NN	Number=Sing	5	obl	_	start_char=199|end_char=210
+11	.	.	PUNCT	.	_	5	punct	_	start_char=210|end_char=211
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=212|end_char=213
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=214|end_char=218
+3	no	no	DET	DT	_	4	det	_	start_char=219|end_char=221
+4	hate	hate	NOUN	NN	Number=Sing	2	obj	_	start_char=222|end_char=226
+5	in	in	ADP	IN	_	7	case	_	start_char=227|end_char=229
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=230|end_char=232
+7	heart	heart	NOUN	NN	Number=Sing	4	nmod	_	start_char=233|end_char=238
+8	for	for	ADP	IN	_	9	case	_	start_char=239|end_char=242
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	_	start_char=243|end_char=246
+10	,	,	PUNCT	,	_	14	punct	_	start_char=246|end_char=247
+11	but	but	CCONJ	CC	_	14	cc	_	start_char=248|end_char=251
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=252|end_char=253
+13	certainly	certainly	ADV	RB	_	14	advmod	_	start_char=254|end_char=263
+14	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=264|end_char=269
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj:pass	_	start_char=270|end_char=273
+16	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	_	start_char=273|end_char=276
+17	dangerously	dangerously	ADV	RB	_	18	advmod	_	start_char=277|end_char=288
+18	misguided	misguide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	ccomp	_	start_char=289|end_char=298
+19	.	.	PUNCT	.	_	2	punct	_	start_char=298|end_char=299
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=302|end_char=305
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=305|end_char=308
+3	obviously	obviously	ADV	RB	_	6	advmod	_	start_char=309|end_char=318
+4	OP	OP	PROPN	NNP	Number=Sing	6	nmod:poss	_	start_char=319|end_char=321
+5	’s	's	PART	POS	_	4	case	_	start_char=321|end_char=323
+6	finance	finance	NOUN	NN	Number=Sing	0	root	_	start_char=324|end_char=331
+7	,	,	PUNCT	,	_	6	punct	_	start_char=331|end_char=332
+8	yes	yes	INTJ	UH	_	6	discourse	_	start_char=333|end_char=336
+9	?	?	PUNCT	.	_	6	punct	_	start_char=336|end_char=337
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=338|end_char=340
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=340|end_char=342
+3	no	no	DET	DT	_	4	det	_	start_char=343|end_char=345
+4	mystery	mystery	NOUN	NN	Number=Sing	0	root	_	start_char=346|end_char=353
+5	why	why	SCONJ	WRB	PronType=Int	11	mark	_	start_char=354|end_char=357
+6	OP	OP	PROPN	NNP	Number=Sing	8	nmod:poss	_	start_char=358|end_char=360
+7	’s	's	PART	POS	_	6	case	_	start_char=360|end_char=362
+8	parents	parent	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=363|end_char=370
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=371|end_char=373
+10	not	not	PART	RB	_	11	advmod	_	start_char=374|end_char=377
+11	respect	respect	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=378|end_char=385
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=386|end_char=390
+13	view	view	NOUN	NN	Number=Sing	11	obj	_	start_char=391|end_char=395
+14	.	.	PUNCT	.	_	4	punct	_	start_char=395|end_char=396
+
+1	To	to	PART	TO	_	2	mark	_	start_char=397|end_char=399
+2	earn	earn	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=400|end_char=404
+3	respect	respect	NOUN	NN	Number=Sing	2	obj	_	start_char=405|end_char=412
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=413|end_char=416
+5	must	must	AUX	MD	VerbForm=Fin	7	aux	_	start_char=417|end_char=421
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=422|end_char=424
+7	respectable	respectable	ADJ	JJ	Degree=Pos	0	root	_	start_char=425|end_char=436
+8	.	.	PUNCT	.	_	7	punct	_	start_char=436|end_char=437
+

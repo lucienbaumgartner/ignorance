@@ -1,0 +1,44 @@
+1	And	and	CCONJ	CC	_	13	cc	_	start_char=0|end_char=3
+2	checking	check	VERB	VBG	VerbForm=Ger	13	csubj	_	start_char=4|end_char=12
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=13|end_char=17
+4	post	post	NOUN	NN	Number=Sing	5	compound	_	start_char=18|end_char=22
+5	history	history	NOUN	NN	Number=Sing	2	obj	_	start_char=23|end_char=30
+6	,	,	PUNCT	,	_	13	punct	_	start_char=30|end_char=31
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=32|end_char=35
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=36|end_char=39
+9	100	100	NUM	CD	NumType=Card	10	nummod	_	start_char=40|end_char=43
+10	%	%	SYM	NN	Number=Sing	13	nmod:npmod	_	start_char=43|end_char=44
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=45|end_char=48
+12	scammy	scammy	ADJ	JJ	Degree=Pos	13	amod	_	start_char=49|end_char=55
+13	scum	scum	NOUN	NN	Number=Sing	0	root	_	start_char=56|end_char=60
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=61|end_char=62
+15	talked	talk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=63|end_char=69
+16	about	about	SCONJ	IN	_	17	mark	_	start_char=70|end_char=75
+17	using	use	VERB	VBG	VerbForm=Ger	15	advcl	_	start_char=76|end_char=81
+18	nfts	nft	NOUN	NNS	Number=Plur	17	obj	_	start_char=82|end_char=86
+19	to	to	PART	TO	_	21	mark	_	start_char=87|end_char=89
+20	essentially	essentially	ADV	RB	_	21	advmod	_	start_char=90|end_char=101
+21	defraud	defraud	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=102|end_char=109
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=110|end_char=113
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	obj	_	start_char=114|end_char=122
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=123|end_char=126
+25	naive	naive	ADJ	JJ	Degree=Pos	23	conj	_	start_char=127|end_char=132
+26	.	.	PUNCT	.	_	13	punct	_	start_char=132|end_char=133
+
+1	Creating	create	VERB	VBG	VerbForm=Ger	0	root	_	start_char=135|end_char=143
+2	useless	useless	ADJ	JJ	Degree=Pos	5	amod	_	start_char=144|end_char=151
+3	,	,	PUNCT	,	_	5	punct	_	start_char=151|end_char=152
+4	bullshit	bullshit	NOUN	NN	Number=Sing	5	compound	_	start_char=153|end_char=161
+5	tokens	token	NOUN	NNS	Number=Plur	1	obj	_	start_char=162|end_char=168
+6	for	for	ADP	IN	_	7	case	_	start_char=169|end_char=172
+7	profit	profit	NOUN	NN	Number=Sing	5	nmod	_	start_char=173|end_char=179
+8	.	.	PUNCT	.	_	1	punct	_	start_char=179|end_char=180
+
+1	No	no	DET	DT	_	2	det	_	start_char=182|end_char=184
+2	wonder	wonder	NOUN	NN	Number=Sing	0	root	_	start_char=185|end_char=191
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=192|end_char=195
+4	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=196|end_char=199
+5	so	so	ADV	RB	_	6	advmod	_	start_char=200|end_char=202
+6	triggered	trigger	VERB	VBN	Tense=Past|VerbForm=Part	2	acl:relcl	_	start_char=203|end_char=212
+7	.	.	PUNCT	.	_	2	punct	_	start_char=212|end_char=213
+

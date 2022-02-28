@@ -1,0 +1,44 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	majority	majority	NOUN	NN	Number=Sing	7	nsubj	_	start_char=4|end_char=12
+3	of	of	ADP	IN	_	5	case	_	start_char=13|end_char=15
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=16|end_char=19
+5	world	world	NOUN	NN	Number=Sing	2	nmod	_	start_char=20|end_char=25
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=26|end_char=28
+7	anti-circumcision	anti-circumcision	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=46
+8	.	.	PUNCT	.	_	7	punct	_	start_char=46|end_char=47
+
+1	America	America	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=48|end_char=55
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=56|end_char=58
+3	one	one	NUM	CD	NumType=Card	0	root	_	start_char=59|end_char=62
+4	of	of	ADP	IN	_	7	case	_	start_char=63|end_char=65
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=66|end_char=69
+6	few	few	ADJ	JJ	Degree=Pos	7	amod	_	start_char=70|end_char=73
+7	cultures	culture	NOUN	NNS	Number=Plur	3	nmod	_	start_char=74|end_char=82
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=83|end_char=87
+9	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=88|end_char=92
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=93|end_char=97
+11	practice	practice	NOUN	NN	Number=Sing	9	obj	_	start_char=98|end_char=106
+12	of	of	ADP	IN	_	15	case	_	start_char=107|end_char=109
+13	male	male	ADJ	JJ	Degree=Pos	15	amod	_	start_char=110|end_char=114
+14	genital	genital	ADJ	JJ	Degree=Pos	15	amod	_	start_char=115|end_char=122
+15	mutilation	mutilation	NOUN	NN	Number=Sing	11	nmod	_	start_char=123|end_char=133
+16	.	.	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+
+1	But	but	CCONJ	CC	_	6	cc	_	start_char=137|end_char=140
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	start_char=141|end_char=143
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=143|end_char=145
+4	pretty	pretty	ADV	RB	_	5	advmod	_	start_char=146|end_char=152
+5	typical	typical	ADJ	JJ	Degree=Pos	6	amod	_	start_char=153|end_char=160
+6	American	American	ADJ	JJ	Degree=Pos	0	root	_	start_char=161|end_char=169
+7	to	to	PART	TO	_	9	mark	_	start_char=170|end_char=172
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=173|end_char=175
+9	insular	insular	ADJ	JJ	Degree=Pos	6	csubj	_	start_char=176|end_char=183
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=184|end_char=187
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=188|end_char=196
+12	of	of	ADP	IN	_	14	case	_	start_char=197|end_char=199
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=200|end_char=203
+14	rest	rest	NOUN	NN	Number=Sing	11	obl	_	start_char=204|end_char=208
+15	of	of	ADP	IN	_	16	case	_	start_char=209|end_char=211
+16	world	world	NOUN	NN	Number=Sing	14	nmod	_	start_char=212|end_char=217
+17	.	.	PUNCT	.	_	6	punct	_	start_char=217|end_char=218
+

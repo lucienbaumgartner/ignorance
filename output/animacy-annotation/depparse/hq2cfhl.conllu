@@ -1,0 +1,46 @@
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=3|end_char=6
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=7|end_char=9
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=9|end_char=12
+5	see	see	VERB	VB	VerbForm=Inf	20	advcl	_	start_char=13|end_char=16
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=17|end_char=21
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=22|end_char=23
+8	linked	link	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	ccomp	_	start_char=24|end_char=30
+9	sources	source	NOUN	NNS	Number=Plur	8	obj	_	start_char=31|end_char=38
+10	to	to	ADP	IN	_	11	case	_	start_char=39|end_char=41
+11	things	thing	NOUN	NNS	Number=Plur	8	obl	_	start_char=42|end_char=48
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=49|end_char=50
+13	wrote	write	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	acl:relcl	_	start_char=51|end_char=56
+14	,	,	PUNCT	,	_	20	punct	_	start_char=56|end_char=57
+15	then	then	ADV	RB	PronType=Dem	20	advmod	_	start_char=58|end_char=62
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	start_char=63|end_char=64
+17	seriously	seriously	ADV	RB	Degree=Pos	20	advmod	_	start_char=65|end_char=74
+18	ca	can	AUX	MD	VerbForm=Fin	20	aux	_	start_char=75|end_char=77
+19	n’t	not	PART	RB	Polarity=Neg	20	advmod	_	start_char=77|end_char=80
+20	help	help	VERB	VB	VerbForm=Inf	0	root	_	start_char=81|end_char=85
+21	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	20	obj	_	start_char=86|end_char=89
+22	anymore	anymore	ADV	RB	Degree=Pos	20	advmod	_	start_char=90|end_char=97
+23	.	.	PUNCT	.	_	20	punct	_	start_char=97|end_char=98
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=99|end_char=100
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	start_char=101|end_char=104
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=104|end_char=107
+4	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=108|end_char=112
+5	to	to	PART	TO	_	6	mark	_	start_char=113|end_char=115
+6	believe	believe	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=116|end_char=123
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=124|end_char=128
+8	there	there	PRON	EX	_	9	expl	_	start_char=129|end_char=134
+9	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=135|end_char=138
+10	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=139|end_char=145
+11	being	be	AUX	VBG	VerbForm=Ger	12	cop	_	start_char=146|end_char=151
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nmod	_	start_char=152|end_char=156
+13	absolutely	absolutely	ADV	RB	_	14	advmod	_	start_char=157|end_char=167
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=168|end_char=176
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=177|end_char=180
+16	stupid	stupid	ADJ	JJ	Degree=Pos	14	conj	_	start_char=181|end_char=187
+17	.	.	PUNCT	.	_	4	punct	_	start_char=187|end_char=188
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=189|end_char=191
+2	god	god	NOUN	NN	Number=Sing	0	root	_	start_char=192|end_char=195
+3	.	.	PUNCT	.	_	2	punct	_	start_char=195|end_char=196
+

@@ -1,0 +1,19 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=7|end_char=8
+4	very	very	ADV	RB	_	5	advmod	_	start_char=9|end_char=13
+5	hard	hard	ADJ	JJ	Degree=Pos	6	amod	_	start_char=14|end_char=18
+6	time	time	NOUN	NN	Number=Sing	2	obj	_	start_char=19|end_char=23
+7	watching	watch	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=24|end_char=32
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=33|end_char=37
+9	story	story	NOUN	NN	Number=Sing	10	compound	_	start_char=38|end_char=43
+10	line	line	NOUN	NN	Number=Sing	7	obj	_	start_char=44|end_char=48
+11	.	.	PUNCT	.	_	2	punct	_	start_char=48|end_char=49
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=51|end_char=54
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=55|end_char=57
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=58|end_char=65
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=66|end_char=69
+5	immature	immature	ADJ	JJ	Degree=Pos	3	conj	_	start_char=70|end_char=78
+6	.	.	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+

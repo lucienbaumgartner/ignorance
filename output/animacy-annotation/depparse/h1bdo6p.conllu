@@ -1,0 +1,21 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=11|end_char=14
+5	1	1	NUM	CD	NumType=Card	6	nummod	_	start_char=15|end_char=16
+6	comment	comment	NOUN	NN	Number=Sing	8	nsubj	_	start_char=17|end_char=24
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=25|end_char=28
+8	sum	sum	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=29|end_char=32
+9	up	up	ADP	RP	_	8	compound:prt	_	start_char=33|end_char=35
+10	just	just	ADV	RB	_	12	advmod	_	start_char=36|end_char=40
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=41|end_char=44
+12	shitty	shitty	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=45|end_char=51
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=52|end_char=55
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=56|end_char=64
+15	of	of	ADP	IN	_	17	case	_	start_char=65|end_char=67
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=68|end_char=69
+17	person	person	NOUN	NN	Number=Sing	12	obl	_	start_char=70|end_char=76
+18	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	start_char=77|end_char=80
+19	are	be	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=81|end_char=84
+20	.	.	PUNCT	.	_	3	punct	_	start_char=84|end_char=85
+

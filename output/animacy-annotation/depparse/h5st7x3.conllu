@@ -1,0 +1,25 @@
+1	Am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3|end_char=4
+3	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=5|end_char=12
+4	to	to	PART	TO	_	5	mark	_	start_char=13|end_char=15
+5	join	join	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=16|end_char=20
+6	if	if	SCONJ	IN	_	9	mark	_	start_char=21|end_char=23
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=24|end_char=25
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=26|end_char=29
+9	untreated	untreated	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=30|end_char=39
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=40|end_char=43
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=44|end_char=51
+12	of	of	ADP	IN	_	14	case	_	start_char=52|end_char=54
+13	most	most	ADJ	JJS	Degree=Sup	14	amod	_	start_char=55|end_char=59
+14	symptoms	symptom	NOUN	NNS	Number=Plur	11	obl	_	start_char=60|end_char=68
+15	for	for	ADP	IN	_	17	case	_	start_char=69|end_char=72
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=73|end_char=74
+17	decade	decade	NOUN	NN	Number=Sing	11	obl	_	start_char=75|end_char=81
+18	after	after	SCONJ	IN	_	19	mark	_	start_char=82|end_char=87
+19	stopping	stop	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=88|end_char=96
+20	meds	med	NOUN	NNS	Number=Plur	19	obj	_	start_char=97|end_char=101
+21	as	as	ADP	IN	_	23	case	_	start_char=102|end_char=104
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=105|end_char=106
+23	kid	kid	NOUN	NN	Number=Sing	19	obl	_	start_char=107|end_char=110
+24	?	?	PUNCT	.	_	3	punct	_	start_char=110|end_char=111
+

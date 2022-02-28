@@ -1,0 +1,17 @@
+1	Both	both	CCONJ	CC	_	2	cc:preconj	_	start_char=0|end_char=4
+2	cynical	cynical	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=17|end_char=25
+5	,	,	PUNCT	,	_	2	punct	_	start_char=25|end_char=26
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=27|end_char=31
+7	response	response	NOUN	NN	Number=Sing	2	parataxis	_	start_char=32|end_char=40
+8	.	.	PUNCT	.	_	2	punct	_	start_char=40|end_char=41
+
+1	Argue	argue	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=44|end_char=49
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=50|end_char=53
+3	actual	actual	ADJ	JJ	Degree=Pos	4	amod	_	start_char=54|end_char=60
+4	points	point	NOUN	NNS	Number=Plur	1	obj	_	start_char=61|end_char=67
+5	made	make	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	start_char=68|end_char=72
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=73|end_char=75
+7	gtfo	gtfo	NOUN	NN	Number=Sing	5	conj	_	start_char=76|end_char=80
+

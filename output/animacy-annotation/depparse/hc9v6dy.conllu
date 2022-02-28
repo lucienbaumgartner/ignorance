@@ -1,0 +1,60 @@
+1	Nobody	nobody	PRON	NN	Number=Sing	2	nsubj	_	start_char=0|end_char=6
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	"	"	PUNCT	``	_	5	punct	_	start_char=12|end_char=13
+4	very	very	ADV	RB	_	5	advmod	_	start_char=13|end_char=17
+5	high	high	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=18|end_char=22
+6	.	.	PUNCT	.	_	2	punct	_	start_char=22|end_char=23
+7	"	"	PUNCT	''	_	2	punct	_	start_char=23|end_char=24
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=25|end_char=27
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=27|end_char=29
+3	less	less	ADJ	JJR	Degree=Cmp	6	advmod	_	start_char=30|end_char=34
+4	than	than	ADP	IN	_	6	case	_	start_char=35|end_char=39
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=40|end_char=41
+6	woman	woman	NOUN	NN	Number=Sing	0	root	_	start_char=42|end_char=47
+7	in	in	ADP	IN	_	9	case	_	start_char=48|end_char=50
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=51|end_char=54
+9	20's	20'	NOUN	NNS	Number=Plur	6	nmod	_	start_char=55|end_char=59
+10	.	.	PUNCT	.	_	6	punct	_	start_char=59|end_char=60
+
+1	But	but	CCONJ	CC	_	21	cc	_	start_char=61|end_char=64
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=65|end_char=68
+3	idea	idea	NOUN	NN	Number=Sing	21	nsubj	_	start_char=69|end_char=73
+4	that	that	SCONJ	IN	_	12	mark	_	start_char=74|end_char=78
+5	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=79|end_char=80
+6	41	41	NUM	CD	NumType=Card	7	nummod	_	start_char=81|end_char=83
+7	year	year	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=84|end_char=88
+8	old	old	ADJ	JJ	Degree=Pos	9	amod	_	start_char=89|end_char=92
+9	woman	woman	NOUN	NN	Number=Sing	12	nsubj	_	start_char=93|end_char=98
+10	could	could	AUX	MD	VerbForm=Fin	12	aux	_	start_char=99|end_char=104
+11	n't	not	PART	RB	_	12	advmod	_	start_char=104|end_char=107
+12	get	get	VERB	VB	VerbForm=Inf	3	acl	_	start_char=108|end_char=111
+13	pregnant	pregnant	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=112|end_char=120
+14	unless	unless	SCONJ	IN	_	17	mark	_	start_char=121|end_char=127
+15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=128|end_char=131
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=131|end_char=133
+17	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	12	advcl	_	start_char=134|end_char=140
+18	really	really	ADV	RB	_	19	advmod	_	start_char=141|end_char=147
+19	hard	hard	ADV	RB	Degree=Pos	17	advmod	_	start_char=148|end_char=152
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=153|end_char=155
+21	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=156|end_char=166
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=167|end_char=170
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=171|end_char=179
+24	.	.	PUNCT	.	_	21	punct	_	start_char=179|end_char=180
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=181|end_char=185
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=186|end_char=188
+3	n't	not	PART	RB	_	6	advmod	_	start_char=188|end_char=191
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=192|end_char=194
+5	"	"	PUNCT	``	_	6	punct	_	start_char=195|end_char=196
+6	feelings	feeling	NOUN	NNS	Number=Plur	0	root	_	start_char=196|end_char=204
+7	.	.	PUNCT	.	_	6	punct	_	start_char=204|end_char=205
+8	"	"	PUNCT	''	_	6	punct	_	start_char=205|end_char=206
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=207|end_char=209
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=209|end_char=211
+3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=212|end_char=214
+4	obvious	obvious	ADJ	JJ	Degree=Pos	5	amod	_	start_char=215|end_char=222
+5	fact	fact	NOUN	NN	Number=Sing	0	root	_	start_char=223|end_char=227
+6	.	.	PUNCT	.	_	5	punct	_	start_char=227|end_char=228
+

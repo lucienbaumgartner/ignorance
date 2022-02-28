@@ -1,0 +1,58 @@
+1	Like	like	ADP	IN	_	3	case	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=5|end_char=8
+3	Republicans	Republican	PROPN	NNPS	Number=Plur	0	root	_	start_char=9|end_char=20
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=25|end_char=28
+6	Democrats	Democrat	PROPN	NNPS	Number=Plur	3	conj	_	start_char=29|end_char=38
+7	in	in	ADP	IN	_	9	case	_	start_char=39|end_char=41
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=42|end_char=45
+9	US	US	PROPN	NNP	Number=Sing	6	nmod	_	start_char=46|end_char=48
+10	?	?	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	Sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=54
+2	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=56|end_char=57
+2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=64
+3	in	in	ADP	IN	_	4	case	_	start_char=65|end_char=67
+4	Sweden	Sweden	PROPN	NNP	Number=Sing	2	obl	_	start_char=68|end_char=74
+5	for	for	ADP	IN	_	6	case	_	start_char=75|end_char=78
+6	years	year	NOUN	NNS	Number=Plur	2	obl	_	start_char=79|end_char=84
+7	and	and	CCONJ	CC	_	11	cc	_	start_char=85|end_char=88
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=89|end_char=90
+9	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=90|end_char=93
+10	also	also	ADV	RB	_	11	advmod	_	start_char=94|end_char=98
+11	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	_	start_char=99|end_char=104
+12	in	in	ADP	IN	_	14	case	_	start_char=105|end_char=107
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=108|end_char=111
+14	US	US	PROPN	NNP	Number=Sing	11	obl	_	start_char=112|end_char=114
+15	.	.	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+
+1	Sweden	Sweden	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=116|end_char=122
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=123|end_char=125
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=126|end_char=127
+4	functional	functional	ADJ	JJ	Degree=Pos	5	amod	_	start_char=128|end_char=138
+5	society	society	NOUN	NN	Number=Sing	0	root	_	start_char=139|end_char=146
+6	.	.	PUNCT	.	_	5	punct	_	start_char=146|end_char=147
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=148|end_char=151
+2	Alex	Alex	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=152|end_char=156
+3	Jones	Jones	PROPN	NNP	Number=Sing	2	flat	_	start_char=157|end_char=162
+4	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=163|end_char=167
+5	Sweden	Sweden	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=168|end_char=174
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=175|end_char=177
+7	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=178|end_char=179
+8	violent	violent	ADJ	JJ	Degree=Pos	10	amod	_	start_char=180|end_char=187
+9	hellscape	hellscape	NOUN	NN	Number=Sing	10	compound	_	start_char=188|end_char=197
+10	right	right	NOUN	NN	Number=Sing	4	ccomp	_	start_char=198|end_char=203
+11	?	?	PUNCT	.	_	4	punct	_	start_char=203|end_char=204
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=205|end_char=208
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=208|end_char=211
+3	views	view	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=212|end_char=217
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=218|end_char=221
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=222|end_char=230
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=231|end_char=234
+7	bigoted	bigoted	ADJ	JJ	Degree=Pos	5	conj	_	start_char=235|end_char=242
+8	.	.	PUNCT	.	_	5	punct	_	start_char=242|end_char=243
+

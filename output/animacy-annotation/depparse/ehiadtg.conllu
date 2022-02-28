@@ -1,0 +1,25 @@
+1	Hey	hey	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=3|end_char=4
+3	thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=11
+4	for	for	ADP	IN	_	7	case	_	start_char=12|end_char=15
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=16|end_char=19
+6	heads	head	NOUN	NNS	Number=Plur	7	compound	_	start_char=20|end_char=25
+7	up	up	ADP	RP	_	3	nmod	_	start_char=26|end_char=28
+8	.	.	PUNCT	.	_	3	punct	_	start_char=28|end_char=29
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=30|end_char=31
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=32|end_char=35
+3	on	on	ADP	IN	_	4	case	_	start_char=36|end_char=38
+4	mobile	mobile	ADJ	JJ	Degree=Pos	0	root	_	start_char=39|end_char=45
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=46|end_char=49
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=50|end_char=57
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=58|end_char=62
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=63|end_char=65
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	start_char=66|end_char=69
+10	not	not	PART	RB	_	11	advmod	_	start_char=70|end_char=73
+11	displaying	display	VERB	VBG	Tense=Pres|VerbForm=Part	6	ccomp	_	start_char=74|end_char=84
+12	for	for	ADP	IN	_	14	case	_	start_char=85|end_char=88
+13	desktop	desktop	NOUN	NN	Number=Sing	14	compound	_	start_char=89|end_char=96
+14	users	user	NOUN	NNS	Number=Plur	11	obl	_	start_char=97|end_char=102
+15	.	.	PUNCT	.	_	4	punct	_	start_char=102|end_char=103
+

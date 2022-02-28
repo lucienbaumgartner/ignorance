@@ -1,0 +1,32 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=6
+3	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7|end_char=14
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=15|end_char=17
+5	that	that	SCONJ	IN	_	8	mark	_	start_char=18|end_char=22
+6	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=23|end_char=28
+7	sexually	sexually	ADV	RB	_	8	advmod	_	start_char=29|end_char=37
+8	disoriented	disoriented	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=38|end_char=49
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=54|end_char=61
+11	of	of	ADP	IN	_	12	case	_	start_char=62|end_char=64
+12	how	how	SCONJ	WRB	PronType=Int	17	mark	_	start_char=65|end_char=68
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=69|end_char=72
+14	world	world	NOUN	NN	Number=Sing	15	nsubj	_	start_char=73|end_char=78
+15	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=79|end_char=84
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	start_char=85|end_char=87
+17	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=88|end_char=98
+18	"	"	PUNCT	``	_	19	punct	_	start_char=99|end_char=100
+19	normal	normal	ADJ	JJ	Degree=Pos	17	xcomp	_	start_char=100|end_char=106
+20	"	"	PUNCT	''	_	19	punct	_	start_char=106|end_char=107
+21	???	???	PUNCT	.	_	3	punct	_	start_char=108|end_char=111
+
+1	allison	allison	PROPN	NNP	Number=Sing	6	vocative	_	start_char=114|end_char=121
+2	,	,	PUNCT	,	_	6	punct	_	start_char=121|end_char=122
+3	gross	gross	ADJ	JJ	Degree=Pos	6	amod	_	start_char=123|end_char=128
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=129|end_char=132
+5	shit	shit	ADJ	JJ	Degree=Pos	3	conj	_	start_char=133|end_char=137
+6	opinion	opinion	NOUN	NN	Number=Sing	0	root	_	start_char=138|end_char=145
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=146|end_char=149
+8	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=150|end_char=153
+9	there	there	ADV	RB	PronType=Dem	8	advmod	_	start_char=154|end_char=159
+

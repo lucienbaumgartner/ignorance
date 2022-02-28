@@ -1,0 +1,12 @@
+1	Even	even	ADV	RB	_	5	advmod	_	start_char=0|end_char=4
+2	Donald	Donald	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=5|end_char=11
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=12|end_char=14
+4	n’t	not	PART	RB	_	5	advmod	_	start_char=14|end_char=17
+5	stand	stand	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=23
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=24|end_char=27
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=28|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	uninformed	uninformed	ADJ	JJ	Degree=Pos	7	conj	_	start_char=41|end_char=51
+10	Candace	Candace	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=52|end_char=59
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=60|end_char=62
+

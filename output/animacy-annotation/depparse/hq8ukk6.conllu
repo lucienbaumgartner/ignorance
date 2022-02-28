@@ -1,0 +1,33 @@
+1	Eh	eh	INTJ	UH	_	11	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	11	punct	_	start_char=2|end_char=3
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=4|end_char=7
+4	vast	vast	ADJ	JJ	Degree=Pos	5	amod	_	start_char=8|end_char=12
+5	majority	majority	NOUN	NN	Number=Sing	11	nsubj	_	start_char=13|end_char=21
+6	of	of	ADP	IN	_	7	case	_	start_char=22|end_char=24
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=25|end_char=31
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=32|end_char=34
+9	not	not	PART	RB	_	11	advmod	_	start_char=35|end_char=38
+10	properly	properly	ADV	RB	_	11	advmod	_	start_char=39|end_char=47
+11	raise	raise	VERB	VB	VerbForm=Inf	0	root	_	start_char=48|end_char=53
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=54|end_char=59
+13	dogs	dog	NOUN	NNS	Number=Plur	11	obj	_	start_char=60|end_char=64
+14	.	.	PUNCT	.	_	11	punct	_	start_char=64|end_char=65
+
+1	Throwing	throw	VERB	VBG	VerbForm=Ger	16	csubj	_	start_char=66|end_char=74
+2	aggressive	aggressive	ADJ	JJ	Degree=Pos	3	amod	_	start_char=75|end_char=85
+3	breeds	breed	NOUN	NNS	Number=Plur	1	obj	_	start_char=86|end_char=92
+4	into	into	ADP	IN	_	6	case	_	start_char=93|end_char=97
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=98|end_char=101
+6	sea	sea	NOUN	NN	Number=Sing	1	obl	_	start_char=102|end_char=105
+7	of	of	ADP	IN	_	12	case	_	start_char=106|end_char=108
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	amod	_	start_char=109|end_char=117
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=118|end_char=121
+10	lazy	lazy	ADJ	JJ	Degree=Pos	8	conj	_	start_char=122|end_char=126
+11	dog	dog	NOUN	NN	Number=Sing	12	compound	_	start_char=127|end_char=130
+12	owners	owner	NOUN	NNS	Number=Plur	6	nmod	_	start_char=131|end_char=137
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=138|end_char=140
+14	even	even	ADV	RB	_	16	advmod	_	start_char=141|end_char=145
+15	more	more	ADV	RBR	_	16	advmod	_	start_char=146|end_char=150
+16	reckless	reckless	ADJ	JJ	Degree=Pos	0	root	_	start_char=151|end_char=159
+17	.	.	PUNCT	.	_	16	punct	_	start_char=159|end_char=160
+

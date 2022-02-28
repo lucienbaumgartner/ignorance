@@ -1,0 +1,39 @@
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	link	link	NOUN	NN	Number=Sing	1	nsubj	_	start_char=12|end_char=16
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=17|end_char=18
+6	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	start_char=19|end_char=22
+7	intend	intend	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=23|end_char=29
+8	to	to	PART	TO	_	9	mark	_	start_char=30|end_char=32
+9	post	post	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=33|end_char=37
+10	.	.	PUNCT	.	_	1	punct	_	start_char=37|end_char=38
+
+1	As	as	SCONJ	IN	_	3	mark	_	start_char=39|end_char=41
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=42|end_char=43
+3	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	advcl	_	start_char=44|end_char=47
+4	in	in	ADP	IN	_	6	case	_	start_char=48|end_char=50
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=51|end_char=53
+6	opinion	opinion	NOUN	NN	Number=Sing	3	obl	_	start_char=54|end_char=61
+7	these	this	DET	DT	Number=Plur|PronType=Dem	8	det	_	start_char=62|end_char=67
+8	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=68|end_char=74
+9	in	in	ADP	IN	_	10	case	_	start_char=75|end_char=77
+10	terms	term	NOUN	NNS	Number=Plur	8	nmod	_	start_char=78|end_char=83
+11	of	of	ADP	IN	_	13	case	_	start_char=84|end_char=86
+12	genetic	genetic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=87|end_char=94
+13	genealogy	genealogy	NOUN	NN	Number=Sing	10	nmod	_	start_char=95|end_char=104
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=105|end_char=108
+15	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=109|end_char=117
+16	,	,	PUNCT	,	_	17	punct	_	start_char=117|end_char=118
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=119|end_char=127
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=128|end_char=131
+19	stupid	stupid	ADJ	JJ	Degree=Pos	15	conj	_	start_char=132|end_char=138
+20	but	but	CCONJ	CC	_	23	cc	_	start_char=139|end_char=142
+21	much	much	ADV	RB	Degree=Pos	22	advmod	_	start_char=143|end_char=147
+22	worse	badly	ADV	RBR	Degree=Cmp	23	advmod	_	start_char=148|end_char=153
+23	dangerous	dangerous	ADJ	JJ	Degree=Pos	15	conj	_	start_char=154|end_char=163
+24	:	:	PUNCT	:	_	15	punct	_	start_char=163|end_char=164
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=166|end_char=167
+2	https://www.nytimes.com/2021/12/27/magazine/dna-test-crime-identification-genome.html](https://www.nytimes.com/2021/12/27/magazine/dna-test-crime-identification-genome.html)	https://www.nytimes.com/2021/12/27/magazine/dna-test-crime-identification-genome.html](https://www.nytimes.com/2021/12/27/magazine/dna-test-crime-identification-genome.html)	X	ADD	_	0	root	_	start_char=167|end_char=340
+

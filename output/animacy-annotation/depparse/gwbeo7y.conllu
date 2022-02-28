@@ -1,0 +1,35 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	exhaustingly	exhaustingly	ADV	RB	_	4	advmod	_	start_char=10|end_char=22
+4	prudish	prudish	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=23|end_char=30
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=31|end_char=34
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=35|end_char=42
+7	of	of	ADP	IN	_	11	mark	_	start_char=43|end_char=45
+8	how	how	SCONJ	WRB	PronType=Int	6	obl	_	start_char=46|end_char=49
+9	nude	nude	ADJ	JJ	Degree=Pos	10	amod	_	start_char=50|end_char=54
+10	modeling	modeling	NOUN	NN	Number=Sing	11	nsubj	_	start_char=55|end_char=63
+11	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=64|end_char=69
+12	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=72|end_char=76
+2	friend	friend	NOUN	NN	Number=Sing	4	nsubj	_	start_char=77|end_char=83
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=84|end_char=86
+4	displaying	display	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=87|end_char=97
+5	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=98|end_char=101
+6	art	art	NOUN	NN	Number=Sing	4	obj	_	start_char=102|end_char=105
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=106|end_char=109
+8	created	create	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=110|end_char=117
+9	,	,	PUNCT	,	_	14	punct	_	start_char=117|end_char=118
+10	and	and	CCONJ	CC	_	14	cc	_	start_char=119|end_char=122
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=123|end_char=126
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=127|end_char=130
+13	absolutely	absolutely	ADV	RB	_	14	advmod	_	start_char=131|end_char=141
+14	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	4	conj	_	start_char=142|end_char=148
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=149|end_char=150
+16	big	big	ADJ	JJ	Degree=Pos	17	amod	_	start_char=151|end_char=154
+17	deal	deal	NOUN	NN	Number=Sing	14	obj	_	start_char=155|end_char=159
+18	out	out	ADP	IN	_	20	case	_	start_char=160|end_char=163
+19	of	of	ADP	IN	_	20	case	_	start_char=164|end_char=166
+20	nothing	nothing	PRON	NN	Number=Sing	14	obl	_	start_char=167|end_char=174
+21	.	.	PUNCT	.	_	4	punct	_	start_char=174|end_char=175
+

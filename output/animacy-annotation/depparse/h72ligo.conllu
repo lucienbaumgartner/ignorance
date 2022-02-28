@@ -1,0 +1,7 @@
+1	Racist	Racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=6
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=7|end_char=10
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=11|end_char=19
+4	of	of	ADP	IN	_	5	case	_	start_char=20|end_char=22
+5	history	history	NOUN	NN	Number=Sing	1	obl	_	start_char=23|end_char=30
+6	.	.	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+

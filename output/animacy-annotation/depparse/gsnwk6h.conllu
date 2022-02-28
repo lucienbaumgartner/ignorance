@@ -1,0 +1,25 @@
+1	Because	because	SCONJ	IN	_	5	mark	_	start_char=0|end_char=7
+2	humanity	humanity	NOUN	NN	Number=Sing	5	nsubj	_	start_char=8|end_char=16
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=17|end_char=20
+4	recently	recently	ADV	RB	_	5	advmod	_	start_char=21|end_char=29
+5	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=30|end_char=36
+6	alienated	alienate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	start_char=37|end_char=46
+7	from	from	ADP	IN	_	10	case	_	start_char=47|end_char=51
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	start_char=52|end_char=54
+9	's	's	PART	POS	_	8	case	_	start_char=54|end_char=56
+10	soul	soul	NOUN	NN	Number=Sing	6	obl	_	start_char=57|end_char=61
+11	.	.	PUNCT	.	_	5	punct	_	start_char=61|end_char=62
+
+1	Humans	human	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=63|end_char=69
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=70|end_char=74
+3	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=75|end_char=81
+4	fearful	fearful	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=82|end_char=89
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=90|end_char=93
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=94|end_char=102
+7	of	of	ADP	IN	_	8	case	_	start_char=103|end_char=105
+8	what	what	PRON	WP	PronType=Int	6	obl	_	start_char=106|end_char=110
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=111|end_char=115
+10	really	really	ADV	RB	_	11	advmod	_	start_char=116|end_char=122
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=123|end_char=126
+12	.	.	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+

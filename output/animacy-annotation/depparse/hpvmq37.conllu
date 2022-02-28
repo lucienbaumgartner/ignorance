@@ -1,0 +1,54 @@
+1	Ecclestone	Ecclestone	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=10
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+3	that	that	SCONJ	IN	_	9	mark	_	start_char=16|end_char=20
+4	black	black	ADJ	JJ	Degree=Pos	5	amod	_	start_char=21|end_char=26
+5	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=27|end_char=33
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	start_char=34|end_char=38
+7	just	just	ADV	RB	_	9	advmod	_	start_char=39|end_char=43
+8	as	as	ADV	RB	_	9	advmod	_	start_char=44|end_char=46
+9	racist	racist	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=47|end_char=53
+10	as	as	ADP	IN	_	12	case	_	start_char=54|end_char=56
+11	black	black	ADJ	JJ	Degree=Pos	12	amod	_	start_char=57|end_char=62
+12	people	people	NOUN	NNS	Number=Plur	9	obl	_	start_char=63|end_char=69
+13	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+
+1	Hamilton	Hamilton	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=71|end_char=79
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=80|end_char=84
+3	Ecclestone	Ecclestone	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=85|end_char=95
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=96|end_char=99
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=100|end_char=108
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=109|end_char=112
+7	uneducated	uneducated	ADJ	JJ	Degree=Pos	5	conj	_	start_char=113|end_char=123
+8	regarding	regard	VERB	VBG	VerbForm=Ger	10	case	_	start_char=124|end_char=133
+9	racial	racial	ADJ	JJ	Degree=Pos	10	amod	_	start_char=134|end_char=140
+10	matters	matter	NOUN	NNS	Number=Plur	5	obl	_	start_char=141|end_char=148
+11	.	.	PUNCT	.	_	2	punct	_	start_char=148|end_char=149
+
+1	F1	F1	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=150|end_char=152
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=153|end_char=157
+3	Ecclestone	Ecclestone	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=158|end_char=168
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=169|end_char=171
+5	no	no	ADV	RB	_	6	advmod	_	start_char=172|end_char=174
+6	longer	long	ADV	RBR	Degree=Cmp	8	advmod	_	start_char=175|end_char=181
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=182|end_char=183
+8	part	part	NOUN	NN	Number=Sing	2	ccomp	_	start_char=184|end_char=188
+9	of	of	ADP	IN	_	10	case	_	start_char=189|end_char=191
+10	F1	F1	PROPN	NNP	Number=Sing	8	nmod	_	start_char=192|end_char=194
+11	.	.	PUNCT	.	_	2	punct	_	start_char=194|end_char=195
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=196|end_char=198
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=199|end_char=204
+3	not	not	PART	RB	_	4	advmod	_	start_char=205|end_char=208
+4	surprise	surprise	VERB	VB	VerbForm=Inf	0	root	_	start_char=209|end_char=217
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=218|end_char=220
+6	if	if	SCONJ	IN	_	10	mark	_	start_char=221|end_char=223
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=224|end_char=226
+8	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=226|end_char=228
+9	still	still	ADV	RB	_	10	advmod	_	start_char=229|end_char=234
+10	mad	mad	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=235|end_char=238
+11	at	at	ADP	IN	_	14	case	_	start_char=239|end_char=241
+12	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=242|end_char=246
+13	public	public	ADJ	JJ	Degree=Pos	14	amod	_	start_char=247|end_char=253
+14	rebuke	rebuke	NOUN	NN	Number=Sing	10	obl	_	start_char=254|end_char=260
+15	.	.	PUNCT	.	_	4	punct	_	start_char=260|end_char=261
+

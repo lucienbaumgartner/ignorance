@@ -1,0 +1,23 @@
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	experience	experience	NOUN	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=14
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=17
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	dangerous	dangerous	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=40
+7	;	;	PUNCT	,	_	4	punct	_	start_char=40|end_char=41
+8	so	so	ADV	RB	_	15	advmod	_	start_char=42|end_char=44
+9	with	with	ADP	IN	_	12	case	_	start_char=45|end_char=49
+10	all	all	DET	DT	_	12	det	_	start_char=50|end_char=53
+11	due	due	ADJ	JJ	Degree=Pos	12	amod	_	start_char=54|end_char=57
+12	respect	respect	NOUN	NN	Number=Sing	4	obl	_	start_char=58|end_char=65
+13	,	,	PUNCT	,	_	15	punct	_	start_char=65|end_char=66
+14	which	which	PRON	WDT	PronType=Rel	15	nsubj	_	start_char=67|end_char=72
+15	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=73|end_char=75
+16	to	to	PART	TO	_	17	mark	_	start_char=76|end_char=78
+17	say	say	VERB	VB	VerbForm=Inf	15	ccomp	_	start_char=79|end_char=82
+18	none	none	NOUN	NN	Number=Sing	17	obj	_	start_char=83|end_char=87
+19	,	,	PUNCT	,	_	20	punct	_	start_char=87|end_char=88
+20	eat	eat	VERB	VB	VerbForm=Inf	17	conj	_	start_char=89|end_char=92
+21	shit	shit	NOUN	NN	Number=Sing	20	obj	_	start_char=93|end_char=97
+22	.	.	PUNCT	.	_	4	punct	_	start_char=97|end_char=98
+

@@ -1,0 +1,24 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	beautiful	beautiful	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=19|end_char=23
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=23|end_char=26
+3	so	so	ADV	RB	_	4	advmod	_	start_char=27|end_char=29
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=35
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=36|end_char=39
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=40|end_char=47
+7	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=51|end_char=54
+9	horrible	horrible	ADJ	JJ	Degree=Pos	10	amod	_	start_char=55|end_char=63
+10	shit	shit	NOUN	NN	Number=Sing	6	obl	_	start_char=64|end_char=68
+11	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=69|end_char=73
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=73|end_char=75
+13	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	10	acl:relcl	_	start_char=76|end_char=81
+14	to	to	PART	TO	_	15	mark	_	start_char=82|end_char=84
+15	happen	happen	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=85|end_char=91
+16	in	in	ADP	IN	_	18	case	_	start_char=92|end_char=94
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=95|end_char=98
+18	future	future	NOUN	NN	Number=Sing	15	obl	_	start_char=99|end_char=105
+

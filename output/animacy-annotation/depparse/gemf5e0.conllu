@@ -1,0 +1,45 @@
+1	Perhaps	perhaps	ADV	RB	_	6	advmod	_	start_char=0|end_char=7
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=8|end_char=10
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=12
+4	not	not	PART	RB	_	6	advmod	_	start_char=13|end_char=16
+5	as	as	ADV	RB	_	6	advmod	_	start_char=17|end_char=19
+6	strong	strong	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=26
+7	?	?	PUNCT	.	_	6	punct	_	start_char=26|end_char=27
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=28|end_char=29
+2	calm	calm	ADJ	JJ	Degree=Pos	3	amod	_	start_char=30|end_char=34
+3	Spell	spell	NOUN	NN	Number=Sing	4	nsubj	_	start_char=35|end_char=40
+4	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=47
+5	someone	someone	PRON	NN	Number=Sing	4	obj	_	start_char=48|end_char=55
+6	to	to	PART	TO	_	8	mark	_	start_char=56|end_char=58
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=59|end_char=61
+8	relaxed	relaxed	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=62|end_char=69
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=70|end_char=73
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=74|end_char=81
+11	of	of	ADP	IN	_	12	case	_	start_char=82|end_char=84
+12	danger	danger	NOUN	NN	Number=Sing	10	obl	_	start_char=85|end_char=91
+13	.	.	PUNCT	.	_	4	punct	_	start_char=91|end_char=92
+
+1	Such	such	DET	PDT	_	3	det:predet	_	start_char=93|end_char=97
+2	an	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=98|end_char=100
+3	effect	effect	NOUN	NN	Number=Sing	7	nsubj	_	start_char=101|end_char=107
+4	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=108|end_char=113
+5	n't	not	PART	RB	_	7	advmod	_	start_char=113|end_char=116
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=117|end_char=119
+7	euphoric	euphoric	ADJ	JJ	Degree=Pos	0	root	_	start_char=120|end_char=128
+8	or	or	CCONJ	CC	_	11	cc	_	start_char=129|end_char=131
+9	necessarily	necessarily	ADV	RB	_	11	advmod	_	start_char=132|end_char=143
+10	as	as	ADV	RB	_	11	advmod	_	start_char=144|end_char=146
+11	addictive	addictive	ADJ	JJ	Degree=Pos	7	conj	_	start_char=147|end_char=156
+12	as	as	ADP	IN	_	13	case	_	start_char=157|end_char=159
+13	Skooma	Skooma	PROPN	NNP	Number=Sing	11	obl	_	start_char=160|end_char=166
+14	,	,	PUNCT	,	_	21	punct	_	start_char=166|end_char=167
+15	but	but	CCONJ	CC	_	21	cc	_	start_char=168|end_char=171
+16	could	could	AUX	MD	VerbForm=Fin	21	aux	_	start_char=172|end_char=177
+17	still	still	ADV	RB	_	21	advmod	_	start_char=178|end_char=183
+18	in	in	ADP	IN	_	19	case	_	start_char=184|end_char=186
+19	theory	theory	NOUN	NN	Number=Sing	21	nsubj:pass	_	start_char=187|end_char=193
+20	be	be	AUX	VB	VerbForm=Inf	21	aux:pass	_	start_char=194|end_char=196
+21	abused	abuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	conj	_	start_char=197|end_char=203
+22	.	.	PUNCT	.	_	7	punct	_	start_char=203|end_char=204
+

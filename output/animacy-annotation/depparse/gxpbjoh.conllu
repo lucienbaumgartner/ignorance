@@ -1,0 +1,49 @@
+1	Ok	ok	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=2
+2	man	man	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=6
+3	.	.	PUNCT	.	_	2	punct	_	start_char=6|end_char=7
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=8|end_char=9
+2	really	really	ADV	RB	_	3	advmod	_	start_char=10|end_char=16
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=22
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=23|end_char=26
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=27|end_char=30
+6	arguing	argue	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	_	start_char=31|end_char=38
+7	in	in	ADP	IN	_	9	case	_	start_char=39|end_char=41
+8	bad	bad	ADJ	JJ	Degree=Pos	9	amod	_	start_char=42|end_char=45
+9	faith	faith	NOUN	NN	Number=Sing	6	obl	_	start_char=46|end_char=51
+10	so	so	ADV	RB	_	14	mark	_	start_char=52|end_char=54
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=55|end_char=56
+12	wo	will	AUX	MD	VerbForm=Fin	14	aux	_	start_char=57|end_char=59
+13	n’t	not	PART	RB	_	14	advmod	_	start_char=59|end_char=62
+14	waste	waste	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=63|end_char=68
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=69|end_char=71
+16	time	time	NOUN	NN	Number=Sing	14	obj	_	start_char=72|end_char=76
+17	anymore	anymore	ADV	RB	_	14	advmod	_	start_char=77|end_char=84
+18	.	.	PUNCT	.	_	3	punct	_	start_char=84|end_char=85
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=86|end_char=90
+2	comparison	comparison	NOUN	NN	Number=Sing	4	nsubj	_	start_char=91|end_char=101
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=102|end_char=104
+4	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=105|end_char=115
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=116|end_char=119
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=120|end_char=128
+7	of	of	ADP	IN	_	8	case	_	start_char=129|end_char=131
+8	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=132|end_char=139
+9	.	.	PUNCT	.	_	4	punct	_	start_char=139|end_char=140
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=141|end_char=146
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=147|end_char=150
+3	valid	valid	ADJ	JJ	Degree=Pos	4	amod	_	start_char=151|end_char=156
+4	arguments	argument	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=157|end_char=166
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=167|end_char=170
+6	yours	yours	PRON	PRP	Person=2|PronType=Prs	9	nsubj	_	start_char=171|end_char=176
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=177|end_char=179
+8	not	not	PART	RB	_	9	advmod	_	start_char=180|end_char=183
+9	one	one	NUM	CD	NumType=Card	2	conj	_	start_char=184|end_char=187
+10	of	of	ADP	IN	_	11	case	_	start_char=188|end_char=190
+11	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	nmod	_	start_char=191|end_char=195
+12	.	.	PUNCT	.	_	2	punct	_	start_char=195|end_char=196
+
+1	Goodbye	Goodbye	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=197|end_char=204
+2	.	.	PUNCT	.	_	1	punct	_	start_char=204|end_char=205
+

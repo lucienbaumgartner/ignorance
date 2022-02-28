@@ -1,0 +1,7 @@
+1	kek	kek	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=3
+2	lefties	lefty	NOUN	NNS	Number=Plur	0	root	_	start_char=4|end_char=11
+3	so	so	ADV	RB	_	4	advmod	_	start_char=12|end_char=14
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	amod	_	start_char=15|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	blind	blind	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=32
+

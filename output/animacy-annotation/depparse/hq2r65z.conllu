@@ -1,0 +1,20 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=7|end_char=8
+4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	0	root	_	start_char=9|end_char=14
+5	.	.	PUNCT	.	_	4	punct	_	start_char=14|end_char=15
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=17|end_char=18
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=19|end_char=27
+3	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=28|end_char=33
+4	with	with	ADP	IN	_	5	case	_	start_char=34|end_char=38
+5	Alex	Alex	PROPN	NNP	Number=Sing	3	obl	_	start_char=39|end_char=43
+6	Jones	Jones	PROPN	NNP	Number=Sing	5	flat	_	start_char=44|end_char=49
+7	,	,	PUNCT	,	_	10	punct	_	start_char=49|end_char=50
+8	Trump	Trump	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=51|end_char=56
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=57|end_char=59
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=60|end_char=68
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=69|end_char=72
+12	evil	evil	ADJ	JJ	Degree=Pos	10	conj	_	start_char=73|end_char=77
+13	.	.	PUNCT	.	_	3	punct	_	start_char=77|end_char=78
+

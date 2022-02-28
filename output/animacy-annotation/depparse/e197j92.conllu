@@ -1,0 +1,17 @@
+1	Instagram	Instagram	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=9
+2	...	...	PUNCT	,	_	1	punct	_	start_char=9|end_char=12
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=13|end_char=14
+4	great	great	ADJ	JJ	Degree=Pos	6	amod	_	start_char=15|end_char=20
+5	educational	educational	ADJ	JJ	Degree=Pos	6	amod	_	start_char=21|end_char=32
+6	app	app	NOUN	NN	Number=Sing	1	appos	_	start_char=33|end_char=36
+7	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=37|end_char=41
+8	teaches	teach	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=42|end_char=49
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obj	_	start_char=50|end_char=53
+10	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=54|end_char=57
+11	unaware	unaware	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=58|end_char=65
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=66|end_char=69
+13	superficial	superficial	ADJ	JJ	Degree=Pos	11	conj	_	start_char=70|end_char=81
+14	everybody	everybody	PRON	NN	Number=Sing	15	nsubj	_	start_char=82|end_char=91
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=92|end_char=94
+16	.	.	PUNCT	.	_	1	punct	_	start_char=94|end_char=95
+

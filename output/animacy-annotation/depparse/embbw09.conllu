@@ -1,0 +1,27 @@
+1	if	if	SCONJ	IN	_	8	mark	_	start_char=0|end_char=2
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=7
+3	child	child	NOUN	NN	Number=Sing	8	nsubj	_	start_char=8|end_char=13
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=14|end_char=16
+5	already	already	ADV	RB	_	8	advmod	_	start_char=17|end_char=24
+6	6	6	NUM	CD	NumType=Card	7	nummod	_	start_char=25|end_char=26
+7	years	year	NOUN	NNS	Number=Plur	8	obl:npmod	_	start_char=27|end_char=32
+8	old	old	ADJ	JJ	Degree=Pos	20	advcl	_	start_char=33|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=48
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=49|end_char=53
+12	there	there	PRON	EX	_	13	expl	_	start_char=54|end_char=59
+13	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=60|end_char=63
+14	bad	bad	ADJ	JJ	Degree=Pos	15	amod	_	start_char=64|end_char=67
+15	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=68|end_char=74
+16	then	then	ADV	RB	PronType=Dem	20	advmod	_	start_char=75|end_char=79
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=80|end_char=83
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=84|end_char=87
+19	not	not	PART	RB	_	20	advmod	_	start_char=88|end_char=91
+20	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=92|end_char=97
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=98|end_char=99
+22	good	good	ADJ	JJ	Degree=Pos	23	amod	_	start_char=100|end_char=104
+23	job	job	NOUN	NN	Number=Sing	20	obj	_	start_char=105|end_char=108
+24	as	as	ADP	IN	_	26	case	_	start_char=109|end_char=111
+25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	start_char=112|end_char=113
+26	parent	parent	NOUN	NN	Number=Sing	20	obl	_	start_char=114|end_char=120
+

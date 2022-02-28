@@ -1,0 +1,87 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	…	…	PUNCT	:	_	2	punct	_	start_char=6|end_char=7
+4	…	…	PUNCT	.	_	2	punct	_	start_char=7|end_char=8
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=9|end_char=10
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+3	……..	……..	PUNCT	,	_	2	punct	_	start_char=16|end_char=20
+4	but	but	CCONJ	CC	_	12	cc	_	start_char=21|end_char=24
+5	if	if	SCONJ	IN	_	9	mark	_	start_char=25|end_char=27
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=28|end_char=31
+7	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=31|end_char=34
+8	like	like	ADP	IN	_	9	case	_	start_char=35|end_char=39
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	advcl	_	start_char=40|end_char=42
+10	,	,	PUNCT	,	_	12	punct	_	start_char=42|end_char=43
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=44|end_char=47
+12	spent	spend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=48|end_char=53
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=54|end_char=55
+14	good	good	ADJ	JJ	Degree=Pos	15	amod	_	start_char=56|end_char=60
+15	portion	portion	NOUN	NN	Number=Sing	12	obj	_	start_char=61|end_char=68
+16	of	of	ADP	IN	_	18	case	_	start_char=69|end_char=71
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=72|end_char=76
+18	life	life	NOUN	NN	Number=Sing	15	nmod	_	start_char=77|end_char=81
+19	depressed	depressed	ADJ	JJ	Degree=Pos	15	amod	_	start_char=82|end_char=91
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=92|end_char=95
+21	unaware	unaware	ADJ	JJ	Degree=Pos	19	conj	_	start_char=96|end_char=103
+22	that	that	SCONJ	IN	_	27	mark	_	start_char=104|end_char=108
+23	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	24	nmod:poss	_	start_char=109|end_char=113
+24	dick	dick	NOUN	NN	Number=Sing	27	nsubj	_	start_char=114|end_char=118
+25	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	cop	_	start_char=119|end_char=122
+26	n’t	not	PART	RB	_	27	advmod	_	start_char=122|end_char=125
+27	small	small	ADJ	JJ	Degree=Pos	21	ccomp	_	start_char=126|end_char=131
+28	.	.	PUNCT	.	_	2	punct	_	start_char=131|end_char=132
+
+1	Then	then	ADV	RB	PronType=Dem	13	advmod	_	start_char=133|end_char=137
+2	,	,	PUNCT	,	_	13	punct	_	start_char=137|end_char=138
+3	when	when	SCONJ	WRB	PronType=Int	5	mark	_	start_char=139|end_char=143
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=144|end_char=147
+5	learn	learn	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=148|end_char=153
+6	about	about	ADP	IN	_	7	case	_	start_char=154|end_char=159
+7	dicks	dick	NOUN	NNS	Number=Plur	5	obl	_	start_char=160|end_char=165
+8	,	,	PUNCT	,	_	13	punct	_	start_char=165|end_char=166
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=167|end_char=169
+10	certainly	certainly	ADV	RB	Degree=Pos	13	advmod	_	start_char=170|end_char=179
+11	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=180|end_char=184
+12	n’t	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=184|end_char=187
+13	disqualify	disqualify	VERB	VB	VerbForm=Inf	0	root	_	start_char=188|end_char=198
+14	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	13	obj	_	start_char=199|end_char=202
+15	from	from	SCONJ	IN	_	16	mark	_	start_char=203|end_char=207
+16	feeling	feel	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=208|end_char=215
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=216|end_char=217
+18	type	type	NOUN	NN	Number=Sing	16	obj	_	start_char=218|end_char=222
+19	of	of	ADP	IN	_	20	case	_	start_char=223|end_char=225
+20	way	way	NOUN	NN	Number=Sing	18	nmod	_	start_char=226|end_char=229
+21	.	.	PUNCT	.	_	13	punct	_	start_char=229|end_char=230
+
+1	Anecdotal	anecdotal	ADJ	JJ	Degree=Pos	2	amod	_	start_char=233|end_char=242
+2	evidence	evidence	NOUN	NN	Number=Sing	0	root	_	start_char=243|end_char=251
+3	?	?	PUNCT	.	_	2	punct	_	start_char=251|end_char=252
+
+1	Sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=253|end_char=257
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=258|end_char=260
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=261|end_char=263
+4	.	.	PUNCT	.	_	1	punct	_	start_char=263|end_char=264
+
+1	But	but	CCONJ	CC	_	8	cc	_	start_char=265|end_char=268
+2	…	…	PUNCT	:	_	1	punct	_	start_char=268|end_char=269
+3	…	…	PUNCT	:	_	1	punct	_	start_char=269|end_char=270
+4	eh.	eh.	INTJ	UH	_	8	discourse	_	start_char=271|end_char=274
+5	That	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=275|end_char=279
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=279|end_char=281
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=282|end_char=284
+8	.02	.02	NUM	CD	NumType=Card	0	root	_	start_char=285|end_char=288
+9	.	.	PUNCT	.	_	8	punct	_	start_char=288|end_char=289
+
+1	Edited	edit	VERB	VBN	Tense=Past|VerbForm=Part	8	advcl	_	start_char=291|end_char=297
+2	becuz	becouz	SCONJ	IN	_	4	mark	_	start_char=298|end_char=303
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=304|end_char=305
+4	sweddagod	sweddage	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=306|end_char=315
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=316|end_char=317
+6	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=318|end_char=321
+7	basically	basically	ADV	RB	_	8	advmod	_	start_char=322|end_char=331
+8	complete	complete	VERB	VB	VerbForm=Inf	0	root	_	start_char=332|end_char=340
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=341|end_char=342
+10	sentence	sentence	NOUN	NN	Number=Sing	8	obj	_	start_char=343|end_char=351
+11	.	.	PUNCT	.	_	8	punct	_	start_char=351|end_char=352
+

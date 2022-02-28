@@ -1,0 +1,46 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=4|end_char=7
+2	guy	guy	NOUN	NN	Number=Sing	5	nsubj	_	start_char=8|end_char=11
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=12|end_char=14
+4	very	very	ADV	RB	_	5	advmod	_	start_char=15|end_char=19
+5	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=24
+6	at	at	SCONJ	IN	_	7	mark	_	start_char=25|end_char=27
+7	lying	lie	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=28|end_char=33
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=35|end_char=37
+2	isnt	isnt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=38|end_char=42
+3	,	,	PUNCT	,	_	13	punct	_	start_char=42|end_char=43
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=43|end_char=46
+5	majority	majority	NOUN	NN	Number=Sing	13	nsubj	_	start_char=47|end_char=55
+6	of	of	ADP	IN	_	7	case	_	start_char=56|end_char=58
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=59|end_char=65
+8	on	on	ADP	IN	_	10	case	_	start_char=66|end_char=68
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=69|end_char=72
+10	internet	internet	NOUN	NN	Number=Sing	7	nmod	_	start_char=73|end_char=81
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=82|end_char=85
+12	so	so	ADV	RB	_	13	advmod	_	start_char=86|end_char=88
+13	idiotic	idiotic	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=89|end_char=96
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=97|end_char=100
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=101|end_char=109
+16	that	that	SCONJ	IN	_	18	mark	_	start_char=110|end_char=114
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=115|end_char=119
+18	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=120|end_char=127
+19	everything	everything	PRON	NN	Number=Sing	18	obj	_	start_char=128|end_char=138
+20	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=139|end_char=143
+21	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	start_char=144|end_char=147
+22	these	this	DET	DT	Number=Plur|PronType=Dem	23	det	_	start_char=148|end_char=153
+23	days	day	NOUN	NNS	Number=Plur	21	obl:tmod	_	start_char=154|end_char=158
+24	,	,	PUNCT	,	_	26	punct	_	start_char=158|end_char=159
+25	which	which	PRON	WDT	PronType=Rel	26	nsubj	_	start_char=160|end_char=165
+26	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	start_char=166|end_char=171
+27	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	obj	_	start_char=172|end_char=174
+28	so	so	ADV	RB	_	29	advmod	_	start_char=175|end_char=177
+29	much	much	ADV	RB	_	30	advmod	_	start_char=178|end_char=182
+30	more	more	ADV	RBR	_	31	advmod	_	start_char=183|end_char=187
+31	easier	easy	ADJ	JJR	Degree=Cmp	26	xcomp	_	start_char=188|end_char=194
+32	to	to	PART	TO	_	33	mark	_	start_char=195|end_char=197
+33	lie	lie	VERB	VB	VerbForm=Inf	31	advcl	_	start_char=198|end_char=201
+34	.	.	PUNCT	.	_	2	punct	_	start_char=201|end_char=202
+

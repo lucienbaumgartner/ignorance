@@ -1,0 +1,40 @@
+1	Pretty	pretty	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=11
+3	teenagers	teenager	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=12|end_char=21
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=22|end_char=25
+5	naive	naive	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=26|end_char=31
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=32|end_char=35
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=36|end_char=44
+8	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=46|end_char=50
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=51|end_char=53
+3	straight	straight	ADV	RB	Degree=Pos	7	advmod	_	start_char=54|end_char=62
+4	up	up	ADP	RP	_	7	case	_	start_char=63|end_char=65
+5	2	2	NUM	CD	NumForm=Digit|NumType=Card	7	nummod	_	start_char=66|end_char=67
+6	stereotypical	stereotypical	ADJ	JJ	Degree=Pos	7	amod	_	start_char=68|end_char=81
+7	traits	trait	NOUN	NNS	Number=Plur	0	root	_	start_char=82|end_char=88
+8	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	_	start_char=89|end_char=99
+9	with	with	ADP	IN	_	10	case	_	start_char=100|end_char=104
+10	teens	teens	NOUN	NNS	Number=Plur	8	obl	_	start_char=105|end_char=110
+11	.	.	PUNCT	.	_	7	punct	_	start_char=110|end_char=111
+
+1	Hell	Hell	PROPN	NNP	Number=Sing	12	nsubj:pass	_	start_char=112|end_char=116
+2	,	,	PUNCT	,	_	12	punct	_	start_char=116|end_char=117
+3	even	even	ADV	RB	_	6	advmod	_	start_char=118|end_char=122
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=123|end_char=125
+5	age	age	NOUN	NN	Number=Sing	6	compound	_	start_char=126|end_char=129
+6	group	group	NOUN	NN	Number=Sing	12	nsubj:pass	_	start_char=130|end_char=135
+7	(	(	PUNCT	-LRB-	_	9	punct	_	start_char=136|end_char=137
+8	early	early	ADJ	JJ	Degree=Pos	9	amod	_	start_char=137|end_char=142
+9	20s	20	NOUN	NNS	Number=Plur	6	appos	_	start_char=143|end_char=146
+10	)	)	PUNCT	-RRB-	_	9	punct	_	start_char=146|end_char=147
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux:pass	_	start_char=148|end_char=151
+12	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=152|end_char=162
+13	to	to	PART	TO	_	15	mark	_	start_char=163|end_char=165
+14	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=166|end_char=168
+15	naive	naive	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=169|end_char=174
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=175|end_char=178
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=179|end_char=187
+18	.	.	PUNCT	.	_	12	punct	_	start_char=187|end_char=188
+

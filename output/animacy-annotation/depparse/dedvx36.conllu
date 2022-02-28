@@ -1,0 +1,18 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	just	just	ADV	RB	_	3	advmod	_	start_char=2|end_char=6
+3	figured	figure	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=7|end_char=14
+4	since	since	SCONJ	IN	_	8	mark	_	start_char=15|end_char=20
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=21|end_char=23
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=23|end_char=25
+7	so	so	ADV	RB	_	8	advmod	_	start_char=26|end_char=28
+8	thick	thick	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=29|end_char=34
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=35|end_char=38
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=39|end_char=46
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=47|end_char=51
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=52|end_char=54
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=54|end_char=56
+14	not	not	PART	RB	_	16	advmod	_	start_char=57|end_char=60
+15	even	even	ADV	RB	_	16	advmod	_	start_char=61|end_char=65
+16	notice	notice	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=66|end_char=72
+17	!	!	PUNCT	.	_	3	punct	_	start_char=72|end_char=73
+

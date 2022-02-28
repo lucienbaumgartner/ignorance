@@ -1,0 +1,15 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	no	no	DET	DT	_	6	det	_	start_char=9|end_char=11
+4	“	''	PUNCT	``	_	6	punct	_	start_char=12|end_char=13
+5	opposing	oppose	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=13|end_char=21
+6	argument	argument	NOUN	NN	Number=Sing	2	nsubj	_	start_char=22|end_char=30
+7	”	''	PUNCT	''	_	6	punct	_	start_char=30|end_char=31
+8	to	to	ADP	IN	_	13	case	_	start_char=32|end_char=34
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=35|end_char=39
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	amod	_	start_char=40|end_char=48
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=49|end_char=52
+12	uninformed	uninformed	ADJ	JJ	Degree=Pos	10	conj	_	start_char=53|end_char=63
+13	statement	statement	NOUN	NN	Number=Sing	2	obl	_	start_char=64|end_char=73
+14	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+

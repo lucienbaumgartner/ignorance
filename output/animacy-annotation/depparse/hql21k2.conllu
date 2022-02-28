@@ -1,0 +1,16 @@
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=0|end_char=3
+2	Reddit	Reddit	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=4|end_char=10
+3	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	touchy	touchy	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=16|end_char=22
+5	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=23|end_char=27
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=28|end_char=29
+7	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=30|end_char=34
+8	Americans	American	PROPN	NNPS	Number=Plur	7	obj	_	start_char=35|end_char=44
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=45|end_char=53
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=54|end_char=57
+11	narrow	narrow	ADJ	JJ	Degree=Pos	9	conj	_	start_char=58|end_char=64
+12	minded	minded	ADJ	JJ	Degree=Pos	9	conj	_	start_char=65|end_char=71
+13	.	.	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	smh	smh	PROPN	NNP	Number=Sing	0	root	_	start_char=73|end_char=76
+

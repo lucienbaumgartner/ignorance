@@ -1,0 +1,19 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=0|end_char=1
+2	second	second	ADV	RB	_	8	advmod	_	start_char=2|end_char=8
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obl	_	start_char=9|end_char=13
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=14|end_char=17
+5	admin	admin	NOUN	NN	Number=Sing	8	nsubj	_	start_char=18|end_char=23
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=24|end_char=26
+7	so	so	ADV	RB	_	8	advmod	_	start_char=27|end_char=29
+8	insane	insane	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=48
+11	of	of	ADP	IN	_	12	case	_	start_char=49|end_char=51
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=52|end_char=54
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=55|end_char=56
+14	almost	almost	ADV	RB	_	15	advmod	_	start_char=57|end_char=63
+15	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	parataxis	_	start_char=64|end_char=68
+16	bad	bad	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=69|end_char=72
+17	for	for	ADP	IN	_	18	case	_	start_char=73|end_char=76
+18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=77|end_char=80
+

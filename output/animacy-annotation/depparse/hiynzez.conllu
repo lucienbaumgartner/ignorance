@@ -1,0 +1,37 @@
+1	https://www.reddit.com/r/antinatalism/comments/qk4wn7/the_comments_just_dont_sit_right_with_me/?utm_medium=android_app&amp;utm_source=share	https://www.reddit.com/r/antinatalism/comments/qk4wn7/the_comments_just_dont_sit_right_with_me/?utm_medium=android_app&amp;utm_source=share	X	ADD	_	0	root	_	start_char=0|end_char=139
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=141|end_char=142
+2	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=143|end_char=147
+3	obliged	oblige	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=148|end_char=155
+4	to	to	PART	TO	_	5	mark	_	start_char=156|end_char=158
+5	comment	comment	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=159|end_char=166
+6	on	on	ADP	IN	_	8	case	_	start_char=167|end_char=169
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=170|end_char=174
+8	comment	comment	NOUN	NN	Number=Sing	5	obl	_	start_char=175|end_char=182
+9	which	which	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=183|end_char=188
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=189|end_char=192
+11	particularly	particularly	ADV	RB	_	12	advmod	_	start_char=193|end_char=205
+12	dismissive	dismissive	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=206|end_char=216
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=217|end_char=220
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=221|end_char=229
+15	of	of	ADP	IN	_	18	case	_	start_char=230|end_char=232
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=233|end_char=236
+17	ecological	ecological	ADJ	JJ	Degree=Pos	18	amod	_	start_char=237|end_char=247
+18	impacts	impact	NOUN	NNS	Number=Plur	14	obl	_	start_char=248|end_char=255
+19	on	on	ADP	IN	_	20	case	_	start_char=256|end_char=258
+20	overpopulation	overpopulation	NOUN	NN	Number=Sing	18	nmod	_	start_char=259|end_char=273
+21	of	of	ADP	IN	_	22	case	_	start_char=274|end_char=276
+22	humans	human	NOUN	NNS	Number=Plur	20	nmod	_	start_char=277|end_char=283
+23	on	on	ADP	IN	_	25	case	_	start_char=284|end_char=286
+24	this	this	DET	DT	Number=Sing|PronType=Dem	25	det	_	start_char=287|end_char=291
+25	planet	planet	NOUN	NN	Number=Sing	20	nmod	_	start_char=292|end_char=298
+26	.	.	PUNCT	.	_	2	punct	_	start_char=298|end_char=299
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=300|end_char=302
+2	borders	border	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=303|end_char=310
+3	on	on	ADP	IN	_	6	case	_	start_char=311|end_char=313
+4	conspiracy	conspiracy	NOUN	NN	Number=Sing	6	compound	_	start_char=314|end_char=324
+5	theorist	theorist	NOUN	NN	Number=Sing	6	compound	_	start_char=325|end_char=333
+6	denial	denial	NOUN	NN	Number=Sing	2	obl	_	start_char=334|end_char=340
+7	.	.	PUNCT	.	_	2	punct	_	start_char=340|end_char=341
+

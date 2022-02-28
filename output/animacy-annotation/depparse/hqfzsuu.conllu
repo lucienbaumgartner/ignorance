@@ -1,0 +1,23 @@
+1	No	no	INTJ	UH	_	4	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	4	punct	_	start_char=2|end_char=3
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=4|end_char=8
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=12
+5	n't	not	PART	RB	_	4	advmod	_	start_char=12|end_char=15
+6	.	.	PUNCT	.	_	4	punct	_	start_char=15|end_char=16
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=17|end_char=21
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=22|end_char=25
+3	in	in	ADP	IN	_	5	case	_	start_char=26|end_char=28
+4	no	no	DET	DT	_	5	det	_	start_char=29|end_char=31
+5	way	way	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=32|end_char=35
+6	comparable	comparable	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=46
+7	,	,	PUNCT	,	_	6	punct	_	start_char=46|end_char=47
+8	unless	unless	SCONJ	IN	_	12	mark	_	start_char=48|end_char=54
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=55|end_char=58
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=59|end_char=62
+11	really	really	ADV	RB	_	12	advmod	_	start_char=63|end_char=69
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=70|end_char=78
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=79|end_char=82
+14	uneducated	uneducated	ADJ	JJ	Degree=Pos	12	conj	_	start_char=83|end_char=93
+15	.	.	PUNCT	.	_	6	punct	_	start_char=93|end_char=94
+

@@ -1,0 +1,28 @@
+1	Lol	lol	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+3	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+4	.	.	PUNCT	.	_	3	punct	_	start_char=10|end_char=11
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=13|end_char=16
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=17|end_char=18
+3	sad	sad	ADJ	JJ	Degree=Pos	4	amod	_	start_char=19|end_char=22
+4	reminder	reminder	NOUN	NN	Number=Sing	0	root	_	start_char=23|end_char=31
+5	that	that	SCONJ	IN	_	11	mark	_	start_char=32|end_char=36
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=37|end_char=40
+7	majority	majority	NOUN	NN	Number=Sing	11	nsubj	_	start_char=41|end_char=49
+8	of	of	ADP	IN	_	9	case	_	start_char=50|end_char=52
+9	people	people	NOUN	NNS	Number=Plur	7	nmod	_	start_char=53|end_char=59
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=60|end_char=63
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	acl	_	start_char=64|end_char=72
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=73|end_char=76
+13	selfish	selfish	ADJ	JJ	Degree=Pos	11	conj	_	start_char=77|end_char=84
+14	when	when	SCONJ	WRB	PronType=Int	16	mark	_	start_char=85|end_char=89
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=90|end_char=92
+16	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=93|end_char=98
+17	to	to	ADP	IN	_	21	case	_	start_char=99|end_char=101
+18	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=102|end_char=105
+19	food	food	NOUN	NN	Number=Sing	20	compound	_	start_char=106|end_char=110
+20	service	service	NOUN	NN	Number=Sing	21	compound	_	start_char=111|end_char=118
+21	industry	industry	NOUN	NN	Number=Sing	16	obl	_	start_char=119|end_char=127
+22	.	.	PUNCT	.	_	4	punct	_	start_char=127|end_char=128
+

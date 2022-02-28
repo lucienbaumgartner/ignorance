@@ -1,0 +1,41 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	possibly	possibly	ADV	RB	_	4	advmod	_	start_char=5|end_char=13
+4	accurate	accurate	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=22
+5	.	.	PUNCT	.	_	4	punct	_	start_char=22|end_char=23
+
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=24|end_char=30
+2	smart	smart	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=36
+3	,	,	PUNCT	,	_	2	punct	_	start_char=36|end_char=37
+4	knowledgeable	knowledgeable	ADJ	JJ	Degree=Pos	5	amod	_	start_char=38|end_char=51
+5	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=52|end_char=58
+6	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=59|end_char=63
+7	to	to	PART	TO	_	10	mark	_	start_char=64|end_char=66
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=67|end_char=69
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=70|end_char=73
+10	ones	one	NOUN	NNS	Number=Plur	6	xcomp	_	start_char=74|end_char=78
+11	most	most	ADV	RBS	_	12	advmod	_	start_char=79|end_char=83
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=84|end_char=91
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=92|end_char=95
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=96|end_char=104
+15	of	of	ADP	IN	_	18	case	_	start_char=105|end_char=107
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=108|end_char=113
+17	intellectual	intellectual	ADJ	JJ	Degree=Pos	18	amod	_	start_char=114|end_char=126
+18	greatness	greatness	NOUN	NN	Number=Sing	14	obl	_	start_char=127|end_char=136
+19	...	...	PUNCT	.	_	2	punct	_	start_char=136|end_char=139
+
+1	Or	or	CCONJ	CC	_	6	cc	_	start_char=141|end_char=143
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=144|end_char=147
+3	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=148|end_char=153
+4	just	just	ADV	RB	_	6	advmod	_	start_char=154|end_char=158
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=159|end_char=161
+6	mediocre	mediocre	ADJ	JJ	Degree=Pos	0	root	_	start_char=162|end_char=170
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=171|end_char=174
+8	honest	honest	ADJ	JJ	Degree=Pos	6	conj	_	start_char=175|end_char=181
+9	,	,	PUNCT	,	_	6	punct	_	start_char=181|end_char=182
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=183|end_char=184
+11	really	really	ADV	RB	_	14	advmod	_	start_char=185|end_char=191
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=192|end_char=194
+13	n't	not	PART	RB	_	14	advmod	_	start_char=194|end_char=197
+14	know	know	VERB	VB	VerbForm=Inf	6	parataxis	_	start_char=198|end_char=202
+

@@ -1,0 +1,16 @@
+1	Nah	nah	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=4|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=9|end_char=11
+4	trademark	trademark	NOUN	NN	Number=Sing	0	root	_	start_char=12|end_char=21
+5	of	of	ADP	IN	_	6	case	_	start_char=22|end_char=24
+6	someone	someone	PRON	NN	Number=Sing	4	nmod	_	start_char=25|end_char=32
+7	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=33|end_char=36
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=37|end_char=39
+9	just	just	ADV	RB	_	10	advmod	_	start_char=40|end_char=44
+10	blind	blind	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=45|end_char=50
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=51|end_char=54
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=55|end_char=62
+13	of	of	ADP	IN	_	15	case	_	start_char=63|end_char=65
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=66|end_char=71
+15	surroundings	surroundings	NOUN	NNS	Number=Plur	12	obl	_	start_char=72|end_char=84
+

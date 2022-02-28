@@ -1,0 +1,22 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	really	really	ADV	RB	_	3	advmod	_	start_char=5|end_char=11
+3	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=16
+4	to	to	PART	TO	_	5	mark	_	start_char=17|end_char=19
+5	want	want	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=20|end_char=24
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=25|end_char=28
+7	dad	dad	NOUN	NN	Number=Sing	5	obj	_	start_char=29|end_char=32
+8	to	to	PART	TO	_	10	mark	_	start_char=33|end_char=35
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=36|end_char=38
+10	neglectful	neglectful	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=39|end_char=49
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=50|end_char=53
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=54|end_char=62
+13	of	of	SCONJ	IN	_	14	case	_	start_char=63|end_char=65
+14	what	what	PRON	WP	PronType=Int	12	obl	_	start_char=66|end_char=70
+15	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=70|end_char=72
+16	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	start_char=73|end_char=81
+17	in	in	ADP	IN	_	20	case	_	start_char=82|end_char=84
+18	Penelope	Penelope	PROPN	NNP	Number=Sing	20	nmod:poss	_	start_char=85|end_char=93
+19	's	's	PART	POS	_	18	case	_	start_char=93|end_char=95
+20	life	life	NOUN	NN	Number=Sing	16	obl	_	start_char=96|end_char=100
+21	.	.	PUNCT	.	_	3	punct	_	start_char=100|end_char=101
+

@@ -1,0 +1,58 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	there	there	PRON	EX	_	4	expl	_	start_char=9|end_char=14
+4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=14|end_char=16
+5	two	two	NUM	CD	NumForm=Word|NumType=Card	6	nummod	_	start_char=17|end_char=20
+6	explanations	explanation	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=21|end_char=33
+7	for	for	ADP	IN	_	8	case	_	start_char=34|end_char=37
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nmod	_	start_char=38|end_char=42
+9	:	:	PUNCT	:	_	2	punct	_	start_char=42|end_char=43
+
+1	1	1	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=45|end_char=46
+2	.	.	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=48|end_char=52
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=52|end_char=55
+3	so	so	ADV	RB	_	5	advmod	_	start_char=56|end_char=58
+4	inexplicably	inexplicably	ADV	RB	_	5	advmod	_	start_char=59|end_char=71
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=72|end_char=79
+6	stupid	stupid	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=80|end_char=86
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=87|end_char=90
+8	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=91|end_char=98
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=99|end_char=103
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=104|end_char=108
+11	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=109|end_char=111
+12	n’t	not	PART	RB	_	13	advmod	_	start_char=111|end_char=114
+13	know	know	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=115|end_char=119
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=120|end_char=123
+15	Klan	Klan	PROPN	NNP	Number=Sing	18	nsubj	_	start_char=124|end_char=128
+16	would	would	AUX	MD	VerbForm=Fin	18	aux	_	start_char=129|end_char=134
+17	have	have	AUX	VB	VerbForm=Inf	18	aux	_	start_char=135|end_char=139
+18	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part	13	ccomp	_	start_char=140|end_char=149
+19	genocide	genocide	NOUN	NN	Number=Sing	18	obj	_	start_char=150|end_char=158
+20	against	against	ADP	IN	_	23	case	_	start_char=159|end_char=166
+21	any	any	DET	DT	_	23	det	_	start_char=167|end_char=170
+22	black	black	ADJ	JJ	Degree=Pos	23	amod	_	start_char=171|end_char=176
+23	person	person	NOUN	NN	Number=Sing	18	obl	_	start_char=177|end_char=183
+24	unwilling	unwilling	ADJ	JJ	Degree=Pos	23	amod	_	start_char=184|end_char=193
+25	to	to	PART	TO	_	26	mark	_	start_char=194|end_char=196
+26	confine	confine	VERB	VB	VerbForm=Inf	24	xcomp	_	start_char=197|end_char=204
+27	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	26	obj	_	start_char=205|end_char=215
+28	to	to	ADP	IN	_	29	case	_	start_char=216|end_char=218
+29	slavery	slavery	NOUN	NN	Number=Sing	26	obl	_	start_char=219|end_char=226
+30	.	.	PUNCT	.	_	5	punct	_	start_char=226|end_char=227
+
+1	2	2	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=229|end_char=230
+2	.	.	PUNCT	.	_	1	punct	_	start_char=230|end_char=231
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=232|end_char=236
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=237|end_char=239
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=240|end_char=244
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=245|end_char=249
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=250|end_char=253
+6	sympathize	sympathize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=254|end_char=264
+7	with	with	ADP	IN	_	9	case	_	start_char=265|end_char=269
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=270|end_char=274
+9	view	view	NOUN	NN	Number=Sing	6	obl	_	start_char=275|end_char=279
+10	.	.	PUNCT	.	_	3	punct	_	start_char=279|end_char=280
+

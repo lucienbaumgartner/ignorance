@@ -1,0 +1,30 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	answer	answer	NOUN	NN	Number=Sing	0	root	_	start_char=12|end_char=18
+5	.	.	PUNCT	.	_	4	punct	_	start_char=18|end_char=19
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=20|end_char=22
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=22|end_char=24
+3	just	just	ADV	RB	_	5	advmod	_	start_char=25|end_char=29
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=30|end_char=31
+5	lad	lad	NOUN	NN	Number=Sing	0	root	_	start_char=32|end_char=35
+6	from	from	ADP	IN	_	9	case	_	start_char=36|end_char=40
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=41|end_char=42
+8	distant	distant	ADJ	JJ	Degree=Pos	9	amod	_	start_char=43|end_char=50
+9	culture	culture	NOUN	NN	Number=Sing	5	nmod	_	start_char=51|end_char=58
+10	,	,	PUNCT	,	_	11	punct	_	start_char=58|end_char=59
+11	unconcerned	unconcerned	ADJ	JJ	Degree=Pos	9	amod	_	start_char=60|end_char=71
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=72|end_char=75
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=76|end_char=83
+14	of	of	ADP	IN	_	16	case	_	start_char=84|end_char=86
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=87|end_char=90
+16	elite	elite	NOUN	NN	Number=Sing	13	obl	_	start_char=91|end_char=96
+17	.	.	PUNCT	.	_	5	punct	_	start_char=96|end_char=97
+
+1	Pippin	Pippin	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=98|end_char=104
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=105|end_char=107
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=108|end_char=110
+4	favorite	favorite	NOUN	NN	Number=Sing	0	root	_	start_char=111|end_char=119
+5	.	.	PUNCT	.	_	4	punct	_	start_char=119|end_char=120
+

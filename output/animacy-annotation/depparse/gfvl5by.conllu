@@ -1,0 +1,25 @@
+1	Kail	Kail	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+3	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=8|end_char=12
+4	particular	particular	ADJ	JJ	Degree=Pos	5	amod	_	start_char=13|end_char=23
+5	blend	blend	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=29
+6	of	of	ADP	IN	_	7	case	_	start_char=30|end_char=32
+7	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	5	nmod	_	start_char=33|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=54
+10	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=55|end_char=59
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=60|end_char=62
+12	killing	kill	VERB	VBG	Tense=Pres|VerbForm=Part	5	acl:relcl	_	start_char=63|end_char=70
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=71|end_char=74
+14	country	country	NOUN	NN	Number=Sing	12	obj	_	start_char=75|end_char=82
+15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=83|end_char=86
+16	lives	live	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=87|end_char=92
+17	in	in	ADP	RP	_	16	compound:prt	_	start_char=93|end_char=95
+18	.	.	PUNCT	.	_	5	punct	_	start_char=95|end_char=96
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=97|end_char=100
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=101|end_char=104
+3	kick	kick	VERB	VB	VerbForm=Inf	0	root	_	start_char=105|end_char=109
+4	rocks	rock	NOUN	NNS	Number=Plur	3	obj	_	start_char=110|end_char=115
+5	.	.	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+

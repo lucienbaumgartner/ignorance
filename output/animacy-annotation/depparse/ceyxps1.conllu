@@ -1,0 +1,49 @@
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=4
+2	cats	cat	NOUN	NNS	Number=Plur	0	root	_	start_char=5|end_char=9
+3	,	,	PUNCT	,	_	7	punct	_	start_char=9|end_char=10
+4	but	but	CCONJ	CC	_	7	cc	_	start_char=11|end_char=14
+5	not	not	ADV	RB	_	7	advmod	_	start_char=15|end_char=18
+6	ragdoll	ragdoll	ADJ	JJ	Degree=Pos	7	amod	_	start_char=19|end_char=26
+7	cats	cat	NOUN	NNS	Number=Plur	2	conj	_	start_char=27|end_char=31
+8	.	.	PUNCT	.	_	2	punct	_	start_char=31|end_char=32
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=33|end_char=37
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=37|end_char=40
+3	too	too	ADV	RB	_	4	advmod	_	start_char=41|end_char=44
+4	floppy	floppy	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=51
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=52|end_char=55
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=56|end_char=63
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=64|end_char=68
+8	danger	danger	NOUN	NN	Number=Sing	9	nsubj	_	start_char=69|end_char=75
+9	exists	exist	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=76|end_char=82
+10	...	...	PUNCT	.	_	4	punct	_	start_char=82|end_char=85
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=86|end_char=90
+2	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=91|end_char=94
+3	to	to	PART	TO	_	4	mark	_	start_char=95|end_char=97
+4	play	play	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=98|end_char=102
+5	with	with	ADP	IN	_	6	case	_	start_char=103|end_char=107
+6	animals	animal	NOUN	NNS	Number=Plur	4	obl	_	start_char=108|end_char=115
+7	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=116|end_char=120
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=121|end_char=125
+9	kill	kill	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=126|end_char=130
+10	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	start_char=131|end_char=135
+11	,	,	PUNCT	,	_	13	punct	_	start_char=135|end_char=136
+12	which	which	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=137|end_char=142
+13	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=143|end_char=151
+14	to	to	ADP	IN	_	15	case	_	start_char=152|end_char=154
+15	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	obl	_	start_char=155|end_char=159
+16	.	.	PUNCT	.	_	2	punct	_	start_char=159|end_char=160
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=161|end_char=163
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=164|end_char=167
+3	no	no	DET	DT	_	4	det	_	start_char=168|end_char=170
+4	sense	sense	NOUN	NN	Number=Sing	2	obj	_	start_char=171|end_char=176
+5	at	at	ADP	IN	_	6	case	_	start_char=177|end_char=179
+6	all	all	DET	DT	_	4	nmod	_	start_char=180|end_char=183
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=184|end_char=187
+8	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	start_char=188|end_char=191
+9	n't	not	PART	RB	_	10	advmod	_	start_char=191|end_char=194
+10	belong	belong	VERB	VB	VerbForm=Inf	2	conj	_	start_char=195|end_char=201
+11	outside	outside	ADV	RB	_	10	advmod	_	start_char=202|end_char=209
+

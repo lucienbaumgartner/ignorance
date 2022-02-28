@@ -1,0 +1,27 @@
+1	Surprisingly	surprisingly	ADV	RB	_	12	advmod	_	start_char=0|end_char=12
+2	in	in	ADP	IN	_	4	case	_	start_char=13|end_char=15
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=16|end_char=18
+4	neck	neck	NOUN	NN	Number=Sing	12	obl	_	start_char=19|end_char=23
+5	of	of	ADP	IN	_	7	case	_	start_char=24|end_char=26
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=27|end_char=30
+7	woods	wood	NOUN	NNS	Number=Plur	4	nmod	_	start_char=31|end_char=36
+8	98	98	NUM	CD	NumType=Card	9	nummod	_	start_char=37|end_char=39
+9	%	%	SYM	NN	Number=Sing	12	nsubj	_	start_char=39|end_char=40
+10	of	of	ADP	IN	_	11	case	_	start_char=41|end_char=43
+11	people	people	NOUN	NNS	Number=Plur	9	nmod	_	start_char=44|end_char=50
+12	wear	wear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=55
+13	masks	mask	NOUN	NNS	Number=Plur	12	obj	_	start_char=56|end_char=61
+14	.	.	PUNCT	.	_	12	punct	_	start_char=61|end_char=62
+
+1	Usually	usually	ADV	RB	_	6	advmod	_	start_char=62|end_char=69
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=70|end_char=72
+3	will	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=73|end_char=77
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=78|end_char=80
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=81|end_char=84
+6	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=85|end_char=90
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=91|end_char=94
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=95|end_char=103
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=104|end_char=108
+10	dont	dont	NOUN	NN	Number=Sing	6	acl:relcl	_	start_char=109|end_char=113
+11	.	.	PUNCT	.	_	6	punct	_	start_char=113|end_char=114
+

@@ -1,0 +1,70 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=6
+3	nothing	nothing	PRON	NN	Number=Sing	2	obj	_	start_char=7|end_char=14
+4	to	to	PART	TO	_	5	mark	_	start_char=15|end_char=17
+5	do	do	VERB	VB	VerbForm=Inf	3	acl	_	start_char=18|end_char=20
+6	with	with	ADP	IN	_	8	case	_	start_char=21|end_char=25
+7	“	''	PUNCT	``	_	8	punct	_	start_char=26|end_char=27
+8	whiteness	whiteness	NOUN	NN	Number=Sing	5	obl	_	start_char=27|end_char=36
+9	.	.	PUNCT	.	_	8	punct	_	start_char=36|end_char=37
+10	”	''	PUNCT	''	_	8	punct	_	start_char=37|end_char=38
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=40|end_char=42
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=43|end_char=46
+3	to	to	PART	TO	_	4	mark	_	start_char=47|end_char=49
+4	do	do	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=50|end_char=52
+5	with	with	ADP	IN	_	6	case	_	start_char=53|end_char=57
+6	ethnicity	ethnicity	NOUN	NN	Number=Sing	4	obl	_	start_char=58|end_char=67
+7	.	.	PUNCT	.	_	2	punct	_	start_char=67|end_char=68
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=70|end_char=74
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=75|end_char=79
+3	all	all	ADV	RB	_	4	advmod	_	start_char=80|end_char=83
+4	white	white	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=89
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=90|end_char=93
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=94|end_char=97
+7	Irish	Irish	ADJ	JJ	Degree=Pos	8	amod	_	start_char=98|end_char=103
+8	more	more	ADV	RBR	_	9	advmod	_	start_char=104|end_char=108
+9	so	so	ADV	RB	_	4	conj	_	start_char=109|end_char=111
+10	than	than	ADP	IN	_	12	case	_	start_char=112|end_char=116
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=117|end_char=120
+12	Normans	Normans	PROPN	NNPS	Number=Plur	9	obl	_	start_char=121|end_char=128
+13	.	.	PUNCT	.	_	4	punct	_	start_char=128|end_char=129
+
+1	But	but	CCONJ	CC	_	12	cc	_	start_char=131|end_char=134
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=135|end_char=138
+3	Irish	Irish	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=139|end_char=144
+4	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=145|end_char=148
+5	different	different	ADJ	JJ	Degree=Pos	6	amod	_	start_char=149|end_char=158
+6	customs	custom	NOUN	NNS	Number=Plur	4	obj	_	start_char=159|end_char=166
+7	,	,	PUNCT	,	_	8	punct	_	start_char=166|end_char=167
+8	spoke	speak	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=168|end_char=173
+9	Gaelic	Gaelic	PROPN	NNP	Number=Sing	8	obj	_	start_char=174|end_char=180
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=181|end_char=184
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux:pass	_	start_char=185|end_char=189
+12	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=190|end_char=200
+13	lazy	lazy	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=201|end_char=205
+14	,	,	PUNCT	,	_	15	punct	_	start_char=205|end_char=206
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=207|end_char=215
+16	,	,	PUNCT	,	_	18	punct	_	start_char=215|end_char=216
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=217|end_char=220
+18	criminal	criminal	ADJ	JJ	Degree=Pos	13	conj	_	start_char=221|end_char=229
+19	.	.	PUNCT	.	_	4	punct	_	start_char=229|end_char=230
+
+1	Many	many	ADJ	JJ	Degree=Pos	2	nsubj	_	start_char=232|end_char=236
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=237|end_char=241
+3	reasons	reason	NOUN	NNS	Number=Plur	2	obj	_	start_char=242|end_char=249
+4	to	to	PART	TO	_	5	mark	_	start_char=250|end_char=252
+5	hate	hate	VERB	VB	VerbForm=Inf	3	acl	_	start_char=253|end_char=257
+6	people	people	NOUN	NNS	Number=Plur	5	obj	_	start_char=258|end_char=264
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=265|end_char=269
+8	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=269|end_char=272
+9	never	never	ADV	RB	_	10	advmod	_	start_char=273|end_char=278
+10	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	_	start_char=279|end_char=282
+11	.	.	PUNCT	.	_	2	punct	_	start_char=282|end_char=283
+
+1	Plus	plus	CCONJ	CC	_	3	cc	_	start_char=285|end_char=289
+2	ça	ça	PROPN	NNP	Number=Sing	3	compound	_	start_char=290|end_char=292
+3	change	change	NOUN	NN	Number=Sing	0	root	_	start_char=293|end_char=299
+4	…	…	PUNCT	.	_	3	punct	_	start_char=299|end_char=300
+

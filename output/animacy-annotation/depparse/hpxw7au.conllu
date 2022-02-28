@@ -1,0 +1,58 @@
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=0|end_char=2
+2	totally	totally	ADV	RB	_	6	advmod	_	start_char=3|end_char=10
+3	out	out	ADP	IN	_	6	case	_	start_char=11|end_char=14
+4	of	of	ADP	IN	_	5	case	_	start_char=15|end_char=17
+5	touch	touch	NOUN	NN	Number=Sing	6	compound	_	start_char=18|end_char=23
+6	aunt	aunt	NOUN	NN	Number=Sing	20	nsubj	_	start_char=24|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	uncle	uncle	NOUN	NN	Number=Sing	6	conj	_	start_char=33|end_char=38
+9	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=39|end_char=42
+10	rarely	rarely	ADV	RB	_	11	advmod	_	start_char=43|end_char=49
+11	watch	watch	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=50|end_char=55
+12	American	American	ADJ	JJ	Degree=Pos	13	amod	_	start_char=56|end_char=64
+13	news	news	NOUN	NN	Number=Sing	11	obj	_	start_char=65|end_char=69
+14	or	or	CCONJ	CC	_	15	cc	_	start_char=70|end_char=72
+15	engage	engage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	conj	_	start_char=73|end_char=79
+16	in	in	ADP	IN	_	18	case	_	start_char=80|end_char=82
+17	social	social	ADJ	JJ	Degree=Pos	18	amod	_	start_char=83|end_char=89
+18	media	media	NOUN	NN	Number=Plur	15	obl	_	start_char=90|end_char=95
+19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=96|end_char=99
+20	waking	wake	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=100|end_char=106
+21	up	up	ADP	RP	_	20	compound:prt	_	start_char=107|end_char=109
+22	.	.	PUNCT	.	_	20	punct	_	start_char=109|end_char=110
+
+1	Even	even	ADV	RB	_	7	advmod	_	start_char=111|end_char=115
+2	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=116|end_char=119
+3	most	most	ADV	RBS	_	4	advmod	_	start_char=120|end_char=124
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=125|end_char=133
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=134|end_char=137
+6	bliss	bliss	ADJ	JJ	Degree=Pos	4	conj	_	start_char=138|end_char=143
+7	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=144|end_char=150
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=151|end_char=154
+9	realizing	realize	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=155|end_char=164
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=165|end_char=169
+11	something	something	PRON	NN	Number=Sing	13	nsubj	_	start_char=170|end_char=179
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=180|end_char=182
+13	up	up	ADP	RP	_	9	ccomp	_	start_char=183|end_char=185
+14	.	.	PUNCT	.	_	9	punct	_	start_char=185|end_char=186
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=187|end_char=190
+2	great	great	ADJ	JJ	Degree=Pos	3	amod	_	start_char=191|end_char=196
+3	awakening	awakening	NOUN	NN	Number=Sing	5	nsubj	_	start_char=197|end_char=206
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=207|end_char=209
+5	inevitable	inevitable	ADJ	JJ	Degree=Pos	0	root	_	start_char=210|end_char=220
+6	.	.	PUNCT	.	_	5	punct	_	start_char=220|end_char=221
+
+1	Red	Red	ADJ	JJ	Degree=Pos	2	amod	_	start_char=222|end_char=225
+2	pills	pill	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=226|end_char=231
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=232|end_char=236
+4	continue	continue	VERB	VB	VerbForm=Inf	0	root	_	start_char=237|end_char=245
+5	till	till	SCONJ	IN	_	7	mark	_	start_char=246|end_char=250
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=251|end_char=253
+7	reach	reach	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=254|end_char=259
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=260|end_char=263
+9	precipice	precipice	NOUN	NN	Number=Sing	7	obj	_	start_char=264|end_char=273
+10	.	.	PUNCT	.	_	4	punct	_	start_char=273|end_char=274
+
+1	NCSWIC	NCSWIC	PROPN	NNP	Number=Sing	0	root	_	start_char=275|end_char=281
+

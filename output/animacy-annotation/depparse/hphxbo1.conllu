@@ -1,0 +1,22 @@
+1	What	what	PRON	WP	PronType=Int	7	nsubj	_	start_char=0|end_char=4
+2	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=5|end_char=7
+3	incredibly	incredibly	ADV	RB	_	4	advmod	_	start_char=8|end_char=18
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=19|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	immature	immature	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=40
+7	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=41|end_char=46
+8	to	to	PART	TO	_	9	mark	_	start_char=47|end_char=49
+9	say	say	VERB	VB	VerbForm=Inf	7	acl	_	start_char=50|end_char=53
+10	.	.	PUNCT	.	_	7	punct	_	start_char=53|end_char=54
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=55|end_char=57
+2	abilities	ability	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=58|end_char=67
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=68|end_char=70
+4	n't	not	PART	RB	_	5	advmod	_	start_char=70|end_char=73
+5	excuse	excuse	VERB	VB	VerbForm=Inf	0	root	_	start_char=74|end_char=80
+6	someone	someone	PRON	NN	Number=Sing	9	nmod:poss	_	start_char=81|end_char=88
+7	else	else	ADJ	JJ	Degree=Pos	6	amod	_	start_char=89|end_char=93
+8	's	's	PART	POS	_	6	case	_	start_char=93|end_char=95
+9	failings	failings	NOUN	NNS	Number=Plur	5	obj	_	start_char=96|end_char=104
+10	.	.	PUNCT	.	_	5	punct	_	start_char=104|end_char=105
+

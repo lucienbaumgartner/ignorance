@@ -1,0 +1,44 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=4|end_char=6
+3	friend	friend	NOUN	NN	Number=Sing	5	nsubj	_	start_char=7|end_char=13
+4	,	,	PUNCT	,	_	3	punct	_	start_char=13|end_char=14
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=18
+6	either	either	ADV	RB	_	5	advmod	_	start_char=19|end_char=25
+7	:	:	PUNCT	:	_	5	punct	_	start_char=25|end_char=26
+
+1	1.	1.	X	LS	_	3	dep	_	start_char=28|end_char=30
+2	completely	completely	ADV	RB	_	3	advmod	_	start_char=31|end_char=41
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=50
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=51|end_char=54
+5	inexperienced	inexperienced	ADJ	JJ	Degree=Pos	3	conj	_	start_char=55|end_char=68
+6	in	in	ADP	IN	_	8	case	_	start_char=69|end_char=71
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=72|end_char=76
+8	subject	subject	NOUN	NN	Number=Sing	3	obl	_	start_char=77|end_char=84
+
+1	2.	2.	X	LS	_	2	dep	_	start_char=86|end_char=88
+2	full	full	ADJ	JJ	Degree=Pos	0	root	_	start_char=89|end_char=93
+3	on	on	ADP	IN	_	4	case	_	start_char=94|end_char=96
+4	misogynist	misogynist	NOUN	NN	Number=Sing	2	obl	_	start_char=97|end_char=107
+
+1	3.	3.	NUM	CD	NumType=Card	3	nummod	_	start_char=109|end_char=111
+2	religious	religious	ADJ	JJ	Degree=Pos	3	amod	_	start_char=112|end_char=121
+3	nut	nut	NOUN	NN	Number=Sing	0	root	_	start_char=122|end_char=125
+
+1	4.	4.	NUM	CD	NumType=Card	2	nummod	_	start_char=127|end_char=129
+2	all	all	DET	DT	_	0	root	_	start_char=130|end_char=133
+3	of	of	ADP	IN	_	5	case	_	start_char=134|end_char=136
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=137|end_char=140
+5	above	above	ADJ	JJ	Degree=Pos	2	nmod	_	start_char=141|end_char=146
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=148|end_char=151
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=152|end_char=156
+3	absolutely	absolutely	ADV	RB	_	5	advmod	_	start_char=157|end_char=167
+4	no	no	DET	DT	_	5	det	_	start_char=168|end_char=170
+5	idea	idea	NOUN	NN	Number=Sing	2	obj	_	start_char=171|end_char=175
+6	what	what	PRON	WP	PronType=Int	9	obl	_	start_char=176|end_char=180
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=181|end_char=184
+8	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=184|end_char=187
+9	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	5	acl:relcl	_	start_char=188|end_char=195
+10	about	about	ADP	IN	_	6	case	_	start_char=196|end_char=201
+11	...	...	PUNCT	.	_	2	punct	_	start_char=201|end_char=204
+

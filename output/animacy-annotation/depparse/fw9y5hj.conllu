@@ -1,0 +1,55 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	to	to	PART	TO	_	4	mark	_	start_char=7|end_char=9
+4	say	say	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=10|end_char=13
+5	...	...	PUNCT	.	_	2	punct	_	start_char=13|end_char=16
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=17|end_char=18
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=19|end_char=21
+3	n't	not	PART	RB	_	4	advmod	_	start_char=21|end_char=24
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=25|end_char=30
+5	there	there	PRON	EX	_	6	expl	_	start_char=31|end_char=36
+6	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=37|end_char=40
+7	any	any	DET	DT	_	8	det	_	start_char=41|end_char=44
+8	kind	kind	NOUN	NN	Number=Sing	6	nsubj	_	start_char=45|end_char=49
+9	of	of	ADP	IN	_	10	case	_	start_char=50|end_char=52
+10	skill	skill	NOUN	NN	Number=Sing	8	nmod	_	start_char=53|end_char=58
+11	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	_	start_char=59|end_char=67
+12	on	on	ADP	IN	_	14	case	_	start_char=68|end_char=70
+13	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=71|end_char=74
+14	part	part	NOUN	NN	Number=Sing	11	obl	_	start_char=75|end_char=79
+15	.	.	PUNCT	.	_	4	punct	_	start_char=79|end_char=80
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=81|end_char=82
+2	really	really	ADV	RB	_	3	advmod	_	start_char=83|end_char=89
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=90|end_char=95
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=96|end_char=99
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=100|end_char=103
+6	just	just	ADV	RB	_	8	advmod	_	start_char=104|end_char=108
+7	completely	completely	ADV	RB	_	8	advmod	_	start_char=109|end_char=119
+8	unaware	unaware	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=120|end_char=127
+9	and	and	CCONJ	CC	_	12	cc	_	start_char=128|end_char=131
+10	likely	likely	ADV	RB	_	12	advmod	_	start_char=132|end_char=138
+11	too	too	ADV	RB	_	12	advmod	_	start_char=139|end_char=142
+12	distracted	distract	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	_	start_char=143|end_char=153
+13	to	to	PART	TO	_	14	mark	_	start_char=154|end_char=156
+14	freak	freak	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=157|end_char=162
+15	out	out	ADP	RP	_	14	compound:prt	_	start_char=163|end_char=166
+16	.	.	PUNCT	.	_	3	punct	_	start_char=166|end_char=167
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=169|end_char=170
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=170|end_char=172
+3	really	really	ADV	RB	_	6	advmod	_	start_char=173|end_char=179
+4	at	at	ADP	IN	_	6	case	_	start_char=180|end_char=182
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=183|end_char=184
+6	loss	loss	NOUN	NN	Number=Sing	0	root	_	start_char=185|end_char=189
+7	on	on	ADP	IN	_	9	case	_	start_char=190|end_char=192
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=193|end_char=197
+9	one	one	NOUN	NN	Number=Sing	6	nmod	_	start_char=198|end_char=201
+10	.	.	PUNCT	.	_	6	punct	_	start_char=201|end_char=202
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=203|end_char=205
+2	much	much	ADV	RB	_	3	advmod	_	start_char=206|end_char=210
+3	fail	fail	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=211|end_char=215
+4	.	.	PUNCT	.	_	3	punct	_	start_char=215|end_char=216
+

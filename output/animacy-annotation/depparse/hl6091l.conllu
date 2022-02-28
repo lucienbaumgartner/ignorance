@@ -1,0 +1,25 @@
+1	Common	common	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=6
+2	sense	sense	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=12
+3	no	no	ADV	RB	_	4	advmod	_	start_char=13|end_char=15
+4	longer	long	ADV	RBR	Degree=Cmp	6	advmod	_	start_char=16|end_char=22
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=23|end_char=28
+6	common	common	ADJ	JJ	Degree=Pos	2	acl	_	start_char=29|end_char=35
+7	.	.	PUNCT	.	_	2	punct	_	start_char=35|end_char=36
+
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=37|end_char=42
+2	like	like	SCONJ	IN	_	6	mark	_	start_char=43|end_char=47
+3	folks	folk	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=48|end_char=53
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=54|end_char=57
+5	just	just	ADV	RB	_	6	advmod	_	start_char=58|end_char=62
+6	becoming	become	VERB	VBG	Tense=Pres|VerbForm=Part	1	advcl	_	start_char=63|end_char=71
+7	more	more	ADV	RBR	_	10	advmod	_	start_char=72|end_char=76
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=77|end_char=80
+9	more	more	ADV	RBR	_	7	conj	_	start_char=81|end_char=85
+10	inconsiderate	inconsiderate	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=86|end_char=99
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=100|end_char=103
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=104|end_char=111
+13	of	of	ADP	IN	_	15	case	_	start_char=112|end_char=114
+14	other	other	ADJ	JJ	Degree=Pos	15	amod	_	start_char=115|end_char=120
+15	people	people	NOUN	NNS	Number=Plur	12	obl	_	start_char=121|end_char=127
+16	.	.	PUNCT	.	_	1	punct	_	start_char=127|end_char=128
+

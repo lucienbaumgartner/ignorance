@@ -1,0 +1,80 @@
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=12|end_char=16
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=16|end_char=18
+7	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=19|end_char=22
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=23|end_char=26
+9	’d	have	AUX	MD	VerbForm=Fin	10	aux	_	start_char=26|end_char=28
+10	like	like	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=29|end_char=33
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=34|end_char=36
+12	.	.	PUNCT	.	_	4	punct	_	start_char=36|end_char=37
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=39|end_char=40
+2	’ll	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=40|end_char=43
+3	let	let	VERB	VB	VerbForm=Inf	0	root	_	start_char=44|end_char=47
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=48|end_char=52
+5	speak	speak	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=53|end_char=58
+6	for	for	ADP	IN	_	7	case	_	start_char=59|end_char=62
+7	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	start_char=63|end_char=69
+8	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	Oh	oh	INTJ	UH	_	0	root	_	start_char=73|end_char=75
+2	.	.	PUNCT	.	_	1	punct	_	start_char=75|end_char=76
+
+1	Well	well	INTJ	UH	_	4	discourse	_	start_char=77|end_char=81
+2	then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=82|end_char=86
+3	maybe	maybe	ADV	RB	_	4	advmod	_	start_char=87|end_char=92
+4	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=93|end_char=97
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=98|end_char=100
+6	comments	comment	NOUN	NNS	Number=Plur	4	obj	_	start_char=101|end_char=109
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=110|end_char=113
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=114|end_char=117
+9	’ll	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=117|end_char=120
+10	realize	realize	VERB	VB	VerbForm=Inf	4	conj	_	start_char=121|end_char=128
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=129|end_char=132
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=133|end_char=141
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=142|end_char=145
+14	emotional	emotional	ADJ	JJ	Degree=Pos	12	conj	_	start_char=146|end_char=155
+15	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	start_char=156|end_char=159
+16	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=159|end_char=162
+17	being	be	AUX	VBG	VerbForm=Ger	12	cop	_	start_char=163|end_char=168
+18	.	.	PUNCT	.	_	4	punct	_	start_char=168|end_char=169
+
+1	Rule	rule	NOUN	NN	Number=Sing	2	compound	_	start_char=172|end_char=176
+2	#	#	SYM	NN	Number=Sing	0	root	_	start_char=177|end_char=178
+3	1	1	NUM	CD	NumType=Card	2	nummod	_	start_char=178|end_char=179
+4	on	on	ADP	IN	_	5	case	_	start_char=180|end_char=182
+5	reddit	reddit	NOUN	NN	Number=Sing	2	nmod	_	start_char=183|end_char=189
+6	.	.	PUNCT	.	_	2	punct	_	start_char=189|end_char=190
+
+1	Do	do	AUX	VB	VerbForm=Fin	3	aux	_	start_char=191|end_char=193
+2	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=193|end_char=196
+3	put	put	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=197|end_char=200
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=201|end_char=205
+5	face	face	NOUN	NN	Number=Sing	3	obj	_	start_char=206|end_char=210
+6	out	out	ADP	RP	_	3	compound:prt	_	start_char=211|end_char=214
+7	there	there	ADV	RB	PronType=Dem	3	advmod	_	start_char=215|end_char=220
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=221|end_char=224
+9	then	then	ADV	RB	PronType=Dem	10	advmod	_	start_char=225|end_char=229
+10	talk	talk	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	3	conj	_	start_char=230|end_char=234
+11	ish	ish	ADV	RB	Degree=Pos	10	advmod	_	start_char=235|end_char=238
+12	to	to	ADP	IN	_	13	case	_	start_char=239|end_char=241
+13	people	people	NOUN	NNS	Number=Plur	10	obl	_	start_char=242|end_char=248
+14	.	.	PUNCT	.	_	3	punct	_	start_char=248|end_char=249
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=250|end_char=255
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=255|end_char=257
+3	some	some	DET	DT	_	6	det	_	start_char=258|end_char=262
+4	real	real	ADJ	JJ	Degree=Pos	6	amod	_	start_char=263|end_char=267
+5	bad	bad	ADJ	JJ	Degree=Pos	6	amod	_	start_char=268|end_char=271
+6	folks	folk	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=272|end_char=277
+7	out	out	ADP	IN	_	8	case	_	start_char=278|end_char=281
+8	there	there	ADV	RB	PronType=Dem	2	obl	_	start_char=282|end_char=287
+9	.	.	PUNCT	.	_	2	punct	_	start_char=287|end_char=288
+
+1	Be	be	AUX	VB	Mood=Imp|VerbForm=Fin	2	cop	_	start_char=289|end_char=291
+2	careful	careful	ADJ	JJ	Degree=Pos	0	root	_	start_char=292|end_char=299
+3	.	.	PUNCT	.	_	2	punct	_	start_char=299|end_char=300
+

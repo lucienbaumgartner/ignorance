@@ -1,0 +1,34 @@
+1	Overly	overly	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	confident	confident	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=16
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=17|end_char=20
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=21|end_char=28
+5	that	that	SCONJ	IN	_	10	mark	_	start_char=29|end_char=33
+6	most	most	ADJ	JJS	Degree=Sup	10	nsubj	_	start_char=34|end_char=38
+7	of	of	ADP	IN	_	9	case	_	start_char=39|end_char=41
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=42|end_char=45
+9	electorate	electorate	NOUN	NN	Number=Sing	6	nmod	_	start_char=46|end_char=56
+10	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=57|end_char=63
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=64|end_char=66
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=66|end_char=68
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=69|end_char=70
+14	buffoon	buffoon	NOUN	NN	Number=Sing	10	ccomp	_	start_char=71|end_char=78
+15	.	.	PUNCT	.	_	2	punct	_	start_char=78|end_char=79
+
+1	But	but	CCONJ	CC	_	10	cc	_	start_char=80|end_char=83
+2	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=84|end_char=88
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=89|end_char=92
+4	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=92|end_char=95
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=96|end_char=97
+6	Buffon	Buffon	PROPN	NNP	Number=Sing	10	advcl	_	start_char=98|end_char=104
+7	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	6	advmod	_	start_char=105|end_char=113
+8	,	,	PUNCT	,	_	10	punct	_	start_char=113|end_char=114
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=115|end_char=118
+10	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=119|end_char=123
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=124|end_char=125
+12	hard	hard	ADJ	JJ	Degree=Pos	13	amod	_	start_char=126|end_char=130
+13	time	time	NOUN	NN	Number=Sing	10	obj	_	start_char=131|end_char=135
+14	not	not	PART	RB	_	15	advmod	_	start_char=136|end_char=139
+15	recognizing	recognize	VERB	VBG	VerbForm=Ger	13	acl	_	start_char=140|end_char=151
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=152|end_char=154
+17	.	.	PUNCT	.	_	10	punct	_	start_char=154|end_char=155
+

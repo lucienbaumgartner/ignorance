@@ -1,0 +1,66 @@
+1	Go	go	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=2
+2	Google	Google	PROPN	NNP	Number=Sing	3	compound	_	start_char=3|end_char=9
+3	ellipses	ellipses	NOUN	NNS	Number=Plur	1	obj	_	start_char=10|end_char=18
+4	.	.	PUNCT	.	_	1	punct	_	start_char=18|end_char=19
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=20|end_char=24
+2	boy	boy	NOUN	NN	Number=Sing	0	root	_	start_char=25|end_char=28
+3	,	,	PUNCT	,	_	2	punct	_	start_char=28|end_char=29
+4	now	now	ADV	RB	_	5	advmod	_	start_char=30|end_char=33
+5	Google	Google	PROPN	NNP	Number=Sing	2	appos	_	start_char=34|end_char=40
+6	"	"	PUNCT	''	_	5	punct	_	start_char=41|end_char=42
+7	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=42|end_char=45
+8	to	to	PART	TO	_	9	mark	_	start_char=46|end_char=48
+9	use	use	VERB	VB	VerbForm=Inf	2	acl	_	start_char=49|end_char=52
+10	ellipses	ellipses	NOUN	NNS	Number=Plur	9	obj	_	start_char=53|end_char=61
+11	.	.	PUNCT	.	_	2	punct	_	start_char=61|end_char=62
+12	"	"	PUNCT	''	_	2	punct	_	start_char=62|end_char=63
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=64|end_char=68
+2	boy	boy	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=72
+3	,	,	PUNCT	,	_	2	punct	_	start_char=72|end_char=73
+4	now	now	ADV	RB	_	5	advmod	_	start_char=74|end_char=77
+5	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=78|end_char=80
+6	study	study	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=81|end_char=86
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=87|end_char=89
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=90|end_char=93
+9	apologize	apologize	VERB	VB	Mood=Imp|VerbForm=Fin	6	conj	_	start_char=94|end_char=103
+10	to	to	ADP	IN	_	11	case	_	start_char=104|end_char=106
+11	Mr.	Mr.	PROPN	NNP	Number=Sing	9	obl	_	start_char=107|end_char=110
+12	Trump	Trump	PROPN	NNP	Number=Sing	11	flat	_	start_char=111|end_char=116
+13	for	for	SCONJ	IN	_	16	mark	_	start_char=117|end_char=120
+14	being	be	AUX	VBG	VerbForm=Ger	16	cop	_	start_char=121|end_char=126
+15	completely	completely	ADV	RB	_	16	advmod	_	start_char=127|end_char=137
+16	wrong	wrong	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=138|end_char=143
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=144|end_char=147
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=148|end_char=156
+19	.	.	PUNCT	.	_	2	punct	_	start_char=156|end_char=157
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=158|end_char=162
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=163|end_char=165
+3	text	text	NOUN	NN	Number=Sing	4	compound	_	start_char=166|end_char=170
+4	book	book	NOUN	NN	Number=Sing	0	root	_	start_char=171|end_char=175
+5	,	,	PUNCT	,	_	8	punct	_	start_char=175|end_char=176
+6	perfectly	perfectly	ADV	RB	_	7	advmod	_	start_char=177|end_char=186
+7	fine	fine	ADJ	JJ	Degree=Pos	8	amod	_	start_char=187|end_char=191
+8	use	use	NOUN	NN	Number=Sing	4	appos	_	start_char=192|end_char=195
+9	of	of	ADP	IN	_	10	case	_	start_char=196|end_char=198
+10	ellipses	ellipses	NOUN	NNS	Number=Plur	8	nmod	_	start_char=199|end_char=207
+11	.	.	PUNCT	.	_	4	punct	_	start_char=207|end_char=208
+
+1	Damn	damn	ADJ	JJ	Degree=Pos	2	amod	_	start_char=209|end_char=213
+2	kids	kid	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=214|end_char=218
+3	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=219|end_char=223
+4	actually	actually	ADV	RB	_	5	advmod	_	start_char=224|end_char=232
+5	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=233|end_char=236
+6	anything	anything	PRON	NN	Number=Sing	5	obj	_	start_char=237|end_char=245
+7	just	just	ADV	RB	_	9	advmod	_	start_char=246|end_char=250
+8	to	to	PART	TO	_	9	mark	_	start_char=251|end_char=253
+9	put	put	VERB	VB	VerbForm=Inf	6	acl	_	start_char=254|end_char=257
+10	trump	trump	PROPN	NNP	Number=Sing	9	obj	_	start_char=258|end_char=263
+11	down	down	ADP	RP	_	9	compound:prt	_	start_char=264|end_char=268
+12	for	for	ADP	IN	_	14	case	_	start_char=269|end_char=272
+13	no	no	DET	DT	_	14	det	_	start_char=273|end_char=275
+14	reason	reason	NOUN	NN	Number=Sing	9	obl	_	start_char=276|end_char=282
+15	.	.	PUNCT	.	_	5	punct	_	start_char=282|end_char=283
+

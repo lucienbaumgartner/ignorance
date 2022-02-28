@@ -1,0 +1,13 @@
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=5|end_char=8
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=9|end_char=15
+4	try	try	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=19
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=20|end_char=23
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=24|end_char=26
+7	less	less	ADV	RBR	Degree=Cmp	8	advmod	_	start_char=27|end_char=31
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	closed	close	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	_	start_char=45|end_char=51
+11	-minded	-minded	ADJ	JJ	Degree=Pos	8	conj	_	start_char=51|end_char=58
+12	.	.	PUNCT	.	_	4	punct	_	start_char=58|end_char=59
+

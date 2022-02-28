@@ -1,0 +1,35 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	viet-american	viet-american	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=17
+4	and	and	CCONJ	CC	_	12	cc	_	start_char=18|end_char=21
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=22|end_char=23
+6	lot	lot	NOUN	NN	Number=Sing	12	nsubj	_	start_char=24|end_char=27
+7	of	of	ADP	IN	_	9	case	_	start_char=28|end_char=30
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=31|end_char=33
+9	people	people	NOUN	NNS	Number=Plur	6	nmod	_	start_char=34|end_char=40
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=41|end_char=44
+11	far	far	ADV	RB	Degree=Pos	12	advmod	_	start_char=45|end_char=48
+12	right	right	ADJ	JJ	Degree=Pos	3	conj	_	start_char=49|end_char=54
+13	because	because	ADP	IN	_	15	case	_	start_char=55|end_char=62
+14	of	of	ADP	IN	_	13	fixed	_	start_char=63|end_char=65
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	12	obl	_	start_char=66|end_char=70
+16	.	.	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	Also	also	ADV	RB	_	8	advmod	_	start_char=72|end_char=76
+2	,	,	PUNCT	,	_	8	punct	_	start_char=76|end_char=77
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=78|end_char=82
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=82|end_char=85
+5	just	just	ADV	RB	_	8	advmod	_	start_char=86|end_char=90
+6	really	really	ADV	RB	_	8	advmod	_	start_char=91|end_char=97
+7	fuckng	fuckng	ADV	RB	_	8	advmod	_	start_char=98|end_char=104
+8	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=105|end_char=109
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=110|end_char=113
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=114|end_char=122
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=123|end_char=127
+12	American	American	ADJ	JJ	Degree=Pos	13	amod	_	start_char=128|end_char=136
+13	politics	politics	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=137|end_char=145
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=146|end_char=148
+15	completely	completely	ADV	RB	_	16	advmod	_	start_char=149|end_char=159
+16	different	different	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=160|end_char=169
+17	.	.	PUNCT	.	_	8	punct	_	start_char=169|end_char=170
+

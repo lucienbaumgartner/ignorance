@@ -1,0 +1,50 @@
+1	FYI	fyi	ADV	RB	_	0	root	_	start_char=0|end_char=3
+2	in	in	ADP	IN	_	3	case	_	start_char=4|end_char=6
+3	Massachusetts	Massachusetts	PROPN	NNP	Number=Sing	1	obl	_	start_char=7|end_char=20
+4	.	.	PUNCT	.	_	1	punct	_	start_char=20|end_char=21
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=22|end_char=24
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=24|end_char=26
+3	all	all	ADV	RB	_	4	advmod	_	start_char=27|end_char=30
+4	booked	book	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=31|end_char=37
+5	out	out	ADP	RP	_	4	compound:prt	_	start_char=38|end_char=41
+6	for	for	ADP	IN	_	7	case	_	start_char=42|end_char=45
+7	months	month	NOUN	NNS	Number=Plur	4	obl	_	start_char=46|end_char=52
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=53|end_char=56
+9	months	month	NOUN	NNS	Number=Plur	7	conj	_	start_char=57|end_char=63
+10	at	at	ADP	IN	_	11	case	_	start_char=64|end_char=66
+11	stop	stop	NOUN	NN	Number=Sing	4	obl	_	start_char=67|end_char=71
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=72|end_char=75
+13	shop	shop	NOUN	NN	Number=Sing	11	conj	_	start_char=76|end_char=80
+14	.	.	PUNCT	.	_	4	punct	_	start_char=80|end_char=81
+
+1	Not	not	PART	RB	_	3	advmod	_	start_char=82|end_char=85
+2	an	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=86|end_char=88
+3	option	option	NOUN	NN	Number=Sing	0	root	_	start_char=89|end_char=95
+4	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=97|end_char=101
+2	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=102|end_char=108
+3	in	in	ADP	IN	_	5	case	_	start_char=109|end_char=111
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=112|end_char=114
+5	neighborhood	neighborhood	NOUN	NN	Number=Sing	2	nmod	_	start_char=115|end_char=127
+6	ca	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=128|end_char=130
+7	n't	not	PART	RB	_	8	advmod	_	start_char=130|end_char=133
+8	afford	afford	VERB	VB	VerbForm=Inf	0	root	_	start_char=134|end_char=140
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=141|end_char=144
+10	other	other	ADJ	JJ	Degree=Pos	11	amod	_	start_char=145|end_char=150
+11	options	option	NOUN	NNS	Number=Plur	8	obj	_	start_char=151|end_char=158
+12	.	.	PUNCT	.	_	8	punct	_	start_char=158|end_char=159
+
+1	OP	OP	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=160|end_char=162
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=163|end_char=168
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=169|end_char=178
+4	judgmental	judgmental	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=179|end_char=189
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=190|end_char=193
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=194|end_char=201
+7	of	of	SCONJ	IN	_	10	mark	_	start_char=202|end_char=204
+8	how	how	SCONJ	WRB	PronType=Int	6	obl	_	start_char=205|end_char=208
+9	others	other	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=209|end_char=215
+10	live	live	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=216|end_char=220
+11	.	.	PUNCT	.	_	2	punct	_	start_char=220|end_char=221
+

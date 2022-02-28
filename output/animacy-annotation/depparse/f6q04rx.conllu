@@ -1,0 +1,33 @@
+1	Dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=6|end_char=8
+3	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=9|end_char=15
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=16|end_char=19
+5	main	main	ADJ	JJ	Degree=Pos	6	amod	_	start_char=20|end_char=24
+6	problem	problem	NOUN	NN	Number=Sing	7	nsubj	_	start_char=25|end_char=32
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=33|end_char=35
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=36|end_char=40
+9	most	most	ADJ	JJS	Degree=Sup	10	amod	_	start_char=41|end_char=45
+10	guys	guy	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=46|end_char=50
+11	think	think	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=51|end_char=56
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=57|end_char=59
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=59|end_char=61
+14	normal	normal	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=62|end_char=68
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=69|end_char=72
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=73|end_char=80
+17	that	that	SCONJ	IN	_	21	mark	_	start_char=81|end_char=85
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=86|end_char=88
+19	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=88|end_char=90
+20	an	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=91|end_char=93
+21	addiction	addiction	NOUN	NN	Number=Sing	16	ccomp	_	start_char=94|end_char=103
+22	,	,	PUNCT	,	_	26	punct	_	start_char=103|end_char=104
+23	so	so	ADV	RB	_	26	advmod	_	start_char=105|end_char=107
+24	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	start_char=108|end_char=112
+25	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	start_char=112|end_char=115
+26	comfortable	comfortable	ADJ	JJ	Degree=Pos	3	conj	_	start_char=116|end_char=127
+27	with	with	SCONJ	IN	_	28	mark	_	start_char=128|end_char=132
+28	continuing	continue	VERB	VBG	VerbForm=Ger	26	advcl	_	start_char=133|end_char=143
+29	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28	obj	_	start_char=144|end_char=146
+30	.	.	PUNCT	.	_	3	punct	_	start_char=146|end_char=147
+

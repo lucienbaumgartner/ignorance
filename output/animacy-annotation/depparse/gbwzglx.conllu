@@ -1,0 +1,26 @@
+1	white	white	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=5
+2	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=6|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=13|end_char=16
+4	literally	literally	ADV	RB	_	6	advmod	_	start_char=17|end_char=26
+5	so	so	ADV	RB	_	6	advmod	_	start_char=27|end_char=29
+6	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=49
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=50|end_char=54
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=55|end_char=59
+11	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=60|end_char=63
+12	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=64|end_char=65
+13	reasonable	reasonable	ADJ	JJ	Degree=Pos	16	amod	_	start_char=66|end_char=76
+14	,	,	PUNCT	,	_	16	punct	_	start_char=76|end_char=77
+15	nuanced	nuanced	ADJ	JJ	Degree=Pos	16	amod	_	start_char=78|end_char=85
+16	take	take	NOUN	NN	Number=Sing	11	obj	_	start_char=86|end_char=90
+17	on	on	ADP	IN	_	18	case	_	start_char=91|end_char=93
+18	racism	racism	NOUN	NN	Number=Sing	16	nmod	_	start_char=94|end_char=100
+19	in	in	ADP	IN	_	21	case	_	start_char=101|end_char=103
+20	entertainment	entertainment	NOUN	NN	Number=Sing	21	compound	_	start_char=104|end_char=117
+21	media	media	NOUN	NN	Number=Sing	18	nmod	_	start_char=118|end_char=123
+22	as	as	ADP	IN	_	24	case	_	start_char=124|end_char=126
+23	"	"	PUNCT	``	_	24	punct	_	start_char=127|end_char=128
+24	cringe	cringe	ADJ	JJ	Degree=Pos	11	obl	_	start_char=128|end_char=134
+25	"	"	PUNCT	''	_	24	punct	_	start_char=134|end_char=135
+

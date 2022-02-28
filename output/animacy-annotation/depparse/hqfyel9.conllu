@@ -1,0 +1,75 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=11|end_char=15
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=16|end_char=19
+6	even	even	ADV	RB	_	7	advmod	_	start_char=20|end_char=24
+7	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	csubj	_	start_char=25|end_char=29
+8	bad	bad	ADJ	JJ	Degree=Pos	9	amod	_	start_char=30|end_char=33
+9	days	day	NOUN	NNS	Number=Plur	7	obj	_	start_char=34|end_char=38
+10	lol	lol	INTJ	UH	_	3	discourse	_	start_char=39|end_char=42
+11	.	.	PUNCT	.	_	3	punct	_	start_char=42|end_char=43
+
+1	Must	must	AUX	MD	VerbForm=Fin	7	aux	_	start_char=44|end_char=48
+2	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=49|end_char=51
+3	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=52|end_char=53
+4	Lil	Lil	PROPN	NNP	Number=Sing	7	compound	_	start_char=54|end_char=57
+5	beta	beta	NOUN	NN	Number=Sing	7	compound	_	start_char=58|end_char=62
+6	male	male	NOUN	NN	Number=Sing	7	compound	_	start_char=63|end_char=67
+7	kid	kid	NOUN	NN	Number=Sing	0	root	_	start_char=68|end_char=71
+8	who	who	PRON	WP	PronType=Rel	10	nsubj:pass	_	start_char=72|end_char=75
+9	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=76|end_char=80
+10	pushed	push	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	start_char=81|end_char=87
+11	over	over	ADP	RP	_	10	compound:prt	_	start_char=88|end_char=92
+12	everyday	everyday	ADV	RB	_	10	advmod	_	start_char=93|end_char=101
+13	.	.	PUNCT	.	_	7	punct	_	start_char=101|end_char=102
+
+1	Gtfo	gtfo	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=103|end_char=107
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=108|end_char=111
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=111|end_char=114
+4	way	way	ADV	RB	_	5	advmod	_	start_char=115|end_char=118
+5	more	more	ADV	RBR	_	6	advmod	_	start_char=119|end_char=123
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=124|end_char=132
+7	and	and	CCONJ	CC	_	14	cc	_	start_char=133|end_char=136
+8	perhaps	perhaps	ADV	RB	_	14	advmod	_	start_char=137|end_char=144
+9	even	even	ADV	RB	_	14	advmod	_	start_char=145|end_char=149
+10	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=150|end_char=153
+11	most	most	ADV	RBS	_	12	advmod	_	start_char=154|end_char=158
+12	unintelligent	unintelligent	ADJ	JJ	Degree=Pos	14	amod	_	start_char=159|end_char=172
+13	white	white	ADJ	JJ	Degree=Pos	14	amod	_	start_char=173|end_char=178
+14	boy	boy	NOUN	NN	Number=Sing	6	conj	_	start_char=179|end_char=182
+15	out	out	ADP	IN	_	16	case	_	start_char=183|end_char=186
+16	here	here	ADV	RB	PronType=Dem	14	nmod	_	start_char=187|end_char=191
+17	.	.	PUNCT	.	_	1	punct	_	start_char=191|end_char=192
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=193|end_char=195
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=196|end_char=204
+3	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=205|end_char=209
+4	God	God	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=210|end_char=213
+5	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=214|end_char=219
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=220|end_char=224
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=225|end_char=233
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=234|end_char=237
+9	privileged	privileged	ADJ	JJ	Degree=Pos	7	conj	_	start_char=238|end_char=248
+10	ass	ass	NOUN	NN	Number=Sing	5	obj	_	start_char=249|end_char=252
+11	.	.	PUNCT	.	_	3	punct	_	start_char=252|end_char=253
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=254|end_char=258
+2	outta	outta	ADP	IN	_	3	case	_	start_char=259|end_char=264
+3	here	here	ADV	RB	PronType=Dem	1	obl	_	start_char=265|end_char=269
+4	racist	racist	ADJ	JJ	Degree=Pos	5	amod	_	start_char=270|end_char=276
+5	kid	kid	NOUN	NN	Number=Sing	1	obj	_	start_char=277|end_char=280
+6	.	.	PUNCT	.	_	1	punct	_	start_char=280|end_char=281
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=282|end_char=287
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=288|end_char=290
+3	no	no	DET	DT	_	5	det	_	start_char=291|end_char=293
+4	such	such	ADJ	JJ	Degree=Pos	5	amod	_	start_char=294|end_char=298
+5	thing	thing	NOUN	NN	Number=Sing	2	nsubj	_	start_char=299|end_char=304
+6	as	as	ADP	IN	_	7	case	_	start_char=305|end_char=307
+7	racism	racism	NOUN	NN	Number=Sing	5	nmod	_	start_char=308|end_char=314
+8	towards	towards	ADP	IN	_	11	case	_	start_char=315|end_char=322
+9	American	American	ADJ	JJ	Degree=Pos	11	amod	_	start_char=323|end_char=331
+10	white	white	ADJ	JJ	Degree=Pos	11	amod	_	start_char=332|end_char=337
+11	caucazoids	caucazoid	NOUN	NNS	Number=Plur	7	nmod	_	start_char=338|end_char=348
+

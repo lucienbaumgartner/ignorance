@@ -1,0 +1,7 @@
+1	not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	unpopular	unpopular	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=13
+3	just	just	ADV	RB	_	4	advmod	_	start_char=14|end_char=18
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=19|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	subjective	subjective	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=42
+

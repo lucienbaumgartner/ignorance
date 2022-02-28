@@ -1,0 +1,81 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=8|end_char=14
+3	ban	ban	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=18
+4	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=19|end_char=25
+5	from	from	SCONJ	IN	_	6	mark	_	start_char=26|end_char=30
+6	owning	own	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=31|end_char=37
+7	more	more	ADJ	JJR	Degree=Cmp	9	advmod	_	start_char=38|end_char=42
+8	than	than	ADP	IN	_	7	fixed	_	start_char=43|end_char=47
+9	1	1	NUM	CD	NumType=Card	6	obj	_	start_char=48|end_char=49
+10	(	(	PUNCT	-LRB-	_	12	punct	_	start_char=50|end_char=51
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=51|end_char=53
+12	two	two	NUM	CD	NumType=Card	9	conj	_	start_char=54|end_char=57
+13	)	)	PUNCT	-RRB-	_	12	punct	_	start_char=57|end_char=58
+14	of	of	ADP	IN	_	15	case	_	start_char=59|end_char=61
+15	something	something	PRON	NN	Number=Sing	9	nmod	_	start_char=62|end_char=71
+16	,	,	PUNCT	,	_	17	punct	_	start_char=71|end_char=72
+17	sorry	sorry	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=73|end_char=78
+18	.	.	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=80|end_char=83
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=84|end_char=87
+3	do	do	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=88|end_char=90
+4	n't	not	PART	RB	_	5	advmod	_	start_char=90|end_char=93
+5	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=94|end_char=98
+6	to	to	PART	TO	_	5	xcomp	_	start_char=99|end_char=101
+7	.	.	PUNCT	.	_	5	punct	_	start_char=101|end_char=102
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=104|end_char=106
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=107|end_char=109
+3	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=110|end_char=116
+4	regulation	regulation	NOUN	NN	Number=Sing	3	xcomp	_	start_char=117|end_char=127
+5	.	.	PUNCT	.	_	3	punct	_	start_char=127|end_char=128
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=129|end_char=136
+2	if	if	SCONJ	IN	_	8	mark	_	start_char=137|end_char=139
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=140|end_char=143
+4	top	top	ADJ	JJ	Degree=Pos	6	amod	_	start_char=144|end_char=147
+5	1	1	NUM	CD	NumType=Card	6	nummod	_	start_char=148|end_char=149
+6	%	%	SYM	NN	Number=Sing	8	nsubj	_	start_char=149|end_char=150
+7	just	just	ADV	RB	_	8	advmod	_	start_char=151|end_char=155
+8	bought	buy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=156|end_char=162
+9	all	all	DET	PDT	_	12	det:predet	_	start_char=163|end_char=166
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=167|end_char=170
+11	water	water	NOUN	NN	Number=Sing	12	compound	_	start_char=171|end_char=176
+12	reserves	reserve	NOUN	NNS	Number=Plur	8	obj	_	start_char=177|end_char=185
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=186|end_char=189
+14	agricultural	agricultural	ADJ	JJ	Degree=Pos	15	amod	_	start_char=190|end_char=202
+15	farmland	farmland	NOUN	NN	Number=Sing	12	conj	_	start_char=203|end_char=211
+16	.	.	PUNCT	.	_	1	punct	_	start_char=211|end_char=212
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=213|end_char=217
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=218|end_char=221
+3	just	just	ADV	RB	_	4	advmod	_	start_char=222|end_char=226
+4	hoard	hoar	VERB	VB	VerbForm=Inf	0	root	_	start_char=227|end_char=232
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=233|end_char=235
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=236|end_char=238
+7	let	let	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=239|end_char=242
+8	anyone	anyone	PRON	NN	Number=Sing	9	nsubj	_	start_char=243|end_char=249
+9	starve	starve	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=250|end_char=256
+10	.	.	PUNCT	.	_	4	punct	_	start_char=256|end_char=257
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=258|end_char=262
+2	fact	fact	NOUN	NN	Number=Sing	11	nsubj	_	start_char=263|end_char=267
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=268|end_char=272
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=273|end_char=276
+5	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=277|end_char=282
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=283|end_char=285
+7	content	content	NOUN	NN	Number=Sing	2	acl	_	start_char=286|end_char=293
+8	with	with	ADP	IN	_	9	case	_	start_char=294|end_char=298
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nmod	_	start_char=299|end_char=303
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=304|end_char=306
+11	sick	sick	ADJ	JJ	Degree=Pos	0	root	_	start_char=307|end_char=311
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=312|end_char=315
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=316|end_char=324
+14	of	of	ADP	IN	_	15	case	_	start_char=325|end_char=327
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	13	obl	_	start_char=328|end_char=331
+16	.	.	PUNCT	.	_	11	punct	_	start_char=331|end_char=332
+

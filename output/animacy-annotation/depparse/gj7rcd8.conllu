@@ -1,0 +1,12 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=15
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=16|end_char=18
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=18|end_char=20
+7	so	so	ADV	RB	_	8	advmod	_	start_char=21|end_char=23
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=24|end_char=31
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=32|end_char=35
+10	delusional	delusional	ADJ	JJ	Degree=Pos	8	conj	_	start_char=36|end_char=46
+11	.	.	PUNCT	.	_	4	punct	_	start_char=46|end_char=47
+

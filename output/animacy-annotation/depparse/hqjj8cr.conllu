@@ -1,0 +1,36 @@
+1	To	to	PART	TO	_	3	mark	_	start_char=0|end_char=2
+2	be	be	AUX	VB	VerbForm=Inf	3	cop	_	start_char=3|end_char=5
+3	fair	fair	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=6|end_char=10
+4	,	,	PUNCT	,	_	9	punct	_	start_char=10|end_char=11
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=12|end_char=16
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=17|end_char=19
+7	r/architecture	r/architecture	NOUN	NN	Number=Sing	9	advmod	_	start_char=20|end_char=34
+8	not	not	PART	RB	_	9	advmod	_	start_char=35|end_char=38
+9	r/architects	r/architect	NOUN	NNS	Number=Plur	0	root	_	start_char=39|end_char=51
+10	.	.	PUNCT	.	_	9	punct	_	start_char=51|end_char=52
+
+1	Yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=53|end_char=57
+2	,	,	PUNCT	,	_	4	punct	_	start_char=57|end_char=58
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=59|end_char=60
+4	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=61|end_char=65
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=66|end_char=70
+6	post	post	NOUN	NN	Number=Sing	4	obj	_	start_char=71|end_char=75
+7	to	to	PART	TO	_	9	mark	_	start_char=76|end_char=78
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=79|end_char=81
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=82|end_char=90
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=91|end_char=94
+11	extremely	extremely	ADV	RB	_	12	advmod	_	start_char=95|end_char=104
+12	low	low	ADJ	JJ	Degree=Pos	13	amod	_	start_char=105|end_char=108
+13	effort	effort	NOUN	NN	Number=Sing	9	conj	_	start_char=109|end_char=115
+14	but	but	CCONJ	CC	_	19	cc	_	start_char=116|end_char=119
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=120|end_char=121
+16	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=122|end_char=124
+17	n't	not	PART	RB	_	19	advmod	_	start_char=124|end_char=127
+18	really	really	ADV	RB	_	19	advmod	_	start_char=128|end_char=134
+19	want	want	VERB	VB	VerbForm=Inf	4	conj	_	start_char=135|end_char=139
+20	to	to	PART	TO	_	22	mark	_	start_char=140|end_char=142
+21	be	be	AUX	VB	VerbForm=Inf	22	cop	_	start_char=143|end_char=145
+22	exclusionary	exclusionary	ADJ	JJ	Degree=Pos	19	xcomp	_	start_char=146|end_char=158
+23	either	either	ADV	RB	_	22	advmod	_	start_char=159|end_char=165
+24	.	.	PUNCT	.	_	4	punct	_	start_char=165|end_char=166
+

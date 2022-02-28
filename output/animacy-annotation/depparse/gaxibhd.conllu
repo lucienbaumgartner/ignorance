@@ -1,0 +1,52 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	Kotoura	Kotoura	PROPN	NNP	Number=Sing	0	root	_	start_char=1|end_char=8
+3	-san	-san	PROPN	NNP	Number=Sing	2	flat	_	start_char=8|end_char=12
+4	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=12|end_char=13
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=13|end_char=14
+2	https://myanimelist.net/anime/15379/Kotoura-san)	https://myanimelist.net/anime/15379/kotoura-san)	X	ADD	_	0	root	_	start_char=14|end_char=62
+
+1	--	--	PUNCT	NFP	_	0	root	_	start_char=63|end_char=65
+
+1	Saiki	Saiki	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=66|end_char=71
+2	K's	ke	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=72|end_char=75
+3	more	more	ADV	RBR	_	4	advmod	_	start_char=76|end_char=80
+4	serious	serious	ADJ	JJ	Degree=Pos	11	amod	_	start_char=81|end_char=88
+5	,	,	PUNCT	,	_	11	punct	_	start_char=88|end_char=89
+6	hyper-	hyper-	ADJ	JJ	Degree=Pos	11	amod	_	start_char=90|end_char=96
+7	realistic	realistic	ADJ	JJ	Degree=Pos	11	amod	_	start_char=96|end_char=105
+8	,	,	PUNCT	,	_	11	punct	_	start_char=105|end_char=106
+9	hypothetical	hypothetical	ADJ	JJ	Degree=Pos	11	amod	_	start_char=107|end_char=119
+10	older	old	ADJ	JJR	Degree=Cmp	11	amod	_	start_char=120|end_char=125
+11	sister	sister	NOUN	NN	Number=Sing	0	root	_	start_char=126|end_char=132
+12	.	.	PUNCT	.	_	11	punct	_	start_char=132|end_char=133
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=134|end_char=135
+2	say	say	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=136|end_char=139
+3	hyper-realisitc	hyper-realisitc	NOUN	NN	Number=Sing	2	obj	_	start_char=140|end_char=155
+4	because	because	SCONJ	IN	_	8	mark	_	start_char=156|end_char=163
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=164|end_char=167
+6	titular	titular	ADJ	JJ	Degree=Pos	7	amod	_	start_char=168|end_char=175
+7	girl	girl	NOUN	NN	Number=Sing	8	nsubj	_	start_char=176|end_char=180
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=181|end_char=184
+9	only	only	ADV	RB	_	12	advmod	_	start_char=185|end_char=189
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	12	nummod	_	start_char=190|end_char=193
+11	psychic	psychic	ADJ	JJ	Degree=Pos	12	amod	_	start_char=194|end_char=201
+12	ability	ability	NOUN	NN	Number=Sing	8	obj	_	start_char=202|end_char=209
+13	:	:	PUNCT	:	_	12	punct	_	start_char=209|end_char=210
+14	telepathy	telepathy	NOUN	NN	Number=Sing	12	appos	_	start_char=211|end_char=220
+15	,	,	PUNCT	,	_	23	punct	_	start_char=220|end_char=221
+16	and	and	CCONJ	CC	_	23	cc	_	start_char=222|end_char=225
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=226|end_char=229
+18	setting	setting	NOUN	NN	Number=Sing	20	nmod:poss	_	start_char=230|end_char=237
+19	's	's	PART	POS	_	18	case	_	start_char=237|end_char=239
+20	science	science	NOUN	NN	Number=Sing	23	nsubj	_	start_char=240|end_char=247
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=248|end_char=250
+22	literally	literally	ADV	RB	Degree=Pos	23	advmod	_	start_char=251|end_char=260
+23	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=261|end_char=268
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=269|end_char=272
+25	unassuming	unassuming	ADJ	JJ	Degree=Pos	23	conj	_	start_char=273|end_char=283
+26	to	to	ADP	IN	_	27	case	_	start_char=284|end_char=286
+27	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	obl	_	start_char=287|end_char=289
+28	.	.	PUNCT	.	_	2	punct	_	start_char=289|end_char=290
+

@@ -1,0 +1,16 @@
+1	Im	Im	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=3|end_char=11
+3	curious	curious	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=19
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=20|end_char=23
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=24|end_char=31
+6	that	that	SCONJ	IN	_	10	mark	_	start_char=32|end_char=36
+7	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=37|end_char=43
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=44|end_char=47
+9	against	against	ADP	IN	_	10	case	_	start_char=48|end_char=55
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	5	ccomp	_	start_char=56|end_char=60
+11	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	Link	link	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=62|end_char=66
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=67|end_char=69
+3	?	?	PUNCT	.	_	1	punct	_	start_char=69|end_char=70
+

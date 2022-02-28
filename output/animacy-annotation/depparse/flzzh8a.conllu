@@ -1,0 +1,14 @@
+1	some	some	DET	DT	_	2	det	_	start_char=0|end_char=4
+2	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=5|end_char=11
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=12|end_char=15
+4	just	just	ADV	RB	_	7	advmod	_	start_char=16|end_char=20
+5	really	really	ADV	RB	_	7	advmod	_	start_char=21|end_char=27
+6	...	...	PUNCT	,	_	7	punct	_	start_char=27|end_char=30
+7	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	oblivious	oblivious	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=52
+10	,	,	PUNCT	,	_	7	punct	_	start_char=52|end_char=53
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	parataxis	_	start_char=54|end_char=57
+12	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=57|end_char=60
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=61|end_char=65
+

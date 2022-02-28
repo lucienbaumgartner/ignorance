@@ -1,0 +1,22 @@
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=0|end_char=6
+2	quote	quote	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=13|end_char=15
+4	where	where	SCONJ	WRB	PronType=Int	6	mark	_	start_char=16|end_char=21
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=22|end_char=23
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=24|end_char=28
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=29|end_char=32
+8	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	start_char=33|end_char=37
+9	wrong	wrong	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=38|end_char=43
+10	.	.	PUNCT	.	_	2	punct	_	start_char=43|end_char=44
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=54
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=55|end_char=58
+3	dishonest	dishonest	ADJ	JJ	Degree=Pos	1	conj	_	start_char=59|end_char=68
+4	.	.	PUNCT	.	_	1	punct	_	start_char=68|end_char=69
+
+1	Lemme	lemme	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=71|end_char=76
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=77|end_char=82
+3	,	,	PUNCT	,	_	2	punct	_	start_char=82|end_char=83
+4	MAGA	MAGA	PROPN	NNP	Number=Sing	2	vocative	_	start_char=84|end_char=88
+5	?	?	PUNCT	.	_	2	punct	_	start_char=88|end_char=89
+

@@ -1,0 +1,12 @@
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=6|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=16
+4	unethical	unethical	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	pray	pray	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=31|end_char=35
+7	on	on	ADP	IN	_	9	case	_	start_char=36|end_char=38
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=39|end_char=42
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	obl	_	start_char=43|end_char=51
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=52|end_char=55
+11	old	old	ADJ	JJ	Degree=Pos	9	conj	_	start_char=56|end_char=59
+

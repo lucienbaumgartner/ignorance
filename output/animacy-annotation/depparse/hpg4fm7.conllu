@@ -1,0 +1,70 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	really	really	ADV	RB	_	4	advmod	_	start_char=4|end_char=10
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	love	love	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=18
+5	twisting	twist	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=19|end_char=27
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=28|end_char=30
+7	words	word	NOUN	NNS	Number=Plur	5	obj	_	start_char=31|end_char=36
+8	.	.	PUNCT	.	_	4	punct	_	start_char=36|end_char=37
+
+1	Once	once	ADV	RB	NumType=Mult	2	advmod	_	start_char=38|end_char=42
+2	again	again	ADV	RB	_	6	advmod	_	start_char=43|end_char=48
+3	,	,	PUNCT	,	_	6	punct	_	start_char=48|end_char=49
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=50|end_char=51
+5	never	never	ADV	RB	_	6	advmod	_	start_char=52|end_char=57
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=62
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=63|end_char=67
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=68|end_char=70
+9	n't	not	PART	RB	_	10	advmod	_	start_char=70|end_char=73
+10	work	work	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=74|end_char=78
+11	.	.	PUNCT	.	_	6	punct	_	start_char=78|end_char=79
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=80|end_char=84
+2	just	just	ADV	RB	_	6	advmod	_	start_char=85|end_char=89
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=90|end_char=92
+4	n't	not	PART	RB	_	6	advmod	_	start_char=92|end_char=95
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=96|end_char=106
+6	eliminate	eliminate	VERB	VB	VerbForm=Inf	0	root	_	start_char=107|end_char=116
+7	infection	infection	NOUN	NN	Number=Sing	6	obj	_	start_char=117|end_char=126
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=127|end_char=130
+9	transmission	transmission	NOUN	NN	Number=Sing	7	conj	_	start_char=131|end_char=143
+10	.	.	PUNCT	.	_	6	punct	_	start_char=143|end_char=144
+
+1	Believing	believe	VERB	VBG	VerbForm=Ger	5	csubj	_	start_char=145|end_char=154
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=155|end_char=159
+3	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=160|end_char=162
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=163|end_char=165
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=166|end_char=174
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=175|end_char=178
+7	plain	plain	ADV	RB	_	8	advmod	_	start_char=179|end_char=184
+8	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=185|end_char=191
+9	.	.	PUNCT	.	_	5	punct	_	start_char=191|end_char=192
+
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=195|end_char=198
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=199|end_char=202
+3	even	even	ADV	RB	_	4	advmod	_	start_char=203|end_char=207
+4	look	look	VERB	VB	VerbForm=Inf	0	root	_	start_char=208|end_char=212
+5	into	into	SCONJ	IN	_	6	case	_	start_char=213|end_char=217
+6	what	what	PRON	WP	PronType=Int	4	obl	_	start_char=218|end_char=222
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=222|end_char=224
+8	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	6	acl:relcl	_	start_char=225|end_char=230
+9	on	on	ADP	RP	_	8	compound:prt	_	start_char=231|end_char=233
+10	in	in	ADP	IN	_	11	case	_	start_char=234|end_char=236
+11	Gibraltar	Gibraltar	PROPN	NNP	Number=Sing	8	obl	_	start_char=237|end_char=246
+12	?	?	PUNCT	.	_	4	punct	_	start_char=246|end_char=247
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=248|end_char=249
+2	doubt	doubt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=250|end_char=255
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=256|end_char=259
+4	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=260|end_char=263
+5	because	because	SCONJ	IN	_	10	mark	_	start_char=264|end_char=271
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=272|end_char=274
+7	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=275|end_char=279
+8	n't	not	PART	RB	_	10	advmod	_	start_char=279|end_char=282
+9	"	"	PUNCT	``	_	10	punct	_	start_char=283|end_char=284
+10	fit	fit	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=284|end_char=287
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=288|end_char=292
+12	narrative	narrative	NOUN	NN	Number=Sing	10	obj	_	start_char=293|end_char=302
+13	"	"	PUNCT	''	_	10	punct	_	start_char=302|end_char=303
+14	.	.	PUNCT	.	_	2	punct	_	start_char=303|end_char=304
+

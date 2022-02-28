@@ -1,0 +1,49 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=7|end_char=9
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=11
+5	pedantic	pedantic	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=12|end_char=20
+6	but	but	CCONJ	CC	_	8	cc	_	start_char=21|end_char=24
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=25|end_char=29
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=30|end_char=32
+9	exactly	exactly	ADV	RB	_	10	advmod	_	start_char=33|end_char=40
+10	what	what	PRON	WP	PronType=Int	2	conj	_	start_char=41|end_char=45
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=46|end_char=47
+12	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=47|end_char=49
+13	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	10	acl:relcl	_	start_char=50|end_char=57
+14	about	about	ADP	IN	_	13	obl	_	start_char=58|end_char=63
+15	.	.	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=65|end_char=69
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=70|end_char=72
+3	about	about	ADP	IN	_	4	case	_	start_char=73|end_char=78
+4	members	member	NOUN	NNS	Number=Plur	0	root	_	start_char=79|end_char=86
+5	of	of	ADP	IN	_	7	case	_	start_char=87|end_char=89
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=90|end_char=93
+7	campaign	campaign	NOUN	NN	Number=Sing	4	nmod	_	start_char=94|end_char=102
+8	,	,	PUNCT	,	_	10	punct	_	start_char=102|end_char=103
+9	not	not	ADV	RB	_	10	advmod	_	start_char=104|end_char=107
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	conj	_	start_char=108|end_char=111
+11	specifically	specifically	ADV	RB	_	10	advmod	_	start_char=112|end_char=124
+12	.	.	PUNCT	.	_	4	punct	_	start_char=124|end_char=125
+
+1	Maybe	maybe	ADV	RB	_	5	advmod	_	start_char=126|end_char=131
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=132|end_char=134
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=134|end_char=136
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=137|end_char=138
+5	puppet	puppet	NOUN	NN	Number=Sing	0	root	_	start_char=139|end_char=145
+6	,	,	PUNCT	,	_	5	punct	_	start_char=145|end_char=146
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=147|end_char=149
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=150|end_char=152
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=152|end_char=154
+10	not	not	PART	RB	_	13	advmod	_	start_char=155|end_char=158
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=159|end_char=160
+12	willing	willing	ADJ	JJ	Degree=Pos	13	amod	_	start_char=161|end_char=168
+13	puppet	puppet	NOUN	NN	Number=Sing	5	parataxis	_	start_char=169|end_char=175
+14	.	.	PUNCT	.	_	5	punct	_	start_char=175|end_char=176
+
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=177|end_char=184
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=185|end_char=188
+3	oblivious	oblivious	ADJ	JJ	Degree=Pos	1	conj	_	start_char=189|end_char=198
+4	.	.	PUNCT	.	_	1	punct	_	start_char=198|end_char=199
+

@@ -1,0 +1,23 @@
+1	Most	most	ADJ	JJS	Degree=Sup	7	nsubj	_	start_char=0|end_char=4
+2	of	of	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=8|end_char=12
+4	post	post	NOUN	NN	Number=Sing	1	nmod	_	start_char=13|end_char=17
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=18|end_char=20
+6	so	so	ADV	RB	_	7	advmod	_	start_char=21|end_char=23
+7	biaised	biaised	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=36|end_char=44
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=45|end_char=49
+11	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=50|end_char=51
+12	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=51|end_char=53
+13	not	not	PART	RB	_	14	advmod	_	start_char=54|end_char=57
+14	surprised	surprised	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=58|end_char=67
+15	to	to	PART	TO	_	16	mark	_	start_char=68|end_char=70
+16	see	see	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=71|end_char=74
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=75|end_char=77
+18	on	on	ADP	IN	_	21	case	_	start_char=78|end_char=80
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=81|end_char=84
+20	front	front	ADJ	JJ	Degree=Pos	21	amod	_	start_char=85|end_char=90
+21	page	page	NOUN	NN	Number=Sing	16	obl	_	start_char=91|end_char=95
+22	.	.	PUNCT	.	_	7	punct	_	start_char=95|end_char=96
+

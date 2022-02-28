@@ -1,0 +1,22 @@
+1	As	as	SCONJ	IN	_	2	mark	_	start_char=0|end_char=2
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=6
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=7|end_char=10
+4	.	.	PUNCT	.	_	2	punct	_	start_char=10|end_char=11
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=12|end_char=14
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=14|end_char=16
+3	kinda	kinda	ADV	RB	_	6	advmod	_	start_char=17|end_char=22
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=23|end_char=24
+5	self	self	NOUN	NN	Number=Sing	6	compound	_	start_char=25|end_char=29
+6	own	own	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=33
+7	,	,	PUNCT	,	_	9	punct	_	start_char=33|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=47
+10	of	of	ADP	IN	_	12	case	_	start_char=48|end_char=50
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=51|end_char=54
+12	range	range	NOUN	NN	Number=Sing	9	obl	_	start_char=55|end_char=60
+13	of	of	ADP	IN	_	15	case	_	start_char=61|end_char=63
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=64|end_char=67
+15	disease	disease	NOUN	NN	Number=Sing	12	nmod	_	start_char=68|end_char=75
+16	.	.	PUNCT	.	_	6	punct	_	start_char=75|end_char=76
+

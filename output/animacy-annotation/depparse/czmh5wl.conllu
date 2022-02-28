@@ -1,0 +1,18 @@
+1	Dear	dear	ADJ	JJ	Degree=Pos	3	amod	_	start_char=0|end_char=4
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	3	amod	_	start_char=5|end_char=12
+3	god	god	NOUN	NN	Number=Sing	9	nsubj	_	start_char=13|end_char=16
+4	,	,	PUNCT	,	_	9	punct	_	start_char=16|end_char=17
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=18|end_char=21
+6	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=22|end_char=28
+7	really	really	ADV	RB	_	9	advmod	_	start_char=29|end_char=35
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=36|end_char=40
+9	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=48
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=49|end_char=52
+11	vain	vain	ADJ	JJ	Degree=Pos	9	conj	_	start_char=53|end_char=57
+12	of	of	ADP	IN	_	14	mark	_	start_char=58|end_char=60
+13	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=61|end_char=64
+14	horrible	horrible	ADJ	JJ	Degree=Pos	11	obl	_	start_char=65|end_char=73
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=74|end_char=78
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=79|end_char=81
+17	?	?	PUNCT	.	_	9	punct	_	start_char=81|end_char=82
+

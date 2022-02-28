@@ -1,0 +1,36 @@
+1	Arguing	argue	VERB	VBG	VerbForm=Ger	11	csubj	_	start_char=0|end_char=7
+2	with	with	ADP	IN	_	4	case	_	start_char=8|end_char=12
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=13|end_char=15
+4	mom	mom	NOUN	NN	Number=Sing	1	obl	_	start_char=16|end_char=19
+5	about	about	ADP	IN	_	7	case	_	start_char=20|end_char=25
+6	college	college	NOUN	NN	Number=Sing	7	compound	_	start_char=26|end_char=33
+7	debt	debt	NOUN	NN	Number=Sing	4	nmod	_	start_char=34|end_char=38
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=39|end_char=41
+9	always	always	ADV	RB	_	11	advmod	_	start_char=42|end_char=48
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=49|end_char=50
+11	nightmare	nightmare	NOUN	NN	Number=Sing	0	root	_	start_char=51|end_char=60
+12	.	.	PUNCT	.	_	11	punct	_	start_char=60|end_char=61
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=62|end_char=65
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=65|end_char=67
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=68|end_char=71
+4	perfect	perfect	ADJ	JJ	Degree=Pos	5	amod	_	start_char=72|end_char=79
+5	mix	mix	NOUN	NN	Number=Sing	0	root	_	start_char=80|end_char=83
+6	of	of	ADP	IN	_	15	case	_	start_char=84|end_char=86
+7	rich	rich	ADJ	JJ	Degree=Pos	15	amod	_	start_char=87|end_char=91
+8	,	,	PUNCT	,	_	9	punct	_	start_char=91|end_char=92
+9	old	old	ADJ	JJ	Degree=Pos	7	conj	_	start_char=93|end_char=96
+10	,	,	PUNCT	,	_	15	punct	_	start_char=96|end_char=97
+11	out	out	ADP	IN	_	15	case	_	start_char=98|end_char=101
+12	-	-	PUNCT	HYPH	_	15	punct	_	start_char=101|end_char=102
+13	of	of	ADP	IN	_	15	case	_	start_char=102|end_char=104
+14	-	-	PUNCT	HYPH	_	15	punct	_	start_char=104|end_char=105
+15	touch	touch	NOUN	NN	Number=Sing	18	compound	_	start_char=105|end_char=110
+16	,	,	PUNCT	,	_	18	punct	_	start_char=110|end_char=111
+17	willfully	willfully	ADV	RB	_	18	advmod	_	start_char=112|end_char=121
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=122|end_char=130
+19	,	,	PUNCT	,	_	21	punct	_	start_char=130|end_char=131
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=132|end_char=135
+21	manipulative	manipulative	ADJ	JJ	Degree=Pos	7	conj	_	start_char=136|end_char=148
+22	.	.	PUNCT	.	_	5	punct	_	start_char=148|end_char=149
+

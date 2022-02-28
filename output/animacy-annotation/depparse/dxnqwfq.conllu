@@ -1,0 +1,11 @@
+1	In	in	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=5
+3	sleep	sleep	NOUN	NN	Number=Sing	0	root	_	start_char=6|end_char=11
+4	.	.	PUNCT	.	_	3	punct	_	start_char=11|end_char=12
+
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=20
+2	,	,	PUNCT	,	_	4	punct	_	start_char=20|end_char=21
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=22|end_char=25
+4	painless	painless	ADJ	JJ	Degree=Pos	1	conj	_	start_char=26|end_char=34
+5	.	.	PUNCT	.	_	1	punct	_	start_char=34|end_char=35
+

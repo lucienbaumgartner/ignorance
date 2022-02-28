@@ -1,0 +1,28 @@
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=6
+2	but	but	CCONJ	CC	_	6	cc	_	start_char=7|end_char=10
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=11|end_char=12
+4	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=13|end_char=15
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=15|end_char=18
+6	think	think	VERB	VB	VerbForm=Inf	1	conj	_	start_char=19|end_char=24
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=25|end_char=29
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=30|end_char=33
+9	intentionally	intentionally	ADV	RB	_	10	advmod	_	start_char=34|end_char=47
+10	manipulative	manipulative	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=48|end_char=60
+11	just	just	ADV	RB	_	12	advmod	_	start_char=61|end_char=65
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=66|end_char=74
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=75|end_char=78
+14	sometimes	sometimes	ADV	RB	_	15	advmod	_	start_char=79|end_char=88
+15	selfish	selfish	ADJ	JJ	Degree=Pos	10	conj	_	start_char=89|end_char=96
+16	.	.	PUNCT	.	_	1	punct	_	start_char=96|end_char=97
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=98|end_char=99
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=100|end_char=104
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=105|end_char=109
+4	still	still	ADV	RB	_	2	advmod	_	start_char=110|end_char=115
+5	even	even	ADV	RB	_	8	advmod	_	start_char=116|end_char=120
+6	though	though	SCONJ	IN	_	8	mark	_	start_char=121|end_char=127
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=128|end_char=130
+8	hurt	hurt	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=131|end_char=135
+9	each	each	DET	DT	_	10	det	_	start_char=136|end_char=140
+10	other	other	ADJ	JJ	Degree=Pos	8	obj	_	start_char=141|end_char=146
+

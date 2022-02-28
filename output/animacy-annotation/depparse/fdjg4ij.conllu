@@ -1,0 +1,20 @@
+1	Ding	ding	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	ding	ding	NOUN	NN	Number=Sing	3	compound	_	start_char=5|end_char=9
+3	ding	ding	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=14
+4	.	.	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=17|end_char=20
+2	award	award	NOUN	NN	Number=Sing	12	nsubj	_	start_char=21|end_char=26
+3	for	for	ADP	IN	_	8	case	_	start_char=27|end_char=30
+4	most	most	ADV	RBS	_	5	advmod	_	start_char=31|end_char=35
+5	unaware	unaware	ADJ	JJ	Degree=Pos	8	amod	_	start_char=36|end_char=43
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=44|end_char=47
+7	ironic	ironic	ADJ	JJ	Degree=Pos	5	conj	_	start_char=48|end_char=54
+8	comment	comment	NOUN	NN	Number=Sing	2	nmod	_	start_char=55|end_char=62
+9	of	of	ADP	IN	_	11	case	_	start_char=63|end_char=65
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=66|end_char=69
+11	day	day	NOUN	NN	Number=Sing	8	nmod	_	start_char=70|end_char=73
+12	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=74|end_char=78
+13	to	to	ADP	IN	_	12	obl	_	start_char=79|end_char=81
+14	…	…	PUNCT	.	_	12	punct	_	start_char=82|end_char=83
+

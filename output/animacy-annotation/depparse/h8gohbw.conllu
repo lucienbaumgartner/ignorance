@@ -1,0 +1,43 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+4	reality	reality	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=16
+5	of	of	ADP	IN	_	6	case	_	start_char=17|end_char=19
+6	birth	birth	NOUN	NN	Number=Sing	4	nmod	_	start_char=20|end_char=25
+7	.	.	PUNCT	.	_	4	punct	_	start_char=25|end_char=26
+
+1	Too	too	ADV	RB	_	2	advmod	_	start_char=27|end_char=30
+2	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=31|end_char=35
+3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=36|end_char=41
+4	women	woman	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=42|end_char=47
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=48|end_char=50
+6	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=50|end_char=53
+7	even	even	ADV	RB	_	8	advmod	_	start_char=54|end_char=58
+8	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=59|end_char=63
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=64|end_char=67
+10	painful	painful	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=68|end_char=75
+11	and	and	CCONJ	CC	_	15	cc	_	start_char=76|end_char=79
+12	dangerous	dangerous	ADJ	JJ	Degree=Pos	13	amod	_	start_char=80|end_char=89
+13	birth	birth	NOUN	NN	Number=Sing	15	nsubj	_	start_char=90|end_char=95
+14	really	really	ADV	RB	Degree=Pos	15	advmod	_	start_char=96|end_char=102
+15	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=103|end_char=105
+16	until	until	SCONJ	IN	_	19	mark	_	start_char=106|end_char=111
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=112|end_char=116
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=117|end_char=120
+19	experiencing	experience	VERB	VBG	Tense=Pres|VerbForm=Part	15	advcl	_	start_char=121|end_char=133
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	_	start_char=134|end_char=136
+21	for	for	ADP	IN	_	22	case	_	start_char=137|end_char=140
+22	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	19	obl	_	start_char=141|end_char=151
+23	.	.	PUNCT	.	_	8	punct	_	start_char=151|end_char=152
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=153|end_char=157
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=158|end_char=161
+3	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=162|end_char=170
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=171|end_char=174
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=175|end_char=183
+6	of	of	ADP	IN	_	9	case	_	start_char=184|end_char=186
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=187|end_char=192
+8	own	own	ADJ	JJ	Degree=Pos	9	amod	_	start_char=193|end_char=196
+9	bodies	body	NOUN	NNS	Number=Plur	5	obl	_	start_char=197|end_char=203
+10	.	.	PUNCT	.	_	3	punct	_	start_char=203|end_char=204
+

@@ -1,0 +1,20 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	might	might	AUX	MD	VerbForm=Fin	4	aux	_	start_char=3|end_char=8
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=9|end_char=11
+4	impossible	impossible	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=22
+5	.	.	PUNCT	.	_	4	punct	_	start_char=22|end_char=23
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=24|end_char=26
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=26|end_char=28
+3	so	so	ADV	RB	_	4	advmod	_	start_char=29|end_char=31
+4	clueless	clueless	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=40
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=41|end_char=44
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=45|end_char=52
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=53|end_char=57
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=58|end_char=60
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=60|end_char=62
+10	practically	practically	ADV	RB	_	12	advmod	_	start_char=63|end_char=74
+11	insult	insult	ADJ	JJ	Degree=Pos	12	amod	_	start_char=75|end_char=81
+12	proof	proof	NOUN	NN	Number=Sing	6	ccomp	_	start_char=82|end_char=87
+13	.	.	PUNCT	.	_	4	punct	_	start_char=87|end_char=88
+

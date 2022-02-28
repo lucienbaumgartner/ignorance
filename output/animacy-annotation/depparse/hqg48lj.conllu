@@ -1,0 +1,12 @@
+1	Actually	actually	ADV	RB	_	8	advmod	_	start_char=0|end_char=8
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=9|end_char=13
+3	brethren	brethren	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=14|end_char=22
+4	in	in	ADP	IN	_	5	case	_	start_char=23|end_char=25
+5	here	here	ADV	RB	PronType=Dem	3	nmod	_	start_char=26|end_char=30
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=31|end_char=34
+7	quite	quite	ADV	RB	_	8	advmod	_	start_char=35|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=49
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+10	uncivilized	uncivilized	ADJ	JJ	Degree=Pos	8	conj	_	start_char=54|end_char=65
+11	.	.	PUNCT	.	_	8	punct	_	start_char=65|end_char=66
+

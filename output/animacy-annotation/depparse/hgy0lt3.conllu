@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=3|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=7|end_char=8
+4	capital	capital	ADJ	JJ	Degree=Pos	5	amod	_	start_char=9|end_char=16
+5	shortage	shortage	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=25
+6	,	,	PUNCT	,	_	5	punct	_	start_char=25|end_char=26
+7	in	in	ADP	IN	_	9	case	_	start_char=27|end_char=29
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=30|end_char=32
+9	analysis	analysis	NOUN	NN	Number=Sing	5	nmod	_	start_char=33|end_char=41
+10	,	,	PUNCT	,	_	12	punct	_	start_char=41|end_char=42
+11	that	that	PRON	WDT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=43|end_char=47
+12	lead	lead	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	_	start_char=48|end_char=52
+13	to	to	ADP	IN	_	16	case	_	start_char=53|end_char=55
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=56|end_char=59
+15	labor	labor	NOUN	NN	Number=Sing	16	compound	_	start_char=60|end_char=65
+16	shortage	shortage	NOUN	NN	Number=Sing	12	obl	_	start_char=66|end_char=74
+17	.	.	PUNCT	.	_	5	punct	_	start_char=74|end_char=75
+
+1	Most	most	ADJ	JJS	Degree=Sup	3	amod	_	start_char=76|end_char=80
+2	American	American	ADJ	JJ	Degree=Pos	3	amod	_	start_char=81|end_char=89
+3	workers	worker	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=90|end_char=97
+4	remain	remain	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=104
+5	unorganized	unorganized	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=105|end_char=116
+6	,	,	PUNCT	,	_	8	punct	_	start_char=116|end_char=117
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=118|end_char=121
+8	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=122|end_char=129
+9	of	of	ADP	IN	_	11	case	_	start_char=130|end_char=132
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=133|end_char=138
+11	leverage	leverage	NOUN	NN	Number=Sing	8	obl	_	start_char=139|end_char=147
+12	as	as	ADP	IN	_	13	case	_	start_char=148|end_char=150
+13	workers	worker	NOUN	NNS	Number=Plur	11	nmod	_	start_char=151|end_char=158
+14	.	.	PUNCT	.	_	4	punct	_	start_char=158|end_char=159
+

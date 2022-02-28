@@ -1,0 +1,74 @@
+1	"	"	PUNCT	``	_	6	punct	_	start_char=0|end_char=1
+2	...	...	PUNCT	,	_	6	punct	_	start_char=1|end_char=4
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=4|end_char=6
+4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=7|end_char=10
+5	n't	not	PART	RB	_	6	advmod	_	start_char=10|end_char=13
+6	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=18
+7	to	to	PART	TO	_	8	mark	_	start_char=19|end_char=21
+8	ask	ask	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=22|end_char=25
+9	for	for	ADP	IN	_	10	case	_	start_char=26|end_char=29
+10	help	help	NOUN	NN	Number=Sing	8	obl	_	start_char=30|end_char=34
+11	...	...	PUNCT	.	_	6	punct	_	start_char=34|end_char=37
+12	"	"	PUNCT	''	_	6	punct	_	start_char=37|end_char=38
+
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=39|end_char=44
+2	like	like	SCONJ	IN	_	6	mark	_	start_char=45|end_char=49
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=50|end_char=53
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=53|end_char=56
+5	incredibly	incredibly	ADV	RB	_	6	advmod	_	start_char=57|end_char=67
+6	unaware	unaware	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=68|end_char=75
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=76|end_char=79
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=80|end_char=88
+9	of	of	ADP	IN	_	11	case	_	start_char=89|end_char=91
+10	geopolitical	geopolitical	ADJ	JJ	Degree=Pos	11	amod	_	start_char=92|end_char=104
+11	strategy	strategy	NOUN	NN	Number=Sing	8	obl	_	start_char=105|end_char=113
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=114|end_char=117
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=118|end_char=121
+14	importance	importance	NOUN	NN	Number=Sing	11	conj	_	start_char=122|end_char=132
+15	of	of	ADP	IN	_	16	case	_	start_char=133|end_char=135
+16	Kashmir	Kashmir	PROPN	NNP	Number=Sing	14	nmod	_	start_char=136|end_char=143
+17	to	to	ADP	IN	_	18	case	_	start_char=144|end_char=146
+18	India	India	PROPN	NNP	Number=Sing	14	nmod	_	start_char=147|end_char=152
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=153|end_char=156
+20	Pakistan	Pakistan	PROPN	NNP	Number=Sing	18	conj	_	start_char=157|end_char=165
+21	both	both	DET	DT	_	20	nmod:npmod	_	start_char=166|end_char=170
+22	.	.	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+
+1	Also	also	ADV	RB	_	2	advmod	_	start_char=172|end_char=176
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=177|end_char=182
+3	like	like	SCONJ	IN	_	7	mark	_	start_char=183|end_char=187
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=188|end_char=191
+5	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=191|end_char=194
+6	really	really	ADV	RB	_	7	advmod	_	start_char=195|end_char=201
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=202|end_char=210
+8	of	of	ADP	IN	_	11	case	_	start_char=211|end_char=213
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=214|end_char=217
+10	political	political	ADJ	JJ	Degree=Pos	11	amod	_	start_char=218|end_char=227
+11	history	history	NOUN	NN	Number=Sing	7	obl	_	start_char=228|end_char=235
+12	or	or	CCONJ	CC	_	15	cc	_	start_char=236|end_char=238
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=239|end_char=242
+14	Indian	Indian	ADJ	JJ	Degree=Pos	15	amod	_	start_char=243|end_char=249
+15	subcontinent	subcontinent	NOUN	NN	Number=Sing	11	conj	_	start_char=250|end_char=262
+16	.	.	PUNCT	.	_	2	punct	_	start_char=262|end_char=263
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=266|end_char=270
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=271|end_char=275
+3	with	with	ADP	IN	_	5	case	_	start_char=276|end_char=280
+4	strawman	strawman	NOUN	NN	Number=Sing	5	compound	_	start_char=281|end_char=289
+5	arguments	argument	NOUN	NNS	Number=Plur	2	nmod	_	start_char=290|end_char=299
+6	.	.	PUNCT	.	_	2	punct	_	start_char=299|end_char=300
+
+1	Reddit	Reddit	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=301|end_char=307
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=308|end_char=310
+3	smarter	smart	ADJ	JJR	Degree=Cmp	0	root	_	start_char=311|end_char=318
+4	.	.	PUNCT	.	_	3	punct	_	start_char=318|end_char=319
+
+1	Ca	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=320|end_char=322
+2	n't	not	PART	RB	_	3	advmod	_	start_char=322|end_char=325
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=326|end_char=329
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=330|end_char=333
+5	same	same	ADJ	JJ	Degree=Pos	3	obj	_	start_char=334|end_char=338
+6	of	of	ADP	IN	_	7	case	_	start_char=339|end_char=341
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=342|end_char=345
+8	.	.	PUNCT	.	_	3	punct	_	start_char=345|end_char=346
+

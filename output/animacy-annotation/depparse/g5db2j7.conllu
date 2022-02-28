@@ -1,0 +1,19 @@
+1	On	on	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=3|end_char=4
+3	rewatch	rewatch	NOUN	NN	Number=Sing	5	obl	_	start_char=5|end_char=12
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=13|end_char=17
+5	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=18|end_char=22
+6	so	so	ADV	RB	_	7	advmod	_	start_char=23|end_char=25
+7	innocent	innocent	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=26|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=46
+10	of	of	ADP	IN	_	11	case	_	start_char=47|end_char=49
+11	what	what	DET	WDT	PronType=Int	9	obl	_	start_char=50|end_char=54
+12	horrors	horror	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=55|end_char=62
+13	await	await	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=63|end_char=68
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	start_char=69|end_char=73
+15	in	in	ADP	IN	_	17	case	_	start_char=74|end_char=76
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=77|end_char=80
+17	beginning	beginning	NOUN	NN	Number=Sing	13	obl	_	start_char=81|end_char=90
+18	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+

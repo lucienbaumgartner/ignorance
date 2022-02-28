@@ -1,0 +1,46 @@
+1	At	at	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=3|end_char=7
+3	point	point	NOUN	NN	Number=Sing	10	obl	_	start_char=8|end_char=13
+4	in	in	ADP	IN	_	6	case	_	start_char=14|end_char=16
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=17|end_char=19
+6	life	life	NOUN	NN	Number=Sing	3	nmod	_	start_char=20|end_char=24
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=25|end_char=26
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=27|end_char=30
+9	pretty	pretty	ADV	RB	_	10	advmod	_	start_char=31|end_char=37
+10	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=38|end_char=43
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=44|end_char=47
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=48|end_char=55
+13	of	of	SCONJ	IN	_	14	case	_	start_char=56|end_char=58
+14	what	what	PRON	WP	PronType=Int	12	obl	_	start_char=59|end_char=63
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	start_char=64|end_char=65
+16	should	should	AUX	MD	VerbForm=Fin	18	aux	_	start_char=66|end_char=72
+17	've	have	AUX	VB	VerbForm=Inf	18	aux	_	start_char=72|end_char=75
+18	done	do	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	start_char=76|end_char=80
+19	.	.	PUNCT	.	_	10	punct	_	start_char=80|end_char=81
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=82|end_char=83
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=84|end_char=87
+3	just	just	ADV	RB	_	4	advmod	_	start_char=88|end_char=92
+4	broken	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=93|end_char=99
+5	at	at	ADP	IN	_	7	case	_	start_char=100|end_char=102
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=103|end_char=107
+7	point	point	NOUN	NN	Number=Sing	4	obl	_	start_char=108|end_char=113
+8	,	,	PUNCT	,	_	14	punct	_	start_char=113|end_char=114
+9	so	so	ADV	RB	_	14	advmod	_	start_char=115|end_char=117
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=118|end_char=119
+11	just	just	ADV	RB	_	14	advmod	_	start_char=120|end_char=124
+12	kind	kind	ADV	RB	_	14	advmod	_	start_char=125|end_char=129
+13	of	of	ADP	IN	_	12	fixed	_	start_char=130|end_char=132
+14	let	let	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	_	start_char=133|end_char=136
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=137|end_char=139
+16	go	go	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=140|end_char=142
+17	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+
+1	Dumb	Dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=144|end_char=148
+2	,	,	PUNCT	,	_	6	punct	_	start_char=148|end_char=149
+3	but	but	CCONJ	CC	_	6	cc	_	start_char=150|end_char=153
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=154|end_char=158
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=159|end_char=162
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	conj	_	start_char=163|end_char=165
+7	.	.	PUNCT	.	_	1	punct	_	start_char=165|end_char=166
+

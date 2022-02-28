@@ -1,0 +1,21 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=5|end_char=11
+3	stay	stay	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=16
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=19
+5	unpopular	unpopular	ADJ	JJ	Degree=Pos	6	amod	_	start_char=20|end_char=29
+6	opinion	opinion	NOUN	NN	Number=Sing	3	obj	_	start_char=30|end_char=37
+7	for	for	SCONJ	IN	_	9	mark	_	start_char=38|end_char=41
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=42|end_char=45
+9	shortsighted	shortsighted	ADJ	JJ	Degree=Pos	6	acl	_	start_char=46|end_char=58
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=59|end_char=62
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=63|end_char=71
+12	of	of	ADP	IN	_	14	case	_	start_char=72|end_char=74
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=75|end_char=78
+14	despicibality	despicibality	NOUN	NN	Number=Sing	9	obl	_	start_char=79|end_char=92
+15	of	of	ADP	IN	_	16	case	_	start_char=93|end_char=95
+16	money	money	NOUN	NN	Number=Sing	14	nmod	_	start_char=96|end_char=101
+17	lending	lend	VERB	VBG	VerbForm=Ger	14	acl	_	start_char=102|end_char=109
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=110|end_char=112
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=113|end_char=115
+20	.	.	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+

@@ -1,0 +1,41 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	entity	entity	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=10
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+4	very	very	ADV	RB	_	5	advmod	_	start_char=15|end_char=19
+5	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=25
+6	about	about	SCONJ	IN	_	7	mark	_	start_char=26|end_char=31
+7	wiping	wipe	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=32|end_char=38
+8	Castiel	Castiel	PROPN	NNP	Number=Sing	10	nmod:poss	_	start_char=39|end_char=46
+9	's	's	PART	POS	_	8	case	_	start_char=46|end_char=48
+10	memory	memory	NOUN	NN	Number=Sing	7	obj	_	start_char=49|end_char=55
+11	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=57|end_char=59
+2	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=60|end_char=66
+3	Cas	Cas	PROPN	NNP	Number=Sing	2	obj	_	start_char=67|end_char=70
+4	to	to	PART	TO	_	5	mark	_	start_char=71|end_char=73
+5	move	move	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=74|end_char=78
+6	along	along	ADV	RB	_	7	advmod	_	start_char=79|end_char=84
+7	comfortably	comfortably	ADV	RB	_	5	advmod	_	start_char=85|end_char=96
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=97|end_char=100
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=101|end_char=108
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=109|end_char=112
+11	unencumbered	unencumbered	ADJ	JJ	Degree=Pos	9	conj	_	start_char=113|end_char=125
+12	right	right	ADV	RB	_	11	advmod	_	start_char=126|end_char=131
+13	up	up	ADP	RP	_	11	compound:prt	_	start_char=132|end_char=134
+14	until	until	SCONJ	IN	_	17	mark	_	start_char=135|end_char=140
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj:pass	_	start_char=141|end_char=143
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	_	start_char=144|end_char=147
+17	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=148|end_char=153
+18	.	.	PUNCT	.	_	2	punct	_	start_char=153|end_char=154
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=155|end_char=159
+2	Cas	Cas	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=160|end_char=163
+3	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=164|end_char=169
+4	Jack	Jack	PROPN	NNP	Number=Sing	3	obj	_	start_char=170|end_char=174
+5	to	to	PART	TO	_	6	mark	_	start_char=175|end_char=177
+6	keep	keep	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=178|end_char=182
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=183|end_char=186
+8	secret	secret	NOUN	NN	Number=Sing	6	obj	_	start_char=187|end_char=193
+9	.	.	PUNCT	.	_	3	punct	_	start_char=193|end_char=194
+

@@ -1,0 +1,18 @@
+1	So	so	ADV	RB	_	2	advmod	_	start_char=0|end_char=2
+2	play	play	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=8|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	double	double	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	2	conj	_	start_char=21|end_char=27
+6	down	down	ADP	RP	_	5	compound:prt	_	start_char=28|end_char=32
+7	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+
+1	Good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=38
+2	for	for	ADP	IN	_	3	case	_	start_char=39|end_char=42
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obl	_	start_char=43|end_char=46
+4	,	,	PUNCT	,	_	5	punct	_	start_char=46|end_char=47
+5	sticking	stick	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=49|end_char=57
+6	to	to	ADP	IN	_	8	case	_	start_char=58|end_char=60
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=61|end_char=65
+8	guns	gun	NOUN	NNS	Number=Plur	5	obl	_	start_char=66|end_char=70
+9	.	.	PUNCT	.	_	1	punct	_	start_char=70|end_char=71
+

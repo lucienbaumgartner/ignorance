@@ -1,0 +1,113 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	comment	comment	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=15
+4	assumption	assumption	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=41|end_char=44
+2	seek	seek	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=45|end_char=49
+3	change	change	NOUN	NN	Number=Sing	2	obj	_	start_char=50|end_char=56
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=57|end_char=60
+5	respect	respect	NOUN	NN	Number=Sing	3	conj	_	start_char=61|end_char=68
+6	while	while	SCONJ	IN	_	7	mark	_	start_char=69|end_char=74
+7	providing	provide	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=75|end_char=84
+8	none	none	NOUN	NN	Number=Sing	7	obj	_	start_char=85|end_char=89
+9	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	7	obl:npmod	_	start_char=90|end_char=98
+10	.	.	PUNCT	.	_	2	punct	_	start_char=98|end_char=99
+
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=100|end_char=106
+2	convincing	convincing	ADJ	JJ	Degree=Pos	3	amod	_	start_char=107|end_char=117
+3	argument	argument	NOUN	NN	Number=Sing	0	root	_	start_char=118|end_char=126
+4	.	.	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=129|end_char=132
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=133|end_char=135
+3	ask	ask	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=136|end_char=139
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=140|end_char=143
+5	thus	thus	ADV	RB	_	3	advmod	_	start_char=144|end_char=148
+6	,	,	PUNCT	,	_	1	punct	_	start_char=148|end_char=149
+7	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=150|end_char=155
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=156|end_char=159
+9	want	want	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=160|end_char=164
+10	to	to	PART	TO	_	11	mark	_	start_char=165|end_char=167
+11	open	open	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=168|end_char=172
+12	up	up	ADP	RP	_	11	compound:prt	_	start_char=173|end_char=175
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=176|end_char=179
+14	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=180|end_char=182
+15	vulnerable	vulnerable	ADJ	JJ	Degree=Pos	11	conj	_	start_char=183|end_char=193
+16	,	,	PUNCT	,	_	17	punct	_	start_char=193|end_char=194
+17	figuratively	figuratively	ADV	RB	_	15	advmod	_	start_char=195|end_char=207
+18	,	,	PUNCT	,	_	21	punct	_	start_char=207|end_char=208
+19	if	if	SCONJ	IN	_	21	mark	_	start_char=210|end_char=212
+20	someone	someone	PRON	NN	Number=Sing	21	nsubj	_	start_char=213|end_char=220
+21	attacked	attack	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	advcl	_	start_char=221|end_char=229
+22	ever	ever	ADV	RB	_	23	advmod	_	start_char=230|end_char=234
+23	good	good	ADJ	JJ	Degree=Pos	24	amod	_	start_char=235|end_char=239
+24	dead	dead	ADJ	JJ	Degree=Pos	21	obj	_	start_char=240|end_char=244
+25	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	26	nsubj	_	start_char=245|end_char=248
+26	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	24	acl:relcl	_	start_char=249|end_char=252
+27	?	?	PUNCT	.	_	1	punct	_	start_char=252|end_char=253
+
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	3	nsubj	_	start_char=256|end_char=261
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=262|end_char=265
+3	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=266|end_char=272
+4	too	too	ADV	RB	_	3	advmod	_	start_char=273|end_char=276
+5	.	.	PUNCT	.	_	3	punct	_	start_char=276|end_char=277
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=278|end_char=280
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=281|end_char=284
+3	against	against	ADP	IN	_	7	case	_	start_char=285|end_char=292
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=293|end_char=296
+5	current	current	ADJ	JJ	Degree=Pos	7	amod	_	start_char=297|end_char=304
+6	police	police	NOUN	NN	Number=Sing	7	compound	_	start_char=305|end_char=311
+7	culture	culture	NOUN	NN	Number=Sing	0	root	_	start_char=312|end_char=319
+8	,	,	PUNCT	,	_	11	punct	_	start_char=319|end_char=320
+9	not	not	ADV	RB	_	11	advmod	_	start_char=321|end_char=324
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=325|end_char=328
+11	people	people	NOUN	NNS	Number=Plur	7	conj	_	start_char=329|end_char=335
+12	.	.	PUNCT	.	_	7	punct	_	start_char=335|end_char=336
+
+1	Stop	stop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=339|end_char=343
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=344|end_char=349
+3	so	so	ADV	RB	_	4	advmod	_	start_char=350|end_char=352
+4	emotional	emotional	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=353|end_char=362
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=363|end_char=366
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=367|end_char=375
+7	.	.	PUNCT	.	_	1	punct	_	start_char=375|end_char=376
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=377|end_char=381
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=382|end_char=386
+3	n't	not	PART	RB	_	4	advmod	_	start_char=386|end_char=389
+4	help	help	VERB	VB	VerbForm=Inf	0	root	_	start_char=390|end_char=394
+5	rational	rational	ADJ	JJ	Degree=Pos	6	amod	_	start_char=395|end_char=403
+6	change	change	NOUN	NN	Number=Sing	4	obj	_	start_char=404|end_char=410
+7	to	to	PART	TO	_	8	mark	_	start_char=411|end_char=413
+8	come	come	VERB	VB	VerbForm=Inf	6	acl	_	start_char=414|end_char=418
+9	about	about	ADP	IN	_	8	obl	_	start_char=419|end_char=424
+10	.	.	PUNCT	.	_	4	punct	_	start_char=424|end_char=425
+
+1	Edit	edit	NOUN	NN	Number=Sing	0	root	_	start_char=427|end_char=431
+2	:	:	PUNCT	:	_	1	punct	_	start_char=431|end_char=432
+3	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=433|end_char=440
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=441|end_char=444
+5	word	word	NOUN	NN	Number=Sing	3	obj	_	start_char=445|end_char=449
+6	"	"	PUNCT	``	_	7	punct	_	start_char=450|end_char=451
+7	fool	fool	NOUN	NN	Number=Sing	5	appos	_	start_char=451|end_char=455
+8	"	"	PUNCT	''	_	7	punct	_	start_char=455|end_char=456
+9	.	.	PUNCT	.	_	1	punct	_	start_char=456|end_char=457
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nsubj	_	start_char=458|end_char=461
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=462|end_char=464
+3	not	not	PART	RB	_	4	advmod	_	start_char=465|end_char=468
+4	productive	productive	ADJ	JJ	Degree=Pos	0	root	_	start_char=469|end_char=479
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=480|end_char=483
+6	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=484|end_char=488
+7	nothing	nothing	PRON	NN	Number=Sing	6	obj	_	start_char=489|end_char=496
+8	to	to	PART	TO	_	9	mark	_	start_char=497|end_char=499
+9	promote	promote	VERB	VB	VerbForm=Inf	7	acl	_	start_char=500|end_char=507
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=508|end_char=510
+11	point	point	NOUN	NN	Number=Sing	9	obj	_	start_char=511|end_char=516
+12	.	.	PUNCT	.	_	4	punct	_	start_char=516|end_char=517
+

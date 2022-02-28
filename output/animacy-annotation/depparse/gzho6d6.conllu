@@ -1,0 +1,38 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	old	old	ADJ	JJ	Degree=Pos	5	advmod	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=12|end_char=15
+5	🤣🤣	🤣🤣	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=18
+6	🤣	''	PUNCT	.	_	5	punct	_	start_char=18|end_char=19
+
+1	Many	many	ADJ	JJ	Degree=Pos	2	amod	_	start_char=22|end_char=26
+2	relationships	relationship	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=27|end_char=40
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=45
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=46|end_char=47
+5	driver	driver	NOUN	NN	Number=Sing	3	obj	_	start_char=48|end_char=54
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=55|end_char=58
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=59|end_char=60
+8	passenger	passenger	NOUN	NN	Number=Sing	5	conj	_	start_char=61|end_char=70
+9	.	.	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=72|end_char=76
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=77|end_char=81
+3	n't	not	PART	RB	_	4	advmod	_	start_char=81|end_char=84
+4	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=85|end_char=89
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=90|end_char=94
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=94|end_char=97
+7	unequal	unequal	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=98|end_char=105
+8	.	.	PUNCT	.	_	4	punct	_	start_char=105|end_char=106
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=109|end_char=112
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=113|end_char=118
+3	really	really	ADV	RB	_	4	advmod	_	start_char=119|end_char=125
+4	young	young	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=126|end_char=131
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=132|end_char=135
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=136|end_char=144
+7	of	of	ADP	IN	_	9	case	_	start_char=145|end_char=147
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=148|end_char=151
+9	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=152|end_char=159
+10	of	of	ADP	IN	_	11	case	_	start_char=160|end_char=162
+11	relationships	relationship	NOUN	NNS	Number=Plur	9	nmod	_	start_char=163|end_char=176
+

@@ -1,0 +1,25 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	too	too	ADV	RB	_	4	advmod	_	start_char=9|end_char=12
+4	damn	damn	ADV	RB	_	5	advmod	_	start_char=13|end_char=17
+5	good	good	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=18|end_char=22
+6	so	so	ADV	RB	_	9	mark	_	start_char=23|end_char=25
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=26|end_char=29
+8	just	just	ADV	RB	_	9	advmod	_	start_char=30|end_char=34
+9	landed	land	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=35|end_char=41
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=42|end_char=45
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=46|end_char=49
+12	still	still	ADV	RB	_	13	advmod	_	start_char=50|end_char=55
+13	smiling	smile	VERB	VBG	Tense=Pres|VerbForm=Part	9	conj	_	start_char=56|end_char=63
+14	cause	cause	SCONJ	IN	_	17	mark	_	start_char=64|end_char=69
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=70|end_char=73
+16	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=73|end_char=76
+17	dazed	dazed	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=77|end_char=82
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=83|end_char=86
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	conj	_	start_char=87|end_char=94
+20	of	of	ADP	IN	_	21	case	_	start_char=95|end_char=97
+21	what	what	PRON	WP	PronType=Int	19	obl	_	start_char=98|end_char=102
+22	lies	lie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	start_char=103|end_char=107
+23	ahead	ahead	ADV	RB	_	22	advmod	_	start_char=108|end_char=113
+24	...	...	PUNCT	.	_	2	punct	_	start_char=113|end_char=116
+

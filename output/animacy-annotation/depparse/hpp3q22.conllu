@@ -1,0 +1,10 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	very	very	ADV	RB	_	4	advmod	_	start_char=10|end_char=14
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=15|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	old	old	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=31
+7	with	with	ADP	IN	_	9	case	_	start_char=32|end_char=36
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=37|end_char=41
+9	take	take	NOUN	NN	Number=Sing	6	obl	_	start_char=42|end_char=46
+

@@ -1,0 +1,39 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	15	15	NUM	CD	NumType=Card	8	nummod	_	start_char=7|end_char=9
+4	-	-	SYM	SYM	_	5	case	_	start_char=9|end_char=10
+5	20	20	NUM	CD	NumType=Card	3	nmod	_	start_char=10|end_char=12
+6	7.5	7.5	NUM	CD	NumType=Card	7	nummod	_	start_char=13|end_char=16
+7	mg	mg	NOUN	NNS	Number=Plur	8	compound	_	start_char=17|end_char=19
+8	tablets	tablet	NOUN	NNS	Number=Plur	2	obj	_	start_char=20|end_char=27
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=28|end_char=31
+10	ended	end	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=32|end_char=37
+11	up	up	ADP	RP	_	10	compound:prt	_	start_char=38|end_char=40
+12	in	in	ADP	IN	_	14	case	_	start_char=41|end_char=43
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=44|end_char=47
+14	hospital	hospital	NOUN	NN	Number=Sing	10	obl	_	start_char=48|end_char=56
+15	.	.	PUNCT	.	_	2	punct	_	start_char=56|end_char=57
+
+1	Blackouts	blackout	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=59|end_char=68
+2	,	,	PUNCT	,	_	3	punct	_	start_char=68|end_char=69
+3	tremors	tremor	NOUN	NNS	Number=Plur	1	conj	_	start_char=70|end_char=77
+4	,	,	PUNCT	,	_	7	punct	_	start_char=77|end_char=78
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=79|end_char=82
+6	tunnel	tunnel	NOUN	NN	Number=Sing	7	compound	_	start_char=83|end_char=89
+7	vision	vision	NOUN	NN	Number=Sing	1	conj	_	start_char=90|end_char=96
+8	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	cop	_	start_char=97|end_char=101
+9	big	big	ADJ	JJ	Degree=Pos	10	amod	_	start_char=102|end_char=105
+10	symptoms	symptom	NOUN	NNS	Number=Plur	0	root	_	start_char=106|end_char=114
+11	.	.	PUNCT	.	_	10	punct	_	start_char=114|end_char=115
+
+1	Other	other	ADJ	JJ	Degree=Pos	0	root	_	start_char=116|end_char=121
+2	than	than	ADP	IN	_	7	mark	_	start_char=122|end_char=126
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=127|end_char=131
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=132|end_char=133
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=134|end_char=137
+6	extremely	extremely	ADV	RB	_	7	advmod	_	start_char=138|end_char=147
+7	unaware	unaware	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=148|end_char=155
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=156|end_char=159
+9	useless	useless	ADJ	JJ	Degree=Pos	7	conj	_	start_char=160|end_char=167
+10	.	.	PUNCT	.	_	1	punct	_	start_char=167|end_char=168
+

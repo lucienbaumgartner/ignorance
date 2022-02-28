@@ -1,0 +1,14 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	surprised	surprised	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=14
+4	but	but	CCONJ	CC	_	6	cc	_	start_char=15|end_char=18
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=19|end_char=20
+6	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=21|end_char=25
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=26|end_char=29
+8	for	for	SCONJ	IN	_	10	mark	_	start_char=30|end_char=33
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=34|end_char=39
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=40|end_char=48
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=49|end_char=52
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=53|end_char=59
+13	.	.	PUNCT	.	_	3	punct	_	start_char=59|end_char=60
+

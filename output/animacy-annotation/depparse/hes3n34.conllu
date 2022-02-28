@@ -1,0 +1,17 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	oblivious	oblivious	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	of	of	ADP	IN	_	9	case	_	start_char=40|end_char=42
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=43|end_char=46
+9	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=47|end_char=54
+10	of	of	ADP	IN	_	12	case	_	start_char=55|end_char=57
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=58|end_char=61
+12	club	club	NOUN	NN	Number=Sing	9	nmod	_	start_char=62|end_char=66
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=67|end_char=70
+14	supposedly	supposedly	ADV	RB	_	15	advmod	_	start_char=71|end_char=81
+15	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=82|end_char=89
+16	.	.	PUNCT	.	_	1	punct	_	start_char=89|end_char=90
+

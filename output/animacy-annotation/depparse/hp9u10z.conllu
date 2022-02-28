@@ -1,0 +1,29 @@
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=4|end_char=5
+3	non-racist	non-racist	ADJ	JJ	Degree=Pos	4	amod	_	start_char=6|end_char=16
+4	life	life	NOUN	NN	Number=Sing	1	obj	_	start_char=17|end_char=21
+5	.	.	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=23|end_char=26
+2	idea	idea	NOUN	NN	Number=Sing	11	nsubj	_	start_char=27|end_char=31
+3	that	that	SCONJ	IN	_	11	mark	_	start_char=32|end_char=36
+4	“	''	PUNCT	``	_	6	punct	_	start_char=37|end_char=38
+5	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	6	amod	_	start_char=38|end_char=43
+6	world	world	NOUN	NN	Number=Sing	8	compound	_	start_char=44|end_char=49
+7	”	''	PUNCT	''	_	6	punct	_	start_char=49|end_char=50
+8	countries	country	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=51|end_char=60
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=61|end_char=64
+10	just	just	ADV	RB	_	11	advmod	_	start_char=65|end_char=69
+11	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=74
+12	.	.	PUNCT	.	_	11	punct	_	start_char=74|end_char=75
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=76|end_char=79
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=80|end_char=84
+3	both	both	CCONJ	CC	_	4	cc:preconj	_	start_char=85|end_char=89
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=90|end_char=98
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=99|end_char=102
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=103|end_char=109
+7	.	.	PUNCT	.	_	2	punct	_	start_char=109|end_char=110
+
+1	🤷🏼‍♂️	🤷🏼‍♂️	PROPN	NNP	Number=Sing	0	root	_	start_char=111|end_char=116
+

@@ -1,0 +1,37 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=4|end_char=7
+2	system	system	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=8|end_char=14
+3	itself	itself	PRON	PRP	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod:npmod	_	start_char=15|end_char=21
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=22|end_char=24
+5	basically	basically	ADV	RB	_	6	advmod	_	start_char=25|end_char=34
+6	designed	design	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=35|end_char=43
+7	to	to	PART	TO	_	8	mark	_	start_char=44|end_char=46
+8	keep	keep	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=47|end_char=51
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=52|end_char=55
+10	average	average	ADJ	JJ	Degree=Pos	11	amod	_	start_char=56|end_char=63
+11	person	person	NOUN	NN	Number=Sing	8	obj	_	start_char=64|end_char=70
+12	uniformed	uniformed	ADJ	JJ	Degree=Pos	11	amod	_	start_char=71|end_char=80
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=81|end_char=84
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=85|end_char=92
+15	of	of	ADP	IN	_	17	case	_	start_char=93|end_char=95
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=96|end_char=99
+17	truth	truth	NOUN	NN	Number=Sing	14	obl	_	start_char=100|end_char=105
+18	.	.	PUNCT	.	_	6	punct	_	start_char=105|end_char=106
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=110|end_char=113
+2	believing	believe	VERB	VBG	VerbForm=Ger	11	csubj	_	start_char=114|end_char=123
+3	in	in	ADP	IN	_	7	case	_	start_char=124|end_char=126
+4	such	such	ADJ	JJ	Degree=Pos	7	amod	_	start_char=127|end_char=131
+5	childish	childish	ADJ	JJ	Degree=Pos	7	amod	_	start_char=132|end_char=140
+6	conspiracy	conspiracy	NOUN	NN	Number=Sing	7	compound	_	start_char=141|end_char=151
+7	theories	theory	NOUN	NNS	Number=Plur	2	obl	_	start_char=152|end_char=160
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=161|end_char=163
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=164|end_char=167
+10	real	real	ADJ	JJ	Degree=Pos	11	amod	_	start_char=168|end_char=172
+11	failure	failure	NOUN	NN	Number=Sing	0	root	_	start_char=173|end_char=180
+12	of	of	ADP	IN	_	13	case	_	start_char=181|end_char=183
+13	education	education	NOUN	NN	Number=Sing	11	nmod	_	start_char=184|end_char=193
+14	.	.	PUNCT	.	_	11	punct	_	start_char=193|end_char=194
+

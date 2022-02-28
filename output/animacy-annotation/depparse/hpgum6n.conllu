@@ -1,0 +1,15 @@
+1	Yes	yes	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	:(	:(	SYM	NFP	_	5	discourse	_	start_char=4|end_char=6
+3	ignorance	ignorance	NOUN	NN	Number=Sing	5	nsubj	_	start_char=7|end_char=16
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=17|end_char=19
+5	bliss	bliss	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=25
+6	and	and	CCONJ	CC	_	12	cc	_	start_char=26|end_char=29
+7	sometimes	sometimes	ADV	RB	_	12	advmod	_	start_char=30|end_char=39
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=40|end_char=41
+9	’d	have	AUX	MD	VerbForm=Fin	12	aux	_	start_char=41|end_char=43
+10	rather	rather	ADV	RB	_	12	advmod	_	start_char=44|end_char=50
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=51|end_char=53
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=54|end_char=62
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=63|end_char=66
+14	happy	happy	ADJ	JJ	Degree=Pos	12	conj	_	start_char=67|end_char=72
+

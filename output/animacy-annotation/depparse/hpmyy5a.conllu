@@ -1,0 +1,79 @@
+1	No	no	INTJ	UH	_	6	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	6	punct	_	start_char=2|end_char=3
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=4|end_char=6
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=7|end_char=11
+5	n't	not	PART	RB	_	6	advmod	_	start_char=11|end_char=14
+6	work	work	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=19
+7	*	*	PUNCT	NFP	_	6	punct	_	start_char=20|end_char=21
+8	under	under	ADP	IN	_	10	case	_	start_char=21|end_char=26
+9	most	most	ADJ	JJS	Degree=Sup	10	amod	_	start_char=27|end_char=31
+10	circumstances	circumstance	NOUN	NNS	Number=Plur	6	obl	_	start_char=32|end_char=45
+11	*.	*.	PUNCT	NFP	_	6	punct	_	start_char=45|end_char=47
+
+1	EVERY	every	DET	DT	_	3	det	_	start_char=48|end_char=53
+2	SINGLE	single	ADJ	JJ	Degree=Pos	3	amod	_	start_char=54|end_char=60
+3	LINK	link	NOUN	NN	Number=Sing	0	root	_	start_char=61|end_char=65
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=66|end_char=67
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=67|end_char=70
+3	shown	show	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=71|end_char=76
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	nsubj	_	start_char=77|end_char=80
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=81|end_char=84
+6	attested	attest	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	start_char=85|end_char=93
+7	to	to	ADP	IN	_	8	case	_	start_char=94|end_char=96
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obl	_	start_char=97|end_char=101
+9	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+
+1	All	all	DET	DT	_	0	root	_	start_char=103|end_char=106
+2	of	of	ADP	IN	_	3	case	_	start_char=107|end_char=109
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	start_char=110|end_char=114
+4	.	.	PUNCT	.	_	1	punct	_	start_char=114|end_char=115
+
+1	Every	every	DET	DT	_	3	det	_	start_char=116|end_char=121
+2	last	last	ADJ	JJ	Degree=Pos	3	amod	_	start_char=122|end_char=126
+3	one	one	NOUN	NN	Number=Sing	5	nsubj	_	start_char=127|end_char=130
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=131|end_char=134
+5	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=135|end_char=139
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=140|end_char=144
+7	.	.	PUNCT	.	_	5	punct	_	start_char=144|end_char=145
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=147|end_char=150
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=151|end_char=154
+3	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=155|end_char=162
+4	dumb	dumb	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=163|end_char=167
+5	.	.	PUNCT	.	_	3	punct	_	start_char=167|end_char=168
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=169|end_char=172
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=173|end_char=177
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=178|end_char=181
+4	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=181|end_char=184
+5	wrong	wrong	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=185|end_char=190
+6	.	.	PUNCT	.	_	2	punct	_	start_char=190|end_char=191
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=192|end_char=195
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=196|end_char=198
+3	n't	not	PART	RB	_	4	advmod	_	start_char=198|end_char=201
+4	accept	accept	VERB	VB	VerbForm=Inf	0	root	_	start_char=202|end_char=208
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=209|end_char=213
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=214|end_char=217
+7	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=218|end_char=222
+8	something	something	PRON	NN	Number=Sing	7	obj	_	start_char=223|end_char=232
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=233|end_char=241
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=242|end_char=245
+11	stupid	stupid	ADJ	JJ	Degree=Pos	9	conj	_	start_char=246|end_char=252
+12	,	,	PUNCT	,	_	16	punct	_	start_char=252|end_char=253
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=254|end_char=257
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=258|end_char=261
+15	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=261|end_char=264
+16	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	4	conj	_	start_char=265|end_char=271
+17	to	to	PART	TO	_	18	mark	_	start_char=272|end_char=274
+18	cover	cover	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=275|end_char=280
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=281|end_char=283
+20	up	up	ADP	RP	_	18	compound:prt	_	start_char=284|end_char=286
+21	by	by	SCONJ	IN	_	22	mark	_	start_char=287|end_char=289
+22	pretending	pretend	VERB	VBG	VerbForm=Ger	18	advcl	_	start_char=290|end_char=300
+23	not	not	ADV	RB	_	25	advmod	_	start_char=301|end_char=304
+24	to	to	PART	TO	_	25	mark	_	start_char=305|end_char=307
+25	understand	understand	VERB	VB	VerbForm=Inf	22	xcomp	_	start_char=308|end_char=318
+26	..	..	PUNCT	.	_	4	punct	_	start_char=318|end_char=320
+

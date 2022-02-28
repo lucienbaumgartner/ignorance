@@ -1,0 +1,29 @@
+1	Oh	oh	INTJ	UH	_	7	discourse	_	start_char=0|end_char=2
+2	like	like	ADP	IN	_	7	mark	_	start_char=3|end_char=7
+3	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=8|end_char=12
+4	John	John	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=13|end_char=17
+5	Podesta	Podesta	PROPN	NNP	Number=Sing	4	flat	_	start_char=18|end_char=25
+6	specifically	specifically	ADV	RB	_	7	advmod	_	start_char=26|end_char=38
+7	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=39|end_char=44
+8	that	that	SCONJ	IN	_	17	mark	_	start_char=45|end_char=49
+9	in	in	ADP	IN	_	11	case	_	start_char=50|end_char=52
+10	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=53|end_char=55
+11	email	email	NOUN	NN	Number=Sing	7	obl	_	start_char=56|end_char=61
+12	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	start_char=62|end_char=71
+13	by	by	ADP	IN	_	14	case	_	start_char=72|end_char=74
+14	Wikileaks	Wikileaks	PROPN	NNP	Number=Sing	12	obl	_	start_char=75|end_char=84
+15	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=85|end_char=88
+16	"	"	PUNCT	``	_	17	punct	_	start_char=89|end_char=90
+17	efforts	effort	NOUN	NNS	Number=Plur	12	obl	_	start_char=90|end_char=97
+18	to	to	PART	TO	_	19	mark	_	start_char=98|end_char=100
+19	produce	produce	VERB	VB	VerbForm=Inf	17	acl	_	start_char=101|end_char=108
+20	an	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=109|end_char=111
+21	unaware	unaware	ADJ	JJ	Degree=Pos	24	amod	_	start_char=112|end_char=119
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=120|end_char=123
+23	compliant	compliant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=124|end_char=133
+24	citizenry	citizenry	NOUN	NN	Number=Sing	19	obj	_	start_char=134|end_char=143
+25	.	.	PUNCT	.	_	7	punct	_	start_char=143|end_char=144
+26	"	"	PUNCT	''	_	7	punct	_	start_char=144|end_char=145
+
+1	https://www.alipac.us/f9/clinton-campaign-email-outlines-effort-%93-produce-unaware-compliant-citizenry-338460/	https://www.alipac.us/f9/clinton-campaign-email-outlines-effort-%93-produce-unaware-compliant-citizenry-338460/	X	ADD	_	0	root	_	start_char=146|end_char=257
+

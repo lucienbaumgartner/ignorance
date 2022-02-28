@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	never	never	ADV	RB	_	3	advmod	_	start_char=2|end_char=7
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=13|end_char=15
+5	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=16|end_char=21
+6	sway	sway	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=22|end_char=26
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=27|end_char=29
+8	.	.	PUNCT	.	_	3	punct	_	start_char=29|end_char=30
+
+1	Also	also	ADV	RB	_	11	advmod	_	start_char=31|end_char=35
+2	in	in	ADP	IN	_	5	case	_	start_char=36|end_char=38
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=39|end_char=42
+4	vast	vast	ADJ	JJ	Degree=Pos	5	amod	_	start_char=43|end_char=47
+5	majority	majority	NOUN	NN	Number=Sing	11	obl	_	start_char=48|end_char=56
+6	of	of	ADP	IN	_	7	case	_	start_char=57|end_char=59
+7	cases	case	NOUN	NNS	Number=Plur	5	nmod	_	start_char=60|end_char=65
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=66|end_char=69
+9	spouse	spouse	NOUN	NN	Number=Sing	11	nsubj	_	start_char=70|end_char=76
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=77|end_char=79
+11	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=80|end_char=87
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=88|end_char=91
+13	unsupportive	unsupportive	ADJ	JJ	Degree=Pos	11	conj	_	start_char=92|end_char=104
+14	of	of	ADP	IN	_	16	case	_	start_char=105|end_char=107
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=108|end_char=113
+16	spouse	spouse	NOUN	NN	Number=Sing	13	obl	_	start_char=114|end_char=120
+17	cheating	cheating	VERB	VBG	VerbForm=Ger	16	acl	_	start_char=121|end_char=129
+18	on	on	ADP	IN	_	19	case	_	start_char=130|end_char=132
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obl	_	start_char=133|end_char=137
+20	.	.	PUNCT	.	_	11	punct	_	start_char=137|end_char=138
+

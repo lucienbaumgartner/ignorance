@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=1|end_char=3
+3	not	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	ignoring	ignore	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=8|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	point	point	NOUN	NN	Number=Sing	4	obj	_	start_char=21|end_char=26
+7	,	,	PUNCT	,	_	4	punct	_	start_char=26|end_char=27
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=28|end_char=29
+9	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=29|end_char=31
+10	pointing	point	VERB	VBG	Tense=Pres|VerbForm=Part	4	parataxis	_	start_char=32|end_char=40
+11	out	out	ADP	RP	_	10	compound:prt	_	start_char=41|end_char=44
+12	that	that	SCONJ	IN	_	18	mark	_	start_char=45|end_char=49
+13	what	what	PRON	WP	PronType=Int	18	nsubj	_	start_char=50|end_char=54
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=55|end_char=58
+15	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=58|end_char=61
+16	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	13	acl:relcl	_	start_char=62|end_char=68
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=69|end_char=71
+18	selfish	selfish	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=72|end_char=79
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=80|end_char=83
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=84|end_char=92
+21	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	That	that	SCONJ	IN	_	6	mark	_	start_char=94|end_char=98
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nmod:poss	_	start_char=99|end_char=102
+3	thinkyour	thinkyour	NOUN	NN	Number=Sing	4	compound	_	start_char=103|end_char=112
+4	belief	belief	NOUN	NN	Number=Sing	6	nsubj	_	start_char=113|end_char=119
+5	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=120|end_char=126
+6	dictate	dictate	VERB	VB	VerbForm=Inf	0	root	_	start_char=127|end_char=134
+7	another	another	DET	DT	_	9	det	_	start_char=135|end_char=142
+8	persons	person	NOUN	NNS	Number=Plur	9	compound	_	start_char=143|end_char=150
+9	freedom	freedom	NOUN	NN	Number=Sing	6	obj	_	start_char=151|end_char=158
+10	.	.	PUNCT	.	_	6	punct	_	start_char=158|end_char=159
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=160|end_char=164
+2	now	now	ADV	RB	_	8	advmod	_	start_char=165|end_char=168
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=169|end_char=171
+4	"	"	PUNCT	``	_	8	punct	_	start_char=172|end_char=173
+5	not	not	PART	RB	_	8	advmod	_	start_char=173|end_char=176
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=177|end_char=180
+7	right	right	ADJ	JJ	Degree=Pos	8	amod	_	start_char=181|end_char=186
+8	time	time	NOUN	NN	Number=Sing	0	root	_	start_char=187|end_char=191
+9	"	"	PUNCT	''	_	8	punct	_	start_char=191|end_char=192
+10	to	to	PART	TO	_	11	mark	_	start_char=193|end_char=195
+11	protest	protest	VERB	VB	VerbForm=Inf	8	acl	_	start_char=196|end_char=203
+12	.	.	PUNCT	.	_	8	punct	_	start_char=203|end_char=204
+

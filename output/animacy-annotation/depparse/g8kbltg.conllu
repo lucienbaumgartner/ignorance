@@ -1,0 +1,227 @@
+1	?	?	PUNCT	.	_	0	root	_	start_char=0|end_char=1
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=2|end_char=5
+2	fuck	fuck	NOUN	NN	Number=Sing	0	root	_	start_char=6|end_char=10
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=11|end_char=12
+4	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=12|end_char=14
+5	not	not	PART	RB	_	4	advmod	_	start_char=15|end_char=18
+6	.	.	PUNCT	.	_	2	punct	_	start_char=18|end_char=19
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=20|end_char=23
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+3	nothing	nothing	PRON	NN	Number=Sing	2	obj	_	start_char=29|end_char=36
+4	of	of	ADP	IN	_	5	case	_	start_char=37|end_char=39
+5	Venezuela	Venezuela	PROPN	NNP	Number=Sing	3	nmod	_	start_char=40|end_char=49
+6	then	then	ADV	RB	PronType=Dem	2	advmod	_	start_char=50|end_char=54
+7	.	.	PUNCT	.	_	2	punct	_	start_char=54|end_char=55
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=56|end_char=59
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=64
+3	Hugo	Hugo	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=65|end_char=69
+4	Chavez	Chavez	PROPN	NNP	Number=Sing	3	flat	_	start_char=70|end_char=76
+5	ran	run	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=77|end_char=80
+6	on	on	ADP	IN	_	9	case	_	start_char=81|end_char=83
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=84|end_char=87
+8	same	same	ADJ	JJ	Degree=Pos	9	amod	_	start_char=88|end_char=92
+9	ideals	ideal	NOUN	NNS	Number=Plur	5	obl	_	start_char=93|end_char=99
+10	as	as	ADP	IN	_	11	case	_	start_char=100|end_char=102
+11	Kamala	Kamala	PROPN	NNP	Number=Sing	5	obl	_	start_char=103|end_char=109
+12	Harris	Harris	PROPN	NNP	Number=Sing	11	flat	_	start_char=110|end_char=116
+13	?	?	PUNCT	.	_	2	punct	_	start_char=116|end_char=117
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=118|end_char=121
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=122|end_char=124
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=124|end_char=127
+4	fear	fear	VERB	VB	VerbForm=Inf	0	root	_	start_char=128|end_char=132
+5	communism	communism	NOUN	NN	Number=Sing	4	obj	_	start_char=133|end_char=142
+6	?	?	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=144|end_char=148
+2	at	at	SCONJ	IN	_	3	case	_	start_char=149|end_char=151
+3	what	what	PRON	WP	PronType=Int	1	obl	_	start_char=152|end_char=156
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=156|end_char=158
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	3	acl:relcl	_	start_char=159|end_char=164
+6	on	on	ADP	RP	_	5	compound:prt	_	start_char=165|end_char=167
+7	in	in	ADP	IN	_	8	case	_	start_char=168|end_char=170
+8	China	China	PROPN	NNP	Number=Sing	5	obl	_	start_char=171|end_char=176
+9	too	too	ADV	RB	_	5	advmod	_	start_char=177|end_char=180
+10	.	.	PUNCT	.	_	1	punct	_	start_char=180|end_char=181
+
+1	Killing	kill	VERB	VBG	VerbForm=Ger	0	root	_	start_char=182|end_char=189
+2	more	more	ADJ	JJR	Degree=Cmp	3	amod	_	start_char=190|end_char=194
+3	people	people	NOUN	NNS	Number=Plur	1	obj	_	start_char=195|end_char=201
+4	probably	probably	ADV	RB	_	1	advmod	_	start_char=202|end_char=210
+5	than	than	ADP	IN	_	9	case	_	start_char=211|end_char=215
+6	nazi	nazi	NOUN	NN	Number=Sing	9	nmod:poss	_	start_char=216|end_char=220
+7	’s	's	PART	POS	_	6	case	_	start_char=220|end_char=222
+8	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	_	start_char=223|end_char=229
+9	Jews	Jew	PROPN	NNPS	Number=Plur	1	obl	_	start_char=230|end_char=234
+10	in	in	ADP	IN	_	12	case	_	start_char=235|end_char=237
+11	concentration	concentration	NOUN	NN	Number=Sing	12	compound	_	start_char=238|end_char=251
+12	camps	camp	NOUN	NNS	Number=Plur	9	nmod	_	start_char=252|end_char=257
+13	as	as	SCONJ	IN	_	15	mark	_	start_char=258|end_char=260
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	start_char=261|end_char=263
+15	speak	speak	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=264|end_char=269
+16	.	.	PUNCT	.	_	1	punct	_	start_char=269|end_char=270
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=271|end_char=274
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=275|end_char=278
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=279|end_char=280
+4	simple	simple	ADJ	JJ	Degree=Pos	5	amod	_	start_char=281|end_char=287
+5	minded	minded	ADJ	JJ	Degree=Pos	0	root	_	start_char=288|end_char=294
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=295|end_char=298
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=299|end_char=307
+8	.	.	PUNCT	.	_	5	punct	_	start_char=307|end_char=308
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=309|end_char=313
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=314|end_char=316
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=317|end_char=320
+4	terrorists	terrorist	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=321|end_char=331
+5	like	like	ADP	IN	_	6	case	_	start_char=332|end_char=336
+6	ilhan	ilhan	PROPN	NNP	Number=Sing	4	nmod	_	start_char=337|end_char=342
+7	Omar	Omar	PROPN	NNP	Number=Sing	6	flat	_	start_char=343|end_char=347
+8	succeed	succeed	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=348|end_char=355
+9	here	here	ADV	RB	PronType=Dem	8	advmod	_	start_char=356|end_char=360
+10	.	.	PUNCT	.	_	3	punct	_	start_char=360|end_char=361
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=362|end_char=365
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=365|end_char=367
+3	funded	fund	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=368|end_char=374
+4	by	by	ADP	IN	_	5	case	_	start_char=375|end_char=377
+5	groups	group	NOUN	NNS	Number=Plur	3	obl	_	start_char=378|end_char=384
+6	that	that	PRON	WDT	PronType=Rel	7	nsubj	_	start_char=385|end_char=389
+7	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=390|end_char=394
+8	to	to	PART	TO	_	9	mark	_	start_char=395|end_char=397
+9	destroy	destroy	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=398|end_char=405
+10	America	America	PROPN	NNP	Number=Sing	9	obj	_	start_char=406|end_char=413
+11	.	.	PUNCT	.	_	3	punct	_	start_char=413|end_char=414
+
+1	Idiots	idiot	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=415|end_char=421
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=422|end_char=426
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=427|end_char=430
+4	.	.	PUNCT	.	_	2	punct	_	start_char=430|end_char=431
+
+1	Know	know	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=432|end_char=436
+2	why	why	SCONJ	WRB	PronType=Int	4	mark	_	start_char=437|end_char=440
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=441|end_char=444
+4	chooses	choose	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=445|end_char=452
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=453|end_char=456
+6	democrat	Democrat	NOUN	NN	Number=Sing	7	compound	_	start_char=457|end_char=465
+7	party	party	NOUN	NN	Number=Sing	4	obj	_	start_char=466|end_char=471
+8	?	?	PUNCT	.	_	1	punct	_	start_char=471|end_char=472
+
+1	Democrats	Democrat	PROPN	NNPS	Number=Plur	2	nsubj	_	start_char=473|end_char=482
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=483|end_char=487
+3	no	no	DET	DT	_	5	det	_	start_char=488|end_char=490
+4	set	set	ADJ	JJ	Degree=Pos	5	amod	_	start_char=491|end_char=494
+5	values	value	NOUN	NNS	Number=Plur	2	obj	_	start_char=495|end_char=501
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=502|end_char=504
+7	beliefs	belief	NOUN	NNS	Number=Plur	5	conj	_	start_char=505|end_char=512
+8	.	.	PUNCT	.	_	2	punct	_	start_char=512|end_char=513
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=514|end_char=517
+2	picks	pick	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=518|end_char=523
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=524|end_char=528
+4	party	party	NOUN	NN	Number=Sing	2	obj	_	start_char=529|end_char=534
+5	to	to	PART	TO	_	6	mark	_	start_char=535|end_char=537
+6	gain	gain	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=538|end_char=542
+7	power	power	NOUN	NN	Number=Sing	6	obj	_	start_char=543|end_char=548
+8	only	only	ADV	RB	_	6	advmod	_	start_char=549|end_char=553
+9	.	.	PUNCT	.	_	2	punct	_	start_char=553|end_char=554
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=555|end_char=558
+2	chants	chant	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=559|end_char=565
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=566|end_char=568
+4	body	body	NOUN	NN	Number=Sing	2	obj	_	start_char=569|end_char=573
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=574|end_char=576
+6	choice	choice	NOUN	NN	Number=Sing	2	obj	_	start_char=577|end_char=583
+7	to	to	PART	TO	_	8	mark	_	start_char=584|end_char=586
+8	rise	rise	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=587|end_char=591
+9	up	up	ADP	RP	_	8	compound:prt	_	start_char=592|end_char=594
+10	only	only	ADV	RB	_	14	advmod	_	start_char=595|end_char=599
+11	not	not	ADV	RB	_	14	advmod	_	start_char=600|end_char=603
+12	cuz	cuz	SCONJ	IN	_	14	mark	_	start_char=604|end_char=607
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=608|end_char=611
+14	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=612|end_char=620
+15	in	in	ADP	IN	_	16	case	_	start_char=621|end_char=623
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=624|end_char=626
+17	.	.	PUNCT	.	_	2	punct	_	start_char=626|end_char=627
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=628|end_char=631
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=632|end_char=637
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=638|end_char=641
+4	’d	have	AUX	MD	VerbForm=Fin	6	aux	_	start_char=641|end_char=643
+5	ever	ever	ADV	RB	_	6	advmod	_	start_char=644|end_char=648
+6	have	have	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=649|end_char=653
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=654|end_char=656
+8	abortion	abortion	NOUN	NN	Number=Sing	6	obj	_	start_char=657|end_char=665
+9	?	?	PUNCT	.	_	2	punct	_	start_char=665|end_char=666
+
+1	Fuck	fuck	INTJ	UH	_	0	root	_	start_char=667|end_char=671
+2	no	no	INTJ	UH	Polarity=Neg	1	discourse	_	start_char=672|end_char=674
+3	.	.	PUNCT	.	_	1	punct	_	start_char=674|end_char=675
+
+1	Groups	group	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=676|end_char=682
+2	like	like	ADP	IN	_	3	case	_	start_char=683|end_char=687
+3	isis	isis	PROPN	NNP	Number=Sing	1	nmod	_	start_char=688|end_char=692
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=693|end_char=696
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=697|end_char=700
+6	Soviet	Soviet	PROPN	NNP	Number=Sing	7	compound	_	start_char=701|end_char=707
+7	Union	Union	PROPN	NNP	Number=Sing	3	conj	_	start_char=708|end_char=713
+8	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=714|end_char=721
+9	democrats	Democrat	PROPN	NNPS	Number=Plur	8	obj	_	start_char=722|end_char=731
+10	because	because	SCONJ	IN	_	12	mark	_	start_char=732|end_char=739
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=740|end_char=744
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=745|end_char=749
+13	no	no	DET	DT	_	15	det	_	start_char=750|end_char=752
+14	actual	actual	ADJ	JJ	Degree=Pos	15	amod	_	start_char=753|end_char=759
+15	beliefs	belief	NOUN	NNS	Number=Plur	12	obj	_	start_char=760|end_char=767
+16	.	.	PUNCT	.	_	8	punct	_	start_char=767|end_char=768
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=769|end_char=773
+2	change	change	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=774|end_char=780
+3	direction	direction	NOUN	NN	Number=Sing	2	obj	_	start_char=781|end_char=790
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=791|end_char=794
+5	bend	bend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=795|end_char=799
+6	like	like	ADP	IN	_	8	case	_	start_char=800|end_char=804
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=805|end_char=808
+8	wind	wind	NOUN	NN	Number=Sing	5	obl	_	start_char=809|end_char=813
+9	.	.	PUNCT	.	_	2	punct	_	start_char=813|end_char=814
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=815|end_char=819
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=820|end_char=823
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	start_char=824|end_char=828
+4	to	to	PART	TO	_	5	mark	_	start_char=829|end_char=831
+5	brain	brain	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=832|end_char=837
+6	wash	wash	NOUN	NN	Number=Sing	5	obj	_	start_char=838|end_char=842
+7	.	.	PUNCT	.	_	3	punct	_	start_char=842|end_char=843
+
+1	No	no	DET	DT	_	2	det	_	start_char=844|end_char=846
+2	fortitude	fortitude	NOUN	NN	Number=Sing	0	root	_	start_char=847|end_char=856
+3	.	.	PUNCT	.	_	2	punct	_	start_char=856|end_char=857
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=858|end_char=861
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=862|end_char=866
+3	no	no	DET	DT	_	4	det	_	start_char=867|end_char=869
+4	idea	idea	NOUN	NN	Number=Sing	2	obj	_	start_char=870|end_char=874
+5	about	about	ADP	IN	_	6	case	_	start_char=875|end_char=880
+6	anything	anything	PRON	NN	Number=Sing	4	nmod	_	start_char=881|end_char=889
+7	going	go	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=890|end_char=895
+8	on	on	ADP	RP	_	7	compound:prt	_	start_char=896|end_char=898
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=899|end_char=902
+10	no	no	DET	DT	_	11	det	_	start_char=903|end_char=905
+11	experience	experience	NOUN	NN	Number=Sing	6	conj	_	start_char=906|end_char=916
+12	to	to	PART	TO	_	14	mark	_	start_char=917|end_char=919
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=920|end_char=922
+14	able	able	ADJ	JJ	Degree=Pos	11	acl	_	start_char=923|end_char=927
+15	to	to	PART	TO	_	16	mark	_	start_char=928|end_char=930
+16	see	see	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=931|end_char=934
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=935|end_char=937
+18	happening	happen	VERB	VBG	VerbForm=Ger	16	xcomp	_	start_char=938|end_char=947
+19	right	right	ADV	RB	_	21	advmod	_	start_char=948|end_char=953
+20	in	in	ADP	IN	_	21	case	_	start_char=954|end_char=956
+21	front	front	NOUN	NN	Number=Sing	18	obl	_	start_char=957|end_char=962
+22	of	of	ADP	IN	_	23	case	_	start_char=963|end_char=965
+23	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	21	nmod	_	start_char=966|end_char=969
+24	.	.	PUNCT	.	_	2	punct	_	start_char=969|end_char=970
+

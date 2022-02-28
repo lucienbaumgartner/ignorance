@@ -1,0 +1,28 @@
+1	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=0|end_char=3
+2	just	just	ADV	RB	_	3	advmod	_	start_char=4|end_char=8
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=12
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=13|end_char=16
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=17|end_char=25
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=26|end_char=30
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=31|end_char=35
+8	just	just	ADV	RB	_	9	advmod	_	start_char=36|end_char=40
+9	delete	delete	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=41|end_char=47
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=48|end_char=51
+11	ignore	ignore	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	conj	_	start_char=52|end_char=58
+12	such	such	ADJ	JJ	Degree=Pos	13	amod	_	start_char=59|end_char=63
+13	threads	thread	NOUN	NNS	Number=Plur	11	obj	_	start_char=64|end_char=71
+14	.	.	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	Otherwise	otherwise	ADV	RB	_	4	advmod	_	start_char=75|end_char=84
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=85|end_char=89
+3	might	might	AUX	MD	VerbForm=Fin	4	aux	_	start_char=90|end_char=95
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=96|end_char=100
+5	to	to	PART	TO	_	6	mark	_	start_char=101|end_char=103
+6	work	work	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=104|end_char=108
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=109|end_char=112
+8	do	do	VERB	VB	VerbForm=Inf	6	conj	_	start_char=113|end_char=115
+9	something	something	PRON	NN	Number=Sing	8	obj	_	start_char=116|end_char=125
+10	against	against	ADP	IN	_	12	case	_	start_char=126|end_char=133
+11	those	that	DET	DT	Number=Plur|PronType=Dem	12	det	_	start_char=134|end_char=139
+12	problems	problem	NOUN	NNS	Number=Plur	9	nmod	_	start_char=140|end_char=148
+

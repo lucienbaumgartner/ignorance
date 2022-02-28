@@ -1,0 +1,23 @@
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=6|end_char=9
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=10|end_char=16
+4	elaborate	elaborate	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=26
+5	more	more	ADV	RBR	_	4	obj	_	start_char=27|end_char=31
+6	on	on	ADP	IN	_	8	case	_	start_char=32|end_char=34
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=35|end_char=39
+8	thoughts	thought	NOUN	NNS	Number=Plur	4	obl	_	start_char=40|end_char=48
+9	because	because	SCONJ	IN	_	11	mark	_	start_char=49|end_char=56
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	start_char=57|end_char=61
+11	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=62|end_char=68
+12	incredibly	incredibly	ADV	RB	_	15	advmod	_	start_char=69|end_char=79
+13	short	short	ADJ	JJ	Degree=Pos	15	amod	_	start_char=80|end_char=85
+14	-	-	PUNCT	HYPH	_	15	punct	_	start_char=85|end_char=86
+15	sighted	sight	VERB	VBN	Tense=Past|VerbForm=Part	11	xcomp	_	start_char=86|end_char=93
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=94|end_char=97
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=98|end_char=106
+18	of	of	ADP	IN	_	21	case	_	start_char=107|end_char=109
+19	historical	historical	ADJ	JJ	Degree=Pos	21	amod	_	start_char=110|end_char=120
+20	structural	structural	ADJ	JJ	Degree=Pos	21	amod	_	start_char=121|end_char=131
+21	biases	biase	NOUN	NNS	Number=Plur	17	obl	_	start_char=132|end_char=138
+22	.	.	PUNCT	.	_	4	punct	_	start_char=138|end_char=139
+

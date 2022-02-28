@@ -1,0 +1,35 @@
+1	All	all	DET	DT	_	5	nsubj	_	start_char=0|end_char=3
+2	of	of	ADP	IN	_	3	case	_	start_char=4|end_char=6
+3	those	that	PRON	DT	Number=Plur|PronType=Dem	1	nmod	_	start_char=7|end_char=12
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=13|end_char=18
+5	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=19|end_char=21
+6	little	little	ADJ	JJ	Degree=Pos	5	obj	_	start_char=22|end_char=28
+7	if	if	SCONJ	IN	_	11	mark	_	start_char=29|end_char=31
+8	not	not	PART	RB	_	11	advmod	_	start_char=32|end_char=35
+9	for	for	ADP	IN	_	11	case	_	start_char=36|end_char=39
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=40|end_char=43
+11	expressions	expression	NOUN	NNS	Number=Plur	5	advcl	_	start_char=44|end_char=55
+12	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+
+1	One	one	NUM	CD	NumType=Card	2	nsubj	_	start_char=58|end_char=61
+2	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=62|end_char=67
+3	high	high	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=68|end_char=72
+4	,	,	PUNCT	,	_	2	punct	_	start_char=72|end_char=73
+5	one	one	PRON	PRP	_	6	nsubj	_	start_char=74|end_char=77
+6	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=78|end_char=83
+7	drunky	drunky	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=84|end_char=90
+8	,	,	PUNCT	,	_	12	punct	_	start_char=90|end_char=91
+9	and	and	CCONJ	CC	_	12	cc	_	start_char=92|end_char=95
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=96|end_char=99
+11	other	other	ADJ	JJ	Degree=Pos	12	nsubj	_	start_char=100|end_char=105
+12	happy	happy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=106|end_char=111
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=112|end_char=115
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=116|end_char=124
+15	of	of	ADP	IN	_	17	case	_	start_char=125|end_char=127
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=128|end_char=129
+17	world	world	NOUN	NN	Number=Sing	12	obl	_	start_char=130|end_char=135
+18	where	where	SCONJ	WRB	PronType=Rel	20	mark	_	start_char=136|end_char=141
+19	darkness	darkness	NOUN	NN	Number=Sing	20	nsubj	_	start_char=142|end_char=150
+20	marches	march	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=151|end_char=158
+21	.	.	PUNCT	.	_	2	punct	_	start_char=158|end_char=159
+

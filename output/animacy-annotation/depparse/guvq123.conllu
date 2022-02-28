@@ -1,0 +1,24 @@
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	duty	duty	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=8
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=9|end_char=12
+4	never	never	ADV	RB	_	5	advmod	_	start_char=13|end_char=18
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=19|end_char=23
+6	to	to	PART	TO	_	7	mark	_	start_char=24|end_char=26
+7	score	score	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=27|end_char=32
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=33|end_char=35
+9	assist	assist	VERB	VB	VerbForm=Inf	7	conj	_	start_char=36|end_char=42
+10	so	so	ADV	RB	_	18	advmod	_	start_char=43|end_char=45
+11	to	to	PART	TO	_	12	mark	_	start_char=46|end_char=48
+12	judge	judge	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=49|end_char=54
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=55|end_char=58
+14	based	base	VERB	VBN	Tense=Past|VerbForm=Part	12	xcomp	_	start_char=59|end_char=64
+15	on	on	ADP	IN	_	16	case	_	start_char=65|end_char=67
+16	that	that	PRON	DT	Number=Sing|PronType=Dem	14	obl	_	start_char=68|end_char=72
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=73|end_char=75
+18	moronic	moronic	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=76|end_char=83
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=84|end_char=87
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=88|end_char=96
+21	of	of	ADP	IN	_	23	case	_	start_char=97|end_char=99
+22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=100|end_char=103
+23	contributions	contribution	NOUN	NNS	Number=Plur	20	obl	_	start_char=104|end_char=117
+

@@ -1,0 +1,17 @@
+1	but	but	CCONJ	CC	_	4	cc	_	start_char=0|end_char=3
+2	nobody	nobody	PRON	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=14|end_char=20
+5	that	that	SCONJ	IN	_	8	mark	_	start_char=21|end_char=25
+6	lmao	lmao	NOUN	NN	Number=Sing	4	obj	_	start_char=26|end_char=30
+7	which	which	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=31|end_char=36
+8	leads	lead	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=37|end_char=42
+9	right	right	ADV	RB	_	10	advmod	_	start_char=43|end_char=48
+10	back	back	ADV	RB	_	8	advmod	_	start_char=49|end_char=53
+11	to	to	ADP	IN	_	12	case	_	start_char=54|end_char=56
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=57|end_char=60
+13	being	be	AUX	VBG	VerbForm=Ger	14	cop	_	start_char=61|end_char=66
+14	unaware	unaware	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=67|end_char=74
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=75|end_char=78
+16	disillusioned	disillusioned	ADJ	JJ	Degree=Pos	14	conj	_	start_char=79|end_char=92
+

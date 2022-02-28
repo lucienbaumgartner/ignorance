@@ -1,0 +1,45 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	leash	leash	NOUN	NN	Number=Sing	11	nsubj	_	start_char=2|end_char=7
+3	,	,	PUNCT	,	_	11	punct	_	start_char=7|end_char=8
+4	as	as	SCONJ	IN	_	8	mark	_	start_char=9|end_char=11
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=12|end_char=15
+6	very	very	ADV	RB	_	7	advmod	_	start_char=16|end_char=20
+7	well	well	ADV	RB	Degree=Pos	8	advmod	_	start_char=21|end_char=25
+8	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=26|end_char=30
+9	,	,	PUNCT	,	_	11	punct	_	start_char=30|end_char=31
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=32|end_char=34
+11	something	something	PRON	NN	Number=Sing	0	root	_	start_char=35|end_char=44
+12	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=45|end_char=49
+13	keeps	keep	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=50|end_char=55
+14	something	something	NOUN	NN	Number=Sing	13	obj	_	start_char=56|end_char=65
+15	in	in	ADP	IN	_	16	case	_	start_char=66|end_char=68
+16	check	check	NOUN	NN	Number=Sing	13	obl	_	start_char=69|end_char=74
+17	.	.	PUNCT	.	_	11	punct	_	start_char=74|end_char=75
+
+1	Commonly	commonly	ADV	RB	_	3	advmod	_	start_char=76|end_char=84
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=85|end_char=86
+3	dog	dog	NOUN	NN	Number=Sing	0	root	_	start_char=87|end_char=90
+4	,	,	PUNCT	,	_	3	punct	_	start_char=90|end_char=91
+5	which	which	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=92|end_char=97
+6	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=98|end_char=103
+7	sense	sense	NOUN	NN	Number=Sing	6	obj	_	start_char=104|end_char=109
+8	,	,	PUNCT	,	_	14	punct	_	start_char=109|end_char=110
+9	as	as	SCONJ	IN	_	14	mark	_	start_char=111|end_char=113
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=114|end_char=117
+11	girl	girl	NOUN	NN	Number=Sing	14	nsubj	_	start_char=118|end_char=122
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=123|end_char=125
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=126|end_char=127
+14	bitch	bitch	NOUN	NN	Number=Sing	6	advcl	_	start_char=128|end_char=133
+15	.	.	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=135|end_char=137
+2	job	job	NOUN	NN	Number=Sing	3	nsubj	_	start_char=138|end_char=141
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=142|end_char=144
+4	to	to	PART	TO	_	5	mark	_	start_char=145|end_char=147
+5	keep	keep	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=148|end_char=152
+6	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=153|end_char=156
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=157|end_char=164
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=165|end_char=168
+9	leashed	leash	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	start_char=169|end_char=176
+10	.	.	PUNCT	.	_	3	punct	_	start_char=176|end_char=177
+

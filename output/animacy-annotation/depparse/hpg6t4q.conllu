@@ -1,0 +1,107 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Almost	almost	ADV	RB	_	4	advmod	_	start_char=4|end_char=10
+2	every	every	DET	DT	_	4	det	_	start_char=11|end_char=16
+3	perverted	perverted	ADJ	JJ	Degree=Pos	4	amod	_	start_char=17|end_char=26
+4	moment	moment	NOUN	NN	Number=Sing	8	nsubj	_	start_char=27|end_char=33
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=34|end_char=36
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=37|end_char=38
+7	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	start_char=39|end_char=45
+8	scene	scene	NOUN	NN	Number=Sing	0	root	_	start_char=46|end_char=51
+9	between	between	ADP	IN	_	11	case	_	start_char=52|end_char=59
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=60|end_char=63
+11	2	2	NUM	CD	NumType=Card	8	nmod	_	start_char=64|end_char=65
+12	in	in	ADP	IN	_	14	case	_	start_char=66|end_char=68
+13	some	some	DET	DT	_	14	det	_	start_char=69|end_char=73
+14	capacity	capacity	NOUN	NN	Number=Sing	11	nmod	_	start_char=74|end_char=82
+15	.	.	PUNCT	.	_	8	punct	_	start_char=82|end_char=83
+
+1	Perverted	perverted	ADJ	JJ	Degree=Pos	2	amod	_	start_char=85|end_char=94
+2	scenes	scene	NOUN	NNS	Number=Plur	0	root	_	start_char=95|end_char=101
+3	?	?	PUNCT	.	_	2	punct	_	start_char=101|end_char=102
+
+1	What	what	DET	WDT	PronType=Int	2	det	_	start_char=103|end_char=107
+2	scenes	scene	NOUN	NNS	Number=Plur	0	root	_	start_char=108|end_char=114
+3	?	?	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=117|end_char=120
+2	;	;	PUNCT	:	_	1	punct	_	start_char=120|end_char=121
+
+1	Also	also	ADV	RB	_	0	root	_	start_char=121|end_char=125
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=126|end_char=127
+2	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=127|end_char=129
+3	not	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=130|end_char=133
+4	ignoring	ignore	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=134|end_char=142
+5	anything	anything	PRON	NN	Number=Sing	4	obj	_	start_char=143|end_char=151
+6	,	,	PUNCT	,	_	4	punct	_	start_char=151|end_char=152
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=153|end_char=154
+8	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=154|end_char=157
+9	watched	watch	VERB	VBN	Tense=Past|VerbForm=Part	4	parataxis	_	start_char=158|end_char=165
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=166|end_char=169
+11	read	read	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	_	start_char=170|end_char=174
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=175|end_char=178
+13	same	same	ADJ	JJ	Degree=Pos	14	amod	_	start_char=179|end_char=183
+14	series	series	NOUN	NN	Number=Sing	11	obj	_	start_char=184|end_char=190
+15	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	start_char=191|end_char=194
+16	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=195|end_char=199
+17	,	,	PUNCT	,	_	18	punct	_	start_char=199|end_char=200
+18	played	play	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=201|end_char=207
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=208|end_char=211
+20	games	game	NOUN	NNS	Number=Plur	18	obj	_	start_char=212|end_char=217
+21	,	,	PUNCT	,	_	22	punct	_	start_char=217|end_char=218
+22	watched	watch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=219|end_char=226
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=227|end_char=230
+24	movies	movie	NOUN	NNS	Number=Plur	22	obj	_	start_char=231|end_char=237
+25	,	,	PUNCT	,	_	27	punct	_	start_char=237|end_char=238
+26	probably	probably	ADV	RB	Degree=Pos	27	advmod	_	start_char=239|end_char=247
+27	browsed	browse	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	_	start_char=248|end_char=255
+28	the	the	DET	DT	Definite=Def|PronType=Art	30	det	_	start_char=256|end_char=259
+29	OP	OP	PROPN	NNP	Number=Sing	30	compound	_	start_char=260|end_char=262
+30	reddit	reddit	NOUN	NN	Number=Sing	27	obj	_	start_char=263|end_char=269
+31	.	.	PUNCT	.	_	4	punct	_	start_char=269|end_char=270
+
+1	Am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=271|end_char=273
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=274|end_char=275
+3	not	not	PART	RB	_	4	advmod	_	start_char=276|end_char=279
+4	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=280|end_char=287
+5	to	to	PART	TO	_	6	mark	_	start_char=288|end_char=290
+6	disagree	disagree	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=291|end_char=299
+7	?	?	PUNCT	.	_	4	punct	_	start_char=299|end_char=300
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj:pass	_	start_char=302|end_char=305
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=306|end_char=309
+3	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=310|end_char=317
+4	to	to	PART	TO	_	5	mark	_	start_char=318|end_char=320
+5	disagree	disagree	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=321|end_char=329
+6	,	,	PUNCT	,	_	8	punct	_	start_char=329|end_char=330
+7	but	but	CCONJ	CC	_	8	cc	_	start_char=331|end_char=334
+8	saying	say	VERB	VBG	VerbForm=Ger	3	conj	_	start_char=335|end_char=341
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=342|end_char=346
+10	Nami	Nami	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=347|end_char=351
+11	as	as	ADP	IN	_	13	case	_	start_char=352|end_char=354
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=355|end_char=356
+13	character	character	NOUN	NN	Number=Sing	10	nmod	_	start_char=357|end_char=366
+14	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=367|end_char=370
+15	no	no	DET	DT	_	17	det	_	start_char=371|end_char=373
+16	defining	define	VERB	VBG	VerbForm=Ger	17	amod	_	start_char=374|end_char=382
+17	moments	moment	NOUN	NNS	Number=Plur	14	obj	_	start_char=383|end_char=390
+18	or	or	CCONJ	CC	_	19	cc	_	start_char=391|end_char=393
+19	storylines	storyline	NOUN	NNS	Number=Plur	17	conj	_	start_char=394|end_char=404
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=405|end_char=407
+21	just	just	ADV	RB	_	22	advmod	_	start_char=408|end_char=412
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=413|end_char=421
+23	and	and	CCONJ	CC	_	25	cc	_	start_char=422|end_char=425
+24	blatantly	blatantly	ADV	RB	_	25	advmod	_	start_char=426|end_char=435
+25	wrong	wrong	ADJ	JJ	Degree=Pos	22	conj	_	start_char=436|end_char=441
+26	.	.	PUNCT	.	_	3	punct	_	start_char=441|end_char=442
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=443|end_char=447
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=447|end_char=449
+3	what	what	PRON	WP	PronType=Int	0	root	_	start_char=450|end_char=454
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=455|end_char=456
+5	pointed	point	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=457|end_char=464
+6	out	out	ADP	RP	_	5	compound:prt	_	start_char=465|end_char=468
+7	.	.	PUNCT	.	_	3	punct	_	start_char=468|end_char=469
+

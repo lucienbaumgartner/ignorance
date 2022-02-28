@@ -1,0 +1,24 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj:pass	_	start_char=0|end_char=4
+2	as	as	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=8|end_char=9
+4	Christian	Christian	PROPN	NNP	Number=Sing	1	nmod	_	start_char=10|end_char=19
+5	,	,	PUNCT	,	_	9	punct	_	start_char=19|end_char=20
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj:pass	_	start_char=21|end_char=22
+7	too	too	ADV	RB	_	8	advmod	_	start_char=23|end_char=26
+8	get	get	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=27|end_char=30
+9	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=31|end_char=34
+10	up	up	ADP	RP	_	9	compound:prt	_	start_char=35|end_char=37
+11	with	with	ADP	IN	_	12	case	_	start_char=38|end_char=42
+12	Christians	Christian	PROPN	NNPS	Number=Plur	9	obl	_	start_char=43|end_char=53
+13	who	who	PRON	WP	PronType=Rel	15	nsubj	_	start_char=54|end_char=57
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=58|end_char=61
+15	bigots	bigot	NOUN	NNS	Number=Plur	12	acl:relcl	_	start_char=62|end_char=68
+16	,	,	PUNCT	,	_	17	punct	_	start_char=68|end_char=69
+17	intolerant	intolerant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=70|end_char=80
+18	,	,	PUNCT	,	_	19	punct	_	start_char=80|end_char=81
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=82|end_char=90
+20	,	,	PUNCT	,	_	22	punct	_	start_char=90|end_char=91
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=92|end_char=95
+22	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	15	conj	_	start_char=96|end_char=109
+23	.	.	PUNCT	.	_	9	punct	_	start_char=109|end_char=110
+

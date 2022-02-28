@@ -1,0 +1,40 @@
+1	tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=5|end_char=7
+3	where	where	SCONJ	WRB	PronType=Int	5	mark	_	start_char=8|end_char=13
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=14|end_char=15
+5	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	ccomp	_	start_char=16|end_char=21
+6	to	to	PART	TO	_	7	mark	_	start_char=22|end_char=24
+7	force	force	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=25|end_char=30
+8	anyone	anyone	PRON	NN	Number=Sing	7	obj	_	start_char=31|end_char=37
+9	to	to	PART	TO	_	10	mark	_	start_char=38|end_char=40
+10	do	do	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=41|end_char=43
+11	anything	anything	PRON	NN	Number=Sing	10	obj	_	start_char=44|end_char=52
+12	?	?	PUNCT	.	_	1	punct	_	start_char=52|end_char=53
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=54|end_char=55
+2	simply	simply	ADV	RB	_	3	advmod	_	start_char=56|end_char=62
+3	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=63|end_char=69
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=70|end_char=73
+5	something	something	PRON	NN	Number=Sing	3	obj	_	start_char=74|end_char=83
+6	racist	racist	ADJ	JJ	Degree=Pos	5	amod	_	start_char=84|end_char=90
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=91|end_char=94
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=95|end_char=103
+9	that	that	PRON	WDT	PronType=Rel	11	nsubj:pass	_	start_char=104|end_char=108
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	start_char=109|end_char=112
+11	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	start_char=113|end_char=117
+12	from	from	ADP	IN	_	14	case	_	start_char=118|end_char=122
+13	another	another	DET	DT	_	14	det	_	start_char=123|end_char=130
+14	user	user	NOUN	NN	Number=Sing	11	obl	_	start_char=131|end_char=135
+15	.	.	PUNCT	.	_	3	punct	_	start_char=135|end_char=136
+
+1	nobody	nobody	PRON	NN	Number=Sing	4	nsubj	_	start_char=137|end_char=143
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=144|end_char=146
+3	tryna	tryna	PART	TO	_	4	advmod	_	start_char=147|end_char=152
+4	force	force	VERB	VB	VerbForm=Inf	0	root	_	start_char=153|end_char=158
+5	anyone	anyone	PRON	NN	Number=Sing	4	obj	_	start_char=159|end_char=165
+6	to	to	PART	TO	_	7	mark	_	start_char=166|end_char=168
+7	do	do	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=169|end_char=171
+8	anything	anything	PRON	NN	Number=Sing	7	obj	_	start_char=172|end_char=180
+9	lmao	lmao	ADJ	JJ	Degree=Pos	8	amod	_	start_char=181|end_char=185
+10	.	.	PUNCT	.	_	4	punct	_	start_char=185|end_char=186
+

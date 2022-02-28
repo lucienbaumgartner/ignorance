@@ -1,0 +1,21 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=0|end_char=4
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=11
+3	like	like	ADP	IN	_	6	case	_	start_char=12|end_char=16
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=19
+5	ideal	ideal	ADJ	JJ	Degree=Pos	6	amod	_	start_char=20|end_char=25
+6	set	set	NOUN	NN	Number=Sing	2	obl	_	start_char=26|end_char=29
+7	up	up	ADP	RP	_	2	advmod	_	start_char=30|end_char=32
+8	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+
+1	American	American	ADJ	JJ	Degree=Pos	2	amod	_	start_char=35|end_char=43
+2	men	man	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=44|end_char=47
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=48|end_char=51
+4	definitely	definitely	ADV	RB	_	6	advmod	_	start_char=52|end_char=62
+5	more	more	ADV	RBR	_	6	advmod	_	start_char=63|end_char=67
+6	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=68|end_char=76
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=77|end_char=80
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=81|end_char=88
+9	of	of	ADP	IN	_	11	case	_	start_char=89|end_char=91
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=92|end_char=97
+11	BO.	BO.	PROPN	NNP	Number=Sing	8	obl	_	start_char=98|end_char=101
+

@@ -1,0 +1,13 @@
+1	Right	right	ADV	RB	_	0	root	_	start_char=0|end_char=5
+2	?	?	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	Like	like	ADP	IN	_	2	case	_	start_char=7|end_char=11
+2	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=12|end_char=15
+3	tf	tf	PRON	EX	_	5	nsubj	_	start_char=16|end_char=18
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=19|end_char=22
+5	people	people	NOUN	NNS	Number=Plur	2	acl:relcl	_	start_char=23|end_char=29
+6	so	so	ADV	RB	_	7	advmod	_	start_char=30|end_char=32
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=33|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	rude	rude	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=50
+

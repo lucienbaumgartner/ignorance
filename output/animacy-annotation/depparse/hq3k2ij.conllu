@@ -1,0 +1,13 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=8|end_char=9
+4	wildly	wildly	ADV	RB	_	5	advmod	_	start_char=10|end_char=16
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=17|end_char=25
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=26|end_char=29
+7	inaccurate	inaccurate	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=40
+8	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=41|end_char=46
+9	to	to	PART	TO	_	10	mark	_	start_char=47|end_char=49
+10	say	say	VERB	VB	VerbForm=Inf	8	acl	_	start_char=50|end_char=53
+11	lol	lol	INTJ	UH	_	8	discourse	_	start_char=54|end_char=57
+12	.	.	PUNCT	.	_	8	punct	_	start_char=57|end_char=58
+

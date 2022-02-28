@@ -1,0 +1,64 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=2|end_char=5
+3	educating	educate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=6|end_char=15
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=16|end_char=19
+5	on	on	ADP	IN	_	6	case	_	start_char=20|end_char=22
+6	why	why	SCONJ	WRB	PronType=Int	14	mark	_	start_char=23|end_char=26
+7	"	"	PUNCT	``	_	14	punct	_	start_char=27|end_char=28
+8	so	so	ADV	RB	_	9	advmod	_	start_char=28|end_char=30
+9	many	many	ADJ	JJ	Degree=Pos	10	amod	_	start_char=31|end_char=35
+10	people	people	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=36|end_char=42
+11	nowadays	nowadays	ADV	RB	_	10	advmod	_	start_char=43|end_char=51
+12	"	"	PUNCT	''	_	10	punct	_	start_char=51|end_char=52
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=53|end_char=56
+14	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	_	start_char=57|end_char=63
+15	cracking	crack	VERB	VBG	Tense=Pres|VerbForm=Part	14	xcomp	_	start_char=64|end_char=72
+16	issues	issue	NOUN	NNS	Number=Plur	15	obj	_	start_char=73|end_char=79
+17	with	with	ADP	IN	_	19	case	_	start_char=80|end_char=84
+18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=85|end_char=90
+19	folds	fold	NOUN	NNS	Number=Plur	16	nmod	_	start_char=91|end_char=96
+20	.	.	PUNCT	.	_	3	punct	_	start_char=96|end_char=97
+
+1	Clearly	clearly	ADV	RB	_	5	advmod	_	start_char=98|end_char=105
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=106|end_char=109
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=110|end_char=113
+4	n't	not	PART	RB	_	5	advmod	_	start_char=113|end_char=116
+5	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=117|end_char=121
+6	only	only	ADV	RB	_	7	advmod	_	start_char=122|end_char=126
+7	OP	OP	PROPN	NNP	Number=Sing	5	obj	_	start_char=127|end_char=129
+8	.	.	PUNCT	.	_	5	punct	_	start_char=129|end_char=130
+
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=131|end_char=134
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=135|end_char=137
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=138|end_char=142
+4	confusing	confusing	ADJ	JJ	Degree=Pos	0	root	_	start_char=143|end_char=152
+5	to	to	ADP	IN	_	6	case	_	start_char=153|end_char=155
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=156|end_char=159
+7	?	?	PUNCT	.	_	4	punct	_	start_char=159|end_char=160
+
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=163|end_char=168
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=169|end_char=172
+3	just	just	ADV	RB	_	4	advmod	_	start_char=173|end_char=177
+4	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=178|end_char=184
+5	to	to	PART	TO	_	6	mark	_	start_char=185|end_char=187
+6	stay	stay	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=188|end_char=192
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=193|end_char=201
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=202|end_char=205
+9	loud	loud	ADJ	JJ	Degree=Pos	7	conj	_	start_char=206|end_char=210
+10	.	.	PUNCT	.	_	4	punct	_	start_char=210|end_char=211
+
+1	Either	either	DET	DT	_	2	det	_	start_char=212|end_char=218
+2	way	way	NOUN	NN	Number=Sing	4	nsubj	_	start_char=219|end_char=222
+3	no	no	DET	DT	_	4	det	_	start_char=223|end_char=225
+4	need	need	NOUN	NN	Number=Sing	0	root	_	start_char=226|end_char=230
+5	to	to	PART	TO	_	8	mark	_	start_char=231|end_char=233
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=234|end_char=236
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=237|end_char=239
+8	asshole	asshole	NOUN	NN	Number=Sing	4	acl	_	start_char=240|end_char=247
+9	on	on	ADP	IN	_	13	case	_	start_char=248|end_char=250
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=251|end_char=252
+11	phone	phone	NOUN	NN	Number=Sing	13	compound	_	start_char=253|end_char=258
+12	sub	sub	NOUN	NN	Number=Sing	13	compound	_	start_char=259|end_char=262
+13	reddit	reddit	NOUN	NN	Number=Sing	8	nmod	_	start_char=263|end_char=269
+14	.	.	PUNCT	.	_	4	punct	_	start_char=269|end_char=270
+

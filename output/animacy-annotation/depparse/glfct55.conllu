@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	honestly	honestly	ADV	RB	_	3	advmod	_	start_char=2|end_char=10
+3	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	like	like	ADP	IN	_	10	mark	_	start_char=16|end_char=20
+5	half	half	DET	PDT	_	7	det:predet	_	start_char=21|end_char=25
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=26|end_char=30
+7	sub	sub	NOUN	NN	Number=Sing	10	nsubj	_	start_char=31|end_char=34
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=35|end_char=37
+9	obviously	obviously	ADV	RB	_	10	advmod	_	start_char=38|end_char=47
+10	satire	satire	NOUN	NN	Number=Sing	3	advcl	_	start_char=48|end_char=54
+11	and	and	CCONJ	CC	_	16	cc	_	start_char=55|end_char=58
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=59|end_char=62
+13	other	other	ADJ	JJ	Degree=Pos	14	amod	_	start_char=63|end_char=68
+14	half	half	NOUN	NN	Number=Sing	16	nsubj	_	start_char=69|end_char=73
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=74|end_char=76
+16	unironic	unironic	ADJ	JJ	Degree=Pos	3	conj	_	start_char=77|end_char=85
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=86|end_char=89
+18	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=90|end_char=97
+19	that	that	SCONJ	IN	_	23	mark	_	start_char=98|end_char=102
+20	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=103|end_char=106
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=107|end_char=108
+22	satire	satire	NOUN	NN	Number=Sing	23	compound	_	start_char=109|end_char=115
+23	sub	sub	NOUN	NN	Number=Sing	18	ccomp	_	start_char=116|end_char=119
+24	.	.	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

@@ -1,0 +1,25 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5|end_char=7
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=9
+4	almost	almost	ADV	RB	_	8	advmod	_	start_char=10|end_char=16
+5	like	like	SCONJ	IN	_	8	mark	_	start_char=17|end_char=21
+6	Pallad	Pallad	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=22|end_char=28
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=29|end_char=32
+8	panicked	panicked	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=33|end_char=41
+9	,	,	PUNCT	,	_	10	punct	_	start_char=41|end_char=42
+10	delirious	delirious	ADJ	JJ	Degree=Pos	8	conj	_	start_char=43|end_char=52
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=53|end_char=56
+12	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=57|end_char=64
+13	of	of	ADP	IN	_	14	case	_	start_char=65|end_char=67
+14	anything	anything	PRON	NN	Number=Sing	12	obl	_	start_char=68|end_char=76
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=77|end_char=79
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	start_char=80|end_char=83
+17	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	14	acl:relcl	_	start_char=84|end_char=89
+18	.	.	PUNCT	.	_	3	punct	_	start_char=89|end_char=90
+
+1	Strange	strange	ADJ	JJ	Degree=Pos	0	root	_	start_char=91|end_char=98
+2	.	.	PUNCT	.	_	1	punct	_	start_char=98|end_char=99
+
+1	/	/	PUNCT	,	_	0	root	_	start_char=101|end_char=102
+2	s	's	PART	POS	_	1	case	_	start_char=102|end_char=103
+

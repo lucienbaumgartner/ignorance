@@ -1,0 +1,67 @@
+1	lol	lol	INTJ	UH	_	8	discourse	_	start_char=0|end_char=3
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=4|end_char=8
+3	title	title	NOUN	NN	Number=Sing	8	nsubj	_	start_char=9|end_char=14
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=15|end_char=18
+5	idea	idea	NOUN	NN	Number=Sing	3	conj	_	start_char=19|end_char=23
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=24|end_char=26
+7	so	so	ADV	RB	_	8	advmod	_	start_char=27|end_char=29
+8	retarded	retarded	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=38
+9	,	,	PUNCT	,	_	10	punct	_	start_char=38|end_char=39
+10	naive	naive	ADJ	JJ	Degree=Pos	8	conj	_	start_char=40|end_char=45
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=46|end_char=49
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=50|end_char=58
+13	,	,	PUNCT	,	_	16	punct	_	start_char=58|end_char=59
+14	that	that	SCONJ	IN	_	16	mark	_	start_char=60|end_char=64
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=65|end_char=66
+16	suspect	suspect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	parataxis	_	start_char=67|end_char=74
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=75|end_char=76
+18	small	small	ADJ	JJ	Degree=Pos	19	amod	_	start_char=77|end_char=82
+19	percentage	percentage	NOUN	NN	Number=Sing	30	nsubj	_	start_char=83|end_char=93
+20	of	of	ADP	IN	_	24	case	_	start_char=94|end_char=96
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=97|end_char=100
+22	far-right	far-right	NOUN	NN	Number=Sing	24	nmod:poss	_	start_char=101|end_char=110
+23	's	's	PART	POS	_	22	case	_	start_char=110|end_char=112
+24	complaints	complaint	NOUN	NNS	Number=Plur	19	nmod	_	start_char=113|end_char=123
+25	about	about	ADP	IN	_	28	case	_	start_char=124|end_char=129
+26	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	start_char=130|end_char=133
+27	far	far	ADJ	JJ	Degree=Pos	28	amod	_	start_char=134|end_char=137
+28	left	left	NOUN	NN	Number=Sing	24	nmod	_	start_char=138|end_char=142
+29	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	30	cop	_	start_char=143|end_char=146
+30	true	true	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=147|end_char=151
+31	.	.	PUNCT	.	_	8	punct	_	start_char=151|end_char=152
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	compound	_	start_char=153|end_char=156
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=157|end_char=163
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=164|end_char=167
+4	mentally	mentally	ADV	RB	_	5	advmod	_	start_char=168|end_char=176
+5	handicapped	handicapped	ADJ	JJ	Degree=Pos	0	root	_	start_char=177|end_char=188
+6	.	.	PUNCT	.	_	5	punct	_	start_char=188|end_char=189
+
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=190|end_char=193
+2	***	***	PUNCT	NFP	_	1	punct	_	start_char=194|end_char=197
+3	CANNOT	cannot	AUX	MD	VerbForm=Fin	5	aux	_	start_char=197|end_char=203
+4	***	***	PUNCT	NFP	_	3	punct	_	start_char=203|end_char=206
+5	INDICT	indict	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=207|end_char=213
+6	A	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=214|end_char=215
+7	SITTING	sitting	NOUN	NN	Number=Sing	8	compound	_	start_char=216|end_char=223
+8	POTUS	potus	NOUN	NN	Number=Sing	5	obj	_	start_char=224|end_char=229
+9	.	.	PUNCT	.	_	5	punct	_	start_char=229|end_char=230
+
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=231|end_char=234
+2	IMPEACH	impeach	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=235|end_char=242
+3	THEM	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=243|end_char=247
+4	.	.	PUNCT	.	_	2	punct	_	start_char=247|end_char=248
+
+1	THAT	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=249|end_char=253
+2	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=254|end_char=256
+3	WHAT	what	DET	WDT	PronType=Int	0	root	_	start_char=257|end_char=261
+4	IMPEACHMENT	impeachment	NOUN	NN	Number=Sing	5	nsubj	_	start_char=262|end_char=273
+5	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=274|end_char=276
+6	FOR	for	ADP	IN	_	3	case	_	start_char=277|end_char=280
+7	.	.	PUNCT	.	_	3	punct	_	start_char=280|end_char=281
+
+1	FUCKING	fucking	VERB	VBG	VerbForm=Ger	2	discourse	_	start_char=282|end_char=289
+2	EDUCATE	educate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=290|end_char=297
+3	YOURSELVES	yourselve	NOUN	NNS	Number=Plur	2	obj	_	start_char=298|end_char=308
+4	FFS	ffs	X	ADD	_	2	discourse	_	start_char=309|end_char=312
+

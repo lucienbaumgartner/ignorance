@@ -1,0 +1,19 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	arguments	argument	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=5|end_char=14
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=15|end_char=18
+4	so	so	ADV	RB	_	5	advmod	_	start_char=19|end_char=21
+5	superficial	superficial	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=33
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=34|end_char=37
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=38|end_char=46
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=47|end_char=51
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=52|end_char=54
+10	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=55|end_char=60
+11	make	make	VERB	VB	VerbForm=Inf	7	ccomp	_	start_char=61|end_char=65
+12	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	11	obj	_	start_char=66|end_char=68
+13	all	all	ADV	RB	_	14	advmod	_	start_char=69|end_char=72
+14	dumber	dumb	ADJ	JJR	Degree=Cmp	11	xcomp	_	start_char=73|end_char=79
+15	to	to	PART	TO	_	16	mark	_	start_char=80|end_char=82
+16	respond	respond	VERB	VB	VerbForm=Inf	14	advcl	_	start_char=83|end_char=90
+17	substantively	substantively	ADV	RB	_	16	advmod	_	start_char=91|end_char=104
+18	.	.	PUNCT	.	_	5	punct	_	start_char=104|end_char=105
+

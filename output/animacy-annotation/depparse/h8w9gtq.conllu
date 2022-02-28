@@ -1,0 +1,14 @@
+1	Or	or	CCONJ	CC	_	3	cc	_	start_char=0|end_char=2
+2	definitely	definitely	ADV	RB	_	3	advmod	_	start_char=3|end_char=13
+3	American	American	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=22
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=23|end_char=26
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=27|end_char=34
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=35|end_char=39
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=40|end_char=44
+8	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=45|end_char=48
+9	air	air	NOUN	NN	Number=Sing	10	compound	_	start_char=49|end_char=52
+10	pistols	pistol	NOUN	NNS	Number=Plur	8	obj	_	start_char=53|end_char=60
+11	in	in	ADP	IN	_	13	case	_	start_char=61|end_char=63
+12	Olympic	Olympic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=64|end_char=71
+13	shooting	shooting	NOUN	NN	Number=Sing	8	obl	_	start_char=72|end_char=80
+

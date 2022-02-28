@@ -1,0 +1,97 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=8|end_char=11
+4	most	most	ADV	RBS	_	5	advmod	_	start_char=12|end_char=16
+5	asinine	asinine	ADJ	JJ	Degree=Pos	9	amod	_	start_char=17|end_char=24
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=25|end_char=28
+7	intellectually	intellectually	ADV	RB	_	8	advmod	_	start_char=29|end_char=43
+8	lazy	lazy	ADJ	JJ	Degree=Pos	5	conj	_	start_char=44|end_char=48
+9	response	response	NOUN	NN	Number=Sing	0	root	_	start_char=49|end_char=57
+10	on	on	ADP	IN	_	11	case	_	start_char=58|end_char=60
+11	Reddit	Reddit	PROPN	NNP	Number=Sing	9	nmod	_	start_char=61|end_char=67
+12	today	today	NOUN	NN	Number=Sing	9	obl:tmod	_	start_char=68|end_char=73
+13	.	.	PUNCT	.	_	9	punct	_	start_char=73|end_char=74
+
+1	Texas	Texas	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=78|end_char=83
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=84|end_char=86
+3	NOTHING	nothing	PRON	NN	Number=Sing	0	root	_	start_char=87|end_char=94
+4	like	like	ADP	IN	_	5	case	_	start_char=95|end_char=99
+5	Saudi	Saudi	ADJ	NNP	Degree=Pos	3	nmod	_	start_char=100|end_char=105
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=106|end_char=108
+7	Iran	Iran	PROPN	NNP	Number=Sing	5	conj	_	start_char=109|end_char=113
+8	.	.	PUNCT	.	_	3	punct	_	start_char=113|end_char=114
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=116|end_char=118
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=119|end_char=122
+3	religious	religious	ADJ	JJ	Degree=Pos	4	amod	_	start_char=123|end_char=132
+4	wackos	wacko	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=133|end_char=139
+5	in	in	ADP	IN	_	8	case	_	start_char=140|end_char=142
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=143|end_char=146
+7	state	state	NOUN	NN	Number=Sing	8	compound	_	start_char=147|end_char=152
+8	legislature	legislature	NOUN	NN	Number=Sing	4	nmod	_	start_char=153|end_char=164
+9	deserve	deserve	VERB	VB	VerbForm=Inf	0	root	_	start_char=165|end_char=172
+10	scorn	scorn	NOUN	NN	Number=Sing	9	obj	_	start_char=173|end_char=178
+11	for	for	ADP	IN	_	20	case	_	start_char=179|end_char=182
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=183|end_char=188
+13	recent	recent	ADJ	JJ	Degree=Pos	20	amod	_	start_char=189|end_char=195
+14	idiotic	idiotic	ADJ	JJ	Degree=Pos	20	amod	_	start_char=196|end_char=203
+15	(	(	PUNCT	-LRB-	_	20	punct	_	start_char=204|end_char=205
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=205|end_char=208
+17	unconstitutional	unconstitutional	ADJ	JJ	Degree=Pos	14	conj	_	start_char=209|end_char=225
+18	)	)	PUNCT	-RRB-	_	17	punct	_	start_char=225|end_char=226
+19	anti-abortion	anti-abortion	ADJ	JJ	Degree=Pos	20	amod	_	start_char=227|end_char=240
+20	law	law	NOUN	NN	Number=Sing	9	obl	_	start_char=241|end_char=244
+21	?	?	PUNCT	.	_	9	punct	_	start_char=244|end_char=245
+
+1	Hell	Hell	PROPN	NNP	Number=Sing	0	root	_	start_char=247|end_char=251
+2	yes	yes	INTJ	UH	_	1	discourse	_	start_char=252|end_char=255
+3	.	.	PUNCT	.	_	1	punct	_	start_char=255|end_char=256
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=260|end_char=264
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=265|end_char=268
+3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	_	start_char=269|end_char=275
+4	state	state	NOUN	NN	Number=Sing	11	nsubj	_	start_char=276|end_char=281
+5	,	,	PUNCT	,	_	4	punct	_	start_char=281|end_char=282
+6	which	which	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=283|end_char=288
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=289|end_char=291
+8	extremely	extremely	ADV	RB	_	9	advmod	_	start_char=292|end_char=301
+9	diverse	diverse	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=302|end_char=309
+10	,	,	PUNCT	,	_	11	punct	_	start_char=309|end_char=310
+11	deserve	deserve	VERB	VB	VerbForm=Fin	0	root	_	start_char=311|end_char=318
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=319|end_char=320
+13	blanket	blanket	NOUN	NN	Number=Sing	14	compound	_	start_char=321|end_char=328
+14	condemnation	condemnation	NOUN	NN	Number=Sing	11	obj	_	start_char=329|end_char=341
+15	?	?	PUNCT	.	_	11	punct	_	start_char=341|end_char=342
+
+1	Hell	Hell	PROPN	NNP	Number=Sing	0	root	_	start_char=344|end_char=348
+2	no	no	INTJ	UH	Polarity=Neg	1	discourse	_	start_char=349|end_char=351
+3	.	.	PUNCT	.	_	1	punct	_	start_char=351|end_char=352
+
+1	Quit	quit	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=354|end_char=358
+2	with	with	ADP	IN	_	6	case	_	start_char=359|end_char=363
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=364|end_char=367
+4	fake	fake	ADJ	JJ	Degree=Pos	6	amod	_	start_char=368|end_char=372
+5	moral	moral	ADJ	JJ	Degree=Pos	6	amod	_	start_char=373|end_char=378
+6	equivalency	equivalency	NOUN	NN	Number=Sing	1	obl	_	start_char=379|end_char=390
+7	.	.	PUNCT	.	_	1	punct	_	start_char=390|end_char=391
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=393|end_char=395
+2	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=396|end_char=400
+3	nothing	nothing	PRON	NN	Number=Sing	2	obj	_	start_char=401|end_char=408
+4	but	but	CCONJ	CC	_	5	cc	_	start_char=409|end_char=412
+5	make	make	VERB	VB	VerbForm=Inf	2	conj	_	start_char=413|end_char=417
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	_	start_char=418|end_char=421
+7	look	look	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=422|end_char=426
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=427|end_char=435
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=436|end_char=439
+10	foolish	foolish	ADJ	JJ	Degree=Pos	8	conj	_	start_char=440|end_char=447
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=448|end_char=451
+12	less	less	ADV	RBR	Degree=Cmp	14	advmod	_	start_char=452|end_char=456
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=457|end_char=460
+14	outrage	outrage	NOUN	NN	Number=Sing	8	conj	_	start_char=461|end_char=468
+15	for	for	ADP	IN	_	18	case	_	start_char=469|end_char=472
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=473|end_char=476
+17	truly	truly	ADV	RB	_	18	advmod	_	start_char=477|end_char=482
+18	horrible	horrible	ADJ	JJ	Degree=Pos	14	nmod	_	start_char=483|end_char=491
+19	.	.	PUNCT	.	_	2	punct	_	start_char=491|end_char=492
+

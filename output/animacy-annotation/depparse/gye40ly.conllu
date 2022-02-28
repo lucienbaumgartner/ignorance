@@ -1,0 +1,23 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=0|end_char=2
+2	n't	not	PART	RB	_	4	advmod	_	start_char=2|end_char=5
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=6|end_char=8
+4	ironic	ironic	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=15
+5	that	that	SCONJ	IN	_	19	mark	_	start_char=16|end_char=20
+6	many	many	ADJ	JJ	Degree=Pos	19	nsubj	_	start_char=21|end_char=25
+7	of	of	ADP	IN	_	9	case	_	start_char=26|end_char=28
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=29|end_char=32
+9	posts	post	NOUN	NNS	Number=Plur	6	nmod	_	start_char=33|end_char=38
+10	calling	call	VERB	VBG	VerbForm=Ger	9	acl	_	start_char=39|end_char=46
+11	Americans	American	PROPN	NNPS	Number=Plur	10	obj	_	start_char=47|end_char=56
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=57|end_char=63
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=64|end_char=67
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=68|end_char=76
+15	of	of	ADP	IN	_	17	case	_	start_char=77|end_char=79
+16	other	other	ADJ	JJ	Degree=Pos	17	amod	_	start_char=80|end_char=85
+17	cultures	culture	NOUN	NNS	Number=Plur	14	obl	_	start_char=86|end_char=94
+18	often	often	ADV	RB	_	19	advmod	_	start_char=95|end_char=100
+19	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	csubj	_	start_char=101|end_char=105
+20	bad	bad	ADJ	JJ	Degree=Pos	21	amod	_	start_char=106|end_char=109
+21	spelling	spelling	NOUN	NN	Number=Sing	19	obj	_	start_char=110|end_char=118
+22	?	?	PUNCT	.	_	4	punct	_	start_char=118|end_char=119
+

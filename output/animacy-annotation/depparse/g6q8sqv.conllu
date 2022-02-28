@@ -1,0 +1,52 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	insecure	insecure	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=39|end_char=43
+8	all	all	DET	DT	_	12	nsubj	_	start_char=44|end_char=47
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=48|end_char=51
+10	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=52|end_char=56
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=57|end_char=59
+12	insults	insult	NOUN	NNS	Number=Plur	1	advcl	_	start_char=60|end_char=67
+13	.	.	PUNCT	.	_	1	punct	_	start_char=67|end_char=68
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=69|end_char=70
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=70|end_char=72
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=73|end_char=78
+4	,	,	PUNCT	,	_	19	punct	_	start_char=78|end_char=79
+5	but	but	CCONJ	CC	_	19	cc	_	start_char=80|end_char=83
+6	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=84|end_char=88
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=89|end_char=92
+8	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=93|end_char=96
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=97|end_char=105
+10	have	have	VERB	VB	VerbForm=Inf	19	advcl	_	start_char=106|end_char=110
+11	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=111|end_char=112
+12	mature	mature	ADJ	JJ	Degree=Pos	15	amod	_	start_char=113|end_char=119
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=120|end_char=123
+14	intelligent	intelligent	ADJ	JJ	Degree=Pos	12	conj	_	start_char=124|end_char=135
+15	conversation	conversation	NOUN	NN	Number=Sing	10	obj	_	start_char=136|end_char=148
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=149|end_char=150
+17	’ll	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=150|end_char=153
+18	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=154|end_char=156
+19	willing	willing	ADJ	JJ	Degree=Pos	3	conj	_	start_char=157|end_char=164
+20	to	to	PART	TO	_	21	mark	_	start_char=165|end_char=167
+21	listen	listen	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=168|end_char=174
+22	.	.	PUNCT	.	_	3	punct	_	start_char=174|end_char=175
+
+1	Until	until	ADP	IN	_	2	case	_	start_char=177|end_char=182
+2	then	then	ADV	RB	PronType=Dem	6	obl	_	start_char=183|end_char=187
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=188|end_char=189
+4	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=189|end_char=191
+5	just	just	ADV	RB	_	6	advmod	_	start_char=192|end_char=196
+6	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=197|end_char=202
+7	to	to	PART	TO	_	8	mark	_	start_char=203|end_char=205
+8	laugh	laugh	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=206|end_char=211
+9	at	at	ADP	IN	_	10	case	_	start_char=212|end_char=214
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obl	_	start_char=215|end_char=218
+11	.	.	PUNCT	.	_	6	punct	_	start_char=218|end_char=219
+
+1	🤣🤣🤣	🤣🤣🤣	PROPN	NNP	Number=Sing	0	root	_	start_char=221|end_char=224
+2	🤣	''	PUNCT	.	_	1	punct	_	start_char=224|end_char=225
+

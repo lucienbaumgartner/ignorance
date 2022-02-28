@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=5
+3	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	start_char=6|end_char=13
+4	worse	bad	ADJ	JJR	Degree=Cmp	5	amod	_	start_char=14|end_char=19
+5	ways	way	NOUN	NNS	Number=Plur	3	obj	_	start_char=20|end_char=24
+6	to	to	PART	TO	_	7	mark	_	start_char=25|end_char=27
+7	go	go	VERB	VB	VerbForm=Inf	5	acl	_	start_char=28|end_char=30
+8	.	.	PUNCT	.	_	3	punct	_	start_char=30|end_char=31
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=32|end_char=34
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=35|end_char=38
+3	blissfully	blissfully	ADV	RB	_	4	advmod	_	start_char=39|end_char=49
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=57
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=58|end_char=61
+6	poof	poof	ADJ	JJ	Degree=Pos	4	conj	_	start_char=62|end_char=66
+7	,	,	PUNCT	,	_	8	punct	_	start_char=66|end_char=67
+8	lights	light	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=68|end_char=74
+9	out	out	ADP	RP	_	8	compound:prt	_	start_char=75|end_char=78
+10	.	.	PUNCT	.	_	4	punct	_	start_char=78|end_char=79
+

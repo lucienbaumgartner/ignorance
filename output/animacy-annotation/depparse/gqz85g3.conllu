@@ -1,0 +1,46 @@
+1	Hahahaha	hahahaha	INTJ	UH	_	7	discourse	_	start_char=0|end_char=8
+2	,	,	PUNCT	,	_	7	punct	_	start_char=8|end_char=9
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=10|end_char=12
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=12|end_char=14
+5	all	all	PRON	PDT	_	7	det:predet	_	start_char=15|end_char=18
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=19|end_char=20
+7	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=25
+8	of	of	ADP	IN	_	11	case	_	start_char=26|end_char=28
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=29|end_char=32
+10	social	social	ADJ	JJ	Degree=Pos	11	amod	_	start_char=33|end_char=39
+11	experience	experience	NOUN	NN	Number=Sing	7	nmod	_	start_char=40|end_char=50
+12	.	.	PUNCT	.	_	7	punct	_	start_char=50|end_char=51
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=52|end_char=54
+2	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=54|end_char=57
+3	all	all	ADV	RB	_	6	advmod	_	start_char=58|end_char=61
+4	at	at	ADP	IN	_	6	case	_	start_char=62|end_char=64
+5	different	different	ADJ	JJ	Degree=Pos	6	amod	_	start_char=65|end_char=74
+6	stages	stage	NOUN	NNS	Number=Plur	0	root	_	start_char=75|end_char=81
+7	of	of	SCONJ	IN	_	8	case	_	start_char=82|end_char=84
+8	learning	learning	NOUN	NN	Number=Sing	6	nmod	_	start_char=85|end_char=93
+9	and	and	CCONJ	CC	_	13	cc	_	start_char=94|end_char=97
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=98|end_char=100
+11	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=100|end_char=103
+12	all	all	ADV	RB	_	13	advmod	_	start_char=104|end_char=107
+13	aware	aware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=108|end_char=113
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=114|end_char=117
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=118|end_char=125
+16	of	of	ADP	IN	_	18	case	_	start_char=126|end_char=128
+17	different	different	ADJ	JJ	Degree=Pos	18	amod	_	start_char=129|end_char=138
+18	things	thing	NOUN	NNS	Number=Plur	15	obl	_	start_char=139|end_char=145
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	start_char=146|end_char=148
+20	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=149|end_char=151
+21	.	.	PUNCT	.	_	6	punct	_	start_char=151|end_char=152
+
+1	Participating	participate	VERB	VBG	VerbForm=Ger	8	csubj	_	start_char=153|end_char=166
+2	in	in	ADP	IN	_	4	case	_	start_char=167|end_char=169
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=170|end_char=173
+4	convo	convo	NOUN	NN	Number=Sing	1	obl	_	start_char=174|end_char=179
+5	*	*	PUNCT	NFP	_	1	punct	_	start_char=180|end_char=181
+6	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=181|end_char=184
+7	*	*	PUNCT	NFP	_	8	punct	_	start_char=184|end_char=185
+8	help	help	VERB	VB	VerbForm=Fin	0	root	_	start_char=186|end_char=190
+9	.	.	PUNCT	.	_	8	punct	_	start_char=190|end_char=191
+10	=]	=]	SYM	NFP	_	8	discourse	_	start_char=192|end_char=194
+

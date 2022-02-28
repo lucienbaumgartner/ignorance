@@ -1,0 +1,46 @@
+1	Just	just	ADV	RB	_	3	advmod	_	start_char=0|end_char=4
+2	wanna	wanna	AUX	MD	VerbForm=Fin	3	aux	_	start_char=5|end_char=10
+3	throw	throw	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=16
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=17|end_char=21
+5	out	out	ADP	RP	_	3	compound:prt	_	start_char=22|end_char=25
+6	there	there	ADV	RB	PronType=Dem	3	advmod	_	start_char=26|end_char=31
+7	,	,	PUNCT	,	_	3	punct	_	start_char=31|end_char=32
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	parataxis	_	start_char=33|end_char=36
+9	either	either	ADV	RB	_	3	advmod	_	start_char=37|end_char=43
+10	:	:	PUNCT	:	_	3	punct	_	start_char=43|end_char=44
+
+1	A	a	NUM	LS	_	3	nummod	_	start_char=46|end_char=47
+2	)	)	PUNCT	-RRB-	_	1	punct	_	start_char=47|end_char=48
+3	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=49|end_char=54
+4	with	with	ADP	IN	_	5	case	_	start_char=55|end_char=59
+5	data	datum	NOUN	NNS	Number=Plur	3	obl	_	start_char=60|end_char=64
+6	but	but	CCONJ	CC	_	9	cc	_	start_char=65|end_char=68
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=69|end_char=71
+8	very	very	ADV	RB	_	9	advmod	_	start_char=72|end_char=76
+9	naive	naive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=77|end_char=82
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=83|end_char=86
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=87|end_char=94
+12	of	of	ADP	IN	_	14	case	_	start_char=95|end_char=97
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=98|end_char=101
+14	importance	importance	NOUN	NN	Number=Sing	11	obl	_	start_char=102|end_char=112
+15	of	of	ADP	IN	_	17	case	_	start_char=113|end_char=115
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=116|end_char=119
+17	data	datum	NOUN	NNS	Number=Plur	14	nmod	_	start_char=120|end_char=124
+18	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=125|end_char=128
+19	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	acl:relcl	_	start_char=129|end_char=132
+
+1	or	or	CCONJ	CC	_	0	root	_	start_char=134|end_char=136
+
+1	B	b	NUM	LS	_	3	nummod	_	start_char=138|end_char=139
+2	)	)	PUNCT	-RRB-	_	1	punct	_	start_char=139|end_char=140
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=141|end_char=144
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=145|end_char=146
+5	back	back	NOUN	NN	Number=Sing	3	obj	_	start_char=147|end_char=151
+6	up	up	ADP	IN	_	9	case	_	start_char=152|end_char=154
+7	of	of	ADP	IN	_	9	case	_	start_char=155|end_char=157
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=158|end_char=162
+9	data	datum	NOUN	NNS	Number=Plur	5	nmod	_	start_char=163|end_char=167
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=168|end_char=171
+11	conversations	conversation	NOUN	NNS	Number=Plur	9	conj	_	start_char=172|end_char=185
+12	.	.	PUNCT	.	_	3	punct	_	start_char=185|end_char=186
+

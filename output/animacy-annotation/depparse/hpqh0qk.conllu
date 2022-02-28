@@ -1,0 +1,10 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=9|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=13|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	hateful	hateful	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=33
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=34|end_char=38
+8	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=39|end_char=42
+9	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+

@@ -1,0 +1,37 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=7
+3	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=15
+4	whatever	whatever	DET	WDT	PronType=Int	6	det	_	start_char=16|end_char=24
+5	crazy	crazy	ADJ	JJ	Degree=Pos	6	amod	_	start_char=25|end_char=30
+6	nonsense	nonsense	NOUN	NN	Number=Sing	8	obj	_	start_char=31|end_char=39
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=40|end_char=43
+8	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=44|end_char=48
+9	:)	:)	SYM	NFP	_	3	discourse	_	start_char=49|end_char=51
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=53|end_char=56
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=57|end_char=61
+3	OP	OP	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=62|end_char=64
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=65|end_char=68
+5	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=69|end_char=77
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=78|end_char=81
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=82|end_char=90
+8	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=92|end_char=96
+2	type	type	NOUN	NN	Number=Sing	7	nsubj	_	start_char=97|end_char=101
+3	of	of	ADP	IN	_	4	case	_	start_char=102|end_char=104
+4	content	content	NOUN	NN	Number=Sing	2	nmod	_	start_char=105|end_char=112
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=113|end_char=115
+6	not	not	PART	RB	_	7	advmod	_	start_char=116|end_char=119
+7	welcome	welcome	ADJ	JJ	Degree=Pos	0	root	_	start_char=120|end_char=127
+8	on	on	ADP	IN	_	10	case	_	start_char=128|end_char=130
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=131|end_char=135
+10	sub	sub	NOUN	NN	Number=Sing	7	obl	_	start_char=136|end_char=139
+11	.	.	PUNCT	.	_	7	punct	_	start_char=139|end_char=140
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=142|end_char=146
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=147|end_char=148
+3	great	great	ADJ	JJ	Degree=Pos	4	amod	_	start_char=149|end_char=154
+4	day	day	NOUN	NN	Number=Sing	1	obj	_	start_char=155|end_char=158
+5	.	.	PUNCT	.	_	1	punct	_	start_char=158|end_char=159
+

@@ -1,0 +1,53 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	definitely	definitely	ADV	RB	_	3	advmod	_	start_char=2|end_char=12
+3	can	can	AUX	MD	VerbForm=Fin	0	root	_	start_char=13|end_char=16
+4	...	...	PUNCT	,	_	3	punct	_	start_char=16|end_char=19
+5	there	there	PRON	EX	_	6	expl	_	start_char=20|end_char=25
+6	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=26|end_char=29
+7	many	many	ADJ	JJ	Degree=Pos	9	amod	_	start_char=30|end_char=34
+8	worse	bad	ADJ	JJR	Degree=Cmp	9	amod	_	start_char=35|end_char=40
+9	countries	country	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=41|end_char=50
+10	than	than	ADP	IN	_	11	case	_	start_char=51|end_char=55
+11	America	America	PROPN	NNP	Number=Sing	9	nmod	_	start_char=56|end_char=63
+12	.	.	PUNCT	.	_	3	punct	_	start_char=63|end_char=64
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=65|end_char=66
+2	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=66|end_char=69
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	cop	_	start_char=70|end_char=74
+4	all	all	ADV	RB	_	7	advmod	_	start_char=75|end_char=78
+5	over	over	ADP	IN	_	7	case	_	start_char=79|end_char=83
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=84|end_char=87
+7	world	world	NOUN	NN	Number=Sing	0	root	_	start_char=88|end_char=93
+8	and	and	CCONJ	CC	_	11	cc	_	start_char=94|end_char=97
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=98|end_char=99
+10	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=99|end_char=102
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	start_char=103|end_char=107
+12	how	how	SCONJ	WRB	PronType=Int	13	mark	_	start_char=108|end_char=111
+13	war-torn	war-torn	ADJ	JJ	Degree=Pos	18	amod	_	start_char=112|end_char=120
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=121|end_char=124
+15	impoverished	impoverished	ADJ	JJ	Degree=Pos	13	conj	_	start_char=125|end_char=137
+16	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	18	amod	_	start_char=138|end_char=143
+17	world	world	NOUN	NN	Number=Sing	18	compound	_	start_char=144|end_char=149
+18	countries	country	NOUN	NNS	Number=Plur	11	ccomp	_	start_char=150|end_char=159
+19	...	...	PUNCT	.	_	7	punct	_	start_char=159|end_char=162
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=164|end_char=165
+2	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=166|end_char=169
+3	very	very	ADV	RB	_	4	advmod	_	start_char=170|end_char=174
+4	clearly	clearly	ADV	RB	_	2	advmod	_	start_char=175|end_char=182
+5	.	.	PUNCT	.	_	2	punct	_	start_char=182|end_char=183
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=184|end_char=187
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=187|end_char=190
+3	just	just	ADV	RB	_	4	advmod	_	start_char=191|end_char=195
+4	privileged	privileged	ADJ	JJ	Degree=Pos	0	root	_	start_char=196|end_char=206
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=207|end_char=210
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=211|end_char=219
+7	of	of	ADP	IN	_	9	case	_	start_char=220|end_char=222
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=223|end_char=226
+9	world	world	NOUN	NN	Number=Sing	6	obl	_	start_char=227|end_char=232
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=233|end_char=236
+11	real	real	ADJ	JJ	Degree=Pos	12	amod	_	start_char=237|end_char=241
+12	struggle	struggle	NOUN	NN	Number=Sing	9	conj	_	start_char=242|end_char=250
+13	.	.	PUNCT	.	_	4	punct	_	start_char=250|end_char=251
+

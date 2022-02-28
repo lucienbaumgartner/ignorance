@@ -1,0 +1,21 @@
+1	Telling	tell	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=0|end_char=7
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=8|end_char=12
+3	way-hotter-	way-hotter-	NOUN	NN	Number=Sing	1	obj	_	start_char=13|end_char=24
+4	than	than	ADP	IN	_	6	case	_	start_char=24|end_char=28
+5	-	-	PUNCT	,	_	1	punct	_	start_char=28|end_char=29
+6	you-	you-	NOUN	NN	Number=Sing	7	nsubj	_	start_char=29|end_char=33
+7	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=33|end_char=40
+8	gf	gf	NOUN	NN	Number=Sing	10	compound	_	start_char=41|end_char=43
+9	/	/	SYM	,	_	10	cc	_	start_char=43|end_char=44
+10	bf	bf	NOUN	NN	Number=Sing	7	obj	_	start_char=44|end_char=46
+11	that	that	PRON	WDT	PronType=Rel	14	obj	_	start_char=48|end_char=52
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=53|end_char=57
+13	just	just	ADV	RB	_	14	advmod	_	start_char=58|end_char=62
+14	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=63|end_char=67
+15	something	something	PRON	NN	Number=Sing	14	obj	_	start_char=68|end_char=77
+16	truly	truly	ADV	RB	_	17	advmod	_	start_char=78|end_char=83
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	amod	_	start_char=84|end_char=92
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=93|end_char=96
+19	hurtful	hurtful	ADJ	JJ	Degree=Pos	17	conj	_	start_char=97|end_char=104
+20	.	.	PUNCT	.	_	7	punct	_	start_char=104|end_char=105
+

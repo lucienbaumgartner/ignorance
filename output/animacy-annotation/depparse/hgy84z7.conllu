@@ -1,0 +1,40 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	6	punct	_	start_char=3|end_char=4
+3	Most	most	ADJ	JJS	Degree=Sup	5	amod	_	start_char=5|end_char=9
+4	American	American	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=18
+5	workers	worker	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=19|end_char=26
+6	remain	remain	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=27|end_char=33
+7	unorganized	unorganized	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=34|end_char=45
+8	,	,	PUNCT	,	_	10	punct	_	start_char=45|end_char=46
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+10	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=58
+11	of	of	ADP	IN	_	13	case	_	start_char=59|end_char=61
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=62|end_char=67
+13	leverage	leverage	NOUN	NN	Number=Sing	10	obl	_	start_char=68|end_char=76
+14	as	as	ADP	IN	_	15	case	_	start_char=77|end_char=79
+15	workers	worker	NOUN	NNS	Number=Plur	13	nmod	_	start_char=80|end_char=87
+16	.	.	PUNCT	.	_	1	punct	_	start_char=87|end_char=88
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=90|end_char=94
+2	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=95|end_char=99
+3	at	at	ADP	IN	_	5	case	_	start_char=100|end_char=102
+4	any	any	DET	DT	_	5	det	_	start_char=103|end_char=106
+5	post	post	NOUN	NN	Number=Sing	2	obl	_	start_char=107|end_char=111
+6	where	where	SCONJ	WRB	PronType=Int	8	mark	_	start_char=112|end_char=117
+7	someone	someone	PRON	NN	Number=Sing	8	nsubj	_	start_char=118|end_char=125
+8	complains	complain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=126|end_char=135
+9	about	about	ADP	IN	_	11	case	_	start_char=136|end_char=141
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=142|end_char=147
+11	job	job	NOUN	NN	Number=Sing	8	obl	_	start_char=148|end_char=151
+12	.	.	PUNCT	.	_	2	punct	_	start_char=151|end_char=152
+
+1	Top	top	ADJ	JJ	Degree=Pos	2	compound	_	start_char=153|end_char=156
+2	voted	vote	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=157|end_char=162
+3	responses	response	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=163|end_char=172
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=173|end_char=176
+5	always	always	ADV	RB	_	7	advmod	_	start_char=177|end_char=183
+6	"	"	PUNCT	``	_	7	punct	_	start_char=184|end_char=185
+7	leave	leave	VERB	VB	VerbForm=Inf	0	root	_	start_char=185|end_char=190
+8	"	"	PUNCT	''	_	7	punct	_	start_char=190|end_char=191
+9	.	.	PUNCT	.	_	7	punct	_	start_char=191|end_char=192
+

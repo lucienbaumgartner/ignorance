@@ -1,0 +1,41 @@
+1	False	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=7|end_char=12
+2	never	never	ADV	RB	_	3	advmod	_	start_char=13|end_char=18
+3	plotted	plot	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=19|end_char=26
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=27|end_char=28
+5	coup	coup	NOUN	NN	Number=Sing	3	obj	_	start_char=29|end_char=33
+6	.	.	PUNCT	.	_	3	punct	_	start_char=33|end_char=34
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=35|end_char=39
+2	lies	lie	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=40|end_char=44
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=45|end_char=48
+4	conspiracy	conspiracy	NOUN	NN	Number=Sing	5	compound	_	start_char=49|end_char=59
+5	theories	theory	NOUN	NNS	Number=Plur	2	conj	_	start_char=60|end_char=68
+6	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=69|end_char=74
+7	just	just	ADV	RB	_	9	advmod	_	start_char=75|end_char=79
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=80|end_char=83
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=84|end_char=92
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=93|end_char=96
+11	insane	insane	ADJ	JJ	Degree=Pos	9	conj	_	start_char=97|end_char=103
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=104|end_char=107
+13	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=108|end_char=111
+14	.	.	PUNCT	.	_	6	punct	_	start_char=111|end_char=112
+
+1	TDS	tds	NOUN	NN	Number=Sing	2	nsubj	_	start_char=113|end_char=116
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=117|end_char=122
+3	to	to	PART	TO	_	4	mark	_	start_char=123|end_char=125
+4	affect	affect	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=126|end_char=132
+5	stupid	stupid	ADJ	JJ	Degree=Pos	6	amod	_	start_char=133|end_char=139
+6	people	people	NOUN	NNS	Number=Plur	4	obj	_	start_char=140|end_char=146
+7	,	,	PUNCT	,	_	10	punct	_	start_char=146|end_char=147
+8	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=148|end_char=150
+9	undeniable	undeniable	ADJ	JJ	Degree=Pos	10	amod	_	start_char=151|end_char=161
+10	fact	fact	NOUN	NN	Number=Sing	6	appos	_	start_char=162|end_char=166
+11	.	.	PUNCT	.	_	2	punct	_	start_char=166|end_char=167
+
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=168|end_char=170
+2	KYS	KYS	PROPN	NNP	Number=Sing	1	obj	_	start_char=171|end_char=174
+3	.	.	PUNCT	.	_	1	punct	_	start_char=174|end_char=175
+

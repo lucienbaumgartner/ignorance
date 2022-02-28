@@ -1,0 +1,42 @@
+1	Animal	Animal	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=6
+2	cruelty	cruelty	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=14
+3	.	.	PUNCT	.	_	2	punct	_	start_char=14|end_char=15
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=16|end_char=17
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=18|end_char=20
+3	n't	not	PART	RB	_	4	advmod	_	start_char=20|end_char=23
+4	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=28
+5	any	any	DET	DT	_	6	det	_	start_char=29|end_char=32
+6	cruelty	cruelty	NOUN	NN	Number=Sing	4	obj	_	start_char=33|end_char=40
+7	but	but	CCONJ	CC	_	13	cc	_	start_char=41|end_char=44
+8	for	for	ADP	IN	_	10	case	_	start_char=45|end_char=48
+9	some	some	DET	DT	_	10	det	_	start_char=49|end_char=53
+10	reason	reason	NOUN	NN	Number=Sing	13	obl	_	start_char=54|end_char=60
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=61|end_char=63
+12	really	really	ADV	RB	_	13	advmod	_	start_char=64|end_char=70
+13	upsets	upset	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=71|end_char=77
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	start_char=78|end_char=80
+15	when	when	SCONJ	WRB	PronType=Int	17	mark	_	start_char=81|end_char=85
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=86|end_char=87
+17	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=88|end_char=92
+18	stories	story	NOUN	NNS	Number=Plur	17	obj	_	start_char=93|end_char=100
+19	of	of	ADP	IN	_	20	case	_	start_char=101|end_char=103
+20	animals	animal	NOUN	NNS	Number=Plur	18	nmod	_	start_char=104|end_char=111
+21	being	be	AUX	VBG	VerbForm=Ger	22	aux:pass	_	start_char=112|end_char=117
+22	harmed	harm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	_	start_char=118|end_char=124
+23	.	.	PUNCT	.	_	4	punct	_	start_char=124|end_char=125
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=126|end_char=130
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=131|end_char=135
+3	so	so	ADV	RB	_	4	advmod	_	start_char=136|end_char=138
+4	defenceless	defenceless	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=139|end_char=150
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=151|end_char=154
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=155|end_char=162
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=163|end_char=167
+8	humans	human	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=168|end_char=174
+9	can	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=175|end_char=178
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=179|end_char=181
+11	so	so	ADV	RB	_	12	advmod	_	start_char=182|end_char=184
+12	horrible	horrible	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=185|end_char=193
+13	.	.	PUNCT	.	_	2	punct	_	start_char=193|end_char=194
+

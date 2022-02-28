@@ -1,0 +1,37 @@
+1	Nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	to	to	PART	TO	_	3	mark	_	start_char=5|end_char=7
+3	see	see	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=8|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=12|end_char=15
+5	GOP	GOP	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=16|end_char=19
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=20|end_char=24
+7	got	get	VERB	VBN	Tense=Past|VerbForm=Part	1	csubj	_	start_char=25|end_char=28
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=29|end_char=32
+9	messaging	message	NOUN	NN	Number=Sing	7	obj	_	start_char=33|end_char=42
+10	in	in	ADP	IN	_	13	mark	_	start_char=43|end_char=45
+11	order	order	NOUN	NN	Number=Sing	10	fixed	_	start_char=46|end_char=51
+12	to	to	PART	TO	_	13	mark	_	start_char=52|end_char=54
+13	try	try	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=55|end_char=58
+14	to	to	PART	TO	_	15	mark	_	start_char=59|end_char=61
+15	take	take	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=62|end_char=66
+16	advantage	advantage	NOUN	NN	Number=Sing	15	obj	_	start_char=67|end_char=76
+17	out	out	ADP	IN	_	20	case	_	start_char=77|end_char=80
+18	of	of	ADP	IN	_	20	case	_	start_char=81|end_char=83
+19	this	this	DET	DT	Number=Sing|PronType=Dem	20	det	_	start_char=84|end_char=88
+20	debacle	debacle	NOUN	NN	Number=Sing	15	obl	_	start_char=89|end_char=96
+21	.	.	PUNCT	.	_	1	punct	_	start_char=96|end_char=97
+
+1	Too	too	ADV	RB	_	2	advmod	_	start_char=98|end_char=101
+2	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=105
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=106|end_char=108
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=109|end_char=111
+5	so	so	ADV	RB	_	6	advmod	_	start_char=112|end_char=114
+6	blatant	blatant	ADJ	JJ	Degree=Pos	2	csubj	_	start_char=115|end_char=122
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=123|end_char=126
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=127|end_char=135
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=136|end_char=140
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=141|end_char=143
+11	will	will	AUX	MD	VerbForm=Fin	12	aux	_	start_char=144|end_char=148
+12	fall	fall	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=149|end_char=153
+13	flat	flat	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=154|end_char=158
+14	.	.	PUNCT	.	_	2	punct	_	start_char=158|end_char=159
+

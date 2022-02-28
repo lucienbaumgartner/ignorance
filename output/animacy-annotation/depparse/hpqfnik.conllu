@@ -1,0 +1,28 @@
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	1	expl	_	start_char=4|end_char=9
+3	more	more	ADJ	JJR	Degree=Cmp	1	nsubj	_	start_char=10|end_char=14
+4	of	of	ADP	IN	_	5	case	_	start_char=15|end_char=17
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=18|end_char=21
+6	out	out	ADP	RP	_	7	case	_	start_char=22|end_char=25
+7	there	there	ADV	RB	PronType=Dem	3	advmod	_	start_char=26|end_char=31
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=32|end_char=36
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=37|end_char=45
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=46|end_char=49
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=50|end_char=60
+12	wrong	wrong	ADJ	JJ	Degree=Pos	9	conj	_	start_char=61|end_char=66
+13	?	?	PUNCT	.	_	1	punct	_	start_char=66|end_char=67
+
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=68|end_char=72
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=73|end_char=74
+3	fucking	fucking	NOUN	NN	Number=Sing	4	compound	_	start_char=75|end_char=82
+4	book	book	NOUN	NN	Number=Sing	1	obj	_	start_char=83|end_char=87
+5	every	every	DET	DT	_	6	det	_	start_char=88|end_char=93
+6	now	now	ADV	RB	_	1	advmod	_	start_char=94|end_char=97
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=98|end_char=101
+8	then	then	ADV	RB	PronType=Dem	10	advmod	_	start_char=102|end_char=106
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=107|end_char=110
+10	pay	pay	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=111|end_char=114
+11	attention	attention	NOUN	NN	Number=Sing	10	obj	_	start_char=115|end_char=124
+12	in	in	ADP	IN	_	13	case	_	start_char=125|end_char=127
+13	school	school	NOUN	NN	Number=Sing	10	obl	_	start_char=128|end_char=134
+

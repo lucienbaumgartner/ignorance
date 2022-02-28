@@ -1,0 +1,55 @@
+1	&gt;enlightenment	&gt;enlightenment	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=17
+2	or	or	CCONJ	CC	_	3	cc	_	start_char=18|end_char=20
+3	zen	zen	NOUN	NN	Number=Sing	1	conj	_	start_char=21|end_char=24
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=25|end_char=27
+5	happiness	happiness	NOUN	NN	Number=Sing	1	conj	_	start_char=28|end_char=37
+6	(	(	PUNCT	-LRB-	_	10	punct	_	start_char=38|end_char=39
+7	or	or	CCONJ	CC	_	10	cc	_	start_char=39|end_char=41
+8	...	...	PUNCT	,	_	10	punct	_	start_char=41|end_char=44
+9	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=45|end_char=46
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=47|end_char=52
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=53|end_char=56
+12	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=57|end_char=60
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=61|end_char=63
+14	question	question	NOUN	NN	Number=Sing	12	obj	_	start_char=64|end_char=72
+15	,	,	PUNCT	,	_	17	punct	_	start_char=72|end_char=73
+16	brb	brb	NOUN	NN	Number=Sing	17	nsubj	_	start_char=74|end_char=77
+17	walking	walk	VERB	VBG	VerbForm=Ger	12	advcl	_	start_char=78|end_char=85
+18	home	home	ADV	RB	_	17	advmod	_	start_char=86|end_char=90
+19	)	)	PUNCT	-RRB-	_	10	punct	_	start_char=90|end_char=91
+
+1	Oh	oh	INTJ	UH	_	0	root	_	start_char=93|end_char=95
+2	!	!	PUNCT	.	_	1	punct	_	start_char=95|end_char=96
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=97|end_char=98
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=98|end_char=100
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=101|end_char=102
+4	cop	cop	NOUN	NN	Number=Sing	0	root	_	start_char=103|end_char=106
+5	.	.	PUNCT	.	_	4	punct	_	start_char=106|end_char=107
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=108|end_char=109
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=110|end_char=112
+3	n't	not	PART	RB	_	4	advmod	_	start_char=112|end_char=115
+4	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=116|end_char=120
+5	to	to	PART	TO	_	10	mark	_	start_char=121|end_char=123
+6	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=124|end_char=126
+7	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=127|end_char=128
+8	grumpy	grumpy	ADJ	JJ	Degree=Pos	10	amod	_	start_char=129|end_char=135
+9	dickhead	dickhead	NOUN	NN	Number=Sing	10	compound	_	start_char=136|end_char=144
+10	cop	cop	NOUN	NN	Number=Sing	4	xcomp	_	start_char=145|end_char=148
+11	,	,	PUNCT	,	_	17	punct	_	start_char=148|end_char=149
+12	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=150|end_char=151
+13	stressed	stress	VERB	VBN	Tense=Past|VerbForm=Part	17	amod	_	start_char=152|end_char=160
+14	out	out	ADP	RP	_	17	compound	_	start_char=161|end_char=164
+15	heart	heart	NOUN	NN	Number=Sing	16	compound	_	start_char=165|end_char=170
+16	attack	attack	NOUN	NN	Number=Sing	17	compound	_	start_char=171|end_char=177
+17	cop	cop	NOUN	NN	Number=Sing	10	conj	_	start_char=178|end_char=181
+18	,	,	PUNCT	,	_	24	punct	_	start_char=181|end_char=182
+19	or	or	CCONJ	CC	_	24	cc	_	start_char=183|end_char=185
+20	an	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=186|end_char=188
+21	unaware	unaware	ADJ	JJ	Degree=Pos	24	amod	_	start_char=189|end_char=196
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=197|end_char=200
+23	oblivious	oblivious	ADJ	JJ	Degree=Pos	21	conj	_	start_char=201|end_char=210
+24	cop	cop	NOUN	NN	Number=Sing	10	conj	_	start_char=211|end_char=214
+25	.	.	PUNCT	.	_	4	punct	_	start_char=214|end_char=215
+

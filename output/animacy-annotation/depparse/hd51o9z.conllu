@@ -1,0 +1,9 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	idealistic	idealistic	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=31
+6	of	of	ADP	IN	_	7	case	_	start_char=32|end_char=34
+7	reality	reality	NOUN	NN	Number=Sing	5	obl	_	start_char=35|end_char=42
+8	.	.	PUNCT	.	_	3	punct	_	start_char=42|end_char=43
+

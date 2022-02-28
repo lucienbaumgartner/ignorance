@@ -1,0 +1,74 @@
+1	Right	right	ADV	RB	_	0	root	_	start_char=0|end_char=5
+2	?!	?!	PUNCT	.	_	1	punct	_	start_char=5|end_char=7
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=8|end_char=9
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=9|end_char=11
+3	happy	happy	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=17
+4	there	there	PRON	EX	_	5	expl	_	start_char=18|end_char=23
+5	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=23|end_char=25
+6	any	any	DET	DT	_	8	det	_	start_char=26|end_char=29
+7	Asian	Asian	ADJ	JJ	Degree=Pos	8	amod	_	start_char=30|end_char=35
+8	representation	representation	NOUN	NN	Number=Sing	5	nsubj	_	start_char=36|end_char=50
+9	at	at	ADP	IN	_	10	case	_	start_char=51|end_char=53
+10	all	all	DET	DT	_	8	nmod	_	start_char=54|end_char=57
+11	.	.	PUNCT	.	_	3	punct	_	start_char=57|end_char=58
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=59|end_char=64
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=65|end_char=68
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=69|end_char=70
+4	lot	lot	NOUN	NN	Number=Sing	2	nsubj	_	start_char=71|end_char=74
+5	of	of	ADP	IN	_	6	case	_	start_char=75|end_char=77
+6	Asians	Asian	PROPN	NNPS	Number=Plur	4	nmod	_	start_char=78|end_char=84
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=85|end_char=88
+8	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=89|end_char=93
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=94|end_char=97
+10	uneducated	uneducated	ADJ	JJ	Degree=Pos	18	nsubj	_	start_char=98|end_char=108
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=109|end_char=112
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=113|end_char=121
+13	of	of	ADP	IN	_	16	case	_	start_char=122|end_char=124
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=125|end_char=128
+15	general	general	ADJ	JJ	Degree=Pos	16	amod	_	start_char=129|end_char=136
+16	population	population	NOUN	NN	Number=Sing	10	obl	_	start_char=137|end_char=147
+17	will	will	AUX	MD	VerbForm=Fin	18	aux	_	start_char=148|end_char=152
+18	think	think	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=153|end_char=158
+19	Bling	Bling	PROPN	NNP	Number=Sing	20	compound	_	start_char=159|end_char=164
+20	Empire	Empire	PROPN	NNP	Number=Sing	21	nsubj	_	start_char=165|end_char=171
+21	represents	represent	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	ccomp	_	start_char=172|end_char=182
+22	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	obj	_	start_char=183|end_char=185
+23	all	all	DET	DT	_	22	det	_	start_char=186|end_char=189
+24	.	.	PUNCT	.	_	2	punct	_	start_char=189|end_char=190
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=191|end_char=192
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=193|end_char=195
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=195|end_char=198
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=199|end_char=203
+5	.	.	PUNCT	.	_	4	punct	_	start_char=203|end_char=204
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=205|end_char=206
+2	almost	almost	ADV	RB	_	3	advmod	_	start_char=207|end_char=213
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=214|end_char=219
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=220|end_char=224
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=224|end_char=226
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=227|end_char=228
+7	reach	reach	NOUN	NN	Number=Sing	3	ccomp	_	start_char=229|end_char=234
+8	.	.	PUNCT	.	_	3	punct	_	start_char=234|end_char=235
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=236|end_char=239
+2	come	come	VERB	VB	VerbForm=Fin	0	root	_	start_char=240|end_char=244
+3	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=245|end_char=251
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=252|end_char=254
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=254|end_char=257
+6	think	think	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=258|end_char=263
+7	all	all	DET	DT	_	9	det	_	start_char=264|end_char=267
+8	white	white	ADJ	JJ	Degree=Pos	9	amod	_	start_char=268|end_char=273
+9	women	woman	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=274|end_char=279
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=280|end_char=283
+11	just	just	ADV	RB	_	15	advmod	_	start_char=284|end_char=288
+12	like	like	ADP	IN	_	15	case	_	start_char=289|end_char=293
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=294|end_char=297
+14	Real	real	ADJ	NNP	Degree=Pos	15	amod	_	start_char=298|end_char=302
+15	Housewives	Housewive	PROPN	NNPS	Number=Plur	6	ccomp	_	start_char=303|end_char=313
+16	of	of	ADP	IN	_	17	case	_	start_char=314|end_char=316
+17	NJ	NJ	PROPN	NNP	Number=Sing	15	nmod	_	start_char=317|end_char=319
+18	?	?	PUNCT	.	_	2	punct	_	start_char=319|end_char=320
+

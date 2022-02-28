@@ -1,0 +1,76 @@
+1	Swing	swing	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=5
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=6|end_char=10
+3	way	way	NOUN	NN	Number=Sing	1	obj	_	start_char=11|end_char=14
+4	?	?	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+1	Once	once	ADV	RB	NumType=Mult	2	advmod	_	start_char=17|end_char=21
+2	again	again	ADV	RB	_	4	advmod	_	start_char=22|end_char=27
+3	another	another	DET	DT	_	4	det	_	start_char=28|end_char=35
+4	slur	slur	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=40
+5	.	.	PUNCT	.	_	4	punct	_	start_char=40|end_char=41
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=43|end_char=46
+2	u	u	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=47|end_char=48
+3	really	really	ADV	RB	_	5	advmod	_	start_char=49|end_char=55
+4	that	that	SCONJ	IN	_	5	mark	_	start_char=56|end_char=60
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=68
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=69|end_char=72
+7	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=73|end_char=79
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=80|end_char=84
+9	u	u	PRON	PRP	Person=2|PronType=Prs	10	nsubj	_	start_char=85|end_char=86
+10	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=87|end_char=95
+11	to	to	PART	TO	_	12	mark	_	start_char=96|end_char=98
+12	use	use	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=99|end_char=102
+13	offensive	offensive	ADJ	JJ	Degree=Pos	14	amod	_	start_char=103|end_char=112
+14	terms	term	NOUN	NNS	Number=Plur	12	obj	_	start_char=113|end_char=118
+15	that	that	PRON	WDT	PronType=Rel	17	nsubj:pass	_	start_char=119|end_char=123
+16	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux:pass	_	start_char=124|end_char=128
+17	deemed	deem	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl:relcl	_	start_char=129|end_char=135
+18	unacceptable	unacceptable	ADJ	JJ	Degree=Pos	17	xcomp	_	start_char=136|end_char=148
+19	over	over	ADV	RB	_	20	advmod	_	start_char=149|end_char=153
+20	10	10	NUM	CD	NumType=Card	21	nummod	_	start_char=154|end_char=156
+21	years	year	NOUN	NNS	Number=Plur	22	obl:npmod	_	start_char=157|end_char=162
+22	ago	ago	ADV	RB	_	17	advmod	_	start_char=163|end_char=166
+23	?	?	PUNCT	.	_	5	punct	_	start_char=166|end_char=167
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=169|end_char=172
+2	more	more	ADJ	JJR	Degree=Cmp	10	advmod	_	start_char=173|end_char=177
+3	u	u	PRON	PRP	PronType=Prs	4	nsubj	_	start_char=178|end_char=179
+4	open	open	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=180|end_char=184
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=185|end_char=189
+6	mouth	mouth	NOUN	NN	Number=Sing	4	obj	_	start_char=190|end_char=195
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=196|end_char=199
+8	worse	bad	ADJ	JJR	Degree=Cmp	4	xcomp	_	start_char=200|end_char=205
+9	u	u	PRON	PRP	PronType=Prs	10	nsubj	_	start_char=206|end_char=207
+10	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=208|end_char=212
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=213|end_char=215
+12	for	for	ADP	IN	_	13	case	_	start_char=216|end_char=219
+13	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	10	obl	_	start_char=220|end_char=228
+14	.	.	PUNCT	.	_	10	punct	_	start_char=228|end_char=229
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=231|end_char=234
+2	making	make	VERB	VBG	VerbForm=Ger	0	root	_	start_char=235|end_char=241
+3	up	up	ADP	RP	_	2	compound:prt	_	start_char=242|end_char=244
+4	stories	story	NOUN	NNS	Number=Plur	2	obj	_	start_char=245|end_char=252
+5	about	about	ADP	IN	_	7	case	_	start_char=253|end_char=258
+6	“	''	PUNCT	``	_	7	punct	_	start_char=259|end_char=260
+7	advances	advance	NOUN	NNS	Number=Plur	4	nmod	_	start_char=260|end_char=268
+8	”	''	PUNCT	''	_	7	punct	_	start_char=268|end_char=269
+9	on	on	ADP	IN	_	10	case	_	start_char=270|end_char=272
+10	u.	u.	NOUN	NN	Number=Sing	7	nmod	_	start_char=273|end_char=275
+
+1	U	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=277|end_char=278
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=279|end_char=282
+3	pathetic	pathetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=283|end_char=291
+4	.	.	PUNCT	.	_	3	punct	_	start_char=291|end_char=292
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=294|end_char=298
+2	best	good	ADJ	JJS	Degree=Sup	3	amod	_	start_char=299|end_char=303
+3	move	move	NOUN	NN	Number=Sing	5	nsubj	_	start_char=304|end_char=308
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=309|end_char=314
+5	be	be	VERB	VB	VerbForm=Inf	0	root	_	start_char=315|end_char=317
+6	to	to	PART	TO	_	7	mark	_	start_char=318|end_char=320
+7	stop	stop	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=321|end_char=325
+8	writing	write	VERB	VBG	VerbForm=Ger	7	xcomp	_	start_char=326|end_char=333
+9	.	.	PUNCT	.	_	5	punct	_	start_char=333|end_char=334
+

@@ -1,0 +1,35 @@
+1	Nope	nope	INTJ	UH	_	9	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	9	punct	_	start_char=4|end_char=5
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=6|end_char=8
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=8|end_char=10
+5	neither	neither	ADV	RB	_	9	advmod	_	start_char=11|end_char=18
+6	,	,	PUNCT	,	_	9	punct	_	start_char=18|end_char=19
+7	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=20|end_char=22
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=22|end_char=24
+9	reality	reality	NOUN	NN	Number=Sing	0	root	_	start_char=25|end_char=32
+10	.	.	PUNCT	.	_	9	punct	_	start_char=32|end_char=33
+
+1	Like	like	ADP	IN	_	2	case	_	start_char=34|end_char=38
+2	most	most	ADJ	JJS	Degree=Sup	8	obl	_	start_char=39|end_char=43
+3	of	of	ADP	IN	_	4	case	_	start_char=44|end_char=46
+4	society	society	NOUN	NN	Number=Sing	2	nmod	_	start_char=47|end_char=54
+5	today	today	NOUN	NN	Number=Sing	2	nmod:tmod	_	start_char=55|end_char=60
+6	,	,	PUNCT	,	_	8	punct	_	start_char=60|end_char=61
+7	so	so	ADV	RB	_	8	advmod	_	start_char=62|end_char=64
+8	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=65|end_char=71
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=72|end_char=76
+10	like	like	ADP	IN	_	11	case	_	start_char=77|end_char=81
+11	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obl	_	start_char=82|end_char=85
+12	,	,	PUNCT	,	_	14	punct	_	start_char=85|end_char=86
+13	so	so	ADV	RB	_	14	advmod	_	start_char=87|end_char=89
+14	oblivious	oblivious	ADJ	JJ	Degree=Pos	8	conj	_	start_char=90|end_char=99
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=100|end_char=103
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=104|end_char=112
+17	that	that	SCONJ	IN	_	21	mark	_	start_char=113|end_char=117
+18	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	21	nsubj	_	start_char=118|end_char=121
+19	ca	can	AUX	MD	VerbForm=Fin	21	aux	_	start_char=122|end_char=124
+20	n't	not	PART	RB	Polarity=Neg	21	advmod	_	start_char=124|end_char=127
+21	realize	realize	VERB	VB	VerbForm=Inf	16	ccomp	_	start_char=128|end_char=135
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=136|end_char=138
+23	.	.	PUNCT	.	_	8	punct	_	start_char=138|end_char=139
+

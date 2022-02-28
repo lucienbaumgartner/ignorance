@@ -1,0 +1,41 @@
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+
+1	Yeah	yeah	INTJ	UH	_	2	discourse	_	start_char=4|end_char=8
+2	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=9|end_char=12
+3	's	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	start_char=12|end_char=14
+4	listen	listen	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=15|end_char=21
+5	to	to	ADP	IN	_	9	case	_	start_char=22|end_char=24
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=25|end_char=26
+7	hardstuck	hardstuck	ADJ	JJ	Degree=Pos	9	amod	_	start_char=27|end_char=36
+8	DIAMOND	diamond	NOUN	NN	Number=Sing	9	compound	_	start_char=37|end_char=44
+9	JUNGLER	jungler	NOUN	NN	Number=Sing	4	obl	_	start_char=45|end_char=52
+10	about	about	ADP	IN	_	12	case	_	start_char=53|end_char=58
+11	LANING	laning	NOUN	NN	Number=Sing	12	compound	_	start_char=59|end_char=65
+12	intricacies	intricacy	NOUN	NNS	Number=Plur	4	obl	_	start_char=66|end_char=77
+13	of	of	ADP	IN	_	17	case	_	start_char=78|end_char=80
+14	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=81|end_char=82
+15	new	new	ADJ	JJ	Degree=Pos	17	amod	_	start_char=83|end_char=86
+16	meta	meta	NOUN	NN	Number=Sing	17	compound	_	start_char=87|end_char=91
+17	picks	pick	NOUN	NNS	Number=Plur	12	nmod	_	start_char=92|end_char=97
+18	between	between	ADP	IN	_	21	case	_	start_char=98|end_char=105
+19	2	2	NUM	CD	NumType=Card	21	nummod	_	start_char=106|end_char=107
+20	PRO	pro	NOUN	NN	Number=Sing	21	compound	_	start_char=108|end_char=111
+21	players	player	NOUN	NNS	Number=Plur	17	nmod	_	start_char=112|end_char=119
+22	.	.	PUNCT	.	_	2	punct	_	start_char=119|end_char=120
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=121|end_char=123
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=123|end_char=125
+3	so	so	ADV	RB	_	4	advmod	_	start_char=126|end_char=128
+4	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=129|end_char=133
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=134|end_char=137
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=138|end_char=146
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=147|end_char=151
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=152|end_char=153
+9	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=153|end_char=155
+10	not	not	PART	RB	_	11	advmod	_	start_char=156|end_char=159
+11	sure	sure	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=160|end_char=164
+12	if	if	SCONJ	IN	_	14	mark	_	start_char=165|end_char=167
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=168|end_char=172
+14	trolling	trolling	NOUN	NN	Number=Sing	11	advcl	_	start_char=173|end_char=181
+15	?	?	PUNCT	.	_	4	punct	_	start_char=181|end_char=182
+

@@ -1,0 +1,23 @@
+1	Maybe	maybe	ADV	RB	_	6	advmod	_	start_char=0|end_char=5
+2	lance	lance	NOUN	NN	Number=Sing	6	nsubj	_	start_char=6|end_char=11
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=12|end_char=14
+4	more	more	ADV	RBR	_	6	advmod	_	start_char=15|end_char=19
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=20|end_char=24
+6	game	game	NOUN	NN	Number=Sing	0	root	_	start_char=25|end_char=29
+7	.	.	PUNCT	.	_	6	punct	_	start_char=29|end_char=30
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=31|end_char=34
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=35|end_char=39
+3	really	really	ADV	RB	_	4	advmod	_	start_char=40|end_char=46
+4	stiff	stiff	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=47|end_char=52
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=53|end_char=56
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=57|end_char=64
+7	of	of	ADP	IN	_	9	case	_	start_char=65|end_char=67
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=68|end_char=72
+9	rotations	rotation	NOUN	NNS	Number=Plur	6	obl	_	start_char=73|end_char=82
+10	or	or	CCONJ	CC	_	13	cc	_	start_char=83|end_char=85
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=86|end_char=89
+12	monsters	monster	NOUN	NNS	Number=Plur	13	compound	_	start_char=90|end_char=98
+13	movements	movement	NOUN	NNS	Number=Plur	9	conj	_	start_char=99|end_char=108
+14	.	.	PUNCT	.	_	2	punct	_	start_char=108|end_char=109
+

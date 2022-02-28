@@ -1,0 +1,41 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	email	email	NOUN	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=9
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=10|end_char=13
+4	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+5	because	because	SCONJ	IN	_	8	mark	_	start_char=20|end_char=27
+6	“	''	PUNCT	``	_	8	punct	_	start_char=28|end_char=29
+7	there	there	PRON	EX	_	8	expl	_	start_char=29|end_char=34
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=35|end_char=37
+9	no	no	DET	DT	_	12	det	_	start_char=38|end_char=40
+10	master	master	NOUN	NN	Number=Sing	12	compound	_	start_char=41|end_char=47
+11	-	-	PUNCT	HYPH	_	12	punct	_	start_char=47|end_char=48
+12	plan	plan	NOUN	NN	Number=Sing	8	nsubj	_	start_char=48|end_char=52
+13	to	to	PART	TO	_	14	mark	_	start_char=53|end_char=55
+14	create	create	VERB	VB	VerbForm=Inf	12	acl	_	start_char=56|end_char=62
+15	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=63|end_char=65
+16	unaware	unaware	ADJ	JJ	Degree=Pos	19	amod	_	start_char=66|end_char=73
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=74|end_char=77
+18	compliant	compliant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=78|end_char=87
+19	citizens	citizen	NOUN	NNS	Number=Plur	14	obj	_	start_char=88|end_char=96
+20	by	by	ADP	IN	_	22	case	_	start_char=97|end_char=99
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=100|end_char=103
+22	democrats	Democrat	PROPN	NNPS	Number=Plur	19	nmod	_	start_char=104|end_char=113
+23	.	.	PUNCT	.	_	4	punct	_	start_char=113|end_char=114
+24	”	''	PUNCT	''	_	8	punct	_	start_char=114|end_char=115
+
+1	So	so	ADV	RB	_	11	advmod	_	start_char=116|end_char=118
+2	since	since	SCONJ	IN	_	4	mark	_	start_char=119|end_char=124
+3	there	there	PRON	EX	_	4	expl	_	start_char=125|end_char=130
+4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=130|end_char=132
+5	no	no	DET	DT	_	6	det	_	start_char=133|end_char=135
+6	plan	plan	NOUN	NN	Number=Sing	4	nsubj	_	start_char=136|end_char=140
+7	,	,	PUNCT	,	_	11	punct	_	start_char=140|end_char=141
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=142|end_char=145
+9	email	email	NOUN	NN	Number=Sing	11	nsubj	_	start_char=146|end_char=151
+10	never	never	ADV	RB	_	11	advmod	_	start_char=152|end_char=157
+11	happened	happen	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=158|end_char=166
+12	.	.	PUNCT	.	_	11	punct	_	start_char=166|end_char=167
+
+1	/	/	PUNCT	,	_	0	root	_	start_char=168|end_char=169
+2	s	's	PART	POS	_	1	case	_	start_char=169|end_char=170
+

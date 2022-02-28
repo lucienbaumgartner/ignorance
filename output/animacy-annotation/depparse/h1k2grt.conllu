@@ -1,0 +1,22 @@
+1	Yes	yes	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=5|end_char=7
+4	wo	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=8|end_char=10
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=10|end_char=13
+6	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=17
+7	there	there	ADV	RB	PronType=Dem	6	advmod	_	start_char=18|end_char=23
+8	because	because	SCONJ	IN	_	12	mark	_	start_char=24|end_char=31
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=32|end_char=36
+10	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=36|end_char=38
+11	very	very	ADV	RB	_	12	advmod	_	start_char=39|end_char=43
+12	intolerant	intolerant	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=44|end_char=54
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=55|end_char=58
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=59|end_char=67
+15	of	of	ADP	IN	_	18	case	_	start_char=68|end_char=70
+16	people	people	NOUN	NNS	Number=Plur	18	nmod:poss	_	start_char=71|end_char=77
+17	’s	's	PART	POS	_	16	case	_	start_char=77|end_char=79
+18	religion	religion	NOUN	NN	Number=Sing	14	obl	_	start_char=80|end_char=88
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=89|end_char=92
+20	backgrounds	background	NOUN	NNS	Number=Plur	18	conj	_	start_char=93|end_char=104
+21	.	.	PUNCT	.	_	6	punct	_	start_char=104|end_char=105
+

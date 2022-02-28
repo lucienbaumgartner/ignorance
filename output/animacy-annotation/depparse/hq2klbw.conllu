@@ -1,0 +1,30 @@
+1	Nah	nah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	7	punct	_	start_char=3|end_char=4
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=5|end_char=8
+4	´re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=8|end_char=11
+5	just	just	ADV	RB	_	7	advmod	_	start_char=12|end_char=16
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=17|end_char=18
+7	liar	liar	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=23
+8	.	.	PUNCT	.	_	7	punct	_	start_char=23|end_char=24
+
+1	I´m	I´m	PROPN	NNP	Number=Sing	0	root	_	start_char=25|end_char=28
+2	just	just	ADV	RB	_	3	advmod	_	start_char=29|end_char=33
+3	enjoying	enjoy	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=34|end_char=42
+4	seeing	see	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=43|end_char=49
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=50|end_char=53
+6	in	in	ADP	IN	_	7	case	_	start_char=54|end_char=56
+7	denial	denial	NOUN	NN	Number=Sing	4	obl	_	start_char=57|end_char=63
+8	of	of	ADP	IN	_	10	case	_	start_char=64|end_char=66
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=67|end_char=70
+10	dumb	dumb	ADJ	JJ	Degree=Pos	7	acl	_	start_char=71|end_char=75
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=76|end_char=79
+12	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=80|end_char=83
+13	.	.	PUNCT	.	_	1	punct	_	start_char=83|end_char=84
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=85|end_char=88
+2	´re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=88|end_char=91
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=92|end_char=100
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=101|end_char=104
+5	proud	proud	ADJ	JJ	Degree=Pos	3	conj	_	start_char=105|end_char=110
+6	.	.	PUNCT	.	_	3	punct	_	start_char=110|end_char=111
+

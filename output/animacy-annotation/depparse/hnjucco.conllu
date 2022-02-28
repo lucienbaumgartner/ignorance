@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	.	.	PUNCT	.	_	2	punct	_	start_char=6|end_char=7
+
+1	Why	why	ADV	WRB	PronType=Int	2	advmod	_	start_char=9|end_char=12
+2	not	not	PART	RB	_	0	root	_	start_char=13|end_char=16
+3	?	?	PUNCT	.	_	2	punct	_	start_char=16|end_char=17
+
+1	Answer	answer	NOUN	NN	Number=Sing	3	compound	_	start_char=20|end_char=26
+2	-	-	PUNCT	HYPH	_	3	punct	_	start_char=27|end_char=28
+3	government	government	NOUN	NN	Number=Sing	4	compound	_	start_char=29|end_char=39
+4	officials	official	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=40|end_char=49
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=50|end_char=53
+6	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=57
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=58|end_char=61
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=62|end_char=70
+9	of	of	ADP	IN	_	11	case	_	start_char=71|end_char=73
+10	new	new	ADJ	JJ	Degree=Pos	11	amod	_	start_char=74|end_char=77
+11	technologies	technology	NOUN	NNS	Number=Plur	8	obl	_	start_char=78|end_char=90
+

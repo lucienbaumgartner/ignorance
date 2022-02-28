@@ -1,0 +1,31 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	incredibly	incredibly	ADV	RB	_	4	advmod	_	start_char=10|end_char=20
+4	selfish	selfish	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=21|end_char=28
+5	,	,	PUNCT	,	_	7	punct	_	start_char=28|end_char=29
+6	self	self	NOUN	NN	Number=Sing	7	obl:npmod	_	start_char=30|end_char=34
+7	involved	involved	ADJ	JJ	Degree=Pos	4	conj	_	start_char=35|end_char=43
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=44|end_char=47
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=48|end_char=55
+10	of	of	ADP	IN	_	12	case	_	start_char=56|end_char=58
+11	others	other	NOUN	NNS	Number=Plur	12	compound	_	start_char=59|end_char=65
+12	needs	need	NOUN	NNS	Number=Plur	9	obl	_	start_char=66|end_char=71
+13	.	.	PUNCT	.	_	2	punct	_	start_char=71|end_char=72
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=73|end_char=74
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=75|end_char=77
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=77|end_char=80
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=81|end_char=86
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=87|end_char=88
+6	could	could	AUX	MD	VerbForm=Fin	9	aux	_	start_char=89|end_char=94
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=95|end_char=97
+8	around	around	ADP	IN	_	9	case	_	start_char=98|end_char=104
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	ccomp	_	start_char=105|end_char=108
+10	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=110|end_char=112
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=113|end_char=119
+3	really	really	ADV	RB	_	4	advmod	_	start_char=120|end_char=126
+4	irritating	irritating	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=127|end_char=137
+5	.	.	PUNCT	.	_	2	punct	_	start_char=137|end_char=138
+

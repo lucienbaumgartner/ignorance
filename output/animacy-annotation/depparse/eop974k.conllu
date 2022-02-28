@@ -1,0 +1,34 @@
+1	In	in	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	danganronpa	danganronpa	NOUN	NN	Number=Sing	4	obl	_	start_char=3|end_char=14
+3	there	there	PRON	EX	_	4	expl	_	start_char=15|end_char=20
+4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=24
+5	at	at	ADP	IN	_	6	case	_	start_char=25|end_char=27
+6	least	least	ADJ	JJS	Degree=Sup	7	advmod	_	start_char=28|end_char=33
+7	smart	smart	ADJ	JJ	Degree=Pos	8	amod	_	start_char=34|end_char=39
+8	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=40|end_char=46
+9	,	,	PUNCT	,	_	15	punct	_	start_char=46|end_char=47
+10	and	and	CCONJ	CC	_	15	cc	_	start_char=48|end_char=51
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=52|end_char=55
+12	rest	rest	NOUN	NN	Number=Sing	15	nsubj	_	start_char=56|end_char=60
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=61|end_char=64
+14	either	either	CCONJ	CC	_	15	cc:preconj	_	start_char=65|end_char=71
+15	average	average	ADJ	JJ	Degree=Pos	4	conj	_	start_char=72|end_char=79
+16	or	or	CCONJ	CC	_	17	cc	_	start_char=80|end_char=82
+17	dumb	dumb	ADJ	JJ	Degree=Pos	15	conj	_	start_char=83|end_char=87
+18	.	.	PUNCT	.	_	4	punct	_	start_char=87|end_char=88
+
+1	In	in	ADP	IN	_	3	case	_	start_char=89|end_char=91
+2	zero	zero	DET	DT	PronType=Art	3	det	_	start_char=92|end_char=96
+3	escape	escape	NOUN	NN	Number=Sing	8	obl	_	start_char=97|end_char=103
+4	literally	literally	ADV	RB	_	8	advmod	_	start_char=104|end_char=113
+5	everyone	everyone	PRON	NN	Number=Sing	8	nsubj	_	start_char=114|end_char=122
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=123|end_char=125
+7	incredibly	incredibly	ADV	RB	_	8	advmod	_	start_char=126|end_char=136
+8	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=137|end_char=143
+9	,	,	PUNCT	,	_	10	punct	_	start_char=143|end_char=144
+10	Unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=145|end_char=152
+11	,	,	PUNCT	,	_	13	punct	_	start_char=152|end_char=153
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=154|end_char=157
+13	Slow	slow	ADJ	JJ	Degree=Pos	8	conj	_	start_char=158|end_char=162
+14	.	.	PUNCT	.	_	8	punct	_	start_char=162|end_char=163
+

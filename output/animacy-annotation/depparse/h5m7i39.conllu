@@ -1,0 +1,11 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=3|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=16
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=28
+7	of	of	ADP	IN	_	10	case	_	start_char=29|end_char=31
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=32|end_char=35
+9	looming	loom	VERB	VBG	VerbForm=Ger	10	amod	_	start_char=36|end_char=43
+10	danger	danger	NOUN	NN	Number=Sing	6	obl	_	start_char=44|end_char=50
+

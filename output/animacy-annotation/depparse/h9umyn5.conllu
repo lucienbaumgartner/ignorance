@@ -1,0 +1,112 @@
+1	Well	well	INTJ	UH	_	10	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	1	punct	_	start_char=4|end_char=5
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=7
+4	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	parataxis	_	start_char=8|end_char=12
+5	,	,	PUNCT	,	_	10	punct	_	start_char=12|end_char=13
+6	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=14|end_char=19
+7	Generation	generation	NOUN	NN	Number=Sing	10	nsubj	_	start_char=20|end_char=30
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=31|end_char=33
+9	obviously	obviously	ADV	RB	_	10	advmod	_	start_char=34|end_char=43
+10	perfect	perfect	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=51
+11	and	and	CCONJ	CC	_	18	cc	_	start_char=52|end_char=55
+12	without	without	ADP	IN	_	13	case	_	start_char=56|end_char=63
+13	flaw	flaw	NOUN	NN	Number=Sing	18	obl	_	start_char=64|end_char=68
+14	so	so	ADV	RB	_	18	advmod	_	start_char=69|end_char=71
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=72|end_char=74
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	start_char=75|end_char=78
+17	very	very	ADV	RB	_	18	advmod	_	start_char=79|end_char=83
+18	audacious	audacious	ADJ	JJ	Degree=Pos	10	conj	_	start_char=84|end_char=93
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=94|end_char=97
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=98|end_char=106
+21	of	of	ADP	IN	_	22	case	_	start_char=107|end_char=109
+22	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	obl	_	start_char=110|end_char=112
+23	to	to	PART	TO	_	24	mark	_	start_char=113|end_char=115
+24	say	say	VERB	VB	VerbForm=Inf	20	advcl	_	start_char=116|end_char=119
+25	such	such	DET	PDT	_	27	det:predet	_	start_char=120|end_char=124
+26	a	a	DET	DT	Definite=Ind|PronType=Art	27	det	_	start_char=125|end_char=126
+27	thing	thing	NOUN	NN	Number=Sing	24	obj	_	start_char=127|end_char=132
+28	.	.	PUNCT	.	_	10	punct	_	start_char=132|end_char=133
+
+1	Boy	boy	INTJ	UH	_	3	discourse	_	start_char=135|end_char=138
+2	oh	oh	INTJ	UH	_	3	discourse	_	start_char=139|end_char=141
+3	boy	boy	NOUN	NN	Number=Sing	0	root	_	start_char=142|end_char=145
+4	.	.	PUNCT	.	_	3	punct	_	start_char=145|end_char=146
+
+1	Being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=147|end_char=152
+2	middle	middle	ADJ	JJ	Degree=Pos	3	advmod	_	start_char=153|end_char=159
+3	aged	aged	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=160|end_char=164
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=165|end_char=168
+5	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=169|end_char=173
+6	everything	everything	PRON	NN	Number=Sing	9	nsubj	_	start_char=174|end_char=184
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=185|end_char=187
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=188|end_char=193
+9	fault	fault	NOUN	NN	Number=Sing	5	ccomp	_	start_char=194|end_char=199
+10	by	by	ADP	IN	_	13	case	_	start_char=200|end_char=202
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=203|end_char=206
+12	younger	young	ADJ	JJR	Degree=Cmp	13	amod	_	start_char=207|end_char=214
+13	generations	generation	NOUN	NNS	Number=Plur	9	nmod	_	start_char=215|end_char=226
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=227|end_char=229
+15	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=230|end_char=235
+16	to	to	PART	TO	_	17	mark	_	start_char=236|end_char=238
+17	rock	rock	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=239|end_char=243
+18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=244|end_char=248
+19	.	.	PUNCT	.	_	15	punct	_	start_char=248|end_char=249
+
+1	New	New	ADJ	NNP	Degree=Pos	2	amod	_	start_char=251|end_char=254
+2	Gens	Gen	PROPN	NNP	Number=Sing	0	root	_	start_char=255|end_char=259
+3	:	:	PUNCT	:	_	2	punct	_	start_char=259|end_char=260
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=261|end_char=265
+2	planet	planet	NOUN	NN	Number=Sing	3	nsubj	_	start_char=266|end_char=272
+3	sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=273|end_char=278
+4	and	and	CCONJ	CC	_	8	cc	_	start_char=279|end_char=282
+5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=283|end_char=286
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=287|end_char=291
+7	fucking	fucking	ADJ	JJ	Degree=Pos	8	amod	_	start_char=292|end_char=299
+8	fault	fault	NOUN	NN	Number=Sing	3	conj	_	start_char=300|end_char=305
+9	!	!	PUNCT	.	_	3	punct	_	start_char=305|end_char=306
+
+1	Them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	0	root	_	start_char=308|end_char=312
+2	:	:	PUNCT	:	_	1	punct	_	start_char=312|end_char=313
+
+1	But	but	CCONJ	CC	_	0	root	_	start_char=314|end_char=317
+2	but	but	CCONJ	CC	_	3	cc	_	start_char=318|end_char=321
+3	but	but	CCONJ	CC	_	1	conj	_	start_char=322|end_char=325
+4	....	....	PUNCT	.	_	3	punct	_	start_char=325|end_char=329
+
+1	Boomers	boomer	NOUN	NNS	Number=Plur	0	root	_	start_char=330|end_char=337
+2	!!!	!!!	PUNCT	.	_	1	punct	_	start_char=337|end_char=340
+
+1	Genx'ers	Genx'er	NOUN	NNS	Number=Plur	0	root	_	start_char=341|end_char=349
+2	!!!!	!!!!	PUNCT	.	_	1	punct	_	start_char=349|end_char=353
+
+1	New	New	ADJ	NNP	Degree=Pos	2	amod	_	start_char=355|end_char=358
+2	Gens	Gen	PROPN	NNP	Number=Sing	0	root	_	start_char=359|end_char=363
+3	:	:	PUNCT	:	_	2	punct	_	start_char=363|end_char=364
+
+1	Fuuuuuck	Fuuuuuck	PROPN	NNP	Number=Sing	5	vocative	_	start_char=365|end_char=373
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	flat	_	start_char=374|end_char=377
+3	,	,	PUNCT	,	_	5	punct	_	start_char=377|end_char=378
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=379|end_char=382
+5	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=383|end_char=386
+6	plenty	plenty	NOUN	NN	Number=Sing	5	obj	_	start_char=387|end_char=393
+7	of	of	ADP	IN	_	8	case	_	start_char=394|end_char=396
+8	time	time	NOUN	NN	Number=Sing	6	nmod	_	start_char=397|end_char=401
+9	to	to	PART	TO	_	10	mark	_	start_char=402|end_char=404
+10	fix	fix	VERB	VB	VerbForm=Inf	8	acl	_	start_char=405|end_char=408
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=409|end_char=411
+12	and	and	CCONJ	CC	_	17	cc	_	start_char=412|end_char=415
+13	all	all	DET	DT	_	17	nsubj	_	start_char=416|end_char=419
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=420|end_char=423
+15	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=424|end_char=427
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	start_char=428|end_char=431
+17	complain	complain	VERB	VB	VerbForm=Inf	5	conj	_	start_char=432|end_char=440
+18	.	.	PUNCT	.	_	5	punct	_	start_char=440|end_char=441
+
+1	Them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	0	root	_	start_char=443|end_char=447
+2	:	:	PUNCT	:	_	5	punct	_	start_char=447|end_char=448
+3	Shocked	Shocked	ADJ	JJ	Degree=Pos	5	amod	_	start_char=449|end_char=456
+4	Pikachu	Pikachu	PROPN	NNP	Number=Sing	5	compound	_	start_char=457|end_char=464
+5	face	face	NOUN	NN	Number=Sing	1	appos	_	start_char=465|end_char=469
+6	.	.	PUNCT	.	_	5	punct	_	start_char=469|end_char=470
+

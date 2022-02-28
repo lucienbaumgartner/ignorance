@@ -1,0 +1,18 @@
+1	Not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=4|end_char=11
+3	constantly	constantly	ADV	RB	_	2	advmod	_	start_char=12|end_char=22
+4	,	,	PUNCT	,	_	2	punct	_	start_char=22|end_char=23
+5	occassionally	occassionally	ADV	RB	_	2	advmod	_	start_char=24|end_char=37
+6	.	.	PUNCT	.	_	2	punct	_	start_char=37|end_char=38
+
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=39|end_char=42
+2	utterly	utterly	ADV	RB	_	3	advmod	_	start_char=43|end_char=50
+3	judgmental	judgmental	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=61
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=62|end_char=65
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=66|end_char=74
+6	,	,	PUNCT	,	_	3	punct	_	start_char=74|end_char=75
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=76|end_char=80
+8	must	must	AUX	MD	VerbForm=Fin	9	aux	_	start_char=81|end_char=85
+9	be	be	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=86|end_char=88
+10	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+

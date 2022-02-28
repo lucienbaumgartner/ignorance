@@ -1,0 +1,17 @@
+1	Guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=6|end_char=9
+3	’ll	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=9|end_char=12
+4	have	have	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=13|end_char=17
+5	to	to	PART	TO	_	6	mark	_	start_char=18|end_char=20
+6	stay	stay	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=21|end_char=25
+7	asleep	asleep	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=26|end_char=32
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=33|end_char=36
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=37|end_char=45
+10	of	of	ADP	IN	_	12	case	_	start_char=46|end_char=48
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=49|end_char=52
+12	truth	truth	NOUN	NN	Number=Sing	9	obl	_	start_char=53|end_char=58
+13	!	!	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+
+1	NEXT	next	ADV	RB	_	0	root	_	start_char=60|end_char=64
+2	!!!	!!!	PUNCT	.	_	1	punct	_	start_char=64|end_char=67
+

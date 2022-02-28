@@ -1,0 +1,17 @@
+1	Lying	lie	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=5
+2	Hillary	Hillary	PROPN	NNP	Number=Sing	1	obj	_	start_char=6|end_char=13
+3	feeding	feed	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=14|end_char=21
+4	BS	bs	NOUN	NN	Number=Sing	3	obj	_	start_char=22|end_char=24
+5	to	to	ADP	IN	_	10	case	_	start_char=25|end_char=27
+6	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=28|end_char=31
+7	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=32|end_char=39
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=40|end_char=43
+9	compliant	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=53
+10	supporters	supporter	NOUN	NNS	Number=Plur	3	obl	_	start_char=54|end_char=64
+11	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=65|end_char=68
+12	eat	eat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=69|end_char=72
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=73|end_char=75
+14	like	like	ADP	IN	_	15	case	_	start_char=76|end_char=80
+15	candy	candy	NOUN	NN	Number=Sing	12	obl	_	start_char=81|end_char=86
+16	.	.	PUNCT	.	_	1	punct	_	start_char=86|end_char=87
+

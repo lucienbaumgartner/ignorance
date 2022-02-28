@@ -1,0 +1,34 @@
+1	Oh	oh	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=5
+3	soul	soul	NOUN	NN	Number=Sing	0	root	_	start_char=6|end_char=10
+4	.	.	PUNCT	.	_	3	punct	_	start_char=10|end_char=11
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=12|end_char=13
+2	kind	kind	ADV	RB	_	4	advmod	_	start_char=14|end_char=18
+3	of	of	ADP	IN	_	2	fixed	_	start_char=19|end_char=21
+4	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=22|end_char=26
+5	that	that	SCONJ	IN	_	10	mark	_	start_char=27|end_char=31
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=32|end_char=36
+7	bot	bot	NOUN	NN	Number=Sing	10	nsubj	_	start_char=37|end_char=40
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=41|end_char=43
+9	so	so	ADV	RB	_	10	advmod	_	start_char=44|end_char=46
+10	unaware	unaware	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=47|end_char=54
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=55|end_char=58
+12	completely	completely	ADV	RB	_	13	advmod	_	start_char=59|end_char=69
+13	wrong	wrong	ADJ	JJ	Degree=Pos	10	conj	_	start_char=70|end_char=75
+14	.	.	PUNCT	.	_	4	punct	_	start_char=75|end_char=76
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=77|end_char=78
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=78|end_char=80
+3	gonna	gonna	ADV	RB	_	4	advmod	_	start_char=81|end_char=86
+4	give	give	VERB	VB	VerbForm=Inf	0	root	_	start_char=87|end_char=91
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	iobj	_	start_char=92|end_char=94
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=95|end_char=97
+7	updoot	updoot	NOUN	NN	Number=Sing	4	obj	_	start_char=98|end_char=104
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=105|end_char=108
+9	tell	tell	VERB	VB	VerbForm=Inf	4	conj	_	start_char=109|end_char=113
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	iobj	_	start_char=114|end_char=116
+11	good	good	ADJ	JJ	Degree=Pos	12	amod	_	start_char=117|end_char=121
+12	bot	bot	NOUN	NN	Number=Sing	9	obj	_	start_char=122|end_char=125
+13	.	.	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+

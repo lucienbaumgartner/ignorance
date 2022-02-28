@@ -1,0 +1,61 @@
+1	Kinda	kinda	ADV	RB	_	2	advmod	_	start_char=0|end_char=5
+2	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=23
+5	of	of	ADP	IN	_	6	case	_	start_char=24|end_char=26
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=27|end_char=29
+7	to	to	PART	TO	_	8	mark	_	start_char=30|end_char=32
+8	assume	assume	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=33|end_char=39
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=40|end_char=43
+10	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=44|end_char=49
+11	n't	not	PART	RB	_	12	advmod	_	start_char=49|end_char=52
+12	notice	notice	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=53|end_char=59
+13	because	because	SCONJ	IN	_	17	mark	_	start_char=60|end_char=67
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=68|end_char=71
+15	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=71|end_char=74
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=75|end_char=76
+17	guy	guy	NOUN	NN	Number=Sing	12	advcl	_	start_char=77|end_char=80
+18	.	.	PUNCT	.	_	2	punct	_	start_char=80|end_char=81
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=88
+2	.	.	PUNCT	.	_	1	punct	_	start_char=88|end_char=89
+
+1	😅	😅	PROPN	NNP	Number=Sing	0	root	_	start_char=90|end_char=91
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=94|end_char=95
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=96|end_char=98
+3	n't	not	PART	RB	_	4	advmod	_	start_char=98|end_char=101
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=102|end_char=107
+5	there	there	PRON	EX	_	6	expl	_	start_char=108|end_char=113
+6	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=113|end_char=115
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=116|end_char=117
+8	single	single	ADJ	JJ	Degree=Pos	9	amod	_	start_char=118|end_char=124
+9	country	country	NOUN	NN	Number=Sing	6	nsubj	_	start_char=125|end_char=132
+10	in	in	ADP	IN	_	12	case	_	start_char=133|end_char=135
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=136|end_char=139
+12	world	world	NOUN	NN	Number=Sing	9	nmod	_	start_char=140|end_char=145
+13	that	that	PRON	WDT	PronType=Rel	16	nsubj	_	start_char=146|end_char=150
+14	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=151|end_char=155
+15	n't	not	PART	RB	_	16	advmod	_	start_char=155|end_char=158
+16	struggle	struggle	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=159|end_char=167
+17	with	with	ADP	IN	_	18	case	_	start_char=168|end_char=172
+18	sexism	sexism	NOUN	NN	Number=Sing	16	obl	_	start_char=173|end_char=179
+19	....	....	PUNCT	.	_	4	punct	_	start_char=179|end_char=183
+
+1	What	what	PRON	WP	PronType=Int	5	nsubj	_	start_char=186|end_char=190
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=190|end_char=192
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=193|end_char=194
+4	big	big	ADJ	JJ	Degree=Pos	5	amod	_	start_char=195|end_char=198
+5	plus	plus	NOUN	NN	Number=Sing	0	root	_	start_char=199|end_char=203
+6	in	in	ADP	IN	_	7	case	_	start_char=204|end_char=206
+7	Japan	Japan	PROPN	NNP	Number=Sing	5	nmod	_	start_char=207|end_char=212
+8	that	that	PRON	WDT	PronType=Rel	12	nsubj:pass	_	start_char=213|end_char=217
+9	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=218|end_char=222
+10	n't	not	PART	RB	_	12	advmod	_	start_char=222|end_char=225
+11	get	get	AUX	VB	VerbForm=Inf	12	aux:pass	_	start_char=226|end_char=229
+12	talked	talk	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	start_char=230|end_char=236
+13	about	about	ADP	IN	_	15	case	_	start_char=237|end_char=242
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=243|end_char=244
+15	lot	lot	NOUN	NN	Number=Sing	12	obl	_	start_char=245|end_char=248
+16	?	?	PUNCT	.	_	5	punct	_	start_char=248|end_char=249
+

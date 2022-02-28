@@ -1,0 +1,12 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	just	just	ADV	RB	_	3	advmod	_	start_char=3|end_char=7
+3	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	to	to	PART	TO	_	6	mark	_	start_char=14|end_char=16
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=17|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=20|end_char=28
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=29|end_char=32
+8	right	right	ADV	RB	_	10	advmod	_	start_char=33|end_char=38
+9	no	no	DET	DT	_	10	det	_	start_char=39|end_char=41
+10	winning	win	VERB	VBG	VerbForm=Ger	6	conj	_	start_char=42|end_char=49
+11	lol	lol	INTJ	UH	_	3	discourse	_	start_char=50|end_char=53
+

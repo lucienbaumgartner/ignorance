@@ -1,0 +1,45 @@
+1	Ouch	ouch	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=6|end_char=10
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+3	complete	complete	ADJ	JJ	Degree=Pos	4	amod	_	start_char=17|end_char=25
+4	sense	sense	NOUN	NN	Number=Sing	2	obj	_	start_char=26|end_char=31
+5	,	,	PUNCT	,	_	6	punct	_	start_char=31|end_char=32
+6	give	give	VERB	VB	VerbForm=Fin	2	conj	_	start_char=33|end_char=37
+7	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	iobj	_	start_char=38|end_char=40
+8	all	all	DET	DT	_	10	det	_	start_char=41|end_char=44
+9	sysiphian	sysiphian	ADJ	JJ	Degree=Pos	10	amod	_	start_char=45|end_char=54
+10	tasks	task	NOUN	NNS	Number=Plur	6	obj	_	start_char=55|end_char=60
+11	to	to	PART	TO	_	12	mark	_	start_char=61|end_char=63
+12	keep	keep	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=64|end_char=68
+13	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	start_char=69|end_char=71
+14	occupied	occupy	VERB	VBN	Tense=Past|VerbForm=Part	12	xcomp	_	start_char=72|end_char=80
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=81|end_char=84
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=85|end_char=92
+17	of	of	ADP	IN	_	19	case	_	start_char=93|end_char=95
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=96|end_char=99
+19	fact	fact	NOUN	NN	Number=Sing	16	obl	_	start_char=100|end_char=104
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	start_char=105|end_char=107
+21	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=107|end_char=110
+22	in	in	ADP	IN	_	24	case	_	start_char=111|end_char=113
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=114|end_char=115
+24	cage	cage	NOUN	NN	Number=Sing	19	acl:relcl	_	start_char=116|end_char=120
+25	.	.	PUNCT	.	_	2	punct	_	start_char=120|end_char=121
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=122|end_char=126
+2	depressing	depressing	ADJ	JJ	Degree=Pos	3	amod	_	start_char=127|end_char=137
+3	future	future	NOUN	NN	Number=Sing	0	root	_	start_char=138|end_char=144
+4	,	,	PUNCT	,	_	8	punct	_	start_char=144|end_char=145
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=146|end_char=149
+6	honestly	honestly	ADV	RB	_	8	advmod	_	start_char=150|end_char=158
+7	not	not	PART	RB	_	8	advmod	_	start_char=159|end_char=162
+8	unlikely	unlikely	ADJ	JJ	Degree=Pos	3	conj	_	start_char=163|end_char=171
+9	given	give	VERB	VBN	Tense=Past|VerbForm=Part	11	case	_	start_char=172|end_char=177
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=178|end_char=181
+11	way	way	NOUN	NN	Number=Sing	8	obl	_	start_char=182|end_char=185
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=186|end_char=188
+13	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=188|end_char=191
+14	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=192|end_char=197
+15	.	.	PUNCT	.	_	3	punct	_	start_char=197|end_char=198
+

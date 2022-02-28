@@ -1,0 +1,36 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=2|end_char=5
+3	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=9
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=10|end_char=13
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=14|end_char=21
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=22|end_char=25
+7	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=26|end_char=30
+8	all	all	DET	PDT	_	10	det:predet	_	start_char=31|end_char=34
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=35|end_char=37
+10	FP	fp	NOUN	NN	Number=Sing	7	obj	_	start_char=38|end_char=40
+11	towards	towards	ADP	IN	_	14	case	_	start_char=41|end_char=48
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=49|end_char=52
+13	tech	tech	NOUN	NN	Number=Sing	14	compound	_	start_char=53|end_char=57
+14	tree	tree	NOUN	NN	Number=Sing	7	obl	_	start_char=58|end_char=62
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=63|end_char=66
+16	moved	move	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	_	start_char=67|end_char=72
+17	too	too	ADV	RB	_	18	advmod	_	start_char=73|end_char=76
+18	fast	fast	ADV	RB	Degree=Pos	16	advmod	_	start_char=77|end_char=81
+19	through	through	ADP	IN	_	21	case	_	start_char=82|end_char=89
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=90|end_char=93
+21	ages	age	NOUN	NNS	Number=Plur	16	obl	_	start_char=94|end_char=98
+22	.	.	PUNCT	.	_	3	punct	_	start_char=98|end_char=99
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=100|end_char=101
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=102|end_char=105
+3	n't	not	PART	RB	_	4	advmod	_	start_char=105|end_char=108
+4	stop	stop	VERB	VB	VerbForm=Inf	0	root	_	start_char=109|end_char=113
+5	to	to	PART	TO	_	6	mark	_	start_char=114|end_char=116
+6	build	build	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=117|end_char=122
+7	GB	GB	PROPN	NNP	Number=Sing	6	obj	_	start_char=123|end_char=125
+8	's	's	PART	POS	_	7	case	_	start_char=125|end_char=127
+9	until	until	ADP	IN	_	11	case	_	start_char=128|end_char=133
+10	colonial	colonial	ADJ	JJ	Degree=Pos	11	amod	_	start_char=134|end_char=142
+11	age	age	NOUN	NN	Number=Sing	6	obl	_	start_char=143|end_char=146
+12	.	.	PUNCT	.	_	4	punct	_	start_char=146|end_char=147
+

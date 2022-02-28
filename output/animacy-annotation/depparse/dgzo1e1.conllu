@@ -1,0 +1,47 @@
+1	Further	further	ADJ	JJ	Degree=Cmp	2	amod	_	start_char=0|end_char=7
+2	proof	proof	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=13
+3	that	that	SCONJ	IN	_	9	mark	_	start_char=14|end_char=18
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=19|end_char=23
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=24|end_char=26
+6	all	all	DET	PDT	_	9	det:predet	_	start_char=27|end_char=30
+7	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=31|end_char=33
+8	elaborate	elaborate	ADJ	JJ	Degree=Pos	9	amod	_	start_char=34|end_char=43
+9	ruse	ruse	NOUN	NN	Number=Sing	2	acl	_	start_char=44|end_char=48
+10	and	and	CCONJ	CC	_	17	cc	_	start_char=49|end_char=52
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=53|end_char=56
+12	Vanguard	Vanguard	PROPN	NNP	Number=Sing	17	nsubj	_	start_char=57|end_char=65
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=66|end_char=69
+14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=70|end_char=73
+15	real	real	ADJ	JJ	Degree=Pos	17	amod	_	start_char=74|end_char=78
+16	*	*	PUNCT	NFP	_	17	punct	_	start_char=79|end_char=80
+17	cabal	cabal	NOUN	NN	Number=Sing	9	conj	_	start_char=80|end_char=85
+18	*	*	PUNCT	NFP	_	17	punct	_	start_char=85|end_char=86
+19	.	.	PUNCT	.	_	2	punct	_	start_char=86|end_char=87
+
+1	Working	work	VERB	VBG	VerbForm=Ger	0	root	_	start_char=88|end_char=95
+2	behind	behind	ADP	IN	_	4	case	_	start_char=96|end_char=102
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=103|end_char=106
+4	scenes	scene	NOUN	NNS	Number=Plur	1	obl	_	start_char=107|end_char=113
+5	to	to	PART	TO	_	6	mark	_	start_char=114|end_char=116
+6	keep	keep	VERB	VB	VerbForm=Inf	4	acl	_	start_char=117|end_char=121
+7	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	obj	_	start_char=122|end_char=124
+8	uninformed	uninformed	ADJ	JJ	Degree=Pos|Polarity=Neg	6	xcomp	_	start_char=125|end_char=135
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=136|end_char=139
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=140|end_char=147
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=148|end_char=152
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=153|end_char=156
+13	Traveler	traveler	NOUN	NN	Number=Sing	16	nsubj	_	start_char=157|end_char=165
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=166|end_char=168
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=169|end_char=170
+16	leech	leech	NOUN	NN	Number=Sing	10	ccomp	_	start_char=171|end_char=176
+17	.	.	PUNCT	.	_	1	punct	_	start_char=176|end_char=177
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=178|end_char=181
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=182|end_char=184
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=184|end_char=187
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=188|end_char=191
+5	host	host	NOUN	NN	Number=Sing	0	root	_	start_char=192|end_char=196
+6	,	,	PUNCT	,	_	5	punct	_	start_char=196|end_char=197
+7	man	man	NOUN	NN	Number=Sing	5	vocative	_	start_char=198|end_char=201
+8	!	!	PUNCT	.	_	5	punct	_	start_char=201|end_char=202
+

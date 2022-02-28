@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=7
+3	go	go	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=10
+4	to	to	ADP	IN	_	6	case	_	start_char=11|end_char=13
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=14|end_char=19
+6	site	site	NOUN	NN	Number=Sing	3	obl	_	start_char=20|end_char=24
+7	at	at	ADP	IN	_	9	case	_	start_char=25|end_char=27
+8	3	3	NUM	CD	NumType=Card	9	nummod	_	start_char=28|end_char=29
+9	am	am	NOUN	NN	Number=Sing	3	obl	_	start_char=30|end_char=32
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=33|end_char=36
+11	break	break	VERB	VB	VerbForm=Inf	3	conj	_	start_char=37|end_char=42
+12	all	all	DET	PDT	_	14	det:predet	_	start_char=43|end_char=46
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=47|end_char=50
+14	lights	light	NOUN	NNS	Number=Plur	11	obj	_	start_char=51|end_char=57
+15	.	.	PUNCT	.	_	3	punct	_	start_char=57|end_char=58
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=59|end_char=62
+2	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=67
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=68|end_char=71
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=72|end_char=80
+5	of	of	ADP	IN	_	6	case	_	start_char=81|end_char=83
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=84|end_char=88
+7	.	.	PUNCT	.	_	2	punct	_	start_char=88|end_char=89
+

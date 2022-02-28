@@ -1,0 +1,37 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	're	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=5
+3	all	all	ADV	RB	_	4	advmod	_	start_char=6|end_char=9
+4	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=10|end_char=18
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=19|end_char=22
+6	own	own	ADJ	JJ	Degree=Pos	7	amod	_	start_char=23|end_char=26
+7	battles	battle	NOUN	NNS	Number=Plur	4	obj	_	start_char=27|end_char=34
+8	and	and	CCONJ	CC	_	11	cc	_	start_char=35|end_char=38
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=39|end_char=43
+10	obviously	obviously	ADV	RB	_	11	advmod	_	start_char=44|end_char=53
+11	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=54|end_char=58
+12	like	like	SCONJ	IN	_	15	mark	_	start_char=59|end_char=63
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=64|end_char=68
+14	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=68|end_char=71
+15	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	11	advcl	_	start_char=72|end_char=78
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=79|end_char=80
+17	hard	hard	ADJ	JJ	Degree=Pos	18	amod	_	start_char=81|end_char=85
+18	time	time	NOUN	NN	Number=Sing	15	obj	_	start_char=86|end_char=90
+19	for	for	ADP	IN	_	21	case	_	start_char=91|end_char=94
+20	whatever	whatever	DET	WDT	PronType=Int	21	det	_	start_char=95|end_char=103
+21	reason	reason	NOUN	NN	Number=Sing	18	nmod	_	start_char=104|end_char=110
+22	.	.	PUNCT	.	_	4	punct	_	start_char=110|end_char=111
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=112|end_char=115
+2	blatantly	blatantly	ADV	RB	_	3	advmod	_	start_char=116|end_char=125
+3	unaware	unaware	ADJ	JJ	Degree=Pos	6	amod	_	start_char=126|end_char=133
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=134|end_char=137
+5	shitty	shitty	ADJ	JJ	Degree=Pos	3	conj	_	start_char=138|end_char=144
+6	ones	one	NOUN	NNS	Number=Plur	0	root	_	start_char=145|end_char=149
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=150|end_char=151
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=152|end_char=156
+9	no	no	DET	DT	_	10	det	_	start_char=157|end_char=159
+10	sympathy	sympathy	NOUN	NN	Number=Sing	8	obj	_	start_char=160|end_char=168
+11	for	for	ADP	IN	_	12	case	_	start_char=169|end_char=172
+12	tho	though	NOUN	NN	Number=Sing	10	nmod	_	start_char=173|end_char=176
+13	.	.	PUNCT	.	_	8	punct	_	start_char=176|end_char=177
+

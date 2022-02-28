@@ -1,0 +1,41 @@
+1	Words	word	NOUN	NNS	Number=Plur	3	nsubj:pass	_	start_char=0|end_char=5
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=6|end_char=9
+3	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=10|end_char=14
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=15|end_char=17
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=18|end_char=21
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=22|end_char=27
+7	meanings	meaning	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=28|end_char=36
+8	change	change	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=37|end_char=43
+9	.	.	PUNCT	.	_	3	punct	_	start_char=43|end_char=44
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=45|end_char=47
+2	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=55
+3	.	.	PUNCT	.	_	2	punct	_	start_char=55|end_char=56
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=57|end_char=61
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=61|end_char=63
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=64|end_char=67
+4	beauty	beauty	NOUN	NN	Number=Sing	0	root	_	start_char=68|end_char=74
+5	of	of	ADP	IN	_	6	case	_	start_char=75|end_char=77
+6	language	language	NOUN	NN	Number=Sing	4	nmod	_	start_char=78|end_char=86
+7	.	.	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+
+1	People	person	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=88|end_char=94
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=95|end_char=98
+3	cling	cling	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=99|end_char=104
+4	too	too	ADV	RB	Degree=Pos	5	advmod	_	start_char=105|end_char=108
+5	tightly	tightly	ADV	RB	Degree=Pos	3	advmod	_	start_char=109|end_char=116
+6	to	to	ADP	IN	_	8	case	_	start_char=117|end_char=119
+7	old	old	ADJ	JJ	Degree=Pos	8	amod	_	start_char=120|end_char=123
+8	ways	way	NOUN	NNS	Number=Plur	3	obl	_	start_char=124|end_char=128
+9	just	just	ADV	RB	_	10	advmod	_	start_char=129|end_char=133
+10	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=134|end_char=138
+11	foolish	foolish	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=139|end_char=146
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=147|end_char=150
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=151|end_char=159
+14	of	of	ADP	IN	_	15	case	_	start_char=160|end_char=162
+15	how	how	SCONJ	WRB	PronType=Int	13	obl	_	start_char=163|end_char=166
+16	language	language	NOUN	NN	Number=Sing	17	nsubj	_	start_char=167|end_char=175
+17	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=176|end_char=181
+18	.	.	PUNCT	.	_	10	punct	_	start_char=181|end_char=182
+

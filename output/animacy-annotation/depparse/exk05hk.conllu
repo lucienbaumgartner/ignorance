@@ -1,0 +1,19 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=7|end_char=10
+4	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=35|end_char=39
+8	voted	vote	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=40|end_char=45
+9	to	to	PART	TO	_	10	mark	_	start_char=46|end_char=48
+10	leave	leave	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=49|end_char=54
+11	,	,	PUNCT	,	_	12	punct	_	start_char=54|end_char=55
+12	lets	let	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=56|end_char=60
+13	not	not	PART	RB	_	14	advmod	_	start_char=61|end_char=64
+14	get	get	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=65|end_char=68
+15	ageist	ageist	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=69|end_char=75
+16	about	about	ADP	IN	_	17	case	_	start_char=76|end_char=81
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	15	obl	_	start_char=82|end_char=86
+18	.	.	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+

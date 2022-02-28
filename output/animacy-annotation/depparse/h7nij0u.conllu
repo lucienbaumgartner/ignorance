@@ -1,0 +1,23 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	guy	guy	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=8
+3	definitely	definitely	ADV	RB	_	4	advmod	_	start_char=9|end_char=19
+4	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=20|end_char=25
+5	to	to	PART	TO	_	6	mark	_	start_char=26|end_char=28
+6	start	start	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=29|end_char=34
+7	playing	play	VERB	VBG	VerbForm=Ger	6	xcomp	_	start_char=35|end_char=42
+8	support	support	NOUN	NN	Number=Sing	7	obj	_	start_char=43|end_char=50
+9	,	,	PUNCT	,	_	13	punct	_	start_char=50|end_char=51
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=52|end_char=55
+11	mind	mind	NOUN	NN	Number=Sing	13	nsubj:pass	_	start_char=56|end_char=60
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=61|end_char=63
+13	closed	close	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	parataxis	_	start_char=64|end_char=70
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=71|end_char=74
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=75|end_char=82
+16	of	of	ADP	IN	_	17	case	_	start_char=83|end_char=85
+17	reality	reality	NOUN	NN	Number=Sing	15	obl	_	start_char=86|end_char=93
+18	of	of	ADP	IN	_	21	case	_	start_char=94|end_char=96
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=97|end_char=98
+20	support	support	NOUN	NN	Number=Sing	21	compound	_	start_char=99|end_char=106
+21	role	role	NOUN	NN	Number=Sing	17	nmod	_	start_char=107|end_char=111
+22	.	.	PUNCT	.	_	4	punct	_	start_char=111|end_char=112
+

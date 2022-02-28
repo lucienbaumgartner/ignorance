@@ -1,0 +1,35 @@
+1	One	one	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	symptom	symptom	NOUN	NN	Number=Sing	9	nsubj	_	start_char=4|end_char=11
+3	of	of	ADP	IN	_	5	case	_	start_char=12|end_char=14
+4	sleep	sleep	NOUN	NN	Number=Sing	5	compound	_	start_char=15|end_char=20
+5	deprevation	deprevation	NOUN	NN	Number=Sing	2	nmod	_	start_char=21|end_char=32
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=33|end_char=35
+7	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=36|end_char=38
+8	improved	improve	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	_	start_char=39|end_char=47
+9	ability	ability	NOUN	NN	Number=Sing	0	root	_	start_char=48|end_char=55
+10	to	to	PART	TO	_	11	mark	_	start_char=56|end_char=58
+11	self-monitor	self-monitor	VERB	VB	VerbForm=Inf	9	acl	_	start_char=59|end_char=71
+12	.	.	PUNCT	.	_	9	punct	_	start_char=71|end_char=72
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=74|end_char=76
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=77|end_char=80
+3	majority	majority	NOUN	NN	Number=Sing	0	root	_	start_char=81|end_char=89
+4	of	of	ADP	IN	_	5	case	_	start_char=90|end_char=92
+5	people	people	NOUN	NNS	Number=Plur	3	nmod	_	start_char=93|end_char=99
+6	.	.	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+
+1	claoming	claom	VERB	VBG	VerbForm=Ger	9	csubj	_	start_char=100|end_char=108
+2	to	to	PART	TO	_	3	mark	_	start_char=109|end_char=111
+3	need	need	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=112|end_char=116
+4	less	less	ADJ	JJR	Degree=Cmp	5	amod	_	start_char=117|end_char=121
+5	sleep	sleep	NOUN	NN	Number=Sing	3	obj	_	start_char=122|end_char=127
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=128|end_char=131
+7	just	just	ADV	RB	_	9	advmod	_	start_char=132|end_char=136
+8	sleep	sleep	VERB	VB	VerbForm=Inf	9	advmod	_	start_char=137|end_char=142
+9	deprived	deprive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=143|end_char=151
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=152|end_char=155
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=156|end_char=163
+12	of	of	ADP	IN	_	13	case	_	start_char=164|end_char=166
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=167|end_char=169
+14	.	.	PUNCT	.	_	9	punct	_	start_char=169|end_char=170
+

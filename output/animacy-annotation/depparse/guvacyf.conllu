@@ -1,0 +1,68 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	parataxis	_	start_char=2|end_char=6
+3	,	,	PUNCT	,	_	7	punct	_	start_char=6|end_char=7
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=8|end_char=11
+5	mom	mom	NOUN	NN	Number=Sing	7	nsubj	_	start_char=12|end_char=15
+6	DID	dill	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	start_char=16|end_char=19
+7	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=24
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=25|end_char=26
+9	choice	choice	NOUN	NN	Number=Sing	7	obj	_	start_char=27|end_char=33
+10	.	.	PUNCT	.	_	7	punct	_	start_char=33|end_char=34
+
+1	Divorce	divorce	NOUN	NN	Number=Sing	0	root	_	start_char=35|end_char=42
+2	.	.	PUNCT	.	_	1	punct	_	start_char=42|end_char=43
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=44|end_char=47
+2	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=48|end_char=53
+3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=54|end_char=56
+4	open	open	ADJ	JJ	Degree=Pos	5	amod	_	start_char=57|end_char=61
+5	marriage	marriage	NOUN	NN	Number=Sing	2	obj	_	start_char=62|end_char=70
+6	.	.	PUNCT	.	_	2	punct	_	start_char=70|end_char=71
+
+1	OP	OP	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=72|end_char=74
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=75|end_char=77
+3	likely	likely	ADV	RB	_	5	advmod	_	start_char=78|end_char=84
+4	very	very	ADV	RB	_	5	advmod	_	start_char=85|end_char=89
+5	judgmental	judgmental	ADJ	JJ	Degree=Pos	0	root	_	start_char=90|end_char=100
+6	because	because	SCONJ	IN	_	9	mark	_	start_char=101|end_char=108
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=109|end_char=113
+8	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=113|end_char=116
+9	young	young	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=117|end_char=122
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=123|end_char=126
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=127|end_char=134
+12	of	of	ADP	IN	_	17	mark	_	start_char=135|end_char=137
+13	how	how	SCONJ	WRB	PronType=Int	17	mark	_	start_char=138|end_char=141
+14	real	real	ADJ	JJ	Degree=Pos	15	amod	_	start_char=142|end_char=146
+15	marriages	marriage	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=147|end_char=156
+16	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=157|end_char=160
+17	evolve	evolve	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=161|end_char=167
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=168|end_char=171
+19	take	take	VERB	VB	VerbForm=Inf	17	conj	_	start_char=172|end_char=176
+20	different	different	ADJ	JJ	Degree=Pos	21	amod	_	start_char=177|end_char=186
+21	shapes	shape	NOUN	NNS	Number=Plur	19	obj	_	start_char=187|end_char=193
+22	.	.	PUNCT	.	_	5	punct	_	start_char=193|end_char=194
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=195|end_char=196
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=197|end_char=199
+3	n't	not	PART	RB	_	4	advmod	_	start_char=199|end_char=202
+4	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=203|end_char=213
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=214|end_char=219
+6	open	open	ADJ	JJ	Degree=Pos	7	amod	_	start_char=220|end_char=224
+7	hostility	hostility	NOUN	NN	Number=Sing	4	obj	_	start_char=225|end_char=234
+8	towards	towards	ADP	IN	_	9	case	_	start_char=235|end_char=242
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=243|end_char=245
+10	all	all	DET	DT	_	9	det	_	start_char=246|end_char=249
+11	.	.	PUNCT	.	_	4	punct	_	start_char=249|end_char=250
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=251|end_char=253
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=254|end_char=259
+3	at	at	ADP	IN	_	4	case	_	start_char=260|end_char=262
+4	least	least	ADJ	JJS	Degree=Sup	2	obl	_	start_char=263|end_char=268
+5	on	on	ADP	IN	_	7	case	_	start_char=269|end_char=271
+6	some	some	DET	DT	_	7	det	_	start_char=272|end_char=276
+7	level	level	NOUN	NN	Number=Sing	2	obl	_	start_char=277|end_char=282
+8	to	to	PART	TO	_	11	mark	_	start_char=283|end_char=285
+9	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=286|end_char=288
+10	fairly	fairly	ADV	RB	_	11	advmod	_	start_char=289|end_char=295
+11	respectful	respectful	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=296|end_char=306
+

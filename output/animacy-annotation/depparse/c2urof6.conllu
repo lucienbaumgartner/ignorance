@@ -1,0 +1,46 @@
+1	What	what	PRON	WP	PronType=Int	4	det:predet	_	start_char=0|end_char=4
+2	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=7
+3	astute	astute	ADJ	JJ	Degree=Pos	4	amod	_	start_char=8|end_char=14
+4	observation	observation	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=26
+5	.	.	PUNCT	.	_	4	punct	_	start_char=26|end_char=27
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=28|end_char=31
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=32|end_char=34
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=35|end_char=38
+4	give	give	VERB	VB	VerbForm=Inf	0	root	_	start_char=39|end_char=43
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=44|end_char=45
+6	shit	shit	NOUN	NN	Number=Sing	4	obj	_	start_char=46|end_char=50
+7	what	what	PRON	WP	PronType=Int	11	obj	_	start_char=51|end_char=55
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=56|end_char=60
+9	douche	douche	NOUN	NN	Number=Sing	10	compound	_	start_char=61|end_char=67
+10	friend	friend	NOUN	NN	Number=Sing	11	nsubj	_	start_char=68|end_char=74
+11	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=75|end_char=81
+12	anyways	anyways	ADV	RB	_	11	advmod	_	start_char=82|end_char=89
+13	?	?	PUNCT	.	_	4	punct	_	start_char=89|end_char=90
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=91|end_char=94
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=95|end_char=99
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=100|end_char=104
+4	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=105|end_char=113
+5	in	in	ADP	IN	_	7	case	_	start_char=114|end_char=116
+6	english	English	ADJ	JJ	Degree=Pos	7	amod	_	start_char=117|end_char=124
+7	class	class	NOUN	NN	Number=Sing	4	obl	_	start_char=125|end_char=130
+8	so	so	ADV	RB	_	12	advmod	_	start_char=131|end_char=133
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=134|end_char=137
+10	must	must	AUX	MD	VerbForm=Fin	12	aux	_	start_char=138|end_char=142
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=143|end_char=145
+12	young	young	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=146|end_char=151
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=152|end_char=155
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=156|end_char=163
+15	that	that	SCONJ	IN	_	20	mark	_	start_char=164|end_char=168
+16	some	some	DET	DT	_	17	det	_	start_char=169|end_char=173
+17	people	people	NOUN	NNS	Number=Plur	20	nsubj	_	start_char=174|end_char=180
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=181|end_char=184
+19	just	just	ADV	RB	_	20	advmod	_	start_char=185|end_char=189
+20	douches	douch	NOUN	NNS	Number=Plur	14	ccomp	_	start_char=190|end_char=197
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=198|end_char=201
+22	suck	suck	VERB	VB	Mood=Ind|VerbForm=Fin	20	conj	_	start_char=202|end_char=206
+23	at	at	SCONJ	IN	_	24	mark	_	start_char=207|end_char=209
+24	having	have	VERB	VBG	VerbForm=Ger	22	advcl	_	start_char=210|end_char=216
+25	opinions	opinion	NOUN	NNS	Number=Plur	24	obj	_	start_char=217|end_char=225
+

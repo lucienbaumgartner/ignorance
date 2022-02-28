@@ -1,0 +1,33 @@
+1	What	what	PRON	WP	PronType=Int	6	nsubj	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=5|end_char=8
+3	hell	hell	NOUN	NN	Number=Sing	6	nsubj	_	start_char=9|end_char=13
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=14|end_char=16
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=17|end_char=21
+6	issue	issue	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=27
+7	?	?	PUNCT	.	_	6	punct	_	start_char=27|end_char=28
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=29|end_char=32
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=33|end_char=36
+3	that	that	ADV	RB	_	4	advmod	_	start_char=37|end_char=41
+4	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=52
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=53|end_char=56
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=57|end_char=65
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=66|end_char=70
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=71|end_char=74
+9	ca	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=75|end_char=77
+10	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=77|end_char=80
+11	possibly	possibly	ADV	RB	_	12	advmod	_	start_char=81|end_char=89
+12	fathom	fathom	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=90|end_char=96
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=97|end_char=100
+14	idea	idea	NOUN	NN	Number=Sing	12	obj	_	start_char=101|end_char=105
+15	that	that	SCONJ	IN	_	17	mark	_	start_char=106|end_char=110
+16	someone	someone	PRON	NN	Number=Sing	17	nsubj	_	start_char=111|end_char=118
+17	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	start_char=119|end_char=124
+18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=125|end_char=126
+19	different	different	ADJ	JJ	Degree=Pos	20	amod	_	start_char=127|end_char=136
+20	lifestyle	lifestyle	NOUN	NN	Number=Sing	17	obj	_	start_char=137|end_char=146
+21	from	from	ADP	IN	_	23	case	_	start_char=147|end_char=151
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=152|end_char=156
+23	own	own	ADJ	JJ	Degree=Pos	20	nmod	_	start_char=157|end_char=160
+24	?	?	PUNCT	.	_	4	punct	_	start_char=160|end_char=161
+

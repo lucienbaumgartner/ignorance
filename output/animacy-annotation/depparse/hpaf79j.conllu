@@ -1,0 +1,29 @@
+1	As	as	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	someone	someone	PRON	NN	Number=Sing	17	obl	_	start_char=3|end_char=10
+3	that	that	PRON	WDT	PronType=Rel	4	nsubj	_	start_char=11|end_char=15
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=16|end_char=19
+5	two	two	NUM	CD	NumType=Card	6	nummod	_	start_char=20|end_char=23
+6	kids	kid	NOUN	NNS	Number=Plur	4	obj	_	start_char=24|end_char=28
+7	,	,	PUNCT	,	_	17	punct	_	start_char=28|end_char=29
+8	bringing	bring	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=30|end_char=38
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=39|end_char=40
+10	baby	baby	NOUN	NN	Number=Sing	8	obj	_	start_char=41|end_char=45
+11	into	into	ADP	IN	_	13	case	_	start_char=46|end_char=50
+12	that	that	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=51|end_char=55
+13	setting	setting	NOUN	NN	Number=Sing	8	obl	_	start_char=56|end_char=63
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=64|end_char=66
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=67|end_char=70
+16	last	last	ADJ	JJ	Degree=Pos	17	amod	_	start_char=71|end_char=75
+17	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=76|end_char=81
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	start_char=82|end_char=83
+19	’d	have	AUX	MD	VerbForm=Fin	20	aux	_	start_char=83|end_char=85
+20	want	want	VERB	VB	VerbForm=Inf	17	acl:relcl	_	start_char=86|end_char=90
+21	to	to	PART	TO	_	22	mark	_	start_char=91|end_char=93
+22	do	do	VERB	VB	VerbForm=Inf	20	xcomp	_	start_char=94|end_char=96
+23	.	.	PUNCT	.	_	17	punct	_	start_char=96|end_char=97
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=98|end_char=102
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=103|end_char=111
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=112|end_char=115
+4	selfish	selfish	ADJ	JJ	Degree=Pos	2	conj	_	start_char=116|end_char=123
+

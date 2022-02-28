@@ -1,0 +1,17 @@
+1	Probably	probably	ADV	RB	_	3	advmod	_	start_char=0|end_char=8
+2	better	good	ADJ	JJR	Degree=Cmp	3	amod	_	start_char=9|end_char=15
+3	ways	way	NOUN	NNS	Number=Plur	0	root	_	start_char=16|end_char=20
+4	to	to	PART	TO	_	5	mark	_	start_char=21|end_char=23
+5	do	do	VERB	VB	VerbForm=Inf	3	acl	_	start_char=24|end_char=26
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=27|end_char=29
+7	than	than	SCONJ	IN	_	9	mark	_	start_char=30|end_char=34
+8	to	to	PART	TO	_	9	mark	_	start_char=35|end_char=37
+9	sound	sound	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=38|end_char=43
+10	absent	absent	ADJ	JJ	Degree=Pos	11	amod	_	start_char=44|end_char=50
+11	minded	minded	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=51|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=62|end_char=70
+14	of	of	ADP	IN	_	15	case	_	start_char=71|end_char=73
+15	things	thing	NOUN	NNS	Number=Plur	13	obl	_	start_char=74|end_char=80
+16	though	though	ADV	RB	Degree=Pos	9	advmod	_	start_char=81|end_char=87
+

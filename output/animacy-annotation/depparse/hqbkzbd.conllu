@@ -1,0 +1,22 @@
+1	what	what	PRON	WP	PronType=Int	8	nsubj	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+3	damn	damn	ADJ	JJ	Degree=Pos	4	amod	_	start_char=9|end_char=13
+4	hell	hell	NOUN	NN	Number=Sing	8	nsubj	_	start_char=14|end_char=18
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=19|end_char=21
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=22|end_char=23
+7	Trunk	trunk	NOUN	NN	Number=Sing	8	compound	_	start_char=24|end_char=29
+8	measurement	measurement	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=41
+9	?	?	PUNCT	.	_	8	punct	_	start_char=41|end_char=42
+
+1	tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=43|end_char=47
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=48|end_char=50
+3	if	if	SCONJ	IN	_	8	mark	_	start_char=51|end_char=53
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=54|end_char=55
+5	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=56|end_char=58
+6	just	just	ADV	RB	_	8	advmod	_	start_char=59|end_char=63
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=64|end_char=69
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=70|end_char=78
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=79|end_char=82
+10	American	American	ADJ	JJ	Degree=Pos	8	conj	_	start_char=83|end_char=91
+11	lol	lol	INTJ	UH	_	1	discourse	_	start_char=92|end_char=95
+

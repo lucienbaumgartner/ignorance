@@ -1,0 +1,39 @@
+1	Giving	give	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=6
+2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=7|end_char=10
+3	opinion	opinion	NOUN	NN	Number=Sing	1	obj	_	start_char=11|end_char=18
+4	on	on	ADP	IN	_	5	case	_	start_char=19|end_char=21
+5	CANZUK	CANZUK	PROPN	NNP	Number=Sing	1	obl	_	start_char=22|end_char=28
+6	then	then	ADV	RB	PronType=Dem	1	advmod	_	start_char=29|end_char=33
+7	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=37|end_char=39
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=39|end_char=41
+3	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=42|end_char=49
+4	after	after	ADP	IN	_	5	case	_	start_char=50|end_char=55
+5	all	all	DET	DT	_	3	obl	_	start_char=56|end_char=59
+6	regardless	regardless	ADV	RB	_	3	advmod	_	start_char=60|end_char=70
+7	of	of	ADP	IN	_	8	case	_	start_char=71|end_char=73
+8	positive	positive	ADJ	JJ	Degree=Pos	6	obl	_	start_char=74|end_char=82
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=83|end_char=85
+10	negative	negative	ADJ	JJ	Degree=Pos	8	conj	_	start_char=86|end_char=94
+11	.	.	PUNCT	.	_	3	punct	_	start_char=94|end_char=95
+
+1	Would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=96|end_char=101
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=102|end_char=105
+3	prefer	prefer	VERB	VB	VerbForm=Inf	0	root	_	start_char=106|end_char=112
+4	to	to	PART	TO	_	6	mark	_	start_char=113|end_char=115
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=116|end_char=118
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=119|end_char=127
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=128|end_char=131
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=132|end_char=139
+9	of	of	ADP	IN	_	10	case	_	start_char=140|end_char=142
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=143|end_char=147
+11	some	some	DET	DT	_	12	det	_	start_char=148|end_char=152
+12	sectors	sector	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=153|end_char=160
+13	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=161|end_char=166
+14	/	/	SYM	,	_	15	cc	_	start_char=166|end_char=167
+15	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	conj	_	start_char=167|end_char=174
+16	about	about	ADP	IN	_	17	case	_	start_char=175|end_char=180
+17	CANZUK	CANZUK	PROPN	NNP	Number=Sing	15	obl	_	start_char=181|end_char=187
+18	?	?	PUNCT	.	_	3	punct	_	start_char=187|end_char=188
+

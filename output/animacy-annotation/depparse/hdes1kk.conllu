@@ -1,0 +1,29 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=4|end_char=7
+3	…	…	PUNCT	,	_	5	punct	_	start_char=7|end_char=8
+4	just	just	ADV	RB	_	5	advmod	_	start_char=9|end_char=13
+5	join	join	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=18
+6	Reddit	Reddit	PROPN	NNP	Number=Sing	5	obj	_	start_char=19|end_char=25
+7	or	or	CCONJ	CC	_	8	cc	_	start_char=26|end_char=28
+8	something	something	PRON	NN	Number=Sing	6	conj	_	start_char=29|end_char=38
+9	?	?	PUNCT	.	_	5	punct	_	start_char=38|end_char=39
+
+1	Or	or	CCONJ	CC	_	6	cc	_	start_char=40|end_char=42
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=43|end_char=46
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=47|end_char=50
+4	just	just	ADV	RB	_	6	advmod	_	start_char=51|end_char=55
+5	extremely	extremely	ADV	RB	_	6	advmod	_	start_char=56|end_char=65
+6	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=71
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=72|end_char=75
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=76|end_char=83
+9	of	of	ADP	IN	_	11	case	_	start_char=84|end_char=86
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=87|end_char=90
+11	varieties	variety	NOUN	NNS	Number=Plur	8	obl	_	start_char=91|end_char=100
+12	of	of	ADP	IN	_	13	case	_	start_char=101|end_char=103
+13	sex	sex	NOUN	NN	Number=Sing	11	nmod	_	start_char=104|end_char=107
+14	/	/	SYM	,	_	15	cc	_	start_char=107|end_char=108
+15	sexuality	sexuality	NOUN	NN	Number=Sing	13	conj	_	start_char=108|end_char=117
+16	out	out	ADP	IN	_	17	case	_	start_char=118|end_char=121
+17	there	there	ADV	RB	PronType=Dem	11	nmod	_	start_char=122|end_char=127
+18	?	?	PUNCT	.	_	6	punct	_	start_char=127|end_char=128
+

@@ -1,0 +1,23 @@
+1	Yep	yep	INTJ	UH	_	8	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	8	punct	_	start_char=3|end_char=4
+3	any	any	DET	DT	_	4	det	_	start_char=5|end_char=8
+4	time	time	NOUN	NN	Number=Sing	8	obl:tmod	_	start_char=9|end_char=13
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=14|end_char=15
+6	racial	racial	ADJ	JJ	Degree=Pos	7	amod	_	start_char=16|end_char=22
+7	issue	issue	NOUN	NN	Number=Sing	8	nsubj	_	start_char=23|end_char=28
+8	pops	pop	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=33
+9	up	up	ADP	RP	_	8	compound:prt	_	start_char=34|end_char=36
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=37|end_char=40
+11	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	parataxis	_	start_char=41|end_char=44
+12	to	to	PART	TO	_	13	mark	_	start_char=45|end_char=47
+13	see	see	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=48|end_char=51
+14	just	just	ADV	RB	_	16	advmod	_	start_char=52|end_char=56
+15	how	how	SCONJ	WRB	PronType=Int	16	mark	_	start_char=57|end_char=60
+16	white	white	ADJ	JJ	Degree=Pos	13	ccomp	_	start_char=61|end_char=66
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=67|end_char=70
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=71|end_char=79
+19	that	that	SCONJ	IN	_	21	mark	_	start_char=80|end_char=84
+20	sub	sub	NOUN	NN	Number=Sing	21	nsubj	_	start_char=85|end_char=88
+21	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=89|end_char=91
+22	.	.	PUNCT	.	_	8	punct	_	start_char=91|end_char=92
+

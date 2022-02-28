@@ -1,0 +1,192 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	sighed	sigh	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=8
+3	in	in	ADP	IN	_	4	case	_	start_char=9|end_char=11
+4	pain	pain	NOUN	NN	Number=Sing	2	obl	_	start_char=12|end_char=16
+5	.	.	PUNCT	.	_	2	punct	_	start_char=16|end_char=17
+
+1	"	"	PUNCT	``	_	3	punct	_	start_char=18|end_char=19
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=19|end_char=20
+3	loved	love	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=21|end_char=26
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=27|end_char=30
+5	.	.	PUNCT	.	_	3	punct	_	start_char=30|end_char=31
+
+1	Hell	Hell	PROPN	NNP	Number=Sing	5	vocative	_	start_char=32|end_char=36
+2	,	,	PUNCT	,	_	5	punct	_	start_char=36|end_char=37
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=38|end_char=39
+4	still	still	ADV	RB	_	5	advmod	_	start_char=40|end_char=45
+5	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=46|end_char=50
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=51|end_char=53
+7	could	could	AUX	MD	VerbForm=Fin	10	aux	_	start_char=54|end_char=59
+8	have	have	AUX	VB	VerbForm=Inf	10	aux	_	start_char=60|end_char=64
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	_	start_char=65|end_char=69
+10	different	different	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=70|end_char=79
+11	.	.	PUNCT	.	_	5	punct	_	start_char=79|end_char=80
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=81|end_char=84
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=85|end_char=88
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=88|end_char=90
+4	so	so	ADV	RB	_	5	advmod	_	start_char=91|end_char=93
+5	dangerous	dangerous	ADJ	JJ	Degree=Pos	0	root	_	start_char=94|end_char=103
+6	.	.	PUNCT	.	_	5	punct	_	start_char=103|end_char=104
+
+1	Put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=105|end_char=108
+2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=109|end_char=110
+3	damn	damn	ADV	RB	_	4	advmod	_	start_char=111|end_char=115
+4	powerful	powerful	ADJ	JJ	Degree=Pos	6	amod	_	start_char=116|end_char=124
+5	corrupted	corrupt	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=125|end_char=134
+6	witch	witch	NOUN	NN	Number=Sing	1	obj	_	start_char=135|end_char=140
+7	in	in	ADP	IN	_	9	case	_	start_char=141|end_char=143
+8	with	with	ADP	IN	_	9	case	_	start_char=144|end_char=148
+9	Malice	Malice	PROPN	NNP	Number=Sing	1	obl	_	start_char=149|end_char=155
+10	.	.	PUNCT	.	_	1	punct	_	start_char=155|end_char=156
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=157|end_char=159
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=160|end_char=165
+3	kill	kill	VERB	VB	VerbForm=Inf	0	root	_	start_char=166|end_char=170
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=171|end_char=172
+5	lot	lot	NOUN	NN	Number=Sing	3	obj	_	start_char=173|end_char=176
+6	of	of	ADP	IN	_	7	case	_	start_char=177|end_char=179
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=180|end_char=186
+8	.	.	PUNCT	.	_	3	punct	_	start_char=186|end_char=187
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=188|end_char=191
+2	possibly	possibly	ADV	RB	_	4	advmod	_	start_char=192|end_char=200
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=201|end_char=204
+4	both	both	DET	DT	_	0	root	_	start_char=205|end_char=209
+5	of	of	ADP	IN	_	6	case	_	start_char=210|end_char=212
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	nmod	_	start_char=213|end_char=215
+7	.	.	PUNCT	.	_	4	punct	_	start_char=215|end_char=216
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=217|end_char=220
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=221|end_char=223
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=224|end_char=227
+4	impossible	impossible	ADJ	JJ	Degree=Pos	0	root	_	start_char=228|end_char=238
+5	.	.	PUNCT	.	_	4	punct	_	start_char=238|end_char=239
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=240|end_char=242
+2	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=243|end_char=247
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=248|end_char=251
+4	separate	separate	ADJ	JJ	Degree=Pos	5	amod	_	start_char=252|end_char=260
+5	ways	way	NOUN	NNS	Number=Plur	2	obj	_	start_char=261|end_char=265
+6	.	.	PUNCT	.	_	2	punct	_	start_char=265|end_char=266
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=267|end_char=269
+2	talked	talk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=270|end_char=276
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=277|end_char=280
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=281|end_char=284
+5	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=285|end_char=289
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	start_char=290|end_char=292
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=293|end_char=296
+8	still	still	ADV	RB	_	9	advmod	_	start_char=297|end_char=302
+9	loves	love	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=303|end_char=308
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=309|end_char=311
+11	.	.	PUNCT	.	_	2	punct	_	start_char=311|end_char=312
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=313|end_char=316
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=317|end_char=321
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=322|end_char=325
+4	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=326|end_char=331
+5	dead	dead	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=332|end_char=336
+6	without	without	ADP	IN	_	7	case	_	start_char=337|end_char=344
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=345|end_char=347
+8	.	.	PUNCT	.	_	2	punct	_	start_char=347|end_char=348
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=349|end_char=352
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=353|end_char=355
+3	ca	can	AUX	MD	VerbForm=Fin	0	root	_	start_char=356|end_char=358
+4	n't	not	PART	RB	_	3	advmod	_	start_char=358|end_char=361
+5	.	.	PUNCT	.	_	3	punct	_	start_char=361|end_char=362
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=363|end_char=364
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=364|end_char=366
+3	not	not	PART	RB	_	4	advmod	_	start_char=367|end_char=370
+4	settling	settle	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=371|end_char=379
+5	for	for	ADP	IN	_	6	case	_	start_char=380|end_char=383
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=384|end_char=387
+7	.	.	PUNCT	.	_	4	punct	_	start_char=387|end_char=388
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=389|end_char=390
+2	still	still	ADV	RB	_	3	advmod	_	start_char=391|end_char=396
+3	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=397|end_char=401
+4	about	about	ADP	IN	_	5	case	_	start_char=402|end_char=407
+5	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=408|end_char=411
+6	.	.	PUNCT	.	_	3	punct	_	start_char=411|end_char=412
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=413|end_char=414
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=415|end_char=419
+3	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=420|end_char=423
+4	happy	happy	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=424|end_char=429
+5	.	.	PUNCT	.	_	2	punct	_	start_char=429|end_char=430
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=431|end_char=434
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=435|end_char=436
+3	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=437|end_char=441
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=442|end_char=445
+5	.	.	PUNCT	.	_	3	punct	_	start_char=445|end_char=446
+6	"	"	PUNCT	''	_	3	punct	_	start_char=446|end_char=447
+
+1	Nancy	Nancy	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=450|end_char=455
+2	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=456|end_char=462
+3	to	to	PART	TO	_	5	mark	_	start_char=463|end_char=465
+4	be	be	AUX	VB	VerbForm=Inf	5	aux	_	start_char=466|end_char=468
+5	struggling	struggle	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	start_char=469|end_char=479
+6	to	to	PART	TO	_	7	mark	_	start_char=480|end_char=482
+7	stay	stay	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=483|end_char=487
+8	awake	awake	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=488|end_char=493
+9	.	.	PUNCT	.	_	2	punct	_	start_char=493|end_char=494
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=497|end_char=500
+
+1	Sarah	Sarah	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=502|end_char=507
+2	sighed	sigh	VERB	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	start_char=508|end_char=514
+3	.	.	PUNCT	.	_	2	punct	_	start_char=514|end_char=515
+
+1	"	"	PUNCT	``	_	3	punct	_	start_char=516|end_char=517
+2	Very	very	ADV	RB	_	3	advmod	_	start_char=517|end_char=521
+3	well	well	ADV	RB	Degree=Pos	0	root	_	start_char=522|end_char=526
+4	.	.	PUNCT	.	_	3	punct	_	start_char=526|end_char=527
+5	"	"	PUNCT	''	_	3	punct	_	start_char=527|end_char=528
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=530|end_char=533
+
+1	"	"	PUNCT	``	_	8	punct	_	start_char=535|end_char=536
+2	Not	not	PART	RB	_	4	advmod	_	start_char=536|end_char=539
+3	with	with	ADP	IN	_	4	case	_	start_char=540|end_char=544
+4	Nance	Nance	PROPN	NNP	Number=Sing	8	obl	_	start_char=545|end_char=550
+5	Ballard	Ballard	PROPN	NNP	Number=Sing	4	flat	_	start_char=551|end_char=558
+6	,	,	PUNCT	,	_	8	punct	_	start_char=558|end_char=559
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=560|end_char=562
+8	ai	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=563|end_char=565
+9	n't	not	PART	RB	_	8	advmod	_	start_char=565|end_char=568
+10	!	!	PUNCT	.	_	8	punct	_	start_char=568|end_char=569
+11	"	"	PUNCT	''	_	8	punct	_	start_char=569|end_char=570
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=572|end_char=575
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=577|end_char=578
+2	Got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=578|end_char=581
+3	both	both	DET	PDT	_	5	det:predet	_	start_char=582|end_char=586
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=587|end_char=589
+5	hearts	heart	NOUN	NNS	Number=Plur	2	obj	_	start_char=590|end_char=596
+6	pumpin	pumpin	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=597|end_char=603
+7	'	'	PUNCT	''	_	2	punct	_	start_char=603|end_char=604
+8	.	.	PUNCT	.	_	2	punct	_	start_char=604|end_char=605
+9	"	"	PUNCT	''	_	2	punct	_	start_char=605|end_char=606
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=608|end_char=611
+
+1	"	"	PUNCT	``	_	3	punct	_	start_char=613|end_char=614
+2	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=614|end_char=617
+3	alright	alright	INTJ	UH	_	0	root	_	start_char=618|end_char=625
+4	?	?	PUNCT	.	_	3	punct	_	start_char=625|end_char=626
+5	"	"	PUNCT	''	_	3	punct	_	start_char=626|end_char=627
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=629|end_char=632
+
+1	Anarchy	Anarchy	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=634|end_char=641
+2	remained	remain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=642|end_char=650
+3	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=651|end_char=658
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=659|end_char=662
+5	deeply	deeply	ADV	RB	_	6	advmod	_	start_char=663|end_char=669
+6	annoyed	annoyed	ADJ	JJ	Degree=Pos	3	conj	_	start_char=670|end_char=677
+

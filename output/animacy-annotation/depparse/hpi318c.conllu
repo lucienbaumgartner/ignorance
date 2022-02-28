@@ -1,0 +1,32 @@
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	going	go	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=5|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=15|end_char=19
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=20|end_char=23
+6	world	world	NOUN	NN	Number=Sing	4	obj	_	start_char=24|end_char=29
+7	just	just	ADV	RB	_	9	advmod	_	start_char=30|end_char=34
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=35|end_char=38
+9	fucking	fuck	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=39|end_char=46
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=47|end_char=55
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+12	arrogant	arrogant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=60|end_char=68
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=69|end_char=72
+14	actually	actually	ADV	RB	_	15	advmod	_	start_char=73|end_char=81
+15	are	be	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=82|end_char=85
+16	.	.	PUNCT	.	_	1	punct	_	start_char=85|end_char=86
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=88|end_char=93
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=93|end_char=95
+3	even	even	ADV	RB	_	2	advmod	_	start_char=96|end_char=100
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=101|end_char=103
+5	entire	entire	ADJ	JJ	Degree=Pos	6	amod	_	start_char=104|end_char=110
+6	subreddit	subreddit	NOUN	NN	Number=Sing	2	nsubj	_	start_char=111|end_char=120
+7	for	for	ADP	IN	_	8	case	_	start_char=121|end_char=124
+8	idiots	idiot	NOUN	NNS	Number=Plur	6	nmod	_	start_char=125|end_char=131
+9	like	like	ADP	IN	_	10	case	_	start_char=132|end_char=136
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	nmod	_	start_char=137|end_char=140
+11	,	,	PUNCT	,	_	13	punct	_	start_char=140|end_char=141
+12	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=142|end_char=145
+13	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=146|end_char=150
+14	?	?	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+

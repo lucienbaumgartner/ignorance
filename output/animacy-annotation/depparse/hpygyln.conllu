@@ -1,0 +1,23 @@
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	reacted	react	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=15
+4	,	,	PUNCT	,	_	3	punct	_	start_char=15|end_char=16
+5	like	like	ADP	IN	_	7	case	_	start_char=17|end_char=21
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=22|end_char=23
+7	clod	clod	NOUN	NN	Number=Sing	3	obl	_	start_char=24|end_char=28
+8	,	,	PUNCT	,	_	3	punct	_	start_char=28|end_char=29
+9	as	as	SCONJ	IN	_	13	mark	_	start_char=30|end_char=32
+10	if	if	SCONJ	IN	_	13	mark	_	start_char=33|end_char=35
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=36|end_char=40
+12	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	start_char=41|end_char=44
+13	said	say	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	start_char=45|end_char=49
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=50|end_char=52
+15	.	.	PUNCT	.	_	3	punct	_	start_char=52|end_char=53
+
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=54|end_char=59
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=60|end_char=63
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=72
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=73|end_char=76
+5	rude	rude	ADJ	JJ	Degree=Pos	3	conj	_	start_char=77|end_char=81
+6	.	.	PUNCT	.	_	3	punct	_	start_char=81|end_char=82
+

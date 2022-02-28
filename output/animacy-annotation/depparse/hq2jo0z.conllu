@@ -1,0 +1,18 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	world	world	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=13
+4	so	so	ADV	RB	_	5	advmod	_	start_char=14|end_char=16
+5	materialistic	materialistic	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=30
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=31|end_char=34
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=35|end_char=43
+8	that	that	SCONJ	IN	_	14	mark	_	start_char=44|end_char=48
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=49|end_char=52
+10	search	search	NOUN	NN	Number=Sing	14	nsubj:pass	_	start_char=53|end_char=59
+11	for	for	ADP	IN	_	12	case	_	start_char=60|end_char=63
+12	Brahman	Brahman	PROPN	NNP	Number=Sing	10	nmod	_	start_char=64|end_char=71
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=72|end_char=74
+14	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	ccomp	_	start_char=75|end_char=79
+15	as	as	ADV	RB	_	16	advmod	_	start_char=80|end_char=82
+16	worthless	worthless	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=83|end_char=92
+17	.	.	PUNCT	.	_	5	punct	_	start_char=92|end_char=93
+

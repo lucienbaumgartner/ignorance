@@ -1,0 +1,20 @@
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=0|end_char=2
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=3|end_char=6
+3	Master	master	NOUN	NN	Number=Sing	4	compound	_	start_char=7|end_char=13
+4	Chief	Chief	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=14|end_char=19
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=20|end_char=23
+6	naked	naked	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=24|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=34|end_char=41
+9	of	of	ADP	IN	_	11	case	_	start_char=42|end_char=44
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=45|end_char=48
+11	tiger	tiger	NOUN	NN	Number=Sing	8	obl	_	start_char=49|end_char=54
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=55|end_char=57
+13	would	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=58|end_char=63
+14	still	still	ADV	RB	_	15	advmod	_	start_char=64|end_char=69
+15	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=70|end_char=74
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=75|end_char=76
+17	fighting	fighting	NOUN	NN	Number=Sing	18	compound	_	start_char=77|end_char=85
+18	chance	chance	NOUN	NN	Number=Sing	15	obj	_	start_char=86|end_char=92
+19	.	.	PUNCT	.	_	15	punct	_	start_char=92|end_char=93
+

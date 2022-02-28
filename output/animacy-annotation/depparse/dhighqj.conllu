@@ -1,0 +1,77 @@
+1	First	first	ADV	RB	Degree=Pos	9	advmod	_	start_char=0|end_char=5
+2	of	of	ADP	IN	_	3	case	_	start_char=6|end_char=8
+3	all	all	DET	DT	_	1	obl	_	start_char=9|end_char=12
+4	,	,	PUNCT	,	_	9	punct	_	start_char=12|end_char=13
+5	Muslims	Muslim	PROPN	NNPS	Number=Plur	9	nsubj	_	start_char=14|end_char=21
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=22|end_char=25
+7	n't	not	PART	RB	_	9	advmod	_	start_char=25|end_char=28
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=29|end_char=30
+9	race	race	NOUN	NN	Number=Sing	0	root	_	start_char=31|end_char=35
+10	.	.	PUNCT	.	_	9	punct	_	start_char=35|end_char=36
+
+1	Also	also	ADV	RB	_	5	advmod	_	start_char=37|end_char=41
+2	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=42|end_char=47
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=48|end_char=50
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=51|end_char=53
+5	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=62
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=63|end_char=67
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=68|end_char=72
+8	where	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	csubj	_	start_char=73|end_char=78
+9	just	just	ADV	RB	_	10	advmod	_	start_char=79|end_char=83
+10	dumb	dumb	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=84|end_char=88
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=89|end_char=92
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=93|end_char=100
+13	that	that	SCONJ	IN	_	20	mark	_	start_char=101|end_char=105
+14	that	that	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=106|end_char=110
+15	polish	polish	ADJ	JJ	Degree=Pos	16	amod	_	start_char=111|end_char=117
+16	party	party	NOUN	NN	Number=Sing	20	nsubj	_	start_char=118|end_char=123
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	start_char=124|end_char=127
+18	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=128|end_char=129
+19	nazi	nazi	ADJ	JJ	Degree=Pos	20	amod	_	start_char=130|end_char=134
+20	party	party	NOUN	NN	Number=Sing	12	ccomp	_	start_char=135|end_char=140
+21	?	?	PUNCT	.	_	5	punct	_	start_char=140|end_char=141
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=142|end_char=146
+2	probably	probably	ADV	RB	_	4	advmod	_	start_char=147|end_char=155
+3	just	just	ADV	RB	_	4	advmod	_	start_char=156|end_char=160
+4	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=161|end_char=164
+5	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=165|end_char=167
+6	edgy	edgy	ADJ	JJ	Degree=Pos	11	amod	_	start_char=168|end_char=172
+7	foreign	foreign	ADJ	JJ	Degree=Pos	11	amod	_	start_char=173|end_char=180
+8	right	right	ADJ	JJ	Degree=Pos	11	amod	_	start_char=181|end_char=186
+9	wing	wing	NOUN	NN	Number=Sing	11	compound	_	start_char=187|end_char=191
+10	political	political	ADJ	JJ	Degree=Pos	11	amod	_	start_char=192|end_char=201
+11	party	party	NOUN	NN	Number=Sing	4	obj	_	start_char=202|end_char=207
+12	and	and	CCONJ	CC	_	17	cc	_	start_char=208|end_char=211
+13	without	without	SCONJ	IN	_	14	mark	_	start_char=212|end_char=219
+14	looking	look	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=220|end_char=227
+15	into	into	ADP	IN	_	16	case	_	start_char=228|end_char=232
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=233|end_char=235
+17	supported	support	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=236|end_char=245
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=246|end_char=248
+19	in	in	ADP	IN	_	21	case	_	start_char=249|end_char=251
+20	that	that	DET	DT	Number=Sing|PronType=Dem	21	det	_	start_char=252|end_char=256
+21	basis	basis	NOUN	NN	Number=Sing	17	obl	_	start_char=257|end_char=262
+22	.	.	PUNCT	.	_	4	punct	_	start_char=262|end_char=263
+
+1	Dumb	Dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=264|end_char=268
+2	?	?	PUNCT	.	_	1	punct	_	start_char=268|end_char=269
+
+1	Yes	yes	INTJ	UH	_	3	discourse	_	start_char=270|end_char=273
+2	,	,	PUNCT	,	_	1	punct	_	start_char=273|end_char=274
+3	very	very	ADV	RB	_	0	root	_	start_char=275|end_char=279
+4	.	.	PUNCT	.	_	3	punct	_	start_char=279|end_char=280
+
+1	Racist	Racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=281|end_char=287
+2	?	?	PUNCT	.	_	1	punct	_	start_char=287|end_char=288
+
+1	Well	well	INTJ	UH	_	8	discourse	_	start_char=289|end_char=293
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=294|end_char=298
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=298|end_char=300
+4	just	just	ADV	RB	_	8	advmod	_	start_char=301|end_char=305
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=306|end_char=309
+6	least	least	ADJ	JJS	Degree=Sup	7	advmod	_	start_char=310|end_char=315
+7	charitable	charitable	ADJ	JJ	Degree=Pos	8	amod	_	start_char=316|end_char=326
+8	inturpritation	inturpritation	NOUN	NN	Number=Sing	0	root	_	start_char=327|end_char=341
+9	.	.	PUNCT	.	_	8	punct	_	start_char=341|end_char=342
+

@@ -1,0 +1,195 @@
+1	Corporate	corporate	ADJ	JJ	Degree=Pos	3	amod	_	start_char=0|end_char=9
+2	owned	own	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=10|end_char=15
+3	MSM	MSM	PROPN	NNP	Number=Sing	5	nsubj:pass	_	start_char=16|end_char=19
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=20|end_char=22
+5	complicit	complicit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=23|end_char=32
+6	in	in	ADP	IN	_	9	case	_	start_char=33|end_char=35
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=36|end_char=39
+8	globalists	globalist	NOUN	NNS	Number=Plur	9	compound	_	start_char=40|end_char=50
+9	strategy	strategy	NOUN	NN	Number=Sing	5	obl	_	start_char=51|end_char=59
+10	to	to	PART	TO	_	11	mark	_	start_char=60|end_char=62
+11	create	create	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=63|end_char=69
+12	an	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=70|end_char=72
+13	[	[	PUNCT	-LRB-	_	18	punct	_	start_char=73|end_char=74
+14	“	''	PUNCT	``	_	18	punct	_	start_char=74|end_char=75
+15	unaware	unaware	ADJ	JJ	Degree=Pos	18	amod	_	start_char=75|end_char=82
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=83|end_char=86
+17	compliant	compliant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=87|end_char=96
+18	citizenry	citizenry	NOUN	NN	Number=Sing	11	obj	_	start_char=97|end_char=106
+19	”	''	PUNCT	''	_	18	punct	_	start_char=106|end_char=107
+20	]	]	PUNCT	-RRB-	_	18	punct	_	start_char=107|end_char=108
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=108|end_char=109
+2	https://twitter.com/PrisonPlanet/status/785987982364860416)	https://twitter.com/PrisonPlanet/status/785987982364860416)	X	ADD	_	0	root	_	start_char=109|end_char=168
+3	to	to	PART	TO	_	4	mark	_	start_char=170|end_char=172
+4	complete	complete	VERB	VB	VerbForm=Inf	2	acl	_	start_char=173|end_char=181
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=182|end_char=187
+6	revisionary	revisionary	ADJ	JJ	Degree=Pos	7	amod	_	start_char=188|end_char=199
+7	narrative	narrative	NOUN	NN	Number=Sing	4	obj	_	start_char=200|end_char=209
+8	of	of	ADP	IN	_	9	case	_	start_char=210|end_char=212
+9	history	history	NOUN	NN	Number=Sing	7	nmod	_	start_char=213|end_char=220
+10	.	.	PUNCT	.	_	2	punct	_	start_char=220|end_char=221
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=223|end_char=226
+2	egregious	egregious	ADJ	JJ	Degree=Pos	5	amod	_	start_char=227|end_char=236
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=237|end_char=240
+4	overt	overt	ADJ	JJ	Degree=Pos	2	conj	_	start_char=241|end_char=246
+5	theft	theft	NOUN	NN	Number=Sing	15	nsubj:pass	_	start_char=247|end_char=252
+6	of	of	ADP	IN	_	8	case	_	start_char=253|end_char=255
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=256|end_char=259
+8	primaries	primary	NOUN	NNS	Number=Plur	5	nmod	_	start_char=260|end_char=269
+9	from	from	ADP	IN	_	10	case	_	start_char=270|end_char=274
+10	Bernie	Bernie	PROPN	NNP	Number=Sing	8	nmod	_	start_char=275|end_char=281
+11	,	,	PUNCT	,	_	15	punct	_	start_char=281|end_char=282
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=284|end_char=287
+13	already	already	ADV	RB	_	15	advmod	_	start_char=288|end_char=295
+14	been	be	AUX	VBN	Tense=Past|VerbForm=Part	15	aux:pass	_	start_char=296|end_char=300
+15	swept	sweep	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=301|end_char=306
+16	into	into	ADP	IN	_	18	case	_	start_char=307|end_char=311
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=312|end_char=315
+18	dustbin	dustbin	NOUN	NN	Number=Sing	15	obl	_	start_char=316|end_char=323
+19	of	of	ADP	IN	_	20	case	_	start_char=324|end_char=326
+20	history	history	NOUN	NN	Number=Sing	18	nmod	_	start_char=327|end_char=334
+21	.	.	PUNCT	.	_	15	punct	_	start_char=334|end_char=335
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=336|end_char=339
+2	Orwellian	orwellian	ADJ	JJ	Degree=Pos	3	amod	_	start_char=340|end_char=349
+3	coverage	coverage	NOUN	NN	Number=Sing	15	nsubj	_	start_char=350|end_char=358
+4	by	by	ADP	IN	_	5	case	_	start_char=359|end_char=361
+5	MSM	MSM	PROPN	NNP	Number=Sing	3	nmod	_	start_char=362|end_char=365
+6	of	of	ADP	IN	_	11	case	_	start_char=366|end_char=368
+7	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=369|end_char=372
+8	sham	sham	NOUN	NN	Number=Sing	11	compound	_	start_char=373|end_char=377
+9	DNC	DNC	PROPN	NNP	Number=Sing	11	compound	_	start_char=378|end_char=381
+10	Philly	Philly	PROPN	NNP	Number=Sing	11	compound	_	start_char=382|end_char=388
+11	convention	convention	NOUN	NN	Number=Sing	3	nmod	_	start_char=389|end_char=399
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=400|end_char=402
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=403|end_char=404
+14	prime	prime	ADJ	JJ	Degree=Pos	15	amod	_	start_char=405|end_char=410
+15	example	example	NOUN	NN	Number=Sing	0	root	_	start_char=411|end_char=418
+16	of	of	ADP	IN	_	19	case	_	start_char=419|end_char=421
+17	"	"	PUNCT	``	_	19	punct	_	start_char=423|end_char=424
+18	Fake	Fake	ADJ	JJ	Degree=Pos	19	amod	_	start_char=424|end_char=428
+19	News	News	PROPN	NNP	Number=Sing	15	nmod	_	start_char=429|end_char=433
+20	"	"	PUNCT	''	_	19	punct	_	start_char=433|end_char=434
+21	!!!	!!!	PUNCT	.	_	15	punct	_	start_char=434|end_char=437
+
+1	Watch	watch	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=440|end_char=445
+2	Unreported	unreport	ADJ	NNP	Degree=Pos	3	amod	_	start_char=446|end_char=456
+3	History	History	PROPN	NNP	Number=Sing	1	obj	_	start_char=457|end_char=464
+4	unfolding	unfold	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=465|end_char=474
+5	in	in	ADP	IN	_	6	case	_	start_char=475|end_char=477
+6	Philly	Philly	PROPN	NNP	Number=Sing	4	obl	_	start_char=478|end_char=484
+7	at	at	ADP	IN	_	9	case	_	start_char=485|end_char=487
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=488|end_char=491
+9	DNC	DNC	PROPN	NNP	Number=Sing	4	obl	_	start_char=492|end_char=495
+10	!	!	PUNCT	.	_	1	punct	_	start_char=495|end_char=496
+
+1	&gt	&gt	PROPN	NNP	Number=Sing	0	root	_	start_char=501|end_char=504
+2	;	;	PUNCT	,	_	1	punct	_	start_char=504|end_char=505
+3	[	[	PUNCT	-LRB-	_	6	punct	_	start_char=505|end_char=506
+4	California	California	PROPN	NNP	Number=Sing	6	compound	_	start_char=506|end_char=516
+5	Delegates	Delegate	PROPN	NNPS	Number=Plur	6	compound	_	start_char=517|end_char=526
+6	Walk	Walk	PROPN	NNP	Number=Sing	1	parataxis	_	start_char=527|end_char=531
+7	Off	off	ADP	IN	_	9	case	_	start_char=532|end_char=535
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=536|end_char=539
+9	Floor	floor	PROPN	NNP	Number=Sing	6	nmod	_	start_char=540|end_char=545
+10	of	of	ADP	IN	_	11	case	_	start_char=546|end_char=548
+11	DNC	DNC	PROPN	NNP	Number=Sing	9	nmod	_	start_char=549|end_char=552
+12	in	in	ADP	IN	_	13	case	_	start_char=553|end_char=555
+13	Protest	Protest	PROPN	NNP	Number=Sing	6	nmod	_	start_char=556|end_char=563
+14	of	of	ADP	IN	_	18	case	_	start_char=564|end_char=566
+15	Hillary	Hillary	PROPN	NNP	Number=Sing	18	nmod:poss	_	start_char=567|end_char=574
+16	Clinton	Clinton	PROPN	NNP	Number=Sing	15	flat	_	start_char=575|end_char=582
+17	’s	's	PART	POS	_	15	case	_	start_char=582|end_char=584
+18	Nomination	nomination	NOUN	NN	Number=Sing	13	nmod	_	start_char=585|end_char=595
+19	]	]	PUNCT	-RRB-	_	1	punct	_	start_char=595|end_char=596
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=596|end_char=597
+2	https://www.youtube.com/watch?v=draSdwyqcxw)	https://www.youtube.com/watch?v=drasdwyqcxw)	X	ADD	_	0	root	_	start_char=597|end_char=641
+
+1	&gt	&gt	PROPN	NNP	Number=Sing	0	root	_	start_char=643|end_char=646
+2	;	;	PUNCT	:	_	4	punct	_	start_char=646|end_char=647
+3	[	[	PUNCT	-LRB-	_	4	punct	_	start_char=647|end_char=648
+4	Disaster	disaster	NOUN	NN	Number=Sing	1	parataxis	_	start_char=648|end_char=656
+5	At	at	ADP	IN	_	7	case	_	start_char=657|end_char=659
+6	The	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=660|end_char=663
+7	DNC	DNC	PROPN	NNP	Abbr=Yes|Number=Sing	4	nmod	_	start_char=664|end_char=667
+8	:	:	PUNCT	:	_	4	punct	_	start_char=667|end_char=668
+9	Anti-Hillary	anti-hillary	ADJ	JJ	Degree=Pos	11	amod	_	start_char=669|end_char=681
+10	Clinton	Clinton	PROPN	NNP	Number=Sing	11	compound	_	start_char=682|end_char=689
+11	Protests	Protest	PROPN	NNPS	Number=Plur	4	parataxis	_	start_char=690|end_char=698
+12	!	!	PUNCT	.	_	4	punct	_	start_char=698|end_char=699
+13	]	]	PUNCT	-RRB-	_	4	punct	_	start_char=699|end_char=700
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=701|end_char=702
+2	https://www.youtube.com/watch?v=I7SvB9qEpNQ&amp;app=desktop)	https://www.youtube.com/watch?v=i7svb9qepnq&amp;app=desktop)	X	ADD	_	0	root	_	start_char=702|end_char=762
+
+1	PLUS	plus	CCONJ	CC	_	0	root	_	start_char=764|end_char=768
+2	.	.	PUNCT	.	_	1	punct	_	start_char=769|end_char=770
+3	.	.	PUNCT	.	_	1	punct	_	start_char=771|end_char=772
+4	.	.	PUNCT	.	_	1	punct	_	start_char=773|end_char=774
+
+1	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=776|end_char=777
+2	Global	global	ADJ	JJ	Degree=Pos	4	amod	_	start_char=777|end_char=783
+3	Anti-Trump	Anti-Trump	PROPN	NNP	Number=Sing	4	compound	_	start_char=784|end_char=794
+4	Coverage	coverage	NOUN	NN	Number=Sing	5	nsubj	_	start_char=795|end_char=803
+5	Proves	prove	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=804|end_char=810
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=811|end_char=814
+7	Matrix	matrix	NOUN	NN	Number=Sing	9	nsubj	_	start_char=815|end_char=821
+8	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=822|end_char=824
+9	Real	real	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=825|end_char=829
+10	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=829|end_char=830
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=830|end_char=831
+2	https://www.youtube.com/watch?v=QjF2paJmHL4)	https://www.youtube.com/watch?v=qjf2pajmhl4)	X	ADD	_	0	root	_	start_char=831|end_char=875
+
+1	[	[	PUNCT	-LRB-	_	6	punct	_	start_char=878|end_char=879
+2	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=879|end_char=882
+3	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj:pass	_	start_char=883|end_char=885
+4	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=886|end_char=889
+5	Being	be	AUX	VBG	VerbForm=Ger	6	aux:pass	_	start_char=890|end_char=895
+6	Groomed	groom	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=896|end_char=903
+7	for	for	ADP	IN	_	11	case	_	start_char=904|end_char=907
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=908|end_char=911
+9	Next	next	ADJ	NNP	Degree=Pos	11	amod	_	start_char=912|end_char=916
+10	Big	big	ADJ	NNP	Degree=Pos	11	amod	_	start_char=917|end_char=920
+11	War	War	PROPN	NNP	Number=Sing	6	obl	_	start_char=921|end_char=924
+12	?	?	PUNCT	.	_	6	punct	_	start_char=924|end_char=925
+13	]	]	PUNCT	-RRB-	_	6	punct	_	start_char=925|end_char=926
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=926|end_char=927
+2	https://www.youtube.com/watch?v=poQPBppFyWM)	https://www.youtube.com/watch?v=poQPBppFyWM)	X	ADD	_	0	root	_	start_char=927|end_char=971
+
+1	And	and	CCONJ	CC	_	9	cc	_	start_char=975|end_char=978
+2	as	as	ADP	IN	_	4	case	_	start_char=979|end_char=981
+3	for	for	ADP	IN	_	4	case	_	start_char=982|end_char=985
+4	NPR	NPR	PROPN	NNP	Number=Sing	0	root	_	start_char=986|end_char=989
+5	,	,	PUNCT	,	_	9	punct	_	start_char=989|end_char=990
+6	[	[	PUNCT	-LRB-	_	9	punct	_	start_char=991|end_char=992
+7	National	National	ADJ	NNP	Degree=Pos	9	amod	_	start_char=992|end_char=1000
+8	Plutocratic	Plutocratic	ADJ	NNP	Degree=Pos	9	amod	_	start_char=1001|end_char=1012
+9	Radio	Radio	PROPN	NNP	Number=Sing	4	appos	_	start_char=1013|end_char=1018
+10	!	!	PUNCT	.	_	9	punct	_	start_char=1018|end_char=1019
+11	]	]	PUNCT	-RRB-	_	9	punct	_	start_char=1019|end_char=1020
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=1020|end_char=1021
+2	http://fair.org/home/national-plutocrat-radio/)	http://fair.org/home/national-plutocrat-radio/)	X	ADD	_	0	root	_	start_char=1021|end_char=1068
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=1072|end_char=1073
+2	Why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=1073|end_char=1076
+3	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=1077|end_char=1081
+4	media	media	NOUN	NN	Number=Sing	5	compound	_	start_char=1082|end_char=1087
+5	saturation	saturation	NOUN	NN	Number=Sing	2	nsubj	_	start_char=1088|end_char=1098
+6	of	of	ADP	IN	_	11	case	_	start_char=1099|end_char=1101
+7	“	''	PUNCT	``	_	9	punct	_	start_char=1102|end_char=1103
+8	Fake	Fake	ADJ	JJ	Degree=Pos	9	amod	_	start_char=1103|end_char=1107
+9	News	news	NOUN	NN	Number=Sing	11	compound	_	start_char=1108|end_char=1112
+10	”	''	PUNCT	''	_	9	punct	_	start_char=1112|end_char=1113
+11	Hype	Hype	PROPN	NNP	Number=Sing	5	nmod	_	start_char=1114|end_char=1118
+12	?	?	PUNCT	.	_	2	punct	_	start_char=1118|end_char=1119
+13	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=1119|end_char=1120
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=1120|end_char=1121
+2	https://www.reddit.com/r/The_Donald/comments/5dvjo9/the_fake_news_media_hype_isnt_aiming_to_just/)	https://www.reddit.com/r/the_donald/comments/5dvjo9/the_fake_news_media_hype_isnt_aiming_to_just/)	X	ADD	_	0	root	_	start_char=1121|end_char=1219
+

@@ -1,0 +1,52 @@
+1	No	no	INTJ	UH	Polarity=Neg	3	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	3	punct	_	start_char=2|end_char=3
+3	man	man	NOUN	NN	Number=Sing	0	root	_	start_char=4|end_char=7
+4	.	.	PUNCT	.	_	3	punct	_	start_char=7|end_char=8
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=9|end_char=12
+2	just	just	ADV	RB	_	3	advmod	_	start_char=13|end_char=17
+3	named	name	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=18|end_char=23
+4	three	three	NUM	CD	NumType=Card	5	nummod	_	start_char=24|end_char=29
+5	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=30|end_char=36
+6	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=37|end_char=40
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=41|end_char=44
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=45|end_char=53
+9	AND	and	CCONJ	CC	_	10	cc	_	start_char=54|end_char=57
+10	outspoken	outspoken	ADJ	JJ	Degree=Pos	8	conj	_	start_char=58|end_char=67
+11	.	.	PUNCT	.	_	3	punct	_	start_char=67|end_char=68
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=69|end_char=73
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=74|end_char=78
+3	absolutely	absolutely	ADV	RB	_	4	advmod	_	start_char=79|end_char=89
+4	harmed	harm	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=90|end_char=96
+5	society	society	NOUN	NN	Number=Sing	4	obj	_	start_char=97|end_char=104
+6	by	by	SCONJ	IN	_	7	mark	_	start_char=105|end_char=107
+7	contributing	contribute	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=108|end_char=120
+8	to	to	ADP	IN	_	10	case	_	start_char=121|end_char=123
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=124|end_char=125
+10	lie	lie	NOUN	NN	Number=Sing	7	obl	_	start_char=126|end_char=129
+11	,	,	PUNCT	,	_	16	punct	_	start_char=129|end_char=130
+12	albiet	albiet	ADV	RB	_	16	advmod	_	start_char=131|end_char=137
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=138|end_char=142
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=143|end_char=146
+15	too	too	ADV	RB	_	16	advmod	_	start_char=147|end_char=150
+16	stupid	stupid	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=151|end_char=157
+17	to	to	PART	TO	_	18	mark	_	start_char=158|end_char=160
+18	realize	realize	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=161|end_char=168
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=169|end_char=171
+20	.	.	PUNCT	.	_	4	punct	_	start_char=171|end_char=172
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=173|end_char=177
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=177|end_char=179
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=180|end_char=183
+4	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=184|end_char=189
+5	people	people	NOUN	NNS	Number=Plur	9	nsubj:pass	_	start_char=190|end_char=196
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=197|end_char=201
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	aux:pass	_	start_char=202|end_char=206
+8	rightfully	rightfully	ADV	RB	_	9	advmod	_	start_char=207|end_char=217
+9	criticized	criticize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl:relcl	_	start_char=218|end_char=228
+10	more	more	ADJ	JJR	Degree=Cmp	9	obj	_	start_char=229|end_char=233
+11	than	than	ADP	IN	_	12	case	_	start_char=234|end_char=238
+12	others	other	NOUN	NNS	Number=Plur	10	obl	_	start_char=239|end_char=245
+13	.	.	PUNCT	.	_	3	punct	_	start_char=245|end_char=246
+

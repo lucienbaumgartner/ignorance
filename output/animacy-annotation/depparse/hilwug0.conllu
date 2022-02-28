@@ -1,0 +1,37 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=5
+3	too	too	ADV	RB	_	4	advmod	_	start_char=6|end_char=9
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=16
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=29
+7	of	of	ADP	IN	_	10	case	_	start_char=30|end_char=32
+8	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=33|end_char=36
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=37|end_char=40
+10	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=41|end_char=48
+11	to	to	PART	TO	_	12	mark	_	start_char=49|end_char=51
+12	understand	understand	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=52|end_char=62
+13	what	what	PRON	WP	PronType=Int	12	obj	_	start_char=63|end_char=67
+14	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=68|end_char=72
+15	would	would	AUX	MD	VerbForm=Fin	16	aux	_	start_char=73|end_char=78
+16	do	do	VERB	VB	VerbForm=Inf	13	acl:relcl	_	start_char=79|end_char=81
+17	to	to	ADP	IN	_	18	case	_	start_char=82|end_char=84
+18	people	people	NOUN	NNS	Number=Plur	16	obl	_	start_char=85|end_char=91
+19	of	of	ADP	IN	_	22	case	_	start_char=92|end_char=94
+20	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=95|end_char=98
+21	skin	skin	NOUN	NN	Number=Sing	22	compound	_	start_char=99|end_char=103
+22	colour	colour	NOUN	NN	Number=Sing	18	nmod	_	start_char=104|end_char=110
+23	..	..	PUNCT	.	_	4	punct	_	start_char=110|end_char=112
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=112|end_char=114
+2	blissfully	blissfully	ADV	RB	_	3	advmod	_	start_char=115|end_char=125
+3	ignores	ignore	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=126|end_char=133
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=134|end_char=137
+5	blatantly	blatantly	ADV	RB	_	6	advmod	_	start_char=138|end_char=147
+6	racist	racist	ADJ	JJ	Degree=Pos	7	amod	_	start_char=148|end_char=154
+7	nature	nature	NOUN	NN	Number=Sing	3	obj	_	start_char=155|end_char=161
+8	of	of	ADP	IN	_	11	case	_	start_char=162|end_char=164
+9	American	American	ADJ	JJ	Degree=Pos	11	amod	_	start_char=165|end_char=173
+10	Christian	Christian	ADJ	JJ	Degree=Pos	11	amod	_	start_char=174|end_char=183
+11	nationalism	nationalism	NOUN	NN	Number=Sing	7	nmod	_	start_char=184|end_char=195
+12	.	.	PUNCT	.	_	3	punct	_	start_char=195|end_char=196
+

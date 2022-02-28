@@ -1,0 +1,32 @@
+1	Yup	yup	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Again	again	ADV	RB	_	3	advmod	_	start_char=5|end_char=10
+2	,	,	PUNCT	,	_	3	punct	_	start_char=10|end_char=11
+3	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=12|end_char=15
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	start_char=16|end_char=18
+5	know	know	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=19|end_char=23
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=24|end_char=26
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=27|end_char=30
+8	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=31|end_char=35
+9	help	help	NOUN	NN	Number=Sing	8	obj	_	start_char=36|end_char=40
+10	in	in	ADP	IN	_	12	case	_	start_char=41|end_char=43
+11	any	any	DET	DT	_	12	det	_	start_char=44|end_char=47
+12	stage	stage	NOUN	NN	Number=Sing	9	nmod	_	start_char=48|end_char=53
+13	-	-	PUNCT	,	_	3	punct	_	start_char=54|end_char=55
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=56|end_char=59
+15	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=60|end_char=64
+16	very	very	ADV	RB	_	17	advmod	_	start_char=65|end_char=69
+17	new	new	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=70|end_char=73
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=74|end_char=77
+19	unaware	unaware	ADJ	JJ	Degree=Pos	15	conj	_	start_char=78|end_char=85
+20	of	of	ADP	IN	_	22	case	_	start_char=86|end_char=88
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=89|end_char=92
+22	dangers	danger	NOUN	NNS	Number=Plur	19	obl	_	start_char=93|end_char=100
+23	surrounding	surround	VERB	VBG	VerbForm=Ger	22	acl	_	start_char=101|end_char=112
+24	crypto	crypto	NOUN	NN	Number=Sing	23	obj	_	start_char=113|end_char=119
+25	(	(	PUNCT	-LRB-	_	26	punct	_	start_char=120|end_char=121
+26	scammers	scammer	NOUN	NNS	Number=Plur	24	appos	_	start_char=121|end_char=129
+27	basically	basically	ADV	RB	_	26	advmod	_	start_char=130|end_char=139
+28	)	)	PUNCT	-RRB-	_	26	punct	_	start_char=139|end_char=140
+

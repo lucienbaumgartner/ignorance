@@ -1,0 +1,14 @@
+1	Wow	wow	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=7|end_char=13
+2	provide	provide	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=14|end_char=21
+3	sources	source	NOUN	NNS	Number=Plur	2	obj	_	start_char=22|end_char=29
+4	for	for	ADP	IN	_	9	case	_	start_char=30|end_char=33
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=34|end_char=38
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	amod	_	start_char=39|end_char=47
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=48|end_char=51
+8	incorrect	incorrect	ADJ	JJ	Degree=Pos	6	conj	_	start_char=52|end_char=61
+9	assumptions	assumption	NOUN	NNS	Number=Plur	2	obl	_	start_char=62|end_char=73
+10	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+

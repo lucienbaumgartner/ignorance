@@ -1,0 +1,26 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=9
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=10|end_char=13
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=14|end_char=22
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=23|end_char=26
+7	ca	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=27|end_char=29
+8	n't	not	PART	RB	_	9	advmod	_	start_char=29|end_char=32
+9	help	help	VERB	VB	VerbForm=Inf	3	conj	_	start_char=33|end_char=37
+10	at	at	ADP	IN	_	11	case	_	start_char=38|end_char=40
+11	all	all	DET	DT	_	9	obl	_	start_char=41|end_char=44
+12	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=46|end_char=47
+2	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=52
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	iobj	_	start_char=53|end_char=56
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=57|end_char=58
+5	good	good	ADJ	JJ	Degree=Pos	6	amod	_	start_char=59|end_char=63
+6	life	life	NOUN	NN	Number=Sing	2	obj	_	start_char=64|end_char=68
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=69|end_char=72
+8	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=73|end_char=77
+9	everything	everything	PRON	NN	Number=Sing	10	nsubj	_	start_char=78|end_char=88
+10	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=89|end_char=94
+11	out	out	ADP	RP	_	10	compound:prt	_	start_char=95|end_char=98
+12	.	.	PUNCT	.	_	2	punct	_	start_char=98|end_char=99
+

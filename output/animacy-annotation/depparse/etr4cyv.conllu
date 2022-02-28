@@ -1,0 +1,10 @@
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=0|end_char=7
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=8|end_char=12
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=15
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=23
+5	,	,	PUNCT	,	_	8	punct	_	start_char=23|end_char=24
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=25|end_char=28
+7	bad	bad	ADJ	JJ	Degree=Pos	8	amod	_	start_char=29|end_char=32
+8	drivers	driver	NOUN	NNS	Number=Plur	4	conj	_	start_char=33|end_char=40
+9	.	.	PUNCT	.	_	4	punct	_	start_char=40|end_char=41
+

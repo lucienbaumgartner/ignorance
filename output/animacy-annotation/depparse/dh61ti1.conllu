@@ -1,0 +1,38 @@
+1	&gt	&gt	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	5	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj:pass	_	start_char=5|end_char=6
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	start_char=7|end_char=10
+5	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=11|end_char=15
+6	on	on	ADP	IN	_	8	case	_	start_char=16|end_char=18
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=19|end_char=22
+8	bed	bed	NOUN	NN	Number=Sing	5	obl	_	start_char=23|end_char=26
+9	,	,	PUNCT	,	_	10	punct	_	start_char=26|end_char=27
+10	unaware	unaware	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=28|end_char=35
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=36|end_char=39
+12	vulnerable	vulnerable	ADJ	JJ	Degree=Pos	10	conj	_	start_char=40|end_char=50
+13	until	until	SCONJ	IN	_	15	mark	_	start_char=51|end_char=56
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=57|end_char=58
+15	heard	hear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	start_char=59|end_char=64
+16	"	"	PUNCT	``	_	17	punct	_	start_char=65|end_char=66
+17	OH	oh	INTJ	UH	_	15	discourse	_	start_char=66|end_char=68
+18	!	!	PUNCT	.	_	5	punct	_	start_char=68|end_char=69
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=75
+2	!	!	PUNCT	.	_	1	punct	_	start_char=75|end_char=76
+3	"	"	PUNCT	''	_	1	punct	_	start_char=76|end_char=77
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=79|end_char=80
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=80|end_char=82
+3	so	so	ADV	RB	_	4	advmod	_	start_char=83|end_char=85
+4	glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=86|end_char=90
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=91|end_char=92
+6	swallowed	swallow	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=93|end_char=102
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=103|end_char=105
+8	coffee	coffee	NOUN	NN	Number=Sing	6	obj	_	start_char=106|end_char=112
+9	before	before	SCONJ	IN	_	10	mark	_	start_char=113|end_char=119
+10	making	make	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=120|end_char=126
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=127|end_char=129
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	13	advmod	_	start_char=130|end_char=134
+13	far	far	ADV	RB	Degree=Pos	10	advmod	_	start_char=135|end_char=138
+14	.	.	PUNCT	.	_	4	punct	_	start_char=138|end_char=139
+

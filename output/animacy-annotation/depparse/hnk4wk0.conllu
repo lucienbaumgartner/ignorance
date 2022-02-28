@@ -1,0 +1,63 @@
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=4
+2	TB	TB	PROPN	NNP	Number=Sing	0	root	_	start_char=5|end_char=7
+
+1	Ms	Ms	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=7|end_char=9
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	clueless	clueless	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=37
+7	of	of	ADP	IN	_	9	case	_	start_char=38|end_char=40
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=41|end_char=46
+9	surroundings	surroundings	NOUN	NNS	Number=Plur	6	obl	_	start_char=47|end_char=59
+10	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=61|end_char=64
+2	many	many	ADJ	JJ	Degree=Pos	3	amod	_	start_char=65|end_char=69
+3	times	time	NOUN	NNS	Number=Plur	6	obl:tmod	_	start_char=70|end_char=75
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=76|end_char=80
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=81|end_char=82
+6	stood	stand	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=83|end_char=88
+7	behind	behind	ADP	IN	_	9	case	_	start_char=89|end_char=95
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=96|end_char=97
+9	group	group	NOUN	NN	Number=Sing	6	obl	_	start_char=98|end_char=103
+10	of	of	ADP	IN	_	11	case	_	start_char=104|end_char=106
+11	morons	moron	NOUN	NNS	Number=Plur	9	nmod	_	start_char=107|end_char=113
+12	blocking	block	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=114|end_char=122
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=123|end_char=124
+14	church	church	NOUN	NN	Number=Sing	15	compound	_	start_char=125|end_char=131
+15	hallway	hallway	NOUN	NN	Number=Sing	12	obj	_	start_char=132|end_char=139
+16	?	?	PUNCT	.	_	6	punct	_	start_char=139|end_char=140
+
+1	Every	every	DET	DT	_	2	det	_	start_char=141|end_char=146
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=147|end_char=154
+3	Sunday	Sunday	PROPN	NNP	Number=Sing	2	obl:tmod	_	start_char=155|end_char=161
+4	!	!	PUNCT	.	_	2	punct	_	start_char=161|end_char=162
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=163|end_char=167
+2	'll	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=167|end_char=170
+3	just	just	ADV	RB	_	4	advmod	_	start_char=171|end_char=175
+4	stand	stand	VERB	VB	VerbForm=Inf	0	root	_	start_char=176|end_char=181
+5	Infront	infront	NOUN	NN	Number=Sing	4	obj	_	start_char=182|end_char=189
+6	of	of	ADP	IN	_	7	case	_	start_char=190|end_char=192
+7	doorways	doorway	NOUN	NNS	Number=Plur	5	nmod	_	start_char=193|end_char=201
+8	and	and	CCONJ	CC	_	19	cc	_	start_char=202|end_char=205
+9	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=206|end_char=210
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=211|end_char=214
+11	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	_	start_char=215|end_char=218
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=219|end_char=223
+13	to	to	PART	TO	_	14	mark	_	start_char=224|end_char=226
+14	move	move	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=227|end_char=231
+15	,	,	PUNCT	,	_	19	punct	_	start_char=231|end_char=232
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj:pass	_	start_char=233|end_char=237
+17	get	get	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux:pass	_	start_char=238|end_char=241
+18	all	all	ADV	RB	_	19	advmod	_	start_char=242|end_char=245
+19	offended	offend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=246|end_char=254
+20	.	.	PUNCT	.	_	4	punct	_	start_char=254|end_char=255
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=256|end_char=257
+2	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=258|end_char=262
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=263|end_char=268
+4	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=269|end_char=275
+5	.	.	PUNCT	.	_	2	punct	_	start_char=275|end_char=276
+

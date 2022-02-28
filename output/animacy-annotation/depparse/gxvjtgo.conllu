@@ -1,0 +1,20 @@
+1	Y’all	y’all	INTJ	UH	_	2	discourse	_	start_char=0|end_char=5
+2	notice	notice	VERB	VB	VerbForm=Fin	0	root	_	start_char=6|end_char=12
+3	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=13|end_char=16
+4	Drummond	Drummond	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=17|end_char=25
+5	always	always	ADV	RB	_	6	advmod	_	start_char=26|end_char=32
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=33|end_char=36
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=37|end_char=38
+8	facial	facial	ADJ	JJ	Degree=Pos	9	amod	_	start_char=39|end_char=45
+9	expression	expression	NOUN	NN	Number=Sing	6	obj	_	start_char=46|end_char=56
+10	of	of	SCONJ	IN	_	12	mark	_	start_char=57|end_char=59
+11	being	be	AUX	VBG	VerbForm=Ger	12	aux:pass	_	start_char=60|end_char=65
+12	confused	confuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	start_char=66|end_char=74
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=75|end_char=78
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=79|end_char=86
+15	of	of	ADP	IN	_	16	case	_	start_char=87|end_char=89
+16	what	what	PRON	WP	PronType=Int	14	obl	_	start_char=90|end_char=94
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=95|end_char=97
+18	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	16	acl:relcl	_	start_char=98|end_char=107
+19	?	?	PUNCT	.	_	2	punct	_	start_char=108|end_char=109
+

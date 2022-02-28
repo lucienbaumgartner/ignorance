@@ -1,0 +1,46 @@
+1	Nobody	nobody	PRON	NN	Number=Sing	3	nsubj	_	start_char=0|end_char=6
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=7|end_char=9
+3	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=10|end_char=16
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=17|end_char=20
+5	can	can	AUX	MD	VerbForm=Fin	3	ccomp	_	start_char=21|end_char=24
+6	or	or	CCONJ	CC	_	9	cc	_	start_char=25|end_char=27
+7	ca	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=28|end_char=30
+8	n't	not	PART	RB	_	9	advmod	_	start_char=30|end_char=33
+9	defend	defend	VERB	VB	VerbForm=Inf	3	conj	_	start_char=34|end_char=40
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=41|end_char=43
+11	.	.	PUNCT	.	_	3	punct	_	start_char=43|end_char=44
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=45|end_char=47
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=47|end_char=50
+3	just	just	ADV	RB	_	4	advmod	_	start_char=51|end_char=55
+4	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=56|end_char=62
+5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=63|end_char=66
+6	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	7	amod	_	start_char=67|end_char=74
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	obj	_	start_char=75|end_char=81
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=82|end_char=85
+9	selfish	selfish	ADJ	JJ	Degree=Pos	7	conj	_	start_char=86|end_char=93
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=94|end_char=97
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=98|end_char=106
+12	of	of	ADP	IN	_	14	case	_	start_char=107|end_char=109
+13	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=110|end_char=113
+14	status	status	NOUN	NN	Number=Sing	11	obl	_	start_char=114|end_char=120
+15	as	as	ADP	IN	_	18	case	_	start_char=121|end_char=123
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=124|end_char=125
+17	public	public	ADJ	JJ	Degree=Pos	18	amod	_	start_char=126|end_char=132
+18	figure	figure	NOUN	NN	Number=Sing	11	obl	_	start_char=133|end_char=139
+19	and	and	CCONJ	CC	_	21	cc	_	start_char=140|end_char=143
+20	role	role	NOUN	NN	Number=Sing	21	compound	_	start_char=144|end_char=148
+21	model	model	NOUN	NN	Number=Sing	18	conj	_	start_char=149|end_char=154
+22	.	.	PUNCT	.	_	4	punct	_	start_char=154|end_char=155
+
+1	As	as	SCONJ	IN	_	6	mark	_	start_char=156|end_char=158
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=159|end_char=161
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=162|end_char=164
+4	within	within	ADP	IN	_	6	case	_	start_char=165|end_char=171
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=172|end_char=175
+6	right	right	NOUN	NN	Number=Sing	0	root	_	start_char=176|end_char=181
+7	to	to	PART	TO	_	8	mark	_	start_char=182|end_char=184
+8	do	do	VERB	VB	VerbForm=Inf	6	acl	_	start_char=185|end_char=187
+9	so	so	ADV	RB	_	8	advmod	_	start_char=188|end_char=190
+10	.	.	PUNCT	.	_	6	punct	_	start_char=190|end_char=191
+

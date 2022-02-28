@@ -1,0 +1,56 @@
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=0|end_char=2
+2	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=3|end_char=9
+3	stayed	stay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	start_char=10|end_char=16
+4	working	work	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=17|end_char=24
+5	,	,	PUNCT	,	_	9	punct	_	start_char=24|end_char=25
+6	more	more	ADJ	JJR	Degree=Cmp	9	nsubj	_	start_char=26|end_char=30
+7	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=31|end_char=36
+8	have	have	AUX	VB	VerbForm=Inf	9	aux	_	start_char=37|end_char=41
+9	died	die	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=42|end_char=46
+10	.	.	PUNCT	.	_	9	punct	_	start_char=46|end_char=47
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=49|end_char=51
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=52|end_char=54
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	advcl	_	start_char=55|end_char=58
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=59|end_char=60
+5	real	real	ADJ	JJ	Degree=Pos	6	amod	_	start_char=61|end_char=65
+6	lockdown	lockdown	NOUN	NN	Number=Sing	3	obj	_	start_char=66|end_char=74
+7	,	,	PUNCT	,	_	13	punct	_	start_char=74|end_char=75
+8	very	very	ADV	RB	_	9	advmod	_	start_char=76|end_char=80
+9	few	few	ADJ	JJ	Degree=Pos	13	advmod	_	start_char=81|end_char=84
+10	would	would	AUX	MD	VerbForm=Fin	13	aux	_	start_char=85|end_char=90
+11	h	h	PROPN	NNP	Number=Sing	12	compound	_	start_char=91|end_char=92
+12	ave	ave	PROPN	NNP	Number=Sing	13	nsubj	_	start_char=93|end_char=96
+13	died	die	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=97|end_char=101
+14	.	.	PUNCT	.	_	13	punct	_	start_char=101|end_char=102
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=104|end_char=106
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=107|end_char=110
+3	n't	not	PART	RB	_	4	advmod	_	start_char=110|end_char=113
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=114|end_char=118
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=119|end_char=120
+6	real	real	ADJ	JJ	Degree=Pos	7	amod	_	start_char=121|end_char=125
+7	lockdown	lockdown	NOUN	NN	Number=Sing	4	obj	_	start_char=126|end_char=134
+8	.	.	PUNCT	.	_	4	punct	_	start_char=134|end_char=135
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=137|end_char=139
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=140|end_char=143
+3	n't	not	PART	RB	_	4	advmod	_	start_char=143|end_char=146
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=147|end_char=151
+5	stimulus	stimulus	NOUN	NN	Number=Sing	6	compound	_	start_char=152|end_char=160
+6	payments	payment	NOUN	NNS	Number=Plur	4	obj	_	start_char=161|end_char=169
+7	.	.	PUNCT	.	_	4	punct	_	start_char=169|end_char=170
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=172|end_char=174
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=175|end_char=178
+3	corporate	corporate	ADJ	JJ	Degree=Pos	4	amod	_	start_char=179|end_char=188
+4	welfare	welfare	NOUN	NN	Number=Sing	2	obj	_	start_char=189|end_char=196
+5	.	.	PUNCT	.	_	2	punct	_	start_char=196|end_char=197
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=200|end_char=204
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=204|end_char=206
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=207|end_char=215
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=216|end_char=219
+5	wrong	wrong	ADJ	JJ	Degree=Pos	3	conj	_	start_char=220|end_char=225
+6	.	.	PUNCT	.	_	3	punct	_	start_char=225|end_char=226
+

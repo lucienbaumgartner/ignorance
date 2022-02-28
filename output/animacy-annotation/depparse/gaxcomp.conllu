@@ -1,0 +1,16 @@
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=4
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=5|end_char=11
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=15
+4	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=41|end_char=45
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=46|end_char=50
+3	n't	not	PART	RB	_	4	advmod	_	start_char=50|end_char=53
+4	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=54|end_char=58
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=59|end_char=63
+6	shills	shill	NOUN	NNS	Number=Plur	4	obj	_	start_char=64|end_char=70
+7	.	.	PUNCT	.	_	4	punct	_	start_char=70|end_char=71
+

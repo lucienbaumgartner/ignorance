@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	added	add	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	to	to	PART	TO	_	4	mark	_	start_char=8|end_char=10
+4	fill	fill	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=15
+5	out	out	ADP	RP	_	4	compound:prt	_	start_char=16|end_char=19
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=20|end_char=22
+7	thought	thought	NOUN	NN	Number=Sing	4	obj	_	start_char=23|end_char=30
+8	.	.	PUNCT	.	_	2	punct	_	start_char=30|end_char=31
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=32|end_char=35
+2	act	act	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=39
+3	as	as	SCONJ	IN	_	10	mark	_	start_char=40|end_char=42
+4	if	if	SCONJ	IN	_	10	mark	_	start_char=43|end_char=45
+5	only	only	ADV	RB	_	7	advmod	_	start_char=46|end_char=50
+6	black	black	ADJ	JJ	Degree=Pos	7	amod	_	start_char=51|end_char=56
+7	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=57|end_char=63
+8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=64|end_char=68
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	_	start_char=69|end_char=73
+10	victims	victim	NOUN	NNS	Number=Plur	2	advcl	_	start_char=74|end_char=81
+11	of	of	ADP	IN	_	12	case	_	start_char=82|end_char=84
+12	injustice	injustice	NOUN	NN	Number=Sing	10	nmod	_	start_char=85|end_char=94
+13	,	,	PUNCT	,	_	14	punct	_	start_char=94|end_char=95
+14	servitude	servitude	NOUN	NN	Number=Sing	12	conj	_	start_char=96|end_char=105
+15	,	,	PUNCT	,	_	16	punct	_	start_char=105|end_char=106
+16	violence	violence	NOUN	NN	Number=Sing	12	conj	_	start_char=107|end_char=115
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=116|end_char=119
+18	poverty	poverty	NOUN	NN	Number=Sing	12	conj	_	start_char=120|end_char=127
+19	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=128|end_char=131
+20	last	last	ADJ	JJ	Degree=Pos	22	amod	_	start_char=132|end_char=136
+21	two	two	NUM	CD	NumType=Card	22	nummod	_	start_char=137|end_char=140
+22	centuries	century	NOUN	NNS	Number=Plur	10	obl:tmod	_	start_char=141|end_char=150
+23	.	.	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=152|end_char=156
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=157|end_char=162
+3	off	off	ADP	RP	_	2	compound:prt	_	start_char=163|end_char=166
+4	as	as	ADP	IN	_	7	case	_	start_char=167|end_char=169
+5	very	very	ADV	RB	_	6	advmod	_	start_char=170|end_char=174
+6	narrow	narrow	ADJ	JJ	Degree=Pos	7	amod	_	start_char=175|end_char=181
+7	minded	minded	ADJ	JJ	Degree=Pos	2	obl	_	start_char=182|end_char=188
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=189|end_char=192
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=193|end_char=200
+10	of	of	ADP	IN	_	11	case	_	start_char=201|end_char=203
+11	history	history	NOUN	NN	Number=Sing	9	obl	_	start_char=204|end_char=211
+12	.	.	PUNCT	.	_	2	punct	_	start_char=211|end_char=212
+

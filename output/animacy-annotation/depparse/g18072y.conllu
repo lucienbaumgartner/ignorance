@@ -1,0 +1,39 @@
+1	Noooo	noooo	INTJ	UH	_	6	discourse	_	start_char=0|end_char=5
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=6|end_char=9
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=10|end_char=13
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=14|end_char=17
+5	trial	trial	NOUN	NN	Number=Sing	6	compound	_	start_char=18|end_char=23
+6	balloon	balloon	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=31
+7	for	for	ADP	IN	_	8	case	_	start_char=32|end_char=35
+8	trump	trump	PROPN	NNP	Number=Sing	6	nmod	_	start_char=36|end_char=41
+9	.	.	PUNCT	.	_	6	punct	_	start_char=41|end_char=42
+
+1	With	with	ADP	IN	_	2	case	_	start_char=43|end_char=47
+2	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=48|end_char=51
+3	,	,	PUNCT	,	_	5	punct	_	start_char=51|end_char=52
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=53|end_char=57
+5	discovered	discover	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=68
+6	just	just	ADV	RB	_	8	advmod	_	start_char=69|end_char=73
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=74|end_char=77
+8	malleable	malleable	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=78|end_char=87
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=88|end_char=91
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=92|end_char=100
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=101|end_char=105
+12	base	base	NOUN	NN	Number=Sing	13	nsubj	_	start_char=106|end_char=110
+13	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=111|end_char=114
+14	.	.	PUNCT	.	_	5	punct	_	start_char=114|end_char=115
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=116|end_char=120
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=121|end_char=125
+3	capitalized	capitalize	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=126|end_char=137
+4	on	on	ADP	IN	_	5	case	_	start_char=138|end_char=140
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=141|end_char=143
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=144|end_char=147
+7	weaponized	weaponize	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	start_char=148|end_char=158
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=159|end_char=161
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=162|end_char=165
+10	here	here	ADV	RB	PronType=Dem	7	conj	_	start_char=166|end_char=170
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=171|end_char=173
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=174|end_char=177
+13	.	.	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+

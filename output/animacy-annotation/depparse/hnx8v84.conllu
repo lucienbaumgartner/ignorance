@@ -1,0 +1,13 @@
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=0|end_char=3
+2	actually	actually	ADV	RB	_	4	advmod	_	start_char=4|end_char=12
+3	super	super	ADV	RB	_	4	advmod	_	start_char=13|end_char=18
+4	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=30
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=31|end_char=34
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=35|end_char=43
+7	of	of	ADP	IN	_	8	case	_	start_char=44|end_char=46
+8	Donna	Donna	PROPN	NNP	Number=Sing	6	obl	_	start_char=47|end_char=52
+9	to	to	PART	TO	_	10	mark	_	start_char=53|end_char=55
+10	say	say	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=56|end_char=59
+11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=60|end_char=64
+12	stuff	stuff	NOUN	NN	Number=Sing	10	obj	_	start_char=65|end_char=70
+

@@ -1,0 +1,48 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=12
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj:pass	_	start_char=13|end_char=17
+5	will	will	AUX	MD	VerbForm=Fin	7	aux	_	start_char=18|end_char=22
+6	be	be	AUX	VB	VerbForm=Inf	7	aux:pass	_	start_char=23|end_char=25
+7	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=26|end_char=31
+8	negatively	negatively	ADV	RB	_	7	advmod	_	start_char=32|end_char=42
+9	,	,	PUNCT	,	_	15	punct	_	start_char=42|end_char=43
+10	but	but	CCONJ	CC	_	15	cc	_	start_char=44|end_char=47
+11	Hillary	Hillary	PROPN	NNP	Number=Sing	15	nsubj:pass	_	start_char=48|end_char=55
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	start_char=56|end_char=58
+13	more	more	ADV	RBR	_	14	advmod	_	start_char=59|end_char=63
+14	well	well	ADV	RB	Degree=Pos	15	advmod	_	start_char=64|end_char=68
+15	known	know	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	start_char=69|end_char=74
+16	by	by	ADP	IN	_	18	case	_	start_char=75|end_char=77
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=78|end_char=81
+18	populace	populace	NOUN	NN	Number=Sing	15	obl	_	start_char=82|end_char=90
+19	who	who	PRON	WP	PronType=Rel	22	nsubj	_	start_char=91|end_char=94
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=95|end_char=98
+21	both	both	ADV	RB	_	22	advmod	_	start_char=99|end_char=103
+22	unaware	unaware	ADJ	JJ	Degree=Pos	18	acl:relcl	_	start_char=104|end_char=111
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=112|end_char=115
+24	unwilling	unwilling	ADJ	JJ	Degree=Pos	22	conj	_	start_char=116|end_char=125
+25	to	to	PART	TO	_	26	mark	_	start_char=126|end_char=128
+26	investigate	investigate	VERB	VB	VerbForm=Inf	24	advcl	_	start_char=129|end_char=140
+27	.	.	PUNCT	.	_	3	punct	_	start_char=140|end_char=141
+
+1	Hmmm	hmm	INTJ	UH	_	0	root	_	start_char=143|end_char=147
+2	.	.	PUNCT	.	_	1	punct	_	start_char=147|end_char=148
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=149|end_char=150
+2	wonder	wonder	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=151|end_char=157
+3	which	which	DET	WDT	PronType=Int	4	det	_	start_char=158|end_char=163
+4	types	type	NOUN	NNS	Number=Plur	11	obl	_	start_char=164|end_char=169
+5	of	of	ADP	IN	_	6	case	_	start_char=170|end_char=172
+6	people	people	NOUN	NNS	Number=Plur	4	nmod	_	start_char=173|end_char=179
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=180|end_char=184
+8	person	person	NOUN	NN	Number=Sing	11	nsubj	_	start_char=185|end_char=191
+9	could	could	AUX	MD	VerbForm=Fin	11	aux	_	start_char=192|end_char=197
+10	be	be	AUX	VB	VerbForm=Inf	11	aux	_	start_char=198|end_char=200
+11	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=201|end_char=208
+12	about	about	ADP	IN	_	11	obl	_	start_char=209|end_char=214
+13	.	.	PUNCT	.	_	2	punct	_	start_char=214|end_char=215
+

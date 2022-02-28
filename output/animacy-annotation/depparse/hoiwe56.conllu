@@ -1,0 +1,38 @@
+1	bimbo	bimbo	NOUN	NN	Number=Sing	5	nsubj	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	himbo	himbo	NOUN	NNS	Number=Sing	1	conj	_	start_char=10|end_char=15
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=16|end_char=19
+5	different	different	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=29
+
+1	bimbo	bimbo	NOUN	NN	Number=Sing	3	nsubj	_	start_char=31|end_char=36
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=37|end_char=39
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=44
+4	,	,	PUNCT	,	_	5	punct	_	start_char=44|end_char=45
+5	sexy	sexy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=46|end_char=50
+6	,	,	PUNCT	,	_	7	punct	_	start_char=50|end_char=51
+7	slutty	slutty	ADJ	JJ	Degree=Pos	3	conj	_	start_char=52|end_char=58
+8	,	,	PUNCT	,	_	10	punct	_	start_char=58|end_char=59
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=60|end_char=63
+10	aware	aware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=64|end_char=69
+11	of	of	ADP	IN	_	13	case	_	start_char=70|end_char=72
+12	how	how	SCONJ	WRB	PronType=Int	13	mark	_	start_char=73|end_char=76
+13	hot	hot	ADJ	JJ	Degree=Pos	10	obl	_	start_char=77|end_char=80
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=81|end_char=85
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=86|end_char=89
+
+1	himbo	himbo	PRON	PRP	Number=Sing|PronType=Prs	3	nsubj	_	start_char=91|end_char=96
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=97|end_char=99
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=104
+4	,	,	PUNCT	,	_	5	punct	_	start_char=104|end_char=105
+5	sexy	sexy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=106|end_char=110
+6	,	,	PUNCT	,	_	7	punct	_	start_char=110|end_char=111
+7	protective	protective	ADJ	JJ	Degree=Pos	3	conj	_	start_char=112|end_char=122
+8	,	,	PUNCT	,	_	10	punct	_	start_char=122|end_char=123
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=124|end_char=127
+10	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=128|end_char=135
+11	of	of	ADP	IN	_	13	case	_	start_char=136|end_char=138
+12	how	how	SCONJ	WRB	PronType=Int	13	mark	_	start_char=139|end_char=142
+13	hot	hot	ADJ	JJ	Degree=Pos	10	obl	_	start_char=143|end_char=146
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=147|end_char=151
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=152|end_char=155
+

@@ -1,0 +1,25 @@
+1	So	so	ADV	RB	_	5	advmod	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=3|end_char=6
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=7|end_char=9
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=9|end_char=12
+5	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=20
+6	masks	mask	NOUN	NNS	Number=Plur	5	obj	_	start_char=21|end_char=26
+7	work	work	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=27|end_char=31
+8	?	?	PUNCT	.	_	5	punct	_	start_char=31|end_char=32
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=33|end_char=36
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=37|end_char=39
+3	should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=40|end_char=46
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=46|end_char=49
+5	wash	wash	VERB	VB	VerbForm=Inf	0	root	_	start_char=50|end_char=54
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=55|end_char=58
+7	hands	hand	NOUN	NNS	Number=Plur	5	obj	_	start_char=59|end_char=64
+8	?	?	PUNCT	.	_	5	punct	_	start_char=64|end_char=65
+
+1	Stop	stop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=66|end_char=70
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=71|end_char=76
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=77|end_char=85
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=86|end_char=89
+5	dirty	dirty	ADJ	JJ	Degree=Pos	3	conj	_	start_char=90|end_char=95
+6	.	.	PUNCT	.	_	1	punct	_	start_char=95|end_char=96
+

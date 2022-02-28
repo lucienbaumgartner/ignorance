@@ -1,0 +1,13 @@
+1	Yes	yes	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	Goddess	goddess	NOUN	NN	Number=Sing	0	root	_	start_char=4|end_char=11
+3	of	of	ADP	IN	_	2	discourse	_	start_char=12|end_char=14
+4	course	course	NOUN	NN	Number=Sing	3	fixed	_	start_char=15|end_char=21
+5	.	.	PUNCT	.	_	2	punct	_	start_char=21|end_char=22
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=23|end_char=26
+2	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=33
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=34|end_char=37
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=38|end_char=46
+5	of	of	ADP	IN	_	6	case	_	start_char=47|end_char=49
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=50|end_char=52
+

@@ -1,0 +1,12 @@
+1	ignored	ignore	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=0|end_char=7
+2	by	by	ADP	IN	_	4	case	_	start_char=8|end_char=10
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=11|end_char=14
+4	algorithm	algorithm	NOUN	NN	Number=Sing	1	obl	_	start_char=15|end_char=24
+5	to	to	PART	TO	_	6	mark	_	start_char=25|end_char=27
+6	keep	keep	VERB	VB	VerbForm=Inf	4	acl	_	start_char=28|end_char=32
+7	folks	folk	NOUN	NNS	Number=Plur	6	obj	_	start_char=33|end_char=38
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=39|end_char=46
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=51|end_char=59
+11	*	*	PUNCT	NFP	_	1	punct	_	start_char=59|end_char=60
+

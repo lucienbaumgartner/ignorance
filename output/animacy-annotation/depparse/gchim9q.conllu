@@ -1,0 +1,38 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	USA	USA	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=4|end_char=7
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=8|end_char=11
+4	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=18
+5	complacent	complacent	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=19|end_char=29
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=30|end_char=33
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=34|end_char=41
+8	of	of	ADP	IN	_	9	case	_	start_char=42|end_char=44
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=45|end_char=47
+10	.	.	PUNCT	.	_	4	punct	_	start_char=47|end_char=48
+
+1	Neo-liberalism	neo-liberalism	NOUN	NN	Number=Sing	3	nsubj	_	start_char=49|end_char=63
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=64|end_char=67
+3	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=68|end_char=73
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=74|end_char=77
+5	west	west	NOUN	NN	Number=Sing	3	obj	_	start_char=78|end_char=82
+6	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=84|end_char=87
+2	question	question	NOUN	NN	Number=Sing	7	nsubj	_	start_char=88|end_char=96
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=97|end_char=99
+4	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=100|end_char=106
+5	be	be	AUX	VB	VerbForm=Inf	6	aux	_	start_char=107|end_char=109
+6	asking	ask	VERB	VBG	Tense=Pres|VerbForm=Part	2	acl:relcl	_	start_char=110|end_char=116
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=117|end_char=119
+8	,	,	PUNCT	,	_	7	punct	_	start_char=119|end_char=120
+9	"	"	PUNCT	``	_	14	punct	_	start_char=121|end_char=122
+10	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=122|end_char=125
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=126|end_char=128
+12	too	too	ADV	RB	_	13	advmod	_	start_char=129|end_char=132
+13	far	far	ADV	RB	Degree=Pos	14	advmod	_	start_char=133|end_char=136
+14	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	start_char=137|end_char=141
+15	to	to	PART	TO	_	16	mark	_	start_char=142|end_char=144
+16	salvage	salvage	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=145|end_char=152
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	16	obj	_	start_char=153|end_char=157
+18	?	?	PUNCT	.	_	7	punct	_	start_char=157|end_char=158
+19	"	"	PUNCT	''	_	7	punct	_	start_char=158|end_char=159
+

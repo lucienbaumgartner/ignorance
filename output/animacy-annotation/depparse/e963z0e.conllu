@@ -1,0 +1,42 @@
+1	Because	because	SCONJ	IN	_	3	mark	_	start_char=0|end_char=7
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=8|end_char=11
+3	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=19
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=20|end_char=23
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=24|end_char=28
+6	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	_	start_char=29|end_char=34
+7	something	something	PRON	NN	Number=Sing	6	obj	_	start_char=35|end_char=44
+8	special	special	ADJ	JJ	Degree=Pos	7	amod	_	start_char=45|end_char=52
+9	to	to	PART	TO	_	10	mark	_	start_char=53|end_char=55
+10	make	make	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=56|end_char=60
+11	more	more	ADJ	JJR	Degree=Cmp	12	amod	_	start_char=61|end_char=65
+12	money	money	NOUN	NN	Number=Sing	10	obj	_	start_char=66|end_char=71
+13	.	.	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=73|end_char=76
+2	for	for	SCONJ	IN	_	3	mark	_	start_char=77|end_char=80
+3	thinking	think	VERB	VBG	VerbForm=Ger	0	root	_	start_char=81|end_char=89
+4	anything	anything	PRON	NN	Number=Sing	3	obj	_	start_char=90|end_char=98
+5	similar	similar	ADJ	JJ	Degree=Pos	4	amod	_	start_char=99|end_char=106
+6	on	on	ADP	IN	_	8	case	_	start_char=107|end_char=109
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=110|end_char=111
+8	tuesday	Guesday	PROPN	NNP	Number=Sing	5	obl	_	start_char=112|end_char=119
+9	/	/	SYM	,	_	10	cc	_	start_char=119|end_char=120
+10	Wednesday	Wednesday	PROPN	NNP	Number=Sing	8	conj	_	start_char=120|end_char=129
+11	when	when	SCONJ	WRB	PronType=Int	14	mark	_	start_char=130|end_char=134
+12	weekly	weekly	ADJ	JJ	Degree=Pos	13	amod	_	start_char=135|end_char=141
+13	events	event	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=142|end_char=148
+14	change	change	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=149|end_char=155
+15	.	.	PUNCT	.	_	3	punct	_	start_char=155|end_char=156
+
+1	Just	just	ADV	RB	_	4	advmod	_	start_char=157|end_char=161
+2	so	so	ADV	RB	_	4	advmod	_	start_char=162|end_char=164
+3	very	very	ADV	RB	_	4	advmod	_	start_char=165|end_char=169
+4	stoopid	stoopid	ADJ	JJ	Degree=Pos	0	root	_	start_char=170|end_char=177
+5	,	,	PUNCT	,	_	6	punct	_	start_char=177|end_char=178
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=179|end_char=186
+7	,	,	PUNCT	,	_	10	punct	_	start_char=186|end_char=187
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=188|end_char=191
+9	low	low	ADJ	JJ	Degree=Pos	10	amod	_	start_char=192|end_char=195
+10	energy	energy	NOUN	NN	Number=Sing	4	conj	_	start_char=196|end_char=202
+11	.	.	PUNCT	.	_	4	punct	_	start_char=202|end_char=203
+

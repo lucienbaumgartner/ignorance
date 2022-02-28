@@ -1,0 +1,25 @@
+1	"	"	PUNCT	``	_	8	punct	_	start_char=0|end_char=1
+2	Everyone	everyone	PRON	NN	Number=Sing	8	nsubj	_	start_char=1|end_char=9
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=10|end_char=13
+4	disagrees	disagree	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=14|end_char=23
+5	with	with	ADP	IN	_	6	case	_	start_char=24|end_char=28
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=29|end_char=31
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=32|end_char=34
+8	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=45
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=46|end_char=49
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=50|end_char=58
+11	"	"	PUNCT	''	_	8	punct	_	start_char=58|end_char=59
+12	.	.	PUNCT	.	_	8	punct	_	start_char=59|end_char=60
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=62|end_char=66
+2	campaign	campaign	NOUN	NN	Number=Sing	3	compound	_	start_char=67|end_char=75
+3	message	message	NOUN	NN	Number=Sing	5	nsubj	_	start_char=76|end_char=83
+4	really	really	ADV	RB	_	5	advmod	_	start_char=84|end_char=90
+5	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=91|end_char=97
+6	for	for	ADP	IN	_	7	case	_	start_char=98|end_char=101
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=102|end_char=105
+8	guys	guy	NOUN	NNS	Number=Plur	5	obl	_	start_char=106|end_char=110
+9	in	in	ADP	IN	_	10	case	_	start_char=111|end_char=113
+10	2016	2016	NUM	CD	NumType=Card	5	obl	_	start_char=114|end_char=118
+11	.	.	PUNCT	.	_	5	punct	_	start_char=118|end_char=119
+

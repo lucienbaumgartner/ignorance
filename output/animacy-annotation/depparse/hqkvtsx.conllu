@@ -1,0 +1,13 @@
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=2
+2	better	well	ADV	RBR	Degree=Cmp	1	advmod	_	start_char=3|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	Making	make	VERB	VBG	VerbForm=Ger	3	csubj	_	start_char=11|end_char=17
+2	conservatives	conservative	NOUN	NNS	Number=Plur	1	obj	_	start_char=18|end_char=31
+3	look	look	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=32|end_char=36
+4	seriously	seriously	ADV	RB	_	5	advmod	_	start_char=37|end_char=46
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=47|end_char=55
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=56|end_char=59
+7	dumb	dumb	ADJ	JJ	Degree=Pos	5	conj	_	start_char=60|end_char=64
+8	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+

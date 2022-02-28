@@ -1,0 +1,12 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=12
+4	.	.	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=14|end_char=20
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=21|end_char=24
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=32
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=33|end_char=36
+5	overly	overly	ADV	RB	_	6	advmod	_	start_char=37|end_char=43
+6	sensitive	sensitive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=44|end_char=53
+

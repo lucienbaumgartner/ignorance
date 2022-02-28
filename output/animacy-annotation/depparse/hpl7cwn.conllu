@@ -1,0 +1,27 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	no	no	DET	DT	_	5	det	_	start_char=9|end_char=11
+4	reasonable	reasonable	ADJ	JJ	Degree=Pos	5	amod	_	start_char=12|end_char=22
+5	reason	reason	NOUN	NN	Number=Sing	2	nsubj	_	start_char=23|end_char=29
+6	to	to	PART	TO	_	7	mark	_	start_char=30|end_char=32
+7	take	take	VERB	VB	VerbForm=Inf	5	acl	_	start_char=33|end_char=37
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=38|end_char=42
+9	simple	simple	ADJ	JJ	Degree=Pos	10	amod	_	start_char=43|end_char=49
+10	step	step	NOUN	NN	Number=Sing	7	obj	_	start_char=50|end_char=54
+11	to	to	PART	TO	_	12	mark	_	start_char=55|end_char=57
+12	protect	protect	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=58|end_char=65
+13	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	12	obj	_	start_char=66|end_char=74
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=75|end_char=78
+15	others	other	NOUN	NNS	Number=Plur	13	conj	_	start_char=79|end_char=85
+16	.	.	PUNCT	.	_	2	punct	_	start_char=85|end_char=86
+
+1	Anyone	anyone	PRON	NN	Number=Sing	6	nsubj	_	start_char=88|end_char=94
+2	arguing	argue	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=95|end_char=102
+3	otherwise	otherwise	ADV	RB	_	2	advmod	_	start_char=103|end_char=112
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=113|end_char=115
+5	both	both	CCONJ	CC	_	6	cc:preconj	_	start_char=116|end_char=120
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=121|end_char=129
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=130|end_char=133
+8	selfish	selfish	ADJ	JJ	Degree=Pos	6	conj	_	start_char=134|end_char=141
+9	.	.	PUNCT	.	_	6	punct	_	start_char=141|end_char=142
+

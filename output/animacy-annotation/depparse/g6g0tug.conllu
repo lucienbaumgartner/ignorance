@@ -1,0 +1,66 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	start_char=2|end_char=5
+3	n't	not	PART	RB	_	4	advmod	_	start_char=5|end_char=8
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=13
+5	.	.	PUNCT	.	_	4	punct	_	start_char=13|end_char=14
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=15|end_char=18
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	_	start_char=19|end_char=23
+3	way	way	NOUN	NN	Number=Sing	9	nsubj	_	start_char=24|end_char=27
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=28|end_char=29
+5	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=30|end_char=34
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=35|end_char=38
+7	word	word	NOUN	NN	Number=Sing	5	obj	_	start_char=39|end_char=43
+8	Antifa	Antifa	PROPN	NNP	Number=Sing	7	appos	_	start_char=44|end_char=50
+9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=53
+10	because	because	SCONJ	IN	_	12	mark	_	start_char=54|end_char=61
+11	Trump	Trump	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=62|end_char=67
+12	keeps	keep	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=68|end_char=73
+13	on	on	SCONJ	IN	_	14	mark	_	start_char=74|end_char=76
+14	blabbering	blabber	VERB	VBG	VerbForm=Ger	12	advcl	_	start_char=77|end_char=87
+15	about	about	ADP	IN	_	16	case	_	start_char=88|end_char=93
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=94|end_char=96
+17	.	.	PUNCT	.	_	9	punct	_	start_char=96|end_char=97
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=98|end_char=99
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=99|end_char=101
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=109
+4	,	,	PUNCT	,	_	6	punct	_	start_char=109|end_char=110
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=111|end_char=114
+6	sorry	sorry	ADJ	JJ	Degree=Pos	3	conj	_	start_char=115|end_char=120
+7	if	if	SCONJ	IN	_	10	mark	_	start_char=121|end_char=123
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=124|end_char=128
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=129|end_char=132
+10	rude	rude	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=133|end_char=137
+11	.	.	PUNCT	.	_	3	punct	_	start_char=137|end_char=138
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=139|end_char=140
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=141|end_char=144
+3	n't	not	PART	RB	_	4	advmod	_	start_char=144|end_char=147
+4	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=148|end_char=152
+5	to	to	PART	TO	_	7	mark	_	start_char=153|end_char=155
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=156|end_char=158
+7	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=159|end_char=172
+8	to	to	ADP	IN	_	9	case	_	start_char=173|end_char=175
+9	anyone	anyone	PRON	NN	Number=Sing	7	obl	_	start_char=176|end_char=182
+10	.	.	PUNCT	.	_	4	punct	_	start_char=182|end_char=183
+
+1	Edit	edit	NOUN	NN	Number=Sing	0	root	_	start_char=185|end_char=189
+2	:	:	PUNCT	:	_	1	punct	_	start_char=189|end_char=190
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=191|end_char=193
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=194|end_char=199
+3	sense	sense	NOUN	NN	Number=Sing	2	obj	_	start_char=200|end_char=205
+4	.	.	PUNCT	.	_	2	punct	_	start_char=205|end_char=206
+
+1	Anti;fa	Anti;fa	PROPN	NNP	Number=Sing	0	root	_	start_char=207|end_char=214
+2	:	:	PUNCT	:	_	4	punct	_	start_char=214|end_char=215
+3	anti	anti	ADJ	JJ	Degree=Pos	4	amod	_	start_char=216|end_char=220
+4	fascist	fascist	NOUN	NN	Number=Sing	1	appos	_	start_char=221|end_char=228
+5	.	.	PUNCT	.	_	1	punct	_	start_char=228|end_char=229
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=230|end_char=236
+2	for	for	ADP	IN	_	4	case	_	start_char=237|end_char=240
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=241|end_char=244
+4	knowledge	knowledge	NOUN	NN	Number=Sing	1	nmod	_	start_char=245|end_char=254
+

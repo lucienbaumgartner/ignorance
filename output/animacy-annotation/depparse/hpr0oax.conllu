@@ -1,0 +1,34 @@
+1	*	*	PUNCT	NFP	_	4	punct	_	start_char=0|end_char=1
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=1|end_char=2
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+4	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+5	,	,	PUNCT	,	_	10	punct	_	start_char=10|end_char=11
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=12|end_char=16
+7	reply	reply	NOUN	NN	Number=Sing	10	nsubj	_	start_char=17|end_char=22
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=23|end_char=25
+9	too	too	ADV	RB	_	10	advmod	_	start_char=26|end_char=29
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=30|end_char=38
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=39|end_char=42
+12	naive	naive	ADJ	JJ	Degree=Pos	10	conj	_	start_char=43|end_char=48
+13	to	to	PART	TO	_	14	mark	_	start_char=49|end_char=51
+14	reply	reply	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=52|end_char=57
+15	to	to	ADP	IN	_	14	obl	_	start_char=58|end_char=60
+16	.	.	PUNCT	.	_	4	punct	_	start_char=60|end_char=61
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=63|end_char=69
+2	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=70|end_char=72
+3	back	back	ADV	RB	_	2	advmod	_	start_char=73|end_char=77
+4	to	to	ADP	IN	_	6	case	_	start_char=78|end_char=80
+5	1st	1st	ADJ	JJ	Degree=Pos|NumType=Ord	6	amod	_	start_char=81|end_char=84
+6	grade	grade	NOUN	NN	Number=Sing	2	obl	_	start_char=85|end_char=90
+7	,	,	PUNCT	,	_	9	punct	_	start_char=90|end_char=91
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=92|end_char=95
+9	try	try	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=96|end_char=99
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=100|end_char=104
+11	comment	comment	NOUN	NN	Number=Sing	9	obj	_	start_char=105|end_char=112
+12	again	again	ADV	RB	_	9	advmod	_	start_char=113|end_char=118
+13	.	.	PUNCT	.	_	2	punct	_	start_char=118|end_char=119
+
+1	Goodbye	Goodbye	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=121|end_char=128
+2	*	*	PUNCT	NFP	_	1	punct	_	start_char=128|end_char=129
+

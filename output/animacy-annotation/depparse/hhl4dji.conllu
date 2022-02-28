@@ -1,0 +1,25 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	very	very	ADV	RB	_	4	advmod	_	start_char=8|end_char=12
+4	thoughtless	thoughtless	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	of	of	ADP	IN	_	9	case	_	start_char=38|end_char=40
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=41|end_char=44
+9	teacher	teacher	NOUN	NN	Number=Sing	6	obl	_	start_char=45|end_char=52
+10	but	but	CCONJ	CC	_	14	cc	_	start_char=53|end_char=56
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=57|end_char=59
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=60|end_char=62
+13	not	not	PART	RB	_	14	advmod	_	start_char=63|end_char=66
+14	violent	violent	ADJ	JJ	Degree=Pos	4	conj	_	start_char=67|end_char=74
+15	.	.	PUNCT	.	_	4	punct	_	start_char=74|end_char=75
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=76|end_char=82
+2	really	really	ADV	RB	Degree=Pos	3	advmod	_	start_char=83|end_char=89
+3	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=90|end_char=94
+4	to	to	PART	TO	_	5	mark	_	start_char=95|end_char=97
+5	use	use	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=98|end_char=101
+6	words	word	NOUN	NNS	Number=Plur	5	obj	_	start_char=102|end_char=107
+7	properly	properly	ADV	RB	_	5	advmod	_	start_char=108|end_char=116
+8	.	.	PUNCT	.	_	3	punct	_	start_char=116|end_char=117
+

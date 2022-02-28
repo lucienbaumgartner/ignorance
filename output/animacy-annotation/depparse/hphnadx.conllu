@@ -1,0 +1,23 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=10|end_char=13
+4	angry	angry	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=14|end_char=19
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=20|end_char=23
+6	/	/	SYM	,	_	7	punct	_	start_char=23|end_char=24
+7	or	or	CCONJ	CC	_	8	cc	_	start_char=24|end_char=26
+8	afraid	afraid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=33
+9	,	,	PUNCT	,	_	10	punct	_	start_char=33|end_char=34
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=35|end_char=43
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=44|end_char=47
+12	unhealthy	unhealthy	ADJ	JJ	Degree=Pos	10	conj	_	start_char=48|end_char=57
+13	.	.	PUNCT	.	_	2	punct	_	start_char=57|end_char=58
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=59|end_char=62
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=62|end_char=65
+3	easier	easy	ADJ	JJR	Degree=Cmp	0	root	_	start_char=66|end_char=72
+4	to	to	PART	TO	_	5	mark	_	start_char=73|end_char=75
+5	control	control	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=76|end_char=83
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=84|end_char=88
+7	way	way	NOUN	NN	Number=Sing	5	obj	_	start_char=89|end_char=92
+8	.	.	PUNCT	.	_	3	punct	_	start_char=92|end_char=93
+

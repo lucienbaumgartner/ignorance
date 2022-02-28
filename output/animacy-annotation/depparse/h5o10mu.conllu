@@ -1,0 +1,59 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	completely	completely	ADV	RB	_	3	advmod	_	start_char=2|end_char=12
+3	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=18
+4	.	.	PUNCT	.	_	3	punct	_	start_char=18|end_char=19
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=23|end_char=26
+2	;	;	PUNCT	:	_	1	punct	_	start_char=26|end_char=27
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=28|end_char=31
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=32|end_char=35
+3	alive	alive	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=41
+4	,	,	PUNCT	,	_	6	punct	_	start_char=41|end_char=42
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=43|end_char=46
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=47|end_char=54
+7	of	of	ADP	IN	_	8	case	_	start_char=55|end_char=57
+8	life	life	NOUN	NN	Number=Sing	6	obl	_	start_char=58|end_char=62
+9	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=64|end_char=67
+2	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=68|end_char=71
+3	unconscious	unconscious	ADJ	JJ	Degree=Pos|Polarity=Neg	0	root	_	start_char=72|end_char=83
+4	in	in	ADP	IN	_	5	case	_	start_char=84|end_char=86
+5	life	life	NOUN	NN	Number=Sing	3	obl	_	start_char=87|end_char=91
+6	;	;	PUNCT	:	_	9	punct	_	start_char=91|end_char=92
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=93|end_char=97
+8	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=97|end_char=99
+9	why	why	SCONJ	WRB	PronType=Int	3	parataxis	_	start_char=100|end_char=103
+10	at	at	ADP	IN	_	13	case	_	start_char=104|end_char=106
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=107|end_char=110
+12	ultimate	ultimate	ADJ	JJ	Degree=Pos	13	amod	_	start_char=111|end_char=119
+13	peak	peak	NOUN	NN	Number=Sing	17	obl	_	start_char=120|end_char=124
+14	of	of	ADP	IN	_	15	case	_	start_char=125|end_char=127
+15	life	life	NOUN	NN	Number=Sing	13	nmod	_	start_char=128|end_char=132
+16	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	start_char=133|end_char=136
+17	become	become	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=137|end_char=143
+18	totally	totally	ADV	RB	Degree=Pos	19	advmod	_	start_char=144|end_char=151
+19	unconscious	unconscious	ADJ	JJ	Degree=Pos|Polarity=Neg	17	xcomp	_	start_char=152|end_char=163
+20	.	.	PUNCT	.	_	3	punct	_	start_char=163|end_char=164
+
+1	OP	OP	PROPN	NNP	Number=Sing	6	vocative	_	start_char=166|end_char=168
+2	,	,	PUNCT	,	_	6	punct	_	start_char=168|end_char=169
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=170|end_char=172
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=173|end_char=177
+5	n't	not	PART	RB	_	6	advmod	_	start_char=177|end_char=180
+6	seem	seem	VERB	VB	VerbForm=Inf	0	root	_	start_char=181|end_char=185
+7	like	like	SCONJ	IN	_	10	mark	_	start_char=186|end_char=190
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=191|end_char=194
+9	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=194|end_char=197
+10	choosing	choose	VERB	VBG	Tense=Pres|VerbForm=Part	6	advcl	_	start_char=198|end_char=206
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=207|end_char=211
+12	words	word	NOUN	NNS	Number=Plur	10	obj	_	start_char=212|end_char=217
+13	with	with	ADP	IN	_	15	case	_	start_char=218|end_char=222
+14	any	any	DET	DT	_	15	det	_	start_char=223|end_char=226
+15	sense	sense	NOUN	NN	Number=Sing	10	obl	_	start_char=227|end_char=232
+16	for	for	ADP	IN	_	18	case	_	start_char=233|end_char=236
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=237|end_char=242
+18	meaning	meaning	NOUN	NN	Number=Sing	15	nmod	_	start_char=243|end_char=250
+19	.	.	PUNCT	.	_	6	punct	_	start_char=250|end_char=251
+

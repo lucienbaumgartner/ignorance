@@ -1,0 +1,40 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	iobj	_	start_char=7|end_char=10
+4	kid	kid	NOUN	NN	Number=Sing	2	obj	_	start_char=11|end_char=14
+5	because	because	SCONJ	IN	_	8	mark	_	start_char=15|end_char=22
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=23|end_char=26
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=27|end_char=30
+8	naive	naive	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=31|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=49
+11	of	of	ADP	IN	_	13	case	_	start_char=50|end_char=52
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=53|end_char=56
+13	situation	situation	NOUN	NN	Number=Sing	10	obl	_	start_char=57|end_char=66
+14	.	.	PUNCT	.	_	2	punct	_	start_char=66|end_char=67
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=69|end_char=71
+2	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=72|end_char=78
+3	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=79|end_char=83
+4	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=84|end_char=89
+5	words	word	NOUN	NNS	Number=Plur	3	obj	_	start_char=90|end_char=95
+6	all	all	DET	PDT	_	8	det:predet	_	start_char=96|end_char=99
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=100|end_char=103
+8	time	time	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=104|end_char=108
+9	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=109|end_char=113
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=114|end_char=118
+11	talk	talk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=119|end_char=123
+12	about	about	ADP	IN	_	13	case	_	start_char=124|end_char=129
+13	things	thing	NOUN	NNS	Number=Plur	11	obl	_	start_char=130|end_char=136
+14	,	,	PUNCT	,	_	15	punct	_	start_char=136|end_char=137
+15	whats	what	VERB	VBP	Mood=Ind|VerbForm=Fin	3	parataxis	_	start_char=138|end_char=143
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=144|end_char=148
+17	point	point	NOUN	NN	Number=Sing	15	obj	_	start_char=149|end_char=154
+18	?	?	PUNCT	.	_	3	punct	_	start_char=154|end_char=155
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=156|end_char=160
+2	argument	argument	NOUN	NN	Number=Sing	4	nsubj	_	start_char=161|end_char=169
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=170|end_char=172
+4	weak	weak	ADJ	JJ	Degree=Pos	0	root	_	start_char=173|end_char=177
+5	.	.	PUNCT	.	_	4	punct	_	start_char=177|end_char=178
+

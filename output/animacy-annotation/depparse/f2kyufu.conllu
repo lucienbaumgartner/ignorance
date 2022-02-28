@@ -1,0 +1,64 @@
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=6
+2	for	for	ADP	IN	_	4	case	_	start_char=7|end_char=10
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=11|end_char=15
+4	submission	submission	NOUN	NN	Number=Sing	1	nmod	_	start_char=16|end_char=26
+5	to	to	ADP	IN	_	8	case	_	start_char=27|end_char=29
+6	/	/	PUNCT	,	_	7	punct	_	start_char=30|end_char=31
+7	r/	r/	NOUN	NN	Number=Sing	8	compound	_	start_char=31|end_char=33
+8	Roast	roast	NOUN	NN	Number=Sing	4	nmod	_	start_char=33|end_char=38
+
+1	Me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=38|end_char=40
+2	!	!	PUNCT	.	_	1	punct	_	start_char=40|end_char=41
+
+1	Unfortunately	unfortunately	ADV	RB	_	6	advmod	_	start_char=42|end_char=55
+2	,	,	PUNCT	,	_	6	punct	_	start_char=55|end_char=56
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=57|end_char=61
+4	post	post	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=62|end_char=66
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=67|end_char=70
+6	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=71|end_char=78
+7	for	for	ADP	IN	_	10	case	_	start_char=79|end_char=82
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=83|end_char=86
+9	following	follow	VERB	VBG	VerbForm=Ger	10	amod	_	start_char=87|end_char=96
+10	reason	reason	NOUN	NN	Number=Sing	6	obl	_	start_char=97|end_char=103
+11	(	(	PUNCT	-LRB-	_	10	punct	_	start_char=103|end_char=104
+12	s	s	ADJ	AFX	_	10	amod	_	start_char=104|end_char=105
+13	)	)	PUNCT	-RRB-	_	10	punct	_	start_char=105|end_char=106
+14	:	:	PUNCT	:	_	6	punct	_	start_char=106|end_char=107
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=109|end_char=110
+2	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=111|end_char=117
+3	in	in	ADP	IN	_	4	case	_	start_char=118|end_char=120
+4	background	background	NOUN	NN	Number=Sing	2	nmod	_	start_char=121|end_char=131
+5	unaware	unaware	ADJ	JJ	Degree=Pos	2	amod	_	start_char=132|end_char=139
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=140|end_char=143
+7	non	non	ADJ	JJ	Degree=Pos	8	amod	_	start_char=144|end_char=147
+8	consent	consent	NOUN	NN	Number=Sing	5	conj	_	start_char=148|end_char=155
+9	.	.	PUNCT	.	_	2	punct	_	start_char=155|end_char=156
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=161|end_char=163
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=164|end_char=167
+3	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=168|end_char=172
+4	that	that	SCONJ	IN	_	8	mark	_	start_char=173|end_char=177
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	start_char=178|end_char=180
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=181|end_char=184
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	aux:pass	_	start_char=185|end_char=189
+8	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=190|end_char=197
+9	in	in	ADP	IN	_	10	case	_	start_char=198|end_char=200
+10	error	error	NOUN	NN	Number=Sing	8	obl	_	start_char=201|end_char=206
+11	,	,	PUNCT	,	_	14	punct	_	start_char=206|end_char=207
+12	please	please	INTJ	UH	_	14	discourse	_	start_char=208|end_char=214
+13	[	[	PUNCT	-LRB-	_	14	punct	_	start_char=215|end_char=216
+14	message	message	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=216|end_char=223
+15	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	obj	_	start_char=224|end_char=226
+16	]	]	PUNCT	-RRB-	_	14	punct	_	start_char=226|end_char=227
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=227|end_char=228
+2	https://www.reddit.com/message/compose?tbuo=%2Fr%2FRoastMe)	https://www.reddit.com/message/compose?tbuo=%2fr%2froastme)	X	ADD	_	0	root	_	start_char=228|end_char=287
+3	so	so	SCONJ	IN	_	7	mark	_	start_char=288|end_char=290
+4	that	that	SCONJ	IN	_	3	fixed	_	start_char=291|end_char=295
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=296|end_char=298
+6	may	may	AUX	MD	VerbForm=Fin	7	aux	_	start_char=299|end_char=302
+7	review	review	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=303|end_char=309
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=310|end_char=312
+9	.	.	PUNCT	.	_	2	punct	_	start_char=312|end_char=313
+

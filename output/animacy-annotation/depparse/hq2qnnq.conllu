@@ -1,0 +1,24 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	prejudice	prejudice	NOUN	NN	Number=Sing	7	nsubj	_	start_char=4|end_char=13
+3	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	start_char=14|end_char=22
+4	at	at	ADP	IN	_	5	case	_	start_char=23|end_char=25
+5	Californians	Californian	PROPN	NNPS	Number=Plur	3	obl	_	start_char=26|end_char=38
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=39|end_char=41
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=50
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=51|end_char=54
+9	juvenile	juvenile	ADJ	JJ	Degree=Pos	7	conj	_	start_char=55|end_char=63
+10	.	.	PUNCT	.	_	7	punct	_	start_char=63|end_char=64
+
+1	Thankfully	thankfully	ADV	RB	_	6	advmod	_	start_char=65|end_char=75
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=76|end_char=78
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=78|end_char=80
+4	only	only	ADV	RB	_	6	advmod	_	start_char=81|end_char=85
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=86|end_char=87
+6	minority	minority	NOUN	NN	Number=Sing	0	root	_	start_char=88|end_char=96
+7	of	of	ADP	IN	_	8	case	_	start_char=97|end_char=99
+8	Oregonians	Oregonian	PROPN	NNPS	Number=Plur	6	nmod	_	start_char=100|end_char=110
+9	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=111|end_char=114
+10	perpetuate	perpetuate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=115|end_char=125
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=126|end_char=128
+12	.	.	PUNCT	.	_	6	punct	_	start_char=128|end_char=129
+

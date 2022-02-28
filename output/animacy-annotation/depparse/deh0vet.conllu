@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=2|end_char=6
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=7|end_char=9
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=10|end_char=13
+5	specifically	specifically	ADV	RB	_	7	advmod	_	start_char=14|end_char=26
+6	for	for	ADP	IN	_	7	case	_	start_char=27|end_char=30
+7	Logan	Logan	PROPN	NNP	Number=Sing	0	root	_	start_char=31|end_char=36
+8	.	.	PUNCT	.	_	7	punct	_	start_char=36|end_char=37
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=38|end_char=39
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=40|end_char=43
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=51
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=52|end_char=55
+5	very	very	ADV	RB	_	6	advmod	_	start_char=56|end_char=60
+6	surprised	surprised	ADJ	JJ	Degree=Pos	3	conj	_	start_char=61|end_char=70
+7	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=71|end_char=75
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=76|end_char=78
+9	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=79|end_char=83
+10	up	up	ADP	RP	_	9	compound:prt	_	start_char=84|end_char=86
+11	.	.	PUNCT	.	_	3	punct	_	start_char=86|end_char=87
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=88|end_char=90
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=91|end_char=94
+3	n't	not	PART	RB	_	7	advmod	_	start_char=94|end_char=97
+4	much	much	ADV	RB	_	7	advmod	_	start_char=98|end_char=102
+5	just	just	ADV	RB	_	7	advmod	_	start_char=103|end_char=107
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=108|end_char=109
+7	teaser	teaser	NOUN	NN	Number=Sing	0	root	_	start_char=110|end_char=116
+

@@ -1,0 +1,16 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	immature	immature	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=21
+4	.	.	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=30
+2	for	for	SCONJ	IN	_	3	mark	_	start_char=31|end_char=34
+3	proving	prove	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=35|end_char=42
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=43|end_char=45
+5	point	point	NOUN	NN	Number=Sing	3	obj	_	start_char=46|end_char=51
+6	.	.	PUNCT	.	_	1	punct	_	start_char=51|end_char=52
+
+1	Mostly	mostly	ADV	RB	_	2	advmod	_	start_char=54|end_char=60
+2	immature	immature	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=69
+3	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+

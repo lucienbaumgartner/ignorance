@@ -1,0 +1,19 @@
+1	John	John	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=0|end_char=4
+2	Conyers	Conyer	PROPN	NNP	Number=Sing	1	flat	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=15
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=16|end_char=19
+5	reason	reason	NOUN	NN	Number=Sing	0	root	_	start_char=20|end_char=26
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=27|end_char=29
+7	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=30|end_char=34
+8	term	term	NOUN	NN	Number=Sing	9	compound	_	start_char=35|end_char=39
+9	limits	limit	NOUN	NNS	Number=Plur	7	obj	_	start_char=40|end_char=46
+10	.	.	PUNCT	.	_	5	punct	_	start_char=46|end_char=47
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=48|end_char=51
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=52|end_char=59
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=60|end_char=63
+4	asleep	asleep	ADJ	JJ	Degree=Pos	2	conj	_	start_char=64|end_char=70
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=71|end_char=74
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=75|end_char=78
+7	constituents	constituent	NOUN	NNS	Number=Plur	2	parataxis	_	start_char=79|end_char=91
+

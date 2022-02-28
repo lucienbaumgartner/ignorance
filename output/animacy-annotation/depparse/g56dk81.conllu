@@ -1,0 +1,97 @@
+1	Nah	nah	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=8
+3	not	not	PART	RB	_	4	advmod	_	start_char=9|end_char=12
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+5	.	.	PUNCT	.	_	4	punct	_	start_char=18|end_char=19
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=20|end_char=23
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=23|end_char=26
+3	far	far	ADV	RB	Degree=Pos	0	root	_	start_char=27|end_char=30
+4	to	to	ADP	IN	_	5	case	_	start_char=31|end_char=33
+5	angry	angry	ADJ	JJ	Degree=Pos	3	obl	_	start_char=34|end_char=39
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=40|end_char=43
+7	insecure	insecure	ADJ	JJ	Degree=Pos	5	conj	_	start_char=44|end_char=52
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=53|end_char=56
+9	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=57|end_char=64
+10	of	of	ADP	IN	_	11	case	_	start_char=65|end_char=67
+11	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	9	obl	_	start_char=68|end_char=76
+12	to	to	PART	TO	_	15	mark	_	start_char=77|end_char=79
+13	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	start_char=80|end_char=82
+14	highly	highly	ADV	RB	Degree=Pos	15	advmod	_	start_char=83|end_char=89
+15	educated	educate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	start_char=90|end_char=98
+16	.	.	PUNCT	.	_	3	punct	_	start_char=98|end_char=99
+
+1	Plus	plus	CCONJ	CC	_	5	cc	_	start_char=100|end_char=104
+2	,	,	PUNCT	,	_	5	punct	_	start_char=104|end_char=105
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=106|end_char=108
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=108|end_char=110
+5	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	start_char=111|end_char=115
+6	to	to	PART	TO	_	7	mark	_	start_char=116|end_char=118
+7	see	see	VERB	VB	VerbForm=Inf	5	csubj	_	start_char=119|end_char=122
+8	form	form	NOUN	NN	Number=Sing	7	obj	_	start_char=123|end_char=127
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=128|end_char=131
+10	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=131|end_char=134
+11	writing	write	VERB	VBG	Tense=Pres|VerbForm=Part	7	ccomp	_	start_char=135|end_char=142
+12	that	that	SCONJ	IN	_	16	mark	_	start_char=143|end_char=147
+13	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	start_char=148|end_char=151
+14	do	do	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=152|end_char=154
+15	n't	not	PART	RB	Polarity=Neg	16	advmod	_	start_char=154|end_char=157
+16	have	have	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=158|end_char=162
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=163|end_char=164
+18	terrific	terrific	ADJ	JJ	Degree=Pos	19	amod	_	start_char=165|end_char=173
+19	education	education	NOUN	NN	Number=Sing	16	obj	_	start_char=174|end_char=183
+20	or	or	CCONJ	CC	_	22	cc	_	start_char=184|end_char=186
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=187|end_char=190
+22	kind	kind	NOUN	NN	Number=Sing	19	conj	_	start_char=191|end_char=195
+23	of	of	ADP	IN	_	24	case	_	start_char=196|end_char=198
+24	vocabulary	vocabulary	NOUN	NN	Number=Sing	22	nmod	_	start_char=199|end_char=209
+25	that	that	PRON	WDT	PronType=Rel	27	nsubj	_	start_char=210|end_char=214
+26	would	would	AUX	MD	VerbForm=Fin	27	aux	_	start_char=215|end_char=220
+27	suggestion	suggestion	VERB	VB	VerbForm=Inf	24	acl:relcl	_	start_char=221|end_char=231
+28	being	be	AUX	VBG	VerbForm=Ger	29	cop	_	start_char=232|end_char=237
+29	intelligent	intelligent	ADJ	JJ	Degree=Pos	27	xcomp	_	start_char=238|end_char=249
+30	.	.	PUNCT	.	_	5	punct	_	start_char=249|end_char=250
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=253|end_char=256
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=256|end_char=259
+3	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=260|end_char=265
+4	.	.	PUNCT	.	_	3	punct	_	start_char=265|end_char=266
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=267|end_char=270
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=271|end_char=275
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=275|end_char=277
+4	OK	ok	ADJ	JJ	Degree=Pos	0	root	_	start_char=278|end_char=280
+5	.	.	PUNCT	.	_	4	punct	_	start_char=280|end_char=281
+
+1	Go-	go-	INTJ	UH	_	2	discourse	_	start_char=282|end_char=285
+2	eat	eat	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=286|end_char=289
+3	.	.	PUNCT	.	_	2	punct	_	start_char=289|end_char=290
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=291|end_char=295
+2	couch	couch	NOUN	NN	Number=Sing	6	nsubj	_	start_char=296|end_char=301
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=302|end_char=305
+4	snacks	snack	NOUN	NNS	Number=Plur	2	conj	_	start_char=306|end_char=312
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=313|end_char=316
+6	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=317|end_char=324
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=325|end_char=328
+8	.	.	PUNCT	.	_	6	punct	_	start_char=328|end_char=329
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=330|end_char=334
+2	try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=335|end_char=338
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=339|end_char=342
+4	remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=343|end_char=351
+5	-	-	PUNCT	,	_	2	punct	_	start_char=351|end_char=352
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=353|end_char=357
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=357|end_char=360
+8	just	just	ADV	RB	_	9	advmod	_	start_char=361|end_char=365
+9	snacks	snack	NOUN	NNS	Number=Plur	2	parataxis	_	start_char=366|end_char=372
+10	...	...	PUNCT	,	_	2	punct	_	start_char=372|end_char=375
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=376|end_char=380
+12	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=380|end_char=383
+13	not	not	PART	RB	_	14	advmod	_	start_char=384|end_char=387
+14	love	love	VERB	VB	VerbForm=Part	2	parataxis	_	start_char=388|end_char=392
+15	.	.	PUNCT	.	_	2	punct	_	start_char=392|end_char=393
+

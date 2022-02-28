@@ -1,0 +1,23 @@
+1	Valid	valid	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	4	punct	_	start_char=5|end_char=6
+3	but	but	CCONJ	CC	_	13	cc	_	start_char=7|end_char=10
+4	considering	consider	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=11|end_char=22
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=23|end_char=26
+6	non-existent	non-existent	ADJ	JJ	Degree=Pos	7	amod	_	start_char=27|end_char=39
+7	tracking	tracking	NOUN	NN	Number=Sing	4	obj	_	start_char=40|end_char=48
+8	,	,	PUNCT	,	_	13	punct	_	start_char=48|end_char=49
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	expl	_	start_char=50|end_char=52
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=53|end_char=55
+11	honestly	honestly	ADV	RB	_	13	advmod	_	start_char=56|end_char=64
+12	very	very	ADV	RB	_	13	advmod	_	start_char=65|end_char=69
+13	hard	hard	ADJ	JJ	Degree=Pos	1	conj	_	start_char=70|end_char=74
+14	to	to	PART	TO	_	15	mark	_	start_char=75|end_char=77
+15	land	land	VERB	VB	VerbForm=Inf	13	csubj	_	start_char=78|end_char=82
+16	against	against	ADP	IN	_	17	case	_	start_char=83|end_char=90
+17	someone	someone	PRON	NN	Number=Sing	15	obl	_	start_char=91|end_char=98
+18	both	both	CCONJ	CC	_	19	cc:preconj	_	start_char=99|end_char=103
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	amod	_	start_char=104|end_char=111
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=112|end_char=115
+21	stationary	stationary	ADJ	JJ	Degree=Pos	19	conj	_	start_char=116|end_char=126
+22	.	.	PUNCT	.	_	1	punct	_	start_char=126|end_char=127
+

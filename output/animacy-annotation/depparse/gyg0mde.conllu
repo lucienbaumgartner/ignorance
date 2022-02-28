@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	realised	realise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=10
+3	that	that	SCONJ	IN	_	8	mark	_	start_char=11|end_char=15
+4	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=16|end_char=22
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=23|end_char=26
+6	so	so	ADV	RB	_	7	advmod	_	start_char=27|end_char=29
+7	terribly	terribly	ADV	RB	_	8	advmod	_	start_char=30|end_char=38
+8	selfish	selfish	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=39|end_char=46
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+10	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=51|end_char=59
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=60|end_char=64
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=65|end_char=69
+13	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=70|end_char=77
+14	to	to	PART	TO	_	15	mark	_	start_char=78|end_char=80
+15	die	die	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=81|end_char=84
+

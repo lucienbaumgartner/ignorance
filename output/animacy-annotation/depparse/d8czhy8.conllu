@@ -1,0 +1,43 @@
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	scene	scene	NOUN	NN	Number=Sing	3	nsubj	_	start_char=6|end_char=11
+3	freaks	freak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=19|end_char=21
+5	out	out	ADP	RP	_	3	compound:prt	_	start_char=22|end_char=25
+6	.	.	PUNCT	.	_	3	punct	_	start_char=25|end_char=26
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=28|end_char=29
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=29|end_char=32
+3	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=33|end_char=37
+4	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=38|end_char=42
+5	1000	1000	NUM	CD	NumType=Card	6	nummod	_	start_char=43|end_char=47
+6	times	time	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=48|end_char=53
+7	and	and	CCONJ	CC	_	11	cc	_	start_char=54|end_char=57
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=58|end_char=60
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=60|end_char=62
+10	still	still	ADV	RB	_	11	advmod	_	start_char=63|end_char=68
+11	scary	scary	ADJ	JJ	Degree=Pos	3	conj	_	start_char=69|end_char=74
+12	.	.	PUNCT	.	_	3	punct	_	start_char=74|end_char=75
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=77|end_char=79
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=79|end_char=81
+3	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=82|end_char=85
+4	deliberate	deliberate	ADJ	JJ	Degree=Pos	9	amod	_	start_char=86|end_char=96
+5	,	,	PUNCT	,	_	6	punct	_	start_char=96|end_char=97
+6	quickened	quicken	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	_	start_char=98|end_char=107
+7	,	,	PUNCT	,	_	9	punct	_	start_char=107|end_char=108
+8	excited	excited	ADJ	JJ	Degree=Pos	9	amod	_	start_char=109|end_char=116
+9	pace	pace	NOUN	NN	Number=Sing	0	root	_	start_char=117|end_char=121
+10	coming	come	VERB	VBG	VerbForm=Ger	9	acl	_	start_char=122|end_char=128
+11	up	up	ADP	RP	_	10	compound:prt	_	start_char=129|end_char=131
+12	behind	behind	ADP	IN	_	17	case	_	start_char=132|end_char=138
+13	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=139|end_char=142
+14	unaware	unaware	ADJ	JJ	Degree=Pos	17	amod	_	start_char=143|end_char=150
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=151|end_char=154
+16	oblivious	oblivious	ADJ	JJ	Degree=Pos	14	conj	_	start_char=155|end_char=164
+17	saunter	saunter	NOUN	NN	Number=Sing	10	obl	_	start_char=165|end_char=172
+18	that	that	PRON	WDT	PronType=Rel	19	nsubj	_	start_char=173|end_char=177
+19	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=178|end_char=183
+20	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	iobj	_	start_char=184|end_char=186
+21	chills	chill	NOUN	NNS	Number=Plur	19	obj	_	start_char=187|end_char=193
+22	.	.	PUNCT	.	_	9	punct	_	start_char=193|end_char=194
+

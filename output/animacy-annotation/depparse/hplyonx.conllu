@@ -1,0 +1,97 @@
+1	Absolutely	absolutely	ADV	RB	_	2	advmod	_	start_char=0|end_char=10
+2	not	not	PART	RB	_	0	root	_	start_char=11|end_char=14
+3	.	.	PUNCT	.	_	2	punct	_	start_char=14|end_char=15
+
+1	Best	good	ADJ	JJS	Degree=Sup	3	amod	_	start_char=17|end_char=21
+2	case	case	NOUN	NN	Number=Sing	3	compound	_	start_char=22|end_char=26
+3	scenario	scenario	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=35
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=36|end_char=38
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=38|end_char=40
+6	extremely	extremely	ADV	RB	_	7	advmod	_	start_char=41|end_char=50
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=51|end_char=59
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=60|end_char=63
+9	invasive	invasive	ADJ	JJ	Degree=Pos	7	conj	_	start_char=64|end_char=72
+10	.	.	PUNCT	.	_	3	punct	_	start_char=72|end_char=73
+
+1	1	1	NUM	LS	_	4	nummod	_	start_char=75|end_char=76
+2	.	.	PUNCT	.	_	1	punct	_	start_char=76|end_char=77
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=78|end_char=79
+4	transitioned	transition	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=80|end_char=92
+5	8	8	NUM	CD	NumType=Card	6	nummod	_	start_char=93|end_char=94
+6	years	year	NOUN	NNS	Number=Plur	7	obl:npmod	_	start_char=95|end_char=100
+7	ago	ago	ADV	RB	_	4	advmod	_	start_char=101|end_char=104
+8	.	.	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=106|end_char=108
+2	body	body	NOUN	NN	Number=Sing	8	nsubj	_	start_char=109|end_char=113
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=114|end_char=117
+4	hormones	hormone	NOUN	NNS	Number=Plur	2	conj	_	start_char=118|end_char=126
+5	levels	level	NOUN	NNS	Number=Plur	2	conj	_	start_char=127|end_char=133
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=134|end_char=137
+7	completely	completely	ADV	RB	_	8	advmod	_	start_char=138|end_char=148
+8	female	female	ADJ	JJ	Degree=Pos	0	root	_	start_char=149|end_char=155
+9	at	at	ADP	IN	_	11	case	_	start_char=156|end_char=158
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=159|end_char=163
+11	point	point	NOUN	NN	Number=Sing	8	obl	_	start_char=164|end_char=169
+12	.	.	PUNCT	.	_	8	punct	_	start_char=169|end_char=170
+
+1	Treating	treat	VERB	VBG	VerbForm=Ger	0	root	_	start_char=171|end_char=179
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=180|end_char=182
+3	like	like	SCONJ	IN	_	8	mark	_	start_char=183|end_char=187
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=188|end_char=189
+5	man	man	NOUN	NN	Number=Sing	8	nsubj	_	start_char=190|end_char=193
+6	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=194|end_char=199
+7	actually	actually	ADV	RB	_	8	advmod	_	start_char=200|end_char=208
+8	get	get	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=209|end_char=212
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=213|end_char=215
+10	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	8	xcomp	_	start_char=216|end_char=222
+11	.	.	PUNCT	.	_	1	punct	_	start_char=222|end_char=223
+
+1	2	2	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=225|end_char=226
+2	.	.	PUNCT	.	_	1	punct	_	start_char=226|end_char=227
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=228|end_char=232
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=233|end_char=236
+3	literally	literally	ADV	RB	_	5	advmod	_	start_char=237|end_char=246
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=247|end_char=248
+5	drugstore	drugstore	NOUN	NN	Number=Sing	0	root	_	start_char=249|end_char=258
+6	.	.	PUNCT	.	_	5	punct	_	start_char=258|end_char=259
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=260|end_char=264
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=265|end_char=267
+3	not	not	PART	RB	_	4	advmod	_	start_char=268|end_char=271
+4	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=272|end_char=276
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=277|end_char=281
+6	information	information	NOUN	NN	Number=Sing	4	obj	_	start_char=282|end_char=293
+7	,	,	PUNCT	,	_	4	punct	_	start_char=293|end_char=294
+8	especially	especially	ADV	RB	_	10	advmod	_	start_char=295|end_char=305
+9	to	to	PART	TO	_	10	mark	_	start_char=306|end_char=308
+10	give	give	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=309|end_char=313
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=314|end_char=315
+12	vaccine	vaccine	NOUN	NN	Number=Sing	10	obj	_	start_char=316|end_char=323
+13	,	,	PUNCT	,	_	12	punct	_	start_char=323|end_char=324
+14	which	which	PRON	WDT	PronType=Rel	16	nsubj	_	start_char=325|end_char=330
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=331|end_char=333
+16	what	what	PRON	WP	PronType=Int	12	acl:relcl	_	start_char=334|end_char=338
+17	this	this	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=339|end_char=343
+18	form	form	NOUN	NN	Number=Sing	19	nsubj	_	start_char=344|end_char=348
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=349|end_char=352
+20	for	for	ADP	IN	_	16	case	_	start_char=353|end_char=356
+21	.	.	PUNCT	.	_	4	punct	_	start_char=356|end_char=357
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=359|end_char=364
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=365|end_char=368
+3	literally	literally	ADV	RB	_	2	advmod	_	start_char=369|end_char=378
+4	no	no	DET	DT	_	5	det	_	start_char=379|end_char=381
+5	vaccines	vaccine	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=382|end_char=390
+6	out	out	ADV	RB	_	7	advmod	_	start_char=391|end_char=394
+7	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=395|end_char=400
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=401|end_char=405
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=406|end_char=410
+10	gender	gender	NOUN	NN	Number=Sing	15	compound	_	start_char=411|end_char=417
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=418|end_char=420
+12	sex	sex	NOUN	NN	Number=Sing	10	conj	_	start_char=421|end_char=424
+13	specific	specific	ADJ	JJ	Degree=Pos	15	amod	_	start_char=425|end_char=433
+14	side	side	NOUN	NN	Number=Sing	15	compound	_	start_char=434|end_char=438
+15	effects	effect	NOUN	NNS	Number=Plur	9	obj	_	start_char=439|end_char=446
+

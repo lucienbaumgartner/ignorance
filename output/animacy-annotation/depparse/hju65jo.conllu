@@ -1,0 +1,51 @@
+1	Interesting	interesting	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=11
+2	.	.	PUNCT	.	_	1	punct	_	start_char=11|end_char=12
+
+1	So	so	ADV	RB	_	6	advmod	_	start_char=13|end_char=15
+2	now	now	ADV	RB	_	6	advmod	_	start_char=16|end_char=19
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=20|end_char=22
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=22|end_char=24
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=25|end_char=26
+6	question	question	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=35
+7	of	of	ADP	IN	_	9	case	_	start_char=36|end_char=38
+8	self	self	NOUN	NN	Number=Sing	9	compound	_	start_char=39|end_char=43
+9	awareness	awareness	NOUN	NN	Number=Sing	6	nmod	_	start_char=44|end_char=53
+10	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=54|end_char=55
+11	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=56|end_char=61
+12	.	.	PUNCT	.	_	6	punct	_	start_char=61|end_char=62
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=63|end_char=65
+2	daddylalo	daddylalo	ADV	RB	_	3	advmod	_	start_char=66|end_char=75
+3	smart	smart	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=81
+4	enough	enough	ADJ	JJ	Degree=Pos	3	advmod	_	start_char=82|end_char=88
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=89|end_char=92
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=93|end_char=94
+7	good	good	ADJ	JJ	Degree=Pos	9	amod	_	start_char=95|end_char=99
+8	enough	enough	ADJ	JJ	Degree=Pos	9	amod	_	start_char=100|end_char=106
+9	actor	actor	NOUN	NN	Number=Sing	4	conj	_	start_char=107|end_char=112
+10	to	to	PART	TO	_	12	mark	_	start_char=113|end_char=115
+11	be	be	AUX	VB	VerbForm=Inf	12	aux	_	start_char=116|end_char=118
+12	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	9	acl	_	start_char=119|end_char=126
+13	this	this	PRON	DT	Number=Sing|PronType=Dem	12	obj	_	start_char=127|end_char=131
+14	off	off	ADP	RP	_	12	compound:prt	_	start_char=132|end_char=135
+15	to	to	PART	TO	_	16	mark	_	start_char=136|end_char=138
+16	get	get	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=139|end_char=142
+17	more	more	ADJ	JJR	Degree=Cmp	18	amod	_	start_char=143|end_char=147
+18	gifts	gift	NOUN	NNS	Number=Plur	16	obj	_	start_char=148|end_char=153
+19	or	or	CCONJ	CC	_	23	cc	_	start_char=154|end_char=156
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=157|end_char=159
+21	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=160|end_char=162
+22	total	total	ADJ	JJ	Degree=Pos	23	amod	_	start_char=163|end_char=168
+23	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=169|end_char=176
+24	and	and	CCONJ	CC	_	26	cc	_	start_char=177|end_char=180
+25	actually	actually	ADV	RB	_	26	advmod	_	start_char=181|end_char=189
+26	upset	upset	ADJ	JJ	Degree=Pos	23	conj	_	start_char=190|end_char=195
+27	at	at	ADP	IN	_	29	case	_	start_char=196|end_char=198
+28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	start_char=199|end_char=202
+29	glasses	glasses	NOUN	NNS	Number=Plur	26	obl	_	start_char=203|end_char=210
+30	and	and	CCONJ	CC	_	31	cc	_	start_char=211|end_char=214
+31	whatnot	whatnot	NOUN	NNS	Number=Plur	29	conj	_	start_char=215|end_char=222
+32	.	.	PUNCT	.	_	3	punct	_	start_char=222|end_char=223
+
+1	Hmmmmmm	hmm	INTJ	UH	_	0	root	_	start_char=224|end_char=231
+

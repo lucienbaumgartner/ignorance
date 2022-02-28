@@ -1,0 +1,21 @@
+1	So	so	ADV	RB	_	6	advmod	_	start_char=0|end_char=2
+2	...	...	PUNCT	,	_	6	punct	_	start_char=2|end_char=5
+3	everything	everything	PRON	NN	Number=Sing	6	nsubj	_	start_char=7|end_char=17
+4	conservative	conservative	ADJ	JJ	Degree=Pos	3	amod	_	start_char=18|end_char=30
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=31|end_char=33
+6	bigoted	bigoted	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=41
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=42|end_char=45
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=46|end_char=54
+9	?	?	PUNCT	.	_	6	punct	_	start_char=54|end_char=55
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=57|end_char=61
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=62|end_char=64
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=65|end_char=66
+4	wide	wide	ADJ	JJ	Degree=Pos	5	amod	_	start_char=67|end_char=71
+5	brush	brush	NOUN	NN	Number=Sing	0	root	_	start_char=72|end_char=77
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=78|end_char=81
+7	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=81|end_char=84
+8	painting	paint	VERB	VBG	Tense=Pres|VerbForm=Part	5	acl:relcl	_	start_char=85|end_char=93
+9	with	with	ADP	IN	_	8	obl	_	start_char=94|end_char=98
+10	.	.	PUNCT	.	_	5	punct	_	start_char=98|end_char=99
+

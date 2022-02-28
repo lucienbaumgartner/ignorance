@@ -1,0 +1,56 @@
+1	Because	because	SCONJ	IN	_	3	mark	_	start_char=0|end_char=7
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=8|end_char=10
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=12
+4	simply	simply	ADV	RB	_	5	advmod	_	start_char=13|end_char=19
+5	not	not	PART	RB	_	3	advmod	_	start_char=20|end_char=23
+6	.	.	PUNCT	.	_	3	punct	_	start_char=23|end_char=24
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=25|end_char=31
+2	give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=32|end_char=36
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	start_char=37|end_char=39
+4	proof	proof	NOUN	NN	Number=Sing	2	obj	_	start_char=40|end_char=45
+5	as	as	ADP	IN	_	7	case	_	start_char=46|end_char=48
+6	to	to	ADP	IN	_	5	fixed	_	start_char=49|end_char=51
+7	how	how	SCONJ	WRB	PronType=Int	2	obl	_	start_char=52|end_char=55
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=56|end_char=58
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=58|end_char=60
+10	related	related	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=61|end_char=68
+11	to	to	ADP	IN	_	12	case	_	start_char=69|end_char=71
+12	demons	demon	NOUN	NNS	Number=Plur	10	obl	_	start_char=72|end_char=78
+13	.	.	PUNCT	.	_	2	punct	_	start_char=78|end_char=79
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=82|end_char=85
+2	same	same	ADJ	JJ	Degree=Pos	5	nsubj:pass	_	start_char=86|end_char=90
+3	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=91|end_char=96
+4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	_	start_char=97|end_char=99
+5	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=100|end_char=104
+6	for	for	ADP	IN	_	7	case	_	start_char=105|end_char=108
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=109|end_char=112
+8	,	,	PUNCT	,	_	10	punct	_	start_char=112|end_char=113
+9	how	how	ADV	WRB	PronType=Int	10	advmod	_	start_char=114|end_char=117
+10	ate	eat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	_	start_char=118|end_char=121
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=122|end_char=125
+12	into	into	ADP	IN	_	13	case	_	start_char=126|end_char=130
+13	witchcraft	witchcraft	NOUN	NN	Number=Sing	10	obl	_	start_char=131|end_char=141
+14	and	and	CCONJ	CC	_	16	cc	_	start_char=142|end_char=145
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=146|end_char=149
+16	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	10	conj	_	start_char=150|end_char=157
+17	for	for	ADP	IN	_	18	case	_	start_char=158|end_char=161
+18	demons	demon	NOUN	NNS	Number=Plur	16	obl	_	start_char=162|end_char=168
+19	where	where	SCONJ	WRB	PronType=Int	21	mark	_	start_char=169|end_char=174
+20	there	there	PRON	EX	_	21	expl	_	start_char=175|end_char=180
+21	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	start_char=181|end_char=184
+22	n't	not	PART	RB	_	21	advmod	_	start_char=184|end_char=187
+23	any	any	DET	DT	_	21	nsubj	_	start_char=188|end_char=191
+24	?	?	PUNCT	.	_	5	punct	_	start_char=191|end_char=192
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=193|end_char=197
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=197|end_char=199
+3	dangerous	dangerous	ADJ	JJ	Degree=Pos	0	root	_	start_char=200|end_char=209
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=210|end_char=213
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=214|end_char=222
+6	of	of	ADP	IN	_	8	case	_	start_char=223|end_char=225
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=226|end_char=229
+8	craft	craft	NOUN	NN	Number=Sing	5	obl	_	start_char=230|end_char=235
+9	.	.	PUNCT	.	_	3	punct	_	start_char=235|end_char=236
+

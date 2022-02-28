@@ -1,0 +1,10 @@
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	dude	dude	NOUN	NN	Number=Sing	6	nsubj	_	start_char=8|end_char=12
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=13|end_char=15
+5	blissfully	blissfully	ADV	RB	_	6	advmod	_	start_char=16|end_char=26
+6	unaware	unaware	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=27|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	prideful	prideful	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=47
+9	.	.	PUNCT	.	_	1	punct	_	start_char=47|end_char=48
+

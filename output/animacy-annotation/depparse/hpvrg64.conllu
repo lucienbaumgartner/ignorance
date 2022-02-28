@@ -1,0 +1,21 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=14|end_char=18
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=19|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	narcissistic	narcissistic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=44
+7	.	.	PUNCT	.	_	1	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=46|end_char=47
+2	’d	have	AUX	MD	VerbForm=Fin	3	aux	_	start_char=47|end_char=49
+3	hate	hate	VERB	VB	VerbForm=Inf	0	root	_	start_char=50|end_char=54
+4	to	to	PART	TO	_	8	mark	_	start_char=55|end_char=57
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=58|end_char=60
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=61|end_char=65
+7	family	family	NOUN	NN	Number=Sing	3	xcomp	_	start_char=66|end_char=72
+8	having	have	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=73|end_char=79
+9	dinner	dinner	NOUN	NN	Number=Sing	8	obj	_	start_char=80|end_char=86
+10	with	with	ADP	IN	_	11	case	_	start_char=87|end_char=91
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obl	_	start_char=92|end_char=95
+12	tonight	tonight	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=96|end_char=103
+

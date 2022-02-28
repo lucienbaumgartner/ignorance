@@ -1,0 +1,33 @@
+1	**"	**"	PUNCT	NFP	_	6	punct	_	start_char=0|end_char=3
+2	.............	.............	PUNCT	,	_	6	punct	_	start_char=3|end_char=16
+3	and	and	CCONJ	CC	_	6	cc	_	start_char=16|end_char=19
+4	in	in	ADP	IN	_	5	case	_	start_char=20|end_char=22
+5	general	general	ADJ	JJ	Degree=Pos	6	obl	_	start_char=23|end_char=30
+6	conspire	conspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=39
+7	to	to	PART	TO	_	8	mark	_	start_char=40|end_char=42
+8	produce	produce	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=43|end_char=50
+9	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=51|end_char=53
+10	unaware	unaware	ADJ	JJ	Degree=Pos	13	amod	_	start_char=54|end_char=61
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=62|end_char=65
+12	compliant	compliant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=66|end_char=75
+13	citizenry	citizenry	NOUN	NN	Number=Sing	8	obj	_	start_char=76|end_char=85
+14	...	...	PUNCT	.	_	6	punct	_	start_char=85|end_char=88
+15	”	''	PUNCT	''	_	6	punct	_	start_char=88|end_char=89
+
+1	**	**	PUNCT	NFP	_	6	punct	_	start_char=89|end_char=91
+2	-	-	PUNCT	HYPH	_	6	punct	_	start_char=92|end_char=93
+3	Former	former	ADJ	JJ	Degree=Pos	6	amod	_	start_char=94|end_char=100
+4	Clinton	Clinton	PROPN	NNP	Number=Sing	6	compound	_	start_char=101|end_char=108
+5	administration	administration	NOUN	NN	Number=Sing	6	compound	_	start_char=109|end_char=123
+6	official	official	NOUN	NN	Number=Sing	0	root	_	start_char=124|end_char=132
+7	Bill	Bill	PROPN	NNP	Number=Sing	6	appos	_	start_char=133|end_char=137
+8	Ivey	Ivey	PROPN	NNP	Number=Sing	7	flat	_	start_char=138|end_char=142
+9	on	on	ADP	IN	_	10	case	_	start_char=143|end_char=145
+10	March	March	PROPN	NNP	Number=Sing	6	nmod	_	start_char=146|end_char=151
+11	13	13	NUM	CD	NumType=Card	10	nummod	_	start_char=152|end_char=154
+12	,	,	PUNCT	,	_	10	punct	_	start_char=154|end_char=155
+13	2016	2016	NUM	CD	NumType=Card	10	nummod	_	start_char=156|end_char=160
+14	.	.	PUNCT	.	_	6	punct	_	start_char=160|end_char=161
+
+1	https://wikileaks.org/podesta-emails/emailid/3599	https://wikileaks.org/podesta-emails/emailid/3599	X	ADD	_	0	root	_	start_char=163|end_char=212
+

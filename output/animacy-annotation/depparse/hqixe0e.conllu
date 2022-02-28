@@ -1,0 +1,11 @@
+1	christ	christ	NOUN	NN	Number=Sing	5	vocative	_	start_char=0|end_char=6
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=7|end_char=10
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=13
+4	obnoxiously	obnoxiously	ADV	RB	_	5	advmod	_	start_char=14|end_char=25
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=34
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+7	reddit	reddit	NOUN	NN	Number=Sing	8	compound	_	start_char=39|end_char=45
+8	hive	hive	NOUN	NN	Number=Sing	9	compound	_	start_char=46|end_char=50
+9	minded	minded	ADJ	JJ	Degree=Pos	5	conj	_	start_char=51|end_char=57
+10	.	.	PUNCT	.	_	5	punct	_	start_char=57|end_char=58
+

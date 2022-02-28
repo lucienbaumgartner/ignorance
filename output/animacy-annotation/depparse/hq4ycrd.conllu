@@ -1,0 +1,11 @@
+1	In	in	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	short	short	ADJ	JJ	Degree=Pos	7	obl	_	start_char=3|end_char=8
+3	,	,	PUNCT	,	_	7	punct	_	start_char=8|end_char=9
+4	because	because	SCONJ	IN	_	7	mark	_	start_char=10|end_char=17
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=18|end_char=22
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=23|end_char=26
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=35
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=36|end_char=39
+9	stupid	stupid	ADJ	JJ	Degree=Pos	7	conj	_	start_char=40|end_char=46
+10	.	.	PUNCT	.	_	7	punct	_	start_char=46|end_char=47
+

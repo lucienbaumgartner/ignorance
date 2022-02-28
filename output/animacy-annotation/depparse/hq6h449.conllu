@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=0|end_char=2
+2	really	really	ADV	RB	_	4	advmod	_	start_char=3|end_char=9
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=12
+4	shocking	shocking	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=21
+5	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=22|end_char=25
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=26|end_char=36
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	csubj	_	start_char=37|end_char=45
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=46|end_char=49
+9	incompetent	incompetent	ADJ	JJ	Degree=Pos	7	conj	_	start_char=50|end_char=61
+10	most	most	ADJ	JJS	Degree=Sup	11	amod	_	start_char=62|end_char=66
+11	GPs	gp	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=67|end_char=70
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=71|end_char=74
+13	regarding	regard	VERB	VBG	Tense=Pres|VerbForm=Part	7	conj	_	start_char=75|end_char=84
+14	PCOS	pcos	NOUN	NN	Number=Sing	13	obj	_	start_char=85|end_char=89
+15	.	.	PUNCT	.	_	4	punct	_	start_char=89|end_char=90
+
+1	Even	even	ADV	RB	_	3	advmod	_	start_char=91|end_char=95
+2	some	some	DET	DT	_	3	det	_	start_char=96|end_char=100
+3	gynos	gynos	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=101|end_char=106
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=107|end_char=110
+5	endos	endo	NOUN	NNS	Number=Plur	3	conj	_	start_char=111|end_char=116
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=117|end_char=119
+7	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=119|end_char=122
+8	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=123|end_char=127
+9	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=128|end_char=131
+10	to	to	PART	TO	_	12	mark	_	start_char=132|end_char=134
+11	properly	properly	ADV	RB	_	12	advmod	_	start_char=135|end_char=143
+12	diagnose	diagnose	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=144|end_char=152
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=153|end_char=156
+14	treat	treat	VERB	VB	VerbForm=Inf	12	conj	_	start_char=157|end_char=162
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=163|end_char=165
+16	.	.	PUNCT	.	_	8	punct	_	start_char=165|end_char=166
+

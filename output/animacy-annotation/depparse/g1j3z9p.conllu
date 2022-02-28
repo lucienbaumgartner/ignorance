@@ -1,0 +1,58 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=12
+4	?	?	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=14|end_char=18
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=19|end_char=21
+3	literally	literally	ADV	RB	_	4	advmod	_	start_char=22|end_char=31
+4	what	what	PRON	WP	PronType=Int	0	root	_	start_char=32|end_char=36
+5	happend	happend	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=37|end_char=44
+6	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+
+1	Juan	Juan	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=46|end_char=50
+2	Carlos	Carlos	PROPN	NNP	Number=Sing	1	flat	_	start_char=51|end_char=57
+3	changed	change	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=65
+4	Spain	Spain	PROPN	NNP	Number=Sing	3	obj	_	start_char=66|end_char=71
+5	into	into	ADP	IN	_	7	case	_	start_char=72|end_char=76
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=77|end_char=78
+7	democracy	democracy	NOUN	NN	Number=Sing	3	obl	_	start_char=79|end_char=88
+8	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+
+1	Maybe	maybe	ADV	RB	_	2	advmod	_	start_char=90|end_char=95
+2	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=96|end_char=100
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=101|end_char=102
+4	little	little	ADJ	JJ	Degree=Pos	5	amod	_	start_char=103|end_char=109
+5	bit	bit	NOUN	NN	Number=Sing	2	obj	_	start_char=110|end_char=113
+6	about	about	ADP	IN	_	8	case	_	start_char=114|end_char=119
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=120|end_char=123
+8	history	history	NOUN	NN	Number=Sing	2	obl	_	start_char=124|end_char=131
+9	of	of	ADP	IN	_	10	case	_	start_char=132|end_char=134
+10	spain	spain	PROPN	NNP	Number=Sing	8	nmod	_	start_char=135|end_char=140
+11	.	.	PUNCT	.	_	2	punct	_	start_char=140|end_char=141
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=142|end_char=145
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=146|end_char=149
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=150|end_char=160
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=161|end_char=164
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=165|end_char=173
+6	.	.	PUNCT	.	_	3	punct	_	start_char=173|end_char=174
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=175|end_char=179
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=180|end_char=182
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=183|end_char=186
+4	.	.	PUNCT	.	_	3	punct	_	start_char=186|end_char=187
+
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=188|end_char=192
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=193|end_char=194
+3	history	history	NOUN	NN	Number=Sing	4	compound	_	start_char=195|end_char=202
+4	book	book	NOUN	NN	Number=Sing	1	obj	_	start_char=203|end_char=207
+5	,	,	PUNCT	,	_	1	punct	_	start_char=207|end_char=208
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=209|end_char=211
+7	will	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=212|end_char=216
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=217|end_char=219
+9	good	good	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=220|end_char=224
+10	for	for	ADP	IN	_	11	case	_	start_char=225|end_char=228
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obl	_	start_char=229|end_char=232
+12	.	.	PUNCT	.	_	1	punct	_	start_char=232|end_char=233
+

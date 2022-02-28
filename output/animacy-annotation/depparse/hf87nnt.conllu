@@ -1,0 +1,194 @@
+1	FY22	FY22	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=4
+2	budget	budget	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=11
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=15
+4	n’t	not	PART	RB	_	5	advmod	_	start_char=15|end_char=18
+5	passed	pass	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=19|end_char=25
+6	yet	yet	ADV	RB	_	5	advmod	_	start_char=26|end_char=29
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=30|end_char=33
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=34|end_char=37
+9	Progressive	Progressive	ADJ	JJ	Degree=Pos	10	nsubj	_	start_char=38|end_char=49
+10	left	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=51|end_char=55
+11	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+
+1	Bernie	Bernie	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=57|end_char=63
+2	Sanders	Sanders	PROPN	NNP	Number=Sing	1	flat	_	start_char=64|end_char=71
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=72|end_char=75
+4	AOC	AOC	PROPN	NNP	Number=Sing	1	conj	_	start_char=76|end_char=79
+5	publicly	publicly	ADV	RB	_	6	advmod	_	start_char=80|end_char=88
+6	stated	state	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=89|end_char=95
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=96|end_char=100
+8	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=101|end_char=105
+9	to	to	PART	TO	_	10	mark	_	start_char=106|end_char=108
+10	cut	cut	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=109|end_char=112
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=113|end_char=116
+12	pay	pay	NOUN	NN	Number=Sing	15	compound	_	start_char=117|end_char=120
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=121|end_char=124
+14	DOD	DOD	PROPN	NNP	Number=Sing	12	conj	_	start_char=125|end_char=128
+15	expenditure	expenditure	NOUN	NN	Number=Sing	10	obj	_	start_char=129|end_char=140
+16	.	.	PUNCT	.	_	6	punct	_	start_char=140|end_char=141
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=142|end_char=146
+2	weld	weld	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=147|end_char=151
+3	massive	massive	ADJ	JJ	Degree=Pos	4	amod	_	start_char=154|end_char=161
+4	influence	influence	NOUN	NN	Number=Sing	2	obj	_	start_char=162|end_char=171
+5	in	in	ADP	IN	_	8	case	_	start_char=172|end_char=174
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=175|end_char=178
+7	Democrat	Democrat	PROPN	NNP	Number=Sing	8	compound	_	start_char=179|end_char=187
+8	party	party	NOUN	NN	Number=Sing	4	nmod	_	start_char=188|end_char=193
+9	.	.	PUNCT	.	_	2	punct	_	start_char=193|end_char=194
+
+1	Bernie	Bernie	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=195|end_char=201
+2	Sanders	Sanders	PROPN	NNP	Number=Sing	1	flat	_	start_char=202|end_char=209
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=210|end_char=212
+4	in	in	ADP	IN	_	5	case	_	start_char=213|end_char=215
+5	charge	charge	NOUN	NN	Number=Sing	0	root	_	start_char=216|end_char=222
+6	of	of	ADP	IN	_	9	case	_	start_char=223|end_char=225
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=226|end_char=229
+8	Budget	budget	NOUN	NN	Number=Sing	9	compound	_	start_char=230|end_char=236
+9	proposal	proposal	NOUN	NN	Number=Sing	5	nmod	_	start_char=237|end_char=245
+10	.	.	PUNCT	.	_	5	punct	_	start_char=245|end_char=246
+
+1	No	no	INTJ	UH	_	5	discourse	_	start_char=249|end_char=251
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=252|end_char=253
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=254|end_char=256
+4	not	not	PART	RB	_	5	advmod	_	start_char=257|end_char=260
+5	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=261|end_char=266
+6	.	.	PUNCT	.	_	5	punct	_	start_char=266|end_char=267
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=268|end_char=269
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=270|end_char=272
+3	stating	state	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=273|end_char=280
+4	facts	fact	NOUN	NNS	Number=Plur	3	obj	_	start_char=281|end_char=286
+5	.	.	PUNCT	.	_	3	punct	_	start_char=286|end_char=287
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=288|end_char=293
+2	if	if	SCONJ	IN	_	4	mark	_	start_char=294|end_char=296
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=297|end_char=300
+4	disagree	disagree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=301|end_char=309
+5	.	.	PUNCT	.	_	1	punct	_	start_char=309|end_char=310
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=311|end_char=314
+2	hey	hey	INTJ	UH	_	3	discourse	_	start_char=315|end_char=318
+3	genius	genius	NOUN	NN	Number=Sing	0	root	_	start_char=319|end_char=325
+4	.	.	PUNCT	.	_	3	punct	_	start_char=325|end_char=326
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=327|end_char=330
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=331|end_char=335
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=336|end_char=338
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=338|end_char=340
+5	Congress	Congress	PROPN	NNP	Number=Sing	2	ccomp	_	start_char=341|end_char=349
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=350|end_char=353
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=354|end_char=357
+8	Senate	Senate	PROPN	NNP	Number=Sing	5	conj	_	start_char=358|end_char=364
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=365|end_char=369
+10	passes	pass	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=370|end_char=376
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=377|end_char=380
+12	Budget	budget	NOUN	NN	Number=Sing	10	obj	_	start_char=381|end_char=387
+13	right	right	ADV	RB	_	10	advmod	_	start_char=388|end_char=393
+14	?	?	PUNCT	.	_	2	punct	_	start_char=393|end_char=394
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=397|end_char=400
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=401|end_char=405
+3	that	that	SCONJ	IN	_	6	mark	_	start_char=406|end_char=410
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=411|end_char=414
+5	Dems	Dem	PROPN	NNPS	Number=Plur	6	nsubj	_	start_char=415|end_char=419
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=420|end_char=423
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=424|end_char=427
+8	majority	majority	NOUN	NN	Number=Sing	6	obj	_	start_char=428|end_char=436
+9	last	last	ADJ	JJ	Degree=Pos	10	amod	_	start_char=437|end_char=441
+10	year	year	NOUN	NN	Number=Sing	6	obl:tmod	_	start_char=442|end_char=446
+11	in	in	ADP	IN	_	13	case	_	start_char=447|end_char=449
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=450|end_char=453
+13	Senate	Senate	PROPN	NNP	Number=Sing	6	obl	_	start_char=454|end_char=460
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=461|end_char=464
+15	Congress	Congress	PROPN	NNP	Number=Sing	13	conj	_	start_char=465|end_char=473
+16	?	?	PUNCT	.	_	2	punct	_	start_char=473|end_char=474
+
+1	So	so	ADV	RB	_	0	root	_	start_char=475|end_char=477
+
+1	In	in	ADP	IN	_	2	case	_	start_char=478|end_char=480
+2	reality	reality	NOUN	NN	Number=Sing	5	obl	_	start_char=481|end_char=488
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=489|end_char=491
+4	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=492|end_char=497
+5	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=498|end_char=501
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=502|end_char=505
+7	fy21	fy21	NOUN	NN	Number=Sing	9	nsubj	_	start_char=506|end_char=510
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=511|end_char=514
+9	bi-partisan	Ji-partisan	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=515|end_char=526
+10	.	.	PUNCT	.	_	5	punct	_	start_char=526|end_char=527
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=528|end_char=531
+2	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=531|end_char=534
+3	Trumps	trump	NOUN	NNS	Number=Plur	4	compound	_	start_char=535|end_char=541
+4	budget	budget	NOUN	NN	Number=Sing	0	root	_	start_char=542|end_char=548
+
+1	Inflation	inflation	NOUN	NN	Number=Sing	3	nsubj	_	start_char=550|end_char=559
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=560|end_char=562
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=563|end_char=568
+4	higher	high	ADJ	JJR	Degree=Cmp	3	xcomp	_	start_char=569|end_char=575
+5	then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=576|end_char=580
+6	2.7	2.7	NUM	CD	NumType=Card	7	nummod	_	start_char=581|end_char=584
+7	percent	percent	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=585|end_char=592
+8	and	and	CCONJ	CC	_	11	cc	_	start_char=593|end_char=596
+9	also	also	ADV	RB	_	11	advmod	_	start_char=597|end_char=601
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=602|end_char=605
+11	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=606|end_char=610
+12	to	to	PART	TO	_	13	mark	_	start_char=611|end_char=613
+13	post	post	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=614|end_char=618
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=619|end_char=622
+15	reference	reference	NOUN	NN	Number=Sing	13	obj	_	start_char=623|end_char=632
+16	for	for	ADP	IN	_	18	case	_	start_char=633|end_char=636
+17	that	that	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=637|end_char=641
+18	number	number	NOUN	NN	Number=Sing	15	nmod	_	start_char=642|end_char=648
+19	since	since	SCONJ	IN	_	23	mark	_	start_char=649|end_char=654
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=655|end_char=659
+21	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=660|end_char=663
+22	spewing	spew	VERB	VBG	Tense=Pres|VerbForm=Part	23	amod	_	start_char=664|end_char=671
+23	numbers	number	NOUN	NNS	Number=Plur	13	advcl	_	start_char=672|end_char=679
+24	.	.	PUNCT	.	_	3	punct	_	start_char=679|end_char=680
+
+1	Show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=681|end_char=685
+2	proof	proof	NOUN	NN	Number=Sing	1	obj	_	start_char=686|end_char=691
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=692|end_char=695
+4	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=696|end_char=699
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=700|end_char=702
+6	.	.	PUNCT	.	_	1	punct	_	start_char=702|end_char=703
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=706|end_char=707
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=708|end_char=712
+3	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=713|end_char=716
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nsubj	_	start_char=717|end_char=721
+5	trying	try	VERB	VBG	VerbForm=Ger	2	ccomp	_	start_char=722|end_char=728
+6	to	to	PART	TO	_	7	mark	_	start_char=729|end_char=731
+7	tell	tell	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=732|end_char=736
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=737|end_char=739
+9	Dems	Dem	PROPN	NNPS	Number=Plur	11	nsubj	_	start_char=740|end_char=744
+10	actually	actually	ADV	RB	_	11	advmod	_	start_char=745|end_char=753
+11	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=754|end_char=761
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=762|end_char=765
+13	military	military	NOUN	NN	Number=Sing	11	obj	_	start_char=766|end_char=774
+14	.	.	PUNCT	.	_	2	punct	_	start_char=774|end_char=775
+
+1	Blind	Blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=776|end_char=781
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=782|end_char=785
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=786|end_char=794
+4	of	of	ADP	IN	_	5	case	_	start_char=795|end_char=797
+5	facts	fact	NOUN	NNS	Number=Plur	1	obl	_	start_char=798|end_char=803
+6	.	.	PUNCT	.	_	1	punct	_	start_char=803|end_char=804
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=805|end_char=811
+2	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=812|end_char=816
+3	reference	reference	NOUN	NN	Number=Sing	2	obj	_	start_char=817|end_char=826
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=827|end_char=830
+5	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=831|end_char=835
+6	subtract	subtract	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=836|end_char=844
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=845|end_char=849
+8	from	from	ADP	IN	_	10	case	_	start_char=850|end_char=854
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=855|end_char=859
+10	years	year	NOUN	NNS	Number=Plur	6	obl	_	start_char=860|end_char=865
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=866|end_char=869
+12	next	next	ADJ	JJ	Degree=Pos	13	amod	_	start_char=870|end_char=874
+13	years	year	NOUN	NNS	Number=Plur	14	compound	_	start_char=875|end_char=880
+14	inflation	inflation	NOUN	NN	Number=Sing	10	conj	_	start_char=881|end_char=890
+15	.	.	PUNCT	.	_	2	punct	_	start_char=890|end_char=891
+

@@ -1,0 +1,72 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=7|end_char=11
+4	comment	comment	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=19
+5	.	.	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=21|end_char=25
+2	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=26|end_char=30
+3	to	to	PART	TO	_	4	mark	_	start_char=31|end_char=33
+4	show	show	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=34|end_char=38
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=39|end_char=42
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=43|end_char=51
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=52|end_char=55
+8	inexperienced	inexperienced	ADJ	JJ	Degree=Pos	6	conj	_	start_char=56|end_char=69
+9	most	most	ADJ	JJS	Degree=Sup	12	nsubj	_	start_char=70|end_char=74
+10	of	of	ADP	IN	_	11	case	_	start_char=75|end_char=77
+11	y’all	y’all	PRON	PRP	_	9	nmod	_	start_char=78|end_char=83
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=84|end_char=87
+13	when	when	SCONJ	WRB	PronType=Int	15	mark	_	start_char=88|end_char=92
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=93|end_char=95
+15	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	start_char=96|end_char=101
+16	to	to	ADP	IN	_	17	case	_	start_char=102|end_char=104
+17	sneakers	sneaker	NOUN	NNS	Number=Plur	15	obl	_	start_char=105|end_char=113
+18	.	.	PUNCT	.	_	2	punct	_	start_char=113|end_char=114
+
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	_	start_char=115|end_char=120
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=121|end_char=124
+3	2013	2013	NUM	CD	NumType=Card	5	nummod	_	start_char=125|end_char=129
+4	Chicago	Chicago	PROPN	NNP	Number=Sing	5	compound	_	start_char=130|end_char=137
+5	Highs	High	PROPN	NNPS	Number=Plur	0	root	_	start_char=138|end_char=143
+6	,	,	PUNCT	,	_	8	punct	_	start_char=143|end_char=144
+7	not	not	ADV	RB	_	8	advmod	_	start_char=145|end_char=148
+8	mids	mid	NOUN	NNS	Number=Plur	5	conj	_	start_char=149|end_char=153
+9	.	.	PUNCT	.	_	5	punct	_	start_char=153|end_char=154
+
+1	Quality	quality	NOUN	NN	Number=Sing	9	nsubj	_	start_char=155|end_char=162
+2	on	on	ADP	IN	_	4	case	_	start_char=163|end_char=165
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=166|end_char=171
+4	suck	suck	NOUN	NN	Number=Sing	1	nmod	_	start_char=172|end_char=176
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=177|end_char=180
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=181|end_char=184
+7	Jumpman	Jumpman	PROPN	NNP	Number=Sing	8	compound	_	start_char=185|end_char=192
+8	branding	branding	NOUN	NN	Number=Sing	1	conj	_	start_char=193|end_char=201
+9	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=202|end_char=207
+10	horrible	horrible	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=208|end_char=216
+11	in	in	ADP	IN	_	13	case	_	start_char=217|end_char=219
+12	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=220|end_char=222
+13	opinion	opinion	NOUN	NN	Number=Sing	9	obl	_	start_char=223|end_char=230
+14	.	.	PUNCT	.	_	9	punct	_	start_char=230|end_char=231
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=232|end_char=233
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=234|end_char=237
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=238|end_char=241
+4	why	why	SCONJ	WRB	PronType=Int	6	mark	_	start_char=242|end_char=245
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=246|end_char=249
+6	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=250|end_char=253
+7	these	this	PRON	DT	Number=Plur|PronType=Dem	6	obj	_	start_char=254|end_char=259
+8	confused	confused	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=260|end_char=268
+9	as	as	ADP	IN	_	10	case	_	start_char=269|end_char=271
+10	mids	mid	NOUN	NNS	Number=Plur	8	obl	_	start_char=272|end_char=276
+11	.	.	PUNCT	.	_	3	punct	_	start_char=276|end_char=277
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=278|end_char=279
+2	’d	have	AUX	MD	Mood=Ind|VerbForm=Fin	3	aux	_	start_char=279|end_char=281
+3	put	put	VERB	VB	Tense=Past|VerbForm=Part	0	root	_	start_char=282|end_char=285
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=286|end_char=290
+5	in	in	ADP	IN	_	8	case	_	start_char=291|end_char=293
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=294|end_char=297
+7	same	same	ADJ	JJ	Degree=Pos	8	amod	_	start_char=298|end_char=302
+8	category	category	NOUN	NN	Number=Sing	3	obl	_	start_char=303|end_char=311
+9	.	.	PUNCT	.	_	3	punct	_	start_char=311|end_char=312
+

@@ -1,0 +1,40 @@
+1	Not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	exactly	exactly	ADV	RB	_	0	root	_	start_char=4|end_char=11
+3	.	.	PUNCT	.	_	2	punct	_	start_char=11|end_char=12
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=13|end_char=16
+2	prisoner	prisoner	NOUN	NN	Number=Sing	4	nmod:poss	_	start_char=17|end_char=25
+3	's	's	PART	POS	_	2	case	_	start_char=25|end_char=27
+4	dilemma	dilemma	NOUN	NN	Number=Sing	8	nsubj	_	start_char=28|end_char=35
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=36|end_char=38
+6	just	just	ADV	RB	_	8	advmod	_	start_char=39|end_char=43
+7	two	two	NUM	CD	NumType=Card	8	nummod	_	start_char=44|end_char=47
+8	parties	party	NOUN	NNS	Number=Plur	0	root	_	start_char=48|end_char=55
+9	opposite	opposite	ADJ	JJ	Degree=Pos	8	amod	_	start_char=56|end_char=64
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=65|end_char=68
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=69|end_char=76
+12	of	of	ADP	IN	_	14	case	_	start_char=77|end_char=79
+13	each	each	DET	DT	_	14	det	_	start_char=80|end_char=84
+14	other	other	ADJ	JJ	Degree=Pos	11	obl	_	start_char=85|end_char=90
+15	coming	come	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=91|end_char=97
+16	together	together	ADV	RB	_	15	advmod	_	start_char=98|end_char=106
+17	.	.	PUNCT	.	_	8	punct	_	start_char=106|end_char=107
+
+1	So	so	ADV	RB	_	12	advmod	_	start_char=108|end_char=110
+2	actually	actually	ADV	RB	_	12	advmod	_	start_char=111|end_char=119
+3	,	,	PUNCT	,	_	12	punct	_	start_char=119|end_char=120
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=121|end_char=124
+5	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=125|end_char=131
+6	outside	outside	ADP	IN	_	9	case	_	start_char=132|end_char=139
+7	of	of	ADP	IN	_	9	case	_	start_char=140|end_char=142
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=143|end_char=146
+9	CO	CO	PROPN	NNP	Number=Sing	5	nmod	_	start_char=147|end_char=149
+10	could	could	AUX	MD	VerbForm=Fin	12	aux	_	start_char=150|end_char=155
+11	potentially	potentially	ADV	RB	_	12	advmod	_	start_char=156|end_char=167
+12	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=168|end_char=172
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=173|end_char=174
+14	prisoner	prisoner	NOUN	NN	Number=Sing	16	nmod:poss	_	start_char=175|end_char=183
+15	's	's	PART	POS	_	14	case	_	start_char=183|end_char=185
+16	dilemma	dilemma	NOUN	NN	Number=Sing	12	obj	_	start_char=186|end_char=193
+17	.	.	PUNCT	.	_	12	punct	_	start_char=193|end_char=194
+

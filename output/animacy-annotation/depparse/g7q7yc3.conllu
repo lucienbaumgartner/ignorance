@@ -1,0 +1,35 @@
+1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=0|end_char=5
+2	already	already	ADV	RB	_	3	advmod	_	start_char=6|end_char=13
+3	acknowledged	acknowledge	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=14|end_char=26
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=27|end_char=31
+5	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=31|end_char=34
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=35|end_char=36
+7	white	white	ADJ	JJ	Degree=Pos	9	amod	_	start_char=37|end_char=42
+8	supremacist	supremacist	NOUN	NN	Number=Sing	9	compound	_	start_char=43|end_char=54
+9	group	group	NOUN	NN	Number=Sing	3	ccomp	_	start_char=55|end_char=60
+10	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=64|end_char=67
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=68|end_char=70
+3	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=71|end_char=76
+4	,	,	PUNCT	,	_	9	punct	_	start_char=76|end_char=77
+5	or	or	CCONJ	CC	_	9	cc	_	start_char=78|end_char=80
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=81|end_char=83
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=84|end_char=86
+8	grossly	grossly	ADV	RB	_	9	advmod	_	start_char=87|end_char=94
+9	incomletent	incomletent	ADJ	JJ	Degree=Pos	3	conj	_	start_char=95|end_char=106
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=107|end_char=110
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=111|end_char=118
+12	of	of	SCONJ	IN	_	13	case	_	start_char=119|end_char=121
+13	what	what	PRON	WP	PronType=Int	11	obl	_	start_char=122|end_char=126
+14	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=126|end_char=128
+15	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	13	acl:relcl	_	start_char=129|end_char=134
+16	on	on	ADP	RP	_	15	compound:prt	_	start_char=135|end_char=137
+17	in	in	ADP	IN	_	18	case	_	start_char=138|end_char=140
+18	cities	city	NOUN	NNS	Number=Plur	15	obl	_	start_char=141|end_char=147
+19	where	where	SCONJ	WRB	PronType=Rel	22	mark	_	start_char=148|end_char=153
+20	protests	protest	NOUN	NNS	Number=Plur	22	nsubj	_	start_char=154|end_char=162
+21	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	_	start_char=163|end_char=166
+22	occurring	occur	VERB	VBG	Tense=Pres|VerbForm=Part	18	acl:relcl	_	start_char=167|end_char=176
+23	?	?	PUNCT	.	_	3	punct	_	start_char=176|end_char=177
+

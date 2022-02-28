@@ -1,0 +1,26 @@
+1	Spend	spend	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=6|end_char=10
+3	money	money	NOUN	NN	Number=Sing	1	obj	_	start_char=11|end_char=16
+4	,	,	PUNCT	,	_	6	punct	_	start_char=16|end_char=17
+5	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	6	aux:pass	_	start_char=18|end_char=20
+6	distracted	distract	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	parataxis	_	start_char=21|end_char=31
+7	,	,	PUNCT	,	_	8	punct	_	start_char=31|end_char=32
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	unwilling	unwilling	ADJ	JJ	Degree=Pos	6	conj	_	start_char=45|end_char=54
+11	to	to	PART	TO	_	12	mark	_	start_char=55|end_char=57
+12	resist	resist	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=58|end_char=64
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=65|end_char=68
+14	type	type	NOUN	NN	Number=Sing	12	obj	_	start_char=69|end_char=73
+15	of	of	ADP	IN	_	16	case	_	start_char=74|end_char=76
+16	legislation	legislation	NOUN	NN	Number=Sing	14	nmod	_	start_char=77|end_char=88
+17	that	that	PRON	WDT	PronType=Rel	18	nsubj	_	start_char=89|end_char=93
+18	continues	continue	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=94|end_char=103
+19	to	to	PART	TO	_	20	mark	_	start_char=104|end_char=106
+20	feed	feed	VERB	VB	VerbForm=Inf	18	xcomp	_	start_char=107|end_char=111
+21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=112|end_char=115
+22	corporate	corporate	ADJ	JJ	Degree=Pos	24	amod	_	start_char=116|end_char=125
+23	capitalist	capitalist	ADJ	JJ	Degree=Pos	24	amod	_	start_char=126|end_char=136
+24	machine	machine	NOUN	NN	Number=Sing	20	obj	_	start_char=137|end_char=144
+25	.	.	PUNCT	.	_	1	punct	_	start_char=144|end_char=145
+

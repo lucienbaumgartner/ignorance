@@ -1,0 +1,56 @@
+1	Argh	argh	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=6|end_char=7
+2	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+3	with	with	ADP	IN	_	4	case	_	start_char=13|end_char=17
+4	someone	someone	PRON	NN	Number=Sing	2	obl	_	start_char=18|end_char=25
+5	like	like	ADP	IN	_	6	case	_	start_char=26|end_char=30
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nmod	_	start_char=31|end_char=35
+7	.	.	PUNCT	.	_	2	punct	_	start_char=35|end_char=36
+
+1	Maddening	maddening	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=46
+2	.	.	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=48|end_char=52
+2	capable	capable	ADJ	JJ	Degree=Pos	0	root	_	start_char=53|end_char=60
+3	in	in	ADP	IN	_	5	case	_	start_char=61|end_char=63
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	_	start_char=64|end_char=69
+5	ways	way	NOUN	NNS	Number=Plur	2	obl	_	start_char=70|end_char=74
+6	but	but	CCONJ	CC	_	10	cc	_	start_char=75|end_char=78
+7	most	most	ADV	RBS	_	8	advmod	_	start_char=79|end_char=83
+8	else	else	ADV	RB	_	10	advmod	_	start_char=84|end_char=88
+9	just	just	ADV	RB	_	10	advmod	_	start_char=89|end_char=93
+10	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=94|end_char=99
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=100|end_char=110
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=111|end_char=118
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=119|end_char=122
+14	clueless	clueless	ADJ	JJ	Degree=Pos	12	conj	_	start_char=123|end_char=131
+15	.	.	PUNCT	.	_	2	punct	_	start_char=131|end_char=132
+
+1	And	and	CCONJ	CC	_	7	cc	_	start_char=134|end_char=137
+2	when	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=138|end_char=142
+3	responding	respond	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=143|end_char=153
+4	to	to	ADP	IN	_	5	case	_	start_char=154|end_char=156
+5	questions	question	NOUN	NNS	Number=Plur	3	obl	_	start_char=157|end_char=166
+6	will	will	AUX	MD	VerbForm=Fin	7	aux	_	start_char=167|end_char=171
+7	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=172|end_char=175
+8	something	something	PRON	NN	Number=Sing	7	obj	_	start_char=176|end_char=185
+9	random	random	ADJ	JJ	Degree=Pos	8	amod	_	start_char=186|end_char=192
+10	that	that	PRON	WDT	PronType=Rel	16	nsubj	_	start_char=193|end_char=197
+11	in	in	ADP	IN	_	12	case	_	start_char=198|end_char=200
+12	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	16	obl	_	start_char=201|end_char=207
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=208|end_char=210
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=211|end_char=212
+15	correct	correct	ADJ	JJ	Degree=Pos	16	amod	_	start_char=213|end_char=220
+16	statement	statement	NOUN	NN	Number=Sing	8	acl:relcl	_	start_char=221|end_char=230
+17	but	but	CCONJ	CC	_	18	cc	_	start_char=231|end_char=234
+18	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	start_char=235|end_char=238
+19	nothing	nothing	PRON	NN	Number=Sing	18	obj	_	start_char=239|end_char=246
+20	to	to	PART	TO	_	21	mark	_	start_char=247|end_char=249
+21	do	do	VERB	VB	VerbForm=Inf	19	acl	_	start_char=250|end_char=252
+22	with	with	ADP	IN	_	24	case	_	start_char=253|end_char=257
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=258|end_char=261
+24	question	question	NOUN	NN	Number=Sing	21	obl	_	start_char=262|end_char=270
+25	.	.	PUNCT	.	_	7	punct	_	start_char=270|end_char=271
+

@@ -1,0 +1,32 @@
+1	Consensual	consensual	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=10
+2	kinks	kink	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=11|end_char=16
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=17|end_char=20
+4	not	not	PART	RB	_	5	advmod	_	start_char=21|end_char=24
+5	transphobic	transphobic	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=36
+6	,	,	PUNCT	,	_	7	punct	_	start_char=36|end_char=37
+7	pedophilic	pedophilic	ADJ	JJ	Degree=Pos	5	conj	_	start_char=38|end_char=48
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=49|end_char=51
+9	abusive	abusive	ADJ	JJ	Degree=Pos	5	conj	_	start_char=52|end_char=59
+10	.	.	PUNCT	.	_	5	punct	_	start_char=59|end_char=60
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=61|end_char=65
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=66|end_char=68
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=69|end_char=70
+4	very	very	ADV	RB	_	5	advmod	_	start_char=71|end_char=75
+5	harmful	harmful	ADJ	JJ	Degree=Pos	6	amod	_	start_char=76|end_char=83
+6	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=84|end_char=87
+7	of	of	SCONJ	IN	_	8	mark	_	start_char=88|end_char=90
+8	thinking	think	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=91|end_char=99
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=100|end_char=103
+10	extremely	extremely	ADV	RB	_	11	advmod	_	start_char=104|end_char=113
+11	discriminatory	discriminatory	ADJ	JJ	Degree=Pos	8	conj	_	start_char=114|end_char=128
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=129|end_char=132
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=133|end_char=141
+14	of	of	ADP	IN	_	15	case	_	start_char=142|end_char=144
+15	what	what	DET	WDT	PronType=Int	13	obl	_	start_char=145|end_char=149
+16	kink	kink	NOUN	NN	Number=Sing	19	nsubj	_	start_char=150|end_char=154
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=155|end_char=158
+18	consent	consent	NOUN	NN	Number=Sing	16	conj	_	start_char=159|end_char=166
+19	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=167|end_char=172
+20	.	.	PUNCT	.	_	6	punct	_	start_char=172|end_char=173
+

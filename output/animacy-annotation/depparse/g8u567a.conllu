@@ -1,0 +1,147 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=9
+3	concept	concept	NOUN	NN	Number=Sing	5	nsubj	_	start_char=10|end_char=17
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=18|end_char=20
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=27
+6	.	.	PUNCT	.	_	5	punct	_	start_char=27|end_char=28
+
+1	What	what	PRON	WP	PronType=Int	7	nsubj	_	start_char=29|end_char=33
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	start_char=34|end_char=38
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=39|end_char=42
+4	original	original	ADJ	JJ	Degree=Pos	5	amod	_	start_char=43|end_char=51
+5	Witches	Witches	PROPN	NNPS	Number=Plur	2	obj	_	start_char=52|end_char=59
+6	creepy	creepy	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=60|end_char=66
+7	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=67|end_char=70
+8	that	that	SCONJ	IN	_	13	mark	_	start_char=71|end_char=75
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=76|end_char=79
+10	could	could	AUX	MD	VerbForm=Fin	13	aux	_	start_char=80|end_char=85
+11	n't	not	PART	RB	_	13	advmod	_	start_char=85|end_char=88
+12	really	really	ADV	RB	_	13	advmod	_	start_char=89|end_char=95
+13	tell	tell	VERB	VB	VerbForm=Inf	7	ccomp	_	start_char=96|end_char=100
+14	who	who	PRON	WP	PronType=Int	17	nsubj	_	start_char=101|end_char=104
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=105|end_char=108
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=109|end_char=110
+17	witch	witch	NOUN	NN	Number=Sing	13	ccomp	_	start_char=111|end_char=116
+18	or	or	CCONJ	CC	_	19	cc	_	start_char=117|end_char=119
+19	not	not	PART	RB	_	17	conj	_	start_char=120|end_char=123
+20	.	.	PUNCT	.	_	7	punct	_	start_char=123|end_char=124
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=125|end_char=128
+2	'd	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=128|end_char=130
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=131|end_char=134
+4	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=135|end_char=137
+5	old	old	ADJ	JJ	Degree=Pos	7	amod	_	start_char=138|end_char=141
+6	creepy	creepy	ADJ	JJ	Degree=Pos	7	amod	_	start_char=142|end_char=148
+7	lady	lady	NOUN	NN	Number=Sing	3	obj	_	start_char=149|end_char=153
+8	at	at	ADP	IN	_	10	case	_	start_char=154|end_char=156
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=157|end_char=160
+10	park	park	NOUN	NN	Number=Sing	3	obl	_	start_char=161|end_char=165
+11	?	?	PUNCT	.	_	3	punct	_	start_char=165|end_char=166
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=167|end_char=170
+2	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=171|end_char=176
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=177|end_char=179
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=180|end_char=181
+5	witch	witch	NOUN	NN	Number=Sing	0	root	_	start_char=182|end_char=187
+6	!	!	PUNCT	.	_	5	punct	_	start_char=187|end_char=188
+
+1	Now	now	ADV	RB	_	0	root	_	start_char=189|end_char=192
+2	?	?	PUNCT	.	_	1	punct	_	start_char=192|end_char=193
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=194|end_char=198
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=199|end_char=202
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=203|end_char=207
+4	giant	giant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=208|end_char=213
+5	visible	visible	ADJ	JJ	Degree=Pos	6	amod	_	start_char=214|end_char=221
+6	scars	scar	NOUN	NNS	Number=Plur	3	obj	_	start_char=222|end_char=227
+7	on	on	ADP	IN	_	9	case	_	start_char=228|end_char=230
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=231|end_char=234
+9	cheeks	cheek	NOUN	NNS	Number=Plur	6	nmod	_	start_char=235|end_char=241
+10	?	?	PUNCT	.	_	3	punct	_	start_char=241|end_char=242
+
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=243|end_char=245
+2	?	?	PUNCT	.	_	1	punct	_	start_char=245|end_char=246
+
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=247|end_char=251
+2	everything	everything	PRON	NN	Number=Sing	4	nsubj	_	start_char=252|end_char=262
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=262|end_char=264
+4	cool	cool	ADJ	JJ	Degree=Pos	0	root	_	start_char=265|end_char=269
+5	.	.	PUNCT	.	_	4	punct	_	start_char=269|end_char=270
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=272|end_char=273
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=273|end_char=275
+3	curious	curious	ADJ	JJ	Degree=Pos	0	root	_	start_char=276|end_char=283
+4	to	to	PART	TO	_	5	mark	_	start_char=284|end_char=286
+5	see	see	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=287|end_char=290
+6	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=291|end_char=294
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=295|end_char=298
+8	film	film	NOUN	NN	Number=Sing	9	nsubj	_	start_char=299|end_char=303
+9	handles	handle	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=304|end_char=311
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	obj	_	start_char=312|end_char=316
+11	.	.	PUNCT	.	_	3	punct	_	start_char=316|end_char=317
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=318|end_char=321
+2	all	all	DET	PDT	_	4	det:predet	_	start_char=322|end_char=325
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=326|end_char=329
+4	characters	character	NOUN	NNS	Number=Plur	0	root	_	start_char=330|end_char=340
+5	going	go	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=341|end_char=346
+6	to	to	PART	TO	_	9	mark	_	start_char=347|end_char=349
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=350|end_char=352
+8	painfully	painfully	ADV	RB	_	9	advmod	_	start_char=353|end_char=362
+9	dumb	dumb	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=363|end_char=367
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=368|end_char=371
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=372|end_char=379
+12	of	of	ADP	IN	_	14	case	_	start_char=380|end_char=382
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=383|end_char=386
+14	scars	scar	NOUN	NNS	Number=Plur	11	obl	_	start_char=387|end_char=392
+15	on	on	ADP	IN	_	17	case	_	start_char=393|end_char=395
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=396|end_char=401
+17	cheeks	cheek	NOUN	NNS	Number=Plur	14	nmod	_	start_char=402|end_char=408
+18	while	while	SCONJ	IN	_	22	mark	_	start_char=409|end_char=414
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=415|end_char=418
+20	audience	audience	NOUN	NN	Number=Sing	22	nsubj	_	start_char=419|end_char=427
+21	can	can	AUX	MD	VerbForm=Fin	22	aux	_	start_char=428|end_char=431
+22	see	see	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=432|end_char=435
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	obj	_	start_char=436|end_char=440
+24	clear	clear	ADJ	JJ	Degree=Pos	22	xcomp	_	start_char=441|end_char=446
+25	as	as	ADP	IN	_	26	case	_	start_char=447|end_char=449
+26	day	day	NOUN	NN	Number=Sing	22	obl	_	start_char=450|end_char=453
+27	?	?	PUNCT	.	_	5	punct	_	start_char=453|end_char=454
+
+1	Or	or	CCONJ	CC	_	5	cc	_	start_char=455|end_char=457
+2	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=458|end_char=462
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=463|end_char=465
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=466|end_char=468
+5	obvious	obvious	ADJ	JJ	Degree=Pos	0	root	_	start_char=469|end_char=476
+6	to	to	ADP	IN	_	7	case	_	start_char=477|end_char=479
+7	everyone	everyone	PRON	NN	Number=Sing	5	obl	_	start_char=480|end_char=488
+8	that	that	PRON	WDT	PronType=Rel	11	mark	_	start_char=489|end_char=493
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=494|end_char=498
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=499|end_char=502
+11	witches	witch	NOUN	NNS	Number=Plur	7	acl:relcl	_	start_char=503|end_char=510
+12	?	?	PUNCT	.	_	5	punct	_	start_char=510|end_char=511
+
+1	Like	like	ADP	IN	_	4	case	_	start_char=512|end_char=516
+2	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=517|end_char=520
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=521|end_char=522
+4	world	world	NOUN	NN	Number=Sing	0	root	_	start_char=523|end_char=528
+5	where	where	SCONJ	WRB	PronType=Rel	8	mark	_	start_char=529|end_char=534
+6	witches	witch	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=535|end_char=542
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=543|end_char=546
+8	real	real	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=547|end_char=551
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=552|end_char=555
+10	everyone	everyone	PRON	NN	Number=Sing	11	nsubj	_	start_char=556|end_char=564
+11	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	start_char=565|end_char=570
+12	about	about	ADP	IN	_	13	case	_	start_char=571|end_char=576
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	start_char=577|end_char=581
+14	.	.	PUNCT	.	_	4	punct	_	start_char=581|end_char=582
+
+1	Either	either	DET	DT	_	2	det	_	start_char=583|end_char=589
+2	way	way	NOUN	NN	Number=Sing	7	nmod:npmod	_	start_char=590|end_char=593
+3	,	,	PUNCT	,	_	7	punct	_	start_char=593|end_char=594
+4	very	very	ADV	RB	_	5	advmod	_	start_char=595|end_char=599
+5	odd	odd	ADJ	JJ	Degree=Pos	7	amod	_	start_char=600|end_char=603
+6	creative	creative	ADJ	JJ	Degree=Pos	7	amod	_	start_char=604|end_char=612
+7	choice	choice	NOUN	NN	Number=Sing	0	root	_	start_char=613|end_char=619
+8	.	.	PUNCT	.	_	7	punct	_	start_char=619|end_char=620
+

@@ -1,0 +1,14 @@
+1	Insults	insult	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=0|end_char=7
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=11
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=12|end_char=15
+4	refuge	refuge	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=22
+5	of	of	ADP	IN	_	7	case	_	start_char=23|end_char=25
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=26|end_char=29
+7	naive	naive	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=30|end_char=35
+8	,	,	PUNCT	,	_	9	punct	_	start_char=35|end_char=36
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=37|end_char=45
+10	,	,	PUNCT	,	_	12	punct	_	start_char=45|end_char=46
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=47|end_char=50
+12	fearful	fearful	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=58
+13	.	.	PUNCT	.	_	4	punct	_	start_char=58|end_char=59
+

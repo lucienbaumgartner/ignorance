@@ -1,0 +1,29 @@
+1	well	well	INTJ	UH	_	6	discourse	_	start_char=0|end_char=4
+2	yes	yes	INTJ	UH	_	6	discourse	_	start_char=5|end_char=8
+3	,	,	PUNCT	,	_	6	punct	_	start_char=8|end_char=9
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=10|end_char=11
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=12|end_char=15
+6	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=39
+9	of	of	ADP	IN	_	11	case	_	start_char=40|end_char=42
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=43|end_char=46
+11	facts	fact	NOUN	NNS	Number=Plur	8	obl	_	start_char=47|end_char=52
+12	.	.	PUNCT	.	_	6	punct	_	start_char=52|end_char=53
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=54|end_char=57
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=58|end_char=59
+3	did	do	VERB	VBD	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=60|end_char=63
+4	no	no	DET	DT	_	5	det	_	start_char=64|end_char=66
+5	research	research	NOUN	NN	Number=Sing	3	obj	_	start_char=67|end_char=75
+6	.	.	PUNCT	.	_	3	punct	_	start_char=75|end_char=76
+
+1	Guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=77|end_char=82
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=83|end_char=84
+3	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=85|end_char=92
+4	all	all	DET	DT	_	3	obj	_	start_char=93|end_char=96
+5	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=97|end_char=101
+6	^^^	^^^	NUM	CD	NumType=Card	7	nummod	_	start_char=102|end_char=105
+7	thanks	thanks	NOUN	NN	Number=Sing	1	parataxis	_	start_char=106|end_char=112
+8	chum	chum	NOUN	NN	Number=Sing	7	nmod:npmod	_	start_char=113|end_char=117
+

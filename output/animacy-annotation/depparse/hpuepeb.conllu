@@ -1,0 +1,19 @@
+1	Because	because	SCONJ	IN	_	5	mark	_	start_char=0|end_char=7
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=8|end_char=12
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=15
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=16|end_char=21
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=30
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=31|end_char=34
+7	immature	immature	ADJ	JJ	Degree=Pos	5	conj	_	start_char=35|end_char=43
+8	.	.	PUNCT	.	_	5	punct	_	start_char=43|end_char=44
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=45|end_char=46
+2	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=47|end_char=51
+3	men	man	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=52|end_char=55
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=56|end_char=61
+5	stop	stop	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=62|end_char=66
+6	doing	do	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=67|end_char=72
+7	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=73|end_char=77
+8	shit	shit	NOUN	NN	Number=Sing	6	obj	_	start_char=78|end_char=82
+9	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+

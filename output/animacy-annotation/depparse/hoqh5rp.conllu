@@ -1,0 +1,17 @@
+1	Pointing	point	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=8
+2	out	out	ADP	RP	_	1	compound:prt	_	start_char=9|end_char=12
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=13|end_char=16
+4	obvious	obvious	ADJ	JJ	Degree=Pos	1	obj	_	start_char=17|end_char=24
+5	like	like	SCONJ	IN	_	9	mark	_	start_char=25|end_char=29
+6	everyone	everyone	PRON	NN	Number=Sing	9	nsubj	_	start_char=30|end_char=38
+7	else	else	ADJ	JJ	Degree=Pos	6	amod	_	start_char=39|end_char=43
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=44|end_char=46
+9	blind	blind	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=47|end_char=52
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=53|end_char=56
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=57|end_char=64
+12	of	of	ADP	IN	_	13	case	_	start_char=65|end_char=67
+13	what	what	DET	WDT	PronType=Int	11	obl	_	start_char=68|end_char=72
+14	sugar	sugar	NOUN	NN	Number=Sing	15	nsubj	_	start_char=73|end_char=78
+15	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=79|end_char=81
+16	.	.	PUNCT	.	_	1	punct	_	start_char=81|end_char=82
+

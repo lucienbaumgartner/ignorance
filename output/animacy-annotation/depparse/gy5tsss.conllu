@@ -1,0 +1,16 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=0|end_char=4
+2	last	last	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=9
+3	line	line	NOUN	NN	Number=Sing	5	nsubj	_	start_char=10|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=15|end_char=17
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=18|end_char=25
+6	stupid	stupid	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=26|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	of	of	ADP	IN	_	11	case	_	start_char=46|end_char=48
+10	unintended	unintended	ADJ	JJ	Degree=Pos	11	amod	_	start_char=49|end_char=59
+11	consequences	consequence	NOUN	NNS	Number=Plur	8	obl	_	start_char=60|end_char=72
+12	by	by	ADP	IN	_	14	case	_	start_char=73|end_char=75
+13	government	government	NOUN	NN	Number=Sing	14	compound	_	start_char=76|end_char=86
+14	action	action	NOUN	NN	Number=Sing	11	nmod	_	start_char=87|end_char=93
+15	.	.	PUNCT	.	_	5	punct	_	start_char=93|end_char=94
+

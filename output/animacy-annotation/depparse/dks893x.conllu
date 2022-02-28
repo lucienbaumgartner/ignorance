@@ -1,0 +1,24 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=6
+3	already	already	ADV	RB	_	4	advmod	_	start_char=7|end_char=14
+4	forget	forget	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=21
+5	Podesta	Podesta	PROPN	NNP	Number=Sing	7	nmod:poss	_	start_char=22|end_char=29
+6	's	's	PART	POS	_	5	case	_	start_char=29|end_char=31
+7	emails	email	NOUN	NNS	Number=Plur	4	obj	_	start_char=32|end_char=38
+8	calling	call	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=39|end_char=46
+9	for	for	ADP	IN	_	11	case	_	start_char=47|end_char=50
+10	Democrat	Democrat	PROPN	NNP	Number=Sing	11	compound	_	start_char=51|end_char=59
+11	voters	voter	NOUN	NNS	Number=Plur	8	obl	_	start_char=60|end_char=66
+12	to	to	PART	TO	_	13	mark	_	start_char=67|end_char=69
+13	remain	remain	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=70|end_char=76
+14	"	"	PUNCT	``	_	19	punct	_	start_char=77|end_char=78
+15	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=78|end_char=80
+16	unaware	unaware	ADJ	JJ	Degree=Pos	19	amod	_	start_char=81|end_char=88
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=89|end_char=92
+18	compliant	compliant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=93|end_char=102
+19	citizenry	citizenry	NOUN	NN	Number=Sing	13	xcomp	_	start_char=103|end_char=112
+20	"	"	PUNCT	''	_	19	punct	_	start_char=112|end_char=113
+21	?	?	PUNCT	.	_	4	punct	_	start_char=113|end_char=114
+
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=115|end_char=118
+

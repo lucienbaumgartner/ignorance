@@ -1,0 +1,41 @@
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	up	up	ADP	RP	_	1	compound:prt	_	start_char=5|end_char=7
+3	“	''	PUNCT	``	_	4	punct	_	start_char=8|end_char=9
+4	Unskilled	unskilled	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=9|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	Unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=30
+7	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+8	It	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=34|end_char=36
+9	”	''	PUNCT	''	_	4	punct	_	start_char=36|end_char=37
+10	.	.	PUNCT	.	_	1	punct	_	start_char=37|end_char=38
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=39|end_char=42
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=43|end_char=46
+3	download	download	VERB	VB	VerbForm=Inf	0	root	_	start_char=47|end_char=55
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=56|end_char=59
+5	paper	paper	NOUN	NN	Number=Sing	3	obj	_	start_char=60|end_char=65
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=66|end_char=69
+7	wiki	wiki	NOUN	NN	Number=Sing	8	compound	_	start_char=70|end_char=74
+8	page	page	NOUN	NN	Number=Sing	10	nsubj:pass	_	start_char=75|end_char=79
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=80|end_char=82
+10	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	start_char=83|end_char=88
+11	off	off	ADP	IN	_	12	case	_	start_char=89|end_char=92
+12	of	of	ADP	IN	_	10	obl	_	start_char=93|end_char=95
+13	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+
+1	What	what	DET	WDT	PronType=Int	2	det	_	start_char=99|end_char=103
+2	part	part	NOUN	NN	Number=Sing	9	obj	_	start_char=104|end_char=108
+3	of	of	SCONJ	IN	_	4	mark	_	start_char=109|end_char=111
+4	overestimating	overestimate	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=112|end_char=126
+5	self	self	NOUN	NN	Number=Sing	6	compound	_	start_char=127|end_char=131
+6	abilities	ability	NOUN	NNS	Number=Plur	4	obj	_	start_char=132|end_char=141
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=142|end_char=145
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=146|end_char=149
+9	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=150|end_char=156
+10	trouble	trouble	NOUN	NN	Number=Sing	9	obj	_	start_char=157|end_char=164
+11	not	not	ADV	RB	_	13	advmod	_	start_char=165|end_char=168
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=169|end_char=173
+13	head	head	NOUN	NN	Number=Sing	9	obj	_	start_char=174|end_char=178
+14	around	around	ADV	RB	_	9	advmod	_	start_char=179|end_char=185
+15	?	?	PUNCT	.	_	9	punct	_	start_char=185|end_char=186
+

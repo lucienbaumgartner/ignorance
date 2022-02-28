@@ -1,0 +1,19 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=9|end_char=12
+4	died	die	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=13|end_char=17
+5	\~	\~	ADP	IN	_	7	case	_	start_char=18|end_char=20
+6	50	50	NUM	CD	NumType=Card	7	nummod	_	start_char=20|end_char=22
+7	times	time	NOUN	NNS	Number=Plur	4	obl	_	start_char=23|end_char=28
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=29|end_char=32
+9	once	once	ADV	RB	NumType=Mult	10	advmod	_	start_char=33|end_char=37
+10	nuked	nuke	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=38|end_char=43
+11	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=44|end_char=46
+12	unaware	unaware	ADJ	JJ	Degree=Pos	15	amod	_	start_char=47|end_char=54
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=55|end_char=58
+14	idiotic	idiotic	ADJ	JJ	Degree=Pos	12	conj	_	start_char=59|end_char=66
+15	Tunguska	Tunguska	PROPN	NNP	Number=Sing	10	obj	_	start_char=67|end_char=75
+16	with	with	ADP	IN	_	17	case	_	start_char=76|end_char=80
+17	hydras	hydras	NOUN	NN	Number=Sing	15	nmod	_	start_char=81|end_char=87
+18	.	.	PUNCT	.	_	2	punct	_	start_char=87|end_char=88
+

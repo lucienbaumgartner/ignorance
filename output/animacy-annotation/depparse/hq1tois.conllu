@@ -1,0 +1,12 @@
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Willfully	willfully	ADV	RB	_	2	advmod	_	start_char=5|end_char=14
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=15|end_char=23
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=24|end_char=27
+4	indifferent	indifferent	ADJ	JJ	Degree=Pos	2	conj	_	start_char=28|end_char=39
+5	to	to	ADP	IN	_	7	case	_	start_char=40|end_char=42
+6	such	such	ADJ	JJ	Degree=Pos	7	amod	_	start_char=43|end_char=47
+7	nuances	nuance	NOUN	NNS	Number=Plur	4	obl	_	start_char=48|end_char=55
+8	.	.	PUNCT	.	_	2	punct	_	start_char=55|end_char=56
+

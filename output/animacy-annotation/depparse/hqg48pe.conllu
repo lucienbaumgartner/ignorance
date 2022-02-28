@@ -1,0 +1,33 @@
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	friends	friend	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=5|end_char=12
+3	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=13|end_char=16
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=17|end_char=19
+5	rapists	rapist	NOUN	NNS	Number=Plur	0	root	_	start_char=20|end_char=27
+6	.	.	PUNCT	.	_	5	punct	_	start_char=27|end_char=28
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	start_char=29|end_char=30
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=31|end_char=34
+3	raped	rape	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=35|end_char=40
+4	by	by	ADP	IN	_	7	case	_	start_char=41|end_char=43
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=44|end_char=46
+6	own	own	ADJ	JJ	Degree=Pos	7	amod	_	start_char=47|end_char=50
+7	boyfriend	boyfriend	NOUN	NN	Number=Sing	3	obl	_	start_char=51|end_char=60
+8	who	who	PRON	WP	PronType=Rel	10	obj	_	start_char=61|end_char=64
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=65|end_char=66
+10	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=67|end_char=74
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=75|end_char=76
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	start_char=77|end_char=80
+13	gonna	gonna	PART	TO	_	14	advmod	_	start_char=81|end_char=86
+14	marry	marry	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=87|end_char=92
+15	.	.	PUNCT	.	_	3	punct	_	start_char=92|end_char=93
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=94|end_char=97
+2	sound	sound	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=103
+3	fucking	fuck	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=104|end_char=111
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=112|end_char=120
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=121|end_char=124
+6	overall	overall	ADV	RB	_	8	advmod	_	start_char=125|end_char=132
+7	just	just	ADV	RB	_	8	advmod	_	start_char=133|end_char=137
+8	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=138|end_char=144
+9	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

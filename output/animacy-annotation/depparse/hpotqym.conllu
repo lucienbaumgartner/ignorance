@@ -1,0 +1,23 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	religion	religion	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=14|end_char=16
+4	complete	complete	ADJ	JJ	Degree=Pos	5	amod	_	start_char=17|end_char=25
+5	nonsense	nonsense	NOUN	NN	Number=Sing	0	root	_	start_char=26|end_char=34
+6	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	_	start_char=35|end_char=40
+7	to	to	PART	TO	_	8	mark	_	start_char=41|end_char=43
+8	subjugate	subjugate	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=44|end_char=53
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=54|end_char=57
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	obj	_	start_char=58|end_char=66
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=67|end_char=70
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=71|end_char=77
+13	.	.	PUNCT	.	_	5	punct	_	start_char=77|end_char=78
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=79|end_char=82
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=83|end_char=85
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=85|end_char=87
+4	clearly	clearly	ADV	RB	_	5	advmod	_	start_char=88|end_char=95
+5	worked	work	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=96|end_char=102
+6	on	on	ADP	IN	_	7	case	_	start_char=103|end_char=105
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=106|end_char=109
+8	.	.	PUNCT	.	_	5	punct	_	start_char=109|end_char=110
+

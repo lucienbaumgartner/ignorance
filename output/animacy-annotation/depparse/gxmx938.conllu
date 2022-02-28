@@ -1,0 +1,146 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=6
+2	;	;	PUNCT	:	_	1	punct	_	start_char=6|end_char=7
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=7|end_char=8
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=15|end_char=19
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=20|end_char=23
+5	woefully	woefully	ADV	RB	_	6	advmod	_	start_char=24|end_char=32
+6	misinformed	misinformed	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=33|end_char=44
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=45|end_char=48
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=49|end_char=56
+9	of	of	ADP	IN	_	13	case	_	start_char=57|end_char=59
+10	HAMAS	HAMAS	PROPN	NNP	Number=Sing	13	nmod:poss	_	start_char=60|end_char=65
+11	'	's	PART	POS	_	10	case	_	start_char=65|end_char=66
+12	total	total	ADJ	JJ	Degree=Pos	13	amod	_	start_char=67|end_char=72
+13	operations	operation	NOUN	NNS	Number=Plur	8	obl	_	start_char=73|end_char=83
+14	.	.	PUNCT	.	_	2	punct	_	start_char=83|end_char=84
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=87|end_char=90
+2	;	;	PUNCT	:	_	3	punct	_	start_char=90|end_char=91
+3	&gt	&gt	NOUN	NN	Number=Sing	1	parataxis	_	start_char=94|end_char=97
+4	;	;	PUNCT	:	_	1	punct	_	start_char=97|end_char=98
+
+1	Oh	oh	INTJ	UH	_	5	discourse	_	start_char=98|end_char=100
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=101|end_char=102
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=103|end_char=105
+4	fully	fully	ADV	RB	_	5	advmod	_	start_char=106|end_char=111
+5	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=112|end_char=117
+6	.	.	PUNCT	.	_	5	punct	_	start_char=117|end_char=118
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=119|end_char=122
+2	Palestinians	Palestinian	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=123|end_char=135
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=136|end_char=139
+4	equally	equally	ADV	RB	_	5	advmod	_	start_char=140|end_char=147
+5	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=148|end_char=153
+6	of	of	ADP	IN	_	8	case	_	start_char=154|end_char=156
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=157|end_char=162
+8	goal	goal	NOUN	NN	Number=Sing	5	obl	_	start_char=163|end_char=167
+9	to	to	PART	TO	_	10	mark	_	start_char=168|end_char=170
+10	murder	murder	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=171|end_char=177
+11	all	all	DET	DT	_	12	det	_	start_char=178|end_char=181
+12	Jews	Jew	PROPN	NNPS	Number=Plur	10	obj	_	start_char=182|end_char=186
+13	.	.	PUNCT	.	_	5	punct	_	start_char=186|end_char=187
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=189|end_char=191
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=192|end_char=195
+3	agree	agree	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=196|end_char=201
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj:pass	_	start_char=202|end_char=206
+5	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=206|end_char=209
+6	misinformed	misinform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=210|end_char=221
+7	,	,	PUNCT	,	_	3	punct	_	start_char=221|end_char=222
+8	just	just	ADV	RB	_	9	advmod	_	start_char=223|end_char=227
+9	not	not	PART	RB	_	13	advmod	_	start_char=228|end_char=231
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=232|end_char=236
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	start_char=237|end_char=241
+12	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=241|end_char=244
+13	misinformed	misinform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	start_char=245|end_char=256
+14	.	.	PUNCT	.	_	3	punct	_	start_char=256|end_char=257
+
+1	Ok	ok	INTJ	UH	_	2	discourse	_	start_char=260|end_char=262
+2	bud	bud	NOUN	NN	Number=Sing	0	root	_	start_char=263|end_char=266
+3	.	.	PUNCT	.	_	2	punct	_	start_char=266|end_char=267
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=268|end_char=272
+2	argument	argument	NOUN	NN	Number=Sing	3	nsubj	_	start_char=273|end_char=281
+3	rests	rest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=282|end_char=287
+4	on	on	ADP	IN	_	5	case	_	start_char=288|end_char=290
+5	mind	mind	NOUN	NN	Number=Sing	3	obl	_	start_char=291|end_char=295
+6	-	-	PUNCT	HYPH	_	7	punct	_	start_char=295|end_char=296
+7	reading	read	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=296|end_char=303
+8	in	in	ADP	IN	_	10	case	_	start_char=304|end_char=306
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=307|end_char=310
+10	face	face	NOUN	NN	Number=Sing	7	obl	_	start_char=311|end_char=315
+11	of	of	ADP	IN	_	12	case	_	start_char=316|end_char=318
+12	evidence	evidence	NOUN	NN	Number=Sing	10	nmod	_	start_char=319|end_char=327
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=328|end_char=331
+14	already	already	ADV	RB	_	15	advmod	_	start_char=332|end_char=339
+15	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=340|end_char=345
+16	with	with	ADP	IN	_	15	obl	_	start_char=346|end_char=350
+17	.	.	PUNCT	.	_	3	punct	_	start_char=350|end_char=351
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=352|end_char=356
+2	at	at	ADP	IN	_	3	case	_	start_char=357|end_char=359
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obl	_	start_char=360|end_char=362
+4	.	.	PUNCT	.	_	1	punct	_	start_char=362|end_char=363
+
+1	\&gt	\&gt	INTJ	UH	_	0	root	_	start_char=365|end_char=369
+2	;	;	PUNCT	,	_	1	punct	_	start_char=369|end_char=370
+3	Ha	ha	INTJ	UH	_	1	discourse	_	start_char=371|end_char=373
+4	?	?	PUNCT	.	_	1	punct	_	start_char=373|end_char=374
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=375|end_char=376
+2	just	just	ADV	RB	_	3	advmod	_	start_char=377|end_char=381
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=382|end_char=386
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=387|end_char=390
+5	exact	exact	ADJ	JJ	Degree=Pos	6	amod	_	start_char=391|end_char=396
+6	opposite	opposite	NOUN	NN	Number=Sing	3	obj	_	start_char=397|end_char=405
+7	.	.	PUNCT	.	_	3	punct	_	start_char=405|end_char=406
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=409|end_char=411
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=411|end_char=413
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=414|end_char=415
+4	public	public	ADJ	JJ	Degree=Pos	5	amod	_	start_char=416|end_char=422
+5	trust	trust	NOUN	NN	Number=Sing	0	root	_	start_char=423|end_char=428
+6	for	for	SCONJ	IN	_	7	mark	_	start_char=429|end_char=432
+7	administering	administ	VERB	VBG	VerbForm=Ger	5	acl	_	start_char=433|end_char=446
+8	civil	civil	ADJ	JJ	Degree=Pos	9	amod	_	start_char=447|end_char=452
+9	matters	matter	NOUN	NNS	Number=Plur	7	obj	_	start_char=453|end_char=460
+10	,	,	PUNCT	,	_	11	punct	_	start_char=460|end_char=461
+11	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	_	start_char=462|end_char=473
+12	by	by	ADP	IN	_	14	case	_	start_char=474|end_char=476
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nmod:poss	_	start_char=477|end_char=481
+14	government	government	NOUN	NN	Number=Sing	11	obl	_	start_char=482|end_char=492
+15	.	.	PUNCT	.	_	5	punct	_	start_char=492|end_char=493
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=494|end_char=496
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=496|end_char=498
+3	not	not	PART	RB	_	8	advmod	_	start_char=499|end_char=502
+4	even	even	ADV	RB	_	8	advmod	_	start_char=503|end_char=507
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=508|end_char=509
+6	non-profit	non-profit	ADJ	JJ	Degree=Pos	8	amod	_	start_char=510|end_char=520
+7	private	private	ADJ	JJ	Degree=Pos	8	amod	_	start_char=521|end_char=528
+8	agency	agency	NOUN	NN	Number=Sing	0	root	_	start_char=529|end_char=535
+9	.	.	PUNCT	.	_	8	punct	_	start_char=535|end_char=536
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=537|end_char=539
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=539|end_char=541
+3	closer	close	ADJ	JJR	Degree=Cmp	0	root	_	start_char=542|end_char=548
+4	to	to	ADP	IN	_	5	case	_	start_char=549|end_char=551
+5	something	something	PRON	NN	Number=Sing	3	obl	_	start_char=552|end_char=561
+6	like	like	ADP	IN	_	8	case	_	start_char=562|end_char=566
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=567|end_char=570
+8	Fed	fe	VERB	VBN	Tense=Past|VerbForm=Part	5	nmod	_	start_char=571|end_char=574
+9	here	here	ADV	RB	PronType=Dem	8	advmod	_	start_char=575|end_char=579
+10	in	in	ADP	IN	_	12	case	_	start_char=580|end_char=582
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=583|end_char=586
+12	US	US	PROPN	NNP	Number=Sing	8	obl	_	start_char=587|end_char=589
+13	than	than	SCONJ	IN	_	19	mark	_	start_char=590|end_char=594
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=595|end_char=597
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=598|end_char=600
+16	to	to	ADP	IN	_	19	case	_	start_char=601|end_char=603
+17	any	any	DET	DT	_	19	det	_	start_char=604|end_char=607
+18	private	private	ADJ	JJ	Degree=Pos	19	amod	_	start_char=608|end_char=615
+19	entity	entity	NOUN	NN	Number=Sing	3	advcl	_	start_char=616|end_char=622
+20	.	.	PUNCT	.	_	3	punct	_	start_char=622|end_char=623
+

@@ -1,0 +1,29 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	guy	guy	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=11
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=12|end_char=13
+5	saint	saint	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=19
+6	,	,	PUNCT	,	_	5	punct	_	start_char=19|end_char=20
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=21|end_char=22
+8	respect	respect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=23|end_char=30
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=31|end_char=34
+10	clam	clam	NOUN	NN	Number=Sing	12	obj	_	start_char=35|end_char=39
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=40|end_char=42
+12	stays	stay	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=43|end_char=48
+13	and	and	CCONJ	CC	_	20	cc	_	start_char=49|end_char=52
+14	wow	wow	INTJ	UH	_	20	discourse	_	start_char=53|end_char=56
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=57|end_char=60
+16	police	police	NOUN	NNS	Number=Plur	20	nsubj	_	start_char=61|end_char=67
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=68|end_char=71
+18	so	so	ADV	RB	_	20	advmod	_	start_char=72|end_char=74
+19	power	power	NOUN	NN	Number=Sing	20	obl:npmod	_	start_char=75|end_char=80
+20	hungry	hungry	ADJ	JJ	Degree=Pos	5	conj	_	start_char=81|end_char=87
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=88|end_char=91
+22	unaware	unaware	ADJ	JJ	Degree=Pos	20	conj	_	start_char=92|end_char=99
+23	of	of	ADP	IN	_	25	case	_	start_char=100|end_char=102
+24	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	_	start_char=103|end_char=108
+25	role	role	NOUN	NN	Number=Sing	22	obl	_	start_char=109|end_char=113
+26	.	.	PUNCT	.	_	5	punct	_	start_char=113|end_char=114
+
+1	Unbelievable	unbelievable	ADJ	JJ	Degree=Pos	0	root	_	start_char=115|end_char=127
+

@@ -1,0 +1,42 @@
+1	Um	um	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	yeah	yeah	INTJ	UH	_	0	root	_	start_char=3|end_char=7
+3	.	.	PUNCT	.	_	2	punct	_	start_char=7|end_char=8
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=9|end_char=10
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=10|end_char=13
+3	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=20
+4	hundreds	hundred	NOUN	NNS	Number=Plur	3	obj	_	start_char=21|end_char=29
+5	of	of	ADP	IN	_	6	case	_	start_char=30|end_char=32
+6	notices	notice	NOUN	NNS	Number=Plur	4	nmod	_	start_char=33|end_char=40
+7	from	from	ADP	IN	_	9	case	_	start_char=41|end_char=45
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=46|end_char=49
+9	DOJ	DOJ	PROPN	NNP	Number=Sing	6	nmod	_	start_char=50|end_char=53
+10	and	and	CCONJ	CC	_	14	cc	_	start_char=54|end_char=57
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=58|end_char=59
+12	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=59|end_char=62
+13	never	never	ADV	RB	_	14	advmod	_	start_char=63|end_char=68
+14	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=69|end_char=73
+15	one	one	NUM	CD	NumType=Card	16	nummod	_	start_char=74|end_char=77
+16	person	person	NOUN	NN	Number=Sing	14	obj	_	start_char=78|end_char=84
+17	who	who	PRON	WP	PronType=Rel	19	nsubj:pass	_	start_char=85|end_char=88
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux:pass	_	start_char=89|end_char=92
+19	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	_	start_char=93|end_char=99
+20	with	with	ADP	IN	_	21	case	_	start_char=100|end_char=104
+21	CP	cp	PROPN	NNP	Number=Sing	19	obl	_	start_char=105|end_char=107
+22	that	that	PRON	WDT	PronType=Rel	23	nsubj	_	start_char=108|end_char=112
+23	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	acl:relcl	_	start_char=113|end_char=116
+24	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=117|end_char=119
+25	from	from	SCONJ	IN	_	26	mark	_	start_char=120|end_char=124
+26	clicking	click	VERB	VBG	VerbForm=Ger	23	advcl	_	start_char=125|end_char=133
+27	an	a	DET	DT	Definite=Ind|PronType=Art	28	det	_	start_char=134|end_char=136
+28	ad	ad	NOUN	NN	Number=Sing	26	obj	_	start_char=137|end_char=139
+29	.	.	PUNCT	.	_	3	punct	_	start_char=139|end_char=140
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=141|end_char=145
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=146|end_char=148
+3	so	so	ADV	RB	_	4	advmod	_	start_char=149|end_char=151
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=152|end_char=160
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=161|end_char=164
+6	insulting	insulting	ADJ	JJ	Degree=Pos	4	conj	_	start_char=165|end_char=174
+7	.	.	PUNCT	.	_	4	punct	_	start_char=174|end_char=175
+

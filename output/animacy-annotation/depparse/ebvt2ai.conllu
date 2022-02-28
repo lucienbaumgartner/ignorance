@@ -1,0 +1,22 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	stubborn	stubborn	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=47
+9	keep	keep	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=52
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=53|end_char=57
+11	child	child	NOUN	NN	Number=Sing	9	obj	_	start_char=58|end_char=63
+12	in	in	ADP	IN	_	13	case	_	start_char=64|end_char=66
+13	pain	pain	NOUN	NN	Number=Sing	9	obl	_	start_char=67|end_char=71
+14	just	just	ADV	RB	_	19	advmod	_	start_char=72|end_char=76
+15	because	because	SCONJ	IN	_	19	mark	_	start_char=77|end_char=84
+16	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	start_char=85|end_char=88
+17	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=89|end_char=91
+18	n’t	not	PART	RB	Polarity=Neg	19	advmod	_	start_char=91|end_char=94
+19	trust	trust	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=95|end_char=100
+20	medicine	medicine	NOUN	NN	Number=Sing	19	obj	_	start_char=101|end_char=109
+21	.	.	PUNCT	.	_	1	punct	_	start_char=109|end_char=110
+

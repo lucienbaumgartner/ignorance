@@ -1,0 +1,49 @@
+1	"	"	PUNCT	``	_	3	punct	_	start_char=0|end_char=1
+2	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=1|end_char=4
+3	look	look	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	parataxis	_	start_char=5|end_char=9
+4	like	like	ADP	IN	_	5	case	_	start_char=10|end_char=14
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=15|end_char=17
+6	,	,	PUNCT	,	_	10	punct	_	start_char=17|end_char=18
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=19|end_char=21
+8	could	could	AUX	MD	VerbForm=Fin	10	aux	_	start_char=22|end_char=27
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=28|end_char=30
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	0	root	_	start_char=31|end_char=34
+11	tomorrow	tomorrow	NOUN	NN	Number=Sing	10	obl:tmod	_	start_char=35|end_char=43
+12	!	!	PUNCT	.	_	3	punct	_	start_char=43|end_char=44
+13	"	"	PUNCT	''	_	3	punct	_	start_char=44|end_char=45
+
+1	Seriously	seriously	ADV	RB	_	0	root	_	start_char=46|end_char=55
+2	?	?	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=57|end_char=60
+2	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=61|end_char=67
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=68|end_char=72
+4	man	man	NOUN	NN	Number=Sing	7	nsubj	_	start_char=73|end_char=76
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=77|end_char=80
+6	n't	not	PART	RB	_	7	advmod	_	start_char=80|end_char=83
+7	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	_	start_char=84|end_char=95
+8	some	some	DET	DT	_	9	det	_	start_char=96|end_char=100
+9	shit	shit	NOUN	NN	Number=Sing	7	obj	_	start_char=101|end_char=105
+10	?	?	PUNCT	.	_	2	punct	_	start_char=105|end_char=106
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=107|end_char=110
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=110|end_char=112
+3	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=113|end_char=121
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=122|end_char=125
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=126|end_char=134
+6	.	.	PUNCT	.	_	3	punct	_	start_char=134|end_char=135
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=136|end_char=140
+2	man	man	NOUN	NN	Number=Sing	5	nsubj	_	start_char=141|end_char=144
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=145|end_char=148
+4	so	so	ADV	RB	_	5	advmod	_	start_char=149|end_char=151
+5	soft	soft	ADJ	JJ	Degree=Pos	0	root	_	start_char=152|end_char=156
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=157|end_char=160
+7	respectful	respectful	ADJ	JJ	Degree=Pos	5	conj	_	start_char=161|end_char=171
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=172|end_char=175
+9	could	could	AUX	MD	VerbForm=Fin	11	aux	_	start_char=176|end_char=181
+10	barely	barely	ADV	RB	_	11	advmod	_	start_char=182|end_char=188
+11	hear	hear	VERB	VB	VerbForm=Inf	5	parataxis	_	start_char=189|end_char=193
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=194|end_char=197
+13	.	.	PUNCT	.	_	5	punct	_	start_char=197|end_char=198
+

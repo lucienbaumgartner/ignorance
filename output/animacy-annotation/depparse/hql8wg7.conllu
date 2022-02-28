@@ -1,0 +1,21 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=3|end_char=6
+3	still	still	ADV	RB	_	5	advmod	_	start_char=7|end_char=12
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=13|end_char=14
+5	plan	plan	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=19
+6	.	.	PUNCT	.	_	5	punct	_	start_char=19|end_char=20
+
+1	To	to	PART	TO	_	2	mark	_	start_char=21|end_char=23
+2	say	say	VERB	VB	VerbForm=Inf	10	csubj	_	start_char=24|end_char=27
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=28|end_char=31
+4	government	government	NOUN	NN	Number=Sing	5	nsubj	_	start_char=32|end_char=42
+5	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=43|end_char=46
+6	no	no	DET	DT	_	7	det	_	start_char=47|end_char=49
+7	plan	plan	NOUN	NN	Number=Sing	5	obj	_	start_char=50|end_char=54
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=55|end_char=57
+9	just	just	ADV	RB	_	10	advmod	_	start_char=58|end_char=62
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=71
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=72|end_char=75
+12	thoughtless	thoughtless	ADJ	JJ	Degree=Pos	10	conj	_	start_char=76|end_char=87
+13	.	.	PUNCT	.	_	10	punct	_	start_char=87|end_char=88
+

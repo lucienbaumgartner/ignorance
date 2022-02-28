@@ -1,0 +1,22 @@
+1	Posting	post	VERB	VBG	VerbForm=Ger	9	csubj	_	start_char=0|end_char=7
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+3	same	same	ADJ	JJ	Degree=Pos	4	amod	_	start_char=12|end_char=16
+4	comment	comment	NOUN	NN	Number=Sing	1	obj	_	start_char=17|end_char=24
+5	three	three	NUM	CD	NumType=Card	6	nummod	_	start_char=25|end_char=30
+6	times	time	NOUN	NNS	Number=Plur	1	obl:tmod	_	start_char=31|end_char=36
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=37|end_char=39
+8	so	so	ADV	RB	_	9	advmod	_	start_char=40|end_char=42
+9	freaking	freak	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=43|end_char=51
+10	absurd	absurd	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=52|end_char=58
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=59|end_char=62
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=63|end_char=71
+13	that	that	PRON	WDT	PronType=Rel	14	nsubj	_	start_char=72|end_char=76
+14	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=77|end_char=82
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	start_char=83|end_char=85
+16	feel	feel	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=86|end_char=90
+17	really	really	ADV	RB	_	18	advmod	_	start_char=91|end_char=97
+18	sorry	sorry	ADJ	JJ	Degree=Pos	16	xcomp	_	start_char=98|end_char=103
+19	for	for	ADP	IN	_	20	case	_	start_char=104|end_char=107
+20	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	obl	_	start_char=108|end_char=111
+21	.	.	PUNCT	.	_	9	punct	_	start_char=111|end_char=112
+

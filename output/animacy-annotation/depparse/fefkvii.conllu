@@ -1,0 +1,25 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	example	example	NOUN	NN	Number=Sing	11	nsubj	_	start_char=4|end_char=11
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=12|end_char=15
+4	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=16|end_char=20
+5	to	to	PART	TO	_	6	mark	_	start_char=21|end_char=23
+6	back	back	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=24|end_char=28
+7	up	up	ADP	RP	_	6	compound:prt	_	start_char=29|end_char=31
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=32|end_char=36
+9	statement	statement	NOUN	NN	Number=Sing	6	obj	_	start_char=37|end_char=46
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=47|end_char=50
+11	specious	specious	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=59
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=60|end_char=63
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=64|end_char=72
+14	.	.	PUNCT	.	_	11	punct	_	start_char=72|end_char=73
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=74|end_char=78
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=79|end_char=83
+3	change	change	VERB	VB	VerbForm=Inf	0	root	_	start_char=84|end_char=90
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=91|end_char=94
+5	meaning	meaning	NOUN	NN	Number=Sing	3	obj	_	start_char=95|end_char=102
+6	of	of	ADP	IN	_	8	case	_	start_char=103|end_char=105
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=106|end_char=110
+8	statement	statement	NOUN	NN	Number=Sing	5	nmod	_	start_char=111|end_char=120
+9	.	.	PUNCT	.	_	3	punct	_	start_char=120|end_char=121
+

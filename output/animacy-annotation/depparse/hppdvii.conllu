@@ -1,0 +1,19 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	exactly	exactly	ADV	RB	_	4	advmod	_	start_char=8|end_char=15
+4	what	what	PRON	WP	PronType=Int	0	root	_	start_char=16|end_char=20
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=21|end_char=24
+6	managing	manage	NOUN	NN	Number=Sing	7	amod	_	start_char=25|end_char=33
+7	class	class	NOUN	NN	Number=Sing	11	nsubj	_	start_char=34|end_char=39
+8	in	in	ADP	IN	_	10	case	_	start_char=40|end_char=42
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=43|end_char=46
+10	US	US	PROPN	NNP	Number=Sing	7	nmod	_	start_char=47|end_char=49
+11	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=50|end_char=55
+12	.	.	PUNCT	.	_	4	punct	_	start_char=55|end_char=56
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	4	amod	_	start_char=57|end_char=65
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=66|end_char=69
+3	dependent	dependent	ADJ	JJ	Degree=Pos	1	conj	_	start_char=70|end_char=79
+4	citizens	citizen	NOUN	NNS	Number=Plur	0	root	_	start_char=80|end_char=88
+5	.	.	PUNCT	.	_	4	punct	_	start_char=88|end_char=89
+

@@ -1,0 +1,14 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=23
+4	,	,	PUNCT	,	_	10	punct	_	start_char=23|end_char=24
+5	but	but	CCONJ	CC	_	10	cc	_	start_char=25|end_char=28
+6	also	also	ADV	RB	_	10	advmod	_	start_char=29|end_char=33
+7	with	with	ADP	IN	_	10	case	_	start_char=34|end_char=38
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=39|end_char=40
+9	better	good	ADJ	JJR	Degree=Cmp	10	amod	_	start_char=41|end_char=47
+10	mindset	mindset	NOUN	NN	Number=Sing	1	conj	_	start_char=48|end_char=55
+11	than	than	ADP	IN	_	12	case	_	start_char=56|end_char=60
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod	_	start_char=61|end_char=64
+13	.	.	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+

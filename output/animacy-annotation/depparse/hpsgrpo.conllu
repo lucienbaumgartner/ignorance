@@ -1,0 +1,70 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	week	week	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=9
+3	at	at	ADP	IN	_	5	case	_	start_char=10|end_char=12
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=13|end_char=15
+5	house	house	NOUN	NN	Number=Sing	2	nmod	_	start_char=16|end_char=21
+6	-	-	PUNCT	,	_	2	punct	_	start_char=22|end_char=23
+
+1	Destiny	Destiny	PROPN	NNP	Number=Sing	5	nsubj:pass	_	start_char=26|end_char=33
+2	2	2	NUM	CD	NumType=Card	1	nummod	_	start_char=34|end_char=35
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=36|end_char=39
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=40|end_char=44
+5	uninstalled	uninstal	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=45|end_char=56
+6	now	now	ADV	RB	_	5	advmod	_	start_char=57|end_char=60
+7	for	for	ADP	IN	_	9	case	_	start_char=61|end_char=64
+8	five	five	NUM	CD	NumType=Card	9	nummod	_	start_char=65|end_char=69
+9	weeks	week	NOUN	NNS	Number=Plur	5	obl	_	start_char=70|end_char=75
+10	.	.	PUNCT	.	_	5	punct	_	start_char=75|end_char=76
+
+1	Life	life	NOUN	NN	Number=Sing	3	nsubj	_	start_char=77|end_char=81
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=82|end_char=84
+3	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=85|end_char=89
+4	,	,	PUNCT	,	_	3	punct	_	start_char=89|end_char=90
+5	no	no	DET	DT	_	7	det	_	start_char=91|end_char=93
+6	more	more	ADJ	JJR	Degree=Cmp	7	amod	_	start_char=94|end_char=98
+7	shit	shit	NOUN	NN	Number=Sing	3	parataxis	_	start_char=99|end_char=103
+8	PvP	pvp	NOUN	NN	Number=Sing	7	appos	_	start_char=104|end_char=107
+9	,	,	PUNCT	,	_	12	punct	_	start_char=107|end_char=108
+10	no	no	DET	DT	_	12	det	_	start_char=109|end_char=111
+11	more	more	ADJ	JJR	Degree=Cmp	12	amod	_	start_char=112|end_char=116
+12	shit	shit	NOUN	NN	Number=Sing	3	parataxis	_	start_char=117|end_char=121
+13	PvE	pve	NOUN	NN	Number=Sing	14	compound	_	start_char=122|end_char=125
+14	rewards	reward	NOUN	NNS	Number=Plur	12	conj	_	start_char=126|end_char=133
+15	.	.	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+
+1	No	no	ADV	RB	_	2	advmod	_	start_char=135|end_char=137
+2	more	more	ADV	RBR	_	4	advmod	_	start_char=138|end_char=142
+3	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=143|end_char=148
+4	milked	milk	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=149|end_char=155
+5	dry	dry	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=156|end_char=159
+6	by	by	ADP	IN	_	10	case	_	start_char=160|end_char=162
+7	Puke	Puke	PROPN	NNP	Number=Sing	10	compound	_	start_char=163|end_char=167
+8	Shit	shit	NOUN	NN	Number=Sing	10	compound	_	start_char=168|end_char=172
+9	retirement	retirement	NOUN	NN	Number=Sing	10	compound	_	start_char=173|end_char=183
+10	fund	fund	NOUN	NN	Number=Sing	4	obl	_	start_char=184|end_char=188
+11	.	.	PUNCT	.	_	4	punct	_	start_char=188|end_char=189
+
+1	No	no	ADV	RB	_	2	advmod	_	start_char=190|end_char=192
+2	more	more	ADV	RBR	_	3	advmod	_	start_char=193|end_char=197
+3	paying	pay	VERB	VBG	VerbForm=Ger	0	root	_	start_char=198|end_char=204
+4	for	for	ADP	IN	_	5	case	_	start_char=205|end_char=208
+5	everything	everything	PRON	NN	Number=Sing	3	obl	_	start_char=209|end_char=219
+6	six	six	NUM	CD	NumType=Card	7	nummod	_	start_char=220|end_char=223
+7	times	time	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=224|end_char=229
+8	.	.	PUNCT	.	_	3	punct	_	start_char=229|end_char=230
+
+1	No	no	DET	DT	_	6	det	_	start_char=231|end_char=233
+2	more	more	ADV	RBR	_	3	advmod	_	start_char=234|end_char=238
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=239|end_char=247
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=248|end_char=251
+5	arrogant	arrogant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=252|end_char=260
+6	Devs	dev	NOUN	NNS	Number=Plur	0	root	_	start_char=261|end_char=265
+7	.	.	PUNCT	.	_	6	punct	_	start_char=265|end_char=266
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=267|end_char=269
+2	cock	cock	NOUN	NN	Number=Sing	5	nsubj	_	start_char=270|end_char=274
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=275|end_char=277
+4	also	also	ADV	RB	_	5	advmod	_	start_char=278|end_char=282
+5	shrinking	shrin	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=283|end_char=292
+6	.	.	PUNCT	.	_	5	punct	_	start_char=292|end_char=293
+

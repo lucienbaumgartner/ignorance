@@ -1,0 +1,25 @@
+1	Porn	Porn	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=4
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=5|end_char=8
+3	never	never	ADV	RB	_	4	advmod	_	start_char=9|end_char=14
+4	murdered	murder	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=15|end_char=23
+5	anyone	anyone	PRON	NN	Number=Sing	4	obj	_	start_char=24|end_char=30
+6	.	.	PUNCT	.	_	4	punct	_	start_char=30|end_char=31
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=32|end_char=36
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=36|end_char=38
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=39|end_char=43
+4	take	take	NOUN	NN	Number=Sing	0	root	_	start_char=44|end_char=48
+5	?	?	PUNCT	.	_	4	punct	_	start_char=48|end_char=49
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=52|end_char=54
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=55|end_char=58
+3	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=59|end_char=66
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=67|end_char=70
+5	colossally	colossally	ADV	RB	_	6	advmod	_	start_char=71|end_char=81
+6	uninformed	uninformed	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=83|end_char=93
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=94|end_char=97
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=98|end_char=106
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=107|end_char=111
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=112|end_char=114
+11	?	?	PUNCT	.	_	3	punct	_	start_char=114|end_char=115
+

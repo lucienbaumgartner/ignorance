@@ -1,0 +1,21 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	fucking	fuck	VERB	VBG	VerbForm=Part	1	xcomp	_	start_char=17|end_char=24
+5	illiterate	illiterate	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=25|end_char=35
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=36|end_char=39
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=40|end_char=48
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=49|end_char=53
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=54|end_char=57
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=58|end_char=61
+11	n't	not	PART	RB	_	12	advmod	_	start_char=61|end_char=64
+12	aware	aware	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=65|end_char=70
+13	of	of	ADP	IN	_	15	case	_	start_char=71|end_char=73
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=74|end_char=77
+15	genocides	genocide	NOUN	NNS	Number=Plur	12	obl	_	start_char=78|end_char=87
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=88|end_char=91
+17	USA	USA	PROPN	NNP	Number=Sing	20	nsubj	_	start_char=92|end_char=95
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=96|end_char=99
+19	already	already	ADV	RB	_	20	advmod	_	start_char=100|end_char=107
+20	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part	15	acl:relcl	_	start_char=108|end_char=117
+

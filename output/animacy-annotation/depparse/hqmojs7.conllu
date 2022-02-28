@@ -1,0 +1,21 @@
+1	Thinking	think	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=1|end_char=9
+2	sex	sex	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	gender	gender	NOUN	NN	Number=Sing	2	conj	_	start_char=18|end_char=24
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=25|end_char=28
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=29|end_char=32
+7	same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=33|end_char=37
+8	.	.	PUNCT	.	_	7	punct	_	start_char=37|end_char=38
+
+1	Such	such	PRON	PDT	_	3	det:predet	_	start_char=39|end_char=43
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=44|end_char=45
+3	genius	genius	NOUN	NN	Number=Sing	0	root	_	start_char=46|end_char=52
+4	.	.	PUNCT	.	_	3	punct	_	start_char=52|end_char=53
+
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=54|end_char=58
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=59|end_char=64
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=65|end_char=73
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=74|end_char=77
+5	uneducated	uneducated	ADJ	JJ	Degree=Pos	3	conj	_	start_char=78|end_char=88
+6	.	.	PUNCT	.	_	1	punct	_	start_char=88|end_char=89
+

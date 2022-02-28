@@ -1,0 +1,26 @@
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	start_char=0|end_char=2
+2	n't	not	PART	RB	_	3	advmod	_	start_char=2|end_char=5
+3	worry	worry	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=6|end_char=11
+4	mate	mate	VERB	VB	VerbForm=Fin	3	xcomp	_	start_char=12|end_char=16
+5	,	,	PUNCT	,	_	3	punct	_	start_char=16|end_char=17
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=18|end_char=20
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=20|end_char=22
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=23|end_char=24
+9	"	"	PUNCT	``	_	10	punct	_	start_char=25|end_char=26
+10	murican	murican	NOUN	NN	Number=Sing	3	parataxis	_	start_char=26|end_char=33
+11	"	"	PUNCT	''	_	10	punct	_	start_char=33|end_char=34
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=35|end_char=39
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=40|end_char=43
+14	so	so	ADV	RB	_	15	advmod	_	start_char=44|end_char=46
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=47|end_char=55
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=56|end_char=59
+17	dumb	dumb	ADJ	JJ	Degree=Pos	15	conj	_	start_char=60|end_char=64
+18	that	that	SCONJ	IN	_	20	mark	_	start_char=65|end_char=69
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=70|end_char=74
+20	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	ccomp	_	start_char=75|end_char=78
+21	knives	knife	NOUN	NNS	Number=Plur	20	obj	_	start_char=79|end_char=85
+22	to	to	PART	TO	_	23	mark	_	start_char=86|end_char=88
+23	open	open	VERB	VB	VerbForm=Inf	20	advcl	_	start_char=89|end_char=93
+24	avocados	avocado	NOUN	NNS	Number=Plur	23	obj	_	start_char=94|end_char=102
+25	.	.	PUNCT	.	_	3	punct	_	start_char=102|end_char=103
+

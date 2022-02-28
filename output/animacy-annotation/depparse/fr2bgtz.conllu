@@ -1,0 +1,16 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=9|end_char=13
+4	sort	sort	NOUN	NN	Number=Sing	2	obj	_	start_char=14|end_char=18
+5	of	of	ADP	IN	_	7	case	_	start_char=19|end_char=21
+6	"	"	PUNCT	``	_	7	punct	_	start_char=22|end_char=23
+7	rude	rude	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=23|end_char=27
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=28|end_char=31
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=32|end_char=40
+10	"	"	PUNCT	''	_	7	punct	_	start_char=40|end_char=41
+11	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=42|end_char=46
+12	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=47|end_char=51
+13	people	people	NOUN	NNS	Number=Plur	12	obj	_	start_char=52|end_char=58
+14	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	12	xcomp	_	start_char=59|end_char=65
+15	.	.	PUNCT	.	_	2	punct	_	start_char=65|end_char=66
+

@@ -1,0 +1,38 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	apologize	apologize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=11
+3	for	for	SCONJ	IN	_	5	mark	_	start_char=12|end_char=15
+4	not	not	ADV	RB	_	5	advmod	_	start_char=16|end_char=19
+5	sharing	share	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=20|end_char=27
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=28|end_char=31
+7	same	same	ADJ	JJ	Degree=Pos	8	amod	_	start_char=32|end_char=36
+8	opinion	opinion	NOUN	NN	Number=Sing	5	obj	_	start_char=37|end_char=44
+9	as	as	ADP	IN	_	10	case	_	start_char=45|end_char=47
+10	others	other	NOUN	NNS	Number=Plur	5	obl	_	start_char=48|end_char=54
+11	.	.	PUNCT	.	_	2	punct	_	start_char=54|end_char=55
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=56|end_char=57
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	start_char=58|end_char=61
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=61|end_char=64
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=65|end_char=69
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=70|end_char=72
+6	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=73|end_char=78
+7	make	make	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=79|end_char=83
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=84|end_char=86
+9	such	such	PRON	PDT	_	14	det:predet	_	start_char=87|end_char=91
+10	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=92|end_char=94
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	amod	_	start_char=95|end_char=103
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=104|end_char=107
+13	shameful	shameful	ADJ	JJ	Degree=Pos	11	conj	_	start_char=108|end_char=116
+14	person	person	NOUN	NN	Number=Sing	7	obj	_	start_char=117|end_char=123
+15	.	.	PUNCT	.	_	4	punct	_	start_char=123|end_char=124
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=125|end_char=128
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=129|end_char=131
+3	do	do	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=132|end_char=134
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=135|end_char=136
+5	complete	complete	ADJ	JJ	Degree=Pos	6	amod	_	start_char=137|end_char=145
+6	reflection	reflection	NOUN	NN	Number=Sing	3	obj	_	start_char=146|end_char=156
+7	on	on	ADP	IN	_	8	case	_	start_char=157|end_char=159
+8	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	nmod	_	start_char=160|end_char=166
+9	…	…	PUNCT	.	_	1	punct	_	start_char=166|end_char=167
+

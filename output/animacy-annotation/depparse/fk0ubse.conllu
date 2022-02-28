@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	swear	swear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	some	some	DET	DT	_	4	det	_	start_char=8|end_char=12
+4	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=13|end_char=19
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=20|end_char=23
+6	just	just	ADV	RB	_	9	advmod	_	start_char=24|end_char=28
+7	so	so	ADV	RB	_	8	advmod	_	start_char=29|end_char=31
+8	completely	completely	ADV	RB	_	9	advmod	_	start_char=32|end_char=42
+9	stupid	stupid	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=43|end_char=49
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=62
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=63|end_char=67
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=68|end_char=70
+14	amazes	amaze	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=71|end_char=77
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	start_char=78|end_char=80
+16	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=81|end_char=84
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=85|end_char=89
+18	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=90|end_char=98
+19	living	live	VERB	VBG	VerbForm=Ger	18	xcomp	_	start_char=99|end_char=105
+20	.	.	PUNCT	.	_	2	punct	_	start_char=105|end_char=106
+

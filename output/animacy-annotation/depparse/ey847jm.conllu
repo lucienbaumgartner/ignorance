@@ -1,0 +1,33 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	no	no	DET	DT	_	4	det	_	start_char=8|end_char=10
+4	one	one	NOUN	NN	Number=Sing	2	nsubj	_	start_char=11|end_char=14
+5	else	else	ADJ	JJ	Degree=Pos	4	amod	_	start_char=15|end_char=19
+6	to	to	PART	TO	_	7	mark	_	start_char=20|end_char=22
+7	blame	blame	VERB	VB	VerbForm=Inf	4	acl	_	start_char=23|end_char=28
+8	but	but	CCONJ	CC	_	9	cc	_	start_char=29|end_char=32
+9	Blizzard	Blizzard	PROPN	NNP	Number=Sing	7	conj	_	start_char=33|end_char=41
+10	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	Do	do	AUX	VB	VerbForm=Fin	3	aux	_	start_char=43|end_char=45
+2	n't	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=45|end_char=48
+3	put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=49|end_char=52
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=53|end_char=55
+5	on	on	ADP	IN	_	7	case	_	start_char=56|end_char=58
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=59|end_char=62
+7	players	player	NOUN	NNS	Number=Plur	3	obl	_	start_char=63|end_char=70
+8	that	that	PRON	WDT	PronType=Rel	12	mark	_	start_char=71|end_char=75
+9	Blizzard	Blizzard	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=76|end_char=84
+10	were	be	AUX	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=85|end_char=89
+11	very	very	ADV	RB	_	12	advmod	_	start_char=90|end_char=94
+12	unaware	unaware	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=95|end_char=102
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=103|end_char=106
+14	unprepared	unprepared	ADJ	JJ	Degree=Pos	12	conj	_	start_char=107|end_char=117
+15	about	about	ADP	IN	_	17	case	_	start_char=118|end_char=123
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=124|end_char=127
+17	interest	interest	NOUN	NN	Number=Sing	14	obl	_	start_char=128|end_char=136
+18	of	of	ADP	IN	_	20	case	_	start_char=137|end_char=139
+19	this	this	DET	DT	Number=Sing|PronType=Dem	20	det	_	start_char=140|end_char=144
+20	game	game	NOUN	NN	Number=Sing	17	nmod	_	start_char=145|end_char=149
+21	.	.	PUNCT	.	_	3	punct	_	start_char=149|end_char=150
+

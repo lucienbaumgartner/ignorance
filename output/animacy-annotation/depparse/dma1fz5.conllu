@@ -1,0 +1,36 @@
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	1	expl	_	start_char=4|end_char=9
+3	even	even	ADV	RB	_	1	advmod	_	start_char=10|end_char=14
+4	downsides	downside	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=15|end_char=24
+5	to	to	ADP	IN	_	7	case	_	start_char=25|end_char=27
+6	coffee	coffee	NOUN	NN	Number=Sing	7	compound	_	start_char=28|end_char=34
+7	addiction	addiction	NOUN	NN	Number=Sing	4	nmod	_	start_char=35|end_char=44
+8	?	?	PUNCT	.	_	1	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=46|end_char=47
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=52
+3	like	like	SCONJ	IN	_	6	mark	_	start_char=53|end_char=57
+4	there	there	PRON	EX	_	6	expl	_	start_char=58|end_char=63
+5	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=64|end_char=70
+6	be	be	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=71|end_char=73
+7	but	but	CCONJ	CC	_	10	cc	_	start_char=74|end_char=77
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=78|end_char=79
+9	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=79|end_char=81
+10	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=82|end_char=89
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=90|end_char=93
+12	unable	unable	ADJ	JJ	Degree=Pos	10	conj	_	start_char=94|end_char=100
+13	to	to	PART	TO	_	14	mark	_	start_char=101|end_char=103
+14	find	find	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=104|end_char=108
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	start_char=109|end_char=113
+
+1	Edit	edit	NOUN	NN	Number=Sing	0	root	_	start_char=115|end_char=119
+2	:	:	PUNCT	:	_	1	punct	_	start_char=119|end_char=120
+3	found	find	VERB	VBN	Tense=Past|VerbForm=Part	1	appos	_	start_char=121|end_char=126
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=127|end_char=131
+5	too	too	ADV	RB	_	3	advmod	_	start_char=132|end_char=135
+6	after	after	SCONJ	IN	_	7	mark	_	start_char=136|end_char=141
+7	googling	google	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=142|end_char=150
+8	:	:	PUNCT	:	_	1	punct	_	start_char=150|end_char=151
+
+1	https://m.youtube.com/watch?v=OTVE5iPMKLg	https://m.youtube.com/watch?v=otve5ipmklg	X	ADD	_	0	root	_	start_char=152|end_char=193
+

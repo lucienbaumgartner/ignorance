@@ -1,0 +1,20 @@
+1	Tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=5|end_char=9
+3	therapist	therapist	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=19
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=20|end_char=24
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=25|end_char=29
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=29|end_char=32
+7	unqualified	unqualified	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=33|end_char=44
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=45|end_char=48
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=49|end_char=57
+10	of	of	ADP	IN	_	13	case	_	start_char=58|end_char=60
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=61|end_char=66
+12	own	own	ADJ	JJ	Degree=Pos	13	amod	_	start_char=67|end_char=70
+13	profession	profession	NOUN	NN	Number=Sing	9	obl	_	start_char=71|end_char=81
+14	before	before	SCONJ	IN	_	15	mark	_	start_char=82|end_char=88
+15	finding	find	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=89|end_char=96
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=97|end_char=98
+17	new	new	ADJ	JJ	Degree=Pos	18	amod	_	start_char=99|end_char=102
+18	one	one	NOUN	NN	Number=Sing	15	obj	_	start_char=103|end_char=106
+19	.	.	PUNCT	.	_	1	punct	_	start_char=106|end_char=107
+

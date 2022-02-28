@@ -1,0 +1,20 @@
+1	Majority	majority	NOUN	NN	Number=Sing	9	nsubj	_	start_char=0|end_char=8
+2	of	of	ADP	IN	_	3	case	_	start_char=9|end_char=11
+3	people	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=12|end_char=18
+4	in	in	ADP	IN	_	6	case	_	start_char=19|end_char=21
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=22|end_char=25
+6	world	world	NOUN	NN	Number=Sing	3	nmod	_	start_char=26|end_char=31
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=32|end_char=35
+8	extremely	extremely	ADV	RB	_	9	advmod	_	start_char=36|end_char=45
+9	poor	poor	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=50
+10	.	.	PUNCT	.	_	9	punct	_	start_char=50|end_char=51
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=52|end_char=55
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=55|end_char=58
+3	privileged	privileged	ADJ	JJ	Degree=Pos	0	root	_	start_char=59|end_char=69
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=70|end_char=73
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=74|end_char=82
+6	of	of	ADP	IN	_	7	case	_	start_char=83|end_char=85
+7	reality	reality	NOUN	NN	Number=Sing	5	obl	_	start_char=86|end_char=93
+8	.	.	PUNCT	.	_	3	punct	_	start_char=93|end_char=94
+

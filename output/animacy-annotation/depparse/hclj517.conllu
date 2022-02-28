@@ -1,0 +1,22 @@
+1	&gt	&gt	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=6|end_char=7
+4	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=10
+5	intelligent	intelligent	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=22
+
+1	Apparently	apparently	ADV	RB	_	2	advmod	_	start_char=25|end_char=35
+2	not	not	PART	RB	_	0	root	_	start_char=36|end_char=39
+3	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=40|end_char=44
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=45|end_char=48
+5	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=48|end_char=51
+6	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	2	advcl	_	start_char=52|end_char=58
+7	claims	claim	NOUN	NNS	Number=Plur	6	obj	_	start_char=59|end_char=65
+8	that	that	SCONJ	IN	_	9	mark	_	start_char=66|end_char=70
+9	stupid	stupid	ADJ	JJ	Degree=Pos	7	acl	_	start_char=71|end_char=77
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=78|end_char=81
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=82|end_char=90
+12	of	of	ADP	IN	_	14	case	_	start_char=91|end_char=93
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=94|end_char=97
+14	facts	fact	NOUN	NNS	Number=Plur	9	obl	_	start_char=98|end_char=103
+15	.	.	PUNCT	.	_	2	punct	_	start_char=103|end_char=104
+

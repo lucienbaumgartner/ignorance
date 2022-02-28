@@ -1,0 +1,46 @@
+1	Ember	Ember	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=5
+2	Moon	Moon	PROPN	NNP	Number=Sing	0	root	_	start_char=6|end_char=10
+3	.	.	PUNCT	.	_	2	punct	_	start_char=10|end_char=11
+
+1	Everything	everything	PRON	NN	Number=Sing	6	nsubj	_	start_char=12|end_char=22
+2	else	else	ADJ	JJ	Degree=Pos	1	amod	_	start_char=23|end_char=27
+3	about	about	ADP	IN	_	4	case	_	start_char=28|end_char=33
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod	_	start_char=34|end_char=37
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=38|end_char=40
+6	great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=46
+7	.	.	PUNCT	.	_	6	punct	_	start_char=46|end_char=47
+
+1	But	but	CCONJ	CC	_	19	cc	_	start_char=48|end_char=51
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=52|end_char=55
+3	flying	fly	VERB	VBG	VerbForm=Ger	4	amod	_	start_char=56|end_char=62
+4	stunner	stunner	NOUN	NN	Number=Sing	0	root	_	start_char=63|end_char=70
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=71|end_char=75
+6	requires	require	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=76|end_char=84
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=85|end_char=88
+8	to	to	PART	TO	_	10	mark	_	start_char=89|end_char=91
+9	be	be	AUX	VB	VerbForm=Inf	10	aux:pass	_	start_char=92|end_char=94
+10	dazed	daze	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	start_char=95|end_char=100
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=101|end_char=104
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=105|end_char=112
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=113|end_char=116
+14	standing	stand	VERB	VBG	VerbForm=Ger	10	conj	_	start_char=117|end_char=125
+15	exactly	exactly	ADV	RB	Degree=Pos	17	advmod	_	start_char=126|end_char=133
+16	within	within	ADP	IN	_	17	case	_	start_char=134|end_char=140
+17	reach	reach	NOUN	NN	Number=Sing	14	obl	_	start_char=141|end_char=146
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=147|end_char=150
+19	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	conj	_	start_char=151|end_char=155
+20	no	no	DET	DT	Polarity=Neg	21	det	_	start_char=156|end_char=158
+21	idea	idea	NOUN	NN	Number=Sing	19	obj	_	start_char=159|end_char=163
+22	that	that	PRON	WDT	PronType=Rel	24	nsubj	_	start_char=164|end_char=168
+23	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	start_char=168|end_char=170
+24	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	21	acl:relcl	_	start_char=171|end_char=177
+25	because	because	SCONJ	IN	_	30	mark	_	start_char=178|end_char=185
+26	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	30	nsubj	_	start_char=186|end_char=189
+27	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	30	aux	_	start_char=189|end_char=192
+28	clearly	clearly	ADV	RB	Degree=Pos	30	advmod	_	start_char=193|end_char=200
+29	never	never	ADV	RB	Polarity=Neg	30	advmod	_	start_char=201|end_char=206
+30	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	24	advcl	_	start_char=207|end_char=211
+31	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	obj	_	start_char=212|end_char=214
+32	before	before	ADV	RB	Degree=Pos	30	advmod	_	start_char=215|end_char=221
+33	.	.	PUNCT	.	_	4	punct	_	start_char=221|end_char=222
+

@@ -1,0 +1,26 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	guy	guy	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=9|end_char=11
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	dangerous	dangerous	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=34
+7	.	.	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+
+1	What	what	PRON	WP	PronType=Int	3	nsubj	_	start_char=36|end_char=40
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=40|end_char=42
+3	wring	wring	VERB	VB	VerbForm=Part	9	csubj	_	start_char=43|end_char=48
+4	with	with	ADP	IN	_	5	mark	_	start_char=49|end_char=53
+5	wearing	wear	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=54|end_char=61
+6	masks	mask	NOUN	NNS	Number=Plur	5	obj	_	start_char=62|end_char=67
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=68|end_char=70
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=71|end_char=73
+9	afraid	afraid	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=80
+10	someone	someone	PRON	NN	Number=Sing	13	nsubj	_	start_char=81|end_char=88
+11	might	might	AUX	MD	VerbForm=Fin	13	aux	_	start_char=89|end_char=94
+12	not	not	PART	RB	_	13	advmod	_	start_char=95|end_char=98
+13	see	see	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=99|end_char=102
+14	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=103|end_char=106
+15	stupid	stupid	ADJ	JJ	Degree=Pos	16	amod	_	start_char=107|end_char=113
+16	face	face	NOUN	NN	Number=Sing	13	obj	_	start_char=114|end_char=118
+17	!	!	PUNCT	.	_	9	punct	_	start_char=118|end_char=119
+

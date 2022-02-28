@@ -1,0 +1,56 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	paid	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	.	.	PUNCT	.	_	2	punct	_	start_char=6|end_char=7
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=8|end_char=9
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=10|end_char=16
+3	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=21
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=22|end_char=25
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=26|end_char=29
+6	much	much	ADJ	JJ	Degree=Pos	8	advmod	_	start_char=30|end_char=34
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=35|end_char=36
+8	regretted	regret	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=37|end_char=46
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=47|end_char=49
+10	.	.	PUNCT	.	_	3	punct	_	start_char=49|end_char=50
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=51|end_char=54
+2	two	two	NUM	CD	NumType=Card	3	nummod	_	start_char=55|end_char=58
+3	writers	writer	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=59|end_char=66
+4	with	with	ADP	IN	_	5	case	_	start_char=67|end_char=71
+5	whom	whom	PRON	WP	PronType=Int	3	nmod	_	start_char=72|end_char=76
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=77|end_char=81
+7	paired	pair	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=82|end_char=88
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=89|end_char=91
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	start_char=92|end_char=96
+10	both	both	CCONJ	CC	_	11	cc:preconj	_	start_char=97|end_char=101
+11	incompetent	incompetent	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=113
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=114|end_char=117
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=118|end_char=126
+14	of	of	ADP	IN	_	16	case	_	start_char=127|end_char=129
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=130|end_char=133
+16	disciplines	discipline	NOUN	NNS	Number=Plur	11	obl	_	start_char=134|end_char=145
+17	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	_	start_char=146|end_char=154
+18	in	in	ADP	IN	_	20	case	_	start_char=155|end_char=157
+19	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=158|end_char=160
+20	resume	resume	NOUN	NN	Number=Sing	17	obl	_	start_char=161|end_char=167
+21	.	.	PUNCT	.	_	11	punct	_	start_char=167|end_char=168
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=169|end_char=171
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=172|end_char=175
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=176|end_char=177
+4	horrible	horrible	ADJ	JJ	Degree=Pos	5	amod	_	start_char=178|end_char=186
+5	experience	experience	NOUN	NN	Number=Sing	0	root	_	start_char=187|end_char=197
+6	that	that	PRON	WDT	PronType=Rel	7	nsubj	_	start_char=198|end_char=202
+7	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=203|end_char=207
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=208|end_char=210
+9	lose	lose	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=211|end_char=215
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=216|end_char=217
+11	lot	lot	NOUN	NN	Number=Sing	9	obj	_	start_char=218|end_char=221
+12	of	of	ADP	IN	_	13	case	_	start_char=222|end_char=224
+13	money	money	NOUN	NN	Number=Sing	11	nmod	_	start_char=225|end_char=230
+14	and	and	CCONJ	CC	_	17	cc	_	start_char=231|end_char=234
+15	even	even	ADV	RB	_	17	advmod	_	start_char=235|end_char=239
+16	more	more	ADJ	JJR	Degree=Cmp	17	amod	_	start_char=240|end_char=244
+17	time	time	NOUN	NN	Number=Sing	9	conj	_	start_char=245|end_char=249
+18	.	.	PUNCT	.	_	5	punct	_	start_char=249|end_char=250
+

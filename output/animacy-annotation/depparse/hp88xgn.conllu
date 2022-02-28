@@ -1,0 +1,85 @@
+1	bc	bc	ADV	RB	_	5	advmod	_	start_char=0|end_char=2
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3|end_char=5
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+4	still	still	ADV	RB	_	5	advmod	_	start_char=8|end_char=13
+5	jewish	jewish	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=20
+6	.	.	PUNCT	.	_	5	punct	_	start_char=20|end_char=21
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=22|end_char=25
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=26|end_char=28
+3	n’t	not	PART	RB	_	4	advmod	_	start_char=28|end_char=31
+4	un	un	VERB	VB	VerbForm=Inf	0	root	_	start_char=32|end_char=34
+5	-	-	PUNCT	HYPH	_	6	punct	_	start_char=34|end_char=35
+6	jewish	jewish	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=35|end_char=41
+7	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	obj	_	start_char=42|end_char=50
+8	.	.	PUNCT	.	_	4	punct	_	start_char=50|end_char=51
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=52|end_char=53
+2	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=54|end_char=57
+3	what	what	PRON	WP	PronType=Int	2	obj	_	start_char=58|end_char=62
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=63|end_char=67
+5	saying	saying	NOUN	NN	Number=Sing	11	nsubj	_	start_char=68|end_char=74
+6	,	,	PUNCT	,	_	7	punct	_	start_char=74|end_char=75
+7	what	what	PRON	WP	PronType=Int	11	nsubj	_	start_char=76|end_char=80
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=81|end_char=83
+9	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=84|end_char=88
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=89|end_char=92
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=93|end_char=101
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=102|end_char=105
+13	hateful	hateful	ADJ	JJ	Degree=Pos	11	conj	_	start_char=106|end_char=113
+14	.	.	PUNCT	.	_	2	punct	_	start_char=113|end_char=114
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=115|end_char=116
+2	’m	be	AUX	VBP	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=116|end_char=118
+3	not	not	PART	RB	_	4	advmod	_	start_char=119|end_char=122
+4	disagreeing	disagree	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=123|end_char=134
+5	with	with	ADP	IN	_	6	case	_	start_char=135|end_char=139
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=140|end_char=143
+7	.	.	PUNCT	.	_	4	punct	_	start_char=143|end_char=144
+
+1	at	at	ADP	IN	_	3	case	_	start_char=145|end_char=147
+2	one	one	NUM	CD	NumType=Card	3	nummod	_	start_char=148|end_char=151
+3	point	point	NOUN	NN	Number=Sing	6	obl	_	start_char=152|end_char=157
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=158|end_char=160
+5	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=161|end_char=164
+6	practice	practice	VERB	VB	VerbForm=Inf	0	root	_	start_char=165|end_char=173
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=174|end_char=177
+8	faith	faith	NOUN	NN	Number=Sing	6	obj	_	start_char=178|end_char=183
+9	.	.	PUNCT	.	_	6	punct	_	start_char=183|end_char=184
+
+1	maybe	maybe	ADV	RB	_	3	advmod	_	start_char=185|end_char=190
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=191|end_char=193
+3	experienced	experience	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=194|end_char=205
+4	stuff	stuff	NOUN	NN	Number=Sing	3	obj	_	start_char=206|end_char=211
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=212|end_char=216
+6	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=217|end_char=221
+7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=222|end_char=225
+8	turn	turn	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=226|end_char=230
+9	from	from	ADP	IN	_	10	case	_	start_char=231|end_char=235
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=236|end_char=238
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=239|end_char=242
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=243|end_char=245
+13	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=246|end_char=250
+14	like	like	SCONJ	IN	_	17	mark	_	start_char=251|end_char=255
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=256|end_char=258
+16	could	could	AUX	MD	VerbForm=Fin	17	aux	_	start_char=259|end_char=264
+17	poke	poke	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=265|end_char=269
+18	fun	fun	NOUN	NN	Number=Sing	17	obj	_	start_char=270|end_char=273
+19	at	at	ADP	IN	_	23	case	_	start_char=274|end_char=276
+20	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=277|end_char=280
+21	more	more	ADV	RBR	_	23	advmod	_	start_char=281|end_char=285
+22	“	''	PUNCT	``	_	23	punct	_	start_char=286|end_char=287
+23	extremes	extreme	NOUN	NNS	Number=Plur	17	obl	_	start_char=287|end_char=295
+24	”	''	PUNCT	''	_	23	punct	_	start_char=295|end_char=296
+25	of	of	ADP	IN	_	27	case	_	start_char=297|end_char=299
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	start_char=300|end_char=303
+27	religion	religion	NOUN	NN	Number=Sing	23	nmod	_	start_char=304|end_char=312
+28	.	.	PUNCT	.	_	3	punct	_	start_char=312|end_char=313
+
+1	STILL	still	ADV	RB	_	3	advmod	_	start_char=314|end_char=319
+2	NOT	not	PART	RB	_	3	advmod	_	start_char=320|end_char=323
+3	SAYING	say	VERB	VBG	VerbForm=Ger	0	root	_	start_char=324|end_char=330
+4	ITS	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=331|end_char=334
+5	RIGHT	right	NOUN	NN	Number=Sing	3	obj	_	start_char=335|end_char=340
+6	.	.	PUNCT	.	_	3	punct	_	start_char=340|end_char=341
+

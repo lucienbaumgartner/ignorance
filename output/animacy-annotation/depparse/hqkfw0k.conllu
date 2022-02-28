@@ -1,0 +1,65 @@
+1	&gt	&gt	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	*	*	PUNCT	NFP	_	7	punct	_	start_char=5|end_char=6
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=6|end_char=7
+5	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=8|end_char=10
+6	very	very	ADV	RB	_	7	advmod	_	start_char=11|end_char=15
+7	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=24
+8	...	...	PUNCT	.	_	7	punct	_	start_char=24|end_char=27
+9	*	*	PUNCT	NFP	_	7	punct	_	start_char=27|end_char=28
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=30|end_char=36
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=37|end_char=40
+3	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=54
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=55|end_char=58
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=59|end_char=67
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=68|end_char=71
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=72|end_char=76
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=76|end_char=78
+9	doubly	doubly	ADV	RB	_	10	advmod	_	start_char=79|end_char=85
+10	true	true	ADJ	JJ	Degree=Pos	3	conj	_	start_char=86|end_char=90
+11	in	in	ADP	IN	_	12	case	_	start_char=91|end_char=93
+12	Florida	Florida	PROPN	NNP	Number=Sing	10	obl	_	start_char=94|end_char=101
+13	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=104|end_char=107
+2	;*	;*	PUNCT	NFP	_	1	punct	_	start_char=107|end_char=109
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=109|end_char=110
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=111|end_char=116
+3	also	also	ADV	RB	_	5	advmod	_	start_char=117|end_char=121
+4	be	be	AUX	VB	VerbForm=Inf	5	aux	_	start_char=122|end_char=124
+5	questioning	question	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=125|end_char=136
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=137|end_char=140
+7	zoo	zoo	NOUN	NN	Number=Sing	10	nmod:poss	_	start_char=141|end_char=144
+8	’s	's	PART	POS	_	7	case	_	start_char=144|end_char=146
+9	containment	containment	NOUN	NN	Number=Sing	10	compound	_	start_char=147|end_char=158
+10	protocols	protocol	NOUN	NNS	Number=Plur	5	obj	_	start_char=159|end_char=168
+11	if	if	SCONJ	IN	_	15	mark	_	start_char=169|end_char=171
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=172|end_char=173
+13	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	start_char=174|end_char=178
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=179|end_char=182
+15	sheriffs	sheriff	NOUN	NNS	Number=Plur	5	advcl	_	start_char=183|end_char=191
+16	*	*	PUNCT	NFP	_	5	punct	_	start_char=191|end_char=192
+
+1	Nobody	nobody	PRON	NN	Number=Sing	2	nsubj	_	start_char=194|end_char=200
+2	cares	care	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=201|end_char=206
+3	.	.	PUNCT	.	_	2	punct	_	start_char=206|end_char=207
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=208|end_char=210
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=210|end_char=212
+3	just	just	ADV	RB	_	6	advmod	_	start_char=213|end_char=217
+4	another	another	DET	DT	_	6	det	_	start_char=218|end_char=225
+5	brief	brief	ADJ	JJ	Degree=Pos	6	amod	_	start_char=226|end_char=231
+6	interlude	interlude	NOUN	NN	Number=Sing	0	root	_	start_char=232|end_char=241
+7	in	in	ADP	IN	_	12	case	_	start_char=242|end_char=244
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=245|end_char=248
+9	deputy	deputy	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=249|end_char=255
+10	's	's	PART	POS	_	9	case	_	start_char=255|end_char=257
+11	otherwise	otherwise	ADV	RB	_	12	advmod	_	start_char=258|end_char=267
+12	dutifulness	dutifulness	NOUN	NN	Number=Sing	6	nmod	_	start_char=268|end_char=279
+13	to	to	ADP	IN	_	15	case	_	start_char=280|end_char=282
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=283|end_char=286
+15	corporatocracy	corporatocracy	NOUN	NN	Number=Sing	12	nmod	_	start_char=287|end_char=301
+16	.	.	PUNCT	.	_	6	punct	_	start_char=301|end_char=302
+

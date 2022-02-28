@@ -1,0 +1,26 @@
+1	Likely	likely	ADV	RB	_	3	advmod	_	start_char=0|end_char=6
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=7|end_char=8
+3	result	result	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=15
+4	of	of	ADP	IN	_	6	case	_	start_char=16|end_char=18
+5	media	media	NOUN	NN	Number=Sing	6	compound	_	start_char=19|end_char=24
+6	disinformation	disinformation	NOUN	NN	Number=Sing	3	nmod	_	start_char=25|end_char=39
+7	,	,	PUNCT	,	_	8	punct	_	start_char=39|end_char=40
+8	apathy	apathy	NOUN	NN	Number=Sing	6	conj	_	start_char=41|end_char=47
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=48|end_char=51
+10	indifference	indifference	NOUN	NN	Number=Sing	6	conj	_	start_char=52|end_char=64
+11	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+
+1	Bob	Bob	PROPN	NNP	Number=Sing	8	nmod:poss	_	start_char=67|end_char=70
+2	Ivey	Ivey	PROPN	NNP	Number=Sing	1	flat	_	start_char=71|end_char=75
+3	's	's	PART	POS	_	1	case	_	start_char=75|end_char=77
+4	"	"	PUNCT	``	_	8	punct	_	start_char=78|end_char=79
+5	unaware	unaware	ADJ	JJ	Degree=Pos	8	amod	_	start_char=79|end_char=86
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=87|end_char=90
+7	compliant	compliant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=91|end_char=100
+8	citizenry	citizenry	NOUN	NN	Number=Sing	10	nsubj	_	start_char=101|end_char=110
+9	"	"	PUNCT	''	_	8	punct	_	start_char=110|end_char=111
+10	hard	hard	ADV	RB	Degree=Pos	0	root	_	start_char=112|end_char=116
+11	at	at	ADP	IN	_	12	case	_	start_char=117|end_char=119
+12	work	work	NOUN	NN	Number=Sing	10	obl	_	start_char=120|end_char=124
+13	.	.	PUNCT	.	_	10	punct	_	start_char=124|end_char=125
+

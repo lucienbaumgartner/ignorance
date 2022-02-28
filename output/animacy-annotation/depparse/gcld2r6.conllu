@@ -1,0 +1,30 @@
+1	Homophobic	homophobic	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=10
+2	,	,	PUNCT	,	_	3	punct	_	start_char=10|end_char=11
+3	retarded	retarded	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=20
+4	,	,	PUNCT	,	_	6	punct	_	start_char=20|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=26|end_char=33
+7	of	of	ADP	IN	_	11	mark	_	start_char=34|end_char=36
+8	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=37|end_char=40
+9	English	English	ADJ	JJ	Degree=Pos	10	amod	_	start_char=41|end_char=48
+10	words	word	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=49|end_char=54
+11	work	work	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=55|end_char=59
+12	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=61|end_char=67
+2	representing	represent	VERB	VBG	VerbForm=Ger	0	root	_	start_char=68|end_char=80
+3	those	that	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=81|end_char=86
+4	Canadians	Canadian	PROPN	NNPS	Number=Plur	2	obj	_	start_char=87|end_char=96
+5	well	well	ADV	RB	Degree=Pos	2	advmod	_	start_char=97|end_char=101
+6	.	.	PUNCT	.	_	2	punct	_	start_char=101|end_char=102
+
+1	Anything	anything	PRON	NN	Number=Sing	0	root	_	start_char=103|end_char=111
+2	else	else	ADJ	JJ	Degree=Pos	1	amod	_	start_char=112|end_char=116
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=117|end_char=120
+4	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=121|end_char=125
+5	to	to	PART	TO	_	6	mark	_	start_char=126|end_char=128
+6	blabber	blabber	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=129|end_char=136
+7	on	on	ADP	IN	_	6	obl	_	start_char=137|end_char=139
+8	about	about	ADP	IN	_	6	obl	_	start_char=140|end_char=145
+9	?	?	PUNCT	.	_	1	punct	_	start_char=145|end_char=146
+

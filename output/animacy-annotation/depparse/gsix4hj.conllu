@@ -1,0 +1,50 @@
+1	Yeah	yeah	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=5|end_char=6
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=7|end_char=9
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=9|end_char=12
+5	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=16
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=17|end_char=19
+7	either	either	ADV	RB	_	5	advmod	_	start_char=20|end_char=26
+8	.	.	PUNCT	.	_	5	punct	_	start_char=26|end_char=27
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=28|end_char=31
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=31|end_char=34
+3	just	just	ADV	RB	_	4	advmod	_	start_char=35|end_char=39
+4	stating	state	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=40|end_char=47
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=48|end_char=51
+6	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=51|end_char=54
+7	white	white	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=55|end_char=60
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=61|end_char=64
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=65|end_char=72
+10	of	of	ADP	IN	_	12	case	_	start_char=73|end_char=75
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=76|end_char=79
+12	joke	joke	NOUN	NN	Number=Sing	9	obl	_	start_char=80|end_char=84
+13	(	(	PUNCT	-LRB-	_	18	punct	_	start_char=85|end_char=86
+14	if	if	SCONJ	IN	_	18	mark	_	start_char=86|end_char=88
+15	OP	OP	PROPN	NNP	Number=Sing	18	nsubj	_	start_char=89|end_char=91
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	start_char=92|end_char=95
+17	even	even	ADV	RB	_	18	advmod	_	start_char=96|end_char=100
+18	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	_	start_char=101|end_char=107
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=108|end_char=109
+20	joke	joke	NOUN	NN	Number=Sing	18	obj	_	start_char=110|end_char=114
+21	idek	idek	PUNCT	,	_	18	punct	_	start_char=115|end_char=119
+22	haha	haha	INTJ	UH	_	18	discourse	_	start_char=120|end_char=124
+23	)	)	PUNCT	-RRB-	_	18	punct	_	start_char=124|end_char=125
+24	.	.	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+
+1	Only	only	ADJ	JJ	Degree=Pos	2	amod	_	start_char=129|end_char=133
+2	thing	thing	NOUN	NN	Number=Sing	9	nsubj	_	start_char=134|end_char=139
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=140|end_char=141
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=142|end_char=145
+5	think	think	VERB	VB	VerbForm=Inf	2	acl:relcl	_	start_char=146|end_char=151
+6	of	of	ADP	IN	_	5	obl	_	start_char=152|end_char=154
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=155|end_char=157
+8	body	body	NOUN	NN	Number=Sing	9	compound	_	start_char=158|end_char=162
+9	cams	cam	NOUN	NNS	Number=Plur	0	root	_	start_char=163|end_char=167
+10	?	?	PUNCT	.	_	9	punct	_	start_char=167|end_char=168
+
+1	Bhullar	Bhullar	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=169|end_char=176
+2	kams	kam	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=177|end_char=181
+3	?	?	PUNCT	.	_	2	punct	_	start_char=181|end_char=182
+4	🤣	''	PUNCT	''	_	2	punct	_	start_char=183|end_char=184
+

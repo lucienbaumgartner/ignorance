@@ -1,0 +1,20 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	blunt	blunt	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=36|end_char=40
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=41|end_char=44
+9	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	11	aux	_	start_char=45|end_char=48
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=48|end_char=51
+11	realise	realise	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=52|end_char=59
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=60|end_char=62
+13	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	start_char=63|end_char=66
+14	n’t	not	PART	RB	Polarity=Neg	15	advmod	_	start_char=66|end_char=69
+15	state	state	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=70|end_char=75
+16	everyone	everyone	NOUN	NN	Number=Sing	15	obj	_	start_char=76|end_char=84
+17	in	in	ADP	IN	_	19	case	_	start_char=85|end_char=87
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=88|end_char=91
+19	military	military	NOUN	NN	Number=Sing	15	obl	_	start_char=92|end_char=100
+

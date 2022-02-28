@@ -1,0 +1,133 @@
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=0|end_char=1
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=1|end_char=3
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=4|end_char=7
+3	in	in	ADP	IN	_	5	case	_	start_char=8|end_char=10
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=11|end_char=15
+5	moment	moment	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=22
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=23|end_char=24
+7	fully	fully	ADV	RB	_	8	advmod	_	start_char=25|end_char=30
+8	agreed	agree	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	_	start_char=31|end_char=37
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=38|end_char=41
+10	councilor	councilor	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=42|end_char=51
+11	’s	's	PART	POS	_	10	case	_	start_char=51|end_char=53
+12	views	view	NOUN	NNS	Number=Plur	8	obj	_	start_char=54|end_char=59
+13	,	,	PUNCT	,	_	8	punct	_	start_char=59|end_char=60
+14	sure	sure	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=61|end_char=65
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=66|end_char=68
+16	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=68|end_char=70
+17	been	be	AUX	VBN	Tense=Past|VerbForm=Part	21	cop	_	start_char=71|end_char=75
+18	right	right	ADV	RB	_	21	advmod	_	start_char=76|end_char=81
+19	about	about	ADP	IN	_	21	case	_	start_char=82|end_char=87
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=88|end_char=89
+21	lot	lot	NOUN	NN	Number=Sing	14	ccomp	_	start_char=90|end_char=93
+22	.	.	PUNCT	.	_	5	punct	_	start_char=93|end_char=94
+
+1	With	with	ADP	IN	_	3	case	_	start_char=95|end_char=99
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=100|end_char=103
+3	senate	senate	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=104|end_char=110
+4	being	be	AUX	VBG	VerbForm=Ger	5	aux:pass	_	start_char=111|end_char=116
+5	bogged	bog	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=117|end_char=123
+6	down	down	ADP	RP	_	5	compound:prt	_	start_char=124|end_char=128
+7	by	by	ADP	IN	_	8	case	_	start_char=129|end_char=131
+8	politics	politics	NOUN	NNS	Number=Plur	5	obl	_	start_char=132|end_char=140
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=141|end_char=144
+10	bureaucracy	bureaucracy	NOUN	NN	Number=Sing	8	conj	_	start_char=145|end_char=156
+11	.	.	PUNCT	.	_	5	punct	_	start_char=156|end_char=157
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=158|end_char=162
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=163|end_char=168
+3	of	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=169|end_char=171
+4	stopped	stop	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=172|end_char=179
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=180|end_char=184
+6	war	war	NOUN	NN	Number=Sing	4	obj	_	start_char=185|end_char=188
+7	tearing	tear	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=189|end_char=196
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=197|end_char=200
+9	galaxy	galaxy	NOUN	NN	Number=Sing	7	obj	_	start_char=201|end_char=207
+10	apart	apart	ADV	RB	_	7	advmod	_	start_char=208|end_char=213
+11	.	.	PUNCT	.	_	4	punct	_	start_char=213|end_char=214
+
+1	All	all	DET	PDT	_	3	det:predet	_	start_char=215|end_char=218
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=219|end_char=222
+3	men	man	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=223|end_char=226
+4	sacrificed	sacrifice	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=227|end_char=237
+5	fighting	fight	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=238|end_char=246
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=247|end_char=248
+7	war	war	NOUN	NN	Number=Sing	5	obj	_	start_char=249|end_char=252
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=253|end_char=257
+9	where	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	start_char=258|end_char=263
+10	sold	sell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=264|end_char=268
+11	into	into	ADP	IN	_	10	obl	_	start_char=269|end_char=273
+12	.	.	PUNCT	.	_	4	punct	_	start_char=273|end_char=274
+
+1	Ripping	rip	VERB	VBG	VerbForm=Ger	0	root	_	start_char=275|end_char=282
+2	apart	apart	ADP	RP	_	1	compound:prt	_	start_char=283|end_char=288
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=289|end_char=292
+4	Galaxy	galaxy	PROPN	NNP	Number=Sing	1	obj	_	start_char=293|end_char=299
+5	.	.	PUNCT	.	_	1	punct	_	start_char=299|end_char=300
+
+1	Add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=302|end_char=305
+2	to	to	ADP	IN	_	9	mark	_	start_char=306|end_char=308
+3	that	that	SCONJ	IN	_	9	mark	_	start_char=309|end_char=313
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=314|end_char=317
+5	Jedi	Jedi	PROPN	NNP	Number=Sing	6	compound	_	start_char=318|end_char=322
+6	council	council	NOUN	NN	Number=Sing	9	nsubj	_	start_char=323|end_char=330
+7	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=331|end_char=336
+8	so	so	ADV	RB	_	9	advmod	_	start_char=337|end_char=339
+9	blind	blind	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=340|end_char=345
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=346|end_char=349
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=350|end_char=358
+12	of	of	ADP	IN	_	13	case	_	start_char=359|end_char=361
+13	what	what	PRON	WP	PronType=Int	11	obl	_	start_char=362|end_char=366
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=367|end_char=369
+15	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	13	acl:relcl	_	start_char=370|end_char=375
+16	on	on	ADP	RP	_	15	compound:prt	_	start_char=376|end_char=378
+17	.	.	PUNCT	.	_	1	punct	_	start_char=378|end_char=379
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=380|end_char=382
+2	self	self	NOUN	NN	Number=Sing	3	obl:npmod	_	start_char=383|end_char=387
+3	righteous	righteous	ADJ	JJ	Degree=Pos	0	root	_	start_char=388|end_char=397
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=398|end_char=401
+5	yet	yet	CCONJ	CC	_	7	cc	_	start_char=402|end_char=405
+6	so	so	ADV	RB	_	7	advmod	_	start_char=406|end_char=408
+7	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	3	conj	_	start_char=409|end_char=421
+8	.	.	PUNCT	.	_	3	punct	_	start_char=421|end_char=422
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=423|end_char=424
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=425|end_char=430
+3	have	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=431|end_char=435
+4	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=436|end_char=440
+5	back	back	ADV	RB	_	4	advmod	_	start_char=441|end_char=445
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=446|end_char=449
+7	freed	free	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=450|end_char=455
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=456|end_char=458
+9	mom	mom	NOUN	NN	Number=Sing	7	obj	_	start_char=459|end_char=462
+10	.	.	PUNCT	.	_	4	punct	_	start_char=462|end_char=463
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=464|end_char=465
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=466|end_char=471
+3	have	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=472|end_char=476
+4	saved	save	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=477|end_char=482
+5	Padme	Padme	PROPN	NNP	Number=Sing	4	obj	_	start_char=483|end_char=488
+6	.	.	PUNCT	.	_	4	punct	_	start_char=488|end_char=489
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=490|end_char=494
+2	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=495|end_char=499
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=500|end_char=502
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	start_char=503|end_char=504
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=505|end_char=508
+6	chosen	choose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=509|end_char=515
+7	one	one	NUM	CD	NumType=Card	6	obj	_	start_char=516|end_char=519
+8	.	.	PUNCT	.	_	2	punct	_	start_char=519|end_char=520
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=521|end_char=523
+2	much	much	ADV	RB	_	3	advmod	_	start_char=524|end_char=528
+3	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=529|end_char=533
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=534|end_char=536
+5	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=537|end_char=540
+6	for	for	ADP	IN	_	7	case	_	start_char=541|end_char=544
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=545|end_char=547
+8	.	.	PUNCT	.	_	3	punct	_	start_char=547|end_char=548
+
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=548|end_char=549
+

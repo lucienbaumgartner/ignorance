@@ -1,0 +1,32 @@
+1	Jesus	Jesus	PROPN	NNP	Number=Sing	3	compound	_	start_char=0|end_char=5
+2	Christ	Christ	PROPN	NNP	Number=Sing	1	flat	_	start_char=6|end_char=12
+3	dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	Even	even	ADV	RB	_	5	advmod	_	start_char=19|end_char=23
+2	if	if	SCONJ	IN	_	5	mark	_	start_char=24|end_char=26
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=27|end_char=30
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=31|end_char=34
+5	unhygienic	unhygienic	ADJ	JJ	Degree=Pos	14	advcl	_	start_char=35|end_char=45
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=46|end_char=49
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=50|end_char=57
+8	of	of	ADP	IN	_	11	case	_	start_char=58|end_char=60
+9	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=61|end_char=64
+10	body	body	NOUN	NN	Number=Sing	11	compound	_	start_char=65|end_char=69
+11	odor	odor	NOUN	NN	Number=Sing	7	obl	_	start_char=70|end_char=74
+12	,	,	PUNCT	,	_	14	punct	_	start_char=74|end_char=75
+13	there	there	PRON	EX	_	14	expl	_	start_char=76|end_char=81
+14	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=82|end_char=85
+15	better	good	ADJ	JJR	Degree=Cmp	16	amod	_	start_char=86|end_char=92
+16	ways	way	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=93|end_char=97
+17	to	to	PART	TO	_	18	mark	_	start_char=98|end_char=100
+18	bring	bring	VERB	VB	VerbForm=Inf	16	acl	_	start_char=101|end_char=106
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=107|end_char=109
+20	up	up	ADP	RP	_	18	compound:prt	_	start_char=110|end_char=112
+21	than	than	ADP	IN	_	24	mark	_	start_char=113|end_char=117
+22	right	right	ADV	RB	_	24	advmod	_	start_char=118|end_char=123
+23	after	after	SCONJ	IN	_	24	mark	_	start_char=124|end_char=129
+24	having	have	VERB	VBG	VerbForm=Ger	18	advcl	_	start_char=130|end_char=136
+25	sex	sex	NOUN	NN	Number=Sing	24	obj	_	start_char=137|end_char=140
+26	.	.	PUNCT	.	_	14	punct	_	start_char=140|end_char=141
+

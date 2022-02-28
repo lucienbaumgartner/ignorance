@@ -1,0 +1,6 @@
+1	Willfully	willfully	ADV	RB	_	2	advmod	_	start_char=0|end_char=9
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=18
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=19|end_char=22
+4	cruel	cruel	ADJ	JJ	Degree=Pos	2	conj	_	start_char=23|end_char=28
+5	.	.	PUNCT	.	_	2	punct	_	start_char=28|end_char=29
+

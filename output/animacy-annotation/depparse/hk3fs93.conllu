@@ -1,0 +1,40 @@
+1	Wow	wow	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=3|end_char=4
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=11
+4	AND	and	CCONJ	CC	_	5	cc	_	start_char=12|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=16|end_char=24
+6	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+7	history	history	NOUN	NN	Number=Sing	3	obl	_	start_char=28|end_char=35
+8	,	,	PUNCT	,	_	12	punct	_	start_char=35|end_char=36
+9	what	what	PRON	WP	PronType=Int	12	nsubj	_	start_char=37|end_char=41
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=42|end_char=43
+11	winning	win	VERB	VBG	VerbForm=Ger	12	amod	_	start_char=44|end_char=51
+12	combo	combo	NOUN	NN	Number=Sing	3	parataxis	_	start_char=52|end_char=57
+13	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=58|end_char=61
+14	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=61|end_char=64
+15	got	get	VERB	VBN	Tense=Past|VerbForm=Part	12	acl:relcl	_	start_char=65|end_char=68
+16	there	there	ADV	RB	PronType=Dem	15	advmod	_	start_char=69|end_char=74
+17	.	.	PUNCT	.	_	3	punct	_	start_char=74|end_char=75
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=76|end_char=78
+2	ancestors	ancestor	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=79|end_char=88
+3	rioted	riote	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=89|end_char=95
+4	over	over	ADP	IN	_	7	case	_	start_char=96|end_char=100
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=101|end_char=102
+6	tax	tax	NOUN	NN	Number=Sing	7	compound	_	start_char=103|end_char=106
+7	increase	increase	NOUN	NN	Number=Sing	3	obl	_	start_char=107|end_char=115
+8	on	on	ADP	IN	_	10	case	_	start_char=116|end_char=118
+9	fucking	fuck	VERB	VBG	VerbForm=Ger	10	amod	_	start_char=119|end_char=126
+10	tea	tea	NOUN	NN	Number=Sing	7	nmod	_	start_char=127|end_char=130
+11	.	.	PUNCT	.	_	3	punct	_	start_char=130|end_char=131
+
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=132|end_char=137
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	_	start_char=138|end_char=143
+3	ruled	rule	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=144|end_char=149
+4	over	over	ADP	IN	_	5	case	_	start_char=150|end_char=154
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=155|end_char=158
+6	sniveling	snivel	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=159|end_char=168
+7	little	little	ADJ	JJ	Degree=Pos	8	amod	_	start_char=169|end_char=175
+8	serf	serf	NOUN	NN	Number=Sing	6	obj	_	start_char=176|end_char=180
+9	hahaha	hahaha	INTJ	UH	_	1	discourse	_	start_char=181|end_char=187
+

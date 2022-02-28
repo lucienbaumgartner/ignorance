@@ -1,0 +1,32 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	but	but	CCONJ	CC	_	19	cc	_	start_char=4|end_char=7
+4	to	to	PART	TO	_	5	mark	_	start_char=8|end_char=10
+5	say	say	VERB	VB	VerbForm=Inf	19	advcl	_	start_char=11|end_char=14
+6	that	that	SCONJ	IN	_	13	mark	_	start_char=15|end_char=19
+7	Epstein	Epstein	PROPN	NNP	Number=Sing	10	nmod:poss	_	start_char=20|end_char=27
+8	’s	's	PART	POS	_	7	case	_	start_char=27|end_char=29
+9	pedo	pedo	ADJ	JJ	Degree=Pos	10	amod	_	start_char=30|end_char=34
+10	rings	ring	NOUN	NNS	Number=Plur	13	nsubj:pass	_	start_char=35|end_char=40
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=41|end_char=44
+12	only	only	ADV	RB	_	13	advmod	_	start_char=45|end_char=49
+13	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	ccomp	_	start_char=50|end_char=59
+14	to	to	ADP	IN	_	15	case	_	start_char=60|end_char=62
+15	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obl	_	start_char=63|end_char=70
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=71|end_char=73
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=74|end_char=75
+18	bit	bit	NOUN	NN	Number=Sing	19	obl:npmod	_	start_char=76|end_char=79
+19	absurd	absurd	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=80|end_char=86
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=87|end_char=90
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	19	conj	_	start_char=91|end_char=99
+22	.	.	PUNCT	.	_	1	punct	_	start_char=99|end_char=100
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=102|end_char=106
+2	isnt	isnt	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=107|end_char=111
+3	what	what	PRON	WP	PronType=Int	7	obj	_	start_char=112|end_char=116
+4	/	/	SYM	,	_	5	cc	_	start_char=117|end_char=118
+5	u	u	PROPN	NNP	Number=Sing	3	conj	_	start_char=118|end_char=119
+6	/originalmaja	/originalmaja	NOUN	NN	Number=Sing	7	nsubj	_	start_char=119|end_char=132
+7	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=133|end_char=137
+8	.	.	PUNCT	.	_	7	punct	_	start_char=137|end_char=138
+

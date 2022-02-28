@@ -1,0 +1,27 @@
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	at	at	ADP	IN	_	6	mark	_	start_char=5|end_char=7
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=8|end_char=11
+4	often	often	ADV	RB	_	6	advmod	_	start_char=12|end_char=17
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=18|end_char=19
+6	comment	comment	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=20|end_char=27
+7	.	.	PUNCT	.	_	1	punct	_	start_char=27|end_char=28
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=29|end_char=32
+2	sounded	sound	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=33|end_char=40
+3	so	so	ADV	RB	_	4	advmod	_	start_char=41|end_char=43
+4	insufferable	insufferable	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=44|end_char=56
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=57|end_char=60
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=61|end_char=68
+7	of	of	ADP	IN	_	9	case	_	start_char=69|end_char=71
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=72|end_char=75
+9	insufferable	insufferable	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=76|end_char=88
+10	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=89|end_char=92
+11	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=93|end_char=96
+12	,	,	PUNCT	,	_	15	punct	_	start_char=96|end_char=97
+13	that	that	PRON	WDT	PronType=Rel	15	obj	_	start_char=98|end_char=102
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=103|end_char=104
+15	decided	decide	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=105|end_char=112
+16	to	to	PART	TO	_	17	mark	_	start_char=113|end_char=115
+17	comment	comment	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=116|end_char=123
+18	.	.	PUNCT	.	_	2	punct	_	start_char=123|end_char=124
+

@@ -1,0 +1,7 @@
+1	incompetent	incompetent	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=11
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=12|end_char=15
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=16|end_char=23
+4	of	of	ADP	IN	_	5	case	_	start_char=24|end_char=26
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=27|end_char=29
+6	.	.	PUNCT	.	_	1	punct	_	start_char=29|end_char=30
+

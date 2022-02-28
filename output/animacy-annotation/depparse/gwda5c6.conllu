@@ -1,0 +1,26 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9
+4	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=36
+7	of	of	ADP	IN	_	8	case	_	start_char=37|end_char=39
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obl	_	start_char=40|end_char=44
+9	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=46|end_char=47
+2	honestly	honestly	ADV	RB	_	5	advmod	_	start_char=48|end_char=56
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=57|end_char=59
+4	n’t	not	PART	RB	_	5	advmod	_	start_char=59|end_char=62
+5	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=63|end_char=70
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=71|end_char=75
+7	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=76|end_char=81
+8	think	think	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=82|end_char=87
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=88|end_char=92
+10	and	and	CCONJ	CC	_	14	cc	_	start_char=93|end_char=96
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=97|end_char=101
+12	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=101|end_char=104
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=105|end_char=106
+14	manager	manager	NOUN	NN	Number=Sing	8	ccomp	_	start_char=107|end_char=114
+15	??	??	PUNCT	.	_	5	punct	_	start_char=114|end_char=116
+

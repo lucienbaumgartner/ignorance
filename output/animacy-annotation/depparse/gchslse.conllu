@@ -1,0 +1,18 @@
+1	8.9	8.9	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	months	month	NOUN	NNS	Number=Plur	3	obl:npmod	_	start_char=4|end_char=10
+3	lmao	lmao	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=15
+4	.	.	PUNCT	.	_	3	punct	_	start_char=15|end_char=16
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=17|end_char=19
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=20|end_char=24
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=25|end_char=27
+4	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=32
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=33|end_char=38
+6	so	so	ADV	RB	_	7	advmod	_	start_char=39|end_char=41
+7	dumb	dumb	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=42|end_char=46
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=58
+10	of	of	ADP	IN	_	11	case	_	start_char=59|end_char=61
+11	reality	reality	NOUN	NN	Number=Sing	9	obl	_	start_char=62|end_char=69
+12	.	.	PUNCT	.	_	4	punct	_	start_char=69|end_char=70
+

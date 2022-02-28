@@ -1,0 +1,52 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=4|end_char=8
+2	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=15|end_char=18
+4	political	political	ADJ	JJ	Degree=Pos	5	amod	_	start_char=19|end_char=28
+5	system	system	NOUN	NN	Number=Sing	2	obj	_	start_char=29|end_char=35
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=36|end_char=40
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	start_char=41|end_char=45
+8	under	under	ADP	IN	_	5	acl:relcl	_	start_char=46|end_char=51
+9	,	,	PUNCT	,	_	11	punct	_	start_char=51|end_char=52
+10	which	which	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=53|end_char=58
+11	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=59|end_char=67
+12	to	to	PART	TO	_	14	mark	_	start_char=68|end_char=70
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=71|end_char=73
+14	communism	communism	NOUN	NN	Number=Sing	11	xcomp	_	start_char=74|end_char=83
+15	.	.	PUNCT	.	_	2	punct	_	start_char=83|end_char=84
+
+1	Yeah	yeah	INTJ	UH	_	9	discourse	_	start_char=86|end_char=90
+2	,	,	PUNCT	,	_	9	punct	_	start_char=90|end_char=91
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=92|end_char=96
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=96|end_char=98
+5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=99|end_char=102
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	amod	_	start_char=103|end_char=111
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=112|end_char=115
+8	pathetic	pathetic	ADJ	JJ	Degree=Pos	6	conj	_	start_char=116|end_char=124
+9	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=125|end_char=129
+10	.	.	PUNCT	.	_	9	punct	_	start_char=129|end_char=130
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=132|end_char=135
+2	;	;	PUNCT	:	_	1	punct	_	start_char=135|end_char=136
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=136|end_char=139
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=140|end_char=144
+3	really	really	ADV	RB	_	4	advmod	_	start_char=145|end_char=151
+4	mad	mad	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=152|end_char=155
+5	for	for	ADP	IN	_	7	case	_	start_char=156|end_char=159
+6	some	some	DET	DT	_	7	det	_	start_char=160|end_char=164
+7	reason	reason	NOUN	NN	Number=Sing	4	obl	_	start_char=165|end_char=171
+8	.	.	PUNCT	.	_	2	punct	_	start_char=171|end_char=172
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=174|end_char=178
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=178|end_char=180
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=181|end_char=182
+4	rational	rational	ADJ	JJ	Degree=Pos	5	amod	_	start_char=183|end_char=191
+5	reaction	reaction	NOUN	NN	Number=Sing	0	root	_	start_char=192|end_char=200
+6	to	to	ADP	IN	_	8	case	_	start_char=201|end_char=203
+7	pro-communist	pro-communist	ADJ	JJ	Degree=Pos	8	amod	_	start_char=204|end_char=217
+8	filth	filth	NOUN	NN	Number=Sing	5	nmod	_	start_char=218|end_char=223
+9	.	.	PUNCT	.	_	5	punct	_	start_char=223|end_char=224
+

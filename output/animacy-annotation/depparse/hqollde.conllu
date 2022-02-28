@@ -1,0 +1,42 @@
+1	Fair	fair	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	to	to	PART	TO	_	3	mark	_	start_char=5|end_char=7
+3	assume	assume	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=8|end_char=14
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=15|end_char=18
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=19|end_char=22
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=23|end_char=24
+7	southerner	southerner	NOUN	NN	Number=Sing	3	ccomp	_	start_char=25|end_char=35
+8	since	since	SCONJ	IN	_	10	mark	_	start_char=36|end_char=41
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=42|end_char=45
+10	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=46|end_char=50
+11	to	to	PART	TO	_	12	mark	_	start_char=51|end_char=53
+12	call	call	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=54|end_char=58
+13	people	people	NOUN	NNS	Number=Plur	12	iobj	_	start_char=59|end_char=65
+14	"	"	PUNCT	``	_	15	punct	_	start_char=66|end_char=67
+15	yanks	yank	NOUN	NNS	Number=Plur	12	obj	_	start_char=67|end_char=72
+16	"	"	PUNCT	''	_	15	punct	_	start_char=72|end_char=73
+17	?	?	PUNCT	.	_	1	punct	_	start_char=73|end_char=74
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=75|end_char=77
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=77|end_char=79
+3	definitely	definitely	ADV	RB	_	4	advmod	_	start_char=80|end_char=90
+4	fitting	fit	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=91|end_char=98
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=99|end_char=103
+6	name	name	NOUN	NN	Number=Sing	8	nsubj	_	start_char=104|end_char=108
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=109|end_char=111
+8	lardbutt	lardbutt	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=112|end_char=120
+9	in	in	ADP	IN	_	11	case	_	start_char=121|end_char=123
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=124|end_char=128
+11	case	case	NOUN	NN	Number=Sing	8	obl	_	start_char=129|end_char=133
+12	.	.	PUNCT	.	_	4	punct	_	start_char=133|end_char=134
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=135|end_char=143
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=144|end_char=147
+3	fat	fat	ADJ	JJ	Degree=Pos	1	conj	_	start_char=148|end_char=151
+4	.	.	PUNCT	.	_	1	punct	_	start_char=151|end_char=152
+
+1	Two	two	NUM	CD	NumForm=Word|NumType=Card	2	nummod	_	start_char=153|end_char=156
+2	hallmarks	hallmark	NOUN	NNS	Number=Plur	0	root	_	start_char=157|end_char=166
+3	of	of	ADP	IN	_	5	case	_	start_char=167|end_char=169
+4	southern	southern	ADJ	JJ	Degree=Pos	5	amod	_	start_char=170|end_char=178
+5	pride	pride	NOUN	NN	Number=Sing	2	nmod	_	start_char=179|end_char=184
+

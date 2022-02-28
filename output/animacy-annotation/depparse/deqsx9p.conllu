@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	kinda	kinda	ADV	RB	_	4	advmod	_	start_char=4|end_char=9
+4	envious	envious	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=17
+5	of	of	ADP	IN	_	8	case	_	start_char=18|end_char=20
+6	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=21|end_char=25
+7	sub	sub	NOUN	NN	Number=Sing	8	compound	_	start_char=26|end_char=29
+8	group	group	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=35
+9	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=36|end_char=39
+10	will	will	AUX	MD	VerbForm=Fin	11	aux	_	start_char=40|end_char=44
+11	go	go	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=45|end_char=47
+12	through	through	ADP	IN	_	14	case	_	start_char=48|end_char=55
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=56|end_char=59
+14	entirety	entirety	NOUN	NN	Number=Sing	11	obl	_	start_char=60|end_char=68
+15	of	of	ADP	IN	_	16	case	_	start_char=69|end_char=71
+16	collapse	collapse	NOUN	NN	Number=Sing	14	nmod	_	start_char=72|end_char=80
+17	completly	completely	ADV	RB	_	18	advmod	_	start_char=81|end_char=90
+18	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=91|end_char=98
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=99|end_char=102
+20	happy	happy	ADJ	JJ	Degree=Pos	18	conj	_	start_char=103|end_char=108
+21	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+
+1	https://www.youtube.com/watch?v=g7r_oIKrreQ	https://www.youtube.com/watch?v=g7r_oikrreq	X	ADD	_	0	root	_	start_char=112|end_char=155
+

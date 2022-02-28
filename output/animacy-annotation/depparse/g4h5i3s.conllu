@@ -1,0 +1,27 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=3
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=3|end_char=5
+3	so	so	ADV	RB	_	4	advmod	_	start_char=6|end_char=8
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=9|end_char=19
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=38
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=39|end_char=43
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=44|end_char=45
+10	worry	worry	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=46|end_char=51
+11	about	about	ADP	IN	_	12	case	_	start_char=52|end_char=57
+12	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=58|end_char=61
+13	travelling	travel	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=62|end_char=72
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=73|end_char=76
+15	world	world	NOUN	NN	Number=Sing	13	obj	_	start_char=77|end_char=82
+16	.	.	PUNCT	.	_	5	punct	_	start_char=82|end_char=83
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=84|end_char=88
+2	places	place	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=89|end_char=95
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=96|end_char=99
+4	more	more	ADV	RBR	_	5	advmod	_	start_char=100|end_char=104
+5	dangerous	dangerous	ADJ	JJ	Degree=Pos	0	root	_	start_char=105|end_char=114
+6	than	than	ADP	IN	_	8	case	_	start_char=115|end_char=119
+7	South	South	PROPN	NNP	Number=Sing	8	compound	_	start_char=120|end_char=125
+8	Korea	Korea	PROPN	NNP	Number=Sing	5	obl	_	start_char=126|end_char=131
+9	.	.	PUNCT	.	_	5	punct	_	start_char=131|end_char=132
+

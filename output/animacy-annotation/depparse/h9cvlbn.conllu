@@ -1,0 +1,68 @@
+1	wow	wow	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	so	so	ADV	RB	_	5	advmod	_	start_char=12|end_char=14
+5	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=15|end_char=20
+6	,	,	PUNCT	,	_	5	punct	_	start_char=20|end_char=21
+7	with	with	ADP	IN	_	9	case	_	start_char=22|end_char=26
+8	such	such	ADJ	JJ	Degree=Pos	9	amod	_	start_char=27|end_char=31
+9	confidence	confidence	NOUN	NN	Number=Sing	5	obl	_	start_char=32|end_char=42
+10	.	.	PUNCT	.	_	5	punct	_	start_char=42|end_char=43
+
+1	how	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=44|end_char=47
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=48|end_char=50
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=51|end_char=54
+4	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=55|end_char=57
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=58|end_char=60
+6	?	?	PUNCT	.	_	4	punct	_	start_char=60|end_char=61
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=63|end_char=66
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=66|end_char=69
+3	asserting	assert	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=70|end_char=79
+4	that	that	SCONJ	IN	_	10	mark	_	start_char=80|end_char=84
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=85|end_char=88
+6	HRC	HRC	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=89|end_char=92
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=93|end_char=95
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=96|end_char=97
+9	bigger	big	ADJ	JJR	Degree=Cmp	10	amod	_	start_char=98|end_char=104
+10	org	org	NOUN	NN	Number=Sing	3	ccomp	_	start_char=105|end_char=108
+11	than	than	ADP	IN	_	14	case	_	start_char=109|end_char=113
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=114|end_char=117
+13	Catholic	Catholic	ADJ	NNP	Degree=Pos	14	amod	_	start_char=118|end_char=126
+14	Church	Church	PROPN	NNP	Number=Sing	10	nmod	_	start_char=127|end_char=133
+15	?	?	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+
+1	smh.	smh.	PROPN	NNP	Number=Sing	2	compound	_	start_char=135|end_char=139
+2	GLAAD	GLAAD	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=140|end_char=145
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=146|end_char=149
+4	more	more	ADJ	JJR	Degree=Cmp	5	amod	_	start_char=150|end_char=154
+5	reach	reach	NOUN	NN	Number=Sing	3	obj	_	start_char=155|end_char=160
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=161|end_char=164
+7	followers	follower	NOUN	NNS	Number=Plur	5	conj	_	start_char=165|end_char=174
+8	than	than	ADP	IN	_	9	case	_	start_char=175|end_char=179
+9	Islam	Islam	PROPN	NNP	Number=Sing	5	nmod	_	start_char=180|end_char=185
+10	???	???	PUNCT	.	_	3	punct	_	start_char=185|end_char=188
+
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=189|end_char=192
+2	.	.	PUNCT	.	_	1	punct	_	start_char=192|end_char=193
+
+1	if	if	SCONJ	IN	_	4	mark	_	start_char=195|end_char=197
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=198|end_char=199
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=200|end_char=204
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	advcl	_	start_char=205|end_char=208
+5	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj:pass	_	start_char=209|end_char=210
+6	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=211|end_char=216
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	start_char=217|end_char=219
+8	embarrassed	embarrass	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=220|end_char=231
+9	to	to	PART	TO	_	12	mark	_	start_char=232|end_char=234
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=235|end_char=237
+11	so	so	ADV	RB	_	12	advmod	_	start_char=238|end_char=240
+12	wrong	wrong	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=241|end_char=246
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=247|end_char=250
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=251|end_char=259
+15	of	of	ADP	IN	_	18	case	_	start_char=260|end_char=262
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=263|end_char=266
+17	actual	actual	ADJ	JJ	Degree=Pos	18	amod	_	start_char=267|end_char=273
+18	situation	situation	NOUN	NN	Number=Sing	14	obl	_	start_char=274|end_char=283
+19	.	.	PUNCT	.	_	8	punct	_	start_char=283|end_char=284
+

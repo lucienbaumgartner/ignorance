@@ -1,0 +1,40 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	medical	medical	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=11
+3	field	field	NOUN	NN	Number=Sing	5	nsubj	_	start_char=12|end_char=17
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=18|end_char=21
+5	worn	wear	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=22|end_char=26
+6	masks	mask	NOUN	NNS	Number=Plur	5	obj	_	start_char=27|end_char=32
+7	for	for	ADP	IN	_	9	case	_	start_char=33|end_char=36
+8	literally	literally	ADV	RB	_	9	advmod	_	start_char=37|end_char=46
+9	decades	decade	NOUN	NNS	Number=Plur	5	obl	_	start_char=47|end_char=54
+10	.	.	PUNCT	.	_	5	punct	_	start_char=54|end_char=55
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=56|end_char=58
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=58|end_char=60
+3	to	to	PART	TO	_	4	mark	_	start_char=61|end_char=63
+4	protect	protect	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=64|end_char=71
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=72|end_char=76
+6	.	.	PUNCT	.	_	2	punct	_	start_char=76|end_char=77
+
+1	Not	not	PART	RB	_	4	advmod	_	start_char=78|end_char=81
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=82|end_char=86
+3	selfish	selfish	ADJ	JJ	Degree=Pos	4	amod	_	start_char=87|end_char=94
+4	asses	ass	NOUN	NNS	Number=Plur	0	root	_	start_char=95|end_char=100
+5	.	.	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	start_char=103|end_char=104
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=104|end_char=106
+3	blown	blow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=107|end_char=112
+4	away	away	ADV	RB	_	3	advmod	_	start_char=113|end_char=117
+5	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=118|end_char=121
+6	some	some	DET	DT	_	7	det	_	start_char=122|end_char=126
+7	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=127|end_char=133
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=134|end_char=137
+9	so	so	ADV	RB	_	10	advmod	_	start_char=138|end_char=140
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=141|end_char=149
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=150|end_char=153
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=154|end_char=160
+13	regarding	regard	VERB	VBG	VerbForm=Ger	14	case	_	start_char=161|end_char=170
+14	this	this	PRON	DT	Number=Sing|PronType=Dem	12	obl	_	start_char=171|end_char=175
+15	.	.	PUNCT	.	_	3	punct	_	start_char=175|end_char=176
+

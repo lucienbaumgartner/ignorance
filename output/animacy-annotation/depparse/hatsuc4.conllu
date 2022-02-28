@@ -1,0 +1,16 @@
+1	how	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	someone	someone	PRON	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=15
+4	raise	raise	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=21
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=22|end_char=25
+6	to	to	PART	TO	_	9	mark	_	start_char=26|end_char=28
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=29|end_char=31
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=32|end_char=36
+9	toxic	toxic	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=37|end_char=42
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=43|end_char=46
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=47|end_char=55
+12	of	of	ADP	IN	_	14	case	_	start_char=56|end_char=58
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=59|end_char=60
+14	human	human	NOUN	NN	Number=Sing	9	obl	_	start_char=61|end_char=66
+15	?	?	PUNCT	.	_	4	punct	_	start_char=66|end_char=67
+

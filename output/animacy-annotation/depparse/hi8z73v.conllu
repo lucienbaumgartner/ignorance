@@ -1,0 +1,29 @@
+1	Oh	oh	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3|end_char=4
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=5|end_char=8
+4	too	too	ADV	RB	_	5	advmod	_	start_char=9|end_char=12
+5	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=19|end_char=22
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=23|end_char=30
+8	of	of	ADP	IN	_	9	case	_	start_char=31|end_char=33
+9	actors	actor	NOUN	NNS	Number=Plur	7	obl	_	start_char=34|end_char=40
+10	to	to	PART	TO	_	12	mark	_	start_char=41|end_char=43
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=44|end_char=46
+12	able	able	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=47|end_char=51
+13	to	to	PART	TO	_	14	mark	_	start_char=52|end_char=54
+14	pick	pick	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=55|end_char=59
+15	out	out	ADP	RP	_	14	compound:prt	_	start_char=60|end_char=63
+16	individual	individual	ADJ	JJ	Degree=Pos	17	amod	_	start_char=64|end_char=74
+17	voices	voice	NOUN	NNS	Number=Plur	14	obj	_	start_char=75|end_char=81
+18	haha	haha	INTJ	UH	_	5	discourse	_	start_char=82|end_char=86
+
+1	Yet	yet	CCONJ	CC	_	4	cc	_	start_char=89|end_char=92
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=93|end_char=94
+3	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=95|end_char=100
+4	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=101|end_char=105
+5	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=106|end_char=110
+6	shots	shot	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=111|end_char=116
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	_	start_char=117|end_char=121
+8	missing	miss	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	_	start_char=122|end_char=129
+9	lol	lol	INTJ	UH	_	4	discourse	_	start_char=130|end_char=133
+

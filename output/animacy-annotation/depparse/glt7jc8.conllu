@@ -1,0 +1,24 @@
+1	Bisexual	bisexual	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=8
+2	heteroromantic	heteroromantic	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=23
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=24|end_char=27
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=28|end_char=35
+5	of	of	ADP	IN	_	7	case	_	start_char=36|end_char=38
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=39|end_char=43
+7	label	label	NOUN	NN	Number=Sing	4	obl	_	start_char=44|end_char=49
+8	.	.	PUNCT	.	_	2	punct	_	start_char=49|end_char=50
+
+1	Split	Split	ADJ	JJ	Degree=Pos	3	amod	_	start_char=51|end_char=56
+2	attraction	attraction	NOUN	NN	Number=Sing	3	compound	_	start_char=57|end_char=67
+3	model	model	NOUN	NN	Number=Sing	4	nsubj	_	start_char=68|end_char=73
+4	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=74|end_char=79
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=80|end_char=84
+6	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=85|end_char=86
+7	trivial	trivial	ADJ	JJ	Degree=Pos	13	amod	_	start_char=87|end_char=94
+8	,	,	PUNCT	,	_	13	punct	_	start_char=94|end_char=95
+9	but	but	CCONJ	CC	_	13	cc	_	start_char=96|end_char=99
+10	still	still	ADV	RB	_	11	advmod	_	start_char=100|end_char=105
+11	tragic	tragic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=106|end_char=112
+12	,	,	PUNCT	,	_	13	punct	_	start_char=112|end_char=113
+13	case	case	NOUN	NN	Number=Sing	4	xcomp	_	start_char=114|end_char=118
+14	.	.	PUNCT	.	_	4	punct	_	start_char=118|end_char=119
+

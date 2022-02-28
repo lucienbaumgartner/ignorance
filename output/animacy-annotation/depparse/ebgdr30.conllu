@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=1|end_char=3
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Part	5	aux	_	start_char=4|end_char=7
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=7|end_char=10
+5	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=15
+6	to	to	PART	TO	_	7	mark	_	start_char=16|end_char=18
+7	accuse	accuse	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=19|end_char=25
+8	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	obj	_	start_char=26|end_char=29
+9	.	.	PUNCT	.	_	5	punct	_	start_char=29|end_char=30
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=31|end_char=32
+2	just	just	ADV	RB	_	3	advmod	_	start_char=33|end_char=37
+3	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=38|end_char=44
+4	to	to	PART	TO	_	5	mark	_	start_char=45|end_char=47
+5	believe	believe	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=48|end_char=55
+6	somebody	somebody	PRON	NN	Number=Sing	9	nsubj	_	start_char=56|end_char=64
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=65|end_char=67
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=68|end_char=72
+9	stupid	stupid	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=73|end_char=79
+10	,	,	PUNCT	,	_	11	punct	_	start_char=79|end_char=80
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=81|end_char=88
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=89|end_char=92
+13	uninformed	uninformed	ADJ	JJ	Degree=Pos	9	conj	_	start_char=93|end_char=103
+14	.	.	PUNCT	.	_	3	punct	_	start_char=103|end_char=104
+

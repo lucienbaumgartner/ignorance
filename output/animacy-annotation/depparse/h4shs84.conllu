@@ -1,0 +1,75 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	suppose	suppose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=9
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=10|end_char=12
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=12|end_char=14
+5	possible	possible	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=15|end_char=23
+6	.	.	PUNCT	.	_	2	punct	_	start_char=23|end_char=24
+
+1	if	if	SCONJ	IN	_	4	mark	_	start_char=25|end_char=27
+2	2	2	NUM	CD	NumType=Card	3	nummod	_	start_char=28|end_char=29
+3	objects	object	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=30|end_char=37
+4	dropped	drop	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=38|end_char=45
+5	after	after	SCONJ	IN	_	6	mark	_	start_char=46|end_char=51
+6	killing	kill	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=52|end_char=59
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=60|end_char=63
+8	boss	boss	NOUN	NN	Number=Sing	6	obj	_	start_char=64|end_char=68
+9	.	.	PUNCT	.	_	4	punct	_	start_char=68|end_char=69
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=70|end_char=71
+2	grabbed	grab	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=72|end_char=79
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=80|end_char=83
+4	skull	skull	NOUN	NN	Number=Sing	2	obj	_	start_char=84|end_char=89
+5	,	,	PUNCT	,	_	8	punct	_	start_char=89|end_char=90
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=91|end_char=94
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=95|end_char=96
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=97|end_char=100
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=101|end_char=102
+10	teammate	teammate	NOUN	NN	Number=Sing	8	obj	_	start_char=103|end_char=111
+11	who	who	PRON	WP	PronType=Rel	14	nsubj	_	start_char=112|end_char=115
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=116|end_char=118
+13	pretty	pretty	ADV	RB	_	14	advmod	_	start_char=119|end_char=125
+14	stoned	stoned	ADJ	JJ	Degree=Pos	10	acl:relcl	_	start_char=126|end_char=132
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=133|end_char=136
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=137|end_char=144
+17	that	that	SCONJ	IN	_	19	mark	_	start_char=145|end_char=149
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=150|end_char=151
+19	assumed	assume	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	ccomp	_	start_char=152|end_char=159
+20	would	would	AUX	MD	VerbForm=Fin	21	aux	_	start_char=160|end_char=165
+21	grab	grab	VERB	VB	VerbForm=Inf	19	ccomp	_	start_char=166|end_char=170
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=171|end_char=174
+23	key	key	NOUN	NN	Number=Sing	21	obj	_	start_char=175|end_char=178
+24	.	.	PUNCT	.	_	2	punct	_	start_char=178|end_char=179
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=180|end_char=182
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=183|end_char=185
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	_	start_char=186|end_char=189
+4	n't	not	PART	RB	_	3	advmod	_	start_char=189|end_char=192
+5	then	then	ADV	RB	PronType=Dem	7	advmod	_	start_char=193|end_char=197
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=198|end_char=199
+7	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=200|end_char=205
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=206|end_char=210
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=210|end_char=212
+10	possible	possible	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=213|end_char=221
+11	that	that	SCONJ	IN	_	14	mark	_	start_char=222|end_char=226
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=227|end_char=229
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=229|end_char=231
+14	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	start_char=232|end_char=237
+15	to	to	PART	TO	_	16	mark	_	start_char=238|end_char=240
+16	protect	protect	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=241|end_char=248
+17	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=249|end_char=252
+18	ego	ego	NOUN	NN	Number=Sing	16	obj	_	start_char=253|end_char=256
+19	or	or	CCONJ	CC	_	20	cc	_	start_char=257|end_char=259
+20	whatever	whatever	PRON	WDT	PronType=Int	18	conj	_	start_char=260|end_char=268
+21	.	.	PUNCT	.	_	7	punct	_	start_char=268|end_char=269
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=270|end_char=271
+2	dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=272|end_char=276
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=277|end_char=281
+4	.	.	PUNCT	.	_	3	punct	_	start_char=281|end_char=282
+
+1	guess	guess	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=285|end_char=290
+2	i'll	i'll	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=291|end_char=295
+3	delete	delete	VERB	VB	VerbForm=Fin	1	ccomp	_	start_char=296|end_char=302
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=303|end_char=306
+5	thread	thread	NOUN	NN	Number=Sing	3	obj	_	start_char=307|end_char=313
+

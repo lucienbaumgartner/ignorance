@@ -1,0 +1,9 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=0|end_char=4
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=5|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	useless	useless	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=25
+5	stalker	stalker	NOUN	NN	Number=Sing	6	nsubj	_	start_char=26|end_char=33
+6	deserves	deserve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=42
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=43|end_char=45
+8	.	.	PUNCT	.	_	6	punct	_	start_char=45|end_char=46
+

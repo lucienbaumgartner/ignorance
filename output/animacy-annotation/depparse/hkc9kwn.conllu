@@ -1,0 +1,209 @@
+1	&gt	&gt	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	7	punct	_	start_char=3|end_char=4
+3	what	what	PRON	WP	PronType=Int	7	obj	_	start_char=4|end_char=8
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=9|end_char=13
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=14|end_char=18
+6	even	even	ADV	RB	_	7	advmod	_	start_char=19|end_char=23
+7	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=28
+8	?	?	PUNCT	.	_	7	punct	_	start_char=28|end_char=29
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=30|end_char=31
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=32|end_char=38
+3	give	give	VERB	VB	VerbForm=Inf	0	root	_	start_char=39|end_char=43
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	iobj	_	start_char=44|end_char=47
+5	$	$	SYM	$	_	3	obj	_	start_char=48|end_char=49
+6	5	5	NUM	CD	NumType=Card	5	nummod	_	start_char=49|end_char=50
+7	because	because	ADP	IN	_	10	case	_	start_char=51|end_char=58
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=59|end_char=62
+9	only	only	ADJ	JJ	Degree=Pos	10	amod	_	start_char=63|end_char=67
+10	$	$	SYM	$	_	3	obl	_	start_char=68|end_char=69
+11	5	5	NUM	CD	NumType=Card	10	nummod	_	start_char=69|end_char=70
+12	?	?	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	Precisely	precisely	ADV	RB	_	2	advmod	_	start_char=73|end_char=82
+2	lmao	lmao	INTJ	UH	_	0	root	_	start_char=83|end_char=87
+3	.	.	PUNCT	.	_	2	punct	_	start_char=87|end_char=88
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=89|end_char=91
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=91|end_char=93
+3	only	only	ADV	RB	_	4	advmod	_	start_char=94|end_char=98
+4	$	$	SYM	$	_	0	root	_	start_char=99|end_char=100
+5	5	5	NUM	CD	NumType=Card	4	nummod	_	start_char=100|end_char=101
+6	!!!	!!!	PUNCT	.	_	4	punct	_	start_char=101|end_char=104
+
+1	Expect	expect	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=105|end_char=111
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=112|end_char=114
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=114|end_char=116
+4	not	not	PART	RB	_	3	advmod	_	start_char=117|end_char=120
+5	.	.	PUNCT	.	_	1	punct	_	start_char=120|end_char=121
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=123|end_char=126
+2	;	;	PUNCT	:	_	1	punct	_	start_char=126|end_char=127
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=127|end_char=134
+2	thinking	think	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=135|end_char=143
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=144|end_char=148
+4	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=149|end_char=157
+5	to	to	ADP	IN	_	7	case	_	start_char=158|end_char=160
+6	any	any	DET	DT	_	7	det	_	start_char=161|end_char=164
+7	product	product	NOUN	NN	Number=Sing	4	obl	_	start_char=165|end_char=172
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=174|end_char=181
+2	defending	defend	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=182|end_char=191
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=192|end_char=193
+4	multimillion	multimillion	NOUN	NN	Number=Sing	5	compound	_	start_char=194|end_char=206
+5	dollar	dollar	NOUN	NN	Number=Sing	6	compound	_	start_char=207|end_char=213
+6	company	company	NOUN	NN	Number=Sing	9	nmod:poss	_	start_char=214|end_char=221
+7	's	's	PART	POS	_	6	case	_	start_char=221|end_char=223
+8	shitty	shitty	ADJ	JJ	Degree=Pos	9	amod	_	start_char=224|end_char=230
+9	planning	planning	NOUN	NN	Number=Sing	2	obj	_	start_char=231|end_char=239
+10	.	.	PUNCT	.	_	1	punct	_	start_char=239|end_char=240
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=241|end_char=244
+2	how	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=245|end_char=248
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=249|end_char=251
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj:pass	_	start_char=252|end_char=253
+5	not	not	PART	RB	_	6	advmod	_	start_char=254|end_char=257
+6	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=258|end_char=266
+7	to	to	ADP	IN	_	9	case	_	start_char=267|end_char=269
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=270|end_char=271
+9	product	product	NOUN	NN	Number=Sing	6	obl	_	start_char=272|end_char=279
+10	that	that	PRON	WDT	PronType=Rel	13	obj	_	start_char=280|end_char=284
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=285|end_char=286
+12	already	already	ADV	RB	_	13	advmod	_	start_char=287|end_char=294
+13	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=295|end_char=298
+14	money	money	NOUN	NN	Number=Sing	13	obj	_	start_char=299|end_char=304
+15	towards	towards	ADP	IN	_	10	case	_	start_char=305|end_char=312
+16	?	?	PUNCT	.	_	6	punct	_	start_char=312|end_char=313
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=314|end_char=318
+2	?	?	PUNCT	.	_	1	punct	_	start_char=318|end_char=319
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=321|end_char=324
+2	;	;	PUNCT	:	_	1	punct	_	start_char=324|end_char=325
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=325|end_char=330
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=331|end_char=333
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=334|end_char=335
+4	supply	supply	NOUN	NN	Number=Sing	6	compound	_	start_char=336|end_char=342
+5	chain	chain	NOUN	NN	Number=Sing	6	compound	_	start_char=343|end_char=348
+6	shortage	shortage	NOUN	NN	Number=Sing	2	nsubj	_	start_char=349|end_char=357
+7	of	of	ADP	IN	_	9	case	_	start_char=358|end_char=360
+8	virtually	virtually	ADV	RB	_	9	advmod	_	start_char=361|end_char=370
+9	anything	anything	PRON	NN	Number=Sing	6	nmod	_	start_char=371|end_char=379
+10	related	related	ADJ	JJ	Degree=Pos	9	amod	_	start_char=380|end_char=387
+11	to	to	ADP	IN	_	12	case	_	start_char=388|end_char=390
+12	microprocessors	microprocessor	NOUN	NNS	Number=Plur	10	obl	_	start_char=391|end_char=406
+13	or	or	CCONJ	CC	_	14	cc	_	start_char=407|end_char=409
+14	electronics	electronics	NOUN	NNS	Number=Plur	12	conj	_	start_char=410|end_char=421
+15	.	.	PUNCT	.	_	2	punct	_	start_char=421|end_char=422
+
+1	Yet	yet	CCONJ	CC	_	4	cc	_	start_char=424|end_char=427
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=428|end_char=432
+3	still	still	ADV	RB	_	4	advmod	_	start_char=433|end_char=438
+4	accepted	accept	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=439|end_char=447
+5	reservations	reservation	NOUN	NNS	Number=Plur	4	obj	_	start_char=448|end_char=460
+6	.	.	PUNCT	.	_	4	punct	_	start_char=460|end_char=461
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=463|end_char=464
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=465|end_char=469
+3	about	about	ADP	IN	_	7	case	_	start_char=470|end_char=475
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=476|end_char=479
+5	supply	supply	NOUN	NN	Number=Sing	7	compound	_	start_char=480|end_char=486
+6	chain	chain	NOUN	NN	Number=Sing	7	compound	_	start_char=487|end_char=492
+7	issues	issue	NOUN	NNS	Number=Plur	2	obl	_	start_char=493|end_char=499
+8	.	.	PUNCT	.	_	2	punct	_	start_char=499|end_char=500
+
+1	Everybody	everybody	PRON	NN	Number=Sing	14	nsubj	_	start_char=501|end_char=510
+2	,	,	PUNCT	,	_	14	punct	_	start_char=510|end_char=511
+3	so	so	ADV	RB	_	14	advmod	_	start_char=512|end_char=514
+4	why	why	ADV	WRB	PronType=Int	14	advmod	_	start_char=515|end_char=518
+5	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	start_char=519|end_char=522
+6	Valve	Valve	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=523|end_char=528
+7	,	,	PUNCT	,	_	6	punct	_	start_char=528|end_char=529
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=530|end_char=531
+9	month	month	NOUN	NN	Number=Sing	11	nmod:npmod	_	start_char=532|end_char=537
+10	before	before	ADP	IN	_	11	case	_	start_char=538|end_char=544
+11	release	release	NOUN	NN	Number=Sing	14	obl	_	start_char=545|end_char=552
+12	,	,	PUNCT	,	_	14	punct	_	start_char=552|end_char=553
+13	still	still	ADV	RB	_	14	advmod	_	start_char=554|end_char=559
+14	expect	expect	VERB	VB	VerbForm=Inf	0	root	_	start_char=560|end_char=566
+15	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=567|end_char=570
+16	supply	supply	NOUN	NN	Number=Sing	17	compound	_	start_char=571|end_char=577
+17	chain	chain	NOUN	NN	Number=Sing	18	compound	_	start_char=578|end_char=583
+18	issue	issue	NOUN	NN	Number=Sing	14	obj	_	start_char=584|end_char=589
+19	to	to	PART	TO	_	21	mark	_	start_char=590|end_char=592
+20	be	be	AUX	VB	VerbForm=Inf	21	aux:pass	_	start_char=593|end_char=595
+21	resolved	resolve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	acl	_	start_char=596|end_char=604
+22	?	?	PUNCT	.	_	14	punct	_	start_char=604|end_char=605
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=607|end_char=611
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=611|end_char=614
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=615|end_char=618
+4	ones	one	NOUN	NNS	Number=Plur	0	root	_	start_char=619|end_char=623
+5	making	make	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=624|end_char=630
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=631|end_char=634
+7	orders	order	NOUN	NNS	Number=Plur	5	obj	_	start_char=635|end_char=641
+8	for	for	ADP	IN	_	9	case	_	start_char=642|end_char=645
+9	materials	material	NOUN	NNS	Number=Plur	7	nmod	_	start_char=646|end_char=655
+10	!	!	PUNCT	.	_	4	punct	_	start_char=655|end_char=656
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=659|end_char=662
+2	;	;	PUNCT	:	_	1	punct	_	start_char=662|end_char=663
+3	.	.	PUNCT	.	_	1	punct	_	start_char=663|end_char=664
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=665|end_char=666
+2	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=667|end_char=673
+3	to	to	PART	TO	_	4	mark	_	start_char=674|end_char=676
+4	believe	believe	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=677|end_char=684
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=685|end_char=688
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=689|end_char=692
+7	actually	actually	ADV	RB	_	9	advmod	_	start_char=693|end_char=701
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	4	ccomp	_	start_char=702|end_char=706
+9	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=707|end_char=713
+10	/	/	SYM	,	_	12	cc	_	start_char=713|end_char=714
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=714|end_char=724
+12	oblivious	oblivious	ADJ	JJ	Degree=Pos	9	conj	_	start_char=725|end_char=734
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=735|end_char=738
+14	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=739|end_char=746
+15	of	of	ADP	IN	_	16	case	_	start_char=747|end_char=749
+16	whats	what	NOUN	NN	Number=Sing	14	obl	_	start_char=750|end_char=755
+17	going	go	VERB	VBG	VerbForm=Ger	16	acl	_	start_char=756|end_char=761
+18	on	on	ADP	RP	_	17	compound:prt	_	start_char=762|end_char=764
+19	in	in	ADP	IN	_	21	case	_	start_char=765|end_char=767
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=768|end_char=771
+21	world	world	NOUN	NN	Number=Sing	17	obl	_	start_char=772|end_char=777
+22	.	.	PUNCT	.	_	2	punct	_	start_char=777|end_char=778
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=780|end_char=781
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=782|end_char=787
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=788|end_char=791
+4	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=792|end_char=798
+5	be	be	AUX	VB	VerbForm=Inf	6	aux	_	start_char=799|end_char=801
+6	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=802|end_char=808
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=809|end_char=813
+8	to	to	ADP	IN	_	9	case	_	start_char=814|end_char=816
+9	Valve	Valve	PROPN	NNP	Number=Sing	6	obl	_	start_char=817|end_char=822
+10	,	,	PUNCT	,	_	12	punct	_	start_char=822|end_char=823
+11	not	not	ADV	RB	_	12	advmod	_	start_char=824|end_char=827
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	conj	_	start_char=828|end_char=830
+13	lmao	lmao	INTJ	UH	_	12	discourse	_	start_char=831|end_char=835
+14	.	.	PUNCT	.	_	2	punct	_	start_char=835|end_char=836
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=837|end_char=841
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	start_char=842|end_char=846
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=847|end_char=854
+4	of	of	ADP	IN	_	8	case	_	start_char=855|end_char=857
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=858|end_char=861
+6	supply	supply	NOUN	NN	Number=Sing	7	compound	_	start_char=862|end_char=868
+7	chain	chain	NOUN	NN	Number=Sing	8	compound	_	start_char=869|end_char=874
+8	issues	issue	NOUN	NNS	Number=Plur	3	obl	_	start_char=875|end_char=881
+9	up	up	ADP	RP	_	8	advmod	_	start_char=882|end_char=884
+10	until	until	ADP	IN	_	12	case	_	start_char=885|end_char=890
+11	mid	mid	ADJ	JJ	Degree=Pos	12	amod	_	start_char=891|end_char=894
+12	November	November	PROPN	NNP	Number=Sing	3	obl	_	start_char=895|end_char=903
+13	,	,	PUNCT	,	_	15	punct	_	start_char=903|end_char=904
+14	not	not	ADV	RB	_	15	advmod	_	start_char=905|end_char=908
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	conj	_	start_char=909|end_char=911
+16	.	.	PUNCT	.	_	3	punct	_	start_char=911|end_char=912
+

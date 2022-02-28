@@ -1,0 +1,35 @@
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	_	start_char=7|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=13|end_char=16
+5	end	end	NOUN	NN	Number=Sing	6	nsubj	_	start_char=17|end_char=20
+6	justifies	justify	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=21|end_char=30
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=31|end_char=34
+8	means	means	NOUN	NNS	Number=Plur	6	obj	_	start_char=35|end_char=40
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=41|end_char=44
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=45|end_char=48
+11	likely	likely	ADV	RB	_	12	advmod	_	start_char=49|end_char=55
+12	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=56|end_char=61
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=62|end_char=65
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=66|end_char=73
+15	of	of	ADP	IN	_	16	case	_	start_char=74|end_char=76
+16	those	that	PRON	DT	Number=Plur|PronType=Dem	14	obl	_	start_char=77|end_char=82
+17	in	in	ADP	IN	_	18	case	_	start_char=83|end_char=85
+18	history	history	NOUN	NN	Number=Sing	16	nmod	_	start_char=86|end_char=93
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=94|end_char=97
+20	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=98|end_char=103
+21	that	that	DET	DT	Number=Sing|PronType=Dem	22	det	_	start_char=104|end_char=108
+22	view	view	NOUN	NN	Number=Sing	20	obj	_	start_char=109|end_char=113
+23	with	with	ADP	IN	_	20	obl	_	start_char=114|end_char=118
+24	.	.	PUNCT	.	_	12	punct	_	start_char=118|end_char=119
+
+1	Hint	hint	NOUN	NN	Number=Sing	0	root	_	start_char=121|end_char=125
+2	:	:	PUNCT	:	_	1	punct	_	start_char=125|end_char=126
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=128|end_char=132
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	start_char=133|end_char=137
+3	n't	not	PART	RB	_	5	advmod	_	start_char=137|end_char=140
+4	good	good	ADJ	JJ	Degree=Pos	5	amod	_	start_char=141|end_char=145
+5	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=146|end_char=152
+6	.	.	PUNCT	.	_	5	punct	_	start_char=152|end_char=153
+

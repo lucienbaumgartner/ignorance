@@ -1,0 +1,15 @@
+1	wow	wow	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=4|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=11
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=12|end_char=22
+5	misinformed	misinformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=34
+6	on	on	ADP	IN	_	8	case	_	start_char=35|end_char=37
+7	chinese	Chinese	ADJ	JJ	Degree=Pos	8	amod	_	start_char=38|end_char=45
+8	opera	opera	NOUN	NN	Number=Sing	5	obl	_	start_char=46|end_char=51
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=52|end_char=55
+10	blatantly	blatantly	ADV	RB	_	11	advmod	_	start_char=56|end_char=65
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=66|end_char=74
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=75|end_char=78
+13	rude	rude	ADJ	JJ	Degree=Pos	11	conj	_	start_char=79|end_char=83
+14	lol	lol	INTJ	UH	_	5	discourse	_	start_char=84|end_char=87
+

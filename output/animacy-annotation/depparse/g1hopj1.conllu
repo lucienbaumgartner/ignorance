@@ -1,0 +1,37 @@
+1	Tripped	trip	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	over	over	ADP	IN	_	3	case	_	start_char=8|end_char=12
+3	someone	someone	PRON	NN	Number=Sing	1	obl	_	start_char=13|end_char=20
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=21|end_char=22
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	start_char=23|end_char=26
+6	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	3	acl:relcl	_	start_char=27|end_char=33
+7	to	to	PART	TO	_	8	mark	_	start_char=34|end_char=36
+8	trip	trip	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=37|end_char=41
+9	at	at	ADP	IN	_	10	case	_	start_char=42|end_char=44
+10	PE	PE	PROPN	NNP	Number=Sing	8	obl	_	start_char=45|end_char=47
+11	in	in	ADP	IN	_	12	case	_	start_char=48|end_char=50
+12	elementary	elementary	ADJ	JJ	Degree=Pos	8	obl	_	start_char=51|end_char=61
+13	.	.	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+
+1	Still	still	ADV	RB	_	2	advmod	_	start_char=63|end_char=68
+2	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=69|end_char=72
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=73|end_char=74
+4	scar	scar	NOUN	NN	Number=Sing	2	obj	_	start_char=75|end_char=79
+5	on	on	ADP	IN	_	7	case	_	start_char=80|end_char=82
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=83|end_char=85
+7	hand	hand	NOUN	NN	Number=Sing	2	obl	_	start_char=86|end_char=90
+8	(	(	PUNCT	-LRB-	_	13	punct	_	start_char=91|end_char=92
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=92|end_char=95
+10	other	other	ADJ	JJ	Degree=Pos	11	amod	_	start_char=96|end_char=101
+11	guy	guy	NOUN	NN	Number=Sing	13	nsubj	_	start_char=102|end_char=105
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=106|end_char=109
+13	unharmed	unharmed	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=110|end_char=118
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=119|end_char=122
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=123|end_char=130
+16	that	that	SCONJ	IN	_	19	mark	_	start_char=131|end_char=135
+17	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=136|end_char=137
+18	even	even	ADV	RB	_	19	advmod	_	start_char=138|end_char=142
+19	tripped	trip	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	ccomp	_	start_char=143|end_char=150
+20	on	on	ADP	IN	_	21	case	_	start_char=151|end_char=153
+21	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	start_char=154|end_char=157
+22	)	)	PUNCT	-RRB-	_	13	punct	_	start_char=157|end_char=158
+

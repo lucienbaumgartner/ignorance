@@ -1,0 +1,40 @@
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=0|end_char=3
+2	Humphrey	Humphrey	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=4|end_char=12
+3	Bogart	Bogart	PROPN	NNP	Number=Sing	2	flat	_	start_char=13|end_char=19
+4	always	always	ADV	RB	_	5	advmod	_	start_char=20|end_char=26
+5	played	play	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=27|end_char=33
+6	Humphrey	Humphrey	PROPN	NNP	Number=Sing	5	obj	_	start_char=34|end_char=42
+7	Bogart	Bogart	PROPN	NNP	Number=Sing	6	flat	_	start_char=43|end_char=49
+8	.	.	PUNCT	.	_	5	punct	_	start_char=49|end_char=50
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=51|end_char=53
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=54|end_char=57
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=58|end_char=61
+4	thing	thing	NOUN	NN	Number=Sing	2	obj	_	start_char=62|end_char=67
+5	,	,	PUNCT	,	_	8	punct	_	start_char=67|end_char=68
+6	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=69|end_char=73
+7	n't	not	PART	RB	_	8	advmod	_	start_char=73|end_char=76
+8	mean	mean	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=77|end_char=81
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=82|end_char=84
+10	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=84|end_char=86
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=87|end_char=88
+12	bad	bad	ADJ	JJ	Degree=Pos	13	amod	_	start_char=89|end_char=92
+13	actor	actor	NOUN	NN	Number=Sing	8	ccomp	_	start_char=93|end_char=98
+14	.	.	PUNCT	.	_	2	punct	_	start_char=98|end_char=99
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=100|end_char=104
+2	sort	sort	NOUN	NN	Number=Sing	7	nsubj	_	start_char=105|end_char=109
+3	of	of	ADP	IN	_	4	case	_	start_char=110|end_char=112
+4	criticism	criticism	NOUN	NN	Number=Sing	2	nmod	_	start_char=113|end_char=122
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=123|end_char=125
+6	pretty	pretty	ADV	RB	_	7	advmod	_	start_char=126|end_char=132
+7	lazy	lazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=133|end_char=137
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=138|end_char=141
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=142|end_char=150
+10	of	of	ADP	IN	_	11	case	_	start_char=151|end_char=153
+11	what	what	DET	WDT	PronType=Int	9	obl	_	start_char=154|end_char=158
+12	actors	actor	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=159|end_char=165
+13	actually	actually	ADV	RB	_	14	advmod	_	start_char=166|end_char=174
+14	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=175|end_char=177
+15	.	.	PUNCT	.	_	7	punct	_	start_char=177|end_char=178
+

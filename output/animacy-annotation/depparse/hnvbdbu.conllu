@@ -1,0 +1,119 @@
+1	Oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	man	man	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=6
+3	.	.	PUNCT	.	_	2	punct	_	start_char=6|end_char=7
+
+1	Trash	trash	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+2	in	in	ADP	IN	_	4	case	_	start_char=14|end_char=16
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=17|end_char=19
+4	understatement	understatement	NOUN	NN	Number=Sing	1	obl	_	start_char=20|end_char=34
+5	.	.	PUNCT	.	_	1	punct	_	start_char=34|end_char=35
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=36|end_char=40
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=41|end_char=45
+3	demoralizingly	demoralizingly	ADV	RB	_	4	advmod	_	start_char=46|end_char=60
+4	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=64
+5	.	.	PUNCT	.	_	4	punct	_	start_char=64|end_char=65
+
+1	Soft	Soft	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=70
+2	,	,	PUNCT	,	_	3	punct	_	start_char=70|end_char=71
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=72|end_char=79
+4	,	,	PUNCT	,	_	7	punct	_	start_char=79|end_char=80
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=81|end_char=84
+6	useless	useless	ADJ	JJ	Degree=Pos	1	conj	_	start_char=85|end_char=92
+7	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=93|end_char=96
+8	words	word	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=97|end_char=102
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=103|end_char=104
+10	'd	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=104|end_char=106
+11	use	use	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=107|end_char=110
+12	to	to	PART	TO	_	13	mark	_	start_char=111|end_char=113
+13	describe	describe	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=114|end_char=122
+14	Strnad	Strnad	PROPN	NNP	Number=Sing	13	obj	_	start_char=123|end_char=129
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=130|end_char=133
+16	whoever	whoever	PRON	WP	PronType=Int	17	nsubj	_	start_char=134|end_char=141
+17	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	conj	_	start_char=142|end_char=149
+18	with	with	ADP	IN	_	19	case	_	start_char=150|end_char=154
+19	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	start_char=155|end_char=158
+20	against	against	ADP	IN	_	21	case	_	start_char=159|end_char=166
+21	Cleveland	Cleveland	PROPN	NNP	Number=Sing	17	obl	_	start_char=167|end_char=176
+22	.	.	PUNCT	.	_	7	punct	_	start_char=176|end_char=177
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=180|end_char=182
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=183|end_char=186
+3	like	like	ADP	IN	_	9	case	_	start_char=187|end_char=191
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=192|end_char=195
+5	post	post	NOUN	NN	Number=Sing	9	compound	_	start_char=196|end_char=200
+6	-	-	PUNCT	HYPH	_	5	punct	_	start_char=200|end_char=201
+7	SB50	SB50	PROPN	NNP	Number=Sing	9	compound	_	start_char=201|end_char=205
+8	RT	RT	PROPN	NNP	Number=Sing	9	compound	_	start_char=206|end_char=208
+9	situation	situation	NOUN	NN	Number=Sing	0	root	_	start_char=209|end_char=218
+10	.	.	PUNCT	.	_	9	punct	_	start_char=218|end_char=219
+
+1	Menelik	Menelik	PROPN	NNP	Number=Sing	0	root	_	start_char=220|end_char=227
+2	Watson	Watson	PROPN	NNP	Number=Sing	1	flat	_	start_char=228|end_char=234
+3	,	,	PUNCT	,	_	4	punct	_	start_char=234|end_char=235
+4	Donald	Donald	PROPN	NNP	Number=Sing	1	conj	_	start_char=236|end_char=242
+5	Stephenson	Stephenson	PROPN	NNP	Number=Sing	4	flat	_	start_char=243|end_char=253
+6	,	,	PUNCT	,	_	8	punct	_	start_char=253|end_char=254
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=255|end_char=258
+8	Michael	Michael	PROPN	NNP	Number=Sing	1	conj	_	start_char=259|end_char=266
+9	Schofield	Schofield	PROPN	NNP	Number=Sing	8	flat	_	start_char=267|end_char=276
+10	levels	level	NOUN	NNS	Number=Plur	1	conj	_	start_char=277|end_char=283
+11	of	of	ADP	IN	_	12	case	_	start_char=284|end_char=286
+12	suck	suck	NOUN	NN	Number=Sing	10	nmod	_	start_char=287|end_char=291
+13	.	.	PUNCT	.	_	1	punct	_	start_char=291|end_char=292
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=293|end_char=297
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=298|end_char=302
+3	so	so	ADV	RB	_	4	advmod	_	start_char=303|end_char=305
+4	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=306|end_char=309
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=310|end_char=312
+6	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=313|end_char=317
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=318|end_char=321
+8	entire	entire	ADJ	JJ	Degree=Pos	9	amod	_	start_char=322|end_char=328
+9	defense	defense	NOUN	NN	Number=Sing	10	compound	_	start_char=329|end_char=336
+10	inept	inept	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=337|end_char=342
+11	.	.	PUNCT	.	_	4	punct	_	start_char=342|end_char=343
+
+1	Inept	Inept	ADJ	JJ	Degree=Pos	0	root	_	start_char=344|end_char=349
+2	enough	enough	ADJ	JJ	Degree=Pos	1	advmod	_	start_char=350|end_char=356
+3	to	to	PART	TO	_	4	mark	_	start_char=357|end_char=359
+4	lose	lose	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=360|end_char=364
+5	to	to	ADP	IN	_	6	case	_	start_char=365|end_char=367
+6	Case	Case	PROPN	NNP	Number=Sing	4	obl	_	start_char=368|end_char=372
+7	Keenum	Keenum	PROPN	NNP	Number=Sing	4	obl	_	start_char=373|end_char=379
+8	and	and	CCONJ	CC	_	12	cc	_	start_char=380|end_char=383
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=384|end_char=385
+10	3rd	3rd	ADJ	JJ	Degree=Pos|NumType=Ord	12	amod	_	start_char=386|end_char=389
+11	string	string	NOUN	NN	Number=Sing	12	compound	_	start_char=390|end_char=396
+12	RB	RB	NOUN	NN	Number=Sing	7	conj	_	start_char=397|end_char=399
+13	.	.	PUNCT	.	_	1	punct	_	start_char=399|end_char=400
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=401|end_char=405
+2	freaking	freak	VERB	VBG	Tense=Pres|VerbForm=Ger	3	nsubj	_	start_char=406|end_char=414
+3	sucked	suck	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=415|end_char=421
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=422|end_char=425
+5	loud	loud	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=426|end_char=430
+6	.	.	PUNCT	.	_	3	punct	_	start_char=430|end_char=431
+
+1	Freaking	freak	VERB	VBG	VerbForm=Ger	3	csubj	_	start_char=432|end_char=440
+2	Keesum	Keesum	PROPN	NNP	Number=Sing	1	obj	_	start_char=441|end_char=447
+3	trucked	truck	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=448|end_char=455
+4	BOTH	both	DET	DT	_	3	obj	_	start_char=456|end_char=460
+5	of	of	ADP	IN	_	8	case	_	start_char=461|end_char=463
+6	those	that	DET	DT	Number=Plur|PronType=Dem	8	det	_	start_char=464|end_char=469
+7	shitty	shitty	ADJ	JJ	Degree=Pos	8	amod	_	start_char=470|end_char=476
+8	LB	LB	PROPN	NNP	Number=Sing	4	nmod	_	start_char=477|end_char=479
+9	's	's	PART	POS	_	8	case	_	start_char=479|end_char=481
+10	on	on	ADP	IN	_	11	case	_	start_char=482|end_char=484
+11	4th-	4th-	PROPN	NNP	Number=Sing	3	obl	_	start_char=485|end_char=489
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=489|end_char=492
+13	-	-	SYM	SYM	_	14	case	_	start_char=492|end_char=493
+14	3	3	NUM	CD	NumType=Card	11	conj	_	start_char=493|end_char=494
+15	for	for	ADP	IN	_	17	case	_	start_char=495|end_char=498
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=499|end_char=500
+17	TOUCHDOWN	touchdown	NOUN	NN	Number=Sing	3	obl	_	start_char=501|end_char=510
+18	.	.	PUNCT	.	_	3	punct	_	start_char=510|end_char=511
+
+1	Gross	Gross	ADJ	JJ	Degree=Pos	0	root	_	start_char=514|end_char=519
+2	!	!	PUNCT	.	_	1	punct	_	start_char=519|end_char=520
+

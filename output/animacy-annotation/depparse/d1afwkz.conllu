@@ -1,0 +1,26 @@
+1	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=0|end_char=3
+2	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=4|end_char=8
+3	annoying	annoying	ADJ	JJ	Degree=Pos	4	amod	_	start_char=9|end_char=17
+4	line	line	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=22
+5	on	on	ADP	IN	_	6	case	_	start_char=23|end_char=25
+6	reddit	reddit	NOUN	NN	Number=Sing	4	nmod	_	start_char=26|end_char=32
+7	between	between	ADP	IN	_	8	case	_	start_char=33|end_char=40
+8	satire	satire	NOUN	NN	Number=Sing	6	nmod	_	start_char=41|end_char=47
+9	,	,	PUNCT	,	_	11	punct	_	start_char=47|end_char=48
+10	dead	dead	ADJ	JJ	Degree=Pos	11	amod	_	start_char=49|end_char=53
+11	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=54|end_char=61
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=62|end_char=65
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=66|end_char=73
+14	that	that	SCONJ	IN	_	17	mark	_	start_char=74|end_char=78
+15	content	content	NOUN	NN	Number=Sing	17	nsubj	_	start_char=79|end_char=86
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=87|end_char=89
+17	satire	satire	NOUN	NN	Number=Sing	13	ccomp	_	start_char=90|end_char=96
+18	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+
+1	No	no	DET	DT	_	2	det	_	start_char=98|end_char=100
+2	one	one	NOUN	NN	Number=Sing	3	nsubj	_	start_char=101|end_char=104
+3	cares	care	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=105|end_char=110
+4	about	about	ADP	IN	_	6	case	_	start_char=111|end_char=116
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=117|end_char=120
+6	distinction	distinction	NOUN	NN	Number=Sing	3	obl	_	start_char=121|end_char=132
+

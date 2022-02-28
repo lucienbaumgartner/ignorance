@@ -1,0 +1,41 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+4	good	good	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=14
+5	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=20
+6	.	.	PUNCT	.	_	5	punct	_	start_char=20|end_char=21
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=22|end_char=23
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=24|end_char=26
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=26|end_char=29
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=30|end_char=35
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=36|end_char=38
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=38|end_char=40
+7	like	like	ADP	IN	_	9	case	_	start_char=41|end_char=45
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=46|end_char=47
+9	dog	dog	NOUN	NN	Number=Sing	4	ccomp	_	start_char=48|end_char=51
+10	or	or	CCONJ	CC	_	11	cc	_	start_char=52|end_char=54
+11	anything	anything	NOUN	NN	Number=Sing	9	conj	_	start_char=55|end_char=63
+12	,	,	PUNCT	,	_	15	punct	_	start_char=63|end_char=64
+13	just	just	ADV	RB	_	15	advmod	_	start_char=65|end_char=69
+14	not	not	PART	RB	Polarity=Neg	15	advmod	_	start_char=70|end_char=73
+15	mature	mature	ADJ	JJ	Degree=Pos	9	conj	_	start_char=74|end_char=80
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=81|end_char=84
+17	unaware	unaware	ADJ	JJ	Degree=Pos	15	conj	_	start_char=85|end_char=92
+18	of	of	SCONJ	IN	_	19	case	_	start_char=93|end_char=95
+19	why	why	SCONJ	WRB	PronType=Int	17	obl	_	start_char=96|end_char=99
+20	this	this	PRON	DT	Number=Sing|PronType=Dem	24	nsubj	_	start_char=100|end_char=104
+21	would	would	AUX	MD	VerbForm=Fin	24	aux	_	start_char=105|end_char=110
+22	be	be	AUX	VB	VerbForm=Inf	24	cop	_	start_char=111|end_char=113
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=114|end_char=115
+24	problem	problem	NOUN	NN	Number=Sing	19	acl:relcl	_	start_char=116|end_char=123
+25	.	.	PUNCT	.	_	4	punct	_	start_char=123|end_char=124
+
+1	Which	which	PRON	WDT	PronType=Int	7	nsubj	_	start_char=125|end_char=130
+2	in	in	ADP	IN	_	3	case	_	start_char=131|end_char=133
+3	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	nmod	_	start_char=134|end_char=140
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=141|end_char=143
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=144|end_char=145
+6	big	big	ADJ	JJ	Degree=Pos	7	amod	_	start_char=146|end_char=149
+7	problem	problem	NOUN	NN	Number=Sing	0	root	_	start_char=150|end_char=157
+

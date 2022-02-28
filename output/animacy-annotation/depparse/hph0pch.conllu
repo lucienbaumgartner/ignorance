@@ -1,0 +1,17 @@
+1	Well	well	INTJ	UH	_	12	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	12	punct	_	start_char=4|end_char=5
+3	if	if	SCONJ	IN	_	5	mark	_	start_char=6|end_char=8
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=9|end_char=12
+5	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	_	start_char=13|end_char=15
+6	off	off	ADP	RP	_	5	compound:prt	_	start_char=16|end_char=19
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=20|end_char=24
+8	feelings	feeling	NOUN	NNS	Number=Plur	5	obj	_	start_char=25|end_char=33
+9	then	then	ADV	RB	PronType=Dem	12	advmod	_	start_char=34|end_char=38
+10	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=39|end_char=42
+11	'll	will	AUX	MD	VerbForm=Fin	12	aux	_	start_char=42|end_char=45
+12	remain	remain	VERB	VB	VerbForm=Inf	0	root	_	start_char=46|end_char=52
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=53|end_char=61
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=62|end_char=65
+15	uninformed	uninformed	ADJ	JJ	Degree=Pos	13	conj	_	start_char=66|end_char=76
+16	.	.	PUNCT	.	_	12	punct	_	start_char=76|end_char=77
+

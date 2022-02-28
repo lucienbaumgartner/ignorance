@@ -1,0 +1,17 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	'd	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=1|end_char=3
+3	rather	rather	ADV	RB	_	5	advmod	_	start_char=4|end_char=10
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=11|end_char=13
+5	pretentious	pretentious	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=25
+6	than	than	ADP	IN	_	8	case	_	start_char=26|end_char=30
+7	willfully	willfully	ADV	RB	_	8	advmod	_	start_char=31|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	obl	_	start_char=41|end_char=49
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+10	proud	proud	ADJ	JJ	Degree=Pos	8	conj	_	start_char=54|end_char=59
+11	of	of	ADP	IN	_	12	case	_	start_char=60|end_char=62
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=63|end_char=65
+13	like	like	ADP	IN	_	15	case	_	start_char=66|end_char=70
+14	most	most	ADJ	JJS	Degree=Sup	15	amod	_	start_char=71|end_char=75
+15	people	people	NOUN	NNS	Number=Plur	10	obl	_	start_char=76|end_char=82
+16	!	!	PUNCT	.	_	5	punct	_	start_char=82|end_char=83
+

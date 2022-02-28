@@ -1,0 +1,81 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=5
+3	15	15	NUM	CD	NumType=Card	0	root	_	start_char=6|end_char=8
+4	,	,	PUNCT	,	_	7	punct	_	start_char=8|end_char=9
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=10|end_char=13
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=14|end_char=17
+7	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=18|end_char=23
+8	to	to	PART	TO	_	9	mark	_	start_char=24|end_char=26
+9	go	go	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=27|end_char=29
+10	home	home	ADV	RB	_	9	advmod	_	start_char=30|end_char=34
+11	worth	worth	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=35|end_char=40
+12	random	random	ADJ	JJ	Degree=Pos	13	amod	_	start_char=41|end_char=47
+13	guys	guy	NOUN	NNS	Number=Plur	11	obj	_	start_char=48|end_char=52
+14	in	in	ADP	IN	_	17	case	_	start_char=53|end_char=55
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=56|end_char=57
+16	foreign	foreign	ADJ	JJ	Degree=Pos	17	amod	_	start_char=58|end_char=65
+17	country	country	NOUN	NN	Number=Sing	11	obl	_	start_char=66|end_char=73
+18	to	to	PART	TO	_	19	mark	_	start_char=74|end_char=76
+19	have	have	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=77|end_char=81
+20	fun	fun	NOUN	NN	Number=Sing	19	obj	_	start_char=82|end_char=85
+21	?	?	PUNCT	.	_	3	punct	_	start_char=85|end_char=86
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=87|end_char=88
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=89|end_char=91
+3	n't	not	PART	RB	_	5	advmod	_	start_char=91|end_char=94
+4	even	even	ADV	RB	_	5	advmod	_	start_char=95|end_char=99
+5	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=100|end_char=104
+6	what	what	PRON	WP	PronType=Int	8	obj	_	start_char=105|end_char=109
+7	to	to	PART	TO	_	8	mark	_	start_char=110|end_char=112
+8	say	say	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=113|end_char=116
+9	.	.	PUNCT	.	_	5	punct	_	start_char=116|end_char=117
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=118|end_char=122
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=122|end_char=124
+3	so	so	ADV	RB	_	4	advmod	_	start_char=125|end_char=127
+4	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=128|end_char=138
+5	.	.	PUNCT	.	_	4	punct	_	start_char=138|end_char=139
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=140|end_char=141
+2	Coming	come	VERB	VBG	VerbForm=Ger	0	root	_	start_char=141|end_char=147
+3	from	from	ADP	IN	_	7	case	_	start_char=148|end_char=152
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=153|end_char=154
+5	17	17	NUM	CD	NumType=Card	6	nummod	_	start_char=155|end_char=157
+6	year	year	NOUN	NN	Number=Sing	7	obl:tmod	_	start_char=158|end_char=162
+7	old	old	ADJ	JJ	Degree=Pos	2	obl	_	start_char=163|end_char=166
+8	.	.	PUNCT	.	_	2	punct	_	start_char=166|end_char=167
+9	)	)	PUNCT	-RRB-	_	2	punct	_	start_char=167|end_char=168
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=169|end_char=173
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=174|end_char=176
+3	literally	literally	ADV	RB	_	5	advmod	_	start_char=177|end_char=186
+4	so	so	ADV	RB	_	5	advmod	_	start_char=187|end_char=189
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=190|end_char=197
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=198|end_char=201
+7	nasty	nasty	ADJ	JJ	Degree=Pos	5	conj	_	start_char=202|end_char=207
+8	.	.	PUNCT	.	_	5	punct	_	start_char=207|end_char=208
+
+1	NTA	NTA	PROPN	NNP	Number=Sing	7	vocative	_	start_char=210|end_char=213
+2	by	by	ADP	IN	_	4	case	_	start_char=214|end_char=216
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=217|end_char=220
+4	way	way	NOUN	NN	Number=Sing	1	nmod	_	start_char=221|end_char=224
+5	,	,	PUNCT	,	_	7	punct	_	start_char=224|end_char=225
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=226|end_char=229
+7	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=230|end_char=236
+8	like	like	ADP	IN	_	13	case	_	start_char=237|end_char=241
+9	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=242|end_char=243
+10	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	_	start_char=244|end_char=252
+11	basic	basic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=253|end_char=258
+12	teenage	teenage	ADJ	JJ	Degree=Pos	13	amod	_	start_char=259|end_char=266
+13	bitch	bitch	NOUN	NN	Number=Sing	7	obl	_	start_char=267|end_char=272
+14	.	.	PUNCT	.	_	7	punct	_	start_char=272|end_char=273
+
+1	Harsh	harsh	ADJ	JJ	Degree=Pos	0	root	_	start_char=274|end_char=279
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=280|end_char=283
+3	probably	probably	ADV	RB	_	4	advmod	_	start_char=284|end_char=292
+4	rude	rude	ADJ	JJ	Degree=Pos	1	conj	_	start_char=293|end_char=297
+5	,	,	PUNCT	,	_	7	punct	_	start_char=297|end_char=298
+6	but	but	CCONJ	CC	_	7	cc	_	start_char=299|end_char=302
+7	true	true	ADJ	JJ	Degree=Pos	1	conj	_	start_char=303|end_char=307
+8	.	.	PUNCT	.	_	1	punct	_	start_char=307|end_char=308
+

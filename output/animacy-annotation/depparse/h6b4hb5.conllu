@@ -1,0 +1,33 @@
+1	Neither	neither	DET	DT	_	2	det	_	start_char=0|end_char=7
+2	time	time	NOUN	NN	Number=Sing	7	obl:tmod	_	start_char=8|end_char=12
+3	,	,	PUNCT	,	_	7	punct	_	start_char=12|end_char=13
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=14|end_char=17
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	start_char=18|end_char=20
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=20|end_char=22
+7	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=28
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=29|end_char=32
+9	just	just	ADV	RB	_	12	advmod	_	start_char=33|end_char=37
+10	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=38|end_char=40
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=40|end_char=43
+12	like	like	VERB	VB	VerbForm=Inf	7	csubj	_	start_char=44|end_char=48
+13	being	be	AUX	VBG	VerbForm=Ger	14	aux:pass	_	start_char=49|end_char=54
+14	corrected	correct	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	_	start_char=55|end_char=64
+15	ever	ever	ADV	RB	Degree=Pos	14	advmod	_	start_char=65|end_char=69
+16	so	so	ADV	RB	_	17	advmod	_	start_char=70|end_char=72
+17	slightly	slightly	ADV	RB	Degree=Pos	14	advmod	_	start_char=73|end_char=81
+18	.	.	PUNCT	.	_	7	punct	_	start_char=81|end_char=82
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=84|end_char=88
+2	rhetorical	rhetorical	ADJ	JJ	Degree=Pos	3	amod	_	start_char=89|end_char=99
+3	question	question	NOUN	NN	Number=Sing	5	nsubj	_	start_char=100|end_char=108
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=109|end_char=111
+5	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=112|end_char=116
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=117|end_char=120
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=121|end_char=129
+8	of	of	ADP	IN	_	9	case	_	start_char=130|end_char=132
+9	anything	anything	PRON	NN	Number=Sing	7	obl	_	start_char=133|end_char=141
+10	outside	outside	ADP	IN	_	12	case	_	start_char=142|end_char=149
+11	of	of	ADP	IN	_	12	case	_	start_char=150|end_char=152
+12	America	America	PROPN	NNP	Number=Sing	9	nmod	_	start_char=153|end_char=160
+13	.	.	PUNCT	.	_	5	punct	_	start_char=160|end_char=161
+

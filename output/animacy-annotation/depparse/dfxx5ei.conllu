@@ -1,0 +1,42 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5|end_char=7
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=9
+3	because	because	SCONJ	IN	_	20	mark	_	start_char=10|end_char=17
+4	those	that	PRON	DT	Number=Plur|PronType=Dem	20	nsubj	_	start_char=18|end_char=23
+5	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=24|end_char=28
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=29|end_char=32
+7	socially	socially	ADV	RB	_	8	advmod	_	start_char=33|end_char=41
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=42|end_char=49
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+10	incredibly	incredibly	ADV	RB	_	11	advmod	_	start_char=54|end_char=64
+11	rude	rude	ADJ	JJ	Degree=Pos	8	conj	_	start_char=65|end_char=69
+12	about	about	ADP	IN	_	15	case	_	start_char=70|end_char=75
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=76|end_char=81
+14	"	"	PUNCT	``	_	15	punct	_	start_char=82|end_char=83
+15	knowledge	knowledge	NOUN	NN	Number=Sing	11	obl	_	start_char=83|end_char=92
+16	"	"	PUNCT	''	_	15	punct	_	start_char=92|end_char=93
+17	on	on	ADP	IN	_	19	case	_	start_char=94|end_char=96
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=97|end_char=98
+19	subject	subject	NOUN	NN	Number=Sing	15	nmod	_	start_char=99|end_char=106
+20	make	make	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=107|end_char=111
+21	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	20	obj	_	start_char=112|end_char=116
+22	out	out	ADP	RP	_	20	compound:prt	_	start_char=117|end_char=120
+23	to	to	PART	TO	_	25	mark	_	start_char=121|end_char=123
+24	be	be	AUX	VB	VerbForm=Inf	25	cop	_	start_char=124|end_char=126
+25	autistic	autistic	ADJ	JJ	Degree=Pos	20	xcomp	_	start_char=127|end_char=135
+26	.	.	PUNCT	.	_	2	punct	_	start_char=135|end_char=136
+
+1	Holy	Holy	ADJ	JJ	Degree=Pos	2	amod	_	start_char=138|end_char=142
+2	hell	hell	NOUN	NN	Number=Sing	6	vocative	_	start_char=143|end_char=147
+3	,	,	PUNCT	,	_	6	punct	_	start_char=147|end_char=148
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=149|end_char=152
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=153|end_char=156
+6	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=157|end_char=164
+7	self-	self-	ADJ	JJ	Degree=Pos	8	amod	_	start_char=165|end_char=170
+8	righteousness	righteousness	NOUN	NN	Number=Sing	6	obj	_	start_char=170|end_char=183
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=184|end_char=187
+10	smug	smug	ADJ	JJ	Degree=Pos	8	conj	_	start_char=188|end_char=192
+11	!	!	PUNCT	.	_	6	punct	_	start_char=192|end_char=193
+

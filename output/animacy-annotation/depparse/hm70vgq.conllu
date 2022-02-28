@@ -1,0 +1,17 @@
+1	Honestly	honestly	ADV	RB	_	4	advmod	_	start_char=0|end_char=8
+2	sometimes	sometimes	ADV	RB	_	4	advmod	_	start_char=9|end_char=18
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=19|end_char=20
+4	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=26|end_char=27
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	start_char=28|end_char=32
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=33|end_char=39
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+9	blissfully	blissfully	ADV	RB	_	10	advmod	_	start_char=44|end_char=54
+10	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=55|end_char=62
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=63|end_char=66
+12	happy	happy	ADJ	JJ	Degree=Pos	10	conj	_	start_char=67|end_char=72
+13	rather	rather	ADV	RB	_	15	cc	_	start_char=73|end_char=79
+14	than	than	SCONJ	IN	_	13	fixed	_	start_char=80|end_char=84
+15	fking	fking	VERB	VBG	VerbForm=Ger	12	conj	_	start_char=85|end_char=90
+16	depressed	depressed	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=91|end_char=100
+

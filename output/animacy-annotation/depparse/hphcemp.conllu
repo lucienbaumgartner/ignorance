@@ -1,0 +1,20 @@
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+4	fucking	fucking	NOUN	NN	Number=Sing	5	compound	_	start_char=10|end_char=17
+5	break	break	NOUN	NN	Number=Sing	1	obj	_	start_char=18|end_char=23
+6	.	.	PUNCT	.	_	1	punct	_	start_char=23|end_char=24
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=25|end_char=30
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=33
+3	0	0	NUM	CD	NumType=Card	4	nummod	_	start_char=34|end_char=35
+4	evidence	evidence	NOUN	NN	Number=Sing	2	nsubj	_	start_char=36|end_char=44
+5	to	to	PART	TO	_	6	mark	_	start_char=45|end_char=47
+6	support	support	VERB	VB	VerbForm=Inf	4	acl	_	start_char=48|end_char=55
+7	such	such	DET	PDT	_	12	det:predet	_	start_char=56|end_char=60
+8	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=61|end_char=63
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	amod	_	start_char=64|end_char=72
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=73|end_char=76
+11	flippant	flippant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=77|end_char=85
+12	statement	statement	NOUN	NN	Number=Sing	6	obj	_	start_char=86|end_char=95
+

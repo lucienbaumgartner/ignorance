@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	like	like	SCONJ	IN	_	5	mark	_	start_char=7|end_char=11
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=12|end_char=16
+5	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=17|end_char=21
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obj	_	start_char=22|end_char=24
+7	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=26|end_char=28
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=29|end_char=32
+3	often	often	ADV	RB	_	4	advmod	_	start_char=33|end_char=38
+4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=39|end_char=43
+5	as	as	ADV	RB	_	6	advmod	_	start_char=44|end_char=46
+6	conceited	conceited	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=47|end_char=56
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=57|end_char=60
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=61|end_char=69
+9	of	of	ADP	IN	_	11	case	_	start_char=70|end_char=72
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=73|end_char=76
+11	rest	rest	NOUN	NN	Number=Sing	8	obl	_	start_char=77|end_char=81
+12	of	of	ADP	IN	_	14	case	_	start_char=82|end_char=84
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=85|end_char=88
+14	country	country	NOUN	NN	Number=Sing	11	nmod	_	start_char=89|end_char=96
+15	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+

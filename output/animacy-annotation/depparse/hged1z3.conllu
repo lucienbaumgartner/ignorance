@@ -1,0 +1,64 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	DICE	dice	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=4|end_char=8
+2	lied	lie	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+3	to	to	ADP	IN	_	5	case	_	start_char=14|end_char=16
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=17|end_char=22
+5	fanbase	fanbase	NOUN	NN	Number=Sing	2	obl	_	start_char=23|end_char=30
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=31|end_char=34
+7	accused	accuse	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	start_char=35|end_char=42
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=43|end_char=47
+9	of	of	SCONJ	IN	_	11	mark	_	start_char=48|end_char=50
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=51|end_char=56
+11	sexist	sexist	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=57|end_char=63
+12	,	,	PUNCT	,	_	13	punct	_	start_char=63|end_char=64
+13	misogynistic	misogynistic	ADJ	JJ	Degree=Pos	11	conj	_	start_char=65|end_char=77
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=78|end_char=81
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=82|end_char=90
+16	of	of	ADP	IN	_	17	case	_	start_char=91|end_char=93
+17	history	history	NOUN	NN	Number=Sing	15	obl	_	start_char=94|end_char=101
+18	for	for	SCONJ	IN	_	20	mark	_	start_char=102|end_char=105
+19	being	be	AUX	VBG	VerbForm=Ger	20	aux:pass	_	start_char=106|end_char=111
+20	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	start_char=112|end_char=118
+21	on	on	ADP	IN	_	23	case	_	start_char=119|end_char=121
+22	that	that	DET	DT	Number=Sing|PronType=Dem	23	det	_	start_char=122|end_char=126
+23	lie	lie	NOUN	NN	Number=Sing	20	obl	_	start_char=127|end_char=130
+24	.	.	PUNCT	.	_	2	punct	_	start_char=130|end_char=131
+
+1	What	what	PRON	WP	PronType=Int	2	det	_	start_char=134|end_char=138
+2	lie	lie	NOUN	NN	Number=Sing	5	obj	_	start_char=139|end_char=142
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=143|end_char=146
+4	Dice	Dice	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=147|end_char=151
+5	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=152|end_char=156
+6	?	?	PUNCT	.	_	5	punct	_	start_char=156|end_char=157
+
+1	Also	also	ADV	RB	_	13	advmod	_	start_char=160|end_char=164
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=165|end_char=166
+3	large	large	ADJ	JJ	Degree=Pos	4	amod	_	start_char=167|end_char=172
+4	segment	segment	NOUN	NN	Number=Sing	13	nsubj	_	start_char=173|end_char=180
+5	of	of	ADP	IN	_	7	case	_	start_char=181|end_char=183
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=184|end_char=187
+7	people	people	NOUN	NNS	Number=Plur	4	nmod	_	start_char=188|end_char=194
+8	whining	whine	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=195|end_char=202
+9	endlessly	endlessly	ADV	RB	_	8	advmod	_	start_char=203|end_char=212
+10	*	*	PUNCT	NFP	_	4	punct	_	start_char=213|end_char=214
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	cop	_	start_char=214|end_char=218
+12	*	*	PUNCT	NFP	_	13	punct	_	start_char=218|end_char=219
+13	sexist	sexist	ADJ	JJ	Degree=Pos	0	root	_	start_char=220|end_char=226
+14	,	,	PUNCT	,	_	15	punct	_	start_char=226|end_char=227
+15	misogynistic	misogynistic	ADJ	JJ	Degree=Pos	13	conj	_	start_char=228|end_char=240
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=241|end_char=244
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=245|end_char=253
+18	of	of	ADP	IN	_	19	case	_	start_char=254|end_char=256
+19	history	history	NOUN	NN	Number=Sing	17	obl	_	start_char=257|end_char=264
+20	.	.	PUNCT	.	_	13	punct	_	start_char=264|end_char=265
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=266|end_char=270
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=271|end_char=273
+3	objectively	objectively	ADV	RB	_	6	advmod	_	start_char=274|end_char=285
+4	not	not	PART	RB	_	6	advmod	_	start_char=286|end_char=289
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=290|end_char=291
+6	lie	lie	NOUN	NN	Number=Sing	0	root	_	start_char=292|end_char=295
+7	..	..	PUNCT	.	_	6	punct	_	start_char=295|end_char=297
+

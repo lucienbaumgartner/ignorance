@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	overtly	overtly	ADV	RB	_	5	advmod	_	start_char=11|end_char=18
+5	negative	negative	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=27
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=28|end_char=31
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=32|end_char=40
+8	of	of	ADP	IN	_	9	case	_	start_char=41|end_char=43
+9	unionizing	unionizing	NOUN	NN	Number=Sing	7	obl	_	start_char=44|end_char=54
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=55|end_char=58
+11	strikes	strike	NOUN	NNS	Number=Plur	9	conj	_	start_char=59|end_char=66
+12	,	,	PUNCT	,	_	5	punct	_	start_char=66|end_char=67
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=68|end_char=69
+14	wonder	wonder	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=70|end_char=76
+15	why	why	SCONJ	WRB	PronType=Int	14	ccomp	_	start_char=77|end_char=80
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=81|end_char=83
+17	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=83|end_char=85
+18	even	even	ADV	RB	_	19	advmod	_	start_char=86|end_char=90
+19	here	here	ADV	RB	PronType=Dem	14	ccomp	_	start_char=91|end_char=95
+20	.	.	PUNCT	.	_	5	punct	_	start_char=95|end_char=96
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=97|end_char=98
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=98|end_char=101
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	start_char=102|end_char=106
+4	in	in	ADP	IN	_	6	case	_	start_char=107|end_char=109
+5	striking	strike	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=110|end_char=118
+6	unions	union	NOUN	NNS	Number=Plur	0	root	_	start_char=119|end_char=125
+7	before	before	ADV	RB	_	6	advmod	_	start_char=126|end_char=132
+8	--	--	PUNCT	,	_	13	punct	_	start_char=132|end_char=134
+9	these	this	DET	DT	Number=Plur|PronType=Dem	10	det	_	start_char=134|end_char=139
+10	threats	threat	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=140|end_char=147
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=148|end_char=151
+12	extraordinarily	extraordinarily	ADV	RB	_	13	advmod	_	start_char=152|end_char=167
+13	common	common	ADJ	JJ	Degree=Pos	6	parataxis	_	start_char=168|end_char=174
+14	.	.	PUNCT	.	_	5	punct	_	start_char=174|end_char=175
+

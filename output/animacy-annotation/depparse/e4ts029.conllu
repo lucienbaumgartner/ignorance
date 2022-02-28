@@ -1,0 +1,55 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=5|end_char=7
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=7|end_char=9
+3	just	just	ADV	RB	_	8	advmod	_	start_char=10|end_char=14
+4	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=15|end_char=17
+5	annoyance	annoyance	ADJ	JJ	Degree=Pos	8	amod	_	start_char=18|end_char=27
+6	stereotypical	stereotypical	ADJ	JJ	Degree=Pos	8	amod	_	start_char=28|end_char=41
+7	smart	smart	ADJ	JJ	Degree=Pos	8	amod	_	start_char=42|end_char=47
+8	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=48|end_char=54
+9	with	with	ADP	IN	_	11	case	_	start_char=55|end_char=59
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=60|end_char=61
+11	lack	lack	NOUN	NN	Number=Sing	8	nmod	_	start_char=62|end_char=66
+12	of	of	ADP	IN	_	14	case	_	start_char=67|end_char=69
+13	social	social	ADJ	JJ	Degree=Pos	14	amod	_	start_char=70|end_char=76
+14	skills	skill	NOUN	NNS	Number=Plur	11	nmod	_	start_char=77|end_char=83
+15	.	.	PUNCT	.	_	8	punct	_	start_char=83|end_char=84
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=86|end_char=90
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=91|end_char=93
+3	not	not	PART	RB	_	6	advmod	_	start_char=94|end_char=97
+4	just	just	ADV	RB	_	6	advmod	_	start_char=98|end_char=102
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=103|end_char=104
+6	lack	lack	NOUN	NN	Number=Sing	0	root	_	start_char=105|end_char=109
+7	of	of	ADP	IN	_	9	case	_	start_char=110|end_char=112
+8	social	social	ADJ	JJ	Degree=Pos	9	amod	_	start_char=113|end_char=119
+9	skills	skill	NOUN	NNS	Number=Plur	6	nmod	_	start_char=120|end_char=126
+10	.	.	PUNCT	.	_	6	punct	_	start_char=126|end_char=127
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=128|end_char=129
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=130|end_char=134
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=135|end_char=136
+4	*	*	PUNCT	NFP	_	5	punct	_	start_char=137|end_char=138
+5	lot	lot	NOUN	NN	Number=Sing	2	obj	_	start_char=138|end_char=141
+6	*	*	PUNCT	NFP	_	5	punct	_	start_char=141|end_char=142
+7	of	of	ADP	IN	_	11	case	_	start_char=143|end_char=145
+8	extremely	extremely	ADV	RB	_	9	advmod	_	start_char=146|end_char=155
+9	socially	socially	ADV	RB	_	10	advmod	_	start_char=156|end_char=164
+10	awkward	awkward	ADJ	JJ	Degree=Pos	11	amod	_	start_char=165|end_char=172
+11	academics	academic	NOUN	NNS	Number=Plur	5	nmod	_	start_char=173|end_char=182
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=183|end_char=186
+13	there	there	PRON	EX	_	14	expl	_	start_char=187|end_char=192
+14	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=193|end_char=195
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=196|end_char=197
+16	huge	huge	ADJ	JJ	Degree=Pos	17	amod	_	start_char=198|end_char=202
+17	difference	difference	NOUN	NN	Number=Sing	14	nsubj	_	start_char=203|end_char=213
+18	between	between	ADP	IN	_	20	case	_	start_char=214|end_char=221
+19	socially	socially	ADV	RB	_	20	advmod	_	start_char=222|end_char=230
+20	unaware	unaware	ADJ	JJ	Degree=Pos	17	nmod	_	start_char=231|end_char=238
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=239|end_char=242
+22	freaking	freak	VERB	VBG	VerbForm=Ger	20	conj	_	start_char=243|end_char=251
+23	creepy	creepy	ADJ	JJ	Degree=Pos	20	conj	_	start_char=252|end_char=258
+24	.	.	PUNCT	.	_	2	punct	_	start_char=258|end_char=259
+

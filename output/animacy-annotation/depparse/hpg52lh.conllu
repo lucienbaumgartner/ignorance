@@ -1,0 +1,31 @@
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=0|end_char=7
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=8|end_char=14
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=18
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	advcl	_	start_char=19|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	afraid	afraid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=38
+7	to	to	PART	TO	_	8	mark	_	start_char=39|end_char=41
+8	seek	seek	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=42|end_char=46
+9	anything	anything	PRON	NN	Number=Sing	8	obj	_	start_char=47|end_char=55
+10	different	different	ADJ	JJ	Degree=Pos	9	amod	_	start_char=56|end_char=65
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=66|end_char=68
+12	new	new	ADJ	JJ	Degree=Pos	10	conj	_	start_char=69|end_char=72
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=73|end_char=76
+14	feel	feel	VERB	VB	VerbForm=Inf	8	conj	_	start_char=77|end_char=81
+15	if	if	SCONJ	IN	_	17	mark	_	start_char=82|end_char=84
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=85|end_char=89
+17	spend	spend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=90|end_char=95
+18	more	more	ADJ	JJR	Degree=Cmp	19	amod	_	start_char=96|end_char=100
+19	money	money	NOUN	NN	Number=Sing	17	obj	_	start_char=101|end_char=106
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=107|end_char=109
+21	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=110|end_char=115
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	start_char=116|end_char=120
+23	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	cop	_	start_char=121|end_char=124
+24	better	good	ADJ	JJR	Degree=Cmp	26	amod	_	start_char=125|end_char=131
+25	aquarium	aquarium	NOUN	NN	Number=Sing	26	compound	_	start_char=132|end_char=140
+26	parents	parent	NOUN	NNS	Number=Plur	21	ccomp	_	start_char=141|end_char=148
+27	.	.	PUNCT	.	_	21	punct	_	start_char=148|end_char=149
+
+1	Ignorance	ignorance	NOUN	NN	Number=Sing	0	root	_	start_char=150|end_char=159
+2	!	!	PUNCT	.	_	1	punct	_	start_char=159|end_char=160
+

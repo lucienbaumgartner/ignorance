@@ -1,0 +1,19 @@
+1	How	how	ADV	WRB	PronType=Int	7	advmod	_	start_char=0|end_char=3
+2	could	could	AUX	MD	VerbForm=Fin	7	aux	_	start_char=4|end_char=9
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=10|end_char=11
+4	person	person	NOUN	NN	Number=Sing	7	nsubj	_	start_char=12|end_char=18
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=19|end_char=21
+6	so	so	ADV	RB	_	7	advmod	_	start_char=22|end_char=24
+7	incomplete	incomplete	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=35
+8	,	,	PUNCT	,	_	9	punct	_	start_char=35|end_char=36
+9	broken	broken	ADJ	JJ	Degree=Pos	7	conj	_	start_char=37|end_char=43
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=44|end_char=47
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=48|end_char=56
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=57|end_char=61
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=62|end_char=66
+14	would	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=67|end_char=72
+15	believe	believe	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=73|end_char=80
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=81|end_char=85
+17	shit	shit	NOUN	NN	Number=Sing	15	obj	_	start_char=86|end_char=90
+18	?	?	PUNCT	.	_	7	punct	_	start_char=90|end_char=91
+

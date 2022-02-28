@@ -1,0 +1,23 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	BS	BS	PROPN	NNP	Number=Sing	2	obj	_	start_char=7|end_char=9
+4	.	.	PUNCT	.	_	2	punct	_	start_char=9|end_char=10
+
+1	Trump	Trump	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=11|end_char=16
+2	questions	question	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=26
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=27|end_char=30
+4	intelligence	intelligence	NOUN	NN	Number=Sing	5	compound	_	start_char=31|end_char=43
+5	agencies	agency	NOUN	NNS	Number=Plur	2	obj	_	start_char=44|end_char=52
+6	all	all	DET	PDT	_	8	det:predet	_	start_char=53|end_char=56
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=57|end_char=60
+8	time	time	NOUN	NN	Number=Sing	2	obl:tmod	_	start_char=61|end_char=65
+9	and	and	CCONJ	CC	_	14	cc	_	start_char=66|end_char=69
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=70|end_char=72
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=73|end_char=75
+12	clearly	clearly	ADV	RB	_	14	advmod	_	start_char=76|end_char=83
+13	very	very	ADV	RB	_	14	advmod	_	start_char=84|end_char=88
+14	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=89|end_char=96
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=97|end_char=100
+16	very	very	ADV	RB	_	17	advmod	_	start_char=101|end_char=105
+17	stupid	stupid	ADJ	JJ	Degree=Pos	14	conj	_	start_char=106|end_char=112
+

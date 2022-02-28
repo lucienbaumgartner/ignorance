@@ -1,0 +1,62 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	start_char=8|end_char=11
+4	types	type	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=12|end_char=17
+5	of	of	ADP	IN	_	7	case	_	start_char=18|end_char=20
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=21|end_char=25
+7	person	person	NOUN	NN	Number=Sing	4	nmod	_	start_char=26|end_char=32
+8	too	too	ADV	RB	_	2	advmod	_	start_char=33|end_char=36
+9	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+1	1	1	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=40|end_char=41
+2	.	.	PUNCT	.	_	1	punct	_	start_char=41|end_char=42
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=43|end_char=46
+2	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=47|end_char=50
+3	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=51|end_char=54
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=55|end_char=57
+5	just	just	ADV	RB	_	6	advmod	_	start_char=58|end_char=62
+6	oblivious	oblivious	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=63|end_char=72
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=73|end_char=76
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=77|end_char=84
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=85|end_char=89
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=90|end_char=94
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=95|end_char=98
+12	loud	loud	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=99|end_char=103
+13	to	to	ADP	IN	_	14	case	_	start_char=104|end_char=106
+14	everyone	everyone	PRON	NN	Number=Sing	12	obl	_	start_char=107|end_char=115
+15	near	near	ADP	IN	_	16	case	_	start_char=116|end_char=120
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	nmod	_	start_char=121|end_char=125
+17	.	.	PUNCT	.	_	2	punct	_	start_char=125|end_char=126
+
+1	2	2	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=129|end_char=130
+2	.	.	PUNCT	.	_	1	punct	_	start_char=130|end_char=131
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=132|end_char=135
+2	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=136|end_char=139
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=140|end_char=143
+4	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=144|end_char=149
+5	everyone	everyone	PRON	NN	Number=Sing	4	obj	_	start_char=150|end_char=158
+6	around	around	ADP	IN	_	7	case	_	start_char=159|end_char=165
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=166|end_char=170
+8	to	to	PART	TO	_	9	mark	_	start_char=171|end_char=173
+9	hear	hear	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=174|end_char=178
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=179|end_char=184
+11	stupid	stupid	ADJ	JJ	Degree=Pos	13	amod	_	start_char=185|end_char=191
+12	ass	ass	NOUN	NN	Number=Sing	13	compound	_	start_char=192|end_char=195
+13	story	story	NOUN	NN	Number=Sing	9	obj	_	start_char=196|end_char=201
+14	that	that	PRON	WDT	PronType=Rel	17	obj	_	start_char=202|end_char=206
+15	nobody	nobody	PRON	NN	Number=Sing	17	nsubj	_	start_char=207|end_char=213
+16	really	really	ADV	RB	Degree=Pos	17	advmod	_	start_char=214|end_char=220
+17	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=221|end_char=226
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=227|end_char=228
+19	shit	shit	NOUN	NN	Number=Sing	17	obj	_	start_char=229|end_char=233
+20	about	about	ADP	IN	_	14	case	_	start_char=234|end_char=239
+21	.	.	PUNCT	.	_	2	punct	_	start_char=239|end_char=240
+
+1	Usually	usually	ADV	RB	_	4	advmod	_	start_char=241|end_char=248
+2	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=249|end_char=251
+3	arrogant	arrogant	ADJ	JJ	Degree=Pos	4	amod	_	start_char=252|end_char=260
+4	ass	ass	NOUN	NN	Number=Sing	0	root	_	start_char=261|end_char=264
+5	.	.	PUNCT	.	_	4	punct	_	start_char=264|end_char=265
+

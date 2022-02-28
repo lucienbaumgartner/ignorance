@@ -1,0 +1,22 @@
+1	Someone	someone	PRON	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=7
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=8|end_char=14
+3	honestly	honestly	ADV	RB	_	4	advmod	_	start_char=15|end_char=23
+4	drop	drop	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=28
+5	(	(	PUNCT	-LRB-	_	6	punct	_	start_char=29|end_char=30
+6	deck	deck	NOUN	NN	Number=Sing	4	parataxis	_	start_char=30|end_char=34
+7	)	)	PUNCT	-RRB-	_	6	punct	_	start_char=34|end_char=35
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=36|end_char=39
+9	wife	wife	NOUN	NN	Number=Sing	4	obj	_	start_char=40|end_char=44
+10	for	for	SCONJ	IN	_	13	mark	_	start_char=45|end_char=48
+11	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=49|end_char=54
+12	so	so	ADV	RB	_	13	advmod	_	start_char=55|end_char=57
+13	stupid	stupid	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=58|end_char=64
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=65|end_char=68
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=69|end_char=77
+16	of	of	ADP	IN	_	20	case	_	start_char=78|end_char=80
+17	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=81|end_char=84
+18	husband	husband	NOUN	NN	Number=Sing	20	nmod:poss	_	start_char=85|end_char=92
+19	's	's	PART	POS	_	18	case	_	start_char=92|end_char=94
+20	plight	plight	NOUN	NN	Number=Sing	15	obl	_	start_char=95|end_char=101
+21	.	.	PUNCT	.	_	4	punct	_	start_char=101|end_char=102
+

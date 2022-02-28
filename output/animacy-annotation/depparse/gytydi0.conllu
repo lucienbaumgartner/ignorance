@@ -1,0 +1,22 @@
+1	Oh	oh	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	please	please	INTJ	UH	_	1	discourse	_	start_char=3|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	White	White	ADJ	JJ	Degree=Pos	2	amod	_	start_char=12|end_char=17
+2	people	people	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=18|end_char=24
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=25|end_char=28
+4	not	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=29|end_char=32
+5	being	be	AUX	VBG	VerbForm=Ger	6	aux:pass	_	start_char=33|end_char=38
+6	martyred	martyr	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=39|end_char=47
+7	.	.	PUNCT	.	_	6	punct	_	start_char=47|end_char=48
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=50|end_char=54
+2	argument	argument	NOUN	NN	Number=Sing	4	nsubj	_	start_char=55|end_char=63
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=64|end_char=66
+4	ahistorical	ahistorical	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=78
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=79|end_char=82
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=83|end_char=91
+7	of	of	ADP	IN	_	9	case	_	start_char=92|end_char=94
+8	obvious	obvious	ADJ	JJ	Degree=Pos	9	amod	_	start_char=95|end_char=102
+9	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=103|end_char=110
+

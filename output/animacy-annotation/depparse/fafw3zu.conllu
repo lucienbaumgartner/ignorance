@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'd	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=4|end_char=7
+4	because	because	ADP	IN	_	7	case	_	start_char=8|end_char=15
+5	of	of	ADP	IN	_	4	fixed	_	start_char=16|end_char=18
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=19|end_char=22
+7	dickheads	dickhead	NOUN	NNS	Number=Plur	3	obl	_	start_char=23|end_char=32
+8	of	of	ADP	IN	_	12	case	_	start_char=33|end_char=35
+9	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=36|end_char=43
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=44|end_char=47
+11	uneducated	uneducated	ADJ	JJ	Degree=Pos	9	conj	_	start_char=48|end_char=58
+12	friends	friend	NOUN	NNS	Number=Plur	7	nmod	_	start_char=59|end_char=66
+13	yes	yes	INTJ	UH	_	16	discourse	_	start_char=67|end_char=70
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=71|end_char=73
+15	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=73|end_char=75
+16	likely	likely	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=76|end_char=82
+17	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=84|end_char=86
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=87|end_char=91
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=92|end_char=95
+4	n't	not	PART	RB	_	5	advmod	_	start_char=95|end_char=98
+5	turn	turn	VERB	VB	VerbForm=Inf	0	root	_	start_char=99|end_char=103
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=104|end_char=107
+7	on	on	ADP	IN	_	9	case	_	start_char=108|end_char=110
+8	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=111|end_char=114
+9	side	side	NOUN	NN	Number=Sing	5	obl	_	start_char=115|end_char=119
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=120|end_char=124
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=125|end_char=127
+

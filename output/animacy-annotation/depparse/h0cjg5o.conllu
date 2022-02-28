@@ -1,0 +1,37 @@
+1	Whatever	whatever	PRON	WP	PronType=Int	9	nsubj	_	start_char=0|end_char=8
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=9|end_char=11
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=12|end_char=14
+4	,	,	PUNCT	,	_	9	punct	_	start_char=14|end_char=15
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=16|end_char=18
+6	will	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=19|end_char=23
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=24|end_char=26
+8	like	like	ADP	IN	_	9	case	_	start_char=27|end_char=31
+9	Christmas	Christmas	PROPN	NNP	Number=Sing	0	root	_	start_char=32|end_char=41
+10	for	for	ADP	IN	_	12	case	_	start_char=42|end_char=45
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=46|end_char=50
+12	sub	sub	NOUN	NN	Number=Sing	9	nmod	_	start_char=51|end_char=54
+13	.	.	PUNCT	.	_	9	punct	_	start_char=54|end_char=55
+
+1	Hillary	Hillary	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=56|end_char=63
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=64|end_char=66
+3	so	so	ADV	RB	_	4	advmod	_	start_char=67|end_char=69
+4	unlikeable	unlikeable	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=80
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=81|end_char=84
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=85|end_char=92
+7	of	of	ADP	IN	_	8	case	_	start_char=93|end_char=95
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=96|end_char=98
+9	,	,	PUNCT	,	_	19	punct	_	start_char=98|end_char=99
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=100|end_char=103
+11	new	new	ADJ	JJ	Degree=Pos	12	amod	_	start_char=104|end_char=107
+12	content	content	NOUN	NN	Number=Sing	19	nsubj	_	start_char=108|end_char=115
+13	for	for	ADP	IN	_	14	case	_	start_char=116|end_char=119
+14	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nmod	_	start_char=120|end_char=122
+15	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=123|end_char=127
+16	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=128|end_char=130
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=131|end_char=132
+18	beautiful	beautiful	ADJ	JJ	Degree=Pos	19	amod	_	start_char=133|end_char=142
+19	thing	thing	NOUN	NN	Number=Sing	4	parataxis	_	start_char=143|end_char=148
+20	to	to	PART	TO	_	21	mark	_	start_char=149|end_char=151
+21	behold	behold	VERB	VB	VerbForm=Inf	19	acl	_	start_char=152|end_char=158
+22	🥒	''	PUNCT	.	_	4	punct	_	start_char=159|end_char=160
+

@@ -1,0 +1,25 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	Japanese	Japanese	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=28
+6	that	that	SCONJ	IN	_	13	mark	_	start_char=29|end_char=33
+7	regions	region	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=34|end_char=41
+8	around	around	ADP	IN	_	10	case	_	start_char=42|end_char=48
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=49|end_char=52
+10	world	world	NOUN	NN	Number=Sing	7	nmod	_	start_char=53|end_char=58
+11	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=59|end_char=61
+12	n’t	not	PART	RB	_	13	advmod	_	start_char=61|end_char=64
+13	have	have	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=65|end_char=69
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=70|end_char=73
+15	same	same	ADJ	JJ	Degree=Pos	16	amod	_	start_char=74|end_char=78
+16	produce	produce	NOUN	NN	Number=Sing	13	obj	_	start_char=79|end_char=86
+17	?	?	PUNCT	.	_	3	punct	_	start_char=86|end_char=87
+
+1	Or	or	CCONJ	CC	_	5	cc	_	start_char=88|end_char=90
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=91|end_char=94
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=95|end_char=98
+4	just	just	ADV	RB	_	5	advmod	_	start_char=99|end_char=103
+5	trolling	trol	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=104|end_char=112
+6	?	?	PUNCT	.	_	5	punct	_	start_char=112|end_char=113
+

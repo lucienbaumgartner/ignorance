@@ -1,0 +1,56 @@
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	rocked	rock	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=10|end_char=13
+4	asia	asia	PROPN	NNP	Number=Sing	5	compound	_	start_char=14|end_char=18
+5	trip	trip	NOUN	NN	Number=Sing	2	obj	_	start_char=19|end_char=23
+
+1	watched	watch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=25|end_char=32
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=33|end_char=35
+3	all	all	DET	DT	_	1	advmod	_	start_char=36|end_char=39
+
+1	stunning	stunning	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=49
+2	!	!	PUNCT	.	_	1	punct	_	start_char=49|end_char=50
+
+1	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=61
+2	that	that	SCONJ	IN	_	8	mark	_	start_char=62|end_char=66
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=67|end_char=70
+4	media	media	NOUN	NN	Number=Sing	8	nsubj	_	start_char=71|end_char=76
+5	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=77|end_char=82
+6	n't	not	PART	RB	_	8	advmod	_	start_char=82|end_char=85
+7	just	just	ADV	RB	_	8	advmod	_	start_char=86|end_char=90
+8	show	show	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=91|end_char=95
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=96|end_char=99
+10	whole	whole	ADJ	JJ	Degree=Pos	11	amod	_	start_char=100|end_char=105
+11	thing	thing	NOUN	NN	Number=Sing	8	obj	_	start_char=106|end_char=111
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=112|end_char=115
+13	do	do	VERB	VB	VerbForm=Inf	8	conj	_	start_char=116|end_char=118
+14	so	so	ADV	RB	_	13	advmod	_	start_char=119|end_char=121
+15	without	without	ADP	IN	_	16	case	_	start_char=122|end_char=129
+16	comment	comment	NOUN	NN	Number=Sing	13	obl	_	start_char=130|end_char=137
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=139|end_char=140
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=141|end_char=145
+3	never	never	ADV	RB	_	4	advmod	_	start_char=146|end_char=151
+4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=152|end_char=156
+5	anything	anything	PRON	NN	Number=Sing	4	obj	_	start_char=157|end_char=165
+6	like	like	ADP	IN	_	7	case	_	start_char=166|end_char=170
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nmod	_	start_char=171|end_char=173
+8	.	.	PUNCT	.	_	4	punct	_	start_char=173|end_char=174
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=175|end_char=177
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=178|end_char=181
+3	most	most	ADJ	JJS	Degree=Sup	4	amod	_	start_char=182|end_char=186
+4	Americans	American	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=187|end_char=196
+5	sail	sail	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=197|end_char=201
+6	along	along	ADV	RB	_	7	advmod	_	start_char=202|end_char=207
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=208|end_char=215
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=216|end_char=219
+9	ungrateful	ungrateful	ADJ	JJ	Degree=Pos	7	conj	_	start_char=220|end_char=230
+10	.	.	PUNCT	.	_	2	punct	_	start_char=230|end_char=231
+
+1	p.s.	p.s.	INTJ	UH	_	2	discourse	_	start_char=233|end_char=237
+2	LOCK	lock	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=238|end_char=242
+3	HER	her	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	start_char=243|end_char=246
+4	UP	up	ADP	RP	_	2	compound:prt	_	start_char=247|end_char=249
+5	!	!	PUNCT	.	_	2	punct	_	start_char=249|end_char=250
+

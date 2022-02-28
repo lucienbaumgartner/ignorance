@@ -1,0 +1,33 @@
+1	No	no	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+4	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=10|end_char=13
+5	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=15|end_char=18
+2	probably	probably	ADV	RB	_	6	advmod	_	start_char=19|end_char=27
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=28|end_char=31
+4	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=31|end_char=34
+5	even	even	ADV	RB	_	6	advmod	_	start_char=35|end_char=39
+6	listen	listen	VERB	VB	VerbForm=Inf	0	root	_	start_char=40|end_char=46
+7	to	to	ADP	IN	_	9	case	_	start_char=47|end_char=49
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=50|end_char=53
+9	song	song	NOUN	NN	Number=Sing	6	obl	_	start_char=54|end_char=58
+10	.	.	PUNCT	.	_	6	punct	_	start_char=58|end_char=59
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=61|end_char=64
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=65|end_char=68
+3	gonna	gonna	PART	TO	_	4	advmod	_	start_char=69|end_char=74
+4	stop	stop	VERB	VB	VerbForm=Inf	0	root	_	start_char=75|end_char=79
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=80|end_char=85
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=86|end_char=94
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=95|end_char=98
+8	close	close	ADJ	JJ	Degree=Pos	10	amod	_	start_char=99|end_char=104
+9	-	-	PUNCT	HYPH	_	10	punct	_	start_char=104|end_char=105
+10	minded	minded	ADJ	JJ	Degree=Pos	6	conj	_	start_char=105|end_char=111
+11	or	or	CCONJ	CC	_	14	cc	_	start_char=112|end_char=114
+12	should	should	AUX	MD	VerbForm=Fin	14	aux	_	start_char=115|end_char=121
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=122|end_char=123
+14	leave	leave	VERB	VB	VerbForm=Inf	4	conj	_	start_char=124|end_char=129
+15	…	…	PUNCT	.	_	4	punct	_	start_char=129|end_char=130
+

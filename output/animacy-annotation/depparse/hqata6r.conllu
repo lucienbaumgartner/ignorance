@@ -1,0 +1,24 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=0|end_char=4
+2	‘	'	PUNCT	``	_	3	punct	_	start_char=5|end_char=6
+3	aspect	aspect	NOUN	NN	Number=Sing	8	nsubj	_	start_char=6|end_char=12
+4	of	of	ADP	IN	_	6	case	_	start_char=13|end_char=15
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=16|end_char=21
+6	character	character	NOUN	NN	Number=Sing	3	nmod	_	start_char=22|end_char=31
+7	’	'	PUNCT	''	_	3	punct	_	start_char=31|end_char=32
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=33|end_char=35
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=36|end_char=40
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=41|end_char=46
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=47|end_char=55
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=56|end_char=59
+13	childish	childish	ADJ	JJ	Degree=Pos	11	conj	_	start_char=60|end_char=68
+14	.	.	PUNCT	.	_	8	punct	_	start_char=68|end_char=69
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=70|end_char=75
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=76|end_char=78
+3	no	no	DET	DT	_	5	det	_	start_char=79|end_char=81
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	_	start_char=82|end_char=87
+5	reason	reason	NOUN	NN	Number=Sing	2	nsubj	_	start_char=88|end_char=94
+6	for	for	ADP	IN	_	7	case	_	start_char=95|end_char=98
+7	religion	religion	NOUN	NN	Number=Sing	5	nmod	_	start_char=99|end_char=107
+8	.	.	PUNCT	.	_	2	punct	_	start_char=107|end_char=108
+

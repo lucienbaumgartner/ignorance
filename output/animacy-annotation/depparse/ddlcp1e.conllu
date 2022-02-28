@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=2|end_char=4
+3	like	like	ADP	IN	_	4	case	_	start_char=5|end_char=9
+4	Kim	Kim	PROPN	NNP	Number=Sing	0	root	_	start_char=10|end_char=13
+5	jong	jong	PROPN	NNP	Number=Sing	4	flat	_	start_char=14|end_char=18
+6	un	un	PROPN	NNP	Number=Sing	4	flat	_	start_char=19|end_char=21
+7	.	.	PUNCT	.	_	6	punct	_	start_char=21|end_char=22
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=23|end_char=27
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=28|end_char=32
+3	immense	immense	ADJ	JJ	Degree=Pos	4	amod	_	start_char=33|end_char=40
+4	power	power	NOUN	NN	Number=Sing	2	obj	_	start_char=41|end_char=46
+5	,	,	PUNCT	,	_	11	punct	_	start_char=46|end_char=47
+6	but	but	CCONJ	CC	_	11	cc	_	start_char=48|end_char=51
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=52|end_char=55
+8	just	just	ADV	RB	_	11	advmod	_	start_char=56|end_char=60
+9	so	so	ADV	RB	_	10	advmod	_	start_char=61|end_char=63
+10	self	self	ADV	RB	Degree=Pos	11	advmod	_	start_char=64|end_char=68
+11	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=69|end_char=76
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=77|end_char=80
+13	stupid	stupid	ADJ	JJ	Degree=Pos	11	conj	_	start_char=81|end_char=87
+14	that	that	SCONJ	IN	_	16	mark	_	start_char=88|end_char=92
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=93|end_char=97
+16	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=98|end_char=102
+17	no	no	DET	DT	_	18	det	_	start_char=103|end_char=105
+18	idea	idea	NOUN	NN	Number=Sing	16	obj	_	start_char=106|end_char=110
+19	what	what	PRON	WP	PronType=Int	21	nsubj	_	start_char=111|end_char=115
+20	to	to	PART	TO	_	21	mark	_	start_char=116|end_char=118
+21	do	do	VERB	VB	VerbForm=Inf	18	acl	_	start_char=119|end_char=121
+22	with	with	ADP	IN	_	23	case	_	start_char=122|end_char=126
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	_	start_char=127|end_char=129
+24	.	.	PUNCT	.	_	2	punct	_	start_char=129|end_char=130
+

@@ -1,0 +1,30 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	hilt	hilt	NOUN	NN	Number=Sing	3	nsubj	_	start_char=5|end_char=9
+3	matches	match	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=17
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=18|end_char=22
+5	room	room	NOUN	NN	Number=Sing	3	obj	_	start_char=23|end_char=27
+6	.	.	PUNCT	.	_	3	punct	_	start_char=27|end_char=28
+
+1	How	how	ADV	WRB	PronType=Int	0	root	_	start_char=29|end_char=32
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=33|end_char=36
+3	some	some	DET	DT	_	4	det	_	start_char=37|end_char=41
+4	people	people	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=42|end_char=48
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=49|end_char=53
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	amod	_	start_char=54|end_char=61
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=62|end_char=65
+8	oblivious	oblivious	ADJ	JJ	Degree=Pos	6	conj	_	start_char=66|end_char=75
+9	before	before	SCONJ	IN	_	10	mark	_	start_char=76|end_char=82
+10	taking	take	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=83|end_char=89
+11	pictures	picture	NOUN	NNS	Number=Plur	10	obj	_	start_char=90|end_char=98
+12	or	or	CCONJ	CC	_	13	cc	_	start_char=99|end_char=101
+13	sending	send	VERB	VBG	VerbForm=Ger	10	conj	_	start_char=102|end_char=109
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=110|end_char=111
+15	text	text	NOUN	NN	Number=Sing	13	obj	_	start_char=112|end_char=116
+16	or	or	CCONJ	CC	_	17	cc	_	start_char=117|end_char=119
+17	saying	say	VERB	VBG	VerbForm=Ger	13	conj	_	start_char=120|end_char=126
+18	something	something	PRON	NN	Number=Sing	17	obj	_	start_char=127|end_char=136
+19	in	in	ADP	IN	_	20	case	_	start_char=137|end_char=139
+20	person	person	NOUN	NN	Number=Sing	18	nmod	_	start_char=140|end_char=146
+21	etc	etc	X	FW	_	20	conj	_	start_char=147|end_char=150
+22	XD	xd	SYM	NFP	_	1	discourse	_	start_char=151|end_char=153
+

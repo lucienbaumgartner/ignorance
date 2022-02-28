@@ -1,0 +1,37 @@
+1	Even	even	ADV	RB	_	4	advmod	_	start_char=0|end_char=4
+2	when	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=5|end_char=9
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=10|end_char=14
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	_	start_char=15|end_char=19
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=20|end_char=23
+6	easy	easy	ADJ	JJ	Degree=Pos	7	amod	_	start_char=24|end_char=28
+7	opportunity	opportunity	NOUN	NN	Number=Sing	4	obj	_	start_char=29|end_char=40
+8	to	to	PART	TO	_	12	mark	_	start_char=41|end_char=43
+9	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=44|end_char=46
+10	in	in	ADP	IN	_	12	case	_	start_char=47|end_char=49
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=50|end_char=53
+12	right	right	NOUN	NN	Number=Sing	7	acl	_	start_char=54|end_char=59
+13	,	,	PUNCT	,	_	19	punct	_	start_char=59|end_char=60
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=61|end_char=65
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=66|end_char=69
+16	all	all	ADV	RB	_	19	advmod	_	start_char=70|end_char=73
+17	still	still	ADV	RB	_	19	advmod	_	start_char=74|end_char=79
+18	so	so	ADV	RB	_	19	advmod	_	start_char=80|end_char=82
+19	miseducated	miseducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=94
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=95|end_char=98
+21	unaware	unaware	ADJ	JJ	Degree=Pos	19	conj	_	start_char=99|end_char=106
+22	of	of	ADP	IN	_	23	case	_	start_char=107|end_char=109
+23	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	21	obl	_	start_char=110|end_char=120
+24	that	that	SCONJ	IN	_	27	mark	_	start_char=121|end_char=125
+25	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	start_char=126|end_char=130
+26	still	still	ADV	RB	_	27	advmod	_	start_char=131|end_char=136
+27	put	put	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	ccomp	_	start_char=137|end_char=140
+28	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	27	obj	_	start_char=141|end_char=151
+29	in	in	ADP	IN	_	31	case	_	start_char=152|end_char=154
+30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	_	start_char=155|end_char=158
+31	wrong	wrong	ADJ	JJ	Degree=Pos	27	obl	_	start_char=159|end_char=164
+32	.	.	PUNCT	.	_	19	punct	_	start_char=164|end_char=165
+
+1	Truly	truly	ADV	RB	_	2	advmod	_	start_char=166|end_char=171
+2	amazing	amazing	ADJ	JJ	Degree=Pos	0	root	_	start_char=172|end_char=179
+3	.	.	PUNCT	.	_	2	punct	_	start_char=179|end_char=180
+

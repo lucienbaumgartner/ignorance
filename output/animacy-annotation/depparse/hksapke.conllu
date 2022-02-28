@@ -1,0 +1,62 @@
+1	ESH	ESH	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=5|end_char=8
+2	for	for	SCONJ	IN	_	4	mark	_	start_char=9|end_char=12
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=13|end_char=18
+4	lazy	lazy	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=19|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	conj	_	start_char=40|end_char=43
+9	for	for	SCONJ	IN	_	11	mark	_	start_char=44|end_char=47
+10	not	not	PART	RB	_	11	advmod	_	start_char=48|end_char=51
+11	expressing	express	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=52|end_char=62
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=63|end_char=65
+13	like	like	ADP	IN	_	16	case	_	start_char=66|end_char=70
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=71|end_char=72
+15	mature	mature	ADJ	JJ	Degree=Pos	16	amod	_	start_char=73|end_char=79
+16	adult	adult	NOUN	NN	Number=Sing	11	obl	_	start_char=80|end_char=85
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=86|end_char=89
+18	waiting	wait	VERB	VBG	VerbForm=Ger	11	conj	_	start_char=90|end_char=97
+19	until	until	SCONJ	IN	_	21	mark	_	start_char=98|end_char=103
+20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	_	start_char=104|end_char=107
+21	explode	explode	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	_	start_char=108|end_char=115
+22	.	.	PUNCT	.	_	4	punct	_	start_char=115|end_char=116
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=117|end_char=121
+2	argument	argument	NOUN	NN	Number=Sing	3	nsubj	_	start_char=122|end_char=130
+3	sounded	sound	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=131|end_char=138
+4	unproductive	unproductive	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=139|end_char=151
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=152|end_char=155
+6	childish	childish	ADJ	JJ	Degree=Pos	4	conj	_	start_char=156|end_char=164
+7	.	.	PUNCT	.	_	3	punct	_	start_char=164|end_char=165
+
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=166|end_char=171
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=172|end_char=174
+3	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	start_char=175|end_char=179
+4	if	if	SCONJ	IN	_	7	mark	_	start_char=180|end_char=182
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=183|end_char=186
+6	just	just	ADV	RB	_	7	advmod	_	start_char=187|end_char=191
+7	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=192|end_char=196
+8	to	to	PART	TO	_	9	mark	_	start_char=197|end_char=199
+9	yell	yell	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=200|end_char=204
+10	at	at	ADP	IN	_	11	case	_	start_char=205|end_char=207
+11	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=208|end_char=211
+12	.	.	PUNCT	.	_	3	punct	_	start_char=211|end_char=212
+
+1	But	but	CCONJ	CC	_	14	cc	_	start_char=213|end_char=216
+2	if	if	SCONJ	IN	_	4	mark	_	start_char=217|end_char=219
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=220|end_char=223
+4	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=224|end_char=228
+5	to	to	PART	TO	_	7	mark	_	start_char=229|end_char=231
+6	actually	actually	ADV	RB	Degree=Pos	7	advmod	_	start_char=232|end_char=240
+7	fix	fix	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=241|end_char=244
+8	things	thing	NOUN	NNS	Number=Plur	7	obj	_	start_char=245|end_char=251
+9	,	,	PUNCT	,	_	14	punct	_	start_char=251|end_char=252
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=253|end_char=257
+11	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=257|end_char=259
+12	not	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=260|end_char=263
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=264|end_char=267
+14	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=268|end_char=271
+

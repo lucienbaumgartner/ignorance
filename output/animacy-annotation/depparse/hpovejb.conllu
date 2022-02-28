@@ -1,0 +1,47 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	dumb	dumb	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=27
+6	.	.	PUNCT	.	_	2	punct	_	start_char=27|end_char=28
+
+1	Slight	slight	ADJ	JJ	Degree=Pos	2	amod	_	start_char=29|end_char=35
+2	combination	combination	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=47
+3	of	of	ADP	IN	_	4	case	_	start_char=48|end_char=50
+4	both	both	DET	DT	_	2	nmod	_	start_char=51|end_char=55
+5	.	.	PUNCT	.	_	2	punct	_	start_char=55|end_char=56
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=57|end_char=60
+2	taste	taste	NOUN	NN	Number=Sing	9	nsubj	_	start_char=61|end_char=66
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=67|end_char=70
+4	smell	smell	NOUN	NN	Number=Sing	2	conj	_	start_char=71|end_char=76
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=77|end_char=80
+6	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=81|end_char=83
+7	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=83|end_char=86
+8	like	like	VERB	VB	VerbForm=Inf	2	acl:relcl	_	start_char=87|end_char=91
+9	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=92|end_char=97
+10	from	from	ADP	IN	_	14	case	_	start_char=98|end_char=102
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=103|end_char=107
+12	dirty	dirty	ADJ	JJ	Degree=Pos	14	amod	_	start_char=108|end_char=113
+13	ass	ass	NOUN	NN	Number=Sing	14	compound	_	start_char=114|end_char=117
+14	mouth	mouth	NOUN	NN	Number=Sing	9	obl	_	start_char=118|end_char=123
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=124|end_char=127
+16	saliva	saliva	NOUN	NN	Number=Sing	14	conj	_	start_char=128|end_char=134
+17	.	.	PUNCT	.	_	9	punct	_	start_char=134|end_char=135
+
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=136|end_char=140
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	iobj	_	start_char=141|end_char=144
+3	son	son	NOUN	NN	Number=Sing	1	iobj	_	start_char=145|end_char=148
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=149|end_char=152
+5	choice	choice	NOUN	NN	Number=Sing	1	obj	_	start_char=153|end_char=159
+6	to	to	PART	TO	_	8	mark	_	start_char=160|end_char=162
+7	get	get	AUX	VB	VerbForm=Inf	8	aux:pass	_	start_char=163|end_char=166
+8	circumcised	circumcise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=167|end_char=178
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=179|end_char=181
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=181|end_char=184
+11	force	force	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=185|end_char=190
+12	that	that	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=191|end_char=195
+13	shit	shit	NOUN	NN	Number=Sing	11	obj	_	start_char=196|end_char=200
+14	upon	upon	ADP	IN	_	15	case	_	start_char=201|end_char=205
+15	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=206|end_char=209
+

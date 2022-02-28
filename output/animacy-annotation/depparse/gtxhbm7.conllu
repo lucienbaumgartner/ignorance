@@ -1,0 +1,63 @@
+1	Happy	happy	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	to	to	PART	TO	_	3	mark	_	start_char=6|end_char=8
+3	help	help	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=9|end_char=13
+4	.	.	PUNCT	.	_	1	punct	_	start_char=13|end_char=14
+
+1	Surprised	surprise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=15|end_char=24
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=25|end_char=29
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=30|end_char=32
+4	still	still	ADV	RB	_	5	advmod	_	start_char=33|end_char=38
+5	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	1	ccomp	_	start_char=39|end_char=48
+6	.	.	PUNCT	.	_	1	punct	_	start_char=48|end_char=49
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=50|end_char=51
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=56
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=57|end_char=59
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=60|end_char=63
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=64|end_char=66
+6	issue	issue	NOUN	NN	Number=Sing	2	ccomp	_	start_char=67|end_char=72
+7	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=73|end_char=77
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=78|end_char=81
+9	consoles	console	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=82|end_char=90
+10	launched	launch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	advcl	_	start_char=91|end_char=99
+11	but	but	CCONJ	CC	_	14	cc	_	start_char=100|end_char=103
+12	people	people	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=104|end_char=110
+13	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	start_char=111|end_char=115
+14	complaining	complain	VERB	VBG	Tense=Pres|VerbForm=Part	2	conj	_	start_char=116|end_char=127
+15	or	or	CCONJ	CC	_	16	cc	_	start_char=128|end_char=130
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=131|end_char=138
+17	and	and	CCONJ	CC	_	21	cc	_	start_char=139|end_char=142
+18	several	several	ADJ	JJ	Degree=Pos	19	amod	_	start_char=143|end_char=150
+19	articles	article	NOUN	NNS	Number=Plur	21	nsubj:pass	_	start_char=151|end_char=159
+20	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21	aux:pass	_	start_char=160|end_char=164
+21	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	conj	_	start_char=165|end_char=172
+22	about	about	ADP	IN	_	23	case	_	start_char=173|end_char=178
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	_	start_char=179|end_char=181
+
+1	For	for	ADP	IN	_	3	case	_	start_char=183|end_char=186
+2	some	some	DET	DT	_	3	det	_	start_char=187|end_char=191
+3	reason	reason	NOUN	NN	Number=Sing	5	obl	_	start_char=192|end_char=198
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=199|end_char=200
+5	remember	remember	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=201|end_char=209
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	start_char=210|end_char=214
+7	mentioning	mention	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=215|end_char=225
+8	adding	add	VERB	VBG	VerbForm=Ger	7	xcomp	_	start_char=226|end_char=232
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=233|end_char=234
+10	prompt	prompt	NOUN	NN	Number=Sing	8	obj	_	start_char=235|end_char=241
+11	to	to	PART	TO	_	12	mark	_	start_char=242|end_char=244
+12	make	make	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=245|end_char=249
+13	sure	sure	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=250|end_char=254
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=255|end_char=258
+15	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=259|end_char=263
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=264|end_char=267
+17	old	old	ADJ	JJ	Degree=Pos	18	amod	_	start_char=268|end_char=271
+18	game	game	NOUN	NN	Number=Sing	15	obj	_	start_char=272|end_char=276
+19	.	.	PUNCT	.	_	5	punct	_	start_char=276|end_char=277
+
+1	Maybe	maybe	ADV	RB	_	6	advmod	_	start_char=278|end_char=283
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=284|end_char=288
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=289|end_char=292
+4	only	only	ADV	RB	_	6	advmod	_	start_char=293|end_char=297
+5	for	for	ADP	IN	_	6	case	_	start_char=298|end_char=301
+6	CoD	CoD	PROPN	NNP	Number=Sing	0	root	_	start_char=302|end_char=305
+

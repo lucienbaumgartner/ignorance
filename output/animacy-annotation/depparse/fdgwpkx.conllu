@@ -1,0 +1,45 @@
+1	Hmmm	hmm	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	....	....	PUNCT	,	_	5	punct	_	start_char=4|end_char=8
+3	not	not	ADV	RB	_	5	advmod	_	start_char=8|end_char=11
+4	quite	quite	ADV	RB	_	5	advmod	_	start_char=12|end_char=17
+5	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=22
+6	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=23|end_char=26
+7	to	to	PART	TO	_	8	mark	_	start_char=27|end_char=29
+8	take	take	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=30|end_char=34
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=35|end_char=39
+10	as	as	ADP	IN	_	11	case	_	start_char=40|end_char=42
+11	someone	someone	PRON	NN	Number=Sing	8	obl	_	start_char=43|end_char=50
+12	who	who	PRON	WP	PronType=Rel	14	nsubj	_	start_char=51|end_char=54
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=55|end_char=57
+14	ace	ace	VERB	VB	VerbForm=Part	11	acl:relcl	_	start_char=58|end_char=61
+15	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	14	obj	_	start_char=62|end_char=68
+16	....	....	PUNCT	.	_	5	punct	_	start_char=68|end_char=72
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=73|end_char=75
+2	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=76|end_char=80
+3	borderline	borderline	ADJ	JJ	Degree=Pos	4	amod	_	start_char=81|end_char=91
+4	acephobic	acephobic	NOUN	NN	Number=Sing	0	root	_	start_char=92|end_char=101
+5	?	?	PUNCT	.	_	4	punct	_	start_char=101|end_char=102
+
+1	Or	or	CCONJ	CC	_	5	cc	_	start_char=104|end_char=106
+2	just	just	ADV	RB	_	5	advmod	_	start_char=107|end_char=111
+3	so	so	ADV	RB	_	5	advmod	_	start_char=112|end_char=114
+4	damn	damn	ADV	RB	_	5	advmod	_	start_char=115|end_char=119
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=120|end_char=126
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=127|end_char=130
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=131|end_char=139
+8	that	that	PRON	WDT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=141|end_char=145
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=146|end_char=148
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=149|end_char=151
+11	almost	almost	ADV	RB	_	12	advmod	_	start_char=152|end_char=158
+12	funny	funny	ADJ	JJ	Degree=Pos	5	conj	_	start_char=159|end_char=164
+13	...	...	PUNCT	.	_	5	punct	_	start_char=164|end_char=167
+
+1	In	in	ADP	IN	_	6	case	_	start_char=168|end_char=170
+2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=171|end_char=172
+3	utterly	utterly	ADV	RB	_	4	advmod	_	start_char=173|end_char=180
+4	moronic	moronic	ADJ	JJ	Degree=Pos	6	amod	_	start_char=181|end_char=188
+5	kinda	kinda	ADJ	JJ	Degree=Pos	6	amod	_	start_char=189|end_char=194
+6	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=195|end_char=198
+7	?	?	PUNCT	.	_	6	punct	_	start_char=198|end_char=199
+

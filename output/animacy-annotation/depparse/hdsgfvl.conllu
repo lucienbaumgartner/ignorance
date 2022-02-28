@@ -1,0 +1,29 @@
+1	Ok	ok	INTJ	UH	_	13	discourse	_	start_char=0|end_char=2
+2	but	but	CCONJ	CC	_	13	cc	_	start_char=3|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=7|end_char=10
+4	Macho	macho	ADJ	JJ	Degree=Pos	5	amod	_	start_char=11|end_char=16
+5	Man	man	NOUN	NN	Number=Sing	9	compound	_	start_char=17|end_char=20
+6	Randy	Randy	PROPN	NNP	Number=Sing	8	compound	_	start_char=21|end_char=26
+7	Savage	Savage	PROPN	NNP	Number=Sing	6	flat	_	start_char=27|end_char=33
+8	Dragon	Dragon	PROPN	NNP	Number=Sing	9	compound	_	start_char=34|end_char=40
+9	mod	mod	NOUN	NN	Number=Sing	13	nsubj	_	start_char=41|end_char=44
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=45|end_char=47
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=48|end_char=51
+12	best	good	ADJ	JJS	Degree=Sup	13	amod	_	start_char=52|end_char=56
+13	mod	mod	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=60
+14	and	and	CCONJ	CC	_	20	cc	_	start_char=61|end_char=64
+15	anyone	anyone	PRON	NN	Number=Sing	20	nsubj	_	start_char=65|end_char=71
+16	who	who	PRON	WP	PronType=Rel	17	nsubj	_	start_char=72|end_char=75
+17	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=76|end_char=80
+18	otherwise	otherwise	ADV	RB	_	20	advmod	_	start_char=81|end_char=90
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=91|end_char=93
+20	incorrect	incorrect	ADJ	JJ	Degree=Pos	13	conj	_	start_char=94|end_char=103
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=104|end_char=107
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	20	conj	_	start_char=108|end_char=116
+23	.	.	PUNCT	.	_	13	punct	_	start_char=116|end_char=117
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=118|end_char=122
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=123|end_char=125
+3	all	all	DET	DT	_	0	root	_	start_char=126|end_char=129
+4	.	.	PUNCT	.	_	3	punct	_	start_char=129|end_char=130
+

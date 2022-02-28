@@ -1,0 +1,7 @@
+1	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+
+1	just	just	ADV	RB	_	2	advmod	_	start_char=7|end_char=11
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=20
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=21|end_char=24
+4	wrong	wrong	ADJ	JJ	Degree=Pos	2	conj	_	start_char=25|end_char=30
+

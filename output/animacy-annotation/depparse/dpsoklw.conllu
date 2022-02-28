@@ -1,0 +1,53 @@
+1	Remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=8
+2	when	when	SCONJ	WRB	PronType=Int	5	mark	_	start_char=9|end_char=13
+3	John	John	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=14|end_char=18
+4	Podesta	Podesta	PROPN	NNP	Number=Sing	3	flat	_	start_char=19|end_char=26
+5	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=27|end_char=33
+6	[	[	PUNCT	-LRB-	_	9	punct	_	start_char=34|end_char=35
+7	"	"	PUNCT	``	_	9	punct	_	start_char=35|end_char=36
+8	to	to	PART	TO	_	9	mark	_	start_char=36|end_char=38
+9	produce	produce	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=39|end_char=46
+10	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=47|end_char=49
+11	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=50|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	compliant	compliant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=62|end_char=71
+14	citizenry	citizenry	NOUN	NN	Number=Sing	9	obj	_	start_char=72|end_char=81
+15	?	?	PUNCT	.	_	9	punct	_	start_char=81|end_char=82
+16	”	''	PUNCT	''	_	9	punct	_	start_char=82|end_char=83
+17	]	]	PUNCT	-RRB-	_	1	punct	_	start_char=83|end_char=84
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=84|end_char=85
+2	http://www.trueactivist.com/breaking-wikileaks-emails-prove-clinton-insiders-conspired-to-produce-an-unaware-and-compliant-citizenry/)	http://www.trueactivist.com/breaking-wikileaks-emails-prove-clinton-insiders-conspired-to-produce-an-unaware-and-compliant-citizenry/)	X	ADD	_	0	root	_	start_char=85|end_char=219
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=221|end_char=223
+2	hair	hair	NOUN	NN	Number=Sing	3	nsubj	_	start_char=224|end_char=228
+3	stood	stand	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=229|end_char=234
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=235|end_char=237
+5	because	because	SCONJ	IN	_	7	mark	_	start_char=238|end_char=245
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=246|end_char=250
+7	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=251|end_char=255
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=256|end_char=260
+9	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	_	start_char=261|end_char=264
+10	already	already	ADV	RB	_	11	advmod	_	start_char=265|end_char=272
+11	achieved	achieve	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	start_char=273|end_char=281
+12	that	that	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=282|end_char=286
+13	goal	goal	NOUN	NN	Number=Sing	11	obj	_	start_char=287|end_char=291
+14	,	,	PUNCT	,	_	26	punct	_	start_char=291|end_char=292
+15	but	but	CCONJ	CC	_	26	cc	_	start_char=293|end_char=296
+16	while	while	SCONJ	IN	_	22	mark	_	start_char=297|end_char=302
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=303|end_char=306
+18	**	**	PUNCT	NFP	_	19	punct	_	start_char=307|end_char=309
+19	population	population	NOUN	NN	Number=Sing	22	nsubj	_	start_char=309|end_char=319
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	start_char=320|end_char=323
+21	still	still	ADV	RB	_	22	advmod	_	start_char=324|end_char=329
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	26	advcl	_	start_char=330|end_char=338
+23	,	,	PUNCT	,	_	26	punct	_	start_char=338|end_char=339
+24	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=340|end_char=342
+25	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	aux	_	start_char=343|end_char=346
+26	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=347|end_char=354
+27	less	less	ADV	RBR	Degree=Cmp	28	advmod	_	start_char=355|end_char=359
+28	compliant	compliant	ADJ	JJ	Degree=Pos	26	xcomp	_	start_char=360|end_char=369
+29	**.	**.	PUNCT	NFP	_	3	punct	_	start_char=369|end_char=372
+
+1	-------------------------------------	-------------------------------------	PUNCT	NFP	_	0	root	_	start_char=373|end_char=410
+

@@ -1,0 +1,47 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=7|end_char=9
+4	cowardly	cowardly	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=18
+5	to	to	PART	TO	_	7	mark	_	start_char=19|end_char=21
+6	sneakily	sneakily	ADV	RB	_	7	advmod	_	start_char=22|end_char=30
+7	hit	hit	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=31|end_char=34
+8	someone	someone	PRON	NN	Number=Sing	7	obj	_	start_char=35|end_char=42
+9	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=43|end_char=46
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=47|end_char=49
+11	unaware	unaware	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=50|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	intoxicated	intoxicate	VERB	VBN	Tense=Past|VerbForm=Part	11	conj	_	start_char=62|end_char=73
+14	,	,	PUNCT	,	_	17	punct	_	start_char=73|end_char=74
+15	to	to	ADP	IN	_	17	case	_	start_char=75|end_char=77
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=78|end_char=81
+17	point	point	NOUN	NN	Number=Sing	7	obl	_	start_char=82|end_char=87
+18	where	where	SCONJ	WRB	PronType=Int	23	mark	_	start_char=88|end_char=93
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	start_char=94|end_char=98
+20	probably	probably	ADV	RB	_	23	advmod	_	start_char=99|end_char=107
+21	could	could	AUX	MD	VerbForm=Fin	23	aux	_	start_char=108|end_char=113
+22	n't	not	PART	RB	_	23	advmod	_	start_char=113|end_char=116
+23	defend	defend	VERB	VB	VerbForm=Inf	17	acl:relcl	_	start_char=117|end_char=123
+24	against	against	ADP	IN	_	25	case	_	start_char=124|end_char=131
+25	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=132|end_char=134
+26	even	even	ADV	RB	_	30	advmod	_	start_char=135|end_char=139
+27	if	if	SCONJ	IN	_	30	mark	_	start_char=140|end_char=142
+28	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	start_char=143|end_char=147
+29	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	cop	_	start_char=148|end_char=152
+30	ready	ready	ADJ	JJ	Degree=Pos	23	advcl	_	start_char=153|end_char=158
+31	for	for	ADP	IN	_	32	case	_	start_char=159|end_char=162
+32	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	obl	_	start_char=163|end_char=165
+33	.	.	PUNCT	.	_	2	punct	_	start_char=165|end_char=166
+
+1	Especially	especially	ADV	RB	_	9	advmod	_	start_char=167|end_char=177
+2	if	if	SCONJ	IN	_	9	mark	_	start_char=178|end_char=180
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=181|end_char=185
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=185|end_char=188
+5	not	not	PART	RB	_	9	advmod	_	start_char=189|end_char=192
+6	even	even	ADV	RB	_	9	advmod	_	start_char=193|end_char=197
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=198|end_char=199
+8	viable	viable	ADJ	JJ	Degree=Pos	9	amod	_	start_char=200|end_char=206
+9	threat	threat	NOUN	NN	Number=Sing	0	root	_	start_char=207|end_char=213
+10	.	.	PUNCT	.	_	9	punct	_	start_char=213|end_char=214
+
+1	YMMV	YMMV	PROPN	NNP	Number=Sing	0	root	_	start_char=215|end_char=219
+

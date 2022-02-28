@@ -1,0 +1,45 @@
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	good	good	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=9
+3	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=15
+4	.	.	PUNCT	.	_	3	punct	_	start_char=15|end_char=16
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=17|end_char=18
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=23
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	start_char=24|end_char=26
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=27|end_char=29
+5	pretty	pretty	ADV	RB	_	6	advmod	_	start_char=30|end_char=36
+6	uncalled	uncalled	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=37|end_char=45
+7	for	for	SCONJ	IN	_	9	mark	_	start_char=46|end_char=49
+8	to	to	PART	TO	_	9	mark	_	start_char=50|end_char=52
+9	call	call	VERB	VB	VerbForm=Inf	6	csubj	_	start_char=53|end_char=57
+10	out	out	ADP	RP	_	9	compound:prt	_	start_char=58|end_char=61
+11	another	another	DET	DT	_	12	det	_	start_char=62|end_char=69
+12	person	person	NOUN	NN	Number=Sing	9	obj	_	start_char=70|end_char=76
+13	simply	simply	ADV	RB	_	15	advmod	_	start_char=77|end_char=83
+14	for	for	SCONJ	IN	_	15	mark	_	start_char=84|end_char=87
+15	disagreeing	disagree	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=88|end_char=99
+16	.	.	PUNCT	.	_	2	punct	_	start_char=99|end_char=100
+
+1	Another	another	DET	DT	_	2	det	_	start_char=101|end_char=108
+2	person	person	NOUN	NN	Number=Sing	3	nsubj	_	start_char=109|end_char=115
+3	pointed	point	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=116|end_char=123
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=124|end_char=127
+5	that	that	SCONJ	IN	_	16	mark	_	start_char=128|end_char=132
+6	Adam	Adam	PROPN	NNP	Number=Sing	8	nmod:poss	_	start_char=133|end_char=137
+7	's	's	PART	POS	_	6	case	_	start_char=137|end_char=139
+8	group	group	NOUN	NN	Number=Sing	16	nsubj	_	start_char=140|end_char=145
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=146|end_char=149
+10	Throwawaylien	Throwawaylien	PROPN	NNP	Number=Sing	12	nmod:poss	_	start_char=150|end_char=163
+11	's	's	PART	POS	_	10	case	_	start_char=163|end_char=165
+12	group	group	NOUN	NN	Number=Sing	8	conj	_	start_char=166|end_char=171
+13	could	could	AUX	MD	VerbForm=Fin	16	aux	_	start_char=172|end_char=177
+14	be	be	AUX	VB	VerbForm=Inf	16	cop	_	start_char=178|end_char=180
+15	entirely	entirely	ADV	RB	_	16	advmod	_	start_char=181|end_char=189
+16	different	different	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=190|end_char=199
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=200|end_char=203
+18	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=204|end_char=211
+19	of	of	ADP	IN	_	21	case	_	start_char=212|end_char=214
+20	each	each	DET	DT	_	21	det	_	start_char=215|end_char=219
+21	other	other	ADJ	JJ	Degree=Pos	18	obl	_	start_char=220|end_char=225
+22	.	.	PUNCT	.	_	3	punct	_	start_char=225|end_char=226
+

@@ -1,0 +1,90 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	New	New	ADJ	NNP	Degree=Pos	3	nsubj	_	start_char=4|end_char=7
+2	Zealand	Zealand	PROPN	NNP	Number=Sing	1	flat	_	start_char=8|end_char=15
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=19
+4	no	no	DET	DT	Polarity=Neg	6	det	_	start_char=20|end_char=22
+5	land	land	NOUN	NN	Number=Sing	6	compound	_	start_char=23|end_char=27
+6	boarders	border	NOUN	NNS	Number=Plur	3	obj	_	start_char=28|end_char=36
+7	and	and	CCONJ	CC	_	13	cc	_	start_char=37|end_char=40
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=41|end_char=43
+9	not	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=44|end_char=47
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=48|end_char=49
+11	major	major	ADJ	JJ	Degree=Pos	13	amod	_	start_char=50|end_char=55
+12	transport	transport	NOUN	NN	Number=Sing	13	compound	_	start_char=56|end_char=65
+13	hub	hub	NOUN	NN	Number=Sing	3	conj	_	start_char=66|end_char=69
+14	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	Most	most	ADJ	JJS	Degree=Sup	8	nsubj	_	start_char=71|end_char=75
+2	of	of	ADP	IN	_	7	case	_	start_char=76|end_char=78
+3	New	New	ADJ	NNP	Degree=Pos	7	nmod:poss	_	start_char=79|end_char=82
+4	Zealand	Zealand	PROPN	NNP	Number=Sing	3	flat	_	start_char=83|end_char=90
+5	’s	's	PART	POS	_	3	case	_	start_char=90|end_char=92
+6	early	early	ADJ	JJ	Degree=Pos	7	amod	_	start_char=93|end_char=98
+7	cases	case	NOUN	NNS	Number=Plur	1	nmod	_	start_char=99|end_char=104
+8	came	come	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=105|end_char=109
+9	from	from	ADP	IN	_	10	case	_	start_char=110|end_char=114
+10	people	people	NOUN	NNS	Number=Plur	8	obl	_	start_char=115|end_char=121
+11	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=122|end_char=125
+12	transported	transport	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=126|end_char=137
+13	from	from	ADP	IN	_	16	case	_	start_char=138|end_char=142
+14	or	or	CCONJ	CC	_	15	cc	_	start_char=143|end_char=145
+15	through	through	ADP	IN	_	13	conj	_	start_char=146|end_char=153
+16	USA	USA	PROPN	NNP	Abbr=Yes|Number=Sing	12	obl	_	start_char=154|end_char=157
+
+1	Actually	actually	ADV	RB	_	3	advmod	_	start_char=159|end_char=167
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=168|end_char=171
+3	Iran	Iran	PROPN	NNP	Number=Sing	0	root	_	start_char=172|end_char=176
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=177|end_char=180
+5	Europe	Europe	PROPN	NNP	Number=Sing	3	conj	_	start_char=181|end_char=187
+6	.	.	PUNCT	.	_	3	punct	_	start_char=187|end_char=188
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=190|end_char=193
+2	continue	continue	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=194|end_char=202
+3	circle-jerking	circle-jerk	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=203|end_char=217
+4	.	.	PUNCT	.	_	2	punct	_	start_char=217|end_char=218
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=220|end_char=223
+2	;	;	PUNCT	:	_	1	punct	_	start_char=223|end_char=224
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=224|end_char=227
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=228|end_char=231
+3	obviously	obviously	ADV	RB	_	5	advmod	_	start_char=232|end_char=241
+4	very	very	ADV	RB	_	5	advmod	_	start_char=242|end_char=246
+5	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=247|end_char=255
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=256|end_char=259
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=260|end_char=268
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=269|end_char=273
+9	Jacinda	Jacinda	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=274|end_char=281
+10	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	ccomp	_	start_char=282|end_char=285
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=286|end_char=287
+12	very	very	ADV	RB	_	13	advmod	_	start_char=288|end_char=292
+13	easy	easy	ADJ	JJ	Degree=Pos	14	amod	_	start_char=293|end_char=297
+14	job	job	NOUN	NN	Number=Sing	10	obj	_	start_char=298|end_char=301
+15	to	to	PART	TO	_	16	mark	_	start_char=302|end_char=304
+16	do	do	VERB	VB	VerbForm=Inf	14	acl	_	start_char=305|end_char=307
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=308|end_char=311
+18	managed	manage	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	conj	_	start_char=312|end_char=319
+19	to	to	PART	TO	_	20	mark	_	start_char=320|end_char=322
+20	do	do	VERB	VB	VerbForm=Inf	18	xcomp	_	start_char=323|end_char=325
+21	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=326|end_char=327
+22	very	very	ADV	RB	_	23	advmod	_	start_char=328|end_char=332
+23	mediocre	mediocre	ADJ	JJ	Degree=Pos	24	amod	_	start_char=333|end_char=341
+24	job	job	NOUN	NN	Number=Sing	20	obj	_	start_char=342|end_char=345
+25	of	of	ADP	IN	_	26	case	_	start_char=346|end_char=348
+26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nmod	_	start_char=349|end_char=351
+27	.	.	PUNCT	.	_	5	punct	_	start_char=351|end_char=352
+
+1	Not	not	PART	RB	_	2	advmod	_	start_char=354|end_char=357
+2	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=358|end_char=362
+3	im	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=363|end_char=365
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=366|end_char=369
+5	confused	confused	ADJ	JJ	Degree=Pos	6	amod	_	start_char=370|end_char=378
+6	one	one	NOUN	NN	Number=Sing	2	nsubj	_	start_char=379|end_char=382
+7	here	here	ADV	RB	PronType=Dem	6	advmod	_	start_char=383|end_char=387
+8	to	to	PART	TO	_	10	mark	_	start_char=388|end_char=390
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=391|end_char=393
+10	honest	honest	ADJ	JJ	Degree=Pos	6	acl	_	start_char=394|end_char=400
+11	.	.	PUNCT	.	_	2	punct	_	start_char=400|end_char=401
+

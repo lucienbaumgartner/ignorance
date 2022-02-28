@@ -1,0 +1,21 @@
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+
+1	God	God	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=6|end_char=9
+2	for	for	ADP	IN	_	3	case	_	start_char=10|end_char=13
+3	humanity	humanity	NOUN	NN	Number=Sing	1	nmod	_	start_char=14|end_char=22
+4	that	that	PRON	WDT	PronType=Rel	14	mark	_	start_char=23|end_char=27
+5	people	people	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=28|end_char=34
+6	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=35|end_char=38
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=39|end_char=42
+8	not	not	PART	RB	_	9	advmod	_	start_char=43|end_char=46
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=47|end_char=55
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+11	short	short	ADJ	JJ	Degree=Pos	12	amod	_	start_char=60|end_char=65
+12	sighted	sight	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	_	start_char=66|end_char=73
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=74|end_char=77
+14	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=78|end_char=84
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=85|end_char=88
+16	decisions	decision	NOUN	NNS	Number=Plur	14	obj	_	start_char=89|end_char=98
+17	then	then	ADV	RB	PronType=Dem	14	advmod	_	start_char=99|end_char=103
+18	.	.	PUNCT	.	_	14	punct	_	start_char=103|end_char=104
+

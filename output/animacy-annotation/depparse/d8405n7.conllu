@@ -1,0 +1,44 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=7
+3	n't	not	PART	RB	_	4	advmod	_	start_char=7|end_char=10
+4	call	call	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=15
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=16|end_char=18
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=19|end_char=24
+7	unaware	unaware	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=25|end_char=32
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=33|end_char=36
+9	disconnected	disconnect	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	start_char=37|end_char=49
+10	.	.	PUNCT	.	_	4	punct	_	start_char=49|end_char=50
+
+1	When	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=51|end_char=55
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=56|end_char=59
+3	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=59|end_char=62
+4	full	full	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=67
+5	of	of	ADP	IN	_	6	case	_	start_char=68|end_char=70
+6	emotions	emotion	NOUN	NNS	Number=Plur	4	obl	_	start_char=71|end_char=79
+7	,	,	PUNCT	,	_	9	punct	_	start_char=79|end_char=80
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=81|end_char=84
+9	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=85|end_char=90
+10	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=91|end_char=94
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=95|end_char=99
+12	come	come	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=100|end_char=104
+13	out	out	ADP	RP	_	12	compound:prt	_	start_char=105|end_char=108
+14	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+
+1	Sometimes	sometimes	ADV	RB	_	5	advmod	_	start_char=110|end_char=119
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=120|end_char=123
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=124|end_char=126
+4	n't	not	PART	RB	_	5	advmod	_	start_char=126|end_char=129
+5	control	control	VERB	VB	VerbForm=Inf	0	root	_	start_char=130|end_char=137
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=138|end_char=140
+7	.	.	PUNCT	.	_	5	punct	_	start_char=140|end_char=141
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=142|end_char=143
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=143|end_char=145
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=146|end_char=151
+4	to	to	PART	TO	_	5	mark	_	start_char=152|end_char=154
+5	hear	hear	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=155|end_char=159
+6	about	about	ADP	IN	_	8	case	_	start_char=160|end_char=165
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=166|end_char=170
+8	mother	mother	NOUN	NN	Number=Sing	5	obl	_	start_char=171|end_char=177
+9	.	.	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+

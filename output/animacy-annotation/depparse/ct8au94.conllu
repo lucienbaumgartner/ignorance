@@ -1,0 +1,23 @@
+1	Maybe	maybe	ADV	RB	_	6	advmod	_	start_char=0|end_char=5
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	6	aux	_	start_char=6|end_char=8
+3	n't	not	PART	RB	_	6	advmod	_	start_char=8|end_char=11
+4	be	be	AUX	VB	Mood=Imp|VerbForm=Fin	6	cop	_	start_char=12|end_char=14
+5	so	so	ADV	RB	_	6	advmod	_	start_char=15|end_char=17
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=38
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=39|end_char=43
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=44|end_char=47
+11	world	world	NOUN	NN	Number=Sing	12	nsubj	_	start_char=48|end_char=53
+12	exists	exist	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=54|end_char=60
+13	beyond	beyond	ADP	IN	_	14	case	_	start_char=61|end_char=67
+14	America	America	PROPN	NNP	Number=Sing	12	obl	_	start_char=68|end_char=75
+15	,	,	PUNCT	,	_	6	punct	_	start_char=75|end_char=76
+16	then	then	ADV	RB	PronType=Dem	19	advmod	_	start_char=77|end_char=81
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=82|end_char=85
+18	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=86|end_char=90
+19	see	see	VERB	VB	VerbForm=Inf	6	parataxis	_	start_char=91|end_char=94
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=95|end_char=98
+21	chips	chip	NOUN	NNS	Number=Plur	19	obj	_	start_char=99|end_char=104
+22	.	.	PUNCT	.	_	6	punct	_	start_char=104|end_char=105
+

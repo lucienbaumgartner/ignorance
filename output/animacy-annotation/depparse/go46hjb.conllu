@@ -1,0 +1,23 @@
+1	Tammy	Tammy	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=0|end_char=5
+2	always	always	ADV	RB	_	3	advmod	_	start_char=6|end_char=12
+3	strikes	strike	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=20
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=21|end_char=23
+5	as	as	ADP	IN	_	8	case	_	start_char=24|end_char=26
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=27|end_char=28
+7	newborn	newborn	ADJ	JJ	Degree=Pos	8	amod	_	start_char=29|end_char=36
+8	giraffe	giraffe	NOUN	NN	Number=Sing	3	obl	_	start_char=37|end_char=44
+9	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+
+1	Gangly	gangly	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=52
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=53|end_char=56
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=57|end_char=64
+4	of	of	ADP	IN	_	5	case	_	start_char=65|end_char=67
+5	where	where	SCONJ	WRB	PronType=Int	1	obl	_	start_char=68|end_char=73
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=74|end_char=76
+7	should	should	AUX	MD	VerbForm=Fin	8	aux	_	start_char=77|end_char=83
+8	be	be	AUX	VB	VerbForm=Inf	5	acl:relcl	_	start_char=84|end_char=86
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=87|end_char=89
+10	run	run	VERB	VB	VerbForm=Inf	5	conj	_	start_char=90|end_char=93
+11	to	to	ADP	IN	_	10	obl	_	start_char=94|end_char=96
+12	.	.	PUNCT	.	_	1	punct	_	start_char=96|end_char=97
+

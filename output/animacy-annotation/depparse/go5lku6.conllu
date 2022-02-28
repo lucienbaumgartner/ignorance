@@ -1,0 +1,31 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	100	100	NUM	CD	NumType=Card	3	nummod	_	start_char=2|end_char=5
+3	%	%	SYM	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=6
+4	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+5	!	!	PUNCT	.	_	4	punct	_	start_char=12|end_char=13
+
+1	G@ming	g@ming	NOUN	NN	Number=Sing	6	nsubj	_	start_char=14|end_char=20
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=21|end_char=23
+3	like	like	ADP	IN	_	6	case	_	start_char=24|end_char=28
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=29|end_char=30
+5	blueberry	blueberry	NOUN	NN	Number=Sing	6	compound	_	start_char=31|end_char=40
+6	stain	stain	NOUN	NN	Number=Sing	0	root	_	start_char=41|end_char=46
+7	on	on	ADP	IN	_	10	case	_	start_char=47|end_char=49
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=50|end_char=51
+9	white	white	ADJ	JJ	Degree=Pos	10	amod	_	start_char=52|end_char=57
+10	shirt	shirt	NOUN	NN	Number=Sing	6	nmod	_	start_char=58|end_char=63
+11	.	.	PUNCT	.	_	6	punct	_	start_char=63|end_char=64
+
+1	G@mers	g@mer	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=65|end_char=71
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=72|end_char=75
+3	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=86
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=87|end_char=90
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=91|end_char=98
+6	of	of	ADP	IN	_	8	case	_	start_char=99|end_char=101
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=102|end_char=105
+8	damage	damage	NOUN	NN	Number=Sing	5	obl	_	start_char=106|end_char=112
+9	that	that	PRON	WDT	PronType=Rel	11	obj	_	start_char=113|end_char=117
+10	g@ming	g@ming	NOUN	NN	Number=Sing	11	compound	_	start_char=118|end_char=124
+11	causes	cause	NOUN	NNS	Number=Plur	8	acl:relcl	_	start_char=125|end_char=131
+12	!	!	PUNCT	.	_	3	punct	_	start_char=131|end_char=132
+

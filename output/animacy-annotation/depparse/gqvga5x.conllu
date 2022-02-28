@@ -1,0 +1,20 @@
+1	4	4	NUM	CD	NumType=Card	3	nummod	_	start_char=0|end_char=1
+2	-2	-2	NUM	CD	NumType=Card	3	nummod	_	start_char=1|end_char=3
+3	rush	rush	NOUN	NN	Number=Sing	0	root	_	start_char=4|end_char=8
+4	?	?	PUNCT	.	_	3	punct	_	start_char=8|end_char=9
+
+1	Offsides	offside	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=18
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=21|end_char=23
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=24|end_char=31
+3	stupid	stupid	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=32|end_char=38
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=39|end_char=42
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=43|end_char=50
+6	of	of	ADP	IN	_	7	case	_	start_char=51|end_char=53
+7	where	where	SCONJ	WRB	PronType=Int	5	obl	_	start_char=54|end_char=59
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=60|end_char=64
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=65|end_char=68
+10	at	at	ADP	IN	_	12	case	_	start_char=69|end_char=71
+11	all	all	DET	DT	_	12	det	_	start_char=72|end_char=75
+12	times	time	NOUN	NNS	Number=Plur	7	obl	_	start_char=76|end_char=81
+

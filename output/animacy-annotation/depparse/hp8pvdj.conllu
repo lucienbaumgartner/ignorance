@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=4|end_char=7
+3	either	either	CCONJ	CC	_	9	cc:preconj	_	start_char=8|end_char=14
+4	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=15|end_char=16
+5	very	very	ADV	RB	_	6	advmod	_	start_char=17|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	amod	_	start_char=22|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	non-humorous	non-humorous	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=47
+9	male	male	NOUN	NN	Number=Sing	0	root	_	start_char=48|end_char=52
+10	or	or	CCONJ	CC	_	13	cc	_	start_char=53|end_char=55
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=56|end_char=57
+12	poser	poser	NOUN	NN	Number=Sing	13	compound	_	start_char=58|end_char=63
+13	female	female	NOUN	NN	Number=Sing	9	conj	_	start_char=64|end_char=70
+14	trying	try	VERB	VBG	VerbForm=Ger	13	acl	_	start_char=71|end_char=77
+15	to	to	PART	TO	_	16	mark	_	start_char=78|end_char=80
+16	undermine	undermine	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=81|end_char=90
+17	males	male	NOUN	NNS	Number=Plur	16	obj	_	start_char=91|end_char=96
+18	.	.	PUNCT	.	_	9	punct	_	start_char=96|end_char=97
+
+1	Either	either	DET	DT	_	2	det	_	start_char=100|end_char=106
+2	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=107|end_char=110
+3	.	.	PUNCT	.	_	2	punct	_	start_char=110|end_char=111
+
+1	Nothing	nothing	PRON	NN	Number=Sing	2	nsubj	_	start_char=112|end_char=119
+2	brought	bring	VERB	VBD	Tense=Past|VerbForm=Part	0	root	_	start_char=120|end_char=127
+3	to	to	ADP	IN	_	5	case	_	start_char=128|end_char=130
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=131|end_char=134
+5	table	table	NOUN	NN	Number=Sing	2	obl	_	start_char=135|end_char=140
+6	by	by	ADP	IN	_	8	case	_	start_char=141|end_char=143
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=144|end_char=148
+8	comment	comment	NOUN	NN	Number=Sing	2	obl	_	start_char=149|end_char=156
+9	.	.	PUNCT	.	_	2	punct	_	start_char=156|end_char=157
+

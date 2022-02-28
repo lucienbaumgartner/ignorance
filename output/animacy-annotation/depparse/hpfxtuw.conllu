@@ -1,0 +1,14 @@
+1	Why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=4|end_char=6
+3	race	race	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=7|end_char=11
+4	being	be	AUX	VBG	VerbForm=Ger	5	aux:pass	_	start_char=12|end_char=17
+5	brought	bring	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=18|end_char=25
+6	up	up	ADP	RP	_	5	compound:prt	_	start_char=26|end_char=28
+7	?	?	PUNCT	.	_	5	punct	_	start_char=28|end_char=29
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=31|end_char=35
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=44
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=45|end_char=48
+4	prejudiced	prejudiced	ADJ	JJ	Degree=Pos	2	conj	_	start_char=49|end_char=59
+5	.	.	PUNCT	.	_	2	punct	_	start_char=59|end_char=60
+

@@ -1,0 +1,18 @@
+1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	actions	action	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=4|end_char=11
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=15
+4	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	of	of	ADP	IN	_	8	case	_	start_char=40|end_char=42
+8	anyone	anyone	PRON	NN	Number=Sing	6	obl	_	start_char=43|end_char=49
+9	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=50|end_char=53
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=54|end_char=58
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=58|end_char=61
+12	have	have	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=62|end_char=66
+13	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=67|end_char=70
+14	precious	precious	ADJ	JJ	Degree=Pos	16	amod	_	start_char=71|end_char=79
+15	perfect	perfect	ADJ	JJ	Degree=Pos	16	amod	_	start_char=80|end_char=87
+16	health	health	NOUN	NN	Number=Sing	12	obj	_	start_char=88|end_char=94
+17	.	.	PUNCT	.	_	4	punct	_	start_char=94|end_char=95
+

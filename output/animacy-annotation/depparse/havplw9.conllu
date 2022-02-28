@@ -1,0 +1,25 @@
+1	And	and	CCONJ	CC	_	12	cc	_	start_char=0|end_char=3
+2	saying	say	VERB	VBG	VerbForm=Ger	12	csubj	_	start_char=4|end_char=10
+3	Bryson	Bryson	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=11|end_char=17
+4	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	start_char=18|end_char=21
+5	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=21|end_char=24
+6	“	''	PUNCT	``	_	7	punct	_	start_char=25|end_char=26
+7	putt	putt	NOUN	NN	Number=Sing	2	ccomp	_	start_char=26|end_char=30
+8	for	for	ADP	IN	_	9	case	_	start_char=31|end_char=34
+9	dough	dough	NOUN	NN	Number=Sing	7	nmod	_	start_char=35|end_char=40
+10	”	''	PUNCT	''	_	7	punct	_	start_char=40|end_char=41
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=42|end_char=44
+12	absurd	absurd	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=51
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=52|end_char=55
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=56|end_char=64
+15	of	of	ADP	IN	_	17	case	_	start_char=65|end_char=67
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=68|end_char=71
+17	stats	stat	NOUN	NNS	Number=Plur	14	obl	_	start_char=72|end_char=77
+18	that	that	DET	DT	Number=Sing|PronType=Dem	19	det	_	start_char=78|end_char=82
+19	week	week	NOUN	NN	Number=Sing	12	obl:tmod	_	start_char=83|end_char=87
+20	and	and	CCONJ	CC	_	24	cc	_	start_char=88|end_char=91
+21	for	for	ADP	IN	_	24	case	_	start_char=92|end_char=95
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=96|end_char=99
+23	past	past	ADJ	JJ	Degree=Pos	24	amod	_	start_char=100|end_char=104
+24	year	year	NOUN	NN	Number=Sing	19	conj	_	start_char=105|end_char=109
+

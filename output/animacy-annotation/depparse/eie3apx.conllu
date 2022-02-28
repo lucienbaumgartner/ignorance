@@ -1,0 +1,38 @@
+1	"	"	PUNCT	``	_	4	punct	_	start_char=0|end_char=1
+2	I've	I've	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=1|end_char=5
+3	never	never	ADV	RB	_	4	advmod	_	start_char=6|end_char=11
+4	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	bible	bible	NOUN	NN	Number=Sing	4	obj	_	start_char=21|end_char=26
+7	or	or	CCONJ	CC	_	10	cc	_	start_char=27|end_char=29
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	_	start_char=30|end_char=34
+9	to	to	ADP	IN	_	10	case	_	start_char=35|end_char=37
+10	church	church	NOUN	NN	Number=Sing	4	conj	_	start_char=38|end_char=44
+11	but	but	CCONJ	CC	_	18	cc	_	start_char=45|end_char=48
+12	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=49|end_char=53
+13	Jesus	Jesus	PROPN	NNP	Number=Sing	14	compound	_	start_char=54|end_char=59
+14	guy	guy	NOUN	NN	Number=Sing	18	nsubj	_	start_char=60|end_char=63
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	start_char=64|end_char=67
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=68|end_char=69
+17	total	total	ADJ	JJ	Degree=Pos	18	amod	_	start_char=70|end_char=75
+18	asshole	asshole	NOUN	NN	Number=Sing	4	conj	_	start_char=76|end_char=83
+19	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+20	"	"	PUNCT	''	_	4	punct	_	start_char=84|end_char=85
+
+1	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=86|end_char=89
+2	how	how	SCONJ	WRB	PronType=Int	3	mark	_	start_char=90|end_char=93
+3	stupid	stupid	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=94|end_char=100
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=101|end_char=104
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=105|end_char=113
+6	that	that	PRON	WDT	Number=Sing|PronType=Rel	7	nsubj	_	start_char=114|end_char=118
+7	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=119|end_char=125
+8	?	?	PUNCT	.	_	1	punct	_	start_char=125|end_char=126
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=127|end_char=131
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=131|end_char=133
+3	what	what	PRON	WP	PronType=Int	0	root	_	start_char=134|end_char=138
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=139|end_char=142
+5	just	just	ADV	RB	_	6	advmod	_	start_char=143|end_char=147
+6	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=148|end_char=151
+7	.	.	PUNCT	.	_	3	punct	_	start_char=151|end_char=152
+

@@ -1,0 +1,12 @@
+1	Some	some	DET	DT	_	2	det	_	start_char=0|end_char=4
+2	weirdos	weirdo	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=5|end_char=12
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=18
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=19|end_char=21
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=21|end_char=23
+6	peculiar	peculiar	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=24|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=44
+9	of	of	ADP	IN	_	11	case	_	start_char=45|end_char=47
+10	such	such	ADJ	JJ	Degree=Pos	11	amod	_	start_char=48|end_char=52
+11	thing	thing	NOUN	NN	Number=Sing	8	obl	_	start_char=53|end_char=58
+

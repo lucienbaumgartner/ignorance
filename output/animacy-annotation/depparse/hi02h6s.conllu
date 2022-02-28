@@ -1,0 +1,30 @@
+1	Yeah	yeah	INTJ	UH	_	10	discourse	_	start_char=0|end_char=4
+2	but	but	CCONJ	CC	_	10	cc	_	start_char=5|end_char=8
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=9|end_char=10
+4	lot	lot	NOUN	NN	Number=Sing	10	nsubj	_	start_char=11|end_char=14
+5	of	of	ADP	IN	_	7	case	_	start_char=15|end_char=17
+6	Western	western	ADJ	JJ	Degree=Pos	7	amod	_	start_char=18|end_char=25
+7	Asia	Asia	PROPN	NNP	Number=Sing	4	nmod	_	start_char=26|end_char=30
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=31|end_char=33
+9	n’t	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=33|end_char=36
+10	brown	brown	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=42
+11	,	,	PUNCT	,	_	10	punct	_	start_char=42|end_char=43
+12	too	too	ADV	RB	Degree=Pos	10	advmod	_	start_char=44|end_char=47
+13	.	.	PUNCT	.	_	10	punct	_	start_char=47|end_char=48
+
+1	Americans	American	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=49|end_char=58
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=59|end_char=62
+3	so	so	ADV	RB	_	4	advmod	_	start_char=63|end_char=65
+4	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=72
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=73|end_char=76
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=77|end_char=85
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=86|end_char=90
+8	there	there	PRON	EX	_	9	expl	_	start_char=91|end_char=96
+9	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=97|end_char=100
+10	multiple	multiple	ADJ	JJ	Degree=Pos	11	amod	_	start_char=101|end_char=109
+11	layers	layer	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=110|end_char=116
+12	of	of	ADP	IN	_	13	case	_	start_char=117|end_char=119
+13	misconception	misconception	NOUN	NN	Number=Sing	11	nmod	_	start_char=120|end_char=133
+14	to	to	PART	TO	_	15	mark	_	start_char=134|end_char=136
+15	unpack	unpack	VERB	VB	VerbForm=Inf	13	acl	_	start_char=137|end_char=143
+

@@ -1,0 +1,13 @@
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	like	like	SCONJ	IN	_	4	mark	_	start_char=6|end_char=10
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=11|end_char=14
+4	played	play	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=15|end_char=21
+5	herself	herself	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	start_char=22|end_char=29
+6	.	.	PUNCT	.	_	1	punct	_	start_char=29|end_char=30
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=31|end_char=33
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=41
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=42|end_char=45
+4	unbothered	unbothered	ADJ	JJ	Degree=Pos	2	conj	_	start_char=46|end_char=56
+5	.	.	PUNCT	.	_	2	punct	_	start_char=56|end_char=57
+

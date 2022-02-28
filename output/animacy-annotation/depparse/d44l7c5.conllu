@@ -1,0 +1,47 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=9
+3	many	many	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=14
+4	still	still	ADV	RB	_	5	advmod	_	start_char=15|end_char=20
+5	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=21|end_char=29
+6	.	.	PUNCT	.	_	2	punct	_	start_char=29|end_char=30
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=31|end_char=33
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=38
+3	strong	strong	ADJ	JJ	Degree=Pos	4	amod	_	start_char=39|end_char=45
+4	concerns	concern	NOUN	NNS	Number=Plur	2	obj	_	start_char=46|end_char=54
+5	that	that	PRON	WDT	PronType=Rel	10	mark	_	start_char=55|end_char=59
+6	many	many	ADJ	JJ	Degree=Pos	7	amod	_	start_char=60|end_char=64
+7	people	people	NOUN	NNS	Number=Plur	22	nsubj:pass	_	start_char=65|end_char=71
+8	not	not	ADV	RB	_	10	advmod	_	start_char=72|end_char=75
+9	currently	currently	ADV	RB	_	10	advmod	_	start_char=76|end_char=85
+10	online	online	ADV	RB	_	7	advmod	_	start_char=86|end_char=92
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=93|end_char=96
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=97|end_char=104
+13	that	that	SCONJ	IN	_	17	mark	_	start_char=105|end_char=109
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=110|end_char=115
+15	calls	call	NOUN	NNS	Number=Plur	17	nsubj:pass	_	start_char=116|end_char=121
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux:pass	_	start_char=122|end_char=125
+17	intercepted	intercept	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	ccomp	_	start_char=126|end_char=137
+18	or	or	CCONJ	CC	_	19	cc	_	start_char=138|end_char=140
+19	recorded	record	VERB	VBN	Tense=Past|VerbForm=Part	17	conj	_	start_char=141|end_char=149
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	_	start_char=150|end_char=153
+21	being	be	AUX	VBG	VerbForm=Ger	22	aux:pass	_	start_char=154|end_char=159
+22	affected	affect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	start_char=160|end_char=168
+23	.	.	PUNCT	.	_	2	punct	_	start_char=168|end_char=169
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=170|end_char=173
+2	hackers	hacker	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=174|end_char=181
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=182|end_char=185
+4	deliberately	deliberately	ADV	RB	_	5	advmod	_	start_char=186|end_char=198
+5	attacking	attack	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=199|end_char=208
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=209|end_char=212
+7	targeting	target	VERB	VBG	Tense=Pres|VerbForm=Part	5	conj	_	start_char=213|end_char=222
+8	many	many	ADJ	JJ	Degree=Pos	9	amod	_	start_char=223|end_char=227
+9	others	other	NOUN	NNS	Number=Plur	7	obj	_	start_char=228|end_char=234
+10	via	via	ADP	IN	_	14	case	_	start_char=235|end_char=238
+11	telephone	telephone	NOUN	NN	Number=Sing	14	compound	_	start_char=239|end_char=248
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=249|end_char=252
+13	IMEI	imei	NOUN	NN	Number=Sing	11	conj	_	start_char=253|end_char=257
+14	abuse	abuse	NOUN	NN	Number=Sing	7	obl	_	start_char=258|end_char=263
+15	!	!	PUNCT	.	_	5	punct	_	start_char=263|end_char=264
+

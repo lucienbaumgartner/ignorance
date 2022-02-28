@@ -1,0 +1,16 @@
+1	Ahh	ahh	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=26
+6	of	of	ADP	IN	_	7	case	_	start_char=27|end_char=29
+7	Reddit	Reddit	PROPN	NNP	Number=Sing	3	obl	_	start_char=30|end_char=36
+8	…	…	PUNCT	,	_	9	punct	_	start_char=36|end_char=37
+9	missing	miss	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=38|end_char=45
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=46|end_char=49
+11	nuance	nuance	NOUN	NN	Number=Sing	9	obj	_	start_char=50|end_char=56
+12	of	of	ADP	IN	_	14	case	_	start_char=57|end_char=59
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=60|end_char=63
+14	meme	meme	NOUN	NN	Number=Sing	11	nmod	_	start_char=64|end_char=68
+15	.	.	PUNCT	.	_	3	punct	_	start_char=68|end_char=69
+

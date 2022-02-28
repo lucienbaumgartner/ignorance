@@ -1,0 +1,44 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	lot	lot	NOUN	NN	Number=Sing	10	nsubj	_	start_char=2|end_char=5
+3	of	of	ADP	IN	_	5	case	_	start_char=6|end_char=8
+4	leftist	leftist	ADJ	JJ	Degree=Pos	5	amod	_	start_char=9|end_char=16
+5	sub	sub	NOUN	NN	Number=Sing	2	nmod	_	start_char=17|end_char=20
+6	on	on	ADP	IN	_	7	case	_	start_char=21|end_char=23
+7	reddit	reddit	NOUN	NN	Number=Sing	5	nmod	_	start_char=24|end_char=30
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=31|end_char=34
+9	like	like	ADP	IN	_	10	case	_	start_char=35|end_char=39
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=40|end_char=44
+11	.	.	PUNCT	.	_	10	punct	_	start_char=44|end_char=45
+
+1	Foolish	Foolish	ADJ	JJ	Degree=Pos	2	amod	_	start_char=46|end_char=53
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=62
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=63|end_char=66
+4	devoid	devoid	ADJ	JJ	Degree=Pos	2	conj	_	start_char=67|end_char=73
+5	of	of	ADP	IN	_	6	case	_	start_char=74|end_char=76
+6	nuances	nuance	NOUN	NNS	Number=Plur	4	obl	_	start_char=77|end_char=84
+7	,	,	PUNCT	,	_	2	punct	_	start_char=84|end_char=85
+8	especially	especially	ADV	RB	_	10	advmod	_	start_char=86|end_char=96
+9	r/	r/	PROPN	NNP	Number=Sing	10	compound	_	start_char=97|end_char=99
+10	AOC	AOC	PROPN	NNP	Number=Sing	2	parataxis	_	start_char=99|end_char=102
+11	r/murderedbywords	r/murderedbywords	ADV	RB	_	10	advmod	_	start_char=103|end_char=120
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=123|end_char=128
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=129|end_char=132
+3	1000	1000	NUM	CD	NumType=Card	4	nummod	_	start_char=133|end_char=137
+4	ways	way	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=138|end_char=142
+5	to	to	PART	TO	_	7	mark	_	start_char=143|end_char=145
+6	factually	factually	ADV	RB	_	7	advmod	_	start_char=146|end_char=155
+7	attack	attack	VERB	VB	VerbForm=Inf	4	acl	_	start_char=156|end_char=162
+8	Elon	Elon	PROPN	NNP	Number=Sing	7	obj	_	start_char=163|end_char=167
+9	Musk	musk	PROPN	NNP	Number=Sing	8	flat	_	start_char=168|end_char=172
+10	,	,	PUNCT	,	_	2	punct	_	start_char=172|end_char=173
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=174|end_char=177
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=178|end_char=180
+13	n't	not	PART	RB	_	14	advmod	_	start_char=180|end_char=183
+14	need	need	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=184|end_char=188
+15	to	to	PART	TO	_	18	mark	_	start_char=189|end_char=191
+16	be	be	AUX	VB	VerbForm=Inf	18	cop	_	start_char=192|end_char=194
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=195|end_char=196
+18	fool	fool	NOUN	NN	Number=Sing	14	xcomp	_	start_char=197|end_char=201
+19	.	.	PUNCT	.	_	2	punct	_	start_char=201|end_char=202
+

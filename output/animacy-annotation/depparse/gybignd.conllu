@@ -1,0 +1,25 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	no	no	DET	DT	_	8	det	_	start_char=9|end_char=11
+4	“	''	PUNCT	``	_	6	punct	_	start_char=12|end_char=13
+5	bedside	bedside	NOUN	NN	Number=Sing	6	compound	_	start_char=13|end_char=20
+6	manner	manner	NOUN	NN	Number=Sing	8	compound	_	start_char=21|end_char=27
+7	”	''	PUNCT	''	_	6	punct	_	start_char=27|end_char=28
+8	course	course	NOUN	NN	Number=Sing	2	nsubj	_	start_char=29|end_char=35
+9	,	,	PUNCT	,	_	18	punct	_	start_char=35|end_char=36
+10	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=37|end_char=40
+11	socially	socially	ADV	RB	_	12	advmod	_	start_char=41|end_char=49
+12	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=50|end_char=57
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=58|end_char=61
+14	obtuse	obtuse	ADJ	JJ	Degree=Pos	12	conj	_	start_char=62|end_char=68
+15	medical	medical	ADJ	JJ	Degree=Pos	16	amod	_	start_char=69|end_char=76
+16	students	student	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=77|end_char=85
+17	often	often	ADV	RB	_	18	advmod	_	start_char=86|end_char=91
+18	become	become	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=92|end_char=98
+19	physicians	physician	NOUN	NNS	Number=Plur	18	xcomp	_	start_char=99|end_char=109
+20	with	with	ADP	IN	_	23	case	_	start_char=110|end_char=114
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=115|end_char=118
+22	same	same	ADJ	JJ	Degree=Pos	23	amod	_	start_char=119|end_char=123
+23	qualities	quality	NOUN	NNS	Number=Plur	19	nmod	_	start_char=124|end_char=133
+24	.	.	PUNCT	.	_	2	punct	_	start_char=133|end_char=134
+

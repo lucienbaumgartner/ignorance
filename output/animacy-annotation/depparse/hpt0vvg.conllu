@@ -1,0 +1,15 @@
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=0|end_char=3
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=6
+3	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=9
+4	okay	okay	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=14
+5	saying	say	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=15|end_char=21
+6	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=22|end_char=25
+7	other	other	ADJ	JJ	Degree=Pos	9	amod	_	start_char=26|end_char=31
+8	two	two	NUM	CD	NumType=Card	9	nummod	_	start_char=32|end_char=35
+9	thirds	third	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=36|end_char=42
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=43|end_char=46
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=47|end_char=55
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=56|end_char=59
+13	uneducated	uneducated	ADJ	JJ	Degree=Pos	11	conj	_	start_char=60|end_char=70
+14	?	?	PUNCT	.	_	4	punct	_	start_char=70|end_char=71
+

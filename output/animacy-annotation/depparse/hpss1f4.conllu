@@ -1,0 +1,25 @@
+1	Cops	cop	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=0|end_char=4
+2	suck	suck	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	but	but	CCONJ	CC	_	9	cc	_	start_char=10|end_char=13
+4	damn	damn	ADJ	JJ	Degree=Pos	5	amod	_	start_char=14|end_char=18
+5	comments	comment	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=19|end_char=27
+6	like	like	ADP	IN	_	7	case	_	start_char=28|end_char=32
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nmod	_	start_char=33|end_char=37
+8	just	just	ADV	RB	_	9	advmod	_	start_char=38|end_char=42
+9	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=43|end_char=47
+10	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	start_char=48|end_char=52
+11	ammunition	ammunition	NOUN	NN	Number=Sing	9	obj	_	start_char=53|end_char=63
+12	to	to	PART	TO	_	13	mark	_	start_char=64|end_char=66
+13	say	say	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=67|end_char=70
+14	“	''	PUNCT	``	_	18	punct	_	start_char=71|end_char=72
+15	see	see	VERB	VB	VerbForm=Fin	18	mark	_	start_char=72|end_char=75
+16	civilians	civilian	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=76|end_char=85
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=86|end_char=89
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	ccomp	_	start_char=90|end_char=98
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=99|end_char=102
+20	uninformed	uninformed	ADJ	JJ	Degree=Pos	18	conj	_	start_char=103|end_char=113
+21	,	,	PUNCT	,	_	22	punct	_	start_char=113|end_char=114
+22	ignore	ignore	VERB	VB	Mood=Imp|VerbForm=Fin	18	parataxis	_	start_char=115|end_char=121
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	obj	_	start_char=122|end_char=126
+24	”	''	PUNCT	''	_	18	punct	_	start_char=126|end_char=127
+

@@ -1,0 +1,31 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=0|end_char=2
+2	weed	weed	NOUN	NN	Number=Sing	7	nsubj	_	start_char=3|end_char=7
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=8|end_char=11
+4	loud	loud	ADJ	JJ	Degree=Pos	2	conj	_	start_char=12|end_char=16
+5	music	music	NOUN	NN	Number=Sing	2	conj	_	start_char=17|end_char=22
+6	really	really	ADV	RB	_	7	advmod	_	start_char=23|end_char=29
+7	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=34
+8	of	of	ADP	IN	_	11	case	_	start_char=35|end_char=37
+9	trans	trans	NOUN	NN	Number=Sing	11	compound	_	start_char=38|end_char=43
+10	fem	fem	NOUN	NN	Number=Sing	11	compound	_	start_char=44|end_char=47
+11	culture	culture	NOUN	NN	Number=Sing	7	nmod	_	start_char=48|end_char=55
+12	?	?	PUNCT	.	_	7	punct	_	start_char=55|end_char=56
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=57|end_char=58
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=59|end_char=63
+3	like	like	SCONJ	IN	_	7	mark	_	start_char=64|end_char=68
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=69|end_char=70
+5	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=70|end_char=72
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=73|end_char=83
+7	disconnected	disconnect	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=84|end_char=96
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=97|end_char=100
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=101|end_char=108
+10	of	of	ADP	IN	_	11	case	_	start_char=109|end_char=111
+11	what	what	DET	WDT	PronType=Int	9	obl	_	start_char=112|end_char=116
+12	trans	trans	NOUN	NN	Number=Sing	14	compound	_	start_char=117|end_char=122
+13	fem	fem	NOUN	NN	Number=Sing	14	compound	_	start_char=123|end_char=126
+14	culture	culture	NOUN	NN	Number=Sing	16	nsubj	_	start_char=127|end_char=134
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=135|end_char=137
+16	like	like	ADP	IN	_	11	case	_	start_char=138|end_char=142
+17	.	.	PUNCT	.	_	2	punct	_	start_char=142|end_char=143
+

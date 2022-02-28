@@ -1,0 +1,85 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=8|end_char=10
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=11|end_char=14
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=15|end_char=16
+6	lil	lil	NOUN	NN	Number=Sing	2	ccomp	_	start_char=17|end_char=20
+7	too	too	ADV	RB	_	8	advmod	_	start_char=21|end_char=24
+8	off	off	ADP	RP	_	6	advmod	_	start_char=25|end_char=28
+9	putting	put	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=29|end_char=36
+10	with	with	ADP	IN	_	14	case	_	start_char=37|end_char=41
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=42|end_char=45
+12	boys	boy	NOUN	NNS	Number=Plur	14	compound	_	start_char=46|end_char=50
+13	club	club	NOUN	NN	Number=Sing	14	compound	_	start_char=51|end_char=55
+14	stuff	stuff	NOUN	NN	Number=Sing	9	obl	_	start_char=56|end_char=61
+15	.	.	PUNCT	.	_	2	punct	_	start_char=61|end_char=62
+
+1	Michael	Michael	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=63|end_char=70
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=71|end_char=74
+3	sexist	sexist	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=81
+4	too	too	ADV	RB	_	3	advmod	_	start_char=82|end_char=85
+5	but	but	CCONJ	CC	_	11	cc	_	start_char=86|end_char=89
+6	in	in	ADP	IN	_	11	case	_	start_char=90|end_char=92
+7	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=93|end_char=95
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=96|end_char=104
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=105|end_char=108
+10	lovable	lovable	ADJ	JJ	Degree=Pos	8	conj	_	start_char=109|end_char=116
+11	way	way	NOUN	NN	Number=Sing	3	obl	_	start_char=117|end_char=120
+12	(	(	PUNCT	-LRB-	_	14	punct	_	start_char=121|end_char=122
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=122|end_char=123
+14	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	start_char=124|end_char=131
+15	)	)	PUNCT	-RRB-	_	14	punct	_	start_char=131|end_char=132
+16	.	.	PUNCT	.	_	3	punct	_	start_char=132|end_char=133
+
+1	DeAngelo	DeAngelo	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=134|end_char=142
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=143|end_char=146
+3	just	just	ADV	RB	_	5	advmod	_	start_char=147|end_char=151
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=152|end_char=153
+5	dikk	dikk	NOUN	NN	Number=Sing	0	root	_	start_char=154|end_char=158
+6	.	.	PUNCT	.	_	5	punct	_	start_char=158|end_char=159
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=162|end_char=163
+2	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=164|end_char=167
+3	what	what	PRON	WP	PronType=Int	2	obj	_	start_char=168|end_char=172
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=173|end_char=176
+5	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=177|end_char=181
+6	.	.	PUNCT	.	_	2	punct	_	start_char=181|end_char=182
+
+1	But	but	CCONJ	CC	_	15	cc	_	start_char=183|end_char=186
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=187|end_char=189
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=190|end_char=193
+4	“	''	PUNCT	``	_	7	punct	_	start_char=194|end_char=195
+5	good	good	ADJ	JJ	Degree=Pos	7	amod	_	start_char=195|end_char=199
+6	”	''	PUNCT	''	_	7	punct	_	start_char=199|end_char=200
+7	moments	moment	NOUN	NNS	Number=Plur	3	obj	_	start_char=201|end_char=208
+8	which	which	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=209|end_char=214
+9	muddied	muddy	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=215|end_char=222
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=223|end_char=226
+11	water	water	NOUN	NN	Number=Sing	9	obj	_	start_char=227|end_char=232
+12	and	and	CCONJ	CC	_	15	cc	_	start_char=233|end_char=236
+13	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	start_char=237|end_char=240
+14	n’t	not	PART	RB	Polarity=Neg	15	advmod	_	start_char=240|end_char=243
+15	make	make	VERB	VB	VerbForm=Inf	9	conj	_	start_char=244|end_char=248
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=249|end_char=252
+17	too	too	ADV	RB	Degree=Pos	18	advmod	_	start_char=253|end_char=256
+18	much	much	ADV	RB	Degree=Pos	15	advmod	_	start_char=257|end_char=261
+19	of	of	ADP	IN	_	21	case	_	start_char=262|end_char=264
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=265|end_char=266
+21	juxtaposition	juxtaposition	NOUN	NN	Number=Sing	18	obl	_	start_char=267|end_char=280
+22	.	.	PUNCT	.	_	3	punct	_	start_char=280|end_char=281
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=286|end_char=289
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=290|end_char=291
+3	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=292|end_char=296
+4	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=297|end_char=300
+5	ending	end	NOUN	NN	Number=Sing	3	obj	_	start_char=301|end_char=307
+6	.	.	PUNCT	.	_	3	punct	_	start_char=307|end_char=308
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=309|end_char=310
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=311|end_char=318
+3	those	that	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=319|end_char=324
+4	episodes	episode	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=325|end_char=333
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	start_char=334|end_char=338
+6	okay	okay	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=339|end_char=343
+7	.	.	PUNCT	.	_	2	punct	_	start_char=343|end_char=344
+

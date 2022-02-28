@@ -1,0 +1,17 @@
+1	I'll	I'll	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=4
+2	take	take	VERB	VB	Mood=Ind|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	start_char=10|end_char=14
+4	as	as	ADP	IN	_	6	case	_	start_char=15|end_char=17
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=18|end_char=19
+6	no	no	INTJ	UH	_	2	obl	_	start_char=20|end_char=22
+7	.	.	PUNCT	.	_	2	punct	_	start_char=22|end_char=23
+
+1	https://www.independent.co.uk/news/world/americas/us-politics/rand-paul-democrats-wisconsin-election-b1983188.html	https://www.independent.co.uk/news/world/americas/us-politics/rand-paul-democrats-wisconsin-election-b1983188.html	X	ADD	_	0	root	_	start_char=25|end_char=139
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=141|end_char=144
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=145|end_char=148
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=149|end_char=157
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=158|end_char=161
+5	wrong	wrong	ADJ	JJ	Degree=Pos	3	conj	_	start_char=162|end_char=167
+6	.	.	PUNCT	.	_	3	punct	_	start_char=167|end_char=168
+

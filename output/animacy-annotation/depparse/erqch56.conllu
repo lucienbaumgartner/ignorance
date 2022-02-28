@@ -1,0 +1,22 @@
+1	Mods	mod	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=0|end_char=4
+2	on	on	ADP	IN	_	3	case	_	start_char=5|end_char=7
+3	subReddit	subReddit	NOUN	NN	Number=Sing	1	nmod	_	start_char=8|end_char=17
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=18|end_char=21
+5	biggest	big	ADJ	JJS	Degree=Sup	7	amod	_	start_char=22|end_char=29
+6	turd	turd	NOUN	NN	Number=Sing	7	compound	_	start_char=30|end_char=34
+7	burglars	burglar	NOUN	NNS	Number=Plur	0	root	_	start_char=35|end_char=43
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=44|end_char=45
+9	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=45|end_char=48
+10	ever	ever	ADV	RB	_	11	advmod	_	start_char=49|end_char=53
+11	witnessed	witness	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	_	start_char=54|end_char=63
+12	.	.	PUNCT	.	_	7	punct	_	start_char=63|end_char=64
+
+1	Useful	useful	ADJ	JJ	Degree=Pos	2	amod	_	start_char=65|end_char=71
+2	idiots	idiot	NOUN	NNS	Number=Plur	0	root	_	start_char=72|end_char=78
+3	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=79|end_char=83
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=84|end_char=87
+5	unaware	unaware	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=88|end_char=95
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=96|end_char=99
+7	compliant	compliant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=100|end_char=109
+8	.	.	PUNCT	.	_	2	punct	_	start_char=109|end_char=110
+

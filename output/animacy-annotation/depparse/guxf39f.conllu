@@ -1,0 +1,28 @@
+1	LOL	lol	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	wrong	wrong	ADJ	JJ	Degree=Pos	4	amod	_	start_char=4|end_char=9
+3	again	again	ADV	RB	_	4	advmod	_	start_char=10|end_char=15
+4	friend	friend	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=22
+
+1	FYI	fyi	ADV	RB	_	4	advmod	_	start_char=24|end_char=27
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=28|end_char=29
+3	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=29|end_char=31
+4	American	American	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=40
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=41|end_char=42
+6	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=42|end_char=44
+7	just	just	ADV	RB	_	9	advmod	_	start_char=45|end_char=49
+8	not	not	PART	RB	_	9	advmod	_	start_char=50|end_char=53
+9	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	4	parataxis	_	start_char=54|end_char=61
+10	stupid	stupid	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=62|end_char=68
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=69|end_char=72
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=73|end_char=81
+13	of	of	ADP	IN	_	15	case	_	start_char=82|end_char=84
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=85|end_char=88
+15	world	world	NOUN	NN	Number=Sing	12	obl	_	start_char=89|end_char=94
+16	outside	outside	ADP	IN	_	19	case	_	start_char=95|end_char=102
+17	of	of	ADP	IN	_	19	case	_	start_char=103|end_char=105
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=106|end_char=109
+19	borders	border	NOUN	NNS	Number=Plur	12	obl	_	start_char=110|end_char=117
+20	of	of	ADP	IN	_	22	case	_	start_char=118|end_char=120
+21	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=121|end_char=123
+22	country	country	NOUN	NN	Number=Sing	19	nmod	_	start_char=124|end_char=131
+

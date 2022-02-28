@@ -1,0 +1,17 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=7|end_char=8
+4	lot	lot	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=12
+5	of	of	ADP	IN	_	6	case	_	start_char=13|end_char=15
+6	words	word	NOUN	NNS	Number=Plur	4	nmod	_	start_char=16|end_char=21
+7	to	to	PART	TO	_	8	mark	_	start_char=22|end_char=24
+8	say	say	VERB	VB	VerbForm=Inf	6	acl	_	start_char=25|end_char=28
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=29|end_char=30
+10	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=30|end_char=32
+11	racist	racist	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=33|end_char=39
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=40|end_char=43
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=44|end_char=52
+14	of	of	ADP	IN	_	15	case	_	start_char=53|end_char=55
+15	history	history	NOUN	NN	Number=Sing	13	obl	_	start_char=56|end_char=63
+16	.	.	PUNCT	.	_	4	punct	_	start_char=63|end_char=64
+

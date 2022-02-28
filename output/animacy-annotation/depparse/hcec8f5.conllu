@@ -1,0 +1,14 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=0|end_char=1
+2	'd	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=1|end_char=3
+3	rather	rather	ADV	RB	_	7	advmod	_	start_char=4|end_char=10
+4	just	just	ADV	RB	_	7	advmod	_	start_char=11|end_char=15
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=16|end_char=18
+6	blissfully	blissfully	ADV	RB	_	7	advmod	_	start_char=19|end_char=29
+7	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=51
+10	of	of	ADP	IN	_	12	case	_	start_char=52|end_char=54
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=55|end_char=57
+12	shortcomings	shortcomings	NOUN	NNS	Number=Plur	9	obl	_	start_char=58|end_char=70
+13	.	.	PUNCT	.	_	7	punct	_	start_char=70|end_char=71
+

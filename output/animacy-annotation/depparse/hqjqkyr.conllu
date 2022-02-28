@@ -1,0 +1,12 @@
+1	Hopeless	Hopeless	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	!	!	PUNCT	.	_	1	punct	_	start_char=8|end_char=9
+
+1	Also	also	ADV	RB	_	2	advmod	_	start_char=10|end_char=14
+2	Dominic	Dominic	PROPN	NNP	Number=Sing	0	root	_	start_char=15|end_char=22
+3	Perrottet	Perrottet	PROPN	NNP	Number=Sing	2	flat	_	start_char=23|end_char=32
+4	,	,	PUNCT	,	_	6	punct	_	start_char=32|end_char=33
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=34|end_char=44
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=45|end_char=53
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=54|end_char=57
+8	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	6	conj	_	start_char=58|end_char=71
+

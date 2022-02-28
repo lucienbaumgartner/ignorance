@@ -1,0 +1,46 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	government	government	NOUN	NN	Number=Sing	3	nsubj	_	start_char=4|end_char=14
+3	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=20
+4	to	to	PART	TO	_	5	mark	_	start_char=21|end_char=23
+5	step	step	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=24|end_char=28
+6	in	in	ADP	RP	_	5	compound:prt	_	start_char=29|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	stop	stop	VERB	VB	VerbForm=Inf	5	conj	_	start_char=36|end_char=40
+9	these	this	DET	DT	Number=Plur|PronType=Dem	12	det	_	start_char=41|end_char=46
+10	fucking	fuck	VERB	VBG	VerbForm=Ger	12	amod	_	start_char=47|end_char=54
+11	scam	scam	NOUN	NN	Number=Sing	12	compound	_	start_char=55|end_char=59
+12	places	place	NOUN	NNS	Number=Plur	8	obj	_	start_char=60|end_char=66
+13	from	from	SCONJ	IN	_	14	mark	_	start_char=67|end_char=71
+14	preying	prey	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=72|end_char=79
+15	on	on	ADP	IN	_	17	case	_	start_char=80|end_char=82
+16	young	young	ADJ	JJ	Degree=Pos	17	amod	_	start_char=83|end_char=88
+17	people	people	NOUN	NNS	Number=Plur	14	obl	_	start_char=89|end_char=95
+18	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+
+1	Young	Young	ADJ	JJ	Degree=Pos	2	amod	_	start_char=97|end_char=102
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=103|end_char=109
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=110|end_char=113
+4	generally	generally	ADV	RB	_	5	advmod	_	start_char=114|end_char=123
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=124|end_char=130
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=131|end_char=134
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=135|end_char=143
+8	of	of	ADP	IN	_	9	case	_	start_char=144|end_char=146
+9	finances	finances	NOUN	NNS	Number=Plur	7	obl	_	start_char=147|end_char=155
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=156|end_char=159
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=160|end_char=164
+12	no	no	DET	DT	_	13	det	_	start_char=165|end_char=167
+13	clue	clue	NOUN	NN	Number=Sing	11	obj	_	start_char=168|end_char=172
+14	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=173|end_char=176
+15	these	this	DET	DT	Number=Plur|PronType=Dem	16	det	_	start_char=177|end_char=182
+16	loans	loan	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=183|end_char=188
+17	will	will	AUX	MD	VerbForm=Fin	18	aux	_	start_char=189|end_char=193
+18	affect	affect	VERB	VB	VerbForm=Inf	13	acl	_	start_char=194|end_char=200
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=201|end_char=206
+20	future	future	NOUN	NN	Number=Sing	18	obj	_	start_char=207|end_char=213
+21	.	.	PUNCT	.	_	5	punct	_	start_char=213|end_char=214
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=215|end_char=217
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=217|end_char=219
+3	criminal	criminal	ADJ	JJ	Degree=Pos	0	root	_	start_char=220|end_char=228
+4	really	really	ADV	RB	_	3	advmod	_	start_char=229|end_char=235
+

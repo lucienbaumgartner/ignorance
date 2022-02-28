@@ -1,0 +1,82 @@
+1	So	so	ADV	RB	_	4	advmod	_	start_char=0|end_char=2
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	"	"	PUNCT	``	_	4	punct	_	start_char=7|end_char=8
+4	dressed	dress	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=15
+5	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	start_char=16|end_char=19
+6	down	down	ADP	RP	_	4	compound:prt	_	start_char=20|end_char=24
+7	"	"	PUNCT	''	_	4	punct	_	start_char=24|end_char=25
+8	in	in	ADP	IN	_	9	case	_	start_char=26|end_char=28
+9	front	front	NOUN	NN	Number=Sing	4	obl	_	start_char=29|end_char=34
+10	of	of	ADP	IN	_	13	case	_	start_char=35|end_char=37
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=38|end_char=41
+12	whole	whole	ADJ	JJ	Degree=Pos	13	amod	_	start_char=42|end_char=47
+13	crowd	crowd	NOUN	NN	Number=Sing	9	nmod	_	start_char=48|end_char=53
+14	,	,	PUNCT	,	_	4	punct	_	start_char=53|end_char=54
+15	eh	eh	INTJ	UH	_	4	discourse	_	start_char=55|end_char=57
+16	?	?	PUNCT	.	_	4	punct	_	start_char=57|end_char=58
+
+1	Rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=65
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=66|end_char=69
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=70|end_char=78
+4	.	.	PUNCT	.	_	1	punct	_	start_char=78|end_char=79
+
+1	Of	of	ADP	IN	_	5	advmod	_	start_char=82|end_char=84
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=85|end_char=91
+3	,	,	PUNCT	,	_	5	punct	_	start_char=91|end_char=92
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=93|end_char=96
+5	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=97|end_char=101
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=102|end_char=105
+7	ca	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=106|end_char=108
+8	n't	not	PART	RB	_	9	advmod	_	start_char=108|end_char=111
+9	say	say	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=112|end_char=115
+10	who	who	PRON	WP	PronType=Int	11	nsubj	_	start_char=116|end_char=119
+11	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=120|end_char=124
+12	or	or	CCONJ	CC	_	15	cc	_	start_char=125|end_char=127
+13	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=128|end_char=132
+14	n't	not	PART	RB	_	15	advmod	_	start_char=132|end_char=135
+15	go	go	VERB	VB	VerbForm=Inf	11	conj	_	start_char=136|end_char=138
+16	to	to	ADP	IN	_	19	case	_	start_char=139|end_char=141
+17	Mimi	Mimi	PROPN	NNP	Number=Sing	19	nmod:poss	_	start_char=142|end_char=146
+18	's	's	PART	POS	_	17	case	_	start_char=146|end_char=148
+19	house	house	NOUN	NN	Number=Sing	15	obl	_	start_char=149|end_char=154
+20	,	,	PUNCT	,	_	24	punct	_	start_char=154|end_char=155
+21	but	but	CCONJ	CC	_	24	cc	_	start_char=156|end_char=159
+22	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	start_char=160|end_char=163
+23	can	can	AUX	MD	VerbForm=Fin	24	aux	_	start_char=164|end_char=167
+24	make	make	VERB	VB	VerbForm=Inf	5	conj	_	start_char=168|end_char=172
+25	rules	rule	NOUN	NNS	Number=Plur	24	obj	_	start_char=173|end_char=178
+26	for	for	ADP	IN	_	29	case	_	start_char=179|end_char=182
+27	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	_	start_char=183|end_char=186
+28	own	own	ADJ	JJ	Degree=Pos	29	amod	_	start_char=187|end_char=190
+29	house	house	NOUN	NN	Number=Sing	24	obl	_	start_char=191|end_char=196
+30	.	.	PUNCT	.	_	5	punct	_	start_char=196|end_char=197
+
+1	That	that	SCONJ	IN	_	5	mark	_	start_char=198|end_char=202
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=203|end_char=204
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=204|end_char=206
+4	pretty	pretty	ADV	RB	_	5	advmod	_	start_char=207|end_char=213
+5	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=214|end_char=218
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=219|end_char=222
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=222|end_char=225
+8	not	not	PART	RB	_	9	advmod	_	start_char=226|end_char=229
+9	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	start_char=230|end_char=235
+10	to	to	ADP	IN	_	9	obl	_	start_char=236|end_char=238
+11	,	,	PUNCT	,	_	16	punct	_	start_char=238|end_char=239
+12	so	so	ADV	RB	_	16	advmod	_	start_char=240|end_char=242
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=243|end_char=245
+14	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=246|end_char=250
+15	n't	not	PART	RB	_	16	advmod	_	start_char=250|end_char=253
+16	matter	matter	VERB	VB	VerbForm=Inf	5	parataxis	_	start_char=254|end_char=260
+17	.	.	PUNCT	.	_	16	punct	_	start_char=260|end_char=261
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=263|end_char=274
+2	;	;	PUNCT	:	_	1	punct	_	start_char=274|end_char=275
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=277|end_char=281
+
+1	Thanksgiving	Thanksgiving	NOUN	NN	Number=Sing	4	nsubj	_	start_char=282|end_char=294
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=295|end_char=301
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=302|end_char=304
+4	fun	fun	ADJ	JJ	Degree=Pos	0	root	_	start_char=305|end_char=308
+5	.	.	PUNCT	.	_	4	punct	_	start_char=308|end_char=309
+

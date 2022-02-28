@@ -1,0 +1,29 @@
+1	Remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=8
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=9|end_char=12
+3	time	time	NOUN	NN	Number=Sing	1	obj	_	start_char=13|end_char=17
+4	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=18|end_char=22
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=23|end_char=26
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=27|end_char=31
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=32|end_char=33
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=34|end_char=37
+9	uneducated	uneducated	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=38|end_char=48
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=49|end_char=52
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=53|end_char=61
+12	?	?	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=64|end_char=68
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=69|end_char=72
+3	so	so	ADV	RB	_	4	advmod	_	start_char=73|end_char=75
+4	cute	cute	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=80
+5	!	!	PUNCT	.	_	4	punct	_	start_char=80|end_char=81
+
+1	Almost	almost	ADV	RB	_	3	advmod	_	start_char=82|end_char=88
+2	like	like	ADP	IN	_	3	case	_	start_char=89|end_char=93
+3	something	something	PRON	NN	Number=Sing	8	obl	_	start_char=94|end_char=103
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=104|end_char=105
+5	real	real	ADJ	JJ	Degree=Pos	6	amod	_	start_char=106|end_char=110
+6	adult	adult	NOUN	NN	Number=Sing	8	nsubj	_	start_char=111|end_char=116
+7	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=117|end_char=122
+8	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=123|end_char=126
+9	!	!	PUNCT	.	_	8	punct	_	start_char=126|end_char=127
+

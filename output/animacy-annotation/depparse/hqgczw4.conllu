@@ -1,0 +1,35 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	rude	rude	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=4|end_char=8
+3	,	,	PUNCT	,	_	4	punct	_	start_char=8|end_char=9
+4	loud	loud	ADJ	JJ	Degree=Pos	2	conj	_	start_char=10|end_char=14
+5	,	,	PUNCT	,	_	6	punct	_	start_char=14|end_char=15
+6	racist	racist	ADJ	JJ	Degree=Pos	2	conj	_	start_char=16|end_char=22
+7	,	,	PUNCT	,	_	8	punct	_	start_char=22|end_char=23
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=24|end_char=32
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=33|end_char=36
+10	idiotic	idiotic	ADJ	JJ	Degree=Pos	2	conj	_	start_char=37|end_char=44
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=45|end_char=49
+12	can	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=50|end_char=53
+13	be	be	AUX	VB	VerbForm=Inf	0	root	_	start_char=54|end_char=56
+14	when	when	SCONJ	WRB	PronType=Int	16	mark	_	start_char=57|end_char=61
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=62|end_char=66
+16	visit	visit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=67|end_char=72
+17	somewhere	somewhere	ADV	RB	_	16	advmod	_	start_char=73|end_char=82
+18	other	other	ADJ	JJ	Degree=Pos	16	xcomp	_	start_char=83|end_char=88
+19	than	than	ADP	IN	_	20	case	_	start_char=89|end_char=93
+20	america	america	PROPN	NNP	Number=Sing	18	obl	_	start_char=94|end_char=101
+21	.	.	PUNCT	.	_	13	punct	_	start_char=101|end_char=102
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=105|end_char=106
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=107|end_char=111
+3	SO	so	ADV	RB	_	4	advmod	_	start_char=112|end_char=114
+4	many	many	ADJ	JJ	Degree=Pos	6	amod	_	start_char=115|end_char=119
+5	negative	negative	ADJ	JJ	Degree=Pos	6	amod	_	start_char=120|end_char=128
+6	experiences	experience	NOUN	NNS	Number=Plur	2	obj	_	start_char=129|end_char=140
+7	with	with	ADP	IN	_	10	case	_	start_char=141|end_char=145
+8	/	/	PUNCT	,	_	10	cc	_	start_char=145|end_char=146
+9	of	of	ADP	IN	_	10	case	_	start_char=146|end_char=148
+10	Americans	American	PROPN	NNPS	Number=Plur	6	nmod	_	start_char=149|end_char=158
+11	overseas	overseas	ADV	RB	_	2	advmod	_	start_char=159|end_char=167
+12	.	.	PUNCT	.	_	2	punct	_	start_char=167|end_char=168
+

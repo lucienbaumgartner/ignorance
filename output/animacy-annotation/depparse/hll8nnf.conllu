@@ -1,0 +1,43 @@
+1	Tian	Tian	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=4
+2	Guan	Guan	PROPN	NNP	Number=Sing	1	flat	_	start_char=5|end_char=9
+3	Ci	Ci	PROPN	NNP	Number=Sing	1	flat	_	start_char=10|end_char=12
+
+1	Fu	Fu	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=13|end_char=15
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=16|end_char=18
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=19|end_char=20
+4	story	story	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=26
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=27|end_char=31
+6	references	reference	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=32|end_char=42
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=43|end_char=46
+8	reflects	reflect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=47|end_char=55
+9	ideas	idea	NOUN	NNS	Number=Plur	8	obj	_	start_char=56|end_char=61
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=62|end_char=65
+11	concepts	concept	NOUN	NNS	Number=Plur	9	conj	_	start_char=66|end_char=74
+12	from	from	ADP	IN	_	14	case	_	start_char=75|end_char=79
+13	chinese	Chinese	ADJ	JJ	Degree=Pos	14	amod	_	start_char=80|end_char=87
+14	mythology	mythology	NOUN	NN	Number=Sing	9	nmod	_	start_char=88|end_char=97
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=98|end_char=101
+16	culture	culture	NOUN	NN	Number=Sing	14	conj	_	start_char=102|end_char=109
+17	.	.	PUNCT	.	_	4	punct	_	start_char=109|end_char=110
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=113|end_char=115
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=115|end_char=117
+3	quite	quite	ADV	RB	_	4	advmod	_	start_char=118|end_char=123
+4	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	0	root	_	start_char=124|end_char=137
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=138|end_char=141
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=142|end_char=150
+7	of	of	ADP	IN	_	8	case	_	start_char=151|end_char=153
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=154|end_char=157
+9	to	to	PART	TO	_	10	mark	_	start_char=158|end_char=160
+10	say	say	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=161|end_char=164
+11	that	that	SCONJ	IN	_	17	mark	_	start_char=165|end_char=169
+12	other	other	ADJ	JJ	Degree=Pos	13	amod	_	start_char=170|end_char=175
+13	countries	country	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=176|end_char=185
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=186|end_char=189
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=190|end_char=191
+16	better	good	ADJ	JJR	Degree=Cmp	17	amod	_	start_char=192|end_char=198
+17	home	home	NOUN	NN	Number=Sing	10	ccomp	_	start_char=199|end_char=203
+18	for	for	ADP	IN	_	19	case	_	start_char=204|end_char=207
+19	TGCF	TGCF	PROPN	NNP	Number=Sing	17	nmod	_	start_char=208|end_char=212
+20	.	.	PUNCT	.	_	4	punct	_	start_char=212|end_char=213
+

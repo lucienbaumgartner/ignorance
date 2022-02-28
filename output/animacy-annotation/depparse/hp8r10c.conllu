@@ -1,0 +1,24 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=0|end_char=4
+2	fucking	fucking	ADJ	JJ	Degree=Pos	6	amod	_	start_char=5|end_char=12
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=21
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=22|end_char=25
+5	stupid	stupid	ADJ	JJ	Degree=Pos	3	conj	_	start_char=26|end_char=32
+6	man	man	NOUN	NN	Number=Sing	0	root	_	start_char=33|end_char=36
+7	lol	lol	INTJ	UH	_	6	discourse	_	start_char=37|end_char=40
+8	.	.	PUNCT	.	_	6	punct	_	start_char=40|end_char=41
+
+1	Must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=42|end_char=46
+2	have	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=47|end_char=51
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	cop	_	start_char=52|end_char=56
+4	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=57|end_char=61
+5	growing	grow	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=62|end_char=69
+6	up	up	ADP	RP	_	5	compound:prt	_	start_char=70|end_char=72
+7	with	with	ADP	IN	_	10	case	_	start_char=73|end_char=77
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=78|end_char=79
+9	silver	silver	ADJ	JJ	Degree=Pos	10	amod	_	start_char=80|end_char=86
+10	spoon	spoon	NOUN	NN	Number=Sing	5	obl	_	start_char=87|end_char=92
+11	up	up	ADP	RP	_	5	compound:prt	_	start_char=93|end_char=95
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=96|end_char=100
+13	ass	ass	NOUN	NN	Number=Sing	5	obl	_	start_char=101|end_char=104
+14	.	.	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+

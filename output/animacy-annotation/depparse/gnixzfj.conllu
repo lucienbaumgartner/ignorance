@@ -1,0 +1,28 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=6
+4	narcissist	narcissist	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=17
+5	.	.	PUNCT	.	_	4	punct	_	start_char=17|end_char=18
+
+1	As	as	ADV	RB	_	2	advmod	_	start_char=19|end_char=21
+2	long	long	ADV	RB	Degree=Pos	15	advmod	_	start_char=22|end_char=26
+3	as	as	SCONJ	IN	_	5	mark	_	start_char=27|end_char=29
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=30|end_char=32
+5	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=33|end_char=37
+6	untreated	untreated	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=38|end_char=47
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=48|end_char=51
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=52|end_char=59
+9	of	of	ADP	IN	_	11	case	_	start_char=60|end_char=62
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=63|end_char=66
+11	personality	personality	NOUN	NN	Number=Sing	8	obl	_	start_char=67|end_char=78
+12	disorder	disorder	NOUN	NN	Number=Sing	8	obl	_	start_char=79|end_char=87
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=88|end_char=90
+14	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=91|end_char=94
+15	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=95|end_char=97
+16	real	real	ADJ	JJ	Degree=Pos	17	amod	_	start_char=98|end_char=102
+17	damage	damage	NOUN	NN	Number=Sing	15	obj	_	start_char=103|end_char=109
+18	to	to	ADP	IN	_	20	case	_	start_char=110|end_char=112
+19	other	other	ADJ	JJ	Degree=Pos	20	amod	_	start_char=113|end_char=118
+20	people	people	NOUN	NNS	Number=Plur	15	obl	_	start_char=119|end_char=125
+21	.	.	PUNCT	.	_	15	punct	_	start_char=125|end_char=126
+

@@ -1,0 +1,24 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj:pass	_	start_char=11|end_char=14
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=15|end_char=18
+6	so	so	ADV	RB	_	7	advmod	_	start_char=19|end_char=21
+7	polarized	polarize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	csubj	_	start_char=22|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=36|end_char=44
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=45|end_char=49
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=50|end_char=53
+12	automatically	automatically	ADV	RB	_	13	advmod	_	start_char=54|end_char=67
+13	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=68|end_char=72
+14	criticism	criticism	NOUN	NN	Number=Sing	13	obj	_	start_char=73|end_char=82
+15	of	of	ADP	IN	_	17	case	_	start_char=83|end_char=85
+16	one	one	NUM	CD	NumType=Card	17	nummod	_	start_char=86|end_char=89
+17	group	group	NOUN	NN	Number=Sing	14	nmod	_	start_char=90|end_char=95
+18	as	as	ADP	IN	_	20	case	_	start_char=96|end_char=98
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=99|end_char=102
+20	support	support	NOUN	NN	Number=Sing	13	obl	_	start_char=103|end_char=110
+21	of	of	ADP	IN	_	22	case	_	start_char=111|end_char=113
+22	another	another	DET	DT	_	20	nmod	_	start_char=114|end_char=121
+23	.	.	PUNCT	.	_	3	punct	_	start_char=121|end_char=122
+

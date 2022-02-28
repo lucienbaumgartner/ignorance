@@ -1,0 +1,31 @@
+1	Or	or	CCONJ	CC	_	3	cc	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3|end_char=5
+3	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=11
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=12|end_char=16
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=17|end_char=20
+6	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=20|end_char=23
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=25|end_char=33
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=34|end_char=37
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=38|end_char=45
+10	of	of	ADP	IN	_	11	case	_	start_char=46|end_char=48
+11	how	how	SCONJ	WRB	PronType=Int	9	obl	_	start_char=49|end_char=52
+12	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=53|end_char=56
+13	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=57|end_char=60
+14	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=61|end_char=66
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=67|end_char=71
+16	own	own	ADJ	JJ	Degree=Pos	17	amod	_	start_char=72|end_char=75
+17	words	word	NOUN	NNS	Number=Plur	14	obj	_	start_char=76|end_char=81
+18	against	against	ADP	IN	_	19	case	_	start_char=82|end_char=89
+19	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	start_char=90|end_char=93
+20	.	.	PUNCT	.	_	3	punct	_	start_char=93|end_char=94
+
+1	But	but	CCONJ	CC	_	8	cc	_	start_char=96|end_char=99
+2	no	no	INTJ	UH	_	8	discourse	_	start_char=100|end_char=102
+3	,	,	PUNCT	,	_	8	punct	_	start_char=102|end_char=103
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=104|end_char=105
+5	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=105|end_char=107
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=108|end_char=111
+7	malicious	malicious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=112|end_char=121
+8	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=122|end_char=125
+9	.	.	PUNCT	.	_	8	punct	_	start_char=125|end_char=126
+

@@ -1,0 +1,11 @@
+1	Not	not	PART	RB	_	6	advmod	_	start_char=0|end_char=3
+2	if	if	SCONJ	IN	_	6	mark	_	start_char=4|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=7|end_char=8
+4	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=9|end_char=11
+5	really	really	ADV	RB	_	6	advmod	_	start_char=12|end_char=18
+6	drunk	drunk	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=24
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=25|end_char=28
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=29|end_char=36
+9	of	of	ADP	IN	_	10	case	_	start_char=37|end_char=39
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=40|end_char=42
+

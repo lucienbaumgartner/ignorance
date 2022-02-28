@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	already	already	ADV	RB	_	5	advmod	_	start_char=2|end_char=9
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=10|end_char=13
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=14|end_char=18
+5	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=22
+6	to	to	PART	TO	_	7	mark	_	start_char=23|end_char=25
+7	do	do	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=26|end_char=28
+8	with	with	ADP	IN	_	10	case	_	start_char=29|end_char=33
+9	exactly	exactly	ADV	RB	_	10	advmod	_	start_char=34|end_char=41
+10	what	what	PRON	WP	PronType=Int	7	obl	_	start_char=42|end_char=46
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=47|end_char=50
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=51|end_char=54
+13	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	10	acl:relcl	_	start_char=55|end_char=62
+14	about	about	ADP	IN	_	13	obl	_	start_char=63|end_char=68
+15	but	but	CCONJ	CC	_	19	cc	_	start_char=69|end_char=72
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=73|end_char=76
+17	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=76|end_char=79
+18	to	to	ADP	IN	_	19	case	_	start_char=80|end_char=82
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=83|end_char=91
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=92|end_char=95
+21	full	full	ADJ	JJ	Degree=Pos	19	conj	_	start_char=96|end_char=100
+22	of	of	ADP	IN	_	23	case	_	start_char=101|end_char=103
+23	emotions	emotion	NOUN	NNS	Number=Plur	21	obl	_	start_char=104|end_char=112
+24	.	.	PUNCT	.	_	5	punct	_	start_char=112|end_char=113
+

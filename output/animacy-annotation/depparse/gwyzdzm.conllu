@@ -1,0 +1,19 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	post	post	NOUN	NN	Number=Sing	6	nsubj	_	start_char=5|end_char=9
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=12
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=13|end_char=14
+5	perfect	perfect	ADJ	JJ	Degree=Pos	6	amod	_	start_char=15|end_char=22
+6	representation	representation	NOUN	NN	Number=Sing	0	root	_	start_char=23|end_char=37
+7	of	of	ADP	IN	_	9	case	_	start_char=38|end_char=40
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=41|end_char=45
+9	sub	sub	NOUN	NN	Number=Sing	6	nmod	_	start_char=46|end_char=49
+10	.	.	PUNCT	.	_	6	punct	_	start_char=49|end_char=50
+
+1	Stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=57
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=58|end_char=61
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=62|end_char=70
+4	of	of	ADP	IN	_	6	case	_	start_char=71|end_char=73
+5	actual	actual	ADJ	JJ	Degree=Pos	6	amod	_	start_char=74|end_char=80
+6	facts	fact	NOUN	NNS	Number=Plur	1	obl	_	start_char=81|end_char=86
+7	.	.	PUNCT	.	_	1	punct	_	start_char=86|end_char=87
+

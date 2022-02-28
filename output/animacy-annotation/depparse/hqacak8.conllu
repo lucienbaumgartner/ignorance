@@ -1,0 +1,85 @@
+1	Black	Black	ADJ	JJ	Degree=Pos	3	amod	_	start_char=0|end_char=5
+2	hair	hair	NOUN	NN	Number=Sing	3	compound	_	start_char=6|end_char=10
+3	issues	issue	NOUN	NNS	Number=Plur	0	root	_	start_char=11|end_char=17
+4	?	?	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=19|end_char=20
+2	honestly	honestly	ADV	RB	_	3	advmod	_	start_char=21|end_char=29
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=30|end_char=35
+
+1	Any	any	DET	DT	_	2	det	_	start_char=36|end_char=39
+2	race	race	NOUN	NN	Number=Sing	4	nsubj	_	start_char=40|end_char=44
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=45|end_char=48
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=49|end_char=53
+5	any	any	DET	DT	_	6	det	_	start_char=54|end_char=57
+6	hairstyle	hairstyle	NOUN	NN	Number=Sing	4	obj	_	start_char=58|end_char=67
+7	and	and	CCONJ	CC	_	11	cc	_	start_char=68|end_char=71
+8	should	should	AUX	MD	VerbForm=Fin	11	aux	_	start_char=72|end_char=78
+9	n’t	not	PART	RB	_	11	advmod	_	start_char=78|end_char=81
+10	be	be	AUX	VB	VerbForm=Inf	11	aux:pass	_	start_char=82|end_char=84
+11	trashed	trash	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=85|end_char=92
+12	talked	talk	VERB	VBN	Tense=Past|VerbForm=Part	11	xcomp	_	start_char=93|end_char=99
+13	unless	unless	SCONJ	IN	_	15	mark	_	start_char=100|end_char=106
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=107|end_char=111
+15	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=112|end_char=116
+16	with	with	ADP	IN	_	22	case	_	start_char=117|end_char=121
+17	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=122|end_char=123
+18	complete	complete	ADJ	JJ	Degree=Pos	22	amod	_	start_char=124|end_char=132
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	22	amod	_	start_char=133|end_char=141
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=142|end_char=145
+21	RACIST	racist	ADJ	JJ	Degree=Pos	19	conj	_	start_char=146|end_char=152
+22	comment	comment	NOUN	NN	Number=Sing	15	obl	_	start_char=153|end_char=160
+23	!!!	!!!	PUNCT	.	_	4	punct	_	start_char=160|end_char=163
+
+1	Whites	white	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=164|end_char=170
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=171|end_char=174
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=175|end_char=179
+4	dreads	dread	NOUN	NNS	Number=Plur	3	obj	_	start_char=180|end_char=186
+5	.	.	PUNCT	.	_	3	punct	_	start_char=186|end_char=187
+
+1	African	African	ADJ	JJ	Degree=Pos	2	amod	_	start_char=188|end_char=195
+2	Americans	American	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=196|end_char=205
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=206|end_char=209
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=210|end_char=214
+5	blonde	blonde	NOUN	NN	Number=Sing	4	obj	_	start_char=215|end_char=221
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=222|end_char=225
+7	straight	straight	ADJ	JJ	Degree=Pos	8	amod	_	start_char=226|end_char=234
+8	hair	hair	NOUN	NN	Number=Sing	5	conj	_	start_char=235|end_char=239
+9	!!	!!	PUNCT	.	_	4	punct	_	start_char=240|end_char=242
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=243|end_char=248
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=248|end_char=250
+3	NO	no	DET	DT	_	4	det	_	start_char=251|end_char=253
+4	DIFFERENCE	difference	NOUN	NN	Number=Sing	2	nsubj	_	start_char=254|end_char=264
+5	.	.	PUNCT	.	_	2	punct	_	start_char=264|end_char=265
+
+1	Just	just	ADV	RB	_	4	advmod	_	start_char=266|end_char=270
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	_	start_char=271|end_char=273
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=273|end_char=276
+4	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=277|end_char=281
+5	for	for	ADP	IN	_	8	case	_	start_char=282|end_char=285
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=286|end_char=289
+7	white	white	ADJ	JJ	Degree=Pos	8	amod	_	start_char=290|end_char=295
+8	boy	boy	NOUN	NN	Number=Sing	4	obl	_	start_char=296|end_char=299
+9	if	if	SCONJ	IN	_	11	mark	_	start_char=300|end_char=302
+10	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=303|end_char=306
+11	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=307|end_char=311
+12	cheap	cheap	ADJ	JJ	Degree=Pos	13	amod	_	start_char=312|end_char=317
+13	weave	weave	NOUN	NN	Number=Sing	11	obj	_	start_char=318|end_char=323
+14	!	!	PUNCT	.	_	4	punct	_	start_char=323|end_char=324
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=325|end_char=326
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=327|end_char=332
+3	n’t	not	PART	RB	_	5	advmod	_	start_char=332|end_char=335
+4	of	have	AUX	VB	VerbForm=Inf	5	aux	_	start_char=336|end_char=338
+5	talked	talk	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=339|end_char=345
+6	any	any	DET	DT	_	7	det	_	start_char=346|end_char=349
+7	shit	shit	NOUN	NN	Number=Sing	5	obj	_	start_char=350|end_char=354
+8	if	if	SCONJ	IN	_	13	mark	_	start_char=355|end_char=357
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=358|end_char=360
+10	actually	actually	ADV	RB	_	13	advmod	_	start_char=361|end_char=369
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=370|end_char=373
+12	DECENT	decent	ADJ	JJ	Degree=Pos	13	amod	_	start_char=374|end_char=380
+13	TRACKS	track	NOUN	NNS	Number=Plur	5	advcl	_	start_char=381|end_char=387
+14	!!!	!!!	PUNCT	.	_	5	punct	_	start_char=387|end_char=390
+

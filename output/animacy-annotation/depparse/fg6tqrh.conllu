@@ -1,0 +1,24 @@
+1	Legit	Legit	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=6|end_char=8
+3	neighbors	neighbor	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=9|end_char=18
+4	black	black	ADJ	JJ	Degree=Pos	1	conj	_	start_char=19|end_char=24
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=29|end_char=31
+7	flys	fly	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=32|end_char=36
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=37|end_char=39
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=40|end_char=43
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=44|end_char=47
+11	just	just	ADV	RB	_	12	advmod	_	start_char=48|end_char=52
+12	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=53|end_char=55
+13	stupid	stupid	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=56|end_char=62
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=63|end_char=66
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=67|end_char=75
+16	that	that	SCONJ	IN	_	19	mark	_	start_char=76|end_char=80
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=81|end_char=84
+18	cant	cant	AUX	MD	VerbForm=Fin	19	aux	_	start_char=85|end_char=89
+19	handle	handle	VERB	VB	VerbForm=Inf	15	ccomp	_	start_char=90|end_char=96
+20	facts	fact	NOUN	NNS	Number=Plur	19	obj	_	start_char=97|end_char=102
+21	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	19	obj	_	start_char=103|end_char=106
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	23	amod	_	start_char=107|end_char=115
+23	slut	slut	NOUN	NN	Number=Sing	19	obj	_	start_char=116|end_char=120
+

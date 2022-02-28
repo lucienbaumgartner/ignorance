@@ -1,0 +1,13 @@
+1	and	and	CCONJ	CC	_	2	cc	_	start_char=0|end_char=3
+2	unaccountable	unaccountable	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=17
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=18|end_char=21
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=22|end_char=29
+5	that	that	SCONJ	IN	_	11	mark	_	start_char=30|end_char=34
+6	sea-level	sea-level	ADJ	JJ	Degree=Pos	7	amod	_	start_char=35|end_char=44
+7	rise	rise	NOUN	NN	Number=Sing	11	nsubj	_	start_char=45|end_char=49
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=50|end_char=53
+9	subsidence	subsidence	NOUN	NN	Number=Sing	7	conj	_	start_char=54|end_char=64
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=65|end_char=68
+11	things	thing	NOUN	NNS	Number=Plur	2	ccomp	_	start_char=69|end_char=75
+12	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+

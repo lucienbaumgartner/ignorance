@@ -1,0 +1,28 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	"	"	PUNCT	``	_	4	punct	_	start_char=9|end_char=10
+4	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=10|end_char=16
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=17|end_char=20
+6	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=21|end_char=26
+
+1	Em	eh	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=27|end_char=29
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=30|end_char=33
+3	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=38
+4	only	only	ADV	RB	_	10	advmod	_	start_char=39|end_char=43
+5	during	during	ADP	IN	_	8	case	_	start_char=44|end_char=50
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=51|end_char=54
+7	3	3	NUM	CD	NumType=Card	8	nummod	_	start_char=55|end_char=56
+8	albums	album	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=57|end_char=63
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=64|end_char=67
+10	stupid	stupid	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=68|end_char=74
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=75|end_char=78
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=79|end_char=87
+13	.	.	PUNCT	.	_	3	punct	_	start_char=87|end_char=88
+14	"	"	PUNCT	''	_	3	punct	_	start_char=88|end_char=89
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=90|end_char=94
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=95|end_char=97
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=98|end_char=100
+4	opinion	opinion	NOUN	NN	Number=Sing	0	root	_	start_char=101|end_char=108
+5	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+

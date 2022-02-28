@@ -1,0 +1,22 @@
+1	whats	what	VERB	VB	Mood=Ind|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=6|end_char=7
+3	thot	thot	NOUN	NN	Number=Sing	1	obj	_	start_char=8|end_char=12
+4	?	?	PUNCT	.	_	1	punct	_	start_char=12|end_char=13
+
+1	Asking	ask	VERB	VBG	VerbForm=Ger	0	root	_	start_char=15|end_char=21
+2	for	for	ADP	IN	_	4	case	_	start_char=22|end_char=25
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=26|end_char=27
+4	friend	friend	NOUN	NN	Number=Sing	1	obl	_	start_char=28|end_char=34
+5	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=35|end_char=39
+6	totally	totally	ADV	RB	_	10	advmod	_	start_char=40|end_char=47
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=48|end_char=50
+8	n't	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=50|end_char=53
+9	middle	middle	ADJ	JJ	Degree=Pos	10	advmod	_	start_char=54|end_char=60
+10	aged	aged	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=61|end_char=65
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=66|end_char=69
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=70|end_char=77
+13	of	of	ADP	IN	_	15	case	_	start_char=78|end_char=80
+14	such	such	ADJ	JJ	Degree=Pos	15	amod	_	start_char=81|end_char=85
+15	phrases	phrase	NOUN	NNS	Number=Plur	12	obl	_	start_char=86|end_char=93
+16	.	.	PUNCT	.	_	1	punct	_	start_char=93|end_char=94
+

@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	better	good	ADJ	JJR	Degree=Cmp	0	root	_	start_char=5|end_char=11
+4	to	to	PART	TO	_	5	mark	_	start_char=12|end_char=14
+5	know	know	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=15|end_char=19
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=20|end_char=23
+7	truth	truth	NOUN	NN	Number=Sing	5	obj	_	start_char=24|end_char=29
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=30|end_char=33
+9	feel	feel	VERB	VB	VerbForm=Inf	5	conj	_	start_char=34|end_char=38
+10	dumb	dumb	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=39|end_char=43
+11	for	for	ADP	IN	_	13	case	_	start_char=44|end_char=47
+12	5	5	NUM	CD	NumType=Card	13	nummod	_	start_char=48|end_char=49
+13	mins	minute	NOUN	NNS	Number=Plur	10	obl	_	start_char=50|end_char=54
+14	than	than	ADP	IN	_	15	mark	_	start_char=55|end_char=59
+15	stay	stay	VERB	VB	VerbForm=Inf	13	acl	_	start_char=60|end_char=64
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=65|end_char=73
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=74|end_char=77
+18	dumb	dumb	ADJ	JJ	Degree=Pos	16	conj	_	start_char=78|end_char=82
+19	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=83|end_char=87
+20	whole	whole	ADJ	JJ	Degree=Pos	21	amod	_	start_char=88|end_char=93
+21	life	life	NOUN	NN	Number=Sing	18	obj	_	start_char=94|end_char=98
+22	.	.	PUNCT	.	_	3	punct	_	start_char=98|end_char=99
+

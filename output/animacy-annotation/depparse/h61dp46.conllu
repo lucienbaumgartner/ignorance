@@ -1,0 +1,31 @@
+1	Not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	really	really	ADV	RB	_	0	root	_	start_char=4|end_char=10
+3	.	.	PUNCT	.	_	2	punct	_	start_char=10|end_char=11
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=12|end_char=13
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=18
+3	like	like	SCONJ	IN	_	7	mark	_	start_char=19|end_char=23
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=24|end_char=25
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	start_char=26|end_char=29
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=30|end_char=35
+7	naive	naive	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=36|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=53
+10	of	of	ADP	IN	_	13	case	_	start_char=54|end_char=56
+11	all	all	DET	PDT	_	13	det:predet	_	start_char=57|end_char=60
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=61|end_char=64
+13	problems	problem	NOUN	NNS	Number=Plur	9	obl	_	start_char=65|end_char=73
+14	that	that	PRON	WDT	PronType=Rel	17	nsubj	_	start_char=74|end_char=78
+15	would	would	AUX	MD	VerbForm=Fin	17	aux	_	start_char=79|end_char=84
+16	inevitably	inevitably	ADV	RB	_	17	advmod	_	start_char=85|end_char=95
+17	happen	happen	VERB	VB	VerbForm=Inf	13	acl:relcl	_	start_char=96|end_char=102
+18	,	,	PUNCT	,	_	24	punct	_	start_char=102|end_char=103
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=104|end_char=107
+20	naivety	naivety	NOUN	NN	Number=Sing	24	nsubj	_	start_char=108|end_char=115
+21	thinking	think	VERB	VBG	VerbForm=Ger	20	acl	_	start_char=116|end_char=124
+22	things	thing	NOUN	NNS	Number=Plur	24	nsubj	_	start_char=125|end_char=131
+23	would	would	AUX	MD	VerbForm=Fin	24	aux	_	start_char=132|end_char=137
+24	work	work	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=138|end_char=142
+25	out	out	ADP	RP	_	24	compound:prt	_	start_char=143|end_char=146
+26	.	.	PUNCT	.	_	2	punct	_	start_char=146|end_char=147
+

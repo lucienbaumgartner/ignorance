@@ -1,0 +1,35 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=47
+9	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=52
+10	people	people	NOUN	NNS	Number=Plur	9	obj	_	start_char=53|end_char=59
+11	not	not	ADV	RB	_	12	advmod	_	start_char=60|end_char=63
+12	drinking	drink	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=64|end_char=72
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=73|end_char=76
+14	koolaid	koolaid	NOUN	NN	Number=Sing	12	obj	_	start_char=77|end_char=84
+15	dumb	dumb	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=85|end_char=89
+16	.	.	PUNCT	.	_	1	punct	_	start_char=89|end_char=90
+
+1	Hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=91|end_char=95
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=96|end_char=98
+3	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=98|end_char=101
+4	not	not	PART	RB	_	5	advmod	_	start_char=102|end_char=105
+5	dead	dead	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=106|end_char=110
+6	in	in	ADP	IN	_	8	case	_	start_char=111|end_char=113
+7	12	12	NUM	CD	NumType=Card	8	nummod	_	start_char=114|end_char=116
+8	years	year	NOUN	NNS	Number=Plur	5	obl	_	start_char=117|end_char=122
+9	right	right	ADV	RB	_	8	advmod	_	start_char=123|end_char=128
+10	.	.	PUNCT	.	_	1	punct	_	start_char=128|end_char=129
+
+1	Lol	lol	INTJ	UH	_	6	discourse	_	start_char=130|end_char=133
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	compound	_	start_char=134|end_char=137
+3	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=138|end_char=144
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=145|end_char=148
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=149|end_char=150
+6	joke	joke	NOUN	NN	Number=Sing	0	root	_	start_char=151|end_char=155
+

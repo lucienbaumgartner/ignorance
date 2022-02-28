@@ -1,0 +1,57 @@
+1	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	nobody	nobody	PRON	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=10
+3	ever	ever	ADV	RB	_	4	advmod	_	start_char=11|end_char=15
+4	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=16|end_char=20
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=21|end_char=24
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=25|end_char=28
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=29|end_char=35
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=36|end_char=39
+9	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=40|end_char=43
+10	?	?	PUNCT	.	_	4	punct	_	start_char=43|end_char=44
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=45|end_char=48
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=48|end_char=51
+3	clearly	clearly	ADV	RB	_	4	advmod	_	start_char=52|end_char=59
+4	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=60|end_char=70
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=71|end_char=74
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=75|end_char=83
+7	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=85|end_char=89
+2	alone	alone	ADV	RB	_	4	advmod	_	start_char=90|end_char=95
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=96|end_char=102
+4	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=103|end_char=107
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=108|end_char=112
+6	reconsider	reconsider	NOUN	NN	Number=Sing	4	obj	_	start_char=113|end_char=123
+7	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=124|end_char=128
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=129|end_char=132
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=133|end_char=137
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=138|end_char=141
+11	urge	urge	NOUN	NN	Number=Sing	9	obj	_	start_char=142|end_char=146
+12	to	to	PART	TO	_	13	mark	_	start_char=147|end_char=149
+13	make	make	VERB	VB	VerbForm=Inf	11	acl	_	start_char=150|end_char=154
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=155|end_char=159
+15	own	own	ADJ	JJ	Degree=Pos	16	amod	_	start_char=160|end_char=163
+16	decisions	decision	NOUN	NNS	Number=Plur	13	obj	_	start_char=164|end_char=173
+17	.	.	PUNCT	.	_	4	punct	_	start_char=173|end_char=174
+
+1	Fucking	fucking	ADJ	JJ	Degree=Pos	2	amod	_	start_char=176|end_char=183
+2	sheep	sheep	NOUN	NNS	Number=Plur	0	root	_	start_char=184|end_char=189
+3	that	that	PRON	WDT	PronType=Rel	4	nsubj	_	start_char=190|end_char=194
+4	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=195|end_char=202
+5	everything	everything	PRON	NN	Number=Sing	4	obj	_	start_char=203|end_char=213
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=214|end_char=218
+7	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=219|end_char=223
+8	on	on	ADP	IN	_	9	case	_	start_char=224|end_char=226
+9	Facebook	Facebook	PROPN	NNP	Number=Sing	7	obl	_	start_char=227|end_char=235
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=236|end_char=239
+11	crappy	crappy	ADJ	JJ	Degree=Pos	13	amod	_	start_char=240|end_char=246
+12	RW	RW	PROPN	NNP	Number=Sing	13	compound	_	start_char=247|end_char=249
+13	sites	site	NOUN	NNS	Number=Plur	9	conj	_	start_char=250|end_char=255
+14	calling	call	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=256|end_char=263
+15	other	other	ADJ	JJ	Degree=Pos	17	amod	_	start_char=264|end_char=269
+16	people	people	NOUN	NNS	Number=Plur	17	compound	_	start_char=270|end_char=276
+17	sheep	sheep	NOUN	NNS	Number=Plur	14	obj	_	start_char=277|end_char=282
+18	.	.	PUNCT	.	_	2	punct	_	start_char=282|end_char=283
+19	🙄	''	PUNCT	''	_	2	punct	_	start_char=283|end_char=284
+

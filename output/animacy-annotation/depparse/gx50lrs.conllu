@@ -1,0 +1,35 @@
+1	Ok	ok	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	bro	bro	INTJ	UH	_	1	discourse	_	start_char=3|end_char=6
+
+1	Yes	yes	INTJ	UH	_	6	discourse	_	start_char=8|end_char=11
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=12|end_char=14
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=14|end_char=16
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=18
+5	stupid	stupid	ADJ	JJ	Degree=Pos	6	amod	_	start_char=19|end_char=25
+6	mistake	mistake	NOUN	NN	Number=Sing	0	root	_	start_char=26|end_char=33
+7	but	but	CCONJ	CC	_	21	cc	_	start_char=34|end_char=37
+8	to	to	PART	TO	_	9	mark	_	start_char=38|end_char=40
+9	pretend	pretend	VERB	VB	VerbForm=Inf	21	advcl	_	start_char=41|end_char=48
+10	like	like	SCONJ	IN	_	12	mark	_	start_char=49|end_char=53
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=54|end_char=58
+12	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=59|end_char=66
+13	all	all	DET	PDT	_	15	det:predet	_	start_char=67|end_char=70
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=71|end_char=74
+15	time	time	NOUN	NN	Number=Sing	12	obj	_	start_char=75|end_char=79
+16	or	or	CCONJ	CC	_	18	cc	_	start_char=80|end_char=82
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=83|end_char=85
+18	inexcusable	inexcusable	ADJ	JJ	Degree=Pos	12	conj	_	start_char=86|end_char=97
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=98|end_char=100
+20	just	just	ADV	RB	_	21	advmod	_	start_char=101|end_char=105
+21	elitist	elitist	ADJ	JJ	Degree=Pos	6	conj	_	start_char=106|end_char=113
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=114|end_char=117
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=118|end_char=126
+24	.	.	PUNCT	.	_	6	punct	_	start_char=126|end_char=127
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=128|end_char=132
+2	comparison	comparison	NOUN	NN	Number=Sing	5	nsubj	_	start_char=133|end_char=143
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=144|end_char=146
+4	beyond	beyond	ADP	IN	_	5	case	_	start_char=147|end_char=153
+5	moronic	moronic	ADJ	JJ	Degree=Pos	0	root	_	start_char=154|end_char=161
+6	.	.	PUNCT	.	_	5	punct	_	start_char=161|end_char=162
+

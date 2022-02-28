@@ -1,0 +1,33 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=5
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=6|end_char=9
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=10|end_char=11
+5	bigger	big	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=12|end_char=18
+6	initiative	initiative	NOUN	NN	Number=Sing	3	obj	_	start_char=19|end_char=29
+7	on	on	ADP	IN	_	8	case	_	start_char=30|end_char=32
+8	vaccines	vaccine	NOUN	NNS	Number=Plur	6	nmod	_	start_char=33|end_char=41
+9	and	and	CCONJ	CC	_	12	cc	_	start_char=42|end_char=45
+10	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=46|end_char=49
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=50|end_char=52
+12	handle	handle	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=53|end_char=59
+13	future	future	ADJ	JJ	Degree=Pos	14	amod	_	start_char=60|end_char=66
+14	pandemics	pandemic	NOUN	NNS	Number=Plur	12	obj	_	start_char=67|end_char=76
+15	.	.	PUNCT	.	_	3	punct	_	start_char=76|end_char=77
+
+1	From	from	ADP	IN	_	3	case	_	start_char=78|end_char=82
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=83|end_char=86
+3	looks	look	NOUN	NNS	Number=Plur	9	obl	_	start_char=87|end_char=92
+4	of	of	ADP	IN	_	5	case	_	start_char=93|end_char=95
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nmod	_	start_char=96|end_char=98
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=99|end_char=102
+7	world	world	NOUN	NN	Number=Sing	9	nsubj	_	start_char=103|end_char=108
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=109|end_char=112
+9	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=113|end_char=120
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=121|end_char=124
+11	unprepared	unprepared	ADJ	JJ	Degree=Pos	9	conj	_	start_char=125|end_char=135
+12	for	for	SCONJ	IN	_	13	case	_	start_char=136|end_char=139
+13	what	what	PRON	WP	PronType=Int	11	obl	_	start_char=140|end_char=144
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=145|end_char=148
+15	gonna	gonna	PART	TO	_	16	mark	_	start_char=149|end_char=154
+16	happen	happen	VERB	VB	VerbForm=Inf	13	acl:relcl	_	start_char=155|end_char=161
+

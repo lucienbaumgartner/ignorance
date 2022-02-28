@@ -1,0 +1,22 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	dumb	dumb	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=35|end_char=39
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=40|end_char=43
+9	wave	wave	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=44|end_char=48
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=49|end_char=50
+11	flag	flag	NOUN	NN	Number=Sing	9	obj	_	start_char=51|end_char=55
+12	from	from	ADP	IN	_	13	case	_	start_char=56|end_char=60
+13	Virginia	Virginia	PROPN	NNP	Number=Sing	11	nmod	_	start_char=61|end_char=69
+14	to	to	PART	TO	_	15	mark	_	start_char=70|end_char=72
+15	symbolize	symbolize	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=73|end_char=82
+16	Alabama	Alabama	PROPN	NNP	Number=Sing	19	nmod:poss	_	start_char=83|end_char=90
+17	’s	's	PART	POS	_	16	case	_	start_char=90|end_char=92
+18	“	''	PUNCT	``	_	19	punct	_	start_char=93|end_char=94
+19	heritage	heritage	NOUN	NN	Number=Sing	15	obj	_	start_char=94|end_char=102
+20	”	''	PUNCT	''	_	19	punct	_	start_char=102|end_char=103
+21	.	.	PUNCT	.	_	1	punct	_	start_char=103|end_char=104
+

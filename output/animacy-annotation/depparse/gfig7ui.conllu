@@ -1,0 +1,49 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj:pass	_	start_char=0|end_char=2
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=3|end_char=6
+3	spoiled	spoiled	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=7|end_char=14
+4	rotten	rotten	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=15|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=33
+7	of	of	ADP	IN	_	9	case	_	start_char=34|end_char=36
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=37|end_char=40
+9	privileges	privilege	NOUN	NNS	Number=Plur	6	obl	_	start_char=41|end_char=51
+10	.	.	PUNCT	.	_	4	punct	_	start_char=51|end_char=52
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=53|end_char=54
+2	just	just	ADV	RB	_	3	advmod	_	start_char=55|end_char=59
+3	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=60|end_char=63
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=64|end_char=65
+5	post	post	NOUN	NN	Number=Sing	3	obj	_	start_char=66|end_char=70
+6	on	on	ADP	IN	_	9	case	_	start_char=71|end_char=73
+7	/	/	SYM	,	_	8	punct	_	start_char=74|end_char=75
+8	r/	r/	NOUN	NN	Number=Sing	9	compound	_	start_char=75|end_char=77
+9	worldnews	worldnew	NOUN	NNS	Number=Plur	5	nmod	_	start_char=77|end_char=86
+10	that	that	PRON	WDT	PronType=Rel	15	obj	_	start_char=87|end_char=91
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=92|end_char=95
+12	Canadian	Canadian	ADJ	JJ	Degree=Pos	13	amod	_	start_char=96|end_char=104
+13	Government	Government	PROPN	NNP	Number=Sing	15	nsubj	_	start_char=105|end_char=115
+14	will	will	AUX	MD	VerbForm=Fin	15	aux	_	start_char=116|end_char=120
+15	pay	pay	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=121|end_char=124
+16	for	for	ADP	IN	_	19	case	_	start_char=125|end_char=128
+17	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=129|end_char=132
+18	citizens	citizen	NOUN	NNS	Number=Plur	19	compound	_	start_char=133|end_char=141
+19	vaccins	vaccin	NOUN	NNS	Number=Plur	15	obl	_	start_char=142|end_char=149
+20	,	,	PUNCT	,	_	21	punct	_	start_char=149|end_char=150
+21	everybody	everybody	PRON	NN	Number=Sing	19	appos	_	start_char=151|end_char=160
+22	happy	happy	ADJ	JJ	Degree=Pos	21	amod	_	start_char=161|end_char=166
+23	.	.	PUNCT	.	_	3	punct	_	start_char=166|end_char=167
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=168|end_char=169
+2	blundly	blundly	ADV	RB	_	3	advmod	_	start_char=170|end_char=177
+3	assumed	assume	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=178|end_char=185
+4	every	every	DET	DT	_	5	det	_	start_char=186|end_char=191
+5	government	government	NOUN	NN	Number=Sing	6	nsubj	_	start_char=192|end_char=202
+6	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=203|end_char=206
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=207|end_char=211
+8	.	.	PUNCT	.	_	3	punct	_	start_char=211|end_char=212
+
+1	(	(	PUNCT	-LRB-	_	3	punct	_	start_char=213|end_char=214
+2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=214|end_char=217
+3	Netherlands	Netherlands	PROPN	NNPS	Number=Plur	0	root	_	start_char=218|end_char=229
+4	)	)	PUNCT	-RRB-	_	3	punct	_	start_char=229|end_char=230
+

@@ -1,0 +1,68 @@
+1	Dude	dude	NOUN	NN	Number=Sing	4	vocative	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	4	punct	_	start_char=4|end_char=5
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=7
+4	minored	minor	VERB	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=15
+5	in	in	ADP	IN	_	6	case	_	start_char=16|end_char=18
+6	Philosophy	philosophy	PROPN	NNP	Number=Sing	4	obl	_	start_char=19|end_char=29
+7	(	(	PUNCT	-LRB-	_	10	punct	_	start_char=30|end_char=31
+8	Logic	logic	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=31|end_char=36
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=37|end_char=39
+10	philosophy	philosophy	NOUN	NN	Number=Sing	4	parataxis	_	start_char=40|end_char=50
+11	)	)	PUNCT	-RRB-	_	10	punct	_	start_char=50|end_char=51
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=52|end_char=55
+13	graduated	graduate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=56|end_char=65
+14	with	with	ADP	IN	_	15	case	_	start_char=66|end_char=70
+15	Honors	Honors	PROPN	NNPS	Number=Plur	13	obl	_	start_char=71|end_char=77
+16	.	.	PUNCT	.	_	4	punct	_	start_char=77|end_char=78
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=79|end_char=80
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=81|end_char=85
+3	contradictions	contradiction	NOUN	NNS	Number=Plur	2	obj	_	start_char=86|end_char=100
+4	.	.	PUNCT	.	_	2	punct	_	start_char=100|end_char=101
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=102|end_char=105
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=106|end_char=109
+3	so	so	ADV	RB	_	4	advmod	_	start_char=110|end_char=112
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=113|end_char=123
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=124|end_char=130
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=131|end_char=134
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=135|end_char=143
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=144|end_char=148
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=149|end_char=150
+10	cant	cant	AUX	MD	VerbForm=Fin	11	aux	_	start_char=151|end_char=155
+11	believe	believe	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=156|end_char=163
+
+1	Im	Im	NOUN	NN	Number=Sing	0	root	_	start_char=164|end_char=166
+2	talking	talk	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=167|end_char=174
+3	to	to	ADP	IN	_	4	case	_	start_char=175|end_char=177
+4	anyone	anyone	PRON	NN	Number=Sing	2	obl	_	start_char=178|end_char=184
+5	above	above	ADP	IN	_	7	case	_	start_char=185|end_char=190
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=191|end_char=194
+7	age	age	NOUN	NN	Number=Sing	4	nmod	_	start_char=195|end_char=198
+8	of	of	ADP	IN	_	9	case	_	start_char=199|end_char=201
+9	13	13	NUM	CD	NumType=Card	7	nmod	_	start_char=202|end_char=204
+10	or	or	CCONJ	CC	_	14	cc	_	start_char=205|end_char=207
+11	possibly	possibly	ADV	RB	_	14	advmod	_	start_char=208|end_char=216
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=217|end_char=218
+13	highschool	highschool	NOUN	NN	Number=Sing	14	compound	_	start_char=219|end_char=229
+14	drop	drop	NOUN	NN	Number=Sing	7	conj	_	start_char=230|end_char=234
+15	out	out	ADP	RP	_	14	advmod	_	start_char=235|end_char=238
+
+1	There	there	PRON	EX	_	6	expl	_	start_char=240|end_char=245
+2	hasnt	hasnt	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=246|end_char=251
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	start_char=252|end_char=256
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=257|end_char=258
+5	single	single	ADJ	JJ	Degree=Pos	6	amod	_	start_char=259|end_char=265
+6	contradiction	contradiction	NOUN	NN	Number=Sing	0	root	_	start_char=266|end_char=279
+7	.	.	PUNCT	.	_	6	punct	_	start_char=279|end_char=280
+
+1	Just	just	ADV	RB	_	3	advmod	_	start_char=281|end_char=285
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=286|end_char=290
+3	inability	inability	NOUN	NN	Number=Sing	0	root	_	start_char=291|end_char=300
+4	to	to	PART	TO	_	5	mark	_	start_char=301|end_char=303
+5	understand	understand	VERB	VB	VerbForm=Inf	3	acl	_	start_char=304|end_char=314
+6	what	what	PRON	WP	PronType=Int	9	nsubj:pass	_	start_char=315|end_char=319
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=320|end_char=323
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	aux:pass	_	start_char=324|end_char=328
+9	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	ccomp	_	start_char=329|end_char=333
+

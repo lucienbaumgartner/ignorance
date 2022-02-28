@@ -1,0 +1,51 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5|end_char=7
+2	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+3	back	back	ADV	RB	_	2	advmod	_	start_char=13|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	forth	forth	ADV	RB	_	3	conj	_	start_char=22|end_char=27
+6	between	between	ADP	IN	_	7	case	_	start_char=28|end_char=35
+7	Biden	Biden	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=36|end_char=41
+8	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=42|end_char=47
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=48|end_char=51
+10	mastermind	mastermind	NOUN	NN	Number=Sing	2	advcl	_	start_char=52|end_char=62
+11	behind	behind	ADP	IN	_	14	case	_	start_char=63|end_char=69
+12	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=70|end_char=74
+13	evil	evil	ADJ	JJ	Degree=Pos	14	amod	_	start_char=75|end_char=79
+14	plot	plot	NOUN	NN	Number=Sing	10	nmod	_	start_char=80|end_char=84
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=85|end_char=88
+16	being	be	AUX	VBG	VerbForm=Ger	17	cop	_	start_char=89|end_char=94
+17	incompetent	incompetent	ADJ	JJ	Degree=Pos	10	conj	_	start_char=95|end_char=106
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=107|end_char=110
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	conj	_	start_char=111|end_char=118
+20	of	of	ADP	IN	_	22	case	_	start_char=119|end_char=121
+21	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=122|end_char=125
+22	surroundings	surroundings	NOUN	NNS	Number=Plur	19	obl	_	start_char=126|end_char=138
+23	.	.	PUNCT	.	_	2	punct	_	start_char=138|end_char=139
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=141|end_char=142
+2	#	#	SYM	NN	Number=Sing	0	root	_	start_char=142|end_char=143
+3	8	8	NUM	CD	NumType=Card	2	nummod	_	start_char=143|end_char=144
+4	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=144|end_char=145
+5	(	(	PUNCT	-LRB-	_	6	punct	_	start_char=145|end_char=146
+6	https://www.faena.com/aleph/articles/umberto-eco-a-practical-list-for-identifying-fascists/)	https://www.faena.com/aleph/articles/umberto-eco-a-practical-list-for-identifying-fascists/)	X	ADD	_	2	list	_	start_char=146|end_char=238
+
+1	Also	also	ADV	RB	_	2	advmod	_	start_char=240|end_char=244
+2	1	1	NUM	CD	NumType=Card	0	root	_	start_char=245|end_char=246
+3	,	,	PUNCT	,	_	2	punct	_	start_char=246|end_char=247
+4	2	2	NUM	CD	NumType=Card	2	appos	_	start_char=248|end_char=249
+5	,	,	PUNCT	,	_	2	punct	_	start_char=249|end_char=250
+6	possibly	possibly	ADV	RB	_	7	advmod	_	start_char=251|end_char=259
+7	3	3	NUM	CD	NumType=Card	2	conj	_	start_char=260|end_char=261
+8	,	,	PUNCT	,	_	7	punct	_	start_char=261|end_char=262
+9	4	4	NUM	CD	NumType=Card	7	conj	_	start_char=263|end_char=264
+10	,	,	PUNCT	,	_	7	punct	_	start_char=264|end_char=265
+11	7	7	NUM	CD	NumType=Card	7	conj	_	start_char=266|end_char=267
+12	,	,	PUNCT	,	_	7	punct	_	start_char=267|end_char=268
+13	9	9	NUM	CD	NumType=Card	11	nummod	_	start_char=269|end_char=270
+14	,	,	PUNCT	,	_	2	punct	_	start_char=270|end_char=271
+15	12	12	NUM	CD	NumType=Card	13	nummod	_	start_char=272|end_char=274
+16	.	.	PUNCT	.	_	2	punct	_	start_char=274|end_char=275
+

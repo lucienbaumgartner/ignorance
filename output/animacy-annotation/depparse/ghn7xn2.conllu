@@ -1,0 +1,27 @@
+1	Anti-science	anti-science	ADJ	JJ	Degree=Pos	8	nsubj	_	start_char=0|end_char=12
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=13|end_char=16
+3	anti-intelectualism	anti-intelectualism	NOUN	NN	Number=Sing	1	conj	_	start_char=17|end_char=36
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=37|end_char=40
+5	two	two	NUM	CD	NumType=Card	8	nummod	_	start_char=41|end_char=44
+6	entirely	entirely	ADV	RB	_	7	advmod	_	start_char=45|end_char=53
+7	different	different	ADJ	JJ	Degree=Pos	8	amod	_	start_char=54|end_char=63
+8	things	thing	NOUN	NNS	Number=Plur	0	root	_	start_char=64|end_char=70
+
+1	Like	like	INTJ	UH	_	0	root	_	start_char=72|end_char=76
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=77|end_char=78
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=79|end_char=83
+3	before	before	ADV	RB	_	2	advmod	_	start_char=84|end_char=90
+4	,	,	PUNCT	,	_	2	punct	_	start_char=90|end_char=91
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=92|end_char=95
+6	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=96|end_char=100
+7	confused	confused	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=101|end_char=109
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=110|end_char=113
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=114|end_char=121
+10	of	of	ADP	IN	_	11	case	_	start_char=122|end_char=124
+11	what	what	DET	WDT	PronType=Int	9	obl	_	start_char=125|end_char=129
+12	intellectualism	intellectualism	NOUN	NN	Number=Sing	14	nsubj	_	start_char=130|end_char=145
+13	actually	actually	ADV	RB	_	14	advmod	_	start_char=146|end_char=154
+14	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=155|end_char=160
+15	.	.	PUNCT	.	_	2	punct	_	start_char=160|end_char=161
+

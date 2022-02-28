@@ -1,0 +1,87 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	Canadian	Canadian	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=12
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=13|end_char=16
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=17|end_char=18
+6	gotta	gotta	AUX	MD	VerbForm=Fin	7	aux	_	start_char=19|end_char=24
+7	say	say	VERB	VB	VerbForm=Inf	3	conj	_	start_char=25|end_char=28
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=29|end_char=30
+9	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=31|end_char=35
+10	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=36|end_char=39
+11	absorbed	absorb	VERB	VBN	Tense=Past|VerbForm=Part	9	ccomp	_	start_char=40|end_char=48
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	start_char=49|end_char=51
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=52|end_char=55
+14	of	of	ADP	IN	_	16	case	_	start_char=56|end_char=58
+15	American	American	ADJ	JJ	Degree=Pos	16	amod	_	start_char=59|end_char=67
+16	culture	culture	NOUN	NN	Number=Sing	11	ccomp	_	start_char=68|end_char=75
+17	.	.	PUNCT	.	_	3	punct	_	start_char=75|end_char=76
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	8	discourse	_	start_char=77|end_char=82
+2	,	,	PUNCT	,	_	8	punct	_	start_char=82|end_char=83
+3	guys	guy	NOUN	NNS	Number=Plur	8	vocative	_	start_char=84|end_char=88
+4	,	,	PUNCT	,	_	8	punct	_	start_char=88|end_char=89
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=90|end_char=93
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=93|end_char=96
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	_	start_char=97|end_char=101
+8	neighbours	neighbour	NOUN	NNS	Number=Plur	0	root	_	start_char=102|end_char=112
+9	but	but	CCONJ	CC	_	13	cc	_	start_char=113|end_char=116
+10	...	...	PUNCT	,	_	13	punct	_	start_char=116|end_char=119
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=120|end_char=123
+12	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=123|end_char=126
+13	arrogant	arrogant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=127|end_char=135
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=136|end_char=139
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=140|end_char=148
+16	of	of	ADP	IN	_	18	case	_	start_char=149|end_char=151
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=152|end_char=155
+18	rest	rest	NOUN	NN	Number=Sing	15	obl	_	start_char=156|end_char=160
+19	of	of	ADP	IN	_	21	case	_	start_char=161|end_char=163
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=164|end_char=167
+21	world	world	NOUN	NN	Number=Sing	18	nmod	_	start_char=168|end_char=173
+22	.	.	PUNCT	.	_	8	punct	_	start_char=173|end_char=174
+
+1	Canada	Canada	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=175|end_char=181
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=182|end_char=186
+3	to	to	PART	TO	_	6	mark	_	start_char=187|end_char=189
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=190|end_char=192
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=193|end_char=196
+6	country	country	NOUN	NN	Number=Sing	2	xcomp	_	start_char=197|end_char=204
+7	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=205|end_char=209
+8	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=210|end_char=213
+9	along	along	ADV	RB	_	8	advmod	_	start_char=214|end_char=219
+10	with	with	ADP	IN	_	11	case	_	start_char=220|end_char=224
+11	everyone	everyone	PRON	NN	Number=Sing	8	obl	_	start_char=225|end_char=233
+12	.	.	PUNCT	.	_	2	punct	_	start_char=233|end_char=234
+
+1	Now	now	ADV	RB	_	7	advmod	_	start_char=235|end_char=238
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=239|end_char=241
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=241|end_char=244
+4	all	all	ADV	RB	_	7	advmod	_	start_char=245|end_char=248
+5	just	just	ADV	RB	_	7	advmod	_	start_char=249|end_char=253
+6	as	as	ADV	RB	_	7	advmod	_	start_char=254|end_char=256
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=257|end_char=265
+8	.	.	PUNCT	.	_	7	punct	_	start_char=265|end_char=266
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=267|end_char=271
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=272|end_char=276
+3	throwing	throw	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=277|end_char=285
+4	Trump	Trump	PROPN	NNP	Number=Sing	5	compound	_	start_char=286|end_char=291
+5	rallies	rally	NOUN	NNS	Number=Plur	3	obj	_	start_char=292|end_char=299
+6	in	in	ADP	IN	_	8	case	_	start_char=300|end_char=302
+7	big	big	ADJ	JJ	Degree=Pos	8	amod	_	start_char=303|end_char=306
+8	cities	city	NOUN	NNS	Number=Plur	3	obl	_	start_char=307|end_char=313
+9	up	up	ADP	IN	_	10	case	_	start_char=314|end_char=316
+10	here	here	ADV	RB	PronType=Dem	3	obl	_	start_char=317|end_char=321
+11	.	.	PUNCT	.	_	3	punct	_	start_char=321|end_char=322
+
+1	Um	um	INTJ	UH	_	6	discourse	_	start_char=323|end_char=325
+2	hello	hello	INTJ	UH	_	6	discourse	_	start_char=326|end_char=331
+3	,	,	PUNCT	,	_	6	punct	_	start_char=331|end_char=332
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=333|end_char=336
+5	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=336|end_char=339
+6	Canadian	Canadian	ADJ	JJ	Degree=Pos	0	root	_	start_char=340|end_char=348
+7	?	?	PUNCT	.	_	6	punct	_	start_char=348|end_char=349
+
+1	Wrong	wrong	ADJ	JJ	Degree=Pos	2	amod	_	start_char=350|end_char=355
+2	politician	politician	NOUN	NN	Number=Sing	0	root	_	start_char=356|end_char=366
+3	.	.	PUNCT	.	_	2	punct	_	start_char=366|end_char=367
+

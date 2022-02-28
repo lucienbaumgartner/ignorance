@@ -1,0 +1,89 @@
+1	Most	most	ADJ	JJS	Degree=Sup	6	nsubj:pass	_	start_char=0|end_char=4
+2	of	of	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=8|end_char=13
+4	guns	gun	NOUN	NNS	Number=Plur	1	nmod	_	start_char=14|end_char=18
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=19|end_char=22
+6	purchased	purchase	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=23|end_char=32
+7	in	in	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	states	state	NOUN	NNS	Number=Plur	6	obl	_	start_char=36|end_char=42
+9	with	with	ADP	IN	_	12	case	_	start_char=43|end_char=47
+10	no	no	DET	DT	_	12	det	_	start_char=48|end_char=50
+11	gun	gun	NOUN	NN	Number=Sing	12	compound	_	start_char=51|end_char=54
+12	control	control	NOUN	NN	Number=Sing	6	obl	_	start_char=55|end_char=62
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=63|end_char=66
+14	illegally	illegally	ADV	RB	_	15	advmod	_	start_char=67|end_char=76
+15	transferred	transfer	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	_	start_char=77|end_char=88
+16	across	across	ADP	IN	_	18	case	_	start_char=89|end_char=95
+17	state	state	NOUN	NN	Number=Sing	18	compound	_	start_char=96|end_char=101
+18	lines	line	NOUN	NNS	Number=Plur	15	obl	_	start_char=102|end_char=107
+19	.	.	PUNCT	.	_	6	punct	_	start_char=107|end_char=108
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=111|end_char=113
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=114|end_char=118
+3	comment	comment	NOUN	NN	Number=Sing	5	nsubj	_	start_char=119|end_char=126
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=127|end_char=129
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=130|end_char=136
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=137|end_char=140
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=141|end_char=149
+8	of	of	ADP	IN	_	9	case	_	start_char=150|end_char=152
+9	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=153|end_char=160
+10	.	.	PUNCT	.	_	5	punct	_	start_char=160|end_char=161
+
+1	Nation	Nation	NOUN	NN	Number=Sing	2	compound	_	start_char=162|end_char=168
+2	gun	gun	NOUN	NN	Number=Sing	3	compound	_	start_char=169|end_char=172
+3	laws	law	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=173|end_char=177
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=178|end_char=183
+5	fix	fix	VERB	VB	VerbForm=Inf	0	root	_	start_char=184|end_char=187
+6	most	most	ADJ	JJS	Degree=Sup	5	obj	_	start_char=188|end_char=192
+7	of	of	ADP	IN	_	9	case	_	start_char=193|end_char=195
+8	those	that	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=196|end_char=201
+9	problems	problem	NOUN	NNS	Number=Plur	6	obl	_	start_char=202|end_char=210
+10	.	.	PUNCT	.	_	5	punct	_	start_char=210|end_char=211
+
+1	Aide	aide	NOUN	NN	Number=Sing	0	root	_	start_char=213|end_char=217
+2	from	from	ADP	IN	_	4	case	_	start_char=218|end_char=222
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=223|end_char=227
+4	stupidity	stupidity	NOUN	NN	Number=Sing	1	nmod	_	start_char=228|end_char=237
+5	...	...	PUNCT	.	_	1	punct	_	start_char=237|end_char=240
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=241|end_char=243
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=244|end_char=247
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=248|end_char=253
+4	gun	gun	NOUN	NN	Number=Sing	5	compound	_	start_char=254|end_char=257
+5	control	control	NOUN	NN	Number=Sing	6	nsubj	_	start_char=258|end_char=265
+6	failed	fail	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=266|end_char=272
+7	in	in	ADP	IN	_	8	case	_	start_char=273|end_char=275
+8	Australia	Australia	PROPN	NNP	Number=Sing	6	obl	_	start_char=276|end_char=285
+9	?	?	PUNCT	.	_	3	punct	_	start_char=285|end_char=286
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=289|end_char=293
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=294|end_char=297
+3	guns	gun	NOUN	NNS	Number=Plur	2	obj	_	start_char=298|end_char=302
+4	&gt	&gt	NOUN	NNS	Number=Sing	2	obj	_	start_char=303|end_char=306
+5	;	;	PUNCT	,	_	2	punct	_	start_char=306|end_char=307
+6	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	start_char=308|end_char=311
+7	rid	rid	NOUN	NN	Number=Sing	6	obj	_	start_char=312|end_char=315
+8	of	of	ADP	IN	_	9	case	_	start_char=316|end_char=318
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	start_char=319|end_char=323
+10	.	.	PUNCT	.	_	2	punct	_	start_char=323|end_char=324
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=325|end_char=328
+2	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=329|end_char=333
+3	gun	gun	NOUN	NN	Number=Sing	4	compound	_	start_char=334|end_char=337
+4	deaths	death	NOUN	NNS	Number=Plur	7	obj	_	start_char=338|end_char=344
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=345|end_char=347
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=348|end_char=352
+7	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=353|end_char=357
+8	now	now	ADV	RB	_	7	advmod	_	start_char=358|end_char=361
+9	?	?	PUNCT	.	_	7	punct	_	start_char=361|end_char=362
+
+1	Just	just	ADV	RB	_	3	advmod	_	start_char=365|end_char=369
+2	total	total	ADJ	JJ	Degree=Pos	3	amod	_	start_char=370|end_char=375
+3	idiocy	idiocy	NOUN	NN	Number=Sing	0	root	_	start_char=376|end_char=382
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=383|end_char=386
+5	ignorance	ignorance	NOUN	NN	Number=Sing	3	conj	_	start_char=387|end_char=396
+6	on	on	ADP	IN	_	8	case	_	start_char=397|end_char=399
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=400|end_char=404
+8	part	part	NOUN	NN	Number=Sing	3	nmod	_	start_char=405|end_char=409
+9	.	.	PUNCT	.	_	3	punct	_	start_char=409|end_char=410
+

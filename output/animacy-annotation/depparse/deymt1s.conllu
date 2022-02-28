@@ -1,0 +1,28 @@
+1	Dude	dude	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=0|end_char=4
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=5|end_char=7
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=8|end_char=10
+4	confirmed	confirm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=11|end_char=20
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=21|end_char=25
+6	there	there	PRON	EX	_	7	expl	_	start_char=26|end_char=31
+7	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=32|end_char=35
+8	different	different	ADJ	JJ	Degree=Pos	10	amod	_	start_char=36|end_char=45
+9	damage	damage	NOUN	NN	Number=Sing	10	compound	_	start_char=46|end_char=52
+10	modifiers	modifier	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=53|end_char=62
+11	for	for	ADP	IN	_	15	case	_	start_char=63|end_char=66
+12	unaware	unaware	ADJ	JJ	Degree=Pos	15	amod	_	start_char=67|end_char=74
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=75|end_char=78
+14	aware	aware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=79|end_char=84
+15	enemies	enemy	NOUN	NNS	Number=Plur	10	nmod	_	start_char=85|end_char=92
+16	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	No	no	DET	DT	_	2	det	_	start_char=94|end_char=96
+2	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=97|end_char=102
+3	in	in	SCONJ	IN	_	4	mark	_	start_char=103|end_char=105
+4	talking	talk	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=106|end_char=113
+5	about	about	ADP	IN	_	6	case	_	start_char=114|end_char=119
+6	armor	armor	NOUN	NN	Number=Sing	4	obl	_	start_char=120|end_char=125
+7	in	in	ADP	IN	_	9	case	_	start_char=126|end_char=128
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=129|end_char=133
+9	game	game	NOUN	NN	Number=Sing	4	obl	_	start_char=134|end_char=138
+10	lol	lol	INTJ	UH	_	2	discourse	_	start_char=139|end_char=142
+

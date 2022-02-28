@@ -1,0 +1,11 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=5|end_char=11
+3	UNEDUCATED	unedacated	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=12|end_char=22
+4	,	,	PUNCT	,	_	5	punct	_	start_char=22|end_char=23
+5	UNSTABLE	unstable	ADJ	JJ	Degree=Pos	3	conj	_	start_char=24|end_char=32
+6	,	,	PUNCT	,	_	7	punct	_	start_char=32|end_char=33
+7	UNAWARE	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=34|end_char=41
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=42|end_char=45
+9	UNDENIABLY	undeniably	ADV	RB	_	10	advmod	_	start_char=46|end_char=56
+10	STUPID	stupid	ADJ	JJ	Degree=Pos	3	conj	_	start_char=57|end_char=63
+

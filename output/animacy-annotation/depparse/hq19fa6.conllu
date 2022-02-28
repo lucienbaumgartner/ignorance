@@ -1,0 +1,68 @@
+1	All	all	DET	DT	_	0	root	_	start_char=0|end_char=3
+2	of	of	ADP	IN	_	5	case	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=7|end_char=10
+4	above	above	ADJ	JJ	Degree=Pos	5	amod	_	start_char=11|end_char=16
+5	man	man	NOUN	NN	Number=Sing	1	nmod	_	start_char=17|end_char=20
+6	.	.	PUNCT	.	_	1	punct	_	start_char=20|end_char=21
+
+1	Not	not	PART	RB	_	3	advmod	_	start_char=24|end_char=27
+2	enough	enough	ADJ	JJ	Degree=Pos	3	amod	_	start_char=28|end_char=34
+3	beds	bed	NOUN	NNS	Number=Plur	0	root	_	start_char=35|end_char=39
+4	.	.	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	4	amod	_	start_char=41|end_char=49
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=50|end_char=53
+3	apathetic	apathetic	ADJ	JJ	Degree=Pos	1	conj	_	start_char=54|end_char=63
+4	administrators	administrator	NOUN	NNS	Number=Plur	0	root	_	start_char=64|end_char=78
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=79|end_char=82
+6	corporate	corporate	ADJ	JJ	Degree=Pos	7	amod	_	start_char=83|end_char=92
+7	decision	decision	NOUN	NN	Number=Sing	8	compound	_	start_char=93|end_char=101
+8	makers	maker	NOUN	NNS	Number=Plur	4	conj	_	start_char=102|end_char=108
+9	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+
+1	Nurses	nurse	NOUN	NNS	Number=Plur	0	root	_	start_char=110|end_char=116
+2	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=117|end_char=120
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=121|end_char=124
+4	tired	tired	ADJ	JJ	Degree=Pos	1	acl:relcl	_	start_char=125|end_char=130
+5	,	,	PUNCT	,	_	6	punct	_	start_char=130|end_char=131
+6	burned	burn	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=132|end_char=138
+7	out	out	ADP	RP	_	6	compound:prt	_	start_char=139|end_char=142
+8	,	,	PUNCT	,	_	10	punct	_	start_char=142|end_char=143
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=144|end_char=147
+10	fed	feed	VERB	VBN	Mood=Ind|Tense=Past|VerbForm=Part	4	conj	_	start_char=148|end_char=151
+11	up	up	ADP	RP	_	10	compound:prt	_	start_char=152|end_char=154
+12	risking	risk	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=155|end_char=162
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=163|end_char=168
+14	license	license	NOUN	NN	Number=Sing	12	obj	_	start_char=169|end_char=176
+15	for	for	ADP	IN	_	17	case	_	start_char=177|end_char=180
+16	little	little	ADJ	JJ	Degree=Pos	17	amod	_	start_char=181|end_char=187
+17	pay	pay	NOUN	NN	Number=Sing	12	obl	_	start_char=188|end_char=191
+18	.	.	PUNCT	.	_	1	punct	_	start_char=191|end_char=192
+
+1	Or	or	CCONJ	CC	_	3	cc	_	start_char=193|end_char=195
+2	just	just	ADV	RB	_	3	advmod	_	start_char=196|end_char=200
+3	tired	tired	ADJ	JJ	Degree=Pos	0	root	_	start_char=201|end_char=206
+4	of	of	SCONJ	IN	_	5	mark	_	start_char=207|end_char=209
+5	risking	risk	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=210|end_char=217
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=218|end_char=223
+7	license	license	NOUN	NN	Number=Sing	5	obj	_	start_char=224|end_char=231
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=232|end_char=235
+9	livelihood	livelihood	NOUN	NN	Number=Sing	7	conj	_	start_char=236|end_char=246
+10	over	over	ADP	IN	_	15	case	_	start_char=247|end_char=251
+11	abysmal	abysmal	ADJ	JJ	Degree=Pos	15	amod	_	start_char=252|end_char=259
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=260|end_char=263
+13	dangerous	dangerous	ADJ	JJ	Degree=Pos	11	conj	_	start_char=264|end_char=273
+14	working	working	NOUN	NN	Number=Sing	15	compound	_	start_char=274|end_char=281
+15	conditions	condition	NOUN	NNS	Number=Plur	5	obl	_	start_char=282|end_char=292
+16	.	.	PUNCT	.	_	3	punct	_	start_char=292|end_char=293
+
+1	Nurses	nurse	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=294|end_char=300
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=301|end_char=304
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=305|end_char=308
+4	scapegoat	scapegoat	NOUN	NN	Number=Sing	0	root	_	start_char=309|end_char=318
+5	whenever	whenever	SCONJ	WRB	PronType=Int	7	mark	_	start_char=319|end_char=327
+6	anything	anything	PRON	NN	Number=Sing	7	nsubj	_	start_char=328|end_char=336
+7	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=337|end_char=341
+8	wrong	wrong	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=342|end_char=347
+9	.	.	PUNCT	.	_	4	punct	_	start_char=347|end_char=348
+

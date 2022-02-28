@@ -1,0 +1,76 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=4|end_char=5
+4	professor	professor	NOUN	NN	Number=Sing	0	root	_	start_char=6|end_char=15
+5	in	in	ADP	IN	_	6	case	_	start_char=16|end_char=18
+6	Canada	Canada	PROPN	NNP	Number=Sing	4	nmod	_	start_char=19|end_char=25
+7	.	.	PUNCT	.	_	4	punct	_	start_char=25|end_char=26
+
+1	For	for	SCONJ	IN	_	2	case	_	start_char=27|end_char=30
+2	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=31|end_char=35
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=36|end_char=38
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=38|end_char=40
+5	worth	worth	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=41|end_char=46
+6	,	,	PUNCT	,	_	8	punct	_	start_char=46|end_char=47
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=48|end_char=49
+8	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=50|end_char=55
+9	OP	OP	PROPN	NNP	Number=Sing	11	nmod:poss	_	start_char=56|end_char=58
+10	's	's	PART	POS	_	9	case	_	start_char=58|end_char=60
+11	husband	husband	NOUN	NN	Number=Sing	13	nmod:poss	_	start_char=61|end_char=68
+12	's	's	PART	POS	_	9	case	_	start_char=68|end_char=70
+13	comments	comment	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=71|end_char=79
+14	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	start_char=80|end_char=84
+15	elitist	elitist	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=85|end_char=92
+16	,	,	PUNCT	,	_	17	punct	_	start_char=92|end_char=93
+17	rude	rude	ADJ	JJ	Degree=Pos	15	conj	_	start_char=94|end_char=98
+18	,	,	PUNCT	,	_	20	punct	_	start_char=98|end_char=99
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=100|end_char=103
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=104|end_char=112
+21	.	.	PUNCT	.	_	8	punct	_	start_char=112|end_char=113
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	_	start_char=115|end_char=119
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	_	start_char=120|end_char=125
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=126|end_char=130
+4	...	...	PUNCT	.	_	3	punct	_	start_char=130|end_char=133
+
+1	&gt	&gt	NOUN	NN	Number=Sing	12	discourse	_	start_char=135|end_char=138
+2	;	;	PUNCT	,	_	12	punct	_	start_char=138|end_char=139
+3	Unless	unless	SCONJ	IN	_	6	mark	_	start_char=140|end_char=146
+4	professors	professor	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=147|end_char=157
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=158|end_char=161
+6	consulting	consult	VERB	VBG	Tense=Pres|VerbForm=Part	12	advcl	_	start_char=162|end_char=172
+7	on	on	ADP	IN	_	9	case	_	start_char=173|end_char=175
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=176|end_char=179
+9	side	side	NOUN	NN	Number=Sing	6	obl	_	start_char=180|end_char=184
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=185|end_char=186
+11	didnt	didnt	AUX	MD	VerbForm=Fin	12	aux	_	start_char=187|end_char=192
+12	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=193|end_char=198
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=199|end_char=203
+14	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	ccomp	_	start_char=204|end_char=208
+15	much	much	ADJ	JJ	Degree=Pos	16	amod	_	start_char=209|end_char=213
+16	money	money	NOUN	NN	Number=Sing	14	obj	_	start_char=214|end_char=219
+17	.	.	PUNCT	.	_	12	punct	_	start_char=219|end_char=220
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=223|end_char=225
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=225|end_char=228
+3	well	well	ADV	RB	Degree=Pos	4	advmod	_	start_char=229|end_char=233
+4	remunerated	remunerate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=234|end_char=245
+5	.	.	PUNCT	.	_	4	punct	_	start_char=245|end_char=246
+
+1	Most	most	ADV	RBS	Degree=Sup	2	advmod	_	start_char=247|end_char=251
+2	full	full	ADJ	JJ	Degree=Pos	3	amod	_	start_char=252|end_char=256
+3	professors	professor	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=257|end_char=267
+4	earn	earn	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=268|end_char=272
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=273|end_char=274
+6	very	very	ADV	RB	_	7	advmod	_	start_char=275|end_char=279
+7	healthy	healthy	ADJ	JJ	Degree=Pos	8	amod	_	start_char=280|end_char=287
+8	salary	salary	NOUN	NN	Number=Sing	4	obj	_	start_char=288|end_char=294
+9	nestled	nestle	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	_	start_char=295|end_char=302
+10	comfortably	comfortably	ADV	RB	Degree=Pos	9	advmod	_	start_char=303|end_char=314
+11	in	in	ADP	IN	_	15	case	_	start_char=315|end_char=317
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=318|end_char=321
+13	low	low	ADJ	JJ	Degree=Pos	15	amod	_	start_char=322|end_char=325
+14	six	six	NUM	CD	NumType=Card	15	nummod	_	start_char=326|end_char=329
+15	figures	figure	NOUN	NNS	Number=Plur	9	obl	_	start_char=330|end_char=337
+16	.	.	PUNCT	.	_	4	punct	_	start_char=337|end_char=338
+

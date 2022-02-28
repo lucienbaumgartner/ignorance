@@ -1,0 +1,18 @@
+1	Reminder	reminder	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=8
+2	to	to	ADP	IN	_	3	case	_	start_char=9|end_char=11
+3	liberals	liberal	NOUN	NNS	Number=Plur	1	nmod	_	start_char=12|end_char=20
+4	that	that	PRON	WDT	PronType=Rel	8	obj	_	start_char=21|end_char=25
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=26|end_char=30
+6	own	own	ADJ	JJ	Degree=Pos	7	amod	_	start_char=31|end_char=34
+7	party	party	NOUN	NN	Number=Sing	8	nsubj	_	start_char=35|end_char=40
+8	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=41|end_char=47
+9	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obl	_	start_char=51|end_char=54
+11	as	as	ADV	RB	_	12	advmod	_	start_char=55|end_char=57
+12	unaware	unaware	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=58|end_char=65
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=66|end_char=69
+14	compliant	compliant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=70|end_char=79
+15	:	:	PUNCT	:	_	1	punct	_	start_char=79|end_char=80
+
+1	https://i.redd.it/j7c8ht81j84y.gif	https://i.redd.it/j7c8ht81j84y.gif	X	ADD	_	0	root	_	start_char=82|end_char=116
+

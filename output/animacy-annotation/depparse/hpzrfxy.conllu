@@ -1,0 +1,36 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=0|end_char=3
+2	comparing	compare	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=4|end_char=13
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=14|end_char=17
+4	COVID	COVID	PROPN	NNP	Number=Sing	5	compound	_	start_char=18|end_char=23
+5	vaccines	vaccine	NOUN	NNS	Number=Plur	2	obj	_	start_char=24|end_char=32
+6	to	to	ADP	IN	_	9	case	_	start_char=33|end_char=35
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=36|end_char=39
+8	Tuskegee	Tuskegee	PROPN	NNP	Number=Sing	9	compound	_	start_char=40|end_char=48
+9	experiments	experiment	NOUN	NNS	Number=Plur	5	nmod	_	start_char=49|end_char=60
+10	proves	prove	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=61|end_char=67
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=68|end_char=71
+12	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=72|end_char=76
+13	absolutely	absolutely	ADV	RB	_	14	advmod	_	start_char=77|end_char=87
+14	nothing	nothing	PRON	NN	Number=Sing	12	obj	_	start_char=88|end_char=95
+15	about	about	ADP	IN	_	17	case	_	start_char=96|end_char=101
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=102|end_char=106
+17	topic	topic	NOUN	NN	Number=Sing	14	nmod	_	start_char=107|end_char=112
+18	whatsoever	whatsoever	ADV	RB	_	12	advmod	_	start_char=113|end_char=123
+19	,	,	PUNCT	,	_	27	punct	_	start_char=123|end_char=124
+20	and	and	CCONJ	CC	_	27	cc	_	start_char=125|end_char=128
+21	how	how	SCONJ	WRB	PronType=Int	27	mark	_	start_char=129|end_char=132
+22	technology	technology	NOUN	NN	Number=Sing	27	nsubj	_	start_char=133|end_char=143
+23	and	and	CCONJ	CC	_	25	cc	_	start_char=144|end_char=147
+24	scientific	scientific	ADJ	JJ	Degree=Pos	25	amod	_	start_char=148|end_char=158
+25	methods	method	NOUN	NNS	Number=Plur	22	conj	_	start_char=159|end_char=166
+26	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	aux	_	start_char=167|end_char=171
+27	advanced	advance	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	start_char=172|end_char=180
+28	.	.	PUNCT	.	_	10	punct	_	start_char=180|end_char=181
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=182|end_char=186
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=186|end_char=188
+3	just	just	ADV	RB	_	4	advmod	_	start_char=189|end_char=193
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=194|end_char=202
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=203|end_char=206
+6	lazy	lazy	ADJ	JJ	Degree=Pos	4	conj	_	start_char=207|end_char=211
+

@@ -1,0 +1,26 @@
+1	Not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	scared	scared	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=10
+3	,	,	PUNCT	,	_	4	punct	_	start_char=10|end_char=11
+4	annoyed	annoyed	ADJ	JJ	Degree=Pos	2	conj	_	start_char=12|end_char=19
+5	.	.	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=21|end_char=25
+2	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=26|end_char=30
+3	life	life	NOUN	NN	Number=Sing	2	obj	_	start_char=31|end_char=35
+4	harder	hard	ADJ	JJR	Degree=Cmp	2	xcomp	_	start_char=36|end_char=42
+5	on	on	ADP	IN	_	6	case	_	start_char=43|end_char=45
+6	everyone	everyone	PRON	NN	Number=Sing	4	obl	_	start_char=46|end_char=54
+7	by	by	SCONJ	IN	_	9	mark	_	start_char=55|end_char=57
+8	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=58|end_char=63
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=64|end_char=72
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=73|end_char=76
+11	selfish	selfish	ADJ	JJ	Degree=Pos	9	conj	_	start_char=77|end_char=84
+12	.	.	PUNCT	.	_	2	punct	_	start_char=84|end_char=85
+
+1	Lmao	lmao	INTJ	UH	_	3	discourse	_	start_char=88|end_char=92
+2	,	,	PUNCT	,	_	3	punct	_	start_char=92|end_char=93
+3	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=94|end_char=101
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=102|end_char=107
+5	pro	pro	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=108|end_char=111
+6	covid	covid	PUNCT	.	_	3	punct	_	start_char=112|end_char=117
+

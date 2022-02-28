@@ -1,0 +1,21 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	advmod	_	start_char=8|end_char=12
+4	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=31
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=32|end_char=36
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=37|end_char=40
+9	ca	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=41|end_char=43
+10	n't	not	PART	RB	_	11	advmod	_	start_char=43|end_char=46
+11	follow	follow	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=47|end_char=53
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=54|end_char=57
+13	discussion	discussion	NOUN	NN	Number=Sing	11	obj	_	start_char=58|end_char=68
+14	to	to	PART	TO	_	15	mark	_	start_char=69|end_char=71
+15	see	see	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=72|end_char=75
+16	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=76|end_char=79
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	start_char=80|end_char=82
+18	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	ccomp	_	start_char=83|end_char=86
+19	here	here	ADV	RB	PronType=Dem	18	advmod	_	start_char=87|end_char=91
+20	?	?	PUNCT	.	_	4	punct	_	start_char=91|end_char=92
+

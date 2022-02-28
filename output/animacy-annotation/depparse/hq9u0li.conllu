@@ -1,0 +1,21 @@
+1	Cheers	cheer	NOUN	NNS	Number=Plur	0	root	_	start_char=0|end_char=6
+2	!	!	PUNCT	.	_	1	punct	_	start_char=6|end_char=7
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=8|end_char=10
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+3	'	'	PUNCT	``	_	7	punct	_	start_char=17|end_char=18
+4	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=18|end_char=20
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=21|end_char=24
+6	not	not	PART	RB	_	7	advmod	_	start_char=25|end_char=28
+7	English	English	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=29|end_char=36
+8	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=38|end_char=41
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=42|end_char=45
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=54
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=55|end_char=58
+5	rude	rude	ADJ	JJ	Degree=Pos	3	conj	_	start_char=59|end_char=63
+6	.	.	PUNCT	.	_	3	punct	_	start_char=63|end_char=64
+
+1	'	'	PUNCT	``	_	0	root	_	start_char=64|end_char=65
+

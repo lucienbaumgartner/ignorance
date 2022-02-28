@@ -1,0 +1,13 @@
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=0|end_char=7
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=8|end_char=14
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=18
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=25
+5	,	,	PUNCT	,	_	6	punct	_	start_char=25|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	,	,	PUNCT	,	_	9	punct	_	start_char=35|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	intolerant	intolerant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=41|end_char=51
+10	.	.	PUNCT	.	_	4	punct	_	start_char=51|end_char=52
+
+1	#ENOUGHSAID	#ENOUGHSAID	PROPN	NNP	Number=Sing	0	root	_	start_char=54|end_char=65
+

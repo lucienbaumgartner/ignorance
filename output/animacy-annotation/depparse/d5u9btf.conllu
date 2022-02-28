@@ -1,0 +1,112 @@
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	_	start_char=7|end_char=10
+4	Paul	Paul	PROPN	NNP	Number=Sing	3	obj	_	start_char=11|end_char=15
+5	,	,	PUNCT	,	_	7	punct	_	start_char=15|end_char=16
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=17|end_char=18
+7	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=19|end_char=26
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=27|end_char=28
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	start_char=29|end_char=32
+10	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	7	ccomp	_	start_char=33|end_char=38
+11	to	to	PART	TO	_	12	mark	_	start_char=39|end_char=41
+12	like	like	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=42|end_char=46
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=47|end_char=50
+14	.	.	PUNCT	.	_	7	punct	_	start_char=50|end_char=51
+
+1	Interesting	interesting	ADJ	JJ	Degree=Pos	2	amod	_	start_char=52|end_char=63
+2	look	look	NOUN	NN	Number=Sing	0	root	_	start_char=64|end_char=68
+3	.	.	PUNCT	.	_	2	punct	_	start_char=68|end_char=69
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=70|end_char=74
+2	guy	guy	NOUN	NN	Number=Sing	6	nsubj	_	start_char=75|end_char=78
+3	might	might	AUX	MD	VerbForm=Fin	6	aux	_	start_char=79|end_char=84
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=85|end_char=87
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=88|end_char=89
+6	player	player	NOUN	NN	Number=Sing	0	root	_	start_char=90|end_char=96
+7	.	.	PUNCT	.	_	6	punct	_	start_char=96|end_char=97
+
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=98|end_char=100
+2	.	.	PUNCT	.	_	1	punct	_	start_char=100|end_char=101
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=102|end_char=103
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=104|end_char=107
+3	dead	dead	ADJ	JJ	Degree=Pos	0	root	_	start_char=108|end_char=112
+4	wrong	wrong	ADJ	JJ	Degree=Pos	3	advmod	_	start_char=113|end_char=118
+5	immediately	immediately	ADV	RB	_	4	advmod	_	start_char=119|end_char=130
+6	.	.	PUNCT	.	_	3	punct	_	start_char=130|end_char=131
+
+1	Probably	probably	ADV	RB	Degree=Pos	5	advmod	_	start_char=132|end_char=140
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=141|end_char=144
+3	most	most	ADV	RBS	Degree=Sup	4	advmod	_	start_char=145|end_char=149
+4	disappointing	disappointing	ADJ	JJ	Degree=Pos	5	amod	_	start_char=150|end_char=163
+5	player	player	NOUN	NN	Number=Sing	0	root	_	start_char=164|end_char=170
+6	off	off	ADP	IN	_	8	case	_	start_char=171|end_char=174
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=175|end_char=178
+8	bat	bat	NOUN	NN	Number=Sing	5	nmod	_	start_char=179|end_char=182
+9	.	.	PUNCT	.	_	5	punct	_	start_char=182|end_char=183
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=184|end_char=186
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=187|end_char=190
+3	annoying	annoying	ADJ	JJ	Degree=Pos	0	root	_	start_char=191|end_char=199
+4	,	,	PUNCT	,	_	5	punct	_	start_char=199|end_char=200
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=201|end_char=208
+6	,	,	PUNCT	,	_	8	punct	_	start_char=208|end_char=209
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=210|end_char=213
+8	aggressive	aggressive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=214|end_char=224
+9	.	.	PUNCT	.	_	3	punct	_	start_char=224|end_char=225
+
+1	After	after	ADP	IN	_	3	case	_	start_char=226|end_char=231
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=232|end_char=235
+3	fall	fall	NOUN	NN	Number=Sing	9	obl	_	start_char=236|end_char=240
+4	of	of	ADP	IN	_	6	case	_	start_char=241|end_char=243
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=244|end_char=247
+6	buddies	buddy	NOUN	NNS	Number=Plur	3	nmod	_	start_char=248|end_char=255
+7	,	,	PUNCT	,	_	9	punct	_	start_char=255|end_char=256
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=257|end_char=259
+9	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=260|end_char=266
+10	more	more	ADV	RBR	_	11	advmod	_	start_char=267|end_char=271
+11	tolerable	tolerable	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=272|end_char=281
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=282|end_char=285
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=286|end_char=288
+14	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	conj	_	start_char=289|end_char=296
+15	to	to	PART	TO	_	16	mark	_	start_char=297|end_char=299
+16	play	play	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=300|end_char=304
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=305|end_char=308
+18	game	game	NOUN	NN	Number=Sing	16	obj	_	start_char=309|end_char=313
+19	better	well	ADV	RBR	Degree=Cmp	16	advmod	_	start_char=314|end_char=320
+20	.	.	PUNCT	.	_	9	punct	_	start_char=320|end_char=321
+
+1	Blending	blend	VERB	VBG	VerbForm=Ger	0	root	_	start_char=322|end_char=330
+2	in	in	ADV	RB	_	1	advmod	_	start_char=331|end_char=333
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=334|end_char=337
+4	getting	get	VERB	VBG	VerbForm=Ger	1	conj	_	start_char=338|end_char=345
+5	into	into	ADP	IN	_	7	case	_	start_char=346|end_char=350
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=351|end_char=354
+7	majority	majority	NOUN	NN	Number=Sing	4	obl	_	start_char=355|end_char=363
+8	.	.	PUNCT	.	_	1	punct	_	start_char=363|end_char=364
+
+1	Then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=365|end_char=369
+2	for	for	ADP	IN	_	4	case	_	start_char=370|end_char=373
+3	some	some	DET	DT	_	4	det	_	start_char=374|end_char=378
+4	reason	reason	NOUN	NN	Number=Sing	6	obl	_	start_char=379|end_char=385
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=386|end_char=388
+6	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=389|end_char=393
+7	back	back	ADV	RB	_	6	advmod	_	start_char=394|end_char=398
+8	to	to	SCONJ	IN	_	10	mark	_	start_char=399|end_char=401
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=402|end_char=407
+10	annoying	annoying	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=408|end_char=416
+11	.	.	PUNCT	.	_	6	punct	_	start_char=416|end_char=417
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=418|end_char=422
+2	whole	whole	ADJ	JJ	Degree=Pos	3	amod	_	start_char=423|end_char=428
+3	catchphrase	catchphrase	NOUN	NN	Number=Sing	6	nsubj	_	start_char=429|end_char=440
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=441|end_char=443
+5	fuckin	fuckin	ADV	RB	_	6	advmod	_	start_char=444|end_char=450
+6	moronic	moronic	ADJ	JJ	Degree=Pos	0	root	_	start_char=451|end_char=458
+7	.	.	PUNCT	.	_	6	punct	_	start_char=458|end_char=459
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=460|end_char=464
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=465|end_char=469
+3	dude	dude	NOUN	NN	Number=Sing	1	obj	_	start_char=470|end_char=474
+4	.	.	PUNCT	.	_	1	punct	_	start_char=474|end_char=475
+

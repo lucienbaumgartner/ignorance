@@ -1,0 +1,22 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	already	already	ADV	RB	_	3	advmod	_	start_char=3|end_char=10
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=11|end_char=14
+4	,	,	PUNCT	,	_	5	punct	_	start_char=14|end_char=15
+5	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=21|end_char=24
+7	far	far	ADV	RB	Degree=Pos	8	advmod	_	start_char=25|end_char=28
+8	driving	driving	NOUN	NN	Number=Sing	9	compound	_	start_char=29|end_char=36
+9	standards	standard	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=37|end_char=46
+10	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=47|end_char=51
+11	fallen	fall	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	_	start_char=52|end_char=58
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=59|end_char=63
+13	year	year	NOUN	NN	Number=Sing	11	obl:tmod	_	start_char=64|end_char=68
+14	.	.	PUNCT	.	_	5	punct	_	start_char=68|end_char=69
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=70|end_char=76
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=77|end_char=80
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=81|end_char=88
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=89|end_char=92
+5	unconcerned	unconcerned	ADJ	JJ	Degree=Pos	3	conj	_	start_char=93|end_char=104
+6	.	.	PUNCT	.	_	3	punct	_	start_char=104|end_char=105
+

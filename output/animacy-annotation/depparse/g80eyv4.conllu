@@ -1,0 +1,73 @@
+1	What	what	PRON	WP	PronType=Int	4	det:predet	_	start_char=0|end_char=4
+2	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=7
+3	incomplete	incomplete	ADJ	JJ	Degree=Pos	4	amod	_	start_char=8|end_char=18
+4	narrative	narrative	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=28
+5	lol	lol	INTJ	UH	_	4	discourse	_	start_char=29|end_char=32
+6	.	.	PUNCT	.	_	4	punct	_	start_char=32|end_char=33
+
+1	What	what	PRON	WP	PronType=Int	2	nsubj	_	start_char=34|end_char=38
+2	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=39|end_char=47
+3	after	after	ADP	IN	_	6	case	_	start_char=48|end_char=53
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=54|end_char=57
+5	4	4	NUM	CD	NumType=Card	6	nummod	_	start_char=58|end_char=59
+6	wins	win	NOUN	NNS	Number=Plur	2	obl	_	start_char=60|end_char=64
+7	?	?	PUNCT	.	_	2	punct	_	start_char=64|end_char=65
+
+1	Wins	win	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=66|end_char=70
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=71|end_char=74
+3	n't	not	PART	RB	_	6	advmod	_	start_char=74|end_char=77
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=78|end_char=79
+5	QB	QB	PROPN	NNP	Number=Sing	6	compound	_	start_char=80|end_char=82
+6	stat	stat	NOUN	NN	Number=Sing	0	root	_	start_char=83|end_char=87
+7	and	and	CCONJ	CC	_	12	cc	_	start_char=88|end_char=91
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=92|end_char=94
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=94|end_char=96
+10	only	only	ADV	RB	_	12	advmod	_	start_char=97|end_char=101
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=102|end_char=105
+12	uninformed	uninformed	ADJ	JJ	Degree=Pos	6	conj	_	start_char=106|end_char=116
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=117|end_char=120
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=121|end_char=129
+15	that	that	PRON	WDT	PronType=Rel	16	nsubj	_	start_char=130|end_char=134
+16	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=135|end_char=138
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obj	_	start_char=139|end_char=143
+18	to	to	PART	TO	_	19	mark	_	start_char=144|end_char=146
+19	evaluate	evaluate	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=147|end_char=155
+20	an	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=156|end_char=158
+21	individual	individual	ADJ	JJ	Degree=Pos	22	amod	_	start_char=159|end_char=169
+22	player	player	NOUN	NN	Number=Sing	19	obj	_	start_char=170|end_char=176
+23	.	.	PUNCT	.	_	6	punct	_	start_char=176|end_char=177
+
+1	But	but	CCONJ	CC	_	12	cc	_	start_char=178|end_char=181
+2	if	if	SCONJ	IN	_	5	mark	_	start_char=182|end_char=184
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=185|end_char=188
+4	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=188|end_char=191
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	12	advcl	_	start_char=192|end_char=197
+6	to	to	PART	TO	_	7	mark	_	start_char=198|end_char=200
+7	reference	reference	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=201|end_char=210
+8	wins	win	NOUN	NNS	Number=Plur	7	obj	_	start_char=211|end_char=215
+9	,	,	PUNCT	,	_	12	punct	_	start_char=215|end_char=216
+10	at	at	ADP	IN	_	12	advmod	_	start_char=217|end_char=219
+11	least	least	ADJ	JJS	Degree=Sup	10	fixed	_	start_char=220|end_char=225
+12	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=226|end_char=230
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=231|end_char=234
+14	whole	whole	ADJ	JJ	Degree=Pos	15	amod	_	start_char=235|end_char=240
+15	story	story	NOUN	NN	Number=Sing	12	obj	_	start_char=241|end_char=246
+16	.	.	PUNCT	.	_	12	punct	_	start_char=246|end_char=247
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=250|end_char=251
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=251|end_char=253
+3	glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=254|end_char=258
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=259|end_char=262
+5	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=263|end_char=270
+6	up	up	ADP	RP	_	5	compound:prt	_	start_char=271|end_char=273
+7	The	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=274|end_char=277
+8	Athletic	Athletic	PROPN	NNP	Number=Sing	5	obj	_	start_char=278|end_char=286
+9	.	.	PUNCT	.	_	3	punct	_	start_char=286|end_char=287
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=288|end_char=290
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=291|end_char=294
+3	follow	follow	VERB	VB	VerbForm=Inf	0	root	_	start_char=295|end_char=301
+4	Mark	Mark	PROPN	NNP	Number=Sing	3	obj	_	start_char=302|end_char=306
+5	Bullock	Bullock	PROPN	NNP	Number=Sing	4	flat	_	start_char=307|end_char=314
+6	?	?	PUNCT	.	_	3	punct	_	start_char=314|end_char=315
+

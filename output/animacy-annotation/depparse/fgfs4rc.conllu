@@ -1,0 +1,45 @@
+1	Literally	literally	ADV	RB	_	9	advmod	_	start_char=0|end_char=9
+2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=10|end_char=11
+3	3	3	NUM	CD	NumType=Card	6	nummod	_	start_char=12|end_char=13
+4	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	6	amod	_	start_char=14|end_char=20
+5	google	google	NOUN	NN	Number=Sing	6	compound	_	start_char=21|end_char=27
+6	search	search	NOUN	NN	Number=Sing	9	nsubj	_	start_char=28|end_char=34
+7	could	could	AUX	MD	VerbForm=Fin	9	aux	_	start_char=35|end_char=40
+8	've	have	AUX	VB	VerbForm=Inf	9	aux	_	start_char=40|end_char=43
+9	saved	save	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=44|end_char=49
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=50|end_char=53
+11	from	from	SCONJ	IN	_	12	mark	_	start_char=54|end_char=58
+12	looking	look	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=59|end_char=66
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=67|end_char=68
+14	dumbshit	dumbshit	NOUN	NN	Number=Sing	12	obj	_	start_char=69|end_char=77
+15	.	.	PUNCT	.	_	9	punct	_	start_char=77|end_char=78
+
+1	Which	which	PRON	WDT	PronType=Int	2	nsubj	_	start_char=79|end_char=84
+2	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=85|end_char=90
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=91|end_char=94
+4	underlying	underlying	ADJ	JJ	Degree=Pos	5	amod	_	start_char=95|end_char=105
+5	personality	personality	NOUN	NN	Number=Sing	2	obj	_	start_char=106|end_char=117
+6	.	.	PUNCT	.	_	2	punct	_	start_char=117|end_char=118
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=119|end_char=121
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=121|end_char=123
+3	so	so	ADV	RB	_	4	advmod	_	start_char=124|end_char=126
+4	lazy	lazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=127|end_char=131
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=132|end_char=135
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=136|end_char=144
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=145|end_char=149
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=150|end_char=152
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=152|end_char=154
+10	unwilling	unwilling	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=155|end_char=164
+11	to	to	PART	TO	_	12	mark	_	start_char=165|end_char=167
+12	do	do	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=168|end_char=170
+13	any	any	DET	DT	_	14	det	_	start_char=171|end_char=174
+14	bit	bit	NOUN	NN	Number=Sing	12	obj	_	start_char=175|end_char=178
+15	of	of	ADP	IN	_	17	case	_	start_char=179|end_char=181
+16	extra	extra	ADJ	JJ	Degree=Pos	17	amod	_	start_char=182|end_char=187
+17	work	work	NOUN	NN	Number=Sing	14	nmod	_	start_char=188|end_char=192
+18	to	to	PART	TO	_	19	mark	_	start_char=193|end_char=195
+19	learn	learn	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=196|end_char=201
+20	something	something	PRON	NN	Number=Sing	19	obj	_	start_char=202|end_char=211
+21	.	.	PUNCT	.	_	4	punct	_	start_char=211|end_char=212
+

@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=8|end_char=10
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=12
+5	awesome	awesome	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=13|end_char=20
+6	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	Aesthetically	aesthetically	ADV	RB	_	2	advmod	_	start_char=22|end_char=35
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=43
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=44|end_char=47
+4	unapologetic	unapologetic	ADJ	JJ	Degree=Pos	2	conj	_	start_char=48|end_char=60
+5	.	.	PUNCT	.	_	2	punct	_	start_char=60|end_char=61
+
+1	Beautiful	beautiful	ADJ	JJ	Degree=Pos	0	root	_	start_char=62|end_char=71
+2	.	.	PUNCT	.	_	1	punct	_	start_char=71|end_char=72
+

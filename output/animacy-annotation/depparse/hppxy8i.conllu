@@ -1,0 +1,26 @@
+1	Ok	ok	INTJ	UH	_	7	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	7	punct	_	start_char=2|end_char=3
+3	well	well	INTJ	UH	_	7	discourse	_	start_char=4|end_char=8
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=9|end_char=13
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=13|end_char=15
+6	just	just	ADV	RB	_	7	advmod	_	start_char=16|end_char=20
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=29
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=30|end_char=33
+9	unacceptable	unacceptable	ADJ	JJ	Degree=Pos	7	conj	_	start_char=34|end_char=46
+10	in	in	ADP	IN	_	11	case	_	start_char=47|end_char=49
+11	2021	2021	NUM	CD	NumType=Card	7	obl	_	start_char=50|end_char=54
+12	.	.	PUNCT	.	_	7	punct	_	start_char=54|end_char=55
+
+1	Forced	forced	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	_	start_char=56|end_char=62
+2	penetration	penetration	NOUN	NN	Number=Sing	4	nsubj	_	start_char=63|end_char=74
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=75|end_char=77
+4	rape	rape	NOUN	NN	Number=Sing	0	root	_	start_char=78|end_char=82
+5	whether	whether	SCONJ	IN	_	9	mark	_	start_char=83|end_char=90
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=91|end_char=94
+7	victim	victim	NOUN	NN	Number=Sing	9	nsubj	_	start_char=95|end_char=101
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=102|end_char=104
+9	male	male	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=105|end_char=109
+10	or	or	CCONJ	CC	_	11	cc	_	start_char=110|end_char=112
+11	female	female	ADJ	JJ	Degree=Pos	9	conj	_	start_char=113|end_char=119
+12	.	.	PUNCT	.	_	4	punct	_	start_char=119|end_char=120
+

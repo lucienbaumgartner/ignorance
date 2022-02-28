@@ -1,0 +1,14 @@
+1	Yeah	yeah	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+
+1	Ur	you	PRON	PRP$	PronType=Prs	2	nmod:poss	_	start_char=5|end_char=7
+2	rude	rude	ADJ	JJ	Degree=Pos	8	nsubj	_	start_char=8|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=17|end_char=24
+5	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+6	some	some	DET	DT	_	7	det	_	start_char=28|end_char=32
+7	stuff	stuff	NOUN	NN	Number=Sing	2	obl	_	start_char=33|end_char=38
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=39|end_char=43
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=44|end_char=45
+10	good	good	ADJ	JJ	Degree=Pos	11	amod	_	start_char=46|end_char=50
+11	day	day	NOUN	NN	Number=Sing	8	obj	_	start_char=51|end_char=54
+

@@ -1,0 +1,47 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=0|end_char=2
+2	n't	not	PART	RB	_	6	advmod	_	start_char=2|end_char=5
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=6|end_char=10
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=11|end_char=14
+5	exact	exact	ADJ	JJ	Degree=Pos	6	amod	_	start_char=15|end_char=20
+6	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=26
+7	Republicans	Republican	PROPN	NNPS	Number=Plur	10	nsubj	_	start_char=27|end_char=38
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=39|end_char=41
+9	n't	not	PART	RB	_	10	advmod	_	start_char=41|end_char=44
+10	want	want	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=45|end_char=49
+11	?	?	PUNCT	.	_	6	punct	_	start_char=49|end_char=50
+
+1	UBI	UBI	PROPN	NNP	Number=Sing	0	root	_	start_char=51|end_char=54
+2	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+1	Why	why	ADV	WRB	PronType=Int	3	advmod	_	start_char=57|end_char=60
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=61|end_char=65
+3	pride	pride	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=66|end_char=71
+4	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	start_char=72|end_char=82
+5	on	on	SCONJ	IN	_	6	mark	_	start_char=83|end_char=85
+6	convincing	convince	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=86|end_char=96
+7	poor	poor	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=97|end_char=101
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=102|end_char=105
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=106|end_char=114
+10	that	that	SCONJ	IN	_	22	mark	_	start_char=115|end_char=119
+11	working	work	VERB	VBG	VerbForm=Ger	22	csubj	_	start_char=120|end_char=127
+12	60	60	NUM	CD	NumType=Card	11	obj	_	start_char=128|end_char=130
+13	plus	plus	CCONJ	CC	_	14	cc	_	start_char=131|end_char=135
+14	hours	hour	NOUN	NNS	Number=Plur	12	conj	_	start_char=136|end_char=141
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=142|end_char=143
+16	week	week	NOUN	NN	Number=Sing	11	obl:tmod	_	start_char=144|end_char=148
+17	just	just	ADV	RB	_	19	advmod	_	start_char=149|end_char=153
+18	to	to	PART	TO	_	19	mark	_	start_char=154|end_char=156
+19	pay	pay	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=157|end_char=160
+20	bills	bill	NOUN	NNS	Number=Plur	19	obj	_	start_char=161|end_char=166
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=167|end_char=169
+22	something	something	PRON	NN	Number=Sing	3	conj	_	start_char=170|end_char=179
+23	to	to	PART	TO	_	24	mark	_	start_char=180|end_char=182
+24	brag	brag	VERB	VB	VerbForm=Inf	22	acl	_	start_char=183|end_char=187
+25	about	about	ADP	IN	_	24	obl	_	start_char=188|end_char=193
+26	,	,	PUNCT	,	_	30	punct	_	start_char=193|end_char=194
+27	instead	instead	ADV	RB	_	30	mark	_	start_char=195|end_char=202
+28	of	of	SCONJ	IN	_	27	fixed	_	start_char=203|end_char=205
+29	being	be	AUX	VBG	VerbForm=Ger	30	aux:pass	_	start_char=206|end_char=211
+30	pitied	pity	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	24	advcl	_	start_char=212|end_char=218
+31	.	.	PUNCT	.	_	3	punct	_	start_char=218|end_char=219
+

@@ -1,0 +1,47 @@
+1	Depends	depend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	on	on	ADP	IN	_	4	case	_	start_char=8|end_char=10
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=11|end_char=15
+4	line	line	NOUN	NN	Number=Sing	1	obl	_	start_char=16|end_char=20
+5	of	of	ADP	IN	_	6	case	_	start_char=21|end_char=23
+6	work	work	NOUN	NN	Number=Sing	4	nmod	_	start_char=24|end_char=28
+7	.	.	PUNCT	.	_	1	punct	_	start_char=28|end_char=29
+
+1	In	in	ADP	IN	_	3	case	_	start_char=30|end_char=32
+2	some	some	DET	DT	_	3	det	_	start_char=33|end_char=37
+3	professions	profession	NOUN	NNS	Number=Plur	10	obl	_	start_char=38|end_char=49
+4	,	,	PUNCT	,	_	10	punct	_	start_char=49|end_char=50
+5	like	like	ADP	IN	_	6	case	_	start_char=51|end_char=55
+6	STEM	STEM	PROPN	NNP	Number=Sing	10	obl	_	start_char=56|end_char=60
+7	,	,	PUNCT	,	_	10	punct	_	start_char=60|end_char=61
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	start_char=62|end_char=64
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=64|end_char=66
+10	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=67|end_char=71
+11	as	as	ADV	RB	_	12	advmod	_	start_char=72|end_char=74
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=75|end_char=83
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=84|end_char=87
+14	uneducated	uneducated	ADJ	JJ	Degree=Pos|Polarity=Neg	12	conj	_	start_char=88|end_char=98
+15	,	,	PUNCT	,	_	24	punct	_	start_char=98|end_char=99
+16	in	in	ADP	IN	_	17	case	_	start_char=100|end_char=102
+17	others	other	NOUN	NNS	Number=Plur	24	obl	_	start_char=103|end_char=109
+18	,	,	PUNCT	,	_	20	punct	_	start_char=109|end_char=110
+19	like	like	ADP	IN	_	20	case	_	start_char=111|end_char=115
+20	sales	sale	NOUN	NNS	Number=Plur	24	obl	_	start_char=116|end_char=121
+21	,	,	PUNCT	,	_	24	punct	_	start_char=121|end_char=122
+22	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nsubj:pass	_	start_char=123|end_char=125
+23	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	start_char=125|end_char=127
+24	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	start_char=128|end_char=132
+25	as	as	ADV	RB	_	26	advmod	_	start_char=133|end_char=135
+26	trustworthy	trustworthy	ADJ	JJ	Degree=Pos	24	xcomp	_	start_char=136|end_char=147
+27	and	and	CCONJ	CC	_	28	cc	_	start_char=148|end_char=151
+28	reliable	reliable	ADJ	JJ	Degree=Pos	26	conj	_	start_char=152|end_char=160
+29	.	.	PUNCT	.	_	10	punct	_	start_char=160|end_char=161
+
+1	PS	ps	NOUN	NN	Number=Sing	0	root	_	start_char=164|end_char=166
+2	:	:	PUNCT	:	_	1	punct	_	start_char=166|end_char=167
+3	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	_	start_char=168|end_char=170
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=170|end_char=173
+5	change	change	VERB	VB	Mood=Imp|VerbForm=Fin	1	appos	_	start_char=174|end_char=180
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=181|end_char=185
+7	accent	accent	NOUN	NN	Number=Sing	5	obj	_	start_char=186|end_char=192
+8	🥰	''	PUNCT	.	_	1	punct	_	start_char=192|end_char=193
+

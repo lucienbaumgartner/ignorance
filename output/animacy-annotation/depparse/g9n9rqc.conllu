@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=5
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj:pass	_	start_char=6|end_char=9
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=10|end_char=13
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=14|end_char=24
+6	disengaged	disengage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=25|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=47
+9	of	of	ADP	IN	_	13	case	_	start_char=48|end_char=50
+10	today	today	NOUN	NN	Number=Sing	13	nmod:poss	_	start_char=51|end_char=56
+11	's	's	PART	POS	_	10	case	_	start_char=56|end_char=58
+12	political	political	ADJ	JJ	Degree=Pos	13	amod	_	start_char=59|end_char=68
+13	climate	climate	NOUN	NN	Number=Sing	8	obl	_	start_char=69|end_char=76
+14	to	to	PART	TO	_	15	mark	_	start_char=77|end_char=79
+15	make	make	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=80|end_char=84
+16	such	such	DET	PDT	_	21	det:predet	_	start_char=85|end_char=89
+17	an	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=90|end_char=92
+18	useless	useless	ADJ	JJ	Degree=Pos	21	amod	_	start_char=93|end_char=100
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=101|end_char=104
+20	uninformed	uninformed	ADJ	JJ	Degree=Pos	18	conj	_	start_char=105|end_char=115
+21	comment	comment	NOUN	NN	Number=Sing	15	obj	_	start_char=116|end_char=123
+22	.	.	PUNCT	.	_	2	punct	_	start_char=123|end_char=124
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=125|end_char=129
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=130|end_char=134
+3	to	to	ADP	IN	_	4	case	_	start_char=135|end_char=137
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	nmod	_	start_char=138|end_char=141
+5	.	.	PUNCT	.	_	2	punct	_	start_char=141|end_char=142
+

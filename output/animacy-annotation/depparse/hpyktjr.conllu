@@ -1,0 +1,10 @@
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=6|end_char=10
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=11|end_char=13
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=22
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=23|end_char=26
+5	nonsensical	nonsensical	ADJ	JJ	Degree=Pos	3	conj	_	start_char=27|end_char=38
+6	.	.	PUNCT	.	_	3	punct	_	start_char=38|end_char=39
+

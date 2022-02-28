@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	care	care	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=13|end_char=16
+6	large	large	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=17|end_char=22
+7	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=23|end_char=27
+8	mans	man	ADJ	JJ	Degree=Pos	9	amod	_	start_char=28|end_char=32
+9	penis	penis	NOUN	NN	Number=Sing	10	nsubj	_	start_char=33|end_char=38
+10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=39|end_char=41
+11	,	,	PUNCT	,	_	4	punct	_	start_char=41|end_char=42
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=43|end_char=45
+13	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=46|end_char=51
+14	so	so	ADV	RB	_	15	advmod	_	start_char=52|end_char=54
+15	painfully	painfully	ADV	RB	_	16	advmod	_	start_char=55|end_char=64
+16	unaware	unaware	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=65|end_char=72
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=73|end_char=76
+18	unintelligent	unintelligent	ADJ	JJ	Degree=Pos	16	conj	_	start_char=77|end_char=90
+19	.	.	PUNCT	.	_	4	punct	_	start_char=90|end_char=91
+

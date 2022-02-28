@@ -1,0 +1,96 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=7
+3	judge	judge	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=13
+4	all	all	DET	DT	_	3	obj	_	start_char=14|end_char=17
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=18|end_char=21
+6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=22|end_char=26
+7	.	.	PUNCT	.	_	3	punct	_	start_char=26|end_char=27
+
+1	Who	who	PRON	WP	PronType=Int	0	root	_	start_char=28|end_char=31
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=32|end_char=35
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	nsubj	_	start_char=36|end_char=39
+4	to	to	PART	TO	_	5	mark	_	start_char=40|end_char=42
+5	regurgitate	regurgitate	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=43|end_char=54
+6	pop	pop	NOUN	NN	Number=Sing	8	compound	_	start_char=55|end_char=58
+7	psych	psych	NOUN	NN	Number=Sing	8	compound	_	start_char=59|end_char=64
+8	platitudes	platitude	NOUN	NNS	Number=Plur	5	obj	_	start_char=65|end_char=75
+9	at	at	ADP	IN	_	10	case	_	start_char=76|end_char=78
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=79|end_char=81
+11	so	so	ADV	RB	_	14	mark	_	start_char=82|end_char=84
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=85|end_char=88
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=89|end_char=92
+14	feel	feel	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=93|end_char=97
+15	superior	superior	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=98|end_char=106
+16	?	?	PUNCT	.	_	1	punct	_	start_char=106|end_char=107
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=108|end_char=116
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=117|end_char=120
+3	empathy	empathy	NOUN	NN	Number=Sing	1	conj	_	start_char=121|end_char=128
+4	deficient	deficient	ADJ	JJ	Degree=Pos	1	conj	_	start_char=129|end_char=138
+5	.	.	PUNCT	.	_	1	punct	_	start_char=138|end_char=139
+
+1	Accomplish	accomplish	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=142|end_char=152
+2	what	what	PRON	WP	PronType=Int	1	obj	_	start_char=153|end_char=157
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=158|end_char=159
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=160|end_char=164
+5	against	against	ADP	IN	_	7	case	_	start_char=165|end_char=172
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=173|end_char=176
+7	odds	odd	NOUN	NNS	Number=Plur	4	obl	_	start_char=177|end_char=181
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=182|end_char=185
+9	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=186|end_char=189
+10	back	back	ADV	RB	_	9	advmod	_	start_char=190|end_char=194
+11	to	to	ADP	IN	_	12	case	_	start_char=195|end_char=197
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	start_char=198|end_char=200
+13	.	.	PUNCT	.	_	1	punct	_	start_char=200|end_char=201
+
+1	Research	Research	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=202|end_char=210
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=211|end_char=214
+3	think	think	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=215|end_char=220
+4	for	for	ADP	IN	_	5	case	_	start_char=221|end_char=224
+5	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obl	_	start_char=225|end_char=233
+6	instead	instead	ADV	RB	Degree=Pos	8	mark	_	start_char=234|end_char=241
+7	of	of	SCONJ	IN	_	6	fixed	_	start_char=242|end_char=244
+8	memorizing	memorize	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=245|end_char=255
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=256|end_char=259
+10	current	current	ADJ	JJ	Degree=Pos	11	amod	_	start_char=260|end_char=267
+11	dogma	dogma	NOUN	NN	Number=Sing	8	obj	_	start_char=268|end_char=273
+12	-	-	PUNCT	,	_	16	punct	_	start_char=273|end_char=274
+13	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=275|end_char=278
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=279|end_char=280
+15	moving	move	VERB	VBG	VerbForm=Ger	16	amod	_	start_char=281|end_char=287
+16	target	target	NOUN	NN	Number=Sing	8	appos	_	start_char=288|end_char=294
+17	as	as	SCONJ	IN	_	20	mark	_	start_char=295|end_char=297
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	start_char=298|end_char=300
+19	all	all	DET	DT	_	18	det	_	start_char=301|end_char=304
+20	contribute	contribute	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	start_char=305|end_char=315
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=316|end_char=319
+22	learn	learn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	conj	_	start_char=320|end_char=325
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=326|end_char=329
+24	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	conj	_	start_char=330|end_char=335
+25	.	.	PUNCT	.	_	1	punct	_	start_char=335|end_char=336
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=339|end_char=342
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=342|end_char=345
+3	on	on	ADP	IN	_	5	case	_	start_char=346|end_char=348
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=349|end_char=353
+5	site	site	NOUN	NN	Number=Sing	0	root	_	start_char=354|end_char=358
+6	looking	look	VERB	VBG	VerbForm=Ger	5	acl	_	start_char=359|end_char=366
+7	for	for	ADP	IN	_	8	case	_	start_char=367|end_char=370
+8	answers	answer	NOUN	NNS	Number=Plur	6	obl	_	start_char=371|end_char=378
+9	.	.	PUNCT	.	_	5	punct	_	start_char=378|end_char=379
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=380|end_char=383
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=384|end_char=387
+3	no	no	ADV	RB	_	4	advmod	_	start_char=388|end_char=390
+4	better	good	ADJ	JJR	Degree=Cmp	0	root	_	start_char=391|end_char=397
+5	than	than	ADP	IN	_	6	case	_	start_char=398|end_char=402
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=403|end_char=405
+7	.	.	PUNCT	.	_	4	punct	_	start_char=405|end_char=406
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=407|end_char=410
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=411|end_char=414
+3	different	different	ADJ	JJ	Degree=Pos	0	root	_	start_char=415|end_char=424
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=425|end_char=427
+5	all	all	DET	DT	_	3	obl	_	start_char=428|end_char=431
+6	.	.	PUNCT	.	_	3	punct	_	start_char=431|end_char=432
+

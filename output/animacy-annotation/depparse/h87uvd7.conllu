@@ -1,0 +1,51 @@
+1	All	all	DET	DT	_	3	det	_	start_char=0|end_char=3
+2	private	private	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=11
+3	property	property	NOUN	NN	Number=Sing	0	root	_	start_char=12|end_char=20
+4	.	.	PUNCT	.	_	3	punct	_	start_char=20|end_char=21
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=22|end_char=25
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=26|end_char=30
+3	no	no	DET	DT	_	4	det	_	start_char=31|end_char=33
+4	right	right	NOUN	NN	Number=Sing	2	obj	_	start_char=34|end_char=39
+5	to	to	PART	TO	_	6	mark	_	start_char=40|end_char=42
+6	enter	enter	VERB	VB	VerbForm=Inf	4	acl	_	start_char=43|end_char=48
+7	any	any	DET	DT	_	6	obj	_	start_char=49|end_char=52
+8	of	of	ADP	IN	_	10	case	_	start_char=53|end_char=55
+9	those	that	DET	DT	Number=Plur|PronType=Dem	10	det	_	start_char=56|end_char=61
+10	properties	property	NOUN	NNS	Number=Plur	7	nmod	_	start_char=62|end_char=72
+11	and	and	CCONJ	CC	_	20	cc	_	start_char=73|end_char=76
+12	if	if	SCONJ	IN	_	14	mark	_	start_char=77|end_char=79
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=80|end_char=84
+14	tell	tell	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	_	start_char=85|end_char=89
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	obj	_	start_char=90|end_char=93
+16	to	to	PART	TO	_	17	mark	_	start_char=94|end_char=96
+17	leave	leave	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=97|end_char=102
+18	,	,	PUNCT	,	_	20	punct	_	start_char=102|end_char=103
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=104|end_char=107
+20	must	must	AUX	MD	VerbForm=Fin	2	conj	_	start_char=108|end_char=112
+21	.	.	PUNCT	.	_	2	punct	_	start_char=112|end_char=113
+
+1	Or	or	CCONJ	CC	_	4	cc	_	start_char=114|end_char=116
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=117|end_char=120
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=121|end_char=124
+4	trespassing	trespass	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=125|end_char=136
+5	.	.	PUNCT	.	_	4	punct	_	start_char=136|end_char=137
+
+1	Welcome	welcome	INTJ	UH	_	11	discourse	_	start_char=139|end_char=146
+2	to	to	ADP	IN	_	3	case	_	start_char=147|end_char=149
+3	Canada	Canada	PROPN	NNP	Number=Sing	1	obl	_	start_char=150|end_char=156
+4	by	by	ADP	IN	_	6	case	_	start_char=157|end_char=159
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=160|end_char=163
+6	way	way	NOUN	NN	Number=Sing	11	obl	_	start_char=164|end_char=167
+7	,	,	PUNCT	,	_	11	punct	_	start_char=167|end_char=168
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=169|end_char=172
+9	must	must	AUX	MD	VerbForm=Fin	11	aux	_	start_char=173|end_char=177
+10	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=178|end_char=180
+11	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=181|end_char=184
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=185|end_char=188
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=189|end_char=196
+14	of	of	ADP	IN	_	16	case	_	start_char=197|end_char=199
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=200|end_char=203
+16	rules	rule	NOUN	NNS	Number=Plur	13	obl	_	start_char=204|end_char=209
+17	.	.	PUNCT	.	_	11	punct	_	start_char=209|end_char=210
+

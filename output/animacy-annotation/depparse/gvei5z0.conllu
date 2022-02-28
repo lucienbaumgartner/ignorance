@@ -1,0 +1,22 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	insecure	insecure	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=31
+6	of	of	ADP	IN	_	7	case	_	start_char=32|end_char=34
+7	history	history	NOUN	NN	Number=Sing	3	obl	_	start_char=35|end_char=42
+8	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	Guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=45|end_char=50
+2	who	who	PRON	WP	PronType=Int	4	obl	_	start_char=51|end_char=54
+3	Alaska	Alaska	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=55|end_char=61
+4	belonged	belong	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	ccomp	_	start_char=62|end_char=70
+5	to	to	ADP	IN	_	4	obl	_	start_char=71|end_char=73
+6	before	before	SCONJ	IN	_	8	mark	_	start_char=74|end_char=80
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=81|end_char=83
+8	became	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	start_char=84|end_char=90
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=91|end_char=92
+10	US	US	PROPN	NNP	Number=Sing	11	compound	_	start_char=93|end_char=95
+11	territory	territory	NOUN	NN	Number=Sing	8	xcomp	_	start_char=96|end_char=105
+12	?	?	PUNCT	.	_	1	punct	_	start_char=105|end_char=106
+

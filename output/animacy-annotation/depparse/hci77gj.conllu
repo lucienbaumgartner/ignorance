@@ -1,0 +1,25 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=8|end_char=13
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	1	xcomp	_	start_char=14|end_char=18
+4	confidently	confidently	ADV	RB	_	5	advmod	_	start_char=19|end_char=30
+5	wrong	wrong	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=31|end_char=36
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=37|end_char=40
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=41|end_char=49
+8	of	of	ADP	IN	_	10	case	_	start_char=50|end_char=52
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=53|end_char=56
+10	themes	theme	NOUN	NNS	Number=Plur	7	obl	_	start_char=57|end_char=63
+11	of	of	ADP	IN	_	14	case	_	start_char=64|end_char=66
+12	both	both	DET	DT	_	14	cc:preconj	_	start_char=67|end_char=71
+13	one	one	NUM	CD	NumType=Card	14	nummod	_	start_char=72|end_char=75
+14	piece	piece	NOUN	NN	Number=Sing	10	nmod	_	start_char=76|end_char=81
+15	and	and	CCONJ	CC	_	18	cc	_	start_char=82|end_char=85
+16	real	real	ADJ	JJ	Degree=Pos	18	amod	_	start_char=86|end_char=90
+17	life	life	NOUN	NN	Number=Sing	18	compound	_	start_char=91|end_char=95
+18	history	history	NOUN	NN	Number=Sing	14	conj	_	start_char=96|end_char=103
+19	that	that	SCONJ	IN	_	22	mark	_	start_char=104|end_char=108
+20	one	one	NUM	CD	NumType=Card	21	nummod	_	start_char=109|end_char=112
+21	piece	piece	NOUN	NN	Number=Sing	22	nsubj	_	start_char=113|end_char=118
+22	draws	draw	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=119|end_char=124
+23	from	from	ADP	IN	_	22	obl	_	start_char=125|end_char=129
+24	.	.	PUNCT	.	_	1	punct	_	start_char=129|end_char=130
+

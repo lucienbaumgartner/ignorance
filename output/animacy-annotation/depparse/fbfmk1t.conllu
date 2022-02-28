@@ -1,0 +1,31 @@
+1	how	how	SCONJ	WRB	PronType=Int	2	mark	_	start_char=0|end_char=3
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=4|end_char=11
+3	retarded	retarded	ADJ	JJ	Degree=Pos	2	obj	_	start_char=12|end_char=20
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=21|end_char=24
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=25|end_char=28
+6	.	.	PUNCT	.	_	2	punct	_	start_char=28|end_char=29
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=30|end_char=31
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=32|end_char=34
+3	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=35|end_char=41
+4	to	to	PART	TO	_	5	mark	_	start_char=42|end_char=44
+5	prove	prove	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=45|end_char=50
+6	that	that	SCONJ	IN	_	10	mark	_	start_char=51|end_char=55
+7	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=56|end_char=57
+8	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=58|end_char=60
+9	not	not	PART	RB	_	10	advmod	_	start_char=61|end_char=64
+10	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	start_char=65|end_char=70
+11	yet	yet	CCONJ	CC	_	15	cc	_	start_char=71|end_char=74
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=75|end_char=78
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=79|end_char=82
+14	so	so	ADV	RB	_	15	advmod	_	start_char=83|end_char=85
+15	stubborn	stubborn	ADJ	JJ	Degree=Pos	3	conj	_	start_char=86|end_char=94
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=95|end_char=98
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=99|end_char=107
+18	that	that	SCONJ	IN	_	20	mark	_	start_char=108|end_char=112
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=113|end_char=116
+20	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	ccomp	_	start_char=117|end_char=123
+21	to	to	PART	TO	_	22	mark	_	start_char=124|end_char=126
+22	listen	listen	VERB	VB	VerbForm=Inf	20	xcomp	_	start_char=127|end_char=133
+23	.	.	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+

@@ -1,0 +1,35 @@
+1	What	what	PRON	WP	PronType=Int	5	obj	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=5|end_char=8
+3	poster	poster	NOUN	NN	Number=Sing	5	nsubj	_	start_char=9|end_char=15
+4	above	above	ADV	RB	_	3	advmod	_	start_char=16|end_char=21
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=22|end_char=26
+6	.	.	PUNCT	.	_	5	punct	_	start_char=26|end_char=27
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	start_char=29|end_char=32
+2	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=33|end_char=39
+3	too	too	ADV	RB	_	4	advmod	_	start_char=40|end_char=43
+4	much	much	ADV	RB	_	2	advmod	_	start_char=44|end_char=48
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=49|end_char=52
+6	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=53|end_char=60
+7	that	that	SCONJ	IN	_	13	mark	_	start_char=61|end_char=65
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=66|end_char=68
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=69|end_char=72
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=73|end_char=74
+11	calcium	calcium	NOUN	NN	Number=Sing	12	compound	_	start_char=75|end_char=82
+12	channel	channel	NOUN	NN	Number=Sing	13	compound	_	start_char=83|end_char=90
+13	blocker	blocker	NOUN	NN	Number=Sing	2	advcl	_	start_char=91|end_char=98
+14	at	at	ADP	IN	_	16	case	_	start_char=99|end_char=101
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=102|end_char=105
+16	time	time	NOUN	NN	Number=Sing	13	nmod	_	start_char=106|end_char=110
+17	.	.	PUNCT	.	_	2	punct	_	start_char=110|end_char=111
+
+1	Dont	do	AUX	MD	VerbForm=Fin	2	aux	_	start_char=113|end_char=117
+2	recommend	recommend	VERB	VB	VerbForm=Fin	0	root	_	start_char=118|end_char=127
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=128|end_char=130
+4	cause	cause	SCONJ	IN	_	8	mark	_	start_char=131|end_char=136
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=137|end_char=139
+6	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=140|end_char=145
+7	have	have	AUX	VB	VerbForm=Inf	8	aux	_	start_char=146|end_char=150
+8	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	_	start_char=151|end_char=157
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=158|end_char=160
+

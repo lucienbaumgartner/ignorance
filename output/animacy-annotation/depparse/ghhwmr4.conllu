@@ -1,0 +1,14 @@
+1	JJ	JJ	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=2
+2	do	do	AUX	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=3|end_char=5
+3	be	be	AUX	VB	VerbForm=Inf	4	aux	_	start_char=6|end_char=8
+4	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=9|end_char=16
+5	FRESH	fresh	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=17|end_char=22
+6	,	,	PUNCT	,	_	8	punct	_	start_char=22|end_char=23
+7	so	so	ADV	RB	_	8	advmod	_	start_char=24|end_char=26
+8	young	young	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=27|end_char=32
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=33|end_char=36
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=37|end_char=44
+11	of	of	ADP	IN	_	13	case	_	start_char=45|end_char=47
+12	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=48|end_char=51
+13	future	future	NOUN	NN	Number=Sing	10	obl	_	start_char=52|end_char=58
+

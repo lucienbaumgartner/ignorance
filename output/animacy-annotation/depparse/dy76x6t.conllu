@@ -1,0 +1,9 @@
+1	Liberals	liberal	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=0|end_char=8
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=9|end_char=12
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=13|end_char=23
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=31
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=32|end_char=35
+6	annoying	annoying	ADJ	JJ	Degree=Pos	4	conj	_	start_char=36|end_char=44
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=45|end_char=48
+8	obnoxious	obnoxious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=49|end_char=58
+

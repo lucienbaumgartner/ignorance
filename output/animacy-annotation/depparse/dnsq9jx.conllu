@@ -1,0 +1,15 @@
+1	Coward	Coward	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=6
+2	because	because	SCONJ	IN	_	4	mark	_	start_char=7|end_char=14
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=15|end_char=19
+4	initiate	initiate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=20|end_char=28
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=29|end_char=30
+6	conflict	conflict	NOUN	NN	Number=Sing	4	obj	_	start_char=31|end_char=39
+7	where	where	SCONJ	WRB	PronType=Rel	12	mark	_	start_char=40|end_char=45
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=46|end_char=49
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	start_char=50|end_char=55
+10	side	side	NOUN	NN	Number=Sing	12	nsubj	_	start_char=56|end_char=60
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=61|end_char=63
+12	unaware	unaware	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=64|end_char=71
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=72|end_char=75
+14	unarmed	unarmed	ADJ	JJ	Degree=Pos	12	conj	_	start_char=76|end_char=83
+

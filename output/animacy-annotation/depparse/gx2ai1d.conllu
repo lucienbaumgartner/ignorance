@@ -1,0 +1,23 @@
+1	So	so	ADV	RB	_	4	advmod	_	start_char=0|end_char=2
+2	youre	your	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=8
+3	totally	totally	ADV	RB	_	4	advmod	_	start_char=9|end_char=16
+4	misinformed	misinformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=41
+7	of	of	ADP	IN	_	9	case	_	start_char=42|end_char=44
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=45|end_char=48
+9	technology	technology	NOUN	NN	Number=Sing	6	obl	_	start_char=49|end_char=59
+10	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+
+1	Dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=61|end_char=65
+2	even	even	ADV	RB	_	3	advmod	_	start_char=66|end_char=70
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=71|end_char=75
+4	what	what	PRON	WP	PronType=Int	3	ccomp	_	start_char=76|end_char=80
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=81|end_char=82
+6	smart	smart	ADJ	JJ	Degree=Pos	7	amod	_	start_char=83|end_char=88
+7	contract	contract	NOUN	NN	Number=Sing	4	nsubj	_	start_char=89|end_char=97
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=98|end_char=100
+9	.	.	PUNCT	.	_	3	punct	_	start_char=100|end_char=101
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=102|end_char=108
+

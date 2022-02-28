@@ -1,0 +1,19 @@
+1	Forgive	forgive	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	start_char=8|end_char=12
+3	….	..	PUNCT	.	_	1	punct	_	start_char=12|end_char=14
+
+1	Ironically	ironically	ADV	RB	_	2	advmod	_	start_char=15|end_char=25
+2	enough	enough	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=32
+3	…	…	PUNCT	,	_	2	punct	_	start_char=32|end_char=33
+4	.	.	PUNCT	.	_	2	punct	_	start_char=33|end_char=34
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=35|end_char=39
+2	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=39|end_char=42
+3	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=43|end_char=51
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=52|end_char=55
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=56|end_char=64
+6	of	of	ADP	IN	_	8	case	_	start_char=65|end_char=67
+7	actual	actual	ADJ	JJ	Degree=Pos	8	amod	_	start_char=68|end_char=74
+8	history	history	NOUN	NN	Number=Sing	5	obl	_	start_char=75|end_char=82
+9	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+

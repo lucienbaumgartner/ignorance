@@ -1,0 +1,9 @@
+1	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=0|end_char=6
+2	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=7|end_char=11
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=12|end_char=15
+4	willfully	willfully	ADV	RB	Degree=Pos	5	advmod	_	start_char=16|end_char=25
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	acl:relcl	_	start_char=26|end_char=34
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=35|end_char=38
+7	uncompassionate	uncompassionate	ADJ	JJ	Degree=Pos	5	conj	_	start_char=39|end_char=54
+8	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+

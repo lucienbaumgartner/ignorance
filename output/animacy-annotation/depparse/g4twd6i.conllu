@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=9
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=10|end_char=12
+4	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	Crazy	crazy	ADJ	JJ	Degree=Pos	4	nsubj	_	start_char=14|end_char=19
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=20|end_char=25
+3	so	so	ADV	RB	_	4	advmod	_	start_char=26|end_char=28
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=34
+5	during	during	ADP	IN	_	6	case	_	start_char=35|end_char=41
+6	something	something	PRON	NN	Number=Sing	4	obl	_	start_char=42|end_char=51
+7	so	so	ADV	RB	_	8	advmod	_	start_char=52|end_char=54
+8	traumatic	traumatic	ADJ	JJ	Degree=Pos	6	amod	_	start_char=55|end_char=64
+9	.	.	PUNCT	.	_	4	punct	_	start_char=64|end_char=65
+
+1	Innocent	innocent	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=74
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=75|end_char=78
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=79|end_char=86
+4	of	of	ADP	IN	_	6	case	_	start_char=87|end_char=89
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=90|end_char=93
+6	depth	depth	NOUN	NN	Number=Sing	1	obl	_	start_char=94|end_char=99
+7	of	of	ADP	IN	_	9	case	_	start_char=100|end_char=102
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=103|end_char=106
+9	event	event	NOUN	NN	Number=Sing	6	nmod	_	start_char=107|end_char=112
+10	at	at	ADP	IN	_	12	case	_	start_char=113|end_char=115
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=116|end_char=119
+12	time	time	NOUN	NN	Number=Sing	9	nmod	_	start_char=120|end_char=124
+13	.	.	PUNCT	.	_	1	punct	_	start_char=124|end_char=125
+

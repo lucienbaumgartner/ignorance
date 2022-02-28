@@ -1,0 +1,49 @@
+1	Literally	literally	ADV	RB	_	2	advmod	_	start_char=0|end_char=9
+2	everything	everything	PRON	NN	Number=Sing	0	root	_	start_char=10|end_char=20
+3	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=22|end_char=23
+2	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=24|end_char=30
+3	out	out	ADP	IN	_	5	case	_	start_char=31|end_char=34
+4	of	of	ADP	IN	_	6	case	_	start_char=35|end_char=37
+5	sex	sex	NOUN	NN	Number=Sing	2	obl	_	start_char=38|end_char=41
+6	Ed	Ed	PROPN	NNP	Number=Sing	2	obl	_	start_char=42|end_char=44
+7	totally	totally	ADV	RB	_	8	advmod	_	start_char=45|end_char=52
+8	unprepared	unprepared	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=53|end_char=63
+9	,	,	PUNCT	,	_	10	punct	_	start_char=63|end_char=64
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=65|end_char=72
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=73|end_char=76
+12	confused	confused	ADJ	JJ	Degree=Pos	10	conj	_	start_char=77|end_char=85
+13	.	.	PUNCT	.	_	2	punct	_	start_char=85|end_char=86
+
+1	Everything	everything	PRON	NN	Number=Sing	6	nsubj	_	start_char=87|end_char=97
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=98|end_char=99
+3	learned	learn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	start_char=100|end_char=107
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=108|end_char=111
+5	from	from	ADP	IN	_	6	case	_	start_char=112|end_char=116
+6	experience	experience	NOUN	NN	Number=Sing	0	root	_	start_char=117|end_char=127
+7	or	or	CCONJ	CC	_	8	cc	_	start_char=128|end_char=130
+8	online	online	ADV	RB	_	6	conj	_	start_char=131|end_char=137
+9	.	.	PUNCT	.	_	6	punct	_	start_char=137|end_char=138
+
+1	What	what	PRON	WP	PronType=Int	10	nsubj	_	start_char=139|end_char=143
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=144|end_char=145
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=146|end_char=149
+4	"	"	PUNCT	``	_	5	punct	_	start_char=150|end_char=151
+5	learn	learn	VERB	VB	VerbForm=Inf	1	acl:relcl	_	start_char=151|end_char=156
+6	"	"	PUNCT	''	_	5	punct	_	start_char=156|end_char=157
+7	in	in	ADP	IN	_	9	case	_	start_char=158|end_char=160
+8	sex	sex	NOUN	NN	Number=Sing	9	compound	_	start_char=161|end_char=164
+9	Ed	Ed	PROPN	NNP	Number=Sing	5	obl	_	start_char=165|end_char=167
+10	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=168|end_char=174
+11	out	out	ADP	RP	_	10	compound:prt	_	start_char=175|end_char=178
+12	to	to	PART	TO	_	14	mark	_	start_char=179|end_char=181
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=182|end_char=184
+14	wrong	wrong	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=185|end_char=190
+15	,	,	PUNCT	,	_	16	punct	_	start_char=190|end_char=191
+16	misleading	misleading	ADJ	JJ	Degree=Pos	14	conj	_	start_char=192|end_char=202
+17	,	,	PUNCT	,	_	19	punct	_	start_char=202|end_char=203
+18	or	or	CCONJ	CC	_	19	cc	_	start_char=204|end_char=206
+19	outdated	outdated	ADJ	JJ	Degree=Pos	14	conj	_	start_char=207|end_char=215
+20	.	.	PUNCT	.	_	10	punct	_	start_char=215|end_char=216
+

@@ -1,0 +1,64 @@
+1	Most	most	ADJ	JJS	Degree=Sup	5	nsubj	_	start_char=0|end_char=4
+2	of	of	ADP	IN	_	3	case	_	start_char=5|end_char=7
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	start_char=8|end_char=12
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=16
+5	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=22
+6	,	,	PUNCT	,	_	7	punct	_	start_char=22|end_char=23
+7	uneducated	uneducated	ADJ	JJ	Degree=Pos	5	conj	_	start_char=24|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=39|end_char=47
+10	of	of	ADP	IN	_	13	case	_	start_char=48|end_char=50
+11	critical	critical	ADJ	JJ	Degree=Pos	13	amod	_	start_char=51|end_char=59
+12	thinking	thinking	NOUN	NN	Number=Sing	13	compound	_	start_char=60|end_char=68
+13	skills	skill	NOUN	NNS	Number=Plur	9	obl	_	start_char=69|end_char=75
+14	.	.	PUNCT	.	_	5	punct	_	start_char=75|end_char=76
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=77|end_char=79
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=80|end_char=81
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=82|end_char=84
+4	n't	not	PART	RB	_	5	advmod	_	start_char=84|end_char=87
+5	hate	hate	VERB	VB	VerbForm=Inf	0	root	_	start_char=88|end_char=92
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	start_char=93|end_char=97
+7	.	.	PUNCT	.	_	5	punct	_	start_char=97|end_char=98
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=99|end_char=103
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=104|end_char=107
+3	also	also	ADV	RB	_	4	advmod	_	start_char=108|end_char=112
+4	living	live	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=113|end_char=119
+5	through	through	ADP	IN	_	7	case	_	start_char=120|end_char=127
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=128|end_char=129
+7	collapse	collapse	NOUN	NN	Number=Sing	4	obl	_	start_char=130|end_char=138
+8	,	,	PUNCT	,	_	10	punct	_	start_char=138|end_char=139
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=140|end_char=143
+10	scared	scared	ADJ	JJ	Degree=Pos	4	conj	_	start_char=144|end_char=150
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=151|end_char=154
+12	depressed	depressed	ADJ	JJ	Degree=Pos	10	conj	_	start_char=155|end_char=164
+13	.	.	PUNCT	.	_	4	punct	_	start_char=164|end_char=165
+
+1	Take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=166|end_char=170
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=171|end_char=174
+3	idiot	idiot	NOUN	NN	Number=Sing	1	obj	_	start_char=175|end_char=180
+4	on	on	ADP	IN	_	8	case	_	start_char=181|end_char=183
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=184|end_char=187
+6	patriotic	patriotic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=188|end_char=197
+7	socialism	socialism	NOUN	NN	Number=Sing	8	compound	_	start_char=198|end_char=207
+8	video	video	NOUN	NN	Number=Sing	1	obl	_	start_char=208|end_char=213
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=214|end_char=215
+10	posted	post	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=216|end_char=222
+11	.	.	PUNCT	.	_	1	punct	_	start_char=222|end_char=223
+
+1	'	'	PUNCT	``	_	4	punct	_	start_char=224|end_char=225
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=225|end_char=228
+3	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=228|end_char=231
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=232|end_char=237
+5	,	,	PUNCT	,	_	10	punct	_	start_char=237|end_char=238
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=239|end_char=242
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=243|end_char=244
+8	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=245|end_char=247
+9	n't	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=247|end_char=250
+10	have	have	VERB	VB	VerbForm=Inf	4	conj	_	start_char=251|end_char=255
+11	to	to	PART	TO	_	12	mark	_	start_char=256|end_char=258
+12	prove	prove	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=259|end_char=264
+13	why	why	SCONJ	WRB	PronType=Int	12	obj	_	start_char=265|end_char=268
+14	'	'	PUNCT	''	_	4	punct	_	start_char=268|end_char=269
+

@@ -1,0 +1,36 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=13|end_char=16
+5	joke	joke	NOUN	NN	Number=Sing	9	nsubj	_	start_char=17|end_char=21
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	start_char=22|end_char=25
+7	n't	not	PART	RB	_	9	advmod	_	start_char=25|end_char=28
+8	just	just	ADV	RB	_	9	advmod	_	start_char=29|end_char=33
+9	suppose	suppose	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	start_char=34|end_char=41
+10	to	to	PART	TO	_	13	mark	_	start_char=42|end_char=44
+11	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=45|end_char=47
+12	so	so	ADV	RB	_	13	advmod	_	start_char=48|end_char=50
+13	awful	awful	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=51|end_char=56
+14	,	,	PUNCT	,	_	16	punct	_	start_char=56|end_char=57
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=58|end_char=61
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=62|end_char=70
+17	,	,	PUNCT	,	_	23	punct	_	start_char=70|end_char=71
+18	that	that	SCONJ	IN	_	23	mark	_	start_char=72|end_char=76
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=77|end_char=80
+20	real	real	ADJ	JJ	Degree=Pos	21	amod	_	start_char=81|end_char=85
+21	laughter	laughter	NOUN	NN	Number=Sing	23	nsubj:pass	_	start_char=86|end_char=94
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	start_char=95|end_char=97
+23	suppose	suppose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	ccomp	_	start_char=98|end_char=105
+24	to	to	PART	TO	_	28	mark	_	start_char=106|end_char=108
+25	be	be	AUX	VB	VerbForm=Inf	28	cop	_	start_char=109|end_char=111
+26	at	at	ADP	IN	_	28	case	_	start_char=112|end_char=114
+27	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	start_char=115|end_char=118
+28	OP	OP	PROPN	NNP	Number=Sing	23	xcomp	_	start_char=119|end_char=121
+29	.	.	PUNCT	.	_	3	punct	_	start_char=121|end_char=122
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=124|end_char=128
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=129|end_char=132
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=133|end_char=135
+4	takeaway	takeaway	NOUN	NN	Number=Sing	0	root	_	start_char=136|end_char=144
+5	.	.	PUNCT	.	_	4	punct	_	start_char=144|end_char=145
+

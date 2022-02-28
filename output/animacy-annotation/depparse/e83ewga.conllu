@@ -1,0 +1,25 @@
+1	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	1	expl	_	start_char=4|end_char=9
+3	any	any	DET	DT	_	4	det	_	start_char=10|end_char=13
+4	benefits	benefit	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=14|end_char=22
+5	to	to	ADP	IN	_	6	case	_	start_char=23|end_char=25
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nmod	_	start_char=26|end_char=30
+7	?	?	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+
+1	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=32|end_char=34
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=35|end_char=42
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=43|end_char=45
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=46|end_char=50
+5	?	?	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+
+1	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=52|end_char=56
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=57|end_char=59
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=60|end_char=62
+4	option	option	NOUN	NN	Number=Sing	0	root	_	start_char=63|end_char=69
+5	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=70|end_char=71
+6	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=72|end_char=74
+7	unaware	unaware	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=75|end_char=82
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=83|end_char=86
+9	unfamiliar	unfamiliar	ADJ	JJ	Degree=Pos	7	conj	_	start_char=87|end_char=97
+10	with	with	ADP	IN	_	9	obl	_	start_char=98|end_char=102
+

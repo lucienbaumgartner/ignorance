@@ -1,0 +1,11 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	4	amod	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	inconsiderate	inconsiderate	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=25
+4	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=26|end_char=32
+5	meandering	meand	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=33|end_char=43
+6	around	around	ADP	IN	_	9	case	_	start_char=44|end_char=50
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=51|end_char=54
+8	grocery	grocery	NOUN	NN	Number=Sing	9	compound	_	start_char=55|end_char=62
+9	store	store	NOUN	NN	Number=Sing	5	obl	_	start_char=63|end_char=68
+10	.	.	PUNCT	.	_	4	punct	_	start_char=68|end_char=69
+

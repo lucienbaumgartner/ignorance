@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=7
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=8|end_char=11
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=12|end_char=20
+6	of	of	ADP	IN	_	8	case	_	start_char=21|end_char=23
+7	internet	internet	NOUN	NN	Number=Sing	8	compound	_	start_char=24|end_char=32
+8	culture	culture	NOUN	NN	Number=Sing	5	obl	_	start_char=33|end_char=40
+9	.	.	PUNCT	.	_	3	punct	_	start_char=40|end_char=41
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=42|end_char=44
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=44|end_char=46
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=47|end_char=51
+4	sliding	slide	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=52|end_char=59
+5	into	into	ADP	IN	_	8	case	_	start_char=60|end_char=64
+6	someone	someone	PRON	NN	Number=Sing	8	nmod:poss	_	start_char=65|end_char=72
+7	's	's	PART	POS	_	6	case	_	start_char=72|end_char=74
+8	DMs	dm	NOUN	NN	Number=Sing	4	obl	_	start_char=75|end_char=78
+9	?	?	PUNCT	.	_	4	punct	_	start_char=78|end_char=79
+

@@ -1,0 +1,14 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	tragic	tragic	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=11
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=12|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=16|end_char=24
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=25|end_char=29
+7	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=30|end_char=36
+8	oppose	oppose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=37|end_char=43
+9	nuclear	nuclear	ADJ	JJ	Degree=Pos	8	obj	_	start_char=44|end_char=51
+10	on	on	ADP	IN	_	12	case	_	start_char=52|end_char=54
+11	environmental	environmental	ADJ	JJ	Degree=Pos	12	amod	_	start_char=55|end_char=68
+12	grounds	grounds	NOUN	NNS	Number=Plur	8	obl	_	start_char=69|end_char=76
+13	.	.	PUNCT	.	_	3	punct	_	start_char=76|end_char=77
+

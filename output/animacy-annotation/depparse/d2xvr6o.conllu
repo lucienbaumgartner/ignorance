@@ -1,0 +1,16 @@
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=5|end_char=8
+3	spoken	speak	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=9|end_char=15
+4	to	to	ADP	IN	_	6	case	_	start_char=16|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+6	parents	parent	NOUN	NNS	Number=Plur	3	obl	_	start_char=23|end_char=30
+7	?	?	PUNCT	.	_	3	punct	_	start_char=30|end_char=31
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=33|end_char=37
+2	might	might	AUX	MD	VerbForm=Fin	4	aux	_	start_char=38|end_char=43
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=44|end_char=46
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=54
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=55|end_char=58
+6	apologetic	apologetic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=59|end_char=69
+7	.	.	PUNCT	.	_	4	punct	_	start_char=69|end_char=70
+

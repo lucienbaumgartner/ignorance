@@ -1,0 +1,33 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=8|end_char=11
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=15
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=16|end_char=18
+5	like	like	ADP	IN	_	7	case	_	start_char=19|end_char=23
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=24|end_char=25
+7	father	father	NOUN	NN	Number=Sing	3	obl	_	start_char=26|end_char=32
+8	preventing	prevent	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=33|end_char=43
+9	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=44|end_char=47
+10	toddler	toddler	NOUN	NN	Number=Sing	8	obj	_	start_char=48|end_char=55
+11	from	from	SCONJ	IN	_	12	mark	_	start_char=56|end_char=60
+12	making	make	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=61|end_char=67
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=68|end_char=69
+14	mess	mess	NOUN	NN	Number=Sing	12	obj	_	start_char=70|end_char=74
+15	.	.	PUNCT	.	_	3	punct	_	start_char=74|end_char=75
+
+1	More	more	ADV	RBR	_	4	advmod	_	start_char=77|end_char=81
+2	like	like	ADP	IN	_	4	case	_	start_char=82|end_char=86
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=87|end_char=88
+4	drunkard	drunkard	NOUN	NN	Number=Sing	0	root	_	start_char=89|end_char=97
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=98|end_char=102
+6	stumbles	stumble	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=103|end_char=111
+7	around	around	ADV	RB	_	8	advmod	_	start_char=112|end_char=118
+8	incoherent	incoherent	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=119|end_char=129
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=130|end_char=133
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=134|end_char=141
+11	of	of	ADP	IN	_	12	case	_	start_char=142|end_char=144
+12	reality	reality	NOUN	NN	Number=Sing	10	obl	_	start_char=145|end_char=152
+13	.	.	PUNCT	.	_	4	punct	_	start_char=152|end_char=153
+

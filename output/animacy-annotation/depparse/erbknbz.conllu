@@ -1,0 +1,10 @@
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	,	,	PUNCT	,	_	1	punct	_	start_char=9|end_char=10
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=11|end_char=12
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=13|end_char=16
+6	unaware	unaware	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=17|end_char=24
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=25|end_char=28
+8	extremely	extremely	ADV	RB	_	9	advmod	_	start_char=29|end_char=38
+9	disturbed	disturbed	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=48
+

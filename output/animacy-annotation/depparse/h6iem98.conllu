@@ -1,0 +1,14 @@
+1	Ya	ya	INTJ	UH	_	6	discourse	_	start_char=0|end_char=2
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=3|end_char=7
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=8|end_char=10
+4	all	all	ADV	RB	_	6	advmod	_	start_char=11|end_char=14
+5	very	very	ADV	RB	_	6	advmod	_	start_char=15|end_char=19
+6	misogynistic	misogynistic	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	of	of	ADP	IN	_	12	case	_	start_char=46|end_char=48
+10	women	woman	NOUN	NNS	Number=Plur	12	nmod:poss	_	start_char=49|end_char=54
+11	’s	's	PART	POS	_	10	case	_	start_char=54|end_char=56
+12	issues	issue	NOUN	NNS	Number=Plur	8	obl	_	start_char=57|end_char=63
+13	.	.	PUNCT	.	_	6	punct	_	start_char=63|end_char=64
+

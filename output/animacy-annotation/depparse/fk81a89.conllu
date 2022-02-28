@@ -1,0 +1,18 @@
+1	Either	either	CCONJ	CC	_	2	cc:preconj	_	start_char=0|end_char=6
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=7|end_char=11
+3	or	or	CCONJ	CC	_	4	cc	_	start_char=12|end_char=14
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	conj	_	start_char=15|end_char=17
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=18|end_char=20
+6	massively	massively	ADV	RB	_	7	advmod	_	start_char=21|end_char=30
+7	undisciplined	undisciplined	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=44
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=45|end_char=48
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=49|end_char=56
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=57|end_char=61
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=62|end_char=64
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=64|end_char=66
+13	undercutting	undercut	VERB	VBG	Tense=Pres|VerbForm=Part	9	ccomp	_	start_char=67|end_char=79
+14	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=80|end_char=83
+15	own	own	ADJ	JJ	Degree=Pos	16	amod	_	start_char=84|end_char=87
+16	cause	cause	NOUN	NN	Number=Sing	13	obj	_	start_char=88|end_char=93
+17	.	.	PUNCT	.	_	7	punct	_	start_char=93|end_char=94
+

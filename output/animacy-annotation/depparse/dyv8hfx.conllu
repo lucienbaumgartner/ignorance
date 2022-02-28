@@ -1,0 +1,6 @@
+1	Or	or	CCONJ	CC	_	2	cc	_	start_char=0|end_char=2
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=3|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	lucky	lucky	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=20
+5	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+

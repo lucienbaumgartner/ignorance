@@ -1,0 +1,54 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	bomb	bomb	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=4|end_char=8
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=9|end_char=12
+5	brown	brown	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=18
+6	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=19|end_char=25
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=27|end_char=31
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=31|end_char=33
+3	hardly	hardly	ADV	RB	_	7	advmod	_	start_char=34|end_char=40
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=41|end_char=42
+5	deep	deep	ADJ	JJ	Degree=Pos	7	amod	_	start_char=43|end_char=47
+6	state	state	NOUN	NN	Number=Sing	7	compound	_	start_char=48|end_char=53
+7	operative	operative	NOUN	NN	Number=Sing	0	root	_	start_char=54|end_char=63
+8	.	.	PUNCT	.	_	7	punct	_	start_char=63|end_char=64
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=66|end_char=69
+2	deep	deep	ADJ	JJ	Degree=Pos	3	amod	_	start_char=70|end_char=74
+3	state	state	NOUN	NN	Number=Sing	6	nsubj	_	start_char=75|end_char=80
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=81|end_char=83
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=84|end_char=87
+6	bueaurocracy	bueaurocracy	NOUN	NN	Number=Sing	0	root	_	start_char=88|end_char=100
+7	.	.	PUNCT	.	_	6	punct	_	start_char=100|end_char=101
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=102|end_char=105
+2	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=106|end_char=109
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=110|end_char=113
+4	government	government	NOUN	NN	Number=Sing	5	nsubj	_	start_char=114|end_char=124
+5	functioned	function	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=125|end_char=135
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=136|end_char=140
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=141|end_char=145
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	start_char=146|end_char=149
+9	Raygun	Raygun	PROPN	NNP	Number=Sing	8	obj	_	start_char=150|end_char=156
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=157|end_char=164
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=165|end_char=168
+12	uninvolved	uninvolved	ADJ	JJ	Degree=Pos	10	conj	_	start_char=169|end_char=179
+13	.	.	PUNCT	.	_	5	punct	_	start_char=179|end_char=180
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=181|end_char=184
+2	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=185|end_char=188
+3	Middle	Middle	ADJ	NNP	Degree=Pos	4	amod	_	start_char=189|end_char=195
+4	East	East	PROPN	NNP	Number=Sing	5	compound	_	start_char=196|end_char=200
+5	policy	policy	NOUN	NN	Number=Sing	8	nsubj	_	start_char=201|end_char=207
+6	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	_	start_char=208|end_char=211
+7	n't	not	PART	RB	_	8	advmod	_	start_char=211|end_char=214
+8	change	change	VERB	VB	VerbForm=Inf	0	root	_	start_char=215|end_char=221
+9	one	one	NUM	CD	NumType=Card	10	nummod	_	start_char=222|end_char=225
+10	iota	iota	NOUN	NN	Number=Sing	8	obj	_	start_char=226|end_char=230
+11	from	from	ADP	IN	_	12	case	_	start_char=231|end_char=235
+12	Dubya	Dubya	PROPN	NNP	Number=Sing	8	obl	_	start_char=236|end_char=241
+13	to	to	ADP	IN	_	14	case	_	start_char=242|end_char=244
+14	Obama	Obama	PROPN	NNP	Number=Sing	8	obl	_	start_char=245|end_char=250
+15	.	.	PUNCT	.	_	8	punct	_	start_char=250|end_char=251
+

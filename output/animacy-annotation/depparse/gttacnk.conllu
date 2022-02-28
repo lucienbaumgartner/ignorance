@@ -1,0 +1,91 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	not	not	PART	RB	_	5	advmod	_	start_char=5|end_char=8
+4	that	that	ADV	RB	_	5	advmod	_	start_char=9|end_char=13
+5	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=18
+6	at	at	ADP	IN	_	9	case	_	start_char=19|end_char=21
+7	word	word	NOUN	NN	Number=Sing	9	compound	_	start_char=22|end_char=26
+8	calculator	calculator	NOUN	NN	Number=Sing	9	compound	_	start_char=27|end_char=37
+9	thing	thing	NOUN	NN	Number=Sing	5	obl	_	start_char=38|end_char=43
+10	,	,	PUNCT	,	_	13	punct	_	start_char=43|end_char=44
+11	but	but	CCONJ	CC	_	13	cc	_	start_char=45|end_char=48
+12	some	some	DET	DT	_	13	det	_	start_char=49|end_char=53
+13	points	point	NOUN	NNS	Number=Plur	9	conj	_	start_char=54|end_char=60
+14	:	:	PUNCT	:	_	5	punct	_	start_char=60|end_char=61
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=63|end_char=66
+2	;	;	PUNCT	:	_	4	punct	_	start_char=66|end_char=67
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=67|end_char=68
+4	P1	P1	PROPN	NNP	Number=Sing	1	parataxis	_	start_char=68|end_char=70
+5	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=70|end_char=71
+
+1	Undertaking	undertake	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=72|end_char=83
+2	to	to	PART	TO	_	3	mark	_	start_char=84|end_char=86
+3	bear	bear	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=87|end_char=91
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=92|end_char=95
+5	Trust	trust	NOUN	NN	Number=Sing	3	obj	_	start_char=96|end_char=101
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=102|end_char=105
+7	unjust	unjust	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=112
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=113|end_char=116
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=117|end_char=125
+10	of	of	ADP	IN	_	11	case	_	start_char=126|end_char=128
+11	mankind	mankind	NOUN	NN	Number=Sing	9	obl	_	start_char=129|end_char=136
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=138|end_char=141
+2	;	;	PUNCT	,	_	1	punct	_	start_char=141|end_char=142
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=142|end_char=143
+4	P2	P2	PROPN	NNP	Number=Sing	1	parataxis	_	start_char=143|end_char=145
+5	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=145|end_char=146
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=147|end_char=150
+2	Trust	trust	NOUN	NN	Number=Sing	6	nsubj	_	start_char=151|end_char=156
+3	must	must	AUX	MD	VerbForm=Fin	6	aux	_	start_char=157|end_char=161
+4	therefore	therefore	ADV	RB	_	6	advmod	_	start_char=162|end_char=171
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=172|end_char=174
+6	unjust	unjust	ADJ	JJ	Degree=Pos	0	root	_	start_char=175|end_char=181
+
+1	must	must	AUX	MD	VerbForm=Fin	2	aux	_	start_char=183|end_char=187
+2	how	how	ADV	WRB	PronType=Int	0	root	_	start_char=188|end_char=191
+3	?	?	PUNCT	.	_	2	punct	_	start_char=191|end_char=192
+
+1	if	if	SCONJ	IN	_	4	mark	_	start_char=193|end_char=195
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=196|end_char=197
+3	man	man	NOUN	NN	Number=Sing	4	nsubj	_	start_char=198|end_char=201
+4	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=202|end_char=206
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=207|end_char=209
+6	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=210|end_char=212
+7	impossible	impossible	ADJ	JJ	Degree=Pos	8	amod	_	start_char=213|end_char=223
+8	offer	offer	NOUN	NN	Number=Sing	4	obj	_	start_char=224|end_char=229
+9	who	who	PRON	WP	PronType=Rel	13	nsubj	_	start_char=230|end_char=233
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=234|end_char=236
+11	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=237|end_char=242
+12	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=243|end_char=245
+13	idiot	idiot	NOUN	NN	Number=Sing	8	acl:relcl	_	start_char=246|end_char=251
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=252|end_char=255
+15	offer	offer	NOUN	NN	Number=Sing	13	appos	_	start_char=256|end_char=261
+16	or	or	CCONJ	CC	_	17	cc	_	start_char=262|end_char=264
+17	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	conj	_	start_char=265|end_char=268
+18	?	?	PUNCT	.	_	15	punct	_	start_char=268|end_char=269
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=271|end_char=274
+2	;analogous	Fanalogous	PROPN	NNP	Number=Sing	1	flat	_	start_char=274|end_char=284
+
+1	more	more	ADV	RBR	_	14	advmod	_	start_char=286|end_char=290
+2	like	like	SCONJ	IN	_	3	mark	_	start_char=291|end_char=295
+3	giving	give	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=296|end_char=302
+4	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=303|end_char=304
+5	*	*	PUNCT	NFP	_	8	punct	_	start_char=305|end_char=306
+6	normal	normal	ADJ	JJ	Degree=Pos	8	amod	_	start_char=306|end_char=312
+7	*	*	PUNCT	NFP	_	8	punct	_	start_char=312|end_char=313
+8	man	man	NOUN	NN	Number=Sing	3	obj	_	start_char=314|end_char=317
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=318|end_char=319
+10	knife	knife	NOUN	NN	Number=Sing	3	obj	_	start_char=320|end_char=325
+11	,	,	PUNCT	,	_	14	punct	_	start_char=325|end_char=326
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=327|end_char=329
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=330|end_char=333
+14	cut	cut	VERB	VB	VerbForm=Inf	0	root	_	start_char=334|end_char=337
+15	vegetables	vegetable	NOUN	NNS	Number=Plur	14	obj	_	start_char=338|end_char=348
+16	or	or	CCONJ	CC	_	17	cc	_	start_char=349|end_char=351
+17	people	people	NOUN	NNS	Number=Plur	15	conj	_	start_char=352|end_char=358
+18	.	.	PUNCT	.	_	14	punct	_	start_char=358|end_char=359
+

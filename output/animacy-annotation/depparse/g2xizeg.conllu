@@ -1,0 +1,42 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=7|end_char=8
+4	tool	tool	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=13
+5	.	.	PUNCT	.	_	4	punct	_	start_char=13|end_char=14
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=15|end_char=17
+2	literally	literally	ADV	RB	_	3	advmod	_	start_char=18|end_char=27
+3	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=28|end_char=32
+4	credit	credit	NOUN	NN	Number=Sing	3	obj	_	start_char=33|end_char=39
+5	for	for	ADP	IN	_	7	case	_	start_char=40|end_char=43
+6	Trumps	trump	NOUN	NNS	Number=Plur	7	compound	_	start_char=44|end_char=50
+7	economy	economy	NOUN	NN	Number=Sing	3	obl	_	start_char=51|end_char=58
+8	.	.	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=60|end_char=61
+2	guess	guess	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=62|end_char=67
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=68|end_char=71
+4	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=71|end_char=74
+5	that	that	ADV	RB	_	6	advmod	_	start_char=75|end_char=79
+6	dumb	dumb	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=80|end_char=84
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=85|end_char=88
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=89|end_char=97
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=98|end_char=102
+10	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=103|end_char=106
+11	ca	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=107|end_char=109
+12	n’t	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=109|end_char=112
+13	see	see	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=113|end_char=116
+14	that	that	PRON	DT	Number=Sing|PronType=Dem	13	obj	_	start_char=117|end_char=121
+15	.	.	PUNCT	.	_	2	punct	_	start_char=121|end_char=122
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=125|end_char=129
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=130|end_char=134
+3	getting	get	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=135|end_char=142
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=143|end_char=147
+5	panties	panty	NOUN	NNS	Number=Plur	3	obj	_	start_char=148|end_char=155
+6	out	out	ADP	IN	_	9	case	_	start_char=156|end_char=159
+7	of	of	ADP	IN	_	9	case	_	start_char=160|end_char=162
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=163|end_char=164
+9	wad	wad	NOUN	NN	Number=Sing	3	obl	_	start_char=165|end_char=168
+10	.	.	PUNCT	.	_	2	punct	_	start_char=168|end_char=169
+

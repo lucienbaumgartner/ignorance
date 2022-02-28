@@ -1,0 +1,29 @@
+1	Whew	whew	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	4	punct	_	start_char=4|end_char=5
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=7
+4	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+5	like	like	SCONJ	IN	_	9	mark	_	start_char=13|end_char=17
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=18|end_char=19
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=20|end_char=23
+8	on	on	ADP	IN	_	9	case	_	start_char=24|end_char=26
+9	IG	IG	PROPN	NNP	Number=Sing	4	advcl	_	start_char=27|end_char=29
+10	for	for	ADP	IN	_	12	case	_	start_char=30|end_char=33
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=34|end_char=35
+12	minute	minute	NOUN	NN	Number=Sing	9	obl	_	start_char=36|end_char=42
+13	while	while	SCONJ	IN	_	14	mark	_	start_char=43|end_char=48
+14	reading	read	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=49|end_char=56
+15	some	some	DET	DT	_	14	obj	_	start_char=57|end_char=61
+16	of	of	ADP	IN	_	21	case	_	start_char=62|end_char=64
+17	these	this	DET	DT	Number=Plur|PronType=Dem	21	det	_	start_char=65|end_char=70
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	amod	_	start_char=71|end_char=79
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=80|end_char=83
+20	judgmental	judgmental	ADJ	JJ	Degree=Pos	18	conj	_	start_char=84|end_char=94
+21	comments	comment	NOUN	NNS	Number=Plur	15	nmod	_	start_char=95|end_char=103
+22	.	.	PUNCT	.	_	4	punct	_	start_char=103|end_char=104
+
+1	Anyway	anyway	ADV	RB	_	4	discourse	_	start_char=107|end_char=113
+2	,	,	PUNCT	,	_	4	punct	_	start_char=113|end_char=114
+3	dope	dope	NOUN	NN	Number=Sing	4	compound	_	start_char=115|end_char=119
+4	kicks	kick	NOUN	NNS	Number=Plur	0	root	_	start_char=120|end_char=125
+5	💯	''	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+

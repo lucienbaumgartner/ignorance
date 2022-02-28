@@ -1,0 +1,24 @@
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=0|end_char=3
+2	why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=4|end_char=7
+3	should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=8|end_char=14
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=15|end_char=16
+5	leave	leave	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=22
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=23|end_char=25
+7	own	own	ADJ	JJ	Degree=Pos	8	amod	_	start_char=26|end_char=29
+8	office	office	NOUN	NN	Number=Sing	5	obj	_	start_char=30|end_char=36
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=37|end_char=39
+10	where	where	SCONJ	WRB	PronType=Int	13	mark	_	start_char=40|end_char=45
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=46|end_char=47
+12	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=48|end_char=50
+13	comfortable	comfortable	ADJ	JJ	Degree=Pos	5	conj	_	start_char=51|end_char=62
+14	in	in	ADP	IN	_	17	mark	_	start_char=63|end_char=65
+15	order	order	NOUN	NN	Number=Sing	14	fixed	_	start_char=66|end_char=71
+16	to	to	PART	TO	_	17	mark	_	start_char=72|end_char=74
+17	accommodate	accommodate	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=75|end_char=86
+18	an	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=87|end_char=89
+19	unaware	unaware	ADJ	JJ	Degree=Pos	22	amod	_	start_char=90|end_char=97
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=98|end_char=101
+21	selfish	selfish	ADJ	JJ	Degree=Pos	19	conj	_	start_char=102|end_char=109
+22	individual	individual	NOUN	NN	Number=Sing	17	obj	_	start_char=110|end_char=120
+23	?	?	PUNCT	.	_	5	punct	_	start_char=120|end_char=121
+

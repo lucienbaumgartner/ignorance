@@ -1,0 +1,47 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=8|end_char=9
+4	baby	baby	NOUN	NN	Number=Sing	2	nsubj	_	start_char=10|end_char=14
+5	involved	involve	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	start_char=15|end_char=23
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=24|end_char=27
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=28|end_char=31
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=32|end_char=34
+9	n't	not	PART	RB	_	10	advmod	_	start_char=34|end_char=37
+10	know	know	VERB	VB	VerbForm=Inf	2	conj	_	start_char=38|end_char=42
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=43|end_char=46
+12	financial	financial	ADJ	JJ	Degree=Pos	13	amod	_	start_char=47|end_char=56
+13	situation	situation	NOUN	NN	Number=Sing	10	obj	_	start_char=57|end_char=66
+14	.	.	PUNCT	.	_	2	punct	_	start_char=66|end_char=67
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=68|end_char=70
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=70|end_char=72
+3	not	not	PART	RB	_	5	advmod	_	start_char=73|end_char=76
+4	that	that	SCONJ	IN	_	5	mark	_	start_char=77|end_char=81
+5	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	start_char=82|end_char=86
+6	to	to	PART	TO	_	8	mark	_	start_char=87|end_char=89
+7	just	just	ADV	RB	_	8	advmod	_	start_char=90|end_char=94
+8	leave	leave	VERB	VB	VerbForm=Inf	5	csubj	_	start_char=95|end_char=100
+9	things	thing	NOUN	NNS	Number=Plur	8	obj	_	start_char=101|end_char=107
+10	in	in	ADP	IN	_	12	case	_	start_char=108|end_char=110
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=111|end_char=112
+12	heartbeat	heartbeat	NOUN	NN	Number=Sing	8	obl	_	start_char=113|end_char=122
+13	.	.	PUNCT	.	_	5	punct	_	start_char=122|end_char=123
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=124|end_char=127
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=128|end_char=133
+3	young	young	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=134|end_char=139
+4	,	,	PUNCT	,	_	5	punct	_	start_char=139|end_char=140
+5	naive	naive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=141|end_char=146
+6	,	,	PUNCT	,	_	8	punct	_	start_char=146|end_char=147
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=148|end_char=151
+8	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=152|end_char=159
+9	of	of	ADP	IN	_	10	case	_	start_char=160|end_char=162
+10	how	how	SCONJ	WRB	PronType=Int	8	obl	_	start_char=163|end_char=166
+11	things	thing	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=167|end_char=173
+12	work	work	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=174|end_char=178
+13	in	in	ADP	IN	_	16	case	_	start_char=179|end_char=181
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=182|end_char=185
+15	real	real	ADJ	JJ	Degree=Pos	16	amod	_	start_char=186|end_char=190
+16	world	world	NOUN	NN	Number=Sing	12	obl	_	start_char=191|end_char=196
+17	.	.	PUNCT	.	_	2	punct	_	start_char=196|end_char=197
+

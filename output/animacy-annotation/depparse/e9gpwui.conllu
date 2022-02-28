@@ -1,0 +1,29 @@
+1	To	to	PART	TO	_	3	mark	_	start_char=0|end_char=2
+2	be	be	AUX	VB	VerbForm=Inf	3	cop	_	start_char=3|end_char=5
+3	fair	fair	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=6|end_char=10
+4	,	,	PUNCT	,	_	8	punct	_	start_char=10|end_char=11
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=12|end_char=13
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=14|end_char=16
+7	n't	not	PART	RB	_	8	advmod	_	start_char=16|end_char=19
+8	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=25
+9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=26|end_char=29
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	start_char=30|end_char=33
+11	meaning	mean	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	start_char=34|end_char=41
+12	to	to	PART	TO	_	14	mark	_	start_char=42|end_char=44
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=45|end_char=47
+14	rude	rude	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=48|end_char=52
+15	.	.	PUNCT	.	_	8	punct	_	start_char=52|end_char=53
+
+1	Lots	lot	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=54|end_char=58
+2	of	of	ADP	IN	_	4	case	_	start_char=59|end_char=61
+3	old	old	ADJ	JJ	Degree=Pos	4	amod	_	start_char=62|end_char=65
+4	people	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=66|end_char=72
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=73|end_char=76
+6	just	just	ADV	RB	_	7	advmod	_	start_char=77|end_char=81
+7	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=82|end_char=89
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=90|end_char=93
+9	naive	naive	ADJ	JJ	Degree=Pos	7	conj	_	start_char=94|end_char=99
+10	in	in	ADP	IN	_	11	case	_	start_char=100|end_char=102
+11	general	general	ADJ	JJ	Degree=Pos	7	obl	_	start_char=103|end_char=110
+12	.	.	PUNCT	.	_	7	punct	_	start_char=110|end_char=111
+

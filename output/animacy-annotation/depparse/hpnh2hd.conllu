@@ -1,0 +1,40 @@
+1	YTA	YTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Wear	wear	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+2	earplugs	earplug	NOUN	NNS	Number=Plur	1	obj	_	start_char=10|end_char=18
+3	.	.	PUNCT	.	_	1	punct	_	start_char=18|end_char=19
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=20|end_char=23
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=24|end_char=28
+3	n't	not	PART	RB	_	4	advmod	_	start_char=28|end_char=31
+4	owe	owe	VERB	VB	VerbForm=Inf	0	root	_	start_char=32|end_char=35
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	iobj	_	start_char=36|end_char=39
+6	anything	anything	PRON	NN	Number=Sing	4	obj	_	start_char=40|end_char=48
+7	and	and	CCONJ	CC	_	13	cc	_	start_char=49|end_char=52
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=53|end_char=56
+9	cat	cat	NOUN	NN	Number=Sing	13	nsubj:pass	_	start_char=57|end_char=60
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=61|end_char=63
+11	still	still	ADV	RB	_	13	advmod	_	start_char=64|end_char=69
+12	getting	get	AUX	VBG	VerbForm=Ger	13	aux:pass	_	start_char=70|end_char=77
+13	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=78|end_char=82
+14	to	to	ADP	IN	_	17	case	_	start_char=83|end_char=85
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=86|end_char=89
+16	new	new	ADJ	JJ	Degree=Pos	17	amod	_	start_char=90|end_char=93
+17	home	home	NOUN	NN	Number=Sing	13	obl	_	start_char=94|end_char=98
+18	.	.	PUNCT	.	_	4	punct	_	start_char=98|end_char=99
+
+1	Based	base	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	_	start_char=100|end_char=105
+2	in	in	ADP	IN	_	4	case	_	start_char=106|end_char=108
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=109|end_char=113
+4	responses	response	NOUN	NNS	Number=Plur	1	obl	_	start_char=114|end_char=123
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj:pass	_	start_char=124|end_char=127
+6	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=127|end_char=130
+7	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=131|end_char=139
+8	,	,	PUNCT	,	_	9	punct	_	start_char=139|end_char=140
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=141|end_char=149
+10	,	,	PUNCT	,	_	12	punct	_	start_char=149|end_char=150
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=151|end_char=154
+12	racist	racist	ADJ	JJ	Degree=Pos	7	conj	_	start_char=155|end_char=161
+13	.	.	PUNCT	.	_	7	punct	_	start_char=161|end_char=162
+

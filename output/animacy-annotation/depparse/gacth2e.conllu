@@ -1,0 +1,51 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	confidence	confidence	NOUN	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=18
+4	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=19|end_char=24
+5	so	so	ADV	RB	_	6	advmod	_	start_char=25|end_char=27
+6	much	much	ADV	RB	_	4	advmod	_	start_char=28|end_char=32
+7	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=34|end_char=36
+2	sisters	sister	NOUN	NNS	Number=Plur	3	compound	_	start_char=37|end_char=44
+3	boyfriend	boyfriend	NOUN	NN	Number=Sing	6	nsubj	_	start_char=45|end_char=54
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=55|end_char=57
+5	objectively	objectively	ADV	RB	_	6	advmod	_	start_char=58|end_char=69
+6	beautiful	beautiful	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=79
+7	but	but	CCONJ	CC	_	10	cc	_	start_char=80|end_char=83
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=84|end_char=86
+9	quite	quite	ADV	RB	_	10	advmod	_	start_char=87|end_char=92
+10	shy	shy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=93|end_char=96
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=97|end_char=100
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=101|end_char=108
+13	of	of	ADP	IN	_	15	case	_	start_char=109|end_char=111
+14	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=112|end_char=115
+15	looks	look	NOUN	NNS	Number=Plur	12	obl	_	start_char=116|end_char=121
+16	.	.	PUNCT	.	_	6	punct	_	start_char=121|end_char=122
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=123|end_char=125
+2	tends	tend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=126|end_char=131
+3	to	to	PART	TO	_	4	mark	_	start_char=132|end_char=134
+4	struggle	struggle	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=135|end_char=143
+5	socially	socially	ADV	RB	_	4	advmod	_	start_char=144|end_char=152
+6	.	.	PUNCT	.	_	2	punct	_	start_char=152|end_char=153
+
+1	However	however	ADV	RB	_	3	advmod	_	start_char=154|end_char=161
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=162|end_char=164
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=165|end_char=168
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=169|end_char=172
+5	advantage	advantage	NOUN	NN	Number=Sing	3	obj	_	start_char=173|end_char=182
+6	of	of	ADP	IN	_	7	case	_	start_char=183|end_char=185
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=186|end_char=192
+8	hitting	hit	VERB	VBG	VerbForm=Ger	7	acl	_	start_char=193|end_char=200
+9	on	on	ADP	IN	_	10	case	_	start_char=201|end_char=203
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=204|end_char=207
+11	if	if	SCONJ	IN	_	14	mark	_	start_char=208|end_char=210
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=211|end_char=214
+13	’d	have	AUX	MD	VerbForm=Fin	14	aux	_	start_char=214|end_char=216
+14	see	see	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=217|end_char=220
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	14	obj	_	start_char=221|end_char=225
+16	as	as	ADP	IN	_	18	case	_	start_char=226|end_char=228
+17	an	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=229|end_char=231
+18	advantage	advantage	NOUN	NN	Number=Sing	14	obl	_	start_char=232|end_char=241
+

@@ -1,0 +1,14 @@
+1	Some	some	DET	DT	_	3	nsubj	_	start_char=0|end_char=4
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	start_char=5|end_char=9
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=17
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+5	many	many	ADJ	JJ	Degree=Pos	6	advmod	_	start_char=22|end_char=26
+6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=27|end_char=31
+7	,	,	PUNCT	,	_	11	punct	_	start_char=31|end_char=32
+8	only	only	ADV	RB	_	10	advmod	_	start_char=33|end_char=37
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=38|end_char=41
+10	radicals	radical	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=42|end_char=50
+11	stayed	stay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=51|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	fought	fight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	conj	_	start_char=62|end_char=68
+

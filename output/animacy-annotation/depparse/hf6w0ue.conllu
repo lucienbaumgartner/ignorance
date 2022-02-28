@@ -1,0 +1,37 @@
+1	Try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	to	to	PART	TO	_	3	mark	_	start_char=4|end_char=6
+3	treat	treat	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=7|end_char=12
+4	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obj	_	start_char=13|end_char=21
+5	as	as	SCONJ	IN	_	9	mark	_	start_char=22|end_char=24
+6	if	if	SCONJ	IN	_	9	mark	_	start_char=25|end_char=27
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=28|end_char=31
+8	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=31|end_char=34
+9	someone	someone	PRON	NN	Number=Sing	3	advcl	_	start_char=35|end_char=42
+10	else	else	ADJ	JJ	Degree=Pos	9	amod	_	start_char=43|end_char=47
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj:pass	_	start_char=48|end_char=51
+12	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux:pass	_	start_char=52|end_char=56
+13	tasked	task	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	start_char=57|end_char=63
+14	to	to	PART	TO	_	15	mark	_	start_char=64|end_char=66
+15	take	take	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=67|end_char=71
+16	care	care	NOUN	NN	Number=Sing	15	obj	_	start_char=72|end_char=76
+17	of	of	ADP	IN	_	15	obl	_	start_char=77|end_char=79
+18	.	.	PUNCT	.	_	1	punct	_	start_char=79|end_char=80
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=81|end_char=84
+2	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=85|end_char=90
+3	likely	likely	ADV	RB	_	6	advmod	_	start_char=91|end_char=97
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=98|end_char=100
+5	more	more	ADV	RBR	_	6	advmod	_	start_char=101|end_char=105
+6	forgiving	forgiving	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=115
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=116|end_char=119
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=120|end_char=128
+9	of	of	ADP	IN	_	11	case	_	start_char=129|end_char=131
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=132|end_char=137
+11	flaws	flaw	NOUN	NNS	Number=Plur	8	obl	_	start_char=138|end_char=143
+12	than	than	SCONJ	IN	_	17	mark	_	start_char=144|end_char=148
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=149|end_char=152
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=153|end_char=156
+15	about	about	ADP	IN	_	17	case	_	start_char=157|end_char=162
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=163|end_char=167
+17	own	own	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=168|end_char=171
+

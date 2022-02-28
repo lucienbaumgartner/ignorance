@@ -1,0 +1,7 @@
+1	An	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=0|end_char=2
+2	unaware	unaware	ADJ	JJ	Degree=Pos	5	amod	_	start_char=3|end_char=10
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=11|end_char=14
+4	compliant	compliant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=24
+5	citizenry	citizenry	NOUN	NN	Number=Sing	0	root	_	start_char=25|end_char=34
+6	.	.	PUNCT	.	_	5	punct	_	start_char=34|end_char=35
+

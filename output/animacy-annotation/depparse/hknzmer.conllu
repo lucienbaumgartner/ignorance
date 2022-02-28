@@ -1,0 +1,25 @@
+1	*	*	PUNCT	NFP	_	2	punct	_	start_char=0|end_char=1
+2	slap	slap	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=1|end_char=5
+3	*	*	PUNCT	NFP	_	2	punct	_	start_char=5|end_char=6
+4	ouch	ouch	INTJ	UH	_	2	discourse	_	start_char=7|end_char=11
+5	,	,	PUNCT	,	_	7	punct	_	start_char=11|end_char=12
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=13|end_char=14
+7	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=15|end_char=19
+8	so	so	ADV	RB	_	9	advmod	_	start_char=20|end_char=22
+9	inadequate	inadequate	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=23|end_char=33
+10	,	,	PUNCT	,	_	11	punct	_	start_char=33|end_char=34
+11	small	small	ADJ	JJ	Degree=Pos	9	conj	_	start_char=35|end_char=40
+12	,	,	PUNCT	,	_	13	punct	_	start_char=40|end_char=41
+13	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=42|end_char=49
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=50|end_char=53
+15	worthless	worthless	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=63
+16	now	now	ADV	RB	_	9	advmod	_	start_char=64|end_char=67
+17	...	...	PUNCT	,	_	7	punct	_	start_char=67|end_char=70
+18	but	but	CCONJ	CC	_	23	cc	_	start_char=70|end_char=73
+19	strangely	strangely	ADV	RB	_	23	advmod	_	start_char=74|end_char=83
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=84|end_char=85
+21	bit	bit	NOUN	NN	Number=Sing	22	obl:npmod	_	start_char=86|end_char=89
+22	more	more	ADV	RBR	_	23	advmod	_	start_char=90|end_char=94
+23	knowledgable	knowledgeable	ADJ	JJ	Degree=Pos	7	conj	_	start_char=95|end_char=107
+24	.	.	PUNCT	.	_	2	punct	_	start_char=107|end_char=108
+

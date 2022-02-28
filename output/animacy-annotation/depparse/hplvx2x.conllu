@@ -1,0 +1,7 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=8
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	abusive	abusive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=29
+6	OP	OP	PROPN	NNP	Number=Sing	3	conj	_	start_char=30|end_char=32
+

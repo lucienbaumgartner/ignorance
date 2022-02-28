@@ -1,0 +1,29 @@
+1	how	how	ADV	WRB	PronType=Int	7	advmod	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	fuck	fuck	NOUN	NN	Number=Sing	7	obj	_	start_char=8|end_char=12
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=13|end_char=15
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=16|end_char=19
+6	not	not	PART	RB	_	7	advmod	_	start_char=20|end_char=23
+7	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=28
+8	?	?	PUNCT	.	_	7	punct	_	start_char=28|end_char=29
+
+1	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=30|end_char=33
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=34|end_char=37
+3	that	that	ADV	RB	_	4	advmod	_	start_char=38|end_char=42
+4	clueless	clueless	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=51
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=52|end_char=55
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=56|end_char=64
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=65|end_char=69
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=70|end_char=73
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=74|end_char=76
+10	n't	not	PART	RB	_	12	advmod	_	start_char=76|end_char=79
+11	even	even	ADV	RB	_	12	advmod	_	start_char=80|end_char=84
+12	know	know	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=85|end_char=89
+13	what	what	PRON	WP	PronType=Int	12	obj	_	start_char=90|end_char=94
+14	"	"	PUNCT	``	_	16	punct	_	start_char=95|end_char=96
+15	comfort	comfort	NOUN	NN	Number=Sing	16	compound	_	start_char=96|end_char=103
+16	women	woman	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=104|end_char=109
+17	"	"	PUNCT	''	_	16	punct	_	start_char=109|end_char=110
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=111|end_char=114
+19	?	?	PUNCT	.	_	4	punct	_	start_char=114|end_char=115
+

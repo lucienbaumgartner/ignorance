@@ -1,0 +1,19 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	reminded	remind	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	start_char=4|end_char=12
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=13|end_char=15
+4	that	that	SCONJ	IN	_	12	mark	_	start_char=16|end_char=20
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=21|end_char=24
+6	actor	actor	NOUN	NN	Number=Sing	2	obj	_	start_char=25|end_char=30
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=31|end_char=34
+8	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=35|end_char=39
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=40|end_char=44
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=45|end_char=48
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=49|end_char=59
+12	unironic	unironic	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=60|end_char=68
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=69|end_char=72
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=73|end_char=80
+15	of	of	ADP	IN	_	16	case	_	start_char=81|end_char=83
+16	what	what	PRON	WP	PronType=Int	14	obl	_	start_char=84|end_char=88
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	18	nsubj	_	start_char=89|end_char=93
+18	meant	mean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	start_char=94|end_char=99
+

@@ -1,0 +1,26 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	not	not	PART	RB	_	4	advmod	_	start_char=5|end_char=8
+4	great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=14
+5	at	at	SCONJ	IN	_	6	mark	_	start_char=15|end_char=17
+6	exemplifying	exemplify	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=18|end_char=30
+7	Superman	Superman	PROPN	NNP	Number=Sing	9	nmod:poss	_	start_char=31|end_char=39
+8	’s	's	PART	POS	_	7	case	_	start_char=39|end_char=41
+9	qualities	quality	NOUN	NNS	Number=Plur	6	obj	_	start_char=42|end_char=51
+10	,	,	PUNCT	,	_	4	punct	_	start_char=51|end_char=52
+11	though	though	ADV	RB	_	4	advmod	_	start_char=53|end_char=59
+12	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=61|end_char=63
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=63|end_char=65
+3	divisive	divisive	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=74
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=75|end_char=78
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=79|end_char=87
+6	of	of	ADP	IN	_	8	case	_	start_char=88|end_char=90
+7	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=91|end_char=94
+8	legacy	legacy	NOUN	NN	Number=Sing	5	obl	_	start_char=95|end_char=101
+9	of	of	SCONJ	IN	_	10	mark	_	start_char=102|end_char=104
+10	representing	represent	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=105|end_char=117
+11	Superman	Superman	PROPN	NNP	Number=Sing	10	obj	_	start_char=118|end_char=126
+12	.	.	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+

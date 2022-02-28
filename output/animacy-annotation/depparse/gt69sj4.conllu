@@ -1,0 +1,11 @@
+1	distant	distant	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=7
+2	govt	govt	NOUN	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=15
+4	unresponsive	unresponsive	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=41
+7	of	of	ADP	IN	_	9	case	_	start_char=42|end_char=44
+8	local	local	ADJ	JJ	Degree=Pos	9	amod	_	start_char=45|end_char=50
+9	concerns	concern	NOUN	NNS	Number=Plur	6	obl	_	start_char=51|end_char=59
+10	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+

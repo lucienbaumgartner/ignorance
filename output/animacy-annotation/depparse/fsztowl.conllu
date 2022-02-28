@@ -1,0 +1,18 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=20
+4	.	.	PUNCT	.	_	1	punct	_	start_char=20|end_char=21
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=22|end_char=25
+2	proud	proud	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=31
+3	of	of	ADP	IN	_	4	case	_	start_char=32|end_char=34
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=35|end_char=37
+5	.	.	PUNCT	.	_	2	punct	_	start_char=37|end_char=38
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=39|end_char=40
+2	heady	heady	ADJ	JJ	Degree=Pos	5	amod	_	start_char=41|end_char=46
+3	,	,	PUNCT	,	_	5	punct	_	start_char=46|end_char=47
+4	silly	silly	ADJ	JJ	Degree=Pos	5	amod	_	start_char=48|end_char=53
+5	mix	mix	NOUN	NN	Number=Sing	0	root	_	start_char=54|end_char=57
+6	.	.	PUNCT	.	_	5	punct	_	start_char=57|end_char=58
+

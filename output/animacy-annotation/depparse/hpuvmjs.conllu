@@ -1,0 +1,30 @@
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=0|end_char=6
+2	google	google	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=7|end_char=13
+3	'	'	PUNCT	``	_	5	punct	_	start_char=14|end_char=15
+4	Cardano	Cardano	PROPN	NNP	Number=Sing	5	compound	_	start_char=15|end_char=22
+5	ecosystem	ecosystem	NOUN	NN	Number=Sing	2	obj	_	start_char=23|end_char=32
+6	'	'	PUNCT	''	_	5	punct	_	start_char=32|end_char=33
+7	before	before	SCONJ	IN	_	9	mark	_	start_char=34|end_char=40
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=41|end_char=44
+9	start	start	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=45|end_char=50
+10	spewing	spew	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=51|end_char=58
+11	nonsense	nonsense	NOUN	NN	Number=Sing	10	obj	_	start_char=59|end_char=67
+12	again	again	ADV	RB	_	10	advmod	_	start_char=68|end_char=73
+13	boyo	boyo	NOUN	NN	Number=Sing	10	obj	_	start_char=74|end_char=78
+14	.	.	PUNCT	.	_	2	punct	_	start_char=78|end_char=79
+
+1	Another	another	DET	DT	_	3	det	_	start_char=82|end_char=89
+2	ETH	ETH	PROPN	NNP	Number=Sing	3	compound	_	start_char=90|end_char=93
+3	maxi	maxi	NOUN	NN	Number=Sing	0	root	_	start_char=94|end_char=98
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	amod	_	start_char=100|end_char=108
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=109|end_char=112
+6	clueless	clueless	ADJ	JJ	Degree=Pos	4	conj	_	start_char=113|end_char=121
+7	,	,	PUNCT	,	_	8	punct	_	start_char=121|end_char=122
+8	shitting	shit	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=123|end_char=131
+9	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	obj	_	start_char=132|end_char=139
+10	for	for	ADP	IN	_	13	case	_	start_char=140|end_char=143
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=144|end_char=147
+12	200	200	NUM	CD	NumType=Card	13	nummod	_	start_char=148|end_char=151
+13	$	$	SYM	$	_	8	obl	_	start_char=151|end_char=152
+14	investment	investment	NOUN	NN	Number=Sing	13	flat	_	start_char=153|end_char=163
+

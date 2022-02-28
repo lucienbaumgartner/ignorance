@@ -1,0 +1,21 @@
+1	Bruh	bruh	INTJ	UH	_	6	discourse	_	start_char=0|end_char=4
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=5|end_char=9
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=9|end_char=11
+4	just	just	ADV	RB	_	6	advmod	_	start_char=12|end_char=16
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=17|end_char=22
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=34|end_char=41
+9	of	of	ADP	IN	_	11	case	_	start_char=42|end_char=44
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=45|end_char=49
+11	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=50|end_char=62
+12	,	,	PUNCT	,	_	13	punct	_	start_char=62|end_char=63
+13	nothing	nothing	PRON	NN	Number=Sing	6	appos	_	start_char=64|end_char=71
+14	to	to	PART	TO	_	15	mark	_	start_char=72|end_char=74
+15	do	do	VERB	VB	VerbForm=Inf	13	acl	_	start_char=75|end_char=77
+16	with	with	ADP	IN	_	18	case	_	start_char=78|end_char=82
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=83|end_char=87
+18	profession	profession	NOUN	NN	Number=Sing	15	obl	_	start_char=88|end_char=98
+19	tbh	tbh	ADV	RB	_	15	advmod	_	start_char=99|end_char=102
+20	.	.	PUNCT	.	_	6	punct	_	start_char=102|end_char=103
+

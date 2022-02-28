@@ -1,0 +1,81 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Vader	Vader	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=4|end_char=9
+2	could	could	AUX	MD	VerbForm=Fin	0	root	_	start_char=10|end_char=15
+3	n't	not	PART	RB	_	2	advmod	_	start_char=15|end_char=18
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=20|end_char=21
+2	disagree	disagree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=22|end_char=30
+3	.	.	PUNCT	.	_	2	punct	_	start_char=30|end_char=31
+
+1	vader	vader	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=32|end_char=37
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=38|end_char=43
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=44|end_char=46
+4	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=47|end_char=53
+5	by	by	ADP	IN	_	7	case	_	start_char=54|end_char=56
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=57|end_char=58
+7	gun	gun	NOUN	NN	Number=Sing	4	obl	_	start_char=59|end_char=62
+8	if	if	SCONJ	IN	_	11	mark	_	start_char=63|end_char=65
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj:pass	_	start_char=66|end_char=68
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	start_char=69|end_char=72
+11	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	start_char=73|end_char=79
+12	unaware	unaware	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=80|end_char=87
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=88|end_char=91
+14	armorless	armorless	ADJ	JJ	Degree=Pos	12	conj	_	start_char=92|end_char=101
+15	.	.	PUNCT	.	_	4	punct	_	start_char=101|end_char=102
+
+1	&gt	&gt	INTJ	UH	_	14	discourse	_	start_char=106|end_char=109
+2	;	;	PUNCT	:	_	14	punct	_	start_char=109|end_char=110
+3	and	and	CCONJ	CC	_	14	cc	_	start_char=110|end_char=113
+4	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=114|end_char=118
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=119|end_char=120
+6	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=121|end_char=124
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=125|end_char=128
+8	Wizards	Wizards	PROPN	NNPS	Number=Plur	9	compound	_	start_char=129|end_char=136
+9	battle	battle	NOUN	NN	Number=Sing	6	obj	_	start_char=137|end_char=143
+10	,	,	PUNCT	,	_	14	punct	_	start_char=143|end_char=144
+11	half	half	DET	PDT	_	13	det:predet	_	start_char=145|end_char=149
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=150|end_char=155
+13	spells	spell	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=156|end_char=162
+14	miss	miss	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=163|end_char=167
+15	cause	cause	VERB	VB	VerbForm=Fin	14	xcomp	_	start_char=168|end_char=173
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=174|end_char=179
+17	accuracy	accuracy	NOUN	NN	Number=Sing	18	nsubj	_	start_char=180|end_char=188
+18	sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=189|end_char=194
+19	and	and	CCONJ	CC	_	26	cc	_	start_char=195|end_char=198
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=199|end_char=202
+21	other	other	ADJ	JJ	Degree=Pos	22	amod	_	start_char=203|end_char=208
+22	half	half	NOUN	NN	Number=Sing	26	nsubj:pass	_	start_char=209|end_char=213
+23	of	of	ADP	IN	_	24	case	_	start_char=214|end_char=216
+24	spells	spell	NOUN	NNS	Number=Plur	22	nmod	_	start_char=217|end_char=223
+25	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	aux:pass	_	start_char=224|end_char=227
+26	blocked	block	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	conj	_	start_char=228|end_char=235
+27	.	.	PUNCT	.	_	14	punct	_	start_char=235|end_char=236
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=238|end_char=239
+2	dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=240|end_char=244
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=245|end_char=250
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=251|end_char=255
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=255|end_char=257
+6	necessarily	necessarily	ADV	RB	_	10	advmod	_	start_char=258|end_char=269
+7	because	because	SCONJ	IN	_	10	mark	_	start_char=270|end_char=277
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=278|end_char=283
+9	accuracy	accuracy	NOUN	NN	Number=Sing	10	nsubj	_	start_char=284|end_char=292
+10	sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=293|end_char=298
+11	.	.	PUNCT	.	_	3	punct	_	start_char=298|end_char=299
+
+1	more	more	ADV	RBR	_	5	advmod	_	start_char=300|end_char=304
+2	because	because	SCONJ	IN	_	5	mark	_	start_char=305|end_char=312
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=313|end_char=317
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=317|end_char=320
+5	deflecting	deflect	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=321|end_char=331
+6	each	each	DET	DT	_	8	det	_	start_char=332|end_char=336
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=337|end_char=342
+8	spells	spell	NOUN	NNS	Number=Plur	5	obj	_	start_char=343|end_char=349
+9	,	,	PUNCT	,	_	11	punct	_	start_char=349|end_char=350
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=351|end_char=354
+11	blocking	block	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=355|end_char=363
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=364|end_char=368
+13	.	.	PUNCT	.	_	5	punct	_	start_char=368|end_char=369
+

@@ -1,0 +1,27 @@
+1	Michael	Michael	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=8|end_char=10
+3	just	just	ADV	RB	_	6	advmod	_	start_char=11|end_char=15
+4	so	so	ADV	RB	_	5	advmod	_	start_char=16|end_char=18
+5	socially	socially	ADV	RB	_	6	advmod	_	start_char=19|end_char=27
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	awkward	awkward	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=47
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=48|end_char=52
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=53|end_char=55
+11	kills	kill	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=56|end_char=61
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=62|end_char=64
+13	.	.	PUNCT	.	_	6	punct	_	start_char=64|end_char=65
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=67|end_char=68
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=69|end_char=73
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=74|end_char=77
+4	character	character	NOUN	NN	Number=Sing	2	obj	_	start_char=78|end_char=87
+5	,	,	PUNCT	,	_	6	punct	_	start_char=87|end_char=88
+6	aside	aside	ADV	RB	_	2	advmod	_	start_char=89|end_char=94
+7	from	from	ADP	IN	_	9	case	_	start_char=95|end_char=99
+8	THOSE	those	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=100|end_char=105
+9	moments	moment	NOUN	NNS	Number=Plur	6	obl	_	start_char=106|end_char=113
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=114|end_char=116
+11	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=117|end_char=120
+12	.	.	PUNCT	.	_	2	punct	_	start_char=120|end_char=121
+

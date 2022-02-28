@@ -1,0 +1,24 @@
+1	bro	bro	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	but	but	CCONJ	CC	_	6	cc	_	start_char=4|end_char=7
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=8|end_char=10
+4	dad	dad	NOUN	NN	Number=Sing	6	nsubj	_	start_char=11|end_char=14
+5	always	always	ADV	RB	_	6	advmod	_	start_char=15|end_char=21
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=22|end_char=25
+7	to	to	PART	TO	_	8	mark	_	start_char=26|end_char=28
+8	listen	listen	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=29|end_char=35
+9	to	to	ADP	IN	_	11	case	_	start_char=36|end_char=38
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=39|end_char=41
+11	mom	mom	NOUN	NN	Number=Sing	8	obl	_	start_char=42|end_char=45
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=46|end_char=49
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=50|end_char=52
+14	moms	mom	NOUN	NNS	Number=Plur	11	conj	_	start_char=53|end_char=57
+15	so	so	ADV	RB	_	16	advmod	_	start_char=58|end_char=60
+16	stubborn	stubborn	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=61|end_char=69
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=70|end_char=73
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=74|end_char=82
+19	that	that	SCONJ	IN	_	23	mark	_	start_char=83|end_char=87
+20	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=88|end_char=91
+21	wont	winl	AUX	MD	VerbForm=Fin	23	aux	_	start_char=92|end_char=96
+22	even	even	ADV	RB	_	23	advmod	_	start_char=97|end_char=101
+23	listen	listen	VERB	VB	VerbForm=Inf	18	ccomp	_	start_char=102|end_char=108
+

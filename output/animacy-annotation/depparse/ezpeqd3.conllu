@@ -1,0 +1,14 @@
+1	strange	strange	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=20
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	_	start_char=21|end_char=25
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=26|end_char=28
+6	.	.	PUNCT	.	_	1	punct	_	start_char=28|end_char=29
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=30|end_char=31
+2	really	really	ADV	RB	_	3	advmod	_	start_char=32|end_char=38
+3	enjoyed	enjoy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=39|end_char=46
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=47|end_char=50
+5	game	game	NOUN	NN	Number=Sing	3	obj	_	start_char=51|end_char=55
+6	!	!	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+

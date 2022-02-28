@@ -1,0 +1,35 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	https://youtu.be/zYWC0wgAsyU](https://youtu.be/zYWC0wgAsyU)	https://youtu.be/zywc0wgasyu](https://youtu.be/zywc0wgasyu)	X	ADD	_	0	root	_	start_char=1|end_char=60
+
+1	Video	video	NOUN	NN	Number=Sing	0	root	_	start_char=62|end_char=67
+2	for	for	ADP	IN	_	4	case	_	start_char=68|end_char=71
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=72|end_char=75
+4	people	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=76|end_char=82
+5	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=83|end_char=86
+6	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=87|end_char=90
+7	unaware	unaware	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=91|end_char=98
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=99|end_char=102
+9	curious	curious	ADJ	JJ	Degree=Pos	7	conj	_	start_char=103|end_char=110
+10	about	about	ADP	IN	_	12	case	_	start_char=111|end_char=116
+11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=117|end_char=121
+12	story	story	NOUN	NN	Number=Sing	7	obl	_	start_char=122|end_char=127
+13	like	like	SCONJ	IN	_	15	mark	_	start_char=128|end_char=132
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=133|end_char=134
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	start_char=135|end_char=138
+16	.	.	PUNCT	.	_	1	punct	_	start_char=138|end_char=139
+
+1	Also	also	ADV	RB	_	3	advmod	_	start_char=142|end_char=146
+2	,	,	PUNCT	,	_	3	punct	_	start_char=146|end_char=147
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=148|end_char=153
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=154|end_char=157
+5	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=158|end_char=161
+6	to	to	PART	TO	_	7	mark	_	start_char=162|end_char=164
+7	see	see	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=165|end_char=168
+8	that	that	SCONJ	IN	_	13	mark	_	start_char=169|end_char=173
+9	liv	liv	NOUN	NN	Number=Sing	13	nsubj	_	start_char=174|end_char=177
+10	unexpectedly	unexpectedly	ADV	RB	_	13	advmod	_	start_char=178|end_char=190
+11	/	/	PUNCT	,	_	13	cc	_	start_char=191|end_char=192
+12	u/	u/	ADP	IN	_	13	case	_	start_char=192|end_char=194
+13	Archaeopteryx003	Archaeopteryx003	PROPN	NNP	Number=Sing	7	ccomp	_	start_char=194|end_char=210
+14	.	.	PUNCT	.	_	3	punct	_	start_char=210|end_char=211
+

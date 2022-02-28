@@ -1,0 +1,63 @@
+1	Agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	on	on	ADP	IN	_	7	mark	_	start_char=6|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	obl	_	start_char=9|end_char=12
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=13|end_char=15
+5	n't	not	PART	RB	_	7	advmod	_	start_char=15|end_char=18
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=19|end_char=22
+7	have	have	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=23|end_char=27
+8	phones	phone	NOUN	NNS	Number=Plur	9	compound	_	start_char=28|end_char=34
+9	line	line	NOUN	NN	Number=Sing	7	obj	_	start_char=35|end_char=39
+10	.	.	PUNCT	.	_	1	punct	_	start_char=39|end_char=40
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=41|end_char=43
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=44|end_char=47
+3	very	very	ADV	RB	_	4	advmod	_	start_char=48|end_char=52
+4	dismissive	dismissive	ADJ	JJ	Degree=Pos	0	root	_	start_char=53|end_char=63
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=64|end_char=67
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=68|end_char=76
+7	.	.	PUNCT	.	_	4	punct	_	start_char=76|end_char=77
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=80|end_char=84
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	_	start_char=85|end_char=89
+3	,	,	PUNCT	,	_	7	punct	_	start_char=89|end_char=90
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	start_char=91|end_char=93
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=94|end_char=97
+6	still	still	ADV	RB	_	7	advmod	_	start_char=98|end_char=103
+7	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	0	root	_	start_char=104|end_char=117
+8	to	to	PART	TO	_	9	mark	_	start_char=118|end_char=120
+9	say	say	VERB	VB	VerbForm=Inf	7	csubj	_	start_char=121|end_char=124
+10	if	if	SCONJ	IN	_	14	mark	_	start_char=125|end_char=127
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=128|end_char=132
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=133|end_char=135
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=136|end_char=137
+14	joke	joke	NOUN	NN	Number=Sing	9	advcl	_	start_char=138|end_char=142
+15	.	.	PUNCT	.	_	7	punct	_	start_char=142|end_char=143
+
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=144|end_char=147
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=148|end_char=151
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=152|end_char=155
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=156|end_char=159
+5	any	any	DET	DT	_	6	det	_	start_char=160|end_char=163
+6	dialog	dialog	NOUN	NN	Number=Sing	4	obj	_	start_char=164|end_char=170
+7	going	go	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=171|end_char=176
+8	when	when	SCONJ	WRB	PronType=Int	14	mark	_	start_char=177|end_char=181
+9	all	all	DET	DT	_	14	nsubj	_	start_char=182|end_char=185
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=186|end_char=189
+11	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=190|end_char=192
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=193|end_char=195
+13	exchange	exchange	NOUN	NN	Number=Sing	14	compound	_	start_char=196|end_char=204
+14	pettiness	pettiness	NOUN	NN	Number=Sing	4	advcl	_	start_char=205|end_char=214
+15	?	?	PUNCT	.	_	4	punct	_	start_char=214|end_char=215
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=217|end_char=219
+2	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=220|end_char=225
+3	no	no	DET	DT	_	4	det	_	start_char=226|end_char=228
+4	one	one	NOUN	NN	Number=Sing	2	obj	_	start_char=229|end_char=232
+5	.	.	PUNCT	.	_	2	punct	_	start_char=232|end_char=233
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=234|end_char=236
+2	all	all	DET	DT	_	1	det	_	start_char=237|end_char=240
+3	end	end	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=241|end_char=244
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=245|end_char=247
+5	losing	lose	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=248|end_char=254
+

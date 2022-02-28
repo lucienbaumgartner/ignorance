@@ -1,0 +1,25 @@
+1	Exactly	exactly	ADV	RB	_	4	advmod	_	start_char=0|end_char=7
+2	,	,	PUNCT	,	_	4	punct	_	start_char=7|end_char=8
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=9|end_char=10
+4	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=16|end_char=18
+6	offensive	offensive	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=19|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=41
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=42|end_char=46
+10	mothers	mother	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=47|end_char=54
+11	rather	rather	ADV	RB	_	12	advmod	_	start_char=55|end_char=61
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=62|end_char=66
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=67|end_char=68
+14	dead	dead	ADJ	JJ	Degree=Pos	15	amod	_	start_char=69|end_char=73
+15	child	child	NOUN	NN	Number=Sing	12	obj	_	start_char=74|end_char=79
+16	than	than	ADP	IN	_	19	case	_	start_char=80|end_char=84
+17	risk	risk	NOUN	NN	Number=Sing	19	compound	_	start_char=85|end_char=89
+18	fake	fake	ADJ	JJ	Degree=Pos	19	amod	_	start_char=90|end_char=94
+19	chances	chance	NOUN	NNS	Number=Plur	12	obl	_	start_char=95|end_char=102
+20	of	of	ADP	IN	_	21	case	_	start_char=103|end_char=105
+21	autism	autism	NOUN	NN	Number=Sing	19	nmod	_	start_char=106|end_char=112
+22	thanks	thanks	NOUN	NN	Number=Sing	19	nmod	_	start_char=113|end_char=119
+23	to	to	ADP	IN	_	24	case	_	start_char=120|end_char=122
+24	vaccines	vaccine	NOUN	NNS	Number=Plur	22	nmod	_	start_char=123|end_char=131
+

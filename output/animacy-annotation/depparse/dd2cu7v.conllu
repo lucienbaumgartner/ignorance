@@ -1,0 +1,20 @@
+1	Just	just	ADV	RB	_	5	advmod	_	start_char=0|end_char=4
+2	like	like	SCONJ	IN	_	5	mark	_	start_char=5|end_char=9
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=10|end_char=12
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	start_char=13|end_char=16
+5	explained	explain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	start_char=17|end_char=26
+6	in	in	ADP	IN	_	7	case	_	start_char=27|end_char=29
+7	one	one	NUM	CD	NumType=Card	5	obl	_	start_char=30|end_char=33
+8	of	of	ADP	IN	_	11	case	_	start_char=34|end_char=36
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=37|end_char=40
+10	Podesta	Podesta	PROPN	NNP	Number=Sing	11	compound	_	start_char=41|end_char=48
+11	mails	mail	NOUN	NNS	Number=Plur	7	nmod	_	start_char=49|end_char=54
+12	,	,	PUNCT	,	_	14	punct	_	start_char=54|end_char=55
+13	citizens	citizen	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=56|end_char=64
+14	remain	remain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=65|end_char=71
+15	"	"	PUNCT	``	_	16	punct	_	start_char=72|end_char=73
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=73|end_char=80
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=81|end_char=84
+18	compliant	compliant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=85|end_char=94
+19	"	"	PUNCT	''	_	14	punct	_	start_char=94|end_char=95
+

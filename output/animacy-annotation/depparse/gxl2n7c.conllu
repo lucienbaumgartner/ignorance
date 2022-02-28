@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	genuinely	genuinely	ADV	RB	_	3	advmod	_	start_char=2|end_char=11
+3	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=19
+4	these	this	PRON	DT	Number=Plur|PronType=Dem	10	nsubj	_	start_char=20|end_char=25
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=26|end_char=29
+6	just	just	ADV	RB	_	10	advmod	_	start_char=30|end_char=34
+7	two	two	NUM	CD	NumType=Card	10	nummod	_	start_char=35|end_char=38
+8	incredibly	incredibly	ADV	RB	_	9	advmod	_	start_char=39|end_char=49
+9	unintelligent	unintelligent	ADJ	JJ	Degree=Pos	10	amod	_	start_char=50|end_char=63
+10	people	people	NOUN	NNS	Number=Plur	3	ccomp	_	start_char=64|end_char=70
+11	.	.	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=72|end_char=75
+2	photoshoot	photoshoot	NOUN	NN	Number=Sing	6	nsubj	_	start_char=76|end_char=86
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=87|end_char=90
+4	video	video	NOUN	NN	Number=Sing	2	conj	_	start_char=91|end_char=96
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=97|end_char=100
+6	proof	proof	ADJ	JJ	Degree=Pos	0	root	_	start_char=101|end_char=106
+7	of	of	ADP	IN	_	9	mark	_	start_char=107|end_char=109
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=110|end_char=113
+9	apathetic	apathetic	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=114|end_char=123
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=124|end_char=127
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=128|end_char=135
+12	of	of	ADP	IN	_	13	case	_	start_char=136|end_char=138
+13	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	obl	_	start_char=139|end_char=149
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=150|end_char=154
+15	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=155|end_char=158
+16	.	.	PUNCT	.	_	6	punct	_	start_char=158|end_char=159
+

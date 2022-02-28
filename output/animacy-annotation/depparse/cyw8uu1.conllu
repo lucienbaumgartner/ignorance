@@ -1,0 +1,26 @@
+1	With	with	ADP	IN	_	2	case	_	start_char=0|end_char=4
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=5|end_char=7
+3	,	,	PUNCT	,	_	4	punct	_	start_char=7|end_char=8
+4	yes	yes	INTJ	UH	_	2	discourse	_	start_char=9|end_char=12
+5	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=14|end_char=16
+2	never	never	ADV	RB	_	3	advmod	_	start_char=17|end_char=22
+3	talks	talk	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=23|end_char=28
+4	about	about	ADP	IN	_	5	case	_	start_char=29|end_char=34
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=35|end_char=37
+6	though	though	ADV	RB	_	3	advmod	_	start_char=38|end_char=44
+7	,	,	PUNCT	,	_	14	punct	_	start_char=44|end_char=45
+8	so	so	ADV	RB	_	14	advmod	_	start_char=46|end_char=48
+9	if	if	SCONJ	IN	_	11	mark	_	start_char=49|end_char=51
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=52|end_char=54
+11	watches	watch	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=55|end_char=62
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=63|end_char=64
+13	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=64|end_char=66
+14	unaware	unaware	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=67|end_char=74
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=75|end_char=78
+16	cool	cool	ADJ	JJ	Degree=Pos	14	conj	_	start_char=79|end_char=83
+17	with	with	ADP	IN	_	18	case	_	start_char=84|end_char=88
+18	that	that	PRON	DT	Number=Sing|PronType=Dem	16	obl	_	start_char=89|end_char=93
+19	.	.	PUNCT	.	_	3	punct	_	start_char=93|end_char=94
+

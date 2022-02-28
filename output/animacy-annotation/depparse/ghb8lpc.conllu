@@ -1,0 +1,11 @@
+1	Why	why	ADV	WRB	PronType=Int	3	advmod	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=3|end_char=4
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=11|end_char=12
+5	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=12|end_char=14
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=15|end_char=22
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=23|end_char=26
+8	curious	curious	ADJ	JJ	Degree=Pos	6	conj	_	start_char=27|end_char=34
+9	to	to	PART	TO	_	10	mark	_	start_char=35|end_char=37
+10	know	know	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=38|end_char=42
+

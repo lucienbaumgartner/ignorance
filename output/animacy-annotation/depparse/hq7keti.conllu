@@ -1,0 +1,29 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	so	so	ADV	RB	_	4	advmod	_	start_char=10|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=13|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=32
+7	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=34|end_char=36
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=37|end_char=40
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=40|end_char=43
+4	not	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=44|end_char=47
+5	white	white	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=48|end_char=53
+6	then	then	ADV	RB	PronType=Dem	11	advmod	_	start_char=54|end_char=58
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=59|end_char=62
+8	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=62|end_char=65
+9	clearly	clearly	ADV	RB	Degree=Pos	10	advmod	_	start_char=66|end_char=73
+10	white	white	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=79
+11	washed	wash	VERB	VBN	Tense=Past|VerbForm=Part	10	advcl	_	start_char=80|end_char=86
+12	,	,	PUNCT	,	_	15	punct	_	start_char=86|end_char=87
+13	just	just	ADV	RB	_	15	advmod	_	start_char=88|end_char=92
+14	like	like	ADP	IN	_	15	case	_	start_char=93|end_char=97
+15	alot	alot	NOUN	NN	Number=Sing	11	obl	_	start_char=98|end_char=102
+16	of	of	ADP	IN	_	17	case	_	start_char=103|end_char=105
+17	latinos	latinos	PROPN	NNPS	Number=Plur	15	nmod	_	start_char=106|end_char=113
+18	.	.	PUNCT	.	_	11	punct	_	start_char=113|end_char=114
+
+1	Sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=115|end_char=118
+

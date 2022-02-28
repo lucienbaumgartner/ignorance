@@ -1,0 +1,37 @@
+1	Those	that	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=0|end_char=5
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=6|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=16
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=16|end_char=19
+5	reasonable	reasonable	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=30
+6	.	.	PUNCT	.	_	5	punct	_	start_char=30|end_char=31
+
+1	Being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=32|end_char=37
+2	so	so	ADV	RB	_	3	advmod	_	start_char=38|end_char=40
+3	scared	scared	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=41|end_char=47
+4	of	of	ADP	IN	_	5	case	_	start_char=48|end_char=50
+5	guns	gun	NOUN	NNS	Number=Plur	3	obl	_	start_char=51|end_char=55
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=56|end_char=57
+7	shirt	shirt	NOUN	NN	Number=Sing	8	nsubj	_	start_char=58|end_char=63
+8	sends	send	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=64|end_char=69
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=70|end_char=71
+10	message	message	NOUN	NN	Number=Sing	8	obj	_	start_char=72|end_char=79
+11	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=80|end_char=85
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=86|end_char=88
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=89|end_char=90
+14	brittle	brittle	ADJ	JJ	Degree=Pos	15	amod	_	start_char=91|end_char=98
+15	spirit	spirit	NOUN	NN	Number=Sing	17	nsubj	_	start_char=99|end_char=105
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=106|end_char=108
+17	near	near	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=109|end_char=113
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=114|end_char=117
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	conj	_	start_char=118|end_char=125
+20	of	of	ADP	IN	_	24	case	_	start_char=126|end_char=128
+21	all	all	DET	PDT	_	24	det:predet	_	start_char=129|end_char=132
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=133|end_char=136
+23	CCW	ccw	NOUN	NN	Number=Sing	24	compound	_	start_char=137|end_char=140
+24	individuals	individual	NOUN	NNS	Number=Plur	19	obl	_	start_char=141|end_char=152
+25	in	in	ADP	IN	_	28	case	_	start_char=153|end_char=155
+26	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	nmod:poss	_	start_char=156|end_char=161
+27	immediate	immediate	ADJ	JJ	Degree=Pos	28	amod	_	start_char=162|end_char=171
+28	sphere	sphere	NOUN	NN	Number=Sing	24	nmod	_	start_char=172|end_char=178
+29	.	.	PUNCT	.	_	11	punct	_	start_char=178|end_char=179
+

@@ -1,0 +1,18 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	old	old	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=33
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=34|end_char=38
+8	literally	literally	ADV	RB	_	11	advmod	_	start_char=39|end_char=48
+9	no	no	DET	DT	_	10	det	_	start_char=49|end_char=51
+10	one	one	NOUN	NN	Number=Sing	11	nsubj	_	start_char=52|end_char=55
+11	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=56|end_char=61
+12	af	af	NOUN	NN	Number=Sing	11	obj	_	start_char=62|end_char=64
+13	what	what	PRON	WP	PronType=Int	15	obj	_	start_char=65|end_char=69
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=70|end_char=73
+15	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=74|end_char=79
+16	anymore	anymore	ADV	RB	_	15	advmod	_	start_char=80|end_char=87
+17	.	.	PUNCT	.	_	1	punct	_	start_char=87|end_char=88
+

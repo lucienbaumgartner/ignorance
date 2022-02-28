@@ -1,0 +1,22 @@
+1	Donald	Donald	PROPN	NNP	Number=Sing	3	compound	_	start_char=0|end_char=6
+2	Trump	Trump	PROPN	NNP	Number=Sing	1	flat	_	start_char=7|end_char=12
+3	supporters	supporter	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=13|end_char=23
+4	LOVE	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=29|end_char=31
+6	,	,	PUNCT	,	_	4	punct	_	start_char=31|end_char=32
+7	for	for	ADP	IN	_	8	case	_	start_char=33|end_char=36
+8	reasons	reason	NOUN	NNS	Number=Plur	4	obl	_	start_char=37|end_char=44
+9	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=45|end_char=49
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=50|end_char=53
+11	so	so	ADV	RB	_	12	advmod	_	start_char=54|end_char=56
+12	short	short	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=57|end_char=62
+13	sighted	sight	ADJ	JJ	Degree=Pos	12	amod	_	start_char=63|end_char=70
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=71|end_char=74
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=75|end_char=83
+16	that	that	SCONJ	IN	_	20	mark	_	start_char=84|end_char=88
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=89|end_char=91
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=92|end_char=94
+19	almost	almost	ADV	RB	_	20	advmod	_	start_char=95|end_char=101
+20	interesting	interesting	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=102|end_char=113
+21	.	.	PUNCT	.	_	4	punct	_	start_char=113|end_char=114
+

@@ -1,0 +1,22 @@
+1	Lmao	lmao	INTJ	UH	_	2	discourse	_	start_char=0|end_char=4
+2	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=12
+3	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=13|end_char=18
+4	so	so	ADV	RB	_	5	advmod	_	start_char=19|end_char=21
+5	mentally	mentally	ADV	RB	_	6	advmod	_	start_char=22|end_char=30
+6	healthy	healthy	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=31|end_char=38
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=39|end_char=42
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=43|end_char=51
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=52|end_char=56
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=57|end_char=60
+11	ca	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=61|end_char=63
+12	n't	not	PART	RB	_	13	advmod	_	start_char=63|end_char=66
+13	understand	understand	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=67|end_char=77
+14	stuff	stuff	NOUN	NN	Number=Sing	13	obj	_	start_char=78|end_char=83
+15	like	like	ADP	IN	_	16	case	_	start_char=84|end_char=88
+16	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nmod	_	start_char=89|end_char=93
+17	...	...	PUNCT	,	_	20	punct	_	start_char=93|end_char=96
+18	ca	can	AUX	MD	VerbForm=Fin	20	aux	_	start_char=97|end_char=99
+19	n't	not	PART	RB	_	20	advmod	_	start_char=99|end_char=102
+20	relate	relate	VERB	VB	VerbForm=Inf	2	parataxis	_	start_char=103|end_char=109
+21	lmao	lmao	NOUN	NN	Number=Sing	20	obj	_	start_char=110|end_char=114
+

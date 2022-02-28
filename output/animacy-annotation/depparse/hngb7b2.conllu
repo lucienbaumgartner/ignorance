@@ -1,0 +1,37 @@
+1	Ya	ya	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	7	punct	_	start_char=2|end_char=3
+3	but	but	CCONJ	CC	_	7	cc	_	start_char=4|end_char=7
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=8|end_char=12
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=14
+6	like	like	SCONJ	IN	_	7	mark	_	start_char=15|end_char=19
+7	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	start_char=20|end_char=26
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=27|end_char=30
+9	envy	envy	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=31|end_char=35
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=36|end_char=37
+11	crack	crack	NOUN	NN	Number=Sing	12	compound	_	start_char=38|end_char=43
+12	head	head	NOUN	NN	Number=Sing	9	obj	_	start_char=44|end_char=48
+13	because	because	SCONJ	IN	_	18	mark	_	start_char=49|end_char=56
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=57|end_char=61
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=62|end_char=65
+16	n’t	not	PART	RB	Polarity=Neg	18	advmod	_	start_char=65|end_char=68
+17	self	self	NOUN	NN	Number=Sing	18	obl:npmod	_	start_char=69|end_char=73
+18	conscious	conscious	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=74|end_char=83
+19	.	.	PUNCT	.	_	5	punct	_	start_char=83|end_char=84
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=85|end_char=88
+2	person	person	NOUN	NN	Number=Sing	5	nsubj	_	start_char=89|end_char=95
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=96|end_char=98
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=98|end_char=101
+5	free	free	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=106
+6	from	from	ADP	IN	_	7	case	_	start_char=107|end_char=111
+7	fear	fear	NOUN	NN	Number=Sing	5	obl	_	start_char=112|end_char=116
+8	of	of	ADP	IN	_	9	case	_	start_char=117|end_char=119
+9	death	death	NOUN	NN	Number=Sing	7	nmod	_	start_char=120|end_char=125
+10	,	,	PUNCT	,	_	5	punct	_	start_char=125|end_char=126
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=127|end_char=131
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=132|end_char=135
+13	unaware	unaware	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=136|end_char=143
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=144|end_char=147
+15	overwhelmed	overwhelm	VERB	VBN	Tense=Past|VerbForm=Part	13	conj	_	start_char=148|end_char=159
+16	.	.	PUNCT	.	_	5	punct	_	start_char=159|end_char=160
+

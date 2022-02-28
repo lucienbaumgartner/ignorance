@@ -1,0 +1,49 @@
+1	You	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	:	:	PUNCT	:	_	4	punct	_	start_char=3|end_char=4
+3	*	*	PUNCT	NFP	_	4	punct	_	start_char=5|end_char=6
+4	Makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=11
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=12|end_char=13
+6	joke	joke	NOUN	NN	Number=Sing	4	obj	_	start_char=14|end_char=18
+7	about	about	ADP	IN	_	9	case	_	start_char=19|end_char=24
+8	rich	rich	ADJ	JJ	Degree=Pos	9	amod	_	start_char=25|end_char=29
+9	people	people	NOUN	NNS	Number=Plur	6	nmod	_	start_char=30|end_char=36
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=37|end_char=42
+11	stupid	stupid	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=43|end_char=49
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=50|end_char=53
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=54|end_char=62
+14	*	*	PUNCT	NFP	_	4	punct	_	start_char=62|end_char=63
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=65|end_char=69
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	_	start_char=70|end_char=75
+3	guy	guy	NOUN	NN	Number=Sing	6	nsubj	_	start_char=76|end_char=79
+4	:	:	PUNCT	:	_	6	punct	_	start_char=79|end_char=80
+5	*	*	PUNCT	NFP	_	6	punct	_	start_char=81|end_char=82
+6	Agrees	agree	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=82|end_char=88
+7	with	with	ADP	IN	_	8	case	_	start_char=89|end_char=93
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=94|end_char=97
+9	*	*	PUNCT	NFP	_	6	punct	_	start_char=97|end_char=98
+
+1	You	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	0	root	_	start_char=100|end_char=103
+2	:	:	PUNCT	:	_	1	punct	_	start_char=103|end_char=104
+3	"	"	PUNCT	``	_	7	punct	_	start_char=105|end_char=106
+4	No	no	INTJ	UH	_	7	discourse	_	start_char=106|end_char=108
+5	,	,	PUNCT	,	_	7	punct	_	start_char=108|end_char=109
+6	actually	actually	ADV	RB	_	7	advmod	_	start_char=110|end_char=118
+7	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=119|end_char=121
+8	fuck	fuck	VERB	VB	VerbForm=Fin	7	xcomp	_	start_char=122|end_char=126
+9	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	iobj	_	start_char=127|end_char=135
+10	burger	burger	NOUN	NN	Number=Sing	11	compound	_	start_char=136|end_char=142
+11	-flipper	-flipper	NOUN	NN	Number=Sing	8	obj	_	start_char=142|end_char=150
+12	.	.	PUNCT	.	_	1	punct	_	start_char=150|end_char=151
+13	"	"	PUNCT	''	_	1	punct	_	start_char=151|end_char=152
+
+1	Everyone	everyone	NOUN	NN	Number=Sing	0	root	_	start_char=154|end_char=162
+2	in	in	ADP	IN	_	3	case	_	start_char=163|end_char=165
+3	r/EVE	r/eve	NOUN	NN	Number=Sing	1	nmod	_	start_char=166|end_char=171
+4	:	:	PUNCT	:	_	6	punct	_	start_char=171|end_char=172
+5	[	[	PUNCT	-LRB-	_	6	punct	_	start_char=173|end_char=174
+6	Hwat	Hwat	PROPN	NNP	Number=Sing	1	appos	_	start_char=174|end_char=178
+7	]	]	PUNCT	-RRB-	_	6	punct	_	start_char=178|end_char=179
+8	(	(	PUNCT	-LRB-	_	9	punct	_	start_char=179|end_char=180
+9	https://i.kym-cdn.com/entries/icons/mobile/000/018/489/nick-young-confused-face-300x256-nqlyaa.jpg)	https://i.kym-cdn.com/entries/icons/mobile/000/018/489/nick-young-confused-face-300x256-nqlyaa.jpg)	X	ADD	_	6	list	_	start_char=180|end_char=279
+

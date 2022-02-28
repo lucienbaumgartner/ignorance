@@ -1,0 +1,26 @@
+1	Today	today	NOUN	NN	Number=Sing	3	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=6|end_char=8
+3	day	day	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=12
+4	3	3	NUM	CD	NumType=Card	3	nummod	_	start_char=13|end_char=14
+5	for	for	ADP	IN	_	7	case	_	start_char=15|end_char=18
+6	secondary	secondary	ADJ	JJ	Degree=Pos	7	amod	_	start_char=19|end_char=28
+7	grandmals	grandmal	NOUN	NNS	Number=Plur	3	nmod	_	start_char=29|end_char=38
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+9	too	too	ADV	RB	_	10	advmod	_	start_char=43|end_char=46
+10	many	many	ADJ	JJ	Degree=Pos	7	conj	_	start_char=47|end_char=51
+11	to	to	PART	TO	_	12	mark	_	start_char=52|end_char=54
+12	count	count	VERB	VB	VerbForm=Inf	10	acl	_	start_char=55|end_char=60
+13	for	for	ADP	IN	_	14	case	_	start_char=61|end_char=64
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	obl	_	start_char=65|end_char=72
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=73|end_char=76
+16	aware	aware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=77|end_char=82
+17	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	Positive	positive	ADJ	JJ	Degree=Pos	2	amod	_	start_char=84|end_char=92
+2	stories	story	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=93|end_char=100
+3	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=101|end_char=105
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=106|end_char=108
+5	good	good	ADJ	JJ	Degree=Pos	6	amod	_	start_char=109|end_char=113
+6	karma	karma	NOUN	NN	Number=Sing	3	obj	_	start_char=114|end_char=119
+7	.	.	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

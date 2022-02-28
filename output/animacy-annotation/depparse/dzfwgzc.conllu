@@ -1,0 +1,44 @@
+1	Same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Richard	Richard	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=6|end_char=13
+2	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=14|end_char=20
+3	have	have	AUX	VB	VerbForm=Inf	6	aux	_	start_char=21|end_char=25
+4	at	at	ADP	IN	_	6	advmod	_	start_char=26|end_char=28
+5	least	least	ADJ	JJS	Degree=Sup	4	fixed	_	start_char=29|end_char=34
+6	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=35|end_char=39
+7	Rory	Rory	PROPN	NNP	Number=Sing	6	obj	_	start_char=40|end_char=44
+8	so	so	ADV	RB	_	13	advmod	_	start_char=45|end_char=47
+9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj:pass	_	start_char=48|end_char=51
+10	would	would	AUX	MD	VerbForm=Fin	13	aux	_	start_char=52|end_char=57
+11	have	have	AUX	VB	VerbForm=Inf	13	aux	_	start_char=58|end_char=62
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	aux:pass	_	start_char=63|end_char=67
+13	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	start_char=68|end_char=76
+14	.	.	PUNCT	.	_	6	punct	_	start_char=76|end_char=77
+
+1	If	if	SCONJ	IN	_	2	mark	_	start_char=78|end_char=80
+2	anything	anything	PRON	NN	Number=Sing	7	advcl	_	start_char=81|end_char=89
+3	,	,	PUNCT	,	_	7	punct	_	start_char=89|end_char=90
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=91|end_char=93
+5	could	could	AUX	MD	VerbForm=Fin	7	aux	_	start_char=94|end_char=99
+6	have	have	AUX	VB	VerbForm=Inf	7	aux	_	start_char=100|end_char=104
+7	hurt	hurt	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=105|end_char=109
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=110|end_char=113
+9	chances	chance	NOUN	NNS	Number=Plur	7	obj	_	start_char=114|end_char=121
+10	since	since	SCONJ	IN	_	13	mark	_	start_char=122|end_char=127
+11	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=128|end_char=131
+12	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux	_	start_char=132|end_char=135
+13	show	show	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=136|end_char=140
+14	up	up	ADP	RP	_	13	compound:prt	_	start_char=141|end_char=143
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=144|end_char=151
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=152|end_char=155
+17	unprepared	unprepared	ADJ	JJ	Degree=Pos	15	conj	_	start_char=156|end_char=166
+18	since	since	SCONJ	IN	_	21	mark	_	start_char=167|end_char=172
+19	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=173|end_char=175
+20	would	would	AUX	MD	VerbForm=Fin	21	aux	_	start_char=176|end_char=181
+21	make	make	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=182|end_char=186
+22	someone	someone	PRON	NN	Number=Sing	21	obj	_	start_char=187|end_char=194
+23	look	look	VERB	VB	VerbForm=Inf	21	xcomp	_	start_char=195|end_char=199
+24	bad	bad	ADJ	JJ	Degree=Pos	23	xcomp	_	start_char=200|end_char=203
+25	.	.	PUNCT	.	_	7	punct	_	start_char=203|end_char=204
+

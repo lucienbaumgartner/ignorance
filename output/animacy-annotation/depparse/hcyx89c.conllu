@@ -1,0 +1,37 @@
+1	Sensitive	sensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=9
+2	,	,	PUNCT	,	_	1	punct	_	start_char=9|end_char=10
+3	yes	yes	INTJ	UH	_	1	discourse	_	start_char=11|end_char=14
+4	.	.	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+1	Gentle	Gentle	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=22
+2	?	?	PUNCT	.	_	1	punct	_	start_char=22|end_char=23
+
+1	Meh.	Meh.	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=24|end_char=28
+2	Depends	depend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=36
+3	on	on	ADP	IN	_	5	case	_	start_char=37|end_char=39
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=40|end_char=43
+5	cow	cow	NOUN	NN	Number=Sing	2	obl	_	start_char=44|end_char=47
+6	and	and	CCONJ	CC	_	11	cc	_	start_char=48|end_char=51
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=52|end_char=56
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=57|end_char=60
+9	definitely	definitely	ADV	RB	_	11	advmod	_	start_char=61|end_char=71
+10	not	not	PART	RB	_	11	advmod	_	start_char=72|end_char=75
+11	graceful	graceful	ADJ	JJ	Degree=Pos	2	conj	_	start_char=76|end_char=84
+12	if	if	SCONJ	IN	_	14	mark	_	start_char=85|end_char=87
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=88|end_char=92
+14	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=93|end_char=98
+15	anything	anything	PRON	NN	Number=Sing	14	obj	_	start_char=99|end_char=107
+16	.	.	PUNCT	.	_	2	punct	_	start_char=107|end_char=108
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=109|end_char=113
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=114|end_char=117
+3	both	both	ADV	RB	_	4	advmod	_	start_char=118|end_char=122
+4	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=123|end_char=128
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=129|end_char=132
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=133|end_char=140
+7	of	of	ADP	IN	_	10	case	_	start_char=141|end_char=143
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=144|end_char=149
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=150|end_char=153
+10	strength	strength	NOUN	NN	Number=Sing	6	obl	_	start_char=154|end_char=162
+11	.	.	PUNCT	.	_	4	punct	_	start_char=162|end_char=163
+

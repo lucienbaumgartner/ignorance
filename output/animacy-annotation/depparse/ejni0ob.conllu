@@ -1,0 +1,127 @@
+1	All	all	DET	PDT	_	4	det:predet	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=4|end_char=7
+3	top	top	ADJ	JJ	Degree=Pos	4	amod	_	start_char=8|end_char=11
+4	comments	comment	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=12|end_char=20
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=21|end_char=24
+6	bang	bang	VERB	VB	VerbForm=Part	0	root	_	start_char=25|end_char=29
+7	on	on	ADP	IN	_	6	advmod	_	start_char=30|end_char=32
+8	.	.	PUNCT	.	_	6	punct	_	start_char=32|end_char=33
+
+1	What	what	PRON	WP	PronType=Int	4	nsubj	_	start_char=34|end_char=38
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=39|end_char=42
+3	describe	describe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=43|end_char=51
+4	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=58
+5	purposeful	purposeful	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=59|end_char=69
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=70|end_char=73
+7	malicious	malicious	ADJ	JJ	Degree=Pos	5	conj	_	start_char=74|end_char=83
+8	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=85|end_char=89
+2	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=90|end_char=94
+3	to	to	PART	TO	_	4	mark	_	start_char=95|end_char=97
+4	add	add	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=98|end_char=101
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=102|end_char=103
+6	comment	comment	NOUN	NN	Number=Sing	4	obj	_	start_char=104|end_char=111
+7	to	to	ADP	IN	_	9	case	_	start_char=112|end_char=114
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=115|end_char=118
+9	concept	concept	NOUN	NN	Number=Sing	6	nmod	_	start_char=119|end_char=126
+10	of	of	ADP	IN	_	11	case	_	start_char=127|end_char=129
+11	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	start_char=130|end_char=133
+12	being	be	AUX	VBG	VerbForm=Ger	15	cop	_	start_char=134|end_char=139
+13	sometimes	sometimes	ADV	RB	_	15	advmod	_	start_char=140|end_char=149
+14	just	just	ADV	RB	_	15	advmod	_	start_char=150|end_char=154
+15	YES	yes	INTJ	UH	_	4	discourse	_	start_char=154|end_char=157
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=158|end_char=161
+17	just	just	ADV	RB	_	15	conj	_	start_char=162|end_char=166
+
+1	NO	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=166|end_char=168
+2	.	.	PUNCT	.	_	1	punct	_	start_char=168|end_char=169
+
+1	Of	of	ADP	IN	_	6	advmod	_	start_char=175|end_char=177
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=178|end_char=184
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=185|end_char=187
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=188|end_char=190
+5	both	both	ADV	RB	_	6	advmod	_	start_char=191|end_char=195
+6	wonderful	wonderful	ADJ	JJ	Degree=Pos	0	root	_	start_char=196|end_char=205
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=206|end_char=209
+8	horrific	horrific	ADJ	JJ	Degree=Pos	6	conj	_	start_char=210|end_char=218
+9	.	.	PUNCT	.	_	6	punct	_	start_char=218|end_char=219
+
+1	Supportive	supportive	ADJ	JJ	Degree=Pos	0	root	_	start_char=220|end_char=230
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=231|end_char=234
+3	demoralizing	demoralizing	ADJ	JJ	Degree=Pos	1	conj	_	start_char=235|end_char=247
+4	.	.	PUNCT	.	_	1	punct	_	start_char=247|end_char=248
+
+1	Thoughtful	thoughtful	ADJ	JJ	Degree=Pos	0	root	_	start_char=249|end_char=259
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=260|end_char=263
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=264|end_char=272
+4	.	.	PUNCT	.	_	1	punct	_	start_char=272|end_char=273
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=274|end_char=278
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=279|end_char=281
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=282|end_char=285
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=286|end_char=289
+5	stay	stay	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=290|end_char=294
+6	.	.	PUNCT	.	_	3	punct	_	start_char=294|end_char=295
+
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=296|end_char=298
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=299|end_char=301
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=302|end_char=305
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=306|end_char=307
+5	complete	complete	ADJ	JJ	Degree=Pos	6	amod	_	start_char=308|end_char=316
+6	douchecanoe	douchecanoe	NOUN	NN	Number=Sing	11	advcl	_	start_char=317|end_char=328
+7	,	,	PUNCT	,	_	11	punct	_	start_char=328|end_char=329
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=330|end_char=333
+9	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=334|end_char=339
+10	have	have	AUX	VB	VerbForm=Inf	11	aux	_	start_char=340|end_char=344
+11	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=345|end_char=349
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=350|end_char=351
+13	long	long	ADJ	JJ	Degree=Pos	14	amod	_	start_char=352|end_char=356
+14	time	time	NOUN	NN	Number=Sing	15	obl:npmod	_	start_char=357|end_char=361
+15	ago	ago	ADV	RB	_	11	advmod	_	start_char=362|end_char=365
+16	because	because	SCONJ	IN	_	20	mark	_	start_char=366|end_char=373
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=374|end_char=376
+18	would	would	AUX	MD	VerbForm=Fin	20	aux	_	start_char=377|end_char=382
+19	be	be	AUX	VB	VerbForm=Inf	20	cop	_	start_char=383|end_char=385
+20	obvious	obvious	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=386|end_char=393
+21	,	,	PUNCT	,	_	22	punct	_	start_char=393|end_char=394
+22	simple	simple	ADJ	JJ	Degree=Pos	20	conj	_	start_char=395|end_char=401
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=402|end_char=405
+24	easy	easy	ADJ	JJ	Degree=Pos	20	conj	_	start_char=406|end_char=410
+25	to	to	PART	TO	_	26	mark	_	start_char=411|end_char=413
+26	explain	explain	VERB	VB	VerbForm=Inf	24	advcl	_	start_char=414|end_char=421
+27	.	.	PUNCT	.	_	11	punct	_	start_char=421|end_char=422
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=423|end_char=425
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=425|end_char=427
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=428|end_char=431
+4	dangling	dangle	VERB	VBG	VerbForm=Ger	5	amod	_	start_char=432|end_char=440
+5	carrot	carrot	NOUN	NN	Number=Sing	0	root	_	start_char=441|end_char=447
+6	of	of	ADP	IN	_	8	case	_	start_char=448|end_char=450
+7	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=451|end_char=454
+8	affection	affection	NOUN	NN	Number=Sing	5	nmod	_	start_char=455|end_char=464
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=465|end_char=469
+10	keeps	keep	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=470|end_char=475
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=476|end_char=479
+12	hanging	hang	VERB	VBG	VerbForm=Ger	10	xcomp	_	start_char=480|end_char=487
+13	on	on	ADP	RP	_	12	compound:prt	_	start_char=488|end_char=490
+14	.	.	PUNCT	.	_	5	punct	_	start_char=490|end_char=491
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=492|end_char=496
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=496|end_char=498
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=499|end_char=500
+4	significant	significant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=501|end_char=512
+5	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=513|end_char=517
+6	of	of	ADP	IN	_	8	case	_	start_char=518|end_char=520
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=521|end_char=524
+8	cycle	cycle	NOUN	NN	Number=Sing	5	nmod	_	start_char=525|end_char=530
+9	of	of	ADP	IN	_	11	case	_	start_char=531|end_char=533
+10	emotional	emotional	ADJ	JJ	Degree=Pos	11	amod	_	start_char=534|end_char=543
+11	manipulation	manipulation	NOUN	NN	Number=Sing	8	nmod	_	start_char=544|end_char=556
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=557|end_char=560
+13	abuse	abuse	NOUN	NN	Number=Sing	11	conj	_	start_char=561|end_char=566
+14	.	.	PUNCT	.	_	5	punct	_	start_char=566|end_char=567
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=573|end_char=584
+2	;	;	PUNCT	:	_	1	punct	_	start_char=584|end_char=585
+

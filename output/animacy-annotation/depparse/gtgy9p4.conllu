@@ -1,0 +1,29 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=12
+3	every	every	DET	DT	_	4	det	_	start_char=13|end_char=18
+4	second	second	NOUN	NN	Number=Sing	2	obj	_	start_char=19|end_char=25
+5	of	of	ADP	IN	_	7	case	_	start_char=26|end_char=28
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=29|end_char=32
+7	time	time	NOUN	NN	Number=Sing	4	nmod	_	start_char=33|end_char=37
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=38|end_char=42
+9	will	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=43|end_char=47
+10	serve	serve	VERB	VB	VerbForm=Inf	7	acl:relcl	_	start_char=48|end_char=53
+11	for	for	ADP	IN	_	13	case	_	start_char=54|end_char=57
+12	these	this	DET	DT	Number=Plur|PronType=Dem	13	det	_	start_char=58|end_char=63
+13	crimes	crime	NOUN	NNS	Number=Plur	10	obl	_	start_char=64|end_char=70
+14	.	.	PUNCT	.	_	2	punct	_	start_char=70|end_char=71
+
+1	How	how	SCONJ	WRB	PronType=Int	2	mark	_	start_char=72|end_char=75
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=76|end_char=83
+3	stupid	stupid	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=84|end_char=90
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=91|end_char=94
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=95|end_char=103
+6	of	of	ADP	IN	_	7	case	_	start_char=104|end_char=106
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=107|end_char=111
+8	to	to	PART	TO	_	9	mark	_	start_char=112|end_char=114
+9	carry	carry	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=115|end_char=120
+10	on	on	ADP	RP	_	9	compound:prt	_	start_char=121|end_char=123
+11	like	like	ADP	IN	_	12	case	_	start_char=124|end_char=128
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	9	obl	_	start_char=129|end_char=133
+13	!	!	PUNCT	.	_	2	punct	_	start_char=133|end_char=134
+

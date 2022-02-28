@@ -1,0 +1,36 @@
+1	Question	question	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=8
+2	from	from	ADP	IN	_	3	case	_	start_char=9|end_char=13
+3	someone	someone	PRON	NN	Number=Sing	1	nmod	_	start_char=14|end_char=21
+4	terrified	terrified	ADJ	JJ	Degree=Pos	3	amod	_	start_char=22|end_char=31
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=32|end_char=35
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=36|end_char=44
+7	of	of	ADP	IN	_	9	case	_	start_char=45|end_char=47
+8	all	all	DET	DT	_	9	det	_	start_char=48|end_char=51
+9	things	thing	NOUN	NNS	Number=Plur	10	compound	_	start_char=52|end_char=58
+10	snakes	snake	NOUN	NNS	Number=Plur	6	obl	_	start_char=59|end_char=65
+11	:	:	PUNCT	:	_	1	punct	_	start_char=65|end_char=66
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj:pass	_	start_char=67|end_char=68
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	_	start_char=69|end_char=72
+14	told	tell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	parataxis	_	start_char=73|end_char=77
+15	round	round	ADJ	JJ	Degree=Pos	16	amod	_	start_char=78|end_char=83
+16	eyes	eye	NOUN	NNS	Number=Plur	19	nsubj	_	start_char=84|end_char=88
+17	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	cop	_	start_char=89|end_char=93
+18	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=94|end_char=96
+19	indication	indication	NOUN	NN	Number=Sing	14	ccomp	_	start_char=97|end_char=107
+20	of	of	ADP	IN	_	22	case	_	start_char=108|end_char=110
+21	non-venomous	non-venomous	ADJ	JJ	Degree=Pos	22	amod	_	start_char=111|end_char=123
+22	snakes	snake	NOUN	NNS	Number=Plur	19	nmod	_	start_char=124|end_char=130
+23	.	.	PUNCT	.	_	1	punct	_	start_char=130|end_char=131
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=132|end_char=136
+2	terrifying	terrifying	ADJ	JJ	Degree=Pos	3	amod	_	start_char=137|end_char=147
+3	thing	thing	NOUN	NN	Number=Sing	4	nsubj	_	start_char=148|end_char=153
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=154|end_char=157
+5	round	round	ADJ	JJ	Degree=Pos	6	amod	_	start_char=158|end_char=163
+6	eyes	eye	NOUN	NNS	Number=Plur	4	obj	_	start_char=164|end_char=168
+7	...	...	PUNCT	,	_	4	punct	_	start_char=168|end_char=171
+8	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=172|end_char=175
+9	someone	someone	PRON	NN	Number=Sing	10	nsubj	_	start_char=176|end_char=183
+10	explain	explain	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=184|end_char=191
+11	?	?	PUNCT	.	_	4	punct	_	start_char=191|end_char=192
+

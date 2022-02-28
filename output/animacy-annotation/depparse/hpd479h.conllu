@@ -1,0 +1,19 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	more	more	ADJ	JJR	Degree=Cmp	4	amod	_	start_char=8|end_char=12
+4	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=13|end_char=19
+5	like	like	ADP	IN	_	6	case	_	start_char=20|end_char=24
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	start_char=25|end_char=28
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=29|end_char=32
+8	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=33|end_char=36
+9	by	by	SCONJ	IN	_	10	mark	_	start_char=37|end_char=39
+10	doing	do	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=40|end_char=45
+11	nothing	nothing	PRON	NN	Number=Sing	10	obj	_	start_char=46|end_char=53
+12	but	but	CCONJ	CC	_	14	mark	_	start_char=54|end_char=57
+13	being	be	AUX	VBG	VerbForm=Ger	14	cop	_	start_char=58|end_char=63
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	acl	_	start_char=64|end_char=72
+15	,	,	PUNCT	,	_	17	punct	_	start_char=72|end_char=73
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=74|end_char=77
+17	stubborn	stubborn	ADJ	JJ	Degree=Pos	14	conj	_	start_char=78|end_char=86
+18	.	.	PUNCT	.	_	2	punct	_	start_char=86|end_char=87
+

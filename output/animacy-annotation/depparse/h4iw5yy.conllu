@@ -1,0 +1,20 @@
+1	Yooo	yooo	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	4	punct	_	start_char=4|end_char=5
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=7
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+5	moments	moment	NOUN	NNS	Number=Plur	4	obj	_	start_char=13|end_char=20
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=21|end_char=25
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=26|end_char=27
+8	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=28|end_char=33
+9	back	back	ADV	RB	Degree=Pos	8	advmod	_	start_char=34|end_char=38
+10	to	to	ADP	IN	_	11	case	_	start_char=39|end_char=41
+11	when	when	SCONJ	WRB	PronType=Int	14	mark	_	start_char=42|end_char=46
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=47|end_char=48
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	start_char=49|end_char=52
+14	younger	young	ADJ	JJR	Degree=Cmp	8	advcl	_	start_char=53|end_char=60
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=61|end_char=64
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=65|end_char=72
+17	of	of	SCONJ	IN	_	19	mark	_	start_char=73|end_char=75
+18	being	be	AUX	VBG	VerbForm=Ger	19	cop	_	start_char=76|end_char=81
+19	gay	gay	ADJ	JJ	Degree=Pos	16	advcl	_	start_char=82|end_char=85
+

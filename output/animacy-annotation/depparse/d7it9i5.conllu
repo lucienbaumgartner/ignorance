@@ -1,0 +1,20 @@
+1	For	for	ADP	IN	_	2	case	_	start_char=0|end_char=3
+2	someone	someone	PRON	NN	Number=Sing	19	obl	_	start_char=4|end_char=11
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=12|end_char=15
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=16|end_char=18
+5	unaware	unaware	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=19|end_char=26
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+7	very	very	ADV	RB	_	8	advmod	_	start_char=31|end_char=35
+8	superstitious	superstitious	ADJ	JJ	Degree=Pos	5	conj	_	start_char=36|end_char=49
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	19	nsubj	_	start_char=50|end_char=54
+10	would	would	AUX	MD	VerbForm=Fin	19	aux	_	start_char=55|end_char=60
+11	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=61|end_char=63
+12	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=64|end_char=65
+13	very	very	ADV	RB	_	14	advmod	_	start_char=66|end_char=70
+14	spine	spine	NOUN	NN	Number=Sing	19	compound	_	start_char=71|end_char=76
+15	chilling	chill	ADJ	JJ	Degree=Pos	19	amod	_	start_char=77|end_char=85
+16	"	"	PUNCT	``	_	19	punct	_	start_char=86|end_char=87
+17	paranormal	paranormal	ADJ	JJ	Degree=Pos	19	amod	_	start_char=87|end_char=97
+18	"	"	PUNCT	''	_	19	punct	_	start_char=97|end_char=98
+19	event	event	NOUN	NN	Number=Sing	0	root	_	start_char=99|end_char=104
+

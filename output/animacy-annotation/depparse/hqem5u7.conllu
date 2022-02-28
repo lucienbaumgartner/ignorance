@@ -1,0 +1,32 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=2|end_char=4
+3	still	still	ADV	RB	_	10	advmod	_	start_char=5|end_char=10
+4	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=11|end_char=12
+5	really	really	ADV	RB	_	6	advmod	_	start_char=13|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=20|end_char=28
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=29|end_char=32
+8	downright	downright	ADV	RB	_	9	advmod	_	start_char=33|end_char=42
+9	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	6	conj	_	start_char=43|end_char=56
+10	question	question	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=65
+11	.	.	PUNCT	.	_	10	punct	_	start_char=65|end_char=66
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=68|end_char=70
+2	almost	almost	ADV	RB	_	5	advmod	_	start_char=71|end_char=77
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=78|end_char=82
+4	n't	not	PART	RB	_	5	advmod	_	start_char=82|end_char=85
+5	deserve	deserve	VERB	VB	VerbForm=Inf	0	root	_	start_char=86|end_char=93
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=94|end_char=96
+7	answer	answer	NOUN	NN	Number=Sing	5	obj	_	start_char=97|end_char=103
+8	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=104|end_char=109
+9	than	than	ADP	IN	_	11	case	_	start_char=110|end_char=114
+10	"	"	PUNCT	``	_	16	punct	_	start_char=115|end_char=116
+11	What	what	PRON	WP	PronType=Int	16	obj	_	start_char=116|end_char=120
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=121|end_char=124
+13	fuck	fuck	NOUN	NN	Number=Sing	16	obj	_	start_char=125|end_char=129
+14	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=130|end_char=132
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=133|end_char=136
+16	think	think	VERB	VB	VerbForm=Inf	5	parataxis	_	start_char=137|end_char=142
+17	?	?	PUNCT	.	_	16	punct	_	start_char=142|end_char=143
+18	"	"	PUNCT	''	_	16	punct	_	start_char=143|end_char=144
+19	.	.	PUNCT	.	_	5	punct	_	start_char=144|end_char=145
+

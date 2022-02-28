@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	never	never	ADV	RB	_	3	advmod	_	start_char=2|end_char=7
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=13|end_char=15
+5	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	start_char=16|end_char=19
+6	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=19|end_char=22
+7	happen	happen	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=23|end_char=29
+8	,	,	PUNCT	,	_	12	punct	_	start_char=29|end_char=30
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=31|end_char=33
+10	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=33|end_char=35
+11	equally	equally	ADV	RB	Degree=Pos	12	advmod	_	start_char=36|end_char=43
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=44|end_char=52
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=53|end_char=56
+14	small	small	ADJ	JJ	Degree=Pos	15	amod	_	start_char=57|end_char=62
+15	minded	minded	ADJ	JJ	Degree=Pos	12	conj	_	start_char=63|end_char=69
+16	in	in	ADP	IN	_	18	case	_	start_char=70|end_char=72
+17	either	either	DET	DT	_	18	det	_	start_char=73|end_char=79
+18	scenario	scenario	NOUN	NN	Number=Sing	15	obl	_	start_char=80|end_char=88
+19	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+

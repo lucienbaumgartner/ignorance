@@ -1,0 +1,55 @@
+1	Oh	oh	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=3|end_char=7
+3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	sense	sense	NOUN	NN	Number=Sing	3	obj	_	start_char=14|end_char=19
+5	.	.	PUNCT	.	_	3	punct	_	start_char=19|end_char=20
+
+1	Do	do	VERB	VB	Mood=Ind|VerbForm=Fin	0	root	_	start_char=21|end_char=23
+2	most	most	ADJ	JJS	Degree=Sup	1	obj	_	start_char=24|end_char=28
+3	of	of	ADP	IN	_	6	case	_	start_char=29|end_char=31
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=32|end_char=35
+5	famous	famous	ADJ	JJ	Degree=Pos	6	amod	_	start_char=36|end_char=42
+6	institutions	institution	NOUN	NNS	Number=Plur	2	nmod	_	start_char=43|end_char=55
+7	like	like	ADP	IN	_	8	case	_	start_char=56|end_char=60
+8	UST	UST	PROPN	NNP	Abbr=Yes|Number=Sing	6	nmod	_	start_char=61|end_char=64
+9	or	or	CCONJ	CC	_	12	cc	_	start_char=65|end_char=67
+10	De	De	PROPN	NNP	Number=Sing	11	compound	_	start_char=68|end_char=70
+11	La	La	PROPN	NNP	Number=Sing	8	conj	_	start_char=71|end_char=73
+12	Salle	Salle	PROPN	NNP	Number=Sing	8	conj	_	start_char=74|end_char=79
+13	let	let	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=80|end_char=83
+14	students	student	NOUN	NNS	Number=Plur	13	obj	_	start_char=84|end_char=92
+15	jump	jump	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=93|end_char=97
+16	classes	class	NOUN	NNS	Number=Plur	15	obj	_	start_char=98|end_char=105
+17	?	?	PUNCT	.	_	1	punct	_	start_char=105|end_char=106
+
+1	Can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=108|end_char=111
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=112|end_char=115
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=116|end_char=118
+4	in	in	ADP	IN	_	5	case	_	start_char=119|end_char=121
+5	probablilities	probablility	NOUN	NNS	Number=Plur	3	obl	_	start_char=122|end_char=136
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=137|end_char=140
+7	many	many	ADJ	JJ	Degree=Pos	8	amod	_	start_char=141|end_char=145
+8	schools	school	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=146|end_char=153
+9	let	let	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=154|end_char=157
+10	students	student	NOUN	NNS	Number=Plur	9	obj	_	start_char=158|end_char=166
+11	jump	jump	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=167|end_char=171
+12	?	?	PUNCT	.	_	3	punct	_	start_char=171|end_char=172
+
+1	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=173|end_char=174
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=174|end_char=176
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=176|end_char=178
+4	okay	okay	ADJ	JJ	Degree=Pos	0	root	_	start_char=179|end_char=183
+5	if	if	SCONJ	IN	_	8	mark	_	start_char=184|end_char=186
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=187|end_char=190
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=190|end_char=193
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=194|end_char=201
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=202|end_char=205
+10	inaccurate	inaccurate	ADJ	JJ	Degree=Pos	8	conj	_	start_char=206|end_char=216
+11	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=217|end_char=218
+12	just	just	ADV	RB	_	14	advmod	_	start_char=219|end_char=223
+13	wanna	wanna	AUX	MD	VerbForm=Fin	14	aux	_	start_char=224|end_char=229
+14	know	know	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=230|end_char=234
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=235|end_char=238
+16	idea	idea	NOUN	NN	Number=Sing	14	obj	_	start_char=239|end_char=243
+17	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=243|end_char=244
+

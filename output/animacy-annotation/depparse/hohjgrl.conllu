@@ -1,0 +1,31 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	2	cop	_	start_char=0|end_char=5
+2	teenagers	teenager	NOUN	NNS	Number=Plur	0	root	_	start_char=6|end_char=15
+3	.	.	PUNCT	.	_	2	punct	_	start_char=15|end_char=16
+
+1	Teenagers	teenager	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=18|end_char=27
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=28|end_char=31
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=36
+4	,	,	PUNCT	,	_	6	punct	_	start_char=36|end_char=37
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=38|end_char=41
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=42|end_char=49
+7	of	of	ADP	IN	_	9	case	_	start_char=50|end_char=52
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=53|end_char=56
+9	fragile	fragile	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=57|end_char=64
+10	life	life	NOUN	NN	Number=Sing	11	nsubj	_	start_char=65|end_char=69
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=70|end_char=72
+12	.	.	PUNCT	.	_	3	punct	_	start_char=72|end_char=73
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=75|end_char=79
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=79|end_char=81
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=82|end_char=85
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=86|end_char=88
+5	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=89|end_char=91
+6	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=91|end_char=94
+7	treat	treat	VERB	VB	VerbForm=Inf	3	acl:relcl	_	start_char=95|end_char=100
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=101|end_char=105
+9	like	like	ADP	IN	_	10	case	_	start_char=106|end_char=110
+10	adults	adult	NOUN	NNS	Number=Plur	7	obl	_	start_char=111|end_char=117
+11	in	in	ADP	IN	_	12	case	_	start_char=118|end_char=120
+12	court	court	NOUN	NN	Number=Sing	10	nmod	_	start_char=121|end_char=126
+13	.	.	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+

@@ -1,0 +1,69 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	never	never	ADV	RB	_	3	advmod	_	start_char=2|end_char=7
+3	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	"	"	PUNCT	``	_	5	punct	_	start_char=14|end_char=15
+5	awareness	awareness	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=25
+6	of	of	ADP	IN	_	7	case	_	start_char=26|end_char=28
+7	patterns	pattern	NOUN	NNS	Number=Plur	5	nmod	_	start_char=29|end_char=37
+8	"	"	PUNCT	''	_	5	punct	_	start_char=37|end_char=38
+9	,	,	PUNCT	,	_	10	punct	_	start_char=38|end_char=39
+10	dummy	dummy	NOUN	NN	Number=Sing	5	appos	_	start_char=40|end_char=45
+11	.	.	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=47|end_char=48
+2	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=49|end_char=54
+3	"	"	PUNCT	``	_	4	punct	_	start_char=55|end_char=56
+4	recognize	recognize	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=56|end_char=65
+5	patterns	pattern	NOUN	NNS	Number=Plur	4	obj	_	start_char=66|end_char=74
+6	"	"	PUNCT	''	_	4	punct	_	start_char=74|end_char=75
+7	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=77|end_char=80
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=81|end_char=84
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=85|end_char=87
+4	idiot	idiot	NOUN	NN	Number=Sing	0	root	_	start_char=88|end_char=93
+5	.	.	PUNCT	.	_	4	punct	_	start_char=93|end_char=94
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=95|end_char=96
+2	person	person	NOUN	NN	Number=Sing	8	nsubj	_	start_char=97|end_char=103
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=104|end_char=107
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=108|end_char=110
+5	aware	aware	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=111|end_char=116
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=117|end_char=119
+7	more	more	ADV	RBR	_	8	advmod	_	start_char=120|end_char=124
+8	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=125|end_char=130
+9	than	than	ADP	IN	_	12	case	_	start_char=131|end_char=135
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=136|end_char=137
+11	smart	smart	ADJ	JJ	Degree=Pos	12	amod	_	start_char=138|end_char=143
+12	person	person	NOUN	NN	Number=Sing	8	obl	_	start_char=144|end_char=150
+13	who	who	PRON	WP	PronType=Rel	15	nsubj	_	start_char=151|end_char=154
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=155|end_char=157
+15	unaware	unaware	ADJ	JJ	Degree=Pos	12	acl:relcl	_	start_char=158|end_char=165
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=166|end_char=169
+17	only	only	ADV	RB	_	18	advmod	_	start_char=170|end_char=174
+18	smart	smart	ADJ	JJ	Degree=Pos	15	conj	_	start_char=175|end_char=180
+19	.	.	PUNCT	.	_	8	punct	_	start_char=180|end_char=181
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=182|end_char=185
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=186|end_char=189
+3	pure	pure	ADJ	JJ	Degree=Pos	4	amod	_	start_char=190|end_char=194
+4	idiot	idiot	NOUN	NN	Number=Sing	0	root	_	start_char=195|end_char=200
+5	.	.	PUNCT	.	_	4	punct	_	start_char=200|end_char=201
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=202|end_char=205
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=206|end_char=212
+3	argue	argue	VERB	VB	VerbForm=Inf	0	root	_	start_char=213|end_char=218
+4	because	because	SCONJ	IN	_	6	mark	_	start_char=219|end_char=226
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=227|end_char=230
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=231|end_char=235
+7	no	no	DET	DT	_	8	det	_	start_char=236|end_char=238
+8	brains	brain	NOUN	NNS	Number=Plur	6	obj	_	start_char=239|end_char=245
+9	to	to	PART	TO	_	10	mark	_	start_char=246|end_char=248
+10	do	do	VERB	VB	VerbForm=Inf	8	acl	_	start_char=249|end_char=251
+11	logic	logic	NOUN	NN	Number=Sing	10	obj	_	start_char=252|end_char=257
+12	with	with	ADP	IN	_	10	obl	_	start_char=258|end_char=262
+13	.	.	PUNCT	.	_	3	punct	_	start_char=262|end_char=263
+
+1	Lulz	lulz	NOUN	NN	Number=Sing	0	root	_	start_char=264|end_char=268
+2	.	.	PUNCT	.	_	1	punct	_	start_char=268|end_char=269
+

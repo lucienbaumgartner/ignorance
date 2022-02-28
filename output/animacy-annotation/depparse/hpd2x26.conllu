@@ -1,0 +1,45 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=8
+3	ignorance	ignorance	NOUN	NN	Number=Sing	6	nsubj	_	start_char=9|end_char=18
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=21
+5	no	no	DET	DT	_	6	det	_	start_char=22|end_char=24
+6	excuse	excuse	NOUN	NN	Number=Sing	2	ccomp	_	start_char=25|end_char=31
+7	for	for	ADP	IN	_	8	case	_	start_char=32|end_char=35
+8	racism	racism	NOUN	NN	Number=Sing	6	nmod	_	start_char=36|end_char=42
+9	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=44|end_char=47
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=48|end_char=49
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=50|end_char=52
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=53|end_char=58
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=59|end_char=60
+6	distinction	distinction	NOUN	NN	Number=Sing	9	nsubj:pass	_	start_char=61|end_char=72
+7	can	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=73|end_char=76
+8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	_	start_char=77|end_char=79
+9	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	ccomp	_	start_char=80|end_char=84
+10	between	between	SCONJ	IN	_	12	mark	_	start_char=85|end_char=92
+11	being	be	AUX	VBG	VerbForm=Ger	12	cop	_	start_char=93|end_char=98
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=99|end_char=107
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=108|end_char=111
+14	intentionally	intentionally	ADV	RB	_	15	advmod	_	start_char=112|end_char=125
+15	hurtful	hurtful	ADJ	JJ	Degree=Pos	12	conj	_	start_char=126|end_char=133
+16	.	.	PUNCT	.	_	4	punct	_	start_char=133|end_char=134
+
+1	Mary	Mary	PROPN	NNP	Number=Sing	4	nsubj:pass	_	start_char=135|end_char=139
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=140|end_char=142
+3	incredibly	incredibly	ADV	RB	_	4	advmod	_	start_char=143|end_char=153
+4	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=154|end_char=163
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=164|end_char=167
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=168|end_char=176
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=177|end_char=180
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=181|end_char=182
+9	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=183|end_char=190
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	13	nsubj	_	start_char=191|end_char=195
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=195|end_char=197
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=198|end_char=201
+13	source	source	NOUN	NN	Number=Sing	9	ccomp	_	start_char=202|end_char=208
+14	of	of	ADP	IN	_	16	case	_	start_char=209|end_char=211
+15	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=212|end_char=215
+16	comments	comment	NOUN	NNS	Number=Plur	13	nmod	_	start_char=216|end_char=224
+17	.	.	PUNCT	.	_	4	punct	_	start_char=224|end_char=225
+

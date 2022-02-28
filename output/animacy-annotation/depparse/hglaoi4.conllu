@@ -1,0 +1,24 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	and	and	CCONJ	CC	_	8	cc	_	start_char=4|end_char=7
+4	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=8|end_char=13
+5	protestors	protestor	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=14|end_char=24
+6	just	just	ADV	RB	_	8	advmod	_	start_char=25|end_char=29
+7	so	so	ADV	RB	_	8	advmod	_	start_char=30|end_char=32
+8	happen	happen	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=33|end_char=39
+9	to	to	PART	TO	_	11	mark	_	start_char=40|end_char=42
+10	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=43|end_char=45
+11	Shia	Shia	PROPN	NNPS	Number=Plur	8	xcomp	_	start_char=46|end_char=50
+
+1	7obbe	7obbe	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=52|end_char=57
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=58|end_char=61
+3	hear	hear	VERB	VB	VerbForm=Inf	0	root	_	start_char=62|end_char=66
+4	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obj	_	start_char=67|end_char=75
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=76|end_char=79
+6	stupid	stupid	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=80|end_char=86
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=87|end_char=90
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=91|end_char=99
+9	that	that	PRON	WDT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=100|end_char=104
+10	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	start_char=105|end_char=111
+11	?	?	PUNCT	.	_	3	punct	_	start_char=111|end_char=112
+

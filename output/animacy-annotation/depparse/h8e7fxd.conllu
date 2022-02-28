@@ -1,0 +1,17 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=9
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=10|end_char=13
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=14|end_char=22
+5	of	of	ADP	IN	_	6	case	_	start_char=23|end_char=25
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=26|end_char=29
+7	.	.	PUNCT	.	_	2	punct	_	start_char=29|end_char=30
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=31|end_char=35
+2	self	self	NOUN	NN	Number=Sing	4	compound	_	start_char=36|end_char=40
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=40|end_char=41
+4	awareness	awareness	NOUN	NN	Number=Sing	7	nsubj:pass	_	start_char=41|end_char=50
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=51|end_char=53
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=54|end_char=64
+7	broken	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=65|end_char=71
+8	.	.	PUNCT	.	_	7	punct	_	start_char=71|end_char=72
+

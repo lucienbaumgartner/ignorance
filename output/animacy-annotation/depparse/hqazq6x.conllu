@@ -1,0 +1,57 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=12
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=13|end_char=16
+4	difference	difference	NOUN	NN	Number=Sing	2	obj	_	start_char=17|end_char=27
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=28|end_char=32
+6	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=33|end_char=36
+7	to	to	PART	TO	_	8	mark	_	start_char=37|end_char=39
+8	force	force	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=40|end_char=45
+9	in	in	ADP	IN	_	12	case	_	start_char=46|end_char=48
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=49|end_char=54
+11	own	own	ADJ	JJ	Degree=Pos	12	amod	_	start_char=55|end_char=58
+12	minds	mind	NOUN	NNS	Number=Plur	8	obl	_	start_char=59|end_char=64
+13	.	.	PUNCT	.	_	2	punct	_	start_char=64|end_char=65
+
+1	but	but	CCONJ	CC	_	2	cc	_	start_char=66|end_char=69
+2	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	start_char=70|end_char=73
+
+1	Not	not	PART	RB	_	10	advmod	_	start_char=74|end_char=77
+2	like	like	ADP	IN	_	4	case	_	start_char=78|end_char=82
+3	American	American	ADJ	JJ	Degree=Pos	4	amod	_	start_char=83|end_char=91
+4	immigrants	immigrant	NOUN	NNS	Number=Plur	10	nsubj:pass	_	start_char=92|end_char=102
+5	in	in	ADP	IN	_	7	case	_	start_char=103|end_char=105
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=106|end_char=111
+7	countries	country	NOUN	NNS	Number=Plur	4	nmod	_	start_char=112|end_char=121
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=122|end_char=125
+9	universally	universally	ADV	RB	_	10	advmod	_	start_char=126|end_char=137
+10	liked	like	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=138|end_char=143
+11	by	by	ADP	IN	_	13	case	_	start_char=144|end_char=146
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=147|end_char=150
+13	people	people	NOUN	NNS	Number=Plur	10	obl	_	start_char=151|end_char=157
+14	.	.	PUNCT	.	_	10	punct	_	start_char=157|end_char=158
+
+1	espacially	espacially	ADV	RB	_	9	advmod	_	start_char=159|end_char=169
+2	cuz	cuz	SCONJ	IN	_	9	mark	_	start_char=170|end_char=173
+3	most	most	ADJ	JJS	Degree=Sup	9	nsubj	_	start_char=174|end_char=178
+4	of	of	ADP	IN	_	5	case	_	start_char=179|end_char=181
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	start_char=182|end_char=186
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=187|end_char=190
+7	way	way	ADV	RB	_	8	advmod	_	start_char=191|end_char=194
+8	more	more	ADV	RBR	_	9	advmod	_	start_char=195|end_char=199
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=200|end_char=208
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=209|end_char=212
+11	less	less	ADV	RBR	Degree=Cmp	12	advmod	_	start_char=213|end_char=217
+12	integrated	integrate	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	_	start_char=218|end_char=228
+13	than	than	ADP	IN	_	15	case	_	start_char=229|end_char=233
+14	poorer	poorer	ADJ	JJR	Degree=Cmp	15	amod	_	start_char=234|end_char=240
+15	immigrants	immigrant	NOUN	NNS	Number=Plur	12	obl	_	start_char=241|end_char=251
+16	.	.	PUNCT	.	_	9	punct	_	start_char=251|end_char=252
+
+1	at	at	ADP	IN	_	3	advmod	_	start_char=253|end_char=255
+2	least	least	ADJ	JJS	Degree=Sup	1	fixed	_	start_char=256|end_char=261
+3	thats	that	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=262|end_char=267
+4	what	what	PRON	WP	PronType=Int	6	obj	_	start_char=268|end_char=272
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=273|end_char=274
+6	experienced	experience	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=275|end_char=286
+7	.	.	PUNCT	.	_	3	punct	_	start_char=286|end_char=287
+

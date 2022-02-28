@@ -1,0 +1,71 @@
+1	Unskilled	unskilled	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=9
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=10|end_char=13
+3	Unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=14|end_char=21
+
+1	.	.	PUNCT	.	_	0	root	_	start_char=23|end_char=24
+
+1	Edit	edit	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=31
+2	:	:	PUNCT	:	_	1	punct	_	start_char=31|end_char=32
+3	LOL	lol	INTJ	UH	_	1	discourse	_	start_char=33|end_char=36
+4	with	with	ADP	IN	_	6	case	_	start_char=37|end_char=41
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=42|end_char=45
+6	downvotes	downvote	NOUN	NNS	Number=Plur	1	nmod	_	start_char=46|end_char=55
+7	.	.	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=57|end_char=58
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=59|end_char=62
+3	just	just	ADV	RB	_	4	advmod	_	start_char=63|end_char=67
+4	referrimg	refer	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=68|end_char=77
+5	to	to	ADP	IN	_	8	case	_	start_char=78|end_char=80
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=81|end_char=84
+7	funny	funny	ADJ	JJ	Degree=Pos	8	amod	_	start_char=85|end_char=90
+8	paper	paper	NOUN	NN	Number=Sing	4	obl	_	start_char=91|end_char=96
+9	unskilled	unskilled	ADJ	JJ	Degree=Pos	8	amod	_	start_char=97|end_char=106
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=107|end_char=110
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=111|end_char=118
+12	.	.	PUNCT	.	_	4	punct	_	start_char=118|end_char=119
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=120|end_char=124
+2	award	award	NOUN	NN	Number=Sing	0	root	_	start_char=125|end_char=130
+3	winning	win	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=131|end_char=138
+4	one	one	NUM	CD	NumType=Card	3	obj	_	start_char=139|end_char=142
+5	.	.	PUNCT	.	_	2	punct	_	start_char=142|end_char=143
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=144|end_char=146
+2	thought	thought	NOUN	NN	Number=Sing	3	nsubj	_	start_char=147|end_char=154
+3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=155|end_char=158
+4	that	that	SCONJ	IN	_	14	mark	_	start_char=159|end_char=163
+5	maybe	maybe	ADV	RB	_	14	advmod	_	start_char=164|end_char=169
+6	OP	OP	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=170|end_char=172
+7	or	or	CCONJ	CC	_	9	cc	_	start_char=173|end_char=175
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=176|end_char=179
+9	teachers	teacher	NOUN	NNS	Number=Plur	6	conj	_	start_char=180|end_char=188
+10	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	cop	_	start_char=189|end_char=193
+11	n't	not	PART	RB	_	14	advmod	_	start_char=193|end_char=196
+12	really	really	ADV	RB	_	14	advmod	_	start_char=197|end_char=203
+13	fully	fully	ADV	RB	_	14	advmod	_	start_char=204|end_char=209
+14	aware	aware	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=210|end_char=215
+15	of	of	ADP	IN	_	18	case	_	start_char=216|end_char=218
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=219|end_char=222
+17	own	own	ADJ	JJ	Degree=Pos	18	amod	_	start_char=223|end_char=226
+18	skills	skill	NOUN	NNS	Number=Plur	14	obl	_	start_char=227|end_char=233
+19	.	.	PUNCT	.	_	3	punct	_	start_char=233|end_char=234
+
+1	Even	even	ADV	RB	_	4	advmod	_	start_char=235|end_char=239
+2	when	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=240|end_char=244
+3	above	above	ADV	RB	_	4	advmod	_	start_char=245|end_char=250
+4	average	average	NOUN	NN	Number=Sing	0	root	_	start_char=251|end_char=258
+5	.	.	PUNCT	.	_	4	punct	_	start_char=258|end_char=259
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=260|end_char=263
+2	yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=264|end_char=268
+3	reddit	reddit	NOUN	NN	Number=Sing	5	vocative	_	start_char=269|end_char=275
+4	:	:	PUNCT	:	_	5	punct	_	start_char=275|end_char=276
+5	Roll	Roll	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=277|end_char=281
+6	around	around	ADV	RB	Degree=Pos	5	advmod	_	start_char=282|end_char=288
+7	in	in	ADP	IN	_	10	case	_	start_char=289|end_char=291
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=292|end_char=296
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=297|end_char=300
+10	salt	salt	NOUN	NN	Number=Sing	5	obl	_	start_char=301|end_char=305
+11	.	.	PUNCT	.	_	5	punct	_	start_char=305|end_char=306
+

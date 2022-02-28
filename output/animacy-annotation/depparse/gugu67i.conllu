@@ -1,0 +1,24 @@
+1	No	no	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	5	punct	_	start_char=2|end_char=3
+3	disgusting	disgusting	ADJ	JJ	Degree=Pos	5	nsubj	_	start_char=4|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=15|end_char=17
+5	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=18|end_char=24
+6	to	to	PART	TO	_	7	mark	_	start_char=25|end_char=27
+7	keep	keep	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=28|end_char=32
+8	people	people	NOUN	NNS	Number=Plur	7	obj	_	start_char=33|end_char=39
+9	pacified	pacify	VERB	VBN	Tense=Past|VerbForm=Part	7	xcomp	_	start_char=40|end_char=48
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=49|end_char=52
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=53|end_char=61
+12	of	of	ADP	IN	_	18	case	_	start_char=62|end_char=64
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=65|end_char=68
+14	alt	alt	NOUN	NN	Number=Sing	15	compound	_	start_char=69|end_char=72
+15	-right	-right	NOUN	NN	Number=Sing	18	nmod:poss	_	start_char=72|end_char=78
+16	's	's	PART	POS	_	15	case	_	start_char=78|end_char=80
+17	growing	grow	VERB	VBG	VerbForm=Ger	18	amod	_	start_char=81|end_char=88
+18	radicalization	radicalization	NOUN	NN	Number=Sing	11	obl	_	start_char=89|end_char=103
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=104|end_char=107
+20	desire	desire	NOUN	NN	Number=Sing	18	conj	_	start_char=108|end_char=114
+21	for	for	ADP	IN	_	22	case	_	start_char=115|end_char=118
+22	bloodshed	bloodshed	NOUN	NN	Number=Sing	20	nmod	_	start_char=119|end_char=128
+23	.	.	PUNCT	.	_	5	punct	_	start_char=128|end_char=129
+

@@ -1,0 +1,52 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	preference	preference	NOUN	NN	Number=Sing	8	nsubj	_	start_char=4|end_char=14
+3	for	for	ADP	IN	_	5	case	_	start_char=15|end_char=18
+4	younger	young	ADJ	JJR	Degree=Cmp	5	amod	_	start_char=19|end_char=26
+5	women	woman	NOUN	NNS	Number=Plur	2	nmod	_	start_char=27|end_char=32
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=33|end_char=35
+7	nearly	nearly	ADV	RB	_	8	advmod	_	start_char=36|end_char=42
+8	universal	universal	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=52
+9	.	.	PUNCT	.	_	8	punct	_	start_char=52|end_char=53
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj:pass	_	start_char=54|end_char=58
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=59|end_char=61
+3	*	*	PUNCT	NFP	_	7	punct	_	start_char=62|end_char=63
+4	very	very	ADV	RB	_	6	advmod	_	start_char=63|end_char=67
+5	*	*	PUNCT	NFP	_	7	punct	_	start_char=67|end_char=68
+6	well	well	ADV	RB	Degree=Pos	7	advmod	_	start_char=69|end_char=73
+7	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=74|end_char=85
+8	in	in	ADP	IN	_	9	case	_	start_char=86|end_char=88
+9	research	research	NOUN	NN	Number=Sing	7	obl	_	start_char=89|end_char=97
+10	.	.	PUNCT	.	_	7	punct	_	start_char=97|end_char=98
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=99|end_char=102
+2	point	point	NOUN	NN	Number=Sing	10	nsubj	_	start_char=103|end_char=108
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=109|end_char=112
+4	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=112|end_char=115
+5	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	2	acl:relcl	_	start_char=116|end_char=122
+6	to	to	PART	TO	_	7	mark	_	start_char=123|end_char=125
+7	make	make	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=126|end_char=130
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=131|end_char=133
+9	so	so	ADV	RB	_	10	advmod	_	start_char=134|end_char=136
+10	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=137|end_char=144
+11	dumb	dumb	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=145|end_char=149
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=150|end_char=153
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=154|end_char=162
+14	of	of	ADP	IN	_	16	case	_	start_char=163|end_char=165
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=166|end_char=169
+16	world	world	NOUN	NN	Number=Sing	13	obl	_	start_char=170|end_char=175
+17	.	.	PUNCT	.	_	10	punct	_	start_char=175|end_char=176
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=182|end_char=185
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=186|end_char=189
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=190|end_char=193
+4	wasting	waste	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=194|end_char=201
+5	anyone	anyone	PRON	NN	Number=Sing	7	nmod:poss	_	start_char=202|end_char=208
+6	’s	's	PART	POS	_	5	case	_	start_char=208|end_char=210
+7	time	time	NOUN	NN	Number=Sing	4	obj	_	start_char=211|end_char=215
+8	with	with	ADP	IN	_	12	case	_	start_char=216|end_char=220
+9	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=221|end_char=225
+10	low	low	ADJ	JJ	Degree=Pos	12	amod	_	start_char=226|end_char=229
+11	IQ	iq	NOUN	NN	Number=Sing	12	compound	_	start_char=230|end_char=232
+12	nonsense	nonsense	NOUN	NN	Number=Sing	4	obl	_	start_char=233|end_char=241
+

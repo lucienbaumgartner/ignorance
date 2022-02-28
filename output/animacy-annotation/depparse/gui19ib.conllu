@@ -1,0 +1,10 @@
+1	Soft	Soft	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=5|end_char=8
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=9|end_char=16
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=17|end_char=21
+5	with	with	ADP	IN	_	6	case	_	start_char=22|end_char=26
+6	rights	rights	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=27|end_char=33
+7	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=34|end_char=38
+8	obligations	obligation	NOUN	NNS	Number=Plur	7	obj	_	start_char=39|end_char=50
+9	.	.	PUNCT	.	_	1	punct	_	start_char=50|end_char=51
+

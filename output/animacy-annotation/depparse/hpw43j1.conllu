@@ -1,0 +1,56 @@
+1	&gt	&gt	INTJ	UH	_	23	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	still	still	ADV	RB	_	23	advmod	_	start_char=5|end_char=10
+4	,	,	PUNCT	,	_	6	punct	_	start_char=10|end_char=11
+5	to	to	PART	TO	_	6	mark	_	start_char=12|end_char=14
+6	claim	claim	VERB	VB	VerbForm=Inf	23	csubj	_	start_char=15|end_char=20
+7	that	that	SCONJ	IN	_	23	mark	_	start_char=21|end_char=25
+8	troops	troops	NOUN	NNS	Number=Plur	23	nsubj	_	start_char=26|end_char=32
+9	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=33|end_char=36
+10	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=37|end_char=41
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=42|end_char=47
+12	lives	life	NOUN	NNS	Number=Plur	10	obj	_	start_char=48|end_char=53
+13	DONT	dont	PART	TO	_	14	mark	_	start_char=54|end_char=58
+14	have	have	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=59|end_char=63
+15	historical	historical	ADJ	JJ	Degree=Pos	16	amod	_	start_char=64|end_char=74
+16	significance	significance	NOUN	NN	Number=Sing	14	obj	_	start_char=75|end_char=87
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=88|end_char=90
+18	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=91|end_char=92
+19	very	very	ADV	RB	_	20	advmod	_	start_char=93|end_char=97
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	23	amod	_	start_char=98|end_char=106
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=107|end_char=110
+22	arrogant	arrogant	ADJ	JJ	Degree=Pos	20	conj	_	start_char=111|end_char=119
+23	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=120|end_char=125
+24	to	to	PART	TO	_	25	mark	_	start_char=126|end_char=128
+25	say	say	VERB	VB	VerbForm=Inf	23	acl	_	start_char=129|end_char=132
+26	.	.	PUNCT	.	_	23	punct	_	start_char=132|end_char=133
+
+1	have	have	VERB	VBP	Mood=Imp|VerbForm=Fin	0	root	_	start_char=134|end_char=138
+2	some	some	DET	DT	_	3	det	_	start_char=139|end_char=143
+3	respect	respect	NOUN	NN	Number=Sing	1	obj	_	start_char=144|end_char=151
+4	,	,	PUNCT	,	_	1	punct	_	start_char=151|end_char=152
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=153|end_char=157
+6	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=158|end_char=162
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=163|end_char=168
+8	lives	life	NOUN	NNS	Number=Plur	6	obj	_	start_char=169|end_char=174
+9	.	.	PUNCT	.	_	1	punct	_	start_char=174|end_char=175
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=177|end_char=178
+2	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=179|end_char=184
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=185|end_char=187
+4	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=188|end_char=193
+5	be	be	AUX	VB	VerbForm=Inf	2	ccomp	_	start_char=194|end_char=196
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=197|end_char=199
+7	anyone	anyone	PRON	NN	Number=Sing	8	nsubj	_	start_char=200|end_char=206
+8	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=207|end_char=211
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=212|end_char=216
+10	.	.	PUNCT	.	_	2	punct	_	start_char=216|end_char=217
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=219|end_char=222
+2	no	no	DET	DT	_	3	det	_	start_char=223|end_char=225
+3	one	one	NOUN	NN	Number=Sing	5	nsubj	_	start_char=226|end_char=229
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=230|end_char=232
+5	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=233|end_char=239
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=240|end_char=244
+7	.	.	PUNCT	.	_	5	punct	_	start_char=244|end_char=245
+

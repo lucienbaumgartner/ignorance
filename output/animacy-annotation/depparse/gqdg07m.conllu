@@ -1,0 +1,47 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	4:3	4:3	NUM	CD	NumType=Card	3	nsubj	_	start_char=4|end_char=7
+3	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	fine	fine	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=14|end_char=18
+5	everywhere	everywhere	ADV	RB	_	3	advmod	_	start_char=19|end_char=29
+6	.	.	PUNCT	.	_	3	punct	_	start_char=29|end_char=30
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=31|end_char=33
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=33|end_char=35
+3	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=36|end_char=40
+4	to	to	PART	TO	_	5	mark	_	start_char=41|end_char=43
+5	look	look	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=44|end_char=48
+6	good	good	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=49|end_char=53
+7	in	in	ADP	IN	_	8	case	_	start_char=54|end_char=56
+8	4:3	4:3	NUM	CD	NumType=Card	5	obl	_	start_char=57|end_char=60
+9	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=63|end_char=69
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=70|end_char=73
+3	only	only	ADV	RB	_	4	advmod	_	start_char=74|end_char=78
+4	bitching	bitch	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=79|end_char=87
+5	because	because	ADP	IN	_	9	case	_	start_char=88|end_char=95
+6	of	of	ADP	IN	_	5	fixed	_	start_char=96|end_char=98
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=99|end_char=102
+8	false	false	ADJ	JJ	Degree=Pos	9	amod	_	start_char=103|end_char=108
+9	narrative	narrative	NOUN	NN	Number=Sing	4	obl	_	start_char=109|end_char=118
+10	that	that	PRON	WDT	PronType=Rel	13	mark	_	start_char=119|end_char=123
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=124|end_char=126
+12	'll	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=126|end_char=129
+13	look	look	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=130|end_char=134
+14	bad	bad	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=135|end_char=138
+15	like	like	ADP	IN	_	19	case	_	start_char=139|end_char=143
+16	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=144|end_char=146
+17	old	old	ADJ	JJ	Degree=Pos	19	amod	_	start_char=147|end_char=150
+18	fullscreen	fullscreen	NOUN	NN	Number=Sing	19	compound	_	start_char=151|end_char=161
+19	VHS	vhs	NOUN	NN	Number=Sing	14	obl	_	start_char=162|end_char=165
+20	(	(	PUNCT	-LRB-	_	21	punct	_	start_char=166|end_char=167
+21	inaccurate	inaccurate	ADJ	JJ	Degree=Pos	19	amod	_	start_char=167|end_char=177
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=178|end_char=181
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=182|end_char=190
+24	of	of	ADP	IN	_	25	case	_	start_char=191|end_char=193
+25	how	how	SCONJ	WRB	PronType=Int	21	obl	_	start_char=194|end_char=197
+26	films	film	NOUN	NNS	Number=Plur	28	nsubj:pass	_	start_char=198|end_char=203
+27	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	aux:pass	_	start_char=204|end_char=207
+28	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	acl:relcl	_	start_char=208|end_char=212
+29	)	)	PUNCT	-RRB-	_	21	punct	_	start_char=212|end_char=213
+

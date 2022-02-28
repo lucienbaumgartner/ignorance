@@ -1,0 +1,15 @@
+1	America	America	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=8|end_char=13
+3	dismissive	dismissive	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=24
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=25|end_char=28
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=29|end_char=37
+6	of	of	ADP	IN	_	7	case	_	start_char=38|end_char=40
+7	everything	everything	PRON	NN	Number=Sing	5	obl	_	start_char=41|end_char=51
+8	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=52|end_char=56
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=56|end_char=58
+10	not	not	PART	RB	_	11	advmod	_	start_char=59|end_char=62
+11	American	American	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=63|end_char=71
+12	?	?	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	Impossible	impossible	ADJ	JJ	Degree=Pos	0	root	_	start_char=73|end_char=83
+

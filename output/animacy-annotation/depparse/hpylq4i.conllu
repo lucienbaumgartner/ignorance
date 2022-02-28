@@ -1,0 +1,142 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=7|end_char=10
+3	not	not	PART	RB	_	4	advmod	_	start_char=11|end_char=14
+4	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+6	inconsistency	inconsistency	NOUN	NN	Number=Sing	4	obj	_	start_char=23|end_char=36
+7	in	in	ADP	IN	_	9	case	_	start_char=37|end_char=39
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=40|end_char=44
+9	statement	statement	NOUN	NN	Number=Sing	6	nmod	_	start_char=45|end_char=54
+10	?	?	PUNCT	.	_	4	punct	_	start_char=54|end_char=55
+
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=57|end_char=59
+2	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+
+1	Claiming	claim	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=62|end_char=70
+2	that	that	SCONJ	IN	_	10	mark	_	start_char=71|end_char=75
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=76|end_char=77
+4	negative	negative	ADJ	JJ	Degree=Pos	5	amod	_	start_char=78|end_char=86
+5	review	review	NOUN	NN	Number=Sing	10	nsubj	_	start_char=87|end_char=93
+6	of	of	ADP	IN	_	8	case	_	start_char=94|end_char=96
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=97|end_char=98
+8	season	season	NOUN	NN	Number=Sing	5	nmod	_	start_char=99|end_char=105
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=106|end_char=108
+10	equivalent	equivalent	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=109|end_char=119
+11	to	to	SCONJ	IN	_	12	mark	_	start_char=120|end_char=122
+12	wishing	wish	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=123|end_char=130
+13	harm	harm	NOUN	NN	Number=Sing	12	obj	_	start_char=131|end_char=135
+14	upon	upon	ADP	IN	_	15	case	_	start_char=136|end_char=140
+15	someone	someone	PRON	NN	Number=Sing	12	obl	_	start_char=141|end_char=148
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=149|end_char=151
+17	asinine	asinine	ADJ	JJ	Degree=Pos	0	root	_	start_char=152|end_char=159
+18	.	.	PUNCT	.	_	17	punct	_	start_char=159|end_char=160
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=162|end_char=165
+2	former	former	NOUN	NN	Number=Sing	5	nsubj	_	start_char=166|end_char=172
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=173|end_char=175
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=176|end_char=178
+5	evaluation	evaluation	NOUN	NN	Number=Sing	0	root	_	start_char=179|end_char=189
+6	of	of	ADP	IN	_	8	case	_	start_char=190|end_char=192
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=193|end_char=194
+8	product	product	NOUN	NN	Number=Sing	5	nmod	_	start_char=195|end_char=202
+9	;	;	PUNCT	,	_	5	punct	_	start_char=202|end_char=203
+10	evaluations	evaluation	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=204|end_char=215
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=216|end_char=219
+12	subjective	subjective	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=220|end_char=230
+13	in	in	ADP	IN	_	15	case	_	start_char=231|end_char=233
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=234|end_char=237
+15	world	world	NOUN	NN	Number=Sing	12	obl	_	start_char=238|end_char=243
+16	of	of	ADP	IN	_	17	case	_	start_char=244|end_char=246
+17	art	art	NOUN	NN	Number=Sing	15	nmod	_	start_char=247|end_char=250
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=251|end_char=254
+19	entertainment	entertainment	NOUN	NN	Number=Sing	17	conj	_	start_char=255|end_char=268
+20	and	and	CCONJ	CC	_	25	cc	_	start_char=269|end_char=272
+21	not	not	ADV	RB	_	22	advmod	_	start_char=273|end_char=276
+22	all	all	DET	DT	_	25	nsubj	_	start_char=277|end_char=280
+23	will	will	AUX	MD	VerbForm=Fin	25	aux	_	start_char=281|end_char=285
+24	be	be	AUX	VB	VerbForm=Inf	25	cop	_	start_char=286|end_char=288
+25	positive	positive	ADJ	JJ	Degree=Pos	12	conj	_	start_char=289|end_char=297
+26	.	.	PUNCT	.	_	5	punct	_	start_char=297|end_char=298
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=300|end_char=303
+2	latter	latter	NOUN	NN	Number=Sing	5	nsubj	_	start_char=304|end_char=310
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=311|end_char=313
+4	actually	actually	ADV	RB	_	5	advmod	_	start_char=314|end_char=322
+5	toxic	toxic	ADJ	JJ	Degree=Pos	0	root	_	start_char=323|end_char=328
+6	(	(	PUNCT	-LRB-	_	8	punct	_	start_char=329|end_char=330
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=330|end_char=333
+8	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=334|end_char=344
+9	to	to	ADP	IN	_	11	case	_	start_char=345|end_char=347
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=348|end_char=351
+11	show	show	NOUN	NN	Number=Sing	8	obl	_	start_char=352|end_char=356
+12	)	)	PUNCT	-RRB-	_	8	punct	_	start_char=356|end_char=357
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=358|end_char=361
+14	should	should	AUX	MD	VerbForm=Fin	17	aux	_	start_char=362|end_char=368
+15	not	not	PART	RB	_	17	advmod	_	start_char=369|end_char=372
+16	be	be	AUX	VB	VerbForm=Inf	17	aux:pass	_	start_char=373|end_char=375
+17	tolerated	tolerate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	start_char=376|end_char=385
+18	.	.	PUNCT	.	_	5	punct	_	start_char=385|end_char=386
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=390|end_char=393
+2	;	;	PUNCT	:	_	1	punct	_	start_char=393|end_char=394
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=394|end_char=397
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=398|end_char=401
+3	defending	defend	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=402|end_char=411
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=412|end_char=415
+5	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=416|end_char=422
+6	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=423|end_char=426
+7	harass	harass	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=427|end_char=433
+8	Torian	Torian	PROPN	NNP	Number=Sing	7	obj	_	start_char=434|end_char=440
+
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=442|end_char=444
+2	.	.	PUNCT	.	_	1	punct	_	start_char=444|end_char=445
+
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=447|end_char=451
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=452|end_char=454
+3	comment	comment	NOUN	NN	Number=Sing	1	obj	_	start_char=455|end_char=462
+4	again	again	ADV	RB	_	1	advmod	_	start_char=463|end_char=468
+5	.	.	PUNCT	.	_	1	punct	_	start_char=468|end_char=469
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=471|end_char=474
+2	;	;	PUNCT	,	_	1	punct	_	start_char=474|end_char=475
+3	insisting	insist	VERB	VBG	VerbForm=Ger	23	csubj	_	start_char=475|end_char=484
+4	that	that	SCONJ	IN	_	12	mark	_	start_char=485|end_char=489
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=490|end_char=493
+6	term	term	NOUN	NN	Number=Sing	12	nsubj	_	start_char=494|end_char=498
+7	"	"	PUNCT	``	_	8	punct	_	start_char=499|end_char=500
+8	toxic	toxic	ADJ	JJ	Degree=Pos	6	amod	_	start_char=500|end_char=505
+9	"	"	PUNCT	''	_	8	punct	_	start_char=505|end_char=506
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=507|end_char=511
+11	n't	not	PART	RB	_	12	advmod	_	start_char=511|end_char=514
+12	apply	apply	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=515|end_char=520
+13	to	to	ADP	IN	_	15	case	_	start_char=521|end_char=523
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=524|end_char=527
+15	people	people	NOUN	NNS	Number=Plur	12	obl	_	start_char=528|end_char=534
+16	who	who	PRON	WP	PronType=Rel	17	nsubj	_	start_char=535|end_char=538
+17	committed	commit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	acl:relcl	_	start_char=539|end_char=548
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=549|end_char=552
+19	actions	action	NOUN	NNS	Number=Plur	17	obj	_	start_char=553|end_char=560
+20	OP	OP	PROPN	NNP	Number=Sing	21	nsubj	_	start_char=561|end_char=563
+21	listed	list	VERB	VBN	Tense=Past|VerbForm=Part	19	acl	_	start_char=564|end_char=570
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=571|end_char=573
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=574|end_char=582
+24	and	and	CCONJ	CC	_	26	cc	_	start_char=583|end_char=586
+25	blatantly	blatantly	ADV	RB	_	26	advmod	_	start_char=587|end_char=596
+26	wrong	wrong	ADJ	JJ	Degree=Pos	23	conj	_	start_char=597|end_char=602
+27	.	.	PUNCT	.	_	1	punct	_	start_char=602|end_char=603
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=605|end_char=606
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=607|end_char=610
+3	n't	not	PART	RB	_	2	advmod	_	start_char=610|end_char=613
+4	.	.	PUNCT	.	_	2	punct	_	start_char=613|end_char=614
+
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=616|end_char=620
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=621|end_char=623
+3	comment	comment	NOUN	NN	Number=Sing	1	obj	_	start_char=624|end_char=631
+4	again	again	ADV	RB	_	1	advmod	_	start_char=632|end_char=637
+5	.	.	PUNCT	.	_	1	punct	_	start_char=637|end_char=638
+

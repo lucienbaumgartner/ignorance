@@ -1,0 +1,23 @@
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+5	most	most	ADJ	JJS	Degree=Sup	6	amod	_	start_char=12|end_char=16
+6	Canadians	Canadian	PROPN	NNPS	Number=Plur	4	obj	_	start_char=17|end_char=26
+7	to	to	PART	TO	_	9	mark	_	start_char=27|end_char=29
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=30|end_char=32
+9	naive	naive	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=33|end_char=38
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=39|end_char=42
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=43|end_char=51
+12	of	of	ADP	IN	_	14	case	_	start_char=52|end_char=54
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=55|end_char=59
+14	world	world	NOUN	NN	Number=Sing	11	obl	_	start_char=60|end_char=65
+15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	start_char=66|end_char=68
+16	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=69|end_char=73
+17	in	in	ADP	IN	_	16	obl	_	start_char=74|end_char=76
+18	.	.	PUNCT	.	_	4	punct	_	start_char=76|end_char=77
+
+1	Any	any	DET	DT	_	2	det	_	start_char=79|end_char=82
+2	examples	example	NOUN	NNS	Number=Plur	0	root	_	start_char=83|end_char=91
+3	?	?	PUNCT	.	_	2	punct	_	start_char=91|end_char=92
+

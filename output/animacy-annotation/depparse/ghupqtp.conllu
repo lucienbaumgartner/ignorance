@@ -1,0 +1,21 @@
+1	Not	not	PART	RB	_	3	advmod	_	start_char=0|end_char=3
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=4|end_char=5
+3	beggar	beggar	NOUN	NN	Number=Sing	0	root	_	start_char=6|end_char=12
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=13|end_char=15
+5	choosing	choose	VERB	VBG	VerbForm=Ger	3	conj	_	start_char=16|end_char=24
+6	,	,	PUNCT	,	_	8	punct	_	start_char=24|end_char=25
+7	just	just	ADV	RB	_	8	advmod	_	start_char=26|end_char=30
+8	obnoxious	obnoxious	ADJ	JJ	Degree=Pos	3	amod	_	start_char=31|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=45|end_char=52
+11	of	of	ADP	IN	_	12	case	_	start_char=53|end_char=55
+12	how	how	SCONJ	WRB	PronType=Int	10	obl	_	start_char=56|end_char=59
+13	intellectual	intellectual	ADJ	JJ	Degree=Pos	14	amod	_	start_char=60|end_char=72
+14	property	property	NOUN	NN	Number=Sing	15	nsubj	_	start_char=73|end_char=81
+15	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=82|end_char=87
+16	in	in	ADP	IN	_	19	case	_	start_char=88|end_char=90
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=91|end_char=94
+18	real	real	ADJ	JJ	Degree=Pos	19	amod	_	start_char=95|end_char=99
+19	world	world	NOUN	NN	Number=Sing	15	obl	_	start_char=100|end_char=105
+20	.	.	PUNCT	.	_	3	punct	_	start_char=105|end_char=106
+

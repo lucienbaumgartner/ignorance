@@ -1,0 +1,22 @@
+1	2006	2006	NUM	CD	NumType=Card	9	obl:tmod	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	9	punct	_	start_char=4|end_char=5
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=6|end_char=7
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=8|end_char=11
+5	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=12|end_char=13
+6	naive	naive	ADJ	JJ	Degree=Pos	9	amod	_	start_char=14|end_char=19
+7	5	5	NUM	CD	NumType=Card	8	nummod	_	start_char=20|end_char=21
+8	year	year	NOUN	NN	Number=Sing	9	obl:npmod	_	start_char=22|end_char=26
+9	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=30
+10	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=31|end_char=34
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=35|end_char=38
+12	happy	happy	ADJ	JJ	Degree=Pos	9	acl:relcl	_	start_char=39|end_char=44
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=45|end_char=48
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=49|end_char=56
+15	of	of	ADP	IN	_	17	case	_	start_char=57|end_char=59
+16	how	how	SCONJ	WRB	PronType=Int	17	mark	_	start_char=60|end_char=63
+17	shitty	shitty	ADJ	JJ	Degree=Pos	14	advcl	_	start_char=64|end_char=70
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=71|end_char=74
+19	world	world	NOUN	NN	Number=Sing	17	nsubj	_	start_char=75|end_char=80
+20	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=81|end_char=84
+21	be	be	AUX	VB	VerbForm=Inf	17	cop	_	start_char=85|end_char=87
+

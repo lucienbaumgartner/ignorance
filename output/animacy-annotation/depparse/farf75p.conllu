@@ -1,0 +1,26 @@
+1	When	when	SCONJ	WRB	PronType=Int	5	mark	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=5|end_char=8
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	so	so	ADV	RB	_	5	advmod	_	start_char=12|end_char=14
+5	young	young	ADJ	JJ	Degree=Pos	22	advcl	_	start_char=15|end_char=20
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=21|end_char=24
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=25|end_char=33
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=34|end_char=38
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=39|end_char=42
+10	become	become	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=43|end_char=49
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=50|end_char=53
+12	perfect	perfect	ADJ	JJ	Degree=Pos	13	amod	_	start_char=54|end_char=61
+13	match	match	NOUN	NN	Number=Sing	10	xcomp	_	start_char=62|end_char=67
+14	for	for	ADP	IN	_	19	case	_	start_char=68|end_char=71
+15	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=72|end_char=75
+16	old	old	ADJ	JJ	Degree=Pos	19	amod	_	start_char=76|end_char=79
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=80|end_char=83
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=84|end_char=92
+19	people	people	NOUN	NNS	Number=Plur	13	nmod	_	start_char=93|end_char=99
+20	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	22	nsubj	_	start_char=100|end_char=103
+21	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	aux	_	start_char=103|end_char=106
+22	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=107|end_char=113
+23	to	to	PART	TO	_	24	mark	_	start_char=114|end_char=116
+24	mock	mock	VERB	VB	VerbForm=Inf	22	xcomp	_	start_char=117|end_char=121
+25	.	.	PUNCT	.	_	22	punct	_	start_char=121|end_char=122
+

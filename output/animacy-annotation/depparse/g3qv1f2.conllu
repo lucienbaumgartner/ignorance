@@ -1,0 +1,38 @@
+1	Play	play	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=5|end_char=6
+3	lot	lot	NOUN	NN	Number=Sing	1	obj	_	start_char=7|end_char=10
+4	.	.	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=12|end_char=13
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=14|end_char=16
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=16|end_char=19
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=23
+5	these	this	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=24|end_char=29
+6	type	type	NOUN	NN	Number=Sing	4	obj	_	start_char=30|end_char=34
+7	of	of	ADP	IN	_	8	case	_	start_char=35|end_char=37
+8	lobbies	lobby	NOUN	NNS	Number=Plur	6	nmod	_	start_char=38|end_char=45
+9	often	often	ADV	RB	_	4	advmod	_	start_char=46|end_char=51
+10	unfortunately	unfortunately	ADV	RB	Degree=Pos	4	advmod	_	start_char=52|end_char=65
+11	.	.	PUNCT	.	_	4	punct	_	start_char=65|end_char=66
+
+1	Took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=67|end_char=71
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=72|end_char=74
+3	all	all	DET	DT	_	4	det	_	start_char=75|end_char=78
+4	day	day	NOUN	NN	Number=Sing	1	obl:tmod	_	start_char=79|end_char=82
+5	to	to	PART	TO	_	7	mark	_	start_char=83|end_char=85
+6	just	just	ADV	RB	_	7	advmod	_	start_char=86|end_char=90
+7	get	get	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=91|end_char=94
+8	these	this	DET	DT	Number=Plur|PronType=Dem	10	det	_	start_char=95|end_char=100
+9	2	2	NUM	CD	NumType=Card	10	nummod	_	start_char=101|end_char=102
+10	clips	clip	NOUN	NNS	Number=Plur	7	obj	_	start_char=103|end_char=108
+11	cuz	cuz	SCONJ	IN	_	16	mark	_	start_char=109|end_char=112
+12	people	people	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=113|end_char=119
+13	usually	usually	ADV	RB	_	16	advmod	_	start_char=120|end_char=127
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=128|end_char=131
+15	n’t	not	PART	RB	_	16	advmod	_	start_char=131|end_char=134
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	7	advcl	_	start_char=135|end_char=139
+17	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=140|end_char=147
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=148|end_char=151
+19	stupid	stupid	ADJ	JJ	Degree=Pos	17	conj	_	start_char=152|end_char=158
+20	lmao	lmao	NOUN	NN	Number=Sing	1	punct	_	start_char=159|end_char=163
+

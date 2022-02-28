@@ -1,0 +1,46 @@
+1	What	what	PRON	WP	PronType=Int	7	obj	_	start_char=0|end_char=4
+2	in	in	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	fuck	fuck	NOUN	NN	Number=Sing	1	nmod	_	start_char=12|end_char=16
+5	DO	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=17|end_char=19
+6	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=20|end_char=23
+7	MEAN	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=28
+8	,	,	PUNCT	,	_	9	punct	_	start_char=28|end_char=29
+9	asking	ask	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=30|end_char=36
+10	that	that	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=37|end_char=41
+11	stupid	stupid	ADJ	JJ	Degree=Pos	13	amod	_	start_char=42|end_char=48
+12	ass	ass	NOUN	NN	Number=Sing	13	compound	_	start_char=49|end_char=52
+13	question	question	NOUN	NN	Number=Sing	9	obj	_	start_char=53|end_char=61
+14	.	.	PUNCT	.	_	7	punct	_	start_char=61|end_char=62
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=63|end_char=66
+2	ever	ever	ADV	RB	_	3	advmod	_	start_char=67|end_char=71
+3	pick	pick	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=72|end_char=76
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=77|end_char=79
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=80|end_char=81
+6	history	history	NOUN	NN	Number=Sing	7	compound	_	start_char=82|end_char=89
+7	book	book	NOUN	NN	Number=Sing	3	obj	_	start_char=90|end_char=94
+8	or	or	CCONJ	CC	_	10	cc	_	start_char=95|end_char=97
+9	even	even	ADV	RB	_	10	advmod	_	start_char=98|end_char=102
+10	hear	hear	VERB	VB	VerbForm=Inf	3	conj	_	start_char=103|end_char=107
+11	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=108|end_char=114
+12	talk	talk	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=115|end_char=119
+13	about	about	ADP	IN	_	15	case	_	start_char=120|end_char=125
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=126|end_char=129
+15	nazis	nazi	NOUN	NNS	Number=Plur	12	obl	_	start_char=130|end_char=135
+16	?	?	PUNCT	.	_	3	punct	_	start_char=135|end_char=136
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=139|end_char=140
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=140|end_char=142
+3	seriously	seriously	ADV	RB	_	4	advmod	_	start_char=143|end_char=152
+4	dumbfounded	dumbfound	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=153|end_char=164
+5	by	by	SCONJ	IN	_	7	mark	_	start_char=165|end_char=167
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=168|end_char=171
+7	idiotic	idiotic	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=172|end_char=179
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=180|end_char=183
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=184|end_char=192
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=193|end_char=197
+11	question	question	NOUN	NN	Number=Sing	12	nsubj	_	start_char=198|end_char=206
+12	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=207|end_char=210
+13	.	.	PUNCT	.	_	4	punct	_	start_char=210|end_char=211
+

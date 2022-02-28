@@ -1,0 +1,70 @@
+1	Nah	nah	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Eastern	Eastern	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=12
+2	European	European	ADJ	JJ	Degree=Pos	3	amod	_	start_char=13|end_char=21
+3	women	woman	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=22|end_char=27
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+5	Latin	Latin	ADJ	JJ	Degree=Pos	6	amod	_	start_char=32|end_char=37
+6	women	woman	NOUN	NNS	Number=Plur	3	conj	_	start_char=38|end_char=43
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=44|end_char=47
+8	by	by	ADP	IN	_	9	case	_	start_char=48|end_char=50
+9	far	far	ADV	RB	Degree=Pos	12	obl	_	start_char=51|end_char=54
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=55|end_char=58
+11	most	most	ADV	RBS	_	12	advmod	_	start_char=59|end_char=63
+12	beautiful	beautiful	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=73
+13	.	.	PUNCT	.	_	12	punct	_	start_char=73|end_char=74
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=75|end_char=80
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=80|end_char=82
+3	absolutely	absolutely	ADV	RB	_	2	advmod	_	start_char=83|end_char=93
+4	no	no	DET	DT	_	5	det	_	start_char=94|end_char=96
+5	competition	competition	NOUN	NN	Number=Sing	2	nsubj	_	start_char=97|end_char=108
+6	.	.	PUNCT	.	_	2	punct	_	start_char=108|end_char=109
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=110|end_char=114
+2	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=115|end_char=119
+3	care	care	NOUN	NN	Number=Sing	2	obj	_	start_char=120|end_char=124
+4	of	of	ADP	IN	_	5	case	_	start_char=125|end_char=127
+5	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	start_char=128|end_char=138
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=139|end_char=142
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=143|end_char=146
+8	wo	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=147|end_char=149
+9	n’t	not	PART	RB	_	10	advmod	_	start_char=149|end_char=152
+10	see	see	VERB	VB	VerbForm=Inf	2	conj	_	start_char=153|end_char=156
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=157|end_char=158
+12	single	single	ADJ	JJ	Degree=Pos	14	amod	_	start_char=159|end_char=165
+13	ugly	ugly	ADJ	JJ	Degree=Pos	14	amod	_	start_char=166|end_char=170
+14	fatty	fatty	NOUN	NN	Number=Sing	10	obj	_	start_char=171|end_char=176
+15	there	there	ADV	RB	PronType=Dem	10	advmod	_	start_char=177|end_char=182
+16	.	.	PUNCT	.	_	2	punct	_	start_char=182|end_char=183
+
+1	Walk	walk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=184|end_char=188
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=189|end_char=192
+3	streets	street	NOUN	NNS	Number=Plur	1	obj	_	start_char=193|end_char=200
+4	of	of	ADP	IN	_	5	case	_	start_char=201|end_char=203
+5	Belgrade	Belgrade	PROPN	NNP	Number=Sing	3	nmod	_	start_char=204|end_char=212
+6	of	of	ADP	IN	_	7	case	_	start_char=213|end_char=215
+7	Barcelona	Barcelona	PROPN	NNP	Number=Sing	5	nmod	_	start_char=216|end_char=225
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=226|end_char=228
+9	friend	friend	NOUN	NN	Number=Sing	15	nsubj:pass	_	start_char=229|end_char=235
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=236|end_char=239
+11	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=240|end_char=242
+12	point	point	NOUN	NN	Number=Sing	9	conj	_	start_char=243|end_char=248
+13	will	will	AUX	MD	VerbForm=Fin	15	aux	_	start_char=249|end_char=253
+14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	start_char=254|end_char=256
+15	proven	prove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	parataxis	_	start_char=257|end_char=263
+16	.	.	PUNCT	.	_	1	punct	_	start_char=263|end_char=264
+
+1	American	American	ADJ	JJ	Degree=Pos	2	amod	_	start_char=265|end_char=273
+2	women	woman	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=274|end_char=279
+3	on	on	ADP	IN	_	6	case	_	start_char=280|end_char=282
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=283|end_char=286
+5	other	other	ADJ	JJ	Degree=Pos	6	amod	_	start_char=287|end_char=292
+6	hand	hand	NOUN	NN	Number=Sing	2	nmod	_	start_char=293|end_char=297
+7	…	…	PUNCT	,	_	8	punct	_	start_char=297|end_char=298
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=298|end_char=306
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=307|end_char=310
+10	ugly	ugly	ADJ	JJ	Degree=Pos	8	conj	_	start_char=311|end_char=315
+11	.	.	PUNCT	.	_	8	punct	_	start_char=315|end_char=316
+

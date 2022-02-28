@@ -1,0 +1,42 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	seem	seem	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=9|end_char=15
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=16|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	unwilling	unwilling	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=38
+7	to	to	PART	TO	_	8	mark	_	start_char=39|end_char=41
+8	look	look	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=42|end_char=46
+9	into	into	ADP	IN	_	10	case	_	start_char=47|end_char=51
+10	things	thing	NOUN	NNS	Number=Plur	8	obl	_	start_char=52|end_char=58
+11	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	Is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=62
+2	there	there	PRON	EX	_	1	expl	_	start_char=63|end_char=68
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=69|end_char=70
+4	reason	reason	NOUN	NN	Number=Sing	1	nsubj	_	start_char=71|end_char=77
+5	for	for	ADP	IN	_	9	case	_	start_char=78|end_char=81
+6	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=82|end_char=86
+7	willing	willing	ADJ	JJ	Degree=Pos	9	amod	_	start_char=87|end_char=94
+8	-	-	PUNCT	HYPH	_	9	punct	_	start_char=94|end_char=95
+9	ignorance	ignorance	NOUN	NN	Number=Sing	4	nmod	_	start_char=95|end_char=104
+10	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=105|end_char=109
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=110|end_char=113
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=114|end_char=118
+13	Google	Google	PROPN	NNP	Number=Sing	12	obj	_	start_char=119|end_char=125
+14	?	?	PUNCT	.	_	1	punct	_	start_char=125|end_char=126
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=128|end_char=130
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=131|end_char=134
+3	rely	rely	VERB	VB	VerbForm=Inf	0	root	_	start_char=135|end_char=139
+4	on	on	ADP	IN	_	5	case	_	start_char=140|end_char=142
+5	people	people	NOUN	NNS	Number=Plur	3	obl	_	start_char=143|end_char=149
+6	to	to	PART	TO	_	7	mark	_	start_char=150|end_char=152
+7	feed	feed	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=153|end_char=157
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	iobj	_	start_char=158|end_char=161
+9	answers	answer	NOUN	NNS	Number=Plur	7	obj	_	start_char=162|end_char=169
+10	to	to	ADP	IN	_	11	case	_	start_char=170|end_char=172
+11	questions	question	NOUN	NNS	Number=Plur	7	obl	_	start_char=173|end_char=182
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=183|end_char=186
+13	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=187|end_char=191
+14	?	?	PUNCT	.	_	3	punct	_	start_char=191|end_char=192
+

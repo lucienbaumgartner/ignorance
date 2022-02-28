@@ -1,0 +1,20 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	person	person	NOUN	NN	Number=Sing	6	nsubj	_	start_char=5|end_char=11
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=12|end_char=14
+4	so	so	ADV	RB	_	5	advmod	_	start_char=15|end_char=17
+5	insanely	insanely	ADV	RB	_	6	advmod	_	start_char=18|end_char=26
+6	toxic	toxic	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	of	of	ADP	IN	_	11	case	_	start_char=46|end_char=48
+10	political	political	ADJ	JJ	Degree=Pos	11	amod	_	start_char=49|end_char=58
+11	history	history	NOUN	NN	Number=Sing	8	obl	_	start_char=59|end_char=66
+12	.	.	PUNCT	.	_	6	punct	_	start_char=66|end_char=67
+
+1	Do	do	AUX	VB	VerbForm=Fin	3	aux	_	start_char=68|end_char=70
+2	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=70|end_char=73
+3	waste	waste	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=74|end_char=79
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=80|end_char=84
+5	time	time	NOUN	NN	Number=Sing	3	obj	_	start_char=85|end_char=89
+6	.	.	PUNCT	.	_	3	punct	_	start_char=89|end_char=90
+

@@ -1,0 +1,43 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	woman	woman	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=5|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=11|end_char=13
+4	so	so	ADV	RB	_	5	advmod	_	start_char=14|end_char=16
+5	detached	detach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=17|end_char=25
+6	from	from	ADP	IN	_	9	case	_	start_char=26|end_char=30
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=31|end_char=34
+8	real	real	ADJ	JJ	Degree=Pos	9	amod	_	start_char=35|end_char=39
+9	world	world	NOUN	NN	Number=Sing	5	obl	_	start_char=40|end_char=45
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=46|end_char=50
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	expl	_	start_char=51|end_char=53
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=54|end_char=56
+13	embarrassing	embarrassing	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=57|end_char=69
+14	to	to	PART	TO	_	16	mark	_	start_char=70|end_char=72
+15	even	even	ADV	RB	_	16	advmod	_	start_char=73|end_char=77
+16	read	read	VERB	VB	VerbForm=Inf	13	csubj	_	start_char=78|end_char=82
+17	as	as	ADP	IN	_	19	case	_	start_char=83|end_char=85
+18	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=86|end_char=88
+19	outsider	outsider	NOUN	NN	Number=Sing	16	obl	_	start_char=89|end_char=97
+20	.	.	PUNCT	.	_	5	punct	_	start_char=97|end_char=98
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=99|end_char=102
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=103|end_char=105
+3	still	still	ADV	RB	_	4	advmod	_	start_char=106|end_char=111
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=112|end_char=117
+5	at	at	ADP	IN	_	6	case	_	start_char=118|end_char=120
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=121|end_char=123
+7	on	on	ADP	IN	_	8	case	_	start_char=124|end_char=126
+8	twitter	twitter	PROPN	NNP	Number=Sing	4	obl	_	start_char=127|end_char=134
+9	.	.	PUNCT	.	_	4	punct	_	start_char=134|end_char=135
+
+1	Talk	talk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=136|end_char=140
+2	about	about	SCONJ	IN	_	5	mark	_	start_char=141|end_char=146
+3	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=147|end_char=152
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=153|end_char=163
+5	oblivious	oblivious	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=164|end_char=173
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=174|end_char=177
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=178|end_char=186
+8	of	of	ADP	IN	_	10	case	_	start_char=187|end_char=189
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=190|end_char=193
+10	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=194|end_char=201
+11	.	.	PUNCT	.	_	1	punct	_	start_char=201|end_char=202
+

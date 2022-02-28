@@ -1,0 +1,31 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	cant	cant	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=8
+3	rid	rid	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=13|end_char=16
+5	world	world	NOUN	NN	Number=Sing	3	obj	_	start_char=17|end_char=22
+6	of	of	ADP	IN	_	7	case	_	start_char=23|end_char=25
+7	corruption	corruption	NOUN	NN	Number=Sing	5	nmod	_	start_char=26|end_char=36
+8	with	with	ADP	IN	_	10	case	_	start_char=37|end_char=41
+9	more	more	ADJ	JJR	Degree=Cmp	10	amod	_	start_char=42|end_char=46
+10	corruption	corruption	NOUN	NN	Number=Sing	3	obl	_	start_char=47|end_char=57
+11	.	.	PUNCT	.	_	3	punct	_	start_char=57|end_char=58
+
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=59|end_char=65
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=74
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=75|end_char=78
+4	backwards	backwards	ADJ	JJ	Degree=Pos	5	amod	_	start_char=79|end_char=88
+5	way	way	NOUN	NN	Number=Sing	2	conj	_	start_char=89|end_char=92
+6	to	to	PART	TO	_	7	mark	_	start_char=93|end_char=95
+7	try	try	VERB	VB	VerbForm=Inf	5	acl	_	start_char=96|end_char=99
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=100|end_char=103
+9	fix	fix	VERB	VB	VerbForm=Inf	7	conj	_	start_char=104|end_char=107
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=108|end_char=111
+11	issues	issue	NOUN	NNS	Number=Plur	9	obj	_	start_char=112|end_char=118
+12	that	that	PRON	WDT	PronType=Rel	15	obj	_	start_char=119|end_char=123
+13	antiwork	antiwork	PROPN	NNP	Number=Sing	15	nsubj	_	start_char=124|end_char=132
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=133|end_char=135
+15	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=136|end_char=142
+16	to	to	PART	TO	_	17	mark	_	start_char=143|end_char=145
+17	fix	fix	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=146|end_char=149
+18	n	n	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+

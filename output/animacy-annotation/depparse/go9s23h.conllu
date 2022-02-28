@@ -1,0 +1,51 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+4	and	and	CCONJ	CC	_	8	cc	_	start_char=12|end_char=15
+5	for	for	ADP	IN	_	8	mark	_	start_char=16|end_char=19
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=20|end_char=24
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=25|end_char=26
+8	feel	feel	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=27|end_char=31
+9	pity	pity	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=32|end_char=36
+10	towards	towards	ADP	IN	_	11	case	_	start_char=37|end_char=44
+11	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=45|end_char=48
+12	.	.	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=50|end_char=51
+2	cared	care	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=52|end_char=57
+3	about	about	ADP	IN	_	4	case	_	start_char=58|end_char=63
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=64|end_char=67
+5	and	and	CCONJ	CC	_	10	cc	_	start_char=68|end_char=71
+6	at	at	ADP	IN	_	7	case	_	start_char=72|end_char=74
+7	times	time	NOUN	NNS	Number=Plur	10	obl	_	start_char=75|end_char=80
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=81|end_char=82
+9	still	still	ADV	RB	_	10	advmod	_	start_char=83|end_char=88
+10	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=89|end_char=91
+11	,	,	PUNCT	,	_	15	punct	_	start_char=91|end_char=92
+12	but	but	CCONJ	CC	_	15	cc	_	start_char=93|end_char=96
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=97|end_char=100
+14	just	just	ADV	RB	_	15	advmod	_	start_char=101|end_char=105
+15	caused	cause	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=106|end_char=112
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	iobj	_	start_char=113|end_char=115
+17	so	so	ADV	RB	_	18	advmod	_	start_char=116|end_char=118
+18	much	much	ADJ	JJ	Degree=Pos	19	amod	_	start_char=119|end_char=123
+19	pain	pain	NOUN	NN	Number=Sing	15	obj	_	start_char=124|end_char=128
+20	.	.	PUNCT	.	_	2	punct	_	start_char=128|end_char=129
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=130|end_char=133
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=133|end_char=135
+3	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=136|end_char=137
+4	very	very	ADV	RB	_	5	advmod	_	start_char=138|end_char=142
+5	selfish	selfish	ADJ	JJ	Degree=Pos	10	amod	_	start_char=143|end_char=150
+6	,	,	PUNCT	,	_	7	punct	_	start_char=150|end_char=151
+7	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=152|end_char=159
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=160|end_char=163
+9	cruel	cruel	ADJ	JJ	Degree=Pos	5	conj	_	start_char=164|end_char=169
+10	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=170|end_char=176
+11	.	.	PUNCT	.	_	10	punct	_	start_char=176|end_char=177
+
+1	Damaged	damage	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=178|end_char=185
+2	for	for	ADP	IN	_	3	case	_	start_char=186|end_char=189
+3	sure	sure	ADJ	JJ	Degree=Pos	1	obl	_	start_char=190|end_char=194
+4	.	.	PUNCT	.	_	1	punct	_	start_char=194|end_char=195
+

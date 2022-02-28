@@ -1,0 +1,61 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	save	save	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=7|end_char=9
+4	toddlers	toddler	NOUN	NNS	Number=Plur	5	compound	_	start_char=10|end_char=18
+5	life	life	NOUN	NN	Number=Sing	2	obj	_	start_char=19|end_char=23
+6	about	about	ADV	RB	_	7	advmod	_	start_char=24|end_char=29
+7	45	45	NUM	CD	NumType=Card	8	nummod	_	start_char=30|end_char=32
+8	times	time	NOUN	NNS	Number=Plur	2	obl:tmod	_	start_char=33|end_char=38
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=39|end_char=40
+10	day	day	NOUN	NN	Number=Sing	2	obl:tmod	_	start_char=41|end_char=44
+11	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45
+
+1	Can	can	AUX	MD	VerbForm=Fin	2	aux	_	start_char=47|end_char=50
+2	confirm	confirm	VERB	VB	VerbForm=Inf	0	root	_	start_char=51|end_char=58
+3	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	Toddlers	toddler	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=61|end_char=69
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=70|end_char=73
+3	curious	curious	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=81
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=82|end_char=85
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=86|end_char=93
+6	of	of	ADP	IN	_	8	case	_	start_char=94|end_char=96
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=97|end_char=100
+8	dangers	danger	NOUN	NNS	Number=Plur	5	obl	_	start_char=101|end_char=108
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=109|end_char=114
+10	actions	action	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=115|end_char=122
+11	pose	pose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=123|end_char=127
+12	.	.	PUNCT	.	_	3	punct	_	start_char=127|end_char=128
+
+1	People	person	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=130|end_char=136
+2	on	on	ADP	IN	_	3	case	_	start_char=137|end_char=139
+3	reddit	reddit	NOUN	NN	Number=Sing	1	nmod	_	start_char=140|end_char=146
+4	tho	though	AUX	MD	VerbForm=Fin	7	aux	_	start_char=147|end_char=150
+5	just	just	ADV	RB	_	7	advmod	_	start_char=151|end_char=155
+6	generally	generally	ADV	RB	_	7	advmod	_	start_char=156|end_char=165
+7	hate	hate	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Inf	0	root	_	start_char=166|end_char=170
+8	children	child	NOUN	NNS	Number=Plur	7	obj	_	start_char=171|end_char=179
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=180|end_char=183
+10	act	act	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=184|end_char=187
+11	as	as	SCONJ	IN	_	16	mark	_	start_char=188|end_char=190
+12	if	if	SCONJ	IN	_	16	mark	_	start_char=191|end_char=193
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=194|end_char=198
+14	would	would	AUX	MD	VerbForm=Fin	16	aux	_	start_char=199|end_char=204
+15	never	never	ADV	RB	_	16	advmod	_	start_char=205|end_char=210
+16	do	do	VERB	VB	VerbForm=Inf	10	advcl	_	start_char=211|end_char=213
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	16	obj	_	start_char=214|end_char=218
+18	if	if	SCONJ	IN	_	23	mark	_	start_char=219|end_char=221
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	start_char=222|end_char=226
+20	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	cop	_	start_char=227|end_char=231
+21	3	3	NUM	CD	NumType=Card	22	nummod	_	start_char=232|end_char=233
+22	years	year	NOUN	NNS	Number=Plur	23	obl:tmod	_	start_char=234|end_char=239
+23	old	old	ADJ	JJ	Degree=Pos	16	advcl	_	start_char=240|end_char=243
+24	.	.	PUNCT	.	_	7	punct	_	start_char=243|end_char=244
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=246|end_char=248
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=248|end_char=250
+3	tired	tired	ADJ	JJ	Degree=Pos	0	root	_	start_char=251|end_char=256
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=257|end_char=260
+5	delusional	delusional	ADJ	JJ	Degree=Pos	3	conj	_	start_char=261|end_char=271
+6	.	.	PUNCT	.	_	3	punct	_	start_char=271|end_char=272
+

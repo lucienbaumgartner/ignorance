@@ -1,0 +1,35 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	implication	implication	NOUN	NN	Number=Sing	3	nsubj	_	start_char=4|end_char=15
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=18
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=19|end_char=23
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=24|end_char=25
+6	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=26|end_char=28
+7	cheap	cheap	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=29|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=46
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=47|end_char=51
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=52|end_char=53
+12	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=54|end_char=56
+13	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	9	ccomp	_	start_char=57|end_char=63
+14	off	off	ADP	RP	_	13	compound:prt	_	start_char=64|end_char=67
+15	creepy	creepy	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=68|end_char=74
+16	.	.	PUNCT	.	_	3	punct	_	start_char=74|end_char=75
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=76|end_char=78
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=78|end_char=80
+3	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=81|end_char=85
+4	of	of	ADP	IN	_	7	case	_	start_char=86|end_char=88
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=89|end_char=90
+6	larger	large	ADJ	JJR	Degree=Cmp	7	amod	_	start_char=91|end_char=97
+7	bit	bit	NOUN	NN	Number=Sing	3	nmod	_	start_char=98|end_char=101
+8	about	about	SCONJ	IN	_	13	mark	_	start_char=102|end_char=107
+9	how	how	SCONJ	WRB	PronType=Int	13	mark	_	start_char=108|end_char=111
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=112|end_char=113
+11	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=113|end_char=115
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=116|end_char=117
+13	dunce	dunce	NOUN	NN	Number=Sing	7	acl	_	start_char=118|end_char=123
+14	about	about	SCONJ	IN	_	15	mark	_	start_char=124|end_char=129
+15	picking	pick	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=130|end_char=137
+16	dates	date	NOUN	NNS	Number=Plur	15	obj	_	start_char=138|end_char=143
+17	.	.	PUNCT	.	_	3	punct	_	start_char=143|end_char=144
+

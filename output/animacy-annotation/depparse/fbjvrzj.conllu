@@ -1,0 +1,22 @@
+1	Well	well	INTJ	UH	_	20	discourse	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+3	main	main	ADJ	JJ	Degree=Pos	4	amod	_	start_char=9|end_char=13
+4	one	one	NOUN	NN	Number=Sing	20	nsubj	_	start_char=14|end_char=17
+5	,	,	PUNCT	,	_	20	punct	_	start_char=17|end_char=18
+6	that	that	SCONJ	IN	_	17	mark	_	start_char=19|end_char=23
+7	most	most	ADJ	JJS	Degree=Sup	17	nsubj	_	start_char=24|end_char=28
+8	of	of	ADP	IN	_	16	case	_	start_char=29|end_char=31
+9	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=32|end_char=35
+10	youthful	youthful	ADJ	JJ	Degree=Pos	16	amod	_	start_char=36|end_char=44
+11	,	,	PUNCT	,	_	12	punct	_	start_char=44|end_char=45
+12	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=46|end_char=53
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=54|end_char=57
+14	undereducated	undereducated	ADJ	JJ	Degree=Pos	10	conj	_	start_char=58|end_char=71
+15	Communist	Communist	ADJ	JJ	Degree=Pos	16	amod	_	start_char=72|end_char=81
+16	idealists	Idealist	NOUN	NNS	Number=Plur	7	nmod	_	start_char=82|end_char=91
+17	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=92|end_char=98
+18	,	,	PUNCT	,	_	20	punct	_	start_char=98|end_char=99
+19	certainly	certainly	ADV	RB	_	20	advmod	_	start_char=100|end_char=109
+20	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=110|end_char=114
+21	.	.	PUNCT	.	_	20	punct	_	start_char=114|end_char=115
+

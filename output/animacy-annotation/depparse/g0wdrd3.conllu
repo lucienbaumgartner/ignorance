@@ -1,0 +1,66 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=4|end_char=7
+2	might	might	AUX	MD	VerbForm=Fin	6	aux	_	start_char=8|end_char=13
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=14|end_char=16
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=18
+5	bad	bad	ADJ	JJ	Degree=Pos	6	amod	_	start_char=19|end_char=22
+6	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=23|end_char=29
+7	because	because	SCONJ	IN	_	10	mark	_	start_char=30|end_char=37
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=38|end_char=41
+9	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=41|end_char=44
+10	rude	rude	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=45|end_char=49
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=50|end_char=53
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=54|end_char=62
+13	.	.	PUNCT	.	_	6	punct	_	start_char=62|end_char=63
+
+1	That	that	SCONJ	IN	_	4	mark	_	start_char=64|end_char=68
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=69|end_char=72
+3	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=72|end_char=75
+4	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	9	csubj	_	start_char=76|end_char=82
+5	so	so	ADV	RB	_	6	advmod	_	start_char=83|end_char=85
+6	defensive	defensive	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=86|end_char=95
+7	about	about	ADP	IN	_	8	case	_	start_char=96|end_char=101
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=102|end_char=104
+9	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=105|end_char=110
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=111|end_char=113
+11	think	think	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=114|end_char=119
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=120|end_char=124
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=125|end_char=128
+14	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=129|end_char=134
+15	so	so	ADV	RB	_	14	advmod	_	start_char=135|end_char=137
+16	too	too	ADV	RB	_	14	advmod	_	start_char=138|end_char=141
+17	.	.	PUNCT	.	_	9	punct	_	start_char=141|end_char=142
+
+1	Apart	apart	ADV	RB	_	0	root	_	start_char=143|end_char=148
+2	from	from	ADP	IN	_	7	mark	_	start_char=149|end_char=153
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=154|end_char=158
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=159|end_char=160
+5	ca	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=161|end_char=163
+6	n't	not	PART	RB	_	7	advmod	_	start_char=163|end_char=166
+7	make	make	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=167|end_char=171
+8	any	any	DET	DT	_	10	det	_	start_char=172|end_char=175
+9	more	more	ADJ	JJR	Degree=Cmp	10	amod	_	start_char=176|end_char=180
+10	inferences	inference	NOUN	NNS	Number=Plur	7	obj	_	start_char=181|end_char=191
+11	about	about	ADP	IN	_	12	case	_	start_char=192|end_char=197
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	nmod	_	start_char=198|end_char=201
+13	.	.	PUNCT	.	_	1	punct	_	start_char=201|end_char=202
+
+1	But	but	CCONJ	CC	_	12	cc	_	start_char=203|end_char=206
+2	calling	call	VERB	VBG	VerbForm=Ger	12	csubj	_	start_char=207|end_char=214
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=215|end_char=217
+4	"	"	PUNCT	``	_	6	punct	_	start_char=218|end_char=219
+5	free	free	ADJ	JJ	Degree=Pos	6	amod	_	start_char=219|end_char=223
+6	shit	shit	NOUN	NN	Number=Sing	2	xcomp	_	start_char=224|end_char=228
+7	"	"	PUNCT	''	_	6	punct	_	start_char=228|end_char=229
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=230|end_char=232
+9	just	just	ADV	RB	_	12	advmod	_	start_char=233|end_char=237
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=238|end_char=239
+11	smug	smug	ADJ	JJ	Degree=Pos	12	amod	_	start_char=240|end_char=244
+12	display	display	NOUN	NN	Number=Sing	0	root	_	start_char=245|end_char=252
+13	of	of	ADP	IN	_	15	case	_	start_char=253|end_char=255
+14	absolute	absolute	ADJ	JJ	Degree=Pos	15	amod	_	start_char=256|end_char=264
+15	ignorance	ignorance	NOUN	NN	Number=Sing	12	nmod	_	start_char=265|end_char=274
+16	.	.	PUNCT	.	_	12	punct	_	start_char=274|end_char=275
+

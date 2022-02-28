@@ -1,0 +1,23 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	to	to	PART	TO	_	4	mark	_	start_char=10|end_char=12
+4	want	want	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=17
+5	balance	balance	NOUN	NN	Number=Sing	4	obj	_	start_char=18|end_char=25
+6	to	to	PART	TO	_	7	mark	_	start_char=26|end_char=28
+7	keep	keep	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=29|end_char=33
+8	everyone	everyone	PRON	NN	Number=Sing	7	obj	_	start_char=34|end_char=42
+9	busy	busy	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=43|end_char=47
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=48|end_char=51
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=52|end_char=60
+12	of	of	SCONJ	IN	_	13	case	_	start_char=61|end_char=63
+13	what	what	PRON	WP	PronType=Int	11	obl	_	start_char=64|end_char=68
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=69|end_char=73
+15	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=73|end_char=76
+16	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	13	acl:relcl	_	start_char=77|end_char=82
+17	with	with	ADP	IN	_	20	case	_	start_char=83|end_char=87
+18	slaves	slave	NOUN	NNS	Number=Plur	20	compound	_	start_char=88|end_char=94
+19	building	building	NOUN	NN	Number=Sing	20	compound	_	start_char=95|end_char=103
+20	bridges	bridge	NOUN	NNS	Number=Plur	16	obl	_	start_char=104|end_char=111
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=112|end_char=115
+22	such	such	ADJ	JJ	Degree=Pos	20	conj	_	start_char=116|end_char=120
+

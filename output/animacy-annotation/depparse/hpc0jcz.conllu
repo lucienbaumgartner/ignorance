@@ -1,0 +1,34 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	PCT	PCT	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=2|end_char=5
+3	of	of	ADP	IN	_	4	case	_	start_char=6|end_char=8
+4	20/20/10/10	20/20/10/10	NUM	CD	NumType=Card	2	nmod	_	start_char=9|end_char=20
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=21|end_char=23
+6	not	not	PART	RB	_	8	advmod	_	start_char=24|end_char=27
+7	over	over	SCONJ	IN	_	8	mark	_	start_char=28|end_char=32
+8	using	use	VERB	VBG	VerbForm=Ger	0	root	_	start_char=33|end_char=38
+9	.	.	PUNCT	.	_	8	punct	_	start_char=38|end_char=39
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=40|end_char=42
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=43|end_char=46
+3	pCT	pct	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=47|end_char=50
+4	with	with	ADP	IN	_	6	case	_	start_char=51|end_char=55
+5	only	only	ADV	RB	_	6	advmod	_	start_char=56|end_char=60
+6	Dim	Dim	PROPN	NNP	Number=Sing	3	obl	_	start_char=61|end_char=64
+7	or	or	CCONJ	CC	_	8	cc	_	start_char=65|end_char=67
+8	I3C	I3C	PROPN	NNP	Number=Sing	6	conj	_	start_char=68|end_char=71
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=72|end_char=75
+10	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=75|end_char=78
+11	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=79|end_char=86
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=87|end_char=91
+13	body	body	NOUN	NN	Number=Sing	11	obj	_	start_char=92|end_char=96
+14	up	up	ADP	RP	_	11	compound:prt	_	start_char=97|end_char=99
+15	.	.	PUNCT	.	_	11	punct	_	start_char=99|end_char=100
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=101|end_char=105
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=105|end_char=107
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=108|end_char=118
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=119|end_char=127
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=128|end_char=131
+6	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	4	conj	_	start_char=132|end_char=142
+7	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+

@@ -1,0 +1,30 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	comment	comment	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=15
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=16|end_char=17
+5	waste	waste	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=23
+6	of	of	ADP	IN	_	7	case	_	start_char=24|end_char=26
+7	time	time	NOUN	NN	Number=Sing	5	nmod	_	start_char=27|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	energy	energy	NOUN	NN	Number=Sing	7	conj	_	start_char=36|end_char=42
+10	.	.	PUNCT	.	_	5	punct	_	start_char=42|end_char=43
+
+1	Parsing	parse	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=44|end_char=51
+2	grammar	grammar	NOUN	NN	Number=Sing	1	obj	_	start_char=52|end_char=59
+3	outside	outside	ADV	RB	Degree=Pos	1	advmod	_	start_char=60|end_char=67
+4	of	of	ADP	IN	_	7	case	_	start_char=68|end_char=70
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=71|end_char=73
+6	academic	academic	ADJ	JJ	Degree=Pos	7	amod	_	start_char=74|end_char=82
+7	setting	setting	NOUN	NN	Number=Sing	3	obl	_	start_char=83|end_char=90
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=91|end_char=93
+9	wholly	wholly	ADV	RB	Degree=Pos	10	advmod	_	start_char=94|end_char=100
+10	worthless	worthless	ADJ	JJ	Degree=Pos	0	root	_	start_char=101|end_char=110
+11	,	,	PUNCT	,	_	13	punct	_	start_char=110|end_char=111
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=112|end_char=115
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=116|end_char=124
+14	of	of	ADP	IN	_	15	case	_	start_char=125|end_char=127
+15	how	how	SCONJ	WRB	PronType=Int	13	obl	_	start_char=128|end_char=131
+16	language	language	NOUN	NN	Number=Sing	17	nsubj	_	start_char=132|end_char=140
+17	evolves	evolve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=141|end_char=148
+18	.	.	PUNCT	.	_	10	punct	_	start_char=148|end_char=149
+

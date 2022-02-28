@@ -1,0 +1,145 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=8|end_char=11
+4	must	must	AUX	MD	VerbForm=Fin	2	aux	_	start_char=12|end_char=16
+5	be	be	VERB	VB	VerbForm=Inf	2	cop	_	start_char=17|end_char=19
+6	.	.	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	Stop	stop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+2	brainwashing	brainwashing	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=26|end_char=38
+3	kids	kid	NOUN	NNS	Number=Plur	2	obj	_	start_char=39|end_char=43
+4	.	.	PUNCT	.	_	1	punct	_	start_char=43|end_char=44
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=45|end_char=46
+2	9	9	NUM	CD	NumType=Card	3	nummod	_	start_char=47|end_char=48
+3	year	year	NOUN	NN	Number=Sing	4	obl:npmod	_	start_char=49|end_char=53
+4	old	old	ADJ	JJ	Degree=Pos	5	amod	_	start_char=54|end_char=57
+5	boy	boy	NOUN	NN	Number=Sing	9	nsubj	_	start_char=58|end_char=61
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=62|end_char=64
+7	not	not	PART	RB	_	9	advmod	_	start_char=65|end_char=68
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=69|end_char=70
+9	woman	woman	NOUN	NN	Number=Sing	0	root	_	start_char=71|end_char=76
+10	.	.	PUNCT	.	_	9	punct	_	start_char=76|end_char=77
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=79|end_char=81
+2	what	what	PRON	WP	PronType=Int	1	obj	_	start_char=82|end_char=86
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=87|end_char=90
+4	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=91|end_char=95
+5	as	as	ADP	IN	_	7	case	_	start_char=96|end_char=98
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=99|end_char=101
+7	adult	adult	NOUN	NN	Number=Sing	4	obl	_	start_char=102|end_char=107
+8	.	.	PUNCT	.	_	1	punct	_	start_char=107|end_char=108
+
+1	Stop	stop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=110|end_char=114
+2	brainwashing	brainwashing	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=115|end_char=127
+3	kids	kid	NOUN	NNS	Number=Plur	2	obj	_	start_char=128|end_char=132
+4	.	.	PUNCT	.	_	1	punct	_	start_char=132|end_char=133
+
+1	Stop	stop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=134|end_char=138
+2	trying	try	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=139|end_char=145
+3	to	to	PART	TO	_	4	mark	_	start_char=146|end_char=148
+4	dress	dress	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=149|end_char=154
+5	young	young	ADJ	JJ	Degree=Pos	6	amod	_	start_char=155|end_char=160
+6	boys	boy	NOUN	NNS	Number=Plur	4	obj	_	start_char=161|end_char=165
+7	in	in	ADP	IN	_	10	case	_	start_char=166|end_char=168
+8	women	woman	NOUN	NNS	Number=Plur	10	nmod:poss	_	start_char=169|end_char=174
+9	's	's	PART	POS	_	8	case	_	start_char=174|end_char=176
+10	clothes	clothes	NOUN	NNS	Number=Plur	4	obl	_	start_char=177|end_char=184
+11	.	.	PUNCT	.	_	1	punct	_	start_char=184|end_char=185
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=187|end_char=190
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=190|end_char=193
+3	literally	literally	ADV	RB	Degree=Pos	4	advmod	_	start_char=194|end_char=203
+4	sexualizing	sexualize	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=204|end_char=215
+5	children	child	NOUN	NNS	Number=Plur	4	obj	_	start_char=216|end_char=224
+6	,	,	PUNCT	,	_	11	punct	_	start_char=224|end_char=225
+7	and	and	CCONJ	CC	_	11	cc	_	start_char=226|end_char=229
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=230|end_char=233
+9	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=233|end_char=236
+10	so	so	ADV	RB	_	11	advmod	_	start_char=237|end_char=239
+11	hateful	hateful	ADJ	JJ	Degree=Pos	4	conj	_	start_char=240|end_char=247
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=248|end_char=251
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=252|end_char=260
+14	,	,	PUNCT	,	_	19	punct	_	start_char=260|end_char=261
+15	that	that	SCONJ	IN	_	19	mark	_	start_char=262|end_char=266
+16	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	start_char=267|end_char=270
+17	ca	can	AUX	MD	VerbForm=Fin	19	aux	_	start_char=271|end_char=273
+18	n't	not	PART	RB	Polarity=Neg	19	advmod	_	start_char=273|end_char=276
+19	see	see	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=277|end_char=280
+20	that	that	PRON	DT	Number=Sing|PronType=Dem	19	obj	_	start_char=281|end_char=285
+21	.	.	PUNCT	.	_	4	punct	_	start_char=285|end_char=286
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=287|end_char=291
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=292|end_char=295
+3	try	try	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=296|end_char=299
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=300|end_char=303
+5	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=304|end_char=308
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=309|end_char=311
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=312|end_char=313
+8	"	"	PUNCT	``	_	9	punct	_	start_char=314|end_char=315
+9	pedo	pedo	NOUN	NN	Number=Sing	5	obj	_	start_char=315|end_char=319
+10	"	"	PUNCT	''	_	9	punct	_	start_char=319|end_char=320
+11	.	.	PUNCT	.	_	3	punct	_	start_char=320|end_char=321
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=322|end_char=325
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=325|end_char=328
+3	complete	complete	ADJ	JJ	Degree=Pos	4	amod	_	start_char=329|end_char=337
+4	filth	filth	NOUN	NN	Number=Sing	0	root	_	start_char=338|end_char=343
+5	.	.	PUNCT	.	_	4	punct	_	start_char=343|end_char=344
+
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=346|end_char=350
+2	commenting	comment	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=351|end_char=361
+3	,	,	PUNCT	,	_	4	punct	_	start_char=361|end_char=362
+4	STOP	stop	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=363|end_char=367
+5	BRAINWASHING	braindashing	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=368|end_char=380
+6	CHILDREN	children	NOUN	NNS	Number=Plur	4	obj	_	start_char=381|end_char=389
+7	.	.	PUNCT	.	_	1	punct	_	start_char=389|end_char=390
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=392|end_char=393
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=394|end_char=398
+3	nothing	nothing	PRON	NN	Number=Sing	2	obj	_	start_char=399|end_char=406
+4	more	more	ADJ	JJR	Degree=Cmp	3	amod	_	start_char=407|end_char=411
+5	to	to	PART	TO	_	6	mark	_	start_char=412|end_char=414
+6	say	say	VERB	VB	VerbForm=Inf	3	acl	_	start_char=415|end_char=418
+7	to	to	ADP	IN	_	8	case	_	start_char=419|end_char=421
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=422|end_char=425
+9	,	,	PUNCT	,	_	11	punct	_	start_char=425|end_char=426
+10	or	or	CCONJ	CC	_	11	cc	_	start_char=427|end_char=429
+11	anyone	anyone	PRON	NN	Number=Sing	3	conj	_	start_char=430|end_char=436
+12	else	else	ADJ	JJ	Degree=Pos	11	amod	_	start_char=437|end_char=441
+13	like	like	ADP	IN	_	14	case	_	start_char=442|end_char=446
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	nmod	_	start_char=447|end_char=450
+15	.	.	PUNCT	.	_	2	punct	_	start_char=450|end_char=451
+
+1	Thumbs	thumb	NOUN	NNS	Number=Plur	0	root	_	start_char=452|end_char=458
+2	down	down	ADV	RB	_	1	advmod	_	start_char=459|end_char=463
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=464|end_char=467
+4	report	report	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=468|end_char=474
+5	all	all	DET	DT	_	4	obj	_	start_char=475|end_char=478
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=479|end_char=482
+7	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=483|end_char=487
+8	,	,	PUNCT	,	_	12	punct	_	start_char=487|end_char=488
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=490|end_char=492
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=493|end_char=497
+11	n't	not	PART	RB	_	12	advmod	_	start_char=497|end_char=500
+12	work	work	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=501|end_char=505
+13	in	in	ADP	IN	_	15	case	_	start_char=506|end_char=508
+14	real	real	ADJ	JJ	Degree=Pos	15	amod	_	start_char=509|end_char=513
+15	life	life	NOUN	NN	Number=Sing	12	obl	_	start_char=514|end_char=518
+16	,	,	PUNCT	,	_	20	punct	_	start_char=518|end_char=519
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=520|end_char=522
+18	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=523|end_char=527
+19	n't	not	PART	RB	_	20	advmod	_	start_char=527|end_char=530
+20	hurt	hurt	VERB	VB	VerbForm=Inf	12	parataxis	_	start_char=531|end_char=535
+21	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=536|end_char=538
+22	feelings	feeling	NOUN	NNS	Number=Plur	20	obj	_	start_char=539|end_char=547
+23	.	.	PUNCT	.	_	1	punct	_	start_char=547|end_char=548
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=549|end_char=552
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=552|end_char=555
+3	not	not	PART	RB	_	4	advmod	_	start_char=556|end_char=559
+4	worth	worth	ADJ	JJ	Degree=Pos	0	root	_	start_char=560|end_char=565
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=566|end_char=568
+6	time	time	NOUN	NN	Number=Sing	4	obj	_	start_char=569|end_char=573
+7	.	.	PUNCT	.	_	4	punct	_	start_char=573|end_char=574
+

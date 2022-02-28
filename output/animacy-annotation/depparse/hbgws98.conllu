@@ -1,0 +1,62 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=0|end_char=4
+2	labor	labor	NOUN	NN	Number=Sing	3	compound	_	start_char=5|end_char=10
+3	shortage	shortage	NOUN	NN	Number=Sing	6	nsubj	_	start_char=11|end_char=19
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=20|end_char=22
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=23|end_char=26
+6	product	product	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=34
+7	of	of	ADP	IN	_	12	case	_	start_char=35|end_char=37
+8	extensive	extensive	ADJ	JJ	Degree=Pos	12	amod	_	start_char=38|end_char=47
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=48|end_char=51
+10	overreaching	overreaching	ADJ	JJ	Degree=Pos	8	conj	_	start_char=52|end_char=64
+11	government	government	NOUN	NN	Number=Sing	12	compound	_	start_char=65|end_char=75
+12	bribes	bribe	NOUN	NNS	Number=Plur	6	nmod	_	start_char=76|end_char=82
+13	.	.	PUNCT	.	_	6	punct	_	start_char=82|end_char=83
+
+1	Not	not	ADV	RB	_	3	advmod	_	start_char=84|end_char=87
+2	any	any	DET	DT	_	3	det	_	start_char=88|end_char=91
+3	form	form	NOUN	NN	Number=Sing	0	root	_	start_char=92|end_char=96
+4	of	of	ADP	IN	_	6	case	_	start_char=97|end_char=99
+5	corporate	corporate	ADJ	JJ	Degree=Pos	6	amod	_	start_char=100|end_char=109
+6	awakening	awakening	NOUN	NN	Number=Sing	3	nmod	_	start_char=110|end_char=119
+7	to	to	PART	TO	_	8	mark	_	start_char=120|end_char=122
+8	pay	pay	VERB	VB	VerbForm=Inf	3	acl	_	start_char=123|end_char=126
+9	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=127|end_char=130
+10	employees	employee	NOUN	NNS	Number=Plur	8	obj	_	start_char=131|end_char=140
+11	better	well	ADV	RBR	Degree=Cmp	8	advmod	_	start_char=141|end_char=147
+12	.	.	PUNCT	.	_	3	punct	_	start_char=147|end_char=148
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=149|end_char=153
+2	short	short	ADJ	JJ	Degree=Pos	3	amod	_	start_char=154|end_char=159
+3	sighted	sight	ADJ	JJ	Degree=Pos	0	root	_	start_char=160|end_char=167
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=168|end_char=171
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=172|end_char=180
+6	of	of	ADP	IN	_	8	case	_	start_char=181|end_char=183
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=184|end_char=187
+8	world	world	NOUN	NN	Number=Sing	3	obl	_	start_char=188|end_char=193
+9	.	.	PUNCT	.	_	3	punct	_	start_char=193|end_char=194
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=197|end_char=200
+2	yeah	yeah	INTJ	UH	_	0	root	_	start_char=201|end_char=205
+3	.	.	PUNCT	.	_	2	punct	_	start_char=205|end_char=206
+
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=207|end_char=209
+2	ahead	ahead	ADV	RB	_	1	advmod	_	start_char=210|end_char=215
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=216|end_char=219
+4	demand	demand	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=220|end_char=226
+5	to	to	PART	TO	_	6	mark	_	start_char=227|end_char=229
+6	have	have	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=230|end_char=234
+7	every	every	DET	DT	_	8	det	_	start_char=235|end_char=240
+8	Saturday	Saturday	PROPN	NNP	Number=Sing	6	obj	_	start_char=241|end_char=249
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=250|end_char=253
+10	Sunday	Sunday	PROPN	NNP	Number=Sing	8	conj	_	start_char=254|end_char=260
+11	off	off	ADP	RP	_	6	compound:prt	_	start_char=261|end_char=264
+12	.	.	PUNCT	.	_	1	punct	_	start_char=264|end_char=265
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=266|end_char=269
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=270|end_char=272
+3	know	know	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=273|end_char=277
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=278|end_char=281
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=282|end_char=286
+6	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=287|end_char=291
+7	.	.	PUNCT	.	_	1	punct	_	start_char=291|end_char=292
+

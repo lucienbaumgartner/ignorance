@@ -1,0 +1,23 @@
+1	Denying	deny	VERB	VBG	VerbForm=Ger	5	csubj	_	start_char=0|end_char=7
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=8|end_char=11
+3	climate	climate	NOUN	NN	Number=Sing	1	obj	_	start_char=12|end_char=19
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=20|end_char=22
+5	changing	change	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=23|end_char=31
+6	in	in	ADP	IN	_	7	case	_	start_char=32|end_char=34
+7	2021	2021	NUM	CD	NumType=Card	5	obl	_	start_char=35|end_char=39
+8	?	?	PUNCT	.	_	5	punct	_	start_char=39|end_char=40
+
+1	Bold	bold	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=45
+2	.	.	PUNCT	.	_	1	punct	_	start_char=45|end_char=46
+
+1	Stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=53
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=54|end_char=57
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=58|end_char=66
+4	of	of	ADP	IN	_	6	case	_	start_char=67|end_char=69
+5	unarguable	unarguable	ADJ	JJ	Degree=Pos	6	amod	_	start_char=70|end_char=80
+6	facts	fact	NOUN	NNS	Number=Plur	1	obl	_	start_char=81|end_char=86
+7	,	,	PUNCT	,	_	9	punct	_	start_char=86|end_char=87
+8	But	but	CCONJ	CC	_	9	cc	_	start_char=88|end_char=91
+9	bold	bold	ADJ	JJ	Degree=Pos	1	conj	_	start_char=92|end_char=96
+10	nonetheless	nonetheless	ADV	RB	_	9	advmod	_	start_char=97|end_char=108
+

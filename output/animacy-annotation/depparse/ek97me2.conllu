@@ -1,0 +1,37 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=7|end_char=10
+4	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=14
+5	saying	say	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=15|end_char=21
+6	that	that	SCONJ	IN	_	12	mark	_	start_char=22|end_char=26
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=27|end_char=30
+8	Jackets	Jackets	PROPN	NNPS	Number=Plur	12	nsubj	_	start_char=31|end_char=38
+9	can	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=39|end_char=42
+10	only	only	ADV	RB	_	12	advmod	_	start_char=43|end_char=47
+11	"	"	PUNCT	``	_	12	punct	_	start_char=48|end_char=49
+12	handle	handle	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=49|end_char=55
+13	"	"	PUNCT	''	_	12	punct	_	start_char=55|end_char=56
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=57|end_char=60
+15	caps	cap	NOUN	NNS	Number=Plur	12	obj	_	start_char=61|end_char=65
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=66|end_char=69
+17	when	when	SCONJ	WRB	PronType=Int	21	mark	_	start_char=70|end_char=74
+18	Grubbauer	Grubbauer	PROPN	NNP	Number=Sing	21	nsubj	_	start_char=75|end_char=84
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	_	start_char=85|end_char=88
+20	in	in	ADP	IN	_	21	case	_	start_char=89|end_char=91
+21	net	net	NOUN	NN	Number=Sing	16	advcl	_	start_char=92|end_char=95
+22	.	.	PUNCT	.	_	4	punct	_	start_char=95|end_char=96
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=97|end_char=98
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=98|end_char=100
+3	merely	merely	ADV	RB	_	4	advmod	_	start_char=101|end_char=107
+4	pointing	point	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=108|end_char=116
+5	out	out	ADP	RP	_	4	compound:prt	_	start_char=117|end_char=120
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=121|end_char=124
+7	inaccurate	inaccurate	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=125|end_char=135
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=136|end_char=139
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=140|end_char=148
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=149|end_char=153
+11	statement	statement	NOUN	NN	Number=Sing	12	nsubj	_	start_char=154|end_char=163
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=164|end_char=166
+13	.	.	PUNCT	.	_	4	punct	_	start_char=166|end_char=167
+

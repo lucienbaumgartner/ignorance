@@ -1,0 +1,14 @@
+1	Most	most	ADV	RBS	_	2	advmod	_	start_char=0|end_char=4
+2	likely	likely	ADJ	JJ	Degree=Pos	5	advmod	_	start_char=5|end_char=11
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=12|end_char=16
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=17|end_char=20
+5	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=39
+8	of	of	ADP	IN	_	12	case	_	start_char=40|end_char=42
+9	life	life	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=43|end_char=47
+10	's	's	PART	POS	_	9	case	_	start_char=47|end_char=49
+11	financial	financial	ADJ	JJ	Degree=Pos	12	amod	_	start_char=50|end_char=59
+12	expenses	expense	NOUN	NNS	Number=Plur	7	obl	_	start_char=60|end_char=68
+13	.	.	PUNCT	.	_	5	punct	_	start_char=68|end_char=69
+

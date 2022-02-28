@@ -1,0 +1,18 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	because	because	ADP	IN	_	0	root	_	start_char=5|end_char=12
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=13|end_char=16
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=17|end_char=20
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=29
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=30|end_char=33
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=34|end_char=41
+6	of	of	ADP	IN	_	8	case	_	start_char=42|end_char=44
+7	geopolitical	geopolitical	ADJ	JJ	Degree=Pos	8	amod	_	start_char=45|end_char=57
+8	realities	reality	NOUN	NNS	Number=Plur	5	obl	_	start_char=58|end_char=67
+9	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=68|end_char=72
+10	not	not	PART	RB	_	11	advmod	_	start_char=73|end_char=76
+11	make	make	VERB	VB	VerbForm=Inf	3	conj	_	start_char=77|end_char=81
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	start_char=82|end_char=86
+13	conspiracies	conspiracy	NOUN	NNS	Number=Plur	11	obj	_	start_char=87|end_char=99
+14	.	.	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+

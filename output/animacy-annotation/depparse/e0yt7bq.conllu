@@ -1,0 +1,40 @@
+1	Yup	yup	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	“	''	PUNCT	``	_	13	punct	_	start_char=7|end_char=8
+2	And	and	CCONJ	CC	_	13	cc	_	start_char=8|end_char=11
+3	as	as	SCONJ	IN	_	6	mark	_	start_char=12|end_char=14
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=15|end_char=16
+5	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=16|end_char=19
+6	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	start_char=20|end_char=29
+7	,	,	PUNCT	,	_	13	punct	_	start_char=29|end_char=30
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=31|end_char=33
+9	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=33|end_char=36
+10	all	all	ADV	RB	_	13	advmod	_	start_char=37|end_char=40
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	cop	_	start_char=41|end_char=45
+12	quite	quite	ADV	RB	_	13	advmod	_	start_char=46|end_char=51
+13	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=52|end_char=59
+14	to	to	PART	TO	_	15	mark	_	start_char=60|end_char=62
+15	demean	demean	VERB	VB	VerbForm=Inf	13	acl	_	start_char=63|end_char=69
+16	government	government	NOUN	NN	Number=Sing	15	obj	_	start_char=70|end_char=80
+17	,	,	PUNCT	,	_	18	punct	_	start_char=80|end_char=81
+18	drop	drop	VERB	VB	VerbForm=Inf	15	conj	_	start_char=82|end_char=86
+19	civics	civic	NOUN	NNS	Number=Plur	18	obj	_	start_char=87|end_char=93
+20	and	and	CCONJ	CC	_	23	cc	_	start_char=94|end_char=97
+21	in	in	ADP	IN	_	22	case	_	start_char=98|end_char=100
+22	general	general	ADJ	JJ	Degree=Pos	23	obl	_	start_char=101|end_char=108
+23	conspire	conspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	conj	_	start_char=109|end_char=117
+24	to	to	PART	TO	_	25	mark	_	start_char=118|end_char=120
+25	produce	produce	VERB	VB	VerbForm=Inf	23	xcomp	_	start_char=121|end_char=128
+26	an	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	start_char=129|end_char=131
+27	unaware	unaware	ADJ	JJ	Degree=Pos	30	amod	_	start_char=132|end_char=139
+28	and	and	CCONJ	CC	_	29	cc	_	start_char=140|end_char=143
+29	compliant	compliant	ADJ	JJ	Degree=Pos	27	conj	_	start_char=144|end_char=153
+30	citizenry	citizenry	NOUN	NN	Number=Sing	25	obj	_	start_char=154|end_char=163
+31	...	...	PUNCT	.	_	13	punct	_	start_char=163|end_char=166
+32	”	''	PUNCT	''	_	13	punct	_	start_char=166|end_char=167
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=168|end_char=169
+2	Skippy	Skippy	PROPN	NNP	Number=Sing	0	root	_	start_char=169|end_char=175
+3	Podesta	Podesta	PROPN	NNP	Number=Sing	2	flat	_	start_char=176|end_char=183
+

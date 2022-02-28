@@ -1,0 +1,37 @@
+1	Well	well	INTJ	UH	_	9	discourse	_	start_char=0|end_char=4
+2	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=5|end_char=10
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	start_char=11|end_char=14
+4	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=15|end_char=21
+5	in	in	ADP	IN	_	6	case	_	start_char=22|end_char=24
+6	particular	particular	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=25|end_char=35
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=36|end_char=39
+8	from	from	ADP	IN	_	9	case	_	start_char=40|end_char=44
+9	Iceland	Iceland	PROPN	NNP	Number=Sing	0	root	_	start_char=45|end_char=52
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=53|end_char=56
+11	London	London	PROPN	NNP	Number=Sing	9	conj	_	start_char=57|end_char=63
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=64|end_char=67
+13	travel	travel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	conj	_	start_char=68|end_char=74
+14	around	around	ADV	RB	_	13	advmod	_	start_char=75|end_char=81
+15	internationally	internationally	ADV	RB	_	13	advmod	_	start_char=82|end_char=97
+16	.	.	PUNCT	.	_	9	punct	_	start_char=97|end_char=98
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=99|end_char=103
+2	however	however	ADV	RB	_	3	advmod	_	start_char=104|end_char=111
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=112|end_char=116
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=117|end_char=118
+5	following	follow	NOUN	NN	Number=Sing	3	obj	_	start_char=119|end_char=128
+6	of	of	ADP	IN	_	7	case	_	start_char=129|end_char=131
+7	murders	murder	NOUN	NNS	Number=Plur	5	nmod	_	start_char=132|end_char=139
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=140|end_char=143
+9	rapist	rapist	NOUN	NN	Number=Sing	7	conj	_	start_char=144|end_char=150
+10	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=151|end_char=155
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=156|end_char=159
+12	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	7	acl:relcl	_	start_char=160|end_char=166
+13	to	to	PART	TO	_	14	mark	_	start_char=167|end_char=169
+14	make	make	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=170|end_char=174
+15	society	society	NOUN	NN	Number=Sing	14	obj	_	start_char=175|end_char=182
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=183|end_char=191
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=192|end_char=195
+18	extinct	extinct	ADJ	JJ	Degree=Pos	16	conj	_	start_char=196|end_char=203
+19	…	…	PUNCT	.	_	3	punct	_	start_char=203|end_char=204
+

@@ -1,0 +1,50 @@
+1	Stands	stand	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=0|end_char=6
+2	still	still	ADV	RB	_	3	advmod	_	start_char=7|end_char=12
+3	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=18
+4	in	in	ADP	IN	_	6	case	_	start_char=19|end_char=21
+5	stopped	stop	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=22|end_char=29
+6	time	time	NOUN	NN	Number=Sing	3	obl	_	start_char=30|end_char=34
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=35|end_char=39
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=40|end_char=43
+9	there	there	ADV	RB	PronType=Dem	6	acl:relcl	_	start_char=44|end_char=49
+10	.	.	PUNCT	.	_	3	punct	_	start_char=49|end_char=50
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=51|end_char=55
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=56|end_char=63
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=64|end_char=67
+4	unable	unable	ADJ	JJ	Degree=Pos	2	conj	_	start_char=68|end_char=74
+5	to	to	PART	TO	_	6	mark	_	start_char=75|end_char=77
+6	move	move	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=78|end_char=82
+7	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	Araki	Araki	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=84|end_char=89
+2	never	never	ADV	RB	_	3	advmod	_	start_char=90|end_char=95
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=96|end_char=100
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=101|end_char=103
+5	"	"	PUNCT	``	_	7	punct	_	start_char=104|end_char=105
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=105|end_char=106
+7	stamp	stamp	NOUN	NN	Number=Sing	3	obj	_	start_char=107|end_char=112
+8	of	of	ADP	IN	_	9	case	_	start_char=113|end_char=115
+9	approval	approval	NOUN	NN	Number=Sing	7	nmod	_	start_char=116|end_char=124
+10	for	for	ADP	IN	_	12	case	_	start_char=125|end_char=128
+11	official	official	ADJ	JJ	Degree=Pos	12	amod	_	start_char=129|end_char=137
+12	jojo	jojo	NOUN	NN	Number=Sing	9	nmod	_	start_char=138|end_char=142
+13	"	"	PUNCT	''	_	7	punct	_	start_char=142|end_char=143
+14	.	.	PUNCT	.	_	3	punct	_	start_char=143|end_char=144
+
+1	GER	GER	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=145|end_char=148
+2	also	also	ADV	RB	_	3	advmod	_	start_char=149|end_char=153
+3	acts	act	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=154|end_char=158
+4	on	on	ADP	IN	_	6	case	_	start_char=159|end_char=161
+5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=162|end_char=165
+6	own	own	ADJ	JJ	Degree=Pos	3	obl	_	start_char=166|end_char=169
+7	so	so	ADV	RB	_	10	mark	_	start_char=170|end_char=172
+8	Giorno	Giorno	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=173|end_char=179
+9	wouldnt	wouldnt	AUX	MD	VerbForm=Fin	10	aux	_	start_char=180|end_char=187
+10	need	need	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=188|end_char=192
+11	to	to	PART	TO	_	13	mark	_	start_char=193|end_char=195
+12	have	have	AUX	VB	VerbForm=Inf	13	aux	_	start_char=196|end_char=200
+13	summoned	summon	VERB	VBN	Tense=Past|VerbForm=Part	10	xcomp	_	start_char=201|end_char=209
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=210|end_char=212
+15	.	.	PUNCT	.	_	3	punct	_	start_char=212|end_char=213
+

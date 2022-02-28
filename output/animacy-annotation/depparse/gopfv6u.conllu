@@ -1,0 +1,33 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	distasteful	distasteful	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=36|end_char=40
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=41|end_char=43
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=43|end_char=45
+10	hilarious	hilarious	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=46|end_char=55
+11	.	.	PUNCT	.	_	4	punct	_	start_char=55|end_char=56
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=57|end_char=59
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=59|end_char=61
+3	like	like	ADP	IN	_	12	case	_	start_char=62|end_char=66
+4	straight	straight	ADV	RB	_	12	advmod	_	start_char=67|end_char=75
+5	out	out	ADP	IN	_	12	case	_	start_char=76|end_char=79
+6	of	of	ADP	IN	_	12	case	_	start_char=80|end_char=82
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=83|end_char=84
+8	comedian	comedian	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=85|end_char=93
+9	's	's	PART	POS	_	8	case	_	start_char=93|end_char=95
+10	stand	stand	NOUN	NN	Number=Sing	12	compound	_	start_char=96|end_char=101
+11	-	-	PUNCT	HYPH	_	12	punct	_	start_char=101|end_char=102
+12	up	up	NOUN	NN	Number=Sing	0	root	_	start_char=102|end_char=104
+13	or	or	CCONJ	CC	_	15	cc	_	start_char=105|end_char=107
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=108|end_char=109
+15	skit	skit	NOUN	NN	Number=Sing	12	conj	_	start_char=110|end_char=114
+16	while	while	SCONJ	IN	_	19	mark	_	start_char=115|end_char=120
+17	being	be	AUX	VBG	VerbForm=Ger	19	cop	_	start_char=121|end_char=126
+18	completely	completely	ADV	RB	_	19	advmod	_	start_char=127|end_char=137
+19	serious	serious	ADJ	JJ	Degree=Pos	12	advcl	_	start_char=138|end_char=145
+20	.	.	PUNCT	.	_	12	punct	_	start_char=145|end_char=146
+

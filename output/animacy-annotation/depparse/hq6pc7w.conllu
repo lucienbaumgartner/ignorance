@@ -1,0 +1,69 @@
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	riddance	riddance	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=13
+3	.	.	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=15|end_char=16
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=16|end_char=18
+3	happy	happy	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=24
+4	to	to	PART	TO	_	5	mark	_	start_char=25|end_char=27
+5	read	read	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=28|end_char=32
+6	all	all	DET	PDT	_	9	det:predet	_	start_char=33|end_char=36
+7	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=37|end_char=42
+8	vaccine	vaccine	NOUN	NN	Number=Sing	9	compound	_	start_char=43|end_char=50
+9	deniers	denier	NOUN	NNS	Number=Plur	5	obj	_	start_char=51|end_char=58
+10	dieing	diee	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=59|end_char=65
+11	off	off	ADP	RP	_	10	compound:prt	_	start_char=66|end_char=69
+12	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	Hopefully	hopefully	ADV	RB	_	4	advmod	_	start_char=71|end_char=80
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=81|end_char=85
+3	all	all	DET	DT	_	2	det	_	start_char=86|end_char=89
+4	die	die	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=90|end_char=93
+5	off	off	ADP	RP	_	4	compound:prt	_	start_char=94|end_char=97
+6	in	in	ADP	IN	_	8	case	_	start_char=98|end_char=100
+7	extreme	extreme	ADJ	JJ	Degree=Pos	8	amod	_	start_char=101|end_char=108
+8	suffering	suffering	NOUN	NN	Number=Sing	4	obl	_	start_char=109|end_char=118
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=119|end_char=122
+10	pain	pain	NOUN	NN	Number=Sing	8	conj	_	start_char=123|end_char=127
+11	.	.	PUNCT	.	_	4	punct	_	start_char=127|end_char=128
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=130|end_char=134
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	start_char=135|end_char=139
+3	.	.	PUNCT	.	_	1	punct	_	start_char=139|end_char=140
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=143|end_char=146
+2	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=147|end_char=150
+3	willful	willful	ADJ	JJ	Degree=Pos	8	amod	_	start_char=151|end_char=158
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=159|end_char=167
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=168|end_char=171
+6	pridefully	pridefully	ADV	RB	_	7	advmod	_	start_char=172|end_char=182
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=183|end_char=189
+8	die	die	VERB	VB	VerbForm=Fin	1	obj	_	start_char=190|end_char=193
+9	in	in	ADP	IN	_	11	case	_	start_char=194|end_char=196
+10	unending	unending	ADJ	JJ	Degree=Pos	11	amod	_	start_char=197|end_char=205
+11	droves	drove	NOUN	NNS	Number=Plur	8	nmod	_	start_char=206|end_char=212
+12	.	.	PUNCT	.	_	1	punct	_	start_char=212|end_char=213
+
+1	Make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=214|end_char=218
+2	room	room	NOUN	NN	Number=Sing	1	obj	_	start_char=219|end_char=223
+3	for	for	ADP	IN	_	4	case	_	start_char=224|end_char=227
+4	people	people	NOUN	NNS	Number=Plur	2	nmod	_	start_char=228|end_char=234
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=235|end_char=238
+6	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=239|end_char=243
+7	about	about	ADP	IN	_	9	case	_	start_char=244|end_char=249
+8	public	public	ADJ	JJ	Degree=Pos	9	amod	_	start_char=250|end_char=256
+9	health	health	NOUN	NN	Number=Sing	6	obl	_	start_char=257|end_char=263
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=264|end_char=267
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=268|end_char=271
+12	betterment	betterment	NOUN	NN	Number=Sing	9	conj	_	start_char=272|end_char=282
+13	of	of	ADP	IN	_	14	case	_	start_char=283|end_char=285
+14	society	society	NOUN	NN	Number=Sing	12	nmod	_	start_char=286|end_char=293
+15	to	to	PART	TO	_	16	mark	_	start_char=294|end_char=296
+16	thrive	thrive	VERB	VB	VerbForm=Inf	12	acl	_	start_char=297|end_char=303
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=304|end_char=307
+18	develop	develop	VERB	VB	VerbForm=Inf	16	conj	_	start_char=308|end_char=315
+19	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=316|end_char=317
+20	better	good	ADJ	JJR	Degree=Cmp	21	amod	_	start_char=318|end_char=324
+21	world	world	NOUN	NN	Number=Sing	18	obj	_	start_char=325|end_char=330
+22	.	.	PUNCT	.	_	1	punct	_	start_char=330|end_char=331
+

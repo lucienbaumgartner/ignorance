@@ -1,0 +1,51 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+5	creeps	creep	NOUN	NNS	Number=Plur	6	compound	_	start_char=17|end_char=23
+6	emails	email	NOUN	NNS	Number=Plur	3	obj	_	start_char=24|end_char=30
+7	?	?	PUNCT	.	_	3	punct	_	start_char=30|end_char=31
+
+1	Anything	anything	PRON	NN	Number=Sing	9	nsubj	_	start_char=33|end_char=41
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=42|end_char=44
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=45|end_char=49
+4	to	to	ADP	IN	_	6	case	_	start_char=50|end_char=52
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=53|end_char=56
+6	public	public	NOUN	NN	Number=Sing	3	obl	_	start_char=57|end_char=63
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=64|end_char=66
+8	to	to	PART	TO	_	9	mark	_	start_char=67|end_char=69
+9	keep	keep	VERB	VB	VerbForm=Inf	0	root	_	start_char=70|end_char=74
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	obj	_	start_char=75|end_char=77
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=78|end_char=85
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=86|end_char=89
+13	compliant	compliant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=90|end_char=99
+14	.	.	PUNCT	.	_	9	punct	_	start_char=99|end_char=100
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=102|end_char=104
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=105|end_char=107
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=108|end_char=109
+4	creep	creep	NOUN	NN	Number=Sing	0	root	_	start_char=110|end_char=115
+5	.	.	PUNCT	.	_	4	punct	_	start_char=115|end_char=116
+
+1	All	all	DET	DT	_	2	det	_	start_char=117|end_char=120
+2	lies	lie	NOUN	NNS	Number=Plur	0	root	_	start_char=121|end_char=125
+3	.	.	PUNCT	.	_	2	punct	_	start_char=125|end_char=126
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=128|end_char=132
+2	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=133|end_char=137
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	start_char=138|end_char=140
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=141|end_char=148
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=149|end_char=152
+6	compliant	compliant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=153|end_char=162
+7	so	so	ADV	RB	_	10	mark	_	start_char=163|end_char=165
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=166|end_char=170
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=171|end_char=174
+10	fuck	fuck	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=175|end_char=179
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=180|end_char=183
+12	murder	murder	VERB	VB	VerbForm=Inf	10	conj	_	start_char=184|end_char=190
+13	kids	kid	NOUN	NNS	Number=Plur	12	obj	_	start_char=191|end_char=195
+14	in	in	ADP	IN	_	16	case	_	start_char=196|end_char=198
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=199|end_char=202
+16	shadows	shadow	NOUN	NNS	Number=Plur	12	obl	_	start_char=203|end_char=210
+17	.	.	PUNCT	.	_	2	punct	_	start_char=210|end_char=211
+

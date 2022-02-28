@@ -1,0 +1,27 @@
+1	What	what	PRON	WP	PronType=Int	4	nsubj	_	start_char=0|end_char=4
+2	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=7
+3	absolute	absolute	ADJ	JJ	Degree=Pos	4	amod	_	start_char=8|end_char=16
+4	legend	legend	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=23
+5	of	of	ADP	IN	_	7	case	_	start_char=24|end_char=26
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=27|end_char=28
+7	woman	woman	NOUN	NN	Number=Sing	4	nmod	_	start_char=29|end_char=34
+8	.	.	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+
+1	Completely	completely	ADV	RB	_	2	advmod	_	start_char=36|end_char=46
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=54
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=55|end_char=58
+4	indifferent	indifferent	ADJ	JJ	Degree=Pos	2	conj	_	start_char=59|end_char=70
+5	to	to	ADP	IN	_	7	case	_	start_char=71|end_char=73
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=74|end_char=77
+7	world	world	NOUN	NN	Number=Sing	4	obl	_	start_char=78|end_char=83
+8	around	around	ADP	IN	_	9	case	_	start_char=84|end_char=90
+9	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	start_char=91|end_char=94
+10	.	.	PUNCT	.	_	2	punct	_	start_char=94|end_char=95
+
+1	Bless	bless	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=96|end_char=101
+2	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=102|end_char=105
+3	odd	odd	ADJ	JJ	Degree=Pos	5	amod	_	start_char=106|end_char=109
+4	little	little	ADJ	JJ	Degree=Pos	5	amod	_	start_char=110|end_char=116
+5	soul	soul	NOUN	NN	Number=Sing	1	obj	_	start_char=117|end_char=121
+6	!	!	PUNCT	.	_	1	punct	_	start_char=121|end_char=122
+

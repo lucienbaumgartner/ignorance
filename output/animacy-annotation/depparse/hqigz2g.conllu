@@ -1,0 +1,54 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=0|end_char=1
+2	good	good	ADJ	JJ	Degree=Pos	3	amod	_	start_char=2|end_char=6
+3	amount	amount	NOUN	NN	Number=Sing	11	nsubj	_	start_char=7|end_char=13
+4	of	of	ADP	IN	_	6	case	_	start_char=14|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	comments	comment	NOUN	NNS	Number=Plur	3	nmod	_	start_char=21|end_char=29
+7	on	on	ADP	IN	_	9	case	_	start_char=30|end_char=32
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=33|end_char=37
+9	thread	thread	NOUN	NN	Number=Sing	6	nmod	_	start_char=38|end_char=44
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=45|end_char=48
+11	dehumanizing	dehumanizing	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=61
+12	.	.	PUNCT	.	_	11	punct	_	start_char=61|end_char=62
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=63|end_char=66
+2	person	person	NOUN	NN	Number=Sing	9	nsubj	_	start_char=67|end_char=73
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=74|end_char=77
+4	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=78|end_char=82
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=83|end_char=86
+6	twitter	twitter	NOUN	NN	Number=Sing	7	compound	_	start_char=87|end_char=94
+7	post	post	NOUN	NN	Number=Sing	4	obj	_	start_char=95|end_char=99
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=100|end_char=102
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=103|end_char=111
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=112|end_char=115
+11	trash	trash	NOUN	NN	Number=Sing	9	conj	_	start_char=116|end_char=121
+12	.	.	PUNCT	.	_	9	punct	_	start_char=121|end_char=122
+
+1	What	what	PRON	WP	PronType=Int	7	nsubj	_	start_char=123|end_char=127
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=128|end_char=130
+3	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=131|end_char=135
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=136|end_char=138
+5	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=138|end_char=141
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=142|end_char=143
+7	reflection	reflection	NOUN	NN	Number=Sing	0	root	_	start_char=144|end_char=154
+8	of	of	ADP	IN	_	10	case	_	start_char=155|end_char=157
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=158|end_char=159
+10	group	group	NOUN	NN	Number=Sing	7	nmod	_	start_char=160|end_char=165
+11	as	as	ADP	IN	_	13	case	_	start_char=166|end_char=168
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=169|end_char=170
+13	whole	whole	NOUN	NN	Number=Sing	10	nmod	_	start_char=171|end_char=176
+14	.	.	PUNCT	.	_	7	punct	_	start_char=176|end_char=177
+
+1	Generalizing	generalize	VERB	VBG	VerbForm=Ger	9	csubj	_	start_char=178|end_char=190
+2	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=191|end_char=193
+3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	_	start_char=194|end_char=200
+4	group	group	NOUN	NN	Number=Sing	1	obj	_	start_char=201|end_char=206
+5	of	of	ADP	IN	_	6	case	_	start_char=207|end_char=209
+6	people	people	NOUN	NNS	Number=Plur	4	nmod	_	start_char=210|end_char=216
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=217|end_char=219
+8	n’t	not	PART	RB	Polarity=Neg	9	advmod	_	start_char=219|end_char=222
+9	respectful	respectful	ADJ	JJ	Degree=Pos	0	root	_	start_char=223|end_char=233
+10	or	or	CCONJ	CC	_	11	cc	_	start_char=234|end_char=236
+11	empathetic	empathetic	ADJ	JJ	Degree=Pos	9	conj	_	start_char=237|end_char=247
+12	.	.	PUNCT	.	_	9	punct	_	start_char=247|end_char=248
+

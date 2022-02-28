@@ -1,0 +1,17 @@
+1	Distracted	distract	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=0|end_char=10
+2	although	although	SCONJ	IN	_	6	mark	_	start_char=11|end_char=19
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=20|end_char=22
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=23|end_char=25
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=26|end_char=27
+6	Masters	Master	NOUN	NNS	Number=Plur	1	advcl	_	start_char=28|end_char=35
+7	with	with	ADP	IN	_	8	case	_	start_char=36|end_char=40
+8	observationhaki	observationhaki	NOUN	NN	Number=Sing	6	nmod	_	start_char=41|end_char=56
+9	-	-	PUNCT	,	_	11	punct	_	start_char=57|end_char=58
+10	totally	totally	ADV	RB	_	11	advmod	_	start_char=59|end_char=66
+11	distracted	distracted	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=67|end_char=77
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=78|end_char=81
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=82|end_char=89
+14	of	of	ADP	IN	_	15	case	_	start_char=90|end_char=92
+15	anything	anything	PRON	NN	Number=Sing	13	obl	_	start_char=93|end_char=101
+16	.	.	PUNCT	.	_	1	punct	_	start_char=101|end_char=102
+

@@ -1,0 +1,29 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	apologize	apologize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=11
+3	.	.	PUNCT	.	_	2	punct	_	start_char=11|end_char=12
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=13|end_char=14
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=17
+3	quite	quite	ADV	RB	_	4	advmod	_	start_char=18|end_char=23
+4	new	new	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=39
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=40|end_char=44
+8	posting	post	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=45|end_char=52
+9	more	more	ADV	RBR	_	8	obj	_	start_char=53|end_char=57
+10	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	ccomp	_	start_char=58|end_char=62
+11	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=63|end_char=69
+12	angry	angry	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=70|end_char=75
+13	.	.	PUNCT	.	_	4	punct	_	start_char=75|end_char=76
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=77|end_char=78
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=79|end_char=81
+3	n't	not	PART	RB	_	4	advmod	_	start_char=81|end_char=84
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=85|end_char=89
+5	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=90|end_char=93
+6	to	to	PART	TO	_	7	mark	_	start_char=94|end_char=96
+7	post	post	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=97|end_char=101
+8	albums	album	NOUN	NNS	Number=Plur	7	obj	_	start_char=102|end_char=108
+9	yet	yet	ADV	RB	_	7	advmod	_	start_char=109|end_char=112
+10	.	.	PUNCT	.	_	4	punct	_	start_char=112|end_char=113
+

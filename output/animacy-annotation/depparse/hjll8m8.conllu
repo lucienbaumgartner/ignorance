@@ -1,0 +1,38 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	absolutely	absolutely	ADV	RB	_	4	advmod	_	start_char=8|end_char=18
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	of	of	ADP	IN	_	9	case	_	start_char=39|end_char=41
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=42|end_char=45
+9	publisher	publisher	NOUN	NN	Number=Sing	6	obl	_	start_char=46|end_char=55
+10	to	to	PART	TO	_	11	mark	_	start_char=56|end_char=58
+11	try	try	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=59|end_char=62
+12	to	to	PART	TO	_	13	mark	_	start_char=63|end_char=65
+13	get	get	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=66|end_char=69
+14	away	away	ADV	RB	_	13	advmod	_	start_char=70|end_char=74
+15	with	with	ADP	IN	_	16	case	_	start_char=75|end_char=79
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	13	obl	_	start_char=80|end_char=84
+17	.	.	PUNCT	.	_	4	punct	_	start_char=84|end_char=85
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=87|end_char=89
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=90|end_char=96
+3	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=97|end_char=101
+4	"	"	PUNCT	``	_	8	punct	_	start_char=102|end_char=103
+5	BIPOC	BIPOC	PROPN	NNP	Number=Sing	6	compound	_	start_char=103|end_char=108
+6	Kids	Kid	PROPN	NNPS	Number=Plur	8	nsubj	_	start_char=109|end_char=113
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=114|end_char=117
+8	Weird	weird	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=118|end_char=123
+9	"	"	PUNCT	''	_	8	punct	_	start_char=123|end_char=124
+10	.	.	PUNCT	.	_	3	punct	_	start_char=124|end_char=125
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=127|end_char=128
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=128|end_char=130
+3	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=131|end_char=138
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=139|end_char=141
+5	Congressman	Congressman	PROPN	NNP	Number=Sing	3	obj	_	start_char=142|end_char=153
+6	to	to	PART	TO	_	7	mark	_	start_char=154|end_char=156
+7	complain	complain	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=157|end_char=165
+8	.	.	PUNCT	.	_	3	punct	_	start_char=165|end_char=166
+

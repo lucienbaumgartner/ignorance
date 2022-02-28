@@ -1,0 +1,17 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=16
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=29
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=30|end_char=34
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=35|end_char=38
+9	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=38|end_char=41
+10	not	not	PART	RB	_	12	advmod	_	start_char=42|end_char=45
+11	even	even	ADV	RB	_	12	advmod	_	start_char=46|end_char=50
+12	worth	worth	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=51|end_char=56
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=57|end_char=58
+14	thought	thought	NOUN	NN	Number=Sing	12	obj	_	start_char=59|end_char=66
+15	out	out	ADP	RP	_	12	compound:prt	_	start_char=67|end_char=70
+16	reply	reply	NOUN	NN	Number=Sing	12	obj	_	start_char=71|end_char=76
+

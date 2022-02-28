@@ -1,0 +1,30 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=4
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=5|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=9|end_char=12
+4	perfect	perfect	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=20
+5	PR	pr	NOUN	NN	Number=Sing	6	compound	_	start_char=21|end_char=23
+6	move	move	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=28
+7	for	for	ADP	IN	_	8	case	_	start_char=29|end_char=32
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	nmod	_	start_char=33|end_char=37
+9	.	.	PUNCT	.	_	6	punct	_	start_char=37|end_char=38
+
+1	Whoever	whoever	PRON	WP	PronType=Int	2	nsubj	_	start_char=39|end_char=46
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	csubj	_	start_char=47|end_char=51
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=52|end_char=56
+4	decision	decision	NOUN	NN	Number=Sing	2	obj	_	start_char=57|end_char=65
+5	inside	inside	ADP	IN	_	6	case	_	start_char=66|end_char=72
+6	Microsoft	Microsoft	PROPN	NNP	Number=Sing	4	nmod	_	start_char=73|end_char=82
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=83|end_char=85
+8	incredibly	incredibly	ADV	RB	_	9	advmod	_	start_char=86|end_char=96
+9	thick	thick	ADJ	JJ	Degree=Pos	0	root	_	start_char=97|end_char=102
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=103|end_char=106
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=107|end_char=115
+12	of	of	ADP	IN	_	15	case	_	start_char=116|end_char=118
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=119|end_char=124
+14	own	own	ADJ	JJ	Degree=Pos	15	amod	_	start_char=125|end_char=128
+15	customers	customer	NOUN	NNS	Number=Plur	11	obl	_	start_char=129|end_char=138
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=139|end_char=142
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=143|end_char=148
+18	competitors	competitor	NOUN	NNS	Number=Plur	15	conj	_	start_char=149|end_char=160
+19	.	.	PUNCT	.	_	9	punct	_	start_char=160|end_char=161
+

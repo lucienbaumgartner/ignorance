@@ -1,0 +1,31 @@
+1	Awe	awe	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=3
+2	love	love	NOUN	NN	Number=Sing	0	root	_	start_char=4|end_char=8
+3	that	that	SCONJ	IN	_	5	mark	_	start_char=9|end_char=13
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=14|end_char=17
+5	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=18|end_char=23
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=24|end_char=28
+7	fake	fake	ADJ	JJ	Degree=Pos	9	amod	_	start_char=29|end_char=33
+8	medic	medic	NOUN	NN	Number=Sing	9	compound	_	start_char=34|end_char=39
+9	crap	crap	NOUN	NN	Number=Sing	10	nsubj	_	start_char=40|end_char=44
+10	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=45|end_char=50
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=51|end_char=54
+12	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=55|end_char=59
+13	crap	crap	NOUN	NN	Number=Sing	12	obj	_	start_char=60|end_char=64
+14	about	about	ADP	IN	_	15	case	_	start_char=65|end_char=70
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obl	_	start_char=71|end_char=73
+16	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=75|end_char=78
+2	’ll	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=78|end_char=81
+3	stay	stay	VERB	VB	VerbForm=Inf	0	root	_	start_char=82|end_char=86
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=87|end_char=95
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=96|end_char=99
+6	pathetic	pathetic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=100|end_char=108
+7	.	.	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=110|end_char=113
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=114|end_char=118
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=118|end_char=120
+4	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	start_char=121|end_char=125
+5	.	.	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+

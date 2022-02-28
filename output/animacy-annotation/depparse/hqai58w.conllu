@@ -1,0 +1,21 @@
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3|end_char=5
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=7
+4	with	with	ADP	IN	_	6	case	_	start_char=8|end_char=12
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+6	pool	pool	NOUN	NN	Number=Sing	12	advcl	_	start_char=17|end_char=21
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=22|end_char=24
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=24|end_char=26
+9	not	not	PART	RB	_	12	advmod	_	start_char=27|end_char=30
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=31|end_char=32
+11	dog	dog	NOUN	NN	Number=Sing	12	nsubj	_	start_char=33|end_char=36
+12	run	run	VERB	VB	VerbForm=Inf	0	root	_	start_char=37|end_char=40
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=41|end_char=44
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=45|end_char=48
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=49|end_char=52
+16	both	both	ADV	RB	_	17	advmod	_	start_char=53|end_char=57
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=58|end_char=66
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=67|end_char=70
+19	negligent	negligent	ADJ	JJ	Degree=Pos	17	conj	_	start_char=71|end_char=80
+20	.	.	PUNCT	.	_	12	punct	_	start_char=80|end_char=81
+

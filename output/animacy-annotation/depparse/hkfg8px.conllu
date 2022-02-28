@@ -1,0 +1,47 @@
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=7|end_char=10
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	Demiurge	Demiurge	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=21|end_char=29
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=30|end_char=32
+8	pure	pure	ADJ	JJ	Degree=Pos	9	amod	_	start_char=33|end_char=37
+9	evil	evil	NOUN	NN	Number=Sing	4	ccomp	_	start_char=38|end_char=42
+10	?	?	PUNCT	.	_	4	punct	_	start_char=42|end_char=43
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=44|end_char=48
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=49|end_char=55
+3	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=56|end_char=61
+4	consider	consider	VERB	VB	VerbForm=Inf	0	root	_	start_char=62|end_char=70
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=71|end_char=73
+6	imperfect	imperfect	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=74|end_char=83
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=84|end_char=87
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=88|end_char=96
+9	of	of	ADP	IN	_	12	case	_	start_char=97|end_char=99
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=100|end_char=103
+11	true	true	ADJ	JJ	Degree=Pos	12	amod	_	start_char=104|end_char=108
+12	god	god	NOUN	NN	Number=Sing	8	obl	_	start_char=109|end_char=112
+13	.	.	PUNCT	.	_	4	punct	_	start_char=112|end_char=113
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=114|end_char=117
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=117|end_char=120
+3	communicating	communicate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=121|end_char=134
+4	with	with	ADP	IN	_	6	case	_	start_char=135|end_char=139
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=140|end_char=141
+6	deity	deity	NOUN	NN	Number=Sing	3	obl	_	start_char=142|end_char=147
+7	more	more	ADV	RBR	_	3	advmod	_	start_char=148|end_char=152
+8	like	like	ADP	IN	_	9	case	_	start_char=153|end_char=157
+9	Satan	Satan	PROPN	NNP	Number=Sing	3	obl	_	start_char=158|end_char=163
+10	.	.	PUNCT	.	_	3	punct	_	start_char=163|end_char=164
+
+1	...	...	PUNCT	,	_	7	punct	_	start_char=165|end_char=168
+2	or	or	CCONJ	CC	_	4	cc	_	start_char=168|end_char=170
+3	perhaps	perhaps	ADV	RB	_	4	advmod	_	start_char=171|end_char=178
+4	imagining	imagine	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=179|end_char=188
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=189|end_char=192
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=192|end_char=195
+7	communicating	communicate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=196|end_char=209
+8	with	with	ADP	IN	_	9	case	_	start_char=210|end_char=214
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=215|end_char=217
+10	?	?	PUNCT	.	_	7	punct	_	start_char=217|end_char=218
+

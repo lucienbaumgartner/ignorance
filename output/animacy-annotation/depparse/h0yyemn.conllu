@@ -1,0 +1,38 @@
+1	WTF	wtf	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	?!	?!	PUNCT	.	_	1	punct	_	start_char=3|end_char=5
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=6|end_char=8
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=8|end_char=10
+3	disgraceful	disgraceful	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=22
+4	that	that	SCONJ	IN	_	8	mark	_	start_char=23|end_char=27
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=28|end_char=31
+6	elders	elder	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=32|end_char=38
+7	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=39|end_char=44
+8	act	act	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=45|end_char=48
+9	like	like	ADP	IN	_	10	case	_	start_char=49|end_char=53
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	8	obl	_	start_char=54|end_char=58
+11	!	!	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=60|end_char=64
+2	really	really	ADV	RB	_	3	advmod	_	start_char=65|end_char=71
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=72|end_char=76
+4	no	no	DET	DT	_	5	det	_	start_char=77|end_char=79
+5	love	love	NOUN	NN	Number=Sing	3	obj	_	start_char=80|end_char=84
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=85|end_char=87
+7	understanding	understanding	NOUN	NN	Number=Sing	5	conj	_	start_char=88|end_char=101
+8	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=104|end_char=106
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=106|end_char=108
+3	crazy	crazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=109|end_char=114
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=115|end_char=118
+5	unable	unable	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=119|end_char=125
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=126|end_char=129
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=130|end_char=137
+8	of	of	ADP	IN	_	11	case	_	start_char=138|end_char=140
+9	other	other	ADJ	JJ	Degree=Pos	11	nmod:poss	_	start_char=141|end_char=146
+10	's	's	PART	POS	_	9	case	_	start_char=146|end_char=148
+11	feelings	feeling	NOUN	NNS	Number=Plur	5	obl	_	start_char=149|end_char=157
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=158|end_char=162
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=163|end_char=166
+

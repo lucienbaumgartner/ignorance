@@ -1,0 +1,37 @@
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	woke	wake	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	advcl	_	start_char=7|end_char=11
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=12|end_char=14
+5	,	,	PUNCT	,	_	9	punct	_	start_char=14|end_char=15
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=16|end_char=17
+7	moments	moment	NOUN	NNS	Number=Plur	8	compound	_	start_char=18|end_char=25
+8	peace	peace	NOUN	NN	Number=Sing	9	nsubj	_	start_char=26|end_char=31
+9	ascended	ascend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=32|end_char=40
+10	.	.	PUNCT	.	_	9	punct	_	start_char=40|end_char=41
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=42|end_char=45
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=46|end_char=47
+3	looked	look	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=48|end_char=54
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=55|end_char=58
+5	,	,	PUNCT	,	_	6	punct	_	start_char=58|end_char=59
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=60|end_char=67
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=68|end_char=71
+8	free	free	ADJ	JJ	Degree=Pos	6	conj	_	start_char=72|end_char=76
+9	...	...	PUNCT	.	_	3	punct	_	start_char=76|end_char=79
+
+1	Honestly	honestly	ADV	RB	_	6	advmod	_	start_char=80|end_char=88
+2	,	,	PUNCT	,	_	6	punct	_	start_char=88|end_char=89
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=90|end_char=91
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=92|end_char=94
+5	n't	not	PART	RB	_	6	advmod	_	start_char=94|end_char=97
+6	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=98|end_char=103
+7	even	even	ADV	RB	_	9	advmod	_	start_char=104|end_char=108
+8	Dan	Dan	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=109|end_char=112
+9	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=113|end_char=118
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=119|end_char=122
+11	words	word	NOUN	NNS	Number=Plur	9	obj	_	start_char=123|end_char=128
+12	to	to	ADP	IN	_	14	case	_	start_char=129|end_char=131
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=132|end_char=135
+14	chorus	chorus	NOUN	NN	Number=Sing	11	nmod	_	start_char=136|end_char=142
+15	...	...	PUNCT	.	_	6	punct	_	start_char=142|end_char=145
+

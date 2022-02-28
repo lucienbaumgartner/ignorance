@@ -1,0 +1,49 @@
+1	After	after	ADP	IN	_	2	case	_	start_char=0|end_char=5
+2	all	all	DET	DT	_	6	obl	_	start_char=6|end_char=9
+3	,	,	PUNCT	,	_	6	punct	_	start_char=9|end_char=10
+4	every	every	DET	DT	_	5	det	_	start_char=11|end_char=16
+5	system	system	NOUN	NN	Number=Sing	6	nsubj	_	start_char=17|end_char=23
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=27
+7	vulnerabilities	vulnerability	NOUN	NNS	Number=Plur	6	obj	_	start_char=28|end_char=43
+8	.	.	PUNCT	.	_	6	punct	_	start_char=43|end_char=44
+
+1	Embracing	embrace	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=45|end_char=54
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=55|end_char=58
+3	accecepting	accecept	VERB	VBG	VerbForm=Ger	1	conj	_	start_char=59|end_char=70
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=71|end_char=75
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=76|end_char=78
+6	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	start_char=79|end_char=83
+7	.	.	PUNCT	.	_	6	punct	_	start_char=83|end_char=84
+
+1	But	but	CCONJ	CC	_	13	cc	_	start_char=85|end_char=88
+2	ignoring	ignore	VERB	VBG	VerbForm=Ger	13	csubj	_	start_char=89|end_char=97
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=98|end_char=101
+4	pretending	pretend	VERB	VBG	VerbForm=Ger	2	conj	_	start_char=102|end_char=112
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=113|end_char=117
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=117|end_char=120
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=121|end_char=124
+8	n't	not	PART	RB	_	13	advmod	_	start_char=124|end_char=127
+9	any	any	DET	DT	_	13	nsubj	_	start_char=128|end_char=131
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=132|end_char=134
+11	just	just	ADV	RB	_	13	advmod	_	start_char=135|end_char=139
+12	plain	plain	ADV	RB	_	13	advmod	_	start_char=140|end_char=145
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=146|end_char=154
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=155|end_char=158
+15	Naive	naive	ADJ	JJ	Degree=Pos	13	conj	_	start_char=159|end_char=164
+16	IMO	imo	ADV	RB	_	13	advmod	_	start_char=165|end_char=168
+17	.	.	PUNCT	.	_	13	punct	_	start_char=168|end_char=169
+
+1	\-	\-	PUNCT	NFP	_	8	punct	_	start_char=175|end_char=177
+2	Also	also	ADV	RB	_	8	advmod	_	start_char=177|end_char=181
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=182|end_char=186
+4	factor	factor	NOUN	NN	Number=Sing	8	nsubj	_	start_char=187|end_char=193
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=194|end_char=196
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=197|end_char=198
+7	common	common	ADJ	JJ	Degree=Pos	8	amod	_	start_char=199|end_char=205
+8	indicator	indicator	NOUN	NN	Number=Sing	0	root	_	start_char=206|end_char=215
+9	of	of	ADP	IN	_	11	case	_	start_char=216|end_char=218
+10	rug	rug	NOUN	NN	Number=Sing	11	compound	_	start_char=219|end_char=222
+11	pulls	pull	NOUN	NNS	Number=Plur	8	nmod	_	start_char=223|end_char=228
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=229|end_char=232
+13	scams	scam	NOUN	NNS	Number=Plur	11	conj	_	start_char=233|end_char=238
+

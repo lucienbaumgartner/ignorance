@@ -1,0 +1,44 @@
+1	China	China	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=5
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6|end_char=9
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	start_char=10|end_char=14
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=15|end_char=21
+5	to	to	PART	TO	_	6	mark	_	start_char=22|end_char=24
+6	force	force	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=25|end_char=30
+7	assimilation	assimilation	NOUN	NN	Number=Sing	6	obj	_	start_char=31|end_char=43
+8	upon	upon	ADP	IN	_	11	case	_	start_char=44|end_char=48
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=49|end_char=54
+10	Uighur	uighur	ADJ	JJ	Degree=Pos	11	amod	_	start_char=55|end_char=61
+11	population	population	NOUN	NN	Number=Sing	6	obl	_	start_char=62|end_char=72
+12	for	for	ADP	IN	_	13	case	_	start_char=73|end_char=76
+13	years	year	NOUN	NNS	Number=Plur	6	obl	_	start_char=77|end_char=82
+14	.	.	PUNCT	.	_	4	punct	_	start_char=82|end_char=83
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=84|end_char=87
+2	what	what	PRON	WP	PronType=Int	5	obj	_	start_char=88|end_char=92
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=93|end_char=96
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=97|end_char=99
+5	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=100|end_char=106
+6	?	?	PUNCT	.	_	5	punct	_	start_char=106|end_char=107
+
+1	Genocide	genocide	NOUN	NN	Number=Sing	0	root	_	start_char=108|end_char=116
+2	.	.	PUNCT	.	_	1	punct	_	start_char=116|end_char=117
+
+1	Anyone	anyone	PRON	NN	Number=Sing	13	nsubj	_	start_char=119|end_char=125
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=126|end_char=129
+3	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=130|end_char=136
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=137|end_char=140
+5	State	State	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=141|end_char=146
+6	should	should	AUX	MD	VerbForm=Fin	7	aux	_	start_char=147|end_char=153
+7	have	have	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=154|end_char=158
+8	so	so	ADV	RB	_	9	advmod	_	start_char=159|end_char=161
+9	much	much	ADJ	JJ	Degree=Pos	10	amod	_	start_char=162|end_char=166
+10	power	power	NOUN	NN	Number=Sing	7	obj	_	start_char=167|end_char=172
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=173|end_char=175
+12	incredibility	incredibility	NOUN	NN	Number=Sing	13	obl:npmod	_	start_char=176|end_char=189
+13	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=190|end_char=195
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=196|end_char=199
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=200|end_char=208
+16	of	of	ADP	IN	_	17	case	_	start_char=209|end_char=211
+17	history	history	NOUN	NN	Number=Sing	15	obl	_	start_char=212|end_char=219
+18	.	.	PUNCT	.	_	13	punct	_	start_char=219|end_char=220
+

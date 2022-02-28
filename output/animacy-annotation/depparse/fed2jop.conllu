@@ -1,0 +1,66 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=9
+4	.	.	PUNCT	.	_	3	punct	_	start_char=9|end_char=10
+
+1	&amp	&amp	PUNCT	NFP	_	6	punct	_	start_char=11|end_char=15
+2	;	;	PUNCT	,	_	6	punct	_	start_char=15|end_char=16
+3	because	because	SCONJ	IN	_	6	mark	_	start_char=17|end_char=24
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=25|end_char=27
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=28|end_char=31
+6	available	available	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=41
+7	.	.	PUNCT	.	_	6	punct	_	start_char=41|end_char=42
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=43|end_char=44
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=45|end_char=48
+3	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=54
+4	.	.	PUNCT	.	_	3	punct	_	start_char=54|end_char=55
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=56|end_char=57
+2	’d	have	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	start_char=57|end_char=59
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	start_char=60|end_char=64
+4	choking	choke	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=65|end_char=72
+5	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	obj	_	start_char=73|end_char=79
+6	to	to	ADP	IN	_	8	case	_	start_char=80|end_char=82
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=83|end_char=86
+8	point	point	NOUN	NN	Number=Sing	4	obl	_	start_char=87|end_char=92
+9	of	of	SCONJ	IN	_	10	mark	_	start_char=93|end_char=95
+10	passing	pass	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=96|end_char=103
+11	out	out	ADP	RP	_	10	compound:prt	_	start_char=104|end_char=107
+12	for	for	ADP	IN	_	15	case	_	start_char=108|end_char=111
+13	about	about	ADV	RB	_	14	advmod	_	start_char=112|end_char=117
+14	6	6	NUM	CD	NumForm=Digit|NumType=Card	15	nummod	_	start_char=118|end_char=119
+15	years	year	NOUN	NNS	Number=Plur	10	obl	_	start_char=120|end_char=125
+16	because	because	SCONJ	IN	_	19	mark	_	start_char=126|end_char=133
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=134|end_char=135
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=136|end_char=139
+19	stupid	stupid	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=140|end_char=146
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=147|end_char=150
+21	unaware	unaware	ADJ	JJ	Degree=Pos	19	conj	_	start_char=151|end_char=158
+22	that	that	PRON	DT	Number=Sing|PronType=Dem	25	nsubj	_	start_char=159|end_char=163
+23	would	would	AUX	MD	VerbForm=Fin	25	aux	_	start_char=164|end_char=169
+24	n’t	not	PART	RB	Polarity=Neg	25	advmod	_	start_char=169|end_char=172
+25	work	work	VERB	VB	VerbForm=Inf	19	conj	_	start_char=173|end_char=177
+26	.	.	PUNCT	.	_	4	punct	_	start_char=177|end_char=178
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=179|end_char=182
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=183|end_char=186
+3	pills	pill	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=187|end_char=192
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	start_char=193|end_char=197
+5	all	all	DET	DT	_	0	root	_	start_char=198|end_char=201
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=202|end_char=204
+7	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=205|end_char=208
+8	other	other	ADJ	JJ	Degree=Pos	7	advmod	_	start_char=209|end_char=214
+9	than	than	ADP	IN	_	13	case	_	start_char=215|end_char=219
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=220|end_char=222
+11	newly	newly	ADV	RB	_	12	advmod	_	start_char=223|end_char=228
+12	prescribed	prescribe	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	_	start_char=229|end_char=239
+13	Zoloft	Zoloft	PROPN	NNP	Number=Sing	7	obl	_	start_char=240|end_char=246
+14	that	that	PRON	WDT	PronType=Rel	17	obj	_	start_char=247|end_char=251
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=252|end_char=253
+16	also	also	ADV	RB	_	17	advmod	_	start_char=254|end_char=258
+17	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=259|end_char=263
+18	all	all	DET	DT	_	17	obj	_	start_char=264|end_char=267
+19	of	of	ADP	IN	_	14	case	_	start_char=268|end_char=270
+20	.	.	PUNCT	.	_	5	punct	_	start_char=270|end_char=271
+

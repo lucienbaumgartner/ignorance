@@ -1,0 +1,19 @@
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	often	often	ADV	RB	_	3	advmod	_	start_char=2|end_char=7
+3	admire	admire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=15|end_char=18
+5	minds	mind	NOUN	NNS	Number=Plur	3	obj	_	start_char=19|end_char=24
+6	of	of	ADP	IN	_	7	case	_	start_char=25|end_char=27
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=28|end_char=34
+8	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=35|end_char=38
+9	can	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=39|end_char=42
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=43|end_char=45
+11	so	so	ADV	RB	_	12	advmod	_	start_char=46|end_char=48
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=49|end_char=57
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=58|end_char=61
+14	arrogantly	arrogantly	ADV	RB	_	15	advmod	_	start_char=62|end_char=72
+15	happy	happy	ADJ	JJ	Degree=Pos	12	conj	_	start_char=73|end_char=78
+16	with	with	ADP	IN	_	18	case	_	start_char=79|end_char=83
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=84|end_char=89
+18	existence	existence	NOUN	NN	Number=Sing	15	obl	_	start_char=90|end_char=99
+

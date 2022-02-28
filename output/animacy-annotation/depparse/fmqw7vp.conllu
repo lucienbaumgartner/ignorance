@@ -1,0 +1,101 @@
+1	And	and	CCONJ	CC	_	8	cc	_	start_char=0|end_char=3
+2	since	since	SCONJ	IN	_	4	mark	_	start_char=4|end_char=9
+3	youve	youve	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=10|end_char=15
+4	voiced	voice	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	advcl	_	start_char=16|end_char=22
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	obj	_	start_char=23|end_char=28
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=29|end_char=31
+7	somehow	somehow	ADV	RB	_	8	advmod	_	start_char=32|end_char=39
+8	cancels	cancel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=40|end_char=47
+9	thiers	thier	NOUN	NN	Number=Sing	8	obj	_	start_char=48|end_char=54
+10	?	?	PUNCT	.	_	8	punct	_	start_char=54|end_char=55
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=56|end_char=60
+2	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=61|end_char=62
+3	fucking	fucking	ADJ	JJ	Degree=Pos	5	amod	_	start_char=63|end_char=70
+4	heart	heart	NOUN	NN	Number=Sing	5	compound	_	start_char=71|end_char=76
+5	dude	dude	NOUN	NN	Number=Sing	1	obj	_	start_char=77|end_char=81
+6	.	.	PUNCT	.	_	1	punct	_	start_char=81|end_char=82
+
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=83|end_char=87
+2	these	this	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=88|end_char=93
+3	comments	comment	NOUN	NNS	Number=Plur	1	obj	_	start_char=94|end_char=102
+4	in	in	ADP	IN	_	6	case	_	start_char=103|end_char=105
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=106|end_char=110
+6	thread	thread	NOUN	NN	Number=Sing	1	obl	_	start_char=111|end_char=117
+7	.	.	PUNCT	.	_	1	punct	_	start_char=117|end_char=118
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj:pass	_	start_char=119|end_char=125
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=126|end_char=129
+3	hurt	hurt	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=130|end_char=134
+4	.	.	PUNCT	.	_	3	punct	_	start_char=134|end_char=135
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=136|end_char=139
+2	youre	your	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=140|end_char=145
+3	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=146|end_char=152
+4	to	to	PART	TO	_	5	mark	_	start_char=153|end_char=155
+5	stir	stir	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=156|end_char=160
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=161|end_char=164
+7	pot	pot	NOUN	NN	Number=Sing	5	obj	_	start_char=165|end_char=168
+8	for	for	ADP	IN	_	9	case	_	start_char=169|end_char=172
+9	what	what	PRON	WP	PronType=Int	5	obl	_	start_char=173|end_char=177
+10	?	?	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+
+1	More	more	ADJ	JJR	Degree=Cmp	2	amod	_	start_char=179|end_char=183
+2	downvotes	downvote	NOUN	NNS	Number=Plur	0	root	_	start_char=184|end_char=193
+3	?	?	PUNCT	.	_	2	punct	_	start_char=193|end_char=194
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=196|end_char=199
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=200|end_char=203
+3	so	so	ADV	RB	_	4	advmod	_	start_char=204|end_char=206
+4	pigheaded	pigheaded	ADJ	JJ	Degree=Pos	0	root	_	start_char=207|end_char=216
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=217|end_char=220
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=221|end_char=229
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=230|end_char=234
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=235|end_char=238
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=239|end_char=247
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=248|end_char=253
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=254|end_char=258
+12	opinion	opinion	NOUN	NN	Number=Sing	14	nsubj:pass	_	start_char=259|end_char=266
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=267|end_char=269
+14	wanted	want	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	_	start_char=270|end_char=276
+15	here	here	ADV	RB	PronType=Dem	14	advmod	_	start_char=277|end_char=281
+16	?	?	PUNCT	.	_	4	punct	_	start_char=281|end_char=282
+
+1	Justified	justified	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=283|end_char=292
+2	?	?	PUNCT	.	_	1	punct	_	start_char=292|end_char=293
+
+1	Log	log	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=294|end_char=297
+2	off	off	ADP	RP	_	1	compound:prt	_	start_char=298|end_char=301
+3	reddit	reddit	NOUN	NN	Number=Sing	1	obj	_	start_char=302|end_char=308
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=309|end_char=312
+5	go	go	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	conj	_	start_char=313|end_char=315
+6	do	do	VERB	VB	VerbForm=Fin	5	xcomp	_	start_char=316|end_char=318
+7	some	some	DET	DT	_	9	det	_	start_char=319|end_char=323
+8	thinking	thinking	NOUN	NN	Number=Sing	9	compound	_	start_char=324|end_char=332
+9	boy	boy	NOUN	NN	Number=Sing	6	obj	_	start_char=333|end_char=336
+10	.	.	PUNCT	.	_	1	punct	_	start_char=336|end_char=337
+
+1	Read	read	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=338|end_char=342
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=343|end_char=344
+3	book	book	NOUN	NN	Number=Sing	1	obj	_	start_char=345|end_char=349
+4	.	.	PUNCT	.	_	1	punct	_	start_char=349|end_char=350
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=351|end_char=353
+2	some	some	DET	DT	_	3	det	_	start_char=354|end_char=358
+3	soul	soul	NOUN	NN	Number=Sing	1	obj	_	start_char=359|end_char=363
+4	searching	search	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=364|end_char=373
+5	.	.	PUNCT	.	_	1	punct	_	start_char=373|end_char=374
+
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=375|end_char=384
+2	with	with	ADP	IN	_	4	case	_	start_char=385|end_char=389
+3	any	any	DET	DT	_	4	det	_	start_char=390|end_char=393
+4	form	form	NOUN	NN	Number=Sing	1	nmod	_	start_char=394|end_char=398
+5	of	of	SCONJ	IN	_	6	mark	_	start_char=399|end_char=401
+6	meaning	mean	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=402|end_char=409
+7	other	other	ADJ	JJ	Degree=Pos	6	obj	_	start_char=410|end_char=415
+8	then	then	ADV	RB	PronType=Dem	9	advmod	_	start_char=416|end_char=420
+9	trolling	trol	VERB	VBG	VerbForm=Ger	6	conj	_	start_char=421|end_char=429
+10	upset	upset	ADJ	JJ	Degree=Pos	11	amod	_	start_char=430|end_char=435
+11	people	people	NOUN	NNS	Number=Plur	9	obj	_	start_char=436|end_char=442
+12	online	online	ADV	RB	Degree=Pos	9	advmod	_	start_char=443|end_char=449
+

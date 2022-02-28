@@ -1,0 +1,15 @@
+1	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=17|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=40|end_char=44
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=45|end_char=48
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=49|end_char=54
+10	pewdiepie	pewdiepie	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=55|end_char=64
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=65|end_char=67
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=68|end_char=69
+13	nazi	nazi	ADJ	JJ	Degree=Pos	14	amod	_	start_char=70|end_char=74
+14	lmfao	lmfao	NOUN	NN	Number=Sing	9	ccomp	_	start_char=75|end_char=80
+

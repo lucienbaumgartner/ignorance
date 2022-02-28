@@ -1,0 +1,22 @@
+1	Not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	much	much	ADV	RB	_	4	advmod	_	start_char=4|end_char=8
+3	“	''	PUNCT	``	_	4	punct	_	start_char=9|end_char=10
+4	mind	mind	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=14
+5	”	''	PUNCT	''	_	4	punct	_	start_char=14|end_char=15
+6	to	to	PART	TO	_	7	mark	_	start_char=16|end_char=18
+7	read	read	VERB	VB	VerbForm=Inf	4	acl	_	start_char=19|end_char=23
+8	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=24|end_char=28
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=29|end_char=33
+10	head	head	NOUN	NN	Number=Sing	13	nsubj	_	start_char=34|end_char=38
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=39|end_char=41
+12	pretty	pretty	ADV	RB	_	13	advmod	_	start_char=42|end_char=48
+13	empty	empty	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=49|end_char=54
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=55|end_char=58
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=59|end_char=66
+16	of	of	ADP	IN	_	17	case	_	start_char=67|end_char=69
+17	how	how	SCONJ	WRB	PronType=Int	15	obl	_	start_char=70|end_char=73
+18	things	thing	NOUN	NNS	Number=Plur	19	nsubj	_	start_char=74|end_char=80
+19	fucking	fuck	VERB	VBG	VerbForm=Ger	17	acl:relcl	_	start_char=81|end_char=88
+20	work	work	NOUN	NN	Number=Sing	19	obj	_	start_char=89|end_char=93
+21	.	.	PUNCT	.	_	4	punct	_	start_char=93|end_char=94
+

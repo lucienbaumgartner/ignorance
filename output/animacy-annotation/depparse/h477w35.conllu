@@ -1,0 +1,36 @@
+1	Chances	chance	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=0|end_char=7
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=8|end_char=11
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=12|end_char=15
+4	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=16|end_char=21
+5	n't	not	PART	RB	_	7	advmod	_	start_char=21|end_char=24
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=25|end_char=27
+7	interested	interested	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=38
+8	even	even	ADV	RB	_	12	advmod	_	start_char=39|end_char=43
+9	if	if	SCONJ	IN	_	12	mark	_	start_char=44|end_char=46
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=47|end_char=50
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	_	start_char=51|end_char=55
+12	straight	straight	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=56|end_char=64
+13	and	and	CCONJ	CC	_	19	cc	_	start_char=65|end_char=68
+14	how	how	ADV	WRB	PronType=Int	19	advmod	_	start_char=69|end_char=72
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=73|end_char=75
+16	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=76|end_char=79
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=80|end_char=84
+18	best	good	ADJ	JJS	Degree=Sup	19	amod	_	start_char=85|end_char=89
+19	friend	friend	NOUN	NN	Number=Sing	7	conj	_	start_char=90|end_char=96
+20	for	for	ADP	IN	_	22	case	_	start_char=97|end_char=100
+21	so	so	ADV	RB	_	22	advmod	_	start_char=101|end_char=103
+22	long	long	ADV	RB	Degree=Pos	19	nmod	_	start_char=104|end_char=108
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=109|end_char=112
+24	unaware	unaware	ADJ	JJ	Degree=Pos	22	conj	_	start_char=113|end_char=120
+25	of	of	ADP	IN	_	27	case	_	start_char=121|end_char=123
+26	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	27	nmod:poss	_	start_char=124|end_char=128
+27	orientation	orientation	NOUN	NN	Number=Sing	24	obl	_	start_char=129|end_char=140
+28	?	?	PUNCT	.	_	7	punct	_	start_char=140|end_char=141
+
+1	In	in	ADP	IN	_	3	case	_	start_char=142|end_char=144
+2	any	any	DET	DT	_	3	det	_	start_char=145|end_char=148
+3	case	case	NOUN	NN	Number=Sing	6	obl	_	start_char=149|end_char=153
+4	just	just	ADV	RB	_	6	advmod	_	start_char=154|end_char=158
+5	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	6	cop	_	start_char=159|end_char=161
+6	honest	honest	ADJ	JJ	Degree=Pos	0	root	_	start_char=162|end_char=168
+

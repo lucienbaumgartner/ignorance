@@ -1,0 +1,16 @@
+1	To	to	PART	TO	_	2	mark	_	start_char=0|end_char=2
+2	say	say	VERB	VB	VerbForm=Inf	12	csubj	_	start_char=3|end_char=6
+3	there	there	PRON	EX	_	4	expl	_	start_char=7|end_char=12
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=13|end_char=15
+5	nothing	nothing	PRON	NN	Number=Sing	4	nsubj	_	start_char=16|end_char=23
+6	wrong	wrong	ADJ	JJ	Degree=Pos	5	amod	_	start_char=24|end_char=29
+7	with	with	ADP	IN	_	9	case	_	start_char=30|end_char=34
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=35|end_char=38
+9	Duo	Duo	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=39|end_char=42
+10	2	2	NUM	CD	NumType=Card	9	flat	_	start_char=43|end_char=44
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=45|end_char=47
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=48|end_char=56
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=57|end_char=60
+14	incorrect	incorrect	ADJ	JJ	Degree=Pos	12	conj	_	start_char=61|end_char=70
+15	.	.	PUNCT	.	_	12	punct	_	start_char=70|end_char=71
+

@@ -1,0 +1,96 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Wokeness	Wokeness	ADJ	JJ	Degree=Pos	4	amod	_	start_char=4|end_char=12
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=13|end_char=16
+3	political	political	ADJ	JJ	Degree=Pos	1	conj	_	start_char=17|end_char=26
+4	correctness	correctness	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=38
+
+1	What	what	PRON	WP	PronType=Int	7	obj	_	start_char=40|end_char=44
+2	,	,	PUNCT	,	_	7	punct	_	start_char=44|end_char=45
+3	exactly	exactly	ADV	RB	_	7	advmod	_	start_char=46|end_char=53
+4	,	,	PUNCT	,	_	7	punct	_	start_char=53|end_char=54
+5	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=55|end_char=57
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=58|end_char=61
+7	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=62|end_char=67
+8	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=68|end_char=73
+9	words	word	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=74|end_char=79
+10	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=80|end_char=84
+11	?	?	PUNCT	.	_	7	punct	_	start_char=84|end_char=85
+
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=87|end_char=94
+2	if	if	SCONJ	IN	_	4	mark	_	start_char=95|end_char=97
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=98|end_char=102
+4	disappeared	disappear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	_	start_char=103|end_char=114
+5	,	,	PUNCT	,	_	10	punct	_	start_char=114|end_char=115
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=116|end_char=119
+7	'd	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=119|end_char=121
+8	basically	basically	ADV	RB	_	10	advmod	_	start_char=122|end_char=131
+9	just	just	ADV	RB	_	10	advmod	_	start_char=132|end_char=136
+10	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=137|end_char=141
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=142|end_char=143
+12	lot	lot	NOUN	NN	Number=Sing	13	obl:npmod	_	start_char=144|end_char=147
+13	more	more	ADJ	JJR	Degree=Cmp	14	amod	_	start_char=148|end_char=152
+14	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=153|end_char=159
+15	being	be	AUX	VBG	VerbForm=Ger	17	cop	_	start_char=160|end_char=165
+16	openly	openly	ADV	RB	Degree=Pos	17	advmod	_	start_char=166|end_char=172
+17	racist	racist	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=173|end_char=179
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=180|end_char=183
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=184|end_char=192
+20	of	of	ADP	IN	_	22	case	_	start_char=193|end_char=195
+21	other	other	ADJ	JJ	Degree=Pos	22	amod	_	start_char=196|end_char=201
+22	perspectives	perspective	NOUN	NNS	Number=Plur	19	obl	_	start_char=202|end_char=214
+23	.	.	PUNCT	.	_	10	punct	_	start_char=214|end_char=215
+
+1	Which	which	PRON	WDT	PronType=Int	5	nsubj	_	start_char=216|end_char=221
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=222|end_char=224
+3	...	...	PUNCT	,	_	5	punct	_	start_char=224|end_char=227
+4	not	not	PART	RB	_	5	advmod	_	start_char=227|end_char=230
+5	ideal	ideal	ADJ	JJ	Degree=Pos	0	root	_	start_char=231|end_char=236
+6	.	.	PUNCT	.	_	5	punct	_	start_char=236|end_char=237
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=239|end_char=250
+2	;	;	PUNCT	:	_	1	punct	_	start_char=250|end_char=251
+
+1	Edit	edit	NOUN	NN	Number=Sing	0	root	_	start_char=253|end_char=257
+2	:	:	PUNCT	:	_	1	punct	_	start_char=257|end_char=258
+
+1	To	to	PART	TO	_	3	mark	_	start_char=259|end_char=261
+2	fully	fully	ADV	RB	_	3	advmod	_	start_char=262|end_char=267
+3	answer	answer	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=268|end_char=274
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=275|end_char=278
+5	question	question	NOUN	NN	Number=Sing	3	obj	_	start_char=279|end_char=287
+6	,	,	PUNCT	,	_	3	punct	_	start_char=287|end_char=288
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=289|end_char=292
+8	'd	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=292|end_char=294
+9	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=295|end_char=299
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=300|end_char=301
+11	world	world	NOUN	NN	Number=Sing	9	obj	_	start_char=302|end_char=307
+12	where	where	SCONJ	WRB	PronType=Rel	16	mark	_	start_char=308|end_char=313
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=314|end_char=316
+14	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=316|end_char=318
+15	more	more	ADV	RBR	Degree=Cmp	16	advmod	_	start_char=319|end_char=323
+16	difficult	difficult	ADJ	JJ	Degree=Pos	11	acl:relcl	_	start_char=324|end_char=333
+17	for	for	ADP	IN	_	18	case	_	start_char=334|end_char=337
+18	people	people	NOUN	NNS	Number=Plur	16	obl	_	start_char=338|end_char=344
+19	without	without	ADP	IN	_	20	case	_	start_char=345|end_char=352
+20	resources	resource	NOUN	NNS	Number=Plur	18	nmod	_	start_char=353|end_char=362
+21	to	to	PART	TO	_	22	mark	_	start_char=363|end_char=365
+22	have	have	VERB	VB	VerbForm=Inf	16	advcl	_	start_char=366|end_char=370
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=371|end_char=372
+24	voice	voice	NOUN	NN	Number=Sing	22	obj	_	start_char=373|end_char=378
+25	,	,	PUNCT	,	_	29	punct	_	start_char=378|end_char=379
+26	and	and	CCONJ	CC	_	29	cc	_	start_char=380|end_char=383
+27	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	29	nsubj	_	start_char=384|end_char=387
+28	'd	would	AUX	MD	VerbForm=Fin	29	aux	_	start_char=387|end_char=389
+29	have	have	VERB	VB	VerbForm=Inf	9	conj	_	start_char=390|end_char=394
+30	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	start_char=395|end_char=396
+31	lot	lot	NOUN	NN	Number=Sing	32	obl:npmod	_	start_char=397|end_char=400
+32	more	more	ADJ	JJR	Degree=Cmp	33	amod	_	start_char=401|end_char=405
+33	people	people	NOUN	NNS	Number=Plur	29	obj	_	start_char=406|end_char=412
+34	openly	openly	ADV	RB	Degree=Pos	37	advmod	_	start_char=413|end_char=419
+35	being	be	AUX	VBG	VerbForm=Ger	37	cop	_	start_char=420|end_char=425
+36	ignorant	ignorant	ADJ	JJ	Degree=Pos	37	amod	_	start_char=426|end_char=434
+37	assholes	asshole	NOUN	NNS	Number=Plur	29	advcl	_	start_char=435|end_char=443
+38	.	.	PUNCT	.	_	9	punct	_	start_char=443|end_char=444
+

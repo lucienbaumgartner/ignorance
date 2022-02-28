@@ -1,0 +1,34 @@
+1	Lmao	lmao	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=5|end_char=8
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=9|end_char=11
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=13
+5	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=22
+6	to	to	PART	TO	_	8	mark	_	start_char=23|end_char=25
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=26|end_char=28
+8	spiritual	spiritual	ADJ	JJ	Degree=Pos	5	csubj	_	start_char=29|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=43|end_char=50
+11	of	of	SCONJ	IN	_	12	case	_	start_char=51|end_char=53
+12	what	what	PRON	WP	PronType=Int	10	obl	_	start_char=54|end_char=58
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=58|end_char=60
+14	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	12	acl:relcl	_	start_char=61|end_char=66
+15	on	on	ADP	RP	_	14	compound:prt	_	start_char=67|end_char=69
+16	in	in	ADP	IN	_	18	case	_	start_char=70|end_char=72
+17	this	this	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=73|end_char=77
+18	world	world	NOUN	NN	Number=Sing	14	obl	_	start_char=78|end_char=83
+19	.	.	PUNCT	.	_	5	punct	_	start_char=83|end_char=84
+
+1	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=85|end_char=88
+2	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=89|end_char=92
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=93|end_char=95
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=95|end_char=97
+5	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	start_char=98|end_char=106
+6	to	to	PART	TO	_	8	mark	_	start_char=107|end_char=109
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=110|end_char=112
+8	spiritual	spiritual	ADJ	JJ	Degree=Pos	5	csubj	_	start_char=113|end_char=122
+9	and	and	CCONJ	CC	_	12	cc	_	start_char=123|end_char=126
+10	with	with	ADP	IN	_	12	case	_	start_char=127|end_char=131
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=132|end_char=135
+12	government	government	NOUN	NN	Number=Sing	8	conj	_	start_char=136|end_char=146
+13	💀	''	PUNCT	.	_	5	punct	_	start_char=147|end_char=148
+

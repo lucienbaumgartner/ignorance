@@ -1,0 +1,22 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=8|end_char=9
+3	worldview	worldview	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=19
+4	so	so	ADV	RB	_	5	advmod	_	start_char=20|end_char=22
+5	scuffed	scuffed	ADJ	JJ	Degree=Pos	3	amod	_	start_char=23|end_char=30
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=31|end_char=34
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=35|end_char=43
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=44|end_char=48
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=49|end_char=52
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=53|end_char=58
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=59|end_char=62
+12	rights	rights	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=63|end_char=69
+13	of	of	ADP	IN	_	15	case	_	start_char=70|end_char=72
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=73|end_char=74
+15	minority	minority	NOUN	NN	Number=Sing	12	nmod	_	start_char=75|end_char=83
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=84|end_char=86
+17	impeding	impede	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	start_char=87|end_char=95
+18	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17	obj	_	start_char=96|end_char=99
+19	in	in	ADP	IN	_	21	case	_	start_char=100|end_char=102
+20	some	some	DET	DT	_	21	det	_	start_char=103|end_char=107
+21	way	way	NOUN	NN	Number=Sing	17	obl	_	start_char=108|end_char=111
+

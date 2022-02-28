@@ -1,0 +1,51 @@
+1	Generally	generally	ADV	RB	_	2	advmod	_	start_char=0|end_char=9
+2	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=17
+3	arrogant	arrogant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=18|end_char=26
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=27|end_char=30
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=31|end_char=39
+6	of	of	ADP	IN	_	10	case	_	start_char=40|end_char=42
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=43|end_char=46
+8	world	world	NOUN	NN	Number=Sing	10	nmod:poss	_	start_char=47|end_char=52
+9	's	's	PART	POS	_	8	case	_	start_char=52|end_char=54
+10	problems	problem	NOUN	NNS	Number=Plur	3	obl	_	start_char=55|end_char=63
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=64|end_char=67
+12	issues	issue	NOUN	NNS	Number=Plur	10	conj	_	start_char=68|end_char=74
+13	.	.	PUNCT	.	_	2	punct	_	start_char=74|end_char=75
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=76|end_char=78
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=79|end_char=80
+3	figure	figure	NOUN	NN	Number=Sing	4	compound	_	start_char=81|end_char=87
+4	head	head	NOUN	NN	Number=Sing	0	root	_	start_char=88|end_char=92
+5	of	of	ADP	IN	_	6	case	_	start_char=93|end_char=95
+6	Hollywood	Hollywood	PROPN	NNP	Number=Sing	4	nmod	_	start_char=96|end_char=105
+7	,	,	PUNCT	,	_	8	punct	_	start_char=105|end_char=106
+8	one	one	NUM	CD	NumForm=Word|NumType=Card	4	appos	_	start_char=107|end_char=110
+9	of	of	ADP	IN	_	15	case	_	start_char=111|end_char=113
+10	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=114|end_char=117
+11	most	most	ADV	RBS	Degree=Sup	12	advmod	_	start_char=118|end_char=122
+12	damaging	damaging	ADJ	JJ	Degree=Pos	15	amod	_	start_char=123|end_char=131
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=132|end_char=135
+14	elitist	elitist	ADJ	JJ	Degree=Pos	12	conj	_	start_char=136|end_char=143
+15	institutions	institution	NOUN	NNS	Number=Plur	8	nmod	_	start_char=144|end_char=156
+16	in	in	ADP	IN	_	18	case	_	start_char=157|end_char=159
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=160|end_char=163
+18	world	world	NOUN	NN	Number=Sing	15	nmod	_	start_char=164|end_char=169
+19	.	.	PUNCT	.	_	4	punct	_	start_char=169|end_char=170
+
+1	Poor	poor	ADJ	JJ	Degree=Pos	2	amod	_	start_char=171|end_char=175
+2	actor	actor	NOUN	NN	Number=Sing	0	root	_	start_char=176|end_char=181
+3	,	,	PUNCT	,	_	2	punct	_	start_char=181|end_char=182
+4	very	very	ADV	RB	_	5	advmod	_	start_char=183|end_char=187
+5	one	one	NUM	CD	NumType=Card	6	nsubj	_	start_char=188|end_char=191
+6	dimensional	dimensional	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=192|end_char=203
+7	.	.	PUNCT	.	_	2	punct	_	start_char=203|end_char=204
+
+1	Donates	donate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=205|end_char=212
+2	to	to	ADP	IN	_	3	case	_	start_char=213|end_char=215
+3	churches	church	NOUN	NNS	Number=Plur	1	obl	_	start_char=216|end_char=224
+4	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=225|end_char=229
+5	use	use	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=230|end_char=233
+6	conversion	conversion	NOUN	NN	Number=Sing	7	compound	_	start_char=234|end_char=244
+7	therapy	therapy	NOUN	NN	Number=Sing	5	obj	_	start_char=245|end_char=252
+8	.	.	PUNCT	.	_	1	punct	_	start_char=252|end_char=253
+

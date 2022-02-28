@@ -1,0 +1,35 @@
+1	how	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=11
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=12|end_char=15
+4	clueless	clueless	ADJ	JJ	Degree=Pos	2	conj	_	start_char=16|end_char=24
+5	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=25|end_char=28
+6	ppl	ppl	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=29|end_char=32
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=33|end_char=35
+8	sheesh	sheesh	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=36|end_char=42
+9	?	?	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	Runs	run	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=44|end_char=48
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=49|end_char=52
+3	light	light	NOUN	NN	Number=Sing	1	obj	_	start_char=53|end_char=58
+4	.	.	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=60|end_char=64
+2	doesnt	doesnt	AUX	MD	VerbForm=Fin	3	aux	_	start_char=65|end_char=71
+3	pull	pull	VERB	VB	VerbForm=Inf	0	root	_	start_char=72|end_char=76
+4	over	over	ADP	RP	_	3	compound:prt	_	start_char=77|end_char=81
+5	right	right	ADV	RB	_	6	advmod	_	start_char=82|end_char=87
+6	away	away	ADV	RB	_	3	advmod	_	start_char=88|end_char=92
+7	.	.	PUNCT	.	_	3	punct	_	start_char=92|end_char=93
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=94|end_char=97
+2	then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=98|end_char=102
+3	whey	whey	NOUN	NN	Number=Sing	0	root	_	start_char=103|end_char=107
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=108|end_char=112
+5	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=113|end_char=115
+6	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=116|end_char=119
+7	in	in	ADP	IN	_	10	case	_	start_char=120|end_char=122
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=123|end_char=126
+9	bus	bus	NOUN	NN	Number=Sing	10	compound	_	start_char=127|end_char=130
+10	stop	stop	NOUN	NN	Number=Sing	5	obl	_	start_char=131|end_char=135
+11	lol	lol	INTJ	UH	_	3	discourse	_	start_char=136|end_char=139
+

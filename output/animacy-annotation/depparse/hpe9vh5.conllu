@@ -1,0 +1,21 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	come	come	VERB	VB	VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	everytime	everytime	ADV	RB	_	2	advmod	_	start_char=9|end_char=18
+4	someone	someone	NOUN	NN	Number=Sing	5	nsubj	_	start_char=19|end_char=26
+5	plays	play	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=27|end_char=32
+6	devil	devil	PROPN	NNP	Number=Sing	8	nmod:poss	_	start_char=33|end_char=38
+7	’s	's	PART	POS	_	6	case	_	start_char=38|end_char=40
+8	advocate	advocate	NOUN	NN	Number=Sing	5	obj	_	start_char=41|end_char=49
+9	on	on	ADP	IN	_	11	case	_	start_char=50|end_char=52
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=53|end_char=56
+11	internet	internet	NOUN	NN	Number=Sing	5	obl	_	start_char=57|end_char=65
+12	,	,	PUNCT	,	_	15	punct	_	start_char=65|end_char=66
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=67|end_char=69
+14	always	always	ADV	RB	_	15	advmod	_	start_char=70|end_char=76
+15	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=77|end_char=82
+16	really	really	ADV	RB	Degree=Pos	17	advmod	_	start_char=83|end_char=89
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=90|end_char=98
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=99|end_char=102
+19	shitty	shitty	ADJ	JJ	Degree=Pos	17	conj	_	start_char=103|end_char=109
+20	?	?	PUNCT	.	_	2	punct	_	start_char=109|end_char=110
+

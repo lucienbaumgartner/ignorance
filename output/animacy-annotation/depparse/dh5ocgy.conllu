@@ -1,0 +1,11 @@
+1	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	just	just	ADV	RB	_	5	advmod	_	start_char=10|end_char=14
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=15|end_char=18
+5	unaware	unaware	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=19|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	clueless	clueless	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=39
+8	Olynyk	Olynyk	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=40|end_char=46
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=47|end_char=49
+10	.	.	PUNCT	.	_	1	punct	_	start_char=49|end_char=50
+

@@ -1,0 +1,27 @@
+1	“	''	PUNCT	``	_	4	punct	_	start_char=0|end_char=1
+2	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=1|end_char=5
+3	behavior	behavior	NOUN	NN	Number=Sing	4	nsubj	_	start_char=6|end_char=14
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=18
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=19|end_char=20
+6	negative	negative	ADJ	JJ	Degree=Pos	7	amod	_	start_char=21|end_char=29
+7	impact	impact	NOUN	NN	Number=Sing	4	obj	_	start_char=30|end_char=36
+8	on	on	ADP	IN	_	9	case	_	start_char=37|end_char=39
+9	people	people	NOUN	NNS	Number=Plur	7	nmod	_	start_char=40|end_char=46
+10	around	around	ADP	IN	_	11	case	_	start_char=47|end_char=53
+11	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	start_char=54|end_char=57
+12	”	''	PUNCT	''	_	4	punct	_	start_char=57|end_char=58
+
+1	“	''	PUNCT	``	_	6	punct	_	start_char=60|end_char=61
+2	Omg	omg	INTJ	UH	_	6	discourse	_	start_char=61|end_char=64
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=65|end_char=69
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=69|end_char=71
+5	so	so	ADV	RB	_	6	advmod	_	start_char=72|end_char=74
+6	stale	stale	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=80
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=81|end_char=84
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=85|end_char=93
+9	of	of	ADP	IN	_	10	case	_	start_char=94|end_char=96
+10	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	obl	_	start_char=97|end_char=100
+11	to	to	PART	TO	_	12	mark	_	start_char=101|end_char=103
+12	say	say	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=104|end_char=107
+13	”	''	PUNCT	''	_	6	punct	_	start_char=107|end_char=108
+

@@ -1,0 +1,25 @@
+1	And	and	CCONJ	CC	_	7	cc	_	start_char=0|end_char=3
+2	in	in	ADP	IN	_	4	case	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=7|end_char=10
+4	end	end	NOUN	NN	Number=Sing	7	obl	_	start_char=11|end_char=14
+5	,	,	PUNCT	,	_	7	punct	_	start_char=14|end_char=15
+6	nothing	nothing	PRON	NN	Number=Sing	7	nsubj	_	start_char=16|end_char=23
+7	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=31
+8	outside	outside	ADV	RB	_	7	advmod	_	start_char=32|end_char=39
+9	of	of	ADP	IN	_	11	case	_	start_char=40|end_char=42
+10	woke	wake	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	_	start_char=43|end_char=47
+11	circles	circle	NOUN	NNS	Number=Plur	7	obl	_	start_char=48|end_char=55
+12	,	,	PUNCT	,	_	7	punct	_	start_char=55|end_char=56
+13	except	except	ADP	IN	_	15	case	_	start_char=57|end_char=63
+14	for	for	ADP	IN	_	15	case	_	start_char=64|end_char=67
+15	people	people	NOUN	NNS	Number=Plur	7	obl	_	start_char=68|end_char=74
+16	realizing	realize	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=75|end_char=84
+17	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=85|end_char=88
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=89|end_char=97
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=98|end_char=101
+20	racist	racist	ADJ	JJ	Degree=Pos	18	conj	_	start_char=102|end_char=108
+21	this	this	DET	DT	Number=Sing|PronType=Dem	22	det	_	start_char=109|end_char=113
+22	bunch	bunch	NOUN	NN	Number=Sing	23	nsubj	_	start_char=114|end_char=119
+23	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=120|end_char=122
+24	.	.	PUNCT	.	_	7	punct	_	start_char=122|end_char=123
+

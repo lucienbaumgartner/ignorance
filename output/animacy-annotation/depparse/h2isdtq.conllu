@@ -1,0 +1,24 @@
+1	u/	u/	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=2
+2	Zeke	Zeke	PROPN	NNP	Number=Sing	1	flat	_	start_char=2|end_char=6
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	root	_	start_char=6|end_char=9
+
+1	Freak429	Freak429	PROPN	NNP	Number=Sing	0	root	_	start_char=9|end_char=17
+2	:	:	PUNCT	:	_	1	punct	_	start_char=17|end_char=18
+3	A	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=19|end_char=20
+4	frog	frog	NOUN	NN	Number=Sing	1	appos	_	start_char=21|end_char=25
+5	,	,	PUNCT	,	_	6	punct	_	start_char=25|end_char=26
+6	living	live	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=27|end_char=33
+7	confusingly	confusingly	ADV	RB	_	8	advmod	_	start_char=34|end_char=45
+8	aware	aware	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=46|end_char=51
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=52|end_char=55
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=56|end_char=63
+11	of	of	ADP	IN	_	13	case	_	start_char=64|end_char=66
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=67|end_char=70
+13	concept	concept	NOUN	NN	Number=Sing	10	obl	_	start_char=71|end_char=78
+14	of	of	ADP	IN	_	15	case	_	start_char=79|end_char=81
+15	anything	anything	PRON	NN	Number=Sing	13	nmod	_	start_char=82|end_char=90
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=91|end_char=94
+17	everything	everything	PRON	NN	Number=Sing	15	conj	_	start_char=95|end_char=105
+18	.	.	PUNCT	.	_	1	punct	_	start_char=105|end_char=106
+

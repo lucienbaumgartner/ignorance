@@ -1,0 +1,21 @@
+1	Erasure	erasure	NOUN	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=7
+2	of	of	ADP	IN	_	3	case	_	start_char=8|end_char=10
+3	masculinity	masculinity	NOUN	NN	Number=Sing	1	nmod	_	start_char=11|end_char=22
+4	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=23|end_char=28
+5	men	man	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=29|end_char=32
+6	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=33|end_char=38
+7	more	more	ADV	RBR	_	8	advmod	_	start_char=39|end_char=43
+8	obedient	obedient	ADJ	JJ	Degree=Pos	9	amod	_	start_char=44|end_char=52
+9	submissive	submissive	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=53|end_char=63
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=64|end_char=67
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=68|end_char=75
+12	of	of	ADP	IN	_	13	case	_	start_char=76|end_char=78
+13	whats	what	NOUN	NN	Number=Sing	11	obl	_	start_char=79|end_char=84
+14	to	to	PART	TO	_	15	mark	_	start_char=85|end_char=87
+15	come	come	VERB	VB	VerbForm=Inf	13	acl	_	start_char=88|end_char=92
+16	,	,	PUNCT	,	_	19	punct	_	start_char=92|end_char=93
+17	who	who	PRON	WP	PronType=Rel	19	nsubj	_	start_char=93|end_char=96
+18	could	could	AUX	MD	VerbForm=Fin	19	aux	_	start_char=97|end_char=102
+19	want	want	VERB	VB	VerbForm=Inf	15	acl:relcl	_	start_char=103|end_char=107
+20	this🤔🤔🤔	this🤔🤔🤔	PUNCT	.	_	4	punct	_	start_char=108|end_char=115
+

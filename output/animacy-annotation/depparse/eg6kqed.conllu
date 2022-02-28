@@ -1,0 +1,34 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+5	right	right	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=15|end_char=20
+6	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	Not	not	PART	RB	_	9	advmod	_	start_char=22|end_char=25
+2	because	because	SCONJ	IN	_	9	mark	_	start_char=26|end_char=33
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=34|end_char=38
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=39|end_char=41
+5	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=42|end_char=43
+6	legitimate	legitimate	ADJ	JJ	Degree=Pos	9	amod	_	start_char=44|end_char=54
+7	or	or	CCONJ	CC	_	8	cc	_	start_char=55|end_char=57
+8	good	good	ADJ	JJ	Degree=Pos	6	conj	_	start_char=58|end_char=62
+9	reason	reason	NOUN	NN	Number=Sing	0	root	_	start_char=63|end_char=69
+10	,	,	PUNCT	,	_	16	punct	_	start_char=69|end_char=70
+11	but	but	CCONJ	CC	_	16	cc	_	start_char=71|end_char=74
+12	because	because	SCONJ	IN	_	16	mark	_	start_char=75|end_char=82
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=83|end_char=85
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=86|end_char=88
+15	so	so	ADV	RB	_	16	advmod	_	start_char=89|end_char=91
+16	boneheaded	boneheaded	ADJ	JJ	Degree=Pos	9	conj	_	start_char=92|end_char=102
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=103|end_char=106
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=107|end_char=115
+19	that	that	SCONJ	IN	_	23	mark	_	start_char=116|end_char=120
+20	most	most	ADJ	JJS	Degree=Sup	21	amod	_	start_char=121|end_char=125
+21	boomers	boomer	NOUN	NNS	Number=Plur	23	nsubj	_	start_char=126|end_char=133
+22	will	will	AUX	MD	VerbForm=Fin	23	aux	_	start_char=134|end_char=138
+23	lap	lap	VERB	VB	VerbForm=Inf	18	ccomp	_	start_char=139|end_char=142
+24	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obj	_	start_char=143|end_char=145
+25	up	up	ADP	RP	_	23	compound:prt	_	start_char=146|end_char=148
+26	.	.	PUNCT	.	_	9	punct	_	start_char=148|end_char=149
+

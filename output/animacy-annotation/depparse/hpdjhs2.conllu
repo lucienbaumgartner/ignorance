@@ -1,0 +1,19 @@
+1	In	in	ADP	IN	_	5	advmod	_	start_char=0|end_char=2
+2	case	case	NOUN	NN	Number=Sing	1	fixed	_	start_char=3|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+4	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=11|end_char=14
+5	wondering	wonder	VERB	VBG	Tense=Pres|VerbForm=Part	13	advcl	_	start_char=15|end_char=24
+6	why	why	SCONJ	WRB	PronType=Int	10	mark	_	start_char=25|end_char=28
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj:pass	_	start_char=29|end_char=32
+8	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=32|end_char=35
+9	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	_	start_char=36|end_char=41
+10	downvoted	downvote	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=42|end_char=51
+11	,	,	PUNCT	,	_	13	punct	_	start_char=51|end_char=52
+12	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=53|end_char=56
+13	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=62
+14	extremely	extremely	ADV	RB	Degree=Pos	15	advmod	_	start_char=63|end_char=72
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=73|end_char=81
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=82|end_char=85
+17	narrow-minded	narrow-minded	ADJ	JJ	Degree=Pos	15	conj	_	start_char=86|end_char=99
+18	.	.	PUNCT	.	_	5	punct	_	start_char=99|end_char=100
+

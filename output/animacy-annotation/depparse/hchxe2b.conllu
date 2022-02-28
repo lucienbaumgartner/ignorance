@@ -1,0 +1,12 @@
+1	jesus	jesus	PROPN	NNP	Number=Sing	3	vocative	_	start_char=0|end_char=5
+2	...	...	PUNCT	,	_	1	punct	_	start_char=5|end_char=8
+3	talk	talk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+4	about	about	SCONJ	IN	_	6	mark	_	start_char=14|end_char=19
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=20|end_char=25
+6	old	old	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=26|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=34|end_char=41
+9	of	of	ADP	IN	_	11	case	_	start_char=42|end_char=44
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=45|end_char=48
+11	world	world	NOUN	NN	Number=Sing	8	obl	_	start_char=49|end_char=54
+

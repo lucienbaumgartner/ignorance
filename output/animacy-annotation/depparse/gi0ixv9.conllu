@@ -1,0 +1,37 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	priceless	priceless	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=19|end_char=20
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=21|end_char=23
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=23|end_char=26
+4	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=34
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=35|end_char=40
+6	so	so	ADV	RB	_	7	advmod	_	start_char=41|end_char=43
+7	sad	sad	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=44|end_char=47
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=48|end_char=51
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=52|end_char=60
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=61|end_char=65
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=66|end_char=67
+12	insist	insist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=68|end_char=74
+13	two	two	NUM	CD	NumType=Card	14	nummod	_	start_char=75|end_char=78
+14	people	people	NOUN	NNS	Number=Plur	21	nsubj	_	start_char=79|end_char=85
+15	on	on	ADP	IN	_	17	case	_	start_char=86|end_char=88
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=89|end_char=92
+17	internet	internet	NOUN	NN	Number=Sing	14	nmod	_	start_char=93|end_char=101
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=102|end_char=105
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=106|end_char=109
+20	same	same	ADJ	JJ	Degree=Pos	21	amod	_	start_char=110|end_char=114
+21	person	person	NOUN	NN	Number=Sing	12	ccomp	_	start_char=115|end_char=121
+22	just	just	ADV	RB	_	25	advmod	_	start_char=122|end_char=126
+23	because	because	SCONJ	IN	_	25	mark	_	start_char=127|end_char=134
+24	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	start_char=135|end_char=139
+25	disagree	disagree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	advcl	_	start_char=140|end_char=148
+26	with	with	ADP	IN	_	27	case	_	start_char=149|end_char=153
+27	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	25	obl	_	start_char=154|end_char=156
+28	.	.	PUNCT	.	_	4	punct	_	start_char=156|end_char=157
+
+1	Sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=158|end_char=161
+2	.	.	PUNCT	.	_	1	punct	_	start_char=161|end_char=162
+

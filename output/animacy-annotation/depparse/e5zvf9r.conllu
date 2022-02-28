@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=8
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=9|end_char=10
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=11|end_char=14
+6	able	able	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=15|end_char=19
+7	to	to	PART	TO	_	8	mark	_	start_char=20|end_char=22
+8	see	see	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=23|end_char=26
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=27|end_char=31
+10	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=32|end_char=36
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=37|end_char=38
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=39|end_char=42
+13	younger	young	ADJ	JJR	Degree=Cmp	8	advcl	_	start_char=43|end_char=50
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=51|end_char=54
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=55|end_char=62
+16	that	that	SCONJ	IN	_	19	mark	_	start_char=63|end_char=67
+17	there	there	PRON	EX	_	19	expl	_	start_char=68|end_char=73
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	start_char=74|end_char=77
+19	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	15	ccomp	_	start_char=78|end_char=83
+20	to	to	PART	TO	_	23	mark	_	start_char=84|end_char=86
+21	be	be	AUX	VB	VerbForm=Inf	23	cop	_	start_char=87|end_char=89
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=90|end_char=91
+23	twist	twist	NOUN	NN	Number=Sing	19	xcomp	_	start_char=92|end_char=97
+24	.	.	PUNCT	.	_	3	punct	_	start_char=97|end_char=98
+

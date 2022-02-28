@@ -1,0 +1,23 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3|end_char=5
+3	deaf	deaf	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=10
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=11|end_char=14
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=15|end_char=22
+6	of	of	ADP	IN	_	8	case	_	start_char=23|end_char=25
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=26|end_char=29
+8	loud	loud	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=30|end_char=34
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=35|end_char=37
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=38|end_char=40
+11	,	,	PUNCT	,	_	16	punct	_	start_char=40|end_char=41
+12	or	or	CCONJ	CC	_	16	cc	_	start_char=42|end_char=44
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=45|end_char=47
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=48|end_char=50
+15	just	just	ADV	RB	_	16	advmod	_	start_char=51|end_char=55
+16	loud	loud	ADJ	JJ	Degree=Pos	3	conj	_	start_char=56|end_char=60
+17	because	because	SCONJ	IN	_	19	mark	_	start_char=61|end_char=68
+18	"	"	PUNCT	``	_	19	punct	_	start_char=69|end_char=70
+19	GIVE	give	VERB	VB	Mood=Imp|VerbForm=Fin	16	advcl	_	start_char=70|end_char=74
+20	ME	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	iobj	_	start_char=75|end_char=77
+21	FOOOOOOOOOOOOOOOOOD	FOOOOOOOOOOOOOOOOOD	PROPN	NNP	Number=Sing	19	obj	_	start_char=78|end_char=97
+22	"	"	PUNCT	''	_	19	punct	_	start_char=97|end_char=98
+

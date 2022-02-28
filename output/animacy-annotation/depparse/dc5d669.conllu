@@ -1,0 +1,56 @@
+1	sheeple	sheeple	NOUN	NNS	Number=Sing	0	root	_	start_char=0|end_char=7
+2	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	apart	apart	ADV	RB	_	0	root	_	start_char=9|end_char=14
+2	of	of	ADP	IN	_	4	case	_	start_char=15|end_char=17
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=18|end_char=21
+4	empire	empire	NOUN	NN	Number=Sing	1	obl	_	start_char=22|end_char=28
+5	and	and	CCONJ	CC	_	10	cc	_	start_char=29|end_char=32
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=33|end_char=36
+7	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=37|end_char=39
+8	n't	not	PART	RB	_	10	advmod	_	start_char=39|end_char=42
+9	even	even	ADV	RB	_	10	advmod	_	start_char=43|end_char=47
+10	know	know	VERB	VB	VerbForm=Inf	1	conj	_	start_char=48|end_char=52
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=53|end_char=55
+12	.	.	PUNCT	.	_	1	punct	_	start_char=55|end_char=56
+
+1	good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=57|end_char=61
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=62|end_char=66
+3	to	to	ADP	IN	_	8	mark	_	start_char=67|end_char=69
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=70|end_char=73
+5	ca	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=75|end_char=77
+6	n't	not	PART	RB	_	8	advmod	_	start_char=77|end_char=80
+7	even	even	ADV	RB	_	8	advmod	_	start_char=81|end_char=85
+8	take	take	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=86|end_char=90
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=91|end_char=94
+10	time	time	NOUN	NN	Number=Sing	8	obj	_	start_char=95|end_char=99
+11	to	to	PART	TO	_	12	mark	_	start_char=100|end_char=102
+12	read	read	VERB	VB	VerbForm=Inf	10	acl	_	start_char=103|end_char=107
+13	into	into	ADP	IN	_	14	case	_	start_char=108|end_char=112
+14	what	what	PRON	WP	PronType=Int	12	obl	_	start_char=113|end_char=117
+15	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=117|end_char=119
+16	really	really	ADV	RB	_	17	advmod	_	start_char=120|end_char=126
+17	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	14	acl:relcl	_	start_char=127|end_char=136
+18	.	.	PUNCT	.	_	2	punct	_	start_char=136|end_char=137
+
+1	Must	must	AUX	MD	VerbForm=Fin	3	aux	_	start_char=138|end_char=142
+2	be	be	AUX	VB	VerbForm=Inf	3	cop	_	start_char=143|end_char=145
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=146|end_char=150
+4	to	to	PART	TO	_	7	mark	_	start_char=151|end_char=153
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=154|end_char=156
+6	so	so	ADV	RB	_	7	advmod	_	start_char=157|end_char=159
+7	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=160|end_char=167
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=168|end_char=171
+9	blissful	blissful	ADJ	JJ	Degree=Pos	7	conj	_	start_char=172|end_char=180
+10	.	.	PUNCT	.	_	3	punct	_	start_char=180|end_char=181
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=182|end_char=186
+2	last	last	ADJ	JJ	Degree=Pos	4	amod	_	start_char=187|end_char=191
+3	football	football	NOUN	NN	Number=Sing	4	compound	_	start_char=192|end_char=200
+4	game	game	NOUN	NN	Number=Sing	7	nsubj	_	start_char=201|end_char=205
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	start_char=206|end_char=209
+6	really	really	ADV	RB	_	7	advmod	_	start_char=210|end_char=216
+7	extincting	extinct	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=217|end_char=227
+8	huh	huh	INTJ	UH	_	7	obj	_	start_char=228|end_char=231
+9	!!???	!!???	PUNCT	.	_	7	punct	_	start_char=231|end_char=236
+

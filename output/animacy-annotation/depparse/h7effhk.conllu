@@ -1,0 +1,11 @@
+1	because	because	SCONJ	IN	_	4	mark	_	start_char=0|end_char=7
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=8|end_char=9
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=9|end_char=11
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=30
+7	of	of	ADP	IN	_	10	case	_	start_char=31|end_char=33
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	start_char=34|end_char=36
+9	's	's	PART	POS	_	8	case	_	start_char=36|end_char=38
+10	existence	existence	NOUN	NN	Number=Sing	6	obl	_	start_char=39|end_char=48
+

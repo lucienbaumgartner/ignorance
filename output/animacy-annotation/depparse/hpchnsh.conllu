@@ -1,0 +1,39 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	,	,	PUNCT	,	_	5	punct	_	start_char=9|end_char=10
+4	youre	your	AUX	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=16
+5	wrong	wrong	ADJ	JJ	Degree=Pos	2	conj	_	start_char=17|end_char=22
+6	,	,	PUNCT	,	_	7	punct	_	start_char=22|end_char=23
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=24|end_char=32
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=33|end_char=36
+9	unwilling	unwilling	ADJ	JJ	Degree=Pos	5	conj	_	start_char=37|end_char=46
+10	to	to	PART	TO	_	11	mark	_	start_char=47|end_char=49
+11	learn	learn	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=50|end_char=55
+12	anything	anything	PRON	NN	Number=Sing	11	obj	_	start_char=56|end_char=64
+13	.	.	PUNCT	.	_	2	punct	_	start_char=64|end_char=65
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=66|end_char=68
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=68|end_char=70
+3	really	really	ADV	RB	_	4	advmod	_	start_char=71|end_char=77
+4	annoying	annoying	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=86
+5	.	.	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+
+1	Normally	normally	ADV	RB	_	4	advmod	_	start_char=88|end_char=96
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=97|end_char=98
+3	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=99|end_char=104
+4	expend	expend	VERB	VB	VerbForm=Inf	0	root	_	start_char=105|end_char=111
+5	on	on	ADP	IN	_	8	case	_	start_char=112|end_char=114
+6	Jon	Jon	PROPN	NNP	Number=Sing	8	nmod:poss	_	start_char=115|end_char=118
+7	's	's	PART	POS	_	6	case	_	start_char=118|end_char=120
+8	explanation	explanation	NOUN	NN	Number=Sing	4	obl	_	start_char=121|end_char=132
+9	but	but	CCONJ	CC	_	15	cc	_	start_char=133|end_char=136
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nmod:poss	_	start_char=137|end_char=140
+11	Elon	Elon	PROPN	NNP	Number=Sing	12	compound	_	start_char=141|end_char=145
+12	simps	simp	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=146|end_char=151
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=152|end_char=155
+14	literally	literally	ADV	RB	_	15	advmod	_	start_char=156|end_char=165
+15	worst	bad	ADJ	JJS	Degree=Sup	4	conj	_	start_char=166|end_char=171
+16	than	than	ADP	IN	_	17	case	_	start_char=172|end_char=176
+17	anti-vaxxers	anti-vaxxer	NOUN	NNS	Number=Plur	15	obl	_	start_char=177|end_char=189
+18	.	.	PUNCT	.	_	4	punct	_	start_char=189|end_char=190
+

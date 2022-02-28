@@ -1,0 +1,51 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=0|end_char=3
+2	whole	whole	ADJ	JJ	Degree=Pos	4	amod	_	start_char=4|end_char=9
+3	Heynckes	Heynckes	PROPN	NNP	Number=Sing	4	compound	_	start_char=10|end_char=18
+4	situation	situation	NOUN	NN	Number=Sing	6	nsubj	_	start_char=19|end_char=28
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=29|end_char=32
+6	crazy	crazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=33|end_char=38
+7	.	.	PUNCT	.	_	6	punct	_	start_char=38|end_char=39
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=40|end_char=41
+2	still	still	ADV	RB	_	4	advmod	_	start_char=42|end_char=47
+3	cannot	cannot	AUX	MD	VerbForm=Fin	4	aux	_	start_char=48|end_char=54
+4	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=55|end_char=62
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=63|end_char=66
+6	stubborn	stubborn	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=67|end_char=75
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=76|end_char=79
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=80|end_char=88
+9	that	that	PRON	WDT	Number=Sing|PronType=Rel	10	nsubj	_	start_char=89|end_char=93
+10	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=94|end_char=97
+11	to	to	PART	TO	_	12	mark	_	start_char=98|end_char=100
+12	push	push	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=101|end_char=105
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=106|end_char=109
+14	old	old	ADJ	JJ	Degree=Pos	15	amod	_	start_char=110|end_char=113
+15	man	man	NOUN	NN	Number=Sing	12	obj	_	start_char=114|end_char=117
+16	to	to	PART	TO	_	17	mark	_	start_char=118|end_char=120
+17	continue	continue	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=121|end_char=129
+18	.	.	PUNCT	.	_	4	punct	_	start_char=129|end_char=130
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=132|end_char=134
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=135|end_char=139
+3	back	back	ADV	RB	_	2	advmod	_	start_char=140|end_char=144
+4	to	to	PART	TO	_	5	mark	_	start_char=145|end_char=147
+5	help	help	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=148|end_char=152
+6	out	out	ADP	RP	_	5	compound:prt	_	start_char=153|end_char=156
+7	,	,	PUNCT	,	_	2	punct	_	start_char=156|end_char=157
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=158|end_char=160
+9	clearly	clearly	ADV	RB	_	10	advmod	_	start_char=161|end_char=168
+10	stated	state	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	start_char=169|end_char=175
+11	that	that	SCONJ	IN	_	14	mark	_	start_char=176|end_char=180
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=181|end_char=185
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	start_char=186|end_char=189
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	ccomp	_	start_char=190|end_char=192
+15	.	.	PUNCT	.	_	2	punct	_	start_char=192|end_char=193
+
+1	Uli	Uli	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=194|end_char=197
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=198|end_char=205
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=206|end_char=208
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=209|end_char=212
+5	convince	convince	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=213|end_char=221
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=222|end_char=225
+7	.	.	PUNCT	.	_	2	punct	_	start_char=225|end_char=226
+

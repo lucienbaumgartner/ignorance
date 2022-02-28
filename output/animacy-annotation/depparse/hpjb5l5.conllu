@@ -1,0 +1,25 @@
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3|end_char=5
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=6|end_char=10
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=10|end_char=13
+5	affect	affect	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=14|end_char=20
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=21|end_char=25
+7	life	life	NOUN	NN	Number=Sing	5	obj	_	start_char=26|end_char=30
+8	then	then	ADV	RB	PronType=Dem	11	advmod	_	start_char=31|end_char=35
+9	do	do	AUX	VB	VerbForm=Fin	11	aux	_	start_char=36|end_char=38
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=38|end_char=41
+11	make	make	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=42|end_char=46
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	amod	_	start_char=47|end_char=55
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=56|end_char=59
+14	shitty	shitty	ADJ	JJ	Degree=Pos	12	conj	_	start_char=60|end_char=66
+15	comments	comment	NOUN	NNS	Number=Plur	11	obj	_	start_char=67|end_char=75
+16	saying	say	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=76|end_char=82
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=83|end_char=85
+18	gf	gf	NOUN	NN	Number=Sing	21	nsubj	_	start_char=86|end_char=88
+19	“	''	PUNCT	``	_	21	punct	_	start_char=89|end_char=90
+20	could	could	AUX	MD	VerbForm=Fin	21	aux	_	start_char=90|end_char=95
+21	do	do	VERB	VB	VerbForm=Inf	16	ccomp	_	start_char=96|end_char=98
+22	better	well	ADV	RBR	Degree=Cmp	21	advmod	_	start_char=99|end_char=105
+23	”	''	PUNCT	''	_	21	punct	_	start_char=105|end_char=106
+24	.	.	PUNCT	.	_	11	punct	_	start_char=106|end_char=107
+

@@ -1,0 +1,8 @@
+1	Disingenuous	disingenuous	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=12
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=13|end_char=16
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=17|end_char=25
+4	of	of	ADP	IN	_	6	case	_	start_char=26|end_char=28
+5	business	business	NOUN	NN	Number=Sing	6	compound	_	start_char=29|end_char=37
+6	prax	prax	NOUN	NN	Number=Sing	1	obl	_	start_char=38|end_char=42
+7	.	.	PUNCT	.	_	1	punct	_	start_char=42|end_char=43
+

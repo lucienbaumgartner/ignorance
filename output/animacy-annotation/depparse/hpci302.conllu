@@ -1,0 +1,88 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Apparently	apparently	ADV	RB	_	8	advmod	_	start_char=4|end_char=14
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=15|end_char=16
+3	lot	lot	NOUN	NN	Number=Sing	8	nsubj	_	start_char=17|end_char=20
+4	of	of	ADP	IN	_	5	case	_	start_char=21|end_char=23
+5	people	people	NOUN	NNS	Number=Plur	3	nmod	_	start_char=24|end_char=30
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=31|end_char=34
+7	just	just	ADV	RB	_	8	advmod	_	start_char=35|end_char=39
+8	weak	weak	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=44
+9	?	?	PUNCT	.	_	8	punct	_	start_char=44|end_char=45
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=46|end_char=50
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=57
+3	pretentious	pretentious	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=58|end_char=69
+4	,	,	PUNCT	,	_	8	punct	_	start_char=69|end_char=70
+5	but	but	CCONJ	CC	_	12	cc	_	start_char=71|end_char=74
+6	like	like	INTJ	UH	_	12	discourse	_	start_char=75|end_char=79
+7	...	...	PUNCT	,	_	8	punct	_	start_char=79|end_char=82
+8	what	what	DET	WDT	PronType=Int	2	conj	_	start_char=82|end_char=86
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	start_char=87|end_char=92
+10	explanation	explanation	NOUN	NN	Number=Sing	12	nsubj	_	start_char=93|end_char=104
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=105|end_char=107
+12	there	there	ADV	RB	PronType=Dem	8	acl:relcl	_	start_char=108|end_char=113
+13	,	,	PUNCT	,	_	19	punct	_	start_char=113|end_char=114
+14	if	if	SCONJ	IN	_	19	mark	_	start_char=115|end_char=117
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=118|end_char=120
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=120|end_char=122
+17	not	not	PART	RB	_	19	advmod	_	start_char=123|end_char=126
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=127|end_char=128
+19	meme	meme	NOUN	NN	Number=Sing	2	advcl	_	start_char=129|end_char=133
+20	?	?	PUNCT	.	_	2	punct	_	start_char=133|end_char=134
+
+1	Lol	lol	INTJ	UH	_	0	root	_	start_char=135|end_char=138
+2	.	.	PUNCT	.	_	1	punct	_	start_char=138|end_char=139
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=142|end_char=145
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=146|end_char=154
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=155|end_char=158
+4	stupid	stupid	ADJ	JJ	Degree=Pos	2	conj	_	start_char=159|end_char=165
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=166|end_char=168
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=169|end_char=172
+7	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=173|end_char=177
+8	to	to	PART	TO	_	9	mark	_	start_char=178|end_char=180
+9	be	be	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=181|end_char=183
+10	to	to	PART	TO	_	11	mark	_	start_char=184|end_char=186
+11	say	say	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=187|end_char=190
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=191|end_char=195
+13	?	?	PUNCT	.	_	2	punct	_	start_char=195|end_char=196
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=197|end_char=200
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=201|end_char=204
+3	not	not	PART	RB	_	4	advmod	_	start_char=205|end_char=208
+4	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=209|end_char=214
+5	of	of	ADP	IN	_	10	case	_	start_char=215|end_char=217
+6	IBS	IBS	PROPN	NNP	Number=Sing	10	nmod:poss	_	start_char=218|end_char=221
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=222|end_char=225
+8	Crohn	Crohn	PROPN	NNP	Number=Sing	6	conj	_	start_char=226|end_char=231
+9	's	's	PART	POS	_	8	case	_	start_char=231|end_char=233
+10	disease	disease	NOUN	NN	Number=Sing	4	obl	_	start_char=234|end_char=241
+11	.	.	PUNCT	.	_	4	punct	_	start_char=241|end_char=242
+
+1	What	what	PRON	WP	PronType=Int	4	obl	_	start_char=243|end_char=247
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=248|end_char=250
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=251|end_char=252
+4	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=253|end_char=260
+5	about	about	ADP	IN	_	1	case	_	start_char=261|end_char=266
+6	?	?	PUNCT	.	_	4	punct	_	start_char=266|end_char=267
+
+1	Of	of	ADP	IN	_	6	advmod	_	start_char=268|end_char=270
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=271|end_char=277
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=278|end_char=281
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=282|end_char=284
+5	n't	not	PART	RB	_	6	advmod	_	start_char=284|end_char=287
+6	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=288|end_char=292
+7	otherwise	otherwise	ADV	RB	_	6	advmod	_	start_char=293|end_char=302
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=303|end_char=306
+9	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=307|end_char=312
+10	n't	not	PART	RB	_	12	advmod	_	start_char=312|end_char=315
+11	have	have	AUX	VB	VerbForm=Inf	12	aux	_	start_char=316|end_char=320
+12	made	make	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	start_char=321|end_char=325
+13	such	such	DET	PDT	_	16	det:predet	_	start_char=326|end_char=330
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=331|end_char=332
+15	dumbass	dumbass	ADJ	JJ	Degree=Pos	16	amod	_	start_char=333|end_char=340
+16	statement	statement	NOUN	NN	Number=Sing	12	obj	_	start_char=341|end_char=350
+17	.	.	PUNCT	.	_	6	punct	_	start_char=350|end_char=351
+

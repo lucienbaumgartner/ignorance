@@ -1,0 +1,27 @@
+1	Same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Recently	recently	ADV	RB	_	2	advmod	_	start_char=6|end_char=14
+2	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=15|end_char=22
+3	again	again	ADV	RB	_	2	advmod	_	start_char=23|end_char=28
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=29|end_char=32
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=33|end_char=34
+6	gotta	gotta	AUX	MD	VerbForm=Fin	7	aux	_	start_char=35|end_char=40
+7	say	say	VERB	VB	VerbForm=Inf	2	conj	_	start_char=41|end_char=44
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=45|end_char=47
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=47|end_char=49
+10	not	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=50|end_char=53
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=54|end_char=55
+12	good	good	ADJ	JJ	Degree=Pos	13	amod	_	start_char=56|end_char=60
+13	time	time	NOUN	NN	Number=Sing	7	ccomp	_	start_char=61|end_char=65
+14	.	.	PUNCT	.	_	2	punct	_	start_char=65|end_char=66
+
+1	Gonna	gonna	INTJ	UH	_	2	discourse	_	start_char=67|end_char=72
+2	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=73|end_char=75
+3	back	back	ADV	RB	_	2	advmod	_	start_char=76|end_char=80
+4	to	to	SCONJ	IN	_	6	mark	_	start_char=81|end_char=83
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=84|end_char=89
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=90|end_char=98
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=99|end_char=102
+8	happy	happy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=103|end_char=108
+

@@ -1,0 +1,25 @@
+1	Ooh	ooh	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=3|end_char=4
+3	ooh	ooh	INTJ	UH	_	1	discourse	_	start_char=5|end_char=8
+4	!	!	PUNCT	.	_	1	punct	_	start_char=8|end_char=9
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=10|end_char=11
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=12|end_char=15
+3	answer	answer	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=22
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=23|end_char=27
+5	one	one	NOUN	NN	Number=Sing	3	obj	_	start_char=28|end_char=31
+6	!	!	PUNCT	.	_	3	punct	_	start_char=31|end_char=32
+
+1	Trump	Trump	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=33|end_char=38
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=39|end_char=41
+3	BOTH	both	ADV	RB	_	4	advmod	_	start_char=42|end_char=46
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=55
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=56|end_char=59
+6	evil	evil	ADJ	JJ	Degree=Pos	4	conj	_	start_char=60|end_char=64
+7	,	,	PUNCT	,	_	10	punct	_	start_char=64|end_char=65
+8	as	as	SCONJ	IN	_	10	mark	_	start_char=66|end_char=68
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=69|end_char=71
+10	Alex	Alex	PROPN	NNP	Number=Sing	4	advcl	_	start_char=72|end_char=76
+11	Jones	Jones	PROPN	NNP	Number=Sing	10	flat	_	start_char=77|end_char=82
+12	.	.	PUNCT	.	_	4	punct	_	start_char=82|end_char=83
+

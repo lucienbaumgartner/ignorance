@@ -1,0 +1,55 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+4	with	with	ADP	IN	_	5	case	_	start_char=13|end_char=17
+5	all	all	DET	DT	_	3	obl	_	start_char=18|end_char=21
+6	of	of	ADP	IN	_	7	case	_	start_char=22|end_char=24
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nmod	_	start_char=25|end_char=29
+8	.	.	PUNCT	.	_	3	punct	_	start_char=29|end_char=30
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=31|end_char=32
+2	dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=33|end_char=37
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=38|end_char=42
+4	,	,	PUNCT	,	_	3	punct	_	start_char=42|end_char=43
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=44|end_char=45
+6	just	just	ADV	RB	_	7	advmod	_	start_char=46|end_char=50
+7	feel	feel	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=51|end_char=55
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=56|end_char=57
+9	little	little	ADJ	JJ	Degree=Pos	10	obl:npmod	_	start_char=58|end_char=64
+10	worse	bad	ADJ	JJR	Degree=Cmp	7	xcomp	_	start_char=65|end_char=70
+11	than	than	ADP	IN	_	12	case	_	start_char=71|end_char=75
+12	before	before	ADV	RB	Degree=Pos	10	obl	_	start_char=76|end_char=82
+13	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=84|end_char=85
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=86|end_char=91
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=92|end_char=94
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=95|end_char=97
+5	super	super	ADV	RB	_	6	advmod	_	start_char=98|end_char=103
+6	clueless	clueless	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=104|end_char=112
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=113|end_char=116
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=117|end_char=124
+9	of	of	SCONJ	IN	_	10	case	_	start_char=125|end_char=127
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=128|end_char=132
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=132|end_char=134
+12	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	10	acl:relcl	_	start_char=135|end_char=140
+13	on	on	ADP	RP	_	12	compound:prt	_	start_char=141|end_char=143
+14	.	.	PUNCT	.	_	2	punct	_	start_char=143|end_char=144
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=145|end_char=147
+2	,	,	PUNCT	,	_	5	punct	_	start_char=147|end_char=148
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=149|end_char=150
+4	dont	do	AUX	MD	VerbForm=Fin	5	aux	_	start_char=151|end_char=155
+5	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=156|end_char=160
+6	to	to	PART	TO	_	7	mark	_	start_char=161|end_char=163
+7	sit	sit	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=164|end_char=167
+8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=168|end_char=171
+9	down	down	ADP	RP	_	7	compound:prt	_	start_char=172|end_char=176
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=177|end_char=180
+11	give	give	VERB	VB	VerbForm=Inf	7	conj	_	start_char=181|end_char=185
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	start_char=186|end_char=189
+13	relationship	relationship	NOUN	NN	Number=Sing	11	obj	_	start_char=190|end_char=202
+14	101	101	NUM	CD	NumType=Card	13	nummod	_	start_char=203|end_char=206
+15	either	either	ADV	RB	_	11	advmod	_	start_char=207|end_char=213
+16	.	.	PUNCT	.	_	5	punct	_	start_char=213|end_char=214
+

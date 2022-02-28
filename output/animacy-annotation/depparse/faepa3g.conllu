@@ -1,0 +1,25 @@
+1	Tbh	tbh	ADV	RB	_	3	advmod	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	3	expl	_	start_char=4|end_char=9
+3	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=11
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=12|end_char=13
+5	difference	difference	NOUN	NN	Number=Sing	3	nsubj	_	start_char=14|end_char=24
+6	between	between	SCONJ	IN	_	9	mark	_	start_char=25|end_char=32
+7	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=33|end_char=38
+8	socially	socially	ADV	RB	_	9	advmod	_	start_char=39|end_char=47
+9	unaware	unaware	ADJ	JJ	Degree=Pos	5	acl	_	start_char=48|end_char=55
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=56|end_char=59
+11	arrogant	arrogant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=60|end_char=68
+12	.	.	PUNCT	.	_	3	punct	_	start_char=68|end_char=69
+
+1	Having	have	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=70|end_char=76
+2	Aspergers	asperger	NOUN	NNS	Number=Plur	1	obj	_	start_char=77|end_char=86
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=87|end_char=89
+4	n't	not	PART	RB	_	6	advmod	_	start_char=89|end_char=92
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=93|end_char=95
+6	excuse	excuse	NOUN	NN	Number=Sing	0	root	_	start_char=96|end_char=102
+7	for	for	SCONJ	IN	_	8	mark	_	start_char=103|end_char=106
+8	lacking	lack	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=107|end_char=114
+9	self	self	NOUN	NN	Number=Sing	10	compound	_	start_char=115|end_char=119
+10	awareness	awareness	NOUN	NN	Number=Sing	8	obj	_	start_char=120|end_char=129
+11	.	.	PUNCT	.	_	6	punct	_	start_char=129|end_char=130
+

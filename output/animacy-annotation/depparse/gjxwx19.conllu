@@ -1,0 +1,31 @@
+1	Looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	like	like	SCONJ	IN	_	4	mark	_	start_char=6|end_char=10
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=11|end_char=13
+4	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=14|end_char=19
+5	off	off	ADP	IN	_	7	case	_	start_char=20|end_char=23
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=24|end_char=27
+7	track	track	NOUN	NN	Number=Sing	4	obl	_	start_char=28|end_char=33
+8	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=35|end_char=37
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=38|end_char=41
+3	driving	drive	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=42|end_char=49
+4	sloppy	sloppy	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=50|end_char=56
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=57|end_char=60
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=61|end_char=68
+7	of	of	ADP	IN	_	9	case	_	start_char=69|end_char=71
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	_	start_char=72|end_char=77
+9	cars	car	NOUN	NNS	Number=Plur	6	obl	_	start_char=78|end_char=82
+10	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=84|end_char=85
+2	normal	normal	ADJ	JJ	Degree=Pos	3	amod	_	start_char=86|end_char=92
+3	driver	driver	NOUN	NN	Number=Sing	6	nsubj	_	start_char=93|end_char=99
+4	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=100|end_char=105
+5	have	have	AUX	VB	VerbForm=Inf	6	aux	_	start_char=106|end_char=110
+6	stayed	stay	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=111|end_char=117
+7	next	next	ADV	RB	_	6	advmod	_	start_char=118|end_char=122
+8	to	to	ADP	IN	_	9	case	_	start_char=123|end_char=125
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=126|end_char=129
+10	.	.	PUNCT	.	_	6	punct	_	start_char=129|end_char=130
+

@@ -1,0 +1,55 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Idk	idk	INTJ	UH	_	4	discourse	_	start_char=4|end_char=7
+2	,	,	PUNCT	,	_	4	punct	_	start_char=7|end_char=8
+3	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=9|end_char=15
+4	fail	fail	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+5	to	to	PART	TO	_	6	mark	_	start_char=21|end_char=23
+6	realize	realize	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=24|end_char=31
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=32|end_char=36
+8	LEGO	lego	NOUN	NN	Number=Sing	12	nsubj	_	start_char=37|end_char=41
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=42|end_char=44
+10	mainly	mainly	ADV	RB	_	12	advmod	_	start_char=45|end_char=51
+11	for	for	ADP	IN	_	12	case	_	start_char=52|end_char=55
+12	children	child	NOUN	NNS	Number=Plur	6	ccomp	_	start_char=56|end_char=64
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=66|end_char=70
+2	.	.	PUNCT	.	_	1	punct	_	start_char=70|end_char=71
+
+1	Exactly	exactly	ADV	RB	_	2	advmod	_	start_char=72|end_char=79
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=80|end_char=84
+3	.	.	PUNCT	.	_	2	punct	_	start_char=84|end_char=85
+
+1	People	person	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=86|end_char=92
+2	on	on	ADP	IN	_	4	case	_	start_char=93|end_char=95
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=96|end_char=100
+4	sub	sub	NOUN	NN	Number=Sing	1	nmod	_	start_char=101|end_char=104
+5	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=105|end_char=108
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=109|end_char=111
+7	so	so	ADV	RB	_	8	advmod	_	start_char=112|end_char=114
+8	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=115|end_char=122
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=123|end_char=126
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=127|end_char=135
+11	that	that	SCONJ	IN	_	14	mark	_	start_char=136|end_char=140
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=141|end_char=145
+13	completely	completely	ADV	RB	Degree=Pos	14	advmod	_	start_char=146|end_char=156
+14	forget	forget	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=157|end_char=163
+15	Lego	Lego	PROPN	NNP	Number=Sing	16	compound	_	start_char=164|end_char=168
+16	products	product	NOUN	NNS	Number=Plur	18	nsubj:pass	_	start_char=169|end_char=177
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	start_char=178|end_char=181
+18	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	ccomp	_	start_char=182|end_char=186
+19	for	for	ADP	IN	_	20	case	_	start_char=187|end_char=190
+20	children	child	NOUN	NNS	Number=Plur	18	obl	_	start_char=191|end_char=199
+21	first	first	ADV	RB	Degree=Pos|NumType=Ord	18	advmod	_	start_char=200|end_char=205
+22	because	because	SCONJ	IN	_	30	mark	_	start_char=206|end_char=213
+23	children	child	NOUN	NNS	Number=Plur	30	nsubj	_	start_char=214|end_char=222
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	start_char=223|end_char=225
+25	The	the	DET	DT	Definite=Def|PronType=Art	27	det	_	start_char=226|end_char=229
+26	Lego	Lego	PROPN	NNP	Number=Sing	27	compound	_	start_char=230|end_char=234
+27	Group	Group	PROPN	NNP	Number=Sing	30	nmod:poss	_	start_char=235|end_char=240
+28	's	's	PART	POS	_	27	case	_	start_char=240|end_char=242
+29	main	main	ADJ	JJ	Degree=Pos	30	amod	_	start_char=243|end_char=247
+30	demographic	demographic	ADJ	JJ	Degree=Pos	18	advcl	_	start_char=248|end_char=259
+31	.	.	PUNCT	.	_	8	punct	_	start_char=259|end_char=260
+

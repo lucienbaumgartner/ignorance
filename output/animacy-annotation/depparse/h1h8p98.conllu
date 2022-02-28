@@ -1,0 +1,78 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=14
+5	need	need	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=15|end_char=19
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=20|end_char=21
+7	mother	mother	NOUN	NN	Number=Sing	5	obj	_	start_char=22|end_char=28
+8	.	.	PUNCT	.	_	2	punct	_	start_char=28|end_char=29
+
+1	Clearly	clearly	ADV	RB	_	6	advmod	_	start_char=30|end_char=37
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj:pass	_	start_char=38|end_char=41
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=42|end_char=45
+4	n't	not	PART	RB	_	6	advmod	_	start_char=45|end_char=48
+5	get	get	AUX	VB	VerbForm=Inf	6	aux:pass	_	start_char=49|end_char=52
+6	taught	teach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=53|end_char=59
+7	respect	respect	NOUN	NN	Number=Sing	6	obj	_	start_char=60|end_char=67
+8	,	,	PUNCT	,	_	9	punct	_	start_char=67|end_char=68
+9	manors	manor	NOUN	NNS	Number=Plur	7	conj	_	start_char=69|end_char=75
+10	,	,	PUNCT	,	_	12	punct	_	start_char=75|end_char=76
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=77|end_char=80
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=81|end_char=85
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=86|end_char=87
+14	serious	serious	ADJ	JJ	Degree=Pos	15	amod	_	start_char=88|end_char=95
+15	lack	lack	NOUN	NN	Number=Sing	12	obj	_	start_char=96|end_char=100
+16	of	of	ADP	IN	_	17	case	_	start_char=101|end_char=103
+17	care	care	NOUN	NN	Number=Sing	15	nmod	_	start_char=104|end_char=108
+18	for	for	ADP	IN	_	19	case	_	start_char=109|end_char=112
+19	others	other	NOUN	NNS	Number=Plur	15	nmod	_	start_char=113|end_char=119
+20	.	.	PUNCT	.	_	6	punct	_	start_char=119|end_char=120
+
+1	There	there	PRON	EX	_	3	expl	_	start_char=123|end_char=128
+2	still	still	ADV	RB	_	3	advmod	_	start_char=129|end_char=134
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=135|end_char=137
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=138|end_char=139
+5	time	time	NOUN	NN	Number=Sing	3	nsubj	_	start_char=140|end_char=144
+6	to	to	PART	TO	_	8	mark	_	start_char=145|end_char=147
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	start_char=148|end_char=150
+8	ashamed	ashamed	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=151|end_char=158
+9	of	of	SCONJ	IN	_	11	mark	_	start_char=159|end_char=161
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=162|end_char=167
+11	wrong	wrong	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=168|end_char=173
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=174|end_char=177
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=178|end_char=186
+14	.	.	PUNCT	.	_	3	punct	_	start_char=186|end_char=187
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=188|end_char=192
+2	time	time	NOUN	NN	Number=Sing	4	nsubj	_	start_char=193|end_char=197
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=198|end_char=200
+4	now	now	ADV	RB	_	0	root	_	start_char=201|end_char=204
+5	.	.	PUNCT	.	_	4	punct	_	start_char=204|end_char=205
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=206|end_char=209
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=210|end_char=213
+3	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=214|end_char=219
+4	.	.	PUNCT	.	_	3	punct	_	start_char=219|end_char=220
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=221|end_char=224
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=225|end_char=228
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=229|end_char=237
+4	.	.	PUNCT	.	_	3	punct	_	start_char=237|end_char=238
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=241|end_char=244
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=244|end_char=247
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=248|end_char=251
+4	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=252|end_char=255
+5	who	who	PRON	WP	PronType=Rel	7	obj	_	start_char=256|end_char=259
+6	everyone	everyone	PRON	NN	Number=Sing	7	nsubj	_	start_char=260|end_char=268
+7	disagrees	disagree	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=269|end_char=278
+8	with	with	ADP	IN	_	5	case	_	start_char=279|end_char=283
+9	here	here	ADV	RB	PronType=Dem	7	obl	_	start_char=284|end_char=288
+10	.	.	PUNCT	.	_	4	punct	_	start_char=288|end_char=289
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=292|end_char=296
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=297|end_char=302
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=303|end_char=306
+4	wrong	wrong	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=307|end_char=312
+5	.	.	PUNCT	.	_	2	punct	_	start_char=312|end_char=313
+

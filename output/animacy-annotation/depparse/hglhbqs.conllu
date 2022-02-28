@@ -1,0 +1,46 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	keep	keep	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	posting	post	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=9|end_char=16
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=17|end_char=21
+5	to	to	ADP	IN	_	6	case	_	start_char=22|end_char=24
+6	subreddits	subreddit	NOUN	NNS	Number=Plur	3	obl	_	start_char=25|end_char=35
+7	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=36|end_char=40
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=41|end_char=43
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=44|end_char=46
+10	obvious	obvious	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=47|end_char=54
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=55|end_char=57
+12	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=58|end_char=62
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=62|end_char=65
+14	belong	belong	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=66|end_char=72
+15	.	.	PUNCT	.	_	2	punct	_	start_char=72|end_char=73
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=74|end_char=78
+2	like	like	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=79|end_char=83
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=84|end_char=88
+4	post	post	NOUN	NN	Number=Sing	2	obj	_	start_char=89|end_char=93
+5	over	over	ADV	RB	_	2	advmod	_	start_char=94|end_char=98
+6	on	on	ADP	IN	_	9	case	_	start_char=99|end_char=101
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=102|end_char=105
+8	Battlefield	Battlefield	PROPN	NNP	Number=Sing	9	compound	_	start_char=106|end_char=117
+9	subreddit	subreddit	NOUN	NN	Number=Sing	2	obl	_	start_char=118|end_char=127
+10	.	.	PUNCT	.	_	2	punct	_	start_char=127|end_char=128
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=130|end_char=132
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=132|end_char=134
+3	really	really	ADV	RB	Degree=Pos	4	advmod	_	start_char=135|end_char=141
+4	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=142|end_char=145
+5	that	that	SCONJ	IN	_	10	mark	_	start_char=146|end_char=150
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=151|end_char=154
+7	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=154|end_char=157
+8	somehow	somehow	ADV	RB	_	10	advmod	_	start_char=158|end_char=165
+9	so	so	ADV	RB	_	10	advmod	_	start_char=166|end_char=168
+10	oblivious	oblivious	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=169|end_char=178
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=179|end_char=182
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=183|end_char=191
+13	that	that	SCONJ	IN	_	15	mark	_	start_char=192|end_char=196
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=197|end_char=200
+15	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=201|end_char=206
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	17	nsubj	_	start_char=207|end_char=211
+17	belongs	belong	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	start_char=212|end_char=219
+18	here	here	ADV	RB	PronType=Dem	17	advmod	_	start_char=220|end_char=224
+

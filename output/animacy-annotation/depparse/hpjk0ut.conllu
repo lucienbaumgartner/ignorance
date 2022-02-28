@@ -1,0 +1,34 @@
+1	7th	7th	ADJ	JJ	Degree=Pos|NumType=Ord	2	amod	_	start_char=0|end_char=3
+2	place	place	NOUN	NN	Number=Sing	4	compound	_	start_char=4|end_char=9
+3	Spanish	Spanish	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=17
+4	team	team	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=22
+5	,	,	PUNCT	,	_	6	punct	_	start_char=22|end_char=23
+6	beat	beat	VERB	VB	VerbForm=Inf	4	acl	_	start_char=24|end_char=28
+7	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=29|end_char=32
+8	2nd	2nd	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	_	start_char=33|end_char=36
+9	places	place	NOUN	NNS	Number=Plur	11	compound	_	start_char=37|end_char=43
+10	epl	epl	NOUN	NN	Number=Sing	11	compound	_	start_char=44|end_char=47
+11	team	team	NOUN	NN	Number=Sing	6	obj	_	start_char=48|end_char=52
+12	in	in	ADP	IN	_	14	case	_	start_char=53|end_char=55
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=56|end_char=59
+14	europa	europa	PROPN	NNP	Number=Sing	11	nmod	_	start_char=60|end_char=66
+15	final	final	ADJ	JJ	Degree=Pos	17	amod	_	start_char=67|end_char=72
+16	merely	merely	ADV	RB	_	17	advmod	_	start_char=73|end_char=79
+17	months	month	NOUN	NNS	Number=Plur	18	obl:npmod	_	start_char=80|end_char=86
+18	ago	ago	ADV	RB	_	6	advmod	_	start_char=87|end_char=90
+19	btw	btw	ADV	RB	_	18	advmod	_	start_char=91|end_char=94
+20	.	.	PUNCT	.	_	4	punct	_	start_char=94|end_char=95
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nmod:poss	_	start_char=96|end_char=99
+2	EPL	EPL	PROPN	NNP	Number=Sing	3	compound	_	start_char=100|end_char=103
+3	fanboys	fanboy	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=104|end_char=111
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=112|end_char=115
+5	really	really	ADV	RB	_	8	advmod	_	start_char=116|end_char=122
+6	top	top	ADJ	JJ	Degree=Pos	7	amod	_	start_char=123|end_char=126
+7	notch	notch	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=127|end_char=132
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=133|end_char=141
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=142|end_char=145
+10	insufferable	insufferable	ADJ	JJ	Degree=Pos	8	conj	_	start_char=146|end_char=158
+11	twats	twat	NOUN	NNS	Number=Plur	0	root	_	start_char=159|end_char=164
+12	.	.	PUNCT	.	_	11	punct	_	start_char=164|end_char=165
+

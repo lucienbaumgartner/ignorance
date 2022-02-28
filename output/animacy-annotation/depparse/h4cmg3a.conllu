@@ -1,0 +1,33 @@
+1	kinda	kinda	ADV	RB	_	3	advmod	_	start_char=0|end_char=5
+2	racist	racist	ADJ	JJ	Degree=Pos	3	amod	_	start_char=6|end_char=12
+3	id	id	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=15
+
+1	k	k	PROPN	NNP	Number=Sing	0	root	_	start_char=15|end_char=16
+
+1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=18|end_char=21
+2	modern	modern	ADJ	JJ	Degree=Pos	3	amod	_	start_char=22|end_char=28
+3	Japanese	Japanese	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=29|end_char=37
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=38|end_char=40
+5	mostly	mostly	ADV	RB	_	6	advmod	_	start_char=41|end_char=47
+6	apolitical	apolitical	ADJ	JJ	Degree=Pos	0	root	_	start_char=48|end_char=58
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=59|end_char=62
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=63|end_char=70
+9	of	of	ADP	IN	_	12	case	_	start_char=71|end_char=73
+10	imperial	imperial	ADJ	JJ	Degree=Pos	12	amod	_	start_char=74|end_char=82
+11	Japanese	Japanese	ADJ	JJ	Degree=Pos	12	amod	_	start_char=83|end_char=91
+12	crimes	crime	NOUN	NNS	Number=Plur	8	obl	_	start_char=92|end_char=98
+13	.	.	PUNCT	.	_	6	punct	_	start_char=98|end_char=99
+
+1	Maybe	maybe	ADV	RB	_	2	advmod	_	start_char=100|end_char=105
+2	educate	educate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=106|end_char=113
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=114|end_char=118
+4	instead	instead	ADV	RB	Degree=Pos	6	mark	_	start_char=119|end_char=126
+5	of	of	SCONJ	IN	_	4	fixed	_	start_char=127|end_char=129
+6	making	make	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=130|end_char=136
+7	nanjing	nanj	VERB	VBG	VerbForm=Ger	6	xcomp	_	start_char=137|end_char=144
+8	“	''	PUNCT	``	_	9	punct	_	start_char=145|end_char=146
+9	unsafe	unsafe	ADJ	JJ	Degree=Pos	7	obj	_	start_char=146|end_char=152
+10	”	''	PUNCT	''	_	9	punct	_	start_char=152|end_char=153
+11	for	for	ADP	IN	_	12	case	_	start_char=154|end_char=157
+12	Japanese	Japanese	PROPN	NNP	Number=Sing	9	obl	_	start_char=158|end_char=166
+

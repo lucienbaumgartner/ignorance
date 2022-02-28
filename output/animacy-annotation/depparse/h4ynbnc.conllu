@@ -1,0 +1,21 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	all	all	DET	DT	_	1	det	_	start_char=3|end_char=6
+3	miss	miss	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=12|end_char=15
+5	past	past	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=20
+6	,	,	PUNCT	,	_	3	punct	_	start_char=20|end_char=21
+7	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=22|end_char=26
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=27|end_char=29
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	cop	_	start_char=30|end_char=34
+10	young	young	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=35|end_char=40
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=41|end_char=44
+12	innocent	innocent	ADJ	JJ	Degree=Pos	10	conj	_	start_char=45|end_char=53
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=54|end_char=57
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=58|end_char=66
+15	of	of	ADP	IN	_	17	case	_	start_char=67|end_char=69
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=70|end_char=73
+17	horrors	horror	NOUN	NNS	Number=Plur	14	obl	_	start_char=74|end_char=81
+18	of	of	ADP	IN	_	20	case	_	start_char=82|end_char=84
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=85|end_char=88
+20	world	world	NOUN	NN	Number=Sing	17	nmod	_	start_char=89|end_char=94
+

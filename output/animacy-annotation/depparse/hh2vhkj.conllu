@@ -1,0 +1,24 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	to	to	PART	TO	_	4	mark	_	start_char=8|end_char=10
+4	have	have	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=15
+5	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=16|end_char=18
+6	almost	almost	ADV	RB	_	7	advmod	_	start_char=19|end_char=25
+7	fetish-	fetish-	ADJ	JJ	Degree=Pos	9	amod	_	start_char=26|end_char=33
+8	ical	ical	NOUN	NN	Number=Sing	9	compound	_	start_char=33|end_char=37
+9	fantasy	fantasy	NOUN	NN	Number=Sing	4	obj	_	start_char=38|end_char=45
+10	with	with	ADP	IN	_	11	case	_	start_char=46|end_char=50
+11	Hindus	Hindus	PROPN	NNPS	Number=Plur	9	nmod	_	start_char=51|end_char=57
+12	.	.	PUNCT	.	_	2	punct	_	start_char=57|end_char=58
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=59|end_char=63
+2	profile	profile	NOUN	NN	Number=Sing	4	nsubj	_	start_char=64|end_char=71
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=72|end_char=74
+4	shite	shite	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=80
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=81|end_char=84
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=85|end_char=93
+7	of	of	ADP	IN	_	9	case	_	start_char=94|end_char=96
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	_	start_char=97|end_char=102
+9	communities	community	NOUN	NNS	Number=Plur	6	obl	_	start_char=103|end_char=114
+10	.	.	PUNCT	.	_	4	punct	_	start_char=114|end_char=115
+

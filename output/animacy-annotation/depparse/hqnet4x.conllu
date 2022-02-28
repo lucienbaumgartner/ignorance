@@ -1,0 +1,11 @@
+1	Extremely	extremely	ADV	RB	_	2	advmod	_	start_char=0|end_char=9
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=18
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=19|end_char=22
+4	racist	racist	ADJ	JJ	Degree=Pos	2	conj	_	start_char=23|end_char=29
+5	of	of	ADP	IN	_	6	case	_	start_char=30|end_char=32
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=33|end_char=36
+7	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+1	Gross	Gross	ADJ	JJ	Degree=Pos	0	root	_	start_char=38|end_char=43
+2	.	.	PUNCT	.	_	1	punct	_	start_char=43|end_char=44
+

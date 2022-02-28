@@ -1,0 +1,40 @@
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	1	expl	_	start_char=4|end_char=9
+3	really	really	ADV	RB	_	1	advmod	_	start_char=10|end_char=16
+4	that	that	SCONJ	IN	_	9	mark	_	start_char=17|end_char=21
+5	many	many	ADJ	JJ	Degree=Pos	7	amod	_	start_char=22|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=27|end_char=35
+7	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=36|end_char=42
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=43|end_char=46
+9	fall	fall	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=47|end_char=51
+10	for	for	ADP	IN	_	12	case	_	start_char=52|end_char=55
+11	clickbait	clickbait	NOUN	NN	Number=Sing	12	compound	_	start_char=56|end_char=65
+12	articles	article	NOUN	NNS	Number=Plur	9	obl	_	start_char=66|end_char=74
+13	?	?	PUNCT	.	_	1	punct	_	start_char=74|end_char=75
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=77|end_char=78
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=79|end_char=84
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=85|end_char=88
+4	replies	reply	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=89|end_char=96
+5	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=97|end_char=102
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=103|end_char=105
+7	all	all	DET	DT	_	5	obj	_	start_char=106|end_char=109
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=110|end_char=111
+9	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=112|end_char=116
+10	to	to	PART	TO	_	11	mark	_	start_char=117|end_char=119
+11	know	know	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=120|end_char=124
+12	.	.	PUNCT	.	_	2	punct	_	start_char=124|end_char=125
+
+1	Americans	American	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=126|end_char=135
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=136|end_char=139
+3	both	both	ADV	RB	_	4	advmod	_	start_char=140|end_char=144
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=145|end_char=151
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=152|end_char=155
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=156|end_char=164
+7	of	of	ADP	IN	_	9	case	_	start_char=165|end_char=167
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=168|end_char=171
+9	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=172|end_char=179
+10	around	around	ADP	IN	_	11	case	_	start_char=180|end_char=186
+11	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	nmod	_	start_char=187|end_char=191
+12	.	.	PUNCT	.	_	4	punct	_	start_char=191|end_char=192
+

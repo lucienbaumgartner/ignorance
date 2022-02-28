@@ -1,0 +1,10 @@
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=0|end_char=3
+2	very	very	ADV	RB	_	3	advmod	_	start_char=4|end_char=8
+3	dismissive	dismissive	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=19
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=20|end_char=23
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=24|end_char=32
+6	of	of	ADP	IN	_	8	case	_	start_char=33|end_char=35
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=36|end_char=39
+8	issue	issue	NOUN	NN	Number=Sing	5	obl	_	start_char=40|end_char=45
+9	.	.	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+

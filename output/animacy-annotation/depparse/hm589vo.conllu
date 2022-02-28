@@ -1,0 +1,16 @@
+1	yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=12|end_char=13
+5	just	just	ADV	RB	_	6	advmod	_	start_char=14|end_char=18
+6	pretend	pretend	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=19|end_char=26
+7	to	to	PART	TO	_	9	mark	_	start_char=27|end_char=29
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=30|end_char=32
+9	innocent	innocent	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=33|end_char=41
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=42|end_char=45
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=46|end_char=53
+12	and	and	CCONJ	CC	_	15	cc	_	start_char=54|end_char=57
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=58|end_char=60
+14	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=60|end_char=62
+15	funny	funny	ADJ	JJ	Degree=Pos	3	conj	_	start_char=63|end_char=68
+

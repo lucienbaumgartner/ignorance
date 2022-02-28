@@ -1,0 +1,57 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	uppercut	uppercut	NOUN	NN	Number=Sing	0	root	_	start_char=2|end_char=10
+3	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=11|end_char=15
+4	Neji	Neji	PROPN	NNP	Number=Sing	7	nsubj:pass	_	start_char=16|end_char=20
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=21|end_char=23
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=24|end_char=34
+7	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	start_char=35|end_char=41
+8	unaware	unaware	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=42|end_char=49
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+10	tired	tired	ADJ	JJ	Degree=Pos	8	conj	_	start_char=54|end_char=59
+11	from	from	ADP	IN	_	12	case	_	start_char=60|end_char=64
+12	exhaustion	exhaustion	NOUN	NN	Number=Sing	8	obl	_	start_char=65|end_char=75
+13	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=79|end_char=82
+2	someone	someone	PRON	NN	Number=Sing	1	obj	_	start_char=83|end_char=90
+3	uppercut	uppercut	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=91|end_char=99
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=100|end_char=103
+5	after	after	SCONJ	IN	_	9	mark	_	start_char=104|end_char=109
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj:pass	_	start_char=110|end_char=113
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=114|end_char=117
+8	completely	completely	ADV	RB	_	9	advmod	_	start_char=118|end_char=128
+9	drained	drain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	start_char=129|end_char=136
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=137|end_char=140
+11	worn	wear	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	_	start_char=141|end_char=145
+12	out	out	ADP	RP	_	11	compound:prt	_	start_char=146|end_char=149
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=150|end_char=153
+14	not	not	PART	RB	_	15	advmod	_	start_char=154|end_char=157
+15	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	_	start_char=158|end_char=166
+16	...	...	PUNCT	,	_	1	punct	_	start_char=166|end_char=169
+17	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=170|end_char=173
+18	if	if	SCONJ	IN	_	20	mark	_	start_char=174|end_char=176
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=177|end_char=180
+20	manage	manage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=181|end_char=187
+21	to	to	PART	TO	_	22	mark	_	start_char=188|end_char=190
+22	get	get	VERB	VB	VerbForm=Inf	20	xcomp	_	start_char=191|end_char=194
+23	up	up	ADP	RP	_	22	compound:prt	_	start_char=195|end_char=197
+
+1	Also	also	ADV	RB	_	8	advmod	_	start_char=199|end_char=203
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=204|end_char=207
+3	damage	damage	NOUN	NN	Number=Sing	8	nsubj:pass	_	start_char=208|end_char=214
+4	done	do	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=215|end_char=219
+5	to	to	ADP	IN	_	6	case	_	start_char=220|end_char=222
+6	Naruto	Naruto	PROPN	NNP	Number=Sing	4	obl	_	start_char=223|end_char=229
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	start_char=230|end_char=233
+8	healed	heal	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=234|end_char=240
+9	by	by	ADP	IN	_	12	case	_	start_char=241|end_char=243
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=244|end_char=247
+11	9	9	NUM	CD	NumType=Card	12	nummod	_	start_char=248|end_char=249
+12	tails	tail	NOUN	NNS	Number=Plur	8	obl	_	start_char=250|end_char=255
+13	.	.	PUNCT	.	_	8	punct	_	start_char=255|end_char=256
+
+1	Neji	Neji	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=257|end_char=261
+2	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=262|end_char=266
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=267|end_char=269
+4	.	.	PUNCT	.	_	2	punct	_	start_char=269|end_char=270
+

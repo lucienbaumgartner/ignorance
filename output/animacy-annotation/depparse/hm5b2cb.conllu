@@ -1,0 +1,36 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=6
+3	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7|end_char=12
+4	terrific	terrific	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=13|end_char=21
+5	,	,	PUNCT	,	_	6	punct	_	start_char=21|end_char=22
+6	keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=23|end_char=27
+7	up	up	ADP	RP	_	6	compound:prt	_	start_char=28|end_char=30
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=31|end_char=34
+9	good	good	ADJ	JJ	Degree=Pos	10	amod	_	start_char=35|end_char=39
+10	work	work	NOUN	NN	Number=Sing	6	obj	_	start_char=40|end_char=44
+11	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+
+1	Not	not	PART	RB	_	8	advmod	_	start_char=47|end_char=50
+2	all	all	DET	DT	_	8	nsubj	_	start_char=51|end_char=54
+3	of	of	ADP	IN	_	4	case	_	start_char=55|end_char=57
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	nmod	_	start_char=58|end_char=60
+5	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=61|end_char=64
+6	so	so	ADV	RB	_	8	advmod	_	start_char=65|end_char=67
+7	effectively	effectively	ADV	RB	_	8	advmod	_	start_char=68|end_char=79
+8	educate	educate	VERB	VB	VerbForm=Inf	0	root	_	start_char=80|end_char=87
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=88|end_char=91
+10	world	world	NOUN	NN	Number=Sing	8	obj	_	start_char=92|end_char=97
+11	just	just	ADV	RB	_	13	advmod	_	start_char=98|end_char=102
+12	how	how	SCONJ	WRB	PronType=Int	13	mark	_	start_char=103|end_char=106
+13	unaware	unaware	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=107|end_char=114
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=115|end_char=118
+15	arrogant	arrogant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=119|end_char=127
+16	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=128|end_char=129
+17	large	large	ADJ	JJ	Degree=Pos	18	amod	_	start_char=130|end_char=135
+18	portion	portion	NOUN	NN	Number=Sing	13	nsubj	_	start_char=136|end_char=143
+19	of	of	ADP	IN	_	21	case	_	start_char=144|end_char=146
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=147|end_char=150
+21	population	population	NOUN	NN	Number=Sing	18	nmod	_	start_char=151|end_char=161
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=162|end_char=164
+23	.	.	PUNCT	.	_	8	punct	_	start_char=164|end_char=165
+

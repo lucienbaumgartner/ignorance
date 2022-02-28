@@ -1,0 +1,51 @@
+1	Sorry	sorry	INTJ	UH	_	4	discourse	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	4	punct	_	start_char=5|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=7|end_char=8
+4	misspoke	misspike	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=17
+5	.	.	PUNCT	.	_	4	punct	_	start_char=17|end_char=18
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=21|end_char=23
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=23|end_char=25
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=26|end_char=29
+4	difference	difference	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=40
+5	between	between	ADP	IN	_	6	case	_	start_char=41|end_char=48
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=49|end_char=56
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=57|end_char=60
+8	unable	unable	ADJ	JJ	Degree=Pos	6	conj	_	start_char=61|end_char=67
+9	to	to	PART	TO	_	10	mark	_	start_char=68|end_char=70
+10	react	react	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=71|end_char=76
+11	,	,	PUNCT	,	_	14	punct	_	start_char=76|end_char=77
+12	such	such	ADJ	JJ	Degree=Pos	14	case	_	start_char=78|end_char=82
+13	as	as	ADP	IN	_	12	fixed	_	start_char=83|end_char=85
+14	asleep	asleep	ADJ	JJ	Degree=Pos	10	obl	_	start_char=86|end_char=92
+15	or	or	CCONJ	CC	_	16	cc	_	start_char=93|end_char=95
+16	paralyzed	paralyze	VERB	VBN	Tense=Past|VerbForm=Part	14	conj	_	start_char=96|end_char=105
+17	.	.	PUNCT	.	_	4	punct	_	start_char=105|end_char=106
+
+1	PS	ps	PROPN	NNP	Number=Sing	0	root	_	start_char=108|end_char=110
+2	.	.	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=112|end_char=115
+2	for	for	ADP	IN	_	4	case	_	start_char=116|end_char=119
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=120|end_char=123
+4	record	record	NOUN	NN	Number=Sing	0	root	_	start_char=124|end_char=130
+5	yes	yes	INTJ	UH	_	4	discourse	_	start_char=131|end_char=134
+6	.	.	PUNCT	.	_	4	punct	_	start_char=134|end_char=135
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=136|end_char=140
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=140|end_char=143
+3	all	all	DET	DT	_	4	det	_	start_char=144|end_char=147
+4	bards	bard	NOUN	NNS	Number=Plur	0	root	_	start_char=148|end_char=153
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=154|end_char=157
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=158|end_char=162
+7	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=163|end_char=167
+8	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	7	obj	_	start_char=168|end_char=178
+9	Blind	Blind	ADJ	NNP	Degree=Pos	10	amod	_	start_char=179|end_char=184
+10	Panther	Panther	PROPN	NNP	Number=Sing	7	obj	_	start_char=185|end_char=192
+11	(	(	PUNCT	-LRB-	_	14	punct	_	start_char=193|end_char=194
+12	instead	instead	ADV	RB	_	14	case	_	start_char=194|end_char=201
+13	of	of	ADP	IN	_	12	fixed	_	start_char=202|end_char=204
+14	Def	definitely	PROPN	NNP	Number=Sing	7	obl	_	start_char=205|end_char=208
+15	Leppard	Leppard	PROPN	NNP	Number=Sing	14	flat	_	start_char=209|end_char=216
+16	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=216|end_char=217
+

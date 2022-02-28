@@ -1,0 +1,33 @@
+1	No	no	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3|end_char=4
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+4	n't	not	PART	RB	_	3	advmod	_	start_char=7|end_char=10
+5	.	.	PUNCT	.	_	3	punct	_	start_char=10|end_char=11
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=13|end_char=17
+2	rhetoric	rhetoric	NOUN	NN	Number=Sing	4	nsubj	_	start_char=18|end_char=26
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=27|end_char=29
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=38
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=39|end_char=42
+6	divisive	divisive	ADJ	JJ	Degree=Pos	4	conj	_	start_char=43|end_char=51
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=52|end_char=55
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=56|end_char=60
+9	n't	not	PART	RB	_	10	advmod	_	start_char=60|end_char=63
+10	represent	represent	VERB	VB	VerbForm=Inf	4	conj	_	start_char=64|end_char=73
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=74|end_char=77
+12	majority	majority	NOUN	NN	Number=Sing	10	obj	_	start_char=78|end_char=86
+13	of	of	ADP	IN	_	14	case	_	start_char=87|end_char=89
+14	workers	worker	NOUN	NNS	Number=Plur	12	nmod	_	start_char=90|end_char=97
+15	who	who	PRON	WP	PronType=Rel	16	nsubj	_	start_char=98|end_char=101
+16	can	can	AUX	MD	VerbForm=Fin	14	acl:relcl	_	start_char=102|end_char=105
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=106|end_char=109
+18	do	do	AUX	VB	VerbForm=Inf	19	aux	_	start_char=110|end_char=112
+19	work	work	VERB	VB	VerbForm=Inf	14	acl:relcl	_	start_char=113|end_char=117
+20	in	in	ADP	IN	_	23	case	_	start_char=118|end_char=120
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=121|end_char=122
+22	pluralistic	pluralistic	ADJ	JJ	Degree=Pos	23	amod	_	start_char=123|end_char=134
+23	environments	environment	NOUN	NNS	Number=Plur	19	obl	_	start_char=135|end_char=147
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=148|end_char=151
+25	thrive	thrive	VERB	VB	VerbForm=Inf	19	conj	_	start_char=152|end_char=158
+26	.	.	PUNCT	.	_	4	punct	_	start_char=158|end_char=159
+

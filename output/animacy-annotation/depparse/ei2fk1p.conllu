@@ -1,0 +1,237 @@
+1	Oh	oh	INTJ	UH	_	4	discourse	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=3|end_char=4
+3	also	also	ADV	RB	_	4	advmod	_	start_char=5|end_char=9
+4	forgot	forget	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=10|end_char=16
+5	to	to	PART	TO	_	6	mark	_	start_char=17|end_char=19
+6	mention	mention	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=20|end_char=27
+7	.	.	PUNCT	.	_	4	punct	_	start_char=27|end_char=28
+
+1	Regardless	regardless	ADV	RB	_	0	root	_	start_char=29|end_char=39
+2	of	of	ADP	IN	_	3	case	_	start_char=40|end_char=42
+3	where	where	SCONJ	WRB	PronType=Int	1	obl	_	start_char=43|end_char=48
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=49|end_char=52
+5	play	play	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=53|end_char=57
+6	.	.	PUNCT	.	_	1	punct	_	start_char=57|end_char=58
+
+1	Disregarding	disregard	VERB	VBG	VerbForm=Ger	0	root	_	start_char=59|end_char=71
+2	that	that	SCONJ	IN	_	5	mark	_	start_char=72|end_char=76
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=77|end_char=78
+4	game	game	NOUN	NN	Number=Sing	5	nsubj	_	start_char=79|end_char=83
+5	CRASHES	crash	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=84|end_char=91
+6	A	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=92|end_char=93
+7	CONSOLE	console	NOUN	NN	Number=Sing	5	obj	_	start_char=94|end_char=101
+8	.	.	PUNCT	.	_	1	punct	_	start_char=101|end_char=102
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=103|end_char=105
+2	beyond	beyond	ADV	RB	_	3	advmod	_	start_char=106|end_char=112
+3	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=113|end_char=120
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=121|end_char=124
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=125|end_char=133
+6	.	.	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=135|end_char=139
+2	.	.	PUNCT	.	_	1	punct	_	start_char=139|end_char=140
+
+1	Alone	Alone	ADV	RB	_	0	root	_	start_char=141|end_char=146
+2	.	.	PUNCT	.	_	1	punct	_	start_char=146|end_char=147
+
+1	Allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=148|end_char=154
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=155|end_char=157
+3	to	to	PART	TO	_	6	mark	_	start_char=158|end_char=160
+4	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	start_char=161|end_char=163
+5	more	more	ADV	RBR	_	6	advmod	_	start_char=164|end_char=168
+6	broken	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=169|end_char=175
+7	than	than	ADP	IN	_	9	case	_	start_char=176|end_char=180
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=181|end_char=184
+9	division	division	NOUN	NN	Number=Sing	6	obl	_	start_char=185|end_char=193
+10	in	in	ADP	IN	_	13	case	_	start_char=194|end_char=196
+11	any	any	DET	DT	_	13	det	_	start_char=197|end_char=200
+12	moral	moral	ADJ	JJ	Degree=Pos	13	amod	_	start_char=201|end_char=206
+13	sense	sense	NOUN	NN	Number=Sing	6	obl	_	start_char=207|end_char=212
+14	of	of	ADP	IN	_	16	case	_	start_char=213|end_char=215
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=216|end_char=219
+16	word	word	NOUN	NN	Number=Sing	13	nmod	_	start_char=220|end_char=224
+17	.	.	PUNCT	.	_	1	punct	_	start_char=224|end_char=225
+
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=226|end_char=229
+2	.	.	PUNCT	.	_	1	punct	_	start_char=229|end_char=230
+
+1	TD1	TD1	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=231|end_char=234
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=235|end_char=238
+3	rampant	rampant	ADJ	JJ	Degree=Pos	0	root	_	start_char=239|end_char=246
+4	with	with	ADP	IN	_	5	case	_	start_char=247|end_char=251
+5	cheaters	cheater	NOUN	NNS	Number=Plur	3	obl	_	start_char=252|end_char=260
+6	.	.	PUNCT	.	_	3	punct	_	start_char=260|end_char=261
+
+1	Absolutely	absolutely	ADV	RB	_	0	root	_	start_char=262|end_char=272
+2	.	.	PUNCT	.	_	1	punct	_	start_char=272|end_char=273
+
+1	Exploits	exploit	NOUN	NNS	Number=Plur	0	root	_	start_char=274|end_char=282
+2	.	.	PUNCT	.	_	1	punct	_	start_char=282|end_char=283
+
+1	Yup	yup	INTJ	UH	_	0	root	_	start_char=284|end_char=287
+2	.	.	PUNCT	.	_	1	punct	_	start_char=287|end_char=288
+
+1	Those	that	PRON	DT	Number=Plur|PronType=Dem	4	nsubj	_	start_char=289|end_char=294
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=295|end_char=298
+3	in	in	ADP	IN	_	4	case	_	start_char=299|end_char=301
+4	anthem	anthem	NOUN	NN	Number=Sing	0	root	_	start_char=302|end_char=308
+5	too	too	ADV	RB	_	4	advmod	_	start_char=309|end_char=312
+6	.	.	PUNCT	.	_	4	punct	_	start_char=312|end_char=313
+
+1	Maybe	maybe	ADV	RB	_	2	advmod	_	start_char=314|end_char=319
+2	cheaters	cheater	NOUN	NNS	Number=Plur	0	root	_	start_char=320|end_char=328
+3	to	to	ADP	IN	_	6	case	_	start_char=329|end_char=331
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=332|end_char=333
+5	less	less	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=334|end_char=338
+6	extent	extent	NOUN	NN	Number=Sing	2	nmod	_	start_char=339|end_char=345
+7	.	.	PUNCT	.	_	2	punct	_	start_char=345|end_char=346
+
+1	Something	something	PRON	NN	Number=Sing	5	nsubj	_	start_char=347|end_char=356
+2	about	about	ADP	IN	_	4	case	_	start_char=357|end_char=362
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=363|end_char=368
+4	devs	dev	NOUN	NNS	Number=Plur	1	nmod	_	start_char=369|end_char=373
+5	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=374|end_char=378
+6	infinitely	infinitely	ADV	RB	_	7	advmod	_	start_char=379|end_char=389
+7	more	more	ADJ	JJR	Degree=Cmp	8	amod	_	start_char=390|end_char=394
+8	experience	experience	NOUN	NN	Number=Sing	5	obj	_	start_char=395|end_char=405
+9	?	?	PUNCT	.	_	5	punct	_	start_char=405|end_char=406
+
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=407|end_char=416
+2	like	like	ADP	IN	_	3	case	_	start_char=417|end_char=421
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	1	nmod	_	start_char=422|end_char=426
+4	.	.	PUNCT	.	_	1	punct	_	start_char=426|end_char=427
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=430|end_char=433
+2	saying	say	VERB	VBG	VerbForm=Ger	0	root	_	start_char=434|end_char=440
+3	.	.	PUNCT	.	_	2	punct	_	start_char=440|end_char=441
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=442|end_char=446
+2	anthem	anthem	NOUN	NN	Number=Sing	0	root	_	start_char=447|end_char=453
+3	.	.	PUNCT	.	_	2	punct	_	start_char=453|end_char=454
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=455|end_char=456
+2	game	game	NOUN	NN	Number=Sing	0	root	_	start_char=457|end_char=461
+3	that	that	PRON	WDT	PronType=Rel	4	nsubj	_	start_char=462|end_char=466
+4	crashes	crash	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=467|end_char=474
+5	consoles	console	NOUN	NNS	Number=Plur	4	obj	_	start_char=475|end_char=483
+6	.	.	PUNCT	.	_	2	punct	_	start_char=483|end_char=484
+
+1	Progression	progression	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=485|end_char=496
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=497|end_char=499
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=500|end_char=510
+4	fucked	fuck	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=511|end_char=517
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=518|end_char=520
+6	.	.	PUNCT	.	_	4	punct	_	start_char=520|end_char=521
+
+1	Scaling	scaling	NOUN	NN	Number=Sing	3	nsubj	_	start_char=522|end_char=529
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=530|end_char=532
+3	incorrect	incorrect	ADJ	JJ	Degree=Pos	0	root	_	start_char=533|end_char=542
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=543|end_char=546
+5	there	there	PRON	EX	_	6	expl	_	start_char=547|end_char=552
+6	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=552|end_char=554
+7	no	no	DET	DT	_	9	det	_	start_char=555|end_char=557
+8	possible	possible	ADJ	JJ	Degree=Pos	9	amod	_	start_char=558|end_char=566
+9	way	way	NOUN	NN	Number=Sing	6	nsubj	_	start_char=567|end_char=570
+10	to	to	PART	TO	_	11	mark	_	start_char=571|end_char=573
+11	min	minute	VERB	VB	VerbForm=Inf	9	acl	_	start_char=574|end_char=577
+12	max	max	NOUN	NN	Number=Sing	11	obj	_	start_char=578|end_char=581
+13	without	without	ADP	IN	_	16	case	_	start_char=582|end_char=589
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=590|end_char=591
+15	stat	stat	NOUN	NN	Number=Sing	16	compound	_	start_char=592|end_char=596
+16	page	page	NOUN	NN	Number=Sing	11	obl	_	start_char=597|end_char=601
+17	and	and	CCONJ	CC	_	24	cc	_	start_char=602|end_char=605
+18	obviously	obviously	ADV	RB	_	24	advmod	_	start_char=606|end_char=615
+19	without	without	SCONJ	IN	_	24	mark	_	start_char=616|end_char=623
+20	scaling	scaling	NOUN	NN	Number=Sing	24	nsubj	_	start_char=624|end_char=631
+21	or	or	CCONJ	CC	_	22	cc	_	start_char=632|end_char=634
+22	progression	progression	NOUN	NN	Number=Sing	20	conj	_	start_char=635|end_char=646
+23	being	be	AUX	VBG	VerbForm=Ger	24	cop	_	start_char=647|end_char=652
+24	correct	correct	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=653|end_char=660
+25	.	.	PUNCT	.	_	3	punct	_	start_char=660|end_char=661
+
+1	No	no	DET	DT	_	2	det	_	start_char=662|end_char=664
+2	waypoints	waypoint	NOUN	NNS	Number=Plur	0	root	_	start_char=665|end_char=674
+3	.	.	PUNCT	.	_	2	punct	_	start_char=674|end_char=675
+
+1	Infinite	infinite	ADJ	JJ	Degree=Pos	3	amod	_	start_char=676|end_char=684
+2	load	load	NOUN	NN	Number=Sing	3	compound	_	start_char=685|end_char=689
+3	screens	screen	NOUN	NNS	Number=Plur	0	root	_	start_char=690|end_char=697
+4	.	.	PUNCT	.	_	3	punct	_	start_char=697|end_char=698
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=699|end_char=704
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=704|end_char=706
+3	too	too	ADV	RB	_	4	advmod	_	start_char=707|end_char=710
+4	much	much	ADV	RB	Degree=Pos	5	advmod	_	start_char=711|end_char=715
+5	wrong	wrong	ADJ	JJ	Degree=Pos	2	nsubj	_	start_char=716|end_char=721
+6	with	with	ADP	IN	_	7	case	_	start_char=722|end_char=726
+7	anthem	anthem	NOUN	NN	Number=Sing	5	obl	_	start_char=727|end_char=733
+8	.	.	PUNCT	.	_	2	punct	_	start_char=733|end_char=734
+
+1	TD1	TD1	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=737|end_char=740
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=741|end_char=744
+3	/	/	PUNCT	,	_	4	cc	_	start_char=744|end_char=745
+4	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=745|end_char=748
+5	issues	issue	NOUN	NNS	Number=Plur	4	obj	_	start_char=749|end_char=755
+6	.	.	PUNCT	.	_	2	punct	_	start_char=755|end_char=756
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=757|end_char=760
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=761|end_char=765
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=766|end_char=768
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=768|end_char=771
+5	compare	compare	VERB	VB	VerbForm=Inf	0	root	_	start_char=772|end_char=779
+6	on	on	ADP	IN	_	9	case	_	start_char=780|end_char=782
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=783|end_char=784
+8	fundamental	fundamental	ADJ	JJ	Degree=Pos	9	amod	_	start_char=785|end_char=796
+9	level	level	NOUN	NN	Number=Sing	5	obl	_	start_char=797|end_char=802
+10	to	to	ADP	IN	_	11	case	_	start_char=803|end_char=805
+11	anthem	anthem	NOUN	NN	Number=Sing	9	nmod	_	start_char=806|end_char=812
+12	.	.	PUNCT	.	_	5	punct	_	start_char=812|end_char=813
+
+1	Especially	especially	ADV	RB	_	4	advmod	_	start_char=814|end_char=824
+2	with	with	ADP	IN	_	4	case	_	start_char=825|end_char=829
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=830|end_char=833
+4	experience	experience	NOUN	NN	Number=Sing	0	root	_	start_char=834|end_char=844
+5	that	that	PRON	WDT	PronType=Rel	16	obj	_	start_char=845|end_char=849
+6	EA	EA	PROPN	NNP	Number=Sing	16	nsubj	_	start_char=850|end_char=852
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=853|end_char=856
+8	whoever	whoever	PRON	WP	PronType=Int	6	conj	_	start_char=857|end_char=864
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=865|end_char=868
+10	devs	dev	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=869|end_char=873
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=874|end_char=877
+12	who	who	PRON	WP	PronType=Rel	14	nmod:poss	_	start_char=878|end_char=881
+13	’s	's	PART	POS	_	12	case	_	start_char=881|end_char=883
+14	name	name	NOUN	NN	Number=Sing	16	nsubj	_	start_char=884|end_char=888
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=889|end_char=891
+16	escaping	escape	VERB	VBG	Tense=Pres|VerbForm=Part	4	acl:relcl	_	start_char=892|end_char=900
+17	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	start_char=901|end_char=903
+18	rn	rn	NOUN	NN	Number=Sing	16	xcomp	_	start_char=904|end_char=906
+19	.	.	PUNCT	.	_	4	punct	_	start_char=906|end_char=907
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=910|end_char=912
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=913|end_char=916
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=917|end_char=921
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=922|end_char=923
+5	better	good	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=924|end_char=930
+6	comparison	comparison	NOUN	NN	Number=Sing	3	obj	_	start_char=931|end_char=941
+7	.	.	PUNCT	.	_	3	punct	_	start_char=941|end_char=942
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=943|end_char=945
+2	anthem	anthem	NOUN	NN	Number=Sing	1	obj	_	start_char=946|end_char=952
+3	to	to	ADP	IN	_	4	case	_	start_char=953|end_char=955
+4	Div2	Div2	PROPN	NNP	Number=Sing	1	obl	_	start_char=956|end_char=960
+5	so	so	ADV	RB	_	7	mark	_	start_char=961|end_char=963
+6	Massive	Massive	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=964|end_char=971
+7	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=972|end_char=975
+8	more	more	ADJ	JJR	Degree=Cmp	9	amod	_	start_char=976|end_char=980
+9	experience	experience	NOUN	NN	Number=Sing	7	obj	_	start_char=981|end_char=991
+10	.	.	PUNCT	.	_	1	punct	_	start_char=991|end_char=992
+
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=993|end_char=997
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=998|end_char=1000
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=1001|end_char=1004
+4	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=1005|end_char=1008
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=1009|end_char=1012
+6	difference	difference	NOUN	NN	Number=Sing	4	obj	_	start_char=1013|end_char=1023
+7	.	.	PUNCT	.	_	4	punct	_	start_char=1023|end_char=1024
+

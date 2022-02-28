@@ -1,0 +1,24 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=8|end_char=9
+4	defense	defense	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=17
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=18|end_char=19
+6	’d	have	AUX	MD	VerbForm=Fin	7	aux	_	start_char=19|end_char=21
+7	expect	expect	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=22|end_char=28
+8	to	to	PART	TO	_	9	mark	_	start_char=29|end_char=31
+9	see	see	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=32|end_char=35
+10	on	on	ADP	IN	_	11	case	_	start_char=36|end_char=38
+11	r/twoxchromosomes	r/twoxchromosomes	NOUN	NNS	Number=Plur	9	obl	_	start_char=39|end_char=56
+12	or	or	CCONJ	CC	_	13	cc	_	start_char=57|end_char=59
+13	r/femaledatingstrategy	r/femaledatingstrategy	NOUN	NN	Number=Sing	11	conj	_	start_char=60|end_char=82
+14	lol	lol	INTJ	UH	_	4	discourse	_	start_char=83|end_char=86
+
+1	Completely	completely	ADV	RB	_	2	advmod	_	start_char=88|end_char=98
+2	biased	biased	ADJ	JJ	Degree=Pos	0	root	_	start_char=99|end_char=105
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=106|end_char=109
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=110|end_char=117
+5	of	of	ADP	IN	_	8	case	_	start_char=118|end_char=120
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=121|end_char=124
+7	complete	complete	ADJ	JJ	Degree=Pos	8	amod	_	start_char=125|end_char=133
+8	contradiction	contradiction	NOUN	NN	Number=Sing	4	obl	_	start_char=134|end_char=147
+

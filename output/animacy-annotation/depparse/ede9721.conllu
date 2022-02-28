@@ -1,0 +1,44 @@
+1	Genuinely	genuinely	ADV	RB	_	2	advmod	_	start_char=0|end_char=9
+2	strive	strive	VERB	VB	VerbForm=Fin	0	root	_	start_char=10|end_char=16
+3	to	to	PART	TO	_	4	mark	_	start_char=17|end_char=19
+4	consider	consider	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=20|end_char=28
+5	others	other	NOUN	NNS	Number=Plur	4	obj	_	start_char=29|end_char=35
+6	.	.	PUNCT	.	_	2	punct	_	start_char=35|end_char=36
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	start_char=38|end_char=40
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=46
+3	so	so	ADV	RB	_	4	advmod	_	start_char=47|end_char=49
+4	many	many	ADJ	JJ	Degree=Pos	5	amod	_	start_char=50|end_char=54
+5	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=55|end_char=61
+6	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=62|end_char=66
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=67|end_char=72
+8	lives	life	NOUN	NNS	Number=Plur	6	obj	_	start_char=73|end_char=78
+9	in	in	ADP	IN	_	12	case	_	start_char=79|end_char=81
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=82|end_char=83
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	start_char=84|end_char=92
+12	bubble	bubble	NOUN	NN	Number=Sing	6	obl	_	start_char=93|end_char=99
+13	,	,	PUNCT	,	_	14	punct	_	start_char=99|end_char=100
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=101|end_char=108
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=109|end_char=112
+16	unconcerned	unconcerned	ADJ	JJ	Degree=Pos	14	conj	_	start_char=113|end_char=124
+17	with	with	ADP	IN	_	18	case	_	start_char=125|end_char=129
+18	everything	everything	PRON	NN	Number=Sing	14	obl	_	start_char=130|end_char=140
+19	happening	happen	VERB	VBG	VerbForm=Ger	18	acl	_	start_char=141|end_char=150
+20	around	around	ADP	IN	_	21	case	_	start_char=151|end_char=157
+21	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obl	_	start_char=158|end_char=162
+22	,	,	PUNCT	,	_	25	punct	_	start_char=162|end_char=163
+23	unless	unless	SCONJ	IN	_	25	mark	_	start_char=164|end_char=170
+24	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=171|end_char=173
+25	pertains	pertain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=174|end_char=182
+26	to	to	ADP	IN	_	27	case	_	start_char=183|end_char=185
+27	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	obl	_	start_char=186|end_char=190
+28	specifically	specifically	ADV	RB	_	25	advmod	_	start_char=191|end_char=203
+29	.	.	PUNCT	.	_	2	punct	_	start_char=203|end_char=204
+
+1	Makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=207|end_char=212
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=213|end_char=215
+3	feel	feel	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=216|end_char=220
+4	completely	completely	ADV	RB	_	3	advmod	_	start_char=221|end_char=231
+5	alone	alone	ADV	RB	_	3	advmod	_	start_char=232|end_char=237
+6	.	.	PUNCT	.	_	1	punct	_	start_char=237|end_char=238
+

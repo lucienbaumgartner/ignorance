@@ -1,0 +1,62 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	literally	literally	ADV	RB	_	5	advmod	_	start_char=5|end_char=14
+4	U.S.	U.S.	PROPN	NNP	Number=Sing	5	compound	_	start_char=15|end_char=19
+5	history	history	NOUN	NN	Number=Sing	0	root	_	start_char=20|end_char=27
+6	.	.	PUNCT	.	_	5	punct	_	start_char=27|end_char=28
+
+1	https://en.m.wikipedia.org/wiki/Juneteenth	https://en.m.wikipedia.org/wiki/juneteenth	X	ADD	_	0	root	_	start_char=30|end_char=72
+
+1	Not	not	PART	RB	_	3	advmod	_	start_char=74|end_char=77
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=78|end_char=79
+3	slam	slam	NOUN	NN	Number=Sing	0	root	_	start_char=80|end_char=84
+4	,	,	PUNCT	,	_	8	punct	_	start_char=84|end_char=85
+5	but	but	CCONJ	CC	_	8	cc	_	start_char=86|end_char=89
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=90|end_char=91
+7	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=91|end_char=93
+8	guessing	guess	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=94|end_char=102
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=103|end_char=106
+10	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=106|end_char=109
+11	not	not	PART	RB	_	13	advmod	_	start_char=110|end_char=113
+12	African	African	ADJ	JJ	Degree=Pos	13	amod	_	start_char=114|end_char=121
+13	American	American	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=122|end_char=130
+14	.	.	PUNCT	.	_	3	punct	_	start_char=130|end_char=131
+
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=133|end_char=137
+2	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=138|end_char=144
+3	who	who	PRON	WP	PronType=Rel	8	nsubj:pass	_	start_char=145|end_char=148
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=149|end_char=152
+5	n't	not	PART	RB	_	8	advmod	_	start_char=152|end_char=155
+6	have	have	AUX	VB	VerbForm=Inf	8	aux	_	start_char=156|end_char=160
+7	never	never	ADV	RB	_	8	advmod	_	start_char=161|end_char=166
+8	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl:relcl	_	start_char=167|end_char=172
+9	of	of	ADP	IN	_	10	case	_	start_char=173|end_char=175
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=176|end_char=178
+11	.	.	PUNCT	.	_	2	punct	_	start_char=178|end_char=179
+
+1	By	by	ADP	IN	_	2	case	_	start_char=181|end_char=183
+2	design	design	NOUN	NN	Number=Sing	0	root	_	start_char=184|end_char=190
+3	.	.	PUNCT	.	_	2	punct	_	start_char=190|end_char=191
+
+1	Gotta	gotta	AUX	MD	VerbForm=Fin	2	aux	_	start_char=193|end_char=198
+2	keep	keep	VERB	VB	VerbForm=Fin	0	root	_	start_char=199|end_char=203
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	start_char=204|end_char=206
+4	all	all	ADV	RB	_	5	advmod	_	start_char=207|end_char=210
+5	seperated	seperate	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=211|end_char=220
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=221|end_char=224
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=225|end_char=233
+8	of	of	ADP	IN	_	12	case	_	start_char=234|end_char=236
+9	each	each	DET	DT	_	10	det	_	start_char=237|end_char=241
+10	other	other	ADJ	JJ	Degree=Pos	12	nmod:poss	_	start_char=242|end_char=247
+11	's	's	PART	POS	_	10	case	_	start_char=247|end_char=249
+12	history	history	NOUN	NN	Number=Sing	7	obl	_	start_char=250|end_char=257
+13	,	,	PUNCT	,	_	2	punct	_	start_char=257|end_char=258
+14	even	even	ADV	RB	_	20	advmod	_	start_char=259|end_char=263
+15	when	when	SCONJ	WRB	PronType=Int	20	mark	_	start_char=264|end_char=268
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=269|end_char=271
+17	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=271|end_char=273
+18	actually	actually	ADV	RB	_	20	advmod	_	start_char=274|end_char=282
+19	shared	share	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	amod	_	start_char=283|end_char=289
+20	history	history	NOUN	NN	Number=Sing	2	advcl	_	start_char=290|end_char=297
+21	.	.	PUNCT	.	_	2	punct	_	start_char=297|end_char=298
+

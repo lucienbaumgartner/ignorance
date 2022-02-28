@@ -1,0 +1,28 @@
+1	“	''	PUNCT	``	_	6	punct	_	start_char=0|end_char=1
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=1|end_char=3
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=4|end_char=7
+4	only	only	ADV	RB	_	6	advmod	_	start_char=8|end_char=12
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=13|end_char=14
+6	joke	joke	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=19
+7	,	,	PUNCT	,	_	6	punct	_	start_char=19|end_char=20
+8	Roblox	Roblox	PROPN	NNP	Number=Sing	9	compound	_	start_char=21|end_char=27
+9	mods	mod	NOUN	NNS	Number=Plur	6	vocative	_	start_char=28|end_char=32
+10	!	!	PUNCT	.	_	6	punct	_	start_char=32|end_char=33
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=34|end_char=35
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	start_char=36|end_char=39
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=39|end_char=42
+4	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=43|end_char=47
+5	to	to	PART	TO	_	7	mark	_	start_char=48|end_char=50
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=51|end_char=53
+7	offensive	offensive	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=54|end_char=63
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=64|end_char=67
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=68|end_char=75
+10	of	of	SCONJ	IN	_	11	case	_	start_char=76|end_char=78
+11	what	what	PRON	WP	PronType=Int	9	obl	_	start_char=79|end_char=83
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=84|end_char=85
+13	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=85|end_char=87
+14	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=88|end_char=94
+15	!	!	PUNCT	.	_	4	punct	_	start_char=94|end_char=95
+16	”	''	PUNCT	''	_	4	punct	_	start_char=95|end_char=96
+

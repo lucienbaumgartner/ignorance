@@ -1,0 +1,16 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=0|end_char=5
+2	so	so	ADV	RB	_	3	advmod	_	start_char=6|end_char=8
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	insecure	insecure	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=29
+6	that	that	SCONJ	IN	_	11	mark	_	start_char=30|end_char=34
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=35|end_char=39
+8	ca	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=40|end_char=42
+9	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=42|end_char=45
+10	even	even	ADV	RB	_	11	advmod	_	start_char=46|end_char=50
+11	see	see	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=51|end_char=54
+12	THEY	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=55|end_char=59
+13	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=60|end_char=63
+14	THE	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=64|end_char=67
+15	CRAZY	crazy	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=68|end_char=73
+

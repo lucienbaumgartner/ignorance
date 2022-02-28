@@ -1,0 +1,31 @@
+1	Totally	totally	ADV	RB	_	2	advmod	_	start_char=0|end_char=7
+2	getting	get	VERB	VBG	VerbForm=Ger	0	root	_	start_char=8|end_char=15
+3	josh	josh	NOUN	NN	Number=Sing	4	compound	_	start_char=16|end_char=20
+4	vibes	vibe	NOUN	NNS	Number=Plur	2	obj	_	start_char=21|end_char=26
+5	from	from	ADP	IN	_	6	case	_	start_char=27|end_char=31
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl	_	start_char=32|end_char=34
+7	.	.	PUNCT	.	_	2	punct	_	start_char=34|end_char=35
+
+1	Dude	dude	NOUN	NN	Number=Sing	2	nsubj	_	start_char=36|end_char=40
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=46
+3	so	so	ADV	RB	_	4	advmod	_	start_char=47|end_char=49
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=50|end_char=57
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=58|end_char=61
+6	unenthusiastic	unenthusiastic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=62|end_char=76
+7	about	about	ADP	IN	_	8	case	_	start_char=77|end_char=82
+8	everything	everything	PRON	NN	Number=Sing	6	obl	_	start_char=83|end_char=93
+9	.	.	PUNCT	.	_	2	punct	_	start_char=93|end_char=94
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=95|end_char=97
+2	probably	probably	ADV	RB	_	4	advmod	_	start_char=98|end_char=106
+3	only	only	ADV	RB	_	4	advmod	_	start_char=107|end_char=111
+4	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=112|end_char=118
+5	Mackenzie	Mackenzie	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=119|end_char=128
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=129|end_char=132
+7	one	one	NUM	CD	NumType=Card	8	nummod	_	start_char=133|end_char=136
+8	hole	hole	NOUN	NN	Number=Sing	6	obj	_	start_char=137|end_char=141
+9	down	down	ADP	IN	_	10	case	_	start_char=142|end_char=146
+10	there	there	ADV	RB	PronType=Dem	6	obl	_	start_char=147|end_char=152
+11	still	still	ADV	RB	_	6	advmod	_	start_char=153|end_char=158
+12	.	.	PUNCT	.	_	4	punct	_	start_char=158|end_char=159
+

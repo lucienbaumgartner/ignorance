@@ -1,0 +1,32 @@
+1	Many	many	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=5|end_char=11
+3	on	on	ADP	IN	_	4	case	_	start_char=12|end_char=14
+4	here	here	ADV	RB	PronType=Dem	2	nmod	_	start_char=15|end_char=19
+5	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=20|end_char=24
+6	very	very	ADV	RB	_	7	advmod	_	start_char=25|end_char=29
+7	challenged	challenge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	start_char=30|end_char=40
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=41|end_char=44
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=45|end_char=52
+10	of	of	ADP	IN	_	11	case	_	start_char=53|end_char=55
+11	ideas	idea	NOUN	NNS	Number=Plur	9	obl	_	start_char=56|end_char=61
+12	of	of	ADP	IN	_	13	case	_	start_char=62|end_char=64
+13	wealth	wealth	NOUN	NN	Number=Sing	11	nmod	_	start_char=65|end_char=71
+14	,	,	PUNCT	,	_	15	punct	_	start_char=71|end_char=72
+15	money	money	NOUN	NN	Number=Sing	13	conj	_	start_char=73|end_char=78
+16	,	,	PUNCT	,	_	17	punct	_	start_char=78|end_char=79
+17	income	income	NOUN	NN	Number=Sing	13	conj	_	start_char=80|end_char=86
+18	,	,	PUNCT	,	_	19	punct	_	start_char=86|end_char=87
+19	etc.	etc.	X	FW	_	13	conj	_	start_char=88|end_char=92
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=96|end_char=97
+2	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=102
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=103|end_char=107
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	cop	_	start_char=108|end_char=112
+5	n't	not	PART	RB	_	10	advmod	_	start_char=112|end_char=115
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=116|end_char=118
+7	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=119|end_char=124
+8	be	be	AUX	VB	VerbForm=Inf	10	aux	_	start_char=125|end_char=127
+9	less	less	ADV	RBR	Degree=Cmp	10	advmod	_	start_char=128|end_char=132
+10	typing	type	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=133|end_char=139
+11	.	.	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+

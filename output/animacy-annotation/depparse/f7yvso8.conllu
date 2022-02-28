@@ -1,0 +1,34 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	wannabe	wannabe	ADJ	JJ	Degree=Pos	4	amod	_	start_char=4|end_char=11
+4	socialist	socialist	NOUN	NN	Number=Sing	1	parataxis	_	start_char=12|end_char=21
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=23|end_char=30
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=31|end_char=36
+3	so	so	ADV	RB	_	4	advmod	_	start_char=37|end_char=39
+4	myopic	myopic	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=40|end_char=46
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=47|end_char=50
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=51|end_char=59
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=60|end_char=64
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=65|end_char=68
+9	ca	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=69|end_char=71
+10	n't	not	PART	RB	_	11	advmod	_	start_char=71|end_char=74
+11	grasp	grasp	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=75|end_char=80
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=81|end_char=84
+13	difference	difference	NOUN	NN	Number=Sing	11	obj	_	start_char=85|end_char=95
+14	between	between	ADP	IN	_	16	case	_	start_char=96|end_char=103
+15	social	social	ADJ	JJ	Degree=Pos	16	amod	_	start_char=104|end_char=110
+16	programs	program	NOUN	NNS	Number=Plur	13	nmod	_	start_char=111|end_char=119
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=120|end_char=123
+18	socialism	socialism	NOUN	NN	Number=Sing	16	conj	_	start_char=124|end_char=133
+19	.	.	PUNCT	.	_	1	punct	_	start_char=133|end_char=134
+
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=137|end_char=140
+2	an	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=141|end_char=143
+3	education	education	NOUN	NN	Number=Sing	1	obj	_	start_char=144|end_char=153
+4	.	.	PUNCT	.	_	1	punct	_	start_char=153|end_char=154
+
+1	Dumb	Dumb	ADJ	JJ	Degree=Pos	2	amod	_	start_char=155|end_char=159
+2	twat	twat	NOUN	NN	Number=Sing	0	root	_	start_char=160|end_char=164
+3	.	.	PUNCT	.	_	2	punct	_	start_char=164|end_char=165
+

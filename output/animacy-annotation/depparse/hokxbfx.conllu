@@ -1,0 +1,19 @@
+1	Just	just	ADV	RB	_	3	advmod	_	start_char=0|end_char=4
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=5|end_char=6
+3	shame	shame	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=12
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	_	start_char=13|end_char=15
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=15|end_char=17
+6	conveyed	convey	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl:relcl	_	start_char=18|end_char=26
+7	in	in	ADP	IN	_	17	case	_	start_char=27|end_char=29
+8	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=30|end_char=31
+9	cringy	cringy	NOUN	NN	Number=Sing	6	obl	_	start_char=32|end_char=38
+10	,	,	PUNCT	,	_	17	punct	_	start_char=38|end_char=39
+11	completely	completely	ADV	RB	_	17	advmod	_	start_char=40|end_char=50
+12	self	self	NOUN	NN	Number=Sing	14	compound	_	start_char=51|end_char=55
+13	-	-	PUNCT	HYPH	_	14	punct	_	start_char=55|end_char=56
+14	unaware	unaware	ADJ	JJ	Degree=Pos	17	amod	_	start_char=56|end_char=63
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=64|end_char=67
+16	unironic	unironic	ADJ	JJ	Degree=Pos	14	conj	_	start_char=68|end_char=76
+17	way	way	NOUN	NN	Number=Sing	6	obl	_	start_char=77|end_char=80
+18	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+

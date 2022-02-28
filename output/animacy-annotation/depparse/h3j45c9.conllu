@@ -1,0 +1,21 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	not	not	PART	RB	_	2	advmod	_	start_char=9|end_char=12
+4	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=14|end_char=18
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=19|end_char=22
+3	just	just	ADV	RB	_	5	advmod	_	start_char=23|end_char=27
+4	bad	bad	ADJ	JJ	Degree=Pos	5	amod	_	start_char=28|end_char=31
+5	parents	parent	NOUN	NNS	Number=Plur	0	root	_	start_char=32|end_char=39
+6	,	,	PUNCT	,	_	7	punct	_	start_char=39|end_char=40
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=41|end_char=48
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=49|end_char=52
+9	unable	unable	ADJ	JJ	Degree=Pos	5	conj	_	start_char=53|end_char=59
+10	to	to	PART	TO	_	11	mark	_	start_char=60|end_char=62
+11	raise	raise	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=63|end_char=68
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=69|end_char=74
+13	kids	kid	NOUN	NNS	Number=Plur	11	obj	_	start_char=75|end_char=79
+14	properly	properly	ADV	RB	_	11	advmod	_	start_char=80|end_char=88
+15	.	.	PUNCT	.	_	5	punct	_	start_char=88|end_char=89
+

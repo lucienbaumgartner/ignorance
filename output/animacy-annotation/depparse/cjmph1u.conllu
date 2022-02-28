@@ -1,0 +1,43 @@
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=0|end_char=2
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=7
+3	opponents	opponent	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=8|end_char=17
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=18|end_char=21
+5	so	so	ADV	RB	_	6	advmod	_	start_char=22|end_char=24
+6	overextended	overextended	ADJ	JJ	Degree=Pos	25	advcl	_	start_char=25|end_char=37
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=38|end_char=41
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=42|end_char=49
+9	that	that	SCONJ	IN	_	16	mark	_	start_char=50|end_char=54
+10	even	even	ADV	RB	_	14	advmod	_	start_char=55|end_char=59
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=60|end_char=61
+12	pre	pre	NOUN	NN	Number=Sing	14	compound	_	start_char=62|end_char=65
+13	-6	-6	NUM	CD	NumType=Card	14	nummod	_	start_char=65|end_char=67
+14	Warwick	Warwick	PROPN	NNP	Number=Sing	16	nsubj	_	start_char=68|end_char=75
+15	can	can	AUX	MD	VerbForm=Fin	16	aux	_	start_char=76|end_char=79
+16	walk	walk	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=80|end_char=84
+17	up	up	ADP	RP	_	16	compound:prt	_	start_char=85|end_char=87
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=88|end_char=91
+19	get	get	VERB	VB	VerbForm=Inf	16	conj	_	start_char=92|end_char=95
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=96|end_char=97
+21	kill	kill	NOUN	NN	Number=Sing	19	obj	_	start_char=98|end_char=102
+22	,	,	PUNCT	,	_	28	punct	_	start_char=102|end_char=103
+23	then	then	ADV	RB	PronType=Dem	28	advmod	_	start_char=104|end_char=108
+24	so	so	ADV	RB	_	28	advmod	_	start_char=109|end_char=111
+25	could	could	AUX	MD	VerbForm=Fin	28	aux	_	start_char=112|end_char=117
+26	any	any	DET	DT	_	28	det	_	start_char=118|end_char=121
+27	other	other	ADJ	JJ	Degree=Pos	28	amod	_	start_char=122|end_char=127
+28	jungler	jungler	NOUN	NN	Number=Sing	0	root	_	start_char=128|end_char=135
+29	.	.	PUNCT	.	_	28	punct	_	start_char=135|end_char=136
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=137|end_char=144
+2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=145|end_char=146
+3	capably	capably	ADV	RB	_	5	advmod	_	start_char=147|end_char=154
+4	-	-	PUNCT	HYPH	_	5	punct	_	start_char=154|end_char=155
+5	played	play	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=155|end_char=161
+6	Xin	Xin	PROPN	NNP	Number=Sing	1	obj	_	start_char=162|end_char=165
+7	Zhao	Zhao	PROPN	NNP	Number=Sing	6	flat	_	start_char=166|end_char=170
+8	.	.	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=172|end_char=175
+2	horror	horror	NOUN	NN	Number=Sing	0	root	_	start_char=176|end_char=182
+3	.	.	PUNCT	.	_	2	punct	_	start_char=182|end_char=183
+

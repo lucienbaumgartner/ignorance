@@ -1,0 +1,14 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	come	come	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	off	off	ADP	RP	_	2	compound:prt	_	start_char=9|end_char=12
+4	really	really	ADV	RB	Degree=Pos	5	advmod	_	start_char=13|end_char=19
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=20|end_char=28
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+7	pretty	pretty	ADV	RB	_	8	advmod	_	start_char=33|end_char=39
+8	silly	silly	ADJ	JJ	Degree=Pos	2	conj	_	start_char=40|end_char=45
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=46|end_char=49
+10	more	more	ADV	RBR	_	8	advmod	_	start_char=50|end_char=54
+11	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=55|end_char=58
+12	talk	talk	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=59|end_char=63
+13	.	.	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+

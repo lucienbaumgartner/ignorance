@@ -1,0 +1,24 @@
+1	Individual	Individual	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=10
+2	1	1	NUM	CD	NumType=Card	6	nsubj	_	start_char=11|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=13|end_char=15
+4	so	so	ADV	RB	_	5	advmod	_	start_char=16|end_char=18
+5	massively	massively	ADV	RB	_	6	advmod	_	start_char=19|end_char=28
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=48
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=49|end_char=53
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=54|end_char=56
+11	actually	actually	ADV	RB	_	12	advmod	_	start_char=57|end_char=65
+12	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=66|end_char=72
+13	that	that	SCONJ	IN	_	17	mark	_	start_char=73|end_char=77
+14	anything	anything	PRON	NN	Number=Sing	17	nsubj	_	start_char=78|end_char=86
+15	Schiff	Schiff	PROPN	NNP	Number=Sing	14	flat	_	start_char=87|end_char=93
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=94|end_char=96
+17	treason	treason	NOUN	NN	Number=Sing	12	ccomp	_	start_char=97|end_char=104
+18	.	.	PUNCT	.	_	6	punct	_	start_char=104|end_char=105
+
+1	What	what	PRON	WP	PronType=Int	3	det:predet	_	start_char=106|end_char=110
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=111|end_char=112
+3	maroon	maroon	NOUN	NN	Number=Sing	0	root	_	start_char=113|end_char=119
+4	!	!	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

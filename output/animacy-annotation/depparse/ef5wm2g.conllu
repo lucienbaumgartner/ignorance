@@ -1,0 +1,31 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=8
+3	!	!	PUNCT	.	_	2	punct	_	start_char=8|end_char=9
+4	-	-	PUNCT	,	_	2	punct	_	start_char=10|end_char=11
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=12|end_char=16
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=17|end_char=19
+7	simply	simply	ADV	RB	_	14	advmod	_	start_char=20|end_char=26
+8	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=27|end_char=29
+9	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=30|end_char=37
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=38|end_char=41
+11	non	non	ADV	RB	_	12	advmod	_	start_char=42|end_char=45
+12	responsive	responsive	ADJ	JJ	Degree=Pos	9	conj	_	start_char=46|end_char=56
+13	enemy	enemy	NOUN	NN	Number=Sing	14	compound	_	start_char=57|end_char=62
+14	team	team	NOUN	NN	Number=Sing	2	parataxis	_	start_char=63|end_char=67
+15	.	.	PUNCT	.	_	2	punct	_	start_char=67|end_char=68
+
+1	All	all	DET	DT	_	2	det	_	start_char=69|end_char=72
+2	weapons	weapon	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=73|end_char=80
+3	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=81|end_char=86
+4	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=87|end_char=89
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=90|end_char=94
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=95|end_char=97
+7	there	there	PRON	EX	_	8	expl	_	start_char=98|end_char=103
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=104|end_char=106
+9	not	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=107|end_char=110
+10	real	real	ADJ	JJ	Degree=Pos	11	amod	_	start_char=111|end_char=115
+11	reaction	reaction	NOUN	NN	Number=Sing	8	nsubj	_	start_char=116|end_char=124
+12	from	from	ADP	IN	_	14	case	_	start_char=125|end_char=129
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=130|end_char=133
+14	enemy	enemy	NOUN	NN	Number=Sing	11	nmod	_	start_char=134|end_char=139
+

@@ -1,0 +1,26 @@
+1	Yeah	yeah	INTJ	UH	_	6	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	6	punct	_	start_char=4|end_char=5
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=6|end_char=10
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=11|end_char=13
+5	n't	not	PART	RB	_	6	advmod	_	start_char=13|end_char=16
+6	provide	provide	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=24
+7	abortions	abortion	NOUN	NNS	Number=Plur	6	obj	_	start_char=25|end_char=34
+8	.	.	PUNCT	.	_	6	punct	_	start_char=34|end_char=35
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=36|end_char=40
+2	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=45
+3	to	to	PART	TO	_	4	mark	_	start_char=46|end_char=48
+4	show	show	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=49|end_char=53
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=54|end_char=57
+6	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=58|end_char=68
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=69|end_char=72
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=73|end_char=81
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=82|end_char=86
+10	crazy	crazy	ADJ	JJ	Degree=Pos	11	amod	_	start_char=87|end_char=92
+11	fucker	fucker	NOUN	NN	Number=Sing	13	nsubj	_	start_char=93|end_char=99
+12	really	really	ADV	RB	_	13	advmod	_	start_char=100|end_char=106
+13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=107|end_char=109
+14	.	.	PUNCT	.	_	2	punct	_	start_char=109|end_char=110
+
+1	https://www.bayclinic.org/services/womens-health-services/family-planning	https://www.bayclinic.org/services/womens-health-services/family-planning	X	ADD	_	0	root	_	start_char=113|end_char=186
+

@@ -1,0 +1,20 @@
+1	Age	age	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+
+1	Of	of	ADP	IN	_	2	case	_	start_char=4|end_char=6
+2	empires	empire	NOUN	NNS	Number=Plur	4	obl	_	start_char=7|end_char=14
+3	,	,	PUNCT	,	_	4	punct	_	start_char=15|end_char=16
+4	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=17|end_char=21
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=22|end_char=24
+6	back	back	ADV	RB	_	4	advmod	_	start_char=25|end_char=29
+7	to	to	ADP	IN	_	8	case	_	start_char=30|end_char=32
+8	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=33|end_char=37
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=38|end_char=39
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=40|end_char=43
+11	less	less	ADV	RBR	Degree=Cmp	12	advmod	_	start_char=44|end_char=48
+12	depressed	depressed	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=49|end_char=58
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=59|end_char=62
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=63|end_char=71
+15	of	of	ADP	IN	_	17	case	_	start_char=72|end_char=74
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=75|end_char=78
+17	world	world	NOUN	NN	Number=Sing	14	obl	_	start_char=79|end_char=84
+

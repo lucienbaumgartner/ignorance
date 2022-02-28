@@ -1,0 +1,59 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=2|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=5|end_char=8
+4	best	good	ADJ	JJS	Degree=Sup	6	amod	_	start_char=9|end_char=13
+5	selling	sell	NOUN	NN	Number=Sing	6	compound	_	start_char=14|end_char=21
+6	rapper	rapper	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=28
+7	in	in	ADP	IN	_	8	case	_	start_char=29|end_char=31
+8	history	history	NOUN	NN	Number=Sing	6	nmod	_	start_char=32|end_char=39
+9	,	,	PUNCT	,	_	6	punct	_	start_char=39|end_char=40
+10	by	by	ADV	RB	_	11	advmod	_	start_char=41|end_char=43
+11	far	far	ADV	RB	Degree=Pos	6	advmod	_	start_char=44|end_char=47
+12	..	..	PUNCT	.	_	6	punct	_	start_char=47|end_char=49
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=50|end_char=52
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=52|end_char=54
+3	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=55|end_char=58
+4	6th	6th	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	start_char=59|end_char=62
+5	highest	high	ADJ	JJS	Degree=Sup	8	amod	_	start_char=63|end_char=70
+6	selling	sell	NOUN	NN	Number=Sing	8	compound	_	start_char=71|end_char=78
+7	solo	solo	NOUN	NN	Number=Sing	8	compound	_	start_char=79|end_char=83
+8	artist	artist	NOUN	NN	Number=Sing	0	root	_	start_char=84|end_char=90
+9	in	in	ADP	IN	_	11	case	_	start_char=91|end_char=93
+10	music	music	NOUN	NN	Number=Sing	11	compound	_	start_char=94|end_char=99
+11	history	history	NOUN	NN	Number=Sing	8	nmod	_	start_char=100|end_char=107
+12	.	.	PUNCT	.	_	8	punct	_	start_char=107|end_char=108
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=109|end_char=111
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=112|end_char=115
+3	fans	fan	NOUN	NNS	Number=Plur	2	obj	_	start_char=116|end_char=120
+4	worldwide	worldwide	ADV	RB	_	2	advmod	_	start_char=121|end_char=130
+5	.	.	PUNCT	.	_	2	punct	_	start_char=130|end_char=131
+
+1	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=132|end_char=138
+2	of	of	ADP	IN	_	4	case	_	start_char=139|end_char=141
+3	all	all	DET	DT	_	4	det	_	start_char=142|end_char=145
+4	races	race	NOUN	NNS	Number=Plur	1	nmod	_	start_char=146|end_char=151
+5	,	,	PUNCT	,	_	6	punct	_	start_char=151|end_char=152
+6	religions	religion	NOUN	NNS	Number=Plur	4	conj	_	start_char=153|end_char=162
+7	,	,	PUNCT	,	_	8	punct	_	start_char=162|end_char=163
+8	etc	etc	X	FW	_	4	conj	_	start_char=164|end_char=167
+9	,	,	PUNCT	,	_	10	punct	_	start_char=167|end_char=168
+10	etc	etc	X	FW	_	4	conj	_	start_char=169|end_char=172
+11	.	.	PUNCT	.	_	1	punct	_	start_char=172|end_char=173
+
+1	Generalizing	generalize	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=174|end_char=186
+2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=187|end_char=190
+3	fanbase	fanbase	NOUN	NN	Number=Sing	1	obj	_	start_char=191|end_char=198
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=199|end_char=201
+5	incredibly	incredibly	ADV	RB	_	6	advmod	_	start_char=202|end_char=212
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=213|end_char=221
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=222|end_char=225
+8	lame	lame	ADJ	JJ	Degree=Pos	6	conj	_	start_char=226|end_char=230
+9	.	.	PUNCT	.	_	6	punct	_	start_char=230|end_char=231
+
+1	Find	find	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=232|end_char=236
+2	some	some	DET	DT	_	3	det	_	start_char=237|end_char=241
+3	hobbies	hobby	NOUN	NNS	Number=Plur	1	obj	_	start_char=242|end_char=249
+4	bro	bro	PUNCT	.	_	1	punct	_	start_char=250|end_char=253
+

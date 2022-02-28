@@ -1,0 +1,41 @@
+1	😂.	😂.	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=2
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3|end_char=4
+2	'd	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=4|end_char=6
+3	rather	rather	ADV	RB	_	5	advmod	_	start_char=7|end_char=13
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=14|end_char=16
+5	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=22
+6	of	of	ADP	IN	_	9	case	_	start_char=23|end_char=25
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=26|end_char=28
+8	own	own	ADJ	JJ	Degree=Pos	9	amod	_	start_char=29|end_char=32
+9	ignorance	ignorance	NOUN	NN	Number=Sing	5	obl	_	start_char=33|end_char=42
+10	(	(	PUNCT	-LRB-	_	12	punct	_	start_char=43|end_char=44
+11	hence	hence	ADV	RB	_	12	advmod	_	start_char=44|end_char=49
+12	why	why	SCONJ	WRB	PronType=Int	5	parataxis	_	start_char=50|end_char=53
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=54|end_char=55
+14	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl:relcl	_	start_char=56|end_char=61
+15	above	above	ADV	RB	_	14	advmod	_	start_char=62|end_char=67
+16	as	as	ADP	IN	_	18	case	_	start_char=68|end_char=70
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=71|end_char=72
+18	question	question	NOUN	NN	Number=Sing	14	obl	_	start_char=73|end_char=81
+19	)	)	PUNCT	-RRB-	_	14	punct	_	start_char=81|end_char=82
+20	,	,	PUNCT	,	_	22	punct	_	start_char=82|end_char=83
+21	than	than	ADP	IN	_	22	case	_	start_char=84|end_char=88
+22	unaware	unaware	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=89|end_char=96
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=97|end_char=100
+24	ignorant	ignorant	ADJ	JJ	Degree=Pos	22	conj	_	start_char=101|end_char=109
+25	about	about	ADP	IN	_	26	case	_	start_char=110|end_char=115
+26	something	something	PRON	NN	Number=Sing	22	obl	_	start_char=116|end_char=125
+27	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	start_char=126|end_char=130
+28	teach	teach	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	start_char=131|end_char=136
+29	kids	kid	NOUN	NNS	Number=Plur	28	obj	_	start_char=137|end_char=141
+30	when	when	SCONJ	WRB	PronType=Int	35	mark	_	start_char=142|end_char=146
+31	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	nsubj	_	start_char=147|end_char=151
+32	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	35	cop	_	start_char=151|end_char=154
+33	12	12	NUM	CD	NumType=Card	34	nummod	_	start_char=155|end_char=157
+34	years	year	NOUN	NNS	Number=Plur	35	obl:tmod	_	start_char=158|end_char=163
+35	old	old	ADJ	JJ	Degree=Pos	28	advcl	_	start_char=164|end_char=167
+36	..	..	PUNCT	.	_	5	punct	_	start_char=167|end_char=169
+
+1	⭐	⭐	PROPN	NNP	Number=Sing	0	root	_	start_char=171|end_char=172
+

@@ -1,0 +1,54 @@
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=0|end_char=2
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	start_char=7|end_char=10
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=11|end_char=12
+5	mental	mental	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=19
+6	impairment	impairment	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=30
+7	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=31|end_char=35
+8	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=36|end_char=42
+9	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=43|end_char=46
+10	to	to	PART	TO	_	12	mark	_	start_char=47|end_char=49
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=50|end_char=52
+12	forgetful	forgetful	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=53|end_char=62
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=63|end_char=66
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=67|end_char=74
+15	of	of	ADP	IN	_	17	case	_	start_char=75|end_char=77
+16	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=78|end_char=81
+17	actions	action	NOUN	NNS	Number=Plur	14	obl	_	start_char=82|end_char=89
+18	/	/	SYM	,	_	19	cc	_	start_char=89|end_char=90
+19	inaction	inaction	NOUN	NN	Number=Sing	17	conj	_	start_char=90|end_char=98
+20	;	;	PUNCT	,	_	22	punct	_	start_char=98|end_char=99
+21	not	not	PART	RB	_	22	advmod	_	start_char=100|end_char=103
+22	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=104|end_char=110
+23	.	.	PUNCT	.	_	22	punct	_	start_char=110|end_char=111
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=112|end_char=114
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=115|end_char=118
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=119|end_char=122
+4	drunk	drunk	ADJ	JJ	Degree=Pos	17	advcl	_	start_char=123|end_char=128
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=129|end_char=132
+6	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=133|end_char=138
+7	to	to	PART	TO	_	8	mark	_	start_char=139|end_char=141
+8	behave	behave	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=142|end_char=148
+9	like	like	ADP	IN	_	10	case	_	start_char=149|end_char=153
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obl	_	start_char=154|end_char=158
+11	,	,	PUNCT	,	_	17	punct	_	start_char=158|end_char=159
+12	then	then	ADV	RB	PronType=Dem	17	advmod	_	start_char=160|end_char=164
+13	of	of	ADP	IN	_	17	advmod	_	start_char=165|end_char=167
+14	course	course	NOUN	NN	Number=Sing	13	fixed	_	start_char=168|end_char=174
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	17	nsubj	_	start_char=175|end_char=179
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=179|end_char=181
+17	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=182|end_char=188
+18	.	.	PUNCT	.	_	17	punct	_	start_char=188|end_char=189
+
+1	Same	same	ADJ	JJ	Degree=Pos	2	amod	_	start_char=191|end_char=195
+2	action	action	NOUN	NN	Number=Sing	0	root	_	start_char=196|end_char=202
+3	,	,	PUNCT	,	_	2	punct	_	start_char=202|end_char=203
+4	different	different	ADJ	JJ	Degree=Pos	5	amod	_	start_char=204|end_char=213
+5	circumstances	circumstance	NOUN	NNS	Number=Plur	2	conj	_	start_char=214|end_char=227
+6	.	.	PUNCT	.	_	2	punct	_	start_char=227|end_char=228
+
+1	Details	detail	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=229|end_char=236
+2	matter	matter	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=237|end_char=243
+3	.	.	PUNCT	.	_	2	punct	_	start_char=243|end_char=244
+

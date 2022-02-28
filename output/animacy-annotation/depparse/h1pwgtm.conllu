@@ -1,0 +1,15 @@
+1	Nah	nah	INTJ	UH	_	8	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	8	punct	_	start_char=3|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+4	young	young	ADJ	JJ	Degree=Pos	7	nsubj	_	start_char=9|end_char=14
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=15|end_char=18
+6	pretty	pretty	ADV	RB	_	7	advmod	_	start_char=19|end_char=25
+7	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	8	advmod	_	start_char=26|end_char=33
+8	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=43|end_char=51
+11	of	of	ADP	IN	_	13	case	_	start_char=52|end_char=54
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=55|end_char=58
+13	world	world	NOUN	NN	Number=Sing	10	obl	_	start_char=59|end_char=64
+14	.	.	PUNCT	.	_	8	punct	_	start_char=64|end_char=65
+

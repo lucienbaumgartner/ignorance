@@ -1,0 +1,24 @@
+1	lol	lol	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	ignorance	ignorance	NOUN	NN	Number=Sing	2	nsubj	_	start_char=5|end_char=14
+2	creates	create	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=22
+3	clueless	clueless	ADJ	JJ	Degree=Pos	4	amod	_	start_char=23|end_char=31
+4	enablers	enabler	NOUN	NNS	Number=Plur	2	obj	_	start_char=32|end_char=40
+5	.	.	PUNCT	.	_	2	punct	_	start_char=40|end_char=41
+
+1	do	do	AUX	VB	VerbForm=Fin	3	aux	_	start_char=42|end_char=44
+2	n't	not	PART	RB	_	3	advmod	_	start_char=44|end_char=47
+3	remain	remain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=48|end_char=54
+4	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=55|end_char=62
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=63|end_char=66
+6	indolent	indolent	ADJ	JJ	Degree=Pos	4	conj	_	start_char=67|end_char=75
+7	,	,	PUNCT	,	_	9	punct	_	start_char=75|end_char=76
+8	literally	literally	ADV	RB	_	9	advmod	_	start_char=77|end_char=86
+9	read	read	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=87|end_char=91
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=92|end_char=93
+11	book	book	NOUN	NN	Number=Sing	9	obj	_	start_char=94|end_char=98
+12	:	:	PUNCT	:	_	3	punct	_	start_char=98|end_char=99
+
+1	https://amp.smh.com.au/opinion/game-of-mates-how-billionaires-get-rich-at-our-expense-20170526-gwe0dp.html	https://amp.smh.com.au/opinion/game-of-mates-how-billionaires-get-rich-at-our-expense-20170526-gwe0dp.html	X	ADD	_	0	root	_	start_char=100|end_char=206
+

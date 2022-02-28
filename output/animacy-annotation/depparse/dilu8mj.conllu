@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	genuinely	genuinely	ADV	RB	_	4	advmod	_	start_char=4|end_char=13
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	curious	curious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=33
+7	(	(	PUNCT	-LRB-	_	11	punct	_	start_char=34|end_char=35
+8	not	not	ADV	RB	_	11	advmod	_	start_char=35|end_char=38
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=39|end_char=41
+10	gender	gender	NOUN	NN	Number=Sing	11	compound	_	start_char=42|end_char=48
+11	designation	designation	NOUN	NN	Number=Sing	4	parataxis	_	start_char=49|end_char=60
+12	)	)	PUNCT	-RRB-	_	11	punct	_	start_char=60|end_char=61
+13	.	.	PUNCT	.	_	4	punct	_	start_char=61|end_char=62
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=63|end_char=65
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=66|end_char=68
+3	actually	actually	ADV	RB	_	5	advmod	_	start_char=69|end_char=77
+4	anti	anti	ADV	RB	_	5	advmod	_	start_char=78|end_char=82
+5	gay	gay	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=86
+6	?	?	PUNCT	.	_	5	punct	_	start_char=86|end_char=87
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=88|end_char=89
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=90|end_char=92
+3	n't	not	PART	RB	_	4	advmod	_	start_char=92|end_char=95
+4	find	find	VERB	VB	VerbForm=Inf	0	root	_	start_char=96|end_char=100
+5	much	much	ADV	RB	_	4	obj	_	start_char=101|end_char=105
+6	about	about	ADP	IN	_	7	case	_	start_char=106|end_char=111
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=112|end_char=114
+8	.	.	PUNCT	.	_	4	punct	_	start_char=114|end_char=115
+

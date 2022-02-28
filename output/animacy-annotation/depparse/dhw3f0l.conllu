@@ -1,0 +1,32 @@
+1	Social	Social	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=6
+2	justice	justice	NOUN	NN	Number=Sing	3	compound	_	start_char=7|end_char=14
+3	warriors	warrior	NOUN	NNS	Number=Plur	0	root	_	start_char=15|end_char=23
+4	.	.	PUNCT	.	_	3	punct	_	start_char=23|end_char=24
+
+1	Usually	usually	ADV	RB	_	3	advmod	_	start_char=25|end_char=32
+2	batshit	batshit	ADV	RB	_	3	advmod	_	start_char=33|end_char=40
+3	crazy	crazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=46
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=47|end_char=50
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=51|end_char=58
+6	that	that	SCONJ	IN	_	13	mark	_	start_char=59|end_char=63
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=64|end_char=67
+8	stuff	stuff	NOUN	NN	Number=Sing	13	nsubj	_	start_char=68|end_char=73
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=74|end_char=78
+10	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=78|end_char=81
+11	advocating	advocate	VERB	VBG	Tense=Pres|VerbForm=Part	8	acl:relcl	_	start_char=82|end_char=92
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=93|end_char=95
+13	nowhere	nowhere	ADV	RB	_	3	conj	_	start_char=96|end_char=103
+14	near	near	ADV	RB	_	16	advmod	_	start_char=104|end_char=108
+15	as	as	ADV	RB	_	16	advmod	_	start_char=109|end_char=111
+16	sane	sane	ADJ	JJ	Degree=Pos	3	conj	_	start_char=112|end_char=116
+17	as	as	SCONJ	IN	_	24	mark	_	start_char=117|end_char=119
+18	what	what	PRON	WP	PronType=Int	16	obl	_	start_char=120|end_char=124
+19	most	most	ADJ	JJS	Degree=Sup	23	amod	_	start_char=125|end_char=129
+20	level	level	NOUN	NN	Number=Sing	22	compound	_	start_char=130|end_char=135
+21	-	-	PUNCT	HYPH	_	22	punct	_	start_char=135|end_char=136
+22	headed	head	VERB	VBN	Tense=Past|VerbForm=Part	23	amod	_	start_char=136|end_char=142
+23	feminists	feminist	NOUN	NNS	Number=Plur	24	nsubj	_	start_char=143|end_char=152
+24	strive	strive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=153|end_char=159
+25	for	for	ADP	IN	_	24	obl	_	start_char=160|end_char=163
+26	.	.	PUNCT	.	_	3	punct	_	start_char=163|end_char=164
+

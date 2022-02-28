@@ -1,0 +1,46 @@
+1	Too	too	ADV	RB	_	2	advmod	_	start_char=0|end_char=3
+2	many	many	ADJ	JJ	Degree=Pos	6	amod	_	start_char=4|end_char=8
+3	unaware	unaware	ADJ	JJ	Degree=Pos	6	amod	_	start_char=9|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	compliant	compliant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=30
+6	sexists	sexist	NOUN	NNS	Number=Plur	0	root	_	start_char=31|end_char=38
+7	bashing	bashing	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=39|end_char=46
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=47|end_char=51
+9	HEROINE	heroine	NOUN	NN	Number=Sing	7	obj	_	start_char=52|end_char=59
+10	.	.	PUNCT	.	_	6	punct	_	start_char=59|end_char=60
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=61|end_char=62
+2	SAD	sad	ADJ	JJ	Degree=Pos	3	amod	_	start_char=63|end_char=66
+3	EFFORT	effort	NOUN	NN	Number=Sing	0	root	_	start_char=67|end_char=73
+4	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=75|end_char=78
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=79|end_char=82
+3	already	already	ADV	RB	_	4	advmod	_	start_char=83|end_char=90
+4	broken	break	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=91|end_char=97
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=98|end_char=101
+6	GLASS	glass	NOUN	NN	Number=Sing	7	compound	_	start_char=102|end_char=107
+7	CEILING	ceiling	NOUN	NN	Number=Sing	4	obj	_	start_char=108|end_char=115
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=116|end_char=119
+9	flown	fly	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=120|end_char=125
+10	out	out	ADP	IN	_	14	case	_	start_char=126|end_char=129
+11	of	of	ADP	IN	_	14	case	_	start_char=130|end_char=132
+12	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=133|end_char=137
+13	shitty	shitty	ADJ	JJ	Degree=Pos	14	amod	_	start_char=138|end_char=144
+14	house	house	NOUN	NN	Number=Sing	9	obl	_	start_char=145|end_char=150
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=151|end_char=155
+16	toss	toss	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=156|end_char=160
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=161|end_char=166
+18	stones	stone	NOUN	NNS	Number=Plur	16	obj	_	start_char=167|end_char=173
+19	from	from	ADP	IN	_	16	obl	_	start_char=174|end_char=178
+20	to	to	PART	TO	_	21	mark	_	start_char=179|end_char=181
+21	help	help	VERB	VB	VerbForm=Inf	16	advcl	_	start_char=182|end_char=186
+22	build	build	VERB	VB	VerbForm=Inf	21	xcomp	_	start_char=187|end_char=192
+23	new	new	ADJ	JJ	Degree=Pos	24	amod	_	start_char=193|end_char=196
+24	homes	home	NOUN	NNS	Number=Plur	22	obj	_	start_char=197|end_char=202
+25	made	make	VERB	VBN	Tense=Past|VerbForm=Part	24	acl	_	start_char=203|end_char=207
+26	of	of	ADP	IN	_	29	case	_	start_char=208|end_char=210
+27	US	US	PROPN	NNP	Number=Sing	29	compound	_	start_char=211|end_char=213
+28	STEEL	STEEL	PROPN	NNP	Number=Sing	29	compound	_	start_char=214|end_char=219
+29	BABYYYYY	BABYYYYY	PROPN	NNP	Number=Sing	25	obl	_	start_char=220|end_char=228
+

@@ -1,0 +1,18 @@
+1	YTA	YTA	PROPN	NNP	Number=Sing	3	compound	_	start_char=0|end_char=3
+2	poor	poor	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=8
+3	mama	mama	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=13
+4	just	just	ADV	RB	_	5	advmod	_	start_char=14|end_char=18
+5	feeding	feed	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=19|end_char=26
+6	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=27|end_char=30
+7	baby	baby	NOUN	NN	Number=Sing	5	obj	_	start_char=31|end_char=35
+8	.	.	PUNCT	.	_	3	punct	_	start_char=35|end_char=36
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=37|end_char=41
+2	immature	immature	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=50
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=51|end_char=54
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=55|end_char=63
+5	of	of	ADP	IN	_	6	case	_	start_char=64|end_char=66
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=67|end_char=70
+7	sir	sir	NOUN	NN	Number=Sing	2	vocative	_	start_char=71|end_char=74
+8	.	.	PUNCT	.	_	2	punct	_	start_char=74|end_char=75
+

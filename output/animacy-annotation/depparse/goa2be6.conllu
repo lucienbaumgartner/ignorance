@@ -1,0 +1,55 @@
+1	Nope	nope	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Los	Los	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=6|end_char=9
+2	angeles	Angeles	PROPN	NNP	Number=Sing	1	flat	_	start_char=10|end_char=17
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=18|end_char=20
+4	worse	bad	ADJ	JJR	Degree=Cmp	0	root	_	start_char=21|end_char=26
+5	.	.	PUNCT	.	_	4	punct	_	start_char=26|end_char=27
+
+1	Rhode	Rhode	PROPN	NNP	Number=Sing	2	compound	_	start_char=28|end_char=33
+2	islanders	islander	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=34|end_char=43
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=44|end_char=47
+4	bad	bad	ADJ	JJ	Degree=Pos	5	amod	_	start_char=48|end_char=51
+5	drivers	driver	NOUN	NNS	Number=Plur	0	root	_	start_char=52|end_char=59
+6	because	because	SCONJ	IN	_	8	mark	_	start_char=60|end_char=67
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=68|end_char=72
+8	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=73|end_char=77
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=78|end_char=81
+10	rules	rule	NOUN	NNS	Number=Plur	8	obj	_	start_char=82|end_char=87
+11	but	but	CCONJ	CC	_	14	cc	_	start_char=88|end_char=91
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=92|end_char=94
+13	n't	not	PART	RB	_	14	advmod	_	start_char=94|end_char=97
+14	care	care	VERB	VB	VerbForm=Inf	8	conj	_	start_char=98|end_char=102
+15	about	about	ADP	IN	_	17	case	_	start_char=103|end_char=108
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=109|end_char=112
+17	rules	rule	NOUN	NNS	Number=Plur	14	obl	_	start_char=113|end_char=118
+18	,	,	PUNCT	,	_	5	punct	_	start_char=118|end_char=119
+19	LA	LA	PROPN	NNP	Number=Sing	20	compound	_	start_char=120|end_char=122
+20	drivers	driver	NOUN	NNS	Number=Plur	23	nsubj	_	start_char=123|end_char=130
+21	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=131|end_char=134
+22	completely	completely	ADV	RB	_	23	advmod	_	start_char=135|end_char=145
+23	inept	inept	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=146|end_char=151
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=152|end_char=155
+25	ignorant	ignorant	ADJ	JJ	Degree=Pos	23	conj	_	start_char=156|end_char=164
+26	of	of	ADP	IN	_	28	case	_	start_char=165|end_char=167
+27	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	start_char=168|end_char=171
+28	way	way	NOUN	NN	Number=Sing	25	obl	_	start_char=172|end_char=175
+29	roads	road	NOUN	NNS	Number=Plur	30	nsubj	_	start_char=176|end_char=181
+30	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	start_char=182|end_char=186
+31	.	.	PUNCT	.	_	5	punct	_	start_char=186|end_char=187
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=188|end_char=189
+2	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=190|end_char=195
+3	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=196|end_char=201
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=202|end_char=205
+5	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=206|end_char=211
+6	thousands	thousand	NOUN	NNS	Number=Plur	5	obj	_	start_char=212|end_char=221
+7	of	of	ADP	IN	_	8	case	_	start_char=222|end_char=224
+8	miles	mile	NOUN	NNS	Number=Plur	6	nmod	_	start_char=225|end_char=230
+9	there	there	ADV	RB	PronType=Dem	5	advmod	_	start_char=231|end_char=236
+10	over	over	ADV	RB	_	11	advmod	_	start_char=237|end_char=241
+11	5	5	NUM	CD	NumType=Card	12	nummod	_	start_char=242|end_char=243
+12	years	year	NOUN	NNS	Number=Plur	5	obl:tmod	_	start_char=244|end_char=249
+13	.	.	PUNCT	.	_	2	punct	_	start_char=249|end_char=250
+

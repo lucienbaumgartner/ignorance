@@ -1,0 +1,22 @@
+1	in	in	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=5
+3	experience	experience	NOUN	NN	Number=Sing	8	obl	_	start_char=6|end_char=16
+4	many	many	ADJ	JJ	Degree=Pos	5	amod	_	start_char=17|end_char=21
+5	americans	American	PROPN	NNPS	Number=Plur	8	nsubj	_	start_char=22|end_char=31
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	start_char=32|end_char=36
+7	very	very	ADV	RB	_	8	advmod	_	start_char=37|end_char=41
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=50
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=51|end_char=54
+10	superficial	superficial	ADJ	JJ	Degree=Pos	8	conj	_	start_char=55|end_char=66
+11	,	,	PUNCT	,	_	12	punct	_	start_char=66|end_char=67
+12	shallow	shallow	ADJ	JJ	Degree=Pos	8	conj	_	start_char=68|end_char=75
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=76|end_char=79
+14	didnt	didnt	AUX	MD	VerbForm=Fin	15	aux	_	start_char=80|end_char=85
+15	have	have	VERB	VB	VerbForm=Inf	8	conj	_	start_char=86|end_char=90
+16	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=91|end_char=92
+17	deep	deep	ADJ	JJ	Degree=Pos	19	amod	_	start_char=93|end_char=97
+18	thought	thought	NOUN	NN	Number=Sing	19	compound	_	start_char=98|end_char=105
+19	process	process	NOUN	NN	Number=Sing	15	obj	_	start_char=106|end_char=113
+20	or	or	CCONJ	CC	_	21	cc	_	start_char=114|end_char=116
+21	language	language	NOUN	NN	Number=Sing	19	conj	_	start_char=117|end_char=125
+

@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	enjoy	enjoy	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=8|end_char=11
+4	mild	mild	ADJ	JJ	Degree=Pos	7	amod	_	start_char=12|end_char=16
+5	hallucinations	hallucination	NOUN	NNS	Number=Plur	7	compound	_	start_char=17|end_char=31
+6	reading	reading	NOUN	NN	Number=Sing	7	compound	_	start_char=32|end_char=39
+7	produces	produce	NOUN	NNS	Number=Plur	2	obj	_	start_char=40|end_char=48
+8	.	.	PUNCT	.	_	2	punct	_	start_char=48|end_char=49
+
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=50|end_char=52
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=53|end_char=55
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=55|end_char=57
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=58|end_char=59
+5	good	good	ADJ	JJ	Degree=Pos	6	amod	_	start_char=60|end_char=64
+6	book	book	NOUN	NN	Number=Sing	11	advcl	_	start_char=65|end_char=69
+7	,	,	PUNCT	,	_	11	punct	_	start_char=69|end_char=70
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=71|end_char=72
+9	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=72|end_char=74
+10	completely	completely	ADV	RB	_	11	advmod	_	start_char=75|end_char=85
+11	emersed	emersed	ADJ	JJ	Degree=Pos	0	root	_	start_char=86|end_char=93
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=94|end_char=97
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=98|end_char=105
+14	of	of	ADP	IN	_	16	case	_	start_char=106|end_char=108
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=109|end_char=111
+16	surroundings	surroundings	NOUN	NNS	Number=Plur	13	obl	_	start_char=112|end_char=124
+17	.	.	PUNCT	.	_	11	punct	_	start_char=124|end_char=125
+

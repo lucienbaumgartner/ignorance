@@ -1,0 +1,9 @@
+1	God	God	PROPN	NNP	Number=Sing	5	vocative	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=8|end_char=11
+4	so	so	ADV	RB	_	5	advmod	_	start_char=12|end_char=14
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=15|end_char=22
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=23|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	conceited	conceited	ADJ	JJ	Degree=Pos	6	conj	_	start_char=36|end_char=45
+

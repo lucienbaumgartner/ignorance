@@ -1,0 +1,51 @@
+1	Yep	yep	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	7	punct	_	start_char=3|end_char=4
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=5|end_char=7
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=8|end_char=11
+5	all	all	ADV	RB	_	7	advmod	_	start_char=12|end_char=15
+6	just	just	ADV	RB	_	7	advmod	_	start_char=16|end_char=20
+7	lambs	lamb	NOUN	NNS	Number=Plur	0	root	_	start_char=21|end_char=26
+8	to	to	ADP	IN	_	10	case	_	start_char=27|end_char=29
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=30|end_char=33
+10	slaughter	slaughter	NOUN	NN	Number=Sing	7	nmod	_	start_char=34|end_char=43
+11	.	.	PUNCT	.	_	7	punct	_	start_char=43|end_char=44
+
+1	Oh	oh	INTJ	UH	_	4	discourse	_	start_char=45|end_char=47
+2	woe	woe	NOUN	NN	Number=Sing	4	nsubj	_	start_char=48|end_char=51
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=52|end_char=54
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=55|end_char=57
+5	,	,	PUNCT	,	_	4	punct	_	start_char=57|end_char=58
+6	forever	forever	ADV	RB	_	10	advmod	_	start_char=59|end_char=66
+7	on	on	ADP	IN	_	10	case	_	start_char=67|end_char=69
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=70|end_char=74
+9	conveyor	conveyor	NOUN	NN	Number=Sing	10	compound	_	start_char=75|end_char=83
+10	belt	belt	NOUN	NN	Number=Sing	4	obl	_	start_char=84|end_char=88
+11	of	of	ADP	IN	_	12	case	_	start_char=89|end_char=91
+12	pain	pain	NOUN	NN	Number=Sing	10	nmod	_	start_char=92|end_char=96
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=97|end_char=99
+14	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=100|end_char=104
+15	life	life	NOUN	NN	Number=Sing	14	obj	_	start_char=105|end_char=109
+16	.	.	PUNCT	.	_	4	punct	_	start_char=109|end_char=110
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=111|end_char=113
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=117
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=118|end_char=122
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=123|end_char=125
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=126|end_char=129
+6	so	so	ADV	RB	_	7	advmod	_	start_char=130|end_char=132
+7	stupid	stupid	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=133|end_char=139
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=140|end_char=143
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=144|end_char=151
+10	of	of	ADP	IN	_	11	case	_	start_char=152|end_char=154
+11	reality	reality	NOUN	NN	Number=Sing	9	obl	_	start_char=155|end_char=162
+12	.	.	PUNCT	.	_	2	punct	_	start_char=162|end_char=163
+
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=165|end_char=170
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=171|end_char=174
+3	for	for	SCONJ	IN	_	4	mark	_	start_char=175|end_char=178
+4	saving	save	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=179|end_char=185
+5	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	start_char=186|end_char=188
+6	,	,	PUNCT	,	_	7	punct	_	start_char=188|end_char=189
+7	hero	hero	NOUN	NN	Number=Sing	4	obj	_	start_char=190|end_char=194
+8	.	.	PUNCT	.	_	1	punct	_	start_char=194|end_char=195
+

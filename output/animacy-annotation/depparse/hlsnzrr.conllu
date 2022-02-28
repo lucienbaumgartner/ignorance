@@ -1,0 +1,18 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	US	US	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=4|end_char=6
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=7|end_char=9
+4	so	so	ADV	RB	_	5	advmod	_	start_char=10|end_char=12
+5	crazy	crazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=19|end_char=22
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=23|end_char=31
+8	that	that	SCONJ	IN	_	13	mark	_	start_char=32|end_char=36
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=37|end_char=39
+10	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=40|end_char=44
+11	probably	probably	ADV	RB	_	13	advmod	_	start_char=45|end_char=53
+12	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=54|end_char=56
+13	successful	successful	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=57|end_char=67
+14	to	to	ADP	IN	_	16	case	_	start_char=68|end_char=70
+15	some	some	DET	DT	_	16	det	_	start_char=71|end_char=75
+16	degree	degree	NOUN	NN	Number=Sing	13	obl	_	start_char=76|end_char=82
+17	.	.	PUNCT	.	_	5	punct	_	start_char=82|end_char=83
+

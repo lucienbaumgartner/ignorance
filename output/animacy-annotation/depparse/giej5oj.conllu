@@ -1,0 +1,18 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	oblivious	oblivious	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=32
+7	of	of	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=36|end_char=43
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=44|end_char=46
+10	could	could	AUX	MD	VerbForm=Fin	14	aux	_	start_char=47|end_char=52
+11	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=53|end_char=55
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=56|end_char=57
+13	legal	legal	ADJ	JJ	Degree=Pos	14	amod	_	start_char=58|end_char=63
+14	defense	defense	NOUN	NN	Number=Sing	4	parataxis	_	start_char=64|end_char=71
+15	for	for	ADP	IN	_	16	case	_	start_char=72|end_char=75
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	nmod	_	start_char=76|end_char=79
+17	.	.	PUNCT	.	_	4	punct	_	start_char=79|end_char=80
+

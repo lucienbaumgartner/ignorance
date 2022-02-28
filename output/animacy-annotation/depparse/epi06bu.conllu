@@ -1,0 +1,27 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	Mueller	Mueller	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=3|end_char=10
+3	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=11|end_char=14
+4	found	find	VERB	VBN	Tense=Past|VerbForm=Part	16	advcl	_	start_char=15|end_char=20
+5	evidence	evidence	NOUN	NN	Number=Sing	4	obj	_	start_char=21|end_char=29
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=30|end_char=34
+7	Trump	Trump	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=35|end_char=40
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=41|end_char=44
+9	unaware	unaware	ADJ	JJ	Degree=Pos	5	acl	_	start_char=45|end_char=52
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=53|end_char=56
+11	uninvolved	uninvolved	ADJ	JJ	Degree=Pos	9	conj	_	start_char=57|end_char=67
+12	,	,	PUNCT	,	_	16	punct	_	start_char=67|end_char=68
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=69|end_char=71
+14	would	would	AUX	MD	VerbForm=Fin	16	aux	_	start_char=72|end_char=77
+15	have	have	AUX	VB	VerbForm=Inf	16	aux	_	start_char=78|end_char=82
+16	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=83|end_char=87
+17	so	so	ADV	RB	_	16	advmod	_	start_char=88|end_char=90
+18	.	.	PUNCT	.	_	16	punct	_	start_char=90|end_char=91
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=93|end_char=95
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=96|end_char=99
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=100|end_char=105
+4	Mueller	Mueller	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=106|end_char=113
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=114|end_char=116
+6	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	_	start_char=117|end_char=122
+7	.	.	PUNCT	.	_	3	punct	_	start_char=122|end_char=123
+

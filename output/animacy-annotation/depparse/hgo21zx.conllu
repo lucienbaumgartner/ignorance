@@ -1,0 +1,31 @@
+1	Maybe	maybe	ADV	RB	_	0	root	_	start_char=0|end_char=5
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=6|end_char=7
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=7|end_char=9
+3	slow	slow	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=14
+4	,	,	PUNCT	,	_	6	punct	_	start_char=14|end_char=15
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=16|end_char=19
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=27
+7	of	of	ADP	IN	_	12	case	_	start_char=28|end_char=30
+8	perhaps	perhaps	ADV	RB	_	12	advmod	_	start_char=31|end_char=38
+9	some	some	DET	DT	_	12	det	_	start_char=39|end_char=43
+10	other	other	ADJ	JJ	Degree=Pos	12	amod	_	start_char=44|end_char=49
+11	power	power	NOUN	NN	Number=Sing	12	compound	_	start_char=50|end_char=55
+12	method	method	NOUN	NN	Number=Sing	6	obl	_	start_char=56|end_char=62
+13	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	start_char=65|end_char=66
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=67|end_char=70
+3	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=71|end_char=74
+4	to	to	PART	TO	_	5	mark	_	start_char=75|end_char=77
+5	believe	believe	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=78|end_char=85
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=86|end_char=90
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=91|end_char=93
+8	all	all	DET	DT	_	7	det	_	start_char=94|end_char=97
+9	call	call	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=98|end_char=102
+10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=103|end_char=106
+11	non-electric	non-electric	ADJ	JJ	Degree=Pos	12	amod	_	start_char=107|end_char=119
+12	escalators	escalator	NOUN	NNS	Number=Plur	13	compound	_	start_char=120|end_char=130
+13	stairs	stair	NOUN	NNS	Number=Plur	9	obj	_	start_char=131|end_char=137
+14	.	.	PUNCT	.	_	3	punct	_	start_char=137|end_char=138
+

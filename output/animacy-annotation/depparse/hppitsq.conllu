@@ -1,0 +1,22 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	serious	serious	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=15
+4	?	?	PUNCT	.	_	3	punct	_	start_char=15|end_char=16
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=17|end_char=21
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=21|end_char=23
+3	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=24|end_char=31
+4	insane	insane	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=32|end_char=38
+5	lmao	lmao	INTJ	UH	_	7	discourse	_	start_char=39|end_char=43
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=44|end_char=46
+7	amazes	amaze	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=47|end_char=53
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=54|end_char=56
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=57|end_char=60
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=61|end_char=69
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=70|end_char=73
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=74|end_char=80
+13	some	some	DET	DT	_	14	det	_	start_char=81|end_char=85
+14	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=86|end_char=92
+15	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=93|end_char=96
+16	.	.	PUNCT	.	_	3	punct	_	start_char=96|end_char=97
+

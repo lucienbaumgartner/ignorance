@@ -1,0 +1,22 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	cant	cant	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=6
+3	even	even	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=19
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=20|end_char=25
+6	so	so	ADV	RB	_	7	advmod	_	start_char=26|end_char=28
+7	desperate	desperate	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=29|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=51
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=52|end_char=56
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=57|end_char=58
+12	would	would	AUX	MD	VerbForm=Fin	13	aux	_	start_char=59|end_char=64
+13	say	say	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=65|end_char=68
+14	some	some	DET	DT	_	16	det	_	start_char=69|end_char=73
+15	dumb	dumb	ADJ	JJ	Degree=Pos	16	amod	_	start_char=74|end_char=78
+16	shit	shit	NOUN	NN	Number=Sing	13	obj	_	start_char=79|end_char=83
+17	like	like	ADP	IN	_	18	case	_	start_char=84|end_char=88
+18	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nmod	_	start_char=89|end_char=93
+19	in	in	ADP	IN	_	21	case	_	start_char=94|end_char=96
+20	national	national	ADJ	JJ	Degree=Pos	21	amod	_	start_char=97|end_char=105
+21	TV.	tv.	NOUN	NN	Number=Sing	18	nmod	_	start_char=106|end_char=109
+

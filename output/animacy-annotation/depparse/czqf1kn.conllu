@@ -1,0 +1,46 @@
+1	No	no	DET	DT	_	2	det	_	start_char=0|end_char=2
+2	one	one	NOUN	NN	Number=Sing	3	nsubj	_	start_char=3|end_char=6
+3	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=12|end_char=14
+5	about	about	ADP	IN	_	6	case	_	start_char=15|end_char=20
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	start_char=21|end_char=25
+7	,	,	PUNCT	,	_	3	punct	_	start_char=25|end_char=26
+8	so	so	ADV	RB	_	12	advmod	_	start_char=27|end_char=29
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=30|end_char=31
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=32|end_char=35
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=36|end_char=46
+12	unaware	unaware	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=47|end_char=54
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=55|end_char=58
+14	unprepared	unprepared	ADJ	JJ	Degree=Pos	12	conj	_	start_char=59|end_char=69
+15	on	on	ADP	IN	_	16	case	_	start_char=70|end_char=72
+16	day	day	NOUN	NN	Number=Sing	12	obl	_	start_char=73|end_char=76
+17	5	5	NUM	CD	NumType=Card	16	nummod	_	start_char=77|end_char=78
+18	.	.	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=82|end_char=86
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=87|end_char=93
+3	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=94|end_char=98
+4	new	new	ADJ	JJ	Degree=Pos	5	amod	_	start_char=99|end_char=102
+5	mums	mum	NOUN	NNS	Number=Plur	3	obj	_	start_char=103|end_char=107
+6	about	about	ADP	IN	_	7	case	_	start_char=108|end_char=113
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=114|end_char=116
+8	before	before	ADP	IN	_	9	case	_	start_char=117|end_char=123
+9	birth	birth	NOUN	NN	Number=Sing	3	obl	_	start_char=124|end_char=129
+10	,	,	PUNCT	,	_	3	punct	_	start_char=129|end_char=130
+11	after	after	ADP	IN	_	12	case	_	start_char=131|end_char=136
+12	birth	birth	NOUN	NN	Number=Sing	3	obl	_	start_char=137|end_char=142
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=143|end_char=146
+14	give	give	VERB	VB	VerbForm=Inf	3	conj	_	start_char=147|end_char=151
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	iobj	_	start_char=152|end_char=156
+16	stool	stool	NOUN	NN	Number=Sing	17	compound	_	start_char=157|end_char=162
+17	softener	softener	NOUN	NN	Number=Sing	14	obj	_	start_char=163|end_char=171
+18	before	before	SCONJ	IN	_	19	mark	_	start_char=172|end_char=178
+19	sending	send	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=179|end_char=186
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	start_char=187|end_char=191
+21	home	home	ADV	RB	_	19	advmod	_	start_char=192|end_char=196
+22	.	.	PUNCT	.	_	3	punct	_	start_char=196|end_char=197
+
+1	Holy	Holy	ADJ	JJ	Degree=Pos	2	amod	_	start_char=198|end_char=202
+2	fuck	fuck	NOUN	NN	Number=Sing	0	root	_	start_char=203|end_char=207
+3	.	.	PUNCT	.	_	2	punct	_	start_char=207|end_char=208
+

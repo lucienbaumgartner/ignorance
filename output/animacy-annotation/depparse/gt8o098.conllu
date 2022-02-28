@@ -1,0 +1,45 @@
+1	Tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=5|end_char=7
+3	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=9|end_char=13
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=13|end_char=15
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	start_char=16|end_char=18
+4	like	like	SCONJ	IN	_	5	mark	_	start_char=19|end_char=23
+5	having	have	VERB	VBG	VerbForm=Part	1	advcl	_	start_char=24|end_char=30
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=31|end_char=32
+7	mind	mind	NOUN	NN	Number=Sing	5	obj	_	start_char=33|end_char=37
+8	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=38|end_char=42
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=43|end_char=45
+10	so	so	ADV	RB	_	11	advmod	_	start_char=46|end_char=48
+11	judgemental	judgemental	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=49|end_char=60
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=61|end_char=64
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=65|end_char=73
+14	that	that	SCONJ	IN	_	17	mark	_	start_char=74|end_char=78
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=79|end_char=82
+16	somehow	somehow	ADV	RB	_	17	advmod	_	start_char=83|end_char=90
+17	managed	manage	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=91|end_char=98
+18	to	to	PART	TO	_	19	mark	_	start_char=99|end_char=101
+19	make	make	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=102|end_char=106
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=107|end_char=108
+21	connection	connection	NOUN	NN	Number=Sing	19	obj	_	start_char=109|end_char=119
+22	between	between	ADP	IN	_	24	case	_	start_char=120|end_char=127
+23	pit	pit	NOUN	NN	Number=Sing	24	compound	_	start_char=128|end_char=131
+24	bulls	bull	NOUN	NNS	Number=Plur	21	nmod	_	start_char=132|end_char=137
+25	and	and	CCONJ	CC	_	27	cc	_	start_char=138|end_char=141
+26	race	race	NOUN	NN	Number=Sing	27	compound	_	start_char=142|end_char=146
+27	relations	relation	NOUN	NNS	Number=Plur	24	conj	_	start_char=147|end_char=156
+28	,	,	PUNCT	,	_	30	punct	_	start_char=156|end_char=157
+29	US	US	PROPN	NNP	Number=Sing	30	compound	_	start_char=158|end_char=160
+30	politics	politics	NOUN	NNS	Number=Plur	24	conj	_	start_char=161|end_char=169
+31	,	,	PUNCT	,	_	33	punct	_	start_char=169|end_char=170
+32	and	and	CCONJ	CC	_	33	cc	_	start_char=171|end_char=174
+33	vaccines	vaccine	NOUN	NNS	Number=Plur	24	conj	_	start_char=175|end_char=183
+34	?	?	PUNCT	.	_	1	punct	_	start_char=183|end_char=184
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=186|end_char=189
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=190|end_char=193
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=194|end_char=195
+4	crackpot	crackpot	NOUN	NN	Number=Sing	0	root	_	start_char=196|end_char=204
+5	.	.	PUNCT	.	_	4	punct	_	start_char=204|end_char=205
+

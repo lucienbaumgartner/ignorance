@@ -1,0 +1,47 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Only	only	ADV	RB	_	2	advmod	_	start_char=4|end_char=8
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=17
+3	&amp	&amp	PUNCT	,	_	2	punct	_	start_char=18|end_char=22
+4	;	;	PUNCT	,	_	2	punct	_	start_char=22|end_char=23
+5	pretentiously	pretentiously	ADV	RB	_	6	advmod	_	start_char=24|end_char=37
+6	rude	rude	ADJ	JJ	Degree=Pos	7	amod	_	start_char=38|end_char=42
+7	individuals	individual	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=43|end_char=54
+8	disrespect	disrespect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=55|end_char=65
+9	hip	hip	NOUN	NN	Number=Sing	10	compound	_	start_char=66|end_char=69
+10	hop	hop	NOUN	NN	Number=Sing	8	obj	_	start_char=70|end_char=73
+11	as	as	ADP	IN	_	14	case	_	start_char=74|end_char=76
+12	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=77|end_char=79
+13	art	art	NOUN	NN	Number=Sing	14	compound	_	start_char=80|end_char=83
+14	form	form	NOUN	NN	Number=Sing	8	obl	_	start_char=84|end_char=88
+
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=90|end_char=93
+2	;	;	PUNCT	,	_	4	punct	_	start_char=93|end_char=94
+3	there	there	PRON	EX	_	4	expl	_	start_char=94|end_char=99
+4	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=99|end_char=101
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=102|end_char=103
+6	certain	certain	ADJ	JJ	Degree=Pos	7	amod	_	start_char=104|end_char=111
+7	type	type	NOUN	NN	Number=Sing	4	nsubj	_	start_char=112|end_char=116
+8	of	of	ADP	IN	_	9	case	_	start_char=117|end_char=119
+9	disrespect	disrespect	NOUN	NN	Number=Sing	7	nmod	_	start_char=120|end_char=130
+10	that	that	PRON	WDT	PronType=Rel	13	obj	_	start_char=131|end_char=135
+11	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=136|end_char=137
+12	can	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=138|end_char=141
+13	tolerate	tolerate	VERB	VB	VerbForm=Inf	7	acl:relcl	_	start_char=142|end_char=150
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=152|end_char=154
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=155|end_char=158
+3	tolerate	tolerate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=159|end_char=167
+4	disrespect	disrespect	NOUN	NN	Number=Sing	3	obj	_	start_char=168|end_char=178
+5	,	,	PUNCT	,	_	8	punct	_	start_char=178|end_char=179
+6	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=180|end_char=184
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=185|end_char=189
+8	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=190|end_char=194
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obj	_	start_char=195|end_char=198
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=199|end_char=207
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=208|end_char=211
+12	pretentiously	pretentiously	ADV	RB	_	13	advmod	_	start_char=212|end_char=225
+13	rude	rude	ADJ	JJ	Degree=Pos	10	conj	_	start_char=226|end_char=230
+14	?	?	PUNCT	.	_	8	punct	_	start_char=230|end_char=231
+

@@ -1,0 +1,42 @@
+1	Looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	like	like	ADP	IN	_	4	case	_	start_char=6|end_char=10
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=11|end_char=13
+4	Alphabet	alphabet	NOUN	NN	Number=Sing	1	obl	_	start_char=14|end_char=22
+5	Cooked	cook	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	start_char=23|end_char=29
+6	up	up	ADP	RP	_	5	compound:prt	_	start_char=30|end_char=32
+7	Special	special	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=33|end_char=40
+8	.	.	PUNCT	.	_	1	punct	_	start_char=40|end_char=41
+
+1	Lemme	lemme	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=42|end_char=47
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=53
+3	....	....	PUNCT	.	_	2	punct	_	start_char=53|end_char=57
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=58|end_char=61
+2	perps	perp	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=62|end_char=67
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=68|end_char=72
+4	all	all	ADV	RB	_	5	advmod	_	start_char=73|end_char=76
+5	wearing	wear	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=77|end_char=84
+6	MAGA	MAGA	PROPN	NNP	Number=Sing	7	compound	_	start_char=85|end_char=89
+7	hats	hat	NOUN	NNS	Number=Plur	5	obj	_	start_char=90|end_char=94
+8	as	as	SCONJ	IN	_	10	mark	_	start_char=95|end_char=97
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=98|end_char=102
+10	watched	watch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	start_char=103|end_char=110
+11	Oann	Oann	PROPN	NNP	Number=Sing	10	obj	_	start_char=111|end_char=115
+12	,	,	PUNCT	,	_	15	punct	_	start_char=115|end_char=116
+13	but	but	CCONJ	CC	_	15	cc	_	start_char=117|end_char=120
+14	just	just	ADV	RB	_	15	advmod	_	start_char=121|end_char=125
+15	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=126|end_char=134
+16	to	to	PART	TO	_	19	mark	_	start_char=135|end_char=137
+17	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=138|end_char=140
+18	mentally	mentally	ADV	RB	_	19	advmod	_	start_char=141|end_char=149
+19	ill	ill	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=150|end_char=153
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=154|end_char=157
+21	unaware	unaware	ADJ	JJ	Degree=Pos	19	conj	_	start_char=158|end_char=165
+22	of	of	ADP	IN	_	24	case	_	start_char=166|end_char=168
+23	what	what	DET	WDT	PronType=Int	24	det	_	start_char=169|end_char=173
+24	planet	planet	NOUN	NN	Number=Sing	21	obl	_	start_char=174|end_char=180
+25	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	start_char=181|end_char=185
+26	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	cop	_	start_char=186|end_char=189
+27	on	on	ADP	IN	_	24	acl:relcl	_	start_char=190|end_char=192
+28	?	?	PUNCT	.	_	5	punct	_	start_char=192|end_char=193
+

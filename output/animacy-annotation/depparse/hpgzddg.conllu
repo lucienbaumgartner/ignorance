@@ -1,0 +1,14 @@
+1	Day	day	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	2918	2918	NUM	CD	NumType=Card	1	nummod	_	start_char=4|end_char=8
+3	of	of	SCONJ	IN	_	4	mark	_	start_char=9|end_char=11
+4	thanking	thank	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=12|end_char=20
+5	god	god	NOUN	NN	Number=Sing	4	obj	_	start_char=21|end_char=24
+6	for	for	SCONJ	IN	_	8	mark	_	start_char=25|end_char=28
+7	not	not	ADV	RB	_	8	advmod	_	start_char=29|end_char=32
+8	making	make	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=33|end_char=39
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=40|end_char=42
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=43|end_char=47
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=48|end_char=56
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=57|end_char=60
+13	petty	petty	ADJ	JJ	Degree=Pos	11	conj	_	start_char=61|end_char=66
+

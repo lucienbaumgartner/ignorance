@@ -1,0 +1,31 @@
+1	Do	do	AUX	VB	VerbForm=Fin	4	aux	_	start_char=0|end_char=2
+2	n't	not	PART	RB	_	4	advmod	_	start_char=2|end_char=5
+3	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	4	aux:pass	_	start_char=6|end_char=8
+4	fooled	fool	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=9|end_char=15
+5	.	.	PUNCT	.	_	4	punct	_	start_char=15|end_char=16
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=17|end_char=20
+2	UK	UK	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=21|end_char=23
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=24|end_char=26
+4	more	more	ADV	RBR	_	6	advmod	_	start_char=27|end_char=31
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=32|end_char=34
+6	aristocracy	aristocracy	NOUN	NN	Number=Sing	0	root	_	start_char=35|end_char=46
+7	than	than	ADP	IN	_	9	case	_	start_char=47|end_char=51
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=52|end_char=53
+9	democracy	democracy	NOUN	NN	Number=Sing	6	nmod	_	start_char=54|end_char=63
+10	.	.	PUNCT	.	_	6	punct	_	start_char=63|end_char=64
+
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=65|end_char=70
+2	media	media	NOUN	NN	Number=Sing	3	nsubj	_	start_char=71|end_char=76
+3	keeps	keep	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=77|end_char=82
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=83|end_char=86
+5	rabble	rabble	NOUN	NN	Number=Sing	3	obj	_	start_char=87|end_char=93
+6	perpetually	perpetually	ADV	RB	_	7	advmod	_	start_char=94|end_char=105
+7	distracted	distracted	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=106|end_char=116
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=117|end_char=120
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=121|end_char=129
+10	of	of	ADP	IN	_	12	case	_	start_char=130|end_char=132
+11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=133|end_char=137
+12	fact	fact	NOUN	NN	Number=Sing	9	obl	_	start_char=138|end_char=142
+13	.	.	PUNCT	.	_	3	punct	_	start_char=142|end_char=143
+

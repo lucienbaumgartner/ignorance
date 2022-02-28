@@ -1,0 +1,18 @@
+1	Stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=6
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=7|end_char=10
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=11|end_char=19
+4	of	of	ADP	IN	_	6	case	_	start_char=20|end_char=22
+5	self	self	NOUN	NN	Number=Sing	6	compound	_	start_char=23|end_char=27
+6	stupidity	stupidity	NOUN	NN	Number=Sing	1	obl	_	start_char=28|end_char=37
+7	.	.	PUNCT	.	_	1	punct	_	start_char=37|end_char=38
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=39|end_char=43
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=43|end_char=45
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=46|end_char=47
+4	deadly	deadly	ADJ	JJ	Degree=Pos	5	amod	_	start_char=48|end_char=54
+5	combo	combo	NOUN	NN	Number=Sing	0	root	_	start_char=55|end_char=60
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=61|end_char=64
+7	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=65|end_char=68
+8	there	there	ADV	RB	PronType=Dem	7	advmod	_	start_char=69|end_char=74
+9	.	.	PUNCT	.	_	5	punct	_	start_char=74|end_char=75
+

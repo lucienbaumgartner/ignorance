@@ -1,0 +1,50 @@
+1	Rationally	rationally	ADV	RB	_	3	advmod	_	start_char=0|end_char=10
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=11|end_char=12
+3	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=23
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=24|end_char=28
+5	.	.	PUNCT	.	_	3	punct	_	start_char=28|end_char=29
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=30|end_char=33
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=34|end_char=37
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=38|end_char=48
+4	dissociated	dissociate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=49|end_char=60
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=61|end_char=64
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=65|end_char=72
+7	of	of	ADP	IN	_	8	case	_	start_char=73|end_char=75
+8	anything	anything	PRON	NN	Number=Sing	6	obl	_	start_char=76|end_char=84
+9	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=85|end_char=89
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=90|end_char=91
+11	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	start_char=92|end_char=95
+12	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=96|end_char=99
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=100|end_char=103
+14	then	then	ADV	RB	PronType=Dem	16	advmod	_	start_char=104|end_char=108
+15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=109|end_char=112
+16	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=113|end_char=120
+17	therapy	therapy	NOUN	NN	Number=Sing	16	obj	_	start_char=121|end_char=128
+18	and	and	CCONJ	CC	_	21	cc	_	start_char=129|end_char=132
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=133|end_char=134
+20	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=135|end_char=139
+21	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	16	conj	_	start_char=140|end_char=144
+22	big	big	ADJ	JJ	Degree=Pos	23	amod	_	start_char=145|end_char=148
+23	improvements	improvement	NOUN	NNS	Number=Plur	21	obj	_	start_char=149|end_char=161
+24	.	.	PUNCT	.	_	4	punct	_	start_char=161|end_char=162
+
+1	Overall	overall	ADV	RB	_	6	advmod	_	start_char=163|end_char=170
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=171|end_char=174
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=175|end_char=177
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=178|end_char=179
+5	kind	kind	ADJ	JJ	Degree=Pos	6	amod	_	start_char=180|end_char=184
+6	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=185|end_char=191
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=192|end_char=195
+8	trying	try	VERB	VBG	VerbForm=Ger	6	conj	_	start_char=196|end_char=202
+9	to	to	PART	TO	_	10	mark	_	start_char=203|end_char=205
+10	change	change	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=206|end_char=212
+11	.	.	PUNCT	.	_	6	punct	_	start_char=212|end_char=213
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=214|end_char=216
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=216|end_char=218
+3	just	just	ADV	RB	_	5	advmod	_	start_char=219|end_char=223
+4	really	really	ADV	RB	_	5	advmod	_	start_char=224|end_char=230
+5	hard	hard	ADJ	JJ	Degree=Pos	0	root	_	start_char=231|end_char=235
+6	.	.	PUNCT	.	_	5	punct	_	start_char=235|end_char=236
+

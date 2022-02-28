@@ -1,0 +1,20 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	sure	sure	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=14
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=15|end_char=17
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=17|end_char=19
+6	also	also	ADV	RB	_	7	advmod	_	start_char=20|end_char=24
+7	blind	blind	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=25|end_char=30
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=31|end_char=34
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=35|end_char=42
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=43|end_char=47
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=48|end_char=50
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=50|end_char=52
+13	black	black	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=53|end_char=58
+14	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	&gt	&gt	INTJ	UH	_	0	root	_	start_char=61|end_char=64
+2	;!	;!	PUNCT	.	_	1	punct	_	start_char=64|end_char=66
+
+1	https://youtu.be/BLNDqxrUUwQ!&lt;	https://youtu.be/blndqxruuwq!&lt;	X	ADD	_	0	root	_	start_char=66|end_char=99
+

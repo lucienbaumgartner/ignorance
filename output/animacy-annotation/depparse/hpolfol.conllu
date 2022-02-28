@@ -1,0 +1,42 @@
+1	Ikr	ikr	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+4	man	man	NOUN	NN	Number=Sing	6	nsubj	_	start_char=9|end_char=12
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=13|end_char=15
+6	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=16|end_char=21
+7	all	all	DET	DT	_	6	obj	_	start_char=22|end_char=25
+8	of	of	ADP	IN	_	9	case	_	start_char=26|end_char=28
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nmod	_	start_char=29|end_char=33
+10	on	on	ADP	IN	_	13	case	_	start_char=34|end_char=36
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=37|end_char=40
+12	main	main	ADJ	JJ	Degree=Pos	13	amod	_	start_char=41|end_char=45
+13	account	account	NOUN	NN	Number=Sing	6	obl	_	start_char=46|end_char=53
+14	.	.	PUNCT	.	_	6	punct	_	start_char=53|end_char=54
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=55|end_char=59
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=65
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=66|end_char=70
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=71|end_char=73
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=73|end_char=75
+6	not	not	PART	RB	_	7	advmod	_	start_char=76|end_char=79
+7	ashamed	ashamed	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=80|end_char=87
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=88|end_char=91
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=92|end_char=97
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=98|end_char=101
+11	behavior	behavior	NOUN	NN	Number=Sing	13	nsubj	_	start_char=102|end_char=110
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=111|end_char=113
+13	normal	normal	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=114|end_char=120
+14	wich	wich	CCONJ	CC	_	15	cc	_	start_char=121|end_char=125
+15	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=126|end_char=131
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=132|end_char=135
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=136|end_char=144
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=145|end_char=148
+19	old	old	ADJ	JJ	Degree=Pos	17	conj	_	start_char=149|end_char=152
+20	.	.	PUNCT	.	_	2	punct	_	start_char=152|end_char=153
+
+1	Conclusion	conclusion	NOUN	NN	Number=Sing	0	root	_	start_char=155|end_char=165
+2	:	:	PUNCT	:	_	3	punct	_	start_char=165|end_char=166
+3	Boomer	Boomer	PROPN	NNP	Number=Sing	1	dep	_	start_char=167|end_char=173
+4	gonna	gonna	ADP	IN	_	5	case	_	start_char=174|end_char=179
+5	boom	boom	NOUN	NN	Number=Sing	3	nmod	_	start_char=180|end_char=184
+

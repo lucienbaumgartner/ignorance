@@ -1,0 +1,56 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=5|end_char=9
+3	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=10|end_char=13
+4	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=15|end_char=20
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=23
+3	video	video	NOUN	NN	Number=Sing	2	nsubj	_	start_char=24|end_char=29
+4	of	of	ADP	IN	_	6	case	_	start_char=30|end_char=32
+5	capital	capital	NOUN	NN	Number=Sing	6	compound	_	start_char=33|end_char=40
+6	police	police	NOUN	NNS	Number=Plur	3	nmod	_	start_char=41|end_char=47
+7	moving	move	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=48|end_char=54
+8	barricades	barricade	NOUN	NNS	Number=Plur	7	obj	_	start_char=55|end_char=65
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=66|end_char=69
+10	opening	open	VERB	VBG	VerbForm=Ger	7	conj	_	start_char=70|end_char=77
+11	doors	door	NOUN	NNS	Number=Plur	10	obj	_	start_char=78|end_char=83
+12	for	for	ADP	IN	_	13	case	_	start_char=84|end_char=87
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	obl	_	start_char=88|end_char=92
+14	.	.	PUNCT	.	_	2	punct	_	start_char=92|end_char=93
+
+1	Also	also	ADV	RB	_	6	advmod	_	start_char=94|end_char=98
+2	an	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=99|end_char=101
+3	insurrection	insurrection	NOUN	NN	Number=Sing	6	nsubj	_	start_char=102|end_char=114
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=115|end_char=117
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=118|end_char=120
+6	intent	intent	NOUN	NN	Number=Sing	0	root	_	start_char=121|end_char=127
+7	to	to	PART	TO	_	8	mark	_	start_char=128|end_char=130
+8	overthrow	overthrow	VERB	VB	VerbForm=Inf	6	acl	_	start_char=131|end_char=140
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=141|end_char=142
+10	duly	duly	ADV	RB	_	11	advmod	_	start_char=143|end_char=147
+11	seated	seat	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	start_char=148|end_char=154
+12	government	government	NOUN	NN	Number=Sing	8	obj	_	start_char=155|end_char=165
+13	.	.	PUNCT	.	_	6	punct	_	start_char=165|end_char=166
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=167|end_char=170
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=171|end_char=174
+3	some	some	DET	DT	_	5	det	_	start_char=176|end_char=180
+4	mild	mild	ADJ	JJ	Degree=Pos	5	amod	_	start_char=181|end_char=185
+5	violence	violence	NOUN	NN	Number=Sing	2	obj	_	start_char=186|end_char=194
+6	,	,	PUNCT	,	_	7	punct	_	start_char=194|end_char=195
+7	trespassing	trespassing	NOUN	NN	Number=Sing	5	conj	_	start_char=196|end_char=207
+8	,	,	PUNCT	,	_	11	punct	_	start_char=207|end_char=208
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=209|end_char=212
+10	property	property	NOUN	NN	Number=Sing	11	compound	_	start_char=213|end_char=221
+11	damage	damage	NOUN	NN	Number=Sing	5	conj	_	start_char=222|end_char=228
+12	.	.	PUNCT	.	_	2	punct	_	start_char=228|end_char=229
+
+1	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=230|end_char=233
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=233|end_char=236
+3	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=237|end_char=247
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=248|end_char=251
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=252|end_char=260
+6	of	of	ADP	IN	_	7	case	_	start_char=261|end_char=263
+7	facts	fact	NOUN	NNS	Number=Plur	5	obl	_	start_char=264|end_char=269
+8	.	.	PUNCT	.	_	3	punct	_	start_char=269|end_char=270
+

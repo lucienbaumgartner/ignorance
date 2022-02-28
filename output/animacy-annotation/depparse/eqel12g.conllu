@@ -1,0 +1,26 @@
+1	Ooooo	ooooo	INTJ	UH	_	4	discourse	_	start_char=0|end_char=5
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=6|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=11|end_char=13
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=14|end_char=19
+5	to	to	PART	TO	_	6	mark	_	start_char=20|end_char=22
+6	get	get	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=23|end_char=26
+7	juicy	juicy	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=27|end_char=32
+8	.	.	PUNCT	.	_	4	punct	_	start_char=32|end_char=33
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=34|end_char=36
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=37|end_char=41
+3	staged	stage	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=42|end_char=48
+4	or	or	CCONJ	CC	_	9	cc	_	start_char=49|end_char=51
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=52|end_char=55
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=56|end_char=60
+7	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=61|end_char=66
+8	completely	completely	ADV	RB	_	9	advmod	_	start_char=67|end_char=77
+9	serious	serious	ADJ	JJ	Degree=Pos	3	conj	_	start_char=78|end_char=85
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=86|end_char=89
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=90|end_char=97
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=98|end_char=102
+13	someone	someone	PRON	NN	Number=Sing	15	nsubj	_	start_char=103|end_char=110
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	start_char=111|end_char=114
+15	recording	record	VERB	VBG	Tense=Pres|VerbForm=Part	11	ccomp	_	start_char=115|end_char=124
+16	?	?	PUNCT	.	_	3	punct	_	start_char=124|end_char=125
+

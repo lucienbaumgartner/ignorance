@@ -1,0 +1,55 @@
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=3|end_char=5
+3	!!!	!!!	PUNCT	.	_	1	punct	_	start_char=5|end_char=8
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=9|end_char=13
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=14|end_char=17
+3	straight	straight	ADV	RB	_	4	advmod	_	start_char=18|end_char=26
+4	up	up	ADP	RP	_	0	root	_	start_char=27|end_char=29
+5	just	just	ADV	RB	_	6	advmod	_	start_char=30|end_char=34
+6	trying	try	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=35|end_char=41
+7	to	to	PART	TO	_	8	mark	_	start_char=42|end_char=44
+8	fuck	fuck	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=45|end_char=49
+9	someone	someone	PRON	NN	Number=Sing	8	obj	_	start_char=50|end_char=57
+10	over	over	ADV	RB	_	8	advmod	_	start_char=58|end_char=62
+11	or	or	CCONJ	CC	_	14	cc	_	start_char=63|end_char=65
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=66|end_char=69
+13	incredibly	incredibly	ADV	RB	_	14	advmod	_	start_char=70|end_char=80
+14	lazy	lazy	ADJ	JJ	Degree=Pos	8	conj	_	start_char=81|end_char=85
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=86|end_char=89
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=90|end_char=98
+17	.	.	PUNCT	.	_	4	punct	_	start_char=98|end_char=99
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	_	start_char=101|end_char=105
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	_	start_char=106|end_char=111
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=112|end_char=116
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=117|end_char=118
+5	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=119|end_char=124
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=125|end_char=129
+7	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=130|end_char=135
+8	have	have	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=136|end_char=140
+9	hard	hard	ADJ	JJ	Degree=Pos	10	amod	_	start_char=141|end_char=145
+10	time	time	NOUN	NN	Number=Sing	8	obj	_	start_char=146|end_char=150
+11	selling	sell	VERB	VBG	VerbForm=Ger	10	acl	_	start_char=151|end_char=158
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=159|end_char=163
+13	for	for	ADP	IN	_	14	case	_	start_char=164|end_char=167
+14	$	$	SYM	$	_	11	obl	_	start_char=168|end_char=169
+15	4500	4500	NUM	CD	NumType=Card	14	nummod	_	start_char=169|end_char=173
+16	.	.	PUNCT	.	_	5	punct	_	start_char=173|end_char=174
+
+1	Thats	that	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=175|end_char=180
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=181|end_char=182
+3	lot	lot	NOUN	NN	Number=Sing	1	obj	_	start_char=183|end_char=186
+4	of	of	ADP	IN	_	5	case	_	start_char=187|end_char=189
+5	money	money	NOUN	NN	Number=Sing	3	nmod	_	start_char=190|end_char=195
+6	,	,	PUNCT	,	_	1	punct	_	start_char=195|end_char=196
+7	especially	especially	ADV	RB	_	11	advmod	_	start_char=197|end_char=207
+8	for	for	ADP	IN	_	11	case	_	start_char=208|end_char=211
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=212|end_char=213
+10	spurious	spurious	ADJ	JJ	Degree=Pos	11	amod	_	start_char=214|end_char=222
+11	grenade	grenade	NOUN	NN	Number=Sing	1	obl	_	start_char=223|end_char=230
+12	launching	launch	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=231|end_char=240
+13	K98	k98	NUM	CD	NumType=Card	14	compound	_	start_char=241|end_char=244
+14	k	k	NUM	CD	NumType=Card	12	obj	_	start_char=244|end_char=245
+15	.	.	PUNCT	.	_	1	punct	_	start_char=245|end_char=246
+

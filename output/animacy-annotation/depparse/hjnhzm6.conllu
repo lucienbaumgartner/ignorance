@@ -1,0 +1,31 @@
+1	One	one	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	character	character	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=14|end_char=16
+4	totally	totally	ADV	RB	_	5	advmod	_	start_char=17|end_char=24
+5	blissful	blissful	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=33
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=34|end_char=37
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=38|end_char=45
+8	of	of	ADP	IN	_	10	case	_	start_char=46|end_char=48
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=49|end_char=52
+10	situation	situation	NOUN	NN	Number=Sing	7	obl	_	start_char=53|end_char=62
+11	(	(	PUNCT	-LRB-	_	12	punct	_	start_char=63|end_char=64
+12	whatever	whatever	PRON	WDT	PronType=Rel	5	parataxis	_	start_char=64|end_char=72
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=73|end_char=76
+14	situation	situation	NOUN	NN	Number=Sing	12	nsubj	_	start_char=77|end_char=86
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=87|end_char=89
+16	)	)	PUNCT	-RRB-	_	12	punct	_	start_char=89|end_char=90
+17	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=93|end_char=96
+2	other	other	ADJ	JJ	Degree=Pos	4	nsubj	_	start_char=97|end_char=102
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=103|end_char=105
+4	summing	sum	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=106|end_char=113
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=114|end_char=116
+6	up	up	ADP	RP	_	4	compound:prt	_	start_char=117|end_char=119
+7	perfectly	perfectly	ADV	RB	_	4	advmod	_	start_char=120|end_char=129
+8	with	with	ADP	IN	_	11	case	_	start_char=130|end_char=134
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=135|end_char=136
+10	single	single	ADJ	JJ	Degree=Pos	11	amod	_	start_char=137|end_char=143
+11	word	word	NOUN	NN	Number=Sing	4	obl	_	start_char=144|end_char=148
+12	.	.	PUNCT	.	_	4	punct	_	start_char=148|end_char=149
+

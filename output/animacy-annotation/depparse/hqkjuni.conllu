@@ -1,0 +1,60 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	evil	evil	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=17
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=17|end_char=18
+2	,	,	PUNCT	,	_	10	punct	_	start_char=18|end_char=19
+3	maybe	maybe	ADV	RB	_	10	advmod	_	start_char=20|end_char=25
+4	Jones	Jones	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=26|end_char=31
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=32|end_char=34
+6	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=35|end_char=36
+7	long	long	ADV	RB	Degree=Pos	8	advmod	_	start_char=37|end_char=41
+8	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	_	start_char=42|end_char=46
+9	love	love	NOUN	NN	Number=Sing	10	compound	_	start_char=47|end_char=51
+10	child	child	NOUN	NN	Number=Sing	0	root	_	start_char=52|end_char=57
+11	of	of	ADP	IN	_	12	case	_	start_char=58|end_char=60
+12	Trump	Trump	PROPN	NNP	Number=Sing	10	nmod	_	start_char=61|end_char=66
+13	.	.	PUNCT	.	_	10	punct	_	start_char=66|end_char=67
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=69|end_char=70
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	parataxis	_	start_char=72|end_char=76
+3	,	,	PUNCT	,	_	6	punct	_	start_char=76|end_char=77
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=78|end_char=80
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=81|end_char=83
+6	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=89
+7	,	,	PUNCT	,	_	12	punct	_	start_char=89|end_char=90
+8	just	just	ADV	RB	_	12	advmod	_	start_char=92|end_char=96
+9	for	for	ADP	IN	_	12	case	_	start_char=97|end_char=100
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=101|end_char=104
+11	wrong	wrong	ADJ	JJ	Degree=Pos	12	amod	_	start_char=105|end_char=110
+12	reasons	reason	NOUN	NNS	Number=Plur	6	obl	_	start_char=111|end_char=118
+13	.	.	PUNCT	.	_	6	punct	_	start_char=118|end_char=119
+
+1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=120|end_char=125
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=126|end_char=128
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=129|end_char=137
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=138|end_char=141
+5	evil	evil	ADJ	JJ	Degree=Pos	3	conj	_	start_char=142|end_char=146
+6	.	.	PUNCT	.	_	3	punct	_	start_char=146|end_char=147
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=149|end_char=151
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=152|end_char=157
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=158|end_char=160
+4	right	right	ADV	RB	_	5	advmod	_	start_char=161|end_char=166
+5	there	there	ADV	RB	PronType=Dem	0	root	_	start_char=167|end_char=172
+6	by	by	ADP	IN	_	7	case	_	start_char=173|end_char=175
+7	Jones	Jones	PROPN	NNP	Number=Sing	5	obl	_	start_char=176|end_char=181
+8	if	if	SCONJ	IN	_	14	mark	_	start_char=182|end_char=184
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=185|end_char=188
+10	vaccine	vaccine	NOUN	NN	Number=Sing	14	nsubj:pass	_	start_char=189|end_char=196
+11	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	start_char=197|end_char=200
+12	not	not	PART	RB	_	14	advmod	_	start_char=201|end_char=204
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	aux:pass	_	start_char=205|end_char=209
+14	developed	develop	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=210|end_char=219
+15	while	while	SCONJ	IN	_	19	mark	_	start_char=220|end_char=225
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=226|end_char=228
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=229|end_char=232
+18	in	in	ADP	IN	_	19	case	_	start_char=233|end_char=235
+19	office	office	NOUN	NN	Number=Sing	14	advcl	_	start_char=236|end_char=242
+20	.	.	PUNCT	.	_	5	punct	_	start_char=242|end_char=243
+

@@ -1,0 +1,25 @@
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	,	,	PUNCT	,	_	1	punct	_	start_char=9|end_char=10
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=11|end_char=15
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=16|end_char=19
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=20|end_char=23
+7	nicest	nice	ADJ	JJS	Degree=Sup	8	amod	_	start_char=24|end_char=30
+8	reply	reply	NOUN	NN	Number=Sing	1	parataxis	_	start_char=31|end_char=36
+9	i've	i've	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=37|end_char=41
+10	ever	ever	ADV	RB	_	11	advmod	_	start_char=42|end_char=46
+11	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	8	acl:relcl	_	start_char=47|end_char=53
+12	!	!	PUNCT	.	_	1	punct	_	start_char=53|end_char=54
+
+1	Wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=55|end_char=59
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=60|end_char=61
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=62|end_char=65
+4	still	still	ADV	RB	_	7	advmod	_	start_char=66|end_char=71
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=72|end_char=76
+6	blissfully	blissfully	ADV	RB	_	7	advmod	_	start_char=77|end_char=87
+7	unaware	unaware	ADJ	JJ	Degree=Pos	11	amod	_	start_char=88|end_char=95
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=96|end_char=99
+9	unapologetic	unapologetic	ADJ	JJ	Degree=Pos	7	conj	_	start_char=100|end_char=112
+10	8yo	8yo	NOUN	NN	Number=Sing	11	compound	_	start_char=113|end_char=116
+11	sometimes😂😂	sometimes😂😂	NOUN	NN	Number=Sing	1	ccomp	_	start_char=117|end_char=128
+

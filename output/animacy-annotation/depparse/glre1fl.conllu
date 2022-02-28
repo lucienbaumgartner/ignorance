@@ -1,0 +1,73 @@
+1	*	*	PUNCT	NFP	_	5	punct	_	start_char=0|end_char=1
+2	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=1|end_char=4
+3	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=5|end_char=8
+4	someone	someone	PRON	NN	Number=Sing	5	nsubj	_	start_char=9|end_char=16
+5	be	be	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=19
+6	*	*	PUNCT	NFP	_	5	punct	_	start_char=19|end_char=20
+
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=22|end_char=23
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=23|end_char=27
+2	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=32
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=33|end_char=36
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=37|end_char=44
+5	of	of	ADP	IN	_	2	case	_	start_char=45|end_char=47
+6	*	*	PUNCT	NFP	_	2	punct	_	start_char=47|end_char=48
+
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=50|end_char=51
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=51|end_char=54
+2	situation	situation	NOUN	NN	Number=Sing	0	root	_	start_char=55|end_char=64
+3	*	*	PUNCT	NFP	_	2	punct	_	start_char=64|end_char=65
+
+1	\-	\-	PUNCT	NFP	_	2	punct	_	start_char=67|end_char=69
+2	115	115	NUM	CD	NumType=Card	0	root	_	start_char=70|end_char=73
+3	\	''	PUNCT	NFP	_	2	punct	_	start_char=73|end_char=74
+4	_zombie\_slayer	_zombie\_slayer	X	ADD	_	2	appos	_	start_char=74|end_char=89
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=91|end_char=94
+
+1	^	^	X	LS	_	4	dep	_	start_char=96|end_char=97
+2	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=97|end_char=98
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=98|end_char=99
+4	detect	detect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=100|end_char=106
+5	haikus	haikus	NOUN	NNS	Number=Plur	4	obj	_	start_char=107|end_char=113
+6	.	.	PUNCT	.	_	4	punct	_	start_char=113|end_char=114
+
+1	And	and	CCONJ	CC	_	9	cc	_	start_char=115|end_char=118
+2	sometimes	sometimes	ADV	RB	_	4	advmod	_	start_char=119|end_char=128
+3	,	,	PUNCT	,	_	4	punct	_	start_char=128|end_char=129
+4	successfully	successfully	ADV	RB	Degree=Pos	0	root	_	start_char=130|end_char=142
+5	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+6	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=143|end_char=144
+7	^	^	PUNCT	.	_	9	punct	_	start_char=145|end_char=146
+8	[	[	PUNCT	-LRB-	_	9	punct	_	start_char=146|end_char=147
+9	Learn&amp;#32;more&amp;#32;about&amp;#32;me.	learn&amp;#32;more&amp;#32;about&amp;#32;me.	X	ADD	_	4	parataxis	_	start_char=147|end_char=191
+10	]	]	PUNCT	-RRB-	_	9	punct	_	start_char=191|end_char=192
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=192|end_char=193
+2	https://www.reddit.com/r/haikusbot/)	https://www.reddit.com/r/haikusbot/)	X	ADD	_	0	root	_	start_char=193|end_char=229
+
+1	^	^	X	LS	_	3	nummod	_	start_char=231|end_char=232
+2	(	(	PUNCT	-LRB-	_	3	punct	_	start_char=232|end_char=233
+3	Opt	opt	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=233|end_char=236
+4	out	out	ADP	IN	_	6	case	_	start_char=237|end_char=240
+5	of	of	ADP	IN	_	6	case	_	start_char=241|end_char=243
+6	replies	reply	NOUN	NNS	Number=Plur	3	obl	_	start_char=244|end_char=251
+7	:	:	PUNCT	:	_	3	punct	_	start_char=251|end_char=252
+8	"	"	PUNCT	``	_	10	punct	_	start_char=253|end_char=254
+9	haikusbot	haikusbot	INTJ	UH	_	10	discourse	_	start_char=254|end_char=263
+10	opt	opt	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=264|end_char=267
+11	out	out	ADP	RP	_	10	compound:prt	_	start_char=268|end_char=271
+12	"	"	PUNCT	''	_	10	punct	_	start_char=271|end_char=272
+13	|	|	PUNCT	NFP	_	10	punct	_	start_char=273|end_char=274
+14	Delete	delete	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=275|end_char=281
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=282|end_char=284
+16	comment	comment	NOUN	NN	Number=Sing	14	obj	_	start_char=285|end_char=292
+17	:	:	PUNCT	:	_	20	punct	_	start_char=292|end_char=293
+18	"	"	PUNCT	``	_	20	punct	_	start_char=294|end_char=295
+19	haikusbot	haikusbot	NOUN	NN	Number=Sing	20	nsubj	_	start_char=295|end_char=304
+20	delete	delete	VERB	VB	Mood=Imp|VerbForm=Fin	14	parataxis	_	start_char=305|end_char=311
+21	"	"	PUNCT	''	_	20	punct	_	start_char=311|end_char=312
+22	)	)	PUNCT	-RRB-	_	20	punct	_	start_char=312|end_char=313
+

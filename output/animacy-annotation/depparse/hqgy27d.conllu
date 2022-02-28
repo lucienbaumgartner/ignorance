@@ -1,0 +1,25 @@
+1	So	so	ADV	RB	_	3	advmod	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	accept	accept	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=13
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=14|end_char=18
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=19|end_char=22
+6	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=22|end_char=25
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=26|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	unwilling	unwilling	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=48
+10	to	to	PART	TO	_	11	mark	_	start_char=49|end_char=51
+11	learn	learn	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=52|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	utilize	utilize	VERB	VB	VerbForm=Inf	11	conj	_	start_char=62|end_char=69
+14	technology	technology	NOUN	NN	Number=Sing	11	obj	_	start_char=70|end_char=80
+15	that	that	PRON	WDT	PronType=Rel	18	nsubj	_	start_char=81|end_char=85
+16	will	will	AUX	MD	VerbForm=Fin	18	aux	_	start_char=86|end_char=90
+17	be	be	AUX	VB	VerbForm=Inf	18	cop	_	start_char=91|end_char=93
+18	useful	useful	ADJ	JJ	Degree=Pos	14	acl:relcl	_	start_char=94|end_char=100
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=101|end_char=104
+20	prevalent	prevalent	ADJ	JJ	Degree=Pos	18	conj	_	start_char=105|end_char=114
+21	in	in	ADP	IN	_	23	case	_	start_char=115|end_char=117
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=118|end_char=121
+23	future	future	NOUN	NN	Number=Sing	20	obl	_	start_char=122|end_char=128
+24	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+

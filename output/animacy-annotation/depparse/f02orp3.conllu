@@ -1,0 +1,28 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=7|end_char=11
+4	woman	woman	NOUN	NN	Number=Sing	8	nsubj	_	start_char=12|end_char=17
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=18|end_char=20
+6	just	just	ADV	RB	_	8	advmod	_	start_char=21|end_char=25
+7	really	really	ADV	RB	_	8	advmod	_	start_char=26|end_char=32
+8	unaware	unaware	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=33|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	dumb	dumb	ADJ	JJ	Degree=Pos	8	conj	_	start_char=45|end_char=49
+11	as	as	ADP	IN	_	12	case	_	start_char=50|end_char=52
+12	hell	hell	NOUN	NN	Number=Sing	8	obl	_	start_char=53|end_char=57
+13	.	.	PUNCT	.	_	2	punct	_	start_char=57|end_char=58
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=59|end_char=62
+2	more	more	ADV	RBR	Degree=Cmp	5	advmod	_	start_char=63|end_char=67
+3	or	or	CCONJ	CC	_	4	cc	_	start_char=68|end_char=70
+4	less	less	ADV	RBR	Degree=Cmp	2	conj	_	start_char=71|end_char=75
+5	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=76|end_char=82
+6	into	into	ADP	IN	_	8	case	_	start_char=83|end_char=87
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=88|end_char=91
+8	car	car	NOUN	NN	Number=Sing	5	obl	_	start_char=92|end_char=95
+9	than	than	ADP	IN	_	12	case	_	start_char=96|end_char=100
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=101|end_char=104
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	start_char=105|end_char=110
+12	way	way	NOUN	NN	Number=Sing	5	obl	_	start_char=111|end_char=114
+13	around	around	ADV	RB	_	12	advmod	_	start_char=115|end_char=121
+

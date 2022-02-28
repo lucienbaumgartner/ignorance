@@ -1,0 +1,16 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=3|end_char=7
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=10
+4	unaware	unaware	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=11|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	unaffected	unaffected	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=33
+7	,	,	PUNCT	,	_	11	punct	_	start_char=33|end_char=34
+8	how	how	ADV	WRB	PronType=Int	11	advmod	_	start_char=35|end_char=38
+9	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=39|end_char=41
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=42|end_char=43
+11	subjecting	subject	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=44|end_char=54
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=55|end_char=59
+13	to	to	ADP	IN	_	14	case	_	start_char=60|end_char=62
+14	anything	anything	PRON	NN	Number=Sing	11	obl	_	start_char=63|end_char=71
+15	?	?	PUNCT	.	_	11	punct	_	start_char=71|end_char=72
+

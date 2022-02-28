@@ -1,0 +1,57 @@
+1	Lmao	lmao	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=6|end_char=9
+2	sarcastically	sarcastically	ADV	RB	Degree=Pos	3	advmod	_	start_char=10|end_char=23
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+4	"	"	PUNCT	``	_	3	punct	_	start_char=29|end_char=30
+5	oh	oh	INTJ	UH	_	12	discourse	_	start_char=30|end_char=32
+6	im	im	INTJ	UH	_	7	discourse	_	start_char=33|end_char=35
+7	canadian	Canadian	ADJ	JJ	Degree=Pos	12	discourse	_	start_char=36|end_char=44
+8	,	,	PUNCT	,	_	12	punct	_	start_char=44|end_char=45
+9	so	so	ADV	RB	_	12	advmod	_	start_char=46|end_char=48
+10	im	be	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=49|end_char=51
+11	not	not	PART	RB	_	12	advmod	_	start_char=52|end_char=55
+12	racist	racist	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=56|end_char=62
+13	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+14	"	"	PUNCT	''	_	3	punct	_	start_char=63|end_char=64
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=65|end_char=68
+2	LITERALLY	literally	ADV	RB	_	6	advmod	_	start_char=69|end_char=78
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=79|end_char=82
+4	next	next	ADJ	JJ	Degree=Pos	5	amod	_	start_char=83|end_char=87
+5	scentence	scentence	NOUN	NN	Number=Sing	6	nsubj	_	start_char=88|end_char=97
+6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=100
+7	"	"	PUNCT	``	_	10	punct	_	start_char=101|end_char=102
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=102|end_char=105
+9	should	should	AUX	MD	VerbForm=Fin	10	aux	_	start_char=106|end_char=112
+10	go	go	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=113|end_char=115
+11	back	back	ADV	RB	_	10	advmod	_	start_char=116|end_char=120
+12	to	to	ADP	IN	_	13	case	_	start_char=121|end_char=123
+13	where	where	SCONJ	WRB	PronType=Int	10	obl	_	start_char=124|end_char=129
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=130|end_char=133
+15	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=134|end_char=138
+16	from	from	ADP	IN	_	15	obl	_	start_char=139|end_char=143
+17	.	.	PUNCT	.	_	6	punct	_	start_char=143|end_char=144
+18	"	"	PUNCT	''	_	6	punct	_	start_char=144|end_char=145
+
+1	How	how	ADV	WRB	PronType=Int	7	advmod	_	start_char=146|end_char=149
+2	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=150|end_char=153
+3	some	some	DET	DT	_	4	det	_	start_char=154|end_char=158
+4	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=159|end_char=165
+5	be	be	AUX	VB	VerbForm=Inf	7	aux	_	start_char=166|end_char=168
+6	soooooo	so	ADV	RB	_	7	advmod	_	start_char=169|end_char=176
+7	f*cking	f*ck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=177|end_char=184
+8	dumb	dumb	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=185|end_char=189
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=190|end_char=193
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=194|end_char=202
+11	of	of	ADP	IN	_	14	case	_	start_char=203|end_char=205
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=206|end_char=211
+13	own	own	ADJ	JJ	Degree=Pos	14	amod	_	start_char=212|end_char=215
+14	beliefs	belief	NOUN	NNS	Number=Plur	10	obl	_	start_char=216|end_char=223
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=224|end_char=227
+16	,	,	PUNCT	,	_	17	punct	_	start_char=227|end_char=228
+17	thoughts	thought	NOUN	NNS	Number=Plur	14	conj	_	start_char=229|end_char=237
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=238|end_char=241
+19	arguments	argument	NOUN	NNS	Number=Plur	17	conj	_	start_char=242|end_char=251
+

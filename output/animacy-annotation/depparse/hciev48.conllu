@@ -1,0 +1,49 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=9
+4	interested	interested	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=32
+7	of	of	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=36|end_char=39
+9	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=41|end_char=42
+2	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=43|end_char=48
+3	DouglieDoWrong	DouglieDoWrong	PROPN	NNP	Number=Sing	2	obj	_	start_char=49|end_char=63
+4	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=64|end_char=65
+5	DouglieDoWrong	DouglieDoWrong	PROPN	NNP	Number=Sing	2	dep	_	start_char=65|end_char=79
+6	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=80|end_char=81
+
+1	(	(	PUNCT	-LRB-	_	5	punct	_	start_char=81|end_char=82
+2	https://youtube.com/c/DouglieDoWrong)	https://youtube.com/c/dougliedowrong)	X	ADD	_	5	nsubj	_	start_char=82|end_char=119
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=120|end_char=122
+4	pretty	pretty	ADV	RB	_	5	advmod	_	start_char=123|end_char=129
+5	fair	fair	ADJ	JJ	Degree=Pos	0	root	_	start_char=130|end_char=134
+6	.	.	PUNCT	.	_	5	punct	_	start_char=134|end_char=135
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=136|end_char=138
+2	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=139|end_char=143
+3	livestreams	livestreams	NOUN	NNS	Number=Plur	2	obj	_	start_char=144|end_char=155
+4	and	and	CCONJ	CC	_	9	cc	_	start_char=156|end_char=159
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=160|end_char=162
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=162|end_char=164
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=165|end_char=168
+8	dolphins	dolphin	NOUN	NNS	Number=Plur	9	compound	_	start_char=169|end_char=177
+9	youtuber	youtuber	NOUN	NN	Number=Sing	2	conj	_	start_char=178|end_char=186
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=187|end_char=188
+11	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=189|end_char=195
+12	.	.	PUNCT	.	_	2	punct	_	start_char=195|end_char=196
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=197|end_char=199
+2	updates	update	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=200|end_char=207
+3	regularly	regularly	ADV	RB	_	2	advmod	_	start_char=208|end_char=217
+4	,	,	PUNCT	,	_	5	punct	_	start_char=217|end_char=218
+5	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=219|end_char=223
+6	livestreams	livestreams	NOUN	NNS	Number=Plur	5	obj	_	start_char=224|end_char=235
+7	,	,	PUNCT	,	_	10	punct	_	start_char=235|end_char=236
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=237|end_char=240
+9	frequently	frequently	ADV	RB	_	10	advmod	_	start_char=241|end_char=251
+10	collabs	collab	NOUN	NNS	Number=Plur	6	conj	_	start_char=252|end_char=259
+11	.	.	PUNCT	.	_	2	punct	_	start_char=259|end_char=260
+

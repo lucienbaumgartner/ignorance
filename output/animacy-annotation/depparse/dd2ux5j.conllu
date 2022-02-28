@@ -1,0 +1,24 @@
+1	But	but	CCONJ	CC	_	10	cc	_	start_char=0|end_char=3
+2	unaware	unaware	ADJ	JJ	Degree=Pos	10	csubj	_	start_char=4|end_char=11
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=12|end_char=15
+4	softboiled	softboil	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	_	start_char=16|end_char=26
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=27|end_char=30
+6	always	always	ADV	RB	_	10	advmod	_	start_char=31|end_char=37
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	_	start_char=38|end_char=42
+8	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=43|end_char=45
+9	illegal	illegal	ADJ	JJ	Degree=Pos	10	amod	_	start_char=46|end_char=53
+10	combination	combination	NOUN	NN	Number=Sing	0	root	_	start_char=54|end_char=65
+11	,	,	PUNCT	,	_	10	punct	_	start_char=65|end_char=66
+12	even	even	ADV	RB	_	14	advmod	_	start_char=67|end_char=71
+13	on	on	ADP	IN	_	14	case	_	start_char=72|end_char=74
+14	showdown	showdown	NOUN	NN	Number=Sing	10	nmod	_	start_char=75|end_char=83
+15	.	.	PUNCT	.	_	10	punct	_	start_char=83|end_char=84
+
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	2	amod	_	start_char=85|end_char=92
+2	Clefables	Clefables	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=93|end_char=102
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=103|end_char=107
+4	always	always	ADV	RB	_	5	advmod	_	start_char=108|end_char=114
+5	run	run	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=115|end_char=118
+6	moonlight	moonlight	NOUN	NN	Number=Sing	5	obj	_	start_char=119|end_char=128
+7	.	.	PUNCT	.	_	5	punct	_	start_char=128|end_char=129
+

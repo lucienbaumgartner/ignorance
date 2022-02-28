@@ -1,0 +1,59 @@
+1	Yup	yup	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	_	start_char=11|end_char=14
+3	u/towoperator76	u/towoperator76	NOUN	NN	Number=Sing	1	obj	_	start_char=15|end_char=30
+4	.	.	PUNCT	.	_	1	punct	_	start_char=31|end_char=32
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=34|end_char=36
+2	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=36|end_char=39
+3	wanna	wanna	AUX	MD	VerbForm=Fin	5	aux	_	start_char=40|end_char=45
+4	get	get	AUX	VB	VerbForm=Inf	5	aux:pass	_	start_char=46|end_char=49
+5	vaccinated	vaccinate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=50|end_char=60
+6	,	,	PUNCT	,	_	7	punct	_	start_char=60|end_char=61
+7	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	5	parataxis	_	start_char=62|end_char=65
+8	bent	bent	ADJ	JJ	Degree=Pos	9	amod	_	start_char=66|end_char=70
+9	shithead	shithead	NOUN	NN	Number=Sing	7	obj	_	start_char=71|end_char=79
+10	.	.	PUNCT	.	_	5	punct	_	start_char=79|end_char=80
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=82|end_char=85
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=85|end_char=88
+3	just	just	ADV	RB	_	4	advmod	_	start_char=89|end_char=93
+4	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=94|end_char=100
+5	work	work	NOUN	NN	Number=Sing	4	obj	_	start_char=101|end_char=105
+6	even	even	ADV	RB	_	7	advmod	_	start_char=106|end_char=110
+7	worse	bad	ADJ	JJR	Degree=Cmp	4	xcomp	_	start_char=111|end_char=116
+8	for	for	ADP	IN	_	10	case	_	start_char=117|end_char=120
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=121|end_char=124
+10	rest	rest	NOUN	NN	Number=Sing	4	obl	_	start_char=125|end_char=129
+11	of	of	ADP	IN	_	12	case	_	start_char=130|end_char=132
+12	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	nmod	_	start_char=133|end_char=135
+13	.	.	PUNCT	.	_	4	punct	_	start_char=135|end_char=136
+
+1	Not	not	PART	RB	_	5	advmod	_	start_char=138|end_char=141
+2	only	only	ADV	RB	_	5	advmod	_	start_char=142|end_char=146
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=147|end_char=150
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=151|end_char=153
+5	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=154|end_char=161
+6	,	,	PUNCT	,	_	10	punct	_	start_char=161|end_char=162
+7	but	but	CCONJ	CC	_	10	cc	_	start_char=163|end_char=166
+8	now	now	ADV	RB	_	10	advmod	_	start_char=167|end_char=170
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=171|end_char=173
+10	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=174|end_char=178
+11	to	to	PART	TO	_	13	mark	_	start_char=179|end_char=181
+12	get	get	AUX	VB	VerbForm=Inf	13	aux:pass	_	start_char=182|end_char=185
+13	exposed	expose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	xcomp	_	start_char=186|end_char=193
+14	to	to	ADP	IN	_	16	case	_	start_char=194|end_char=196
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=197|end_char=201
+16	illness	illness	NOUN	NN	Number=Sing	13	obl	_	start_char=202|end_char=209
+17	because	because	SCONJ	IN	_	24	mark	_	start_char=210|end_char=217
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	24	nsubj	_	start_char=218|end_char=221
+19	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=221|end_char=224
+20	an	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=225|end_char=227
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	24	amod	_	start_char=228|end_char=236
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=237|end_char=240
+23	selfish	selfish	ADJ	JJ	Degree=Pos	21	conj	_	start_char=241|end_char=248
+24	ass	ass	NOUN	NN	Number=Sing	13	advcl	_	start_char=249|end_char=252
+25	?	?	PUNCT	.	_	5	punct	_	start_char=252|end_char=253
+

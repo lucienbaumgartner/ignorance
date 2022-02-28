@@ -1,0 +1,23 @@
+1	Democratic	Democratic	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=10
+2	leadership	leadership	NOUN	NN	Number=Sing	3	nsubj	_	start_char=11|end_char=21
+3	seeks	seek	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=22|end_char=27
+4	to	to	PART	TO	_	5	mark	_	start_char=28|end_char=30
+5	produce	produce	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=31|end_char=38
+6	"	"	PUNCT	``	_	11	punct	_	start_char=39|end_char=40
+7	unaware	unaware	ADJ	JJ	Degree=Pos	11	amod	_	start_char=40|end_char=47
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=48|end_char=51
+9	compliant	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=52|end_char=61
+10	"	"	PUNCT	''	_	7	punct	_	start_char=61|end_char=62
+11	voters	voter	NOUN	NNS	Number=Plur	5	obj	_	start_char=63|end_char=69
+12	,	,	PUNCT	,	_	11	punct	_	start_char=69|end_char=70
+13	all	all	DET	PDT	_	15	det:predet	_	start_char=71|end_char=74
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=75|end_char=78
+15	while	while	NOUN	NN	Number=Sing	11	appos	_	start_char=79|end_char=84
+16	calling	call	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=85|end_char=92
+17	conservatives	conservative	NOUN	NNS	Number=Plur	16	obj	_	start_char=93|end_char=106
+18	:	:	PUNCT	:	_	19	punct	_	start_char=106|end_char=107
+19	uneducated	uneducated	ADJ	JJ	Degree=Pos	17	appos	_	start_char=108|end_char=118
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=119|end_char=122
+21	uninformed	uninformed	ADJ	JJ	Degree=Pos	19	conj	_	start_char=123|end_char=133
+22	-.-	-.-	PUNCT	.	_	3	punct	_	start_char=134|end_char=137
+

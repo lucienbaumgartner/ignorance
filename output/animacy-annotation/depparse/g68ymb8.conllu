@@ -1,0 +1,31 @@
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=0|end_char=4
+2	np	np	DET	DT	_	3	det	_	start_char=5|end_char=7
+3	one	one	NOUN	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=11
+4	learns	learn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+5	...	...	PUNCT	.	_	4	punct	_	start_char=18|end_char=21
+
+1	America	America	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=22|end_char=29
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=30|end_char=33
+3	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=34|end_char=40
+4	stupid	stupid	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=41|end_char=47
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=48|end_char=51
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=52|end_char=60
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=61|end_char=65
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=66|end_char=68
+9	reasonable	reasonable	ADJ	JJ	Degree=Pos	10	amod	_	start_char=69|end_char=79
+10	people	people	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=80|end_char=86
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=87|end_char=91
+12	to	to	PART	TO	_	13	mark	_	start_char=92|end_char=94
+13	act	act	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=95|end_char=98
+14	as	as	ADP	IN	_	17	case	_	start_char=99|end_char=101
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=102|end_char=103
+16	rational	rational	ADJ	JJ	Degree=Pos	17	amod	_	start_char=104|end_char=112
+17	counterweight	counterweight	NOUN	NN	Number=Sing	13	obl	_	start_char=113|end_char=126
+18	to	to	ADP	IN	_	24	case	_	start_char=127|end_char=129
+19	all	all	DET	PDT	_	24	det:predet	_	start_char=130|end_char=133
+20	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=134|end_char=137
+21	crazy	crazy	ADJ	JJ	Degree=Pos	24	amod	_	start_char=138|end_char=143
+22	loud	loud	ADJ	JJ	Degree=Pos	24	amod	_	start_char=144|end_char=148
+23	Trumpkin	Trumpkin	PROPN	NNP	Number=Sing	24	compound	_	start_char=149|end_char=157
+24	minority	minority	NOUN	NN	Number=Sing	17	nmod	_	start_char=158|end_char=166
+

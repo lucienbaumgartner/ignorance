@@ -1,0 +1,5 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=31
+

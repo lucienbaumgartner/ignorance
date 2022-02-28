@@ -1,0 +1,45 @@
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=0|end_char=4
+2	about	about	ADP	IN	_	4	case	_	start_char=5|end_char=10
+3	Uighur	uighur	ADJ	JJ	Degree=Pos	4	amod	_	start_char=11|end_char=17
+4	massacre	massacre	NOUN	NN	Number=Sing	1	nmod	_	start_char=18|end_char=26
+5	?	?	PUNCT	.	_	1	punct	_	start_char=26|end_char=27
+
+1	Falun	Falun	PROPN	NNP	Number=Sing	2	compound	_	start_char=28|end_char=33
+2	Gong	Gong	PROPN	NNP	Number=Sing	4	compound	_	start_char=34|end_char=38
+3	organ	organ	NOUN	NN	Number=Sing	4	compound	_	start_char=39|end_char=44
+4	harvesting	harvesting	NOUN	NN	Number=Sing	0	root	_	start_char=45|end_char=55
+5	?	?	PUNCT	.	_	4	punct	_	start_char=55|end_char=56
+
+1	Murder	murder	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=63
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=64|end_char=67
+3	torture	torture	NOUN	NN	Number=Sing	1	conj	_	start_char=68|end_char=75
+4	of	of	ADP	IN	_	6	case	_	start_char=76|end_char=78
+5	political	political	ADJ	JJ	Degree=Pos	6	amod	_	start_char=79|end_char=88
+6	dissidents	dissident	NOUN	NNS	Number=Plur	1	nmod	_	start_char=89|end_char=99
+7	?	?	PUNCT	.	_	1	punct	_	start_char=99|end_char=100
+
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=102|end_char=108
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=109|end_char=112
+3	some	some	DET	DT	_	4	det	_	start_char=113|end_char=117
+4	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=118|end_char=124
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=125|end_char=128
+6	so	so	ADV	RB	_	7	advmod	_	start_char=129|end_char=131
+7	bigoted	bigoted	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=132|end_char=139
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=140|end_char=143
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=144|end_char=152
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=153|end_char=157
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=158|end_char=162
+12	ca	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=163|end_char=165
+13	n't	not	PART	RB	_	14	advmod	_	start_char=165|end_char=168
+14	see	see	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=169|end_char=172
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=173|end_char=176
+16	present	present	ADJ	JJ	Degree=Pos	14	obj	_	start_char=177|end_char=184
+17	because	because	SCONJ	IN	_	20	mark	_	start_char=185|end_char=192
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=193|end_char=197
+19	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=197|end_char=200
+20	stuck	stick	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	start_char=201|end_char=206
+21	in	in	ADP	IN	_	23	case	_	start_char=207|end_char=209
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=210|end_char=213
+23	past	past	NOUN	NN	Number=Sing	20	obl	_	start_char=214|end_char=218
+24	.	.	PUNCT	.	_	2	punct	_	start_char=218|end_char=219
+

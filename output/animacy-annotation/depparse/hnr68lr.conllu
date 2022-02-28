@@ -1,0 +1,17 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	response	response	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=14|end_char=16
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=36
+7	of	of	ADP	IN	_	8	case	_	start_char=37|end_char=39
+8	how	how	SCONJ	WRB	PronType=Int	6	obl	_	start_char=40|end_char=43
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=44|end_char=47
+10	vaccine	vaccine	NOUN	NN	Number=Sing	11	nsubj	_	start_char=48|end_char=55
+11	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=56|end_char=61
+12	and	and	CCONJ	CC	_	15	cc	_	start_char=62|end_char=65
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=66|end_char=69
+14	virus	virus	NOUN	NN	Number=Sing	15	nsubj	_	start_char=70|end_char=75
+15	spreads	spread	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=76|end_char=83
+16	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+

@@ -1,0 +1,61 @@
+1	Ahh	ahh	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=11|end_char=13
+6	.	.	PUNCT	.	_	4	punct	_	start_char=13|end_char=14
+
+1	"	"	PUNCT	``	_	8	punct	_	start_char=15|end_char=16
+2	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=16|end_char=17
+3	site	site	NOUN	NN	Number=Sing	8	nsubj	_	start_char=18|end_char=22
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=23|end_char=24
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=25|end_char=27
+6	n't	not	PART	RB	_	7	advmod	_	start_char=27|end_char=30
+7	like	like	VERB	VB	VerbForm=Inf	3	acl:relcl	_	start_char=31|end_char=35
+8	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=36|end_char=40
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=41|end_char=43
+10	so	so	ADV	RB	_	14	advmod	_	start_char=44|end_char=46
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=47|end_char=49
+12	must	must	AUX	MD	VerbForm=Fin	14	aux	_	start_char=50|end_char=54
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=55|end_char=57
+14	false	false	ADJ	JJ	Degree=Pos	8	parataxis	_	start_char=58|end_char=63
+15	.	.	PUNCT	.	_	8	punct	_	start_char=63|end_char=64
+16	"	"	PUNCT	''	_	8	punct	_	start_char=64|end_char=65
+
+1	While	while	SCONJ	IN	_	5	mark	_	start_char=66|end_char=71
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=72|end_char=73
+3	'll	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=73|end_char=76
+4	mainly	mainly	ADV	RB	_	5	advmod	_	start_char=77|end_char=83
+5	point	point	VERB	VB	VerbForm=Inf	16	advcl	_	start_char=84|end_char=89
+6	out	out	ADP	RP	_	5	compound:prt	_	start_char=90|end_char=93
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=94|end_char=97
+8	stupid	stupid	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=98|end_char=104
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=105|end_char=108
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=109|end_char=117
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=118|end_char=122
+12	reasoning	reasoning	NOUN	NN	Number=Sing	13	nsubj	_	start_char=123|end_char=132
+13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=133|end_char=135
+14	,	,	PUNCT	,	_	16	punct	_	start_char=135|end_char=136
+15	there	there	PRON	EX	_	16	expl	_	start_char=137|end_char=142
+16	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=143|end_char=146
+17	also	also	ADV	RB	_	16	advmod	_	start_char=147|end_char=151
+18	tons	ton	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=152|end_char=156
+19	of	of	ADP	IN	_	21	case	_	start_char=157|end_char=159
+20	other	other	ADJ	JJ	Degree=Pos	21	amod	_	start_char=160|end_char=165
+21	sources	source	NOUN	NNS	Number=Plur	18	nmod	_	start_char=166|end_char=173
+22	:	:	PUNCT	:	_	16	punct	_	start_char=173|end_char=174
+
+1	Like	like	ADP	IN	_	2	case	_	start_char=176|end_char=180
+2	CNN	CNN	PROPN	NNP	Number=Sing	0	root	_	start_char=181|end_char=184
+3	https://www.cnn.com/2016/08/03/politics/us-sends-plane-iran-400-million-cash/index.html	https://www.cnn.com/2016/08/03/politics/us-sends-plane-iran-400-million-cash/index.html	X	ADD	_	2	list	_	start_char=185|end_char=272
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=274|end_char=277
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=278|end_char=281
+3	LA	LA	PROPN	NNP	Number=Sing	4	compound	_	start_char=282|end_char=284
+4	Times	Times	X	GW	_	0	root	_	start_char=285|end_char=290
+5	https://www.latimes.com/nation/nationnow/la-na-iran-payment-cash-20160907-snap-story.html	https://www.latimes.com/nation/nationnow/la-na-iran-payment-cash-20160907-snap-story.html	X	ADD	_	4	appos	_	start_char=291|end_char=380
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=382|end_char=385
+2	CNBC	CNBC	PROPN	NNP	Number=Sing	0	root	_	start_char=386|end_char=390
+3	https://www.cnbc.com/2016/08/02/us-sent-400-million-in-cash-to-iran-as-prisoners-were-freed-wsj-reports.html	https://www.cnbc.com/2016/08/02/us-sent-400-million-in-cash-to-iran-as-prisoners-were-freed-wsj-reports.html	X	ADD	_	2	list	_	start_char=391|end_char=499
+

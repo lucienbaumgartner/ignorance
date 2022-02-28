@@ -1,0 +1,20 @@
+1	Ca	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=0|end_char=2
+2	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=2|end_char=5
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=6|end_char=9
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=10|end_char=11
+5	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=13
+6	sad	sad	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=14|end_char=17
+7	to	to	PART	TO	_	8	mark	_	start_char=18|end_char=20
+8	see	see	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=21|end_char=24
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=25|end_char=29
+10	one	one	NOUN	NN	Number=Sing	8	obj	_	start_char=30|end_char=33
+11	go	go	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=34|end_char=36
+12	….	..	PUNCT	.	_	3	punct	_	start_char=36|end_char=38
+
+1	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=38|end_char=43
+2	particularly	particularly	ADV	RB	_	3	advmod	_	start_char=44|end_char=56
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=57|end_char=65
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=66|end_char=69
+5	hateful	hateful	ADJ	JJ	Degree=Pos	3	conj	_	start_char=70|end_char=77
+6	.	.	PUNCT	.	_	1	punct	_	start_char=77|end_char=78
+

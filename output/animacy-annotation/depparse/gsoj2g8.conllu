@@ -1,0 +1,62 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	remember	remember	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=10
+3	watching	watch	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=11|end_char=19
+4	two	two	NUM	CD	NumType=Card	5	nummod	_	start_char=20|end_char=23
+5	groups	group	NOUN	NNS	Number=Plur	3	obj	_	start_char=24|end_char=30
+6	of	of	ADP	IN	_	7	case	_	start_char=31|end_char=33
+7	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=34|end_char=40
+8	4	4	NUM	CD	NumType=Card	9	nummod	_	start_char=41|end_char=42
+9	abreast	abreast	NOUN	NNS	Number=Plur	5	nmod	_	start_char=43|end_char=50
+10	coming	come	VERB	VBG	VerbForm=Ger	9	acl	_	start_char=51|end_char=57
+11	towards	towards	ADP	IN	_	13	case	_	start_char=58|end_char=65
+12	each	each	DET	DT	_	13	det	_	start_char=66|end_char=70
+13	other	other	ADJ	JJ	Degree=Pos	10	obl	_	start_char=71|end_char=76
+14	in	in	ADP	IN	_	15	case	_	start_char=77|end_char=79
+15	Las	Las	PROPN	NNP	Number=Sing	10	obl	_	start_char=80|end_char=83
+16	Vegas	Vegas	PROPN	NNP	Number=Sing	15	flat	_	start_char=84|end_char=89
+17	.	.	PUNCT	.	_	2	punct	_	start_char=89|end_char=90
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=93|end_char=97
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=98|end_char=101
+3	very	very	ADV	RB	_	4	advmod	_	start_char=102|end_char=106
+4	confusing	confusing	ADJ	JJ	Degree=Pos	0	root	_	start_char=107|end_char=116
+5	for	for	ADP	IN	_	6	case	_	start_char=117|end_char=120
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=121|end_char=125
+7	for	for	ADP	IN	_	9	case	_	start_char=126|end_char=129
+8	some	some	DET	DT	_	9	det	_	start_char=130|end_char=134
+9	reason	reason	NOUN	NN	Number=Sing	4	obl	_	start_char=135|end_char=141
+10	.	.	PUNCT	.	_	4	punct	_	start_char=141|end_char=142
+
+1	Man	man	NOUN	NN	Number=Sing	0	root	_	start_char=144|end_char=147
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=148|end_char=149
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=149|end_char=152
+3	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=153|end_char=160
+4	love	love	NOUN	NN	Number=Sing	3	obj	_	start_char=161|end_char=165
+5	to	to	PART	TO	_	8	mark	_	start_char=166|end_char=168
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=169|end_char=171
+7	that	that	ADV	RB	_	8	advmod	_	start_char=172|end_char=176
+8	stupid	stupid	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=177|end_char=183
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=184|end_char=187
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=188|end_char=195
+11	of	of	ADP	IN	_	12	case	_	start_char=196|end_char=198
+12	everything	everything	PRON	NN	Number=Sing	10	obl	_	start_char=199|end_char=209
+13	.	.	PUNCT	.	_	3	punct	_	start_char=209|end_char=210
+
+1	Must	must	AUX	MD	VerbForm=Fin	2	aux	_	start_char=211|end_char=215
+2	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=216|end_char=220
+3	life	life	NOUN	NN	Number=Sing	2	obj	_	start_char=221|end_char=225
+4	so	so	ADV	RB	_	5	advmod	_	start_char=226|end_char=228
+5	much	much	ADV	RB	_	6	advmod	_	start_char=229|end_char=233
+6	more	more	ADV	RBR	_	7	advmod	_	start_char=234|end_char=238
+7	relaxed	relaxed	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=239|end_char=246
+8	to	to	PART	TO	_	11	mark	_	start_char=248|end_char=250
+9	just	just	ADV	RB	_	11	advmod	_	start_char=251|end_char=255
+10	not	not	PART	RB	_	11	advmod	_	start_char=256|end_char=259
+11	notice	notice	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=260|end_char=266
+12	or	or	CCONJ	CC	_	13	cc	_	start_char=267|end_char=269
+13	care	care	VERB	VB	VerbForm=Inf	11	conj	_	start_char=270|end_char=274
+14	about	about	ADP	IN	_	15	case	_	start_char=275|end_char=280
+15	shit	shit	NOUN	NN	Number=Sing	13	obl	_	start_char=281|end_char=285
+16	.	.	PUNCT	.	_	2	punct	_	start_char=285|end_char=286
+

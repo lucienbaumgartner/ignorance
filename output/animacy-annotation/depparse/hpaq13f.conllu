@@ -1,0 +1,164 @@
+1	Welcome	welcome	INTJ	UH	_	0	root	_	start_char=0|end_char=7
+2	to	to	ADP	IN	_	3	case	_	start_char=8|end_char=10
+3	/r/	/r/	PROPN	NNP	Number=Sing	1	obl	_	start_char=11|end_char=14
+4	AmITheAsshole	AmITheAsshole	PROPN	NNP	Number=Sing	3	flat	_	start_char=14|end_char=27
+5	.	.	PUNCT	.	_	1	punct	_	start_char=27|end_char=28
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=29|end_char=35
+2	view	view	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=36|end_char=40
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=41|end_char=44
+4	[	[	PUNCT	-LRB-	_	6	punct	_	start_char=45|end_char=46
+5	voting	voting	NOUN	NN	Number=Sing	6	compound	_	start_char=46|end_char=52
+6	guide	guide	NOUN	NN	Number=Sing	2	obj	_	start_char=53|end_char=58
+7	here	here	ADV	RB	PronType=Dem	6	advmod	_	start_char=59|end_char=63
+8	]	]	PUNCT	-RRB-	_	6	punct	_	start_char=63|end_char=64
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=64|end_char=65
+2	https://www.reddit.com/r/AmItheAsshole/wiki/faq#wiki_what.2019s_with_these_acronyms.3F_what_do_they_mean.3F),	https://www.reddit.com/r/amitheasshole/wiki/faq#wiki_what.2019s_with_these_acronyms.3f_what_do_they_mean.3f),	X	ADD	_	0	root	_	start_char=65|end_char=174
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=175|end_char=178
+4	remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=179|end_char=187
+5	to	to	PART	TO	_	6	mark	_	start_char=188|end_char=190
+6	use	use	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=191|end_char=194
+7	**only	**only	PUNCT	NFP	_	8	punct	_	start_char=195|end_char=201
+8	one	one	NUM	CD	NumType=Card	10	nummod	_	start_char=202|end_char=205
+9	**	**	PUNCT	NFP	_	10	punct	_	start_char=205|end_char=207
+10	judgement	judgement	NOUN	NN	Number=Sing	6	obj	_	start_char=208|end_char=217
+11	in	in	ADP	IN	_	13	case	_	start_char=218|end_char=220
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=221|end_char=225
+13	comment	comment	NOUN	NN	Number=Sing	10	nmod	_	start_char=226|end_char=233
+14	.	.	PUNCT	.	_	2	punct	_	start_char=233|end_char=234
+
+1	OP	OP	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=236|end_char=238
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=239|end_char=242
+3	offered	offer	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=243|end_char=250
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=251|end_char=254
+5	following	follow	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=255|end_char=264
+6	explanation	explanation	NOUN	NN	Number=Sing	3	obj	_	start_char=265|end_char=276
+7	for	for	SCONJ	IN	_	8	case	_	start_char=277|end_char=280
+8	why	why	SCONJ	WRB	PronType=Int	6	nmod	_	start_char=281|end_char=284
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=285|end_char=289
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=290|end_char=295
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=296|end_char=300
+12	might	might	AUX	MD	VerbForm=Fin	15	aux	_	start_char=301|end_char=306
+13	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=307|end_char=309
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=310|end_char=313
+15	asshole	asshole	NOUN	NN	Number=Sing	10	ccomp	_	start_char=314|end_char=321
+16	:	:	PUNCT	:	_	3	punct	_	start_char=321|end_char=322
+
+1	&gt	&gt	INTJ	UH	_	6	discourse	_	start_char=325|end_char=328
+2	;	;	PUNCT	,	_	6	punct	_	start_char=328|end_char=329
+3	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=330|end_char=334
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=335|end_char=337
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=338|end_char=339
+6	WIBTA	WIBTA	PROPN	NNP	Number=Sing	0	root	_	start_char=340|end_char=345
+7	-	-	PUNCT	,	_	6	punct	_	start_char=345|end_char=346
+8	so	so	ADV	RB	_	10	advmod	_	start_char=347|end_char=349
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=350|end_char=351
+10	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	parataxis	_	start_char=352|end_char=358
+11	to	to	PART	TO	_	12	mark	_	start_char=359|end_char=361
+12	ask	ask	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=362|end_char=365
+13	would	would	AUX	MD	VerbForm=Fin	17	aux	_	start_char=366|end_char=371
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=372|end_char=373
+15	be	be	AUX	VB	VerbForm=Inf	17	cop	_	start_char=374|end_char=376
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=377|end_char=380
+17	a-hole	a-hole	NOUN	NN	Number=Sing	12	ccomp	_	start_char=381|end_char=387
+18	if	if	SCONJ	IN	_	20	mark	_	start_char=388|end_char=390
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	start_char=391|end_char=392
+20	avoided	avoid	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	advcl	_	start_char=393|end_char=400
+21	hanging	hang	VERB	VBG	VerbForm=Ger	20	xcomp	_	start_char=401|end_char=408
+22	out	out	ADP	RP	_	21	compound:prt	_	start_char=409|end_char=412
+23	with	with	ADP	IN	_	26	case	_	start_char=413|end_char=417
+24	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	start_char=418|end_char=420
+25	bestfriends	bestfriend	NOUN	NNS	Number=Plur	26	compound	_	start_char=421|end_char=432
+26	boyfriend	boyfriend	NOUN	NN	Number=Sing	21	obl	_	start_char=433|end_char=442
+27	because	because	SCONJ	IN	_	29	mark	_	start_char=443|end_char=450
+28	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	start_char=451|end_char=452
+29	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	advcl	_	start_char=453|end_char=458
+30	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	start_char=459|end_char=461
+31	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	start_char=461|end_char=463
+32	ignorant	ignorant	ADJ	JJ	Degree=Pos	29	ccomp	_	start_char=464|end_char=472
+33	and	and	CCONJ	CC	_	34	cc	_	start_char=473|end_char=476
+34	egoistic	egoistic	ADJ	JJ	Degree=Pos	32	conj	_	start_char=477|end_char=485
+
+1	Help	help	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=488|end_char=492
+2	keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	1	xcomp	_	start_char=493|end_char=497
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=498|end_char=501
+4	sub	sub	NOUN	NN	Number=Sing	2	obj	_	start_char=502|end_char=505
+5	engaging	engage	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=506|end_char=514
+6	!	!	PUNCT	.	_	1	punct	_	start_char=514|end_char=515
+
+1	#	#	SYM	NN	Number=Sing	0	root	_	start_char=517|end_char=518
+
+1	Do	do	AUX	VB	VerbForm=Fin	3	aux	_	start_char=518|end_char=520
+2	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=520|end_char=523
+3	downvote	downvote	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=524|end_char=532
+4	assholes	asshole	NOUN	NNS	Number=Plur	3	obj	_	start_char=533|end_char=541
+5	!	!	PUNCT	.	_	3	punct	_	start_char=541|end_char=542
+
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	2	aux	_	start_char=545|end_char=547
+2	upvote	upvote	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=548|end_char=554
+3	interesting	interesting	ADJ	JJ	Degree=Pos	4	amod	_	start_char=555|end_char=566
+4	posts	post	NOUN	NNS	Number=Plur	2	obj	_	start_char=567|end_char=572
+5	!	!	PUNCT	.	_	2	punct	_	start_char=572|end_char=573
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=576|end_char=577
+2	Click	click	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=577|end_char=582
+3	Here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=583|end_char=587
+4	For	for	ADP	IN	_	6	case	_	start_char=588|end_char=591
+5	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=592|end_char=595
+6	Rules	rule	NOUN	NNS	Number=Plur	2	obl	_	start_char=596|end_char=601
+7	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=601|end_char=602
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=602|end_char=603
+2	https://www.reddit.com/r/AmItheAsshole/about/rules/)	https://www.reddit.com/r/amitheasshole/about/rules/)	X	ADD	_	0	root	_	start_char=603|end_char=655
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=656|end_char=659
+4	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=660|end_char=661
+5	Click	click	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=661|end_char=666
+6	Here	here	ADV	RB	PronType=Dem	5	advmod	_	start_char=667|end_char=671
+7	For	for	ADP	IN	_	9	case	_	start_char=672|end_char=675
+8	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=676|end_char=679
+9	FAQ	faq	NOUN	NN	Number=Sing	5	obl	_	start_char=680|end_char=683
+10	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=683|end_char=684
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=684|end_char=685
+2	https://www.reddit.com/r/AmItheAsshole/wiki/faq)	https://www.reddit.com/r/amitheasshole/wiki/faq)	X	ADD	_	0	root	_	start_char=685|end_char=733
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=736|end_char=739
+
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=741|end_char=742
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=742|end_char=743
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=744|end_char=746
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=747|end_char=748
+4	bot	bot	NOUN	NN	Number=Sing	0	root	_	start_char=749|end_char=752
+5	,	,	PUNCT	,	_	10	punct	_	start_char=752|end_char=753
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=754|end_char=757
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=758|end_char=762
+8	action	action	NOUN	NN	Number=Sing	10	nsubj:pass	_	start_char=763|end_char=769
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	start_char=770|end_char=773
+10	performed	perform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=774|end_char=783
+11	automatically	automatically	ADV	RB	_	10	advmod	_	start_char=784|end_char=797
+12	.	.	PUNCT	.	_	4	punct	_	start_char=797|end_char=798
+
+1	Please	please	INTJ	UH	_	3	discourse	_	start_char=799|end_char=805
+2	[	[	PUNCT	-LRB-	_	3	punct	_	start_char=806|end_char=807
+3	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=807|end_char=814
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=815|end_char=818
+5	moderators	moderator	NOUN	NNS	Number=Plur	3	obj	_	start_char=819|end_char=829
+6	of	of	ADP	IN	_	8	case	_	start_char=830|end_char=832
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=833|end_char=837
+8	subreddit	subreddit	NOUN	NN	Number=Sing	5	nmod	_	start_char=838|end_char=847
+9	]	]	PUNCT	-RRB-	_	3	punct	_	start_char=847|end_char=848
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=848|end_char=849
+2	https://www.reddit.com/message/compose/?to=/r/AmItheAsshole)	https://www.reddit.com/message/compose/?to=/r/amitheasshole)	X	ADD	_	0	root	_	start_char=849|end_char=909
+3	if	if	SCONJ	IN	_	5	mark	_	start_char=910|end_char=912
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=913|end_char=916
+5	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=917|end_char=921
+6	any	any	DET	DT	_	7	det	_	start_char=922|end_char=925
+7	questions	question	NOUN	NNS	Number=Plur	5	obj	_	start_char=926|end_char=935
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=936|end_char=938
+9	concerns	concern	NOUN	NNS	Number=Plur	7	conj	_	start_char=939|end_char=947
+10	.	.	PUNCT	.	_	2	punct	_	start_char=947|end_char=948
+11	*	*	PUNCT	NFP	_	2	punct	_	start_char=948|end_char=949
+

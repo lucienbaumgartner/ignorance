@@ -1,0 +1,24 @@
+1	Suuuure	Suuuure	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=7
+2	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	Sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=16
+2	like	like	SCONJ	IN	_	4	mark	_	start_char=17|end_char=21
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=22|end_char=25
+4	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=26|end_char=32
+5	to	to	PART	TO	_	7	mark	_	start_char=33|end_char=35
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=36|end_char=38
+7	uninformed	uninformed	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=39|end_char=49
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=50|end_char=53
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=54|end_char=62
+10	.	.	PUNCT	.	_	1	punct	_	start_char=62|end_char=63
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=65|end_char=69
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=70|end_char=74
+3	explain	explain	VERB	VB	VerbForm=Inf	0	root	_	start_char=75|end_char=82
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=83|end_char=86
+5	tone	tone	NOUN	NN	Number=Sing	3	obj	_	start_char=87|end_char=91
+6	of	of	ADP	IN	_	8	case	_	start_char=92|end_char=94
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=95|end_char=99
+8	post	post	NOUN	NN	Number=Sing	5	nmod	_	start_char=100|end_char=104
+9	.	.	PUNCT	.	_	3	punct	_	start_char=104|end_char=105
+

@@ -1,0 +1,26 @@
+1	Oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	God	God	PROPN	NNP	Number=Sing	0	root	_	start_char=3|end_char=6
+3	.	.	PUNCT	.	_	2	punct	_	start_char=6|end_char=7
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=8|end_char=11
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	start_char=12|end_char=15
+3	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=20
+4	to	to	PART	TO	_	5	mark	_	start_char=21|end_char=23
+5	see	see	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=24|end_char=27
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=28|end_char=29
+7	different	different	ADJ	JJ	Degree=Pos	8	amod	_	start_char=30|end_char=39
+8	gyn	gyn	NOUN	NN	Number=Sing	5	obj	_	start_char=40|end_char=43
+9	if	if	SCONJ	IN	_	12	mark	_	start_char=44|end_char=46
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=47|end_char=51
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=51|end_char=54
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=55|end_char=63
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=64|end_char=67
+14	uninterested	uninterested	ADJ	JJ	Degree=Pos	12	conj	_	start_char=68|end_char=80
+15	in	in	SCONJ	IN	_	16	mark	_	start_char=81|end_char=83
+16	helping	help	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=84|end_char=91
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	16	obj	_	start_char=92|end_char=95
+18	with	with	ADP	IN	_	20	case	_	start_char=96|end_char=100
+19	these	this	DET	DT	Number=Plur|PronType=Dem	20	det	_	start_char=101|end_char=106
+20	tests	test	NOUN	NNS	Number=Plur	16	obl	_	start_char=107|end_char=112
+21	.	.	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+

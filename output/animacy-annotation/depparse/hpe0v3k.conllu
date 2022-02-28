@@ -1,0 +1,22 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	really	really	ADV	RB	_	3	advmod	_	start_char=4|end_char=10
+3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=16|end_char=19
+5	last	last	ADJ	JJ	Degree=Pos	6	amod	_	start_char=20|end_char=24
+6	word	word	NOUN	NN	Number=Sing	3	obj	_	start_char=25|end_char=29
+7	to	to	PART	TO	_	8	mark	_	start_char=30|end_char=32
+8	feel	feel	VERB	VB	VerbForm=Inf	6	acl	_	start_char=33|end_char=37
+9	validated	validate	VERB	VBN	Tense=Past|VerbForm=Part	8	xcomp	_	start_char=38|end_char=47
+10	or	or	CCONJ	CC	_	13	cc	_	start_char=48|end_char=50
+11	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=51|end_char=53
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=54|end_char=57
+13	find	find	VERB	VB	VerbForm=Inf	3	conj	_	start_char=58|end_char=62
+14	pleasure	pleasure	NOUN	NN	Number=Sing	13	obj	_	start_char=63|end_char=71
+15	in	in	SCONJ	IN	_	18	mark	_	start_char=72|end_char=74
+16	being	be	AUX	VBG	VerbForm=Ger	18	cop	_	start_char=75|end_char=80
+17	both	both	CCONJ	CC	_	18	cc:preconj	_	start_char=81|end_char=85
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=86|end_char=94
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=95|end_char=98
+20	obnoxious	obnoxious	ADJ	JJ	Degree=Pos	18	conj	_	start_char=99|end_char=108
+21	?	?	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+

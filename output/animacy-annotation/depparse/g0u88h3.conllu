@@ -1,0 +1,36 @@
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	publicly	publicly	ADV	RB	_	4	advmod	_	start_char=8|end_char=16
+4	degrading	degrade	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=17|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	insulting	insult	VERB	VBG	Tense=Pres|VerbForm=Part	4	conj	_	start_char=31|end_char=40
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=41|end_char=42
+8	person	person	NOUN	NN	Number=Sing	6	obj	_	start_char=43|end_char=49
+9	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=50|end_char=53
+10	merely	merely	ADV	RB	_	11	advmod	_	start_char=54|end_char=60
+11	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=61|end_char=67
+12	to	to	PART	TO	_	13	mark	_	start_char=68|end_char=70
+13	put	put	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=71|end_char=74
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=75|end_char=80
+15	mask	mask	NOUN	NN	Number=Sing	13	obj	_	start_char=81|end_char=85
+16	on	on	ADP	IN	_	18	case	_	start_char=86|end_char=88
+17	"	"	PUNCT	``	_	18	punct	_	start_char=89|end_char=90
+18	refreshing	refresh	ADJ	JJ	Degree=Pos	13	obl	_	start_char=90|end_char=100
+19	"	"	PUNCT	''	_	18	punct	_	start_char=100|end_char=101
+
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=103|end_char=108
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=109|end_char=112
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=113|end_char=119
+4	stop	stop	VERB	VB	VerbForm=Inf	0	root	_	start_char=120|end_char=124
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=125|end_char=130
+6	so	so	ADV	RB	_	7	advmod	_	start_char=131|end_char=133
+7	hateful	hateful	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=134|end_char=141
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=142|end_char=145
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=146|end_char=154
+10	,	,	PUNCT	,	_	14	punct	_	start_char=154|end_char=155
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=156|end_char=160
+12	would	would	AUX	MD	VerbForm=Fin	14	aux	_	start_char=161|end_char=166
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=167|end_char=169
+14	refreshing	refresh	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=170|end_char=180
+15	.	.	PUNCT	.	_	4	punct	_	start_char=180|end_char=181
+

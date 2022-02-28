@@ -1,0 +1,46 @@
+1	Lmao	lmao	INTJ	UH	_	6	discourse	_	start_char=0|end_char=4
+2	with	with	ADP	IN	_	4	case	_	start_char=5|end_char=9
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=10|end_char=13
+4	guns	gun	NOUN	NNS	Number=Plur	6	obl	_	start_char=14|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	nsubj	_	start_char=19|end_char=22
+6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=23|end_char=27
+7	to	to	PART	TO	_	8	mark	_	start_char=28|end_char=30
+8	ban	ban	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=31|end_char=34
+9	?	?	PUNCT	.	_	6	punct	_	start_char=34|end_char=35
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=36|end_char=41
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=42|end_char=48
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=49|end_char=51
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=51|end_char=54
+5	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=55|end_char=59
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=60|end_char=61
+7	fucking	fucking	ADJ	JJ	Degree=Pos	9	amod	_	start_char=62|end_char=69
+8	civil	civil	ADJ	JJ	Degree=Pos	9	amod	_	start_char=70|end_char=75
+9	war	war	NOUN	NN	Number=Sing	5	obj	_	start_char=76|end_char=79
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=80|end_char=84
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=85|end_char=88
+12	so	so	ADV	RB	_	13	advmod	_	start_char=89|end_char=91
+13	privleged	privleged	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=92|end_char=101
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=102|end_char=105
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=106|end_char=114
+16	that	that	SCONJ	IN	_	20	mark	_	start_char=115|end_char=119
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj:pass	_	start_char=120|end_char=124
+18	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	20	aux:pass	_	start_char=125|end_char=128
+19	n’t	not	PART	RB	Polarity=Neg	20	advmod	_	start_char=128|end_char=131
+20	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	ccomp	_	start_char=132|end_char=140
+21	for	for	ADP	IN	_	23	case	_	start_char=141|end_char=144
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=145|end_char=148
+23	effects	effect	NOUN	NNS	Number=Plur	20	obl	_	start_char=149|end_char=156
+24	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	start_char=157|end_char=158
+25	civil	civil	ADJ	JJ	Degree=Pos	26	amod	_	start_char=159|end_char=164
+26	war	war	NOUN	NN	Number=Sing	27	nsubj	_	start_char=165|end_char=168
+27	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	start_char=169|end_char=172
+28	on	on	ADP	IN	_	30	case	_	start_char=173|end_char=175
+29	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	start_char=176|end_char=177
+30	society	society	NOUN	NN	Number=Sing	27	obl	_	start_char=178|end_char=185
+31	.	.	PUNCT	.	_	5	punct	_	start_char=186|end_char=187
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=188|end_char=190
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=190|end_char=192
+3	horrible	horrible	ADJ	JJ	Degree=Pos	0	root	_	start_char=193|end_char=201
+

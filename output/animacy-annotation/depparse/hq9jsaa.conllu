@@ -1,0 +1,22 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	Pakistani	Pakistani	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=13
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=14|end_char=16
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=17|end_char=19
+6	n't	not	PART	RB	_	7	advmod	_	start_char=19|end_char=22
+7	have	have	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=23|end_char=27
+8	many	many	ADJ	JJ	Degree=Pos	9	amod	_	start_char=28|end_char=32
+9	similarities	similarity	NOUN	NNS	Number=Plur	7	obj	_	start_char=33|end_char=45
+10	with	with	ADP	IN	_	13	case	_	start_char=46|end_char=50
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=51|end_char=54
+12	Middle	Middle	ADJ	NNP	Degree=Pos	13	amod	_	start_char=55|end_char=61
+13	East	East	PROPN	NNP	Number=Sing	9	nmod	_	start_char=62|end_char=66
+14	,	,	PUNCT	,	_	3	punct	_	start_char=66|end_char=67
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=68|end_char=71
+16	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=71|end_char=74
+17	just	just	ADV	RB	_	18	advmod	_	start_char=75|end_char=79
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=80|end_char=88
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=89|end_char=92
+20	stubborn	stubborn	ADJ	JJ	Degree=Pos	18	conj	_	start_char=93|end_char=101
+21	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+

@@ -1,0 +1,21 @@
+1	Republican	Republican	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=10
+2	leadership	leadership	NOUN	NN	Number=Sing	7	nsubj	_	start_char=11|end_char=21
+3	in	in	ADP	IN	_	4	case	_	start_char=22|end_char=24
+4	Texas	Texas	PROPN	NNP	Number=Sing	2	nmod	_	start_char=25|end_char=30
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=31|end_char=34
+6	so	so	ADV	RB	_	7	advmod	_	start_char=35|end_char=37
+7	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=38|end_char=46
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=59
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=60|end_char=64
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=65|end_char=69
+12	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=70|end_char=78
+13	to	to	PART	TO	_	14	mark	_	start_char=79|end_char=81
+14	say	say	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=82|end_char=85
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=86|end_char=89
+16	quiet	quiet	ADJ	JJ	Degree=Pos	17	amod	_	start_char=90|end_char=95
+17	part	part	NOUN	NN	Number=Sing	14	obj	_	start_char=96|end_char=100
+18	out	out	ADP	RP	_	14	compound:prt	_	start_char=101|end_char=104
+19	loud	loud	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=105|end_char=109
+20	.	.	PUNCT	.	_	7	punct	_	start_char=109|end_char=110
+

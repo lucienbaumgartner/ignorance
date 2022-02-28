@@ -1,0 +1,19 @@
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=0|end_char=1
+2	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=1|end_char=3
+3	.	.	PUNCT	.	_	2	punct	_	start_char=3|end_char=4
+4	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=4|end_char=5
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=5|end_char=6
+2	https://m.imgur.com/8kP9j4A?r)	https://m.imgur.com/8kp9j4a?r)	X	ADD	_	0	root	_	start_char=6|end_char=36
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=37|end_char=40
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=41|end_char=44
+3	just	just	ADV	RB	_	4	advmod	_	start_char=45|end_char=49
+4	incompetent	incompetent	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=61
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=62|end_char=65
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=66|end_char=74
+7	of	of	ADP	IN	_	9	case	_	start_char=75|end_char=77
+8	economic	economic	ADJ	JJ	Degree=Pos	9	amod	_	start_char=78|end_char=86
+9	realities	reality	NOUN	NNS	Number=Plur	6	obl	_	start_char=87|end_char=96
+10	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+

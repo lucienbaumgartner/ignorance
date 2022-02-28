@@ -1,0 +1,18 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=2|end_char=5
+3	asleep	asleep	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=12
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=13|end_char=16
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=17|end_char=24
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=25|end_char=29
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=30|end_char=33
+8	spider	spider	NOUN	NN	Number=Sing	9	nsubj	_	start_char=34|end_char=40
+9	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	ccomp	_	start_char=41|end_char=47
+10	to	to	PART	TO	_	11	mark	_	start_char=48|end_char=50
+11	get	get	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=51|end_char=54
+12	cozy	cozy	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=55|end_char=59
+13	under	under	ADP	IN	_	15	case	_	start_char=60|end_char=65
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=66|end_char=69
+15	covers	cover	NOUN	NNS	Number=Plur	12	obl	_	start_char=70|end_char=76
+16	too	too	ADV	RB	_	11	advmod	_	start_char=77|end_char=80
+17	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+

@@ -1,0 +1,43 @@
+1	Awesome	awesome	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj:pass	_	start_char=9|end_char=13
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=14|end_char=20
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=21|end_char=23
+4	pinned	pinn	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=24|end_char=30
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=31|end_char=34
+6	posted	post	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=35|end_char=41
+7	to	to	ADP	IN	_	13	case	_	start_char=42|end_char=44
+8	all	all	DET	PDT	_	13	det:predet	_	start_char=45|end_char=48
+9	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=49|end_char=52
+10	100	100	NUM	CD	NumType=Card	13	nummod	_	start_char=53|end_char=56
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=57|end_char=59
+12	so	so	ADV	RB	_	10	conj	_	start_char=60|end_char=62
+13	people	people	NOUN	NNS	Number=Plur	6	obl	_	start_char=63|end_char=69
+14	that	that	PRON	WDT	PronType=Rel	15	nsubj	_	start_char=70|end_char=74
+15	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=75|end_char=78
+16	these	this	DET	DT	Number=Plur|PronType=Dem	17	det	_	start_char=79|end_char=84
+17	things	thing	NOUN	NNS	Number=Plur	15	obj	_	start_char=85|end_char=91
+18	daily	daily	ADV	RB	_	15	advmod	_	start_char=92|end_char=97
+19	.	.	PUNCT	.	_	4	punct	_	start_char=97|end_char=98
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=101|end_char=102
+2	sort	sort	NOUN	NN	Number=Sing	0	root	_	start_char=102|end_char=106
+3	by	by	ADP	IN	_	4	case	_	start_char=107|end_char=109
+4	new	new	ADJ	JJ	Degree=Pos	2	nmod	_	start_char=110|end_char=113
+5	to	to	PART	TO	_	6	mark	_	start_char=114|end_char=116
+6	see	see	VERB	VB	VerbForm=Inf	2	acl	_	start_char=117|end_char=120
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=121|end_char=124
+8	helpless	helpless	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=125|end_char=133
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=134|end_char=137
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=138|end_char=145
+11	of	of	ADP	IN	_	13	case	_	start_char=146|end_char=148
+12	search	search	NOUN	NN	Number=Sing	13	compound	_	start_char=149|end_char=155
+13	people	people	NOUN	NNS	Number=Plur	10	obl	_	start_char=156|end_char=162
+14	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=163|end_char=166
+15	)	)	PUNCT	-RRB-	_	2	punct	_	start_char=166|end_char=167
+
+1	coffee	coffee	NOUN	NN	Number=Sing	2	nsubj	_	start_char=172|end_char=178
+2	bought	buy	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=179|end_char=185
+3	.	.	PUNCT	.	_	2	punct	_	start_char=185|end_char=186
+

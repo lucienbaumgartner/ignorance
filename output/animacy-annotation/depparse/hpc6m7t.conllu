@@ -1,0 +1,24 @@
+1	Idaho	Idaho	PROPN	NNP	Number=Sing	3	nmod:poss	_	start_char=0|end_char=5
+2	's	's	PART	POS	_	1	case	_	start_char=5|end_char=7
+3	lawmakers	lawmaker	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=8|end_char=17
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=18|end_char=21
+5	heavily	heavily	ADV	RB	_	6	advmod	_	start_char=22|end_char=29
+6	invested	invest	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=30|end_char=38
+7	in	in	SCONJ	IN	_	8	mark	_	start_char=39|end_char=41
+8	keeping	keep	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=42|end_char=49
+9	Idahoans	Idahoan	PROPN	NNP	Number=Sing	8	obj	_	start_char=50|end_char=58
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=59|end_char=67
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=68|end_char=71
+12	angry	angry	ADJ	JJ	Degree=Pos	10	conj	_	start_char=72|end_char=77
+13	.	.	PUNCT	.	_	6	punct	_	start_char=77|end_char=78
+
+1	Truth	Truth	NOUN	NN	Number=Sing	3	nsubj	_	start_char=79|end_char=84
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=85|end_char=87
+3	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	0	root	_	start_char=88|end_char=98
+4	,	,	PUNCT	,	_	3	punct	_	start_char=98|end_char=99
+5	as	as	SCONJ	IN	_	8	mark	_	start_char=100|end_char=102
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=103|end_char=105
+7	public	public	ADJ	JJ	Degree=Pos	8	amod	_	start_char=106|end_char=112
+8	safety	safety	NOUN	NN	Number=Sing	3	advcl	_	start_char=113|end_char=119
+9	.	.	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

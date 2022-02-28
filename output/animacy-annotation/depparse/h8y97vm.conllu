@@ -1,0 +1,43 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	parent	parent	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=10
+3	one	one	NOUN	NN	Number=Sing	7	nsubj	_	start_char=11|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=15|end_char=17
+5	exactly	exactly	ADV	RB	_	7	advmod	_	start_char=18|end_char=25
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=26|end_char=28
+7	experience	experience	NOUN	NN	Number=Sing	0	root	_	start_char=29|end_char=39
+8	.	.	PUNCT	.	_	7	punct	_	start_char=39|end_char=40
+
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=41|end_char=45
+2	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=46|end_char=52
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=53|end_char=55
+4	to	to	PART	TO	_	5	mark	_	start_char=56|end_char=58
+5	remain	remain	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=59|end_char=65
+6	weak	weak	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=66|end_char=70
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=71|end_char=74
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=75|end_char=83
+9	of	of	ADP	IN	_	11	case	_	start_char=84|end_char=86
+10	better	good	ADJ	JJR	Degree=Cmp	11	amod	_	start_char=87|end_char=93
+11	things	thing	NOUN	NNS	Number=Plur	8	obl	_	start_char=94|end_char=100
+12	so	so	ADV	RB	_	15	advmod	_	start_char=101|end_char=103
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=104|end_char=105
+14	would	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=106|end_char=111
+15	have	have	VERB	VB	VerbForm=Inf	2	conj	_	start_char=112|end_char=116
+16	to	to	PART	TO	_	17	mark	_	start_char=117|end_char=119
+17	rely	rely	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=120|end_char=124
+18	on	on	ADP	IN	_	19	case	_	start_char=125|end_char=127
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obl	_	start_char=128|end_char=132
+20	and	and	CCONJ	CC	_	24	cc	_	start_char=133|end_char=136
+21	eventually	eventually	ADV	RB	_	24	advmod	_	start_char=137|end_char=147
+22	be	be	AUX	VB	VerbForm=Inf	24	cop	_	start_char=148|end_char=150
+23	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	_	start_char=151|end_char=156
+24	caregiver	caregiver	NOUN	NN	Number=Sing	17	conj	_	start_char=157|end_char=166
+25	out	out	ADP	IN	_	27	case	_	start_char=167|end_char=170
+26	of	of	ADP	IN	_	27	case	_	start_char=171|end_char=173
+27	guilt	guilt	NOUN	NN	Number=Sing	24	nmod	_	start_char=174|end_char=179
+28	.	.	PUNCT	.	_	2	punct	_	start_char=179|end_char=180
+
+1	Yeah	yeah	INTJ	UH	_	0	root	_	start_char=181|end_char=185
+2	,	,	PUNCT	,	_	1	punct	_	start_char=185|end_char=186
+3	no	no	INTJ	UH	Polarity=Neg	1	discourse	_	start_char=187|end_char=189
+4	.	.	PUNCT	.	_	1	punct	_	start_char=189|end_char=190
+

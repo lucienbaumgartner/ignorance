@@ -1,0 +1,32 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	so	so	ADV	RB	_	4	advmod	_	start_char=4|end_char=6
+4	glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=11
+5	there	there	PRON	EX	_	6	expl	_	start_char=12|end_char=17
+6	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=18|end_char=21
+7	still	still	ADV	RB	_	6	advmod	_	start_char=22|end_char=27
+8	redditors	redditor	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=28|end_char=37
+9	with	with	ADP	IN	_	12	case	_	start_char=38|end_char=42
+10	enough	enough	ADJ	JJ	Degree=Pos	12	amod	_	start_char=43|end_char=49
+11	common	common	ADJ	JJ	Degree=Pos	12	amod	_	start_char=50|end_char=56
+12	sense	sense	NOUN	NN	Number=Sing	8	nmod	_	start_char=57|end_char=62
+13	to	to	PART	TO	_	14	mark	_	start_char=63|end_char=65
+14	notice	notice	VERB	VB	VerbForm=Inf	12	acl	_	start_char=66|end_char=72
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=73|end_char=77
+16	shit	shit	NOUN	NN	Number=Sing	14	obj	_	start_char=78|end_char=82
+17	.	.	PUNCT	.	_	4	punct	_	start_char=82|end_char=83
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=84|end_char=86
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=86|end_char=88
+3	all	all	DET	DT	_	0	root	_	start_char=89|end_char=92
+4	to	to	PART	TO	_	5	mark	_	start_char=93|end_char=95
+5	keep	keep	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=96|end_char=100
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	_	start_char=101|end_char=104
+7	tuned	tune	VERB	VBN	Tense=Past|VerbForm=Part	5	xcomp	_	start_char=105|end_char=110
+8	in	in	ADV	RB	_	7	advmod	_	start_char=111|end_char=113
+9	,	,	PUNCT	,	_	10	punct	_	start_char=113|end_char=114
+10	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=115|end_char=122
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=123|end_char=126
+12	angry	angry	ADJ	JJ	Degree=Pos	10	conj	_	start_char=127|end_char=132
+13	.	.	PUNCT	.	_	3	punct	_	start_char=132|end_char=133
+

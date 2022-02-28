@@ -1,0 +1,19 @@
+1	Children	child	NOUN	NNS	Number=Plur	0	root	_	start_char=0|end_char=8
+2	,	,	PUNCT	,	_	4	punct	_	start_char=8|end_char=9
+3	so	so	ADV	RB	_	4	advmod	_	start_char=10|end_char=12
+4	unknowing	unknowing	ADJ	JJ	Degree=Pos	1	amod	_	start_char=13|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=36|end_char=40
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=41|end_char=45
+9	consider	consider	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=46|end_char=54
+10	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	start_char=55|end_char=65
+11	invincible	invincible	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=66|end_char=76
+12	...	...	PUNCT	,	_	4	punct	_	start_char=76|end_char=79
+13	until	until	SCONJ	IN	_	15	mark	_	start_char=80|end_char=85
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=86|end_char=90
+15	face	face	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=91|end_char=95
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=96|end_char=99
+17	consequences	consequence	NOUN	NNS	Number=Plur	15	obj	_	start_char=100|end_char=112
+18	...	...	PUNCT	.	_	4	punct	_	start_char=112|end_char=115
+

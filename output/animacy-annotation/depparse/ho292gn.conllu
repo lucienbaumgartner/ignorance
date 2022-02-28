@@ -1,0 +1,40 @@
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=4|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=8|end_char=11
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=12|end_char=14
+5	so	so	ADV	RB	_	6	advmod	_	start_char=15|end_char=17
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=38
+9	of	of	ADP	IN	_	11	case	_	start_char=39|end_char=41
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=42|end_char=46
+11	situation	situation	NOUN	NN	Number=Sing	8	obl	_	start_char=47|end_char=56
+12	?	?	PUNCT	.	_	6	punct	_	start_char=56|end_char=57
+
+1	Kinda	kinda	ADV	RB	_	2	advmod	_	start_char=59|end_char=64
+2	impressive	impressive	ADJ	JJ	Degree=Pos	0	root	_	start_char=65|end_char=75
+3	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	Also	also	ADV	RB	_	3	advmod	_	start_char=78|end_char=82
+2	,	,	PUNCT	,	_	3	punct	_	start_char=82|end_char=83
+3	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=84|end_char=87
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=88|end_char=89
+5	therapist	therapist	NOUN	NN	Number=Sing	3	obj	_	start_char=90|end_char=99
+6	for	for	SCONJ	IN	_	7	mark	_	start_char=100|end_char=103
+7	turning	turn	VERB	VBG	VerbForm=Ger	5	acl	_	start_char=104|end_char=111
+8	to	to	ADP	IN	_	10	case	_	start_char=112|end_char=114
+9	suicidal	suicidal	ADJ	JJ	Degree=Pos	10	amod	_	start_char=115|end_char=123
+10	thoughts	thought	NOUN	NNS	Number=Plur	7	obl	_	start_char=124|end_char=132
+11	because	because	ADP	IN	_	13	case	_	start_char=133|end_char=140
+12	of	of	ADP	IN	_	11	fixed	_	start_char=141|end_char=143
+13	stress	stress	NOUN	NN	Number=Sing	7	obl	_	start_char=144|end_char=150
+14	for	for	ADP	IN	_	17	case	_	start_char=151|end_char=154
+15	like	like	INTJ	UH	_	17	discourse	_	start_char=155|end_char=159
+16	one	one	NUM	CD	NumType=Card	17	nummod	_	start_char=160|end_char=163
+17	semester	semester	NOUN	NN	Number=Sing	13	nmod	_	start_char=164|end_char=172
+18	…	…	PUNCT	,	_	22	punct	_	start_char=172|end_char=173
+19	not	not	PART	RB	_	22	advmod	_	start_char=174|end_char=177
+20	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=178|end_char=179
+21	good	good	ADJ	JJ	Degree=Pos	22	amod	_	start_char=180|end_char=184
+22	sign	sign	NOUN	NN	Number=Sing	3	parataxis	_	start_char=185|end_char=189
+

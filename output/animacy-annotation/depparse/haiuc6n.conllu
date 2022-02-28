@@ -1,0 +1,13 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	created	create	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=10
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=11|end_char=15
+4	?	?	PUNCT	.	_	2	punct	_	start_char=15|end_char=16
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=17|end_char=20
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=20|end_char=23
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=30
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=31|end_char=34
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=35|end_char=43
+6	of	of	ADP	IN	_	7	case	_	start_char=44|end_char=46
+7	history	history	NOUN	NN	Number=Sing	5	obl	_	start_char=47|end_char=54
+

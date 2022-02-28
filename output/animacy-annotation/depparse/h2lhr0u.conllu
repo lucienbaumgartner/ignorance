@@ -1,0 +1,27 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	idea	idea	NOUN	NN	Number=Sing	21	nsubj	_	start_char=4|end_char=8
+3	that	that	SCONJ	IN	_	17	mark	_	start_char=9|end_char=13
+4	if	if	SCONJ	IN	_	6	mark	_	start_char=14|end_char=16
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=17|end_char=20
+6	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=21|end_char=25
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=26|end_char=29
+8	government	government	NOUN	NN	Number=Sing	6	iobj	_	start_char=30|end_char=40
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=41|end_char=45
+10	freedom	freedom	NOUN	NN	Number=Sing	6	obj	_	start_char=46|end_char=53
+11	during	during	ADP	IN	_	13	case	_	start_char=54|end_char=60
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=61|end_char=62
+13	crisis	crisis	NOUN	NN	Number=Sing	6	obl	_	start_char=63|end_char=69
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=70|end_char=74
+15	will	will	AUX	MD	VerbForm=Fin	17	aux	_	start_char=75|end_char=79
+16	eventually	eventually	ADV	RB	_	17	advmod	_	start_char=80|end_char=90
+17	get	get	VERB	VB	VerbForm=Inf	2	acl	_	start_char=91|end_char=94
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=95|end_char=97
+19	back	back	ADV	RB	Degree=Pos	17	advmod	_	start_char=98|end_char=102
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=103|end_char=105
+21	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=112
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=113|end_char=116
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=117|end_char=125
+24	of	of	ADP	IN	_	25	case	_	start_char=126|end_char=128
+25	history	history	NOUN	NN	Number=Sing	23	obl	_	start_char=129|end_char=136
+26	.	.	PUNCT	.	_	21	punct	_	start_char=136|end_char=137
+

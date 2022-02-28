@@ -1,0 +1,109 @@
+1	Welp	welp	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	4	punct	_	start_char=4|end_char=5
+3	there	there	PRON	EX	_	4	expl	_	start_char=6|end_char=11
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=14
+5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=17
+6	.	.	PUNCT	.	_	4	punct	_	start_char=17|end_char=18
+
+1	Everybody	everybody	PRON	NN	Number=Sing	8	nsubj	_	start_char=19|end_char=28
+2	that	that	PRON	WDT	PronType=Rel	4	obj	_	start_char=29|end_char=33
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=34|end_char=35
+4	disagree	disagree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=36|end_char=44
+5	with	with	ADP	IN	_	2	case	_	start_char=45|end_char=49
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=50|end_char=52
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=53|end_char=54
+8	fascist	fascist	NOUN	NN	Number=Sing	0	root	_	start_char=55|end_char=62
+9	.	.	PUNCT	.	_	8	punct	_	start_char=62|end_char=63
+
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=64|end_char=67
+2	n't	not	PART	RB	_	3	advmod	_	start_char=67|end_char=70
+3	take	take	VERB	VB	VerbForm=Inf	0	root	_	start_char=71|end_char=75
+4	long	long	ADV	RB	Degree=Pos	3	advmod	_	start_char=76|end_char=80
+5	at	at	ADP	IN	_	6	case	_	start_char=81|end_char=83
+6	all	all	DET	DT	_	3	obl	_	start_char=84|end_char=87
+7	.	.	PUNCT	.	_	3	punct	_	start_char=87|end_char=88
+
+1	To	to	PART	TO	_	2	mark	_	start_char=89|end_char=91
+2	hear	hear	VERB	VB	VerbForm=Inf	0	root	_	start_char=92|end_char=96
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=97|end_char=100
+4	diatribe	diatribe	NOUN	NN	Number=Sing	2	obj	_	start_char=101|end_char=109
+5	of	of	ADP	IN	_	7	case	_	start_char=110|end_char=112
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=113|end_char=116
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=117|end_char=125
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=126|end_char=129
+9	ill	ill	ADJ	JJ	Degree=Pos	7	conj	_	start_char=130|end_char=133
+10	of	of	ADP	IN	_	11	case	_	start_char=134|end_char=136
+11	mind	mind	NOUN	NN	Number=Sing	7	obl	_	start_char=137|end_char=141
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=142|end_char=145
+13	body	body	NOUN	NN	Number=Sing	11	conj	_	start_char=146|end_char=150
+14	.	.	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+
+1	Congratulations	congratulation	NOUN	NNS	Number=Plur	0	root	_	start_char=152|end_char=167
+2	,	,	PUNCT	,	_	1	punct	_	start_char=167|end_char=168
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=169|end_char=172
+4	garden	garden	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=173|end_char=179
+5	variety	variety	NOUN	NN	Number=Sing	8	compound	_	start_char=180|end_char=187
+6	silver	silver	ADJ	JJ	Degree=Pos	7	amod	_	start_char=188|end_char=194
+7	spoon	spoon	NOUN	NN	Number=Sing	8	compound	_	start_char=195|end_char=200
+8	proletariat	proletariat	NOUN	NN	Number=Sing	4	obj	_	start_char=201|end_char=212
+9	.	.	PUNCT	.	_	1	punct	_	start_char=212|end_char=213
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=214|end_char=216
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=217|end_char=221
+3	nothing	nothing	PRON	NN	Number=Sing	2	obj	_	start_char=222|end_char=229
+4	to	to	PART	TO	_	5	mark	_	start_char=230|end_char=232
+5	discuss	discuss	VERB	VB	VerbForm=Inf	3	acl	_	start_char=233|end_char=240
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=241|end_char=243
+7	debate	debate	NOUN	NN	Number=Sing	5	conj	_	start_char=244|end_char=250
+8	.	.	PUNCT	.	_	2	punct	_	start_char=250|end_char=251
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=252|end_char=255
+2	redundancy	redundancy	NOUN	NN	Number=Sing	10	nsubj	_	start_char=256|end_char=266
+3	of	of	ADP	IN	_	6	case	_	start_char=267|end_char=269
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=270|end_char=274
+5	"	"	PUNCT	``	_	6	punct	_	start_char=275|end_char=276
+6	movement	movement	NOUN	NN	Number=Sing	2	nmod	_	start_char=276|end_char=284
+7	"	"	PUNCT	''	_	6	punct	_	start_char=285|end_char=286
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=287|end_char=289
+9	laughably	laughably	ADV	RB	_	10	advmod	_	start_char=290|end_char=299
+10	predictable	predictable	ADJ	JJ	Degree=Pos	0	root	_	start_char=300|end_char=311
+11	.	.	PUNCT	.	_	10	punct	_	start_char=311|end_char=312
+
+1	Garbage	garbage	NOUN	NN	Number=Sing	2	compound	_	start_char=313|end_char=320
+2	humans	human	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=321|end_char=327
+3	gonna	go	AUX	MD	VerbForm=Fin	6	aux	_	start_char=328|end_char=333
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=334|end_char=336
+5	garbage	garbage	NOUN	NN	Number=Sing	6	compound	_	start_char=337|end_char=344
+6	humans	human	NOUN	NNS	Number=Plur	0	root	_	start_char=345|end_char=351
+7	.	.	PUNCT	.	_	6	punct	_	start_char=351|end_char=352
+
+1	And	and	CCONJ	CC	_	12	cc	_	start_char=353|end_char=356
+2	at	at	ADP	IN	_	4	case	_	start_char=357|end_char=359
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=360|end_char=363
+4	end	end	NOUN	NN	Number=Sing	12	obl	_	start_char=364|end_char=367
+5	of	of	ADP	IN	_	7	case	_	start_char=368|end_char=370
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=371|end_char=374
+7	day	day	NOUN	NN	Number=Sing	4	nmod	_	start_char=375|end_char=378
+8	,	,	PUNCT	,	_	12	punct	_	start_char=378|end_char=379
+9	all	all	DET	DT	_	12	nsubj	_	start_char=380|end_char=383
+10	of	of	ADP	IN	_	11	case	_	start_char=384|end_char=386
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	nmod	_	start_char=387|end_char=390
+12	end	end	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=391|end_char=394
+13	up	up	ADP	RP	_	12	compound:prt	_	start_char=395|end_char=397
+14	like	like	ADP	IN	_	16	case	_	start_char=398|end_char=402
+15	Cider	Cider	PROPN	NNP	Number=Sing	16	compound	_	start_char=403|end_char=408
+16	Riot	Riot	PROPN	NNP	Number=Sing	12	obl	_	start_char=409|end_char=413
+17	.	.	PUNCT	.	_	12	punct	_	start_char=413|end_char=414
+
+1	Broke	break	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=415|end_char=420
+2	,	,	PUNCT	,	_	3	punct	_	start_char=420|end_char=421
+3	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=422|end_char=432
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=433|end_char=436
+5	forgotten	forget	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	start_char=437|end_char=446
+6	like	like	ADP	IN	_	10	case	_	start_char=447|end_char=451
+7	last	last	ADJ	JJ	Degree=Pos	8	amod	_	start_char=452|end_char=456
+8	week	week	NOUN	NN	Number=Sing	10	nmod:poss	_	start_char=457|end_char=461
+9	's	's	PART	POS	_	8	case	_	start_char=461|end_char=463
+10	trash	trash	NOUN	NN	Number=Sing	5	obl	_	start_char=464|end_char=469
+11	...	...	PUNCT	.	_	1	punct	_	start_char=469|end_char=472
+

@@ -1,0 +1,28 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=4
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=5|end_char=8
+3	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=9|end_char=11
+4	extremely	extremely	ADV	RB	_	5	advmod	_	start_char=12|end_char=21
+5	hard	hard	ADJ	JJ	Degree=Pos	6	amod	_	start_char=22|end_char=26
+6	hit	hit	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=30
+7	on	on	ADP	IN	_	12	case	_	start_char=31|end_char=33
+8	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=34|end_char=36
+9	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=37|end_char=44
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=45|end_char=48
+11	undefended	undefended	ADJ	JJ	Degree=Pos	9	conj	_	start_char=49|end_char=59
+12	receiver	receiver	NOUN	NN	Number=Sing	6	nmod	_	start_char=60|end_char=68
+13	.	.	PUNCT	.	_	6	punct	_	start_char=68|end_char=69
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=70|end_char=72
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=73|end_char=76
+3	dirty	dirty	ADJ	JJ	Degree=Pos	0	root	_	start_char=77|end_char=82
+4	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=84|end_char=88
+2	caught	catch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=89|end_char=95
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=96|end_char=99
+4	penalty	penalty	NOUN	NN	Number=Sing	2	obj	_	start_char=100|end_char=107
+5	for	for	ADP	IN	_	6	case	_	start_char=108|end_char=111
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obl	_	start_char=112|end_char=114
+7	too	too	ADV	RB	_	2	advmod	_	start_char=115|end_char=118
+8	.	.	PUNCT	.	_	2	punct	_	start_char=118|end_char=119
+

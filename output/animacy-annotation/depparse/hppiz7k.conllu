@@ -1,0 +1,21 @@
+1	Trump	Trump	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=5
+2	states	state	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=6|end_char=12
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=13|end_char=15
+4	n't	not	PART	RB	_	5	advmod	_	start_char=15|end_char=18
+5	afford	afford	VERB	VB	VerbForm=Inf	0	root	_	start_char=19|end_char=25
+6	to	to	PART	TO	_	7	mark	_	start_char=26|end_char=28
+7	travel	travel	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=29|end_char=35
+8	,	,	PUNCT	,	_	11	punct	_	start_char=35|end_char=36
+9	or	or	CCONJ	CC	_	11	cc	_	start_char=37|end_char=39
+10	to	to	ADP	IN	_	11	case	_	start_char=40|end_char=42
+11	dumb	dumb	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=47
+12	to	to	PART	TO	_	13	mark	_	start_char=48|end_char=50
+13	travel	travel	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=51|end_char=57
+14	or	or	CCONJ	CC	_	16	cc	_	start_char=58|end_char=60
+15	to	to	ADP	IN	_	16	case	_	start_char=61|end_char=63
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=64|end_char=72
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=73|end_char=76
+18	dumb	dumb	ADJ	JJ	Degree=Pos	16	conj	_	start_char=77|end_char=81
+19	to	to	PART	TO	_	20	mark	_	start_char=82|end_char=84
+20	travel	travel	VERB	VB	VerbForm=Inf	18	advcl	_	start_char=85|end_char=91
+

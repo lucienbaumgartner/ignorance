@@ -1,0 +1,53 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=12
+4	!	!	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=14|end_char=17
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=18|end_char=19
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=20|end_char=24
+4	shit	shit	NOUN	NN	Number=Sing	3	obj	_	start_char=25|end_char=29
+5	self	self	NOUN	NN	Number=Sing	6	compound	_	start_char=30|end_char=34
+6	esteem	esteem	NOUN	NN	Number=Sing	3	obj	_	start_char=35|end_char=41
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=42|end_char=45
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=46|end_char=48
+9	always	always	ADV	RB	_	10	advmod	_	start_char=49|end_char=55
+10	sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=56|end_char=61
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	start_char=62|end_char=64
+12	back	back	ADV	RB	_	10	advmod	_	start_char=65|end_char=69
+13	in	in	ADV	RB	_	10	advmod	_	start_char=70|end_char=72
+14	so	so	ADV	RB	_	15	advmod	_	start_char=73|end_char=75
+15	easily	easily	ADV	RB	_	10	advmod	_	start_char=76|end_char=82
+16	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	Hes	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=84|end_char=87
+2	not	not	PART	RB	_	5	advmod	_	start_char=88|end_char=91
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=92|end_char=93
+4	bad	bad	ADJ	JJ	Degree=Pos	5	amod	_	start_char=94|end_char=97
+5	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=98|end_char=104
+6	,	,	PUNCT	,	_	17	punct	_	start_char=104|end_char=105
+7	but	but	CCONJ	CC	_	17	cc	_	start_char=106|end_char=109
+8	from	from	ADP	IN	_	10	case	_	start_char=110|end_char=114
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=115|end_char=118
+10	way	way	NOUN	NN	Number=Sing	17	obl	_	start_char=119|end_char=122
+11	hes	he	PRON	PRP	PronType=Prs	12	nsubj	_	start_char=123|end_char=126
+12	raised	raise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=127|end_char=133
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=134|end_char=136
+14	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=137|end_char=140
+15	be	be	AUX	VB	VerbForm=Inf	17	cop	_	start_char=141|end_char=143
+16	offhandedly	offhandedly	ADV	RB	_	17	advmod	_	start_char=144|end_char=155
+17	dismissive	dismissive	ADJ	JJ	Degree=Pos	5	conj	_	start_char=156|end_char=166
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=167|end_char=170
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=171|end_char=179
+20	of	of	ADP	IN	_	22	case	_	start_char=180|end_char=182
+21	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=183|end_char=185
+22	experiences	experience	NOUN	NNS	Number=Plur	19	obl	_	start_char=186|end_char=197
+23	.	.	PUNCT	.	_	5	punct	_	start_char=197|end_char=198
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=199|end_char=201
+2	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=202|end_char=207
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=208|end_char=214
+4	lonely	lonely	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=215|end_char=221
+5	sometimes	sometimes	ADV	RB	_	2	advmod	_	start_char=222|end_char=231
+6	.	.	PUNCT	.	_	2	punct	_	start_char=231|end_char=232
+

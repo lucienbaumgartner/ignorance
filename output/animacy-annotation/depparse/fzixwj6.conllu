@@ -1,0 +1,25 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	wo	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=6|end_char=9
+4	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=14
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=15|end_char=17
+6	because	because	SCONJ	IN	_	9	mark	_	start_char=18|end_char=25
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=26|end_char=29
+8	are	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=30|end_char=33
+9	stubborn	stubborn	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=34|end_char=42
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=43|end_char=46
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=47|end_char=55
+12	.	.	PUNCT	.	_	4	punct	_	start_char=55|end_char=56
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=57|end_char=61
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=62|end_char=66
+3	change	change	VERB	VB	VerbForm=Inf	0	root	_	start_char=67|end_char=73
+4	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=74|end_char=78
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=79|end_char=82
+6	actually	actually	ADV	RB	_	7	advmod	_	start_char=83|end_char=91
+7	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=92|end_char=96
+8	something	something	PRON	NN	Number=Sing	7	obj	_	start_char=97|end_char=106
+9	to	to	PART	TO	_	10	mark	_	start_char=107|end_char=109
+10	lose	lose	VERB	VB	VerbForm=Inf	8	acl	_	start_char=110|end_char=114
+11	.	.	PUNCT	.	_	3	punct	_	start_char=114|end_char=115
+

@@ -1,0 +1,34 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	still	still	ADV	RB	_	4	advmod	_	start_char=7|end_char=12
+4	early	early	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+5	.	.	PUNCT	.	_	4	punct	_	start_char=18|end_char=19
+
+1	98	98	NUM	CD	NumType=Card	2	nummod	_	start_char=20|end_char=22
+2	%	%	SYM	NN	Number=Sing	7	nsubj	_	start_char=22|end_char=23
+3	or	or	CCONJ	CC	_	4	cc	_	start_char=24|end_char=26
+4	so	so	ADV	RB	_	2	conj	_	start_char=27|end_char=29
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=30|end_char=33
+6	still	still	ADV	RB	_	7	advmod	_	start_char=34|end_char=39
+7	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=47
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=48|end_char=51
+9	generally	generally	ADV	RB	_	10	advmod	_	start_char=52|end_char=61
+10	hostile	hostile	ADJ	JJ	Degree=Pos	7	conj	_	start_char=62|end_char=69
+11	to	to	ADP	IN	_	12	case	_	start_char=70|end_char=72
+12	crypto	crypto	NOUN	NN	Number=Sing	10	obl	_	start_char=73|end_char=79
+13	.	.	PUNCT	.	_	7	punct	_	start_char=79|end_char=80
+
+1	Probably	probably	ADV	RB	_	3	advmod	_	start_char=81|end_char=89
+2	99	99	NUM	CD	NumType=Card	3	nummod	_	start_char=90|end_char=92
+3	%+	%+	NUM	CD	NumType=Card	0	root	_	start_char=92|end_char=94
+4	if	if	SCONJ	IN	_	8	mark	_	start_char=95|end_char=97
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=98|end_char=100
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=101|end_char=104
+7	only	only	ADV	RB	_	8	advmod	_	start_char=105|end_char=109
+8	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	3	advcl	_	start_char=110|end_char=117
+9	about	about	ADP	IN	_	10	case	_	start_char=118|end_char=123
+10	Ethereum	Ethereum	PROPN	NNP	Number=Sing	8	obl	_	start_char=124|end_char=132
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=133|end_char=136
+12	Defi	Defi	PROPN	NNP	Number=Sing	10	conj	_	start_char=137|end_char=141
+13	.	.	PUNCT	.	_	3	punct	_	start_char=141|end_char=142
+

@@ -1,0 +1,33 @@
+1	Telling	tell	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=7
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=8|end_char=11
+3	to	to	PART	TO	_	4	mark	_	start_char=12|end_char=14
+4	shut	shut	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=15|end_char=19
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=20|end_char=22
+6	???	???	PUNCT	.	_	1	punct	_	start_char=22|end_char=25
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=26|end_char=28
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=29|end_char=33
+3	ok	ok	ADJ	JJ	Degree=Pos	0	root	_	start_char=34|end_char=36
+4	with	with	ADP	IN	_	5	case	_	start_char=37|end_char=41
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=42|end_char=45
+6	?	?	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	Periods	period	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=47|end_char=54
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=55|end_char=58
+3	normal	normal	ADJ	JJ	Degree=Pos	0	root	_	start_char=59|end_char=65
+4	.	.	PUNCT	.	_	3	punct	_	start_char=65|end_char=66
+
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=67|end_char=70
+2	behavior	behavior	NOUN	NN	Number=Sing	5	nsubj	_	start_char=71|end_char=79
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=80|end_char=82
+4	not	not	PART	RB	_	5	advmod	_	start_char=83|end_char=86
+5	normal	normal	ADJ	JJ	Degree=Pos	0	root	_	start_char=87|end_char=93
+6	.	.	PUNCT	.	_	5	punct	_	start_char=93|end_char=94
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=95|end_char=97
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=97|end_char=99
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=108
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=109|end_char=112
+5	unkind	unkind	ADJ	JJ	Degree=Pos	3	conj	_	start_char=113|end_char=119
+6	.	.	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

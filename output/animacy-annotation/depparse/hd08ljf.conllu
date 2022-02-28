@@ -1,0 +1,10 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=7|end_char=16
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	of	of	ADP	IN	_	8	case	_	start_char=36|end_char=38
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=39|end_char=42
+9	.	.	PUNCT	.	_	4	punct	_	start_char=42|end_char=43
+

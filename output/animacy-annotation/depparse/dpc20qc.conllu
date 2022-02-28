@@ -1,0 +1,44 @@
+1	BIDOOF	BIDOOF	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=6
+2	HAS	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=10
+3	THREE	three	NUM	CD	NumType=Card	5	nummod	_	start_char=11|end_char=16
+4	GREAT	great	ADJ	JJ	Degree=Pos	5	amod	_	start_char=17|end_char=22
+5	ABILITIES	abilitie	NOUN	NNS	Number=Plur	2	obj	_	start_char=23|end_char=32
+6	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+
+1	UNAWARE	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=43
+2	AND	and	CCONJ	CC	_	3	cc	_	start_char=44|end_char=47
+3	SIMPLE	simple	ADJ	JJ	Degree=Pos	1	conj	_	start_char=48|end_char=54
+4	AND	and	CCONJ	CC	_	6	cc	_	start_char=55|end_char=58
+5	FRIGGIN	friggin	ADJ	JJ	Degree=Pos	6	amod	_	start_char=59|end_char=66
+6	MOODY	MOODY	PROPN	NNP	Number=Sing	1	conj	_	start_char=67|end_char=72
+7	.	.	PUNCT	.	_	1	punct	_	start_char=72|end_char=73
+
+1	PEOPLE	people	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=76|end_char=82
+2	KEEP	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=83|end_char=87
+3	ON	on	SCONJ	IN	_	4	mark	_	start_char=88|end_char=90
+4	UNDERESTIMATING	under	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=91|end_char=106
+5	BIDOOF	bidoof	NOUN	NN	Number=Sing	4	obj	_	start_char=107|end_char=113
+6	BUT	but	CCONJ	CC	_	15	cc	_	start_char=114|end_char=117
+7	IT'S	itss	PRON	PRP$	_	8	nmod:poss	_	start_char=118|end_char=122
+8	ONE	one	NUM	CD	NumType=Card	5	conj	_	start_char=123|end_char=126
+9	OF	of	ADP	IN	_	11	case	_	start_char=127|end_char=129
+10	THESE	these	DET	DT	Number=Plur|PronType=Dem	11	det	_	start_char=130|end_char=135
+11	POKEMON	pokemon	NOUN	NNS	Number=Plur	8	nmod	_	start_char=136|end_char=143
+12	THAT	that	PRON	WDT	PronType=Rel	14	nsubj	_	start_char=144|end_char=148
+13	JUST	just	ADV	RB	_	14	advmod	_	start_char=149|end_char=153
+14	DOESN'T	doesn't	VERB	VBG	Tense=Pres|VerbForm=Part	8	acl:relcl	_	start_char=154|end_char=161
+15	HAVE	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=162|end_char=166
+16	A	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=167|end_char=168
+17	BAD	bad	ADJ	JJ	Degree=Pos	18	amod	_	start_char=169|end_char=172
+18	ABILITY	ability	NOUN	NN	Number=Sing	15	obj	_	start_char=173|end_char=180
+19	,	,	PUNCT	,	_	21	punct	_	start_char=180|end_char=181
+20	DESPITE	despite	SCONJ	IN	_	21	mark	_	start_char=182|end_char=189
+21	HAVING	have	VERB	VBG	VerbForm=Ger	15	advcl	_	start_char=190|end_char=196
+22	ACCESS	access	NOUN	NN	Number=Sing	21	obj	_	start_char=197|end_char=203
+23	TO	to	ADP	IN	_	24	case	_	start_char=204|end_char=206
+24	THREE	three	NUM	CD	NumType=Card	22	nmod	_	start_char=207|end_char=212
+25	.	.	PUNCT	.	_	2	punct	_	start_char=212|end_char=213
+
+1	HAIL	HAIL	PROPN	NNP	Number=Sing	2	compound	_	start_char=215|end_char=219
+2	BIDOOF	BIDOOF	PROPN	NNP	Number=Sing	0	root	_	start_char=220|end_char=226
+

@@ -1,0 +1,64 @@
+1	Well	well	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=5|end_char=8
+3	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=8|end_char=11
+4	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=12|end_char=19
+5	stupid	stupid	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=20|end_char=26
+6	.	.	PUNCT	.	_	4	punct	_	start_char=26|end_char=27
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=28|end_char=32
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=33|end_char=35
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	_	start_char=36|end_char=40
+4	,	,	PUNCT	,	_	6	punct	_	start_char=40|end_char=41
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=42|end_char=43
+6	post	post	NOUN	NN	Number=Sing	1	nsubj	_	start_char=44|end_char=48
+7	for	for	ADP	IN	_	8	case	_	start_char=49|end_char=52
+8	help	help	NOUN	NN	Number=Sing	6	nmod	_	start_char=53|end_char=57
+9	,	,	PUNCT	,	_	12	punct	_	start_char=57|end_char=58
+10	or	or	CCONJ	CC	_	12	cc	_	start_char=59|end_char=61
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=62|end_char=63
+12	post	post	NOUN	NN	Number=Sing	6	conj	_	start_char=64|end_char=68
+13	insulting	insult	VERB	VBG	VerbForm=Ger	12	acl	_	start_char=69|end_char=78
+14	men	man	NOUN	NNS	Number=Plur	13	obj	_	start_char=79|end_char=82
+15	for	for	SCONJ	IN	_	17	mark	_	start_char=83|end_char=86
+16	being	be	AUX	VBG	VerbForm=Ger	17	cop	_	start_char=87|end_char=92
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=93|end_char=101
+18	?	?	PUNCT	.	_	1	punct	_	start_char=101|end_char=102
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=104|end_char=107
+2	cant	cant	AUX	MD	VerbForm=Fin	4	aux	_	start_char=108|end_char=112
+3	just	just	ADV	RB	_	4	advmod	_	start_char=113|end_char=117
+4	accuse	accuse	VERB	VB	VerbForm=Inf	0	root	_	start_char=118|end_char=124
+5	everyone	everyone	PRON	NN	Number=Sing	4	obj	_	start_char=125|end_char=133
+6	of	of	SCONJ	IN	_	8	mark	_	start_char=134|end_char=136
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=137|end_char=142
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	acl	_	start_char=143|end_char=151
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=152|end_char=155
+10	privileged	privileged	ADJ	JJ	Degree=Pos	8	conj	_	start_char=156|end_char=166
+11	because	because	SCONJ	IN	_	13	mark	_	start_char=167|end_char=174
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=175|end_char=179
+13	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=180|end_char=185
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=186|end_char=189
+15	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=189|end_char=192
+16	over	over	SCONJ	IN	_	17	mark	_	start_char=193|end_char=197
+17	reacting	react	VERB	VBG	Tense=Pres|VerbForm=Part	13	ccomp	_	start_char=198|end_char=206
+18	.	.	PUNCT	.	_	4	punct	_	start_char=206|end_char=207
+
+1	Because	because	SCONJ	IN	_	5	mark	_	start_char=208|end_char=215
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=216|end_char=219
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=220|end_char=223
+4	over	over	ADV	RB	_	5	advmod	_	start_char=224|end_char=228
+5	reacting	react	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=229|end_char=237
+6	.	.	PUNCT	.	_	5	punct	_	start_char=237|end_char=238
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=239|end_char=241
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=241|end_char=243
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=244|end_char=245
+4	fucking	fucking	ADJ	JJ	Degree=Pos	5	amod	_	start_char=246|end_char=253
+5	van	van	NOUN	NN	Number=Sing	0	root	_	start_char=254|end_char=257
+6	.	.	PUNCT	.	_	5	punct	_	start_char=257|end_char=258
+
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=259|end_char=262
+2	over	over	ADP	IN	_	3	case	_	start_char=263|end_char=267
+3	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	obl	_	start_char=268|end_char=276
+4	.	.	PUNCT	.	_	1	punct	_	start_char=276|end_char=277
+

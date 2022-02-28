@@ -1,0 +1,36 @@
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=0|end_char=9
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=10|end_char=11
+2	learned	learn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=19
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=20|end_char=23
+4	that	that	SCONJ	IN	_	19	mark	_	start_char=24|end_char=28
+5	,	,	PUNCT	,	_	19	punct	_	start_char=28|end_char=29
+6	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=30|end_char=34
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=35|end_char=37
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=38|end_char=41
+9	younger	young	ADJ	JJR	Degree=Cmp	19	advcl	_	start_char=42|end_char=49
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=61
+12	of	of	ADP	IN	_	16	case	_	start_char=62|end_char=64
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=65|end_char=68
+14	abuse	abuse	NOUN	NN	Number=Sing	16	compound	_	start_char=69|end_char=74
+15	side	side	NOUN	NN	Number=Sing	16	compound	_	start_char=75|end_char=79
+16	effects	effect	NOUN	NNS	Number=Plur	11	obl	_	start_char=80|end_char=87
+17	,	,	PUNCT	,	_	9	punct	_	start_char=87|end_char=88
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	start_char=89|end_char=91
+19	attract	attract	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=92|end_char=99
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=100|end_char=103
+21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=104|end_char=105
+22	partner	partner	NOUN	NN	Number=Sing	19	obj	_	start_char=106|end_char=113
+23	that	that	PRON	WDT	PronType=Rel	24	nsubj	_	start_char=114|end_char=118
+24	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	start_char=119|end_char=124
+25	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	24	iobj	_	start_char=125|end_char=127
+26	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	start_char=128|end_char=131
+27	same	same	ADJ	JJ	Degree=Pos	28	amod	_	start_char=132|end_char=136
+28	attention	attention	NOUN	NN	Number=Sing	24	obj	_	start_char=137|end_char=146
+29	as	as	SCONJ	IN	_	32	mark	_	start_char=147|end_char=149
+30	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	31	nmod:poss	_	start_char=150|end_char=153
+31	parents	parent	NOUN	NNS	Number=Plur	32	nsubj	_	start_char=154|end_char=161
+32	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	24	advcl	_	start_char=162|end_char=165
+33	.	.	PUNCT	.	_	2	punct	_	start_char=165|end_char=166
+

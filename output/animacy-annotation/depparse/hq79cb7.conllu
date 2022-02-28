@@ -1,0 +1,22 @@
+1	Considering	consider	VERB	VBG	VerbForm=Ger	16	advcl	_	start_char=0|end_char=11
+2	s4	s4	PROPN	NNP	Number=Sing	3	compound	_	start_char=12|end_char=14
+3	haida	haida	NOUN	NN	Number=Sing	1	obj	_	start_char=15|end_char=20
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=21|end_char=23
+5	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=24|end_char=27
+6	most	most	ADV	RBS	_	7	advmod	_	start_char=28|end_char=32
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=33|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	stupid	stupid	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=52
+10	version	version	NOUN	NN	Number=Sing	16	advcl	_	start_char=53|end_char=60
+11	of	of	ADP	IN	_	12	case	_	start_char=61|end_char=63
+12	haida	haida	NOUN	NN	Number=Sing	10	nmod	_	start_char=64|end_char=69
+13	,	,	PUNCT	,	_	16	punct	_	start_char=69|end_char=70
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=71|end_char=72
+15	'd	would	AUX	MD	VerbForm=Fin	16	aux	_	start_char=72|end_char=74
+16	take	take	VERB	VB	VerbForm=Inf	0	root	_	start_char=75|end_char=79
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=80|end_char=83
+18	latter	latter	ADJ	JJ	Degree=Pos	16	obj	_	start_char=84|end_char=90
+19	,	,	PUNCT	,	_	16	punct	_	start_char=90|end_char=91
+20	please	please	INTJ	UH	_	16	discourse	_	start_char=92|end_char=98
+21	.	.	PUNCT	.	_	16	punct	_	start_char=98|end_char=99
+

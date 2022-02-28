@@ -1,0 +1,43 @@
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=5|end_char=9
+3	country	country	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=17
+4	from	from	SCONJ	IN	_	5	mark	_	start_char=18|end_char=22
+5	doing	do	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=23|end_char=28
+6	shitty	shitty	ADJ	JJ	Degree=Pos	7	amod	_	start_char=29|end_char=35
+7	stuff	stuff	NOUN	NN	Number=Sing	5	obj	_	start_char=36|end_char=41
+8	now	now	ADV	RB	_	5	advmod	_	start_char=42|end_char=45
+9	???	???	PUNCT	.	_	1	punct	_	start_char=45|end_char=48
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=49|end_char=52
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=53|end_char=56
+3	so	so	ADV	RB	_	4	advmod	_	start_char=57|end_char=59
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=60|end_char=68
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=69|end_char=72
+6	lazy	lazy	ADJ	JJ	Degree=Pos	4	conj	_	start_char=73|end_char=77
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=78|end_char=80
+8	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=80|end_char=82
+9	sickening	sickening	ADJ	JJ	Degree=Pos	4	conj	_	start_char=83|end_char=92
+10	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=94|end_char=96
+2	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=97|end_char=101
+3	money	money	NOUN	NN	Number=Sing	2	obj	_	start_char=102|end_char=107
+4	to	to	ADP	IN	_	5	case	_	start_char=108|end_char=110
+5	Israel	Israel	PROPN	NNP	Number=Sing	2	obl	_	start_char=111|end_char=117
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=118|end_char=121
+7	egypt	egypt	PROPN	NNP	Number=Sing	5	conj	_	start_char=122|end_char=127
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=128|end_char=131
+9	saudi	saudi	ADJ	JJ	Degree=Pos	5	conj	_	start_char=132|end_char=137
+10	instead	instead	ADV	RB	_	12	mark	_	start_char=138|end_char=145
+11	of	of	SCONJ	IN	_	10	fixed	_	start_char=146|end_char=148
+12	spending	spend	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=149|end_char=157
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=158|end_char=160
+14	on	on	ADP	IN	_	17	case	_	start_char=161|end_char=163
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=164|end_char=167
+16	own	own	ADJ	JJ	Degree=Pos	17	amod	_	start_char=168|end_char=171
+17	issues	issue	NOUN	NNS	Number=Plur	12	obl	_	start_char=172|end_char=178
+18	like	like	ADP	IN	_	19	case	_	start_char=179|end_char=183
+19	healthcare	healthcare	NOUN	NN	Number=Sing	17	nmod	_	start_char=184|end_char=194
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=195|end_char=198
+21	homelessness	homelessness	NOUN	NN	Number=Sing	19	conj	_	start_char=199|end_char=211
+

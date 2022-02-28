@@ -1,0 +1,33 @@
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+5	someone	someone	PRON	NN	Number=Sing	6	nsubj	_	start_char=13|end_char=20
+6	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=21|end_char=26
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=27|end_char=31
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=32|end_char=36
+9	genital	genital	ADJ	JJ	Degree=Pos	10	amod	_	start_char=37|end_char=44
+10	herpes	herpes	NOUN	NN	Number=Sing	8	obj	_	start_char=45|end_char=51
+11	though	though	ADV	RB	_	8	advmod	_	start_char=52|end_char=58
+12	.	.	PUNCT	.	_	4	punct	_	start_char=58|end_char=59
+
+1	Nope	nope	INTJ	UH	_	12	discourse	_	start_char=61|end_char=65
+2	,	,	PUNCT	,	_	12	punct	_	start_char=65|end_char=66
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=67|end_char=70
+4	majority	majority	NOUN	NN	Number=Sing	12	nsubj	_	start_char=71|end_char=79
+5	of	of	ADP	IN	_	6	case	_	start_char=80|end_char=82
+6	people	people	NOUN	NNS	Number=Plur	4	nmod	_	start_char=83|end_char=89
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=90|end_char=93
+8	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=94|end_char=98
+9	genital	genital	ADJ	JJ	Degree=Pos	10	amod	_	start_char=99|end_char=106
+10	herpes	herpes	NOUN	NNS	Number=Plur	8	obj	_	start_char=107|end_char=113
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=114|end_char=117
+12	asymptomatic	asymptomatic	ADJ	JJ	Degree=Pos	0	root	_	start_char=118|end_char=130
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=131|end_char=134
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=135|end_char=142
+15	that	that	SCONJ	IN	_	17	mark	_	start_char=143|end_char=147
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=148|end_char=152
+17	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=153|end_char=157
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=158|end_char=160
+19	.	.	PUNCT	.	_	12	punct	_	start_char=160|end_char=161
+

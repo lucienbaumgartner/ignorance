@@ -1,0 +1,23 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj:pass	_	start_char=0|end_char=3
+2	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=4|end_char=7
+3	downvoted	downvote	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=8|end_char=17
+4	immediately	immediately	ADV	RB	_	3	advmod	_	start_char=18|end_char=29
+5	....	....	PUNCT	.	_	3	punct	_	start_char=29|end_char=33
+
+1	Reddit	Reddit	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=34|end_char=40
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=41|end_char=43
+3	so	so	ADV	RB	_	4	advmod	_	start_char=44|end_char=46
+4	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=50
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=51|end_char=54
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=55|end_char=63
+7	.	.	PUNCT	.	_	4	punct	_	start_char=63|end_char=64
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=67|end_char=71
+2	guy	guy	NOUN	NN	Number=Sing	6	nsubj	_	start_char=72|end_char=75
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=76|end_char=79
+4	almost	almost	ADV	RB	_	6	advmod	_	start_char=80|end_char=86
+5	as	as	ADV	RB	_	6	advmod	_	start_char=87|end_char=89
+6	cool	cool	ADJ	JJ	Degree=Pos	0	root	_	start_char=90|end_char=94
+7	as	as	ADP	IN	_	8	case	_	start_char=95|end_char=97
+8	shittymorph	shittymorph	NOUN	NN	Number=Sing	6	obl	_	start_char=98|end_char=109
+

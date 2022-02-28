@@ -1,0 +1,39 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=12
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	start_char=13|end_char=17
+4	.	.	PUNCT	.	_	2	punct	_	start_char=17|end_char=18
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=19|end_char=21
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=22|end_char=25
+3	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=31
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=32|end_char=35
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=36|end_char=44
+6	of	of	ADP	IN	_	7	case	_	start_char=45|end_char=47
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=48|end_char=50
+8	.	.	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+
+1	Everyday	everyday	NOUN	NN	Number=Sing	5	nsubj	_	start_char=52|end_char=60
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=61|end_char=63
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=64|end_char=65
+4	learning	learning	NOUN	NN	Number=Sing	5	compound	_	start_char=66|end_char=74
+5	day	day	NOUN	NN	Number=Sing	0	root	_	start_char=75|end_char=78
+6	and	and	CCONJ	CC	_	11	cc	_	start_char=79|end_char=82
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=83|end_char=84
+8	just	just	ADV	RB	_	11	advmod	_	start_char=85|end_char=89
+9	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	_	start_char=90|end_char=93
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=93|end_char=96
+11	think	think	VERB	VB	VerbForm=Inf	5	conj	_	start_char=97|end_char=102
+12	prior	prior	ADJ	JJ	Degree=Pos	11	advmod	_	start_char=103|end_char=108
+13	.	.	PUNCT	.	_	5	punct	_	start_char=108|end_char=109
+
+1	Obviously	obviously	ADV	RB	_	4	advmod	_	start_char=110|end_char=119
+2	after	after	ADP	IN	_	4	case	_	start_char=120|end_char=125
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=126|end_char=130
+4	experience	experience	NOUN	NN	Number=Sing	10	obl	_	start_char=131|end_char=141
+5	,	,	PUNCT	,	_	10	punct	_	start_char=141|end_char=142
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=143|end_char=144
+7	will	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=145|end_char=149
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=150|end_char=152
+9	more	more	ADV	RBR	_	10	advmod	_	start_char=153|end_char=157
+10	careful	careful	ADJ	JJ	Degree=Pos	0	root	_	start_char=158|end_char=165
+

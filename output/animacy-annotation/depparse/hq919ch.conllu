@@ -1,0 +1,45 @@
+1	What	what	PRON	WP	PronType=Int	6	obj	_	start_char=0|end_char=4
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=5|end_char=9
+3	ancestry	ancestry	NOUN	NN	Number=Sing	4	nsubj	_	start_char=10|end_char=18
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=19|end_char=23
+5	to	to	PART	TO	_	6	mark	_	start_char=24|end_char=26
+6	do	do	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=27|end_char=29
+7	with	with	ADP	IN	_	9	case	_	start_char=30|end_char=34
+8	racist	racist	ADJ	JJ	Degree=Pos	9	amod	_	start_char=35|end_char=41
+9	behavior	behavior	NOUN	NN	Number=Sing	6	obl	_	start_char=42|end_char=50
+10	in	in	ADP	IN	_	12	case	_	start_char=51|end_char=53
+11	modern	modern	ADJ	JJ	Degree=Pos	12	amod	_	start_char=54|end_char=60
+12	times	time	NOUN	NNS	Number=Plur	6	obl	_	start_char=61|end_char=66
+13	?	?	PUNCT	.	_	4	punct	_	start_char=66|end_char=67
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=68|end_char=70
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=71|end_char=74
+3	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=81
+4	against	against	ADP	IN	_	6	case	_	start_char=82|end_char=89
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=90|end_char=94
+6	couple	couple	NOUN	NN	Number=Sing	3	obl	_	start_char=95|end_char=101
+7	because	because	SCONJ	IN	_	13	mark	_	start_char=102|end_char=109
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=110|end_char=113
+9	ancestors	ancestor	NOUN	NNS	Number=Plur	13	nsubj:pass	_	start_char=114|end_char=123
+10	might	might	AUX	MD	VerbForm=Fin	13	aux	_	start_char=124|end_char=129
+11	have	have	AUX	VB	VerbForm=Inf	13	aux	_	start_char=130|end_char=134
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	aux:pass	_	start_char=135|end_char=139
+13	oppressed	oppress	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	start_char=140|end_char=149
+14	by	by	ADP	IN	_	15	case	_	start_char=150|end_char=152
+15	someone	someone	PRON	NN	Number=Sing	13	obl	_	start_char=153|end_char=160
+16	in	in	ADP	IN	_	17	case	_	start_char=161|end_char=163
+17	history	history	NOUN	NN	Number=Sing	15	nmod	_	start_char=164|end_char=171
+18	?	?	PUNCT	.	_	3	punct	_	start_char=171|end_char=172
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=173|end_char=177
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=178|end_char=180
+3	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=181|end_char=183
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=184|end_char=192
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=193|end_char=196
+6	obtuse	obtuse	ADJ	JJ	Degree=Pos	4	conj	_	start_char=197|end_char=203
+7	word	word	NOUN	NN	Number=Sing	8	compound	_	start_char=204|end_char=208
+8	view	view	NOUN	NN	Number=Sing	0	root	_	start_char=209|end_char=213
+9	if	if	SCONJ	IN	_	10	mark	_	start_char=214|end_char=216
+10	so	so	ADV	RB	_	8	advcl	_	start_char=217|end_char=219
+11	.	.	PUNCT	.	_	8	punct	_	start_char=219|end_char=220
+

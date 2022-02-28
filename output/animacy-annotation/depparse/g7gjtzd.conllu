@@ -1,0 +1,40 @@
+1	Right	right	ADV	RB	_	0	root	_	start_char=0|end_char=5
+2	?!	?!	PUNCT	.	_	1	punct	_	start_char=5|end_char=7
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=8|end_char=9
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=10|end_char=12
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=12|end_char=15
+4	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=26
+5	why	why	SCONJ	WRB	PronType=Int	8	mark	_	start_char=27|end_char=30
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=31|end_char=35
+7	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=36|end_char=41
+8	pick	pick	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=42|end_char=46
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=47|end_char=50
+10	.	.	PUNCT	.	_	4	punct	_	start_char=50|end_char=51
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=54|end_char=59
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=63
+3	other	other	ADJ	JJ	Degree=Pos	5	amod	_	start_char=64|end_char=69
+4	married	marry	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	start_char=70|end_char=77
+5	men	man	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=78|end_char=81
+6	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=82|end_char=87
+7	.	.	PUNCT	.	_	2	punct	_	start_char=87|end_char=88
+
+1	Jill	Jill	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=91|end_char=95
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=96|end_char=98
+3	so	so	ADV	RB	_	4	advmod	_	start_char=99|end_char=101
+4	isolated	isolated	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=110
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=111|end_char=114
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=115|end_char=123
+7	that	that	SCONJ	IN	_	13	mark	_	start_char=124|end_char=128
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=129|end_char=132
+9	probably	probably	ADV	RB	_	13	advmod	_	start_char=133|end_char=141
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=142|end_char=146
+11	n’t	not	PART	RB	_	13	advmod	_	start_char=146|end_char=149
+12	even	even	ADV	RB	_	13	advmod	_	start_char=150|end_char=154
+13	know	know	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=155|end_char=159
+14	about	about	ADP	IN	_	16	case	_	start_char=160|end_char=165
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=166|end_char=169
+16	scandals	scandal	NOUN	NNS	Number=Plur	13	obl	_	start_char=170|end_char=178
+17	.	.	PUNCT	.	_	4	punct	_	start_char=178|end_char=179
+

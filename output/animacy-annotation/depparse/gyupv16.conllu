@@ -1,0 +1,40 @@
+1	What	what	DET	WDT	PronType=Int	2	det	_	start_char=0|end_char=4
+2	science	science	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=12
+3	?	?	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	Im	Im	AUX	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=16|end_char=18
+2	really	really	ADV	RB	_	3	advmod	_	start_char=19|end_char=25
+3	curious	curious	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=33
+4	because	because	SCONJ	IN	_	6	mark	_	start_char=34|end_char=41
+5	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=42|end_char=43
+6	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=44|end_char=51
+7	Penis	Penis	PROPN	NNP	Number=Sing	6	obj	_	start_char=53|end_char=58
+8	=	=	PUNCT	,	_	3	punct	_	start_char=59|end_char=60
+9	man	man	NOUN	NN	Number=Sing	10	compound	_	start_char=61|end_char=64
+10	Vagina	Vagina	PROPN	NNP	Number=Sing	7	appos	_	start_char=65|end_char=71
+11	=	=	PUNCT	,	_	12	punct	_	start_char=72|end_char=73
+12	woman	woman	NOUN	NN	Number=Sing	3	parataxis	_	start_char=74|end_char=79
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=81|end_char=82
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=83|end_char=87
+3	really	really	ADV	RB	_	4	advmod	_	start_char=88|end_char=94
+4	stupid	stupid	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=95|end_char=101
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=102|end_char=105
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=106|end_char=114
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=115|end_char=119
+8	most	most	ADJ	JJS	Degree=Sup	9	amod	_	start_char=120|end_char=124
+9	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=125|end_char=131
+10	in	in	ADP	IN	_	11	case	_	start_char=132|end_char=134
+11	here	here	ADV	RB	PronType=Dem	9	nmod	_	start_char=135|end_char=139
+12	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=140|end_char=143
+13	im	I	PRON	PRP	PronType=Prs	12	obj	_	start_char=144|end_char=146
+14	wrong	wrong	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=147|end_char=152
+
+1	So	so	ADV	RB	_	6	advmod	_	start_char=154|end_char=156
+2	gender	gender	NOUN	NN	Number=Sing	6	nsubj	_	start_char=157|end_char=163
+3	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=164|end_char=169
+4	practically	practically	ADV	RB	_	6	advmod	_	start_char=170|end_char=181
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=182|end_char=184
+6	anything	anything	PRON	NN	Number=Sing	0	root	_	start_char=185|end_char=193
+7	?	?	PUNCT	.	_	6	punct	_	start_char=193|end_char=194
+

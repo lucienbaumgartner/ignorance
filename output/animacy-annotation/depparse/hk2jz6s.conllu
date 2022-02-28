@@ -1,0 +1,32 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=7|end_char=10
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=11|end_char=14
+5	most	most	ADV	RBS	_	6	advmod	_	start_char=15|end_char=19
+6	dull	dull	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=20|end_char=24
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=25|end_char=28
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=29|end_char=37
+9	of	of	ADP	IN	_	10	case	_	start_char=38|end_char=40
+10	commentators	commentator	NOUN	NNS	Number=Plur	6	obl	_	start_char=41|end_char=53
+11	.	.	PUNCT	.	_	2	punct	_	start_char=53|end_char=54
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=57|end_char=59
+2	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=60|end_char=65
+3	bears	bear	NOUN	NNS	Number=Plur	7	obj	_	start_char=66|end_char=71
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=72|end_char=75
+5	’d	have	AUX	MD	VerbForm=Fin	7	aux	_	start_char=75|end_char=77
+6	better	well	ADV	RBR	Degree=Cmp	7	advmod	_	start_char=78|end_char=84
+7	prepare	prepare	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=85|end_char=92
+8	for	for	ADP	IN	_	9	case	_	start_char=93|end_char=96
+9	Yogi	Yogi	PROPN	NNP	Number=Sing	7	obl	_	start_char=97|end_char=101
+10	Hughes	Hughes	PROPN	NNP	Number=Sing	9	flat	_	start_char=102|end_char=108
+11	as	as	ADP	IN	_	15	case	_	start_char=109|end_char=111
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=112|end_char=115
+13	avoid	avoid	NOUN	NN	Number=Sing	15	compound	_	start_char=116|end_char=121
+14	relegation	relegation	NOUN	NN	Number=Sing	15	compound	_	start_char=122|end_char=132
+15	specialist	specialist	NOUN	NN	Number=Sing	7	obl	_	start_char=133|end_char=143
+16	to	to	PART	TO	_	17	mark	_	start_char=144|end_char=146
+17	come	come	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=147|end_char=151
+18	in	in	ADP	RP	_	17	compound:prt	_	start_char=152|end_char=154
+19	.	.	PUNCT	.	_	2	punct	_	start_char=154|end_char=155
+

@@ -1,0 +1,31 @@
+1	Why	why	ADV	WRB	PronType=Int	7	advmod	_	start_char=0|end_char=3
+2	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=4|end_char=9
+3	such	such	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=14
+4	things	thing	NOUN	NNS	Number=Plur	7	nsubj:pass	_	start_char=15|end_char=21
+5	not	not	PART	RB	_	7	advmod	_	start_char=22|end_char=25
+6	be	be	AUX	VB	VerbForm=Inf	7	aux:pass	_	start_char=26|end_char=28
+7	publicised	publicise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=29|end_char=39
+8	or	or	CCONJ	CC	_	12	cc	_	start_char=40|end_char=42
+9	am	be	AUX	VB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=43|end_char=45
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=46|end_char=47
+11	just	just	ADV	RB	_	12	advmod	_	start_char=48|end_char=52
+12	lazy	lazy	ADJ	JJ	Degree=Pos	7	conj	_	start_char=53|end_char=57
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=58|end_char=61
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=62|end_char=69
+15	of	of	ADP	IN	_	17	case	_	start_char=70|end_char=72
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=73|end_char=76
+17	documents	document	NOUN	NNS	Number=Plur	14	obl	_	start_char=77|end_char=86
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	start_char=87|end_char=91
+19	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=91|end_char=94
+20	supposedly	supposedly	ADV	RB	_	21	advmod	_	start_char=95|end_char=105
+21	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	17	acl:relcl	_	start_char=106|end_char=113
+22	on	on	ADP	RP	_	21	compound:prt	_	start_char=114|end_char=116
+23	.	.	PUNCT	.	_	7	punct	_	start_char=116|end_char=117
+
+1	Other	other	ADJ	JJ	Degree=Pos	2	amod	_	start_char=118|end_char=123
+2	countries	country	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=124|end_char=133
+3	release	release	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=134|end_char=141
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=142|end_char=147
+5	logic	logic	NOUN	NN	Number=Sing	3	obj	_	start_char=148|end_char=153
+6	.	.	PUNCT	.	_	3	punct	_	start_char=153|end_char=154
+

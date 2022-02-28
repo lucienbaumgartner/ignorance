@@ -1,0 +1,38 @@
+1	Regardless	regardless	ADV	RB	_	0	root	_	start_char=0|end_char=10
+2	.	.	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=12|end_char=16
+2	asterisks	asterisk	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=17|end_char=26
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=27|end_char=30
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=30|end_char=33
+5	accomplishing	accomplish	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=34|end_char=47
+6	anything	anything	NOUN	NN	Number=Sing	5	obj	_	start_char=48|end_char=56
+7	.	.	PUNCT	.	_	5	punct	_	start_char=56|end_char=57
+
+1	Both	both	PRON	PDT	_	3	det:predet	_	start_char=58|end_char=62
+2	those	that	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=63|end_char=68
+3	guys	guy	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=69|end_char=73
+4	remain	remain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=74|end_char=80
+5	unbothered	unbothered	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=81|end_char=91
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=92|end_char=95
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=96|end_char=103
+8	of	of	ADP	IN	_	10	case	_	start_char=104|end_char=106
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=107|end_char=111
+10	existence	existence	NOUN	NN	Number=Sing	7	obl	_	start_char=112|end_char=121
+11	,	,	PUNCT	,	_	14	punct	_	start_char=121|end_char=122
+12	so	so	ADV	RB	_	14	advmod	_	start_char=123|end_char=125
+13	why	why	ADV	WRB	PronType=Int	14	advmod	_	start_char=126|end_char=129
+14	bother	bother	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=130|end_char=136
+15	?	?	PUNCT	.	_	4	punct	_	start_char=136|end_char=137
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=138|end_char=140
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=140|end_char=142
+3	harming	harm	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=143|end_char=150
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=151|end_char=154
+5	more	more	ADV	RBR	Degree=Cmp	3	advmod	_	start_char=155|end_char=159
+6	than	than	SCONJ	IN	_	9	mark	_	start_char=160|end_char=164
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=165|end_char=167
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=168|end_char=170
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	advcl	_	start_char=171|end_char=175
+10	.	.	PUNCT	.	_	3	punct	_	start_char=175|end_char=176
+

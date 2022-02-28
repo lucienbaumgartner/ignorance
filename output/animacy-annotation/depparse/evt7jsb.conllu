@@ -1,0 +1,45 @@
+1	Ah	ah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=2
+2	dang	dang	INTJ	UH	_	7	discourse	_	start_char=3|end_char=7
+3	,	,	PUNCT	,	_	7	punct	_	start_char=7|end_char=8
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=9|end_char=11
+5	n't	not	PART	RB	_	7	advmod	_	start_char=11|end_char=14
+6	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=15|end_char=21
+7	have	have	VERB	VB	VerbForm=Fin	0	root	_	start_char=22|end_char=26
+8	better	good	ADJ	JJR	Degree=Cmp	9	amod	_	start_char=27|end_char=33
+9	stuff	stuff	NOUN	NN	Number=Sing	7	obj	_	start_char=34|end_char=39
+10	to	to	PART	TO	_	11	mark	_	start_char=40|end_char=42
+11	do	do	VERB	VB	VerbForm=Inf	9	acl	_	start_char=43|end_char=45
+12	with	with	ADP	IN	_	14	case	_	start_char=46|end_char=50
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=51|end_char=56
+14	time	time	NOUN	NN	Number=Sing	11	obl	_	start_char=57|end_char=61
+15	than	than	SCONJ	IN	_	16	mark	_	start_char=62|end_char=66
+16	nosing	nose	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=67|end_char=73
+17	into	into	ADP	IN	_	18	case	_	start_char=74|end_char=78
+18	everything	everything	PRON	NN	Number=Sing	16	obl	_	start_char=79|end_char=89
+19	all	all	DET	DT	_	22	det	_	start_char=90|end_char=93
+20	half	half	ADV	RB	_	22	advmod	_	start_char=94|end_char=98
+21	-	-	PUNCT	HYPH	_	22	punct	_	start_char=98|end_char=99
+22	assed	assed	ADJ	JJ	Degree=Pos	18	amod	_	start_char=99|end_char=104
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=105|end_char=108
+24	ignorant	ignorant	ADJ	JJ	Degree=Pos	22	conj	_	start_char=109|end_char=117
+25	.?	.?	PUNCT	.	_	7	punct	_	start_char=117|end_char=119
+26	💪🏾	💪🏾	PUNCT	''	_	7	punct	_	start_char=120|end_char=122
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=124|end_char=128
+2	bites	bite	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=129|end_char=134
+3	.	.	PUNCT	.	_	2	punct	_	start_char=134|end_char=135
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=137|end_char=138
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=138|end_char=140
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=141|end_char=146
+4	Officer	officer	NOUN	NN	Number=Sing	3	obj	_	start_char=147|end_char=154
+5	.	.	PUNCT	.	_	3	punct	_	start_char=154|end_char=155
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=157|end_char=160
+2	's	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	_	start_char=160|end_char=162
+3	abolish	abolish	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=163|end_char=170
+4	racism	racism	NOUN	NN	Number=Sing	3	obj	_	start_char=171|end_char=177
+5	.	.	PUNCT	.	_	1	punct	_	start_char=177|end_char=178
+
+1	🤛🏾	🤛🏾	PROPN	NNP	Number=Sing	0	root	_	start_char=180|end_char=182
+

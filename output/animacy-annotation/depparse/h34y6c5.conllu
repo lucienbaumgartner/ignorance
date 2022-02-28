@@ -1,0 +1,22 @@
+1	Zero	Zero	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	sympathy	sympathy	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=13
+3	for	for	ADP	IN	_	4	case	_	start_char=14|end_char=17
+4	pedestrians	pedestrian	NOUN	NNS	Number=Plur	2	nmod	_	start_char=18|end_char=29
+5	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=30|end_char=33
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=34|end_char=37
+7	so	so	ADV	RB	_	8	advmod	_	start_char=38|end_char=40
+8	entitled	entitled	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=41|end_char=49
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=54|end_char=61
+11	of	of	ADP	IN	_	13	case	_	start_char=62|end_char=64
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=65|end_char=70
+13	surroundings	surroundings	NOUN	NNS	Number=Plur	10	obl	_	start_char=71|end_char=83
+14	that	that	PRON	WDT	PronType=Rel	16	nsubj:pass	_	start_char=84|end_char=88
+15	get	get	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux:pass	_	start_char=89|end_char=92
+16	smoked	smoke	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	start_char=93|end_char=99
+17	like	like	SCONJ	IN	_	20	mark	_	start_char=100|end_char=104
+18	this	this	DET	DT	Number=Sing|PronType=Dem	19	det	_	start_char=105|end_char=109
+19	tool	tool	NOUN	NN	Number=Sing	20	nsubj	_	start_char=110|end_char=114
+20	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	_	start_char=115|end_char=118
+21	.	.	PUNCT	.	_	2	punct	_	start_char=118|end_char=119
+

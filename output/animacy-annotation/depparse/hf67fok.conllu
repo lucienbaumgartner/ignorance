@@ -1,0 +1,14 @@
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=0|end_char=6
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=10
+3	so	so	ADV	RB	_	4	advmod	_	start_char=11|end_char=13
+4	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=31
+7	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=32|end_char=36
+8	must	must	AUX	MD	VerbForm=Fin	13	aux	_	start_char=37|end_char=41
+9	of	have	AUX	VB	VerbForm=Inf	13	aux	_	start_char=42|end_char=44
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	cop	_	start_char=45|end_char=49
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=50|end_char=51
+12	miserable	miserable	ADJ	JJ	Degree=Pos	13	amod	_	start_char=52|end_char=61
+13	flight	flight	NOUN	NN	Number=Sing	4	parataxis	_	start_char=62|end_char=68
+

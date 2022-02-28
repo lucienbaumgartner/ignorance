@@ -1,0 +1,37 @@
+1	Iowa	Iowa	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=4
+2	here	here	ADV	RB	PronType=Dem	1	advmod	_	start_char=5|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=11|end_char=13
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=18
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=19|end_char=21
+4	AR	ar	PROPN	NNP	Number=Sing	2	obj	_	start_char=22|end_char=24
+5	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	Never	never	ADV	RB	_	4	advmod	_	start_char=26|end_char=31
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=32|end_char=36
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=37|end_char=39
+4	used	use	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=40|end_char=44
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=45|end_char=47
+6	to	to	PART	TO	_	7	mark	_	start_char=48|end_char=50
+7	kill	kill	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=51|end_char=55
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=56|end_char=57
+9	person	person	NOUN	NN	Number=Sing	7	obj	_	start_char=58|end_char=64
+10	.	.	PUNCT	.	_	4	punct	_	start_char=64|end_char=65
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=66|end_char=68
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=68|end_char=70
+3	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=71|end_char=81
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=82|end_char=85
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=86|end_char=94
+6	of	of	ADP	IN	_	7	case	_	start_char=95|end_char=97
+7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=98|end_char=101
+8	to	to	PART	TO	_	9	mark	_	start_char=102|end_char=104
+9	think	think	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=105|end_char=110
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=111|end_char=115
+11	people	people	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=116|end_char=122
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=123|end_char=125
+13	n't	not	PART	RB	_	14	advmod	_	start_char=125|end_char=128
+14	hunt	hunt	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=129|end_char=133
+15	.	.	PUNCT	.	_	3	punct	_	start_char=133|end_char=134
+

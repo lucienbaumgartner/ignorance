@@ -1,0 +1,60 @@
+1	Okay	okay	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+2	’ll	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=6|end_char=9
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=13
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=14|end_char=18
+5	slow	slow	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=19|end_char=23
+6	.	.	PUNCT	.	_	3	punct	_	start_char=23|end_char=24
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=26|end_char=29
+2	government	government	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=40
+3	.	.	PUNCT	.	_	2	punct	_	start_char=40|end_char=41
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=42|end_char=44
+2	ran	run	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=45|end_char=48
+3	.	.	PUNCT	.	_	2	punct	_	start_char=48|end_char=49
+
+1	By	by	ADP	IN	_	2	case	_	start_char=50|end_char=52
+2	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=53|end_char=59
+3	.	.	PUNCT	.	_	2	punct	_	start_char=59|end_char=60
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=61|end_char=64
+2	government	government	NOUN	NN	Number=Sing	0	root	_	start_char=65|end_char=75
+3	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=77|end_char=79
+2	n’t	not	PART	RB	_	5	advmod	_	start_char=79|end_char=82
+3	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+4	An.	an.	NOUN	NN	Number=Sing	5	compound	_	start_char=84|end_char=87
+5	Entity	entity	NOUN	NN	Number=Sing	0	root	_	start_char=88|end_char=94
+6	.	.	PUNCT	.	_	5	punct	_	start_char=94|end_char=95
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=98|end_char=101
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=102|end_char=107
+3	just	just	ADV	RB	_	8	advmod	_	start_char=108|end_char=112
+4	because	because	SCONJ	IN	_	8	mark	_	start_char=113|end_char=120
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=121|end_char=123
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=123|end_char=125
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=126|end_char=127
+8	bill	bill	NOUN	NN	Number=Sing	13	advcl	_	start_char=128|end_char=132
+9	or	or	CCONJ	CC	_	11	cc	_	start_char=133|end_char=135
+10	business	business	NOUN	NN	Number=Sing	11	compound	_	start_char=136|end_char=144
+11	decision	decision	NOUN	NN	Number=Sing	8	conj	_	start_char=145|end_char=153
+12	there	there	PRON	EX	_	13	expl	_	start_char=154|end_char=159
+13	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=160|end_char=164
+14	n’t	not	PART	RB	_	13	advmod	_	start_char=164|end_char=167
+15	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=168|end_char=174
+16	making	make	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=175|end_char=181
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	20	amod	_	start_char=182|end_char=190
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=191|end_char=194
+19	harmful	harmful	ADJ	JJ	Degree=Pos	17	conj	_	start_char=195|end_char=202
+20	decisions	decision	NOUN	NNS	Number=Plur	16	obj	_	start_char=203|end_char=212
+21	behind	behind	ADP	IN	_	24	case	_	start_char=213|end_char=219
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=220|end_char=223
+23	faceless	faceless	ADJ	JJ	Degree=Pos	24	amod	_	start_char=224|end_char=232
+24	corp	corp	NOUN	NN	Number=Sing	20	nmod	_	start_char=233|end_char=237
+25	/	/	SYM	,	_	26	cc	_	start_char=237|end_char=238
+26	gov	gov	NOUN	NN	Number=Sing	24	conj	_	start_char=238|end_char=241
+27	?	?	PUNCT	.	_	2	punct	_	start_char=241|end_char=242
+

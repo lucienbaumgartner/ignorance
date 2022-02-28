@@ -1,0 +1,167 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	something	something	PRON	NN	Number=Sing	0	root	_	start_char=8|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=20|end_char=25
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=25|end_char=27
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=28|end_char=29
+4	total	total	NOUN	NN	Number=Sing	2	nsubj	_	start_char=30|end_char=35
+5	of	of	ADP	IN	_	8	case	_	start_char=36|end_char=38
+6	3	3	NUM	CD	NumType=Card	8	nummod	_	start_char=39|end_char=40
+7	bloody	bloody	ADJ	JJ	Degree=Pos	8	amod	_	start_char=41|end_char=47
+8	shirts	shirt	NOUN	NNS	Number=Plur	4	nmod	_	start_char=48|end_char=54
+9	,	,	PUNCT	,	_	10	punct	_	start_char=54|end_char=55
+10	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=56|end_char=61
+11	,	,	PUNCT	,	_	13	punct	_	start_char=61|end_char=62
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=63|end_char=64
+13	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=65|end_char=72
+14	,	,	PUNCT	,	_	17	punct	_	start_char=72|end_char=73
+15	for	for	ADP	IN	_	17	case	_	start_char=74|end_char=77
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=78|end_char=81
+17	pleasure	pleasure	NOUN	NN	Number=Sing	13	obl	_	start_char=82|end_char=90
+18	of	of	SCONJ	IN	_	19	mark	_	start_char=91|end_char=93
+19	attempting	attempt	VERB	VBG	VerbForm=Ger	17	acl	_	start_char=94|end_char=104
+20	dialogues	dialogue	NOUN	NNS	Number=Plur	19	obj	_	start_char=105|end_char=114
+21	?	?	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+
+1	hmmm	hmm	INTJ	UH	_	0	root	_	start_char=118|end_char=122
+2	.	.	PUNCT	.	_	1	punct	_	start_char=122|end_char=123
+
+1	Great	great	ADJ	JJ	Degree=Pos	2	amod	_	start_char=125|end_char=130
+2	section	section	NOUN	NN	Number=Sing	0	root	_	start_char=131|end_char=138
+3	,	,	PUNCT	,	_	2	punct	_	start_char=138|end_char=139
+4	in	in	ADP	IN	_	6	case	_	start_char=140|end_char=142
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=143|end_char=146
+6	middle	middle	NOUN	NN	Number=Sing	2	nmod	_	start_char=147|end_char=153
+7	,	,	PUNCT	,	_	2	punct	_	start_char=153|end_char=154
+8	too	too	ADV	RB	_	2	advmod	_	start_char=155|end_char=158
+9	:	:	PUNCT	:	_	2	punct	_	start_char=158|end_char=159
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=161|end_char=164
+2	;	;	PUNCT	,	_	1	punct	_	start_char=164|end_char=165
+3	"	"	PUNCT	``	_	1	punct	_	start_char=166|end_char=167
+4	And	and	CCONJ	CC	_	6	cc	_	start_char=167|end_char=170
+5	another	another	DET	DT	_	6	det	_	start_char=171|end_char=178
+6	email	email	NOUN	NN	Number=Sing	1	conj	_	start_char=179|end_char=184
+7	where	where	SCONJ	WRB	PronType=Rel	10	mark	_	start_char=185|end_char=190
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	start_char=191|end_char=193
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=194|end_char=196
+10	explained	explain	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	_	start_char=197|end_char=206
+11	to	to	ADP	IN	_	12	case	_	start_char=207|end_char=209
+12	Podesta	Podesta	PROPN	NNP	Number=Sing	10	obl	_	start_char=210|end_char=217
+13	(	(	PUNCT	-LRB-	_	17	punct	_	start_char=218|end_char=219
+14	Hillary	Hillary	PROPN	NNP	Number=Sing	17	nmod:poss	_	start_char=219|end_char=226
+15	's	's	PART	POS	_	14	case	_	start_char=226|end_char=228
+16	campaign	campaign	NOUN	NN	Number=Sing	17	compound	_	start_char=229|end_char=237
+17	manager	manager	NOUN	NN	Number=Sing	12	appos	_	start_char=238|end_char=245
+18	)	)	PUNCT	-RRB-	_	17	punct	_	start_char=245|end_char=246
+19	"	"	PUNCT	''	_	17	punct	_	start_char=246|end_char=247
+20	...	...	PUNCT	.	_	1	punct	_	start_char=248|end_char=251
+
+1	____________	____________	SYM	NFP	_	0	root	_	start_char=252|end_char=264
+
+1	&gt	&gt	NOUN	NN	Number=Sing	14	discourse	_	start_char=266|end_char=269
+2	;	;	PUNCT	,	_	1	punct	_	start_char=269|end_char=270
+3	And	and	CCONJ	CC	_	14	cc	_	start_char=272|end_char=275
+4	as	as	SCONJ	IN	_	7	mark	_	start_char=276|end_char=278
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=279|end_char=280
+6	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=280|end_char=283
+7	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	_	start_char=284|end_char=293
+8	,	,	PUNCT	,	_	14	punct	_	start_char=293|end_char=294
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=295|end_char=297
+10	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=297|end_char=300
+11	all	all	ADV	RB	_	14	advmod	_	start_char=301|end_char=304
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	cop	_	start_char=305|end_char=309
+13	quite	quite	ADV	RB	_	14	advmod	_	start_char=310|end_char=315
+14	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=316|end_char=323
+15	to	to	PART	TO	_	16	mark	_	start_char=324|end_char=326
+16	demean	demean	VERB	VB	VerbForm=Inf	14	acl	_	start_char=327|end_char=333
+17	government	government	NOUN	NN	Number=Sing	16	obj	_	start_char=334|end_char=344
+18	,	,	PUNCT	,	_	19	punct	_	start_char=344|end_char=345
+19	drop	drop	VERB	VB	VerbForm=Inf	16	conj	_	start_char=346|end_char=350
+20	civics	civic	NOUN	NNS	Number=Plur	19	obj	_	start_char=351|end_char=357
+21	and	and	CCONJ	CC	_	24	cc	_	start_char=358|end_char=361
+22	in	in	ADP	IN	_	24	case	_	start_char=362|end_char=364
+23	general	general	ADJ	JJ	Degree=Pos	24	amod	_	start_char=365|end_char=372
+24	conspire	conspire	NOUN	NN	Number=Sing	19	conj	_	start_char=373|end_char=381
+25	to	to	PART	TO	_	26	mark	_	start_char=382|end_char=384
+26	produce	produce	VERB	VB	VerbForm=Inf	24	acl	_	start_char=385|end_char=392
+27	an	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	start_char=393|end_char=395
+28	unaware	unaware	ADJ	JJ	Degree=Pos	31	amod	_	start_char=396|end_char=403
+29	and	and	CCONJ	CC	_	30	cc	_	start_char=404|end_char=407
+30	compliant	compliant	ADJ	JJ	Degree=Pos	28	conj	_	start_char=408|end_char=417
+31	citizenry	citizenry	NOUN	NN	Number=Sing	26	obj	_	start_char=418|end_char=427
+32	.	.	PUNCT	.	_	14	punct	_	start_char=427|end_char=428
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=431|end_char=434
+2	;	;	PUNCT	,	_	1	punct	_	start_char=434|end_char=435
+3	**	**	PUNCT	NFP	_	1	punct	_	start_char=436|end_char=438
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=438|end_char=441
+2	unawareness	unawareness	NOUN	NN	Number=Sing	3	nsubj	_	start_char=442|end_char=453
+3	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=454|end_char=461
+4	strong	strong	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=462|end_char=468
+5	but	but	CCONJ	CC	_	9	cc	_	start_char=469|end_char=472
+6	compliance	compliance	NOUN	NN	Number=Sing	9	nsubj	_	start_char=473|end_char=483
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=484|end_char=486
+8	obviously	obviously	ADV	RB	_	9	advmod	_	start_char=487|end_char=496
+9	fading	fade	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=497|end_char=503
+10	rapidly	rapidly	ADV	RB	_	9	advmod	_	start_char=504|end_char=511
+11	.	.	PUNCT	.	_	3	punct	_	start_char=511|end_char=512
+
+1	**	**	PUNCT	NFP	_	0	root	_	start_char=512|end_char=514
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=516|end_char=519
+2	;	;	PUNCT	:	_	1	punct	_	start_char=519|end_char=520
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=521|end_char=525
+2	problem	problem	NOUN	NN	Number=Sing	3	nsubj	_	start_char=526|end_char=533
+3	demands	demand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=534|end_char=541
+4	some	some	DET	DT	_	8	det	_	start_char=542|end_char=546
+5	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=547|end_char=554
+6	,	,	PUNCT	,	_	8	punct	_	start_char=554|end_char=555
+7	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=556|end_char=563
+8	thinking	thinking	NOUN	NN	Number=Sing	3	obj	_	start_char=564|end_char=572
+9	-	-	PUNCT	,	_	8	punct	_	start_char=573|end_char=574
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=575|end_char=578
+11	not	not	PART	RB	_	13	advmod	_	start_char=579|end_char=582
+12	just	just	ADV	RB	_	13	advmod	_	start_char=583|end_char=587
+13	poll	poll	VERB	VB	VerbForm=Inf	3	conj	_	start_char=588|end_char=592
+14	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=593|end_char=599
+15	,	,	PUNCT	,	_	19	punct	_	start_char=599|end_char=600
+16	demographically	demographically	ADV	RB	_	18	advmod	_	start_char=601|end_char=616
+17	-	-	PUNCT	HYPH	_	18	punct	_	start_char=616|end_char=617
+18	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=617|end_char=625
+19	messaging	message	NOUN	NN	Number=Sing	13	obj	_	start_char=626|end_char=635
+20	.	.	PUNCT	.	_	3	punct	_	start_char=635|end_char=636
+21	"	"	PUNCT	''	_	3	punct	_	start_char=636|end_char=637
+
+1	___________	___________	PUNCT	NFP	_	0	root	_	start_char=638|end_char=649
+
+1	^	^	PROPN	NNP	Number=Sing	0	root	_	start_char=651|end_char=652
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=653|end_char=657
+2	last	last	ADJ	JJ	Degree=Pos	4	amod	_	start_char=658|end_char=662
+3	,	,	PUNCT	,	_	4	punct	_	start_char=662|end_char=663
+4	esp	esp	ADJ	JJ	Degree=Pos	0	root	_	start_char=664|end_char=667
+5	.	.	PUNCT	.	_	4	punct	_	start_char=667|end_char=668
+
+1	Quite	quite	ADV	RB	_	2	advmod	_	start_char=670|end_char=675
+2	interesting	interesting	ADJ	JJ	Degree=Pos	0	root	_	start_char=676|end_char=687
+3	,	,	PUNCT	,	_	2	punct	_	start_char=687|end_char=688
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=689|end_char=691
+5	n't	not	PART	RB	_	6	advmod	_	start_char=691|end_char=694
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=695|end_char=697
+7	?	?	PUNCT	.	_	2	punct	_	start_char=697|end_char=698
+
+1	(	(	PUNCT	-LRB-	_	3	punct	_	start_char=700|end_char=701
+2	boldened	bolden	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=701|end_char=709
+3	emphasis	emphasis	NOUN	NN	Number=Sing	0	root	_	start_char=710|end_char=718
+4	mine	mine	PRON	PRP	_	3	vocative	_	start_char=719|end_char=723
+5	,	,	PUNCT	,	_	6	punct	_	start_char=723|end_char=724
+6	futher	futher	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=725|end_char=731
+7	above	above	ADV	RB	_	6	advmod	_	start_char=732|end_char=737
+8	.	.	PUNCT	.	_	3	punct	_	start_char=737|end_char=738
+9	)	)	PUNCT	-RRB-	_	3	punct	_	start_char=738|end_char=739
+

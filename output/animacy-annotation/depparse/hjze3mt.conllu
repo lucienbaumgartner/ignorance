@@ -1,0 +1,11 @@
+1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	mad	mad	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=5|end_char=8
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=9|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=13|end_char=21
+5	of	of	ADP	IN	_	9	mark	_	start_char=22|end_char=24
+6	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=25|end_char=28
+7	college	college	NOUN	NN	Number=Sing	8	compound	_	start_char=29|end_char=36
+8	football	football	NOUN	NN	Number=Sing	9	nsubj	_	start_char=37|end_char=45
+9	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=46|end_char=51
+10	dude	dude	NOUN	NN	Number=Sing	9	obj	_	start_char=52|end_char=56
+

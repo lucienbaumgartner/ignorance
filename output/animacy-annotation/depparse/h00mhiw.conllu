@@ -1,0 +1,16 @@
+1	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=0|end_char=3
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=7|end_char=8
+4	so	so	ADV	RB	_	5	advmod	_	start_char=9|end_char=11
+5	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=15
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=16|end_char=19
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=20|end_char=28
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=29|end_char=33
+9	things	thing	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=34|end_char=40
+10	like	like	ADP	IN	_	11	case	_	start_char=41|end_char=45
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nmod	_	start_char=46|end_char=50
+12	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=51|end_char=56
+13	?!	?!	PUNCT	.	_	5	punct	_	start_char=56|end_char=58
+
+1	Wtf	Wtf	PROPN	NNP	Number=Sing	0	root	_	start_char=59|end_char=62
+

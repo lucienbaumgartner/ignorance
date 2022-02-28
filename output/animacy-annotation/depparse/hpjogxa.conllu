@@ -1,0 +1,38 @@
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=11|end_char=14
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=18
+3	ppl	ppl	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=19|end_char=22
+4	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=23|end_char=27
+5	so	so	ADV	RB	_	6	advmod	_	start_char=28|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=40|end_char=43
+8	intolerable	intolerable	ADJ	JJ	Degree=Pos	6	conj	_	start_char=44|end_char=55
+9	to	to	PART	TO	_	10	mark	_	start_char=56|end_char=58
+10	believe	believe	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=59|end_char=66
+11	that	that	SCONJ	IN	_	17	mark	_	start_char=67|end_char=71
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	17	nsubj	_	start_char=72|end_char=76
+13	quite	quite	ADV	RB	_	17	advmod	_	start_char=77|end_char=82
+14	couldve	couldve	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=83|end_char=90
+15	been	be	AUX	VBN	Tense=Past|VerbForm=Part	17	cop	_	start_char=91|end_char=95
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=96|end_char=99
+17	cause	cause	NOUN	NN	Number=Sing	10	ccomp	_	start_char=100|end_char=105
+18	of	of	ADP	IN	_	20	case	_	start_char=106|end_char=108
+19	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=109|end_char=112
+20	death	death	NOUN	NN	Number=Sing	17	nmod	_	start_char=113|end_char=118
+21	.	.	PUNCT	.	_	4	punct	_	start_char=118|end_char=119
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=120|end_char=121
+2	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=122|end_char=128
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=129|end_char=133
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=134|end_char=137
+5	reddit	reddit	NOUN	NN	Number=Sing	2	ccomp	_	start_char=138|end_char=144
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=145|end_char=148
+7	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	start_char=149|end_char=155
+8	with	with	ADP	IN	_	10	case	_	start_char=156|end_char=160
+9	male	male	ADJ	JJ	Degree=Pos	10	amod	_	start_char=161|end_char=165
+10	species	species	NOUN	NNS	Number=Plur	7	obl	_	start_char=166|end_char=173
+11	lol	lol	INTJ	UH	_	2	discourse	_	start_char=174|end_char=177
+

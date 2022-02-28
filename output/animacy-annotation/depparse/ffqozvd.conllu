@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	problem	problem	NOUN	NN	Number=Sing	0	root	_	start_char=12|end_char=19
+5	.	.	PUNCT	.	_	4	punct	_	start_char=19|end_char=20
+
+1	Most	most	ADJ	JJS	Degree=Sup	4	nsubj	_	start_char=22|end_char=26
+2	of	of	ADP	IN	_	3	case	_	start_char=27|end_char=29
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	start_char=30|end_char=34
+4	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=35|end_char=39
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=40|end_char=45
+6	states	state	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=46|end_char=52
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=53|end_char=56
+8	so	so	ADV	RB	_	9	advmod	_	start_char=57|end_char=59
+9	red	red	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=60|end_char=63
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=64|end_char=67
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=68|end_char=76
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=77|end_char=81
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=82|end_char=86
+14	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=87|end_char=90
+15	do	do	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=91|end_char=93
+16	as	as	ADV	RB	_	17	advmod	_	start_char=94|end_char=96
+17	much	much	ADJ	JJ	Degree=Pos	18	amod	_	start_char=97|end_char=101
+18	miscarriage	miscarriage	NOUN	NN	Number=Sing	15	obj	_	start_char=102|end_char=113
+19	of	of	ADP	IN	_	20	case	_	start_char=114|end_char=116
+20	justice	justice	NOUN	NN	Number=Sing	18	nmod	_	start_char=117|end_char=124
+21	as	as	SCONJ	IN	_	24	mark	_	start_char=125|end_char=127
+22	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	start_char=128|end_char=132
+23	’d	have	AUX	MD	VerbForm=Fin	24	aux	_	start_char=132|end_char=134
+24	like	like	VERB	VB	VerbForm=Inf	15	advcl	_	start_char=135|end_char=139
+25	and	and	CCONJ	CC	_	28	cc	_	start_char=140|end_char=143
+26	still	still	ADV	RB	_	28	advmod	_	start_char=144|end_char=149
+27	get	get	AUX	VB	VerbForm=Inf	28	aux:pass	_	start_char=150|end_char=153
+28	re-elected	re-elect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	24	conj	_	start_char=154|end_char=164
+29	.	.	PUNCT	.	_	4	punct	_	start_char=164|end_char=165
+

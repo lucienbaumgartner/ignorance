@@ -1,0 +1,37 @@
+1	Over	over	ADV	RB	_	3	advmod	_	start_char=0|end_char=4
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=5|end_char=6
+3	thousand	thousand	NUM	CD	NumType=Card	4	nummod	_	start_char=7|end_char=15
+4	Americans	American	PROPN	NNPS	Number=Plur	6	nsubj	_	start_char=16|end_char=25
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=26|end_char=29
+6	dying	die	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=30|end_char=35
+7	every	every	DET	DT	_	8	det	_	start_char=36|end_char=41
+8	day	day	NOUN	NN	Number=Sing	6	obl:tmod	_	start_char=42|end_char=45
+9	.	.	PUNCT	.	_	6	punct	_	start_char=45|end_char=46
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=47|end_char=49
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=50|end_char=52
+3	incredibly	incredibly	ADV	RB	_	4	advmod	_	start_char=53|end_char=63
+4	deadly	deadly	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=70
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=71|end_char=74
+6	harmful	harmful	ADJ	JJ	Degree=Pos	4	conj	_	start_char=75|end_char=82
+7	,	,	PUNCT	,	_	12	punct	_	start_char=82|end_char=83
+8	and	and	CCONJ	CC	_	12	cc	_	start_char=84|end_char=87
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=88|end_char=91
+10	hospitals	hospital	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=92|end_char=101
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=102|end_char=105
+12	about	about	ADV	RB	_	4	conj	_	start_char=106|end_char=111
+13	to	to	PART	TO	_	15	mark	_	start_char=112|end_char=114
+14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	start_char=115|end_char=117
+15	overwhelmed	overwhelm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	_	start_char=118|end_char=129
+16	by	by	ADP	IN	_	19	case	_	start_char=130|end_char=132
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=133|end_char=136
+18	Omicron	Omicron	PROPN	NNP	Number=Sing	19	compound	_	start_char=137|end_char=144
+19	wave	wave	NOUN	NN	Number=Sing	15	obl	_	start_char=145|end_char=149
+20	.	.	PUNCT	.	_	4	punct	_	start_char=149|end_char=150
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=151|end_char=154
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=155|end_char=158
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=159|end_char=167
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=168|end_char=171
+5	heartless	heartless	ADJ	JJ	Degree=Pos	3	conj	_	start_char=172|end_char=181
+

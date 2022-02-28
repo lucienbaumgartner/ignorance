@@ -1,0 +1,15 @@
+1	...	...	PUNCT	,	_	6	punct	_	start_char=0|end_char=3
+2	and	and	CCONJ	CC	_	6	cc	_	start_char=4|end_char=7
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=8|end_char=10
+4	now	now	ADV	RB	_	6	advmod	_	start_char=11|end_char=14
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=15|end_char=16
+6	hypocrite	hypocrite	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=26
+7	,	,	PUNCT	,	_	6	punct	_	start_char=26|end_char=27
+8	completely	completely	ADV	RB	_	11	advmod	_	start_char=28|end_char=38
+9	self	self	NOUN	NN	Number=Sing	11	compound	_	start_char=39|end_char=43
+10	-	-	PUNCT	HYPH	_	11	punct	_	start_char=43|end_char=44
+11	unaware	unaware	ADJ	JJ	Degree=Pos	6	appos	_	start_char=44|end_char=51
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=52|end_char=55
+13	unattractive	unattractive	ADJ	JJ	Degree=Pos	11	conj	_	start_char=56|end_char=68
+14	.	.	PUNCT	.	_	6	punct	_	start_char=68|end_char=69
+

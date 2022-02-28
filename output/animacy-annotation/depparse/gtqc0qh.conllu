@@ -1,0 +1,17 @@
+1	U	U	INTJ	UH	_	3	discourse	_	start_char=0|end_char=1
+2	—	—	PUNCT	:	_	1	punct	_	start_char=2|end_char=3
+3	undereducated	undereducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=17
+4	,	,	PUNCT	,	_	5	punct	_	start_char=17|end_char=18
+5	underwhelming	underwhelming	ADJ	JJ	Degree=Pos	3	conj	_	start_char=19|end_char=32
+6	,	,	PUNCT	,	_	7	punct	_	start_char=32|end_char=33
+7	unappreciative	unappreciative	ADJ	JJ	Degree=Pos|Polarity=Neg	3	conj	_	start_char=34|end_char=48
+8	,	,	PUNCT	,	_	9	punct	_	start_char=48|end_char=49
+9	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=50|end_char=57
+10	,	,	PUNCT	,	_	12	punct	_	start_char=57|end_char=58
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=59|end_char=62
+12	unimpressive	unimpressive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=63|end_char=75
+13	within	within	ADP	IN	_	15	case	_	start_char=76|end_char=82
+14	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=83|end_char=86
+15	underwear	underwear	NOUN	NN	Number=Sing	12	obl	_	start_char=87|end_char=96
+16	.	.	PUNCT	.	_	3	punct	_	start_char=96|end_char=97
+

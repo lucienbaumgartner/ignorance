@@ -1,0 +1,38 @@
+1	Meh	meh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	more	more	ADV	RBR	_	2	advmod	_	start_char=10|end_char=14
+4	like	like	ADP	IN	_	6	case	_	start_char=15|end_char=19
+5	chronically	chronically	ADV	RB	_	6	advmod	_	start_char=20|end_char=31
+6	incompetent	incompetent	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=32|end_char=43
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=44|end_char=47
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=48|end_char=55
+9	of	of	ADP	IN	_	11	case	_	start_char=56|end_char=58
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=59|end_char=62
+11	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=63|end_char=75
+12	to	to	ADP	IN	_	13	case	_	start_char=76|end_char=78
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	nmod	_	start_char=79|end_char=81
+14	.	.	PUNCT	.	_	2	punct	_	start_char=81|end_char=82
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=83|end_char=87
+2	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=87|end_char=90
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=91|end_char=95
+4	to	to	PART	TO	_	7	mark	_	start_char=96|end_char=98
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=99|end_char=101
+6	some	some	DET	DT	_	7	det	_	start_char=102|end_char=106
+7	sort	sort	NOUN	NN	Number=Sing	3	xcomp	_	start_char=107|end_char=111
+8	of	of	ADP	IN	_	9	case	_	start_char=112|end_char=114
+9	perversion	perversion	NOUN	NN	Number=Sing	7	nmod	_	start_char=115|end_char=125
+10	.	.	PUNCT	.	_	3	punct	_	start_char=125|end_char=126
+
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=127|end_char=132
+2	like	like	ADP	IN	_	5	case	_	start_char=133|end_char=137
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=138|end_char=141
+4	2nd	2nd	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	_	start_char=142|end_char=145
+5	time	time	NOUN	NN	Number=Sing	1	obl	_	start_char=146|end_char=150
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=151|end_char=153
+7	just	just	ADV	RB	_	8	advmod	_	start_char=154|end_char=158
+8	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=159|end_char=162
+9	to	to	PART	TO	_	10	mark	_	start_char=163|end_char=165
+10	piss	piss	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=166|end_char=170
+11	!	!	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+

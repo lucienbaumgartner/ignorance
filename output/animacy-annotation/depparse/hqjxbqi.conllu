@@ -1,0 +1,24 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	no	no	DET	DT	_	4	det	_	start_char=9|end_char=11
+4	Idea	idea	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=16
+5	what	what	PRON	WP	PronType=Int	11	obj	_	start_char=17|end_char=21
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=22|end_char=23
+7	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=24|end_char=26
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=27|end_char=30
+9	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=30|end_char=33
+10	never	never	ADV	RB	_	11	advmod	_	start_char=34|end_char=39
+11	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	_	start_char=40|end_char=43
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=44|end_char=46
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=47|end_char=51
+14	opinion	opinion	NOUN	NN	Number=Sing	17	nsubj	_	start_char=52|end_char=59
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=60|end_char=62
+16	both	both	CCONJ	CC	_	17	cc:preconj	_	start_char=63|end_char=67
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=68|end_char=76
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=77|end_char=80
+19	invalid	invalid	ADJ	JJ	Degree=Pos	17	conj	_	start_char=81|end_char=88
+20	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	conj	_	start_char=89|end_char=93
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=94|end_char=95
+22	nice	nice	ADJ	JJ	Degree=Pos	23	amod	_	start_char=96|end_char=100
+23	day	day	NOUN	NN	Number=Sing	20	obj	_	start_char=101|end_char=104
+

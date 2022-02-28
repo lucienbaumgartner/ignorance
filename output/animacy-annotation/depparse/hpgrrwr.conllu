@@ -1,0 +1,27 @@
+1	So	so	ADV	RB	_	3	advmod	_	start_char=0|end_char=2
+2	potentially	potentially	ADV	RB	_	3	advmod	_	start_char=3|end_char=14
+3	kill	kill	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+4	off	off	ADP	RP	_	3	compound:prt	_	start_char=20|end_char=23
+5	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=24|end_char=27
+6	uninformed	uninformed	ADJ	JJ	Degree=Pos	13	amod	_	start_char=28|end_char=38
+7	,	,	PUNCT	,	_	8	punct	_	start_char=38|end_char=39
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=48
+9	,	,	PUNCT	,	_	12	punct	_	start_char=48|end_char=49
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=50|end_char=53
+11	otherwise	otherwise	ADV	RB	_	12	advmod	_	start_char=54|end_char=63
+12	stupid	stupid	ADJ	JJ	Degree=Pos	6	conj	_	start_char=64|end_char=70
+13	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=71|end_char=77
+14	,	,	PUNCT	,	_	3	punct	_	start_char=77|end_char=78
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=79|end_char=81
+16	what	what	PRON	WP	PronType=Int	3	advcl	_	start_char=82|end_char=86
+17	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	start_char=87|end_char=90
+18	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=90|end_char=93
+19	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	16	acl:relcl	_	start_char=94|end_char=100
+20	?	?	PUNCT	.	_	3	punct	_	start_char=100|end_char=101
+
+1	Sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=103|end_char=109
+2	great	great	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=110|end_char=115
+3	,	,	PUNCT	,	_	4	punct	_	start_char=115|end_char=116
+4	Adolph	Adolph	PROPN	NNP	Number=Sing	1	vocative	_	start_char=117|end_char=123
+5	!	!	PUNCT	.	_	1	punct	_	start_char=123|end_char=124
+

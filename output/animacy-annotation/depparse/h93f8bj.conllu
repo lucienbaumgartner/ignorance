@@ -1,0 +1,27 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	sub	sub	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=11
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=12|end_char=13
+5	cesspool	cesspool	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=22
+6	of	of	ADP	IN	_	7	case	_	start_char=23|end_char=25
+7	frontend	frontend	NOUN	NN	Number=Sing	5	nmod	_	start_char=26|end_char=34
+8	,	,	PUNCT	,	_	11	punct	_	start_char=34|end_char=35
+9	almost	almost	ADV	RB	_	10	advmod	_	start_char=36|end_char=42
+10	completely	completely	ADV	RB	_	11	advmod	_	start_char=43|end_char=53
+11	devoid	devoid	ADJ	JJ	Degree=Pos	5	amod	_	start_char=54|end_char=60
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=61|end_char=64
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=65|end_char=73
+14	of	of	ADP	IN	_	16	case	_	start_char=74|end_char=76
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=77|end_char=80
+16	rest	rest	NOUN	NN	Number=Sing	13	obl	_	start_char=81|end_char=85
+17	of	of	ADP	IN	_	19	case	_	start_char=86|end_char=88
+18	web	web	NOUN	NN	Number=Sing	19	compound	_	start_char=89|end_char=92
+19	development	development	NOUN	NN	Number=Sing	16	nmod	_	start_char=93|end_char=104
+20	,	,	PUNCT	,	_	22	punct	_	start_char=104|end_char=105
+21	never	never	ADV	RB	_	22	advmod	_	start_char=106|end_char=111
+22	mind	mind	VERB	VB	Mood=Imp|VerbForm=Fin	5	parataxis	_	start_char=112|end_char=116
+23	IT	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=117|end_char=119
+24	in	in	ADP	IN	_	25	case	_	start_char=120|end_char=122
+25	general	general	ADJ	JJ	Degree=Pos	22	obl	_	start_char=123|end_char=130
+26	.	.	PUNCT	.	_	5	punct	_	start_char=130|end_char=131
+

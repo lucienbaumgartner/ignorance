@@ -1,0 +1,61 @@
+1	Yes	yes	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+3	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=16
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=17|end_char=21
+5	.	.	PUNCT	.	_	3	punct	_	start_char=21|end_char=22
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=23|end_char=24
+2	’ve	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=27
+3	yet	yet	ADV	RB	_	2	advmod	_	start_char=28|end_char=31
+4	to	to	PART	TO	_	5	mark	_	start_char=32|end_char=34
+5	have	have	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=35|end_char=39
+6	people	people	NOUN	NNS	Number=Plur	5	obj	_	start_char=40|end_char=46
+7	disprove	disprove	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=47|end_char=55
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=56|end_char=58
+9	comments	comment	NOUN	NNS	Number=Plur	7	obj	_	start_char=59|end_char=67
+10	in	in	ADP	IN	_	13	case	_	start_char=68|end_char=70
+11	any	any	DET	DT	_	13	det	_	start_char=71|end_char=74
+12	meaningful	meaningful	ADJ	JJ	Degree=Pos	13	amod	_	start_char=75|end_char=85
+13	way	way	NOUN	NN	Number=Sing	7	obl	_	start_char=86|end_char=89
+14	other	other	ADJ	JJ	Degree=Pos	13	amod	_	start_char=90|end_char=95
+15	than	than	ADP	IN	_	17	case	_	start_char=96|end_char=100
+16	name	name	NOUN	NN	Number=Sing	17	compound	_	start_char=101|end_char=105
+17	calling	calling	NOUN	NN	Number=Sing	14	obl	_	start_char=106|end_char=113
+18	.	.	PUNCT	.	_	2	punct	_	start_char=113|end_char=114
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=115|end_char=117
+2	analogy	analogy	NOUN	NN	Number=Sing	6	nsubj	_	start_char=118|end_char=125
+3	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=126|end_char=130
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=131|end_char=133
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=134|end_char=137
+6	same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=142
+7	.	.	PUNCT	.	_	6	punct	_	start_char=142|end_char=143
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=144|end_char=145
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=146|end_char=156
+3	there	there	PRON	EX	_	4	expl	_	start_char=157|end_char=162
+4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=163|end_char=166
+5	many	many	ADJ	JJ	Degree=Pos	6	amod	_	start_char=167|end_char=171
+6	jobs	job	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=172|end_char=176
+7	where	where	SCONJ	WRB	PronType=Rel	11	mark	_	start_char=177|end_char=182
+8	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=183|end_char=189
+9	can	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=190|end_char=193
+10	self	self	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=194|end_char=198
+11	manage	manage	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=199|end_char=205
+12	.	.	PUNCT	.	_	2	punct	_	start_char=205|end_char=206
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=207|end_char=210
+2	to	to	PART	TO	_	3	mark	_	start_char=211|end_char=213
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=214|end_char=218
+4	blanket	blanket	NOUN	NN	Number=Sing	5	compound	_	start_char=219|end_char=226
+5	statement	statement	NOUN	NN	Number=Sing	3	obj	_	start_char=227|end_char=236
+6	like	like	SCONJ	IN	_	10	mark	_	start_char=237|end_char=241
+7	OP	OP	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=242|end_char=244
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=245|end_char=247
+9	just	just	ADV	RB	_	10	advmod	_	start_char=248|end_char=252
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=253|end_char=261
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=262|end_char=265
+12	completely	completely	ADV	RB	_	13	advmod	_	start_char=266|end_char=276
+13	incorrect	incorrect	ADJ	JJ	Degree=Pos	10	conj	_	start_char=277|end_char=286
+14	.	.	PUNCT	.	_	3	punct	_	start_char=286|end_char=287
+

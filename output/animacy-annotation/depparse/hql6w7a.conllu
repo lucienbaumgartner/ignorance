@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=12
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=13|end_char=16
+5	stupid	stupid	ADJ	JJ	Degree=Pos	3	conj	_	start_char=17|end_char=23
+6	,	,	PUNCT	,	_	11	punct	_	start_char=23|end_char=24
+7	but	but	CCONJ	CC	_	11	cc	_	start_char=25|end_char=28
+8	ignorance	ignorance	NOUN	NN	Number=Sing	11	nsubj:pass	_	start_char=29|end_char=38
+9	can	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=39|end_char=42
+10	be	be	AUX	VB	VerbForm=Inf	11	aux:pass	_	start_char=43|end_char=45
+11	remedied	remedy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	start_char=46|end_char=54
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=55|end_char=58
+13	that	that	PRON	WDT	PronType=Dem	14	nsubj	_	start_char=59|end_char=63
+14	irons	iron	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	start_char=64|end_char=69
+15	out	out	ADP	RP	_	14	compound:prt	_	start_char=70|end_char=73
+16	some	some	DET	DT	_	14	obj	_	start_char=74|end_char=78
+17	of	of	ADP	IN	_	19	case	_	start_char=79|end_char=81
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=82|end_char=85
+19	stupidity	stupidity	NOUN	NN	Number=Sing	16	nmod	_	start_char=86|end_char=95
+20	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+
+1	Enjoying	enjoy	VERB	VBG	VerbForm=Ger	0	root	_	start_char=97|end_char=105
+2	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=106|end_char=110
+3	whole	whole	ADJ	JJ	Degree=Pos	4	amod	_	start_char=111|end_char=116
+4	learning	learning	NOUN	NN	Number=Sing	1	obj	_	start_char=117|end_char=125
+5	by	by	SCONJ	IN	_	6	mark	_	start_char=126|end_char=128
+6	doing	do	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=129|end_char=134
+7	process	process	NOUN	NN	Number=Sing	6	obj	_	start_char=135|end_char=142
+8	.	.	PUNCT	.	_	1	punct	_	start_char=142|end_char=143
+

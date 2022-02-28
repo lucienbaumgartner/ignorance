@@ -1,0 +1,91 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=13
+5	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=14|end_char=17
+6	funny	funny	ADJ	JJ	Degree=Pos	4	obj	_	start_char=18|end_char=23
+7	either	either	ADV	RB	_	4	advmod	_	start_char=24|end_char=30
+8	.	.	PUNCT	.	_	4	punct	_	start_char=30|end_char=31
+
+1	Someone	someone	PRON	NN	Number=Sing	2	nsubj	_	start_char=32|end_char=39
+2	died	die	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=40|end_char=44
+3	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45
+
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=46|end_char=51
+2	family	family	NOUN	NN	Number=Sing	3	nsubj	_	start_char=52|end_char=58
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=59|end_char=62
+4	to	to	PART	TO	_	5	mark	_	start_char=63|end_char=65
+5	live	live	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=66|end_char=70
+6	with	with	ADP	IN	_	7	case	_	start_char=71|end_char=75
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	5	obl	_	start_char=76|end_char=80
+8	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+
+1	However	however	ADV	RB	_	0	root	_	start_char=84|end_char=91
+2	.....	.....	PUNCT	.	_	1	punct	_	start_char=91|end_char=96
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=96|end_char=97
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=102
+3	no	no	DET	DT	_	4	det	_	start_char=103|end_char=105
+4	sympathy	sympathy	NOUN	NN	Number=Sing	2	obj	_	start_char=106|end_char=114
+5	for	for	ADP	IN	_	8	case	_	start_char=115|end_char=118
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=119|end_char=122
+7	dead	dead	ADJ	JJ	Degree=Pos	8	amod	_	start_char=123|end_char=127
+8	person	person	NOUN	NN	Number=Sing	4	nmod	_	start_char=128|end_char=134
+9	.	.	PUNCT	.	_	2	punct	_	start_char=134|end_char=135
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=136|end_char=140
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=141|end_char=146
+3	have	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=147|end_char=151
+4	prevented	prevent	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=152|end_char=161
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=162|end_char=164
+6	.	.	PUNCT	.	_	4	punct	_	start_char=164|end_char=165
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=166|end_char=170
+2	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=171|end_char=176
+3	to	to	PART	TO	_	6	mark	_	start_char=177|end_char=179
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=180|end_char=182
+5	willfully	willfully	ADV	RB	_	6	advmod	_	start_char=183|end_char=192
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=193|end_char=201
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=202|end_char=205
+8	obstinant	obstinant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=206|end_char=215
+9	.	.	PUNCT	.	_	2	punct	_	start_char=215|end_char=216
+
+1	Thats	that	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=217|end_char=222
+2	on	on	ADP	IN	_	4	case	_	start_char=223|end_char=225
+3	you	you	PRON	PRP	Person=2|PronType=Prs	4	nmod:poss	_	start_char=226|end_char=229
+4	man	man	NOUN	NN	Number=Sing	1	obl	_	start_char=230|end_char=233
+5	.	.	PUNCT	.	_	1	punct	_	start_char=233|end_char=234
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=235|end_char=238
+2	put	put	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=239|end_char=242
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=243|end_char=245
+4	out	out	ADP	RP	_	2	compound:prt	_	start_char=246|end_char=249
+5	for	for	ADP	IN	_	6	case	_	start_char=250|end_char=253
+6	there	there	ADV	RB	PronType=Dem	2	obl	_	start_char=254|end_char=259
+7	for	for	ADP	IN	_	9	case	_	start_char=260|end_char=263
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=264|end_char=267
+9	public	public	NOUN	NN	Number=Sing	2	obl	_	start_char=268|end_char=274
+10	to	to	PART	TO	_	11	mark	_	start_char=275|end_char=277
+11	see	see	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=278|end_char=281
+12	.	.	PUNCT	.	_	2	punct	_	start_char=281|end_char=282
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=283|end_char=284
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=284|end_char=286
+3	not	not	PART	RB	_	4	advmod	_	start_char=287|end_char=290
+4	sneaking	sneak	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=291|end_char=299
+5	into	into	ADP	IN	_	8	case	_	start_char=300|end_char=304
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=305|end_char=309
+7	private	private	ADJ	JJ	Degree=Pos	8	amod	_	start_char=310|end_char=317
+8	space	space	NOUN	NN	Number=Sing	4	obl	_	start_char=318|end_char=323
+9	.	.	PUNCT	.	_	4	punct	_	start_char=323|end_char=324
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=326|end_char=329
+2	died	die	VERB	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	start_char=330|end_char=334
+3	for	for	ADP	IN	_	7	case	_	start_char=335|end_char=338
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=339|end_char=343
+5	political	political	ADJ	JJ	Degree=Pos	7	amod	_	start_char=344|end_char=353
+6	"	"	PUNCT	``	_	7	punct	_	start_char=354|end_char=355
+7	team	team	NOUN	NN	Number=Sing	2	obl	_	start_char=355|end_char=359
+8	"	"	PUNCT	''	_	7	punct	_	start_char=359|end_char=360
+9	.	.	PUNCT	.	_	2	punct	_	start_char=360|end_char=361
+

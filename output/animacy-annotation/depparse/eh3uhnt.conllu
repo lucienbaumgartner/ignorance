@@ -1,0 +1,47 @@
+1	\&gt	\&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	;	;	PUNCT	,	_	1	punct	_	start_char=4|end_char=5
+3	button	button	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=11
+4	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=12|end_char=16
+5	"	"	PUNCT	``	_	6	punct	_	start_char=17|end_char=18
+6	say	say	VERB	VB	VerbForm=Fin	4	ccomp	_	start_char=18|end_char=21
+7	no	no	DET	DT	_	6	obj	_	start_char=22|end_char=24
+8	to	to	ADP	IN	_	9	case	_	start_char=25|end_char=27
+9	socialism	socialism	NOUN	NN	Number=Sing	6	obl	_	start_char=28|end_char=37
+10	"	"	PUNCT	''	_	6	punct	_	start_char=37|end_char=38
+
+1	\&gt	\&gt	PROPN	NNP	Number=Sing	13	vocative	_	start_char=40|end_char=44
+2	;	;	PUNCT	,	_	1	punct	_	start_char=44|end_char=45
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=45|end_char=48
+4	"	"	PUNCT	``	_	5	punct	_	start_char=49|end_char=50
+5	c	c	PROPN	NNP	Number=Sing	13	nsubj	_	start_char=50|end_char=51
+6	"	"	PUNCT	''	_	5	punct	_	start_char=51|end_char=52
+7	in	in	ADP	IN	_	9	case	_	start_char=53|end_char=55
+8	"	"	PUNCT	``	_	9	punct	_	start_char=56|end_char=57
+9	socialism	socialism	NOUN	NN	Number=Sing	5	nmod	_	start_char=57|end_char=66
+10	"	"	PUNCT	''	_	9	punct	_	start_char=66|end_char=67
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=68|end_char=70
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=71|end_char=72
+13	hammer	hammer	NOUN	NN	Number=Sing	0	root	_	start_char=73|end_char=79
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=80|end_char=83
+15	sickle	sickle	NOUN	NN	Number=Sing	13	conj	_	start_char=84|end_char=90
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=92|end_char=99
+2	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=100|end_char=105
+3	so	so	ADV	RB	_	4	advmod	_	start_char=106|end_char=108
+4	politically	politically	ADV	RB	_	5	advmod	_	start_char=109|end_char=120
+5	inept	inept	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=121|end_char=126
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=127|end_char=130
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=131|end_char=139
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=140|end_char=144
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=145|end_char=148
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=149|end_char=154
+11	socialism	socialism	NOUN	NN	Number=Sing	18	nsubj	_	start_char=155|end_char=164
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=165|end_char=168
+13	communism	communism	NOUN	NN	Number=Sing	11	conj	_	start_char=169|end_char=178
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=179|end_char=182
+15	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=183|end_char=186
+16	same	same	ADJ	JJ	Degree=Pos	18	amod	_	start_char=187|end_char=191
+17	fucking	fucking	ADJ	JJ	Degree=Pos	18	amod	_	start_char=192|end_char=199
+18	thing	thing	NOUN	NN	Number=Sing	10	ccomp	_	start_char=200|end_char=205
+19	.	.	PUNCT	.	_	1	punct	_	start_char=205|end_char=206
+

@@ -1,0 +1,46 @@
+1	When	when	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=5|end_char=7
+3	cannabis	cannabi	NOUN	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=16
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=17|end_char=22
+5	to	to	PART	TO	_	7	mark	_	start_char=23|end_char=25
+6	be	be	AUX	VB	VerbForm=Inf	7	aux:pass	_	start_char=26|end_char=28
+7	decriminalised	decriminalise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	start_char=29|end_char=43
+8	in	in	ADP	IN	_	9	case	_	start_char=44|end_char=46
+9	Australia	Australia	PROPN	NNP	Number=Sing	7	obl	_	start_char=47|end_char=56
+10	,	,	PUNCT	,	_	13	punct	_	start_char=56|end_char=57
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+12	recreational	recreational	ADJ	JJ	Degree=Pos	13	amod	_	start_char=62|end_char=74
+13	use	use	NOUN	NN	Number=Sing	9	conj	_	start_char=75|end_char=78
+14	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	_	start_char=79|end_char=86
+15	?	?	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	start_char=88|end_char=90
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=91|end_char=96
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=97|end_char=100
+4	politicians	politician	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=101|end_char=112
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=113|end_char=116
+6	so	so	ADV	RB	_	7	advmod	_	start_char=117|end_char=119
+7	old	old	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=120|end_char=123
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=124|end_char=127
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=128|end_char=136
+10	,	,	PUNCT	,	_	15	punct	_	start_char=136|end_char=137
+11	that	that	SCONJ	IN	_	15	mark	_	start_char=138|end_char=142
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=143|end_char=145
+13	will	will	AUX	MD	VerbForm=Fin	15	aux	_	start_char=146|end_char=150
+14	never	never	ADV	RB	_	15	advmod	_	start_char=151|end_char=156
+15	happen	happen	VERB	VB	VerbForm=Inf	7	parataxis	_	start_char=157|end_char=163
+16	..	..	PUNCT	.	_	2	punct	_	start_char=163|end_char=165
+
+1	Even	even	ADV	RB	_	7	advmod	_	start_char=166|end_char=170
+2	though	though	SCONJ	IN	_	7	mark	_	start_char=171|end_char=177
+3	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=178|end_char=182
+4	countries	country	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=183|end_char=192
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=193|end_char=196
+6	now	now	ADV	RB	_	7	advmod	_	start_char=197|end_char=200
+7	allowing	allow	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=201|end_char=209
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=210|end_char=212
+9	.	.	PUNCT	.	_	7	punct	_	start_char=212|end_char=213
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=214|end_char=220
+2	.	.	PUNCT	.	_	1	punct	_	start_char=220|end_char=221
+

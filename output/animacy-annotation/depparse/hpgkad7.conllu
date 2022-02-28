@@ -1,0 +1,28 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=8
+2	there	there	PRON	EX	_	1	expl	_	start_char=9|end_char=14
+3	really	really	ADV	RB	_	1	advmod	_	start_char=15|end_char=21
+4	that	that	SCONJ	IN	_	10	mark	_	start_char=22|end_char=26
+5	many	many	ADJ	JJ	Degree=Pos	10	amod	_	start_char=27|end_char=31
+6	profoundly	profoundly	ADV	RB	_	7	advmod	_	start_char=32|end_char=42
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=43|end_char=51
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=52|end_char=55
+9	stupid	stupid	ADJ	JJ	Degree=Pos	7	conj	_	start_char=56|end_char=62
+10	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=63|end_char=69
+11	out	out	ADP	IN	_	12	case	_	start_char=70|end_char=73
+12	there	there	ADV	RB	PronType=Dem	10	nmod	_	start_char=74|end_char=79
+13	?	?	PUNCT	.	_	1	punct	_	start_char=79|end_char=80
+
+1	Really	really	ADV	RB	_	0	root	_	start_char=82|end_char=88
+2	?	?	PUNCT	.	_	1	punct	_	start_char=89|end_char=90
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=92|end_char=95
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=96|end_char=100
+3	to	to	PART	TO	_	4	mark	_	start_char=101|end_char=103
+4	ask	ask	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=104|end_char=107
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=108|end_char=112
+6	question	question	NOUN	NN	Number=Sing	4	obj	_	start_char=113|end_char=121
+7	?	?	PUNCT	.	_	2	punct	_	start_char=122|end_char=123
+

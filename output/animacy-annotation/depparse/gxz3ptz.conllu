@@ -1,0 +1,12 @@
+1	Showing	show	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=7
+2	that	that	SCONJ	IN	_	6	mark	_	start_char=8|end_char=12
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj:pass	_	start_char=13|end_char=16
+4	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=16|end_char=19
+5	both	both	ADV	RB	_	6	advmod	_	start_char=20|end_char=24
+6	disturbed	disturb	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	start_char=25|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=47
+9	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+10	physiology	physiology	NOUN	NN	Number=Sing	8	obl	_	start_char=51|end_char=61
+11	.	.	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+

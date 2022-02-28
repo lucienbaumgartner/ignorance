@@ -1,0 +1,29 @@
+1	Science	science	NOUN	NN	Number=Sing	2	nsubj	_	start_char=0|end_char=7
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+3	that	that	SCONJ	IN	_	5	mark	_	start_char=13|end_char=17
+4	there	there	PRON	EX	_	5	expl	_	start_char=18|end_char=23
+5	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=24|end_char=27
+6	animals	animal	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=28|end_char=35
+7	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=36|end_char=40
+8	literally	literally	ADV	RB	_	9	advmod	_	start_char=41|end_char=50
+9	change	change	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=51|end_char=57
+10	sex	sex	NOUN	NN	Number=Sing	9	obj	_	start_char=58|end_char=61
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=62|end_char=64
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	conj	_	start_char=65|end_char=69
+13	both	both	DET	DT	_	14	det	_	start_char=70|end_char=74
+14	sets	set	NOUN	NNS	Number=Plur	12	obj	_	start_char=75|end_char=79
+15	of	of	ADP	IN	_	17	case	_	start_char=80|end_char=82
+16	sexual	sexual	ADJ	JJ	Degree=Pos	17	amod	_	start_char=83|end_char=89
+17	organs	organ	NOUN	NNS	Number=Plur	14	nmod	_	start_char=90|end_char=96
+18	.	.	PUNCT	.	_	2	punct	_	start_char=96|end_char=97
+
+1	MTG	MTG	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=99|end_char=102
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=103|end_char=105
+3	definitely	definitely	ADV	RB	_	4	advmod	_	start_char=106|end_char=116
+4	intolerant	intolerant	ADJ	JJ	Degree=Pos	0	root	_	start_char=117|end_char=127
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=128|end_char=131
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=132|end_char=140
+7	of	of	ADP	IN	_	8	case	_	start_char=141|end_char=143
+8	science	science	NOUN	NN	Number=Sing	6	obl	_	start_char=144|end_char=151
+9	.	.	PUNCT	.	_	4	punct	_	start_char=151|end_char=152
+

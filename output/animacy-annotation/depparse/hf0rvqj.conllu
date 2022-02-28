@@ -1,0 +1,21 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	what	what	PRON	WP	PronType=Int	2	obj	_	start_char=9|end_char=13
+4	,	,	PUNCT	,	_	7	punct	_	start_char=13|end_char=14
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=15|end_char=19
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=20|end_char=23
+7	rude	rude	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=24|end_char=28
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=29|end_char=32
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=33|end_char=41
+10	of	of	ADP	IN	_	11	case	_	start_char=42|end_char=44
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	start_char=45|end_char=47
+12	.	.	PUNCT	.	_	2	punct	_	start_char=47|end_char=48
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=49|end_char=50
+2	apologize	apologize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=60
+3	for	for	ADP	IN	_	5	case	_	start_char=61|end_char=64
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=65|end_char=67
+5	comment	comment	NOUN	NN	Number=Sing	2	obl	_	start_char=68|end_char=75
+6	earlier	early	ADV	RBR	Degree=Cmp	2	advmod	_	start_char=76|end_char=83
+7	.	.	PUNCT	.	_	2	punct	_	start_char=83|end_char=84
+

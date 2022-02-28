@@ -1,0 +1,29 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	apologetic	apologetic	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=25|end_char=32
+6	of	of	ADP	IN	_	8	case	_	start_char=33|end_char=35
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=36|end_char=40
+8	age	age	NOUN	NN	Number=Sing	5	obl	_	start_char=41|end_char=44
+9	untill	untill	SCONJ	IN	_	11	mark	_	start_char=45|end_char=51
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=52|end_char=55
+11	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=56|end_char=60
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=61|end_char=63
+13	.	.	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=65|end_char=67
+2	may	may	AUX	MD	VerbForm=Fin	5	aux	_	start_char=68|end_char=71
+3	have	have	AUX	VB	VerbForm=Inf	5	aux	_	start_char=72|end_char=76
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux	_	start_char=77|end_char=81
+5	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=82|end_char=87
+6	but	but	CCONJ	CC	_	11	cc	_	start_char=88|end_char=91
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=92|end_char=94
+8	ca	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=95|end_char=97
+9	n't	not	PART	RB	_	11	advmod	_	start_char=97|end_char=100
+10	really	really	ADV	RB	_	11	advmod	_	start_char=101|end_char=107
+11	crucify	crucify	VERB	VB	VerbForm=Inf	5	conj	_	start_char=108|end_char=115
+12	on	on	ADP	IN	_	11	compound:prt	_	start_char=116|end_char=118
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=119|end_char=120
+14	maybe	maybe	ADV	RB	_	11	advmod	_	start_char=121|end_char=126
+

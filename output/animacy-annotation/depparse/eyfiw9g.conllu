@@ -1,0 +1,16 @@
+1	Wow	wow	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=7|end_char=8
+2	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=9|end_char=11
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=11|end_char=14
+4	even	even	ADV	RB	_	5	advmod	_	start_char=15|end_char=19
+5	articulate	articulate	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=30
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=31|end_char=34
+7	presumptuous	presumptuous	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=35|end_char=47
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=48|end_char=51
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=52|end_char=60
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	start_char=61|end_char=65
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=66|end_char=68
+12	.	.	PUNCT	.	_	5	punct	_	start_char=68|end_char=69
+

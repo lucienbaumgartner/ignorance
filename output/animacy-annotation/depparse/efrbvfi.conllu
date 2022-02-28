@@ -1,0 +1,50 @@
+1	Yeah	yeah	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	please	please	INTJ	UH	_	5	discourse	_	start_char=5|end_char=11
+3	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	_	start_char=12|end_char=14
+4	n't	not	PART	RB	_	5	advmod	_	start_char=14|end_char=17
+5	paint	paint	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=18|end_char=23
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=24|end_char=27
+7	entire	entire	ADJ	JJ	Degree=Pos	8	amod	_	start_char=28|end_char=34
+8	career	career	NOUN	NN	Number=Sing	5	obj	_	start_char=35|end_char=41
+9	with	with	ADP	IN	_	12	case	_	start_char=42|end_char=46
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=47|end_char=50
+11	same	same	ADJ	JJ	Degree=Pos	12	amod	_	start_char=51|end_char=55
+12	stroke	stroke	NOUN	NN	Number=Sing	5	obl	_	start_char=56|end_char=62
+13	.	.	PUNCT	.	_	5	punct	_	start_char=62|end_char=63
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=64|end_char=68
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=68|end_char=70
+3	just	just	ADV	RB	_	5	advmod	_	start_char=71|end_char=75
+4	over-	over-	ADV	RB	_	5	advmod	_	start_char=76|end_char=81
+5	generalizing	generalizing	ADJ	JJ	Degree=Pos	0	root	_	start_char=81|end_char=93
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=94|end_char=97
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=98|end_char=106
+8	.	.	PUNCT	.	_	5	punct	_	start_char=106|end_char=107
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	_	start_char=109|end_char=113
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	_	start_char=114|end_char=119
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	start_char=120|end_char=124
+4	,	,	PUNCT	,	_	9	punct	_	start_char=124|end_char=125
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=126|end_char=130
+6	guy	guy	NOUN	NN	Number=Sing	9	nsubj	_	start_char=131|end_char=134
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=135|end_char=137
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=138|end_char=139
+9	piece	piece	NOUN	NN	Number=Sing	0	root	_	start_char=140|end_char=145
+10	of	of	ADP	IN	_	11	case	_	start_char=146|end_char=148
+11	shit	shit	NOUN	NN	Number=Sing	9	nmod	_	start_char=149|end_char=153
+12	.	.	PUNCT	.	_	9	punct	_	start_char=153|end_char=154
+
+1	Whether	whether	SCONJ	IN	_	10	mark	_	start_char=155|end_char=162
+2	or	or	CCONJ	CC	_	3	cc	_	start_char=163|end_char=165
+3	not	not	ADV	RB	_	1	fixed	_	start_char=166|end_char=169
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=170|end_char=172
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=172|end_char=174
+6	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=175|end_char=176
+7	really	really	ADV	RB	_	10	advmod	_	start_char=177|end_char=183
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=184|end_char=185
+9	state	state	NOUN	NN	Number=Sing	10	compound	_	start_char=186|end_char=191
+10	trooper	trooper	NOUN	NN	Number=Sing	0	root	_	start_char=192|end_char=199
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=200|end_char=202
+12	not	not	PART	RB	_	10	conj	_	start_char=203|end_char=206
+13	.	.	PUNCT	.	_	10	punct	_	start_char=206|end_char=207
+

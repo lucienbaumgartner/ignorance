@@ -1,0 +1,20 @@
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=0|end_char=3
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=4|end_char=8
+3	ties	tie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+4	right	right	ADV	RB	_	8	advmod	_	start_char=14|end_char=19
+5	into	into	ADP	IN	_	8	case	_	start_char=20|end_char=24
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=25|end_char=28
+7	Democrat	Democrat	PROPN	NNP	Number=Sing	8	compound	_	start_char=29|end_char=37
+8	strategy	strategy	NOUN	NN	Number=Sing	3	obl	_	start_char=38|end_char=46
+9	to	to	PART	TO	_	10	mark	_	start_char=47|end_char=49
+10	keep	keep	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=50|end_char=54
+11	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=55|end_char=61
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=62|end_char=69
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=70|end_char=73
+14	compliant	compliant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=74|end_char=83
+15	(	(	PUNCT	-LRB-	_	16	punct	_	start_char=84|end_char=85
+16	slaves	slave	NOUN	NNS	Number=Plur	12	parataxis	_	start_char=85|end_char=91
+17	)	)	PUNCT	-RRB-	_	16	punct	_	start_char=91|end_char=92
+
+1	https://www.newstarget.com/wp-content/uploads/2016/10/WikiLeaks-Email-From-Bill-Ivey-600.jpg	https://www.newstarget.com/wp-content/uploads/2016/10/wikileaks-email-from-bill-ivey-600.jpg	X	ADD	_	0	root	_	start_char=93|end_char=185
+

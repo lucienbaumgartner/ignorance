@@ -1,0 +1,42 @@
+1	Wishful	wishful	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=7
+2	thinking	thinking	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=16
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=17|end_char=18
+4	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=19|end_char=26
+5	.	.	PUNCT	.	_	2	punct	_	start_char=26|end_char=27
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=28|end_char=30
+2	underestimate	underestimate	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=44
+3	just	just	ADV	RB	_	5	advmod	_	start_char=45|end_char=49
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=50|end_char=53
+5	naive	naive	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=54|end_char=59
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=60|end_char=63
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=64|end_char=72
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=73|end_char=77
+9	side	side	NOUN	NN	Number=Sing	13	nsubj	_	start_char=78|end_char=82
+10	of	of	ADP	IN	_	12	case	_	start_char=83|end_char=85
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=86|end_char=89
+12	aisle	aisle	NOUN	NN	Number=Sing	9	nmod	_	start_char=90|end_char=95
+13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=96|end_char=98
+14	.	.	PUNCT	.	_	2	punct	_	start_char=98|end_char=99
+
+1	Those	that	PRON	DT	Number=Plur|PronType=Dem	8	nsubj	_	start_char=100|end_char=105
+2	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=106|end_char=109
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=110|end_char=112
+4	n’t	not	PART	RB	_	5	advmod	_	start_char=112|end_char=115
+5	like	like	VERB	VB	VerbForm=Inf	1	acl:relcl	_	start_char=116|end_char=120
+6	Trump	Trump	PROPN	NNP	Number=Sing	5	obj	_	start_char=121|end_char=126
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=127|end_char=131
+8	spin	spin	VERB	VB	VerbForm=Inf	0	root	_	start_char=132|end_char=136
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=137|end_char=141
+10	on	on	ADP	IN	_	11	case	_	start_char=142|end_char=144
+11	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=145|end_char=148
+12	to	to	PART	TO	_	13	mark	_	start_char=149|end_char=151
+13	justify	justify	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=152|end_char=159
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=160|end_char=163
+15	actions	action	NOUN	NNS	Number=Plur	13	obj	_	start_char=164|end_char=171
+16	and	and	CCONJ	CC	_	20	cc	_	start_char=172|end_char=175
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	20	nsubj	_	start_char=176|end_char=180
+18	wo	will	AUX	MD	VerbForm=Fin	20	aux	_	start_char=181|end_char=183
+19	n’t	not	PART	RB	_	20	advmod	_	start_char=183|end_char=186
+20	change	change	VERB	VB	VerbForm=Inf	8	conj	_	start_char=187|end_char=193
+

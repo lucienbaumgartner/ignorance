@@ -1,0 +1,49 @@
+1	Actually	actually	ADV	RB	_	3	advmod	_	start_char=0|end_char=8
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=9|end_char=10
+3	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+4	.	.	PUNCT	.	_	3	punct	_	start_char=16|end_char=17
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=18|end_char=23
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=26
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=27|end_char=28
+4	difference	difference	NOUN	NN	Number=Sing	2	nsubj	_	start_char=29|end_char=39
+5	between	between	SCONJ	IN	_	7	mark	_	start_char=40|end_char=47
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=48|end_char=53
+7	dumb	dumb	ADJ	JJ	Degree=Pos	4	acl	_	start_char=54|end_char=58
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=59|end_char=62
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=63|end_char=71
+10	of	of	ADP	IN	_	12	case	_	start_char=72|end_char=74
+11	legal	legal	ADJ	JJ	Degree=Pos	12	amod	_	start_char=75|end_char=80
+12	procedure	procedure	NOUN	NN	Number=Sing	9	obl	_	start_char=81|end_char=90
+13	.	.	PUNCT	.	_	2	punct	_	start_char=90|end_char=91
+
+1	However	however	ADV	RB	_	13	advmod	_	start_char=93|end_char=100
+2	,	,	PUNCT	,	_	13	punct	_	start_char=100|end_char=101
+3	that	that	SCONJ	IN	_	13	mark	_	start_char=102|end_char=106
+4	Trump	Trump	PROPN	NNP	Number=Sing	6	nmod:poss	_	start_char=107|end_char=112
+5	's	's	PART	POS	_	4	case	_	start_char=112|end_char=114
+6	campaign	campaign	NOUN	NN	Number=Sing	13	nsubj	_	start_char=115|end_char=123
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=124|end_char=127
+8	those	that	PRON	DT	Number=Plur|PronType=Dem	6	conj	_	start_char=128|end_char=133
+9	working	work	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=134|end_char=141
+10	on	on	ADP	IN	_	12	case	_	start_char=142|end_char=144
+11	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=145|end_char=148
+12	behalf	behalf	NOUN	NN	Number=Sing	9	obl	_	start_char=149|end_char=155
+13	filed	file	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=156|end_char=161
+14	so	so	ADV	RB	_	15	advmod	_	start_char=162|end_char=164
+15	many	many	ADJ	JJ	Degree=Pos	16	amod	_	start_char=165|end_char=169
+16	lawsuits	lawsuit	NOUN	NNS	Number=Plur	13	obj	_	start_char=170|end_char=178
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	amod	_	start_char=179|end_char=187
+18	of	of	ADP	IN	_	21	case	_	start_char=188|end_char=190
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=191|end_char=194
+20	actual	actual	ADJ	JJ	Degree=Pos	21	amod	_	start_char=195|end_char=201
+21	law	law	NOUN	NN	Number=Sing	17	obl	_	start_char=202|end_char=205
+22	...	...	PUNCT	.	_	13	punct	_	start_char=205|end_char=208
+
+1	Well	well	INTJ	UH	_	3	discourse	_	start_char=209|end_char=213
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=214|end_char=218
+3	starts	start	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=219|end_char=225
+4	looking	look	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=226|end_char=233
+5	dumb	dumb	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=234|end_char=238
+6	.	.	PUNCT	.	_	3	punct	_	start_char=238|end_char=239
+

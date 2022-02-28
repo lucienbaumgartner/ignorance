@@ -1,0 +1,50 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=4|end_char=5
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=11|end_char=14
+4	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=14|end_char=17
+5	too	too	ADV	RB	Degree=Pos	6	advmod	_	start_char=18|end_char=21
+6	lazy	lazy	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=22|end_char=26
+7	,	,	PUNCT	,	_	8	punct	_	start_char=26|end_char=27
+8	unintellectual	unintellectual	ADJ	JJ	Degree=Pos	6	conj	_	start_char=28|end_char=42
+9	,	,	PUNCT	,	_	11	punct	_	start_char=42|end_char=43
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=44|end_char=47
+11	uninterested	uninterested	ADJ	JJ	Degree=Pos	6	conj	_	start_char=48|end_char=60
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=62|end_char=65
+2	;	;	PUNCT	,	_	1	punct	_	start_char=65|end_char=66
+3	post	post	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=66|end_char=70
+4	substanceless	substanceless	ADJ	JJ	Degree=Pos	6	amod	_	start_char=71|end_char=84
+5	ad	ad	NOUN	NN	Number=Sing	6	compound	_	start_char=85|end_char=87
+6	hominem	hominem	NOUN	NN	Number=Sing	3	obj	_	start_char=88|end_char=95
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=97|end_char=100
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=101|end_char=104
+3	deeply	deeply	ADV	RB	_	4	advmod	_	start_char=105|end_char=111
+4	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=112|end_char=122
+5	,	,	PUNCT	,	_	7	punct	_	start_char=122|end_char=123
+6	offensively	offensively	ADV	RB	_	7	advmod	_	start_char=124|end_char=135
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=136|end_char=144
+8	,	,	PUNCT	,	_	10	punct	_	start_char=144|end_char=145
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=146|end_char=149
+10	arrogant	arrogant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=150|end_char=158
+11	to	to	ADP	IN	_	13	case	_	start_char=159|end_char=161
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=162|end_char=165
+13	point	point	NOUN	NN	Number=Sing	10	obl	_	start_char=166|end_char=171
+14	of	of	SCONJ	IN	_	16	mark	_	start_char=172|end_char=174
+15	being	be	AUX	VBG	VerbForm=Ger	16	cop	_	start_char=175|end_char=180
+16	noxious	noxious	ADJ	JJ	Degree=Pos	13	acl	_	start_char=181|end_char=188
+17	.	.	PUNCT	.	_	4	punct	_	start_char=188|end_char=189
+
+1	No	no	DET	DT	_	2	det	_	start_char=190|end_char=192
+2	one	one	NOUN	NN	Number=Sing	4	nsubj	_	start_char=193|end_char=196
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=197|end_char=203
+4	engage	engage	VERB	VB	VerbForm=Inf	0	root	_	start_char=204|end_char=210
+5	with	with	ADP	IN	_	6	case	_	start_char=211|end_char=215
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=216|end_char=219
+7	at	at	ADP	IN	_	8	case	_	start_char=220|end_char=222
+8	all	all	DET	DT	_	4	obl	_	start_char=223|end_char=226
+9	.	.	PUNCT	.	_	4	punct	_	start_char=226|end_char=227
+

@@ -1,0 +1,29 @@
+1	Please	please	INTJ	UH	_	5	discourse	_	start_char=0|end_char=6
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	_	start_char=7|end_char=9
+3	n’t	not	PART	RB	_	5	advmod	_	start_char=9|end_char=12
+4	ever	ever	ADV	RB	_	5	advmod	_	start_char=13|end_char=17
+5	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=18|end_char=22
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=23|end_char=27
+7	argument	argument	NOUN	NN	Number=Sing	5	obj	_	start_char=28|end_char=36
+8	again	again	ADV	RB	_	5	advmod	_	start_char=37|end_char=42
+9	.	.	PUNCT	.	_	5	punct	_	start_char=42|end_char=43
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=44|end_char=46
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=46|end_char=48
+3	shallow	shallow	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=56
+4	,	,	PUNCT	,	_	3	punct	_	start_char=56|end_char=57
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=58|end_char=60
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=60|end_char=62
+7	shockingly	shockingly	ADV	RB	_	8	advmod	_	start_char=63|end_char=73
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=74|end_char=82
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=83|end_char=86
+10	ill	ill	ADJ	JJ	Degree=Pos	8	conj	_	start_char=87|end_char=90
+11	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	start_char=91|end_char=99
+12	,	,	PUNCT	,	_	17	punct	_	start_char=99|end_char=100
+13	and	and	CCONJ	CC	_	17	cc	_	start_char=101|end_char=104
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=105|end_char=107
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=108|end_char=110
+16	just	just	ADV	RB	_	17	advmod	_	start_char=111|end_char=115
+17	silly	silly	ADJ	JJ	Degree=Pos	3	conj	_	start_char=116|end_char=121
+18	.	.	PUNCT	.	_	3	punct	_	start_char=121|end_char=122
+

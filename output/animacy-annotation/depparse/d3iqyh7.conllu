@@ -1,0 +1,46 @@
+1	Yeah	yeah	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	5	punct	_	start_char=4|end_char=5
+3	sometimes	sometimes	ADV	RB	_	5	advmod	_	start_char=6|end_char=15
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=16|end_char=17
+5	wonder	wonder	VERB	VBP	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=18|end_char=24
+6	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=25|end_char=28
+7	absolutely	absolutely	ADV	RB	_	8	advmod	_	start_char=29|end_char=39
+8	unaware	unaware	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=40|end_char=47
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=48|end_char=51
+10	idiotic	idiotic	ADJ	JJ	Degree=Pos	8	conj	_	start_char=52|end_char=59
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=60|end_char=63
+12	average	average	ADJ	JJ	Degree=Pos	13	amod	_	start_char=64|end_char=71
+13	redditor	redditor	NOUN	NN	Number=Sing	17	nsubj	_	start_char=72|end_char=80
+14	must	must	AUX	MD	VerbForm=Fin	17	aux	_	start_char=81|end_char=85
+15	be	be	AUX	VB	VerbForm=Inf	17	cop	_	start_char=86|end_char=88
+16	in	in	ADP	IN	_	17	case	_	start_char=89|end_char=91
+17	order	order	NOUN	NN	Number=Sing	5	ccomp	_	start_char=92|end_char=97
+18	for	for	ADP	IN	_	20	case	_	start_char=98|end_char=101
+19	this	this	DET	DT	Number=Sing|PronType=Dem	20	det	_	start_char=102|end_char=106
+20	shit	shit	NOUN	NN	Number=Sing	17	nmod	_	start_char=107|end_char=111
+21	to	to	PART	TO	_	22	mark	_	start_char=112|end_char=114
+22	reach	reach	VERB	VB	VerbForm=Inf	20	acl	_	start_char=115|end_char=120
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=121|end_char=124
+24	front	front	ADJ	JJ	Degree=Pos	25	amod	_	start_char=125|end_char=130
+25	page	page	NOUN	NN	Number=Sing	22	obj	_	start_char=131|end_char=135
+26	.	.	PUNCT	.	_	5	punct	_	start_char=135|end_char=136
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=138|end_char=141
+2	world	world	NOUN	NN	Number=Sing	4	nsubj	_	start_char=142|end_char=147
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=148|end_char=150
+4	full	full	ADJ	JJ	Degree=Pos	0	root	_	start_char=151|end_char=155
+5	of	of	ADP	IN	_	6	case	_	start_char=156|end_char=158
+6	idiots	idiot	NOUN	NNS	Number=Plur	4	obl	_	start_char=159|end_char=165
+7	being	be	AUX	VBG	VerbForm=Ger	8	aux:pass	_	start_char=166|end_char=171
+8	led	lead	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	start_char=172|end_char=175
+9	around	around	ADV	RB	Degree=Pos	8	advmod	_	start_char=176|end_char=182
+10	by	by	ADP	IN	_	12	case	_	start_char=183|end_char=185
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=186|end_char=189
+12	insane	insane	ADJ	JJ	Degree=Pos	8	obl	_	start_char=190|end_char=196
+13	.	.	PUNCT	.	_	4	punct	_	start_char=196|end_char=197
+
+1	Paging	page	VERB	VBG	VerbForm=Ger	0	root	_	start_char=199|end_char=205
+2	/r/	/r/	PUNCT	,	_	1	punct	_	start_char=206|end_char=209
+3	the_Donald	the_Donald	PROPN	NNP	Number=Sing	1	vocative	_	start_char=209|end_char=219
+4	.	.	PUNCT	.	_	1	punct	_	start_char=219|end_char=220
+

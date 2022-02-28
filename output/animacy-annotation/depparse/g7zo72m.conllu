@@ -1,0 +1,25 @@
+1	&gt	&gt	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	but	but	CCONJ	CC	_	6	cc	_	start_char=4|end_char=7
+4	sometimes	sometimes	ADV	RB	_	6	advmod	_	start_char=8|end_char=17
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=18|end_char=19
+6	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=20|end_char=24
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=25|end_char=26
+8	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	start_char=27|end_char=30
+9	just	just	ADV	RB	_	10	advmod	_	start_char=31|end_char=35
+10	stayed	stay	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	start_char=36|end_char=42
+11	crazy	crazy	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=43|end_char=48
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=49|end_char=52
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=53|end_char=60
+14	of	of	ADP	IN	_	16	case	_	start_char=61|end_char=63
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=64|end_char=66
+16	psyche	psyche	NOUN	NN	Number=Sing	13	obl	_	start_char=67|end_char=73
+
+1	Yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=75|end_char=79
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=80|end_char=81
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=82|end_char=85
+4	relate	relate	VERB	VB	VerbForm=Inf	0	root	_	start_char=86|end_char=92
+5	to	to	ADP	IN	_	6	case	_	start_char=93|end_char=95
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obl	_	start_char=96|end_char=100
+7	.	.	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+

@@ -1,0 +1,80 @@
+1	Take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	time	time	NOUN	NN	Number=Sing	1	obj	_	start_char=5|end_char=9
+3	out	out	ADP	IN	_	6	case	_	start_char=10|end_char=13
+4	of	of	ADP	IN	_	6	case	_	start_char=14|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+6	equation	equation	NOUN	NN	Number=Sing	1	obl	_	start_char=21|end_char=29
+7	.	.	PUNCT	.	_	1	punct	_	start_char=29|end_char=30
+
+1	Time	time	NOUN	NN	Number=Sing	4	nsubj	_	start_char=31|end_char=35
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=36|end_char=38
+3	not	not	PART	RB	_	4	advmod	_	start_char=39|end_char=42
+4	applicable	applicable	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=53
+5	here	here	ADV	RB	PronType=Dem	4	advmod	_	start_char=54|end_char=58
+6	.	.	PUNCT	.	_	4	punct	_	start_char=58|end_char=59
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=61|end_char=68
+2	that	that	SCONJ	IN	_	6	mark	_	start_char=69|end_char=73
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=74|end_char=76
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=77|end_char=80
+5	all	all	DET	DT	_	6	det	_	start_char=81|end_char=84
+6	part	part	NOUN	NN	Number=Sing	1	ccomp	_	start_char=85|end_char=89
+7	of	of	ADP	IN	_	10	case	_	start_char=90|end_char=92
+8	one	one	NUM	CD	NumType=Card	10	nummod	_	start_char=93|end_char=96
+9	giant	giant	NOUN	NN	Number=Sing	10	compound	_	start_char=97|end_char=102
+10	octopus	octopus	NOUN	NN	Number=Sing	6	nmod	_	start_char=103|end_char=110
+11	.	.	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=113|end_char=115
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=116|end_char=119
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=120|end_char=123
+4	tips	tip	NOUN	NNS	Number=Plur	0	root	_	start_char=124|end_char=128
+5	of	of	ADP	IN	_	7	case	_	start_char=129|end_char=131
+6	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=132|end_char=135
+7	tentacles	tentacle	NOUN	NNS	Number=Plur	4	nmod	_	start_char=136|end_char=145
+8	.	.	PUNCT	.	_	4	punct	_	start_char=145|end_char=146
+
+1	Each	each	DET	DT	_	2	det	_	start_char=148|end_char=152
+2	tentacle	tentacle	NOUN	NN	Number=Sing	4	nsubj	_	start_char=153|end_char=161
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=162|end_char=164
+4	protruding	protrude	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=165|end_char=175
+5	into	into	ADP	IN	_	7	case	_	start_char=176|end_char=180
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=181|end_char=182
+7	box	box	NOUN	NN	Number=Sing	4	obl	_	start_char=183|end_char=186
+8	(	(	PUNCT	-LRB-	_	11	punct	_	start_char=187|end_char=188
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=188|end_char=191
+10	life	life	NOUN	NN	Number=Sing	11	compound	_	start_char=192|end_char=196
+11	experience	experience	NOUN	NN	Number=Sing	7	appos	_	start_char=197|end_char=207
+12	)	)	PUNCT	-RRB-	_	11	punct	_	start_char=207|end_char=208
+13	.	.	PUNCT	.	_	4	punct	_	start_char=208|end_char=209
+
+1	Each	each	DET	DT	_	2	det	_	start_char=211|end_char=215
+2	tentacle	tentacle	NOUN	NN	Number=Sing	4	nsubj	_	start_char=216|end_char=224
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=225|end_char=227
+4	protruding	protrude	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=228|end_char=238
+5	through	through	ADP	IN	_	8	case	_	start_char=239|end_char=246
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=247|end_char=248
+7	different	different	ADJ	JJ	Degree=Pos	8	amod	_	start_char=249|end_char=258
+8	hole	hole	NOUN	NN	Number=Sing	4	obl	_	start_char=259|end_char=263
+9	.	.	PUNCT	.	_	4	punct	_	start_char=263|end_char=264
+
+1	Each	each	DET	DT	_	2	det	_	start_char=266|end_char=270
+2	tentacle	tentacle	NOUN	NN	Number=Sing	5	nsubj	_	start_char=271|end_char=279
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=280|end_char=282
+4	self	self	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=283|end_char=287
+5	-aware	-aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=287|end_char=293
+6	,	,	PUNCT	,	_	8	punct	_	start_char=293|end_char=294
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=295|end_char=298
+8	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=299|end_char=306
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=307|end_char=311
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	start_char=312|end_char=316
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=317|end_char=320
+12	all	all	ADV	RB	_	13	advmod	_	start_char=321|end_char=324
+13	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	ccomp	_	start_char=325|end_char=334
+14	to	to	ADP	IN	_	18	case	_	start_char=335|end_char=337
+15	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=338|end_char=341
+16	same	same	ADJ	JJ	Degree=Pos	18	amod	_	start_char=342|end_char=346
+17	host	host	NOUN	NN	Number=Sing	18	compound	_	start_char=347|end_char=351
+18	octopus	octopus	NOUN	NN	Number=Sing	13	obl	_	start_char=352|end_char=359
+19	.	.	PUNCT	.	_	5	punct	_	start_char=359|end_char=360
+

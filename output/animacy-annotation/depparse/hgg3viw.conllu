@@ -1,0 +1,100 @@
+1	&gt	&gt	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	but	but	CCONJ	CC	_	6	cc	_	start_char=5|end_char=8
+4	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=9|end_char=14
+5	n't	not	PART	RB	_	6	advmod	_	start_char=14|end_char=17
+6	pay	pay	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=21
+7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=22|end_char=25
+8	more	more	ADV	RBR	_	6	advmod	_	start_char=26|end_char=30
+9	..?	..?	PUNCT	.	_	6	punct	_	start_char=30|end_char=33
+
+1	Where	where	ADV	WRB	PronType=Int	5	advmod	_	start_char=35|end_char=40
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	5	aux	_	start_char=41|end_char=44
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=45|end_char=49
+4	bullshit	bullshit	NOUN	NN	Number=Sing	5	nsubj	_	start_char=50|end_char=58
+5	come	come	VERB	VB	VerbForm=Inf	0	root	_	start_char=59|end_char=63
+6	from	from	ADP	IN	_	5	obl	_	start_char=64|end_char=68
+7	?	?	PUNCT	.	_	5	punct	_	start_char=68|end_char=69
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=70|end_char=72
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=73|end_char=77
+3	offering	offer	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=78|end_char=86
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	start_char=87|end_char=90
+5	600	600	NUM	CD	NumType=Card	6	compound	_	start_char=91|end_char=94
+6	K	k	NUM	CD	NumType=Card	9	nummod	_	start_char=94|end_char=95
+7	over	over	ADV	RB	_	8	advmod	_	start_char=96|end_char=100
+8	5	5	NUM	CD	NumType=Card	9	nummod	_	start_char=101|end_char=102
+9	years	year	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=103|end_char=108
+10	.	.	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+
+1	Adelaide	Adelaide	PROPN	NNP	Number=Sing	4	nmod:poss	_	start_char=110|end_char=118
+2	’s	's	PART	POS	_	1	case	_	start_char=118|end_char=120
+3	reported	report	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=121|end_char=129
+4	offer	offer	NOUN	NN	Number=Sing	7	nsubj	_	start_char=130|end_char=135
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=136|end_char=138
+6	650	650	NUM	CD	NumType=Card	7	nummod	_	start_char=139|end_char=142
+7	K	k	NUM	CD	NumType=Card	0	root	_	start_char=142|end_char=143
+8	.	.	PUNCT	.	_	7	punct	_	start_char=143|end_char=144
+
+1	Huge	huge	ADJ	JJ	Degree=Pos	2	amod	_	start_char=145|end_char=149
+2	difference	difference	NOUN	NN	Number=Sing	0	root	_	start_char=150|end_char=160
+3	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=161|end_char=166
+
+1	&gt	&gt	INTJ	UH	_	3	discourse	_	start_char=168|end_char=171
+2	;	;	PUNCT	,	_	3	punct	_	start_char=171|end_char=172
+3	Call	call	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=173|end_char=177
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=178|end_char=180
+5	even	even	ADV	RB	_	7	advmod	_	start_char=181|end_char=185
+6	for	for	ADP	IN	_	7	case	_	start_char=186|end_char=189
+7	tippett	tippett	NOUN	NN	Number=Sing	3	obl	_	start_char=190|end_char=197
+8	!	!	PUNCT	.	_	3	punct	_	start_char=197|end_char=198
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=200|end_char=201
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=202|end_char=204
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=204|end_char=207
+4	take	take	VERB	VB	VerbForm=Inf	0	root	_	start_char=208|end_char=212
+5	any	any	DET	DT	_	7	det	_	start_char=213|end_char=216
+6	crows	crow	NOUN	NNS	Number=Plur	7	compound	_	start_char=217|end_char=222
+7	fan	fan	NOUN	NN	Number=Sing	4	obj	_	start_char=223|end_char=226
+8	seriously	seriously	ADV	RB	_	4	advmod	_	start_char=227|end_char=236
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=237|end_char=241
+10	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=242|end_char=246
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	10	obj	_	start_char=247|end_char=251
+12	.	.	PUNCT	.	_	4	punct	_	start_char=251|end_char=252
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=253|end_char=260
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=261|end_char=266
+3	so	so	ADV	RB	_	4	advmod	_	start_char=267|end_char=269
+4	salty	salty	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=270|end_char=275
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=276|end_char=279
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=280|end_char=288
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=289|end_char=293
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=294|end_char=297
+9	blame	blame	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=298|end_char=303
+10	Sydney	Sydney	PROPN	NNP	Number=Sing	9	obj	_	start_char=304|end_char=310
+11	for	for	ADP	IN	_	12	case	_	start_char=311|end_char=314
+12	something	something	PRON	NN	Number=Sing	9	obl	_	start_char=315|end_char=324
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=325|end_char=329
+14	club	club	NOUN	NN	Number=Sing	17	nsubj	_	start_char=330|end_char=334
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=335|end_char=338
+16	at	at	ADP	IN	_	17	case	_	start_char=339|end_char=341
+17	fault	fault	NOUN	NN	Number=Sing	12	acl:relcl	_	start_char=342|end_char=347
+18	for	for	ADP	IN	_	23	case	_	start_char=348|end_char=351
+19	[	[	PUNCT	-LRB-	_	23	punct	_	start_char=352|end_char=353
+20	by	by	ADP	IN	_	23	case	_	start_char=353|end_char=355
+21	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=356|end_char=361
+22	own	own	ADJ	JJ	Degree=Pos	23	amod	_	start_char=362|end_char=365
+23	admission	admission	NOUN	NN	Number=Sing	17	obl	_	start_char=366|end_char=375
+24	]	]	PUNCT	-RRB-	_	23	punct	_	start_char=375|end_char=376
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=376|end_char=377
+2	https://www.foxsports.com.au/afl/department-of-trade/dummies-guide-to-kurt-tippett-saga-we-work-out-what-went-wrong-who-did-it-and-whatll-happen-next/news-story/ed5453a6487c31b0376cfe7e2275ef6e),	https://www.foxsports.com.au/afl/department-of-trade/dummies-guide-to-kurt-tippett-saga-we-work-out-what-went-wrong-who-did-it-and-whatll-happen-next/news-story/ed5453a6487c31b0376cfe7e2275ef6e),	X	ADD	_	0	root	_	start_char=377|end_char=572
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=573|end_char=576
+4	TEN	ten	NUM	CD	NumType=Card	2	conj	_	start_char=577|end_char=580
+5	FUCKING	fucking	ADJ	JJ	Degree=Pos	6	amod	_	start_char=581|end_char=588
+6	YEARS	year	NOUN	NNS	Number=Plur	7	obl:npmod	_	start_char=589|end_char=594
+7	AGO	ago	ADV	RB	_	2	advmod	_	start_char=595|end_char=598
+8	to	to	PART	TO	_	9	mark	_	start_char=599|end_char=601
+9	boot	boot	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=602|end_char=606
+10	.	.	PUNCT	.	_	2	punct	_	start_char=606|end_char=607
+

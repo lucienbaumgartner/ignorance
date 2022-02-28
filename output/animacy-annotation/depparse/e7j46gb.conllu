@@ -1,0 +1,79 @@
+1	Bedroom	bedroom	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=7
+2	stamina	stamina	NOUN	NN	Number=Sing	3	nsubj	_	start_char=8|end_char=15
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=19
+4	ZERO	zero	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=24
+5	to	to	PART	TO	_	6	mark	_	start_char=25|end_char=27
+6	do	do	VERB	VB	VerbForm=Inf	4	acl	_	start_char=28|end_char=30
+7	with	with	ADP	IN	_	9	case	_	start_char=31|end_char=35
+8	physical	physical	ADJ	JJ	Degree=Pos	9	amod	_	start_char=36|end_char=44
+9	fitness	fitness	NOUN	NN	Number=Sing	6	obl	_	start_char=45|end_char=52
+10	.	.	PUNCT	.	_	3	punct	_	start_char=52|end_char=53
+
+1	Nothing	nothing	PRON	NN	Number=Sing	0	root	_	start_char=55|end_char=62
+2	.	.	PUNCT	.	_	1	punct	_	start_char=62|end_char=63
+3	Nada	Nada	PROPN	NNP	Number=Sing	1	vocative	_	start_char=65|end_char=69
+4	.	.	PUNCT	.	_	1	punct	_	start_char=69|end_char=70
+
+1	Zip	zip	NOUN	NN	Number=Sing	0	root	_	start_char=72|end_char=75
+2	.	.	PUNCT	.	_	1	punct	_	start_char=75|end_char=76
+
+1	Sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=78|end_char=84
+2	like	like	SCONJ	IN	_	7	mark	_	start_char=85|end_char=89
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=90|end_char=94
+4	guy	guy	NOUN	NN	Number=Sing	7	nsubj	_	start_char=95|end_char=98
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=99|end_char=101
+6	just	just	ADV	RB	_	7	advmod	_	start_char=102|end_char=106
+7	selfish	selfish	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=107|end_char=114
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=115|end_char=118
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=119|end_char=126
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=127|end_char=131
+11	there	there	PRON	EX	_	12	expl	_	start_char=132|end_char=137
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=138|end_char=140
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=141|end_char=142
+14	2nd	2nd	ADJ	JJ	Degree=Pos|NumType=Ord	15	amod	_	start_char=143|end_char=146
+15	person	person	NOUN	NN	Number=Sing	12	nsubj	_	start_char=147|end_char=153
+16	in	in	ADP	IN	_	17	case	_	start_char=154|end_char=156
+17	bed	bed	NOUN	NN	Number=Sing	15	nmod	_	start_char=157|end_char=160
+18	with	with	ADP	IN	_	19	case	_	start_char=161|end_char=165
+19	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=166|end_char=169
+20	.	.	PUNCT	.	_	1	punct	_	start_char=169|end_char=170
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=172|end_char=174
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=175|end_char=178
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=178|end_char=181
+4	wanting	want	VERB	VBG	Tense=Pres|VerbForm=Part	11	advcl	_	start_char=182|end_char=189
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=190|end_char=191
+6	relationship	relationship	NOUN	NN	Number=Sing	4	obj	_	start_char=192|end_char=204
+7	with	with	ADP	IN	_	9	case	_	start_char=205|end_char=209
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=210|end_char=214
+9	guy	guy	NOUN	NN	Number=Sing	6	nmod	_	start_char=215|end_char=218
+10	,	,	PUNCT	,	_	4	punct	_	start_char=218|end_char=219
+11	talk	talk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=220|end_char=224
+12	to	to	ADP	IN	_	13	case	_	start_char=225|end_char=227
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=228|end_char=231
+14	about	about	ADP	IN	_	16	case	_	start_char=232|end_char=237
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=238|end_char=242
+16	concerns	concern	NOUN	NNS	Number=Plur	11	obl	_	start_char=243|end_char=251
+17	.	.	PUNCT	.	_	11	punct	_	start_char=251|end_char=252
+
+1	If	if	SCONJ	IN	_	6	mark	_	start_char=254|end_char=256
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=257|end_char=259
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=259|end_char=261
+4	just	just	ADV	RB	_	6	advmod	_	start_char=262|end_char=266
+5	casual	casual	ADJ	JJ	Degree=Pos	6	amod	_	start_char=267|end_char=273
+6	FWB	fwb	NOUN	NN	Number=Sing	9	advcl	_	start_char=274|end_char=277
+7	,	,	PUNCT	,	_	9	punct	_	start_char=277|end_char=278
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nsubj	_	start_char=279|end_char=283
+9	getting	get	AUX	VBG	VerbForm=Ger	0	root	_	start_char=284|end_char=291
+10	screwed	screw	VERB	VBN	Tense=Past|VerbForm=Part	9	xcomp	_	start_char=292|end_char=299
+11	!	!	PUNCT	.	_	9	punct	_	start_char=299|end_char=300
+
+1	Find	find	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=302|end_char=306
+2	someone	someone	PRON	NN	Number=Sing	1	obj	_	start_char=307|end_char=314
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=315|end_char=318
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=319|end_char=322
+5	meet	meet	VERB	VB	VerbForm=Inf	2	acl:relcl	_	start_char=323|end_char=327
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=328|end_char=332
+7	needs	need	NOUN	NNS	Number=Plur	5	obj	_	start_char=333|end_char=338
+8	!	!	PUNCT	.	_	1	punct	_	start_char=338|end_char=339
+

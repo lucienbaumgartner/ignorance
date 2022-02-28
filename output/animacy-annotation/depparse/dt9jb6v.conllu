@@ -1,0 +1,21 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	Instead	instead	ADV	RB	_	3	mark	_	start_char=4|end_char=11
+2	of	of	SCONJ	IN	_	1	fixed	_	start_char=12|end_char=14
+3	showing	show	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=15|end_char=22
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=23|end_char=25
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=26|end_char=29
+6	MSM	MSM	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=30|end_char=33
+7	spins	spin	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=39
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=40|end_char=42
+9	for	for	ADP	IN	_	14	case	_	start_char=43|end_char=46
+10	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=47|end_char=50
+11	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=51|end_char=58
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=59|end_char=62
+13	compliant	compliant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=63|end_char=72
+14	citizenry	citizenry	NOUN	NN	Number=Sing	7	obl	_	start_char=73|end_char=82
+15	to	to	PART	TO	_	16	mark	_	start_char=83|end_char=85
+16	consume	consume	VERB	VB	VerbForm=Inf	14	acl	_	start_char=86|end_char=93
+17	.	.	PUNCT	.	_	7	punct	_	start_char=93|end_char=94
+

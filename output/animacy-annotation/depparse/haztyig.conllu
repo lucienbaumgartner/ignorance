@@ -1,0 +1,36 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=7
+3	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+5	“	''	PUNCT	``	_	6	punct	_	start_char=17|end_char=18
+6	journalist	journalist	NOUN	NN	Number=Sing	3	obj	_	start_char=18|end_char=28
+7	”	''	PUNCT	''	_	6	punct	_	start_char=28|end_char=29
+8	never	never	ADV	RB	_	10	advmod	_	start_char=30|end_char=35
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=36|end_char=44
+10	watched	watch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=45|end_char=52
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=53|end_char=56
+12	show	show	NOUN	NN	Number=Sing	10	obj	_	start_char=57|end_char=61
+13	.	.	PUNCT	.	_	3	punct	_	start_char=61|end_char=62
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=63|end_char=66
+2	Joke	joke	NOUN	NN	Number=Sing	4	nsubj	_	start_char=67|end_char=71
+3	there	there	PRON	EX	_	2	advmod	_	start_char=72|end_char=77
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=78|end_char=80
+5	that	that	SCONJ	IN	_	10	mark	_	start_char=81|end_char=85
+6	butters	butter	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=86|end_char=93
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=94|end_char=97
+8	Cartman	Cartman	PROPN	NNP	Number=Sing	6	conj	_	start_char=98|end_char=105
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=106|end_char=109
+10	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=110|end_char=116
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=117|end_char=120
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=121|end_char=129
+13	of	of	ADP	IN	_	15	case	_	start_char=130|end_char=132
+14	Chinese	Chinese	ADJ	JJ	Degree=Pos	15	amod	_	start_char=133|end_char=140
+15	peopel	peopel	NOUN	NNS	Number=Plur	12	obl	_	start_char=141|end_char=147
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=148|end_char=151
+17	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	conj	_	start_char=152|end_char=156
+18	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	start_char=157|end_char=167
+19	look	look	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=168|end_char=172
+20	like	like	ADP	IN	_	21	case	_	start_char=173|end_char=177
+21	fools	fool	NOUN	NNS	Number=Plur	19	obl	_	start_char=178|end_char=183
+

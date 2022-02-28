@@ -1,0 +1,64 @@
+1	RT	RT	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=2
+2	@feeonline	@feeonline	PROPN	NNP	Number=Sing	1	flat	_	start_char=3|end_char=13
+3	:	:	PUNCT	:	_	1	punct	_	start_char=13|end_char=14
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=15|end_char=17
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=17|end_char=19
+3	simply	simply	ADV	RB	Degree=Pos	4	advmod	_	start_char=20|end_char=26
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=32
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=33|end_char=36
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=37|end_char=45
+7	of	of	ADP	IN	_	9	case	_	start_char=46|end_char=48
+8	human	human	ADJ	JJ	Degree=Pos	9	amod	_	start_char=49|end_char=54
+9	nature	nature	NOUN	NN	Number=Sing	6	obl	_	start_char=55|end_char=61
+10	to	to	PART	TO	_	11	mark	_	start_char=62|end_char=64
+11	expect	expect	VERB	VB	VerbForm=Inf	4	csubj	_	start_char=65|end_char=71
+12	people	people	NOUN	NNS	Number=Plur	11	obj	_	start_char=72|end_char=78
+13	—	—	PUNCT	:	_	16	punct	_	start_char=78|end_char=79
+14	especially	especially	ADV	RB	Degree=Pos	16	advmod	_	start_char=79|end_char=89
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=90|end_char=93
+16	kind	kind	NOUN	NN	Number=Sing	4	parataxis	_	start_char=94|end_char=98
+17	of	of	ADP	IN	_	18	case	_	start_char=99|end_char=101
+18	people	people	NOUN	NNS	Number=Plur	16	nmod	_	start_char=102|end_char=108
+19	who	who	PRON	WP	PronType=Rel	20	nsubj	_	start_char=109|end_char=112
+20	become	become	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	start_char=113|end_char=119
+21	politicians	politician	NOUN	NNS	Number=Plur	20	xcomp	_	start_char=120|end_char=131
+22	—	—	PUNCT	:	_	24	punct	_	start_char=131|end_char=132
+23	to	to	PART	TO	_	24	mark	_	start_char=132|end_char=134
+24	dole	do	VERB	VB	VerbForm=Inf	20	xcomp	_	start_char=135|end_char=139
+25	…	…	PUNCT	:	_	4	punct	_	start_char=139|end_char=140
+
+1	***	***	PUNCT	NFP	_	0	root	_	start_char=142|end_char=145
+
+1	posted	post	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=147|end_char=153
+2	by	by	ADP	IN	_	5	case	_	start_char=154|end_char=156
+3	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=157|end_char=158
+4	@	@	ADP	IN	_	5	case	_	start_char=158|end_char=159
+5	Unathi_Kwaza	Unathi_Kwaza	PROPN	NNP	Number=Sing	1	obl	_	start_char=159|end_char=171
+6	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=171|end_char=172
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=172|end_char=173
+2	https://twitter.com/Unathi_Kwaza)	https://twitter.com/unathi_kwaza)	X	ADD	_	0	root	_	start_char=173|end_char=206
+
+1	^	^	PROPN	NNP	Number=Sing	0	root	_	start_char=208|end_char=209
+2	[	[	PUNCT	-LRB-	_	4	punct	_	start_char=209|end_char=210
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=210|end_char=211
+4	Github	Github	PROPN	NNP	Number=Sing	1	appos	_	start_char=211|end_char=217
+5	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=217|end_char=218
+6	]	]	PUNCT	-RRB-	_	4	punct	_	start_char=218|end_char=219
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=219|end_char=220
+2	https://github.com/username)	https://github.com/username)	X	ADD	_	0	root	_	start_char=220|end_char=248
+3	^|	^|	PUNCT	,	_	2	punct	_	start_char=249|end_char=251
+4	^	^	X	ADD	_	2	list	_	start_char=252|end_char=253
+5	[	[	PUNCT	-LRB-	_	9	punct	_	start_char=253|end_char=254
+6	(	(	PUNCT	-LRB-	_	9	punct	_	start_char=254|end_char=255
+7	What	what	PRON	WP	PronType=Int	9	nsubj	_	start_char=255|end_char=259
+8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=259|end_char=261
+9	new	new	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=262|end_char=265
+10	)	)	PUNCT	-RRB-	_	9	punct	_	start_char=265|end_char=266
+11	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=266|end_char=267
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=267|end_char=268
+2	https://github.com/username)	https://github.com/username)	X	ADD	_	0	root	_	start_char=268|end_char=296
+

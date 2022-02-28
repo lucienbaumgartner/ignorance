@@ -1,0 +1,22 @@
+1	https://www.dailypost.co.uk/news/north-wales-news/donations-wrexham-afc-soar-after-18423283	https://www.dailypost.co.uk/news/north-wales-news/donations-wrexham-afc-soar-after-18423283	X	ADD	_	0	root	_	start_char=0|end_char=91
+
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=93|end_char=97
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=98|end_char=101
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=102|end_char=105
+4	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=116
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=117|end_char=120
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=121|end_char=129
+7	.	.	PUNCT	.	_	4	punct	_	start_char=129|end_char=130
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=131|end_char=135
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=136|end_char=138
+3	just	just	ADV	RB	_	5	advmod	_	start_char=139|end_char=143
+4	one	one	NUM	CD	NumType=Card	5	nummod	_	start_char=144|end_char=147
+5	example	example	NOUN	NN	Number=Sing	0	root	_	start_char=148|end_char=155
+6	from	from	ADP	IN	_	8	case	_	start_char=156|end_char=160
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=161|end_char=164
+8	club	club	NOUN	NN	Number=Sing	5	nmod	_	start_char=165|end_char=169
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=170|end_char=171
+10	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=172|end_char=179
+11	.	.	PUNCT	.	_	5	punct	_	start_char=179|end_char=180
+

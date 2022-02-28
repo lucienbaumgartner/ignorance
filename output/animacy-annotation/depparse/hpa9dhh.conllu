@@ -1,0 +1,48 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=12
+4	.	.	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=14|end_char=16
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=16|end_char=18
+3	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=19|end_char=25
+4	Agriculture	Agriculture	PROPN	NNP	Number=Sing	3	xcomp	_	start_char=26|end_char=37
+5	.	.	PUNCT	.	_	3	punct	_	start_char=37|end_char=38
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=39|end_char=42
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=43|end_char=45
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=45|end_char=47
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	start_char=48|end_char=52
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=53|end_char=54
+6	staple	staple	NOUN	NN	Number=Sing	0	root	_	start_char=55|end_char=61
+7	of	of	ADP	IN	_	9	case	_	start_char=62|end_char=64
+8	Human	human	ADJ	JJ	Degree=Pos	9	amod	_	start_char=65|end_char=70
+9	survival	survival	NOUN	NN	Number=Sing	6	nmod	_	start_char=71|end_char=79
+10	for	for	ADP	IN	_	11	case	_	start_char=80|end_char=83
+11	something	something	NOUN	NN	Number=Sing	6	nmod	_	start_char=84|end_char=93
+12	approaching	approach	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=94|end_char=105
+13	10,000	10000	NUM	CD	NumForm=Digit|NumType=Card	14	nummod	_	start_char=106|end_char=112
+14	years	year	NOUN	NNS	Number=Plur	12	obl:tmod	_	start_char=113|end_char=118
+15	.	.	PUNCT	.	_	6	punct	_	start_char=118|end_char=119
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=120|end_char=122
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=122|end_char=124
+3	not	not	PART	RB	_	4	advmod	_	start_char=125|end_char=128
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=129|end_char=134
+5	anywhere	anywhere	ADV	RB	_	4	advmod	_	start_char=135|end_char=143
+6	and	and	CCONJ	CC	_	11	cc	_	start_char=144|end_char=147
+7	Pooh	Pooh	PROPN	NNP	Number=Sing	8	compound	_	start_char=148|end_char=152
+8	poohing	pooh	VERB	VBG	VerbForm=Ger	11	csubj	_	start_char=153|end_char=160
+9	such	such	ADJ	JJ	Degree=Pos	10	amod	_	start_char=161|end_char=165
+10	things	thing	NOUN	NNS	Number=Plur	8	obj	_	start_char=166|end_char=172
+11	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=173|end_char=178
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obj	_	start_char=179|end_char=182
+13	look	look	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=183|end_char=187
+14	like	like	ADP	IN	_	19	case	_	start_char=188|end_char=192
+15	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=193|end_char=195
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	19	amod	_	start_char=196|end_char=204
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=205|end_char=208
+18	indignant	indignant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=209|end_char=218
+19	poser	poser	NOUN	NN	Number=Sing	13	obl	_	start_char=219|end_char=224
+20	.	.	PUNCT	.	_	4	punct	_	start_char=224|end_char=225
+

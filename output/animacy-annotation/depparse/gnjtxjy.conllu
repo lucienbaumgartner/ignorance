@@ -1,0 +1,64 @@
+1	Yes	yes	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	absolutely	absolutely	ADV	RB	_	5	advmod	_	start_char=12|end_char=22
+5	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=28
+6	.	.	PUNCT	.	_	5	punct	_	start_char=28|end_char=29
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=30|end_char=32
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=33|end_char=36
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=37|end_char=43
+4	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=48
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=49|end_char=52
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=53|end_char=61
+7	of	of	ADP	IN	_	8	case	_	start_char=62|end_char=64
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obl	_	start_char=65|end_char=67
+9	.	.	PUNCT	.	_	4	punct	_	start_char=67|end_char=68
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=69|end_char=70
+2	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=71|end_char=75
+3	so	so	ADV	RB	_	4	advmod	_	start_char=76|end_char=78
+4	much	much	ADJ	JJ	Degree=Pos	5	amod	_	start_char=79|end_char=83
+5	guilt	guilt	NOUN	NN	Number=Sing	2	obj	_	start_char=84|end_char=89
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=90|end_char=93
+7	shame	shame	NOUN	NN	Number=Sing	5	conj	_	start_char=94|end_char=99
+8	afterwards	afterwards	ADV	RB	_	2	advmod	_	start_char=100|end_char=110
+9	even	even	ADV	RB	_	12	advmod	_	start_char=111|end_char=115
+10	though	though	SCONJ	IN	_	12	mark	_	start_char=116|end_char=122
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=123|end_char=124
+12	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=125|end_char=129
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=130|end_char=131
+14	small	small	ADJ	JJ	Degree=Pos	15	amod	_	start_char=132|end_char=137
+15	profit	profit	NOUN	NN	Number=Sing	12	obj	_	start_char=138|end_char=144
+16	of	of	ADP	IN	_	17	case	_	start_char=145|end_char=147
+17	$	$	SYM	$	_	15	nmod	_	start_char=148|end_char=149
+18	500	500	NUM	CD	NumType=Card	17	nummod	_	start_char=149|end_char=152
+19	but	but	CCONJ	CC	_	22	cc	_	start_char=153|end_char=156
+20	still	still	ADV	RB	_	22	advmod	_	start_char=157|end_char=162
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=163|end_char=164
+22	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=165|end_char=169
+23	terrible	terrible	ADJ	JJ	Degree=Pos	22	xcomp	_	start_char=170|end_char=178
+24	that	that	SCONJ	IN	_	30	mark	_	start_char=179|end_char=183
+25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	start_char=184|end_char=185
+26	person	person	NOUN	NN	Number=Sing	30	nsubj	_	start_char=186|end_char=192
+27	of	of	ADP	IN	_	29	case	_	start_char=193|end_char=195
+28	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	start_char=196|end_char=198
+29	age	age	NOUN	NN	Number=Sing	26	nmod	_	start_char=199|end_char=202
+30	fell	fall	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	ccomp	_	start_char=203|end_char=207
+31	for	for	ADP	IN	_	32	case	_	start_char=208|end_char=211
+32	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	obl	_	start_char=212|end_char=214
+33	.	.	PUNCT	.	_	2	punct	_	start_char=214|end_char=215
+
+1	Never	never	ADV	RB	_	2	advmod	_	start_char=216|end_char=221
+2	again	again	ADV	RB	_	0	root	_	start_char=222|end_char=227
+3	.	.	PUNCT	.	_	2	punct	_	start_char=227|end_char=228
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=229|end_char=230
+2	lesson	lesson	NOUN	NN	Number=Sing	3	nsubj	_	start_char=231|end_char=237
+3	learnt	learn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=238|end_char=244
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=245|end_char=249
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=249|end_char=251
+6	for	for	ADP	IN	_	7	case	_	start_char=252|end_char=255
+7	sure	sure	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=256|end_char=260
+8	.	.	PUNCT	.	_	3	punct	_	start_char=260|end_char=261
+

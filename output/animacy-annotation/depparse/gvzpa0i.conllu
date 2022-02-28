@@ -1,0 +1,48 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	prefix	prefix	NOUN	NN	Number=Sing	0	root	_	start_char=4|end_char=10
+
+1	Dr	Dr	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=11|end_char=13
+2	derives	derive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=21
+3	from	from	ADP	IN	_	4	case	_	start_char=22|end_char=26
+4	doctorate	doctorate	NOUN	NN	Number=Sing	2	obl	_	start_char=27|end_char=36
+5	as	as	ADP	IN	_	7	case	_	start_char=37|end_char=39
+6	in	in	ADP	IN	_	7	case	_	start_char=40|end_char=42
+7	PhD	PhD	PROPN	NNP	Number=Sing	2	obl	_	start_char=43|end_char=46
+8	.	.	PUNCT	.	_	2	punct	_	start_char=46|end_char=47
+
+1	So	so	ADV	RB	_	10	advmod	_	start_char=48|end_char=50
+2	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=51|end_char=52
+3	medical	medical	ADJ	JJ	Degree=Pos	5	amod	_	start_char=53|end_char=60
+4	"	"	PUNCT	``	_	5	punct	_	start_char=61|end_char=62
+5	doctor	doctor	NOUN	NN	Number=Sing	10	nsubj	_	start_char=62|end_char=68
+6	"	"	PUNCT	''	_	5	punct	_	start_char=68|end_char=69
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=70|end_char=72
+8	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=73|end_char=75
+9	honorary	honorary	ADJ	JJ	Degree=Pos	10	amod	_	start_char=76|end_char=84
+10	title	title	NOUN	NN	Number=Sing	0	root	_	start_char=85|end_char=90
+11	,	,	PUNCT	,	_	10	punct	_	start_char=90|end_char=91
+12	hence	hence	ADV	RB	_	15	advmod	_	start_char=92|end_char=97
+13	in	in	ADP	IN	_	15	case	_	start_char=98|end_char=100
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=101|end_char=104
+15	states	state	NOUN	NNS	Number=Plur	10	nmod	_	start_char=105|end_char=111
+16	why	why	SCONJ	WRB	PronType=Int	20	mark	_	start_char=112|end_char=115
+17	MD	MD	PROPN	NNP	Number=Sing	20	nsubj	_	start_char=116|end_char=118
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=119|end_char=121
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=122|end_char=123
+20	suffic	suffic	NOUN	NN	Number=Sing	15	acl:relcl	_	start_char=124|end_char=130
+21	.	.	PUNCT	.	_	10	punct	_	start_char=130|end_char=131
+
+1	So	so	ADV	RB	_	7	advmod	_	start_char=133|end_char=135
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=136|end_char=140
+3	coworkers	coworker	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=141|end_char=150
+4	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	start_char=151|end_char=155
+5	quite	quite	ADV	RB	_	7	advmod	_	start_char=156|end_char=161
+6	possibly	possibly	ADV	RB	_	7	advmod	_	start_char=162|end_char=170
+7	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=171|end_char=176
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=177|end_char=180
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=181|end_char=189
+10	of	of	ADP	IN	_	12	case	_	start_char=190|end_char=192
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=193|end_char=196
+12	facts	fact	NOUN	NNS	Number=Plur	9	obl	_	start_char=197|end_char=202
+13	.	.	PUNCT	.	_	7	punct	_	start_char=202|end_char=203
+

@@ -1,0 +1,17 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	might	might	AUX	MD	VerbForm=Fin	4	aux	_	start_char=5|end_char=10
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=11|end_char=13
+4	one	one	NUM	CD	NumType=Card	0	root	_	start_char=14|end_char=17
+5	of	of	ADP	IN	_	11	case	_	start_char=18|end_char=20
+6	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=21|end_char=24
+7	most	most	ADV	RBS	_	8	advmod	_	start_char=25|end_char=29
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=30|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	worst	bad	ADJ	JJS	Degree=Sup	8	conj	_	start_char=43|end_char=48
+11	takes	take	NOUN	NNS	Number=Plur	4	nmod	_	start_char=49|end_char=54
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=55|end_char=56
+13	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=56|end_char=59
+14	ever	ever	ADV	RB	_	15	advmod	_	start_char=60|end_char=64
+15	read	read	VERB	VBN	Tense=Past|VerbForm=Part	11	acl:relcl	_	start_char=65|end_char=69
+16	.	.	PUNCT	.	_	4	punct	_	start_char=69|end_char=70
+

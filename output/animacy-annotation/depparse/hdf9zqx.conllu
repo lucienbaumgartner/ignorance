@@ -1,0 +1,40 @@
+1	Omg	omg	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=4|end_char=5
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=5|end_char=7
+4	literally	literally	ADV	RB	_	5	advmod	_	start_char=8|end_char=17
+5	shaking	shake	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=18|end_char=25
+6	rn	rn	NOUN	NN	Number=Sing	5	obj	_	start_char=26|end_char=28
+7	.	.	PUNCT	.	_	5	punct	_	start_char=28|end_char=29
+
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=30|end_char=33
+2	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=34|end_char=39
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=40|end_char=43
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=44|end_char=46
+5	so	so	ADV	RB	_	6	advmod	_	start_char=47|end_char=49
+6	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=61
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=62|end_char=65
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=66|end_char=74
+9	of	of	ADP	IN	_	10	case	_	start_char=75|end_char=77
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=78|end_char=82
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=83|end_char=86
+12	people	people	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=87|end_char=93
+13	truly	truly	ADV	RB	_	14	advmod	_	start_char=94|end_char=99
+14	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=100|end_char=104
+15	.	.	PUNCT	.	_	6	punct	_	start_char=104|end_char=105
+
+1	Conservatives	Conservative	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=106|end_char=119
+2	r	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=120|end_char=121
+3	literally	literally	ADV	RB	_	4	advmod	_	start_char=122|end_char=131
+4	taliban	taliban	ADJ	JJ	Degree=Pos	0	root	_	start_char=132|end_char=139
+5	.	.	PUNCT	.	_	4	punct	_	start_char=139|end_char=140
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=141|end_char=143
+2	vaccine	vaccine	NOUN	NN	Number=Sing	3	nsubj	_	start_char=144|end_char=151
+3	protects	protect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=152|end_char=160
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=161|end_char=164
+5	,	,	PUNCT	,	_	3	punct	_	start_char=164|end_char=165
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=166|end_char=170
+7	vaccine	vaccine	NOUN	NN	Number=Sing	8	nsubj	_	start_char=171|end_char=178
+8	protects	protect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=179|end_char=187
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=188|end_char=190
+

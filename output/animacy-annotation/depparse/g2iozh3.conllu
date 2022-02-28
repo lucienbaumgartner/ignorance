@@ -1,0 +1,21 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=4|end_char=10
+3	six	six	NUM	CD	NumType=Card	4	nummod	_	start_char=11|end_char=14
+4	months	month	NOUN	NNS	Number=Plur	2	obl:tmod	_	start_char=15|end_char=21
+5	to	to	PART	TO	_	6	mark	_	start_char=22|end_char=24
+6	post	post	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=25|end_char=29
+7	on	on	ADP	IN	_	10	case	_	start_char=30|end_char=32
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=33|end_char=34
+9	public	public	ADJ	JJ	Degree=Pos	10	amod	_	start_char=35|end_char=41
+10	forum	forum	NOUN	NN	Number=Sing	6	obl	_	start_char=42|end_char=47
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=48|end_char=51
+12	unaware	unaware	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=52|end_char=59
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=60|end_char=63
+14	stupid	stupid	ADJ	JJ	Degree=Pos	12	conj	_	start_char=64|end_char=70
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=71|end_char=74
+16	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=75|end_char=78
+17	.	.	PUNCT	.	_	2	punct	_	start_char=78|end_char=79
+
+1	Amazing	amazing	ADJ	JJ	Degree=Pos	0	root	_	start_char=80|end_char=87
+2	.	.	PUNCT	.	_	1	punct	_	start_char=87|end_char=88
+

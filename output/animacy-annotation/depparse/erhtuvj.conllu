@@ -1,0 +1,59 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Using	use	VERB	VBG	VerbForm=Ger	9	csubj	_	start_char=4|end_char=9
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=10|end_char=13
+3	term	term	NOUN	NN	Number=Sing	1	obj	_	start_char=14|end_char=18
+4	in	in	ADP	IN	_	7	case	_	start_char=19|end_char=21
+5	any	any	DET	DT	_	7	det	_	start_char=22|end_char=25
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=26|end_char=31
+7	context	context	NOUN	NN	Number=Sing	3	nmod	_	start_char=32|end_char=39
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=40|end_char=42
+9	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=48
+10	.	.	PUNCT	.	_	9	punct	_	start_char=48|end_char=49
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=51|end_char=55
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=55|end_char=57
+3	giving	give	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=58|end_char=64
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=65|end_char=67
+5	to	to	ADP	IN	_	7	case	_	start_char=68|end_char=70
+6	much	much	ADJ	JJ	Degree=Pos	7	amod	_	start_char=71|end_char=75
+7	credit	credit	NOUN	NN	Number=Sing	3	obl	_	start_char=76|end_char=82
+8	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	Using	use	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=84|end_char=89
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=90|end_char=93
+3	term	term	NOUN	NN	Number=Sing	1	obj	_	start_char=94|end_char=98
+4	in	in	ADP	IN	_	6	case	_	start_char=99|end_char=101
+5	another	another	DET	DT	_	6	det	_	start_char=102|end_char=109
+6	context	context	NOUN	NN	Number=Sing	3	nmod	_	start_char=110|end_char=117
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=118|end_char=120
+8	so	so	ADV	RB	_	9	advmod	_	start_char=121|end_char=123
+9	unbelievably	unbelievably	ADV	RB	_	10	advmod	_	start_char=124|end_char=136
+10	asinine	asinine	ADJ	JJ	Degree=Pos	0	root	_	start_char=137|end_char=144
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=145|end_char=149
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=150|end_char=152
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=152|end_char=154
+14	not	not	PART	RB	_	16	advmod	_	start_char=155|end_char=158
+15	even	even	ADV	RB	_	16	advmod	_	start_char=159|end_char=163
+16	false	false	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=164|end_char=169
+17	.	.	PUNCT	.	_	10	punct	_	start_char=169|end_char=170
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=171|end_char=173
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=173|end_char=175
+3	so	so	ADV	RB	_	4	advmod	_	start_char=176|end_char=178
+4	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=179|end_char=186
+5	stupid	stupid	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=187|end_char=193
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=194|end_char=197
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=198|end_char=206
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=207|end_char=211
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=212|end_char=214
+10	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=215|end_char=218
+11	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	start_char=219|end_char=226
+12	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=227|end_char=229
+13	unfathomable	unfathomable	ADJ	JJ	Degree=Pos	14	amod	_	start_char=230|end_char=242
+14	dimension	dimension	NOUN	NN	Number=Sing	11	obj	_	start_char=243|end_char=252
+15	beyond	beyond	ADP	IN	_	16	case	_	start_char=253|end_char=259
+16	falsehood	falsehood	NOUN	NN	Number=Sing	14	nmod	_	start_char=260|end_char=269
+17	.	.	PUNCT	.	_	4	punct	_	start_char=269|end_char=270
+

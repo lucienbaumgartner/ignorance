@@ -1,0 +1,30 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	more	more	ADJ	JJR	Degree=Cmp	2	obj	_	start_char=9|end_char=13
+4	about	about	ADP	IN	_	6	case	_	start_char=14|end_char=19
+5	business	business	NOUN	NN	Number=Sing	6	compound	_	start_char=20|end_char=28
+6	profits	profit	NOUN	NNS	Number=Plur	3	obl	_	start_char=29|end_char=36
+7	than	than	SCONJ	IN	_	9	mark	_	start_char=37|end_char=41
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=42|end_char=45
+9	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=46|end_char=48
+10	about	about	ADP	IN	_	12	case	_	start_char=49|end_char=54
+11	human	human	ADJ	JJ	Degree=Pos	12	amod	_	start_char=55|end_char=60
+12	life	life	NOUN	NN	Number=Sing	9	obl	_	start_char=61|end_char=65
+13	.	.	PUNCT	.	_	2	punct	_	start_char=65|end_char=66
+
+1	Hence	hence	ADV	RB	_	5	advmod	_	start_char=68|end_char=73
+2	why	why	SCONJ	WRB	PronType=Int	5	mark	_	start_char=74|end_char=77
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=78|end_char=81
+4	'd	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=81|end_char=83
+5	propose	propose	VERB	VB	VerbForm=Inf	0	root	_	start_char=84|end_char=91
+6	banning	ban	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=92|end_char=99
+7	lockdowns	lockdown	NOUN	NNS	Number=Plur	6	obj	_	start_char=100|end_char=109
+8	.	.	PUNCT	.	_	2	punct	_	start_char=109|end_char=110
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=112|end_char=116
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=116|end_char=118
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=119|end_char=127
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=128|end_char=131
+5	wrong	wrong	ADJ	JJ	Degree=Pos	3	conj	_	start_char=132|end_char=137
+6	.	.	PUNCT	.	_	3	punct	_	start_char=137|end_char=138
+

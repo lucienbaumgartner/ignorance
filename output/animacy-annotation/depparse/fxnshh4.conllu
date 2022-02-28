@@ -1,0 +1,35 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=8
+3	*	*	PUNCT	NFP	_	6	punct	_	start_char=9|end_char=10
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=10|end_char=14
+5	*	*	PUNCT	NFP	_	6	punct	_	start_char=14|end_char=15
+6	dense	dense	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=21
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=22|end_char=25
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=26|end_char=34
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=35|end_char=39
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=40|end_char=45
+11	awareness	awareness	NOUN	NN	Number=Sing	14	nsubj:pass	_	start_char=46|end_char=55
+12	must	must	AUX	MD	VerbForm=Fin	14	aux	_	start_char=56|end_char=60
+13	be	be	AUX	VB	VerbForm=Inf	14	aux:pass	_	start_char=61|end_char=63
+14	broke	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	start_char=64|end_char=69
+15	.	.	PUNCT	.	_	6	punct	_	start_char=69|end_char=70
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=71|end_char=73
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=73|end_char=75
+3	kinda	kinda	ADV	RB	Degree=Pos	4	advmod	_	start_char=76|end_char=81
+4	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=82|end_char=85
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=86|end_char=90
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=91|end_char=95
+7	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=96|end_char=98
+8	n't	not	PART	RB	Polarity=Neg	9	advmod	_	start_char=98|end_char=101
+9	understand	understand	VERB	VB	VerbForm=Inf	4	csubj	_	start_char=102|end_char=112
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=113|end_char=117
+11	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=117|end_char=120
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=121|end_char=124
+13	butt	butt	NOUN	NN	Number=Sing	9	ccomp	_	start_char=125|end_char=129
+14	of	of	ADP	IN	_	17	case	_	start_char=130|end_char=132
+15	so	so	ADV	RB	_	16	advmod	_	start_char=133|end_char=135
+16	many	many	ADJ	JJ	Degree=Pos	17	amod	_	start_char=136|end_char=140
+17	jokes	joke	NOUN	NNS	Number=Plur	13	nmod	_	start_char=141|end_char=146
+18	.	.	PUNCT	.	_	4	punct	_	start_char=146|end_char=147
+

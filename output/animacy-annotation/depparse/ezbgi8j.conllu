@@ -1,0 +1,42 @@
+1	From	from	ADP	IN	_	2	case	_	start_char=0|end_char=4
+2	someone	someone	PRON	NN	Number=Sing	10	obl	_	start_char=5|end_char=12
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=13|end_char=16
+4	also	also	ADV	RB	_	5	advmod	_	start_char=17|end_char=21
+5	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=22|end_char=26
+6	-	-	PUNCT	,	_	2	punct	_	start_char=26|end_char=27
+7	no	no	DET	DT	_	10	obj	_	start_char=28|end_char=30
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=31|end_char=34
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=35|end_char=37
+10	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=38|end_char=45
+11	not	not	PART	RB	_	10	advmod	_	start_char=46|end_char=49
+12	.	.	PUNCT	.	_	10	punct	_	start_char=49|end_char=50
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=51|end_char=54
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=55|end_char=57
+3	narcissistic	narcissistic	ADJ	JJ	Degree=Pos	0	root	_	start_char=58|end_char=70
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=71|end_char=74
+5	delusional	delusional	ADJ	JJ	Degree=Pos	3	conj	_	start_char=75|end_char=85
+6	,	,	PUNCT	,	_	7	punct	_	start_char=85|end_char=86
+7	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=87|end_char=94
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=95|end_char=98
+9	unable	unable	ADJ	JJ	Degree=Pos	3	conj	_	start_char=99|end_char=105
+10	to	to	PART	TO	_	12	mark	_	start_char=106|end_char=108
+11	truly	truly	ADV	RB	_	12	advmod	_	start_char=109|end_char=114
+12	confront	confront	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=115|end_char=123
+13	facts	fact	NOUN	NNS	Number=Plur	12	obj	_	start_char=124|end_char=129
+14	.	.	PUNCT	.	_	3	punct	_	start_char=129|end_char=130
+
+1	BPD	BPD	PROPN	NNP	Number=Sing	2	compound	_	start_char=131|end_char=134
+2	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=135|end_char=141
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=142|end_char=145
+4	not	not	PART	RB	_	6	advmod	_	start_char=146|end_char=149
+5	like	like	ADP	IN	_	6	case	_	start_char=150|end_char=154
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=155|end_char=159
+7	.	.	PUNCT	.	_	6	punct	_	start_char=159|end_char=160
+
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=161|end_char=165
+2	spreading	spread	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=166|end_char=175
+3	armchair	armchair	ADJ	JJ	Degree=Pos	4	amod	_	start_char=176|end_char=184
+4	psychology	psychology	NOUN	NN	Number=Sing	2	obj	_	start_char=185|end_char=195
+5	BS.	BS.	PROPN	NNP	Number=Sing	2	obj	_	start_char=196|end_char=199
+

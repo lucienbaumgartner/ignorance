@@ -1,0 +1,17 @@
+1	Curt	Curt	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=4
+2	schilling	schilling	PROPN	NNP	Number=Sing	1	flat	_	start_char=5|end_char=14
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=17
+4	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	...	...	PUNCT	,	_	4	punct	_	start_char=34|end_char=37
+8	of	of	ADP	IN	_	11	advmod	_	start_char=37|end_char=39
+9	course	course	NOUN	NN	Number=Sing	8	fixed	_	start_char=40|end_char=46
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=47|end_char=49
+11	likes	like	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=50|end_char=55
+12	old	old	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=56|end_char=59
+13	,	,	PUNCT	,	_	14	punct	_	start_char=59|end_char=60
+14	dipshit	dipshit	NOUN	NN	Number=Sing	11	obj	_	start_char=61|end_char=68
+15	Ttump	Ttump	PROPN	NNP	Number=Sing	11	obj	_	start_char=69|end_char=74
+16	.	.	PUNCT	.	_	4	punct	_	start_char=74|end_char=75
+

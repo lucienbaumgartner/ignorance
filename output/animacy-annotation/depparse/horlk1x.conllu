@@ -1,0 +1,19 @@
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=4
+2	comments	comment	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=5|end_char=13
+3	just	just	ADV	RB	_	4	advmod	_	start_char=14|end_char=18
+4	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=23
+5	riled	rile	VERB	VBN	Tense=Past|VerbForm=Part	4	xcomp	_	start_char=24|end_char=29
+6	up	up	ADP	RP	_	5	compound:prt	_	start_char=30|end_char=32
+7	about	about	SCONJ	IN	_	8	mark	_	start_char=33|end_char=38
+8	realizing	realize	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=39|end_char=48
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=49|end_char=52
+10	dumb	dumb	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=53|end_char=57
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=58|end_char=61
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=62|end_char=70
+13	of	of	ADP	IN	_	14	case	_	start_char=71|end_char=73
+14	reality	reality	NOUN	NN	Number=Sing	12	obl	_	start_char=74|end_char=81
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=82|end_char=87
+16	neighbors	neighbor	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=88|end_char=97
+17	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=98|end_char=101
+18	.	.	PUNCT	.	_	4	punct	_	start_char=101|end_char=102
+

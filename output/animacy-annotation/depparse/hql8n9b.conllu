@@ -1,0 +1,87 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=5|end_char=6
+4	Black	Black	ADJ	JJ	Degree=Pos	5	amod	_	start_char=7|end_char=12
+5	woman	woman	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=18
+6	.	.	PUNCT	.	_	5	punct	_	start_char=18|end_char=19
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=20|end_char=21
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=22|end_char=32
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=33|end_char=37
+4	article	article	NOUN	NN	Number=Sing	2	obj	_	start_char=38|end_char=45
+5	.	.	PUNCT	.	_	2	punct	_	start_char=45|end_char=46
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=47|end_char=48
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=49|end_char=59
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=60|end_char=63
+4	tendency	tendency	NOUN	NN	Number=Sing	2	obj	_	start_char=64|end_char=72
+5	of	of	ADP	IN	_	6	case	_	start_char=73|end_char=75
+6	media	media	NOUN	NN	Number=Sing	4	nmod	_	start_char=76|end_char=81
+7	to	to	PART	TO	_	9	mark	_	start_char=82|end_char=84
+8	not	not	PART	RB	_	9	advmod	_	start_char=85|end_char=88
+9	portray	portray	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=89|end_char=96
+10	dark	dark	ADJ	JJ	Degree=Pos	13	amod	_	start_char=97|end_char=101
+11	skin	skin	NOUN	NN	Number=Sing	13	compound	_	start_char=102|end_char=106
+12	Black	Black	ADJ	JJ	Degree=Pos	13	amod	_	start_char=107|end_char=112
+13	women	woman	NOUN	NNS	Number=Plur	9	obj	_	start_char=113|end_char=118
+14	with	with	ADP	IN	_	16	case	_	start_char=119|end_char=123
+15	natural	natural	ADJ	JJ	Degree=Pos	16	amod	_	start_char=124|end_char=131
+16	hair	hair	NOUN	NN	Number=Sing	9	obl	_	start_char=132|end_char=136
+17	.	.	PUNCT	.	_	2	punct	_	start_char=136|end_char=137
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=138|end_char=139
+2	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=140|end_char=150
+3	colorism	colorism	NOUN	NN	Number=Sing	2	obj	_	start_char=151|end_char=159
+4	.	.	PUNCT	.	_	2	punct	_	start_char=159|end_char=160
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=161|end_char=162
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=163|end_char=167
+3	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=168|end_char=173
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=174|end_char=177
+5	understood	understand	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=178|end_char=188
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=189|end_char=193
+7	for	for	ADP	IN	_	8	case	_	start_char=194|end_char=197
+8	years	year	NOUN	NNS	Number=Plur	5	obl	_	start_char=198|end_char=203
+9	.	.	PUNCT	.	_	3	punct	_	start_char=203|end_char=204
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=205|end_char=206
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=207|end_char=210
+3	n't	not	PART	RB	_	4	advmod	_	start_char=210|end_char=213
+4	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=214|end_char=218
+5	to	to	PART	TO	_	6	mark	_	start_char=219|end_char=221
+6	read	read	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=222|end_char=226
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=227|end_char=231
+8	article	article	NOUN	NN	Number=Sing	6	obj	_	start_char=232|end_char=239
+9	.	.	PUNCT	.	_	4	punct	_	start_char=239|end_char=240
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=241|end_char=244
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=245|end_char=248
+3	still	still	ADV	RB	_	4	advmod	_	start_char=249|end_char=254
+4	missing	miss	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=255|end_char=262
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=263|end_char=266
+6	point	point	NOUN	NN	Number=Sing	4	obj	_	start_char=267|end_char=272
+7	.	.	PUNCT	.	_	4	punct	_	start_char=272|end_char=273
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=274|end_char=277
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=278|end_char=281
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=282|end_char=291
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=292|end_char=300
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=301|end_char=304
+6	clueless	clueless	ADJ	JJ	Degree=Pos	4	conj	_	start_char=305|end_char=313
+7	.	.	PUNCT	.	_	4	punct	_	start_char=313|end_char=314
+
+1	Point	point	NOUN	NN	Number=Sing	0	root	_	start_char=315|end_char=320
+2	,	,	PUNCT	,	_	1	punct	_	start_char=320|end_char=321
+3	blank	blank	NOUN	NN	Number=Sing	1	parataxis	_	start_char=322|end_char=327
+4	,	,	PUNCT	,	_	5	punct	_	start_char=327|end_char=328
+5	period	period	NOUN	NN	Number=Sing	1	parataxis	_	start_char=329|end_char=335
+6	.	.	PUNCT	.	_	1	punct	_	start_char=335|end_char=336
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=337|end_char=340
+2	read	read	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=341|end_char=345
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	start_char=346|end_char=349
+4	article	article	NOUN	NN	Number=Sing	2	obj	_	start_char=350|end_char=357
+5	.	.	PUNCT	.	_	2	punct	_	start_char=357|end_char=358
+
+1	Stop.	Stop.	PROPN	NNP	Number=Sing	0	root	_	start_char=359|end_char=364
+

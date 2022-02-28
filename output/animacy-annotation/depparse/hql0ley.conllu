@@ -1,0 +1,25 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=5|end_char=7
+3	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=8|end_char=10
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=11|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	sexist	sexist	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=30
+7	take	take	NOUN	NN	Number=Sing	0	root	_	start_char=31|end_char=35
+8	.	.	PUNCT	.	_	7	punct	_	start_char=35|end_char=36
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=37|end_char=41
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=42|end_char=44
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=44|end_char=47
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=48|end_char=49
+5	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=50|end_char=55
+6	with	with	ADP	IN	_	8	case	_	start_char=56|end_char=60
+7	just	just	ADV	RB	_	8	advmod	_	start_char=61|end_char=65
+8	women	woman	NOUN	NNS	Number=Plur	5	nmod	_	start_char=66|end_char=71
+9	.	.	PUNCT	.	_	5	punct	_	start_char=71|end_char=72
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=73|end_char=77
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=78|end_char=81
+3	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=82|end_char=85
+4	Republicans	Republican	PROPN	NNPS	Number=Plur	3	obj	_	start_char=86|end_char=97
+5	?	?	PUNCT	.	_	3	punct	_	start_char=97|end_char=98
+

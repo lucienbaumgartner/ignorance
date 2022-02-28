@@ -1,0 +1,20 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=8
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=9|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=13|end_char=21
+5	of	of	ADP	IN	_	7	case	_	start_char=22|end_char=24
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=25|end_char=29
+7	hun	hun	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=33
+8	.	.	PUNCT	.	_	2	punct	_	start_char=33|end_char=34
+
+1	Someone	someone	PRON	NN	Number=Sing	2	nsubj	_	start_char=35|end_char=42
+2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=43|end_char=48
+3	to	to	PART	TO	_	4	mark	_	start_char=49|end_char=51
+4	slap	slap	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=52|end_char=56
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=57|end_char=60
+6	bejesus	bejesus	NOUN	NN	Number=Sing	4	obj	_	start_char=61|end_char=68
+7	out	out	ADP	IN	_	9	case	_	start_char=69|end_char=72
+8	of	of	ADP	IN	_	9	case	_	start_char=73|end_char=75
+9	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=76|end_char=79
+10	.	.	PUNCT	.	_	2	punct	_	start_char=79|end_char=80
+

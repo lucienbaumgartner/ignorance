@@ -1,0 +1,53 @@
+1	Auto	Auto	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=4
+2	correct	correct	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=12
+3	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	Meant	mean	VERB	VBN	Tense=Past|VerbForm=Part	12	csubj	_	start_char=14|end_char=19
+2	"	"	PUNCT	``	_	3	punct	_	start_char=20|end_char=21
+3	more	more	ADJ	JJR	Degree=Cmp	1	obj	_	start_char=21|end_char=25
+4	of	of	ADP	IN	_	6	case	_	start_char=26|end_char=28
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=29|end_char=30
+6	robbery	robbery	NOUN	NN	Number=Sing	3	obl	_	start_char=31|end_char=38
+7	"	"	PUNCT	''	_	3	punct	_	start_char=38|end_char=39
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=40|end_char=41
+9	mugging	mugging	NOUN	NN	Number=Sing	12	nsubj	_	start_char=42|end_char=49
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=50|end_char=52
+11	more	more	ADV	RBR	_	12	advmod	_	start_char=53|end_char=57
+12	passive	passive	ADJ	JJ	Degree=Pos	0	root	_	start_char=58|end_char=65
+13	.	.	PUNCT	.	_	12	punct	_	start_char=65|end_char=66
+
+1	Like	like	ADP	IN	_	3	case	_	start_char=67|end_char=71
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=72|end_char=73
+3	snatch	snatch	NOUN	NN	Number=Sing	0	root	_	start_char=74|end_char=80
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=81|end_char=84
+5	run	run	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	start_char=85|end_char=88
+6	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=91|end_char=92
+2	robbery	robbery	NOUN	NN	Number=Sing	5	nsubj	_	start_char=93|end_char=100
+3	to	to	ADP	IN	_	4	case	_	start_char=101|end_char=103
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	nmod	_	start_char=104|end_char=106
+5	involves	involve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=107|end_char=115
+6	confrontation	confrontation	NOUN	NN	Number=Sing	5	obj	_	start_char=116|end_char=129
+7	.	.	PUNCT	.	_	5	punct	_	start_char=129|end_char=130
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=131|end_char=132
+2	burglary	burglary	NOUN	NN	Number=Sing	3	nsubj	_	start_char=133|end_char=141
+3	involves	involve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=142|end_char=150
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=151|end_char=153
+5	element	element	NOUN	NN	Number=Sing	3	obj	_	start_char=154|end_char=161
+6	of	of	ADP	IN	_	7	case	_	start_char=162|end_char=164
+7	indirectness	indirectness	NOUN	NN	Number=Sing	5	nmod	_	start_char=165|end_char=177
+8	.	.	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=180|end_char=183
+2	victim	victim	NOUN	NN	Number=Sing	3	nsubj	_	start_char=184|end_char=190
+3	tends	tend	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=191|end_char=196
+4	to	to	PART	TO	_	6	mark	_	start_char=197|end_char=199
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=200|end_char=202
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=203|end_char=210
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=211|end_char=214
+8	somewhat	somewhat	ADV	RB	_	9	advmod	_	start_char=215|end_char=223
+9	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	_	start_char=224|end_char=231
+10	.	.	PUNCT	.	_	3	punct	_	start_char=231|end_char=232
+

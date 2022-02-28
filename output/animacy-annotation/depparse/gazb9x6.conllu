@@ -1,0 +1,39 @@
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=0|end_char=3
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+3	supposed	suppose	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=6|end_char=14
+4	to	to	PART	TO	_	5	mark	_	start_char=15|end_char=17
+5	receive	receive	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=18|end_char=25
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=26|end_char=28
+7	upon	upon	SCONJ	IN	_	8	mark	_	start_char=29|end_char=33
+8	reenlisting	reenlist	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=34|end_char=45
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=46|end_char=48
+10	passing	pass	VERB	VBG	VerbForm=Ger	8	conj	_	start_char=49|end_char=56
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=57|end_char=60
+12	ets	et	NOUN	NN	Number=Sing	13	compound	_	start_char=61|end_char=64
+13	date	date	NOUN	NN	Number=Sing	10	obj	_	start_char=65|end_char=69
+14	?	?	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	Would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=71|end_char=76
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=77|end_char=79
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=80|end_char=82
+4	on	on	ADP	IN	_	5	case	_	start_char=83|end_char=85
+5	iperms	iperm	NOUN	NNS	Number=Plur	0	root	_	start_char=86|end_char=92
+6	?	?	PUNCT	.	_	5	punct	_	start_char=92|end_char=93
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=94|end_char=95
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=96|end_char=99
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=104
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=105|end_char=108
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=109|end_char=116
+6	of	of	ADP	IN	_	7	case	_	start_char=117|end_char=119
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obl	_	start_char=120|end_char=124
+8	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=125|end_char=129
+9	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=130|end_char=131
+10	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=132|end_char=136
+11	to	to	ADP	IN	_	14	case	_	start_char=137|end_char=139
+12	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=140|end_char=142
+13	career	career	NOUN	NN	Number=Sing	14	compound	_	start_char=143|end_char=149
+14	counselor	counselor	NOUN	NN	Number=Sing	10	obl	_	start_char=150|end_char=159
+15	to	to	PART	TO	_	16	mark	_	start_char=160|end_char=162
+16	reenlist	reenlist	VERB	VB	VerbForm=Inf	10	advcl	_	start_char=163|end_char=171
+

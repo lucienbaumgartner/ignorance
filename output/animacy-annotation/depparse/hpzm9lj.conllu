@@ -1,0 +1,16 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	evil	evil	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=22
+6	for	for	ADP	IN	_	8	case	_	start_char=23|end_char=26
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=27|end_char=32
+8	reasons	reason	NOUN	NNS	Number=Plur	3	obl	_	start_char=33|end_char=40
+9	,	,	PUNCT	,	_	3	punct	_	start_char=40|end_char=41
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=42|end_char=43
+11	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=44|end_char=49
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=50|end_char=52
+13	what	what	PRON	WP	PronType=Int	11	ccomp	_	start_char=53|end_char=57
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=58|end_char=62
+15	meant	mean	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	start_char=63|end_char=68
+

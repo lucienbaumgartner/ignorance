@@ -1,0 +1,31 @@
+1	Some	some	DET	DT	_	2	nsubj	_	start_char=0|end_char=4
+2	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=5|end_char=7
+3	,	,	PUNCT	,	_	5	punct	_	start_char=7|end_char=8
+4	some	some	DET	DT	_	5	nsubj	_	start_char=9|end_char=13
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=16
+6	n't	not	PART	RB	_	5	advmod	_	start_char=16|end_char=19
+7	.	.	PUNCT	.	_	5	punct	_	start_char=19|end_char=20
+
+1	Mexico	Mexico	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=21|end_char=27
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=28|end_char=30
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=31|end_char=32
+4	very	very	ADV	RB	_	5	advmod	_	start_char=33|end_char=37
+5	big	big	ADJ	JJ	Degree=Pos	6	amod	_	start_char=38|end_char=41
+6	place	place	NOUN	NN	Number=Sing	0	root	_	start_char=42|end_char=47
+7	,	,	PUNCT	,	_	6	punct	_	start_char=47|end_char=48
+8	in	in	ADP	IN	_	12	mark	_	start_char=49|end_char=51
+9	case	case	NOUN	NN	Number=Sing	8	fixed	_	start_char=52|end_char=56
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=57|end_char=60
+11	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=60|end_char=63
+12	unaware	unaware	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=64|end_char=71
+13	,	,	PUNCT	,	_	19	punct	_	start_char=71|end_char=72
+14	and	and	CCONJ	CC	_	19	cc	_	start_char=73|end_char=76
+15	many	many	ADJ	JJ	Degree=Pos	19	nsubj	_	start_char=77|end_char=81
+16	of	of	ADP	IN	_	17	case	_	start_char=82|end_char=84
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	nmod	_	start_char=85|end_char=89
+18	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=90|end_char=94
+19	stay	stay	VERB	VB	VerbForm=Inf	6	conj	_	start_char=95|end_char=99
+20	in	in	ADP	IN	_	21	case	_	start_char=100|end_char=102
+21	mexico	mexico	PROPN	NNP	Number=Sing	19	obl	_	start_char=103|end_char=109
+22	anyway	anyway	ADV	RB	_	19	advmod	_	start_char=110|end_char=116
+

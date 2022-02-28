@@ -1,0 +1,35 @@
+1	Tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=5|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=8|end_char=11
+4	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=11|end_char=14
+5	never	never	ADV	RB	_	9	advmod	_	start_char=15|end_char=20
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	cop	_	start_char=21|end_char=25
+7	in	in	ADP	IN	_	9	case	_	start_char=26|end_char=28
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=29|end_char=33
+9	position	position	NOUN	NN	Number=Sing	1	ccomp	_	start_char=34|end_char=42
+10	without	without	SCONJ	IN	_	11	mark	_	start_char=43|end_char=50
+11	telling	tell	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=51|end_char=58
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	iobj	_	start_char=59|end_char=61
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=62|end_char=65
+14	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=65|end_char=68
+15	never	never	ADV	RB	_	19	advmod	_	start_char=69|end_char=74
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	cop	_	start_char=75|end_char=79
+17	in	in	ADP	IN	_	19	case	_	start_char=80|end_char=82
+18	that	that	DET	DT	Number=Sing|PronType=Dem	19	det	_	start_char=83|end_char=87
+19	position	position	NOUN	NN	Number=Sing	11	ccomp	_	start_char=88|end_char=96
+20	…	…	PUNCT	.	_	1	punct	_	start_char=96|end_char=97
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=99|end_char=103
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=104|end_char=106
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=107|end_char=113
+4	shitty	shitty	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=120
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=121|end_char=124
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=125|end_char=133
+7	of	of	ADP	IN	_	9	case	_	start_char=134|end_char=136
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=137|end_char=138
+9	lot	lot	NOUN	NN	Number=Sing	6	obl	_	start_char=139|end_char=142
+10	of	of	ADP	IN	_	12	case	_	start_char=143|end_char=145
+11	things	thing	NOUN	NNS	Number=Plur	12	compound	_	start_char=146|end_char=152
+12	man	man	NOUN	NN	Number=Sing	9	nmod	_	start_char=153|end_char=156
+13	.	.	PUNCT	.	_	4	punct	_	start_char=156|end_char=157
+

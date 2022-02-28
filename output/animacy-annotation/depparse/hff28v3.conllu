@@ -1,0 +1,9 @@
+1	Well	well	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	thats	thats	PRON	PRP	Number=Sing|PronType=Prs	4	nsubj	_	start_char=5|end_char=10
+3	just	just	ADV	RB	_	4	advmod	_	start_char=11|end_char=15
+4	closeminded	closeminded	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=40
+7	of	of	ADP	IN	_	8	case	_	start_char=41|end_char=43
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=44|end_char=47
+

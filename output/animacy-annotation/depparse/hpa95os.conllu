@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=6
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=7|end_char=9
+4	all	all	DET	DT	_	3	obj	_	start_char=10|end_char=13
+5	of	of	ADP	IN	_	6	case	_	start_char=14|end_char=16
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nmod	_	start_char=17|end_char=21
+7	!	!	PUNCT	.	_	3	punct	_	start_char=21|end_char=22
+
+1	Eating	eat	VERB	VBG	VerbForm=Ger	5	csubj	_	start_char=23|end_char=29
+2	here	here	ADV	RB	PronType=Dem	1	advmod	_	start_char=30|end_char=34
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=35|end_char=38
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=39|end_char=43
+5	challenging	challenging	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=55
+6	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=57|end_char=58
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=59|end_char=63
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=64|end_char=72
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=73|end_char=76
+5	bashful	bashful	ADJ	JJ	Degree=Pos	3	conj	_	start_char=77|end_char=84
+6	trying	try	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=85|end_char=91
+7	to	to	PART	TO	_	8	mark	_	start_char=92|end_char=94
+8	communicate	communicate	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=95|end_char=106
+9	,	,	PUNCT	,	_	13	punct	_	start_char=106|end_char=107
+10	but	but	CCONJ	CC	_	13	cc	_	start_char=108|end_char=111
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=112|end_char=113
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=114|end_char=118
+13	perservere	perservere	VERB	VB	VerbForm=Inf	2	conj	_	start_char=119|end_char=129
+14	!	!	PUNCT	.	_	2	punct	_	start_char=129|end_char=130
+

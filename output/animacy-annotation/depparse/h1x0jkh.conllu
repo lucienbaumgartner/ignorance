@@ -1,0 +1,45 @@
+1	Hey	hey	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	fool	fool	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	,	,	PUNCT	,	_	2	punct	_	start_char=8|end_char=9
+4	check	check	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=10|end_char=15
+5	what	what	PRON	WP	PronType=Int	7	nsubj:pass	_	start_char=16|end_char=20
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=20|end_char=22
+7	required	require	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	ccomp	_	start_char=23|end_char=31
+8	to	to	PART	TO	_	9	mark	_	start_char=32|end_char=34
+9	register	register	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=35|end_char=43
+10	to	to	PART	TO	_	11	mark	_	start_char=44|end_char=46
+11	vote	vote	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=47|end_char=51
+12	in	in	ADP	IN	_	13	case	_	start_char=52|end_char=54
+13	CA	CA	PROPN	NNP	Number=Sing	11	obl	_	start_char=55|end_char=57
+14	.	.	PUNCT	.	_	2	punct	_	start_char=57|end_char=58
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=61|end_char=63
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=63|end_char=65
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=70
+4	.	.	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	Not	not	ADV	RB	_	2	advmod	_	start_char=73|end_char=76
+2	saying	say	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=77|end_char=83
+3	100	100	NUM	CD	NumType=Card	4	nummod	_	start_char=84|end_char=87
+4	%	%	SYM	NN	Number=Sing	7	nsubj	_	start_char=87|end_char=88
+5	of	of	ADP	IN	_	6	case	_	start_char=89|end_char=91
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	start_char=92|end_char=96
+7	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=97|end_char=99
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=100|end_char=102
+9	,	,	PUNCT	,	_	18	punct	_	start_char=102|end_char=103
+10	but	but	CCONJ	CC	_	18	cc	_	start_char=104|end_char=107
+11	if	if	SCONJ	IN	_	13	mark	_	start_char=108|end_char=110
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=111|end_char=114
+13	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	_	start_char=115|end_char=120
+14	0	0	NUM	CD	NumType=Card	13	obj	_	start_char=121|end_char=122
+15	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=123|end_char=125
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=126|end_char=129
+17	're	be	AUX	VB	VerbForm=Inf	18	cop	_	start_char=129|end_char=132
+18	naive	naive	ADJ	JJ	Degree=Pos	7	conj	_	start_char=133|end_char=138
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=139|end_char=142
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=143|end_char=151
+21	of	of	ADP	IN	_	23	case	_	start_char=152|end_char=154
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=155|end_char=158
+23	state	state	NOUN	NN	Number=Sing	20	obl	_	start_char=159|end_char=164
+24	.	.	PUNCT	.	_	7	punct	_	start_char=164|end_char=165
+

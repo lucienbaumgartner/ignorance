@@ -1,0 +1,26 @@
+1	Yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=8
+4	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=13
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=14|end_char=19
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=20|end_char=23
+7	target	target	NOUN	NN	Number=Sing	11	csubj	_	start_char=24|end_char=30
+8	of	of	ADP	IN	_	10	case	_	start_char=31|end_char=33
+9	those	that	DET	DT	Number=Plur|PronType=Dem	10	det	_	start_char=34|end_char=39
+10	intentions	intention	NOUN	NNS	Number=Plur	7	nmod	_	start_char=40|end_char=50
+11	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=51|end_char=56
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=57|end_char=59
+13	soooooo	so	ADV	RB	_	14	advmod	_	start_char=60|end_char=67
+14	unaware	unaware	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=68|end_char=75
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=76|end_char=79
+16	naive	naive	ADJ	JJ	Degree=Pos	14	conj	_	start_char=80|end_char=85
+17	…	…	PUNCT	:	_	19	punct	_	start_char=85|end_char=86
+18	oh	oh	INTJ	UH	_	19	discourse	_	start_char=87|end_char=89
+19	wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	4	parataxis	_	start_char=90|end_char=94
+20	…	…	PUNCT	:	_	19	punct	_	start_char=94|end_char=95
+21	thats	thats	SCONJ	IN	_	22	case	_	start_char=96|end_char=101
+22	what	what	PRON	WP	PronType=Int	19	obl	_	start_char=102|end_char=106
+23	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	start_char=107|end_char=110
+24	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	start_char=111|end_char=115
+25	.	.	PUNCT	.	_	4	punct	_	start_char=115|end_char=116
+

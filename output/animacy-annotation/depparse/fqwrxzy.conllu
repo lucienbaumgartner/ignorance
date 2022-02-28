@@ -1,0 +1,33 @@
+1	Same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	here	here	ADV	RB	PronType=Dem	1	advmod	_	start_char=5|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=11|end_char=12
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=13|end_char=16
+3	vegetarian	vegetarian	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=27
+4	for	for	ADP	IN	_	7	case	_	start_char=28|end_char=31
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=32|end_char=33
+6	long	long	ADJ	JJ	Degree=Pos	7	amod	_	start_char=34|end_char=38
+7	time	time	NOUN	NN	Number=Sing	3	obl	_	start_char=39|end_char=43
+8	till	till	SCONJ	IN	_	11	mark	_	start_char=44|end_char=48
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=49|end_char=53
+10	sub	sub	NOUN	NN	Number=Sing	11	nsubj	_	start_char=54|end_char=57
+11	showed	show	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=58|end_char=64
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=65|end_char=67
+13	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=68|end_char=71
+14	extremely	extremely	ADV	RB	_	15	advmod	_	start_char=72|end_char=81
+15	stupid	stupid	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=82|end_char=88
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=89|end_char=92
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=93|end_char=101
+18	that	that	PRON	DT	Number=Sing|PronType=Dem	19	nsubj	_	start_char=102|end_char=106
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=107|end_char=109
+20	.	.	PUNCT	.	_	3	punct	_	start_char=109|end_char=110
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=111|end_char=112
+2	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=113|end_char=117
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=118|end_char=119
+4	realised	realise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=120|end_char=128
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=129|end_char=133
+6	earlier	early	ADV	RBR	Degree=Cmp	4	advmod	_	start_char=134|end_char=141
+7	.	.	PUNCT	.	_	2	punct	_	start_char=141|end_char=142
+

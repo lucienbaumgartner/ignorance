@@ -1,0 +1,117 @@
+1	Aww	aww	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=10|end_char=13
+4	!	!	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=15|end_char=16
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=24
+3	all	all	DET	PDT	_	5	det:predet	_	start_char=25|end_char=28
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=29|end_char=32
+5	kids	kid	NOUN	NNS	Number=Plur	2	obj	_	start_char=33|end_char=37
+6	in	in	ADP	IN	_	9	case	_	start_char=38|end_char=40
+7	most	most	ADV	RBS	_	8	advmod	_	start_char=41|end_char=45
+8	financial	financial	ADJ	JJ	Degree=Pos	9	amod	_	start_char=46|end_char=55
+9	choices	choice	NOUN	NNS	Number=Plur	2	obl	_	start_char=56|end_char=63
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=64|end_char=67
+11	whatnot	whatnot	NOUN	NNS	Number=Plur	9	conj	_	start_char=68|end_char=75
+12	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=77|end_char=81
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=82|end_char=86
+3	what	what	DET	WDT	PronType=Int	4	det	_	start_char=87|end_char=91
+4	things	thing	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=92|end_char=98
+5	cost	cost	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=99|end_char=103
+6	.	.	PUNCT	.	_	2	punct	_	start_char=103|end_char=104
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=105|end_char=108
+2	long	long	ADV	RB	Degree=Pos	4	advmod	_	start_char=109|end_char=113
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=114|end_char=116
+4	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=117|end_char=122
+5	to	to	PART	TO	_	6	mark	_	start_char=123|end_char=125
+6	save	save	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=126|end_char=130
+7	.	.	PUNCT	.	_	4	punct	_	start_char=130|end_char=131
+
+1	Etc	etc	X	FW	_	0	root	_	start_char=132|end_char=135
+2	.	.	PUNCT	.	_	1	punct	_	start_char=135|end_char=136
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=137|end_char=139
+2	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=140|end_char=144
+3	few	few	ADJ	JJ	Degree=Pos	5	amod	_	start_char=145|end_char=148
+4	financial	financial	ADJ	JJ	Degree=Pos	5	amod	_	start_char=149|end_char=158
+5	things	thing	NOUN	NNS	Number=Plur	2	obj	_	start_char=159|end_char=165
+6	from	from	ADP	IN	_	7	case	_	start_char=166|end_char=170
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obl	_	start_char=171|end_char=175
+8	so	so	ADV	RB	_	12	advmod	_	start_char=176|end_char=178
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj:pass	_	start_char=179|end_char=183
+10	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux:pass	_	start_char=183|end_char=186
+11	not	not	PART	RB	_	12	advmod	_	start_char=187|end_char=190
+12	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	start_char=191|end_char=200
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=201|end_char=204
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=205|end_char=212
+15	that	that	SCONJ	IN	_	23	mark	_	start_char=213|end_char=217
+16	"	"	PUNCT	``	_	23	punct	_	start_char=218|end_char=219
+17	those	that	DET	DT	Number=Plur|PronType=Dem	20	det	_	start_char=219|end_char=224
+18	$	$	SYM	$	_	20	compound	_	start_char=225|end_char=226
+19	60	60	NUM	CD	NumType=Card	18	nummod	_	start_char=226|end_char=228
+20	shoes	shoe	NOUN	NNS	Number=Plur	23	nsubj	_	start_char=229|end_char=234
+21	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	aux	_	start_char=235|end_char=238
+22	n't	not	PART	RB	_	23	advmod	_	start_char=238|end_char=241
+23	pop	pop	VERB	VB	VerbForm=Inf	14	ccomp	_	start_char=242|end_char=245
+24	out	out	ADP	IN	_	29	case	_	start_char=246|end_char=249
+25	of	of	ADP	IN	_	29	case	_	start_char=250|end_char=252
+26	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	start_char=253|end_char=254
+27	magic	magic	ADJ	JJ	Degree=Pos	29	amod	_	start_char=255|end_char=260
+28	shoe	shoe	NOUN	NN	Number=Sing	29	compound	_	start_char=261|end_char=265
+29	tree	tree	NOUN	NN	Number=Sing	23	obl	_	start_char=266|end_char=270
+30	"	"	PUNCT	''	_	23	punct	_	start_char=270|end_char=271
+31	.	.	PUNCT	.	_	2	punct	_	start_char=271|end_char=272
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=275|end_char=276
+2	encourage	encourage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=277|end_char=286
+3	others	other	NOUN	NNS	Number=Plur	2	obj	_	start_char=287|end_char=293
+4	to	to	PART	TO	_	5	mark	_	start_char=294|end_char=296
+5	do	do	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=297|end_char=299
+6	so	so	ADV	RB	_	5	advmod	_	start_char=300|end_char=302
+7	.	.	PUNCT	.	_	2	punct	_	start_char=302|end_char=303
+
+1	While	while	SCONJ	IN	_	4	mark	_	start_char=304|end_char=309
+2	some	some	DET	DT	_	3	det	_	start_char=310|end_char=314
+3	parents	parent	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=315|end_char=322
+4	hide	hide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=323|end_char=327
+5	things	thing	NOUN	NNS	Number=Plur	4	obj	_	start_char=328|end_char=334
+6	,	,	PUNCT	,	_	9	punct	_	start_char=334|end_char=335
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=336|end_char=338
+8	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=338|end_char=341
+9	honest	honest	ADJ	JJ	Degree=Pos	0	root	_	start_char=342|end_char=348
+10	.	.	PUNCT	.	_	9	punct	_	start_char=348|end_char=349
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=350|end_char=352
+2	expect	expect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=353|end_char=359
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=360|end_char=364
+4	to	to	PART	TO	_	5	mark	_	start_char=365|end_char=367
+5	work	work	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=368|end_char=372
+6	for	for	ADP	IN	_	8	case	_	start_char=373|end_char=376
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=377|end_char=380
+8	things	thing	NOUN	NNS	Number=Plur	5	obl	_	start_char=381|end_char=387
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=388|end_char=392
+10	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=393|end_char=397
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=398|end_char=401
+12	to	to	PART	TO	_	14	mark	_	start_char=402|end_char=404
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=405|end_char=407
+14	smart	smart	ADJ	JJ	Degree=Pos	5	conj	_	start_char=408|end_char=413
+15	about	about	ADP	IN	_	18	case	_	start_char=414|end_char=419
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=420|end_char=425
+17	financial	financial	ADJ	JJ	Degree=Pos	18	amod	_	start_char=426|end_char=435
+18	decisions	decision	NOUN	NNS	Number=Plur	14	obl	_	start_char=436|end_char=445
+19	.	.	PUNCT	.	_	2	punct	_	start_char=445|end_char=446
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=447|end_char=449
+2	far	far	ADV	RB	Degree=Pos	4	advmod	_	start_char=450|end_char=453
+3	ao	ao	PART	RB	_	4	advmod	_	start_char=454|end_char=456
+4	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=457|end_char=461
+5	.	.	PUNCT	.	_	4	punct	_	start_char=461|end_char=462
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=463|end_char=467
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=468|end_char=472
+3	!	!	PUNCT	.	_	2	punct	_	start_char=472|end_char=473
+

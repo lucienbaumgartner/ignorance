@@ -1,0 +1,72 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	just	just	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=17
+5	.	.	PUNCT	.	_	4	punct	_	start_char=17|end_char=18
+
+1	Empirically	empirically	ADV	RB	_	2	advmod	_	start_char=19|end_char=30
+2	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=36
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=37|end_char=40
+4	easily	easily	ADV	RB	_	5	advmod	_	start_char=41|end_char=47
+5	disproved	disprove	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	_	start_char=48|end_char=57
+6	.	.	PUNCT	.	_	2	punct	_	start_char=57|end_char=58
+
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=59|end_char=62
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=63|end_char=64
+3	clue	clue	NOUN	NN	Number=Sing	1	obj	_	start_char=65|end_char=69
+4	-	-	PUNCT	,	_	1	punct	_	start_char=69|end_char=70
+5	there	there	PRON	EX	_	6	expl	_	start_char=71|end_char=76
+6	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=76|end_char=78
+7	no	no	DET	DT	_	8	det	_	start_char=79|end_char=81
+8	USA	USA	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=82|end_char=85
+9	without	without	ADP	IN	_	10	case	_	start_char=86|end_char=93
+10	immigrants	immigrant	NOUN	NNS	Number=Plur	6	obl	_	start_char=94|end_char=104
+11	.	.	PUNCT	.	_	1	punct	_	start_char=104|end_char=105
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=106|end_char=108
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=108|end_char=110
+3	just	just	ADV	RB	_	5	advmod	_	start_char=111|end_char=115
+4	too	too	ADV	RB	_	5	advmod	_	start_char=116|end_char=119
+5	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=120|end_char=123
+6	some	some	DET	DT	_	7	det	_	start_char=124|end_char=128
+7	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=129|end_char=135
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=136|end_char=139
+9	too	too	ADV	RB	_	10	advmod	_	start_char=140|end_char=143
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=144|end_char=152
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=153|end_char=156
+12	racist	racist	ADJ	JJ	Degree=Pos	10	conj	_	start_char=157|end_char=163
+13	to	to	PART	TO	_	14	mark	_	start_char=164|end_char=166
+14	admit	admit	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=167|end_char=172
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=173|end_char=175
+16	.	.	PUNCT	.	_	5	punct	_	start_char=175|end_char=176
+
+1	Real	real	ADJ	JJ	Degree=Pos	2	amod	_	start_char=177|end_char=181
+2	ones	one	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=182|end_char=186
+3	recognize	recognize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=187|end_char=196
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=197|end_char=200
+5	importance	importance	NOUN	NN	Number=Sing	3	obj	_	start_char=201|end_char=211
+6	of	of	ADP	IN	_	7	case	_	start_char=212|end_char=214
+7	immigrants	immigrant	NOUN	NNS	Number=Plur	5	nmod	_	start_char=215|end_char=225
+8	to	to	ADP	IN	_	10	case	_	start_char=226|end_char=228
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=229|end_char=232
+10	fabric	fabric	NOUN	NN	Number=Sing	7	nmod	_	start_char=233|end_char=239
+11	of	of	ADP	IN	_	14	case	_	start_char=240|end_char=242
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=243|end_char=246
+13	entire	entire	ADJ	JJ	Degree=Pos	14	amod	_	start_char=247|end_char=253
+14	continent	continent	NOUN	NN	Number=Sing	10	nmod	_	start_char=254|end_char=263
+15	.	.	PUNCT	.	_	3	punct	_	start_char=263|end_char=264
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=266|end_char=267
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=267|end_char=269
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=270|end_char=275
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=276|end_char=279
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=280|end_char=283
+6	so	so	ADV	RB	_	7	advmod	_	start_char=284|end_char=286
+7	clueless	clueless	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=287|end_char=295
+8	about	about	ADP	IN	_	12	case	_	start_char=296|end_char=301
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=302|end_char=306
+10	own	own	ADJ	JJ	Degree=Pos	12	amod	_	start_char=307|end_char=310
+11	fucking	fucking	NOUN	NN	Number=Sing	12	compound	_	start_char=311|end_char=318
+12	country	country	NOUN	NN	Number=Sing	7	obl	_	start_char=319|end_char=326
+13	.	.	PUNCT	.	_	3	punct	_	start_char=326|end_char=327
+

@@ -1,0 +1,36 @@
+1	In	in	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=5
+3	sleep	sleep	NOUN	NN	Number=Sing	6	obl	_	start_char=6|end_char=11
+4	,	,	PUNCT	,	_	6	punct	_	start_char=11|end_char=12
+5	totally	totally	ADV	RB	_	6	advmod	_	start_char=13|end_char=20
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	healthy	healthy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=40
+9	but	but	CCONJ	CC	_	13	cc	_	start_char=41|end_char=44
+10	like	like	ADP	IN	_	13	mark	_	start_char=45|end_char=49
+11	160ish	160ish	NUM	CD	NumType=Card	12	nummod	_	start_char=50|end_char=56
+12	years	year	NOUN	NNS	Number=Plur	13	obl:tmod	_	start_char=57|end_char=62
+13	old	old	ADJ	JJ	Degree=Pos	6	conj	_	start_char=63|end_char=66
+14	.	.	PUNCT	.	_	6	punct	_	start_char=66|end_char=67
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=68|end_char=69
+2	'd	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=69|end_char=71
+3	also	also	ADV	RB	_	4	advmod	_	start_char=72|end_char=76
+4	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=77|end_char=81
+5	to	to	PART	TO	_	7	mark	_	start_char=82|end_char=84
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=85|end_char=87
+7	handsome	handsome	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=88|end_char=96
+8	for	for	ADP	IN	_	9	case	_	start_char=97|end_char=100
+9	150	150	NUM	CD	NumType=Card	7	obl	_	start_char=101|end_char=104
+10	of	of	ADP	IN	_	12	case	_	start_char=105|end_char=107
+11	those	that	DET	DT	Number=Plur|PronType=Dem	12	det	_	start_char=108|end_char=113
+12	years	year	NOUN	NNS	Number=Plur	9	nmod	_	start_char=114|end_char=119
+13	if	if	SCONJ	IN	_	16	mark	_	start_char=120|end_char=122
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj:pass	_	start_char=123|end_char=125
+15	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux:pass	_	start_char=125|end_char=128
+16	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	start_char=129|end_char=136
+17	to	to	PART	TO	_	18	mark	_	start_char=137|end_char=139
+18	set	set	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=140|end_char=143
+19	terms	term	NOUN	NNS	Number=Plur	18	obj	_	start_char=144|end_char=149
+20	.	.	PUNCT	.	_	4	punct	_	start_char=149|end_char=150
+

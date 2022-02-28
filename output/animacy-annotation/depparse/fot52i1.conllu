@@ -1,0 +1,36 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	Unsure	unsure	ADJ	JJ	Degree=Pos	10	nsubj	_	start_char=4|end_char=10
+4	,	,	PUNCT	,	_	5	punct	_	start_char=10|end_char=11
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=12|end_char=19
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=20|end_char=23
+7	uneducated	uneducated	ADJ	JJ	Degree=Pos	5	conj	_	start_char=24|end_char=34
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=35|end_char=38
+9	not	not	PART	RB	_	10	advmod	_	start_char=39|end_char=42
+10	equivalent	equivalent	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=43|end_char=53
+11	to	to	ADP	IN	_	12	case	_	start_char=54|end_char=56
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	obl	_	start_char=57|end_char=63
+13	.	.	PUNCT	.	_	1	punct	_	start_char=63|end_char=64
+
+1	Additionally	additionally	ADV	RB	_	7	advmod	_	start_char=65|end_char=77
+2	,	,	PUNCT	,	_	7	punct	_	start_char=77|end_char=78
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=79|end_char=83
+4	logic	logic	NOUN	NN	Number=Sing	7	nsubj	_	start_char=84|end_char=89
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=90|end_char=92
+6	not	not	PART	RB	_	7	advmod	_	start_char=93|end_char=96
+7	correct	correct	ADJ	JJ	Degree=Pos	0	root	_	start_char=97|end_char=104
+8	.	.	PUNCT	.	_	7	punct	_	start_char=104|end_char=105
+
+1	Cannot	cannot	AUX	MD	VerbForm=Fin	2	aux	_	start_char=107|end_char=113
+2	upvote	upvote	VERB	VB	VerbForm=Inf	0	root	_	start_char=114|end_char=120
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	start_char=121|end_char=125
+4	enough	enough	ADV	RB	_	2	advmod	_	start_char=126|end_char=132
+5	.	.	PUNCT	.	_	2	punct	_	start_char=132|end_char=133
+
+1	Best	good	ADJ	JJS	Degree=Sup	2	amod	_	start_char=134|end_char=138
+2	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=139|end_char=146
+3	of	of	ADP	IN	_	5	case	_	start_char=147|end_char=149
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=150|end_char=153
+5	day	day	NOUN	NN	Number=Sing	2	nmod	_	start_char=154|end_char=157
+6	.	.	PUNCT	.	_	2	punct	_	start_char=157|end_char=158
+

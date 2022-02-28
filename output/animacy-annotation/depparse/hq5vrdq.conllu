@@ -1,0 +1,49 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=4|end_char=10
+4	so	so	ADV	RB	_	3	advmod	_	start_char=11|end_char=13
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=14|end_char=17
+6	so	so	ADV	RB	_	3	conj	_	start_char=18|end_char=20
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=21|end_char=23
+8	everyone	everyone	PRON	NN	Number=Sing	3	conj	_	start_char=24|end_char=32
+9	else	else	ADJ	JJ	Degree=Pos	8	amod	_	start_char=33|end_char=37
+10	on	on	ADP	IN	_	11	case	_	start_char=38|end_char=40
+11	top	top	NOUN	NN	Number=Sing	8	nmod	_	start_char=41|end_char=44
+12	of	of	ADP	IN	_	13	case	_	start_char=45|end_char=47
+13	science	science	NOUN	NN	Number=Sing	11	nmod	_	start_char=48|end_char=55
+14	.	.	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+
+1	Quit	quit	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=57|end_char=61
+2	acting	act	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=62|end_char=68
+3	like	like	ADP	IN	_	5	case	_	start_char=69|end_char=73
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=74|end_char=78
+5	words	word	NOUN	NNS	Number=Plur	2	obl	_	start_char=79|end_char=84
+6	right	right	ADV	RB	Degree=Pos	2	advmod	_	start_char=85|end_char=90
+7	.	.	PUNCT	.	_	1	punct	_	start_char=90|end_char=91
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=93|end_char=97
+2	take	take	NOUN	NN	Number=Sing	10	nsubj	_	start_char=98|end_char=102
+3	on	on	ADP	IN	_	4	case	_	start_char=103|end_char=105
+4	gays	gay	NOUN	NNS	Number=Plur	2	nmod	_	start_char=106|end_char=110
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=111|end_char=116
+6	“	''	PUNCT	``	_	7	punct	_	start_char=117|end_char=118
+7	unfixed	unfixed	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=118|end_char=125
+8	”	''	PUNCT	''	_	7	punct	_	start_char=125|end_char=126
+9	just	just	ADV	RB	_	10	advmod	_	start_char=127|end_char=131
+10	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=132|end_char=137
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=138|end_char=142
+12	views	view	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=143|end_char=148
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=149|end_char=152
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=153|end_char=161
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=162|end_char=165
+16	homophobic	homophobic	ADJ	JJ	Degree=Pos	14	conj	_	start_char=166|end_char=176
+17	.	.	PUNCT	.	_	10	punct	_	start_char=176|end_char=177
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=179|end_char=181
+2	better	well	ADV	RBR	Degree=Cmp	1	advmod	_	start_char=182|end_char=188
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=189|end_char=192
+4	get	get	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux:pass	_	start_char=193|end_char=196
+5	fucked	fuck	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	start_char=197|end_char=203
+6	by	by	ADP	IN	_	7	case	_	start_char=204|end_char=206
+7	dick	dick	NOUN	NN	Number=Sing	5	obl	_	start_char=207|end_char=211
+

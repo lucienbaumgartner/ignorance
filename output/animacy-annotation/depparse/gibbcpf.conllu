@@ -1,0 +1,25 @@
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=5
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	Air	Air	PROPN	NNP	Number=Sing	0	root	_	start_char=12|end_char=15
+5	Tonight	tonight	PROPN	NNP	Number=Sing	4	obl:tmod	_	start_char=16|end_char=23
+6	.	.	PUNCT	.	_	4	punct	_	start_char=23|end_char=24
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=26|end_char=31
+2	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=32|end_char=38
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=39|end_char=42
+4	so	so	ADV	RB	_	7	advmod	_	start_char=43|end_char=45
+5	cringinly	cringinly	ADV	RB	_	7	advmod	_	start_char=46|end_char=55
+6	self	self	NOUN	NN	Number=Sing	7	obl:npmod	_	start_char=56|end_char=60
+7	righteous	righteous	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=70
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=71|end_char=74
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=75|end_char=82
+10	of	of	ADP	IN	_	11	case	_	start_char=83|end_char=85
+11	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	start_char=86|end_char=96
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=97|end_char=99
+13	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=99|end_char=101
+14	insane	insane	ADJ	JJ	Degree=Pos	7	conj	_	start_char=102|end_char=108
+15	.	.	PUNCT	.	_	7	punct	_	start_char=108|end_char=109
+

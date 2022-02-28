@@ -1,0 +1,19 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=2|end_char=10
+3	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=16|end_char=20
+5	guy	guy	NOUN	NN	Number=Sing	3	obj	_	start_char=21|end_char=24
+6	to	to	PART	TO	_	10	mark	_	start_char=25|end_char=27
+7	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=28|end_char=30
+8	so	so	ADV	RB	_	9	advmod	_	start_char=31|end_char=33
+9	hilariously	hilariously	ADV	RB	_	10	advmod	_	start_char=34|end_char=45
+10	stupid	stupid	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=46|end_char=52
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=53|end_char=56
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=57|end_char=65
+13	that	that	SCONJ	IN	_	15	mark	_	start_char=66|end_char=70
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=71|end_char=72
+15	enjoy	enjoy	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=73|end_char=78
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=79|end_char=82
+17	videos	video	NOUN	NNS	Number=Plur	15	obj	_	start_char=83|end_char=89
+18	.	.	PUNCT	.	_	3	punct	_	start_char=89|end_char=90
+

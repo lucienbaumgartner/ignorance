@@ -1,0 +1,14 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	really	really	ADV	RB	_	4	advmod	_	start_char=8|end_char=14
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=15|end_char=23
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=24|end_char=27
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=34
+7	dumb	dumb	ADJ	JJ	Degree=Pos	9	amod	_	start_char=35|end_char=39
+8	ass	ass	NOUN	NN	Number=Sing	9	compound	_	start_char=40|end_char=43
+9	shit	shit	NOUN	NN	Number=Sing	4	conj	_	start_char=44|end_char=48
+10	someone	someone	PRON	NN	Number=Sing	9	appos	_	start_char=49|end_char=56
+11	commenting	comment	VERB	VBG	VerbForm=Ger	10	acl	_	start_char=57|end_char=67
+12	without	without	SCONJ	IN	_	13	mark	_	start_char=68|end_char=75
+13	thinking	think	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=76|end_char=84
+

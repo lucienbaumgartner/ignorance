@@ -1,0 +1,10 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=8|end_char=18
+4	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	of	of	ADP	IN	_	8	case	_	start_char=38|end_char=40
+8	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=41|end_char=48
+9	.	.	PUNCT	.	_	4	punct	_	start_char=48|end_char=49
+

@@ -1,0 +1,22 @@
+1	Nothing	nothing	PRON	NN	Number=Sing	11	nsubj	_	start_char=0|end_char=7
+2	about	about	ADP	IN	_	4	case	_	start_char=8|end_char=13
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=14|end_char=18
+4	situation	situation	NOUN	NN	Number=Sing	1	nmod	_	start_char=19|end_char=28
+5	humans	human	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=29|end_char=35
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=36|end_char=40
+7	put	put	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	_	start_char=41|end_char=44
+8	ourselves	ourselves	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	7	obj	_	start_char=45|end_char=54
+9	in	in	ADP	IN	_	7	obl	_	start_char=55|end_char=57
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=58|end_char=60
+11	cute	cute	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=65
+12	.	.	PUNCT	.	_	11	punct	_	start_char=65|end_char=66
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=67|end_char=70
+2	MAD	mad	ADJ	JJ	Degree=Pos	0	root	_	start_char=71|end_char=74
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=75|end_char=83
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=84|end_char=87
+5	arrogant	arrogant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=88|end_char=96
+6	,	,	PUNCT	,	_	7	punct	_	start_char=96|end_char=97
+7	huh	huh	INTJ	UH	_	2	discourse	_	start_char=98|end_char=101
+8	?	?	PUNCT	.	_	2	punct	_	start_char=101|end_char=102
+

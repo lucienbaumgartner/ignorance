@@ -1,0 +1,42 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	one	one	NUM	CD	NumType=Card	0	root	_	start_char=8|end_char=11
+4	of	of	ADP	IN	_	7	case	_	start_char=12|end_char=14
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=15|end_char=18
+6	dumbest	dumb	ADJ	JJS	Degree=Sup	7	amod	_	start_char=19|end_char=26
+7	comments	comment	NOUN	NNS	Number=Plur	3	nmod	_	start_char=27|end_char=35
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=36|end_char=37
+9	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=37|end_char=40
+10	ive	ive	AUX	VBN	Tense=Past|VerbForm=Part	12	aux	_	start_char=41|end_char=44
+11	ever	ever	ADV	RB	_	12	advmod	_	start_char=45|end_char=49
+12	read	read	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	_	start_char=50|end_char=54
+13	.	.	PUNCT	.	_	3	punct	_	start_char=54|end_char=55
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=56|end_char=59
+2	stupid	stupid	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=60|end_char=66
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=67|end_char=70
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=71|end_char=79
+5	of	of	ADP	IN	_	7	case	_	start_char=80|end_char=82
+6	all	all	DET	DT	_	7	det	_	start_char=83|end_char=86
+7	history	history	NOUN	NN	Number=Sing	4	obl	_	start_char=87|end_char=94
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=95|end_char=97
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=98|end_char=101
+10	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=102|end_char=106
+11	to	to	PART	TO	_	12	mark	_	start_char=107|end_char=109
+12	be	be	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=110|end_char=112
+13	to	to	PART	TO	_	14	mark	_	start_char=113|end_char=115
+14	compare	compare	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=116|end_char=123
+15	MAGA	MAGA	PROPN	NNP	Number=Sing	14	obj	_	start_char=124|end_char=128
+16	to	to	ADP	IN	_	17	case	_	start_char=129|end_char=131
+17	Nazis	Nazi	PROPN	NNPS	Number=Plur	14	obl	_	start_char=132|end_char=137
+18	.	.	PUNCT	.	_	10	punct	_	start_char=137|end_char=138
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=139|end_char=141
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=142|end_char=145
+3	even	even	ADV	RB	_	4	advmod	_	start_char=146|end_char=150
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=151|end_char=155
+5	what	what	PRON	WP	PronType=Int	7	obj	_	start_char=156|end_char=160
+6	Nazi	Nazi	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=161|end_char=165
+7	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=166|end_char=171
+8	?	?	PUNCT	.	_	4	punct	_	start_char=171|end_char=172
+

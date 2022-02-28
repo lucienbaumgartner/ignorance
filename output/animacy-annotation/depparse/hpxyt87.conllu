@@ -1,0 +1,19 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	calling	call	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=4|end_char=11
+4	that	that	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=12|end_char=16
+5	specific	specific	ADJ	JJ	Degree=Pos	10	amod	_	start_char=17|end_char=25
+6	,	,	PUNCT	,	_	7	punct	_	start_char=25|end_char=26
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=27|end_char=35
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=36|end_char=39
+9	idiotic	idiotic	ADJ	JJ	Degree=Pos	5	conj	_	start_char=40|end_char=47
+10	line	line	NOUN	NN	Number=Sing	3	obj	_	start_char=48|end_char=52
+11	of	of	ADP	IN	_	13	case	_	start_char=53|end_char=55
+12	‘	'	PUNCT	``	_	13	punct	_	start_char=56|end_char=57
+13	criticism	criticism	NOUN	NN	Number=Sing	10	nmod	_	start_char=57|end_char=66
+14	’	'	PUNCT	''	_	13	punct	_	start_char=66|end_char=67
+15	stupid	stupid	ADJ	JJ	Degree=Pos	13	amod	_	start_char=68|end_char=74
+16	as	as	ADP	IN	_	17	case	_	start_char=75|end_char=77
+17	fuck	fuck	INTJ	UH	_	15	obl	_	start_char=78|end_char=82
+18	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+

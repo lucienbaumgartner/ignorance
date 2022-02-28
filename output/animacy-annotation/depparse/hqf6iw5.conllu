@@ -1,0 +1,8 @@
+1	What	what	PRON	WP	PronType=Int	6	nsubj	_	start_char=0|end_char=4
+2	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=5|end_char=7
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=8|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	racist	racist	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=27
+6	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=28|end_char=35
+7	.	.	PUNCT	.	_	6	punct	_	start_char=35|end_char=36
+

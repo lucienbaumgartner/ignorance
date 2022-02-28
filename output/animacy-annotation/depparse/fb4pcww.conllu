@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=7|end_char=8
+4	problem	problem	NOUN	NN	Number=Sing	2	obj	_	start_char=9|end_char=16
+5	with	with	ADP	IN	_	7	case	_	start_char=17|end_char=21
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=22|end_char=27
+7	tourists	tourist	NOUN	NNS	Number=Plur	4	nmod	_	start_char=28|end_char=36
+8	...	...	PUNCT	.	_	2	punct	_	start_char=36|end_char=39
+
+1	Most	most	ADV	RBS	_	2	advmod	_	start_char=41|end_char=45
+2	spacially	spacially	ADV	RB	_	3	advmod	_	start_char=46|end_char=55
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=56|end_char=63
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=64|end_char=67
+5	rudest	rude	ADJ	JJS	Degree=Sup	6	amod	_	start_char=68|end_char=74
+6	people	people	NOUN	NNS	Number=Plur	3	conj	_	start_char=75|end_char=81
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=82|end_char=83
+8	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=83|end_char=86
+9	come	come	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	_	start_char=87|end_char=91
+10	across	across	ADV	RB	_	9	advmod	_	start_char=92|end_char=98
+11	on	on	ADP	IN	_	13	case	_	start_char=99|end_char=101
+12	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=102|end_char=104
+13	travels	travels	NOUN	NN	Number=Sing	9	obl	_	start_char=105|end_char=112
+14	.	.	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+

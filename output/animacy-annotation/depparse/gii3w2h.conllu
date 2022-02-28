@@ -1,0 +1,24 @@
+1	For	for	ADP	IN	_	3	case	_	start_char=0|end_char=3
+2	those	that	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=4|end_char=9
+3	unaware	unaware	ADJ	JJ	Degree=Pos	7	amod	_	start_char=10|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	interested	interested	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=32
+6	:	:	PUNCT	:	_	7	punct	_	start_char=32|end_char=33
+7	Joe	Joe	PROPN	NNP	Number=Sing	0	root	_	start_char=34|end_char=37
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=38|end_char=41
+9	Nicky	Nicky	PROPN	NNP	Number=Sing	7	conj	_	start_char=42|end_char=47
+10	from	from	ADP	IN	_	13	case	_	start_char=48|end_char=52
+11	The	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=53|end_char=56
+12	Old	Old	ADJ	NNP	Degree=Pos	13	amod	_	start_char=57|end_char=60
+13	Guard	Guard	PROPN	NNP	Number=Sing	7	nmod	_	start_char=61|end_char=66
+14	,	,	PUNCT	,	_	16	punct	_	start_char=66|end_char=67
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=68|end_char=71
+16	Vanya	Vanya	PROPN	NNP	Number=Sing	7	conj	_	start_char=72|end_char=77
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=78|end_char=81
+18	Sissy	Sissy	PROPN	NNP	Number=Sing	16	conj	_	start_char=82|end_char=87
+19	from	from	ADP	IN	_	22	case	_	start_char=88|end_char=92
+20	The	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=93|end_char=96
+21	Umbrella	Umbrella	PROPN	NNP	Number=Sing	22	compound	_	start_char=97|end_char=105
+22	Academy	Academy	PROPN	NNP	Number=Sing	16	nmod	_	start_char=106|end_char=113
+23	.	.	PUNCT	.	_	3	punct	_	start_char=113|end_char=114
+

@@ -1,0 +1,27 @@
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=5|end_char=9
+3	guy	guy	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=13
+4	credit	credit	NOUN	NN	Number=Sing	1	obj	_	start_char=14|end_char=20
+5	,	,	PUNCT	,	_	7	punct	_	start_char=20|end_char=21
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=22|end_char=24
+7	voted	vote	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=25|end_char=30
+8	for	for	ADP	IN	_	9	case	_	start_char=31|end_char=34
+9	impeachment	impeachment	NOUN	NN	Number=Sing	7	obl	_	start_char=35|end_char=46
+10	and	and	CCONJ	CC	_	14	cc	_	start_char=47|end_char=50
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=51|end_char=54
+12	January	January	PROPN	NNP	Number=Sing	14	compound	_	start_char=55|end_char=62
+13	6	6	NUM	CD	NumType=Card	12	nummod	_	start_char=63|end_char=64
+14	Commission	Commission	PROPN	NNP	Number=Sing	9	conj	_	start_char=65|end_char=75
+15	.	.	PUNCT	.	_	1	punct	_	start_char=75|end_char=76
+
+1	People	person	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=78|end_char=84
+2	in	in	ADP	IN	_	4	case	_	start_char=85|end_char=87
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=88|end_char=91
+4	comments	comment	NOUN	NNS	Number=Plur	1	nmod	_	start_char=92|end_char=100
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=101|end_char=104
+6	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=105|end_char=110
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=111|end_char=119
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=120|end_char=123
+9	petty	petty	ADJ	JJ	Degree=Pos	7	conj	_	start_char=124|end_char=129
+10	.	.	PUNCT	.	_	7	punct	_	start_char=129|end_char=130
+

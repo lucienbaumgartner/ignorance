@@ -1,0 +1,43 @@
+1	Well	well	INTJ	UH	_	6	discourse	_	start_char=0|end_char=4
+2	natural	natural	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=12
+3	selection	selection	NOUN	NN	Number=Sing	6	nsubj	_	start_char=13|end_char=22
+4	will	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=23|end_char=27
+5	eventually	eventually	ADV	RB	_	6	advmod	_	start_char=28|end_char=38
+6	kill	kill	VERB	VB	VerbForm=Inf	0	root	_	start_char=39|end_char=43
+7	off	off	ADP	RP	_	6	compound:prt	_	start_char=44|end_char=47
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=48|end_char=51
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	obj	_	start_char=52|end_char=60
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=61|end_char=64
+11	unvaccinated	unvaccinated	ADJ	JJ	Degree=Pos	9	conj	_	start_char=65|end_char=77
+12	.	.	PUNCT	.	_	6	punct	_	start_char=77|end_char=78
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=79|end_char=82
+2	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=83|end_char=88
+3	naturally	naturally	ADV	RB	_	4	advmod	_	start_char=89|end_char=98
+4	immune	immune	ADJ	JJ	Degree=Pos	5	amod	_	start_char=99|end_char=105
+5	system	system	NOUN	NN	Number=Sing	1	obj	_	start_char=106|end_char=112
+6	save	save	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=113|end_char=117
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	start_char=118|end_char=122
+8	as	as	SCONJ	IN	_	10	mark	_	start_char=123|end_char=125
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	nsubj	_	start_char=126|end_char=129
+10	spread	spread	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=130|end_char=136
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=137|end_char=139
+12	to	to	ADP	IN	_	14	case	_	start_char=140|end_char=142
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=143|end_char=148
+14	family	family	NOUN	NN	Number=Sing	10	obl	_	start_char=149|end_char=155
+15	who	who	PRON	WP	PronType=Rel	19	nsubj	_	start_char=156|end_char=159
+16	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=160|end_char=164
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=165|end_char=168
+18	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=169|end_char=172
+19	died	die	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	start_char=173|end_char=177
+20	.	.	PUNCT	.	_	1	punct	_	start_char=177|end_char=178
+
+1	Deserved	deserve	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	_	start_char=179|end_char=187
+2	death	death	NOUN	NN	Number=Sing	0	root	_	start_char=188|end_char=193
+3	.	.	PUNCT	.	_	2	punct	_	start_char=193|end_char=194
+
+1	Vaccine	Vaccine	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=195|end_char=202
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=203|end_char=205
+3	available	available	ADJ	JJ	Degree=Pos	0	root	_	start_char=206|end_char=215
+4	.	.	PUNCT	.	_	3	punct	_	start_char=215|end_char=216
+

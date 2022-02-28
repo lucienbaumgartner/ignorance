@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	sense	sense	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=8|end_char=12
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=13|end_char=15
+5	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=15|end_char=17
+6	really	really	ADV	RB	_	7	advmod	_	start_char=18|end_char=24
+7	naive	naive	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=25|end_char=30
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=31|end_char=34
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=35|end_char=42
+10	,	,	PUNCT	,	_	14	punct	_	start_char=42|end_char=43
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=44|end_char=47
+12	almost	almost	ADV	RB	_	14	advmod	_	start_char=48|end_char=54
+13	too	too	ADV	RB	_	14	advmod	_	start_char=55|end_char=58
+14	nice	nice	ADJ	JJ	Degree=Pos	7	conj	_	start_char=59|end_char=63
+15	?	?	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+

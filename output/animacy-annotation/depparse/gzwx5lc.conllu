@@ -1,0 +1,31 @@
+1	Niagara	Niagara	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=7
+2	falls	fall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+3	?	?	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+
+1	Niagara	Niagara	PROPN	NNP	Number=Sing	2	compound	_	start_char=15|end_char=22
+2	region	region	NOUN	NN	Number=Sing	3	nsubj	_	start_char=23|end_char=29
+3	spans	span	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=30|end_char=35
+4	from	from	ADP	IN	_	5	case	_	start_char=36|end_char=40
+5	Grimsby	Grimsby	PROPN	NNP	Number=Sing	3	obl	_	start_char=41|end_char=48
+6	to	to	ADP	IN	_	7	case	_	start_char=49|end_char=51
+7	Fort	Fort	PROPN	NNP	Number=Sing	3	obl	_	start_char=52|end_char=56
+8	Erie	Erie	PROPN	NNP	Number=Sing	7	flat	_	start_char=57|end_char=61
+9	.	.	PUNCT	.	_	3	punct	_	start_char=61|end_char=62
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=63|end_char=64
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=65|end_char=68
+3	only	only	ADV	RB	_	4	advmod	_	start_char=69|end_char=73
+4	assume	assume	VERB	VB	VerbForm=Inf	0	root	_	start_char=74|end_char=80
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=81|end_char=84
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=84|end_char=87
+7	young	young	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=88|end_char=93
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=94|end_char=97
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=98|end_char=105
+10	of	of	ADP	IN	_	15	case	_	start_char=106|end_char=108
+11	more	more	ADJ	JJR	Degree=Cmp	15	advmod	_	start_char=109|end_char=113
+12	than	than	ADP	IN	_	11	fixed	_	start_char=114|end_char=118
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=119|end_char=123
+14	GTA	GTA	PROPN	NNP	Number=Sing	15	compound	_	start_char=124|end_char=127
+15	bubble	bubble	NOUN	NN	Number=Sing	9	obl	_	start_char=128|end_char=134
+16	.	.	PUNCT	.	_	4	punct	_	start_char=134|end_char=135
+

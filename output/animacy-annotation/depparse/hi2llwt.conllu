@@ -1,0 +1,67 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	friend	friend	NOUN	NN	Number=Sing	12	nsubj	_	start_char=4|end_char=10
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=11|end_char=12
+4	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=13|end_char=17
+5	out	out	ADP	RP	_	4	compound:prt	_	start_char=18|end_char=21
+6	to	to	ADP	IN	_	7	case	_	start_char=22|end_char=24
+7	today	today	NOUN	NN	Number=Sing	4	obl:tmod	_	start_char=25|end_char=30
+8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=31|end_char=34
+9	in	in	ADP	IN	_	11	case	_	start_char=35|end_char=37
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=38|end_char=41
+11	past	past	NOUN	NN	Number=Sing	12	obl	_	start_char=42|end_char=46
+12	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=47|end_char=52
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	start_char=53|end_char=55
+14	several	several	ADJ	JJ	Degree=Pos	15	amod	_	start_char=56|end_char=63
+15	times	time	NOUN	NNS	Number=Plur	12	obl:tmod	_	start_char=64|end_char=69
+16	if	if	SCONJ	IN	_	19	mark	_	start_char=70|end_char=72
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=73|end_char=74
+18	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=75|end_char=78
+19	trans	trans	ADJ	JJ	Degree=Pos	12	advcl	_	start_char=79|end_char=84
+20	x	x	PUNCT	,	_	12	punct	_	start_char=85|end_char=86
+21	')	')	PUNCT	.	_	12	punct	_	start_char=86|end_char=88
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=89|end_char=94
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=95|end_char=98
+3	signs	sign	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=99|end_char=104
+4	.	.	PUNCT	.	_	2	punct	_	start_char=104|end_char=105
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=106|end_char=109
+2	there	there	PRON	EX	_	3	expl	_	start_char=110|end_char=115
+3	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=116|end_char=120
+4	sign	sign	NOUN	NN	Number=Sing	3	nsubj	_	start_char=121|end_char=125
+5	for	for	ADP	IN	_	6	case	_	start_char=126|end_char=129
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nmod	_	start_char=130|end_char=132
+7	aswell	aswell	ADV	RB	_	3	advmod	_	start_char=133|end_char=139
+8	from	from	ADP	IN	_	12	mark	_	start_char=140|end_char=144
+9	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=145|end_char=149
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=150|end_char=151
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=152|end_char=155
+12	younger	young	ADJ	JJR	Degree=Cmp	3	advcl	_	start_char=156|end_char=163
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=164|end_char=167
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=168|end_char=175
+15	of	of	ADP	IN	_	17	case	_	start_char=176|end_char=178
+16	trans	trans	ADJ	JJ	Degree=Pos	17	amod	_	start_char=179|end_char=184
+17	people	people	NOUN	NNS	Number=Plur	14	obl	_	start_char=185|end_char=191
+18	!	!	PUNCT	.	_	3	punct	_	start_char=192|end_char=193
+
+1	Unfortunately	unfortunately	ADV	RB	_	5	advmod	_	start_char=196|end_char=209
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=210|end_char=211
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=212|end_char=214
+4	not	not	PART	RB	_	5	advmod	_	start_char=215|end_char=218
+5	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=219|end_char=223
+6	any	any	DET	DT	_	9	det	_	start_char=224|end_char=227
+7	trans	trans	ADJ	JJ	Degree=Pos	8	amod	_	start_char=228|end_char=233
+8	person	person	NOUN	NN	Number=Sing	9	compound	_	start_char=234|end_char=240
+9	IRL	IRL	NOUN	NN	Number=Sing	5	obj	_	start_char=241|end_char=244
+10	.	.	PUNCT	.	_	5	punct	_	start_char=244|end_char=245
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=246|end_char=247
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=247|end_char=249
+3	clearly	clearly	ADV	RB	_	6	advmod	_	start_char=250|end_char=257
+4	on	on	ADP	IN	_	6	case	_	start_char=258|end_char=260
+5	uncharted	uncharted	ADJ	JJ	Degree=Pos	6	amod	_	start_char=261|end_char=270
+6	territory	territory	NOUN	NN	Number=Sing	0	root	_	start_char=271|end_char=280
+7	for	for	ADP	IN	_	8	case	_	start_char=281|end_char=284
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	nmod	_	start_char=285|end_char=287
+9	:(	:(	SYM	NFP	_	6	discourse	_	start_char=288|end_char=290
+

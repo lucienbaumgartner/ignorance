@@ -1,0 +1,9 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=4|end_char=8
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=17
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=18|end_char=21
+4	pathetic	pathetic	ADJ	JJ	Degree=Pos	2	conj	_	start_char=22|end_char=30
+5	.	.	PUNCT	.	_	2	punct	_	start_char=30|end_char=31
+

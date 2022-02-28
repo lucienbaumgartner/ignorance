@@ -1,0 +1,53 @@
+1	Oh	oh	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	5	punct	_	start_char=2|end_char=3
+3	by	by	ADP	IN	_	5	case	_	start_char=4|end_char=6
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=7|end_char=10
+5	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=14
+6	.	.	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=16|end_char=19
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=20|end_char=26
+3	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=31
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=32|end_char=35
+5	following	follow	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=36|end_char=45
+6	paper	paper	NOUN	NN	Number=Sing	3	obj	_	start_char=46|end_char=51
+7	.	.	PUNCT	.	_	3	punct	_	start_char=51|end_char=52
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=53|end_char=56
+2	might	might	AUX	MD	VerbForm=Fin	3	aux	_	start_char=57|end_char=62
+3	learn	learn	VERB	VB	VerbForm=Inf	0	root	_	start_char=63|end_char=68
+4	something	something	PRON	NN	Number=Sing	3	obj	_	start_char=69|end_char=78
+5	.	.	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=80|end_char=83
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=84|end_char=87
+3	use	use	VERB	VB	VerbForm=Inf	0	root	_	start_char=88|end_char=91
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=92|end_char=96
+5	eyes	eye	NOUN	NNS	Number=Plur	3	obj	_	start_char=97|end_char=101
+6	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=105|end_char=106
+2	Unskilled	unskilled	ADJ	JJ	Degree=Pos	16	nsubj	_	start_char=106|end_char=115
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=116|end_char=119
+4	Unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=120|end_char=127
+5	of	of	ADP	IN	_	6	case	_	start_char=128|end_char=130
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=131|end_char=133
+7	:	:	PUNCT	:	_	2	punct	_	start_char=133|end_char=134
+8	How	how	SCONJ	WRB	PronType=Int	16	mark	_	start_char=135|end_char=138
+9	Difficulties	difficulty	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=139|end_char=151
+10	in	in	SCONJ	IN	_	11	mark	_	start_char=152|end_char=154
+11	Recognizing	recognize	VERB	VBG	VerbForm=Ger	9	acl	_	start_char=155|end_char=166
+12	One	one	NUM	CD	NumType=Card	15	nmod:poss	_	start_char=167|end_char=170
+13	’s	's	PART	POS	_	12	case	_	start_char=170|end_char=172
+14	Own	own	ADJ	JJ	Degree=Pos	15	amod	_	start_char=173|end_char=176
+15	Incompetence	incompetence	NOUN	NN	Number=Sing	11	obj	_	start_char=177|end_char=189
+16	Lead	lead	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=190|end_char=194
+17	to	to	ADP	IN	_	19	case	_	start_char=195|end_char=197
+18	Inflated	inflate	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=198|end_char=206
+19	Self-Assessments	Self-Assessments	PROPN	NNPS	Number=Plur	16	obl	_	start_char=207|end_char=223
+20	.	.	PUNCT	.	_	2	punct	_	start_char=223|end_char=224
+21	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=224|end_char=225
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=225|end_char=226
+2	https://www.gwern.net/docs/psychology/1999-kruger.pdf)	https://www.gwern.net/docs/psychology/1999-kruger.pdf)	X	ADD	_	0	root	_	start_char=226|end_char=280
+

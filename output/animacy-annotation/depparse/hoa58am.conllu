@@ -1,0 +1,43 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=2|end_char=4
+3	actually	actually	ADV	RB	_	6	advmod	_	start_char=5|end_char=13
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=14|end_char=15
+5	great	great	ADJ	JJ	Degree=Pos	6	amod	_	start_char=16|end_char=21
+6	argument	argument	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=30
+7	.	.	PUNCT	.	_	6	punct	_	start_char=30|end_char=31
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=32|end_char=33
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=33|end_char=35
+3	also	also	ADV	RB	_	5	advmod	_	start_char=36|end_char=40
+4	not	not	PART	RB	_	5	advmod	_	start_char=41|end_char=44
+5	changing	change	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=45|end_char=53
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=54|end_char=57
+7	mind	mind	NOUN	NN	Number=Sing	5	obj	_	start_char=58|end_char=62
+8	or	or	CCONJ	CC	_	10	cc	_	start_char=63|end_char=65
+9	even	even	ADV	RB	_	10	advmod	_	start_char=66|end_char=70
+10	attempting	attempt	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=71|end_char=81
+11	to	to	PART	TO	_	10	xcomp	_	start_char=82|end_char=84
+12	,	,	PUNCT	,	_	16	punct	_	start_char=84|end_char=85
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=86|end_char=87
+14	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=87|end_char=89
+15	just	just	ADV	RB	_	16	advmod	_	start_char=90|end_char=94
+16	stating	state	VERB	VBG	Tense=Pres|VerbForm=Part	5	parataxis	_	start_char=95|end_char=102
+17	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=103|end_char=105
+18	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=105|end_char=107
+19	wrong	wrong	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=108|end_char=113
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=114|end_char=117
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	19	conj	_	start_char=118|end_char=126
+22	of	of	ADP	IN	_	24	case	_	start_char=127|end_char=129
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=130|end_char=133
+24	facts	fact	NOUN	NNS	Number=Plur	21	obl	_	start_char=134|end_char=139
+25	of	of	ADP	IN	_	26	case	_	start_char=140|end_char=142
+26	reality	reality	NOUN	NN	Number=Sing	24	nmod	_	start_char=143|end_char=150
+27	.	.	PUNCT	.	_	5	punct	_	start_char=150|end_char=151
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=152|end_char=155
+2	apparently	apparently	ADV	RB	_	3	advmod	_	start_char=156|end_char=166
+3	so	so	ADV	RB	_	0	root	_	start_char=167|end_char=169
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=170|end_char=173
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=174|end_char=177
+6	.	.	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+

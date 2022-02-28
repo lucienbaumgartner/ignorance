@@ -1,0 +1,76 @@
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=0|end_char=3
+2	charts	chart	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=4|end_char=10
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+4	not	not	PART	RB	_	5	advmod	_	start_char=15|end_char=18
+5	data	datum	NOUN	NNS	Number=Plur	0	root	_	start_char=19|end_char=23
+6	.	.	PUNCT	.	_	5	punct	_	start_char=23|end_char=24
+
+1	Understand	understand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=27|end_char=37
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=38|end_char=41
+3	difference	difference	NOUN	NN	Number=Sing	1	obj	_	start_char=42|end_char=52
+4	,	,	PUNCT	,	_	1	punct	_	start_char=52|end_char=53
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=54|end_char=57
+6	fucking	fuck	VERB	VBG	VerbForm=Ger	1	parataxis	_	start_char=58|end_char=65
+7	braindead	braindead	ADJ	JJ	Degree=Pos	8	amod	_	start_char=66|end_char=75
+8	ape	ape	NOUN	NN	Number=Sing	6	obj	_	start_char=76|end_char=79
+9	?	?	PUNCT	.	_	1	punct	_	start_char=79|end_char=80
+
+1	Where	where	ADV	WRB	PronType=Int	0	root	_	start_char=82|end_char=87
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=88|end_char=90
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=91|end_char=94
+4	actual	actual	ADJ	JJ	Degree=Pos	5	amod	_	start_char=95|end_char=101
+5	data	datum	NOUN	NN	Number=Sing	1	nsubj	_	start_char=102|end_char=106
+6	?	?	PUNCT	.	_	1	punct	_	start_char=106|end_char=107
+
+1	Where	where	ADV	WRB	PronType=Int	0	root	_	start_char=108|end_char=113
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=114|end_char=116
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=117|end_char=120
+4	time	time	NOUN	NN	Number=Sing	6	compound	_	start_char=121|end_char=125
+5	series	series	NOUN	NN	Number=Sing	6	compound	_	start_char=126|end_char=132
+6	data	datum	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=133|end_char=137
+7	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=138|end_char=142
+8	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=143|end_char=151
+9	ivermectin	ivermectin	NOUN	NN	Number=Sing	10	compound	_	start_char=152|end_char=162
+10	usage	usage	NOUN	NN	Number=Sing	8	obj	_	start_char=163|end_char=168
+11	?	?	PUNCT	.	_	1	punct	_	start_char=168|end_char=169
+
+1	Oh	oh	INTJ	UH	_	7	discourse	_	start_char=171|end_char=173
+2	right	right	INTJ	UH	_	7	discourse	_	start_char=174|end_char=179
+3	,	,	PUNCT	,	_	7	punct	_	start_char=179|end_char=180
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=181|end_char=184
+5	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=185|end_char=187
+6	n't	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=187|end_char=190
+7	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=191|end_char=195
+8	any	any	DET	DT	_	10	det	_	start_char=196|end_char=199
+9	such	such	ADJ	JJ	Degree=Pos	10	amod	_	start_char=200|end_char=204
+10	data	datum	NOUN	NN	Number=Plur	7	obj	_	start_char=205|end_char=209
+11	.	.	PUNCT	.	_	7	punct	_	start_char=209|end_char=210
+12	🙃	''	PUNCT	''	_	7	punct	_	start_char=211|end_char=212
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=214|end_char=215
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=216|end_char=220
+3	bad	bad	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=221|end_char=224
+4	for	for	ADP	IN	_	5	case	_	start_char=225|end_char=228
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	_	start_char=229|end_char=232
+6	.	.	PUNCT	.	_	2	punct	_	start_char=232|end_char=233
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=234|end_char=235
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=236|end_char=242
+3	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	start_char=243|end_char=250
+4	what	what	PRON	WP	PronType=Int	3	ccomp	_	start_char=251|end_char=255
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	start_char=256|end_char=258
+6	must	must	AUX	MD	VerbForm=Fin	8	aux	_	start_char=259|end_char=263
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=264|end_char=266
+8	like	like	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=267|end_char=271
+9	to	to	PART	TO	_	13	mark	_	start_char=272|end_char=274
+10	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=275|end_char=277
+11	so	so	ADV	RB	_	12	advmod	_	start_char=278|end_char=280
+12	painfully	painfully	ADV	RB	_	13	advmod	_	start_char=281|end_char=290
+13	stupid	stupid	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=291|end_char=297
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=298|end_char=301
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=302|end_char=310
+16	of	of	ADP	IN	_	18	case	_	start_char=311|end_char=313
+17	basic	basic	ADJ	JJ	Degree=Pos	18	amod	_	start_char=314|end_char=319
+18	statistics	statistic	NOUN	NNS	Number=Plur	15	obl	_	start_char=320|end_char=330
+19	.	.	PUNCT	.	_	3	punct	_	start_char=330|end_char=331
+

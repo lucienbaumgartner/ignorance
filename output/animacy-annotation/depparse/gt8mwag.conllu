@@ -1,0 +1,32 @@
+1	To	to	PART	TO	_	2	mark	_	start_char=0|end_char=2
+2	summarize	summarize	VERB	VB	VerbForm=Inf	0	root	_	start_char=3|end_char=12
+3	,	,	PUNCT	,	_	4	punct	_	start_char=12|end_char=13
+4	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	2	conj	_	start_char=14|end_char=27
+5	,	,	PUNCT	,	_	6	punct	_	start_char=27|end_char=28
+6	rude	rude	ADJ	JJ	Degree=Pos	2	conj	_	start_char=29|end_char=33
+7	,	,	PUNCT	,	_	8	punct	_	start_char=33|end_char=34
+8	incorrect	incorrect	ADJ	JJ	Degree=Pos	2	conj	_	start_char=35|end_char=44
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+10	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=49|end_char=56
+11	of	of	ADP	IN	_	13	case	_	start_char=57|end_char=59
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=60|end_char=63
+13	law	law	NOUN	NN	Number=Sing	10	obl	_	start_char=64|end_char=67
+14	and	and	CCONJ	CC	_	17	cc	_	start_char=68|end_char=71
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=72|end_char=77
+16	own	own	ADJ	JJ	Degree=Pos	17	amod	_	start_char=78|end_char=81
+17	rights	rights	NOUN	NNS	Number=Plur	13	conj	_	start_char=82|end_char=88
+18	.	.	PUNCT	.	_	2	punct	_	start_char=88|end_char=89
+
+1	Embarrassing	Embarrassing	ADJ	JJ	Degree=Pos	0	root	_	start_char=90|end_char=102
+2	.	.	PUNCT	.	_	1	punct	_	start_char=102|end_char=103
+
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=104|end_char=110
+2	annoying	annoying	ADJ	JJ	Degree=Pos	0	root	_	start_char=111|end_char=119
+3	that	that	SCONJ	IN	_	5	mark	_	start_char=120|end_char=124
+4	society	society	NOUN	NN	Number=Sing	5	nsubj	_	start_char=125|end_char=132
+5	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=133|end_char=136
+6	to	to	PART	TO	_	7	mark	_	start_char=137|end_char=139
+7	deal	deal	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=140|end_char=144
+8	with	with	ADP	IN	_	9	case	_	start_char=145|end_char=149
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	7	obl	_	start_char=150|end_char=154
+

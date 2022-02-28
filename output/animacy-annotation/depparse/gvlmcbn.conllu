@@ -1,0 +1,35 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	n't	not	PART	RB	_	4	advmod	_	start_char=6|end_char=9
+4	reason	reason	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=16
+5	with	with	ADP	IN	_	6	case	_	start_char=17|end_char=21
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=22|end_char=26
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=27|end_char=31
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=32|end_char=35
+9	wilfully	wilfully	ADV	RB	_	10	advmod	_	start_char=36|end_char=44
+10	stupid	stupid	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=45|end_char=51
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=52|end_char=55
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=56|end_char=64
+13	.	.	PUNCT	.	_	4	punct	_	start_char=64|end_char=65
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=66|end_char=70
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=71|end_char=73
+3	just	just	ADV	RB	_	4	advmod	_	start_char=74|end_char=78
+4	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=79|end_char=83
+5	of	of	ADP	IN	_	8	case	_	start_char=84|end_char=86
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=87|end_char=90
+7	big	big	ADJ	JJ	Degree=Pos	8	amod	_	start_char=91|end_char=94
+8	conspiracy	conspiracy	NOUN	NN	Number=Sing	4	nmod	_	start_char=95|end_char=105
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=106|end_char=109
+10	plot	plot	NOUN	NN	Number=Sing	8	conj	_	start_char=110|end_char=114
+11	to	to	PART	TO	_	12	mark	_	start_char=115|end_char=117
+12	make	make	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=118|end_char=122
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	obj	_	start_char=123|end_char=127
+14	mildy	mildy	ADV	RB	_	15	advmod	_	start_char=128|end_char=133
+15	inconvenienced	inconvenience	VERB	VBN	Tense=Past|VerbForm=Part	12	xcomp	_	start_char=134|end_char=148
+16	in	in	ADP	IN	_	19	case	_	start_char=149|end_char=151
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=152|end_char=153
+18	grocery	grocery	NOUN	NN	Number=Sing	19	compound	_	start_char=154|end_char=161
+19	store	store	NOUN	NN	Number=Sing	15	obl	_	start_char=162|end_char=167
+20	.	.	PUNCT	.	_	4	punct	_	start_char=167|end_char=168
+

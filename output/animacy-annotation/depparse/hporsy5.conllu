@@ -1,0 +1,10 @@
+1	Can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=4|end_char=7
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=8|end_char=10
+4	any	any	DET	DT	_	6	det	_	start_char=11|end_char=14
+5	more	more	ADV	RBR	_	6	advmod	_	start_char=15|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	clueless	clueless	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=41
+9	?	?	PUNCT	.	_	6	punct	_	start_char=41|end_char=42
+

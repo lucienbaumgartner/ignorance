@@ -1,0 +1,43 @@
+1	...	...	PUNCT	,	_	18	punct	_	start_char=0|end_char=3
+2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=3|end_char=4
+3	90	90	NUM	CD	NumType=Card	4	nummod	_	start_char=5|end_char=7
+4	year	year	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=8|end_char=12
+5	old	old	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=16
+6	man	man	NOUN	NN	Number=Sing	18	nsubj	_	start_char=17|end_char=20
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=21|end_char=26
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	acl	_	start_char=27|end_char=34
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=35|end_char=38
+10	uninterested	uninterested	ADJ	JJ	Degree=Pos	8	conj	_	start_char=39|end_char=51
+11	in	in	ADP	IN	_	13	case	_	start_char=52|end_char=54
+12	Internet	Internet	PROPN	NNP	Number=Sing	13	compound	_	start_char=55|end_char=63
+13	memes	meme	NOUN	NNS	Number=Plur	10	obl	_	start_char=64|end_char=69
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=70|end_char=72
+15	not	not	PART	RB	Polarity=Neg	18	advmod	_	start_char=73|end_char=76
+16	"	"	PUNCT	``	_	18	punct	_	start_char=77|end_char=78
+17	sociopathic	sociopathic	ADJ	JJ	Degree=Pos	18	amod	_	start_char=78|end_char=89
+18	detachment	detachment	NOUN	NN	Number=Sing	0	root	_	start_char=90|end_char=100
+19	from	from	ADP	IN	_	20	case	_	start_char=101|end_char=105
+20	society	society	NOUN	NN	Number=Sing	18	nmod	_	start_char=106|end_char=113
+21	"	"	PUNCT	''	_	18	punct	_	start_char=113|end_char=114
+22	.	.	PUNCT	.	_	18	punct	_	start_char=114|end_char=115
+
+1	Jesus	Jesus	PROPN	NNP	Number=Sing	0	root	_	start_char=116|end_char=121
+2	Christ	Christ	PROPN	NNP	Number=Sing	1	flat	_	start_char=122|end_char=128
+3	.	.	PUNCT	.	_	1	punct	_	start_char=128|end_char=129
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=131|end_char=132
+2	'd	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=132|end_char=134
+3	wager	wager	VERB	VB	VerbForm=Inf	0	root	_	start_char=135|end_char=140
+4	money	money	NOUN	NN	Number=Sing	3	obj	_	start_char=141|end_char=146
+5	that	that	SCONJ	IN	_	11	mark	_	start_char=147|end_char=151
+6	80	80	NUM	CD	NumType=Card	7	nummod	_	start_char=152|end_char=154
+7	%	%	SYM	NN	Number=Sing	11	nsubj	_	start_char=154|end_char=155
+8	of	of	ADP	IN	_	9	case	_	start_char=156|end_char=158
+9	Americans	American	PROPN	NNPS	Number=Plur	7	nmod	_	start_char=159|end_char=168
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=169|end_char=172
+11	unaware	unaware	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=173|end_char=180
+12	of	of	ADP	IN	_	14	case	_	start_char=181|end_char=183
+13	Baby	Baby	PROPN	NNP	Number=Sing	14	compound	_	start_char=184|end_char=188
+14	Yoda	Yoda	PROPN	NNP	Number=Sing	11	obl	_	start_char=189|end_char=193
+15	.	.	PUNCT	.	_	3	punct	_	start_char=193|end_char=194
+

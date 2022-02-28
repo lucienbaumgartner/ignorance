@@ -1,0 +1,133 @@
+1	Lenin	Lenin	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=6|end_char=9
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=10|end_char=13
+4	Bolsheviks	Bolsheviks	PROPN	NNPS	Number=Plur	1	conj	_	start_char=14|end_char=24
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	cop	_	start_char=25|end_char=29
+6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=30|end_char=33
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	_	start_char=34|end_char=39
+8	successful	successful	ADJ	JJ	Degree=Pos	10	amod	_	start_char=40|end_char=50
+9	Marxist	Marxist	ADJ	JJ	Degree=Pos	10	amod	_	start_char=51|end_char=58
+10	experiment	experiment	NOUN	NN	Number=Sing	0	root	_	start_char=59|end_char=69
+11	.	.	PUNCT	.	_	10	punct	_	start_char=69|end_char=70
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=71|end_char=72
+2	firmly	firmly	ADV	RB	_	3	advmod	_	start_char=73|end_char=79
+3	disagree	disagree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=80|end_char=88
+4	with	with	ADP	IN	_	6	case	_	start_char=89|end_char=93
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=94|end_char=98
+6	claim	claim	NOUN	NN	Number=Sing	3	obl	_	start_char=99|end_char=104
+7	:	:	PUNCT	:	_	3	punct	_	start_char=104|end_char=105
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=107|end_char=110
+2	;	;	PUNCT	:	_	1	punct	_	start_char=110|end_char=111
+
+1	Lenin	Lenin	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=111|end_char=116
+2	conned	con	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=117|end_char=123
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=124|end_char=127
+4	masses	mass	NOUN	NNS	Number=Plur	2	obj	_	start_char=128|end_char=134
+5	so	so	ADV	RB	_	8	mark	_	start_char=135|end_char=137
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=138|end_char=140
+7	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=141|end_char=146
+8	gain	gain	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=147|end_char=151
+9	power	power	NOUN	NN	Number=Sing	8	obj	_	start_char=152|end_char=157
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=159|end_char=162
+2	masses	mass	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=163|end_char=169
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	start_char=170|end_char=174
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=175|end_char=178
+5	ones	one	NOUN	NNS	Number=Plur	0	root	_	start_char=179|end_char=183
+6	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=184|end_char=187
+7	succeeded	succeed	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=188|end_char=197
+8	in	in	ADP	IN	_	10	case	_	start_char=198|end_char=200
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=201|end_char=204
+10	revolution	revolution	NOUN	NN	Number=Sing	7	obl	_	start_char=205|end_char=215
+11	.	.	PUNCT	.	_	5	punct	_	start_char=215|end_char=216
+
+1	Lenin	Lenin	PROPN	NNP	Number=Sing	3	nmod:poss	_	start_char=217|end_char=222
+2	’s	's	PART	POS	_	1	case	_	start_char=222|end_char=224
+3	job	job	NOUN	NN	Number=Sing	6	nsubj	_	start_char=225|end_char=228
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=229|end_char=232
+5	to	to	PART	TO	_	6	mark	_	start_char=233|end_char=235
+6	educate	educate	VERB	VB	VerbForm=Inf	0	root	_	start_char=236|end_char=243
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=244|end_char=247
+8	organize	organize	VERB	VB	VerbForm=Inf	6	conj	_	start_char=248|end_char=256
+9	among	among	ADP	IN	_	12	case	_	start_char=257|end_char=262
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=263|end_char=266
+11	working	working	NOUN	NN	Number=Sing	12	compound	_	start_char=267|end_char=274
+12	class	class	NOUN	NN	Number=Sing	8	obl	_	start_char=275|end_char=280
+13	in	in	ADP	IN	_	16	mark	_	start_char=281|end_char=283
+14	order	order	NOUN	NN	Number=Sing	13	fixed	_	start_char=284|end_char=289
+15	to	to	PART	TO	_	16	mark	_	start_char=290|end_char=292
+16	destroy	destroy	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=293|end_char=300
+17	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=301|end_char=304
+18	Tsarist	Tsarist	ADJ	JJ	Degree=Pos	20	amod	_	start_char=305|end_char=312
+19	Russian	Russian	ADJ	JJ	Degree=Pos	20	amod	_	start_char=313|end_char=320
+20	state	state	NOUN	NN	Number=Sing	16	obj	_	start_char=321|end_char=326
+21	.	.	PUNCT	.	_	6	punct	_	start_char=326|end_char=327
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=328|end_char=330
+2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=331|end_char=337
+3	.	.	PUNCT	.	_	2	punct	_	start_char=337|end_char=338
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=339|end_char=342
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=343|end_char=346
+3	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=347|end_char=351
+4	what	what	PRON	WP	PronType=Int	3	obj	_	start_char=352|end_char=356
+5	?	?	PUNCT	.	_	3	punct	_	start_char=356|end_char=357
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=358|end_char=361
+2	masses	mass	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=362|end_char=368
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=369|end_char=372
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=372|end_char=375
+5	care	care	VERB	VB	VerbForm=Inf	0	root	_	start_char=376|end_char=380
+6	if	if	SCONJ	IN	_	10	mark	_	start_char=381|end_char=383
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj:pass	_	start_char=384|end_char=388
+8	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	start_char=389|end_char=393
+9	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	_	start_char=394|end_char=399
+10	organized	organize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=400|end_char=409
+11	by	by	ADP	IN	_	14	case	_	start_char=410|end_char=412
+12	“	''	PUNCT	``	_	14	punct	_	start_char=413|end_char=414
+13	libertarian	libertarian	ADJ	JJ	Degree=Pos	14	amod	_	start_char=414|end_char=425
+14	socialists	socialist	NOUN	NNS	Number=Plur	10	obl	_	start_char=426|end_char=436
+15	”	''	PUNCT	''	_	14	punct	_	start_char=436|end_char=437
+16	,	,	PUNCT	,	_	18	punct	_	start_char=437|end_char=438
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=439|end_char=443
+18	cared	care	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	_	start_char=444|end_char=449
+19	about	about	SCONJ	IN	_	20	mark	_	start_char=450|end_char=455
+20	ending	end	VERB	VBG	VerbForm=Ger	18	advcl	_	start_char=456|end_char=462
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=463|end_char=466
+22	oppression	oppression	NOUN	NN	Number=Sing	20	obj	_	start_char=467|end_char=477
+23	of	of	ADP	IN	_	27	case	_	start_char=478|end_char=480
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=481|end_char=484
+25	Tsar	Tsar	PROPN	NNP	Number=Sing	27	nmod:poss	_	start_char=485|end_char=489
+26	’s	's	PART	POS	_	25	case	_	start_char=489|end_char=491
+27	rule	rule	NOUN	NN	Number=Sing	22	nmod	_	start_char=492|end_char=496
+28	by	by	ADP	IN	_	30	case	_	start_char=497|end_char=499
+29	any	any	DET	DT	_	30	det	_	start_char=500|end_char=503
+30	means	means	NOUN	NNS	Number=Plur	20	obl	_	start_char=504|end_char=509
+31	necessary	necessary	ADJ	JJ	Degree=Pos	30	amod	_	start_char=510|end_char=519
+32	.	.	PUNCT	.	_	5	punct	_	start_char=519|end_char=520
+
+1	To	to	PART	TO	_	2	mark	_	start_char=521|end_char=523
+2	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=524|end_char=527
+3	:	:	PUNCT	:	_	2	punct	_	start_char=527|end_char=528
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=530|end_char=533
+2	;	;	PUNCT	:	_	1	punct	_	start_char=533|end_char=534
+
+1	State	State	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=534|end_char=539
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=540|end_char=543
+3	Revolution	Revolution	PROPN	NNP	Number=Sing	1	conj	_	start_char=544|end_char=554
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=555|end_char=558
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=559|end_char=560
+6	lie	lie	NOUN	NN	Number=Sing	0	root	_	start_char=561|end_char=564
+
+1	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=566|end_char=568
+2	utterly	utterly	ADV	RB	_	3	advmod	_	start_char=569|end_char=576
+3	foolish	foolish	ADJ	JJ	Degree=Pos	0	root	_	start_char=577|end_char=584
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=585|end_char=588
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=589|end_char=597
+6	of	of	ADP	IN	_	7	case	_	start_char=598|end_char=600
+7	history	history	NOUN	NN	Number=Sing	5	obl	_	start_char=601|end_char=608
+8	.	.	PUNCT	.	_	3	punct	_	start_char=608|end_char=609
+

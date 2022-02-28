@@ -1,0 +1,82 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	noting	note	VERB	VBG	VerbForm=Ger	0	root	_	start_char=5|end_char=11
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	start_char=12|end_char=15
+4	thing	thing	NOUN	NN	Number=Sing	2	obj	_	start_char=16|end_char=21
+5	.	.	PUNCT	.	_	2	punct	_	start_char=21|end_char=22
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=23|end_char=27
+2	friend	friend	NOUN	NN	Number=Sing	3	nsubj	_	start_char=28|end_char=34
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=35|end_char=39
+4	5e	5e	NOUN	NN	Number=Sing	6	nsubj	_	start_char=40|end_char=42
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=43|end_char=45
+6	light	light	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=46|end_char=51
+7	on	on	ADP	IN	_	8	case	_	start_char=52|end_char=54
+8	rules	rule	NOUN	NNS	Number=Plur	6	obl	_	start_char=55|end_char=60
+9	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	On	on	ADP	IN	_	2	case	_	start_char=62|end_char=64
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obl	_	start_char=65|end_char=69
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=70|end_char=73
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=74|end_char=77
+5	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=78|end_char=82
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=83|end_char=86
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=87|end_char=91
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=92|end_char=94
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=95|end_char=97
+10	just	just	ADV	RB	_	11	advmod	_	start_char=98|end_char=102
+11	wrong	wrong	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=103|end_char=108
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=109|end_char=112
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=113|end_char=121
+14	of	of	ADP	IN	_	15	case	_	start_char=122|end_char=124
+15	rpgs	rpg	NOUN	NNS	Number=Plur	13	obl	_	start_char=125|end_char=129
+16	.	.	PUNCT	.	_	5	punct	_	start_char=129|end_char=130
+
+1	5e	5e	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=131|end_char=133
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=134|end_char=136
+3	squarely	squarely	ADV	RB	_	5	advmod	_	start_char=137|end_char=145
+4	rules	rule	NOUN	NNS	Number=Plur	5	compound	_	start_char=146|end_char=151
+5	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	start_char=152|end_char=158
+6	.	.	PUNCT	.	_	5	punct	_	start_char=158|end_char=159
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=160|end_char=163
+2	GM	GM	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=164|end_char=166
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=167|end_char=170
+4	ignore	ignore	VERB	VB	VerbForm=Inf	0	root	_	start_char=171|end_char=177
+5	things	thing	NOUN	NNS	Number=Plur	4	obj	_	start_char=178|end_char=184
+6	,	,	PUNCT	,	_	4	punct	_	start_char=184|end_char=185
+7	yes	yes	INTJ	UH	_	14	discourse	_	start_char=186|end_char=189
+8	,	,	PUNCT	,	_	14	punct	_	start_char=189|end_char=190
+9	just	just	ADV	RB	_	14	advmod	_	start_char=191|end_char=195
+10	like	like	SCONJ	IN	_	14	mark	_	start_char=196|end_char=200
+11	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=201|end_char=204
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=205|end_char=209
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=210|end_char=213
+14	invent	invent	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=214|end_char=220
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=221|end_char=226
+16	own	own	ADJ	JJ	Degree=Pos	17	amod	_	start_char=227|end_char=230
+17	system	system	NOUN	NN	Number=Sing	14	obj	_	start_char=231|end_char=237
+18	from	from	ADP	IN	_	19	case	_	start_char=238|end_char=242
+19	scratch	scratch	NOUN	NN	Number=Sing	14	obl	_	start_char=243|end_char=250
+20	.	.	PUNCT	.	_	4	punct	_	start_char=250|end_char=251
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=253|end_char=256
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=257|end_char=261
+3	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=262|end_char=267
+4	work	work	NOUN	NN	Number=Sing	3	obj	_	start_char=268|end_char=272
+5	.	.	PUNCT	.	_	3	punct	_	start_char=272|end_char=273
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=274|end_char=276
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=277|end_char=279
+3	not	not	PART	RB	_	6	advmod	_	start_char=280|end_char=283
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=284|end_char=285
+5	valid	valid	ADJ	JJ	Degree=Pos	6	amod	_	start_char=286|end_char=291
+6	defense	defense	NOUN	NN	Number=Sing	0	root	_	start_char=292|end_char=299
+7	of	of	ADP	IN	_	9	case	_	start_char=300|end_char=302
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=303|end_char=306
+9	system	system	NOUN	NN	Number=Sing	6	nmod	_	start_char=307|end_char=313
+10	as	as	SCONJ	IN	_	13	mark	_	start_char=314|end_char=316
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj:pass	_	start_char=317|end_char=319
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=320|end_char=322
+13	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	start_char=323|end_char=330
+14	.	.	PUNCT	.	_	6	punct	_	start_char=330|end_char=331
+

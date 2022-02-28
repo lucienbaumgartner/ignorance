@@ -1,0 +1,42 @@
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	9	punct	_	start_char=4|end_char=5
+3	all	all	DET	DT	_	9	nsubj	_	start_char=6|end_char=9
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=10|end_char=11
+5	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=11|end_char=13
+6	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	3	acl:relcl	_	start_char=14|end_char=20
+7	to	to	PART	TO	_	8	mark	_	start_char=21|end_char=23
+8	say	say	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=24|end_char=27
+9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=28|end_char=30
+10	that	that	SCONJ	IN	_	15	mark	_	start_char=31|end_char=35
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=36|end_char=38
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=38|end_char=40
+13	not	not	PART	RB	_	15	advmod	_	start_char=41|end_char=44
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=45|end_char=46
+15	baby	baby	NOUN	NN	Number=Sing	9	ccomp	_	start_char=47|end_char=51
+16	.	.	PUNCT	.	_	1	punct	_	start_char=51|end_char=52
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=53|end_char=55
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=55|end_char=57
+3	just	just	ADV	RB	_	6	advmod	_	start_char=58|end_char=62
+4	so	so	ADV	RB	_	5	advmod	_	start_char=63|end_char=65
+5	socially	socially	ADV	RB	_	6	advmod	_	start_char=66|end_char=74
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=82
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=83|end_char=86
+8	inept	inept	ADJ	JJ	Degree=Pos	6	conj	_	start_char=87|end_char=92
+9	,	,	PUNCT	,	_	6	punct	_	start_char=92|end_char=93
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=94|end_char=98
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=99|end_char=101
+12	just	just	ADV	RB	_	13	advmod	_	start_char=102|end_char=106
+13	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	start_char=107|end_char=113
+14	so	so	ADV	RB	_	15	advmod	_	start_char=114|end_char=116
+15	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=117|end_char=127
+16	.	.	PUNCT	.	_	6	punct	_	start_char=127|end_char=128
+
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=129|end_char=134
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=135|end_char=137
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=138|end_char=141
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=142|end_char=143
+5	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=144|end_char=148
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=149|end_char=152
+7	.	.	PUNCT	.	_	3	punct	_	start_char=152|end_char=153
+

@@ -1,0 +1,36 @@
+1	First	first	ADJ	JJ	Degree=Pos|NumType=Ord	2	amod	_	start_char=0|end_char=5
+2	amendment	amendment	NOUN	NN	Number=Sing	3	nsubj	_	start_char=6|end_char=15
+3	grants	grant	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=22
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	iobj	_	start_char=23|end_char=26
+5	freedom	freedom	NOUN	NN	Number=Sing	3	obj	_	start_char=27|end_char=34
+6	to	to	PART	TO	_	7	mark	_	start_char=35|end_char=37
+7	do	do	VERB	VB	VerbForm=Inf	5	acl	_	start_char=38|end_char=40
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	7	obj	_	start_char=41|end_char=45
+9	.	.	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=49|end_char=52
+2	founding	found	NOUN	NN	Number=Sing	3	compound	_	start_char=53|end_char=61
+3	fathers	father	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=62|end_char=69
+4	never	never	ADV	RB	_	5	advmod	_	start_char=70|end_char=75
+5	envisioned	envision	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=76|end_char=86
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=87|end_char=90
+7	american	American	ADJ	JJ	Degree=Pos	8	amod	_	start_char=91|end_char=99
+8	citizen	citizen	NOUN	NN	Number=Sing	5	obj	_	start_char=100|end_char=107
+9	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=108|end_char=113
+10	so	so	ADV	RB	_	11	advmod	_	start_char=114|end_char=116
+11	stupid	stupid	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=117|end_char=123
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=124|end_char=127
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=128|end_char=136
+14	that	that	SCONJ	IN	_	17	mark	_	start_char=137|end_char=141
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=142|end_char=146
+16	will	will	AUX	MD	VerbForm=Fin	17	aux	_	start_char=147|end_char=151
+17	promote	promote	VERB	VB	VerbForm=Inf	13	ccomp	_	start_char=152|end_char=159
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=160|end_char=163
+19	same	same	ADJ	JJ	Degree=Pos	20	amod	_	start_char=164|end_char=168
+20	fascism	fascism	NOUN	NN	Number=Sing	17	obj	_	start_char=169|end_char=176
+21	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	start_char=177|end_char=181
+22	fought	fight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	acl:relcl	_	start_char=182|end_char=188
+23	hard	hard	ADV	RB	Degree=Pos	22	advmod	_	start_char=189|end_char=193
+24	against	against	ADP	IN	_	22	obl	_	start_char=194|end_char=201
+25	.	.	PUNCT	.	_	5	punct	_	start_char=201|end_char=202
+

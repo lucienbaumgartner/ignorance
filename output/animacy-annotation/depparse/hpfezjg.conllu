@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	main	main	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=8
+3	annoyance	annoyance	NOUN	NN	Number=Sing	11	nsubj	_	start_char=9|end_char=18
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=19|end_char=20
+5	'd	would	AUX	MD	VerbForm=Fin	3	acl:relcl	_	start_char=20|end_char=22
+6	always	always	ADV	RB	_	5	advmod	_	start_char=23|end_char=29
+7	while	while	SCONJ	IN	_	8	mark	_	start_char=30|end_char=35
+8	working	work	VERB	VBG	VerbForm=Ger	14	csubj	_	start_char=36|end_char=43
+9	food	food	NOUN	NN	Number=Sing	10	compound	_	start_char=44|end_char=48
+10	service	service	NOUN	NN	Number=Sing	8	obj	_	start_char=49|end_char=56
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	start_char=57|end_char=60
+12	just	just	ADV	RB	_	14	advmod	_	start_char=61|end_char=65
+13	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=66|end_char=69
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=78
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=79|end_char=82
+16	lazy	lazy	ADJ	JJ	Degree=Pos	14	conj	_	start_char=83|end_char=87
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=88|end_char=90
+18	co-workers	co-worker	NOUN	NNS	Number=Plur	21	nsubj	_	start_char=91|end_char=101
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=102|end_char=105
+20	bosses	boss	NOUN	NNS	Number=Plur	18	conj	_	start_char=106|end_char=112
+21	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	cop	_	start_char=113|end_char=117
+22	.	.	PUNCT	.	_	14	punct	_	start_char=117|end_char=118
+

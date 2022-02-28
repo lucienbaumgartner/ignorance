@@ -1,0 +1,14 @@
+1	Because	because	SCONJ	IN	_	3	mark	_	start_char=0|end_char=7
+2	willfully	willfully	ADV	RB	_	3	advmod	_	start_char=8|end_char=17
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	csubj	_	start_char=18|end_char=26
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+5	proudly	proudly	ADV	RB	_	6	advmod	_	start_char=31|end_char=38
+6	stupid	stupid	ADJ	JJ	Degree=Pos	3	conj	_	start_char=39|end_char=45
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=46|end_char=48
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=49|end_char=50
+9	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=51|end_char=54
+10	of	of	ADP	IN	_	11	case	_	start_char=55|end_char=57
+11	life	life	NOUN	NN	Number=Sing	9	nmod	_	start_char=58|end_char=62
+12	here	here	ADV	RB	PronType=Dem	9	advmod	_	start_char=63|end_char=67
+13	.	.	PUNCT	.	_	9	punct	_	start_char=67|end_char=68
+

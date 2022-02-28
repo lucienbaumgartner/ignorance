@@ -1,0 +1,44 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	...	...	PUNCT	.	_	1	punct	_	start_char=3|end_char=6
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=9|end_char=13
+2	friends	friend	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=14|end_char=21
+3	probably	probably	ADV	RB	_	6	advmod	_	start_char=22|end_char=30
+4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=31|end_char=34
+5	n't	not	PART	RB	_	6	advmod	_	start_char=34|end_char=37
+6	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=38|end_char=42
+7	time	time	NOUN	NN	Number=Sing	6	obj	_	start_char=43|end_char=47
+8	to	to	PART	TO	_	9	mark	_	start_char=48|end_char=50
+9	react	react	VERB	VB	VerbForm=Inf	7	acl	_	start_char=51|end_char=56
+10	to	to	PART	TO	_	11	mark	_	start_char=57|end_char=59
+11	ask	ask	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=60|end_char=63
+12	Alex	Alex	PROPN	NNP	Number=Sing	11	obj	_	start_char=64|end_char=68
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=69|end_char=72
+14	Bailey	Bailey	PROPN	NNP	Number=Sing	12	conj	_	start_char=73|end_char=79
+15	to	to	PART	TO	_	16	mark	_	start_char=80|end_char=82
+16	leave	leave	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=83|end_char=88
+17	but	but	CCONJ	CC	_	22	cc	_	start_char=89|end_char=92
+18	in	in	ADP	IN	_	19	case	_	start_char=93|end_char=95
+19	future	future	NOUN	NN	Number=Sing	22	obl	_	start_char=96|end_char=102
+20	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	start_char=103|end_char=107
+21	should	should	AUX	MD	VerbForm=Fin	22	aux	_	start_char=108|end_char=114
+22	exclude	exclude	VERB	VB	VerbForm=Inf	6	conj	_	start_char=115|end_char=122
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	obj	_	start_char=123|end_char=127
+24	from	from	ADP	IN	_	26	case	_	start_char=128|end_char=132
+25	future	future	ADJ	JJ	Degree=Pos	26	amod	_	start_char=133|end_char=139
+26	gatherings	gathering	NOUN	NNS	Number=Plur	22	obl	_	start_char=140|end_char=150
+27	.	.	PUNCT	.	_	6	punct	_	start_char=150|end_char=151
+
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=154|end_char=159
+2	comment	comment	NOUN	NN	Number=Sing	4	nsubj	_	start_char=160|end_char=167
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=168|end_char=171
+4	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=172|end_char=179
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=180|end_char=183
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=184|end_char=192
+7	of	of	ADP	IN	_	11	case	_	start_char=193|end_char=195
+8	any	any	DET	DT	_	11	det	_	start_char=196|end_char=199
+9	potential	potential	ADJ	JJ	Degree=Pos	11	amod	_	start_char=200|end_char=209
+10	parenting	parenting	NOUN	NN	Number=Sing	11	compound	_	start_char=210|end_char=219
+11	abilities	ability	NOUN	NNS	Number=Plur	6	obl	_	start_char=220|end_char=229
+12	.	.	PUNCT	.	_	4	punct	_	start_char=229|end_char=230
+

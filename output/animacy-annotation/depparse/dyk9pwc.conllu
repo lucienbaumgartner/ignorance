@@ -1,0 +1,44 @@
+1	Except	except	ADP	IN	_	9	mark	_	start_char=0|end_char=6
+2	how	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=7|end_char=10
+3	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=11|end_char=15
+4	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=16|end_char=22
+5	in	in	ADP	IN	_	8	case	_	start_char=23|end_char=25
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=26|end_char=29
+7	Marvel	Marvel	PROPN	NNP	Number=Sing	8	compound	_	start_char=30|end_char=36
+8	Universe	Universe	PROPN	NNP	Number=Sing	4	nmod	_	start_char=37|end_char=45
+9	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=46|end_char=50
+10	someone	someone	PRON	NN	Number=Sing	9	obj	_	start_char=51|end_char=58
+11	Mr.	Mr.	PROPN	NNP	Number=Sing	10	flat	_	start_char=59|end_char=62
+12	____	____	PUNCT	.	_	9	punct	_	start_char=63|end_char=67
+13	?	?	PUNCT	.	_	9	punct	_	start_char=67|end_char=68
+
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	2	nummod	_	start_char=69|end_char=72
+2	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=73|end_char=79
+3	.	.	PUNCT	.	_	2	punct	_	start_char=79|end_char=80
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=81|end_char=83
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=83|end_char=85
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=86|end_char=92
+4	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=93|end_char=100
+5	obvious	obvious	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=101|end_char=108
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=109|end_char=112
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj:pass	_	start_char=113|end_char=114
+8	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=114|end_char=116
+9	still	still	ADV	RB	_	10	advmod	_	start_char=117|end_char=122
+10	miffed	miff	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=123|end_char=129
+11	someone	someone	PRON	NN	Number=Sing	12	nsubj	_	start_char=130|end_char=137
+12	pointed	point	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	ccomp	_	start_char=138|end_char=145
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=146|end_char=150
+14	fact	fact	NOUN	NN	Number=Sing	12	obj	_	start_char=151|end_char=155
+15	out	out	ADP	RP	_	12	compound:prt	_	start_char=156|end_char=159
+16	to	to	ADP	IN	_	17	case	_	start_char=160|end_char=162
+17	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obl	_	start_char=163|end_char=165
+18	because	because	SCONJ	IN	_	22	mark	_	start_char=166|end_char=173
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=174|end_char=175
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	start_char=176|end_char=179
+21	blissfully	blissfully	ADV	RB	_	22	advmod	_	start_char=180|end_char=190
+22	unaware	unaware	ADJ	JJ	Degree=Pos	12	advcl	_	start_char=191|end_char=198
+23	and	and	CCONJ	CC	_	24	cc	_	start_char=199|end_char=202
+24	unspoiled	unspoiled	ADJ	JJ	Degree=Pos	22	conj	_	start_char=203|end_char=212
+25	.	.	PUNCT	.	_	4	punct	_	start_char=212|end_char=213
+

@@ -1,0 +1,157 @@
+1	Personality	personality	NOUN	NN	Number=Sing	3	compound	_	start_char=0|end_char=11
+2	pet	pet	NOUN	NN	Number=Sing	3	compound	_	start_char=12|end_char=15
+3	peeves	peeve	NOUN	NNS	Number=Plur	0	root	_	start_char=16|end_char=22
+4	:	:	PUNCT	:	_	3	punct	_	start_char=22|end_char=23
+
+1	\-	\-	SYM	SYM	_	2	discourse	_	start_char=26|end_char=28
+2	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=29|end_char=35
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=36|end_char=39
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=40|end_char=43
+5	inconsistent	inconsistent	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=44|end_char=56
+
+1	\-	\-	SYM	NFP	_	0	root	_	start_char=58|end_char=60
+
+1	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=61|end_char=67
+2	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=68|end_char=71
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=72|end_char=75
+4	n't	not	PART	RB	_	5	advmod	_	start_char=75|end_char=78
+5	open	open	ADJ	JJ	Degree=Pos	1	acl:relcl	_	start_char=79|end_char=83
+6	for	for	ADP	IN	_	7	case	_	start_char=84|end_char=87
+7	conversation	conversation	NOUN	NN	Number=Sing	5	obl	_	start_char=88|end_char=100
+8	about	about	ADP	IN	_	11	case	_	start_char=101|end_char=106
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=107|end_char=112
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=113|end_char=116
+11	beliefs	belief	NOUN	NNS	Number=Plur	7	nmod	_	start_char=117|end_char=124
+12	,	,	PUNCT	,	_	14	punct	_	start_char=124|end_char=125
+13	both	both	CCONJ	CC	_	14	cc:preconj	_	start_char=126|end_char=130
+14	conservatives	conservative	NOUN	NNS	Number=Plur	11	appos	_	start_char=131|end_char=144
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=145|end_char=148
+16	liberals	liberal	NOUN	NNS	Number=Plur	14	conj	_	start_char=149|end_char=157
+17	.	.	PUNCT	.	_	1	punct	_	start_char=157|end_char=158
+
+1	Also	also	ADV	RB	_	5	advmod	_	start_char=159|end_char=163
+2	if	if	SCONJ	IN	_	5	mark	_	start_char=164|end_char=166
+3	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=167|end_char=173
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=174|end_char=177
+5	extremists	extremist	NOUN	NNS	Number=Plur	0	root	_	start_char=178|end_char=188
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=189|end_char=192
+7	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=193|end_char=198
+8	of	of	ADP	IN	_	9	case	_	start_char=199|end_char=201
+9	things	thing	NOUN	NNS	Number=Plur	7	obl	_	start_char=202|end_char=208
+10	in	in	ADP	IN	_	11	case	_	start_char=209|end_char=211
+11	black	black	ADJ	JJ	Degree=Pos	9	nmod	_	start_char=212|end_char=217
+12	/	/	SYM	,	_	13	cc	_	start_char=217|end_char=218
+13	white	white	ADJ	JJ	Degree=Pos	11	conj	_	start_char=218|end_char=223
+
+1	\-	\-	SYM	NFP	_	0	root	_	start_char=225|end_char=227
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=228|end_char=234
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=235|end_char=238
+3	guilt	guilt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=239|end_char=244
+4	trip	trip	VERB	VB	VerbForm=Inf	0	root	_	start_char=245|end_char=249
+5	others	other	NOUN	NNS	Number=Plur	4	obj	_	start_char=250|end_char=256
+6	with	with	ADP	IN	_	7	case	_	start_char=257|end_char=261
+7	morality	morality	NOUN	NN	Number=Sing	4	obl	_	start_char=262|end_char=270
+8	,	,	PUNCT	,	_	9	punct	_	start_char=270|end_char=271
+9	people	people	NOUN	NNS	Number=Plur	7	appos	_	start_char=272|end_char=278
+10	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=279|end_char=282
+11	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=283|end_char=287
+12	guilt	guilt	NOUN	NN	Number=Sing	13	compound	_	start_char=288|end_char=293
+13	tripping	trip	NOUN	NN	Number=Sing	11	xcomp	_	start_char=294|end_char=302
+14	,	,	PUNCT	,	_	15	punct	_	start_char=302|end_char=303
+15	period	period	NOUN	NN	Number=Sing	13	obj	_	start_char=304|end_char=310
+16	.	.	PUNCT	.	_	4	punct	_	start_char=310|end_char=311
+
+1	\-	\-	PUNCT	NFP	_	2	punct	_	start_char=314|end_char=316
+2	Disloyalty	disloyalty	NOUN	NN	Number=Sing	0	root	_	start_char=317|end_char=327
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=328|end_char=331
+4	blatant	blatant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=332|end_char=339
+5	liars	liar	NOUN	NNS	Number=Plur	2	conj	_	start_char=340|end_char=345
+6	.	.	PUNCT	.	_	2	punct	_	start_char=345|end_char=346
+
+1	\-	\-	SYM	NFP	_	0	root	_	start_char=349|end_char=351
+
+1	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=352|end_char=358
+2	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=359|end_char=362
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=363|end_char=366
+4	avoidant	avoidant	ADJ	JJ	Degree=Pos	1	acl:relcl	_	start_char=367|end_char=375
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=376|end_char=379
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=380|end_char=387
+7	of	of	ADP	IN	_	10	case	_	start_char=388|end_char=390
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=391|end_char=396
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=397|end_char=400
+10	behavior	behavior	NOUN	NN	Number=Sing	6	obl	_	start_char=401|end_char=409
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=410|end_char=413
+12	self	self	NOUN	NN	Number=Sing	10	conj	_	start_char=414|end_char=418
+13	.	.	PUNCT	.	_	1	punct	_	start_char=418|end_char=419
+
+1	Especially	especially	ADV	RB	_	5	advmod	_	start_char=420|end_char=430
+2	if	if	SCONJ	IN	_	5	mark	_	start_char=431|end_char=433
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=434|end_char=435
+4	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=435|end_char=437
+5	honest	honest	ADJ	JJ	Degree=Pos	0	root	_	start_char=438|end_char=444
+6	to	to	ADP	IN	_	7	case	_	start_char=445|end_char=447
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=448|end_char=452
+8	about	about	ADP	IN	_	9	case	_	start_char=453|end_char=458
+9	something	something	PRON	NN	Number=Sing	5	obl	_	start_char=459|end_char=468
+10	.	.	PUNCT	.	_	5	punct	_	start_char=468|end_char=469
+
+1	\-	\-	PUNCT	NFP	_	2	punct	_	start_char=472|end_char=474
+2	People	person	NOUN	NNS	Number=Plur	0	root	_	start_char=475|end_char=481
+3	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=482|end_char=485
+4	ca	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=486|end_char=488
+5	n't	not	PART	RB	_	6	advmod	_	start_char=488|end_char=491
+6	handle	handle	VERB	VB	VerbForm=Inf	2	acl:relcl	_	start_char=492|end_char=498
+7	directness	directness	NOUN	NN	Number=Sing	6	obj	_	start_char=499|end_char=509
+
+1	\-	\-	PUNCT	NFP	_	2	punct	_	start_char=511|end_char=513
+2	Hypersensitivity	hypersensitivity	NOUN	NN	Number=Sing	0	root	_	start_char=514|end_char=530
+3	to	to	ADP	IN	_	6	case	_	start_char=531|end_char=533
+4	every	every	DET	DT	_	6	det	_	start_char=534|end_char=539
+5	little	little	ADJ	JJ	Degree=Pos	6	amod	_	start_char=540|end_char=546
+6	thing	thing	NOUN	NN	Number=Sing	2	nmod	_	start_char=547|end_char=552
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=553|end_char=556
+8	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=557|end_char=560
+9	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=561|end_char=565
+10	might	might	AUX	MD	VerbForm=Fin	11	aux	_	start_char=566|end_char=571
+11	offend	offend	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=572|end_char=578
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=579|end_char=583
+13	or	or	CCONJ	CC	_	16	cc	_	start_char=584|end_char=586
+14	some	some	DET	DT	_	16	det	_	start_char=587|end_char=591
+15	other	other	ADJ	JJ	Degree=Pos	16	amod	_	start_char=592|end_char=597
+16	group	group	NOUN	NN	Number=Sing	12	conj	_	start_char=598|end_char=603
+17	of	of	ADP	IN	_	18	case	_	start_char=604|end_char=606
+18	people	people	NOUN	NNS	Number=Plur	16	nmod	_	start_char=607|end_char=613
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj:pass	_	start_char=614|end_char=618
+20	might	might	AUX	MD	VerbForm=Fin	25	aux	_	start_char=619|end_char=624
+21	/	/	PUNCT	,	_	25	cc	_	start_char=624|end_char=625
+22	might	might	AUX	MD	VerbForm=Fin	25	aux	_	start_char=625|end_char=630
+23	not	not	PART	RB	_	25	advmod	_	start_char=631|end_char=634
+24	be	be	AUX	VB	VerbForm=Inf	25	aux:pass	_	start_char=635|end_char=637
+25	affiliated	affiliate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	acl:relcl	_	start_char=638|end_char=648
+26	with	with	ADP	IN	_	25	obl	_	start_char=649|end_char=653
+27	.	.	PUNCT	.	_	2	punct	_	start_char=653|end_char=654
+
+1	\-	\-	SYM	NFP	_	0	root	_	start_char=657|end_char=659
+
+1	People	person	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=660|end_char=666
+2	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=667|end_char=670
+3	wo	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=671|end_char=673
+4	n't	not	PART	RB	_	5	advmod	_	start_char=673|end_char=676
+5	let	let	VERB	VB	VerbForm=Inf	1	acl:relcl	_	start_char=677|end_char=680
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=681|end_char=686
+7	people	people	NOUN	NNS	Number=Plur	5	obj	_	start_char=687|end_char=693
+8	live	live	VERB	VB	VerbForm=Inf	0	root	_	start_char=694|end_char=698
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=699|end_char=704
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=705|end_char=708
+11	lives	life	NOUN	NNS	Number=Plur	8	obj	_	start_char=709|end_char=714
+12	(	(	PUNCT	-LRB-	_	13	punct	_	start_char=715|end_char=716
+13	intrusive	intrusive	ADJ	JJ	Degree=Pos	11	amod	_	start_char=716|end_char=725
+14	,	,	PUNCT	,	_	15	punct	_	start_char=725|end_char=726
+15	controlling	control	VERB	VBG	VerbForm=Ger	13	conj	_	start_char=727|end_char=738
+16	,	,	PUNCT	,	_	17	punct	_	start_char=738|end_char=739
+17	annoying	annoying	ADJ	JJ	Degree=Pos	13	conj	_	start_char=740|end_char=748
+18	,	,	PUNCT	,	_	19	punct	_	start_char=748|end_char=749
+19	nosy	nosy	ADJ	JJ	Degree=Pos	13	conj	_	start_char=750|end_char=754
+20	)	)	PUNCT	-RRB-	_	13	punct	_	start_char=754|end_char=755
+

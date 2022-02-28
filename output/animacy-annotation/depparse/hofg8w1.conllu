@@ -1,0 +1,26 @@
+1	Boy	Boy	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj:pass	_	start_char=4|end_char=7
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=7|end_char=10
+4	both	both	ADV	RB	_	5	advmod	_	start_char=11|end_char=15
+5	triggered	trigger	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=16|end_char=25
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=26|end_char=29
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=37
+8	of	of	ADP	IN	_	10	case	_	start_char=38|end_char=40
+9	reliable	reliable	ADJ	JJ	Degree=Pos	10	amod	_	start_char=41|end_char=49
+10	sources	source	NOUN	NNS	Number=Plur	7	obl	_	start_char=50|end_char=57
+11	.	.	PUNCT	.	_	5	punct	_	start_char=57|end_char=58
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=61|end_char=64
+2	could	could	AUX	MD	VerbForm=Fin	4	aux	_	start_char=65|end_char=70
+3	really	really	ADV	RB	_	4	advmod	_	start_char=71|end_char=77
+4	work	work	VERB	VB	VerbForm=Inf	0	root	_	start_char=78|end_char=82
+5	on	on	SCONJ	IN	_	6	mark	_	start_char=83|end_char=85
+6	making	make	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=86|end_char=92
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	_	start_char=93|end_char=97
+8	point	point	NOUN	NN	Number=Sing	6	obj	_	start_char=98|end_char=103
+9	instead	instead	ADV	RB	_	12	case	_	start_char=104|end_char=111
+10	of	of	ADP	IN	_	9	fixed	_	start_char=112|end_char=114
+11	loud	loud	ADJ	JJ	Degree=Pos	12	amod	_	start_char=115|end_char=119
+12	ones	one	NOUN	NNS	Number=Plur	6	obl	_	start_char=120|end_char=124
+13	.	.	PUNCT	.	_	4	punct	_	start_char=124|end_char=125
+

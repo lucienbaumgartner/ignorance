@@ -1,0 +1,44 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=2|end_char=10
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=13
+4	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=13|end_char=16
+5	.	.	PUNCT	.	_	3	punct	_	start_char=16|end_char=17
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=19|end_char=21
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=21|end_char=23
+3	so	so	ADV	RB	_	4	advmod	_	start_char=24|end_char=26
+4	child	child	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=32
+5	like	like	ADP	IN	_	4	nmod	_	start_char=33|end_char=37
+6	,	,	PUNCT	,	_	7	punct	_	start_char=37|end_char=38
+7	insecure	insecure	ADJ	JJ	Degree=Pos	4	conj	_	start_char=39|end_char=47
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=48|end_char=51
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=52|end_char=59
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=60|end_char=64
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=65|end_char=67
+12	just	just	ADV	RB	_	13	advmod	_	start_char=68|end_char=72
+13	grated	grate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	start_char=73|end_char=79
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	iobj	_	start_char=80|end_char=82
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=83|end_char=86
+16	wrong	wrong	ADJ	JJ	Degree=Pos	17	amod	_	start_char=87|end_char=92
+17	way	way	NOUN	NN	Number=Sing	13	obl:npmod	_	start_char=93|end_char=96
+18	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=99|end_char=100
+2	only	only	ADV	RB	_	3	advmod	_	start_char=101|end_char=105
+3	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=106|end_char=110
+4	that	that	SCONJ	IN	_	10	mark	_	start_char=111|end_char=115
+5	in	in	ADP	IN	_	7	case	_	start_char=116|end_char=118
+6	basketball	basketball	NOUN	NN	Number=Sing	7	compound	_	start_char=119|end_char=129
+7	terms	term	NOUN	NNS	Number=Plur	10	obl	_	start_char=130|end_char=135
+8	-	-	PUNCT	,	_	10	punct	_	start_char=136|end_char=137
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=138|end_char=139
+10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=140|end_char=144
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=145|end_char=148
+12	guy	guy	NOUN	NN	Number=Sing	13	nsubj	_	start_char=149|end_char=152
+13	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=153|end_char=156
+14	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=157|end_char=158
+15	happy	happy	ADJ	JJ	Degree=Pos	17	amod	_	start_char=159|end_char=164
+16	personal	personal	ADJ	JJ	Degree=Pos	17	amod	_	start_char=165|end_char=173
+17	life	life	NOUN	NN	Number=Sing	13	obj	_	start_char=174|end_char=178
+18	.	.	PUNCT	.	_	3	punct	_	start_char=178|end_char=179
+

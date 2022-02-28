@@ -1,0 +1,83 @@
+1	Oh	oh	INTJ	UH	_	14	discourse	_	start_char=0|end_char=2
+2	for	for	ADP	IN	_	4	case	_	start_char=3|end_char=6
+3	goodness	goodness	NOUN	NN	Number=Sing	4	compound	_	start_char=7|end_char=15
+4	sake	sake	NOUN	NN	Number=Sing	14	obl	_	start_char=16|end_char=20
+5	enough	enough	ADV	RB	_	14	advmod	_	start_char=21|end_char=27
+6	with	with	ADP	IN	_	12	mark	_	start_char=28|end_char=32
+7	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=33|end_char=37
+8	“	''	PUNCT	``	_	12	punct	_	start_char=38|end_char=39
+9	both	both	DET	DT	_	10	det	_	start_char=39|end_char=43
+10	sides	side	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=44|end_char=49
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=50|end_char=53
+12	bad	bad	ADJ	JJ	Degree=Pos	14	amod	_	start_char=54|end_char=57
+13	”	''	PUNCT	''	_	12	punct	_	start_char=57|end_char=58
+14	nonsense	nonsense	NOUN	NN	Number=Sing	0	root	_	start_char=59|end_char=67
+15	.	.	PUNCT	.	_	14	punct	_	start_char=67|end_char=68
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=70|end_char=72
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=73|end_char=78
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=79|end_char=82
+4	look	look	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=83|end_char=87
+5	woefully	woefully	ADV	RB	_	6	advmod	_	start_char=88|end_char=96
+6	uninformed	uninformed	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=97|end_char=107
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=108|end_char=111
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=112|end_char=120
+9	of	of	ADP	IN	_	10	case	_	start_char=121|end_char=123
+10	reality	reality	NOUN	NN	Number=Sing	8	obl	_	start_char=124|end_char=131
+11	.	.	PUNCT	.	_	2	punct	_	start_char=131|end_char=132
+
+1	BoTh	both	DET	DT	_	2	det	_	start_char=133|end_char=137
+2	SiDeZ	SiDeZ	PROPN	NNP	Number=Plur	0	root	_	start_char=138|end_char=143
+3	!!	!!	PUNCT	.	_	2	punct	_	start_char=143|end_char=145
+
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=146|end_char=150
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	start_char=151|end_char=153
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=154|end_char=155
+4	break	break	NOUN	NN	Number=Sing	1	obj	_	start_char=156|end_char=161
+5	.	.	PUNCT	.	_	1	punct	_	start_char=161|end_char=162
+
+1	One	one	NUM	CD	NumType=Card	2	nummod	_	start_char=163|end_char=166
+2	side	side	NOUN	NN	Number=Sing	3	nsubj	_	start_char=167|end_char=171
+3	aligns	align	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=172|end_char=178
+4	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	3	obj	_	start_char=179|end_char=189
+5	with	with	ADP	IN	_	7	case	_	start_char=190|end_char=194
+6	literal	literal	ADJ	JJ	Degree=Pos	7	amod	_	start_char=195|end_char=202
+7	nazis	nazi	NOUN	NNS	Number=Plur	3	obl	_	start_char=203|end_char=208
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=209|end_char=212
+9	white	white	ADJ	JJ	Degree=Pos	10	amod	_	start_char=213|end_char=218
+10	supremacists	supremacist	NOUN	NNS	Number=Plur	7	conj	_	start_char=219|end_char=231
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=232|end_char=235
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=236|end_char=239
+13	other	other	ADJ	JJ	Degree=Pos	14	nsubj	_	start_char=240|end_char=245
+14	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=246|end_char=251
+15	people	people	NOUN	NNS	Number=Plur	14	obj	_	start_char=252|end_char=258
+16	to	to	PART	TO	_	18	mark	_	start_char=259|end_char=261
+17	be	be	AUX	VB	VerbForm=Inf	18	aux:pass	_	start_char=262|end_char=264
+18	treated	treat	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	xcomp	_	start_char=265|end_char=272
+19	with	with	ADP	IN	_	23	case	_	start_char=273|end_char=277
+20	social	social	ADJ	JJ	Degree=Pos	23	amod	_	start_char=278|end_char=284
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=285|end_char=288
+22	judicial	judicial	ADJ	JJ	Degree=Pos	20	conj	_	start_char=289|end_char=297
+23	equity	equity	NOUN	NN	Number=Sing	18	obl	_	start_char=298|end_char=304
+24	,	,	PUNCT	,	_	28	punct	_	start_char=304|end_char=305
+25	and	and	CCONJ	CC	_	28	cc	_	start_char=306|end_char=309
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	28	nsubj	_	start_char=310|end_char=313
+27	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	28	aux	_	start_char=313|end_char=316
+28	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=317|end_char=324
+29	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	28	obj	_	start_char=325|end_char=327
+30	both	both	DET	DT	_	31	det	_	start_char=328|end_char=332
+31	sides	side	NOUN	NNS	Number=Plur	33	nsubj	_	start_char=333|end_char=338
+32	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	33	cop	_	start_char=339|end_char=342
+33	bad	bad	ADJ	JJ	Degree=Pos	28	ccomp	_	start_char=343|end_char=346
+34	?	?	PUNCT	.	_	3	punct	_	start_char=346|end_char=347
+
+1	Lol	lol	INTJ	UH	_	0	root	_	start_char=348|end_char=351
+2	!	!	PUNCT	.	_	1	punct	_	start_char=351|end_char=352
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=353|end_char=355
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=356|end_char=359
+3	honestly	honestly	ADV	RB	_	4	advmod	_	start_char=360|end_char=368
+4	hear	hear	VERB	VB	VerbForm=Inf	0	root	_	start_char=369|end_char=373
+5	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	obj	_	start_char=374|end_char=382
+6	?	?	PUNCT	.	_	4	punct	_	start_char=382|end_char=383
+

@@ -1,0 +1,107 @@
+1	Sindome	Sindome	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=7
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=11
+3	zero	zero	ADJ	JJ	Degree=Pos	4	amod	_	start_char=12|end_char=16
+4	grinding	grinding	NOUN	NN	Number=Sing	2	obj	_	start_char=17|end_char=25
+5	!	!	PUNCT	.	_	2	punct	_	start_char=25|end_char=26
+
+1	https://sindome.org	https://sindome.org	X	ADD	_	0	root	_	start_char=27|end_char=46
+
+1	Sindome	Sindome	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=48|end_char=55
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=56|end_char=60
+3	n't	not	PART	RB	_	4	advmod	_	start_char=60|end_char=63
+4	take	take	VERB	VB	VerbForm=Inf	0	root	_	start_char=64|end_char=68
+5	combat	combat	NOUN	NN	Number=Sing	4	obj	_	start_char=69|end_char=75
+6	lightly	lightly	ADV	RB	_	4	advmod	_	start_char=76|end_char=83
+7	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+
+1	Combat	combat	NOUN	NN	Number=Sing	2	nsubj	_	start_char=85|end_char=91
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=92|end_char=97
+3	words	word	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=98|end_char=103
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=104|end_char=108
+5	failed	fail	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	_	start_char=109|end_char=115
+6	and	and	CCONJ	CC	_	12	cc	_	start_char=116|end_char=119
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=120|end_char=124
+8	life	life	NOUN	NN	Number=Sing	12	nsubj	_	start_char=125|end_char=129
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=130|end_char=132
+10	on	on	ADP	IN	_	12	case	_	start_char=133|end_char=135
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=136|end_char=139
+12	line	line	NOUN	NN	Number=Sing	2	conj	_	start_char=140|end_char=144
+13	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=146|end_char=149
+2	tactics	tactic	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=150|end_char=157
+3	involved	involve	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	csubj	_	start_char=158|end_char=166
+4	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=167|end_char=174
+5	stealth	stealth	NOUN	NN	Number=Sing	4	obj	_	start_char=175|end_char=182
+6	,	,	PUNCT	,	_	7	punct	_	start_char=182|end_char=183
+7	disguising	disguise	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=184|end_char=194
+8	,	,	PUNCT	,	_	9	punct	_	start_char=194|end_char=195
+9	joining	join	VERB	VBG	VerbForm=Ger	7	conj	_	start_char=196|end_char=203
+10	factions	faction	NOUN	NNS	Number=Plur	9	obj	_	start_char=204|end_char=212
+11	,	,	PUNCT	,	_	12	punct	_	start_char=212|end_char=213
+12	keeping	keep	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=214|end_char=221
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=222|end_char=226
+14	head	head	NOUN	NN	Number=Sing	12	obj	_	start_char=227|end_char=231
+15	low	low	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=232|end_char=235
+16	,	,	PUNCT	,	_	17	punct	_	start_char=235|end_char=236
+17	betrayal	betrayal	NOUN	NN	Number=Sing	15	conj	_	start_char=237|end_char=245
+18	,	,	PUNCT	,	_	20	punct	_	start_char=245|end_char=246
+19	planning	planning	NOUN	NN	Number=Sing	20	compound	_	start_char=247|end_char=255
+20	hits	hit	NOUN	NNS	Number=Plur	15	conj	_	start_char=256|end_char=260
+21	,	,	PUNCT	,	_	23	punct	_	start_char=260|end_char=261
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=262|end_char=265
+23	catching	catching	VERB	VBG	VerbForm=Ger	12	conj	_	start_char=266|end_char=274
+24	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	25	nmod:poss	_	start_char=275|end_char=279
+25	targets	target	NOUN	NNS	Number=Plur	23	obj	_	start_char=280|end_char=287
+26	at	at	ADP	IN	_	29	case	_	start_char=288|end_char=290
+27	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	_	start_char=291|end_char=296
+28	most	most	ADV	RBS	Degree=Sup	29	advmod	_	start_char=297|end_char=301
+29	unaware	unaware	ADJ	JJ	Degree=Pos	23	obl	_	start_char=302|end_char=309
+30	and	and	CCONJ	CC	_	31	cc	_	start_char=310|end_char=313
+31	weakest	weak	ADJ	JJS	Degree=Sup	29	conj	_	start_char=314|end_char=321
+32	.	.	PUNCT	.	_	4	punct	_	start_char=321|end_char=322
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=324|end_char=327
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=328|end_char=331
+3	invest	invest	VERB	VB	VerbForm=Inf	0	root	_	start_char=332|end_char=338
+4	in	in	ADP	IN	_	7	case	_	start_char=339|end_char=341
+5	zero	zero	ADJ	JJ	Degree=Pos	7	amod	_	start_char=342|end_char=346
+6	combat	combat	NOUN	NN	Number=Sing	7	compound	_	start_char=347|end_char=353
+7	skills	skill	NOUN	NNS	Number=Plur	3	obl	_	start_char=354|end_char=360
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=361|end_char=364
+9	still	still	ADV	RB	_	10	advmod	_	start_char=365|end_char=370
+10	send	send	VERB	VB	VerbForm=Inf	3	conj	_	start_char=371|end_char=375
+11	so	so	ADV	RB	_	12	advmod	_	start_char=376|end_char=378
+12	many	many	ADJ	JJ	Degree=Pos	13	amod	_	start_char=379|end_char=383
+13	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=384|end_char=390
+14	to	to	ADP	IN	_	16	case	_	start_char=391|end_char=393
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=394|end_char=399
+16	graves	grave	NOUN	NNS	Number=Plur	13	nmod	_	start_char=400|end_char=406
+17	simply	simply	ADV	RB	_	19	advmod	_	start_char=407|end_char=413
+18	by	by	SCONJ	IN	_	19	mark	_	start_char=414|end_char=416
+19	spreading	spread	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=417|end_char=426
+20	convincing	convince	VERB	VBG	VerbForm=Ger	19	xcomp	_	start_char=427|end_char=437
+21	lies	lie	NOUN	NNS	Number=Plur	20	obj	_	start_char=438|end_char=442
+22	.	.	PUNCT	.	_	3	punct	_	start_char=442|end_char=443
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=444|end_char=447
+2	strongest	strong	ADJ	JJS	Degree=Sup	3	amod	_	start_char=448|end_char=457
+3	tactics	tactic	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=458|end_char=465
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=466|end_char=469
+5	in	in	ADP	IN	_	7	case	_	start_char=470|end_char=472
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=473|end_char=476
+7	tongue	tongue	NOUN	NN	Number=Sing	0	root	_	start_char=477|end_char=483
+8	.	.	PUNCT	.	_	7	punct	_	start_char=483|end_char=484
+
+1	Play	play	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=485|end_char=489
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=490|end_char=493
+3	long	long	ADJ	JJ	Degree=Pos	4	amod	_	start_char=494|end_char=498
+4	con	con	NOUN	NN	Number=Sing	1	obj	_	start_char=499|end_char=502
+5	.	.	PUNCT	.	_	1	punct	_	start_char=502|end_char=503
+
+1	Make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=504|end_char=508
+2	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=509|end_char=514
+3	lives	life	NOUN	NNS	Number=Plur	1	obj	_	start_char=515|end_char=520
+4	hell	hell	NOUN	NN	Number=Sing	1	obj	_	start_char=521|end_char=525
+5	.	.	PUNCT	.	_	1	punct	_	start_char=525|end_char=526
+

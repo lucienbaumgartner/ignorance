@@ -1,0 +1,33 @@
+1	Like	like	ADP	IN	_	4	mark	_	start_char=0|end_char=4
+2	when	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=5|end_char=9
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=10|end_char=14
+4	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=15|end_char=18
+5	out	out	ADP	IN	_	7	case	_	start_char=19|end_char=22
+6	of	of	ADP	IN	_	7	case	_	start_char=23|end_char=25
+7	training	training	NOUN	NN	Number=Sing	4	obl	_	start_char=26|end_char=34
+8	!	!	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+
+1	Vastly	vastly	ADV	RB	_	2	advmod	_	start_char=36|end_char=42
+2	unprepared	unprepared	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=53
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=54|end_char=57
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=58|end_char=65
+5	that	that	SCONJ	IN	_	8	mark	_	start_char=66|end_char=70
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=71|end_char=72
+7	god	god	NOUN	NN	Number=Sing	8	nsubj	_	start_char=73|end_char=76
+8	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=77|end_char=84
+9	to	to	PART	TO	_	10	mark	_	start_char=85|end_char=87
+10	hit	hit	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=88|end_char=91
+11	reset	reset	NOUN	NN	Number=Sing	10	obj	_	start_char=92|end_char=97
+12	on	on	ADP	IN	_	14	case	_	start_char=98|end_char=100
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=101|end_char=104
+14	world	world	NOUN	NN	Number=Sing	10	obl	_	start_char=105|end_char=110
+15	and	and	CCONJ	CC	_	19	cc	_	start_char=111|end_char=114
+16	how	how	SCONJ	WRB	PronType=Int	19	mark	_	start_char=115|end_char=118
+17	Eren	Eren	PROPN	NNP	Number=Sing	19	nsubj	_	start_char=119|end_char=123
+18	can	can	AUX	MD	VerbForm=Fin	19	aux	_	start_char=124|end_char=127
+19	see	see	VERB	VB	VerbForm=Inf	10	conj	_	start_char=128|end_char=131
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=132|end_char=135
+21	fucking	fucking	ADJ	JJ	Degree=Pos	22	amod	_	start_char=136|end_char=143
+22	future	future	NOUN	NN	Number=Sing	19	obj	_	start_char=144|end_char=150
+23	.	.	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+

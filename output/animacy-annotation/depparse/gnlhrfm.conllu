@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=7|end_char=11
+4	short	short	ADJ	JJ	Degree=Pos	5	amod	_	start_char=12|end_char=17
+5	sighted	sight	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=18|end_char=25
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=26|end_char=29
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=38
+8	of	of	ADP	IN	_	9	case	_	start_char=39|end_char=41
+9	demographics	demographics	NOUN	NNS	Number=Plur	5	obl	_	start_char=42|end_char=54
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=55|end_char=58
+11	wo	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=59|end_char=61
+12	n't	not	PART	RB	_	13	advmod	_	start_char=61|end_char=64
+13	discuss	discuss	VERB	VB	VerbForm=Inf	2	conj	_	start_char=65|end_char=72
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=73|end_char=75
+15	further	further	ADV	RB	_	13	advmod	_	start_char=76|end_char=83
+

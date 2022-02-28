@@ -1,0 +1,16 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	should	should	AUX	MD	VerbForm=Fin	0	root	_	start_char=4|end_char=10
+3	.	.	PUNCT	.	_	2	punct	_	start_char=10|end_char=11
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=14|end_char=17
+2	act	act	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=18|end_char=21
+3	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=22|end_char=29
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=30|end_char=33
+5	natural	natural	ADJ	JJ	Degree=Pos	3	conj	_	start_char=34|end_char=41
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=42|end_char=44
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=45|end_char=48
+8	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=49|end_char=52
+9	someone	someone	PRON	NN	Number=Sing	8	obj	_	start_char=53|end_char=60
+10	looking	look	VERB	VBG	VerbForm=Ger	9	acl	_	start_char=61|end_char=68
+11	in	in	ADV	RB	Degree=Pos	10	advmod	_	start_char=69|end_char=71
+

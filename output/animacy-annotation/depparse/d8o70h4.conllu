@@ -1,0 +1,21 @@
+1	Too	too	ADV	RB	_	2	advmod	_	start_char=0|end_char=3
+2	eeasy	eeasy	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=9
+3	..	..	PUNCT	,	_	2	punct	_	start_char=9|end_char=11
+4	yet	yet	CCONJ	CC	_	8	cc	_	start_char=11|end_char=14
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=15|end_char=18
+6	clintonoids	clintonoids	NOUN	NNS	Number=Plur	8	nsubj:pass	_	start_char=19|end_char=30
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=31|end_char=34
+8	blinded	blind	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	start_char=35|end_char=42
+9	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=44|end_char=45
+2	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=52
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=53|end_char=56
+4	compliant	compliant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=57|end_char=66
+5	"	"	PUNCT	''	_	2	punct	_	start_char=66|end_char=67
+6	just	just	ADV	RB	_	7	advmod	_	start_char=68|end_char=72
+7	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=73|end_char=76
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=77|end_char=81
+9	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=82|end_char=86
+10	.	.	PUNCT	.	_	2	punct	_	start_char=86|end_char=87
+

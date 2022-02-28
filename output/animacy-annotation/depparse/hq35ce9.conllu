@@ -1,0 +1,33 @@
+1	Why	why	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=4|end_char=6
+3	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=7|end_char=11
+4	“	''	PUNCT	``	_	6	punct	_	start_char=12|end_char=13
+5	last	last	ADJ	JJ	Degree=Pos	6	amod	_	start_char=13|end_char=17
+6	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=24
+7	”	''	PUNCT	''	_	6	punct	_	start_char=24|end_char=25
+8	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=26|end_char=30
+9	?	?	PUNCT	.	_	6	punct	_	start_char=30|end_char=31
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=32|end_char=35
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=35|end_char=38
+3	effectively	effectively	ADV	RB	_	4	advmod	_	start_char=39|end_char=50
+4	excusing	excuse	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=51|end_char=59
+5	someone	someone	PRON	NN	Number=Sing	4	obj	_	start_char=60|end_char=67
+6	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=68|end_char=71
+7	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=72|end_char=74
+8	downplaying	downplay	VERB	VBG	Tense=Pres|VerbForm=Part	5	acl:relcl	_	start_char=75|end_char=86
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=87|end_char=89
+10	.	.	PUNCT	.	_	4	punct	_	start_char=89|end_char=90
+
+1	Malicious	malicious	ADJ	JJ	Degree=Pos	2	amod	_	start_char=91|end_char=100
+2	intent	intent	NOUN	NN	Number=Sing	8	nsubj	_	start_char=101|end_char=107
+3	or	or	CCONJ	CC	_	4	cc	_	start_char=108|end_char=110
+4	not	not	PART	RB	_	2	conj	_	start_char=111|end_char=114
+5	,	,	PUNCT	,	_	8	punct	_	start_char=114|end_char=115
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=116|end_char=118
+7	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=118|end_char=120
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=121|end_char=129
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=130|end_char=133
+10	dismissive	dismissive	ADJ	JJ	Degree=Pos	8	conj	_	start_char=134|end_char=144
+11	.	.	PUNCT	.	_	8	punct	_	start_char=144|end_char=145
+

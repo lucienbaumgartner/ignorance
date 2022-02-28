@@ -1,0 +1,26 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=8
+3	what	what	PRON	WP	PronType=Int	0	root	_	start_char=9|end_char=13
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=14|end_char=17
+5	buy	buy	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=18|end_char=21
+6	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=22|end_char=26
+7	desperate	desperate	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=27|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=41|end_char=48
+10	of	of	ADP	IN	_	15	case	_	start_char=49|end_char=51
+11	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=52|end_char=55
+12	store	store	NOUN	NN	Number=Sing	15	compound	_	start_char=56|end_char=61
+13	brand	brand	NOUN	NN	Number=Sing	15	compound	_	start_char=62|end_char=67
+14	poverty	poverty	NOUN	NN	Number=Sing	15	compound	_	start_char=68|end_char=75
+15	sausages	sausage	NOUN	NNS	Number=Plur	9	obl	_	start_char=76|end_char=84
+16	,	,	PUNCT	,	_	20	punct	_	start_char=84|end_char=85
+17	which	which	PRON	WDT	PronType=Rel	20	obj	_	start_char=86|end_char=91
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=92|end_char=96
+19	somehow	somehow	ADV	RB	_	20	advmod	_	start_char=97|end_char=104
+20	manage	manage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=105|end_char=111
+21	to	to	PART	TO	_	23	mark	_	start_char=112|end_char=114
+22	be	be	AUX	VB	VerbForm=Inf	23	cop	_	start_char=115|end_char=117
+23	worse	bad	ADJ	JJR	Degree=Cmp	20	xcomp	_	start_char=118|end_char=123
+24	than	than	ADP	IN	_	17	case	_	start_char=124|end_char=128
+25	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+

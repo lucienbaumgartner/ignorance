@@ -1,0 +1,38 @@
+1	Really	really	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=7|end_char=9
+3	that	that	PRON	DT	PronType=Rel	7	nsubj	_	start_char=10|end_char=14
+4	not	not	PART	RB	_	7	advmod	_	start_char=15|end_char=18
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=19|end_char=21
+6	dumbest	dumb	ADJ	JJS	Degree=Sup	7	amod	_	start_char=22|end_char=29
+7	thing	thing	NOUN	NN	Number=Sing	2	acl:relcl	_	start_char=30|end_char=35
+8	every	every	DET	DT	_	7	advmod	_	start_char=36|end_char=41
+9	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=45|end_char=48
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=49|end_char=51
+3	nuts	nut	NOUN	NNS	Number=Plur	0	root	_	start_char=52|end_char=56
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=57|end_char=60
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=61|end_char=69
+6	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=72|end_char=76
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=77|end_char=79
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=80|end_char=81
+4	insult	insult	NOUN	NN	Number=Sing	0	root	_	start_char=82|end_char=88
+5	to	to	ADP	IN	_	6	case	_	start_char=89|end_char=91
+6	teacher	teacher	NOUN	NN	Number=Sing	4	nmod	_	start_char=92|end_char=99
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=100|end_char=103
+8	harmful	harmful	ADJ	JJ	Degree=Pos	4	conj	_	start_char=104|end_char=111
+9	to	to	ADP	IN	_	10	case	_	start_char=112|end_char=114
+10	children	child	NOUN	NNS	Number=Plur	8	obl	_	start_char=115|end_char=123
+11	.	.	PUNCT	.	_	4	punct	_	start_char=123|end_char=124
+
+1	Republicans	Republican	PROPN	NNPS	Number=Plur	7	nsubj	_	start_char=127|end_char=138
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=139|end_char=142
+3	family	family	NOUN	NN	Number=Sing	4	compound	_	start_char=143|end_char=149
+4	values	value	NOUN	NNS	Number=Plur	1	conj	_	start_char=150|end_char=156
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=157|end_char=159
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=160|end_char=161
+7	joke	joke	NOUN	NN	Number=Sing	0	root	_	start_char=162|end_char=166
+8	.	.	PUNCT	.	_	7	punct	_	start_char=166|end_char=167
+

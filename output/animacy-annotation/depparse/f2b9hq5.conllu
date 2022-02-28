@@ -1,0 +1,23 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	,	,	PUNCT	,	_	1	punct	_	start_char=7|end_char=8
+3	just	just	ADV	RB	_	4	advmod	_	start_char=9|end_char=13
+4	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=14|end_char=21
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=22|end_char=27
+6	so	so	ADV	RB	_	7	advmod	_	start_char=28|end_char=30
+7	narcissistic	narcissistic	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=31|end_char=43
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=44|end_char=47
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=48|end_char=56
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=57|end_char=61
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=62|end_char=65
+12	cannot	cannot	AUX	MD	VerbForm=Fin	13	aux	_	start_char=66|end_char=72
+13	accept	accept	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=73|end_char=79
+14	reality	reality	NOUN	NN	Number=Sing	13	obj	_	start_char=80|end_char=87
+15	unless	unless	SCONJ	IN	_	17	mark	_	start_char=88|end_char=94
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=95|end_char=97
+17	bows	bow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=98|end_char=102
+18	in	in	ADP	IN	_	19	case	_	start_char=103|end_char=105
+19	fealty	fealty	NOUN	NN	Number=Sing	17	obl	_	start_char=106|end_char=112
+20	to	to	ADP	IN	_	21	case	_	start_char=113|end_char=115
+21	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17	obl	_	start_char=116|end_char=119
+22	.	.	PUNCT	.	_	1	punct	_	start_char=119|end_char=120
+

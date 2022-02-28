@@ -1,0 +1,34 @@
+1	Scalphobic	Scalphobic	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=10
+2	manchildren	manchildran	NOUN	NNS	Number=Sing	7	nsubj	_	start_char=11|end_char=22
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=23|end_char=26
+4	just	just	ADV	RB	_	7	advmod	_	start_char=27|end_char=31
+5	like	like	ADP	IN	_	7	case	_	start_char=32|end_char=36
+6	anti	anti	ADJ	JJ	Degree=Pos	7	amod	_	start_char=37|end_char=41
+7	Semites	Semite	PROPN	NNPS	Number=Plur	0	root	_	start_char=42|end_char=49
+8	in	in	ADP	IN	_	10	case	_	start_char=50|end_char=52
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=53|end_char=56
+10	past	past	ADJ	JJ	Degree=Pos	7	nmod	_	start_char=57|end_char=61
+11	believing	believe	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=62|end_char=71
+12	that	that	SCONJ	IN	_	16	mark	_	start_char=72|end_char=76
+13	Jews	Jew	PROPN	NNPS	Number=Plur	16	nsubj	_	start_char=77|end_char=81
+14	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	aux	_	start_char=82|end_char=86
+15	somehow	somehow	ADV	RB	_	16	advmod	_	start_char=87|end_char=94
+16	ripping	rip	VERB	VBG	Tense=Pres|VerbForm=Part	11	ccomp	_	start_char=95|end_char=102
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obj	_	start_char=103|end_char=107
+18	off	off	ADP	RP	_	16	compound:prt	_	start_char=108|end_char=111
+19	by	by	SCONJ	IN	_	20	mark	_	start_char=112|end_char=114
+20	charging	charge	VERB	VBG	VerbForm=Ger	16	advcl	_	start_char=115|end_char=123
+21	interest	interest	NOUN	NN	Number=Sing	20	obj	_	start_char=124|end_char=132
+22	.	.	PUNCT	.	_	7	punct	_	start_char=132|end_char=133
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=134|end_char=138
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=139|end_char=142
+3	both	both	ADV	RB	_	4	advmod	_	start_char=143|end_char=147
+4	bigoted	bigoted	ADJ	JJ	Degree=Pos	0	root	_	start_char=148|end_char=155
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=156|end_char=159
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=160|end_char=168
+7	of	of	ADP	IN	_	9	case	_	start_char=169|end_char=171
+8	basic	basic	ADJ	JJ	Degree=Pos	9	amod	_	start_char=172|end_char=177
+9	economics	economics	NOUN	NNS	Number=Plur	6	obl	_	start_char=178|end_char=187
+10	.	.	PUNCT	.	_	4	punct	_	start_char=187|end_char=188
+

@@ -1,0 +1,45 @@
+1	Hey	hey	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	there	there	PRON	PRP$	_	3	nmod:poss	_	start_char=4|end_char=9
+3	sir	sir	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=13
+4	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=15|end_char=16
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=17|end_char=25
+3	serviced	service	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=26|end_char=34
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=35|end_char=37
+5	awful	awful	ADJ	JJ	Degree=Pos	6	amod	_	start_char=38|end_char=43
+6	accident	accident	NOUN	NN	Number=Sing	3	obj	_	start_char=44|end_char=52
+7	because	because	SCONJ	IN	_	11	mark	_	start_char=53|end_char=60
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=61|end_char=62
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	start_char=63|end_char=66
+10	so	so	ADV	RB	_	11	advmod	_	start_char=67|end_char=69
+11	lose	lose	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=70|end_char=74
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=75|end_char=78
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=79|end_char=86
+14	that	that	SCONJ	IN	_	18	mark	_	start_char=87|end_char=91
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	start_char=92|end_char=93
+16	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	18	aux	_	start_char=94|end_char=97
+17	n’t	not	PART	RB	Polarity=Neg	18	advmod	_	start_char=97|end_char=100
+18	tighten	tighten	VERB	VB	VerbForm=Inf	13	ccomp	_	start_char=101|end_char=108
+19	up	up	ADP	RP	_	18	compound:prt	_	start_char=109|end_char=111
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=112|end_char=115
+21	absorbed	absorb	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	conj	_	start_char=116|end_char=124
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=125|end_char=128
+23	impact	impact	NOUN	NN	Number=Sing	21	obj	_	start_char=129|end_char=135
+24	better	well	ADV	RBR	Degree=Cmp	21	advmod	_	start_char=136|end_char=142
+25	!	!	PUNCT	.	_	3	punct	_	start_char=142|end_char=143
+
+1	But	but	CCONJ	CC	_	8	cc	_	start_char=146|end_char=149
+2	yeah	yeah	INTJ	UH	_	8	discourse	_	start_char=150|end_char=154
+3	seat	seat	NOUN	NN	Number=Sing	4	compound	_	start_char=155|end_char=159
+4	belts	belt	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=160|end_char=165
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=166|end_char=169
+6	100	100	NUM	CD	NumType=Card	7	nummod	_	start_char=170|end_char=173
+7	%	%	SYM	NN	Number=Sing	8	obl:npmod	_	start_char=173|end_char=174
+8	better	good	ADJ	JJR	Degree=Cmp	0	root	_	start_char=175|end_char=181
+9	99.9	99.9	NUM	CD	NumType=Card	10	nummod	_	start_char=182|end_char=186
+10	percent	percent	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=187|end_char=194
+11	of	of	ADP	IN	_	13	case	_	start_char=195|end_char=197
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=198|end_char=201
+13	time	time	NOUN	NN	Number=Sing	10	nmod	_	start_char=202|end_char=206
+

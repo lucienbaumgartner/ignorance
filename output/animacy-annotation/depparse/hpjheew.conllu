@@ -1,0 +1,53 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	1	punct	_	start_char=4|end_char=5
+3	basically	basically	ADV	RB	_	0	root	_	start_char=6|end_char=15
+4	.	.	PUNCT	.	_	1	punct	_	start_char=15|end_char=16
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=29
+2	;	;	PUNCT	:	_	1	punct	_	start_char=29|end_char=30
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=32|end_char=34
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=34|end_char=36
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	start_char=37|end_char=40
+4	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=41|end_char=46
+5	to	to	PART	TO	_	7	mark	_	start_char=47|end_char=49
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=50|end_char=52
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	acl	_	start_char=53|end_char=61
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=62|end_char=65
+9	willing	willing	ADJ	JJ	Degree=Pos	7	conj	_	start_char=66|end_char=73
+10	to	to	PART	TO	_	11	mark	_	start_char=74|end_char=76
+11	learn	learn	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=77|end_char=82
+12	.	.	PUNCT	.	_	4	punct	_	start_char=82|end_char=83
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=84|end_char=86
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=86|end_char=88
+3	another	another	DET	DT	_	0	root	_	start_char=89|end_char=96
+4	to	to	PART	TO	_	7	mark	_	start_char=97|end_char=99
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=100|end_char=102
+6	willfully	willfully	ADV	RB	_	7	advmod	_	start_char=103|end_char=112
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=113|end_char=121
+8	,	,	PUNCT	,	_	10	punct	_	start_char=121|end_char=122
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=123|end_char=126
+10	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=127|end_char=131
+11	to	to	PART	TO	_	12	mark	_	start_char=132|end_char=134
+12	cause	cause	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=135|end_char=140
+13	harm	harm	NOUN	NN	Number=Sing	12	obj	_	start_char=141|end_char=145
+14	to	to	ADP	IN	_	17	case	_	start_char=146|end_char=148
+15	OTHER	other	ADJ	JJ	Degree=Pos	17	amod	_	start_char=149|end_char=154
+16	HUMAN	human	ADJ	JJ	Degree=Pos	17	amod	_	start_char=155|end_char=160
+17	BEINGS	being	NOUN	NNS	Number=Plur	12	obl	_	start_char=161|end_char=167
+18	.	.	PUNCT	.	_	3	punct	_	start_char=167|end_char=168
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=170|end_char=181
+2	;	;	PUNCT	:	_	1	punct	_	start_char=181|end_char=182
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=184|end_char=188
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=189|end_char=192
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	start_char=193|end_char=197
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=198|end_char=200
+5	TED	TED	PROPN	NNP	Number=Sing	6	compound	_	start_char=201|end_char=204
+6	talk	talk	NOUN	NN	Number=Sing	0	root	_	start_char=205|end_char=209
+7	,	,	PUNCT	,	_	9	punct	_	start_char=209|end_char=210
+8	peace	peace	NOUN	NN	Number=Sing	9	compound	_	start_char=211|end_char=216
+9	mfs	mf	NOUN	NN	Number=Sing	6	conj	_	start_char=217|end_char=220
+

@@ -1,0 +1,23 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=7|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	obnoxious	obnoxious	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=29
+6	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=30|end_char=36
+7	on	on	ADP	IN	_	8	case	_	start_char=37|end_char=39
+8	Twitter	Twitter	PROPN	NNP	Number=Sing	6	nmod	_	start_char=40|end_char=47
+9	,	,	PUNCT	,	_	21	punct	_	start_char=47|end_char=48
+10	but	but	CCONJ	CC	_	21	cc	_	start_char=49|end_char=52
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=53|end_char=56
+12	way	way	NOUN	NN	Number=Sing	21	nsubj	_	start_char=57|end_char=60
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=61|end_char=65
+14	get	get	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=66|end_char=69
+15	dragged	drag	VERB	VBN	Tense=Past|VerbForm=Part	12	acl:relcl	_	start_char=70|end_char=77
+16	afterwards	afterwards	ADV	RB	_	15	advmod	_	start_char=78|end_char=88
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=89|end_char=91
+18	always	always	ADV	RB	_	21	advmod	_	start_char=92|end_char=98
+19	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=99|end_char=101
+20	favorite	favorite	ADJ	JJ	Degree=Pos	21	amod	_	start_char=102|end_char=110
+21	part	part	NOUN	NN	Number=Sing	2	conj	_	start_char=111|end_char=115
+22	.	.	PUNCT	.	_	2	punct	_	start_char=115|end_char=116
+

@@ -1,0 +1,48 @@
+1	Such	such	DET	PDT	_	3	advmod	_	start_char=0|end_char=4
+2	despicably	despicably	ADV	RB	_	3	advmod	_	start_char=5|end_char=15
+3	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=24
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=25|end_char=28
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=29|end_char=37
+6	of	of	ADP	IN	_	7	case	_	start_char=38|end_char=40
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=41|end_char=44
+8	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=46|end_char=48
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=49|end_char=52
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=53|end_char=58
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj:pass	_	start_char=59|end_char=62
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=63|end_char=66
+6	more	more	ADV	RBR	_	7	advmod	_	start_char=67|end_char=71
+7	educated	educate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=72|end_char=80
+8	than	than	ADP	IN	_	10	case	_	start_char=81|end_char=85
+9	actual	actual	ADJ	JJ	Degree=Pos	10	amod	_	start_char=86|end_char=92
+10	scientists	scientist	NOUN	NNS	Number=Plur	7	obl	_	start_char=93|end_char=103
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=104|end_char=107
+12	doctors	doctor	NOUN	NNS	Number=Plur	10	conj	_	start_char=108|end_char=115
+13	?	?	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	Cuz	cuz	SCONJ	IN	_	6	mark	_	start_char=117|end_char=120
+2	transexuality	transexuality	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=121|end_char=134
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=135|end_char=138
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	aux:pass	_	start_char=139|end_char=143
+5	scientifically	scientifically	ADV	RB	_	6	advmod	_	start_char=144|end_char=158
+6	proven	prove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=159|end_char=165
+7	to	to	PART	TO	_	9	mark	_	start_char=166|end_char=168
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=169|end_char=171
+9	biologically	biologically	ADV	RB	_	6	advmod	_	start_char=172|end_char=184
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=185|end_char=188
+11	medically	medically	ADV	RB	_	9	conj	_	start_char=189|end_char=198
+12	valid	valid	ADJ	JJ	Degree=Pos	9	conj	_	start_char=199|end_char=204
+13	.	.	PUNCT	.	_	6	punct	_	start_char=204|end_char=205
+
+1	Ever	ever	ADV	RB	_	2	advmod	_	start_char=206|end_char=210
+2	heard	hear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=211|end_char=216
+3	of	of	ADP	IN	_	4	case	_	start_char=217|end_char=219
+4	Yale	Yale	PROPN	NNP	Number=Sing	2	obl	_	start_char=220|end_char=224
+5	,	,	PUNCT	,	_	6	punct	_	start_char=224|end_char=225
+6	Harvard	Harvard	PROPN	NNP	Number=Sing	4	conj	_	start_char=226|end_char=233
+7	or	or	CCONJ	CC	_	9	cc	_	start_char=234|end_char=236
+8	Nature	Nature	PROPN	NNP	Number=Sing	9	compound	_	start_char=237|end_char=243
+9	publicists	publicist	NOUN	NNS	Number=Plur	4	conj	_	start_char=244|end_char=254
+10	?	?	PUNCT	.	_	2	punct	_	start_char=254|end_char=255
+

@@ -1,0 +1,30 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	2	cop	_	start_char=0|end_char=5
+2	reactionary	reactionary	ADJ	JJ	Degree=Pos	13	csubj	_	start_char=6|end_char=17
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=18|end_char=21
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=22|end_char=30
+5	of	of	ADP	IN	_	7	case	_	start_char=31|end_char=33
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=34|end_char=37
+7	effects	effect	NOUN	NNS	Number=Plur	2	obl	_	start_char=38|end_char=45
+8	of	of	ADP	IN	_	10	case	_	start_char=46|end_char=48
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=49|end_char=53
+10	speech	speech	NOUN	NN	Number=Sing	7	nmod	_	start_char=54|end_char=60
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=61|end_char=63
+12	n't	not	PART	RB	_	13	advmod	_	start_char=63|end_char=66
+13	manly	manly	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=72
+14	.	.	PUNCT	.	_	13	punct	_	start_char=72|end_char=73
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=74|end_char=76
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=76|end_char=78
+3	childish	childish	ADJ	JJ	Degree=Pos	0	root	_	start_char=79|end_char=87
+4	.	.	PUNCT	.	_	3	punct	_	start_char=87|end_char=88
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=90|end_char=94
+2	God	God	PROPN	NNP	Number=Sing	0	root	_	start_char=95|end_char=98
+3	,	,	PUNCT	,	_	2	punct	_	start_char=98|end_char=99
+4	what	what	PRON	WP	PronType=Int	6	nsubj	_	start_char=100|end_char=104
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=105|end_char=107
+6	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	2	parataxis	_	start_char=108|end_char=117
+7	to	to	ADP	IN	_	8	case	_	start_char=118|end_char=120
+8	people	people	NOUN	NNS	Number=Plur	6	obl	_	start_char=121|end_char=127
+9	.	.	PUNCT	.	_	2	punct	_	start_char=127|end_char=128
+

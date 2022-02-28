@@ -1,0 +1,147 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	thing	thing	NOUN	NN	Number=Sing	3	nsubj	_	start_char=4|end_char=9
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=12
+4	.	.	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=14|end_char=15
+2	Feminism	feminism	NOUN	NN	Number=Sing	7	nsubj:pass	_	start_char=15|end_char=23
+3	"	"	PUNCT	''	_	2	punct	_	start_char=23|end_char=24
+4	today	today	NOUN	NN	Number=Sing	2	nmod:tmod	_	start_char=25|end_char=30
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=31|end_char=33
+6	only	only	ADV	RB	_	7	advmod	_	start_char=34|end_char=38
+7	enforced	enforce	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=39|end_char=47
+8	wrongfully	wrongfully	ADV	RB	_	7	advmod	_	start_char=48|end_char=58
+9	in	in	ADP	IN	_	12	case	_	start_char=59|end_char=61
+10	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	12	amod	_	start_char=62|end_char=67
+11	world	world	NOUN	NN	Number=Sing	12	compound	_	start_char=68|end_char=73
+12	countries	country	NOUN	NNS	Number=Plur	7	obl	_	start_char=74|end_char=83
+13	.	.	PUNCT	.	_	7	punct	_	start_char=83|end_char=84
+
+1	Men	man	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=85|end_char=88
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=89|end_char=92
+3	women	woman	NOUN	NNS	Number=Plur	1	conj	_	start_char=93|end_char=98
+4	arent	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=99|end_char=104
+5	globally	globally	ADV	RB	Degree=Pos	6	advmod	_	start_char=105|end_char=113
+6	equal	equal	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=119
+7	in	in	ADP	IN	_	8	case	_	start_char=120|end_char=122
+8	society	society	NOUN	NN	Number=Sing	6	obl	_	start_char=123|end_char=130
+9	no	no	DET	DT	_	10	det	_	start_char=131|end_char=133
+10	matter	matter	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=134|end_char=140
+11	where	where	SCONJ	WRB	PronType=Int	13	mark	_	start_char=141|end_char=146
+12	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=147|end_char=150
+13	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	acl	_	start_char=151|end_char=153
+14	.	.	PUNCT	.	_	6	punct	_	start_char=153|end_char=154
+
+1	Theres	there	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=155|end_char=161
+2	only	only	ADV	RB	_	4	advmod	_	start_char=162|end_char=166
+3	terrible	terrible	ADJ	JJ	Degree=Pos	4	amod	_	start_char=167|end_char=175
+4	things	thing	NOUN	NNS	Number=Plur	1	obj	_	start_char=176|end_char=182
+5	like	like	ADP	IN	_	6	case	_	start_char=183|end_char=187
+6	women	woman	NOUN	NNS	Number=Plur	4	nmod	_	start_char=188|end_char=193
+7	in	in	ADP	IN	_	9	case	_	start_char=194|end_char=196
+8	isis	isis	PROPN	NNP	Number=Sing	9	compound	_	start_char=197|end_char=201
+9	camps	camp	NOUN	NNS	Number=Plur	6	nmod	_	start_char=202|end_char=207
+10	being	be	AUX	VBG	VerbForm=Ger	11	aux:pass	_	start_char=208|end_char=213
+11	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	start_char=214|end_char=220
+12	to	to	ADP	IN	_	13	case	_	start_char=221|end_char=223
+13	birth	birth	NOUN	NN	Number=Sing	11	obl	_	start_char=224|end_char=229
+14	.	.	PUNCT	.	_	1	punct	_	start_char=229|end_char=230
+
+1	Or	or	CCONJ	CC	_	5	cc	_	start_char=231|end_char=233
+2	incels	incel	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=234|end_char=240
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=241|end_char=244
+4	other	other	ADJ	JJ	Degree=Pos	2	conj	_	start_char=245|end_char=250
+5	hated	hate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=251|end_char=256
+6	groups	group	NOUN	NNS	Number=Plur	5	obj	_	start_char=257|end_char=263
+7	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=264|end_char=269
+8	constantly	constantly	ADV	RB	_	9	advmod	_	start_char=270|end_char=280
+9	misunderstood	misunderstood	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=281|end_char=294
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=295|end_char=298
+11	unhelped	unhelped	ADJ	JJ	Degree=Pos	9	conj	_	start_char=299|end_char=307
+12	.	.	PUNCT	.	_	5	punct	_	start_char=307|end_char=308
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=309|end_char=312
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=313|end_char=319
+3	not	not	PART	RB	_	4	advmod	_	start_char=320|end_char=323
+4	try	try	VERB	VB	VerbForm=Inf	0	root	_	start_char=324|end_char=327
+5	to	to	PART	TO	_	6	mark	_	start_char=328|end_char=330
+6	level	level	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=331|end_char=336
+7	with	with	ADP	IN	_	9	case	_	start_char=337|end_char=341
+8	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=342|end_char=347
+9	people	people	NOUN	NNS	Number=Plur	6	obl	_	start_char=348|end_char=354
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=355|end_char=359
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=360|end_char=363
+12	insane	insane	ADJ	JJ	Degree=Pos	9	acl:relcl	_	start_char=364|end_char=370
+13	.	.	PUNCT	.	_	4	punct	_	start_char=370|end_char=371
+
+1	Feminism	feminism	NOUN	NN	Number=Sing	10	nsubj	_	start_char=373|end_char=381
+2	(	(	PUNCT	-LRB-	_	5	punct	_	start_char=382|end_char=383
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=383|end_char=386
+4	only	only	ADJ	JJ	Degree=Pos	5	amod	_	start_char=387|end_char=391
+5	original	original	ADJ	JJ	Degree=Pos	1	appos	_	start_char=392|end_char=400
+6	one	one	NUM	CD	NumType=Card	7	nummod	_	start_char=401|end_char=404
+7	way	way	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=405|end_char=408
+8	back	back	ADV	RB	_	7	advmod	_	start_char=409|end_char=413
+9	)	)	PUNCT	-RRB-	_	7	punct	_	start_char=413|end_char=414
+10	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=415|end_char=418
+11	to	to	PART	TO	_	12	mark	_	start_char=419|end_char=421
+12	make	make	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=422|end_char=426
+13	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	start_char=427|end_char=429
+14	equal	equal	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=430|end_char=435
+15	.	.	PUNCT	.	_	10	punct	_	start_char=435|end_char=436
+
+1	Theres	there	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=437|end_char=443
+2	nothing	nothing	PRON	NN	Number=Sing	1	obj	_	start_char=444|end_char=451
+3	wrong	wrong	ADJ	JJ	Degree=Pos	2	amod	_	start_char=452|end_char=457
+4	with	with	ADP	IN	_	5	case	_	start_char=458|end_char=462
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	start_char=463|end_char=467
+6	.	.	PUNCT	.	_	1	punct	_	start_char=467|end_char=468
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=469|end_char=472
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=473|end_char=476
+3	thing	thing	NOUN	NN	Number=Sing	4	nsubj	_	start_char=477|end_char=482
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=483|end_char=485
+5	.	.	PUNCT	.	_	4	punct	_	start_char=485|end_char=486
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=487|end_char=493
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=494|end_char=497
+3	so	so	ADV	RB	_	4	advmod	_	start_char=498|end_char=500
+4	high	high	ADJ	JJ	Degree=Pos	0	root	_	start_char=501|end_char=505
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=506|end_char=508
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=509|end_char=514
+7	own	own	ADJ	JJ	Degree=Pos	8	amod	_	start_char=515|end_char=518
+8	ass	ass	NOUN	NN	Number=Sing	4	obl	_	start_char=519|end_char=522
+9	,	,	PUNCT	,	_	10	punct	_	start_char=522|end_char=523
+10	selfish	selfish	ADJ	JJ	Degree=Pos	8	amod	_	start_char=524|end_char=531
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=532|end_char=535
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=536|end_char=544
+13	.	.	PUNCT	.	_	4	punct	_	start_char=544|end_char=545
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=546|end_char=550
+2	equality	equality	NOUN	NN	Number=Sing	6	nsubj	_	start_char=551|end_char=559
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=560|end_char=562
+4	simply	simply	ADV	RB	_	6	advmod	_	start_char=563|end_char=569
+5	not	not	PART	RB	_	6	advmod	_	start_char=570|end_char=573
+6	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	start_char=574|end_char=582
+7	.	.	PUNCT	.	_	6	punct	_	start_char=582|end_char=583
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=585|end_char=589
+2	try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=590|end_char=593
+3	to	to	PART	TO	_	4	mark	_	start_char=594|end_char=596
+4	stay	stay	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=597|end_char=601
+5	on	on	ADP	IN	_	7	case	_	start_char=602|end_char=604
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=605|end_char=608
+7	surface	surface	NOUN	NN	Number=Sing	4	obl	_	start_char=609|end_char=616
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=617|end_char=620
+9	call	call	VERB	VB	Mood=Imp|VerbForm=Fin	2	conj	_	start_char=621|end_char=625
+10	out	out	ADP	RP	_	9	compound:prt	_	start_char=626|end_char=629
+11	hypocrites	hypocrite	NOUN	NNS	Number=Plur	9	obj	_	start_char=630|end_char=640
+12	.	.	PUNCT	.	_	2	punct	_	start_char=640|end_char=641
+
+1	Pick	pick	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=642|end_char=646
+2	who	who	PRON	WP	PronType=Int	4	obj	_	start_char=647|end_char=650
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=651|end_char=654
+4	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=655|end_char=662
+5	carefully	carefully	ADV	RB	_	4	advmod	_	start_char=663|end_char=672
+6	.	.	PUNCT	.	_	1	punct	_	start_char=672|end_char=673
+

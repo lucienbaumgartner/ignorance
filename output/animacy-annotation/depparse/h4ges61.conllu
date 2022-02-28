@@ -1,0 +1,26 @@
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=0|end_char=5
+2	posting	posting	NOUN	NN	Number=Sing	3	compound	_	start_char=6|end_char=13
+3	history	history	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=14|end_char=21
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=22|end_char=24
+5	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=25|end_char=31
+6	with	with	ADP	IN	_	8	case	_	start_char=32|end_char=36
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=37|end_char=41
+8	crap	crap	NOUN	NN	Number=Sing	5	obl	_	start_char=42|end_char=46
+9	.	.	PUNCT	.	_	5	punct	_	start_char=46|end_char=47
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=48|end_char=52
+2	either	either	DET	DT	_	1	det	_	start_char=53|end_char=59
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=60|end_char=63
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=64|end_char=65
+5	shill	shill	NOUN	NN	Number=Sing	0	root	_	start_char=66|end_char=71
+6	or	or	CCONJ	CC	_	8	cc	_	start_char=72|end_char=74
+7	extremely	extremely	ADV	RB	_	8	advmod	_	start_char=75|end_char=84
+8	dumb	dumb	ADJ	JJ	Degree=Pos	5	conj	_	start_char=85|end_char=89
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=90|end_char=93
+10	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=94|end_char=101
+11	of	of	ADP	IN	_	14	case	_	start_char=102|end_char=104
+12	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=105|end_char=109
+13	subs	sub	NOUN	NN	Number=Sing	14	compound	_	start_char=110|end_char=114
+14	etiquette	etiquette	NOUN	NN	Number=Sing	10	obl	_	start_char=115|end_char=124
+15	.	.	PUNCT	.	_	5	punct	_	start_char=124|end_char=125
+

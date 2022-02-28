@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	honestly	honestly	ADV	RB	_	4	advmod	_	start_char=4|end_char=12
+4	shocked	shocked	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=20
+5	at	at	ADP	IN	_	7	case	_	start_char=21|end_char=23
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=24|end_char=27
+7	comments	comment	NOUN	NNS	Number=Plur	4	obl	_	start_char=28|end_char=36
+8	on	on	ADP	IN	_	11	case	_	start_char=37|end_char=39
+9	/	/	SYM	,	_	10	punct	_	start_char=40|end_char=41
+10	r/	r/	ADP	IN	_	11	case	_	start_char=41|end_char=43
+11	Europe	Europe	PROPN	NNP	Number=Sing	7	nmod	_	start_char=43|end_char=49
+12	lately	lately	ADV	RB	_	4	advmod	_	start_char=50|end_char=56
+13	.	.	PUNCT	.	_	4	punct	_	start_char=56|end_char=57
+
+1	Anything	anything	PRON	NN	Number=Sing	7	nsubj:pass	_	start_char=58|end_char=66
+2	to	to	PART	TO	_	3	mark	_	start_char=67|end_char=69
+3	do	do	VERB	VB	VerbForm=Inf	1	acl	_	start_char=70|end_char=72
+4	with	with	ADP	IN	_	5	case	_	start_char=73|end_char=77
+5	immigration	immigration	NOUN	NN	Number=Sing	3	obl	_	start_char=78|end_char=89
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=90|end_char=92
+7	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=93|end_char=99
+8	with	with	ADP	IN	_	10	case	_	start_char=100|end_char=104
+9	many	many	ADJ	JJ	Degree=Pos	10	amod	_	start_char=105|end_char=109
+10	comments	comment	NOUN	NNS	Number=Plur	7	obl	_	start_char=110|end_char=118
+11	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=119|end_char=123
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=124|end_char=127
+13	borderline	borderline	ADJ	JJ	Degree=Pos	10	acl:relcl	_	start_char=128|end_char=138
+14	as	as	ADV	RB	_	18	cc	_	start_char=139|end_char=141
+15	well	well	ADV	RB	Degree=Pos	14	fixed	_	start_char=142|end_char=146
+16	as	as	ADP	IN	_	14	fixed	_	start_char=147|end_char=149
+17	outright	outright	ADV	RB	_	18	advmod	_	start_char=150|end_char=158
+18	racist	racist	ADJ	JJ	Degree=Pos	13	conj	_	start_char=159|end_char=165
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=166|end_char=169
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=170|end_char=178
+21	that	that	PRON	WDT	PronType=Rel	24	nsubj:pass	_	start_char=179|end_char=183
+22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	_	start_char=184|end_char=187
+23	highly	highly	ADV	RB	_	24	advmod	_	start_char=188|end_char=194
+24	upvoted	upvote	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	acl:relcl	_	start_char=195|end_char=202
+25	.	.	PUNCT	.	_	7	punct	_	start_char=202|end_char=203
+
+1	Where	where	ADV	WRB	PronType=Int	0	root	_	start_char=204|end_char=209
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=210|end_char=213
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=214|end_char=217
+4	mods	mod	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=218|end_char=222
+5	?	?	PUNCT	.	_	1	punct	_	start_char=222|end_char=223
+

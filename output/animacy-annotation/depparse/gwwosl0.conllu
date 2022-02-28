@@ -1,0 +1,37 @@
+1	Cool	cool	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	!	!	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=6|end_char=10
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+3	sense	sense	NOUN	NN	Number=Sing	2	obj	_	start_char=17|end_char=22
+4	.	.	PUNCT	.	_	2	punct	_	start_char=22|end_char=23
+
+1	Sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=25|end_char=30
+2	for	for	ADP	IN	_	3	case	_	start_char=31|end_char=34
+3	elsewhere	elsewhere	ADV	RB	_	1	obl	_	start_char=35|end_char=44
+4	though	though	ADV	RB	_	1	advmod	_	start_char=45|end_char=51
+5	.	.	PUNCT	.	_	1	punct	_	start_char=51|end_char=52
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=53|end_char=54
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=55|end_char=59
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=60|end_char=61
+4	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=62|end_char=66
+5	real	real	ADJ	JJ	Degree=Pos	6	amod	_	start_char=67|end_char=71
+6	estate	estate	NOUN	NN	Number=Sing	7	compound	_	start_char=72|end_char=78
+7	brokerages	brokerage	NOUN	NNS	Number=Plur	4	obj	_	start_char=79|end_char=89
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=90|end_char=93
+9	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=94|end_char=98
+10	absolute	absolute	ADJ	JJ	Degree=Pos	11	amod	_	start_char=99|end_char=107
+11	crickets	cricket	NOUN	NNS	Number=Plur	9	obj	_	start_char=108|end_char=116
+12	,	,	PUNCT	,	_	13	punct	_	start_char=116|end_char=117
+13	annoyed	annoyed	ADJ	JJ	Degree=Pos	11	amod	_	start_char=118|end_char=125
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=126|end_char=129
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=130|end_char=137
+16	of	of	ADP	IN	_	18	case	_	start_char=138|end_char=140
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=141|end_char=144
+18	term	term	NOUN	NN	Number=Sing	15	obl	_	start_char=145|end_char=149
+19	“	''	PUNCT	``	_	21	punct	_	start_char=150|end_char=151
+20	apartment	apartment	NOUN	NN	Number=Sing	21	compound	_	start_char=151|end_char=160
+21	locating	locating	NOUN	NN	Number=Sing	18	appos	_	start_char=161|end_char=169
+22	”	''	PUNCT	''	_	21	punct	_	start_char=169|end_char=170
+

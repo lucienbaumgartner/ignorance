@@ -1,0 +1,21 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	government	government	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=15
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=16|end_char=18
+4	so	so	ADV	RB	_	5	advmod	_	start_char=19|end_char=21
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=22|end_char=29
+6	stupid	stupid	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=30|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=49
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=50|end_char=54
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=55|end_char=57
+11	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=58|end_char=62
+12	to	to	PART	TO	_	13	mark	_	start_char=63|end_char=65
+13	invent	invent	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=66|end_char=72
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=73|end_char=74
+15	new	new	ADJ	JJ	Degree=Pos	16	amod	_	start_char=75|end_char=78
+16	word	word	NOUN	NN	Number=Sing	13	obj	_	start_char=79|end_char=83
+17	to	to	PART	TO	_	19	mark	_	start_char=84|end_char=86
+18	properly	properly	ADV	RB	_	19	advmod	_	start_char=87|end_char=95
+19	describe	describe	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=96|end_char=104
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	start_char=105|end_char=109
+

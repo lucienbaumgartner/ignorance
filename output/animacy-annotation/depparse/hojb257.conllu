@@ -1,0 +1,27 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=3
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=4|end_char=8
+3	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=9|end_char=14
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=15|end_char=17
+5	on	on	ADP	IN	_	6	case	_	start_char=18|end_char=20
+6	purpose	purpose	NOUN	NN	Number=Sing	3	obl	_	start_char=21|end_char=28
+7	?	?	PUNCT	.	_	3	punct	_	start_char=28|end_char=29
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=30|end_char=32
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=33|end_char=35
+3	mock	mock	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=36|end_char=40
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=41|end_char=45
+5	?	?	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	No	no	DET	DT	_	2	det	_	start_char=47|end_char=49
+2	one	one	NOUN	NN	Number=Sing	6	nsubj	_	start_char=50|end_char=53
+3	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=54|end_char=57
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=58|end_char=60
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=61|end_char=65
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=72
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=73|end_char=76
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=77|end_char=84
+9	of	of	ADP	IN	_	12	case	_	start_char=85|end_char=87
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=88|end_char=93
+11	own	own	ADJ	JJ	Degree=Pos	12	amod	_	start_char=94|end_char=97
+12	actions	action	NOUN	NNS	Number=Plur	8	obl	_	start_char=98|end_char=105
+

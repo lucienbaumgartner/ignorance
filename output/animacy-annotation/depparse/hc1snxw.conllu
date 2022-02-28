@@ -1,0 +1,11 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	commercial	commercial	NOUN	NN	Number=Sing	6	nsubj	_	start_char=4|end_char=14
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=15|end_char=17
+4	just	just	ADV	RB	_	6	advmod	_	start_char=18|end_char=22
+5	so	so	ADV	RB	_	6	advmod	_	start_char=23|end_char=25
+6	fake	fake	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=42
+9	of	of	ADP	IN	_	10	case	_	start_char=43|end_char=45
+10	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	obl	_	start_char=46|end_char=52
+

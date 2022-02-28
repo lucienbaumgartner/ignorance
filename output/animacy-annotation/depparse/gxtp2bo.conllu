@@ -1,0 +1,16 @@
+1	God	God	PROPN	NNP	Number=Sing	6	vocative	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=5|end_char=8
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=8|end_char=11
+5	so	so	ADV	RB	_	6	advmod	_	start_char=12|end_char=14
+6	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=15|end_char=22
+7	retarded	retarded	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=23|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=36|end_char=44
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=45|end_char=49
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=50|end_char=52
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=52|end_char=54
+13	almost	almost	ADV	RB	_	14	advmod	_	start_char=55|end_char=61
+14	unbelievable	unbelievable	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=62|end_char=74
+15	.	.	PUNCT	.	_	6	punct	_	start_char=74|end_char=75
+

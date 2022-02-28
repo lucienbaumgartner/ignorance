@@ -1,0 +1,98 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Ca	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+2	n't	not	PART	RB	_	3	advmod	_	start_char=6|end_char=9
+3	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=14
+4	if	if	SCONJ	IN	_	7	mark	_	start_char=15|end_char=17
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=18|end_char=22
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=23|end_char=25
+7	satire	satire	NOUN	NN	Number=Sing	3	advcl	_	start_char=26|end_char=32
+8	or	or	CCONJ	CC	_	14	cc	_	start_char=33|end_char=35
+9	if	if	SCONJ	IN	_	14	mark	_	start_char=36|end_char=38
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=39|end_char=42
+11	really	really	ADV	RB	_	14	advmod	_	start_char=43|end_char=49
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=50|end_char=53
+13	so	so	ADV	RB	_	14	advmod	_	start_char=54|end_char=56
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=57|end_char=65
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=66|end_char=69
+16	delusional	delusional	ADJ	JJ	Degree=Pos	14	conj	_	start_char=70|end_char=80
+17	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=83|end_char=85
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=86|end_char=89
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=90|end_char=92
+4	!!	!!	PUNCT	.	_	2	punct	_	start_char=92|end_char=94
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=95|end_char=97
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	3	nsubj	_	start_char=98|end_char=105
+3	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=106|end_char=109
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=110|end_char=112
+5	!	!	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=114|end_char=115
+2	recommend	recommend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=116|end_char=125
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=126|end_char=129
+4	take	take	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=130|end_char=134
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=135|end_char=136
+6	look	look	NOUN	NN	Number=Sing	4	obj	_	start_char=137|end_char=141
+7	at	at	ADP	IN	_	10	case	_	start_char=142|end_char=144
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=145|end_char=148
+9	1st	1st	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	_	start_char=149|end_char=152
+10	comment	comment	NOUN	NN	Number=Sing	4	obl	_	start_char=153|end_char=160
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=161|end_char=164
+12	responded	respond	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=165|end_char=174
+13	to	to	ADP	IN	_	12	obl	_	start_char=175|end_char=177
+14	.	.	PUNCT	.	_	2	punct	_	start_char=177|end_char=178
+
+1	Basically	basically	ADV	RB	_	2	advmod	_	start_char=179|end_char=188
+2	answers	answer	NOUN	NNS	Number=Plur	0	root	_	start_char=189|end_char=196
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=197|end_char=201
+4	question	question	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=202|end_char=210
+5	for	for	ADP	IN	_	6	case	_	start_char=211|end_char=214
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=215|end_char=218
+7	.	.	PUNCT	.	_	2	punct	_	start_char=218|end_char=219
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=221|end_char=224
+2	;	;	PUNCT	:	_	1	punct	_	start_char=224|end_char=225
+
+1	Common	common	ADJ	JJ	Degree=Pos	2	amod	_	start_char=225|end_char=231
+2	sense	sense	NOUN	NN	Number=Sing	6	nsubj	_	start_char=232|end_char=237
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=238|end_char=240
+4	not	not	PART	RB	_	6	advmod	_	start_char=241|end_char=244
+5	so	so	ADV	RB	_	6	advmod	_	start_char=245|end_char=247
+6	common	common	ADJ	JJ	Degree=Pos	0	root	_	start_char=248|end_char=254
+7	,	,	PUNCT	,	_	6	punct	_	start_char=254|end_char=255
+
+1	LMAO	lmao	INTJ	UH	_	0	root	_	start_char=257|end_char=261
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=262|end_char=266
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=266|end_char=268
+3	ironic	ironic	ADJ	JJ	Degree=Pos	0	root	_	start_char=269|end_char=275
+4	coming	come	VERB	VBG	VerbForm=Ger	3	csubj	_	start_char=276|end_char=282
+5	from	from	ADP	IN	_	6	case	_	start_char=283|end_char=287
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=288|end_char=291
+7	.	.	PUNCT	.	_	3	punct	_	start_char=291|end_char=292
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=295|end_char=296
+2	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=296|end_char=298
+3	eat	eat	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=299|end_char=302
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=303|end_char=304
+5	rock	rock	NOUN	NN	Number=Sing	3	obj	_	start_char=305|end_char=309
+6	or	or	CCONJ	CC	_	7	cc	_	start_char=310|end_char=312
+7	something	something	NOUN	NN	Number=Sing	5	conj	_	start_char=313|end_char=322
+8	"	"	PUNCT	''	_	2	punct	_	start_char=322|end_char=323
+9	no	no	INTJ	UH	_	14	discourse	_	start_char=324|end_char=326
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=327|end_char=331
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=331|end_char=333
+12	definitely	definitely	ADV	RB	_	14	advmod	_	start_char=334|end_char=344
+13	not	not	PART	RB	_	14	advmod	_	start_char=345|end_char=348
+14	satire	satire	NOUN	NN	Number=Sing	2	parataxis	_	start_char=349|end_char=355
+15	.	.	PUNCT	.	_	2	punct	_	start_char=355|end_char=356
+
+1	Also	also	ADV	RB	_	3	advmod	_	start_char=358|end_char=362
+2	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	start_char=363|end_char=366
+3	spelt	speel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=367|end_char=372
+4	intellectually	intellectually	ADV	RB	_	3	advmod	_	start_char=373|end_char=387
+5	.	.	PUNCT	.	_	3	punct	_	start_char=387|end_char=388
+

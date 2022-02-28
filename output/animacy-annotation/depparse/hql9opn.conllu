@@ -1,0 +1,50 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=5|end_char=11
+3	40	40	NUM	CD	NumType=Card	2	obj	_	start_char=12|end_char=14
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=15|end_char=19
+5	year	year	NOUN	NN	Number=Sing	2	obl:tmod	_	start_char=20|end_char=24
+6	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	If	if	SCONJ	IN	_	7	mark	_	start_char=26|end_char=28
+2	anything	anything	NOUN	NN	Number=Sing	13	advcl	_	start_char=29|end_char=37
+3	,	,	PUNCT	,	_	13	punct	_	start_char=37|end_char=38
+4	as	as	SCONJ	IN	_	7	mark	_	start_char=39|end_char=41
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=42|end_char=43
+6	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=43|end_char=46
+7	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	start_char=47|end_char=53
+8	older	old	ADJ	JJR	Degree=Cmp	7	xcomp	_	start_char=54|end_char=59
+9	,	,	PUNCT	,	_	13	punct	_	start_char=59|end_char=60
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=61|end_char=62
+11	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=62|end_char=65
+12	only	only	ADV	RB	_	13	advmod	_	start_char=66|end_char=70
+13	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=71|end_char=77
+14	more	more	ADV	RBR	Degree=Cmp	15	advmod	_	start_char=78|end_char=82
+15	certain	certain	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=83|end_char=90
+16	that	that	SCONJ	IN	_	20	mark	_	start_char=91|end_char=95
+17	god	god	NOUN	NN	Number=Sing	20	nsubj	_	start_char=96|end_char=99
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=100|end_char=102
+19	n’t	not	PART	RB	Polarity=Neg	20	advmod	_	start_char=102|end_char=105
+20	real	real	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=106|end_char=110
+21	.	.	PUNCT	.	_	13	punct	_	start_char=110|end_char=111
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=112|end_char=114
+2	created	create	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=115|end_char=122
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=123|end_char=126
+4	to	to	PART	TO	_	5	mark	_	start_char=127|end_char=129
+5	comfort	comfort	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=130|end_char=137
+6	ourselves	ourselves	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	5	obj	_	start_char=138|end_char=147
+7	when	when	SCONJ	WRB	PronType=Int	10	mark	_	start_char=148|end_char=152
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=153|end_char=155
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	cop	_	start_char=156|end_char=160
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=161|end_char=169
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=170|end_char=173
+12	blind	blind	ADJ	JJ	Degree=Pos	10	conj	_	start_char=174|end_char=179
+13	.	.	PUNCT	.	_	2	punct	_	start_char=179|end_char=180
+
+1	Some	some	DET	DT	_	3	nsubj	_	start_char=181|end_char=185
+2	still	still	ADV	RB	_	3	advmod	_	start_char=186|end_char=191
+3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=192|end_char=196
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=197|end_char=201
+5	comfort	comfort	NOUN	NN	Number=Sing	3	obj	_	start_char=202|end_char=209
+6	.	.	PUNCT	.	_	3	punct	_	start_char=209|end_char=210
+

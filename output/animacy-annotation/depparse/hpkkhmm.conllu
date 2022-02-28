@@ -1,0 +1,42 @@
+1	seething	seethe	VERB	VBG	VerbForm=Ger	2	amod	_	start_char=0|end_char=8
+2	rage	rage	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=13
+3	.	.	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+4	.	.	PUNCT	.	_	2	punct	_	start_char=15|end_char=16
+5	.	.	PUNCT	.	_	2	punct	_	start_char=17|end_char=18
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=20|end_char=22
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=23|end_char=25
+3	well	well	ADV	RB	Degree=Pos	5	advmod	_	start_char=26|end_char=30
+4	past	past	ADJ	JJ	Degree=Pos	5	amod	_	start_char=31|end_char=35
+5	time	time	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=40
+6	that	that	SCONJ	IN	_	11	mark	_	start_char=41|end_char=45
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=46|end_char=49
+8	vaxxed	vaxxed	ADJ	JJ	Degree=Pos	9	amod	_	start_char=50|end_char=56
+9	majority	majority	NOUN	NN	Number=Sing	11	nsubj:pass	_	start_char=57|end_char=65
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=66|end_char=68
+11	prioritized	prioritize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=69|end_char=80
+12	over	over	ADP	IN	_	17	case	_	start_char=81|end_char=85
+13	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=86|end_char=89
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	amod	_	start_char=90|end_char=98
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=99|end_char=102
+16	selfish	selfish	ADJ	JJ	Degree=Pos	14	conj	_	start_char=103|end_char=110
+17	minority	minority	NOUN	NN	Number=Sing	11	obl	_	start_char=111|end_char=119
+18	.	.	PUNCT	.	_	5	punct	_	start_char=119|end_char=120
+
+1	period	period	NOUN	NN	Number=Sing	0	root	_	start_char=122|end_char=128
+2	.	.	PUNCT	.	_	1	punct	_	start_char=128|end_char=129
+
+1	play	play	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=131|end_char=135
+2	stupid	stupid	ADJ	JJ	Degree=Pos	3	amod	_	start_char=136|end_char=142
+3	games	game	NOUN	NNS	Number=Plur	1	obj	_	start_char=143|end_char=148
+4	win	win	VERB	VB	Mood=Ind|VerbForm=Fin	1	xcomp	_	start_char=149|end_char=152
+5	stupid	stupid	ADJ	JJ	Degree=Pos	6	amod	_	start_char=153|end_char=159
+6	prizes	prize	NOUN	NNS	Number=Plur	4	obj	_	start_char=160|end_char=166
+7	.	.	PUNCT	.	_	1	punct	_	start_char=166|end_char=167
+
+1	.	.	PUNCT	.	_	5	punct	_	start_char=168|end_char=169
+2	.	.	PUNCT	.	_	5	punct	_	start_char=170|end_char=171
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=171|end_char=175
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=176|end_char=178
+5	all	all	DET	DT	_	0	root	_	start_char=179|end_char=182
+

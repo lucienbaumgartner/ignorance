@@ -1,0 +1,31 @@
+1	Right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=8|end_char=9
+2	totally	totally	ADV	RB	_	3	advmod	_	start_char=10|end_char=17
+3	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=18|end_char=23
+4	with	with	ADP	IN	_	6	case	_	start_char=24|end_char=28
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=29|end_char=33
+6	point	point	NOUN	NN	Number=Sing	3	obl	_	start_char=34|end_char=39
+7	.	.	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=42|end_char=46
+2	clarifying	clarify	VERB	VBG	VerbForm=Ger	11	csubj	_	start_char=47|end_char=57
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=58|end_char=61
+4	quotes	quote	NOUN	NNS	Number=Plur	6	nmod:poss	_	start_char=62|end_char=68
+5	'	's	PART	POS	_	4	case	_	start_char=68|end_char=69
+6	origin	origin	NOUN	NN	Number=Sing	2	obj	_	start_char=70|end_char=76
+7	in	in	ADP	IN	_	11	mark	_	start_char=77|end_char=79
+8	case	case	NOUN	NN	Number=Sing	7	fixed	_	start_char=80|end_char=84
+9	some	some	DET	DT	_	11	nsubj	_	start_char=85|end_char=89
+10	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	start_char=90|end_char=94
+11	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=95|end_char=102
+12	,	,	PUNCT	,	_	14	punct	_	start_char=102|end_char=103
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=104|end_char=107
+14	interested	interested	ADJ	JJ	Degree=Pos	11	conj	_	start_char=108|end_char=118
+15	in	in	SCONJ	IN	_	16	mark	_	start_char=119|end_char=121
+16	reading	read	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=122|end_char=129
+17	about	about	ADP	IN	_	18	case	_	start_char=130|end_char=135
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obl	_	start_char=136|end_char=138
+19	.	.	PUNCT	.	_	11	punct	_	start_char=138|end_char=139
+

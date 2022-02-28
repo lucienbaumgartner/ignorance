@@ -1,0 +1,26 @@
+1	Wow	wow	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=5|end_char=9
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=12
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+6	argument	argument	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=25
+7	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=26|end_char=30
+8	finally	finally	ADV	RB	_	9	advmod	_	start_char=31|end_char=38
+9	convinced	convince	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=39|end_char=48
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=49|end_char=51
+11	.	.	PUNCT	.	_	6	punct	_	start_char=51|end_char=52
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=53|end_char=54
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=55|end_char=60
+3	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=61|end_char=66
+4	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	start_char=67|end_char=73
+5	useless	useless	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=74|end_char=81
+6	,	,	PUNCT	,	_	7	punct	_	start_char=81|end_char=82
+7	loud	loud	ADJ	JJ	Degree=Pos	5	conj	_	start_char=83|end_char=87
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=88|end_char=91
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=92|end_char=100
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=101|end_char=105
+11	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=106|end_char=109
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=110|end_char=112
+13	.	.	PUNCT	.	_	2	punct	_	start_char=112|end_char=113
+

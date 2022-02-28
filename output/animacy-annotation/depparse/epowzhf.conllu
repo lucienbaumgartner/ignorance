@@ -1,0 +1,21 @@
+1	Why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	5	punct	_	start_char=3|end_char=4
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=5|end_char=7
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+5	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=17
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=18|end_char=23
+7	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=24|end_char=30
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=31|end_char=34
+9	stupid	stupid	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=35|end_char=41
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=42|end_char=45
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=46|end_char=53
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=54|end_char=58
+13	faggot	faggot	NOUN	NN	Number=Sing	15	nsubj:pass	_	start_char=59|end_char=65
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	start_char=66|end_char=68
+15	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	ccomp	_	start_char=69|end_char=73
+16	to	to	PART	TO	_	17	mark	_	start_char=74|end_char=76
+17	insult	insult	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=77|end_char=83
+18	homosexual	homosexual	ADJ	JJ	Degree=Pos	19	amod	_	start_char=84|end_char=94
+19	individuals	individual	NOUN	NNS	Number=Plur	17	obj	_	start_char=95|end_char=106
+20	?	?	PUNCT	.	_	5	punct	_	start_char=106|end_char=107
+

@@ -1,0 +1,14 @@
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=7|end_char=13
+4	that	that	PRON	WDT	PronType=Rel	7	nsubj	_	start_char=14|end_char=18
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=19|end_char=22
+6	so	so	ADV	RB	_	7	advmod	_	start_char=23|end_char=25
+7	rude	rude	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=26|end_char=30
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=31|end_char=34
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=35|end_char=42
+10	of	of	ADP	IN	_	12	case	_	start_char=43|end_char=45
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=46|end_char=51
+12	surroundings	surroundings	NOUN	NNS	Number=Plur	9	obl	_	start_char=52|end_char=64
+13	.	.	PUNCT	.	_	2	punct	_	start_char=64|end_char=65
+

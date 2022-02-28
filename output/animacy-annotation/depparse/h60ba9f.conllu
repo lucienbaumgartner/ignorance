@@ -1,0 +1,16 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	doing	do	VERB	VBG	VerbForm=Ger	0	root	_	start_char=5|end_char=10
+3	everything	everything	PRON	NN	Number=Sing	2	obj	_	start_char=11|end_char=21
+4	possible	possible	ADJ	JJ	Degree=Pos	3	amod	_	start_char=22|end_char=30
+5	to	to	PART	TO	_	6	mark	_	start_char=31|end_char=33
+6	keep	keep	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=34|end_char=38
+7	people	people	NOUN	NNS	Number=Plur	6	obj	_	start_char=39|end_char=45
+8	uninformed	uninformed	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=46|end_char=56
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=57|end_char=60
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=61|end_char=68
+11	of	of	ADP	IN	_	13	case	_	start_char=69|end_char=71
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=72|end_char=75
+13	risks	risk	NOUN	NNS	Number=Plur	10	obl	_	start_char=76|end_char=81
+14	in	in	ADP	IN	_	15	case	_	start_char=82|end_char=84
+15	FL.	FL.	PROPN	NNP	Number=Sing	13	nmod	_	start_char=85|end_char=88
+

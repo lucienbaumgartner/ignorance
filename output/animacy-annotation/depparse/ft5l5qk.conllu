@@ -1,0 +1,31 @@
+1	Or	or	CCONJ	CC	_	5	cc	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3|end_char=4
+3	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=6
+4	just	just	ADV	RB	_	5	advmod	_	start_char=7|end_char=11
+5	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=16
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=17|end_char=20
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=21|end_char=29
+8	.	.	PUNCT	.	_	5	punct	_	start_char=29|end_char=30
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=31|end_char=35
+2	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=36|end_char=41
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=42|end_char=44
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=45|end_char=48
+5	case	case	NOUN	NN	Number=Sing	0	root	_	start_char=49|end_char=53
+6	.	.	PUNCT	.	_	5	punct	_	start_char=53|end_char=54
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=55|end_char=56
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=56|end_char=58
+3	not	not	PART	RB	_	6	advmod	_	start_char=59|end_char=62
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=63|end_char=64
+5	political	political	ADJ	JJ	Degree=Pos	6	amod	_	start_char=65|end_char=74
+6	expert	expert	NOUN	NN	Number=Sing	0	root	_	start_char=75|end_char=81
+7	nor	nor	CCONJ	CC	_	10	cc	_	start_char=82|end_char=85
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=86|end_char=88
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=89|end_char=90
+10	claim	claim	VERB	VB	VerbForm=Inf	6	conj	_	start_char=91|end_char=96
+11	to	to	PART	TO	_	13	mark	_	start_char=97|end_char=99
+12	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=100|end_char=102
+13	one	one	NUM	CD	NumType=Card	10	xcomp	_	start_char=103|end_char=106
+14	.	.	PUNCT	.	_	6	punct	_	start_char=106|end_char=107
+

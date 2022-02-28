@@ -1,0 +1,18 @@
+1	[	[	PUNCT	-LRB-	_	8	punct	_	start_char=0|end_char=1
+2	"	"	PUNCT	``	_	8	punct	_	start_char=1|end_char=2
+3	BUT	but	CCONJ	CC	_	8	cc	_	start_char=2|end_char=5
+4	MUH	muh	DET	DT	_	8	det	_	start_char=6|end_char=9
+5	UNAWARE	unaware	ADJ	JJ	Degree=Pos	8	amod	_	start_char=10|end_char=17
+6	AND	and	CCONJ	CC	_	7	cc	_	start_char=18|end_char=21
+7	COMPLIANT	compliant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=22|end_char=31
+8	CITIZENRY	citizenry	NOUN	NN	Number=Sing	0	root	_	start_char=32|end_char=41
+9	!!!	!!!	PUNCT	.	_	8	punct	_	start_char=41|end_char=44
+10	"	"	PUNCT	''	_	8	punct	_	start_char=44|end_char=45
+11	]	]	PUNCT	-RRB-	_	8	punct	_	start_char=45|end_char=46
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=46|end_char=47
+2	https://wikileaks.org/podesta-emails/emailid/3599#efmARhAUy)	https://wikileaks.org/podesta-emails/emailid/3599#efmarhauy)	X	ADD	_	0	root	_	start_char=47|end_char=107
+3	-	-	PUNCT	,	_	2	punct	_	start_char=108|end_char=109
+4	John	John	PROPN	NNP	Number=Sing	2	appos	_	start_char=110|end_char=114
+5	Podesta	Podesta	PROPN	NNP	Number=Sing	4	flat	_	start_char=115|end_char=122
+

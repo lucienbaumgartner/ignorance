@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	with	with	ADP	IN	_	4	case	_	start_char=4|end_char=8
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	0	root	_	start_char=9|end_char=12
+5	.	.	PUNCT	.	_	4	punct	_	start_char=12|end_char=13
+
+1	Ca	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=14|end_char=16
+2	n't	not	PART	RB	_	3	advmod	_	start_char=16|end_char=19
+3	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=30
+4	students	student	NOUN	NNS	Number=Plur	3	obj	_	start_char=31|end_char=39
+5	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=40|end_char=44
+6	,	,	PUNCT	,	_	3	punct	_	start_char=44|end_char=45
+7	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=46|end_char=52
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=53|end_char=56
+9	so	so	ADV	RB	_	10	advmod	_	start_char=57|end_char=59
+10	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=60|end_char=73
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=74|end_char=77
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=78|end_char=85
+13	of	of	ADP	IN	_	14	case	_	start_char=86|end_char=88
+14	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	start_char=89|end_char=99
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=100|end_char=102
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=102|end_char=104
+17	just	just	ADV	RB	_	18	advmod	_	start_char=105|end_char=109
+18	crazy	crazy	ADJ	JJ	Degree=Pos	10	conj	_	start_char=110|end_char=115
+19	.	.	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	Wonder	wonder	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=117|end_char=123
+2	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=124|end_char=127
+3	life	life	NOUN	NN	Number=Sing	5	nsubj	_	start_char=128|end_char=132
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=133|end_char=135
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	1	ccomp	_	start_char=136|end_char=141
+6	to	to	PART	TO	_	7	mark	_	start_char=142|end_char=144
+7	work	work	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=145|end_char=149
+8	out	out	ADP	RP	_	7	compound:prt	_	start_char=150|end_char=153
+9	for	for	ADP	IN	_	11	case	_	start_char=154|end_char=157
+10	these	this	DET	DT	Number=Plur|PronType=Dem	11	det	_	start_char=158|end_char=163
+11	students	student	NOUN	NNS	Number=Plur	7	obl	_	start_char=164|end_char=172
+12	once	once	SCONJ	IN	_	14	mark	_	start_char=173|end_char=177
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=178|end_char=182
+14	enter	enter	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=183|end_char=188
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=189|end_char=192
+16	real	real	ADJ	JJ	Degree=Pos	17	amod	_	start_char=193|end_char=197
+17	world	world	NOUN	NN	Number=Sing	14	obj	_	start_char=198|end_char=203
+18	..	..	PUNCT	.	_	1	punct	_	start_char=203|end_char=205
+

@@ -1,0 +1,76 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	3	punct	_	start_char=3|end_char=4
+3	Islamabad	Islamabad	PROPN	NNP	Number=Sing	1	parataxis	_	start_char=4|end_char=13
+
+1	Ah	ah	INTJ	UH	_	0	root	_	start_char=15|end_char=17
+2	...	...	PUNCT	.	_	1	punct	_	start_char=17|end_char=20
+
+1	Well	well	INTJ	UH	_	6	discourse	_	start_char=21|end_char=25
+2	,	,	PUNCT	,	_	6	punct	_	start_char=25|end_char=26
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=27|end_char=30
+4	must	must	AUX	MD	VerbForm=Fin	6	aux	_	start_char=31|end_char=35
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=36|end_char=38
+6	well	well	ADV	RB	Degree=Pos	0	root	_	start_char=39|end_char=43
+7	off	off	ADP	RP	_	6	advmod	_	start_char=44|end_char=47
+8	,	,	PUNCT	,	_	6	punct	_	start_char=47|end_char=48
+9	because	because	SCONJ	IN	_	13	mark	_	start_char=49|end_char=56
+10	their	they	PRON	EX	_	13	nsubj	_	start_char=57|end_char=62
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=63|end_char=65
+12	significant	significant	ADJ	JJ	Degree=Pos	13	amod	_	start_char=66|end_char=77
+13	sympathy	sympathy	NOUN	NN	Number=Sing	18	nsubj	_	start_char=78|end_char=86
+14	for	for	ADP	IN	_	15	case	_	start_char=87|end_char=90
+15	OBL	OBL	PROPN	NNP	Number=Sing	13	nmod	_	start_char=91|end_char=94
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=95|end_char=97
+17	many	many	ADJ	JJ	Degree=Pos	18	amod	_	start_char=98|end_char=102
+18	parts	part	NOUN	NNS	Number=Plur	6	advcl	_	start_char=103|end_char=108
+19	of	of	ADP	IN	_	20	case	_	start_char=109|end_char=111
+20	Pakistan	Pakistan	PROPN	NNP	Number=Sing	18	nmod	_	start_char=112|end_char=120
+21	.	.	PUNCT	.	_	6	punct	_	start_char=120|end_char=121
+
+1	Especially	especially	ADV	RB	_	6	advmod	_	start_char=122|end_char=132
+2	in	in	ADP	IN	_	6	case	_	start_char=133|end_char=135
+3	Lower	Lower	ADJ	JJ	Degree=Pos	6	amod	_	start_char=136|end_char=141
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=142|end_char=145
+5	Middle	Middle	ADJ	JJ	Degree=Pos	3	conj	_	start_char=146|end_char=152
+6	classes	class	NOUN	NNS	Number=Plur	0	root	_	start_char=153|end_char=160
+7	.	.	PUNCT	.	_	6	punct	_	start_char=160|end_char=161
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=163|end_char=166
+2	;	;	PUNCT	:	_	1	punct	_	start_char=166|end_char=167
+
+1	Where	where	ADV	WRB	PronType=Int	2	advmod	_	start_char=167|end_char=172
+2	tf	tf	ADV	RB	_	0	root	_	start_char=173|end_char=175
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=176|end_char=179
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=180|end_char=183
+5	from	from	ADP	IN	_	6	case	_	start_char=184|end_char=188
+6	bro	bro	NOUN	NN	Number=Sing	2	obl	_	start_char=189|end_char=192
+7	?	?	PUNCT	.	_	2	punct	_	start_char=192|end_char=193
+
+1	Azad	Azad	PROPN	NNP	Number=Sing	2	compound	_	start_char=195|end_char=199
+2	kashmir	kashmir	PROPN	NNP	Number=Sing	0	root	_	start_char=200|end_char=207
+3	,	,	PUNCT	,	_	4	punct	_	start_char=207|end_char=208
+4	living	live	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=209|end_char=215
+5	in	in	ADP	IN	_	6	case	_	start_char=216|end_char=218
+6	Islamabad	Islamabad	PROPN	NNP	Number=Sing	4	obl	_	start_char=219|end_char=228
+7	.	.	PUNCT	.	_	1	punct	_	start_char=228|end_char=229
+
+1	&gt;military	&gt;military	NOUN	NN	Number=Sing	0	root	_	start_char=232|end_char=244
+2	over	over	ADP	IN	_	4	case	_	start_char=245|end_char=249
+3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=250|end_char=255
+4	bs	bs	NOUN	NN	Number=Sing	1	nmod	_	start_char=256|end_char=258
+
+1	Because	because	SCONJ	IN	_	7	mark	_	start_char=260|end_char=267
+2	much	much	ADJ	JJ	Degree=Pos	7	nsubj	_	start_char=268|end_char=272
+3	of	of	ADP	IN	_	5	case	_	start_char=273|end_char=275
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=276|end_char=279
+5	criticism	criticism	NOUN	NN	Number=Sing	2	nmod	_	start_char=280|end_char=289
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=290|end_char=292
+7	unfair	unfair	ADJ	JJ	Degree=Pos	0	root	_	start_char=293|end_char=299
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=300|end_char=303
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=304|end_char=312
+10	of	of	ADP	IN	_	11	case	_	start_char=313|end_char=315
+11	how	how	SCONJ	WRB	PronType=Int	9	obl	_	start_char=316|end_char=319
+12	Pakistan	Pakistan	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=320|end_char=328
+13	actually	actually	ADV	RB	_	14	advmod	_	start_char=329|end_char=337
+14	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=338|end_char=343
+

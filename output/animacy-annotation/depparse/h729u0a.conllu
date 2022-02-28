@@ -1,0 +1,45 @@
+1	Am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=3|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=5|end_char=8
+4	only	only	ADJ	JJ	Degree=Pos	5	amod	_	start_char=9|end_char=13
+5	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=17
+6	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=18|end_char=21
+7	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=22|end_char=25
+8	successful	successful	ADJ	JJ	Degree=Pos	10	amod	_	start_char=26|end_char=36
+9	dinner	dinner	NOUN	NN	Number=Sing	10	compound	_	start_char=37|end_char=43
+10	dates	date	NOUN	NNS	Number=Plur	7	obj	_	start_char=44|end_char=49
+11	?	?	PUNCT	.	_	5	punct	_	start_char=49|end_char=50
+
+1	Or	or	CCONJ	CC	_	5	cc	_	start_char=51|end_char=53
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=54|end_char=56
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=57|end_char=58
+4	just	just	ADV	RB	_	5	advmod	_	start_char=59|end_char=63
+5	patient	patient	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=71
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=72|end_char=75
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=76|end_char=83
+8	of	of	ADP	IN	_	12	mark	_	start_char=84|end_char=86
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=87|end_char=90
+10	long	long	ADV	RB	Degree=Pos	12	advmod	_	start_char=91|end_char=95
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=96|end_char=98
+12	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=99|end_char=104
+13	.	.	PUNCT	.	_	5	punct	_	start_char=104|end_char=105
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=106|end_char=107
+2	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=107|end_char=110
+3	noticed	notice	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=111|end_char=118
+4	that	that	SCONJ	IN	_	13	mark	_	start_char=119|end_char=123
+5	if	if	SCONJ	IN	_	11	mark	_	start_char=124|end_char=126
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=127|end_char=131
+7	sims	sim	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=132|end_char=136
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=137|end_char=140
+9	on	on	ADP	IN	_	11	case	_	start_char=141|end_char=143
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=144|end_char=145
+11	date	date	NOUN	NN	Number=Sing	13	advcl	_	start_char=146|end_char=150
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=151|end_char=153
+13	runs	run	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=154|end_char=158
+14	smoother	smooth	ADJ	JJR	Degree=Cmp	13	xcomp	_	start_char=159|end_char=167
+15	vs	versus	ADP	IN	_	17	case	_	start_char=168|end_char=170
+16	ungrouped	ungrouped	ADJ	JJ	Degree=Pos	17	amod	_	start_char=171|end_char=180
+17	sims	sim	NOUN	NNS	Number=Plur	14	obl	_	start_char=181|end_char=185
+18	.	.	PUNCT	.	_	3	punct	_	start_char=185|end_char=186
+

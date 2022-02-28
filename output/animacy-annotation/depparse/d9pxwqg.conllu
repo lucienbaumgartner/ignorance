@@ -1,0 +1,93 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=4|end_char=6
+3	n't	not	PART	RB	_	5	advmod	_	start_char=6|end_char=9
+4	even	even	ADV	RB	_	5	advmod	_	start_char=10|end_char=14
+5	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=19
+6	what	what	DET	WDT	PronType=Int	5	obj	_	start_char=20|end_char=24
+7	fascism	fascism	NOUN	NN	Number=Sing	8	nsubj	_	start_char=25|end_char=32
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=33|end_char=35
+9	.	.	PUNCT	.	_	5	punct	_	start_char=35|end_char=36
+
+1	Trump	Trump	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=37|end_char=42
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=43|end_char=45
+3	far	far	ADV	RB	Degree=Pos	0	root	_	start_char=46|end_char=49
+4	from	from	ADP	IN	_	6	case	_	start_char=50|end_char=54
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=55|end_char=56
+6	fascist	fascist	NOUN	NN	Number=Sing	3	obl	_	start_char=57|end_char=64
+7	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=66|end_char=70
+2	at	at	ADP	IN	_	3	case	_	start_char=71|end_char=73
+3	history	history	NOUN	NN	Number=Sing	1	obl	_	start_char=74|end_char=81
+4	,	,	PUNCT	,	_	6	punct	_	start_char=81|end_char=82
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=83|end_char=86
+6	show	show	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=87|end_char=91
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=92|end_char=94
+8	what	what	PRON	WP	PronType=Int	6	obj	_	start_char=95|end_char=99
+9	Mussolini	Mussolini	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=100|end_char=109
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=110|end_char=113
+11	Trump	Trump	PROPN	NNP	Number=Sing	9	conj	_	start_char=114|end_char=119
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=120|end_char=124
+13	in	in	ADP	IN	_	14	case	_	start_char=125|end_char=127
+14	common	common	ADJ	JJ	Degree=Pos	12	obl	_	start_char=128|end_char=134
+15	.	.	PUNCT	.	_	1	punct	_	start_char=134|end_char=135
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=136|end_char=140
+2	knowledge	knowledge	NOUN	NN	Number=Sing	6	nsubj	_	start_char=141|end_char=150
+3	of	of	ADP	IN	_	4	case	_	start_char=151|end_char=153
+4	politics	politics	NOUN	NNS	Number=Plur	2	nmod	_	start_char=154|end_char=162
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=163|end_char=165
+6	shallow	shallow	ADJ	JJ	Degree=Pos	0	root	_	start_char=166|end_char=173
+7	.	.	PUNCT	.	_	6	punct	_	start_char=173|end_char=174
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=175|end_char=179
+2	smugness	smugness	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=180|end_char=188
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=189|end_char=191
+4	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=192|end_char=197
+5	on	on	ADP	IN	_	6	case	_	start_char=198|end_char=200
+6	straw	straw	NOUN	NN	Number=Sing	4	obl	_	start_char=201|end_char=206
+7	.	.	PUNCT	.	_	4	punct	_	start_char=206|end_char=207
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=208|end_char=210
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=211|end_char=213
+3	amazing	amazing	ADJ	JJ	Degree=Pos	0	root	_	start_char=214|end_char=221
+4	to	to	PART	TO	_	5	mark	_	start_char=222|end_char=224
+5	see	see	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=225|end_char=228
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=229|end_char=232
+7	many	many	ADJ	JJ	Degree=Pos	8	amod	_	start_char=233|end_char=237
+8	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=238|end_char=244
+9	actively	actively	ADV	RB	_	10	advmod	_	start_char=245|end_char=253
+10	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=254|end_char=260
+11	education	education	NOUN	NN	Number=Sing	10	obj	_	start_char=261|end_char=270
+12	,	,	PUNCT	,	_	14	punct	_	start_char=270|end_char=271
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=272|end_char=275
+14	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=276|end_char=282
+15	to	to	PART	TO	_	18	mark	_	start_char=283|end_char=285
+16	be	be	AUX	VB	VerbForm=Inf	18	cop	_	start_char=286|end_char=288
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=289|end_char=290
+18	part	part	NOUN	NN	Number=Sing	14	xcomp	_	start_char=291|end_char=295
+19	of	of	ADP	IN	_	22	case	_	start_char=296|end_char=298
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=299|end_char=302
+21	status	status	NOUN	NN	Number=Sing	22	compound	_	start_char=303|end_char=309
+22	quo	quo	NOUN	NN	Number=Sing	18	nmod	_	start_char=310|end_char=313
+23	.	.	PUNCT	.	_	3	punct	_	start_char=313|end_char=314
+
+1	Quit	quit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=315|end_char=319
+2	going	go	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=320|end_char=325
+3	with	with	ADP	IN	_	5	case	_	start_char=326|end_char=330
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=331|end_char=334
+5	flow	flow	NOUN	NN	Number=Sing	2	obl	_	start_char=335|end_char=339
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=340|end_char=343
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=344|end_char=349
+8	part	part	NOUN	NN	Number=Sing	2	conj	_	start_char=350|end_char=354
+9	of	of	ADP	IN	_	15	case	_	start_char=355|end_char=357
+10	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=358|end_char=361
+11	"	"	PUNCT	``	_	15	punct	_	start_char=362|end_char=363
+12	unaware	unaware	ADJ	JJ	Degree=Pos	15	amod	_	start_char=363|end_char=370
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=371|end_char=374
+14	compliant	compliant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=375|end_char=384
+15	citizenry	citizenry	NOUN	NN	Number=Sing	8	nmod	_	start_char=385|end_char=394
+16	"	"	PUNCT	''	_	1	punct	_	start_char=394|end_char=395
+
+1	https://wikileaks.org/podesta-emails/emailid/3599	https://wikileaks.org/podesta-emails/emailid/3599	X	ADD	_	0	root	_	start_char=397|end_char=446
+

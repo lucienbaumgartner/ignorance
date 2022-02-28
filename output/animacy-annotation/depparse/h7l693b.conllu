@@ -1,0 +1,40 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Some	some	DET	DT	_	2	det	_	start_char=6|end_char=10
+2	parents	parent	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=11|end_char=18
+3	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=19|end_char=22
+4	honestly	honestly	ADV	RB	_	6	advmod	_	start_char=23|end_char=31
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=32|end_char=34
+6	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=42
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=43|end_char=46
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=47|end_char=54
+9	of	of	ADP	IN	_	10	case	_	start_char=55|end_char=57
+10	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	8	obl	_	start_char=58|end_char=68
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=69|end_char=72
+12	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=73|end_char=77
+13	to	to	PART	TO	_	15	mark	_	start_char=78|end_char=80
+14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	start_char=81|end_char=83
+15	put	put	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	_	start_char=84|end_char=87
+16	in	in	ADP	IN	_	18	case	_	start_char=88|end_char=90
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=91|end_char=96
+18	place	place	NOUN	NN	Number=Sing	15	obl	_	start_char=97|end_char=102
+19	.	.	PUNCT	.	_	6	punct	_	start_char=102|end_char=103
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=104|end_char=108
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=109|end_char=113
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=114|end_char=116
+4	stubborn	stubborn	ADJ	JJ	Degree=Pos	0	root	_	start_char=117|end_char=125
+5	about	about	ADP	IN	_	6	case	_	start_char=126|end_char=131
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=132|end_char=134
+7	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=135|end_char=139
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=140|end_char=143
+9	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=144|end_char=146
+10	.	.	PUNCT	.	_	4	punct	_	start_char=146|end_char=147
+
+1	At	at	ADP	IN	_	4	advmod	_	start_char=148|end_char=150
+2	least	least	ADJ	JJS	Degree=Sup	1	fixed	_	start_char=151|end_char=156
+3	mine	mine	PRON	PRP	Number=Sing|PronType=Prs	4	nsubj	_	start_char=157|end_char=161
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=162|end_char=165
+5	.	.	PUNCT	.	_	4	punct	_	start_char=165|end_char=166
+

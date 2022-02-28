@@ -1,0 +1,45 @@
+1	To	to	ADP	IN	_	3	case	_	start_char=0|end_char=2
+2	meme	meme	NOUN	NN	Number=Sing	3	compound	_	start_char=3|end_char=7
+3	creator	creator	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=15
+4	:	:	PUNCT	:	_	3	punct	_	start_char=15|end_char=16
+
+1	Messrs	Messrs	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=18|end_char=24
+2	Dunning	Dunning	PROPN	NNP	Number=Sing	1	flat	_	start_char=25|end_char=32
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=33|end_char=36
+4	Kruger	Kruger	PROPN	NNP	Number=Sing	1	conj	_	start_char=37|end_char=43
+5	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=44|end_char=49
+6	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=50|end_char=54
+7	to	to	PART	TO	_	9	mark	_	start_char=55|end_char=57
+8	cordially	cordially	ADV	RB	_	9	advmod	_	start_char=58|end_char=67
+9	invite	invite	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=68|end_char=74
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	start_char=75|end_char=78
+11	to	to	ADP	IN	_	13	case	_	start_char=79|end_char=81
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=82|end_char=83
+13	study	study	NOUN	NN	Number=Sing	9	obl	_	start_char=84|end_char=89
+14	titled	title	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	_	start_char=90|end_char=96
+15	*	*	PUNCT	NFP	_	17	punct	_	start_char=97|end_char=98
+16	"	"	PUNCT	``	_	17	punct	_	start_char=98|end_char=99
+17	Unskilled	unskilled	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=99|end_char=108
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=109|end_char=112
+19	Unaware	unaware	ADJ	JJ	Degree=Pos	17	conj	_	start_char=113|end_char=120
+20	of	of	ADP	IN	_	21	case	_	start_char=121|end_char=123
+21	It.	It.	PROPN	NNP	Number=Sing	17	obl	_	start_char=124|end_char=127
+22	How	how	SCONJ	WRB	PronType=Int	23	mark	_	start_char=128|end_char=131
+23	Difficulties	difficulty	NOUN	NNS	Number=Plur	17	obl	_	start_char=132|end_char=144
+24	in	in	SCONJ	IN	_	25	mark	_	start_char=145|end_char=147
+25	Recognizing	recognize	VERB	VBG	VerbForm=Ger	23	acl	_	start_char=148|end_char=159
+26	One	one	PRON	PRP	_	29	nmod:poss	_	start_char=160|end_char=163
+27	's	's	PART	POS	_	26	case	_	start_char=163|end_char=165
+28	Own	own	ADJ	JJ	Degree=Pos	29	amod	_	start_char=166|end_char=169
+29	Incompetence	incompetence	NOUN	NN	Number=Sing	25	obj	_	start_char=170|end_char=182
+30	Lead	lead	VERB	VB	VerbForm=Fin	25	xcomp	_	start_char=183|end_char=187
+31	to	to	ADP	IN	_	33	case	_	start_char=188|end_char=190
+32	Inflated	inflate	VERB	VBN	Tense=Past|VerbForm=Part	33	amod	_	start_char=191|end_char=199
+33	Self-Assessments	Self-Assessments	PROPN	NNPS	Number=Plur	30	obl	_	start_char=200|end_char=216
+34	"	"	PUNCT	''	_	17	punct	_	start_char=216|end_char=217
+35	*.	*.	PUNCT	NFP	_	6	punct	_	start_char=217|end_char=219
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=221|end_char=227
+2	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=228|end_char=232
+3	.	.	PUNCT	.	_	2	punct	_	start_char=232|end_char=233
+

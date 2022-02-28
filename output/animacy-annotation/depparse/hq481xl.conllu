@@ -1,0 +1,22 @@
+1	Just	just	ADV	RB	_	4	advmod	_	start_char=0|end_char=4
+2	like	like	SCONJ	IN	_	4	mark	_	start_char=5|end_char=9
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=10|end_char=13
+4	ignored	ignore	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=14|end_char=21
+5	what	what	PRON	WP	PronType=Int	4	obj	_	start_char=22|end_char=26
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=27|end_char=30
+7	wrote	write	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=31|end_char=36
+8	.	.	PUNCT	.	_	4	punct	_	start_char=36|end_char=37
+
+1	Which	which	PRON	WDT	PronType=Int	2	nsubj	_	start_char=38|end_char=43
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=44|end_char=49
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=50|end_char=53
+4	not	not	PART	RB	_	6	advmod	_	start_char=54|end_char=57
+5	only	only	ADV	RB	_	6	advmod	_	start_char=58|end_char=62
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=63|end_char=71
+7	AND	and	CCONJ	CC	_	8	cc	_	start_char=72|end_char=75
+8	incompetent	incompetent	ADJ	JJ	Degree=Pos	6	conj	_	start_char=76|end_char=87
+9	.	.	PUNCT	.	_	2	punct	_	start_char=87|end_char=88
+
+1	Merry	merry	ADJ	NNP	Degree=Pos	2	amod	_	start_char=89|end_char=94
+2	Christmas	Christmas	PROPN	NNP	Number=Sing	0	root	_	start_char=95|end_char=104
+

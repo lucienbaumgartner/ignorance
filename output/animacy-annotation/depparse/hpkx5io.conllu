@@ -1,0 +1,66 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	No	no	INTJ	UH	_	3	discourse	_	start_char=4|end_char=6
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=7|end_char=10
+3	will	will	AUX	MD	VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	not	not	PART	RB	_	3	advmod	_	start_char=16|end_char=19
+5	.	.	PUNCT	.	_	3	punct	_	start_char=19|end_char=20
+
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=21|end_char=23
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=24|end_char=27
+3	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=27|end_char=30
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=31|end_char=36
+5	smart	smart	ADJ	JJ	Degree=Pos	20	advcl	_	start_char=37|end_char=42
+6	about	about	ADP	IN	_	7	case	_	start_char=43|end_char=48
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=49|end_char=51
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=52|end_char=55
+9	providing	provide	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=56|end_char=65
+10	people	people	NOUN	NNS	Number=Plur	9	obj	_	start_char=66|end_char=72
+11	with	with	ADP	IN	_	15	case	_	start_char=73|end_char=77
+12	scientific	scientific	ADJ	JJ	Degree=Pos	15	amod	_	start_char=78|end_char=88
+13	research	research	NOUN	NN	Number=Sing	15	compound	_	start_char=89|end_char=97
+14	based	base	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	_	start_char=98|end_char=103
+15	facts	fact	NOUN	NNS	Number=Plur	9	obl	_	start_char=104|end_char=109
+16	,	,	PUNCT	,	_	20	punct	_	start_char=109|end_char=110
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	start_char=111|end_char=113
+18	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=114|end_char=118
+19	n't	not	PART	RB	_	20	advmod	_	start_char=118|end_char=121
+20	matter	matter	VERB	VB	VerbForm=Inf	0	root	_	start_char=122|end_char=128
+21	how	how	SCONJ	WRB	PronType=Int	22	mark	_	start_char=129|end_char=132
+22	hard	hard	ADV	RB	Degree=Pos	23	advmod	_	start_char=133|end_char=137
+23	headed	head	VERB	VBN	Tense=Past|VerbForm=Part	20	ccomp	_	start_char=138|end_char=144
+24	some	some	DET	DT	_	25	det	_	start_char=145|end_char=149
+25	people	people	NOUN	NNS	Number=Plur	26	nsubj	_	start_char=150|end_char=156
+26	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=157|end_char=160
+27	.	.	PUNCT	.	_	20	punct	_	start_char=160|end_char=161
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=162|end_char=166
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=166|end_char=169
+3	choosing	choose	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=170|end_char=178
+4	to	to	PART	TO	_	5	mark	_	start_char=179|end_char=181
+5	stay	stay	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=182|end_char=186
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=187|end_char=195
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=196|end_char=199
+8	stupid	stupid	ADJ	JJ	Degree=Pos	6	conj	_	start_char=200|end_char=206
+9	,	,	PUNCT	,	_	10	punct	_	start_char=206|end_char=207
+10	let	let	VERB	VB	VerbForm=Fin	3	parataxis	_	start_char=208|end_char=211
+11	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	obj	_	start_char=212|end_char=216
+12	.	.	PUNCT	.	_	3	punct	_	start_char=216|end_char=217
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=218|end_char=222
+2	n't	not	PART	RB	_	3	advmod	_	start_char=222|end_char=225
+3	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=226|end_char=230
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=231|end_char=233
+5	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=234|end_char=240
+6	continue	continue	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=241|end_char=249
+7	to	to	PART	TO	_	9	mark	_	start_char=250|end_char=252
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=253|end_char=255
+9	quiet	quiet	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=256|end_char=261
+10	about	about	ADP	IN	_	12	case	_	start_char=262|end_char=267
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=268|end_char=271
+12	benefits	benefit	NOUN	NNS	Number=Plur	9	obl	_	start_char=272|end_char=280
+13	of	of	ADP	IN	_	14	case	_	start_char=281|end_char=283
+14	psychedelics	psychedelics	NOUN	NNS	Number=Plur	12	nmod	_	start_char=284|end_char=296
+15	.	.	PUNCT	.	_	3	punct	_	start_char=296|end_char=297
+

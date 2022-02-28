@@ -1,0 +1,41 @@
+1	Never	never	ADV	RB	_	2	advmod	_	start_char=0|end_char=5
+2	understood	understand	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=6|end_char=16
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=17|end_char=20
+4	woke	wake	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=21|end_char=25
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=26|end_char=29
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=30|end_char=31
+7	bad	bad	ADJ	JJ	Degree=Pos	8	amod	_	start_char=32|end_char=35
+8	thing	thing	NOUN	NN	Number=Sing	2	ccomp	_	start_char=36|end_char=41
+9	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=44|end_char=45
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=46|end_char=50
+3	one	one	NUM	CD	NumType=Card	2	obj	_	start_char=51|end_char=54
+4	of	of	ADP	IN	_	5	case	_	start_char=55|end_char=57
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	start_char=58|end_char=62
+6	to	to	PART	TO	_	7	mark	_	start_char=63|end_char=65
+7	explain	explain	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=66|end_char=73
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=74|end_char=76
+9	to	to	ADP	IN	_	10	case	_	start_char=77|end_char=79
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=80|end_char=82
+11	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	Since	since	SCONJ	IN	_	2	mark	_	start_char=85|end_char=90
+2	woke	wake	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	start_char=91|end_char=95
+3	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=96|end_char=101
+4	aware	aware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=102|end_char=107
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=108|end_char=111
+6	vigilant	vigilant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=112|end_char=120
+7	to	to	ADP	IN	_	9	case	_	start_char=121|end_char=123
+8	society	society	NOUN	NN	Number=Sing	9	compound	_	start_char=124|end_char=131
+9	injustice	injustice	NOUN	NN	Number=Sing	4	obl	_	start_char=132|end_char=141
+10	.	.	PUNCT	.	_	3	punct	_	start_char=141|end_char=142
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=143|end_char=146
+2	unwoke	unwoke	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=147|end_char=153
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=154|end_char=157
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=158|end_char=166
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=167|end_char=170
+6	complacent	complacent	ADJ	JJ	Degree=Pos	4	conj	_	start_char=171|end_char=181
+7	.	.	PUNCT	.	_	4	punct	_	start_char=181|end_char=182
+

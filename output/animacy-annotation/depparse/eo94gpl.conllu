@@ -1,0 +1,33 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	stuff	stuff	NOUN	NN	Number=Sing	6	nsubj	_	start_char=5|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=13
+4	so	so	ADV	RB	_	5	advmod	_	start_char=14|end_char=16
+5	damned	damned	ADJ	JJ	Degree=Pos	6	amod	_	start_char=17|end_char=23
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=30
+7	.	.	PUNCT	.	_	6	punct	_	start_char=30|end_char=31
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=32|end_char=33
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=34|end_char=36
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=36|end_char=39
+4	fathom	fathom	VERB	VB	VerbForm=Inf	0	root	_	start_char=40|end_char=46
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=47|end_char=52
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=53|end_char=54
+7	person	person	NOUN	NN	Number=Sing	4	xcomp	_	start_char=55|end_char=61
+8	so	so	ADV	RB	_	9	advmod	_	start_char=62|end_char=64
+9	naive	naive	ADJ	JJ	Degree=Pos	7	amod	_	start_char=65|end_char=70
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=71|end_char=74
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=75|end_char=83
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=84|end_char=88
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=89|end_char=93
+14	actually	actually	ADV	RB	Degree=Pos	15	advmod	_	start_char=94|end_char=102
+15	thing	thing	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=103|end_char=108
+16	something	something	NOUN	NN	Number=Sing	15	obj	_	start_char=109|end_char=118
+17	like	like	ADP	IN	_	18	case	_	start_char=119|end_char=123
+18	this	this	PRON	DT	Number=Sing|PronType=Dem	16	nmod	_	start_char=124|end_char=128
+19	would	would	AUX	MD	VerbForm=Fin	23	aux	_	start_char=129|end_char=134
+20	ever	ever	ADV	RB	Degree=Pos	23	advmod	_	start_char=135|end_char=139
+21	,	,	PUNCT	,	_	23	punct	_	start_char=139|end_char=140
+22	ever	ever	ADV	RB	Degree=Pos	23	advmod	_	start_char=141|end_char=145
+23	work	work	VERB	VB	VerbForm=Inf	15	advcl	_	start_char=146|end_char=150
+24	.	.	PUNCT	.	_	4	punct	_	start_char=150|end_char=151
+

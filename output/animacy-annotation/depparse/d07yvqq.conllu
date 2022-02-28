@@ -1,0 +1,29 @@
+1	&gt	&gt	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	5	punct	_	start_char=3|end_char=4
+3	Many	many	ADJ	JJ	Degree=Pos	5	nsubj	_	start_char=5|end_char=9
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=13
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=21
+6	,	,	PUNCT	,	_	10	punct	_	start_char=21|end_char=22
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=23|end_char=26
+8	many	many	ADJ	JJ	Degree=Pos	10	nsubj	_	start_char=27|end_char=31
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=32|end_char=35
+10	aware	aware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=36|end_char=41
+11	and	and	CCONJ	CC	_	20	cc	_	start_char=42|end_char=45
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	conj	_	start_char=46|end_char=49
+13	(	(	PUNCT	-LRB-	_	15	punct	_	start_char=50|end_char=51
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=51|end_char=52
+15	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	parataxis	_	start_char=53|end_char=58
+16	arguably	arguably	ADV	RB	_	18	advmod	_	start_char=59|end_char=67
+17	,	,	PUNCT	,	_	18	punct	_	start_char=67|end_char=68
+18	understandably	understandably	ADV	RB	_	15	advmod	_	start_char=69|end_char=83
+19	)	)	PUNCT	-RRB-	_	15	punct	_	start_char=83|end_char=84
+20	scared	scared	ADJ	JJ	Degree=Pos	10	conj	_	start_char=85|end_char=91
+21	to	to	PART	TO	_	22	mark	_	start_char=92|end_char=94
+22	lose	lose	VERB	VB	VerbForm=Inf	20	xcomp	_	start_char=95|end_char=99
+23	that	that	DET	DT	Number=Sing|PronType=Dem	24	det	_	start_char=100|end_char=104
+24	privilege	privilege	NOUN	NN	Number=Sing	22	obj	_	start_char=105|end_char=114
+25	.	.	PUNCT	.	_	5	punct	_	start_char=114|end_char=115
+
+1	exactly	exactly	ADV	RB	_	0	root	_	start_char=117|end_char=124
+2	!	!	PUNCT	.	_	1	punct	_	start_char=124|end_char=125
+

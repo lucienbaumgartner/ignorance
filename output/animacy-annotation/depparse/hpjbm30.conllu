@@ -1,0 +1,29 @@
+1	Hahaha	hahaha	INTJ	UH	_	6	discourse	_	start_char=0|end_char=6
+2	well	well	INTJ	UH	_	6	discourse	_	start_char=7|end_char=11
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=12|end_char=15
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=16|end_char=20
+5	also	also	ADV	RB	_	6	advmod	_	start_char=21|end_char=25
+6	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=26|end_char=30
+7	many	many	ADJ	JJ	Degree=Pos	11	amod	_	start_char=31|end_char=35
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=36|end_char=44
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+10	stupid	stupid	ADJ	JJ	Degree=Pos	8	conj	_	start_char=49|end_char=55
+11	things	thing	NOUN	NNS	Number=Plur	6	obj	_	start_char=56|end_char=62
+12	so	so	ADV	RB	_	16	mark	_	start_char=63|end_char=65
+13	🤷🏼‍♀️	mage	VERB	VB	VerbForm=Fin	16	obj	_	start_char=66|end_char=71
+14	whatcha	whatcha	PRON	PRP	PronType=Int	16	nsubj	_	start_char=72|end_char=79
+15	gonna	go	AUX	MD	VerbForm=Fin	16	aux	_	start_char=80|end_char=85
+16	do	do	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=86|end_char=88
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=90|end_char=93
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=93|end_char=96
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=97|end_char=100
+4	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=101|end_char=104
+5	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=105|end_char=109
+6	submitted	submit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=110|end_char=119
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=120|end_char=124
+8	to	to	ADP	IN	_	11	case	_	start_char=125|end_char=127
+9	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=128|end_char=130
+10	AITA	AITA	PROPN	NNP	Number=Sing	11	compound	_	start_char=131|end_char=135
+11	subreddit	subreddit	NOUN	NN	Number=Sing	6	obl	_	start_char=136|end_char=145
+

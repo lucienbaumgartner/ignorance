@@ -1,0 +1,46 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	If	if	SCONJ	IN	_	2	mark	_	start_char=5|end_char=7
+2	false	false	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=8|end_char=13
+3	,	,	PUNCT	,	_	7	punct	_	start_char=13|end_char=14
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=15|end_char=19
+5	once	once	ADV	RB	NumType=Mult	7	advmod	_	start_char=20|end_char=24
+6	again	again	ADV	RB	_	7	advmod	_	start_char=25|end_char=30
+7	discredit	discredit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=40
+8	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	7	obj	_	start_char=41|end_char=51
+9	by	by	SCONJ	IN	_	10	mark	_	start_char=52|end_char=54
+10	making	make	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=55|end_char=61
+11	up	up	ADP	RP	_	10	compound:prt	_	start_char=62|end_char=64
+12	fake	fake	ADJ	JJ	Degree=Pos	13	amod	_	start_char=65|end_char=69
+13	news	news	NOUN	NN	Number=Sing	10	obj	_	start_char=70|end_char=74
+14	.	.	PUNCT	.	_	7	punct	_	start_char=74|end_char=75
+
+1	Yes	yes	INTJ	UH	_	4	discourse	_	start_char=78|end_char=81
+2	but	but	CCONJ	CC	_	4	cc	_	start_char=82|end_char=85
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=86|end_char=90
+4	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=91|end_char=95
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=96|end_char=101
+6	readers	reader	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=102|end_char=109
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=110|end_char=113
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=114|end_char=121
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=122|end_char=125
+10	compliant	compliant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=126|end_char=135
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=136|end_char=139
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=140|end_char=144
+13	keep	keep	VERB	VB	VerbForm=Inf	4	conj	_	start_char=145|end_char=149
+14	going	go	VERB	VBG	VerbForm=Ger	13	xcomp	_	start_char=150|end_char=155
+15	back	back	ADV	RB	_	14	advmod	_	start_char=156|end_char=160
+16	to	to	ADP	IN	_	21	case	_	start_char=161|end_char=163
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=164|end_char=167
+18	well	well	ADV	RB	Degree=Pos	14	obl	_	start_char=168|end_char=172
+19	for	for	ADP	IN	_	21	case	_	start_char=173|end_char=176
+20	more	more	ADJ	JJR	Degree=Cmp	21	amod	_	start_char=177|end_char=181
+21	poison	poison	NOUN	NN	Number=Sing	14	obl	_	start_char=182|end_char=188
+22	because	because	SCONJ	IN	_	24	mark	_	start_char=189|end_char=196
+23	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	start_char=197|end_char=199
+24	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=200|end_char=205
+25	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	24	obj	_	start_char=206|end_char=210
+26	feel	feel	VERB	VB	VerbForm=Inf	24	xcomp	_	start_char=211|end_char=215
+27	good	good	ADJ	JJ	Degree=Pos	26	xcomp	_	start_char=216|end_char=220
+

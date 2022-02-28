@@ -1,0 +1,38 @@
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=10
+3	!	!	PUNCT	.	_	2	punct	_	start_char=10|end_char=11
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=14|end_char=15
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=16|end_char=19
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=23
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=24|end_char=28
+5	getting	get	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=29|end_char=36
+6	really	really	ADV	RB	_	7	advmod	_	start_char=37|end_char=43
+7	excitedly	excitedly	ADV	RB	_	8	advmod	_	start_char=44|end_char=53
+8	floppy	floppy	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=54|end_char=60
+9	,	,	PUNCT	,	_	11	punct	_	start_char=60|end_char=61
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=62|end_char=65
+11	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=66|end_char=73
+12	of	of	ADP	IN	_	14	case	_	start_char=74|end_char=76
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=77|end_char=82
+14	surroundings	surroundings	NOUN	NNS	Number=Plur	11	obl	_	start_char=83|end_char=95
+15	and	and	CCONJ	CC	_	19	cc	_	start_char=96|end_char=99
+16	just	just	ADV	RB	_	19	advmod	_	start_char=100|end_char=104
+17	happily	happily	ADV	RB	_	19	advmod	_	start_char=105|end_char=112
+18	*	*	PUNCT	NFP	_	19	punct	_	start_char=113|end_char=114
+19	dooking	dook	VERB	VBG	VerbForm=Ger	11	conj	_	start_char=114|end_char=121
+20	*	*	PUNCT	NFP	_	19	punct	_	start_char=121|end_char=122
+21	right	right	ADV	RB	_	24	advmod	_	start_char=123|end_char=128
+22	off	off	ADP	IN	_	24	case	_	start_char=129|end_char=132
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=133|end_char=136
+24	edge	edge	NOUN	NN	Number=Sing	19	obl	_	start_char=137|end_char=141
+25	in	in	ADP	IN	_	29	case	_	start_char=142|end_char=144
+26	an	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	start_char=145|end_char=147
+27	adorable	adorable	ADJ	JJ	Degree=Pos	29	amod	_	start_char=148|end_char=156
+28	reverse	reverse	ADJ	JJ	Degree=Pos	29	amod	_	start_char=157|end_char=164
+29	war-dance	war-dance	NOUN	NN	Number=Sing	24	nmod	_	start_char=165|end_char=174
+30	.	.	PUNCT	.	_	3	punct	_	start_char=174|end_char=175
+
+1	^	^	X	LS	_	0	root	_	start_char=176|end_char=177
+2	lol	lol	INTJ	UH	_	1	discourse	_	start_char=177|end_char=180
+

@@ -1,0 +1,21 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=2|end_char=4
+3	so	so	ADV	RB	_	6	advmod	_	start_char=5|end_char=7
+4	self	self	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=8|end_char=12
+5	-	-	PUNCT	HYPH	_	6	punct	_	start_char=12|end_char=13
+6	involved	involved	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=21
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=22|end_char=25
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=26|end_char=33
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=34|end_char=38
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=39|end_char=41
+11	probably	probably	ADV	RB	_	12	advmod	_	start_char=42|end_char=50
+12	relishes	relish	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=51|end_char=59
+13	in	in	ADP	IN	_	15	case	_	start_char=60|end_char=62
+14	this	this	DET	DT	Number=Sing|PronType=Dem	15	det	_	start_char=63|end_char=67
+15	opportunity	opportunity	NOUN	NN	Number=Sing	12	obl	_	start_char=68|end_char=79
+16	to	to	PART	TO	_	17	mark	_	start_char=80|end_char=82
+17	educate	educate	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=83|end_char=90
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=91|end_char=94
+19	masses	mass	NOUN	NNS	Number=Plur	17	obj	_	start_char=95|end_char=101
+20	.	.	PUNCT	.	_	6	punct	_	start_char=101|end_char=102
+

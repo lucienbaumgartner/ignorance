@@ -1,0 +1,10 @@
+1	Now	now	ADV	RB	_	5	advmod	_	start_char=0|end_char=3
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=4|end_char=8
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=10
+4	just	just	ADV	RB	_	5	advmod	_	start_char=11|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=24
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=25|end_char=28
+7	plain	plain	ADV	RB	_	8	advmod	_	start_char=29|end_char=34
+8	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=35|end_char=41
+9	.	.	PUNCT	.	_	5	punct	_	start_char=41|end_char=42
+

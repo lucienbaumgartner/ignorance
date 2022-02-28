@@ -1,0 +1,124 @@
+1	So	so	ADV	RB	_	4	advmod	_	start_char=0|end_char=2
+2	to	to	PART	TO	_	4	mark	_	start_char=3|end_char=5
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=6|end_char=8
+4	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=14
+5	:	:	PUNCT	:	_	4	punct	_	start_char=14|end_char=15
+
+1	1	1	NUM	LS	_	11	nummod	_	start_char=17|end_char=18
+2	)	)	PUNCT	-RRB-	_	1	punct	_	start_char=18|end_char=19
+3	"	"	PUNCT	``	_	4	punct	_	start_char=20|end_char=21
+4	Remain	remain	VERB	VB	Mood=Imp|VerbForm=Fin	11	nsubj	_	start_char=21|end_char=27
+5	in	in	ADP	IN	_	6	case	_	start_char=28|end_char=30
+6	Mexico	Mexico	PROPN	NNP	Number=Sing	4	obl	_	start_char=31|end_char=37
+7	"	"	PUNCT	''	_	4	punct	_	start_char=37|end_char=38
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=39|end_char=41
+9	against	against	ADP	IN	_	11	case	_	start_char=42|end_char=49
+10	USA	USA	PROPN	NNP	Number=Sing	11	compound	_	start_char=50|end_char=53
+11	law	law	NOUN	NN	Number=Sing	0	root	_	start_char=54|end_char=57
+12	.	.	PUNCT	.	_	11	punct	_	start_char=57|end_char=58
+
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=59|end_char=65
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=66|end_char=70
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=71|end_char=72
+4	right	right	NOUN	NN	Number=Sing	2	obj	_	start_char=73|end_char=78
+5	to	to	ADP	IN	_	6	case	_	start_char=79|end_char=81
+6	Asylum	Asylum	PROPN	NNP	Number=Sing	4	nmod	_	start_char=82|end_char=88
+7	in	in	ADP	IN	_	9	case	_	start_char=89|end_char=91
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=92|end_char=95
+9	USA	USA	PROPN	NNP	Number=Sing	2	obl	_	start_char=96|end_char=99
+10	.	.	PUNCT	.	_	2	punct	_	start_char=99|end_char=100
+
+1	Just	just	ADV	RB	_	4	advmod	_	start_char=101|end_char=105
+2	because	because	SCONJ	IN	_	4	mark	_	start_char=106|end_char=113
+3	Trump	Trump	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=114|end_char=119
+4	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	start_char=120|end_char=123
+5	something	something	PRON	NN	Number=Sing	4	obj	_	start_char=124|end_char=133
+6	-	-	PUNCT	,	_	9	punct	_	start_char=134|end_char=135
+7	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	aux	_	start_char=136|end_char=139
+8	n't	not	PART	RB	_	9	advmod	_	start_char=139|end_char=142
+9	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=143|end_char=147
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=148|end_char=150
+11	right	right	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=151|end_char=156
+12	or	or	CCONJ	CC	_	13	cc	_	start_char=157|end_char=159
+13	legal	legal	ADJ	JJ	Degree=Pos	11	conj	_	start_char=160|end_char=165
+14	.	.	PUNCT	.	_	9	punct	_	start_char=165|end_char=166
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=167|end_char=169
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=170|end_char=173
+3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=174|end_char=179
+4	to	to	PART	TO	_	5	mark	_	start_char=180|end_char=182
+5	lose	lose	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=183|end_char=187
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=188|end_char=192
+7	in	in	ADP	IN	_	8	case	_	start_char=193|end_char=195
+8	court	court	NOUN	NN	Number=Sing	5	obl	_	start_char=196|end_char=201
+9	.	.	PUNCT	.	_	3	punct	_	start_char=201|end_char=202
+
+1	2	2	NUM	LS	_	9	nummod	_	start_char=205|end_char=206
+2	)	)	PUNCT	-RRB-	_	1	punct	_	start_char=206|end_char=207
+3	4	4	NUM	CD	NumType=Card	4	nummod	_	start_char=208|end_char=209
+4	years	year	NOUN	NNS	Number=Plur	5	obl:npmod	_	start_char=210|end_char=215
+5	later	late	ADV	RB	_	0	root	_	start_char=216|end_char=221
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=222|end_char=225
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=226|end_char=229
+8	wall	wall	NOUN	NN	Number=Sing	9	nsubj	_	start_char=230|end_char=234
+9	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=235|end_char=238
+10	nothing	nothing	PRON	NN	Number=Sing	9	obj	_	start_char=239|end_char=246
+11	.	.	PUNCT	.	_	9	punct	_	start_char=246|end_char=247
+
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=248|end_char=253
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=254|end_char=256
+3	what	what	PRON	WP	PronType=Int	0	root	_	start_char=257|end_char=261
+4	Democrats	Democrat	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=262|end_char=271
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=272|end_char=276
+6	.	.	PUNCT	.	_	3	punct	_	start_char=276|end_char=277
+
+1	All	all	DET	PDT	_	3	det:predet	_	start_char=278|end_char=281
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=282|end_char=285
+3	money	money	NOUN	NN	Number=Sing	9	nsubj:pass	_	start_char=286|end_char=291
+4	invested	invest	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=292|end_char=300
+5	in	in	ADP	IN	_	7	case	_	start_char=301|end_char=303
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=304|end_char=307
+7	wall	wall	NOUN	NN	Number=Sing	4	obl	_	start_char=308|end_char=312
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	start_char=313|end_char=316
+9	wasted	waste	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=317|end_char=323
+10	-	-	PUNCT	,	_	9	punct	_	start_char=324|end_char=325
+11	because	because	SCONJ	IN	_	15	mark	_	start_char=326|end_char=333
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=334|end_char=336
+13	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	aux	_	start_char=337|end_char=340
+14	n't	not	PART	RB	_	15	advmod	_	start_char=340|end_char=343
+15	address	address	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=344|end_char=351
+16	why	why	SCONJ	WRB	PronType=Int	19	mark	_	start_char=352|end_char=355
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=356|end_char=360
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=361|end_char=364
+19	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	15	ccomp	_	start_char=365|end_char=371
+20	.	.	PUNCT	.	_	9	punct	_	start_char=371|end_char=372
+
+1	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=373|end_char=374
+2	American	American	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=374|end_char=382
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=383|end_char=385
+4	rich	rich	ADJ	JJ	Degree=Pos	0	root	_	start_char=386|end_char=390
+5	-	-	PUNCT	,	_	4	punct	_	start_char=391|end_char=392
+6	not	not	ADV	RB	_	9	advmod	_	start_char=393|end_char=396
+7	because	because	ADP	IN	_	9	case	_	start_char=397|end_char=404
+8	of	of	ADP	IN	_	7	fixed	_	start_char=405|end_char=407
+9	biden	biden	PROPN	NNP	Number=Sing	4	obl	_	start_char=408|end_char=413
+10	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=413|end_char=414
+
+1	Everything	everything	PRON	NN	Number=Sing	5	nsubj	_	start_char=416|end_char=426
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=427|end_char=430
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	start_char=431|end_char=435
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=436|end_char=438
+5	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=439|end_char=443
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=444|end_char=447
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=448|end_char=456
+8	of	of	ADP	IN	_	9	case	_	start_char=457|end_char=459
+9	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=460|end_char=467
+10	.	.	PUNCT	.	_	5	punct	_	start_char=467|end_char=468
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=469|end_char=473
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=474|end_char=476
+3	n't	not	PART	RB	_	5	advmod	_	start_char=476|end_char=479
+4	fox	fox	NOUN	NN	Number=Sing	5	compound	_	start_char=480|end_char=483
+5	news	news	NOUN	NN	Number=Sing	0	root	_	start_char=484|end_char=488
+6	.	.	PUNCT	.	_	5	punct	_	start_char=488|end_char=489
+

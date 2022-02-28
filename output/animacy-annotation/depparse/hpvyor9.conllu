@@ -1,0 +1,16 @@
+1	Brainwashed	brainwash	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	start_char=0|end_char=11
+2	,	,	PUNCT	,	_	1	punct	_	start_char=11|end_char=12
+3	these	this	PRON	DT	Number=Plur|PronType=Dem	4	nsubj	_	start_char=13|end_char=18
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=22
+5	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=23|end_char=26
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=27|end_char=31
+7	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=32|end_char=36
+8	all	all	DET	DT	_	7	obj	_	start_char=37|end_char=40
+9	of	of	ADP	IN	_	10	case	_	start_char=41|end_char=43
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	nmod	_	start_char=44|end_char=46
+11	,	,	PUNCT	,	_	12	punct	_	start_char=46|end_char=47
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=48|end_char=56
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=57|end_char=60
+14	angry	angry	ADJ	JJ	Degree=Pos	12	conj	_	start_char=61|end_char=66
+15	.	.	PUNCT	.	_	4	punct	_	start_char=66|end_char=67
+

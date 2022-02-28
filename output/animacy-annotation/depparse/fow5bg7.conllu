@@ -1,0 +1,36 @@
+1	Where	where	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=5
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=6|end_char=9
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=10|end_char=13
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=17
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=18|end_char=21
+6	opinion	opinion	NOUN	NN	Number=Sing	4	obj	_	start_char=22|end_char=29
+7	that	that	SCONJ	IN	_	15	mark	_	start_char=30|end_char=34
+8	all	all	DET	DT	_	9	det	_	start_char=35|end_char=38
+9	supporters	supporter	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=39|end_char=49
+10	of	of	ADP	IN	_	13	case	_	start_char=50|end_char=52
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=53|end_char=56
+12	US	US	PROPN	NNP	Number=Sing	13	compound	_	start_char=57|end_char=59
+13	president	president	NOUN	NN	Number=Sing	9	nmod	_	start_char=60|end_char=69
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=70|end_char=73
+15	hate	hate	VERB	VB	VerbForm=Inf	6	acl	_	start_char=74|end_char=78
+16	groups	group	NOUN	NNS	Number=Plur	15	obj	_	start_char=79|end_char=85
+17	?	?	PUNCT	.	_	4	punct	_	start_char=85|end_char=86
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=89|end_char=92
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=93|end_char=95
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=96|end_char=99
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=100|end_char=104
+5	any	any	DET	DT	_	6	det	_	start_char=105|end_char=108
+6	idea	idea	NOUN	NN	Number=Sing	4	obj	_	start_char=109|end_char=113
+7	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=114|end_char=117
+8	incredibly	incredibly	ADV	RB	_	9	advmod	_	start_char=118|end_char=128
+9	naive	naive	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=129|end_char=134
+10	,	,	PUNCT	,	_	11	punct	_	start_char=134|end_char=135
+11	gullible	gullible	ADJ	JJ	Degree=Pos	9	conj	_	start_char=136|end_char=144
+12	,	,	PUNCT	,	_	14	punct	_	start_char=144|end_char=145
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=146|end_char=149
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=150|end_char=158
+15	that	that	PRON	WDT	PronType=Rel	16	nsubj	_	start_char=159|end_char=163
+16	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=164|end_char=170
+17	?	?	PUNCT	.	_	4	punct	_	start_char=170|end_char=171
+

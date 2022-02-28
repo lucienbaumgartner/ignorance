@@ -1,0 +1,68 @@
+1	Only	only	ADV	RB	_	16	advmod	_	start_char=0|end_char=4
+2	because	because	SCONJ	IN	_	5	mark	_	start_char=5|end_char=12
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=13|end_char=14
+4	truly	truly	ADV	RB	_	5	advmod	_	start_char=15|end_char=20
+5	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	start_char=21|end_char=25
+6	sorry	sorry	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=26|end_char=31
+7	for	for	ADP	IN	_	8	case	_	start_char=32|end_char=35
+8	people	people	NOUN	NNS	Number=Plur	6	obl	_	start_char=36|end_char=42
+9	as	as	ADV	RB	_	10	advmod	_	start_char=43|end_char=45
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=46|end_char=54
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=55|end_char=58
+12	defiant	defiant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=59|end_char=66
+13	as	as	ADP	IN	_	14	case	_	start_char=67|end_char=69
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	obl	_	start_char=70|end_char=73
+15	,	,	PUNCT	,	_	16	punct	_	start_char=73|end_char=74
+16	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=75|end_char=79
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=80|end_char=82
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=83|end_char=87
+19	link	link	NOUN	NN	Number=Sing	16	nsubj	_	start_char=88|end_char=92
+20	.	.	PUNCT	.	_	16	punct	_	start_char=92|end_char=93
+
+1	Now	now	ADV	RB	_	3	advmod	_	start_char=94|end_char=97
+2	,	,	PUNCT	,	_	3	punct	_	start_char=97|end_char=98
+3	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=99|end_char=101
+4	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	3	xcomp	_	start_char=102|end_char=105
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=106|end_char=109
+6	approved	approve	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	start_char=110|end_char=118
+7	vaccine	vaccine	NOUN	NN	Number=Sing	4	obj	_	start_char=119|end_char=126
+8	.	.	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=128|end_char=131
+2	link	link	NOUN	NN	Number=Sing	6	nsubj	_	start_char=132|end_char=136
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=137|end_char=139
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=140|end_char=143
+5	full	full	ADJ	JJ	Degree=Pos	6	amod	_	start_char=144|end_char=148
+6	approval	approval	NOUN	NN	Number=Sing	0	root	_	start_char=149|end_char=157
+7	of	of	ADP	IN	_	8	case	_	start_char=158|end_char=160
+8	Pfizer	Pfizer	PROPN	NNP	Number=Sing	6	nmod	_	start_char=161|end_char=167
+9	in	in	ADP	IN	_	10	case	_	start_char=168|end_char=170
+10	August	August	PROPN	NNP	Number=Sing	6	nmod	_	start_char=171|end_char=177
+11	.	.	PUNCT	.	_	6	punct	_	start_char=177|end_char=178
+
+1	Moderna	Moderna	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=179|end_char=186
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=187|end_char=191
+3	in	in	ADP	IN	_	4	case	_	start_char=192|end_char=194
+4	September	September	PROPN	NNP	Number=Sing	2	obl	_	start_char=195|end_char=204
+5	.	.	PUNCT	.	_	2	punct	_	start_char=204|end_char=205
+
+1	And	and	CCONJ	CC	_	8	cc	_	start_char=207|end_char=210
+2	,	,	PUNCT	,	_	8	punct	_	start_char=210|end_char=211
+3	yes	yes	INTJ	UH	_	8	discourse	_	start_char=212|end_char=215
+4	,	,	PUNCT	,	_	8	punct	_	start_char=215|end_char=216
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=217|end_char=218
+6	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=219|end_char=221
+7	fully	fully	ADV	RB	_	8	advmod	_	start_char=222|end_char=227
+8	vaccinated	vaccinate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=229|end_char=239
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=240|end_char=243
+10	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	conj	_	start_char=244|end_char=248
+11	living	live	VERB	VBG	VerbForm=Ger	10	xcomp	_	start_char=249|end_char=255
+12	FREE	free	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=256|end_char=260
+13	because	because	SCONJ	IN	_	16	mark	_	start_char=261|end_char=268
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=269|end_char=270
+15	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=271|end_char=273
+16	vaccinated	vaccinate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	start_char=274|end_char=284
+17	.	.	PUNCT	.	_	8	punct	_	start_char=284|end_char=285
+
+1	https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine	https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine	X	ADD	_	0	root	_	start_char=286|end_char=373
+

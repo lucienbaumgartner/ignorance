@@ -1,0 +1,22 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=4|end_char=13
+4	shocked	shocked	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=21
+5	.	.	PUNCT	.	_	4	punct	_	start_char=21|end_char=22
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=23|end_char=24
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=25|end_char=28
+3	not	not	PART	RB	_	4	advmod	_	start_char=29|end_char=32
+4	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=33|end_char=40
+5	just	just	ADV	RB	_	7	advmod	_	start_char=41|end_char=45
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=46|end_char=49
+7	unstable	unstable	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=50|end_char=58
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=59|end_char=62
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=63|end_char=70
+10	of	of	ADP	IN	_	11	case	_	start_char=71|end_char=73
+11	history	history	NOUN	NN	Number=Sing	9	obl	_	start_char=74|end_char=81
+12	some	some	DET	DT	_	13	det	_	start_char=82|end_char=86
+13	people	people	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=87|end_char=93
+14	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=94|end_char=97
+15	.	.	PUNCT	.	_	4	punct	_	start_char=97|end_char=98
+

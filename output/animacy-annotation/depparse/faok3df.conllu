@@ -1,0 +1,119 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=2|end_char=5
+3	n't	not	PART	RB	_	4	advmod	_	start_char=5|end_char=8
+4	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=12
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj:pass	_	start_char=13|end_char=17
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=18|end_char=21
+7	morally	morally	ADV	RB	_	8	advmod	_	start_char=22|end_char=29
+8	obligated	obligate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	ccomp	_	start_char=30|end_char=39
+9	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=44|end_char=45
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=45|end_char=47
+3	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=48|end_char=54
+4	that	that	SCONJ	IN	_	12	mark	_	start_char=55|end_char=59
+5	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=60|end_char=65
+6	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=66|end_char=72
+7	being	be	AUX	VBG	VerbForm=Ger	8	aux:pass	_	start_char=73|end_char=78
+8	upset	upset	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	start_char=79|end_char=84
+9	at	at	ADP	IN	_	10	case	_	start_char=85|end_char=87
+10	globalism	globalism	NOUN	NN	Number=Sing	8	obl	_	start_char=88|end_char=97
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=98|end_char=100
+12	stupid	stupid	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=101|end_char=107
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=108|end_char=111
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=112|end_char=120
+15	.	.	PUNCT	.	_	3	punct	_	start_char=120|end_char=121
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=124|end_char=128
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=129|end_char=131
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=132|end_char=137
+4	realistic	realistic	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=147
+5	.	.	PUNCT	.	_	4	punct	_	start_char=147|end_char=148
+
+1	Especially	especially	ADV	RB	_	7	advmod	_	start_char=153|end_char=163
+2	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=164|end_char=168
+3	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=169|end_char=174
+4	winning	win	VERB	VBG	VerbForm=Ger	5	amod	_	start_char=175|end_char=182
+5	countries	country	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=183|end_char=192
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=193|end_char=196
+7	continuing	continue	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=197|end_char=207
+8	to	to	PART	TO	_	9	mark	_	start_char=208|end_char=210
+9	exploit	exploit	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=211|end_char=218
+10	those	that	DET	DT	Number=Plur|PronType=Dem	12	det	_	start_char=219|end_char=224
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	start_char=225|end_char=230
+12	countries	country	NOUN	NNS	Number=Plur	9	obj	_	start_char=231|end_char=240
+13	.	.	PUNCT	.	_	7	punct	_	start_char=240|end_char=241
+
+1	Again	again	ADV	RB	_	0	root	_	start_char=243|end_char=248
+2	.	.	PUNCT	.	_	1	punct	_	start_char=248|end_char=249
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=251|end_char=254
+2	simple	simple	ADJ	JJ	Degree=Pos	3	amod	_	start_char=255|end_char=261
+3	analogy	analogy	NOUN	NN	Number=Sing	7	nsubj	_	start_char=262|end_char=269
+4	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=270|end_char=274
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=275|end_char=277
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=278|end_char=281
+7	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=282|end_char=288
+8	someone	someone	PRON	NN	Number=Sing	10	nmod:poss	_	start_char=289|end_char=296
+9	's	's	PART	POS	_	8	case	_	start_char=296|end_char=298
+10	food	food	NOUN	NN	Number=Sing	7	obj	_	start_char=299|end_char=303
+11	.	.	PUNCT	.	_	7	punct	_	start_char=303|end_char=304
+
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=306|end_char=310
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=311|end_char=315
+3	complain	complain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=316|end_char=324
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=325|end_char=328
+5	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=329|end_char=333
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=334|end_char=336
+7	back	back	ADV	RB	_	5	advmod	_	start_char=337|end_char=341
+8	.	.	PUNCT	.	_	3	punct	_	start_char=341|end_char=342
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=343|end_char=346
+2	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=347|end_char=350
+3	offended	offend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	start_char=351|end_char=359
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=360|end_char=363
+5	state	state	NOUN	NN	Number=Sing	3	conj	_	start_char=364|end_char=369
+6	.	.	PUNCT	.	_	2	punct	_	start_char=369|end_char=370
+
+1	Why	why	ADV	WRB	PronType=Int	6	advmod	_	start_char=372|end_char=375
+2	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=376|end_char=382
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj:pass	_	start_char=383|end_char=386
+4	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	start_char=387|end_char=389
+5	morally	morally	ADV	RB	_	6	advmod	_	start_char=390|end_char=397
+6	obligated	obligate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=398|end_char=407
+7	to	to	PART	TO	_	8	mark	_	start_char=408|end_char=410
+8	let	let	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=411|end_char=414
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=415|end_char=418
+10	take	take	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=419|end_char=423
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=424|end_char=427
+12	food	food	NOUN	NN	Number=Sing	10	obj	_	start_char=428|end_char=432
+13	back	back	ADV	RB	_	10	advmod	_	start_char=433|end_char=437
+14	?	?	PUNCT	.	_	6	punct	_	start_char=437|end_char=438
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=440|end_char=451
+2	;	;	PUNCT	:	_	1	punct	_	start_char=451|end_char=452
+
+1	Also	also	ADV	RB	_	0	root	_	start_char=454|end_char=458
+2	.	.	PUNCT	.	_	1	punct	_	start_char=458|end_char=459
+
+1	how	how	ADV	WRB	PronType=Int	10	advmod	_	start_char=461|end_char=464
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=465|end_char=467
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=468|end_char=470
+4	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=471|end_char=472
+5	"	"	PUNCT	``	_	8	punct	_	start_char=473|end_char=474
+6	half	half	NOUN	NN	Number=Sing	8	nummod	_	start_char=474|end_char=478
+7	-	-	PUNCT	HYPH	_	8	punct	_	start_char=478|end_char=479
+8	ass	ass	NOUN	NN	Number=Sing	10	compound	_	start_char=479|end_char=482
+9	"	"	PUNCT	''	_	8	punct	_	start_char=482|end_char=483
+10	plan	plan	NOUN	NN	Number=Sing	0	root	_	start_char=484|end_char=488
+11	?	?	PUNCT	.	_	10	punct	_	start_char=488|end_char=489
+
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=491|end_char=494
+2	method	method	NOUN	NN	Number=Sing	7	nsubj:pass	_	start_char=495|end_char=501
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=502|end_char=505
+4	n't	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=505|end_char=508
+5	even	even	ADV	RB	_	7	advmod	_	start_char=509|end_char=513
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	aux:pass	_	start_char=514|end_char=518
+7	discussed	discuss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=519|end_char=528
+8	.	.	PUNCT	.	_	7	punct	_	start_char=528|end_char=529
+

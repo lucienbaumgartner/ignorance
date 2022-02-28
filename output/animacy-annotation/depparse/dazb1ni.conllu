@@ -1,0 +1,48 @@
+1	Two	two	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	quotes	quote	NOUN	NNS	Number=Plur	0	root	_	start_char=4|end_char=10
+3	from	from	ADP	IN	_	5	case	_	start_char=11|end_char=15
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=16|end_char=19
+5	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	2	nmod	_	start_char=20|end_char=24
+6	in	in	ADP	IN	_	9	case	_	start_char=25|end_char=27
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=28|end_char=31
+8	same	same	ADJ	JJ	Degree=Pos	9	amod	_	start_char=32|end_char=36
+9	year	year	NOUN	NN	Number=Sing	5	obl	_	start_char=37|end_char=41
+10	:	:	PUNCT	:	_	2	punct	_	start_char=41|end_char=42
+
+1	"	"	PUNCT	``	_	5	punct	_	start_char=44|end_char=45
+2	...	...	PUNCT	,	_	5	punct	_	start_char=45|end_char=48
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=48|end_char=50
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=51|end_char=55
+5	conspired	conspire	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=56|end_char=65
+6	to	to	PART	TO	_	7	mark	_	start_char=66|end_char=68
+7	produce	produce	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=69|end_char=76
+8	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=77|end_char=79
+9	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=80|end_char=87
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=88|end_char=91
+11	compliant	compliant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=92|end_char=101
+12	citizenry	citizenry	NOUN	NN	Number=Sing	7	obj	_	start_char=102|end_char=111
+13	"	"	PUNCT	''	_	12	punct	_	start_char=111|end_char=112
+14	--	--	PUNCT	,	_	5	punct	_	start_char=112|end_char=114
+15	podesta	podesta	NOUN	NN	Number=Sing	16	compound	_	start_char=114|end_char=121
+16	emails	email	NOUN	NNS	Number=Plur	5	parataxis	_	start_char=122|end_char=128
+
+1	"	"	PUNCT	``	_	6	punct	_	start_char=130|end_char=131
+2	Fake	Fake	ADJ	JJ	Degree=Pos	3	amod	_	start_char=131|end_char=135
+3	news	news	NOUN	NN	Number=Sing	6	nsubj	_	start_char=136|end_char=140
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=141|end_char=143
+5	urgent	urgent	ADJ	JJ	Degree=Pos	6	amod	_	start_char=144|end_char=150
+6	threat	threat	NOUN	NN	Number=Sing	0	root	_	start_char=151|end_char=157
+7	to	to	ADP	IN	_	8	case	_	start_char=158|end_char=160
+8	democracy	democracy	NOUN	NN	Number=Sing	6	nmod	_	start_char=161|end_char=170
+9	"	"	PUNCT	''	_	6	punct	_	start_char=170|end_char=171
+10	--	--	PUNCT	,	_	6	punct	_	start_char=172|end_char=174
+11	HRC	HRC	PROPN	NNP	Number=Sing	6	vocative	_	start_char=174|end_char=177
+
+1	Hmmm	hmm	INTJ	UH	_	3	discourse	_	start_char=179|end_char=183
+2	,	,	PUNCT	,	_	3	punct	_	start_char=183|end_char=184
+3	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=185|end_char=190
+4	legit	legit	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=191|end_char=196
+5	to	to	ADP	IN	_	6	case	_	start_char=197|end_char=199
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=200|end_char=202
+7	.	.	PUNCT	.	_	3	punct	_	start_char=202|end_char=203
+

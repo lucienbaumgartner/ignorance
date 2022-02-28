@@ -1,0 +1,19 @@
+1	Lmao	lmao	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	op	op	PUNCT	,	_	4	punct	_	start_char=5|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=30
+7	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+8	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=34|end_char=41
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=42|end_char=44
+10	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	_	start_char=45|end_char=52
+11	u	u	PRON	PRP	_	16	mark	_	start_char=53|end_char=54
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	start_char=55|end_char=57
+13	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=57|end_char=60
+14	on	on	ADP	IN	_	16	case	_	start_char=61|end_char=63
+15	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=64|end_char=67
+16	side	side	NOUN	NN	Number=Sing	10	ccomp	_	start_char=68|end_char=72
+17	oh	oh	INTJ	UH	_	18	discourse	_	start_char=73|end_char=75
+18	lord	lord	NOUN	NN	Number=Sing	4	parataxis	_	start_char=76|end_char=80
+

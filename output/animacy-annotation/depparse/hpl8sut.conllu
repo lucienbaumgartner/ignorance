@@ -1,0 +1,30 @@
+1	When	when	SCONJ	WRB	PronType=Int	5	mark	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=5|end_char=8
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	start_char=9|end_char=13
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=14|end_char=15
+5	kid	kid	NOUN	NN	Number=Sing	8	advcl	_	start_char=16|end_char=19
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=20|end_char=23
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	start_char=24|end_char=28
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=37
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=38|end_char=41
+10	naive	naive	ADJ	JJ	Degree=Pos	8	conj	_	start_char=42|end_char=47
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=48|end_char=51
+12	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	start_char=52|end_char=55
+13	n't	not	PART	RB	_	14	advmod	_	start_char=55|end_char=58
+14	have	have	VERB	VB	VerbForm=Inf	8	conj	_	start_char=59|end_char=63
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=64|end_char=67
+16	awareness	awareness	NOUN	NN	Number=Sing	14	obj	_	start_char=68|end_char=77
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=78|end_char=81
+18	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=82|end_char=84
+19	now	now	ADV	RB	_	18	advmod	_	start_char=85|end_char=88
+20	.	.	PUNCT	.	_	8	punct	_	start_char=88|end_char=89
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=90|end_char=94
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=95|end_char=97
+3	not	not	PART	RB	_	7	advmod	_	start_char=98|end_char=101
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=102|end_char=103
+5	5	5	NUM	CD	NumType=Card	6	nummod	_	start_char=104|end_char=105
+6	year	year	NOUN	NN	Number=Sing	7	compound	_	start_char=106|end_char=110
+7	change	change	NOUN	NN	Number=Sing	0	root	_	start_char=111|end_char=117
+8	.	.	PUNCT	.	_	7	punct	_	start_char=117|end_char=118
+

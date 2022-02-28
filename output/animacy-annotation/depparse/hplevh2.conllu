@@ -1,0 +1,32 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	bruh	bruh	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=8
+3	.	.	PUNCT	.	_	2	punct	_	start_char=8|end_char=9
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=10|end_char=15
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=19
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=20|end_char=21
+4	lot	lot	NOUN	NN	Number=Sing	2	nsubj	_	start_char=22|end_char=25
+5	of	of	ADP	IN	_	6	case	_	start_char=26|end_char=28
+6	things	thing	NOUN	NNS	Number=Plur	4	nmod	_	start_char=29|end_char=35
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=36|end_char=37
+8	can	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=38|end_char=41
+9	handle	handle	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=42|end_char=48
+10	calmly	calmly	ADV	RB	_	9	advmod	_	start_char=49|end_char=55
+11	but	but	CCONJ	CC	_	24	cc	_	start_char=56|end_char=59
+12	someone	someone	PRON	NN	Number=Sing	24	nsubj	_	start_char=60|end_char=67
+13	who	who	PRON	WP	PronType=Rel	15	nsubj	_	start_char=68|end_char=71
+14	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=71|end_char=73
+15	resolute	resolute	ADJ	JJ	Degree=Pos	12	acl:relcl	_	start_char=74|end_char=82
+16	in	in	ADP	IN	_	21	case	_	start_char=83|end_char=85
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=86|end_char=91
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	amod	_	start_char=92|end_char=100
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=101|end_char=104
+20	harmful	harmful	ADJ	JJ	Degree=Pos	18	conj	_	start_char=105|end_char=112
+21	beliefs	belief	NOUN	NNS	Number=Plur	15	obl	_	start_char=113|end_char=120
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=121|end_char=123
+23	not	not	PART	RB	_	24	advmod	_	start_char=124|end_char=127
+24	one	one	NUM	CD	NumType=Card	2	conj	_	start_char=128|end_char=131
+25	of	of	ADP	IN	_	26	case	_	start_char=132|end_char=134
+26	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	24	nmod	_	start_char=135|end_char=139
+27	.	.	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+

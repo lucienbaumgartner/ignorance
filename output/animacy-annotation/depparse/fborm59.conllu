@@ -1,0 +1,34 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=0|end_char=3
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=3|end_char=5
+3	also	also	ADV	RB	_	6	advmod	_	start_char=6|end_char=10
+4	kind	kind	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=11|end_char=15
+5	of	of	ADP	IN	_	4	fixed	_	start_char=16|end_char=18
+6	condescending	condescending	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=32
+7	,	,	PUNCT	,	_	9	punct	_	start_char=32|end_char=33
+8	socially	socially	ADV	RB	_	9	advmod	_	start_char=34|end_char=42
+9	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=43|end_char=50
+10	,	,	PUNCT	,	_	12	punct	_	start_char=50|end_char=51
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=52|end_char=55
+12	bossy	bossy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=56|end_char=61
+13	maybe	maybe	ADV	RB	_	12	advmod	_	start_char=62|end_char=67
+14	?	?	PUNCT	.	_	6	punct	_	start_char=67|end_char=68
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=69|end_char=72
+2	whole	whole	ADJ	JJ	Degree=Pos	6	amod	_	start_char=73|end_char=78
+3	“	''	PUNCT	``	_	4	punct	_	start_char=79|end_char=80
+4	contentment	contentment	NOUN	NN	Number=Sing	6	compound	_	start_char=80|end_char=91
+5	”	''	PUNCT	''	_	4	punct	_	start_char=91|end_char=92
+6	conversation	conversation	NOUN	NN	Number=Sing	7	nsubj	_	start_char=93|end_char=105
+7	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=106|end_char=111
+8	to	to	ADP	IN	_	9	case	_	start_char=112|end_char=114
+9	mind	mind	NOUN	NN	Number=Sing	7	obl	_	start_char=115|end_char=119
+10	.	.	PUNCT	.	_	7	punct	_	start_char=119|end_char=120
+
+1	Plus	plus	CCONJ	CC	_	6	cc	_	start_char=121|end_char=125
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=126|end_char=129
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=130|end_char=133
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=134|end_char=137
+5	family	family	NOUN	NN	Number=Sing	6	compound	_	start_char=138|end_char=144
+6	tattletale	tattletale	NOUN	NN	Number=Sing	0	root	_	start_char=145|end_char=155
+7	.	.	PUNCT	.	_	6	punct	_	start_char=155|end_char=156
+

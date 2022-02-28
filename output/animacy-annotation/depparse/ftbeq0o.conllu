@@ -1,0 +1,50 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=4
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=5|end_char=9
+3	n't	not	PART	RB	_	6	advmod	_	start_char=9|end_char=12
+4	even	even	ADV	RB	_	6	advmod	_	start_char=13|end_char=17
+5	logically	logically	ADV	RB	_	6	advmod	_	start_char=18|end_char=27
+6	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=28|end_char=32
+7	sense	sense	NOUN	NN	Number=Sing	6	obj	_	start_char=33|end_char=38
+8	as	as	ADP	IN	_	10	case	_	start_char=39|end_char=41
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=42|end_char=43
+10	response	response	NOUN	NN	Number=Sing	6	obl	_	start_char=44|end_char=52
+11	to	to	ADP	IN	_	13	case	_	start_char=53|end_char=55
+12	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=56|end_char=58
+13	statement	statement	NOUN	NN	Number=Sing	10	nmod	_	start_char=59|end_char=68
+14	.	.	PUNCT	.	_	6	punct	_	start_char=68|end_char=69
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=70|end_char=77
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=78|end_char=83
+3	so	so	ADV	RB	_	4	advmod	_	start_char=84|end_char=86
+4	immature	immature	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=87|end_char=95
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=96|end_char=99
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=100|end_char=108
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=109|end_char=113
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=114|end_char=117
+9	spend	spend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=118|end_char=123
+10	time	time	NOUN	NN	Number=Sing	9	obj	_	start_char=124|end_char=128
+11	online	online	ADV	RB	_	9	advmod	_	start_char=129|end_char=135
+12	attempting	attempt	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=136|end_char=146
+13	to	to	PART	TO	_	14	mark	_	start_char=147|end_char=149
+14	gaslight	gasligh	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=150|end_char=158
+15	minorities	minority	NOUN	NNS	Number=Plur	14	obj	_	start_char=159|end_char=169
+16	into	into	SCONJ	IN	_	17	mark	_	start_char=170|end_char=174
+17	blaming	blame	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=175|end_char=182
+18	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	start_char=183|end_char=193
+19	for	for	ADP	IN	_	20	case	_	start_char=194|end_char=197
+20	racism	racism	NOUN	NN	Number=Sing	17	obl	_	start_char=198|end_char=204
+21	.	.	PUNCT	.	_	1	punct	_	start_char=204|end_char=205
+
+1	Almost	almost	ADV	RB	_	2	advmod	_	start_char=206|end_char=212
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=213|end_char=216
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=217|end_char=219
+4	lol	lol	INTJ	UH	_	2	discourse	_	start_char=220|end_char=223
+5	.	.	PUNCT	.	_	2	punct	_	start_char=223|end_char=224
+
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=225|end_char=230
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=231|end_char=235
+3	day	day	NOUN	NN	Number=Sing	1	obj	_	start_char=236|end_char=239
+4	,	,	PUNCT	,	_	1	punct	_	start_char=239|end_char=240
+5	troll	troll	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=241|end_char=246
+6	.	.	PUNCT	.	_	1	punct	_	start_char=246|end_char=247
+

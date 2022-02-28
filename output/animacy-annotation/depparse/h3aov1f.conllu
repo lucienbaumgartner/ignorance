@@ -1,0 +1,54 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	zebra	zebra	NOUN	NN	Number=Sing	0	root	_	start_char=2|end_char=7
+3	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=8|end_char=12
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=13|end_char=16
+5	too	too	ADV	RB	_	6	advmod	_	start_char=17|end_char=20
+6	oblivious	oblivious	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=21|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=42
+9	of	of	ADP	IN	_	12	case	_	start_char=43|end_char=45
+10	just	just	ADV	RB	_	12	advmod	_	start_char=46|end_char=50
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=51|end_char=54
+12	close	close	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=55|end_char=60
+13	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=61|end_char=63
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=64|end_char=67
+15	to	to	PART	TO	_	17	mark	_	start_char=68|end_char=70
+16	be	be	AUX	VB	VerbForm=Inf	17	aux:pass	_	start_char=71|end_char=73
+17	fucked	fuck	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	xcomp	_	start_char=74|end_char=80
+18	.	.	PUNCT	.	_	2	punct	_	start_char=80|end_char=81
+
+1	Still	still	ADV	RB	_	2	advmod	_	start_char=82|end_char=87
+2	outsmarts	outsmart	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=88|end_char=97
+3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=98|end_char=100
+4	active	active	ADJ	JJ	Degree=Pos	5	amod	_	start_char=101|end_char=107
+5	croc	croc	NOUN	NN	Number=Sing	2	obj	_	start_char=108|end_char=112
+6	.	.	PUNCT	.	_	2	punct	_	start_char=112|end_char=113
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=115|end_char=117
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=118|end_char=119
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=120|end_char=123
+4	croc	croc	NOUN	NN	Number=Sing	9	advcl	_	start_char=124|end_char=128
+5	,	,	PUNCT	,	_	9	punct	_	start_char=128|end_char=129
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj:pass	_	start_char=130|end_char=131
+7	'd	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=131|end_char=133
+8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	_	start_char=134|end_char=136
+9	pissed	piss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=137|end_char=143
+10	too	too	ADV	RB	_	9	advmod	_	start_char=144|end_char=147
+11	.	.	PUNCT	.	_	9	punct	_	start_char=147|end_char=148
+
+1	*	*	PUNCT	NFP	_	8	punct	_	start_char=149|end_char=150
+2	Like	like	INTJ	UH	_	8	discourse	_	start_char=150|end_char=154
+3	damn	damn	INTJ	UH	_	8	discourse	_	start_char=155|end_char=159
+4	,	,	PUNCT	,	_	8	punct	_	start_char=159|end_char=160
+5	how	how	ADV	WRB	PronType=Int	8	advmod	_	start_char=161|end_char=164
+6	did	do	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	8	aux	_	start_char=165|end_char=168
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=169|end_char=170
+8	mess	mess	VERB	VB	VerbForm=Inf	0	root	_	start_char=171|end_char=175
+9	THAT	that	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=176|end_char=180
+10	up	up	ADP	RP	_	8	compound:prt	_	start_char=181|end_char=183
+11	???	???	PUNCT	.	_	8	punct	_	start_char=183|end_char=186
+
+1	Shit	shit	NOUN	NN	Number=Sing	0	root	_	start_char=187|end_char=191
+2	.	.	PUNCT	.	_	1	punct	_	start_char=191|end_char=192
+3	*	*	PUNCT	NFP	_	1	punct	_	start_char=192|end_char=193
+

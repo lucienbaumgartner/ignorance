@@ -1,0 +1,54 @@
+1	Generalize	generalize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=10
+2	much	much	ADV	RB	_	1	obj	_	start_char=11|end_char=15
+3	?	?	PUNCT	.	_	1	punct	_	start_char=15|end_char=16
+
+1	Seriously	seriously	ADV	RB	_	4	advmod	_	start_char=18|end_char=27
+2	,	,	PUNCT	,	_	4	punct	_	start_char=27|end_char=28
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=29|end_char=30
+4	ride	ride	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=35
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=36|end_char=37
+6	Harley	Harley	PROPN	NNP	Number=Sing	4	obj	_	start_char=38|end_char=44
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=49|end_char=50
+9	too	too	ADV	RB	_	10	advmod	_	start_char=51|end_char=54
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=55|end_char=60
+11	that	that	SCONJ	IN	_	25	mark	_	start_char=61|end_char=65
+12	**	**	PUNCT	NFP	_	25	punct	_	start_char=66|end_char=68
+13	many	many	ADJ	JJ	Degree=Pos	15	amod	_	start_char=68|end_char=72
+14	**	**	PUNCT	NFP	_	15	punct	_	start_char=72|end_char=74
+15	riders	rider	NOUN	NNS	Number=Plur	25	nsubj	_	start_char=75|end_char=81
+16	,	,	PUNCT	,	_	15	punct	_	start_char=81|end_char=82
+17	of	of	ADP	IN	_	19	case	_	start_char=83|end_char=85
+18	all	all	DET	DT	_	19	det	_	start_char=86|end_char=89
+19	makes	make	NOUN	NNS	Number=Plur	15	nmod	_	start_char=90|end_char=95
+20	of	of	ADP	IN	_	21	case	_	start_char=96|end_char=98
+21	motorcycles	motorcycle	NOUN	NNS	Number=Plur	19	nmod	_	start_char=99|end_char=110
+22	,	,	PUNCT	,	_	25	punct	_	start_char=110|end_char=111
+23	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	cop	_	start_char=112|end_char=115
+24	generally	generally	ADV	RB	_	25	advmod	_	start_char=116|end_char=125
+25	stupid	stupid	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=126|end_char=132
+26	and	and	CCONJ	CC	_	27	cc	_	start_char=133|end_char=136
+27	ignorant	ignorant	ADJ	JJ	Degree=Pos	25	conj	_	start_char=137|end_char=145
+28	of	of	ADP	IN	_	30	case	_	start_char=146|end_char=148
+29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	_	start_char=149|end_char=152
+30	laws	law	NOUN	NNS	Number=Plur	27	obl	_	start_char=153|end_char=157
+31	.	.	PUNCT	.	_	4	punct	_	start_char=157|end_char=158
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=160|end_char=164
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=165|end_char=169
+3	n't	not	PART	RB	_	4	advmod	_	start_char=169|end_char=172
+4	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=173|end_char=177
+5	all	all	DET	DT	_	7	det	_	start_char=178|end_char=181
+6	harley	harley	NOUN	NN	Number=Sing	7	compound	_	start_char=182|end_char=188
+7	riders	rider	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=189|end_char=195
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=196|end_char=199
+9	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=200|end_char=206
+10	...	...	PUNCT	.	_	4	punct	_	start_char=206|end_char=209
+
+1	Take	take	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=209|end_char=213
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=214|end_char=216
+3	back	back	ADV	RB	_	1	advmod	_	start_char=217|end_char=221
+4	.	.	PUNCT	.	_	1	punct	_	start_char=221|end_char=222
+5	:	:	PUNCT	:	_	6	punct	_	start_char=224|end_char=225
+6	p	p	NOUN	NN	Number=Sing	1	parataxis	_	start_char=225|end_char=226
+

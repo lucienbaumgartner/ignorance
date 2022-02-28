@@ -1,0 +1,53 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=15
+5	in	in	ADP	IN	_	6	case	_	start_char=16|end_char=18
+6	luck	luck	NOUN	NN	Number=Sing	4	obl	_	start_char=19|end_char=23
+7	.	.	PUNCT	.	_	4	punct	_	start_char=23|end_char=24
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=25|end_char=27
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=28|end_char=29
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	_	start_char=30|end_char=33
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=34|end_char=35
+5	might	might	AUX	MD	VerbForm=Fin	8	aux	_	start_char=36|end_char=41
+6	as	as	ADV	RB	_	8	advmod	_	start_char=42|end_char=44
+7	well	well	ADV	RB	Degree=Pos	8	advmod	_	start_char=45|end_char=49
+8	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=50|end_char=57
+9	in	in	ADP	IN	_	10	case	_	start_char=58|end_char=60
+10	fate	fate	NOUN	NN	Number=Sing	8	obl	_	start_char=61|end_char=65
+11	.	.	PUNCT	.	_	8	punct	_	start_char=65|end_char=66
+
+1	Although	although	SCONJ	IN	_	3	mark	_	start_char=68|end_char=76
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=77|end_char=78
+3	dig	dig	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=79|end_char=82
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=83|end_char=86
+5	statement	statement	NOUN	NN	Number=Sing	3	obj	_	start_char=87|end_char=96
+6	.	.	PUNCT	.	_	3	punct	_	start_char=96|end_char=97
+
+1	*	*	PUNCT	NFP	_	3	punct	_	start_char=99|end_char=100
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=100|end_char=105
+3	naive	naive	ADJ	JJ	Degree=Pos	11	csubj	_	start_char=106|end_char=111
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=112|end_char=115
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=116|end_char=121
+6	totally	totally	ADV	RB	_	7	advmod	_	start_char=122|end_char=129
+7	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=130|end_char=137
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=138|end_char=141
+9	unprepared	unprepared	ADJ	JJ	Degree=Pos	7	conj	_	start_char=142|end_char=152
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=153|end_char=156
+11	different	different	ADJ	JJ	Degree=Pos	0	root	_	start_char=157|end_char=166
+12	!	!	PUNCT	.	_	11	punct	_	start_char=166|end_char=167
+
+1	*	*	PUNCT	NFP	_	0	root	_	start_char=167|end_char=168
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=170|end_char=172
+2	cynicism	cynicism	NOUN	NN	Number=Sing	5	nsubj	_	start_char=173|end_char=181
+3	could	could	AUX	MD	VerbForm=Fin	5	aux	_	start_char=182|end_char=187
+4	ifact	ifact	ADV	RB	_	5	advmod	_	start_char=188|end_char=193
+5	save	save	VERB	VB	VerbForm=Inf	0	root	_	start_char=194|end_char=198
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=199|end_char=200
+7	life	life	NOUN	NN	Number=Sing	5	obj	_	start_char=201|end_char=205
+8	.	.	PUNCT	.	_	5	punct	_	start_char=205|end_char=206
+
+1	Cool	cool	ADJ	JJ	Degree=Pos	0	root	_	start_char=208|end_char=212
+

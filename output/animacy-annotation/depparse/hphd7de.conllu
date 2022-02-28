@@ -1,0 +1,114 @@
+1	Yara	Yara	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=4
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=8
+3	such	such	DET	PDT	_	6	det:predet	_	start_char=9|end_char=13
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=14|end_char=16
+5	ugly	ugly	ADJ	JJ	Degree=Pos	6	amod	_	start_char=17|end_char=21
+6	ego	ego	NOUN	NN	Number=Sing	2	obj	_	start_char=22|end_char=25
+7	.	.	PUNCT	.	_	2	punct	_	start_char=25|end_char=26
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=27|end_char=28
+2	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=29|end_char=33
+3	,	,	PUNCT	,	_	5	punct	_	start_char=33|end_char=34
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=35|end_char=36
+5	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=37|end_char=41
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=42|end_char=43
+7	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=44|end_char=49
+8	applaud	applaud	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=50|end_char=57
+9	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=58|end_char=61
+10	confidence	confidence	NOUN	NN	Number=Sing	8	obj	_	start_char=62|end_char=72
+11	but	but	CCONJ	CC	_	14	cc	_	start_char=73|end_char=76
+12	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=77|end_char=80
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=80|end_char=82
+14	nothing	nothing	PRON	NN	Number=Sing	5	conj	_	start_char=83|end_char=90
+15	but	but	CCONJ	CC	_	17	cc	_	start_char=91|end_char=94
+16	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=95|end_char=97
+17	attention	attention	NOUN	NN	Number=Sing	14	conj	_	start_char=98|end_char=107
+18	seeking	seek	VERB	VBG	VerbForm=Ger	17	acl	_	start_char=108|end_char=115
+19	idiot	idiot	NOUN	NN	Number=Sing	18	obj	_	start_char=116|end_char=121
+20	.	.	PUNCT	.	_	5	punct	_	start_char=121|end_char=122
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=123|end_char=126
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=126|end_char=128
+3	not	not	PART	RB	_	4	advmod	_	start_char=129|end_char=132
+4	smart	smart	ADJ	JJ	Degree=Pos	0	root	_	start_char=133|end_char=138
+5	.	.	PUNCT	.	_	4	punct	_	start_char=138|end_char=139
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=140|end_char=143
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=143|end_char=145
+3	not	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=146|end_char=149
+4	witty	witty	ADJ	JJ	Degree=Pos	0	root	_	start_char=150|end_char=155
+5	.	.	PUNCT	.	_	4	punct	_	start_char=155|end_char=156
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=157|end_char=160
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=160|end_char=162
+3	not	not	PART	RB	_	4	advmod	_	start_char=163|end_char=166
+4	original	original	ADJ	JJ	Degree=Pos	0	root	_	start_char=167|end_char=175
+5	.	.	PUNCT	.	_	4	punct	_	start_char=175|end_char=176
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=179|end_char=180
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=181|end_char=184
+3	enjoy	enjoy	VERB	VB	VerbForm=Inf	0	root	_	start_char=185|end_char=190
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=191|end_char=194
+5	during	during	ADP	IN	_	8	case	_	start_char=195|end_char=201
+6	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=202|end_char=205
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	start_char=206|end_char=211
+8	season	season	NOUN	NN	Number=Sing	3	obl	_	start_char=212|end_char=218
+9	but	but	CCONJ	CC	_	22	cc	_	start_char=219|end_char=222
+10	after	after	ADP	IN	_	12	case	_	start_char=223|end_char=228
+11	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=229|end_char=232
+12	trip	trip	NOUN	NN	Number=Sing	22	obl	_	start_char=233|end_char=237
+13	to	to	ADP	IN	_	14	case	_	start_char=238|end_char=240
+14	Miami	Miami	PROPN	NNP	Number=Sing	12	nmod	_	start_char=241|end_char=246
+15	with	with	ADP	IN	_	19	case	_	start_char=247|end_char=251
+16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=252|end_char=255
+17	poor	poor	ADJ	JJ	Degree=Pos	19	amod	_	start_char=256|end_char=260
+18	people	people	NOUN	NNS	Number=Plur	19	compound	_	start_char=261|end_char=267
+19	comments	comment	NOUN	NNS	Number=Plur	12	nmod	_	start_char=268|end_char=276
+20	,	,	PUNCT	,	_	22	punct	_	start_char=276|end_char=277
+21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	start_char=278|end_char=281
+22	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=282|end_char=288
+23	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	obj	_	start_char=289|end_char=291
+24	off	off	ADP	RP	_	22	compound:prt	_	start_char=292|end_char=295
+25	.	.	PUNCT	.	_	3	punct	_	start_char=295|end_char=296
+
+1	Fucking	fucking	ADV	RB	_	2	advmod	_	start_char=297|end_char=304
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=305|end_char=313
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=314|end_char=317
+4	stupid	stupid	ADJ	JJ	Degree=Pos	2	conj	_	start_char=318|end_char=324
+5	.	.	PUNCT	.	_	2	punct	_	start_char=324|end_char=325
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=327|end_char=330
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=331|end_char=332
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=333|end_char=338
+4	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=339|end_char=342
+5	Pole	Pole	PROPN	NNP	Number=Sing	8	compound	_	start_char=343|end_char=347
+6	/	/	SYM	,	_	7	cc	_	start_char=347|end_char=348
+7	Karine	Karine	PROPN	NNP	Number=Sing	5	conj	_	start_char=348|end_char=354
+8	issue	issue	NOUN	NN	Number=Sing	10	nsubj	_	start_char=355|end_char=360
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=361|end_char=363
+10	serious	serious	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=364|end_char=371
+11	.	.	PUNCT	.	_	3	punct	_	start_char=371|end_char=372
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=373|end_char=374
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=375|end_char=377
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=377|end_char=380
+4	bring	bring	VERB	VB	VerbForm=Inf	0	root	_	start_char=381|end_char=386
+5	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	obj	_	start_char=387|end_char=393
+6	to	to	PART	TO	_	8	mark	_	start_char=394|end_char=396
+7	really	really	ADV	RB	Degree=Pos	8	advmod	_	start_char=397|end_char=403
+8	comment	comment	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=404|end_char=411
+9	on	on	ADP	IN	_	10	case	_	start_char=412|end_char=414
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=415|end_char=417
+11	because	because	SCONJ	IN	_	14	mark	_	start_char=418|end_char=425
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=426|end_char=428
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=428|end_char=430
+14	scary	scary	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=431|end_char=436
+15	.	.	PUNCT	.	_	4	punct	_	start_char=436|end_char=437
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=438|end_char=439
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=440|end_char=444
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=445|end_char=449
+4	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=450|end_char=453
+5	help	help	NOUN	NN	Number=Sing	4	obj	_	start_char=454|end_char=458
+6	.	.	PUNCT	.	_	2	punct	_	start_char=458|end_char=459
+

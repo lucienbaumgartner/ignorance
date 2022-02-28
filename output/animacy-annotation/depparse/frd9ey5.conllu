@@ -1,0 +1,22 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=9|end_char=12
+4	right	right	ADJ	JJ	Degree=Pos	5	amod	_	start_char=13|end_char=18
+5	combination	combination	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=30
+6	of	of	ADP	IN	_	7	case	_	start_char=31|end_char=33
+7	paranoid	paranoid	ADJ	JJ	Degree=Pos	5	nmod	_	start_char=34|end_char=42
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=43|end_char=46
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=47|end_char=55
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=56|end_char=60
+11	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=61|end_char=67
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=68|end_char=72
+13	,	,	PUNCT	,	_	15	punct	_	start_char=72|end_char=73
+14	but	but	CCONJ	CC	_	15	cc	_	start_char=74|end_char=77
+15	yes	yes	INTJ	UH	_	11	conj	_	start_char=78|end_char=81
+16	.	.	PUNCT	.	_	5	punct	_	start_char=81|end_char=82
+
+1	Big	big	ADJ	JJ	Degree=Pos	2	amod	_	start_char=83|end_char=86
+2	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=87|end_char=91
+3	indeed	indeed	ADV	RB	_	2	advmod	_	start_char=92|end_char=98
+4	.	.	PUNCT	.	_	2	punct	_	start_char=98|end_char=99
+

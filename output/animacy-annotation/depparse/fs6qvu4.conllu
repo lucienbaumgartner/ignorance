@@ -1,0 +1,37 @@
+1	Still	still	ADV	RB	_	2	advmod	_	start_char=0|end_char=5
+2	waiting	wait	VERB	VBG	VerbForm=Ger	0	root	_	start_char=6|end_char=13
+3	.	.	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=15|end_char=17
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=17|end_char=19
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=23
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=24|end_char=27
+5	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=27|end_char=30
+6	so	so	ADV	RB	_	7	advmod	_	start_char=31|end_char=33
+7	uniformed	uniformed	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=34|end_char=43
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=44|end_char=47
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=48|end_char=56
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=57|end_char=61
+11	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=62|end_char=65
+12	just	just	ADV	RB	_	13	advmod	_	start_char=66|end_char=70
+13	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=71|end_char=74
+14	on	on	ADP	IN	_	15	case	_	start_char=75|end_char=77
+15	here	here	ADV	RB	PronType=Dem	13	obl	_	start_char=78|end_char=82
+16	to	to	PART	TO	_	17	mark	_	start_char=83|end_char=85
+17	yell	yell	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=86|end_char=90
+18	blind	blind	ADJ	JJ	Degree=Pos	17	obj	_	start_char=91|end_char=96
+19	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=97|end_char=101
+20	because	because	SCONJ	IN	_	24	mark	_	start_char=102|end_char=109
+21	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	start_char=110|end_char=113
+22	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24	aux	_	start_char=114|end_char=116
+23	n’t	not	PART	RB	Polarity=Neg	24	advmod	_	start_char=116|end_char=119
+24	like	like	VERB	VB	VerbForm=Inf	19	advcl	_	start_char=120|end_char=124
+25	some	some	DET	DT	_	26	det	_	start_char=125|end_char=129
+26	one	one	NUM	CD	NumForm=Word|NumType=Card	24	obj	_	start_char=130|end_char=133
+27	with	with	ADP	IN	_	29	case	_	start_char=134|end_char=138
+28	no	no	DET	DT	Polarity=Neg	29	det	_	start_char=139|end_char=141
+29	fact	fact	NOUN	NN	Number=Sing	24	obl	_	start_char=142|end_char=146
+30	behind	behind	ADP	IN	_	31	case	_	start_char=147|end_char=153
+31	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	nmod	_	start_char=154|end_char=156
+32	.	.	PUNCT	.	_	3	punct	_	start_char=156|end_char=157
+

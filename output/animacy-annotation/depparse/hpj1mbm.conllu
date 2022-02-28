@@ -1,0 +1,12 @@
+1	Ruin	ruin	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	far	far	ADV	RB	Degree=Pos	3	advmod	_	start_char=5|end_char=8
+3	far	far	ADV	RB	Degree=Pos	1	advmod	_	start_char=9|end_char=12
+4	away	away	ADV	RB	Degree=Pos	1	advmod	_	start_char=13|end_char=17
+5	from	from	ADP	IN	_	10	case	_	start_char=18|end_char=22
+6	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=23|end_char=27
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=28|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	dangerous	dangerous	ADJ	JJ	Degree=Pos	7	conj	_	start_char=41|end_char=50
+10	individual	individual	NOUN	NN	Number=Sing	4	obl	_	start_char=51|end_char=61
+11	.	.	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+

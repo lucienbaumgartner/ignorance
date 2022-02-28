@@ -1,0 +1,10 @@
+1	Nah	nah	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=4|end_char=5
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=7
+4	just	just	ADV	RB	_	6	advmod	_	start_char=8|end_char=12
+5	extremely	extremely	ADV	RB	_	6	advmod	_	start_char=13|end_char=22
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	unlucky	unlucky	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=42
+9	lol	lol	INTJ	UH	_	6	discourse	_	start_char=43|end_char=46
+

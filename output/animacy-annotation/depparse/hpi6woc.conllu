@@ -1,0 +1,33 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=2|end_char=8
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=9|end_char=12
+4	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=13|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+6	need	need	NOUN	NN	Number=Sing	4	obj	_	start_char=23|end_char=27
+7	to	to	PART	TO	_	9	mark	_	start_char=28|end_char=30
+8	“	''	PUNCT	``	_	9	punct	_	start_char=31|end_char=32
+9	win	win	VERB	VB	VerbForm=Inf	6	acl	_	start_char=32|end_char=35
+10	”	''	PUNCT	''	_	9	punct	_	start_char=35|end_char=36
+11	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=37|end_char=39
+12	argument	argument	NOUN	NN	Number=Sing	9	obj	_	start_char=40|end_char=48
+13	by	by	SCONJ	IN	_	14	mark	_	start_char=49|end_char=51
+14	doing	do	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=52|end_char=57
+15	fuck	fuck	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=58|end_char=62
+16	all	all	DET	PDT	_	19	det:predet	_	start_char=63|end_char=66
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=67|end_char=70
+18	other	other	ADJ	JJ	Degree=Pos	19	amod	_	start_char=71|end_char=76
+19	logic	logic	NOUN	NN	Number=Sing	15	obj	_	start_char=77|end_char=82
+20	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=84|end_char=86
+2	both	both	CCONJ	CC	_	3	cc:preconj	_	start_char=87|end_char=91
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=92|end_char=100
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=101|end_char=104
+5	lazy	lazy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=105|end_char=109
+6	.	.	PUNCT	.	_	3	punct	_	start_char=109|end_char=110
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=112|end_char=116
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=117|end_char=119
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	0	root	_	start_char=120|end_char=123
+4	.	.	PUNCT	.	_	3	punct	_	start_char=123|end_char=124
+

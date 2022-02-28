@@ -1,0 +1,20 @@
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=8|end_char=11
+4	thinking	think	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=12|end_char=20
+5	with	with	ADP	IN	_	7	case	_	start_char=21|end_char=25
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=26|end_char=30
+7	brain	brain	NOUN	NN	Number=Sing	4	obl	_	start_char=31|end_char=36
+8	?	?	PUNCT	.	_	4	punct	_	start_char=36|end_char=37
+
+1	According	accord	VERB	VBG	VerbForm=Ger	3	case	_	start_char=38|end_char=47
+2	to	to	ADP	IN	_	1	fixed	_	start_char=48|end_char=50
+3	Podesta	Podesta	PROPN	NNP	Number=Sing	7	obl	_	start_char=51|end_char=58
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=59|end_char=62
+5	should	should	AUX	MD	VerbForm=Fin	7	aux	_	start_char=63|end_char=69
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=70|end_char=72
+7	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=73|end_char=80
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=81|end_char=84
+9	compliant	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=85|end_char=94
+10	.	.	PUNCT	.	_	7	punct	_	start_char=94|end_char=95
+

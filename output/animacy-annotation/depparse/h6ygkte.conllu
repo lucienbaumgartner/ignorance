@@ -1,0 +1,13 @@
+1	Wow	wow	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=4|end_char=7
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=8|end_char=17
+4	cold	cold	ADJ	JJ	Degree=Pos	5	advmod	_	start_char=18|end_char=22
+5	hearted	hearted	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=30
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=31|end_char=34
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=35|end_char=43
+8	of	of	ADP	IN	_	11	case	_	start_char=44|end_char=46
+9	mental	mental	ADJ	JJ	Degree=Pos	10	amod	_	start_char=47|end_char=53
+10	health	health	NOUN	NN	Number=Sing	11	compound	_	start_char=54|end_char=60
+11	issues	issue	NOUN	NNS	Number=Plur	5	obl	_	start_char=61|end_char=67
+12	.	.	PUNCT	.	_	5	punct	_	start_char=67|end_char=68
+

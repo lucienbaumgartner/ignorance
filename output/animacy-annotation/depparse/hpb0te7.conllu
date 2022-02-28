@@ -1,0 +1,22 @@
+1	Questioning	question	VERB	VBG	VerbForm=Ger	0	root	_	start_char=0|end_char=11
+2	things	thing	NOUN	NNS	Number=Plur	1	obj	_	start_char=12|end_char=18
+3	like	like	ADP	IN	_	7	case	_	start_char=19|end_char=23
+4	"	"	PUNCT	``	_	7	punct	_	start_char=24|end_char=25
+5	exactly	exactly	ADV	RB	_	7	advmod	_	start_char=25|end_char=32
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=33|end_char=36
+7	stupid	stupid	ADJ	JJ	Degree=Pos	2	nmod	_	start_char=37|end_char=43
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=44|end_char=47
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=48|end_char=56
+10	of	of	ADP	IN	_	11	case	_	start_char=57|end_char=59
+11	history	history	NOUN	NN	Number=Sing	7	obl	_	start_char=60|end_char=67
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=68|end_char=71
+13	these	this	DET	DT	Number=Plur|PronType=Dem	14	det	_	start_char=72|end_char=77
+14	morons	moron	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=78|end_char=84
+15	with	with	ADP	IN	_	19	case	_	start_char=85|end_char=89
+16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=90|end_char=93
+17	White	White	ADJ	NNP	Degree=Pos	18	amod	_	start_char=94|end_char=99
+18	Rose	Rose	PROPN	NNP	Number=Sing	19	compound	_	start_char=100|end_char=104
+19	stickers	sticker	NOUN	NNS	Number=Plur	14	nmod	_	start_char=105|end_char=113
+20	?	?	PUNCT	.	_	1	punct	_	start_char=113|end_char=114
+21	"	"	PUNCT	''	_	1	punct	_	start_char=114|end_char=115
+

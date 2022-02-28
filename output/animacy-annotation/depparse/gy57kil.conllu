@@ -1,0 +1,36 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=2|end_char=4
+3	insulting	insult	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=5|end_char=14
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=15|end_char=18
+5	because	because	SCONJ	IN	_	10	mark	_	start_char=19|end_char=26
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=27|end_char=30
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=31|end_char=34
+8	clearly	clearly	ADV	RB	_	10	advmod	_	start_char=35|end_char=42
+9	pretty	pretty	ADV	RB	_	10	advmod	_	start_char=43|end_char=49
+10	young	young	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=50|end_char=55
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=60|end_char=68
+13	.	.	PUNCT	.	_	3	punct	_	start_char=68|end_char=69
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=70|end_char=74
+2	sub	sub	NOUN	NN	Number=Sing	5	nsubj	_	start_char=75|end_char=78
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=79|end_char=81
+4	for	for	ADP	IN	_	5	case	_	start_char=82|end_char=85
+5	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=86|end_char=92
+6	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=93|end_char=96
+7	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=97|end_char=102
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=103|end_char=107
+9	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=107|end_char=110
+10	better	good	ADJ	JJR	Degree=Cmp	7	ccomp	_	start_char=111|end_char=117
+11	than	than	ADP	IN	_	12	case	_	start_char=118|end_char=122
+12	others	other	NOUN	NNS	Number=Plur	10	obl	_	start_char=123|end_char=129
+13	when	when	SCONJ	WRB	PronType=Int	20	mark	_	start_char=130|end_char=134
+14	in	in	ADP	IN	_	15	case	_	start_char=135|end_char=137
+15	reality	reality	NOUN	NN	Number=Sing	20	obl	_	start_char=138|end_char=145
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=146|end_char=151
+17	intelligence	intelligence	NOUN	NN	Number=Sing	20	nsubj	_	start_char=152|end_char=164
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=165|end_char=167
+19	pretty	pretty	ADV	RB	_	20	advmod	_	start_char=168|end_char=174
+20	shallow	shallow	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=175|end_char=182
+21	.	.	PUNCT	.	_	5	punct	_	start_char=182|end_char=183
+

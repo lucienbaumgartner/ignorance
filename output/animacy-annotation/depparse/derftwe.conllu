@@ -1,0 +1,12 @@
+1	Trump	Trump	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=5
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=6|end_char=10
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=11|end_char=13
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=21
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=22|end_char=25
+6	very	very	ADV	RB	_	7	advmod	_	start_char=26|end_char=30
+7	forgetful	forgetful	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=40
+8	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=41|end_char=44
+9	entire	entire	ADJ	JJ	Degree=Pos	10	amod	_	start_char=45|end_char=51
+10	term	term	NOUN	NN	Number=Sing	7	obj	_	start_char=52|end_char=56
+11	.	.	PUNCT	.	_	4	punct	_	start_char=56|end_char=57
+

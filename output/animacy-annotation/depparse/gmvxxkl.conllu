@@ -1,0 +1,44 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=4|end_char=8
+2	might	might	AUX	MD	VerbForm=Fin	3	aux	_	start_char=9|end_char=14
+3	sound	sound	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=20
+4	dumb	dumb	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=21|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	of	of	ADP	IN	_	9	case	_	start_char=39|end_char=41
+8	world	world	NOUN	NN	Number=Sing	9	compound	_	start_char=42|end_char=47
+9	politics	politics	NOUN	NNS	Number=Plur	6	obl	_	start_char=48|end_char=56
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=57|end_char=60
+11	laws	law	NOUN	NNS	Number=Plur	9	conj	_	start_char=61|end_char=65
+12	,	,	PUNCT	,	_	19	punct	_	start_char=65|end_char=66
+13	but	but	CCONJ	CC	_	19	cc	_	start_char=67|end_char=70
+14	why	why	ADV	WRB	PronType=Int	19	advmod	_	start_char=71|end_char=74
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=76|end_char=79
+16	n't	not	PART	RB	_	19	advmod	_	start_char=79|end_char=82
+17	anything	anything	PRON	NN	Number=Sing	19	nsubj:pass	_	start_char=83|end_char=91
+18	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	aux:pass	_	start_char=92|end_char=96
+19	done	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	start_char=97|end_char=101
+20	about	about	ADP	IN	_	21	case	_	start_char=102|end_char=107
+21	this	this	PRON	DT	Number=Sing|PronType=Dem	19	obl	_	start_char=108|end_char=112
+22	?	?	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+
+1	Like	like	INTJ	UH	_	7	discourse	_	start_char=114|end_char=118
+2	why	why	ADV	WRB	PronType=Int	7	advmod	_	start_char=119|end_char=122
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=123|end_char=126
+4	n't	not	PART	RB	_	7	advmod	_	start_char=126|end_char=129
+5	any	any	DET	DT	_	6	det	_	start_char=130|end_char=133
+6	country	country	NOUN	NN	Number=Sing	7	nsubj	_	start_char=134|end_char=141
+7	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=142|end_char=146
+8	anything	anything	PRON	NN	Number=Sing	7	obj	_	start_char=148|end_char=156
+9	?	?	PUNCT	.	_	7	punct	_	start_char=156|end_char=157
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=160|end_char=164
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=165|end_char=168
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=169|end_char=171
+4	whatever	whatever	PRON	WP	PronType=Int	3	obj	_	start_char=172|end_char=180
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=181|end_char=185
+6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=186|end_char=190
+7	.	.	PUNCT	.	_	3	punct	_	start_char=190|end_char=191
+

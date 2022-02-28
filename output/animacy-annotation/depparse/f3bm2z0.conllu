@@ -1,0 +1,87 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	vast	vast	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=8
+3	majority	majority	NOUN	NN	Number=Sing	11	nsubj	_	start_char=9|end_char=17
+4	of	of	ADP	IN	_	8	case	_	start_char=18|end_char=20
+5	blizzard	blizzard	NOUN	NN	Number=Sing	8	nmod:poss	_	start_char=21|end_char=29
+6	's	's	PART	POS	_	5	case	_	start_char=29|end_char=31
+7	market	market	NOUN	NN	Number=Sing	8	compound	_	start_char=32|end_char=38
+8	share	share	NOUN	NN	Number=Sing	3	nmod	_	start_char=39|end_char=44
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=45|end_char=47
+10	not	not	PART	RB	_	11	advmod	_	start_char=48|end_char=51
+11	Chinese	Chinese	ADJ	JJ	Degree=Pos	0	root	_	start_char=52|end_char=59
+12	.	.	PUNCT	.	_	11	punct	_	start_char=59|end_char=60
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=61|end_char=62
+2	huge	huge	ADJ	JJ	Degree=Pos	3	amod	_	start_char=63|end_char=67
+3	chunk	chunk	NOUN	NN	Number=Sing	8	nsubj	_	start_char=68|end_char=73
+4	of	of	ADP	IN	_	6	case	_	start_char=74|end_char=76
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=77|end_char=81
+6	market	market	NOUN	NN	Number=Sing	3	nmod	_	start_char=82|end_char=88
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=89|end_char=91
+8	boycotting	boycot	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=92|end_char=102
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=103|end_char=107
+10	now	now	ADV	RB	_	8	advmod	_	start_char=108|end_char=111
+11	.	.	PUNCT	.	_	8	punct	_	start_char=111|end_char=112
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=113|end_char=117
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=118|end_char=121
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=122|end_char=123
+4	bad	bad	ADJ	JJ	Degree=Pos	5	amod	_	start_char=124|end_char=127
+5	decision	decision	NOUN	NN	Number=Sing	0	root	_	start_char=128|end_char=136
+6	.	.	PUNCT	.	_	5	punct	_	start_char=136|end_char=137
+
+1	Idk	idk	INTJ	UH	_	8	discourse	_	start_char=138|end_char=141
+2	why	why	SCONJ	WRB	PronType=Int	4	mark	_	start_char=142|end_char=145
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=146|end_char=149
+4	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=150|end_char=154
+5	to	to	PART	TO	_	6	mark	_	start_char=155|end_char=157
+6	pretend	pretend	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=158|end_char=165
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=166|end_char=168
+8	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=169|end_char=174
+9	sense	sense	NOUN	NN	Number=Sing	8	obj	_	start_char=175|end_char=180
+10	.	.	PUNCT	.	_	8	punct	_	start_char=180|end_char=181
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=182|end_char=185
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=186|end_char=191
+3	cynical	cynical	ADJ	JJ	Degree=Pos	0	root	_	start_char=192|end_char=199
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=200|end_char=203
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=204|end_char=211
+6	that	that	SCONJ	IN	_	12	mark	_	start_char=212|end_char=216
+7	boycotting	boycot	VERB	VBG	VerbForm=Ger	8	amod	_	start_char=217|end_char=227
+8	works	work	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=228|end_char=233
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=234|end_char=236
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=237|end_char=241
+11	only	only	ADJ	JJ	Degree=Pos	12	amod	_	start_char=242|end_char=246
+12	justification	justification	NOUN	NN	Number=Sing	3	conj	_	start_char=247|end_char=260
+13	for	for	SCONJ	IN	_	14	case	_	start_char=261|end_char=264
+14	why	why	SCONJ	WRB	PronType=Int	12	nmod	_	start_char=265|end_char=268
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	18	nsubj	_	start_char=269|end_char=273
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=274|end_char=276
+17	actually	actually	ADV	RB	_	18	advmod	_	start_char=277|end_char=285
+18	smart	smart	ADJ	JJ	Degree=Pos	14	acl:relcl	_	start_char=286|end_char=291
+19	for	for	ADP	IN	_	20	case	_	start_char=292|end_char=295
+20	blizzard	blizzard	NOUN	NN	Number=Sing	18	obl	_	start_char=296|end_char=304
+21	.	.	PUNCT	.	_	3	punct	_	start_char=304|end_char=305
+
+1	Most	most	ADJ	JJS	Degree=Sup	9	nsubj	_	start_char=306|end_char=310
+2	of	of	ADP	IN	_	4	case	_	start_char=311|end_char=313
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=314|end_char=317
+4	world	world	NOUN	NN	Number=Sing	1	nmod	_	start_char=318|end_char=323
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=324|end_char=326
+6	n't	not	PART	RB	_	9	advmod	_	start_char=326|end_char=329
+7	in	in	ADP	IN	_	9	case	_	start_char=330|end_char=332
+8	China	China	PROPN	NNP	Number=Sing	9	compound	_	start_char=333|end_char=338
+9	dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=339|end_char=343
+10	.	.	PUNCT	.	_	9	punct	_	start_char=343|end_char=344
+
+1	Pissing	piss	VERB	VBG	VerbForm=Ger	9	csubj	_	start_char=345|end_char=352
+2	off	off	ADP	RP	_	1	compound:prt	_	start_char=353|end_char=356
+3	everyone	everyone	PRON	NN	Number=Sing	1	obj	_	start_char=357|end_char=365
+4	else	else	ADJ	JJ	Degree=Pos	3	amod	_	start_char=366|end_char=370
+5	for	for	ADP	IN	_	7	case	_	start_char=371|end_char=374
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=375|end_char=379
+7	market	market	NOUN	NN	Number=Sing	3	nmod	_	start_char=380|end_char=386
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=387|end_char=389
+9	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=390|end_char=394
+10	.	.	PUNCT	.	_	9	punct	_	start_char=394|end_char=395
+

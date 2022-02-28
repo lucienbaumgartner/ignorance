@@ -1,0 +1,16 @@
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=5|end_char=9
+2	drop	drop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=15|end_char=17
+4	dude	dude	NOUN	NN	Number=Sing	2	xcomp	_	start_char=18|end_char=22
+5	,	,	PUNCT	,	_	2	punct	_	start_char=22|end_char=23
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=24|end_char=27
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=27|end_char=30
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=31|end_char=39
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+10	brainwashed	brainwash	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	_	start_char=44|end_char=55
+11	as	as	ADP	IN	_	12	case	_	start_char=56|end_char=58
+12	fuck	fuck	ADJ	JJ	Degree=Pos	10	obl	_	start_char=59|end_char=63
+

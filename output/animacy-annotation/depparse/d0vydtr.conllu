@@ -1,0 +1,45 @@
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	DARE	dare	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	TO	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	SPEAK	speak	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=17
+5	ILL	ill	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=18|end_char=21
+6	OF	of	ADP	IN	_	10	case	_	start_char=22|end_char=24
+7	THE	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=25|end_char=28
+8	SWEDISH	swedish	ADJ	JJ	Degree=Pos	10	amod	_	start_char=29|end_char=36
+9	HOCKEY	HOCKEY	PROPN	NNP	Number=Sing	10	compound	_	start_char=37|end_char=43
+10	GOD	GOD	PROPN	NNP	Number=Sing	5	obl	_	start_char=44|end_char=47
+11	??	??	PUNCT	.	_	2	punct	_	start_char=47|end_char=49
+
+1	Okay	okay	INTJ	UH	_	11	discourse	_	start_char=52|end_char=56
+2	,	,	PUNCT	,	_	11	punct	_	start_char=56|end_char=57
+3	maybe	maybe	ADV	RB	_	11	advmod	_	start_char=58|end_char=63
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=64|end_char=65
+5	might	might	AUX	MD	VerbForm=Fin	11	aux	_	start_char=66|end_char=71
+6	perhaps	perhaps	ADV	RB	_	11	advmod	_	start_char=72|end_char=79
+7	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=80|end_char=82
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=83|end_char=84
+9	little	little	ADJ	JJ	Degree=Pos	10	amod	_	start_char=85|end_char=91
+10	bit	bit	NOUN	NN	Number=Sing	11	obl:npmod	_	start_char=92|end_char=95
+11	biased	biased	ADJ	JJ	Degree=Pos	0	root	_	start_char=96|end_char=102
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=103|end_char=106
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=107|end_char=114
+14	that	that	SCONJ	IN	_	17	mark	_	start_char=115|end_char=119
+15	Hedman	Hedman	PROPN	NNP	Number=Sing	17	nsubj	_	start_char=120|end_char=126
+16	ever	ever	ADV	RB	_	17	advmod	_	start_char=127|end_char=131
+17	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=132|end_char=137
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=138|end_char=139
+19	mistake	mistake	NOUN	NN	Number=Sing	17	obj	_	start_char=140|end_char=147
+20	.	.	PUNCT	.	_	11	punct	_	start_char=147|end_char=148
+
+1	Because	because	SCONJ	IN	_	3	mark	_	start_char=149|end_char=156
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=157|end_char=159
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=160|end_char=164
+4	n't	not	PART	RB	_	3	advmod	_	start_char=164|end_char=167
+5	.	.	PUNCT	.	_	3	punct	_	start_char=167|end_char=168
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=169|end_char=172
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=173|end_char=175
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=175|end_char=177
+4	perfect	perfect	ADJ	JJ	Degree=Pos	0	root	_	start_char=178|end_char=185
+5	:)	:)	SYM	NFP	_	4	discourse	_	start_char=186|end_char=188
+

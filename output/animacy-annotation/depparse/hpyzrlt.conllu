@@ -1,0 +1,20 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	super	super	ADV	RB	_	4	advmod	_	start_char=7|end_char=12
+4	unfair	unfair	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=19
+5	for	for	ADP	IN	_	6	case	_	start_char=20|end_char=23
+6	Alex	Alex	PROPN	NNP	Number=Sing	4	obl	_	start_char=24|end_char=28
+7	Jones	Jones	PROPN	NNP	Number=Sing	6	flat	_	start_char=29|end_char=34
+8	to	to	PART	TO	_	9	mark	_	start_char=35|end_char=37
+9	say	say	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=38|end_char=41
+10	.	.	PUNCT	.	_	4	punct	_	start_char=41|end_char=42
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=44|end_char=46
+2	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=47|end_char=50
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=51|end_char=53
+4	totally	totally	ADV	RB	_	5	advmod	_	start_char=54|end_char=61
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=62|end_char=70
+6	AND	and	CCONJ	CC	_	7	cc	_	start_char=71|end_char=74
+7	evil	evil	ADJ	JJ	Degree=Pos	5	conj	_	start_char=75|end_char=79
+8	.	.	PUNCT	.	_	5	punct	_	start_char=79|end_char=80
+

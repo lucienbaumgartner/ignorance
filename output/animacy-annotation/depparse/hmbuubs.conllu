@@ -1,0 +1,44 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=7
+3	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+4	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	Web	web	NOUN	NN	Number=Sing	2	nsubj	_	start_char=15|end_char=18
+2	search	search	VERB	VB	Mood=Ind|VerbForm=Fin	0	root	_	start_char=19|end_char=25
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=26|end_char=29
+4	term	term	NOUN	NN	Number=Sing	2	obj	_	start_char=30|end_char=34
+5	"	"	PUNCT	``	_	7	punct	_	start_char=35|end_char=36
+6	modern	modern	ADJ	JJ	Degree=Pos	7	amod	_	start_char=36|end_char=42
+7	liberal	liberal	NOUN	NN	Number=Sing	4	appos	_	start_char=43|end_char=50
+8	"	"	PUNCT	''	_	7	punct	_	start_char=50|end_char=51
+9	.	.	PUNCT	.	_	2	punct	_	start_char=51|end_char=52
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=53|end_char=55
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=56|end_char=58
+3	indeed	indeed	ADV	RB	_	6	advmod	_	start_char=59|end_char=65
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=66|end_char=67
+5	legitimate	legitimate	ADJ	JJ	Degree=Pos	6	amod	_	start_char=68|end_char=78
+6	term	term	NOUN	NN	Number=Sing	0	root	_	start_char=79|end_char=83
+7	defined	define	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	start_char=84|end_char=91
+8	by	by	ADP	IN	_	10	case	_	start_char=92|end_char=94
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=95|end_char=98
+10	intelligentsia	intelligentsia	NOUN	NN	Number=Sing	7	obl	_	start_char=99|end_char=113
+11	.	.	PUNCT	.	_	6	punct	_	start_char=113|end_char=114
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=115|end_char=118
+2	rest	rest	NOUN	NN	Number=Sing	10	nsubj	_	start_char=119|end_char=123
+3	about	about	ADP	IN	_	5	case	_	start_char=124|end_char=129
+4	clueless	clueless	ADJ	JJ	Degree=Pos	5	amod	_	start_char=130|end_char=138
+5	people	people	NOUN	NNS	Number=Plur	2	nmod	_	start_char=139|end_char=145
+6	unaware	unaware	ADJ	JJ	Degree=Pos	5	amod	_	start_char=146|end_char=153
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=154|end_char=157
+8	uninvolved	uninvolved	ADJ	JJ	Degree=Pos	6	conj	_	start_char=158|end_char=168
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=169|end_char=171
+10	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	0	root	_	start_char=172|end_char=182
+11	because	because	SCONJ	IN	_	15	mark	_	start_char=183|end_char=190
+12	those	that	DET	DT	Number=Plur|PronType=Dem	13	det	_	start_char=191|end_char=196
+13	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=197|end_char=203
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=204|end_char=207
+15	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=208|end_char=218
+16	.	.	PUNCT	.	_	10	punct	_	start_char=218|end_char=219
+

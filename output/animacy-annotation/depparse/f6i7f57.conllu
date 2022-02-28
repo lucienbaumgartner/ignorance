@@ -1,0 +1,93 @@
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=0|end_char=6
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=7|end_char=10
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	American	American	ADJ	JJ	Degree=Pos	2	amod	_	start_char=19|end_char=27
+2	schools	school	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=28|end_char=35
+3	dont	do	AUX	MD	VerbForm=Fin	4	aux	_	start_char=36|end_char=40
+4	teach	teach	VERB	VB	VerbForm=Inf	0	root	_	start_char=41|end_char=46
+5	these	this	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=47|end_char=52
+6	things	thing	NOUN	NNS	Number=Plur	4	obj	_	start_char=53|end_char=59
+7	(	(	PUNCT	-LRB-	_	11	punct	_	start_char=60|end_char=61
+8	especially	especially	ADV	RB	Degree=Pos	11	advmod	_	start_char=61|end_char=71
+9	in	in	ADP	IN	_	11	case	_	start_char=72|end_char=74
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=75|end_char=78
+11	past	past	NOUN	NN	Number=Sing	4	obl	_	start_char=79|end_char=83
+12	)	)	PUNCT	-RRB-	_	11	punct	_	start_char=83|end_char=84
+13	.	.	PUNCT	.	_	4	punct	_	start_char=84|end_char=85
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=86|end_char=91
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=92|end_char=95
+3	huge	huge	ADJ	JJ	Degree=Pos	4	amod	_	start_char=96|end_char=100
+4	amounts	amount	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=101|end_char=108
+5	of	of	ADP	IN	_	6	case	_	start_char=109|end_char=111
+6	infomation	infomation	NOUN	NN	Number=Sing	4	nmod	_	start_char=112|end_char=122
+7	out	out	ADP	IN	_	8	case	_	start_char=123|end_char=126
+8	there	there	ADV	RB	PronType=Dem	2	obl	_	start_char=127|end_char=132
+9	.	.	PUNCT	.	_	2	punct	_	start_char=132|end_char=133
+
+1	But	but	CCONJ	CC	_	10	cc	_	start_char=134|end_char=137
+2	unless	unless	SCONJ	IN	_	5	mark	_	start_char=138|end_char=144
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=145|end_char=148
+4	purposefully	purposefully	ADV	RB	_	5	advmod	_	start_char=149|end_char=161
+5	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	start_char=162|end_char=166
+6	,	,	PUNCT	,	_	10	punct	_	start_char=166|end_char=167
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=168|end_char=171
+8	will	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=172|end_char=176
+9	never	never	ADV	RB	_	10	advmod	_	start_char=177|end_char=182
+10	come	come	VERB	VB	VerbForm=Inf	0	root	_	start_char=183|end_char=187
+11	across	across	ADP	IN	_	12	case	_	start_char=188|end_char=194
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	obl	_	start_char=195|end_char=199
+13	.	.	PUNCT	.	_	10	punct	_	start_char=199|end_char=200
+
+1	Again	again	ADV	RB	_	0	root	_	start_char=203|end_char=208
+2	.	.	PUNCT	.	_	1	punct	_	start_char=208|end_char=209
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=210|end_char=216
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=217|end_char=220
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=221|end_char=227
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=228|end_char=231
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=232|end_char=240
+6	.	.	PUNCT	.	_	3	punct	_	start_char=240|end_char=241
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=242|end_char=246
+2	doesnt	doesnt	AUX	MD	VerbForm=Fin	3	aux	_	start_char=247|end_char=253
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=254|end_char=258
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=259|end_char=263
+5	racist	racist	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=264|end_char=270
+6	,	,	PUNCT	,	_	8	punct	_	start_char=270|end_char=271
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=272|end_char=274
+8	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=275|end_char=280
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=281|end_char=285
+10	stupid	stupid	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=286|end_char=292
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=293|end_char=296
+12	racist	racist	ADJ	JJ	Degree=Pos	10	conj	_	start_char=297|end_char=303
+13	.	.	PUNCT	.	_	3	punct	_	start_char=303|end_char=304
+
+1	Also	also	ADV	RB	_	11	advmod	_	start_char=306|end_char=310
+2	judging	judge	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=311|end_char=318
+3	from	from	ADP	IN	_	6	case	_	start_char=319|end_char=323
+4	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=324|end_char=328
+5	one	one	NUM	CD	NumType=Card	6	nummod	_	start_char=329|end_char=332
+6	sentence	sentence	NOUN	NN	Number=Sing	2	obl	_	start_char=333|end_char=341
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=342|end_char=345
+8	OP	OP	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=346|end_char=348
+9	wouldnt	wouldnt	AUX	MD	VerbForm=Fin	11	aux	_	start_char=349|end_char=356
+10	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=357|end_char=359
+11	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=360|end_char=366
+12	.	.	PUNCT	.	_	11	punct	_	start_char=366|end_char=367
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=368|end_char=371
+2	arrogant	arrogant	ADJ	JJ	Degree=Pos	3	amod	_	start_char=372|end_char=380
+3	judgement	judgement	NOUN	NN	Number=Sing	4	nsubj	_	start_char=381|end_char=390
+4	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=391|end_char=395
+5	from	from	ADP	IN	_	8	case	_	start_char=396|end_char=400
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=401|end_char=404
+7	overall	overall	ADJ	JJ	Degree=Pos	8	amod	_	start_char=405|end_char=412
+8	tone	tone	NOUN	NN	Number=Sing	4	obl	_	start_char=413|end_char=417
+9	of	of	ADP	IN	_	11	case	_	start_char=418|end_char=420
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=421|end_char=424
+11	post	post	NOUN	NN	Number=Sing	8	nmod	_	start_char=425|end_char=429
+12	.	.	PUNCT	.	_	4	punct	_	start_char=429|end_char=430
+

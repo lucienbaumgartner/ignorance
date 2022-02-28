@@ -1,0 +1,50 @@
+1	Grrr	Grrr	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=12|end_char=15
+5	stopping	stop	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=24
+6	in	in	ADP	IN	_	8	case	_	start_char=25|end_char=27
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=28|end_char=31
+8	middle	middle	NOUN	NN	Number=Sing	3	obl	_	start_char=32|end_char=38
+9	of	of	ADP	IN	_	16	case	_	start_char=39|end_char=41
+10	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=42|end_char=45
+11	hallway	hallway	NOUN	NN	Number=Sing	16	compound	_	start_char=46|end_char=53
+12	/	/	SYM	,	_	13	punct	_	start_char=53|end_char=54
+13	aisle	aisle	NOUN	NN	Number=Sing	11	conj	_	start_char=54|end_char=59
+14	/	/	SYM	,	_	15	cc	_	start_char=59|end_char=60
+15	path	path	NOUN	NN	Number=Sing	16	compound	_	start_char=60|end_char=64
+16	thing	thing	NOUN	NN	Number=Sing	8	nmod	_	start_char=65|end_char=70
+17	.	.	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=72|end_char=73
+2	instantly	instantly	ADV	RB	_	3	advmod	_	start_char=74|end_char=83
+3	size	size	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=84|end_char=88
+4	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=89|end_char=94
+5	people	people	NOUN	NNS	Number=Plur	3	obj	_	start_char=95|end_char=101
+6	up	up	ADP	RP	_	3	compound:prt	_	start_char=102|end_char=104
+7	as	as	ADV	RB	_	8	advmod	_	start_char=105|end_char=107
+8	selfish	selfish	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=108|end_char=115
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=116|end_char=119
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=120|end_char=127
+11	of	of	ADP	IN	_	13	case	_	start_char=128|end_char=130
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=131|end_char=136
+13	surroundings	surroundings	NOUN	NNS	Number=Plur	10	obl	_	start_char=137|end_char=149
+14	.	.	PUNCT	.	_	3	punct	_	start_char=149|end_char=150
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=151|end_char=153
+2	irritates	irritate	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=154|end_char=163
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=164|end_char=166
+4	to	to	ADP	IN	_	6	case	_	start_char=167|end_char=169
+5	no	no	DET	DT	_	6	det	_	start_char=170|end_char=172
+6	end	end	NOUN	NN	Number=Sing	2	obl	_	start_char=173|end_char=176
+7	.	.	PUNCT	.	_	2	punct	_	start_char=176|end_char=177
+
+1	Same	same	ADJ	JJ	Degree=Pos	2	amod	_	start_char=178|end_char=182
+2	response	response	NOUN	NN	Number=Sing	0	root	_	start_char=183|end_char=191
+3	:	:	PUNCT	:	_	2	punct	_	start_char=191|end_char=192
+4	"	"	PUNCT	``	_	5	punct	_	start_char=193|end_char=194
+5	Excuse	excuse	VERB	VB	Mood=Imp|VerbForm=Fin	2	appos	_	start_char=194|end_char=200
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	start_char=201|end_char=203
+7	!!	!!	PUNCT	.	_	2	punct	_	start_char=203|end_char=205
+8	"	"	PUNCT	''	_	2	punct	_	start_char=205|end_char=206
+

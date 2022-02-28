@@ -1,0 +1,30 @@
+1	Also	also	ADV	RB	_	10	advmod	_	start_char=0|end_char=4
+2	all	all	PRON	PDT	_	4	det:predet	_	start_char=5|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=9|end_char=12
+4	players	player	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=13|end_char=20
+5	of	of	ADP	IN	_	8	case	_	start_char=21|end_char=23
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=24|end_char=27
+7	opposite	opposite	ADJ	JJ	Degree=Pos	8	amod	_	start_char=28|end_char=36
+8	team	team	NOUN	NN	Number=Sing	4	nmod	_	start_char=37|end_char=41
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=42|end_char=45
+10	unskilled	unskilled	ADJ	JJ	Degree=Pos|Polarity=Neg	0	root	_	start_char=46|end_char=55
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=60|end_char=67
+13	that	that	SCONJ	IN	_	17	mark	_	start_char=68|end_char=72
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=73|end_char=77
+15	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=78|end_char=81
+16	even	even	ADV	RB	_	17	advmod	_	start_char=82|end_char=86
+17	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	12	ccomp	_	start_char=87|end_char=94
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=95|end_char=96
+19	game	game	NOUN	NN	Number=Sing	17	obj	_	start_char=97|end_char=101
+20	.	.	PUNCT	.	_	10	punct	_	start_char=101|end_char=102
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=103|end_char=106
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=107|end_char=110
+3	always	always	ADV	RB	_	4	advmod	_	start_char=111|end_char=117
+4	tackled	tackle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=118|end_char=125
+5	but	but	CCONJ	CC	_	6	cc	_	start_char=126|end_char=129
+6	unsure	unsure	ADJ	JJ	Degree=Pos	4	conj	_	start_char=130|end_char=136
+7	why	why	SCONJ	WRB	PronType=Int	6	mark	_	start_char=137|end_char=140
+8	.	.	PUNCT	.	_	4	punct	_	start_char=140|end_char=141
+

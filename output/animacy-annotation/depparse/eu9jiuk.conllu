@@ -1,0 +1,23 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	painless	painless	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=20
+4	,	,	PUNCT	,	_	1	punct	_	start_char=20|end_char=21
+5	if	if	SCONJ	IN	_	10	mark	_	start_char=22|end_char=24
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=25|end_char=29
+7	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=29|end_char=31
+8	not	not	PART	RB	_	10	advmod	_	start_char=32|end_char=35
+9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=36|end_char=38
+10	option	option	NOUN	NN	Number=Sing	13	compound	_	start_char=39|end_char=45
+11	probably	probably	ADV	RB	_	13	advmod	_	start_char=46|end_char=54
+12	heroin	heroin	NOUN	NN	Number=Sing	13	compound	_	start_char=55|end_char=61
+13	overdose	overdose	NOUN	NN	Number=Sing	1	parataxis	_	start_char=62|end_char=70
+14	.	.	PUNCT	.	_	1	punct	_	start_char=70|end_char=71
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=72|end_char=76
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=77|end_char=80
+3	die	die	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=81|end_char=84
+4	happy	happy	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=85|end_char=90
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=91|end_char=94
+6	high	high	ADJ	JJ	Degree=Pos	4	conj	_	start_char=95|end_char=99
+7	.	.	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+

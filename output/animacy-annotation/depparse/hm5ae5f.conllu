@@ -1,0 +1,29 @@
+1	Jesus	Jesus	PROPN	NNP	Number=Sing	4	vocative	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=6|end_char=9
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=13
+4	dense	dense	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+5	.	.	PUNCT	.	_	4	punct	_	start_char=19|end_char=20
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=21|end_char=22
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=22|end_char=24
+3	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=25|end_char=29
+4	waisting	waist	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=30|end_char=38
+5	energy	energy	NOUN	NN	Number=Sing	4	obj	_	start_char=39|end_char=45
+6	on	on	ADP	IN	_	7	case	_	start_char=46|end_char=48
+7	someone	someone	NOUN	NN	Number=Sing	4	obl	_	start_char=49|end_char=56
+8	so	so	ADV	RB	_	10	advmod	_	start_char=57|end_char=59
+9	confidently	confidently	ADV	RB	Degree=Pos	10	advmod	_	start_char=60|end_char=71
+10	stupid	stupid	ADJ	JJ	Degree=Pos	7	amod	_	start_char=72|end_char=78
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=79|end_char=82
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=83|end_char=91
+13	that	that	SCONJ	IN	_	17	mark	_	start_char=92|end_char=96
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=97|end_char=101
+15	ca	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=102|end_char=104
+16	n’t	not	PART	RB	Polarity=Neg	17	advmod	_	start_char=104|end_char=107
+17	grasp	grasp	VERB	VB	VerbForm=Inf	12	ccomp	_	start_char=108|end_char=113
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=114|end_char=117
+19	concept	concept	NOUN	NN	Number=Sing	17	obj	_	start_char=118|end_char=125
+20	of	of	ADP	IN	_	21	case	_	start_char=126|end_char=128
+21	two	two	NUM	CD	NumForm=Word|NumType=Card	19	nmod	_	start_char=129|end_char=132
+22	.	.	PUNCT	.	_	3	punct	_	start_char=132|end_char=133
+

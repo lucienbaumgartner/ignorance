@@ -1,0 +1,14 @@
+1	When	when	SCONJ	WRB	PronType=Int	5	mark	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=5|end_char=8
+3	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	so	so	ADV	RB	_	5	advmod	_	start_char=12|end_char=14
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=15|end_char=21
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=22|end_char=25
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=26|end_char=34
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=35|end_char=39
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=40|end_char=42
+10	becomes	become	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=43|end_char=50
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=51|end_char=52
+12	condition	condition	NOUN	NN	Number=Sing	10	xcomp	_	start_char=53|end_char=62
+13	...	...	PUNCT	.	_	5	punct	_	start_char=62|end_char=65
+

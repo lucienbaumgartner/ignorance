@@ -1,0 +1,66 @@
+1	To	to	PART	TO	_	2	mark	_	start_char=0|end_char=2
+2	reduce	reduce	VERB	VB	VerbForm=Inf	0	root	_	start_char=3|end_char=9
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=10|end_char=11
+4	multi-faceted	multi-faceted	ADJ	JJ	Degree=Pos	5	amod	_	start_char=12|end_char=25
+5	issue	issue	NOUN	NN	Number=Sing	2	obj	_	start_char=26|end_char=31
+6	to	to	ADP	IN	_	8	case	_	start_char=32|end_char=34
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=35|end_char=38
+8	color	color	NOUN	NN	Number=Sing	5	nmod	_	start_char=39|end_char=44
+9	of	of	ADP	IN	_	12	case	_	start_char=45|end_char=47
+10	someone	someone	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=48|end_char=55
+11	’s	's	PART	POS	_	10	case	_	start_char=55|end_char=57
+12	skin	skin	NOUN	NN	Number=Sing	8	nmod	_	start_char=58|end_char=62
+13	…	…	PUNCT	,	_	2	punct	_	start_char=62|end_char=63
+14	?	?	PUNCT	.	_	2	punct	_	start_char=63|end_char=64
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=65|end_char=68
+2	assign	assign	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=69|end_char=75
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=76|end_char=77
+4	label	label	NOUN	NN	Number=Sing	2	obj	_	start_char=78|end_char=83
+5	to	to	ADP	IN	_	8	case	_	start_char=84|end_char=86
+6	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=87|end_char=89
+7	entire	entire	ADJ	JJ	Degree=Pos	8	amod	_	start_char=90|end_char=96
+8	group	group	NOUN	NN	Number=Sing	2	obl	_	start_char=97|end_char=102
+9	of	of	ADP	IN	_	10	case	_	start_char=103|end_char=105
+10	people	people	NOUN	NNS	Number=Plur	8	nmod	_	start_char=106|end_char=112
+11	separated	separate	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	_	start_char=113|end_char=122
+12	by	by	ADP	IN	_	13	case	_	start_char=123|end_char=125
+13	nothing	nothing	PRON	NN	Number=Sing	11	obl	_	start_char=126|end_char=133
+14	more	more	ADJ	JJR	Degree=Cmp	13	amod	_	start_char=134|end_char=138
+15	than	than	ADP	IN	_	18	case	_	start_char=139|end_char=143
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=144|end_char=149
+17	skin	skin	NOUN	NN	Number=Sing	18	compound	_	start_char=150|end_char=154
+18	color	color	NOUN	NN	Number=Sing	14	obl	_	start_char=155|end_char=160
+19	?	?	PUNCT	.	_	2	punct	_	start_char=160|end_char=161
+
+1	Yeah	yeah	INTJ	UH	_	0	root	_	start_char=162|end_char=166
+2	.	.	PUNCT	.	_	1	punct	_	start_char=166|end_char=167
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=168|end_char=170
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=170|end_char=172
+3	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=173|end_char=179
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=180|end_char=183
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=184|end_char=192
+6	.	.	PUNCT	.	_	3	punct	_	start_char=192|end_char=193
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=194|end_char=198
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=199|end_char=204
+3	be	be	AUX	VB	VerbForm=Inf	0	root	_	start_char=205|end_char=207
+4	like	like	SCONJ	IN	_	5	mark	_	start_char=208|end_char=212
+5	saying	say	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=213|end_char=219
+6	,	,	PUNCT	,	_	12	punct	_	start_char=219|end_char=220
+7	“	''	PUNCT	``	_	12	punct	_	start_char=221|end_char=222
+8	all	all	DET	DT	_	10	det	_	start_char=222|end_char=225
+9	black	black	ADJ	JJ	Degree=Pos	10	amod	_	start_char=226|end_char=231
+10	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=232|end_char=238
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=239|end_char=242
+12	victims	victim	NOUN	NNS	Number=Plur	5	ccomp	_	start_char=243|end_char=250
+13	”	''	PUNCT	''	_	12	punct	_	start_char=250|end_char=251
+14	.	.	PUNCT	.	_	3	punct	_	start_char=251|end_char=252
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=253|end_char=255
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=255|end_char=257
+3	effing	eff	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=258|end_char=264
+4	stupid	stupid	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=265|end_char=271
+5	.	.	PUNCT	.	_	4	punct	_	start_char=271|end_char=272
+

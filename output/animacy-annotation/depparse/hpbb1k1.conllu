@@ -1,0 +1,9 @@
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	like	like	ADP	IN	_	7	case	_	start_char=6|end_char=10
+3	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=11|end_char=13
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=14|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	assumptive	assumptive	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=37
+7	claim	claim	NOUN	NN	Number=Sing	1	obl	_	start_char=38|end_char=43
+8	.	.	PUNCT	.	_	1	punct	_	start_char=43|end_char=44
+

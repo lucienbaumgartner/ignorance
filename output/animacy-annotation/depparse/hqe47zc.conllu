@@ -1,0 +1,54 @@
+1	Then	then	ADV	RB	PronType=Dem	2	advmod	_	start_char=0|end_char=4
+2	escalate	escalate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=13
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=14|end_char=16
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=17|end_char=18
+5	shall	shall	AUX	MD	VerbForm=Fin	2	ccomp	_	start_char=19|end_char=24
+6	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=26|end_char=27
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=28|end_char=30
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=39
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=40|end_char=43
+5	stubborn	stubborn	ADJ	JJ	Degree=Pos	3	conj	_	start_char=44|end_char=52
+6	enough	enough	ADJ	JJ	Degree=Pos	3	advmod	_	start_char=53|end_char=59
+7	to	to	PART	TO	_	8	mark	_	start_char=60|end_char=62
+8	get	get	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=63|end_char=66
+9	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part	8	xcomp	_	start_char=67|end_char=71
+10	over	over	ADP	IN	_	15	case	_	start_char=72|end_char=76
+11	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=77|end_char=79
+12	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	compound	_	start_char=80|end_char=81
+13	Phone	phone	NOUN	NN	Number=Sing	15	compound	_	start_char=81|end_char=86
+14	12	12	NUM	CD	NumType=Card	13	nummod	_	start_char=87|end_char=89
+15	Pro	pro	NOUN	NN	Number=Sing	9	obl	_	start_char=90|end_char=93
+16	that	that	PRON	WDT	PronType=Rel	18	nsubj:pass	_	start_char=94|end_char=98
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	start_char=99|end_char=101
+18	locked	lock	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl:relcl	_	start_char=102|end_char=108
+19	down	down	ADP	RP	_	18	compound:prt	_	start_char=109|end_char=113
+20	.	.	PUNCT	.	_	3	punct	_	start_char=113|end_char=114
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=115|end_char=117
+2	someone	someone	PRON	NN	Number=Sing	4	nsubj	_	start_char=118|end_char=125
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=126|end_char=128
+4	willing	willing	ADJ	JJ	Degree=Pos	19	advcl	_	start_char=129|end_char=136
+5	to	to	PART	TO	_	6	mark	_	start_char=137|end_char=139
+6	SHOOT	shoot	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=140|end_char=145
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=146|end_char=148
+8	over	over	ADP	IN	_	10	case	_	start_char=149|end_char=153
+9	literally	literally	ADV	RB	_	10	advmod	_	start_char=154|end_char=163
+10	nothing	nothing	PRON	NN	Number=Sing	6	obl	_	start_char=164|end_char=171
+11	of	of	ADP	IN	_	12	case	_	start_char=172|end_char=174
+12	value	value	NOUN	NN	Number=Sing	10	nmod	_	start_char=175|end_char=180
+13	to	to	ADP	IN	_	14	case	_	start_char=181|end_char=183
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	nmod	_	start_char=184|end_char=188
+15	,	,	PUNCT	,	_	19	punct	_	start_char=188|end_char=189
+16	then	then	ADV	RB	PronType=Dem	19	advmod	_	start_char=190|end_char=194
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=195|end_char=196
+18	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=196|end_char=198
+19	willing	willing	ADJ	JJ	Degree=Pos	0	root	_	start_char=199|end_char=206
+20	to	to	PART	TO	_	22	mark	_	start_char=207|end_char=209
+21	be	be	AUX	VB	VerbForm=Inf	22	aux:pass	_	start_char=210|end_char=212
+22	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	xcomp	_	start_char=213|end_char=217
+23	.	.	PUNCT	.	_	19	punct	_	start_char=217|end_char=218
+
+1	😂😂	😂😂	INTJ	UH	_	0	root	_	start_char=219|end_char=221
+

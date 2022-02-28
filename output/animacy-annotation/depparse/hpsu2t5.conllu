@@ -1,0 +1,62 @@
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	really	really	ADV	RB	_	4	advmod	_	start_char=7|end_char=13
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=19
+5	monthly	monthly	ADJ	JJ	Degree=Pos	6	amod	_	start_char=20|end_char=27
+6	ration	ration	NOUN	NN	Number=Sing	8	nsubj	_	start_char=28|end_char=34
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=35|end_char=37
+8	enough	enough	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=38|end_char=44
+9	for	for	ADP	IN	_	11	case	_	start_char=45|end_char=48
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=49|end_char=50
+11	family	family	NOUN	NN	Number=Sing	8	obl	_	start_char=51|end_char=57
+12	to	to	PART	TO	_	13	mark	_	start_char=58|end_char=60
+13	live	live	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=61|end_char=65
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=66|end_char=67
+15	life	life	NOUN	NN	Number=Sing	13	obj	_	start_char=68|end_char=72
+16	?	?	PUNCT	.	_	4	punct	_	start_char=73|end_char=74
+
+1	Do	do	AUX	VB	VerbForm=Fin	4	aux	_	start_char=75|end_char=77
+2	n't	not	PART	RB	_	4	advmod	_	start_char=77|end_char=80
+3	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	4	cop	_	start_char=81|end_char=83
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=92
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=93|end_char=96
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=97|end_char=103
+7	.	.	PUNCT	.	_	4	punct	_	start_char=103|end_char=104
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=107|end_char=111
+2	about	about	ADP	IN	_	4	case	_	start_char=112|end_char=117
+3	other	other	ADJ	JJ	Degree=Pos	4	amod	_	start_char=118|end_char=123
+4	necessities	necessity	NOUN	NNS	Number=Plur	1	nmod	_	start_char=124|end_char=135
+5	...	...	PUNCT	.	_	1	punct	_	start_char=135|end_char=138
+
+1	Like	like	ADP	IN	_	5	case	_	start_char=139|end_char=143
+2	medical	medical	ADJ	JJ	Degree=Pos	5	amod	_	start_char=144|end_char=151
+3	,	,	PUNCT	,	_	5	punct	_	start_char=152|end_char=153
+4	kids	kid	NOUN	NNS	Number=Plur	5	compound	_	start_char=154|end_char=158
+5	education	education	NOUN	NN	Number=Sing	0	root	_	start_char=159|end_char=168
+6	,	,	PUNCT	,	_	8	punct	_	start_char=169|end_char=170
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=171|end_char=176
+8	day	day	NOUN	NN	Number=Sing	5	appos	_	start_char=177|end_char=180
+9	to	to	ADP	IN	_	10	case	_	start_char=181|end_char=183
+10	day	day	NOUN	NN	Number=Sing	8	nmod	_	start_char=184|end_char=187
+11	?	?	PUNCT	.	_	5	punct	_	start_char=187|end_char=188
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=189|end_char=192
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=193|end_char=196
+3	basically	basically	ADV	RB	_	4	advmod	_	start_char=197|end_char=206
+4	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=207|end_char=213
+5	fun	fun	NOUN	NN	Number=Sing	4	obj	_	start_char=214|end_char=217
+6	of	of	ADP	IN	_	7	case	_	start_char=218|end_char=220
+7	poors	poor	NOUN	NNS	Number=Plur	5	nmod	_	start_char=221|end_char=226
+8	here	here	ADV	RB	PronType=Dem	7	advmod	_	start_char=227|end_char=231
+9	.	.	PUNCT	.	_	4	punct	_	start_char=231|end_char=232
+
+1	Nobody	nobody	PRON	NN	Number=Sing	3	nsubj	_	start_char=233|end_char=239
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=240|end_char=243
+3	live	live	VERB	VB	VerbForm=Inf	0	root	_	start_char=244|end_char=248
+4	of	of	ADP	IN	_	3	obl	_	start_char=249|end_char=251
+5	on	on	ADP	IN	_	7	case	_	start_char=252|end_char=254
+6	those	that	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=255|end_char=260
+7	yojnas	yojnas	NOUN	NNS	Number=Plur	3	obl	_	start_char=261|end_char=267
+8	.	.	PUNCT	.	_	3	punct	_	start_char=267|end_char=268
+

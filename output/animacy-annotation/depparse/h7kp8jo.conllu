@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	start_char=7|end_char=11
+4	.	.	PUNCT	.	_	2	punct	_	start_char=11|end_char=12
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=13|end_char=16
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=17|end_char=20
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=31
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=32|end_char=35
+5	racist	racist	ADJ	JJ	Degree=Pos	3	conj	_	start_char=36|end_char=42
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=43|end_char=46
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=47|end_char=55
+8	of	of	ADP	IN	_	10	case	_	start_char=56|end_char=58
+9	real	real	ADJ	JJ	Degree=Pos	10	amod	_	start_char=59|end_char=63
+10	history	history	NOUN	NN	Number=Sing	7	obl	_	start_char=64|end_char=71
+11	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=72|end_char=76
+12	would	would	AUX	MD	VerbForm=Fin	13	aux	_	start_char=77|end_char=82
+13	tarnish	tarnish	VERB	VB	VerbForm=Inf	10	acl:relcl	_	start_char=83|end_char=90
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=91|end_char=95
+15	true	true	ADJ	JJ	Degree=Pos	17	amod	_	start_char=96|end_char=100
+16	black	black	ADJ	JJ	Degree=Pos	17	amod	_	start_char=101|end_char=106
+17	heart	heart	NOUN	NN	Number=Sing	13	obj	_	start_char=107|end_char=112
+18	and	and	CCONJ	CC	_	20	cc	_	start_char=113|end_char=116
+19	shallow	shallow	ADJ	JJ	Degree=Pos	20	amod	_	start_char=117|end_char=124
+20	mind	mind	NOUN	NN	Number=Sing	17	conj	_	start_char=125|end_char=129
+21	.	.	PUNCT	.	_	3	punct	_	start_char=129|end_char=130
+

@@ -1,0 +1,25 @@
+1	Also	also	ADV	RB	_	3	advmod	_	start_char=0|end_char=4
+2	really	really	ADV	RB	_	3	advmod	_	start_char=5|end_char=11
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	pathetic	pathetic	ADJ	JJ	Degree=Pos	3	conj	_	start_char=25|end_char=33
+6	.	.	PUNCT	.	_	3	punct	_	start_char=33|end_char=34
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=35|end_char=38
+2	way	way	NOUN	NN	Number=Sing	8	obl:npmod	_	start_char=39|end_char=42
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=43|end_char=45
+4	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=46|end_char=50
+5	on	on	ADP	RP	_	4	compound:prt	_	start_char=51|end_char=53
+6	,	,	PUNCT	,	_	8	punct	_	start_char=53|end_char=54
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=55|end_char=56
+8	doubt	doubt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=62
+9	anything	anything	PRON	NN	Number=Sing	8	obj	_	start_char=63|end_char=71
+10	sane	sane	ADJ	JJ	Degree=Pos	9	amod	_	start_char=72|end_char=76
+11	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=77|end_char=82
+12	convince	convince	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=83|end_char=91
+13	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=92|end_char=95
+14	of	of	ADP	IN	_	16	case	_	start_char=96|end_char=98
+15	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=99|end_char=102
+16	honesty	honesty	NOUN	NN	Number=Sing	12	obl	_	start_char=103|end_char=110
+17	.	.	PUNCT	.	_	8	punct	_	start_char=110|end_char=111
+

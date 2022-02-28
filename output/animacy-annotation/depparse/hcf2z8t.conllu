@@ -1,0 +1,28 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=4|end_char=8
+3	both	both	ADV	RB	_	4	advmod	_	start_char=9|end_char=13
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=32
+7	of	of	ADP	IN	_	9	case	_	start_char=33|end_char=35
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=36|end_char=39
+9	consequences	consequence	NOUN	NNS	Number=Plur	6	obl	_	start_char=40|end_char=52
+10	.	.	PUNCT	.	_	4	punct	_	start_char=52|end_char=53
+
+1	Bless	bless	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=54|end_char=59
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=60|end_char=63
+3	both	both	DET	DT	_	2	det	_	start_char=64|end_char=68
+4	,	,	PUNCT	,	_	1	punct	_	start_char=68|end_char=69
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=70|end_char=73
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	start_char=74|end_char=78
+7	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	1	parataxis	_	start_char=79|end_char=85
+8	to	to	PART	TO	_	9	mark	_	start_char=86|end_char=88
+9	look	look	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=89|end_char=93
+10	out	out	ADP	RP	_	9	compound:prt	_	start_char=94|end_char=97
+11	for	for	ADP	IN	_	13	case	_	start_char=98|end_char=101
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=102|end_char=106
+13	sibling	sibling	NOUN	NN	Number=Sing	9	obl	_	start_char=107|end_char=114
+14	.	.	PUNCT	.	_	1	punct	_	start_char=114|end_char=115
+
+1	🤗	🤗	PROPN	NNP	Number=Sing	0	root	_	start_char=116|end_char=117
+

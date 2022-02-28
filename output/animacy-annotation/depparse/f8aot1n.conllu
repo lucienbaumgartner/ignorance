@@ -1,0 +1,37 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Abby	Abby	PROPN	NNP	Number=Sing	0	root	_	start_char=4|end_char=8
+2	:	:	PUNCT	:	_	1	punct	_	start_char=8|end_char=9
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=10|end_char=14
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=15|end_char=18
+3	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=19|end_char=23
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=24|end_char=27
+5	state	state	NOUN	NN	Number=Sing	3	obj	_	start_char=28|end_char=33
+6	of	of	ADP	IN	_	8	case	_	start_char=34|end_char=36
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=37|end_char=40
+8	country	country	NOUN	NN	Number=Sing	5	nmod	_	start_char=41|end_char=48
+9	?	?	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	Surely	surely	ADV	RB	_	5	advmod	_	start_char=50|end_char=56
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=57|end_char=59
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=60|end_char=62
+4	n't	not	PART	RB	_	5	advmod	_	start_char=62|end_char=65
+5	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=66|end_char=69
+6	worse	bad	ADJ	JJR	Degree=Cmp	5	xcomp	_	start_char=70|end_char=75
+7	?	?	PUNCT	.	_	5	punct	_	start_char=75|end_char=76
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=78|end_char=85
+2	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=86|end_char=91
+3	so	so	ADV	RB	_	4	advmod	_	start_char=92|end_char=94
+4	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=95|end_char=104
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=105|end_char=108
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=109|end_char=117
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=118|end_char=122
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=123|end_char=126
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=127|end_char=135
+10	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=136|end_char=143
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	10	obj	_	start_char=144|end_char=148
+12	.	.	PUNCT	.	_	1	punct	_	start_char=148|end_char=149
+

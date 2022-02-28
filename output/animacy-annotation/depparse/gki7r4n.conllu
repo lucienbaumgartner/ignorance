@@ -1,0 +1,21 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	Native	native	ADJ	JJ	Degree=Pos	4	amod	_	start_char=9|end_char=15
+4	Americans	American	PROPN	NNPS	Number=Plur	5	compound	_	start_char=16|end_char=25
+5	Indians	Indian	PROPN	NNPS	Number=Plur	2	obj	_	start_char=26|end_char=33
+6	?	?	PUNCT	.	_	2	punct	_	start_char=33|end_char=34
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=35|end_char=39
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=39|end_char=41
+3	quite	quite	ADV	RB	_	4	advmod	_	start_char=42|end_char=47
+4	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=48|end_char=54
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=55|end_char=58
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=59|end_char=67
+7	of	of	ADP	IN	_	8	case	_	start_char=68|end_char=70
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=71|end_char=74
+9	,	,	PUNCT	,	_	4	punct	_	start_char=74|end_char=75
+10	Try	try	VERB	VB	Mood=Imp|VerbForm=Fin	4	parataxis	_	start_char=76|end_char=79
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=80|end_char=83
+12	word	word	NOUN	NN	Number=Sing	10	obj	_	start_char=84|end_char=88
+13	indigenous	indigenous	ADJ	JJ	Degree=Pos	12	amod	_	start_char=89|end_char=99
+

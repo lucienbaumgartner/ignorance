@@ -1,0 +1,22 @@
+1	Yeahhhh	Yeahhhh	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=0|end_char=7
+2	most	most	ADJ	JJS	Degree=Sup	3	amod	_	start_char=8|end_char=12
+3	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=13|end_char=19
+4	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=20|end_char=24
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=25|end_char=28
+6	generally	generally	ADV	RB	_	7	advmod	_	start_char=29|end_char=38
+7	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=39|end_char=46
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=59
+10	to	to	ADP	IN	_	12	case	_	start_char=60|end_char=62
+11	world	world	NOUN	NN	Number=Sing	12	compound	_	start_char=63|end_char=68
+12	issues	issue	NOUN	NNS	Number=Plur	9	obl	_	start_char=69|end_char=75
+13	.	.	PUNCT	.	_	7	punct	_	start_char=75|end_char=76
+
+1	All	all	DET	DT	_	0	root	_	start_char=77|end_char=80
+2	according	accord	VERB	VBG	VerbForm=Ger	5	case	_	start_char=81|end_char=90
+3	to	to	ADP	IN	_	2	fixed	_	start_char=91|end_char=93
+4	amerikkkas	amerikkka	NOUN	NN	Number=Sing	5	compound	_	start_char=94|end_char=104
+5	plan	plan	NOUN	NN	Number=Sing	1	nmod	_	start_char=105|end_char=109
+6	though	though	ADV	RB	_	5	advmod	_	start_char=110|end_char=116
+7	.	.	PUNCT	.	_	1	punct	_	start_char=116|end_char=117
+

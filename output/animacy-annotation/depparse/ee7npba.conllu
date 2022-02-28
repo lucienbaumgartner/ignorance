@@ -1,0 +1,112 @@
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	6	nsubj	_	start_char=0|end_char=5
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=6|end_char=9
+3	n't	not	PART	RB	_	6	advmod	_	start_char=9|end_char=12
+4	Hillary	Hillary	PROPN	NNP	Number=Sing	6	nmod:poss	_	start_char=13|end_char=20
+5	's	's	PART	POS	_	4	case	_	start_char=20|end_char=22
+6	emails	email	NOUN	NNS	Number=Plur	0	root	_	start_char=23|end_char=29
+7	.	.	PUNCT	.	_	6	punct	_	start_char=29|end_char=30
+
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=32|end_char=35
+2	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=38|end_char=41
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=42|end_char=45
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=46|end_char=49
+4	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=50|end_char=56
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=57|end_char=61
+6	in	in	ADP	RP	_	4	compound:prt	_	start_char=62|end_char=64
+7	to	to	ADP	IN	_	10	case	_	start_char=65|end_char=67
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=68|end_char=69
+9	bipartisan	bipartisan	ADJ	JJ	Degree=Pos	10	amod	_	start_char=70|end_char=80
+10	thing	thing	NOUN	NN	Number=Sing	4	obl	_	start_char=81|end_char=86
+11	?	?	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+
+1	“	''	PUNCT	``	_	13	punct	_	start_char=91|end_char=92
+2	And	and	CCONJ	CC	_	13	cc	_	start_char=92|end_char=95
+3	as	as	SCONJ	IN	_	6	mark	_	start_char=96|end_char=98
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=99|end_char=100
+5	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=100|end_char=103
+6	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	start_char=104|end_char=113
+7	,	,	PUNCT	,	_	13	punct	_	start_char=113|end_char=114
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=115|end_char=117
+9	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=117|end_char=120
+10	all	all	ADV	RB	_	13	advmod	_	start_char=121|end_char=124
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	cop	_	start_char=125|end_char=129
+12	quite	quite	ADV	RB	_	13	advmod	_	start_char=130|end_char=135
+13	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=136|end_char=143
+14	to	to	PART	TO	_	15	mark	_	start_char=144|end_char=146
+15	demean	demean	VERB	VB	VerbForm=Inf	13	acl	_	start_char=147|end_char=153
+16	government	government	NOUN	NN	Number=Sing	15	obj	_	start_char=154|end_char=164
+17	,	,	PUNCT	,	_	18	punct	_	start_char=164|end_char=165
+18	drop	drop	VERB	VB	VerbForm=Inf	15	conj	_	start_char=166|end_char=170
+19	civics	civic	NOUN	NNS	Number=Plur	18	obj	_	start_char=171|end_char=177
+20	and	and	CCONJ	CC	_	23	cc	_	start_char=178|end_char=181
+21	in	in	ADP	IN	_	23	case	_	start_char=182|end_char=184
+22	general	general	ADJ	JJ	Degree=Pos	23	amod	_	start_char=185|end_char=192
+23	conspire	conspire	NOUN	NN	Number=Sing	18	conj	_	start_char=193|end_char=201
+24	to	to	PART	TO	_	25	mark	_	start_char=202|end_char=204
+25	produce	produce	VERB	VB	VerbForm=Inf	23	acl	_	start_char=205|end_char=212
+26	an	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	start_char=213|end_char=215
+27	unaware	unaware	ADJ	JJ	Degree=Pos	30	amod	_	start_char=216|end_char=223
+28	and	and	CCONJ	CC	_	29	cc	_	start_char=224|end_char=227
+29	compliant	compliant	ADJ	JJ	Degree=Pos	27	conj	_	start_char=228|end_char=237
+30	citizenry	citizenry	NOUN	NN	Number=Sing	25	obj	_	start_char=238|end_char=247
+31	.	.	PUNCT	.	_	13	punct	_	start_char=247|end_char=248
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=249|end_char=252
+2	unawareness	unawareness	NOUN	NN	Number=Sing	3	nsubj	_	start_char=253|end_char=264
+3	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=265|end_char=272
+4	strong	strong	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=273|end_char=279
+5	but	but	CCONJ	CC	_	9	cc	_	start_char=280|end_char=283
+6	compliance	compliance	NOUN	NN	Number=Sing	9	nsubj	_	start_char=284|end_char=294
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=295|end_char=297
+8	obviously	obviously	ADV	RB	_	9	advmod	_	start_char=298|end_char=307
+9	fading	fade	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=308|end_char=314
+10	rapidly	rapidly	ADV	RB	_	9	advmod	_	start_char=315|end_char=322
+11	.	.	PUNCT	.	_	3	punct	_	start_char=322|end_char=323
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=324|end_char=328
+2	problem	problem	NOUN	NN	Number=Sing	3	nsubj	_	start_char=329|end_char=336
+3	demands	demand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=337|end_char=344
+4	some	some	DET	DT	_	8	det	_	start_char=345|end_char=349
+5	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=350|end_char=357
+6	,	,	PUNCT	,	_	8	punct	_	start_char=357|end_char=358
+7	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=359|end_char=366
+8	thinking	thinking	NOUN	NN	Number=Sing	3	obj	_	start_char=367|end_char=375
+9	-	-	PUNCT	,	_	8	punct	_	start_char=376|end_char=377
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=378|end_char=381
+11	not	not	PART	RB	_	13	advmod	_	start_char=382|end_char=385
+12	just	just	ADV	RB	_	13	advmod	_	start_char=386|end_char=390
+13	poll	poll	VERB	VB	VerbForm=Inf	3	conj	_	start_char=391|end_char=395
+14	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=396|end_char=402
+15	,	,	PUNCT	,	_	19	punct	_	start_char=402|end_char=403
+16	demographically	demographically	ADV	RB	_	18	advmod	_	start_char=404|end_char=419
+17	-	-	PUNCT	HYPH	_	18	punct	_	start_char=419|end_char=420
+18	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=420|end_char=428
+19	messaging	message	NOUN	NN	Number=Sing	13	obj	_	start_char=429|end_char=438
+20	.	.	PUNCT	.	_	3	punct	_	start_char=438|end_char=439
+21	”	''	PUNCT	''	_	3	punct	_	start_char=439|end_char=440
+
+1	https://wikileaks.org/podesta-emails/emailid/3599	https://wikileaks.org/podesta-emails/emailid/3599	X	ADD	_	0	root	_	start_char=442|end_char=491
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=493|end_char=495
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=496|end_char=499
+3	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=500|end_char=504
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=505|end_char=507
+5	no	no	INTJ	UH	_	3	conj	_	start_char=508|end_char=510
+6	?	?	PUNCT	.	_	3	punct	_	start_char=510|end_char=511
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=513|end_char=514
+2	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=515|end_char=519
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=520|end_char=522
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=523|end_char=526
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=527|end_char=529
+6	n't	not	PART	RB	_	5	advmod	_	start_char=529|end_char=532
+7	.	.	PUNCT	.	_	2	punct	_	start_char=532|end_char=533
+
+1	Start	start	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=534|end_char=539
+2	reading	read	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=540|end_char=547
+3	young	young	ADJ	JJ	Degree=Pos	4	amod	_	start_char=548|end_char=553
+4	lady	lady	NOUN	NN	Number=Sing	2	obj	_	start_char=554|end_char=558
+5	.	.	PUNCT	.	_	1	punct	_	start_char=558|end_char=559
+

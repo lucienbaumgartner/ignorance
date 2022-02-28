@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=7|end_char=11
+4	comment	comment	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=19
+5	now	now	ADV	RB	_	2	advmod	_	start_char=20|end_char=23
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=24|end_char=28
+7	there	there	PRON	EX	_	8	expl	_	start_char=29|end_char=34
+8	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=34|end_char=36
+9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=37|end_char=39
+10	update	update	NOUN	NN	Number=Sing	8	nsubj	_	start_char=40|end_char=46
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=47|end_char=50
+12	husband	husband	NOUN	NN	Number=Sing	14	nsubj	_	start_char=51|end_char=58
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	start_char=59|end_char=62
+14	innocent	innocent	ADJ	JJ	Degree=Pos	10	acl:relcl	_	start_char=63|end_char=71
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=72|end_char=75
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=76|end_char=83
+17	and	and	CCONJ	CC	_	20	cc	_	start_char=84|end_char=87
+18	just	just	ADV	RB	_	20	advmod	_	start_char=88|end_char=92
+19	honestly	honestly	ADV	RB	_	20	advmod	_	start_char=93|end_char=101
+20	worried	worried	ADJ	JJ	Degree=Pos	14	conj	_	start_char=102|end_char=109
+21	about	about	ADP	IN	_	23	case	_	start_char=110|end_char=115
+22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=116|end_char=119
+23	wife	wife	NOUN	NN	Number=Sing	20	obl	_	start_char=120|end_char=124
+

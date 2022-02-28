@@ -1,0 +1,26 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=8|end_char=13
+3	over	over	ADV	RB	_	4	advmod	_	start_char=14|end_char=18
+4	150	150	NUM	CD	NumType=Card	5	nummod	_	start_char=19|end_char=22
+5	pounds	pound	NOUN	NNS	Number=Plur	1	obl:tmod	_	start_char=23|end_char=29
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=30|end_char=33
+7	calling	call	VERB	VBG	VerbForm=Ger	1	conj	_	start_char=34|end_char=41
+8	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	7	iobj	_	start_char=42|end_char=50
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=51|end_char=52
+10	woman	woman	NOUN	NN	Number=Sing	7	obj	_	start_char=53|end_char=58
+11	.	.	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+
+1	—	—	PUNCT	:	_	3	punct	_	start_char=62|end_char=63
+2	-	-	PUNCT	,	_	3	punct	_	start_char=63|end_char=64
+3	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=64|end_char=67
+4	;	;	PUNCT	,	_	3	punct	_	start_char=67|end_char=68
+5	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=69|end_char=72
+6	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=73|end_char=76
+7	absolutely	absolutely	ADV	RB	_	8	advmod	_	start_char=77|end_char=87
+8	awful	awful	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=88|end_char=93
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=94|end_char=97
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=98|end_char=106
+11	that	that	PRON	WDT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=107|end_char=111
+12	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	start_char=112|end_char=118
+13	?	?	PUNCT	.	_	3	punct	_	start_char=119|end_char=120
+

@@ -1,0 +1,36 @@
+1	Media	media	NOUN	NN	Number=Sing	2	nsubj	_	start_char=0|end_char=5
+2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+3	to	to	PART	TO	_	4	mark	_	start_char=11|end_char=13
+4	assume	assume	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=14|end_char=20
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=21|end_char=23
+6	give	give	VERB	VB	VerbForm=Inf	4	conj	_	start_char=24|end_char=28
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=29|end_char=32
+8	connotation	connotation	NOUN	NN	Number=Sing	6	obj	_	start_char=33|end_char=44
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=45|end_char=48
+10	public	public	NOUN	NN	Number=Sing	12	nsubj	_	start_char=49|end_char=55
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=56|end_char=58
+12	dumb	dumb	ADJ	JJ	Degree=Pos	8	acl:relcl	_	start_char=59|end_char=63
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=64|end_char=67
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=68|end_char=75
+15	of	of	ADP	IN	_	16	case	_	start_char=76|end_char=78
+16	anything	anything	PRON	NN	Number=Sing	14	obl	_	start_char=79|end_char=87
+17	.	.	PUNCT	.	_	2	punct	_	start_char=87|end_char=88
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=89|end_char=93
+2	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=99
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	iobj	_	start_char=100|end_char=104
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=105|end_char=108
+5	high	high	ADJ	JJ	Degree=Pos	6	amod	_	start_char=109|end_char=113
+6	ground	ground	NOUN	NN	Number=Sing	2	obj	_	start_char=114|end_char=120
+7	to	to	PART	TO	_	8	mark	_	start_char=121|end_char=123
+8	deliver	deliver	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=124|end_char=131
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=132|end_char=135
+10	news	news	NOUN	NN	Number=Sing	8	obj	_	start_char=136|end_char=140
+11	in	in	ADP	IN	_	13	case	_	start_char=141|end_char=143
+12	any	any	DET	DT	_	13	det	_	start_char=144|end_char=147
+13	way	way	NOUN	NN	Number=Sing	8	obl	_	start_char=148|end_char=151
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=152|end_char=156
+15	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=157|end_char=161
+16	fit	fit	NOUN	NN	Number=Sing	15	xcomp	_	start_char=162|end_char=165
+17	.	.	PUNCT	.	_	2	punct	_	start_char=165|end_char=166
+

@@ -1,0 +1,24 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	n't	not	PART	RB	_	4	advmod	_	start_char=7|end_char=10
+4	news	news	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=15
+5	though	though	ADV	RB	_	4	advmod	_	start_char=16|end_char=22
+6	.	.	PUNCT	.	_	4	punct	_	start_char=22|end_char=23
+
+1	Most	most	ADJ	JJS	Degree=Sup	3	amod	_	start_char=24|end_char=28
+2	red	red	ADJ	JJ	Degree=Pos	3	amod	_	start_char=29|end_char=32
+3	pillers	piller	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=33|end_char=40
+4	admit	admit	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=46
+5	that	that	SCONJ	IN	_	8	mark	_	start_char=47|end_char=51
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=52|end_char=56
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	start_char=57|end_char=61
+8	naive	naive	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=62|end_char=67
+9	,	,	PUNCT	,	_	10	punct	_	start_char=67|end_char=68
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=69|end_char=77
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=78|end_char=81
+12	blind	blind	ADJ	JJ	Degree=Pos	8	conj	_	start_char=82|end_char=87
+13	to	to	ADP	IN	_	15	case	_	start_char=88|end_char=90
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=91|end_char=94
+15	signs	sign	NOUN	NNS	Number=Plur	12	obl	_	start_char=95|end_char=100
+16	before	before	ADV	RB	_	15	advmod	_	start_char=101|end_char=107
+

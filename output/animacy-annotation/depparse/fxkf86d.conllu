@@ -1,0 +1,55 @@
+1	Primary	primary	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=7
+2	school	school	NOUN	NN	Number=Sing	5	nsubj	_	start_char=8|end_char=14
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=15|end_char=17
+4	n't	not	PART	RB	_	5	advmod	_	start_char=17|end_char=20
+5	what	what	PRON	WP	PronType=Int	0	root	_	start_char=21|end_char=25
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=26|end_char=27
+7	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=28|end_char=32
+8	.	.	PUNCT	.	_	5	punct	_	start_char=32|end_char=33
+
+1	Almost	almost	ADV	RB	_	2	advmod	_	start_char=34|end_char=40
+2	graduating	graduate	VERB	VBG	VerbForm=Ger	3	amod	_	start_char=41|end_char=51
+3	highschool	highschool	NOUN	NN	Number=Sing	0	root	_	start_char=52|end_char=62
+4	either	either	ADV	RB	_	3	advmod	_	start_char=63|end_char=69
+5	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	[	[	PUNCT	-LRB-	_	4	punct	_	start_char=72|end_char=73
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=73|end_char=74
+3	also	also	ADV	RB	_	4	advmod	_	start_char=75|end_char=79
+4	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=80|end_char=86
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=87|end_char=89
+6	up	up	ADP	RP	_	4	compound:prt	_	start_char=90|end_char=92
+7	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+8	]	]	PUNCT	-RRB-	_	4	punct	_	start_char=93|end_char=94
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=94|end_char=95
+2	https://www.google.com/search?q=people+dying+from+face+masks&amp;oq=people+dying+from+face+masks&amp;aqs=chrome..69i57.4194j0j7&amp;client=ms-android-google&amp;sourceid=chrome-mobile&amp;ie=UTF-8).	https://www.google.com/search?q=people+dying+from+face+masks&amp;oq=people+dying+from+face+masks&amp;aqs=chrome..69i57.4194j0j7&amp;client=ms-android-google&amp;sourceid=chrome-mobile&amp;ie=utf-8).	X	ADD	_	0	root	_	start_char=95|end_char=293
+
+1	Every	every	DET	DT	_	2	det	_	start_char=294|end_char=299
+2	link	link	NOUN	NN	Number=Sing	3	nsubj	_	start_char=300|end_char=304
+3	debunks	debunk	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=305|end_char=312
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=313|end_char=315
+5	.	.	PUNCT	.	_	3	punct	_	start_char=315|end_char=316
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=317|end_char=320
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=320|end_char=323
+3	so	so	ADV	RB	_	4	advmod	_	start_char=324|end_char=326
+4	lazy	lazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=327|end_char=331
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=332|end_char=335
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=336|end_char=344
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=345|end_char=349
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=350|end_char=353
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=354|end_char=357
+10	so	so	ADV	RB	_	11	advmod	_	start_char=358|end_char=360
+11	upset	upset	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=361|end_char=366
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=367|end_char=370
+13	get	get	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=371|end_char=374
+14	upset	upset	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=375|end_char=380
+15	when	when	SCONJ	WRB	PronType=Int	17	mark	_	start_char=381|end_char=385
+16	someone	someone	NOUN	NN	Number=Sing	17	nsubj	_	start_char=386|end_char=393
+17	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=394|end_char=400
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=401|end_char=403
+19	out	out	ADP	RP	_	17	compound:prt	_	start_char=404|end_char=407
+20	online	online	ADV	RB	Degree=Pos	17	advmod	_	start_char=408|end_char=414
+21	.	.	PUNCT	.	_	4	punct	_	start_char=414|end_char=415
+

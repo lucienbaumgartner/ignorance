@@ -1,0 +1,30 @@
+1	Lol	lol	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	no	no	INTJ	UH	_	6	discourse	_	start_char=4|end_char=6
+3	,	,	PUNCT	,	_	6	punct	_	start_char=6|end_char=7
+4	now	now	ADV	RB	_	6	advmod	_	start_char=8|end_char=11
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=12|end_char=15
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+7	to	to	PART	TO	_	10	mark	_	start_char=21|end_char=23
+8	actually	actually	ADV	RB	_	10	advmod	_	start_char=24|end_char=32
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=33|end_char=35
+10	funny	funny	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=36|end_char=41
+11	instead	instead	ADV	RB	_	13	case	_	start_char=42|end_char=49
+12	of	of	ADP	IN	_	11	fixed	_	start_char=50|end_char=52
+13	racist	racist	ADJ	JJ	Degree=Pos	10	obl	_	start_char=53|end_char=59
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=60|end_char=63
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=64|end_char=72
+16	.	.	PUNCT	.	_	6	punct	_	start_char=72|end_char=73
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=74|end_char=78
+2	might	might	AUX	MD	VerbForm=Fin	4	aux	_	start_char=79|end_char=84
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=85|end_char=87
+4	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=88|end_char=91
+5	for	for	ADP	IN	_	6	case	_	start_char=92|end_char=95
+6	people	people	NOUN	NNS	Number=Plur	4	obl	_	start_char=96|end_char=102
+7	like	like	ADP	IN	_	8	case	_	start_char=103|end_char=107
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	nmod	_	start_char=108|end_char=111
+9	,	,	PUNCT	,	_	11	punct	_	start_char=111|end_char=112
+10	too	too	ADV	RB	_	11	advmod	_	start_char=113|end_char=116
+11	bad	bad	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=117|end_char=120
+12	.	.	PUNCT	.	_	4	punct	_	start_char=120|end_char=121
+

@@ -1,0 +1,18 @@
+1	YOu	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	'd	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=3|end_char=5
+3	be	be	AUX	VB	VerbForm=Inf	4	aux	_	start_char=6|end_char=8
+4	staring	stare	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=9|end_char=16
+5	right	right	ADV	RB	_	7	advmod	_	start_char=17|end_char=22
+6	at	at	ADP	IN	_	7	case	_	start_char=23|end_char=25
+7	eachother	eachother	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obl	_	start_char=26|end_char=35
+8	then	then	ADV	RB	PronType=Dem	4	advmod	_	start_char=36|end_char=40
+9	.	.	PUNCT	.	_	4	punct	_	start_char=40|end_char=41
+
+1	Both	both	CCONJ	CC	_	2	cc:preconj	_	start_char=42|end_char=46
+2	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=52
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=53|end_char=56
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=57|end_char=64
+5	of	of	ADP	IN	_	6	case	_	start_char=65|end_char=67
+6	one	one	NUM	CD	NumType=Card	4	obl	_	start_char=68|end_char=71
+7	another	another	DET	DT	_	6	nmod	_	start_char=72|end_char=79
+

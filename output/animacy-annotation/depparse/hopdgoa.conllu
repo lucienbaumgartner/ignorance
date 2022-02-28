@@ -1,0 +1,14 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=8
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=19
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=20|end_char=23
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=24|end_char=32
+6	of	of	ADP	IN	_	10	mark	_	start_char=33|end_char=35
+7	how	how	SCONJ	WRB	PronType=Int	3	obl	_	start_char=36|end_char=39
+8	things	thing	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=40|end_char=46
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=47|end_char=55
+10	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=56|end_char=60
+11	in	in	ADP	IN	_	13	case	_	start_char=61|end_char=63
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=64|end_char=67
+13	system	system	NOUN	NN	Number=Sing	10	obl	_	start_char=68|end_char=74
+

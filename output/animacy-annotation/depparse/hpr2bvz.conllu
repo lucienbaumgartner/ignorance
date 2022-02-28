@@ -1,0 +1,32 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=0|end_char=2
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=3|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+4	real	real	ADJ	JJ	Degree=Pos	5	amod	_	start_char=10|end_char=14
+5	post	post	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=19
+6	?	?	PUNCT	.	_	5	punct	_	start_char=19|end_char=20
+
+1	Are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=24
+2	there	there	PRON	EX	_	1	expl	_	start_char=25|end_char=30
+3	seriously	seriously	ADV	RB	_	4	amod	_	start_char=31|end_char=40
+4	people	people	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=41|end_char=47
+5	out	out	ADV	RB	_	6	advmod	_	start_char=48|end_char=51
+6	there	there	ADV	RB	PronType=Dem	4	advmod	_	start_char=52|end_char=57
+7	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=58|end_char=62
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=63|end_char=66
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=67|end_char=71
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=72|end_char=80
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=81|end_char=84
+12	blatantly	blatantly	ADV	RB	_	13	advmod	_	start_char=85|end_char=94
+13	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	10	conj	_	start_char=95|end_char=108
+14	towards	towards	ADP	IN	_	15	case	_	start_char=109|end_char=116
+15	someone	someone	PRON	NN	Number=Sing	13	obl	_	start_char=117|end_char=124
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=125|end_char=129
+17	supposedly	supposedly	ADV	RB	_	18	advmod	_	start_char=130|end_char=140
+18	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=141|end_char=145
+19	for	for	ADP	IN	_	18	obl	_	start_char=146|end_char=149
+20	?	?	PUNCT	.	_	1	punct	_	start_char=149|end_char=150
+
+1	YTA	YTA	PROPN	NNP	Number=Sing	0	root	_	start_char=151|end_char=154
+2	x	x	SYM	SYM	_	3	case	_	start_char=155|end_char=156
+3	1000	1000	NUM	CD	NumType=Card	1	nmod	_	start_char=157|end_char=161
+

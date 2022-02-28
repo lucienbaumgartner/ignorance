@@ -1,0 +1,24 @@
+1	Come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	on	on	ADV	RB	_	1	advmod	_	start_char=5|end_char=7
+3	!	!	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	What	what	PRON	WP	PronType=Int	4	obj	_	start_char=9|end_char=13
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=14|end_char=16
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=17|end_char=20
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=21|end_char=26
+5	?	?	PUNCT	.	_	4	punct	_	start_char=26|end_char=27
+
+1	Of	of	ADP	IN	_	5	advmod	_	start_char=28|end_char=30
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=31|end_char=37
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=38|end_char=42
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=42|end_char=44
+5	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=51
+6	AND	and	CCONJ	CC	_	7	cc	_	start_char=52|end_char=55
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=56|end_char=64
+8	of	of	ADP	IN	_	9	case	_	start_char=65|end_char=67
+9	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=68|end_char=71
+10	to	to	PART	TO	_	11	mark	_	start_char=72|end_char=74
+11	say	say	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=75|end_char=78
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=79|end_char=83
+13	.	.	PUNCT	.	_	5	punct	_	start_char=83|end_char=84
+

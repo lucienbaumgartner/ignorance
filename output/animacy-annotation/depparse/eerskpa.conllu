@@ -1,0 +1,21 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	president	president	NOUN	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=14|end_char=16
+4	spoiled	spoiled	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	.	.	PUNCT	.	_	4	punct	_	start_char=37|end_char=38
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=39|end_char=43
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=44|end_char=48
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=48|end_char=51
+4	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=52|end_char=56
+5	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=57|end_char=60
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=61|end_char=62
+7	“	''	PUNCT	``	_	9	punct	_	start_char=63|end_char=64
+8	poster	poster	NOUN	NN	Number=Sing	9	compound	_	start_char=64|end_char=70
+9	child	child	NOUN	NN	Number=Sing	4	xcomp	_	start_char=71|end_char=76
+10	of	of	ADP	IN	_	11	case	_	start_char=77|end_char=79
+11	autism	autism	NOUN	NN	Number=Sing	9	nmod	_	start_char=80|end_char=86
+12	”	''	PUNCT	''	_	9	punct	_	start_char=86|end_char=87
+

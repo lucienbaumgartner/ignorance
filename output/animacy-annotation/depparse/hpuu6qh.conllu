@@ -1,0 +1,46 @@
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=0|end_char=1
+2	priest	priest	NOUN	NN	Number=Sing	0	root	_	start_char=2|end_char=8
+3	...	...	PUNCT	.	_	2	punct	_	start_char=8|end_char=11
+
+1	For	for	ADP	IN	_	3	case	_	start_char=12|end_char=15
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	start_char=16|end_char=21
+3	contact	contact	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=29
+4	...	...	PUNCT	.	_	3	punct	_	start_char=29|end_char=32
+
+1	Hello	hello	INTJ	UH	_	0	root	_	start_char=33|end_char=38
+2	!	!	PUNCT	.	_	1	punct	_	start_char=38|end_char=39
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=40|end_char=42
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=42|end_char=45
+3	humans	human	NOUN	NNS	Number=Plur	0	root	_	start_char=46|end_char=52
+4	,	,	PUNCT	,	_	5	punct	_	start_char=52|end_char=53
+5	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=54|end_char=58
+6	to	to	PART	TO	_	7	mark	_	start_char=59|end_char=61
+7	know	know	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=62|end_char=66
+8	just	just	ADV	RB	_	11	advmod	_	start_char=67|end_char=71
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=72|end_char=75
+10	wilfully	wilfully	ADV	RB	_	11	advmod	_	start_char=76|end_char=84
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=85|end_char=93
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=94|end_char=97
+13	delusional	delusional	ADJ	JJ	Degree=Pos	11	conj	_	start_char=98|end_char=108
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	start_char=109|end_char=111
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=112|end_char=115
+16	?	?	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	Well	well	INTJ	UH	_	2	discourse	_	start_char=117|end_char=121
+2	talk	talk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=122|end_char=126
+3	to	to	ADP	IN	_	5	case	_	start_char=127|end_char=129
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=130|end_char=134
+5	pedo	pedo	NOUN	NN	Number=Sing	2	obl	_	start_char=135|end_char=139
+6	dressed	dress	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	_	start_char=140|end_char=147
+7	as	as	ADP	IN	_	9	case	_	start_char=148|end_char=150
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=151|end_char=152
+9	wizard	wizard	NOUN	NN	Number=Sing	6	obl	_	start_char=153|end_char=159
+10	!	!	PUNCT	.	_	2	punct	_	start_char=159|end_char=160
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=161|end_char=163
+2	teaches	teach	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=164|end_char=171
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	iobj	_	start_char=172|end_char=174
+4	mortality	mortality	NOUN	NN	Number=Sing	2	obj	_	start_char=175|end_char=184
+5	!	!	PUNCT	.	_	2	punct	_	start_char=184|end_char=185
+

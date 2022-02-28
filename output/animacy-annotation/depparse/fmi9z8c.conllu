@@ -1,0 +1,35 @@
+1	"	"	PUNCT	``	_	6	punct	_	start_char=0|end_char=1
+2	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=1|end_char=4
+3	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	_	start_char=5|end_char=10
+4	monkeys	monkey	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=11|end_char=18
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=19|end_char=22
+6	cloned	clone	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=23|end_char=29
+7	,	,	PUNCT	,	_	13	punct	_	start_char=29|end_char=30
+8	and	and	CCONJ	CC	_	13	cc	_	start_char=31|end_char=34
+9	first	first	ADV	RB	_	11	advmod	_	start_char=35|end_char=40
+10	genetically	genetically	ADV	RB	_	11	advmod	_	start_char=41|end_char=52
+11	modified	modify	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	start_char=53|end_char=61
+12	humans	human	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=62|end_char=68
+13	reported	report	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	_	start_char=69|end_char=77
+14	,	,	PUNCT	,	_	13	punct	_	start_char=77|end_char=78
+15	in	in	ADP	IN	_	16	case	_	start_char=79|end_char=81
+16	China	China	PROPN	NNP	Number=Sing	13	obl	_	start_char=82|end_char=87
+17	.	.	PUNCT	.	_	6	punct	_	start_char=87|end_char=88
+18	"	"	PUNCT	''	_	6	punct	_	start_char=88|end_char=89
+19	-	-	SYM	SYM	_	20	case	_	start_char=90|end_char=91
+20	2018	2018	NUM	CD	NumType=Card	13	obl	_	start_char=92|end_char=96
+
+1	Am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=98|end_char=100
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=101|end_char=102
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=103|end_char=106
+4	only	only	ADJ	JJ	Degree=Pos	5	amod	_	start_char=107|end_char=111
+5	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=112|end_char=115
+6	surprised	surprised	ADJ	JJ	Degree=Pos	5	amod	_	start_char=116|end_char=125
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=126|end_char=129
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=130|end_char=137
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=138|end_char=142
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=143|end_char=147
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	start_char=148|end_char=151
+12	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	start_char=152|end_char=161
+13	?	?	PUNCT	.	_	5	punct	_	start_char=161|end_char=162
+

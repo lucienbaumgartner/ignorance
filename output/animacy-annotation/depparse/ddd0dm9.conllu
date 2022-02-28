@@ -1,0 +1,19 @@
+1	IN	in	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	GENERAL	GENERAL	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=3|end_char=10
+3	CONSPIRE	conspire	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=19
+4	TO	to	PART	TO	_	5	mark	_	start_char=20|end_char=22
+5	PRODUCE	produce	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=23|end_char=30
+6	AN	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=31|end_char=33
+7	UNAWARE	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=34|end_char=41
+8	AND	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	COMPLIANT	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=55
+10	CITIZENRY	citizenry	NOUN	NN	Number=Sing	5	obj	_	start_char=56|end_char=65
+11	.	.	PUNCT	.	_	3	punct	_	start_char=65|end_char=66
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=67|end_char=68
+2	Bill	Bill	PROPN	NNP	Number=Sing	0	root	_	start_char=68|end_char=72
+3	Ivey	Ivey	PROPN	NNP	Number=Sing	2	flat	_	start_char=73|end_char=77
+4	to	to	ADP	IN	_	5	case	_	start_char=78|end_char=80
+5	John	John	PROPN	NNP	Number=Sing	2	nmod	_	start_char=81|end_char=85
+6	Podesta	Podesta	PROPN	NNP	Number=Sing	5	flat	_	start_char=86|end_char=93
+

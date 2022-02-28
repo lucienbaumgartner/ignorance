@@ -1,0 +1,45 @@
+1	Anyone	anyone	PRON	NN	Number=Sing	6	nsubj	_	start_char=0|end_char=6
+2	unaware	unaware	ADJ	JJ	Degree=Pos	1	amod	_	start_char=7|end_char=14
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=15|end_char=18
+4	interested	interested	ADJ	JJ	Degree=Pos	2	conj	_	start_char=19|end_char=29
+5	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=30|end_char=36
+6	look	look	VERB	VB	VerbForm=Inf	0	root	_	start_char=37|end_char=41
+7	into	into	ADP	IN	_	9	case	_	start_char=42|end_char=46
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=47|end_char=50
+9	ties	tie	NOUN	NNS	Number=Plur	6	obl	_	start_char=51|end_char=55
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=56|end_char=59
+11	Biden	Biden	PROPN	NNP	Number=Sing	15	nsubj	_	start_char=60|end_char=65
+12	family	family	NOUN	NN	Number=Sing	11	flat	_	start_char=66|end_char=72
+13	already	already	ADV	RB	_	15	advmod	_	start_char=73|end_char=80
+14	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	aux	_	start_char=81|end_char=84
+15	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	9	acl:relcl	_	start_char=85|end_char=96
+16	in	in	ADP	IN	_	17	case	_	start_char=97|end_char=99
+17	Ukraine	Ukraine	PROPN	NNP	Number=Sing	15	obl	_	start_char=100|end_char=107
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=108|end_char=111
+19	last	last	ADJ	JJ	Degree=Pos	20	amod	_	start_char=112|end_char=116
+20	time	time	NOUN	NN	Number=Sing	15	obl:tmod	_	start_char=117|end_char=121
+21	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=122|end_char=123
+22	Russian	Russian	ADJ	JJ	Degree=Pos	24	amod	_	start_char=124|end_char=131
+23	military	military	ADJ	JJ	Degree=Pos	24	amod	_	start_char=132|end_char=140
+24	buildup	buildup	NOUN	NN	Number=Sing	25	nsubj	_	start_char=141|end_char=148
+25	occurred	occur	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	20	acl:relcl	_	start_char=149|end_char=157
+26	.	.	PUNCT	.	_	6	punct	_	start_char=157|end_char=158
+
+1	Corruption	corruption	NOUN	NN	Number=Sing	0	root	_	start_char=159|end_char=169
+2	at	at	ADP	IN	_	4	case	_	start_char=170|end_char=172
+3	every	every	DET	DT	_	4	det	_	start_char=173|end_char=178
+4	turn	turn	NOUN	NN	Number=Sing	1	nmod	_	start_char=179|end_char=183
+5	these	this	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=184|end_char=189
+6	days	day	NOUN	NNS	Number=Plur	1	nmod:tmod	_	start_char=190|end_char=194
+7	.	.	PUNCT	.	_	1	punct	_	start_char=194|end_char=195
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=196|end_char=199
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=199|end_char=202
+3	right	right	ADJ	JJ	Degree=Pos	4	amod	_	start_char=203|end_char=208
+4	op	op	NOUN	NN	Number=Sing	0	root	_	start_char=209|end_char=211
+5	,	,	PUNCT	,	_	4	punct	_	start_char=211|end_char=212
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=213|end_char=215
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=215|end_char=217
+8	surreal	surreal	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=218|end_char=225
+9	.	.	PUNCT	.	_	4	punct	_	start_char=225|end_char=226
+

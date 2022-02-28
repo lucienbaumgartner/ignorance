@@ -1,0 +1,14 @@
+1	Obnoxious	obnoxious	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=9
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=10|end_char=13
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=14|end_char=22
+4	?	?	PUNCT	.	_	1	punct	_	start_char=22|end_char=23
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=24|end_char=28
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=34
+3	rather	rather	ADV	RB	_	4	advmod	_	start_char=35|end_char=41
+4	harsh	harsh	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=42|end_char=47
+5	for	for	ADP	IN	_	8	case	_	start_char=48|end_char=51
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=52|end_char=53
+7	harmless	harmless	ADJ	JJ	Degree=Pos	8	amod	_	start_char=54|end_char=62
+8	mistake	mistake	NOUN	NN	Number=Sing	4	obl	_	start_char=63|end_char=70
+

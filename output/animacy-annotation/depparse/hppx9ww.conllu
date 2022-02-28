@@ -1,0 +1,44 @@
+1	Step	step	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	1	1	NUM	CD	NumType=Card	1	nummod	_	start_char=5|end_char=6
+3	:	:	PUNCT	:	_	1	punct	_	start_char=6|end_char=7
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=8|end_char=10
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	appos	_	start_char=11|end_char=19
+6	AND	and	CCONJ	CC	_	7	cc	_	start_char=20|end_char=23
+7	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=24|end_char=30
+
+1	Step	step	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=34
+2	2	2	NUM	CD	NumType=Card	1	nummod	_	start_char=35|end_char=36
+3	:	:	PUNCT	:	_	1	punct	_	start_char=36|end_char=37
+4	for	for	ADP	IN	_	6	case	_	start_char=38|end_char=41
+5	life	life	NOUN	NN	Number=Sing	6	compound	_	start_char=42|end_char=46
+6	advice	advice	NOUN	NN	Number=Sing	8	obl	_	start_char=47|end_char=53
+7	,	,	PUNCT	,	_	8	punct	_	start_char=53|end_char=54
+8	reach	reach	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=55|end_char=60
+9	out	out	ADP	RP	_	8	compound:prt	_	start_char=61|end_char=64
+10	to	to	ADP	IN	_	15	case	_	start_char=65|end_char=67
+11	another	another	DET	DT	_	15	det	_	start_char=68|end_char=75
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	amod	_	start_char=76|end_char=84
+13	,	,	PUNCT	,	_	15	punct	_	start_char=84|end_char=85
+14	stupid	stupid	ADJ	JJ	Degree=Pos	15	amod	_	start_char=86|end_char=92
+15	person	person	NOUN	NN	Number=Sing	8	obl	_	start_char=93|end_char=99
+
+1	Step	step	NOUN	NN	Number=Sing	0	root	_	start_char=99|end_char=103
+2	3	3	NUM	CD	NumType=Card	1	nummod	_	start_char=104|end_char=105
+3	:	:	PUNCT	:	_	1	punct	_	start_char=105|end_char=106
+4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	_	start_char=107|end_char=109
+5	ridiculed	ridicule	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	appos	_	start_char=110|end_char=119
+6	on	on	ADP	IN	_	7	case	_	start_char=120|end_char=122
+7	redditStep	redditStep	PROPN	NNP	Number=Sing	5	obl	_	start_char=123|end_char=133
+8	4	4	NUM	CD	NumType=Card	7	nummod	_	start_char=134|end_char=135
+9	:	:	PUNCT	:	_	5	punct	_	start_char=135|end_char=136
+10	(	(	PUNCT	-LRB-	_	11	punct	_	start_char=137|end_char=138
+11	pending	pend	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=138|end_char=145
+12	)	)	PUNCT	-RRB-	_	11	punct	_	start_char=145|end_char=146
+13	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	5	parataxis	_	start_char=147|end_char=150
+14	fucking	fuck	VERB	VBG	VerbForm=Ger	13	xcomp	_	start_char=151|end_char=158
+15	covid	covid	NOUN	NN	Number=Sing	14	obj	_	start_char=159|end_char=164
+16	like	like	ADP	IN	_	19	case	_	start_char=165|end_char=169
+17	any	any	DET	DT	_	19	det	_	start_char=170|end_char=173
+18	other	other	ADJ	JJ	Degree=Pos	19	amod	_	start_char=174|end_char=179
+19	moron	moron	NOUN	NN	Number=Sing	13	obl	_	start_char=180|end_char=185
+

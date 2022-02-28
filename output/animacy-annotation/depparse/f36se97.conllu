@@ -1,0 +1,63 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=7|end_char=10
+4	power	power	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=16
+5	of	of	ADP	IN	_	6	case	_	start_char=17|end_char=19
+6	propaganda	propaganda	NOUN	NN	Number=Sing	4	nmod	_	start_char=20|end_char=30
+7	.	.	PUNCT	.	_	4	punct	_	start_char=30|end_char=31
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=32|end_char=35
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=36|end_char=39
+3	convince	convince	VERB	VB	VerbForm=Inf	0	root	_	start_char=40|end_char=48
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=49|end_char=52
+5	stupid	stupid	ADJ	JJ	Degree=Pos	3	obj	_	start_char=53|end_char=59
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=60|end_char=63
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=64|end_char=72
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=73|end_char=77
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=78|end_char=82
+10	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=83|end_char=87
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=88|end_char=91
+12	"	"	PUNCT	``	_	13	punct	_	start_char=92|end_char=93
+13	truth	truth	NOUN	NN	Number=Sing	10	obj	_	start_char=93|end_char=98
+14	"	"	PUNCT	''	_	13	punct	_	start_char=98|end_char=99
+15	devoid	devoid	ADJ	JJ	Degree=Pos	13	amod	_	start_char=100|end_char=106
+16	of	of	ADP	IN	_	17	case	_	start_char=107|end_char=109
+17	facts	fact	NOUN	NNS	Number=Plur	15	obl	_	start_char=110|end_char=115
+18	,	,	PUNCT	,	_	21	punct	_	start_char=115|end_char=116
+19	and	and	CCONJ	CC	_	21	cc	_	start_char=117|end_char=120
+20	simultaneously	simultaneously	ADV	RB	_	21	advmod	_	start_char=121|end_char=135
+21	vilify	vilify	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	conj	_	start_char=136|end_char=142
+22	those	that	PRON	DT	Number=Plur|PronType=Dem	21	obj	_	start_char=143|end_char=148
+23	who	who	PRON	WP	PronType=Rel	24	nsubj	_	start_char=149|end_char=152
+24	seek	seek	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	start_char=153|end_char=157
+25	objective	objective	ADJ	JJ	Degree=Pos	26	amod	_	start_char=158|end_char=167
+26	truth	truth	NOUN	NN	Number=Sing	24	obj	_	start_char=168|end_char=173
+27	.	.	PUNCT	.	_	3	punct	_	start_char=173|end_char=174
+
+1	Stupidity	stupidity	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=175|end_char=184
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=185|end_char=188
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=189|end_char=191
+4	weaponized	weaponize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=192|end_char=202
+5	for	for	ADP	IN	_	7	case	_	start_char=203|end_char=206
+6	nefarious	nefarious	ADJ	JJ	Degree=Pos	7	amod	_	start_char=207|end_char=216
+7	purposes	purpose	NOUN	NNS	Number=Plur	4	obl	_	start_char=217|end_char=225
+8	.	.	PUNCT	.	_	4	punct	_	start_char=225|end_char=226
+
+1	Truth	Truth	NOUN	NN	Number=Sing	3	nsubj	_	start_char=227|end_char=232
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=233|end_char=235
+3	hard	hard	ADJ	JJ	Degree=Pos	0	root	_	start_char=236|end_char=240
+4	;	;	PUNCT	,	_	3	punct	_	start_char=240|end_char=241
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=242|end_char=244
+6	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=245|end_char=250
+7	time	time	NOUN	NN	Number=Sing	6	obj	_	start_char=251|end_char=255
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=256|end_char=259
+9	effort	effort	NOUN	NN	Number=Sing	7	conj	_	start_char=260|end_char=266
+10	.	.	PUNCT	.	_	3	punct	_	start_char=266|end_char=267
+
+1	Ignorance	ignorance	NOUN	NN	Number=Sing	3	nsubj	_	start_char=268|end_char=277
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=278|end_char=280
+3	free	free	ADJ	JJ	Degree=Pos	0	root	_	start_char=281|end_char=285
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=286|end_char=289
+5	easy	easy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=290|end_char=294
+6	.	.	PUNCT	.	_	3	punct	_	start_char=294|end_char=295
+

@@ -1,0 +1,43 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=28
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=29|end_char=33
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=34|end_char=37
+8	can	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=38|end_char=41
+9	think	think	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=42|end_char=47
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=48|end_char=52
+11	shit	shit	NOUN	NN	Number=Sing	9	obj	_	start_char=53|end_char=57
+12	in	in	ADP	IN	_	14	case	_	start_char=58|end_char=60
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=61|end_char=62
+14	pandemic	pandemic	NOUN	NN	Number=Sing	9	obl	_	start_char=63|end_char=71
+15	.	.	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	Sometimes	sometimes	ADV	RB	_	3	advmod	_	start_char=74|end_char=83
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=84|end_char=86
+3	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=87|end_char=91
+4	to	to	PART	TO	_	5	mark	_	start_char=92|end_char=94
+5	think	think	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=95|end_char=100
+6	about	about	ADP	IN	_	8	case	_	start_char=101|end_char=106
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=107|end_char=110
+8	society	society	NOUN	NN	Number=Sing	5	obl	_	start_char=111|end_char=118
+9	as	as	ADP	IN	_	11	case	_	start_char=119|end_char=121
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=122|end_char=123
+11	whole	whole	NOUN	NN	Number=Sing	5	obl	_	start_char=124|end_char=129
+12	and	and	CCONJ	CC	_	17	cc	_	start_char=130|end_char=133
+13	not	not	PART	RB	Polarity=Neg	17	advmod	_	start_char=134|end_char=137
+14	just	just	ADV	RB	_	17	advmod	_	start_char=138|end_char=142
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=143|end_char=146
+16	selfish	selfish	ADJ	JJ	Degree=Pos	17	amod	_	start_char=147|end_char=154
+17	fReEdUmBz	freedumbz	NOUN	NN	Number=Sing	11	conj	_	start_char=155|end_char=164
+18	.	.	PUNCT	.	_	3	punct	_	start_char=164|end_char=165
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=166|end_char=170
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=171|end_char=173
+3	one	one	NUM	CD	NumType=Card	0	root	_	start_char=174|end_char=177
+4	of	of	ADP	IN	_	6	case	_	start_char=178|end_char=180
+5	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=181|end_char=186
+6	times	time	NOUN	NNS	Number=Plur	3	nmod	_	start_char=187|end_char=192
+7	.	.	PUNCT	.	_	3	punct	_	start_char=192|end_char=193
+

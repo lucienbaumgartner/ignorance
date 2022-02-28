@@ -1,0 +1,50 @@
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=0|end_char=6
+2	explain	explain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=7|end_char=14
+3	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=15|end_char=18
+4	waste	waste	NOUN	NN	Number=Sing	9	nsubj:pass	_	start_char=19|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	pollution	pollution	NOUN	NN	Number=Sing	4	conj	_	start_char=29|end_char=38
+7	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=39|end_char=44
+8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	_	start_char=45|end_char=47
+9	eliminated	eliminate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=48|end_char=58
+10	by	by	SCONJ	IN	_	11	mark	_	start_char=59|end_char=61
+11	having	have	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=62|end_char=68
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=69|end_char=72
+13	government	government	NOUN	NN	Number=Sing	11	obj	_	start_char=73|end_char=83
+14	control	control	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=84|end_char=91
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=92|end_char=95
+16	means	means	NOUN	NNS	Number=Plur	14	obj	_	start_char=96|end_char=101
+17	of	of	ADP	IN	_	18	case	_	start_char=102|end_char=104
+18	production	production	NOUN	NN	Number=Sing	16	nmod	_	start_char=105|end_char=115
+19	.	.	PUNCT	.	_	2	punct	_	start_char=115|end_char=116
+
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=117|end_char=120
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=121|end_char=125
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=126|end_char=130
+4	eliminate	eliminate	VERB	VB	VerbForm=Inf	0	root	_	start_char=131|end_char=140
+5	bi-products	bi-product	NOUN	NNS	Number=Plur	4	obj	_	start_char=141|end_char=152
+6	of	of	ADP	IN	_	9	case	_	start_char=154|end_char=156
+7	essential	essential	ADJ	JJ	Degree=Pos	9	amod	_	start_char=157|end_char=166
+8	manufacturing	manufacturing	NOUN	NN	Number=Sing	9	compound	_	start_char=167|end_char=180
+9	processes	process	NOUN	NNS	Number=Plur	5	nmod	_	start_char=181|end_char=190
+10	?	?	PUNCT	.	_	4	punct	_	start_char=190|end_char=191
+
+1	In	in	ADP	IN	_	2	case	_	start_char=192|end_char=194
+2	conclusion🙄	conclusion🙄	NOUN	NN	Number=Sing	0	root	_	start_char=195|end_char=206
+3	really	really	ADV	RB	_	2	advmod	_	start_char=207|end_char=213
+4	?	?	PUNCT	.	_	2	punct	_	start_char=213|end_char=214
+
+1	Nice	nice	ADJ	JJ	Degree=Pos	2	amod	_	start_char=215|end_char=219
+2	ego	ego	NOUN	NN	Number=Sing	0	root	_	start_char=220|end_char=223
+3	lol	lol	INTJ	UH	_	2	discourse	_	start_char=224|end_char=227
+4	.	.	PUNCT	.	_	2	punct	_	start_char=227|end_char=228
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=229|end_char=237
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=238|end_char=241
+3	arrogant	arrogant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=242|end_char=250
+4	are	be	AUX	VBP	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=251|end_char=254
+5	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=254|end_char=257
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=258|end_char=259
+7	good	good	ADJ	JJ	Degree=Pos	8	amod	_	start_char=260|end_char=264
+8	combo	combo	NOUN	NN	Number=Sing	0	root	_	start_char=265|end_char=270
+

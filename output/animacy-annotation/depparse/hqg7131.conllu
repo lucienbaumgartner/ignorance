@@ -1,0 +1,30 @@
+1	Omg	omg	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+3	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=11|end_char=13
+5	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=14|end_char=18
+6	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=19|end_char=25
+7	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=26|end_char=30
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	start_char=31|end_char=33
+9	advice	advice	NOUN	NN	Number=Sing	7	obj	_	start_char=34|end_char=40
+10	!	!	PUNCT	.	_	3	punct	_	start_char=40|end_char=41
+
+1	Ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=44|end_char=46
+2	n't	not	PART	RB	_	5	advmod	_	start_char=46|end_char=49
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=50|end_char=54
+4	just	just	ADV	RB	_	5	advmod	_	start_char=55|end_char=59
+5	let	let	VERB	VB	VerbForm=Inf	0	root	_	start_char=60|end_char=63
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	start_char=64|end_char=66
+7	remain	remain	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=67|end_char=73
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=74|end_char=82
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=83|end_char=86
+10	angry	angry	ADJ	JJ	Degree=Pos	8	conj	_	start_char=87|end_char=92
+11	about	about	ADP	IN	_	12	case	_	start_char=93|end_char=98
+12	something	something	PRON	NN	Number=Sing	8	obl	_	start_char=99|end_char=108
+13	that	that	PRON	WDT	PronType=Rel	17	nsubj:pass	_	start_char=109|end_char=113
+14	could	could	AUX	MD	VerbForm=Fin	17	aux	_	start_char=114|end_char=119
+15	be	be	AUX	VB	VerbForm=Inf	17	aux:pass	_	start_char=120|end_char=122
+16	easily	easily	ADV	RB	_	17	advmod	_	start_char=123|end_char=129
+17	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	acl:relcl	_	start_char=130|end_char=135
+18	!	!	PUNCT	.	_	5	punct	_	start_char=135|end_char=136
+

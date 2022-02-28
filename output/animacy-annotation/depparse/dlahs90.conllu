@@ -1,0 +1,32 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	.	.	PUNCT	.	_	2	punct	_	start_char=7|end_char=8
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=10|end_char=13
+2	word	word	NOUN	NN	Number=Sing	7	nsubj	_	start_char=14|end_char=18
+3	"	"	PUNCT	``	_	4	punct	_	start_char=19|end_char=20
+4	conspire	conspire	NOUN	NN	Number=Sing	2	appos	_	start_char=20|end_char=28
+5	"	"	PUNCT	''	_	4	punct	_	start_char=28|end_char=29
+6	also	also	ADV	RB	_	7	advmod	_	start_char=30|end_char=34
+7	puts	put	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=35|end_char=39
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=40|end_char=42
+9	into	into	ADP	IN	_	10	case	_	start_char=43|end_char=47
+10	context	context	NOUN	NN	Number=Sing	7	obl	_	start_char=48|end_char=55
+11	.	.	PUNCT	.	_	7	punct	_	start_char=55|end_char=56
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=58|end_char=62
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=63|end_char=67
+3	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	start_char=68|end_char=70
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=71|end_char=78
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=79|end_char=82
+6	compliant	compliant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=83|end_char=92
+7	so	so	ADV	RB	_	10	mark	_	start_char=93|end_char=95
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=96|end_char=100
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=101|end_char=104
+10	eat	eat	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=105|end_char=108
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=109|end_char=112
+12	children	child	NOUN	NNS	Number=Plur	10	obj	_	start_char=113|end_char=121
+13	in	in	ADP	IN	_	14	case	_	start_char=122|end_char=124
+14	peace	peace	NOUN	NN	Number=Sing	10	obl	_	start_char=125|end_char=130
+15	.	.	PUNCT	.	_	2	punct	_	start_char=130|end_char=131
+

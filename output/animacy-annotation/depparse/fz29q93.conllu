@@ -1,0 +1,75 @@
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=5|end_char=8
+3	ever	ever	ADV	RB	_	4	advmod	_	start_char=9|end_char=13
+4	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=14|end_char=19
+5	in	in	ADP	IN	_	8	case	_	start_char=20|end_char=22
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=23|end_char=24
+7	rural	rural	ADJ	JJ	Degree=Pos	8	amod	_	start_char=25|end_char=30
+8	area	area	NOUN	NN	Number=Sing	4	obl	_	start_char=31|end_char=35
+9	?	?	PUNCT	.	_	4	punct	_	start_char=35|end_char=36
+
+1	Because	because	SCONJ	IN	_	7	mark	_	start_char=37|end_char=44
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=45|end_char=47
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=48|end_char=50
+4	still	still	ADV	RB	_	7	advmod	_	start_char=51|end_char=56
+5	absolutely	absolutely	ADV	RB	_	7	advmod	_	start_char=57|end_char=67
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=68|end_char=71
+7	case	case	NOUN	NN	Number=Sing	0	root	_	start_char=72|end_char=76
+8	today	today	NOUN	NN	Number=Sing	7	obl:tmod	_	start_char=77|end_char=82
+9	.	.	PUNCT	.	_	7	punct	_	start_char=82|end_char=83
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=84|end_char=85
+2	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=86|end_char=89
+3	plenty	plenty	NOUN	NN	Number=Sing	2	obj	_	start_char=90|end_char=96
+4	of	of	ADP	IN	_	6	case	_	start_char=97|end_char=99
+5	these	this	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=100|end_char=105
+6	people	people	NOUN	NNS	Number=Plur	3	nmod	_	start_char=106|end_char=112
+7	at	at	ADP	IN	_	11	case	_	start_char=113|end_char=115
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=116|end_char=118
+9	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=119|end_char=122
+10	high	high	ADJ	JJ	Degree=Pos	11	amod	_	start_char=123|end_char=127
+11	school	school	NOUN	NN	Number=Sing	2	obl	_	start_char=128|end_char=134
+12	less	less	ADJ	JJR	Degree=Cmp	15	advmod	_	start_char=135|end_char=139
+13	than	than	ADP	IN	_	12	fixed	_	start_char=140|end_char=144
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=145|end_char=146
+15	decade	decade	NOUN	NN	Number=Sing	16	obl:npmod	_	start_char=147|end_char=153
+16	ago	ago	ADV	RB	_	2	advmod	_	start_char=154|end_char=157
+17	.	.	PUNCT	.	_	2	punct	_	start_char=157|end_char=158
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=159|end_char=162
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=163|end_char=167
+3	associated	associate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=168|end_char=178
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=179|end_char=181
+5	with	with	ADP	IN	_	7	case	_	start_char=182|end_char=186
+6	drinking	drinking	NOUN	NN	Number=Sing	7	compound	_	start_char=187|end_char=195
+7	beer	beer	NOUN	NN	Number=Sing	3	obl	_	start_char=196|end_char=200
+8	,	,	PUNCT	,	_	11	punct	_	start_char=200|end_char=201
+9	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=202|end_char=207
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=208|end_char=209
+11	redneck	redneck	NOUN	NN	Number=Sing	3	advcl	_	start_char=210|end_char=217
+12	,	,	PUNCT	,	_	14	punct	_	start_char=217|end_char=218
+13	country	country	NOUN	NN	Number=Sing	14	compound	_	start_char=219|end_char=226
+14	music	music	NOUN	NN	Number=Sing	11	conj	_	start_char=227|end_char=232
+15	,	,	PUNCT	,	_	16	punct	_	start_char=232|end_char=233
+16	fishing	fishing	NOUN	NN	Number=Sing	11	conj	_	start_char=234|end_char=241
+17	,	,	PUNCT	,	_	18	punct	_	start_char=241|end_char=242
+18	etc	etc	X	FW	_	11	conj	_	start_char=243|end_char=246
+19	.	.	PUNCT	.	_	3	punct	_	start_char=246|end_char=247
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=248|end_char=252
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=253|end_char=256
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=257|end_char=263
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=264|end_char=267
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=268|end_char=276
+6	.	.	PUNCT	.	_	3	punct	_	start_char=276|end_char=277
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=278|end_char=282
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=283|end_char=287
+3	n't	not	PART	RB	_	4	advmod	_	start_char=287|end_char=290
+4	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=291|end_char=295
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=296|end_char=300
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=301|end_char=304
+7	all	all	ADV	RB	_	8	advmod	_	start_char=305|end_char=308
+8	racist	racist	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=309|end_char=315
+9	.	.	PUNCT	.	_	4	punct	_	start_char=315|end_char=316
+

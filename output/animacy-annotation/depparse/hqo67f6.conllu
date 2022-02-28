@@ -1,0 +1,65 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	assumption	assumption	NOUN	NN	Number=Sing	10	nsubj	_	start_char=5|end_char=15
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=16|end_char=18
+4	actually	actually	ADV	RB	_	10	advmod	_	start_char=19|end_char=27
+5	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=28|end_char=31
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=32|end_char=40
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=41|end_char=44
+8	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	6	conj	_	start_char=45|end_char=58
+9	view	view	NOUN	NN	Number=Sing	10	compound	_	start_char=59|end_char=63
+10	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=64|end_char=69
+11	.	.	PUNCT	.	_	10	punct	_	start_char=69|end_char=70
+
+1	All	all	DET	DT	_	2	det	_	start_char=71|end_char=74
+2	beliefs	belief	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=75|end_char=82
+3	of	of	ADP	IN	_	4	case	_	start_char=83|end_char=85
+4	anything	anything	NOUN	NN	Number=Sing	2	nmod	_	start_char=86|end_char=94
+5	start	start	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=95|end_char=100
+6	from	from	ADP	IN	_	8	case	_	start_char=101|end_char=105
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=106|end_char=108
+8	assumption	assumption	NOUN	NN	Number=Sing	5	obl	_	start_char=109|end_char=119
+9	,	,	PUNCT	,	_	12	punct	_	start_char=119|end_char=120
+10	then	then	ADV	RB	PronType=Dem	12	advmod	_	start_char=121|end_char=125
+11	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=126|end_char=132
+12	want	want	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=133|end_char=137
+13	to	to	PART	TO	_	14	mark	_	start_char=138|end_char=140
+14	prove	prove	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=141|end_char=146
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=147|end_char=149
+16	.	.	PUNCT	.	_	5	punct	_	start_char=149|end_char=150
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=151|end_char=154
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=155|end_char=158
+3	scientific	scientific	ADJ	JJ	Degree=Pos	4	amod	_	start_char=159|end_char=169
+4	method	method	NOUN	NN	Number=Sing	0	root	_	start_char=170|end_char=176
+5	.	.	PUNCT	.	_	4	punct	_	start_char=176|end_char=177
+
+1	Nobody	nobody	PRON	NN	Number=Sing	3	nsubj	_	start_char=178|end_char=184
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=185|end_char=187
+3	denying	deny	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=188|end_char=195
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=196|end_char=200
+5	their	they	PRON	EX	Number=Plur	7	nsubj	_	start_char=201|end_char=206
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=207|end_char=209
+7	good	good	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=210|end_char=214
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=215|end_char=218
+9	bad	bad	ADJ	JJ	Degree=Pos	10	amod	_	start_char=219|end_char=222
+10	people	people	NOUN	NNS	Number=Plur	7	conj	_	start_char=223|end_char=229
+11	in	in	ADP	IN	_	13	case	_	start_char=230|end_char=232
+12	different	different	ADJ	JJ	Degree=Pos	13	amod	_	start_char=233|end_char=242
+13	religions	religion	NOUN	NNS	Number=Plur	10	nmod	_	start_char=243|end_char=252
+14	.	.	PUNCT	.	_	3	punct	_	start_char=252|end_char=253
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=254|end_char=256
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=257|end_char=260
+3	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=261|end_char=268
+4	about	about	ADP	IN	_	9	mark	_	start_char=269|end_char=274
+5	‘	'	PUNCT	``	_	9	punct	_	start_char=275|end_char=276
+6	why	why	SCONJ	WRB	PronType=Int	9	mark	_	start_char=276|end_char=279
+7	’	'	PUNCT	``	_	9	punct	_	start_char=279|end_char=280
+8	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=281|end_char=287
+9	started	start	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=288|end_char=295
+10	to	to	PART	TO	_	11	mark	_	start_char=296|end_char=298
+11	believe	believe	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=299|end_char=306
+12	.	.	PUNCT	.	_	3	punct	_	start_char=306|end_char=307
+
+1	Ugggg	Ugggg	PROPN	NNP	Number=Sing	0	root	_	start_char=308|end_char=313
+

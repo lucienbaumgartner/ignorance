@@ -1,0 +1,42 @@
+1	Dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=5|end_char=6
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=12|end_char=15
+4	same	same	ADJ	JJ	Degree=Pos	5	amod	_	start_char=16|end_char=20
+5	way	way	NOUN	NN	Number=Sing	2	obj	_	start_char=21|end_char=24
+6	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=26|end_char=28
+2	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=34
+3	weird	weird	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=35|end_char=40
+4	going	go	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=41|end_char=46
+5	on	on	ADP	RP	_	4	compound:prt	_	start_char=47|end_char=49
+6	to	to	ADP	IN	_	7	case	_	start_char=50|end_char=52
+7	TikTok	TikTok	PROPN	NNP	Number=Sing	4	obl	_	start_char=53|end_char=59
+8	as	as	ADP	IN	_	12	case	_	start_char=60|end_char=62
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=63|end_char=64
+10	23	23	NUM	CD	NumType=Card	11	nummod	_	start_char=65|end_char=67
+11	year	year	NOUN	NN	Number=Sing	12	obl:tmod	_	start_char=68|end_char=72
+12	old	old	ADJ	JJ	Degree=Pos	4	obl	_	start_char=73|end_char=76
+13	...	...	PUNCT	,	_	2	punct	_	start_char=76|end_char=79
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=79|end_char=81
+15	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=81|end_char=83
+16	also	also	ADV	RB	_	17	advmod	_	start_char=84|end_char=88
+17	frustrating	frustrating	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=89|end_char=100
+18	because	because	SCONJ	IN	_	21	mark	_	start_char=101|end_char=108
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	_	start_char=109|end_char=112
+20	can	can	AUX	MD	VerbForm=Fin	21	aux	_	start_char=113|end_char=116
+21	see	see	VERB	VB	VerbForm=Inf	17	advcl	_	start_char=117|end_char=120
+22	how	how	SCONJ	WRB	PronType=Int	23	mark	_	start_char=121|end_char=124
+23	immature	immature	ADJ	JJ	Degree=Pos	21	ccomp	_	start_char=125|end_char=133
+24	,	,	PUNCT	,	_	25	punct	_	start_char=133|end_char=134
+25	ignorant	ignorant	ADJ	JJ	Degree=Pos	23	conj	_	start_char=135|end_char=143
+26	and	and	CCONJ	CC	_	27	cc	_	start_char=144|end_char=147
+27	dumb	dumb	ADJ	JJ	Degree=Pos	23	conj	_	start_char=148|end_char=152
+28	some	some	DET	DT	_	29	det	_	start_char=153|end_char=157
+29	kids	kid	NOUN	NNS	Number=Plur	30	nsubj	_	start_char=158|end_char=162
+30	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=163|end_char=166
+31	lol	lol	INTJ	UH	_	2	discourse	_	start_char=167|end_char=170
+32	.	.	PUNCT	.	_	2	punct	_	start_char=170|end_char=171
+

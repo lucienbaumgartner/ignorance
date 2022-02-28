@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	really	really	ADV	RB	_	3	advmod	_	start_char=2|end_char=8
+3	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+4	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=14|end_char=20
+5	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=21|end_char=26
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=27|end_char=29
+7	more	more	ADV	RBR	_	8	advmod	_	start_char=30|end_char=34
+8	comfortable	comfortable	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=35|end_char=46
+9	saying	say	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=47|end_char=53
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	9	obj	_	start_char=54|end_char=58
+11	.	.	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+
+1	EASILY	easily	ADV	RB	_	11	advmod	_	start_char=60|end_char=66
+2	like	like	ADP	IN	_	4	case	_	start_char=67|end_char=71
+3	20	20	NUM	CD	NumType=Card	4	nummod	_	start_char=72|end_char=74
+4	%	%	SYM	NN	Number=Sing	11	nsubj:pass	_	start_char=74|end_char=75
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=76|end_char=78
+6	more	more	ADJ	JJR	Degree=Cmp	4	conj	_	start_char=79|end_char=83
+7	of	of	ADP	IN	_	9	case	_	start_char=84|end_char=86
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=87|end_char=90
+9	US	US	PROPN	NNP	Number=Sing	6	obl	_	start_char=91|end_char=93
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	start_char=94|end_char=96
+11	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=97|end_char=101
+12	up	up	ADP	IN	_	14	case	_	start_char=102|end_char=104
+13	of	of	ADP	IN	_	14	case	_	start_char=105|end_char=107
+14	garbage	garbage	NOUN	NN	Number=Sing	11	obl	_	start_char=108|end_char=115
+15	.	.	PUNCT	.	_	11	punct	_	start_char=115|end_char=116
+
+1	Like	like	ADP	IN	_	3	case	_	start_char=117|end_char=121
+2	genuine	genuine	ADJ	JJ	Degree=Pos	3	amod	_	start_char=122|end_char=129
+3	trash	trash	NOUN	NN	Number=Sing	0	root	_	start_char=130|end_char=135
+4	.	.	PUNCT	.	_	3	punct	_	start_char=135|end_char=136
+
+1	People	person	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=137|end_char=143
+2	whos	whos	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=144|end_char=148
+3	main	main	ADJ	JJ	Degree=Pos	5	amod	_	start_char=149|end_char=153
+4	defining	define	VERB	VBG	VerbForm=Ger	5	amod	_	start_char=154|end_char=162
+5	characteristics	characteristic	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=163|end_char=178
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=179|end_char=182
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=183|end_char=188
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=189|end_char=197
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=198|end_char=201
+10	hateful	hateful	ADJ	JJ	Degree=Pos	8	conj	_	start_char=202|end_char=209
+11	.	.	PUNCT	.	_	8	punct	_	start_char=209|end_char=210
+

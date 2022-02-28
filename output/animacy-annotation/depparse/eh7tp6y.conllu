@@ -1,0 +1,31 @@
+1	For	for	ADP	IN	_	7	case	_	start_char=0|end_char=3
+2	complicit	complicit	ADJ	JJ	Degree=Pos	7	amod	_	start_char=4|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	aware	aware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=23
+5	Liberal	liberal	ADJ	JJ	Degree=Pos	6	amod	_	start_char=24|end_char=31
+6	Party	party	NOUN	NN	Number=Sing	7	compound	_	start_char=32|end_char=37
+7	supporters	supporter	NOUN	NNS	Number=Plur	0	root	_	start_char=38|end_char=48
+8	*	*	PUNCT	NFP	_	7	punct	_	start_char=48|end_char=49
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=51|end_char=54
+2	majority	majority	NOUN	NN	Number=Sing	9	nsubj	_	start_char=55|end_char=63
+3	of	of	ADP	IN	_	5	case	_	start_char=64|end_char=66
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=67|end_char=72
+5	supporters	supporter	NOUN	NNS	Number=Plur	2	nmod	_	start_char=73|end_char=83
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=84|end_char=87
+7	just	just	ADV	RB	_	9	advmod	_	start_char=88|end_char=92
+8	wantonly	wantonly	ADV	RB	_	9	advmod	_	start_char=93|end_char=101
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=110
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=111|end_char=114
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=115|end_char=122
+12	that	that	SCONJ	IN	_	16	mark	_	start_char=123|end_char=127
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=128|end_char=132
+14	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=132|end_char=135
+15	not	not	PART	RB	_	16	advmod	_	start_char=136|end_char=139
+16	voting	voting	VERB	VBG	Tense=Pres|VerbForm=Part	11	ccomp	_	start_char=140|end_char=146
+17	in	in	ADP	IN	_	20	case	_	start_char=147|end_char=149
+18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=150|end_char=155
+19	best	good	ADJ	JJS	Degree=Sup	20	amod	_	start_char=156|end_char=160
+20	interests	interest	NOUN	NNS	Number=Plur	16	obl	_	start_char=161|end_char=170
+21	.	.	PUNCT	.	_	9	punct	_	start_char=170|end_char=171
+

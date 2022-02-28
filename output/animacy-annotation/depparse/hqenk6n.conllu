@@ -1,0 +1,49 @@
+1	Oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	,	,	PUNCT	,	_	2	punct	_	start_char=7|end_char=8
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=9|end_char=10
+5	true	true	ADJ	JJ	Degree=Pos	7	amod	_	start_char=11|end_char=15
+6	blue	blue	ADJ	JJ	Degree=Pos	7	amod	_	start_char=16|end_char=20
+7	racist	racist	NOUN	NN	Number=Sing	2	obj	_	start_char=21|end_char=27
+8	.	.	PUNCT	.	_	2	punct	_	start_char=27|end_char=28
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=30|end_char=31
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=32|end_char=36
+3	reporting	report	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=37|end_char=46
+4	jackholes	jackhole	NOUN	NNS	Number=Plur	3	obj	_	start_char=47|end_char=56
+5	like	like	ADP	IN	_	6	case	_	start_char=57|end_char=61
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	start_char=62|end_char=65
+7	.	.	PUNCT	.	_	2	punct	_	start_char=65|end_char=66
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=68|end_char=71
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=72|end_char=77
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=78|end_char=86
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=87|end_char=90
+5	uneducated	uneducated	ADJ	JJ	Degree=Pos	3	conj	_	start_char=91|end_char=101
+6	.	.	PUNCT	.	_	2	punct	_	start_char=101|end_char=102
+
+1	Be	be	AUX	VB	Mood=Imp|VerbForm=Fin	2	aux	_	start_char=104|end_char=106
+2	gone	go	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=107|end_char=111
+3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	start_char=112|end_char=118
+4	child	child	NOUN	NN	Number=Sing	2	obj	_	start_char=119|end_char=124
+5	,	,	PUNCT	,	_	8	punct	_	start_char=124|end_char=125
+6	no	no	DET	DT	_	7	det	_	start_char=127|end_char=129
+7	one	one	NOUN	NN	Number=Sing	8	nsubj	_	start_char=130|end_char=133
+8	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=134|end_char=139
+9	to	to	PART	TO	_	10	mark	_	start_char=140|end_char=142
+10	play	play	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=143|end_char=147
+11	with	with	ADP	IN	_	12	case	_	start_char=148|end_char=152
+12	someone	someone	PRON	NN	Number=Sing	10	obl	_	start_char=153|end_char=160
+13	who	who	PRON	WP	PronType=Rel	14	nsubj	_	start_char=161|end_char=164
+14	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=165|end_char=168
+15	two	two	NUM	CD	NumType=Card	17	nummod	_	start_char=169|end_char=172
+16	brains	brain	NOUN	NNS	Number=Plur	17	compound	_	start_char=173|end_char=179
+17	cells	cell	NOUN	NNS	Number=Plur	14	obj	_	start_char=180|end_char=185
+18	fighting	fight	VERB	VBG	VerbForm=Ger	17	acl	_	start_char=186|end_char=194
+19	each	each	DET	DT	_	20	det	_	start_char=195|end_char=199
+20	other	other	ADJ	JJ	Degree=Pos	18	obj	_	start_char=200|end_char=205
+21	to	to	ADP	IN	_	23	case	_	start_char=206|end_char=208
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=209|end_char=212
+23	death	death	NOUN	NN	Number=Sing	18	obl	_	start_char=213|end_char=218
+24	.	.	PUNCT	.	_	2	punct	_	start_char=218|end_char=219
+

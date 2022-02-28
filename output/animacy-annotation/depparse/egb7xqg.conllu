@@ -1,0 +1,16 @@
+1	Hey	hey	INTJ	UH	_	15	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	15	punct	_	start_char=3|end_char=4
+3	if	if	SCONJ	IN	_	5	mark	_	start_char=5|end_char=7
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+5	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	advcl	_	start_char=12|end_char=16
+6	to	to	PART	TO	_	7	mark	_	start_char=17|end_char=19
+7	stay	stay	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=20|end_char=24
+8	uninformed	uninformed	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=25|end_char=35
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=36|end_char=39
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=40|end_char=48
+11	,	,	PUNCT	,	_	15	punct	_	start_char=48|end_char=49
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	15	nsubj	_	start_char=50|end_char=54
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=55|end_char=57
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=58|end_char=62
+15	business	business	NOUN	NN	Number=Sing	0	root	_	start_char=63|end_char=71
+

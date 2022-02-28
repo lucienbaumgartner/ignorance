@@ -1,0 +1,25 @@
+1	And	and	CCONJ	CC	_	9	cc	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	award	award	NOUN	NN	Number=Sing	9	nsubj	_	start_char=8|end_char=13
+4	for	for	ADP	IN	_	5	case	_	start_char=14|end_char=17
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	nmod	_	start_char=18|end_char=26
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+7	obviously	obviously	ADV	RB	_	8	advmod	_	start_char=31|end_char=40
+8	uncomfortable	uncomfortable	ADJ	JJ	Degree=Pos	5	conj	_	start_char=41|end_char=54
+9	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=55|end_char=59
+10	to	to	ADP	IN	_	11	case	_	start_char=60|end_char=62
+11	dontaskmeidkm4n	dontaskmeidkm4n	NOUN	NN	Number=Sing	9	obl	_	start_char=63|end_char=78
+12	!	!	PUNCT	.	_	9	punct	_	start_char=78|end_char=79
+
+1	Congratulations	congratulation	NOUN	NNS	Number=Plur	9	obl:npmod	_	start_char=80|end_char=95
+2	on	on	SCONJ	IN	_	6	mark	_	start_char=96|end_char=98
+3	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=99|end_char=104
+4	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=105|end_char=107
+5	absolute	absolute	ADJ	JJ	Degree=Pos	6	amod	_	start_char=108|end_char=116
+6	dickhead	dickhead	NOUN	NN	Number=Sing	1	advcl	_	start_char=117|end_char=125
+7	,	,	PUNCT	,	_	9	punct	_	start_char=125|end_char=126
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=127|end_char=130
+9	get	get	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=131|end_char=134
+10	nothing	nothing	PRON	NN	Number=Sing	9	obj	_	start_char=135|end_char=142
+11	.	.	PUNCT	.	_	9	punct	_	start_char=142|end_char=143
+

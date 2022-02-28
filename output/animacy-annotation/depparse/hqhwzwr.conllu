@@ -1,0 +1,24 @@
+1	Yup	yup	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Some	some	DET	DT	_	6	nsubj	_	start_char=5|end_char=9
+2	of	of	ADP	IN	_	4	case	_	start_char=10|end_char=12
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=13|end_char=18
+4	anti-vaxers	anti-vaxer	NOUN	NNS	Number=Plur	1	nmod	_	start_char=19|end_char=30
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=31|end_char=34
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=43
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=44|end_char=47
+8	delusional	delusional	ADJ	JJ	Degree=Pos	6	conj	_	start_char=48|end_char=58
+9	...	...	PUNCT	,	_	6	punct	_	start_char=58|end_char=61
+10	but	but	CCONJ	CC	_	19	cc	_	start_char=62|end_char=65
+11	unfortunately	unfortunately	ADV	RB	_	19	advmod	_	start_char=66|end_char=79
+12	,	,	PUNCT	,	_	19	punct	_	start_char=79|end_char=80
+13	some	some	DET	DT	_	19	nsubj	_	start_char=81|end_char=85
+14	of	of	ADP	IN	_	15	case	_	start_char=86|end_char=88
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	start_char=89|end_char=93
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=94|end_char=97
+17	just	just	ADV	RB	_	19	advmod	_	start_char=98|end_char=102
+18	plain	plain	ADV	RB	_	19	advmod	_	start_char=103|end_char=108
+19	evil	evil	ADJ	JJ	Degree=Pos	6	conj	_	start_char=109|end_char=113
+20	.	.	PUNCT	.	_	6	punct	_	start_char=113|end_char=114
+

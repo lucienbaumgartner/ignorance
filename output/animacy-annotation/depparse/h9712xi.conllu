@@ -1,0 +1,30 @@
+1	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	!	!	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=11|end_char=15
+2	comment	comment	NOUN	NN	Number=Sing	4	nsubj	_	start_char=16|end_char=23
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=24|end_char=27
+4	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=35
+5	.	.	PUNCT	.	_	4	punct	_	start_char=35|end_char=36
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=37|end_char=38
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=39|end_char=41
+3	wary	wary	ADJ	JJ	Degree=Pos	0	root	_	start_char=42|end_char=46
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=47|end_char=50
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=51|end_char=59
+6	of	of	ADP	IN	_	8	case	_	start_char=60|end_char=62
+7	all	all	DET	PDT	_	8	det:predet	_	start_char=63|end_char=66
+8	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obl	_	start_char=67|end_char=71
+9	but	but	CCONJ	CC	_	11	cc	_	start_char=72|end_char=75
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=76|end_char=77
+11	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=78|end_char=82
+12	to	to	PART	TO	_	13	mark	_	start_char=83|end_char=85
+13	learn	learn	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=86|end_char=91
+14	more	more	ADV	RBR	_	13	obj	_	start_char=92|end_char=96
+15	so	so	ADV	RB	_	17	mark	_	start_char=97|end_char=99
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=100|end_char=101
+17	appreciate	appreciate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=102|end_char=112
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=113|end_char=117
+19	help	help	NOUN	NN	Number=Sing	17	obj	_	start_char=118|end_char=122
+

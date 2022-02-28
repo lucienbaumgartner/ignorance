@@ -1,0 +1,8 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	dense	dense	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=25
+6	as	as	ADP	IN	_	7	case	_	start_char=26|end_char=28
+7	fuck	fuck	ADJ	JJ	Degree=Pos	5	obl	_	start_char=29|end_char=33
+

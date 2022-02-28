@@ -1,0 +1,133 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	thumbnail	thumbnail	NOUN	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=14|end_char=16
+4	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	.	.	PUNCT	.	_	4	punct	_	start_char=37|end_char=38
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=39|end_char=43
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=44|end_char=46
+3	not	not	PART	RB	_	4	advmod	_	start_char=47|end_char=50
+4	what	what	DET	WDT	PronType=Int	0	root	_	start_char=51|end_char=55
+5	free	free	ADJ	JJ	Degree=Pos	6	amod	_	start_char=56|end_char=60
+6	speech	speech	NOUN	NN	Number=Sing	7	nsubj	_	start_char=61|end_char=67
+7	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=68|end_char=73
+8	.	.	PUNCT	.	_	4	punct	_	start_char=73|end_char=74
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=76|end_char=80
+2	any	any	DET	DT	_	1	obj	_	start_char=81|end_char=84
+3	of	of	ADP	IN	_	4	case	_	start_char=85|end_char=87
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	nmod	_	start_char=88|end_char=91
+5	read	read	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=92|end_char=96
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=97|end_char=100
+7	bill	bill	NOUN	NN	Number=Sing	5	obj	_	start_char=101|end_char=105
+8	of	of	ADP	IN	_	9	case	_	start_char=106|end_char=108
+9	rights	rights	NOUN	NNS	Number=Plur	7	nmod	_	start_char=109|end_char=115
+10	.	.	PUNCT	.	_	1	punct	_	start_char=115|end_char=116
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=117|end_char=119
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=120|end_char=122
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	start_char=123|end_char=127
+4	.	.	PUNCT	.	_	3	punct	_	start_char=127|end_char=128
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=129|end_char=131
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=131|end_char=133
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=134|end_char=139
+4	at	at	ADP	IN	_	6	case	_	start_char=140|end_char=142
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=143|end_char=146
+6	beginning	beginning	NOUN	NN	Number=Sing	3	obl	_	start_char=147|end_char=156
+7	.	.	PUNCT	.	_	3	punct	_	start_char=156|end_char=157
+
+1	Free	free	ADJ	JJ	Degree=Pos	2	amod	_	start_char=160|end_char=164
+2	speech	speech	NOUN	NN	Number=Sing	3	nsubj	_	start_char=165|end_char=171
+3	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=172|end_char=177
+4	nothing	nothing	PRON	NN	Number=Sing	3	obj	_	start_char=178|end_char=185
+5	in	in	ADP	IN	_	8	case	_	start_char=186|end_char=188
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=189|end_char=192
+7	private	private	ADJ	JJ	Degree=Pos	8	amod	_	start_char=193|end_char=200
+8	sector	sector	NOUN	NN	Number=Sing	4	nmod	_	start_char=201|end_char=207
+9	.	.	PUNCT	.	_	3	punct	_	start_char=207|end_char=208
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=210|end_char=213
+2	guys	guy	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=214|end_char=218
+3	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=219|end_char=223
+4	to	to	PART	TO	_	5	mark	_	start_char=224|end_char=226
+5	call	call	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=227|end_char=231
+6	out	out	ADP	RP	_	5	compound:prt	_	start_char=232|end_char=235
+7	laws	law	NOUN	NNS	Number=Plur	5	obj	_	start_char=236|end_char=240
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=241|end_char=244
+9	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=245|end_char=247
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=247|end_char=250
+11	understand	understand	VERB	VB	VerbForm=Inf	7	acl:relcl	_	start_char=251|end_char=261
+12	.	.	PUNCT	.	_	3	punct	_	start_char=261|end_char=262
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=263|end_char=266
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=267|end_char=270
+3	love	love	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=271|end_char=275
+4	free	free	ADJ	JJ	Degree=Pos	5	amod	_	start_char=276|end_char=280
+5	enterprise	enterprise	NOUN	NN	Number=Sing	3	obj	_	start_char=281|end_char=291
+6	.	.	PUNCT	.	_	3	punct	_	start_char=291|end_char=292
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=293|end_char=297
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=298|end_char=300
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=301|end_char=302
+4	business	business	NOUN	NN	Number=Sing	0	root	_	start_char=303|end_char=311
+5	making	make	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=312|end_char=318
+6	decisions	decision	NOUN	NNS	Number=Plur	5	obj	_	start_char=319|end_char=328
+7	on	on	SCONJ	IN	_	10	mark	_	start_char=329|end_char=331
+8	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=332|end_char=335
+9	to	to	PART	TO	_	10	mark	_	start_char=336|end_char=338
+10	survive	survive	VERB	VB	VerbForm=Inf	6	acl	_	start_char=339|end_char=346
+11	.	.	PUNCT	.	_	4	punct	_	start_char=346|end_char=347
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	compound	_	start_char=348|end_char=351
+2	lunatics	lunatic	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=352|end_char=360
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=361|end_char=364
+4	so	so	ADV	RB	_	5	advmod	_	start_char=365|end_char=367
+5	far	far	ADV	RB	Degree=Pos	8	advmod	_	start_char=368|end_char=371
+6	in	in	ADP	IN	_	8	case	_	start_char=372|end_char=374
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=375|end_char=378
+8	minority	minority	NOUN	NN	Number=Sing	0	root	_	start_char=379|end_char=387
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=388|end_char=391
+10	ca	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=392|end_char=394
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=394|end_char=397
+12	see	see	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=398|end_char=401
+13	reason	reason	NOUN	NN	Number=Sing	12	obj	_	start_char=402|end_char=408
+14	.	.	PUNCT	.	_	8	punct	_	start_char=408|end_char=409
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nmod:poss	_	start_char=412|end_char=415
+2	free	free	ADJ	JJ	Degree=Pos	4	amod	_	start_char=416|end_char=420
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=420|end_char=421
+4	market	market	NOUN	NN	Number=Sing	5	compound	_	start_char=421|end_char=427
+5	folks	folk	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=428|end_char=433
+6	should	should	AUX	MD	VerbForm=Fin	7	aux	_	start_char=434|end_char=440
+7	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=441|end_char=445
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=446|end_char=449
+9	idea	idea	NOUN	NN	Number=Sing	7	obj	_	start_char=450|end_char=454
+10	of	of	ADP	IN	_	12	case	_	start_char=455|end_char=457
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=458|end_char=459
+12	business	business	NOUN	NN	Number=Sing	9	nmod	_	start_char=460|end_char=468
+13	conforming	conform	VERB	VBG	VerbForm=Ger	12	acl	_	start_char=469|end_char=479
+14	to	to	ADP	IN	_	16	case	_	start_char=480|end_char=482
+15	popular	popular	ADJ	JJ	Degree=Pos	16	amod	_	start_char=483|end_char=490
+16	demand	demand	NOUN	NN	Number=Sing	13	obl	_	start_char=491|end_char=497
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=498|end_char=501
+18	changing	change	VERB	VBG	VerbForm=Ger	13	conj	_	start_char=502|end_char=510
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=511|end_char=516
+20	business	business	NOUN	NN	Number=Sing	21	compound	_	start_char=517|end_char=525
+21	model	model	NOUN	NN	Number=Sing	18	obj	_	start_char=526|end_char=531
+22	.	.	PUNCT	.	_	7	punct	_	start_char=531|end_char=532
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=533|end_char=536
+2	all	all	DET	DT	_	1	det	_	start_char=537|end_char=540
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=541|end_char=543
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=543|end_char=546
+5	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=547|end_char=557
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=558|end_char=561
+7	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=562|end_char=565
+8	in	in	ADP	IN	_	10	case	_	start_char=566|end_char=568
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=569|end_char=572
+10	minority	minority	NOUN	NN	Number=Sing	5	ccomp	_	start_char=573|end_char=581
+11	.	.	PUNCT	.	_	5	punct	_	start_char=581|end_char=582
+

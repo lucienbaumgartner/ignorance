@@ -1,0 +1,65 @@
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	community	community	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=13
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=14|end_char=16
+4	already	already	ADV	RB	_	5	advmod	_	start_char=17|end_char=24
+5	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=25|end_char=31
+6	to	to	PART	TO	_	7	mark	_	start_char=32|end_char=34
+7	portray	portray	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=35|end_char=42
+8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=43|end_char=46
+9	as	as	SCONJ	IN	_	11	mark	_	start_char=47|end_char=49
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=50|end_char=55
+11	willing	willing	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=56|end_char=63
+12	to	to	PART	TO	_	13	mark	_	start_char=64|end_char=66
+13	debate	debate	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=67|end_char=73
+14	.	.	PUNCT	.	_	5	punct	_	start_char=73|end_char=74
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=75|end_char=79
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=80|end_char=82
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=83|end_char=86
+4	saddest	sadd	ADJ	JJS	Degree=Sup	7	amod	_	start_char=87|end_char=94
+5	,	,	PUNCT	,	_	7	punct	_	start_char=94|end_char=95
+6	soyest	soy	ADJ	JJS	Degree=Sup	7	amod	_	start_char=96|end_char=102
+7	shit	shit	NOUN	NN	Number=Sing	0	root	_	start_char=103|end_char=107
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=108|end_char=109
+9	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=109|end_char=112
+10	ever	ever	ADV	RB	_	11	advmod	_	start_char=113|end_char=117
+11	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	_	start_char=118|end_char=122
+12	.	.	PUNCT	.	_	7	punct	_	start_char=122|end_char=123
+
+1	Cognitive	cognitive	ADJ	JJ	Degree=Pos	2	amod	_	start_char=124|end_char=133
+2	dissonance	dissonance	NOUN	NN	Number=Sing	0	root	_	start_char=134|end_char=144
+3	to	to	ADP	IN	_	5	case	_	start_char=145|end_char=147
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=148|end_char=151
+5	extreme	extreme	ADJ	JJ	Degree=Pos	2	nmod	_	start_char=152|end_char=159
+6	.	.	PUNCT	.	_	2	punct	_	start_char=159|end_char=160
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=164|end_char=165
+2	https://twitter.com/HanzOfHarkir/status/1468369345977933831](https://twitter.com/HanzOfHarkir/status/1468369345977933831)	https://twitter.com/hanzofharkir/status/1468369345977933831](https://twitter.com/hanzofharkir/status/1468369345977933831)	X	ADD	_	0	root	_	start_char=165|end_char=286
+
+1	Everyone	everyone	PRON	NN	Number=Sing	3	nsubj	_	start_char=290|end_char=298
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=299|end_char=301
+3	welcome	welcome	ADJ	JJ	Degree=Pos	0	root	_	start_char=302|end_char=309
+4	to	to	PART	TO	_	5	mark	_	start_char=310|end_char=312
+5	watch	watch	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=313|end_char=318
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=319|end_char=322
+7	last	last	ADJ	JJ	Degree=Pos	8	amod	_	start_char=323|end_char=327
+8	hour	hour	NOUN	NN	Number=Sing	5	obj	_	start_char=328|end_char=332
+9	of	of	ADP	IN	_	12	case	_	start_char=333|end_char=335
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=336|end_char=338
+11	latest	late	ADJ	JJS	Degree=Sup	12	amod	_	start_char=339|end_char=345
+12	vod	vod	NOUN	NN	Number=Sing	8	nmod	_	start_char=346|end_char=349
+13	to	to	PART	TO	_	14	mark	_	start_char=350|end_char=352
+14	show	show	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=353|end_char=357
+15	just	just	ADV	RB	_	17	advmod	_	start_char=358|end_char=362
+16	how	how	SCONJ	WRB	PronType=Int	17	mark	_	start_char=363|end_char=366
+17	unaware	unaware	ADJ	JJ	Degree=Pos	14	ccomp	_	start_char=367|end_char=374
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=375|end_char=378
+19	sad	sad	ADJ	JJ	Degree=Pos	17	conj	_	start_char=379|end_char=382
+20	these	this	DET	DT	Number=Plur|PronType=Dem	21	det	_	start_char=383|end_char=388
+21	people	people	NOUN	NNS	Number=Plur	22	nsubj	_	start_char=389|end_char=395
+22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=396|end_char=399
+23	.	.	PUNCT	.	_	3	punct	_	start_char=399|end_char=400
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=404|end_char=405
+2	https://www.twitch.tv/videos/1226940614](https://www.twitch.tv/videos/1226940614)	https://www.twitch.tv/videos/1226940614](https://www.twitch.tv/videos/1226940614)	X	ADD	_	0	root	_	start_char=405|end_char=486
+

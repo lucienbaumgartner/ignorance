@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=6
+3	n't	not	PART	RB	_	2	advmod	_	start_char=6|end_char=9
+4	?	?	PUNCT	.	_	2	punct	_	start_char=9|end_char=10
+
+1	Mixing	mix	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=11|end_char=17
+2	Islam	Islam	PROPN	NNP	Number=Sing	1	obj	_	start_char=18|end_char=23
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=24|end_char=27
+4	homosexuality	homosexuality	NOUN	NN	Number=Sing	2	conj	_	start_char=28|end_char=41
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=42|end_char=44
+6	like	like	SCONJ	IN	_	7	mark	_	start_char=45|end_char=49
+7	making	make	VERB	VBG	VerbForm=Ger	0	root	_	start_char=50|end_char=56
+8	Martin	Martin	PROPN	NNP	Number=Sing	13	compound	_	start_char=57|end_char=63
+9	Luther	Luther	PROPN	NNP	Number=Sing	8	flat	_	start_char=64|end_char=70
+10	King	King	PROPN	NNP	Number=Sing	8	flat	_	start_char=71|end_char=75
+11	branded	brand	VERB	VBN	Tense=Past|VerbForm=Part	13	amod	_	start_char=76|end_char=83
+12	KKK	KKK	PROPN	NNP	Number=Sing	13	compound	_	start_char=84|end_char=87
+13	hoods	hood	NOUN	NNS	Number=Plur	7	obj	_	start_char=88|end_char=93
+14	.	.	PUNCT	.	_	7	punct	_	start_char=93|end_char=94
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=95|end_char=97
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=97|end_char=99
+3	hyper	hyper	ADV	RB	_	4	advmod	_	start_char=100|end_char=105
+4	disingenuous	disingenuous	ADJ	JJ	Degree=Pos	0	root	_	start_char=106|end_char=118
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=119|end_char=122
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=123|end_char=131
+7	of	of	ADP	IN	_	9	case	_	start_char=132|end_char=134
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=135|end_char=138
+9	issue	issue	NOUN	NN	Number=Sing	6	obl	_	start_char=139|end_char=144
+10	at	at	ADP	IN	_	11	case	_	start_char=145|end_char=147
+11	hand	hand	NOUN	NN	Number=Sing	9	nmod	_	start_char=148|end_char=152
+12	.	.	PUNCT	.	_	4	punct	_	start_char=152|end_char=153
+

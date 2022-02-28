@@ -1,0 +1,17 @@
+1	Yes	yes	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	7	punct	_	start_char=3|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=5|end_char=8
+4	conservative	conservative	ADJ	JJ	Degree=Pos	5	amod	_	start_char=9|end_char=21
+5	mods	mod	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=22|end_char=26
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=27|end_char=30
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=39
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=40|end_char=43
+9	authoritarian	authoritarian	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=57
+10	.	.	PUNCT	.	_	7	punct	_	start_char=57|end_char=58
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=59|end_char=63
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=63|end_char=65
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=66|end_char=68
+4	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=74
+5	.	.	PUNCT	.	_	4	punct	_	start_char=74|end_char=75
+

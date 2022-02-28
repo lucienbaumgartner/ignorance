@@ -1,0 +1,12 @@
+1	What	what	PRON	WP	PronType=Int	6	nsubj	_	start_char=0|end_char=4
+2	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=5|end_char=7
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=8|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	bigoted	bigoted	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=28
+6	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=29|end_char=36
+7	.	.	PUNCT	.	_	6	punct	_	start_char=36|end_char=37
+
+1	Back	back	ADV	RB	_	0	root	_	start_char=38|end_char=42
+2	off	off	ADP	RP	_	1	advmod	_	start_char=43|end_char=46
+3	!	!	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+

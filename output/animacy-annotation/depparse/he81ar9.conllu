@@ -1,0 +1,113 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	To	to	PART	TO	_	2	mark	_	start_char=4|end_char=6
+2	reduce	reduce	VERB	VB	VerbForm=Inf	0	root	_	start_char=7|end_char=13
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=14|end_char=15
+4	multi-faceted	multi-faceted	ADJ	JJ	Degree=Pos	5	amod	_	start_char=16|end_char=29
+5	issue	issue	NOUN	NN	Number=Sing	2	obj	_	start_char=30|end_char=35
+6	to	to	ADP	IN	_	8	case	_	start_char=36|end_char=38
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=39|end_char=42
+8	color	color	NOUN	NN	Number=Sing	5	nmod	_	start_char=43|end_char=48
+9	of	of	ADP	IN	_	12	case	_	start_char=49|end_char=51
+10	someone	someone	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=52|end_char=59
+11	’s	's	PART	POS	_	10	case	_	start_char=59|end_char=61
+12	skin	skin	NOUN	NN	Number=Sing	8	nmod	_	start_char=62|end_char=66
+13	…	…	PUNCT	,	_	2	punct	_	start_char=66|end_char=67
+14	?	?	PUNCT	.	_	2	punct	_	start_char=67|end_char=68
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=69|end_char=72
+2	assign	assign	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=73|end_char=79
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=80|end_char=81
+4	label	label	NOUN	NN	Number=Sing	2	obj	_	start_char=82|end_char=87
+5	to	to	ADP	IN	_	8	case	_	start_char=88|end_char=90
+6	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=91|end_char=93
+7	entire	entire	ADJ	JJ	Degree=Pos	8	amod	_	start_char=94|end_char=100
+8	group	group	NOUN	NN	Number=Sing	2	obl	_	start_char=101|end_char=106
+9	of	of	ADP	IN	_	10	case	_	start_char=107|end_char=109
+10	people	people	NOUN	NNS	Number=Plur	8	nmod	_	start_char=110|end_char=116
+11	separated	separate	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	_	start_char=117|end_char=126
+12	by	by	ADP	IN	_	13	case	_	start_char=127|end_char=129
+13	nothing	nothing	PRON	NN	Number=Sing	11	obl	_	start_char=130|end_char=137
+14	more	more	ADJ	JJR	Degree=Cmp	13	amod	_	start_char=138|end_char=142
+15	than	than	ADP	IN	_	18	case	_	start_char=143|end_char=147
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=148|end_char=153
+17	skin	skin	NOUN	NN	Number=Sing	18	compound	_	start_char=154|end_char=158
+18	color	color	NOUN	NN	Number=Sing	14	obl	_	start_char=159|end_char=164
+19	?	?	PUNCT	.	_	2	punct	_	start_char=164|end_char=165
+
+1	Yeah	yeah	INTJ	UH	_	0	root	_	start_char=166|end_char=170
+2	.	.	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=172|end_char=174
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=174|end_char=176
+3	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=177|end_char=183
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=184|end_char=187
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=188|end_char=196
+6	.	.	PUNCT	.	_	3	punct	_	start_char=196|end_char=197
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=198|end_char=202
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=203|end_char=208
+3	be	be	AUX	VB	VerbForm=Inf	0	root	_	start_char=209|end_char=211
+4	like	like	SCONJ	IN	_	5	mark	_	start_char=212|end_char=216
+5	saying	say	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=217|end_char=223
+6	,	,	PUNCT	,	_	12	punct	_	start_char=223|end_char=224
+7	“	''	PUNCT	``	_	12	punct	_	start_char=225|end_char=226
+8	all	all	DET	DT	_	10	det	_	start_char=226|end_char=229
+9	black	black	ADJ	JJ	Degree=Pos	10	amod	_	start_char=230|end_char=235
+10	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=236|end_char=242
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=243|end_char=246
+12	victims	victim	NOUN	NNS	Number=Plur	5	ccomp	_	start_char=247|end_char=254
+13	”	''	PUNCT	''	_	12	punct	_	start_char=254|end_char=255
+14	.	.	PUNCT	.	_	3	punct	_	start_char=255|end_char=256
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=257|end_char=259
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=259|end_char=261
+3	effing	eff	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=262|end_char=268
+4	stupid	stupid	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=269|end_char=275
+5	.	.	PUNCT	.	_	4	punct	_	start_char=275|end_char=276
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=279|end_char=283
+2	right	right	NOUN	NN	Number=Sing	7	nsubj	_	start_char=284|end_char=289
+3	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=290|end_char=294
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=295|end_char=297
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=298|end_char=299
+6	perfect	perfect	ADJ	JJ	Degree=Pos	7	amod	_	start_char=300|end_char=307
+7	example	example	NOUN	NN	Number=Sing	0	root	_	start_char=308|end_char=315
+8	of	of	ADP	IN	_	10	case	_	start_char=316|end_char=318
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=319|end_char=320
+10	strawman	strawman	NOUN	NN	Number=Sing	7	nmod	_	start_char=321|end_char=329
+11	.	.	PUNCT	.	_	7	punct	_	start_char=329|end_char=330
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=333|end_char=336
+2	misrepresented	misrepresent	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=337|end_char=351
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=352|end_char=355
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	_	start_char=356|end_char=361
+5	person	person	NOUN	NN	Number=Sing	7	nmod:poss	_	start_char=362|end_char=368
+6	's	's	PART	POS	_	5	case	_	start_char=368|end_char=370
+7	comment	comment	NOUN	NN	Number=Sing	2	obj	_	start_char=371|end_char=378
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=379|end_char=382
+9	then	then	ADV	RB	PronType=Dem	10	advmod	_	start_char=383|end_char=387
+10	argued	argue	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=388|end_char=394
+11	against	against	ADP	IN	_	12	case	_	start_char=395|end_char=402
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=403|end_char=405
+13	,	,	PUNCT	,	_	2	punct	_	start_char=405|end_char=406
+14	declaring	declare	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=407|end_char=416
+15	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	14	obj	_	start_char=417|end_char=425
+16	correct	correct	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=426|end_char=433
+17	.	.	PUNCT	.	_	2	punct	_	start_char=433|end_char=434
+
+1	In	in	ADP	IN	_	2	case	_	start_char=437|end_char=439
+2	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=440|end_char=447
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=448|end_char=451
+4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=452|end_char=455
+5	not	not	PART	RB	_	6	advmod	_	start_char=456|end_char=459
+6	address	address	VERB	VB	VerbForm=Inf	0	root	_	start_char=460|end_char=467
+7	anything	anything	PRON	NN	Number=Sing	6	obj	_	start_char=468|end_char=476
+8	that	that	PRON	WDT	PronType=Rel	10	nsubj:pass	_	start_char=477|end_char=481
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	start_char=482|end_char=485
+10	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	start_char=486|end_char=490
+11	to	to	ADP	IN	_	12	case	_	start_char=491|end_char=493
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obl	_	start_char=494|end_char=497
+13	.	.	PUNCT	.	_	6	punct	_	start_char=497|end_char=498
+

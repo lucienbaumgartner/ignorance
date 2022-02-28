@@ -1,0 +1,27 @@
+1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	dumb	dumb	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=5|end_char=9
+3	,	,	PUNCT	,	_	4	punct	_	start_char=9|end_char=10
+4	selfish	selfish	ADJ	JJ	Degree=Pos	2	conj	_	start_char=11|end_char=18
+5	,	,	PUNCT	,	_	7	punct	_	start_char=18|end_char=19
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=20|end_char=23
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=24|end_char=32
+8	of	of	ADP	IN	_	9	case	_	start_char=33|end_char=35
+9	why	why	SCONJ	WRB	PronType=Int	7	obl	_	start_char=36|end_char=39
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=40|end_char=43
+11	should	should	AUX	MD	VerbForm=Fin	13	aux	_	start_char=44|end_char=50
+12	ever	ever	ADV	RB	_	13	advmod	_	start_char=51|end_char=55
+13	think	think	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=56|end_char=61
+14	about	about	ADP	IN	_	15	case	_	start_char=62|end_char=67
+15	others	other	NOUN	NNS	Number=Plur	13	obl	_	start_char=68|end_char=74
+16	.	.	PUNCT	.	_	1	punct	_	start_char=74|end_char=75
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=77|end_char=79
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=79|end_char=81
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=82|end_char=83
+4	pandemic	pandemic	NOUN	NN	Number=Sing	0	root	_	start_char=84|end_char=92
+5	,	,	PUNCT	,	_	4	punct	_	start_char=92|end_char=93
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=94|end_char=97
+7	insolent	insolent	ADJ	JJ	Degree=Pos	8	amod	_	start_char=98|end_char=106
+8	fool	fool	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=107|end_char=111
+9	.	.	PUNCT	.	_	4	punct	_	start_char=111|end_char=112
+

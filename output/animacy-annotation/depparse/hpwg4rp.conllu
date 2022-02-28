@@ -1,0 +1,10 @@
+1	Great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=15
+2	AND	and	CCONJ	CC	_	3	cc	_	start_char=16|end_char=19
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	1	conj	_	start_char=20|end_char=30
+4	.	.	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+
+1	Smh	Smh	PROPN	NNP	Number=Sing	0	root	_	start_char=32|end_char=35
+

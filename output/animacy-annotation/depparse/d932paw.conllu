@@ -1,0 +1,222 @@
+1	"	"	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Brock	Brock	PROPN	NNP	Number=Sing	5	nsubj:pass	_	start_char=1|end_char=6
+3	"	"	PUNCT	''	_	2	punct	_	start_char=6|end_char=7
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=8|end_char=10
+5	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=11|end_char=19
+6	to	to	PART	TO	_	10	mark	_	start_char=20|end_char=22
+7	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=23|end_char=25
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=26|end_char=27
+9	republican	Republican	ADJ	JJ	Degree=Pos	10	amod	_	start_char=28|end_char=38
+10	plant	plant	NOUN	NN	Number=Sing	5	xcomp	_	start_char=39|end_char=44
+11	in	in	ADP	IN	_	13	case	_	start_char=45|end_char=47
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=48|end_char=53
+13	team	team	NOUN	NN	Number=Sing	10	nmod	_	start_char=54|end_char=58
+14	(	(	PUNCT	-LRB-	_	18	punct	_	start_char=59|end_char=60
+15	possibly	possibly	ADV	RB	_	18	advmod	_	start_char=60|end_char=68
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=69|end_char=72
+17	same	same	ADJ	JJ	Degree=Pos	18	amod	_	start_char=73|end_char=77
+18	Brock	Brock	PROPN	NNP	Number=Sing	13	appos	_	start_char=78|end_char=83
+19	who	who	PRON	WP	PronType=Rel	22	nsubj	_	start_char=84|end_char=87
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=88|end_char=90
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=91|end_char=94
+22	head	head	NOUN	NN	Number=Sing	18	acl:relcl	_	start_char=95|end_char=99
+23	of	of	ADP	IN	_	24	case	_	start_char=100|end_char=102
+24	CTR	CTR	PROPN	NNP	Number=Sing	22	nmod	_	start_char=103|end_char=106
+25	)	)	PUNCT	-RRB-	_	18	punct	_	start_char=106|end_char=107
+
+1	https://wikileaks.org/podesta-emails/emailid/2953	https://wikileaks.org/podesta-emails/emailid/2953	X	ADD	_	0	root	_	start_char=108|end_char=157
+
+1	Clinton	Clinton	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=158|end_char=165
+2	taking	take	VERB	VBG	VerbForm=Ger	0	root	_	start_char=166|end_char=172
+3	FARA	fara	NOUN	NN	Number=Sing	4	compound	_	start_char=173|end_char=177
+4	money	money	NOUN	NN	Number=Sing	2	obj	_	start_char=178|end_char=183
+5	https://wikileaks.org/podesta-emails/emailid/2783	https://wikileaks.org/podesta-emails/emailid/2783	X	ADD	_	2	parataxis	_	start_char=184|end_char=233
+
+1	Insider	insider	NOUN	NN	Number=Sing	2	compound	_	start_char=234|end_char=241
+2	trading	trading	NOUN	NN	Number=Sing	0	root	_	start_char=242|end_char=249
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=250|end_char=251
+4	Illegal	illegal	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=251|end_char=258
+5	for	for	ADP	IN	_	6	case	_	start_char=259|end_char=262
+6	politicians	politician	NOUN	NNS	Number=Plur	4	obl	_	start_char=263|end_char=274
+7	in	in	ADP	IN	_	8	case	_	start_char=275|end_char=277
+8	countries	country	NOUN	NNS	Number=Plur	6	nmod	_	start_char=278|end_char=287
+9	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=288|end_char=292
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=293|end_char=296
+11	n't	not	PART	RB	_	12	advmod	_	start_char=296|end_char=299
+12	America	America	PROPN	NNP	Number=Sing	8	acl:relcl	_	start_char=300|end_char=307
+13	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=307|end_char=308
+
+1	https://wikileaks.org/podesta-emails/emailid/2205	https://wikileaks.org/podesta-emails/emailid/2205	X	ADD	_	0	root	_	start_char=309|end_char=358
+
+1	Soros	Soros	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=359|end_char=364
+2	affiliated	affiliate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=365|end_char=375
+3	company	company	NOUN	NN	Number=Sing	4	compound	_	start_char=376|end_char=383
+4	priming	priming	NOUN	NN	Number=Sing	2	obj	_	start_char=384|end_char=391
+5	for	for	ADP	IN	_	7	case	_	start_char=392|end_char=395
+6	legal	legal	ADJ	JJ	Degree=Pos	7	amod	_	start_char=396|end_char=401
+7	costs	cost	NOUN	NNS	Number=Plur	2	obl	_	start_char=402|end_char=407
+8	https://wikileaks.org/podesta-emails/emailid/3098	https://wikileaks.org/podesta-emails/emailid/3098	X	ADD	_	2	parataxis	_	start_char=408|end_char=457
+
+1	Bill	Bill	PROPN	NNP	Number=Sing	4	nmod:poss	_	start_char=458|end_char=462
+2	Clinton	Clinton	PROPN	NNP	Number=Sing	1	flat	_	start_char=463|end_char=470
+3	's	's	PART	POS	_	1	case	_	start_char=470|end_char=472
+4	speech	speech	NOUN	NN	Number=Sing	0	root	_	start_char=473|end_char=479
+5	at	at	ADP	IN	_	8	case	_	start_char=480|end_char=482
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=483|end_char=484
+7	dinner	dinner	NOUN	NN	Number=Sing	8	compound	_	start_char=485|end_char=491
+8	event	event	NOUN	NN	Number=Sing	4	nmod	_	start_char=492|end_char=497
+9	(	(	PUNCT	-LRB-	_	10	punct	_	start_char=498|end_char=499
+10	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	4	parataxis	_	start_char=499|end_char=502
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=503|end_char=506
+12	attachments	attachment	NOUN	NNS	Number=Plur	10	obj	_	start_char=507|end_char=518
+13	)	)	PUNCT	-RRB-	_	10	punct	_	start_char=518|end_char=519
+
+1	https://wikileaks.org/podesta-emails/emailid/3678	https://wikileaks.org/podesta-emails/emailid/3678	X	ADD	_	0	root	_	start_char=520|end_char=569
+
+1	Lawyers	lawyer	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=570|end_char=577
+2	questioning	question	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=578|end_char=589
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=590|end_char=593
+4	legality	legality	NOUN	NN	Number=Sing	2	obj	_	start_char=594|end_char=602
+5	of	of	ADP	IN	_	7	case	_	start_char=603|end_char=605
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=606|end_char=609
+7	email	email	NOUN	NN	Number=Sing	4	nmod	_	start_char=610|end_char=615
+8	leaks	leak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=616|end_char=621
+9	https://wikileaks.org/podesta-emails/emailid/4099	https://wikileaks.org/podesta-emails/emailid/4099	X	ADD	_	8	obj	_	start_char=622|end_char=671
+
+1	Andrea	andrea	PROPN	NNP	Number=Sing	3	compound	_	start_char=672|end_char=678
+2	Soros	Soros	PROPN	NNP	Number=Sing	1	flat	_	start_char=679|end_char=684
+3	funding	funding	NOUN	NN	Number=Sing	0	root	_	start_char=685|end_char=692
+4	in	in	ADP	IN	_	5	case	_	start_char=693|end_char=695
+5	2008	2008	NUM	CD	NumType=Card	3	nmod	_	start_char=696|end_char=700
+6	https://wikileaks.org/podesta-emails/emailid/3104	https://wikileaks.org/podesta-emails/emailid/3104	X	ADD	_	3	appos	_	start_char=701|end_char=750
+
+1	Chairman	Chairman	PROPN	NNP	Number=Sing	0	root	_	start_char=751|end_char=759
+2	of	of	ADP	IN	_	5	case	_	start_char=760|end_char=762
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=763|end_char=766
+4	National	National	ADJ	NNP	Degree=Pos	5	amod	_	start_char=767|end_char=775
+5	Endowment	Endowment	PROPN	NNP	Number=Sing	1	nmod	_	start_char=776|end_char=785
+6	for	for	ADP	IN	_	8	case	_	start_char=786|end_char=789
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=790|end_char=793
+8	Arts	Art	PROPN	NNPS	Number=Plur	5	nmod	_	start_char=794|end_char=798
+9	:	:	PUNCT	:	_	1	punct	_	start_char=798|end_char=799
+10	"	"	PUNCT	``	_	13	punct	_	start_char=800|end_char=801
+11	in	in	ADP	IN	_	12	case	_	start_char=801|end_char=803
+12	general	general	ADJ	JJ	Degree=Pos	13	obl	_	start_char=804|end_char=811
+13	conspire	conspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=812|end_char=820
+14	to	to	PART	TO	_	15	mark	_	start_char=821|end_char=823
+15	produce	produce	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=824|end_char=831
+16	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=832|end_char=834
+17	unaware	unaware	ADJ	JJ	Degree=Pos	20	amod	_	start_char=835|end_char=842
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=843|end_char=846
+19	compliant	compliant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=847|end_char=856
+20	citizenry	citizenry	NOUN	NN	Number=Sing	15	obj	_	start_char=857|end_char=866
+21	"	"	PUNCT	''	_	13	punct	_	start_char=866|end_char=867
+
+1	https://wikileaks.org/podesta-emails/emailid/3599	https://wikileaks.org/podesta-emails/emailid/3599	X	ADD	_	0	root	_	start_char=868|end_char=917
+
+1	-------------------------	-------------------------	PUNCT	NFP	_	0	root	_	start_char=919|end_char=944
+
+1	Bantz	Bantz	PROPN	NNP	Number=Sing	2	compound	_	start_char=945|end_char=950
+2	topics	topic	NOUN	NNS	Number=Plur	0	root	_	start_char=951|end_char=957
+3	:	:	PUNCT	:	_	2	punct	_	start_char=957|end_char=958
+
+1	-------------------------	-------------------------	PUNCT	NFP	_	0	root	_	start_char=959|end_char=984
+
+1	Hillary	Hillary	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=985|end_char=992
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=993|end_char=999
+3	wear	wear	VERB	VB	VerbForm=Inf	0	root	_	start_char=1000|end_char=1004
+4	body	body	NOUN	NN	Number=Sing	5	compound	_	start_char=1005|end_char=1009
+5	armor	armor	NOUN	NN	Number=Sing	3	obj	_	start_char=1010|end_char=1015
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=1016|end_char=1019
+7	have	have	VERB	VB	VerbForm=Inf	3	conj	_	start_char=1020|end_char=1024
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=1025|end_char=1026
+9	food	food	NOUN	NN	Number=Sing	10	compound	_	start_char=1027|end_char=1031
+10	taster	taster	NOUN	NN	Number=Sing	7	obj	_	start_char=1032|end_char=1038
+11	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=1039|end_char=1043
+12	visting	vist	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=1044|end_char=1051
+13	white	white	ADJ	JJ	Degree=Pos	14	amod	_	start_char=1052|end_char=1057
+14	house	house	NOUN	NN	Number=Sing	12	obj	_	start_char=1058|end_char=1063
+15	https://wikileaks.org/podesta-emails/emailid/3198	https://wikileaks.org/podesta-emails/emailid/3198	X	ADD	_	3	parataxis	_	start_char=1064|end_char=1113
+
+1	Clinton	Clinton	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=1115|end_char=1122
+2	doesnt	doesnt	AUX	MD	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=1123|end_char=1129
+3	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=1130|end_char=1134
+4	writing	write	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=1135|end_char=1142
+5	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=1143|end_char=1146
+6	own	own	ADJ	JJ	Degree=Pos	7	amod	_	start_char=1147|end_char=1150
+7	speeches	speech	NOUN	NNS	Number=Plur	4	obj	_	start_char=1151|end_char=1159
+8	https://wikileaks.org/podesta-emails/emailid/2787	https://wikileaks.org/podesta-emails/emailid/2787	X	ADD	_	3	parataxis	_	start_char=1160|end_char=1209
+
+1	"	"	PUNCT	``	_	9	punct	_	start_char=1211|end_char=1212
+2	When	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=1212|end_char=1216
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=1217|end_char=1220
+4	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=1221|end_char=1224
+5	red	red	ADJ	JJ	Degree=Pos	6	amod	_	start_char=1225|end_char=1228
+6	army	army	NOUN	NN	Number=Sing	4	obj	_	start_char=1229|end_char=1233
+7	,	,	PUNCT	,	_	9	punct	_	start_char=1233|end_char=1234
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=1235|end_char=1238
+9	mean	mean	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1239|end_char=1243
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=1244|end_char=1247
+11	base	base	NOUN	NN	Number=Sing	9	obj	_	start_char=1248|end_char=1252
+12	of	of	ADP	IN	_	15	case	_	start_char=1253|end_char=1255
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=1256|end_char=1259
+14	democrat	Democrat	NOUN	NN	Number=Sing	15	compound	_	start_char=1260|end_char=1268
+15	party	party	NOUN	NN	Number=Sing	11	nmod	_	start_char=1269|end_char=1274
+16	right	right	ADV	RB	_	9	advmod	_	start_char=1275|end_char=1280
+17	?	?	PUNCT	.	_	9	punct	_	start_char=1280|end_char=1281
+18	"	"	PUNCT	''	_	9	punct	_	start_char=1281|end_char=1282
+
+1	https://wikileaks.org/podesta-emails/emailid/2893	https://wikileaks.org/podesta-emails/emailid/2893	X	ADD	_	0	root	_	start_char=1283|end_char=1332
+
+1	Clinton	Clinton	PROPN	NNP	Number=Sing	0	root	_	start_char=1334|end_char=1341
+2	-	-	PUNCT	,	_	1	punct	_	start_char=1342|end_char=1343
+3	Trump	Trump	PROPN	NNP	Number=Sing	5	compound	_	start_char=1344|end_char=1349
+4	arm	arm	NOUN	NN	Number=Sing	5	compound	_	start_char=1350|end_char=1353
+5	wrestle	wrestle	NOUN	NN	Number=Sing	1	appos	_	start_char=1354|end_char=1361
+6	https://wikileaks.org/podesta-emails/emailid/3586	https://wikileaks.org/podesta-emails/emailid/3586	X	ADD	_	1	list	_	start_char=1362|end_char=1411
+
+1	Clinton	Clinton	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=1413|end_char=1420
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=1421|end_char=1424
+3	"	"	PUNCT	``	_	6	punct	_	start_char=1425|end_char=1426
+4	almost	almost	ADV	RB	_	6	advmod	_	start_char=1426|end_char=1432
+5	totally	totally	ADV	RB	_	6	advmod	_	start_char=1433|end_char=1440
+6	dependent	dependent	ADJ	JJ	Degree=Pos	0	root	_	start_char=1441|end_char=1450
+7	on	on	ADP	IN	_	8	case	_	start_char=1451|end_char=1453
+8	Republicans	Republican	PROPN	NNPS	Number=Plur	6	obl	_	start_char=1454|end_char=1465
+9	nominating	nominate	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=1466|end_char=1476
+10	Trump	Trump	PROPN	NNP	Number=Sing	9	obj	_	start_char=1477|end_char=1482
+11	"	"	PUNCT	''	_	6	punct	_	start_char=1482|end_char=1483
+12	(	(	PUNCT	-LRB-	_	15	punct	_	start_char=1484|end_char=1485
+13	Also	also	ADV	RB	_	15	advmod	_	start_char=1485|end_char=1489
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=1490|end_char=1493
+15	Hill	Hill	PROPN	NNP	Number=Sing	6	parataxis	_	start_char=1494|end_char=1498
+16	colluding	collude	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=1499|end_char=1508
+17	with	with	ADP	IN	_	19	case	_	start_char=1509|end_char=1513
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=1514|end_char=1517
+19	democrats	Democrat	PROPN	NNPS	Number=Plur	16	obl	_	start_char=1518|end_char=1527
+20	)	)	PUNCT	-RRB-	_	15	punct	_	start_char=1527|end_char=1528
+
+1	https://wikileaks.org/podesta-emails/emailid/3990	https://wikileaks.org/podesta-emails/emailid/3990	X	ADD	_	0	root	_	start_char=1529|end_char=1578
+
+1	Democrats	Democrat	PROPN	NNPS	Number=Plur	2	nsubj	_	start_char=1580|end_char=1589
+2	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1590|end_char=1597
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=1598|end_char=1601
+4	media	media	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=1602|end_char=1607
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=1608|end_char=1610
+6	biased	biased	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=1611|end_char=1617
+7	against	against	ADP	IN	_	8	case	_	start_char=1618|end_char=1625
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obl	_	start_char=1626|end_char=1630
+9	https://wikileaks.org/podesta-emails/emailid/2351	https://wikileaks.org/podesta-emails/emailid/2351	X	ADD	_	2	parataxis	_	start_char=1631|end_char=1680
+
+1	Clinton	Clinton	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=1682|end_char=1689
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1690|end_char=1692
+3	"	"	PUNCT	``	_	4	punct	_	start_char=1693|end_char=1694
+4	hard	hard	ADJ	JJ	Degree=Pos	0	root	_	start_char=1694|end_char=1698
+5	to	to	PART	TO	_	6	mark	_	start_char=1699|end_char=1701
+6	confront	confront	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=1702|end_char=1710
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=1711|end_char=1714
+8	reason	reason	NOUN	NN	Number=Sing	6	conj	_	start_char=1715|end_char=1721
+9	with	with	ADP	IN	_	11	case	_	start_char=1722|end_char=1726
+10	"	"	PUNCT	``	_	11	punct	_	start_char=1726|end_char=1727
+11	https://wikileaks.org/podesta-emails/emailid/2874	https://wikileaks.org/podesta-emails/emailid/2874	X	ADD	_	6	obl	_	start_char=1728|end_char=1777
+

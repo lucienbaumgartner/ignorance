@@ -1,0 +1,27 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	confused	confused	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=31
+6	.	.	PUNCT	.	_	2	punct	_	start_char=31|end_char=32
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=33|end_char=34
+2	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=34|end_char=37
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	start_char=38|end_char=42
+4	learning	learn	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=43|end_char=51
+5	everyday	everyday	ADV	RB	_	4	advmod	_	start_char=52|end_char=60
+6	about	about	ADP	IN	_	7	case	_	start_char=61|end_char=66
+7	bitcoin	bitcoin	NOUN	NN	Number=Sing	4	obl	_	start_char=67|end_char=74
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=75|end_char=78
+9	reading	reading	NOUN	NN	Number=Sing	7	conj	_	start_char=79|end_char=86
+10	and	and	CCONJ	CC	_	14	cc	_	start_char=87|end_char=90
+11	digesting	digest	VERB	VBG	VerbForm=Ger	12	amod	_	start_char=91|end_char=100
+12	info	info	NOUN	NN	Number=Sing	14	nsubj	_	start_char=101|end_char=105
+13	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=106|end_char=109
+14	surpassed	surpass	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=110|end_char=119
+15	1000	1000	NUM	CD	NumType=Card	16	nummod	_	start_char=120|end_char=124
+16	hours	hour	NOUN	NNS	Number=Plur	17	obl:npmod	_	start_char=125|end_char=130
+17	long	long	ADJ	JJ	Degree=Pos	18	amod	_	start_char=131|end_char=135
+18	time	time	NOUN	NN	Number=Sing	14	obl:tmod	_	start_char=136|end_char=140
+19	ago	ago	ADV	RB	_	14	advmod	_	start_char=141|end_char=144
+

@@ -1,0 +1,20 @@
+1	oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	god	god	NOUN	NN	Number=Sing	11	discourse	_	start_char=3|end_char=6
+3	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=7|end_char=11
+4	legitimately	legitimately	ADV	RB	Degree=Pos	5	advmod	_	start_char=12|end_char=24
+5	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=25|end_char=30
+6	scary	scary	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=31|end_char=36
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=37|end_char=39
+8	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=39|end_char=41
+9	not	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=42|end_char=45
+10	just	just	ADV	RB	_	11	advmod	_	start_char=46|end_char=50
+11	assholedesign	assholedesign	NOUN	NN	Number=Sing	0	root	_	start_char=51|end_char=64
+12	,	,	PUNCT	,	_	15	punct	_	start_char=64|end_char=65
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=66|end_char=68
+14	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=68|end_char=70
+15	insensitive	insensitive	ADJ	JJ	Degree=Pos	11	parataxis	_	start_char=71|end_char=82
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=83|end_char=86
+17	unaware	unaware	ADJ	JJ	Degree=Pos	15	conj	_	start_char=87|end_char=94
+18	of	of	ADP	IN	_	19	case	_	start_char=95|end_char=97
+19	reality	reality	NOUN	NN	Number=Sing	17	obl	_	start_char=98|end_char=105
+

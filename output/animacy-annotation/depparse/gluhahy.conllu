@@ -1,0 +1,24 @@
+1	Oh	oh	INTJ	UH	_	4	discourse	_	start_char=0|end_char=2
+2	sweet	sweet	ADJ	JJ	Degree=Pos	4	amod	_	start_char=3|end_char=8
+3	summer	summer	NOUN	NN	Number=Sing	4	compound	_	start_char=9|end_char=15
+4	child	child	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=21
+5	.	.	PUNCT	.	_	4	punct	_	start_char=21|end_char=22
+
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=23|end_char=26
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=27|end_char=28
+3	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=33
+4	to	to	PART	TO	_	7	mark	_	start_char=34|end_char=36
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=37|end_char=39
+6	as	as	ADV	RB	_	7	advmod	_	start_char=40|end_char=42
+7	innocent	innocent	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=43|end_char=51
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=52|end_char=55
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=56|end_char=63
+10	of	of	ADP	IN	_	13	case	_	start_char=64|end_char=66
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=67|end_char=70
+12	cruel	cruel	ADJ	JJ	Degree=Pos	13	amod	_	start_char=71|end_char=76
+13	realities	reality	NOUN	NNS	Number=Plur	9	obl	_	start_char=77|end_char=86
+14	of	of	ADP	IN	_	16	case	_	start_char=87|end_char=89
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=90|end_char=94
+16	world	world	NOUN	NN	Number=Sing	13	nmod	_	start_char=95|end_char=100
+17	.	.	PUNCT	.	_	3	punct	_	start_char=100|end_char=101
+

@@ -1,0 +1,40 @@
+1	In	in	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	addition	addition	NOUN	NN	Number=Sing	11	obl	_	start_char=3|end_char=11
+3	to	to	ADP	IN	_	6	case	_	start_char=12|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=15|end_char=18
+5	obvious	obvious	ADJ	JJ	Degree=Pos	6	amod	_	start_char=19|end_char=26
+6	racism	racism	NOUN	NN	Number=Sing	2	nmod	_	start_char=27|end_char=33
+7	...	...	PUNCT	,	_	11	punct	_	start_char=33|end_char=36
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=36|end_char=39
+9	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=39|end_char=41
+10	so	so	ADV	RB	_	11	advmod	_	start_char=42|end_char=44
+11	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=51
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=52|end_char=55
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=56|end_char=64
+14	that	that	SCONJ	IN	_	16	mark	_	start_char=65|end_char=69
+15	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=70|end_char=73
+16	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=74|end_char=80
+17	illegal	illegal	ADJ	JJ	Degree=Pos	18	amod	_	start_char=81|end_char=88
+18	alien	alien	NOUN	NN	Number=Sing	20	nsubj	_	start_char=89|end_char=94
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=95|end_char=97
+20	synonymous	synonymous	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=98|end_char=108
+21	with	with	ADP	IN	_	23	case	_	start_char=109|end_char=113
+22	Mexican	Mexican	ADJ	JJ	Degree=Pos	23	amod	_	start_char=114|end_char=121
+23	immigrants	immigrant	NOUN	NNS	Number=Plur	20	obl	_	start_char=122|end_char=132
+24	.	.	PUNCT	.	_	11	punct	_	start_char=132|end_char=133
+
+1	Poor	poor	ADJ	JJ	Degree=Pos	2	amod	_	start_char=134|end_char=138
+2	Manager	manager	NOUN	NN	Number=Sing	0	root	_	start_char=139|end_char=146
+3	.	.	PUNCT	.	_	2	punct	_	start_char=146|end_char=147
+
+1	Kudos	kudo	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=148|end_char=153
+2	for	for	ADP	IN	_	3	case	_	start_char=154|end_char=157
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	start_char=158|end_char=161
+4	for	for	SCONJ	IN	_	6	mark	_	start_char=162|end_char=165
+5	still	still	ADV	RB	_	6	advmod	_	start_char=166|end_char=171
+6	paying	pay	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=172|end_char=178
+7	for	for	ADP	IN	_	9	case	_	start_char=179|end_char=182
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=183|end_char=186
+9	food	food	NOUN	NN	Number=Sing	6	obl	_	start_char=187|end_char=191
+10	.	.	PUNCT	.	_	1	punct	_	start_char=191|end_char=192
+

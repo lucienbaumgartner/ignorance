@@ -1,0 +1,36 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	lean	lean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	libertarian	libertarian	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=7|end_char=18
+4	and	and	CCONJ	CC	_	15	cc	_	start_char=19|end_char=22
+5	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=23|end_char=27
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=28|end_char=30
+7	first	first	ADV	RB	Degree=Pos|NumType=Ord	8	advmod	_	start_char=31|end_char=36
+8	announced	announce	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	start_char=37|end_char=46
+9	,	,	PUNCT	,	_	15	punct	_	start_char=46|end_char=47
+10	and	and	CCONJ	CC	_	15	cc	_	start_char=48|end_char=51
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=52|end_char=53
+12	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	aux	_	start_char=54|end_char=57
+13	n’t	not	PART	RB	Polarity=Neg	15	advmod	_	start_char=57|end_char=60
+14	really	really	ADV	RB	Degree=Pos	15	advmod	_	start_char=61|end_char=67
+15	know	know	VERB	VB	VerbForm=Inf	2	conj	_	start_char=68|end_char=72
+16	anything	anything	NOUN	NN	Number=Sing	15	obj	_	start_char=73|end_char=81
+17	about	about	ADP	IN	_	18	case	_	start_char=82|end_char=87
+18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	start_char=88|end_char=91
+19	,	,	PUNCT	,	_	22	punct	_	start_char=91|end_char=92
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj:pass	_	start_char=93|end_char=94
+21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux:pass	_	start_char=95|end_char=98
+22	intrigued	intrigue	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	start_char=99|end_char=108
+23	.	.	PUNCT	.	_	2	punct	_	start_char=108|end_char=109
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=110|end_char=113
+2	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=119
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=120|end_char=123
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=124|end_char=132
+5	.	.	PUNCT	.	_	2	punct	_	start_char=132|end_char=133
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	_	start_char=134|end_char=138
+2	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=139|end_char=142
+3	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=143|end_char=148
+4	quick	quick	ADV	RB	Degree=Pos	3	advmod	_	start_char=149|end_char=154
+5	.	.	PUNCT	.	_	3	punct	_	start_char=154|end_char=155
+

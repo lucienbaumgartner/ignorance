@@ -1,0 +1,45 @@
+1	Yes	yes	INTJ	UH	_	14	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	14	punct	_	start_char=3|end_char=4
+3	but	but	CCONJ	CC	_	14	cc	_	start_char=5|end_char=8
+4	if	if	SCONJ	IN	_	6	mark	_	start_char=9|end_char=11
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=12|end_char=15
+6	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=16|end_char=19
+7	Buell	Buell	PROPN	NNP	Number=Sing	6	obj	_	start_char=20|end_char=25
+8	with	with	ADP	IN	_	9	case	_	start_char=26|end_char=30
+9	Arthur	Arthur	PROPN	NNP	Number=Sing	6	obl	_	start_char=31|end_char=37
+10	,	,	PUNCT	,	_	14	punct	_	start_char=37|end_char=38
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=39|end_char=40
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=41|end_char=43
+13	n’t	not	PART	RB	_	14	advmod	_	start_char=43|end_char=46
+14	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=47|end_char=54
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=55|end_char=58
+16	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=59|end_char=62
+17	keep	keep	VERB	VB	VerbForm=Inf	14	ccomp	_	start_char=63|end_char=67
+18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=68|end_char=71
+19	as	as	ADP	IN	_	20	case	_	start_char=72|end_char=74
+20	John	John	PROPN	NNP	Number=Sing	17	obl	_	start_char=75|end_char=79
+21	.	.	PUNCT	.	_	14	punct	_	start_char=79|end_char=80
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=82|end_char=83
+2	also	also	ADV	RB	_	4	advmod	_	start_char=84|end_char=88
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=89|end_char=92
+4	riding	ride	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=93|end_char=99
+5	Buell	Buell	PROPN	NNP	Number=Sing	4	obj	_	start_char=100|end_char=105
+6	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=106|end_char=110
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=111|end_char=112
+8	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	start_char=113|end_char=120
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=121|end_char=124
+10	final	final	ADJ	JJ	Degree=Pos	12	amod	_	start_char=125|end_char=130
+11	Arthur	Arthur	PROPN	NNP	Number=Sing	12	compound	_	start_char=131|end_char=137
+12	mission	mission	NOUN	NN	Number=Sing	8	obj	_	start_char=138|end_char=145
+13	.	.	PUNCT	.	_	4	punct	_	start_char=145|end_char=146
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=148|end_char=152
+2	caught	catch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=153|end_char=159
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=160|end_char=162
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=163|end_char=170
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=171|end_char=174
+6	extra	extra	ADJ	JJ	Degree=Pos	7	amod	_	start_char=175|end_char=180
+7	sad	sad	ADJ	JJ	Degree=Pos	4	conj	_	start_char=181|end_char=184
+8	.	.	PUNCT	.	_	2	punct	_	start_char=184|end_char=185
+

@@ -1,0 +1,23 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=5|end_char=9
+3	not	not	PART	RB	_	4	advmod	_	start_char=10|end_char=13
+4	excuse	excuse	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=20
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=21|end_char=26
+6	reckless	reckless	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=27|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=48
+9	.	.	PUNCT	.	_	4	punct	_	start_char=48|end_char=49
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=50|end_char=54
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=55|end_char=57
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=58|end_char=61
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=62|end_char=64
+5	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=65|end_char=69
+6	multiple	multiple	ADJ	JJ	Degree=Pos	9	amod	_	start_char=70|end_char=78
+7	massive	massive	ADJ	JJ	Degree=Pos	9	amod	_	start_char=79|end_char=86
+8	radioactive	radioactive	ADJ	JJ	Degree=Pos	9	amod	_	start_char=87|end_char=98
+9	wastelands	wasteland	NOUN	NNS	Number=Plur	5	obj	_	start_char=99|end_char=109
+10	across	across	ADP	IN	_	11	case	_	start_char=110|end_char=116
+11	Asia	Asia	PROPN	NNP	Number=Sing	9	nmod	_	start_char=117|end_char=121
+12	.	.	PUNCT	.	_	3	punct	_	start_char=121|end_char=122
+

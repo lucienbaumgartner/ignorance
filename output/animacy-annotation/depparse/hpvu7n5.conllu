@@ -1,0 +1,53 @@
+1	What	what	PRON	WP	PronType=Int	7	nsubj	_	start_char=0|end_char=4
+2	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=5|end_char=6
+3	profoundly	profoundly	ADV	RB	_	4	advmod	_	start_char=7|end_char=17
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=18|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=41
+7	statement	statement	NOUN	NN	Number=Sing	0	root	_	start_char=42|end_char=51
+8	.	.	PUNCT	.	_	7	punct	_	start_char=51|end_char=52
+
+1	Super	super	ADV	RB	_	2	advmod	_	start_char=53|end_char=58
+2	bizarre	bizarre	ADJ	JJ	Degree=Pos	0	root	_	start_char=59|end_char=66
+3	to	to	PART	TO	_	4	mark	_	start_char=67|end_char=69
+4	try	try	VERB	VB	VerbForm=Inf	2	csubj	_	start_char=70|end_char=73
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=74|end_char=77
+6	make	make	VERB	VB	VerbForm=Inf	4	conj	_	start_char=78|end_char=82
+7	race	race	NOUN	NN	Number=Sing	6	iobj	_	start_char=83|end_char=87
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=88|end_char=89
+9	thing	thing	NOUN	NN	Number=Sing	6	obj	_	start_char=90|end_char=95
+10	.	.	PUNCT	.	_	2	punct	_	start_char=95|end_char=96
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=97|end_char=100
+2	show	show	NOUN	NN	Number=Sing	7	nsubj	_	start_char=101|end_char=105
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=106|end_char=109
+4	90	90	NUM	CD	NumType=Card	5	nummod	_	start_char=110|end_char=112
+5	%	%	SYM	NN	Number=Sing	7	obl:npmod	_	start_char=112|end_char=113
+6	white	white	ADJ	JJ	Degree=Pos	7	amod	_	start_char=114|end_char=119
+7	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=120|end_char=126
+8	,	,	PUNCT	,	_	11	punct	_	start_char=126|end_char=127
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=128|end_char=131
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=132|end_char=134
+11	ended	end	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	_	start_char=135|end_char=140
+12	with	with	ADP	IN	_	15	case	_	start_char=141|end_char=145
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=146|end_char=147
+14	white	white	ADJ	JJ	Degree=Pos	15	amod	_	start_char=148|end_char=153
+15	guy	guy	NOUN	NN	Number=Sing	11	obl	_	start_char=154|end_char=157
+16	taking	take	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=158|end_char=164
+17	over	over	ADP	RP	_	16	compound:prt	_	start_char=165|end_char=169
+18	….	..	PUNCT	.	_	7	punct	_	start_char=169|end_char=171
+
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=172|end_char=175
+2	on	on	ADP	IN	_	3	case	_	start_char=176|end_char=178
+3	Earth	Earth	PROPN	NNP	Number=Sing	6	obl	_	start_char=179|end_char=184
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=185|end_char=188
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=189|end_char=191
+6	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=192|end_char=196
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=197|end_char=199
+8	seem	seem	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=200|end_char=204
+9	like	like	ADP	IN	_	12	case	_	start_char=205|end_char=209
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=210|end_char=211
+11	racial	racial	ADJ	JJ	Degree=Pos	12	amod	_	start_char=212|end_char=218
+12	issue	issue	NOUN	NN	Number=Sing	8	obl	_	start_char=219|end_char=224
+13	?!	?!	PUNCT	.	_	6	punct	_	start_char=224|end_char=226
+

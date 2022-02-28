@@ -1,0 +1,22 @@
+1	For	for	ADP	IN	_	2	case	_	start_char=0|end_char=3
+2	those	that	PRON	DT	Number=Plur|PronType=Dem	12	obl	_	start_char=4|end_char=9
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=10|end_char=13
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=14|end_char=17
+5	unaware	unaware	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=18|end_char=25
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=26|end_char=29
+7	new	new	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=33
+8	to	to	ADP	IN	_	10	case	_	start_char=34|end_char=36
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=37|end_char=40
+10	space	space	NOUN	NN	Number=Sing	7	obl	_	start_char=41|end_char=46
+11	Coinbase	Coinbase	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=47|end_char=55
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=56|end_char=59
+13	free	free	ADJ	JJ	Degree=Pos	14	amod	_	start_char=60|end_char=64
+14	crypto	crypto	NOUN	NN	Number=Sing	12	obj	_	start_char=65|end_char=71
+15	available	available	ADJ	JJ	Degree=Pos	14	amod	_	start_char=72|end_char=81
+16	for	for	SCONJ	IN	_	17	mark	_	start_char=82|end_char=85
+17	completing	complete	VERB	VBG	VerbForm=Ger	15	advcl	_	start_char=86|end_char=96
+18	some	some	DET	DT	_	20	det	_	start_char=97|end_char=101
+19	simple	simple	ADJ	JJ	Degree=Pos	20	amod	_	start_char=102|end_char=108
+20	quizzes	quizze	NOUN	NNS	Number=Plur	17	obj	_	start_char=109|end_char=116
+21	.	.	PUNCT	.	_	12	punct	_	start_char=116|end_char=117
+

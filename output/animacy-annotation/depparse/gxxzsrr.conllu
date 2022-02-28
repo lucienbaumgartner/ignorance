@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	honestly	honestly	ADV	RB	_	3	advmod	_	start_char=2|end_char=10
+3	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	sorry	sorry	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=16|end_char=21
+5	for	for	ADP	IN	_	6	case	_	start_char=22|end_char=25
+6	people	people	NOUN	NNS	Number=Plur	4	obl	_	start_char=26|end_char=32
+7	like	like	ADP	IN	_	8	case	_	start_char=33|end_char=37
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	nmod	_	start_char=38|end_char=41
+9	.	.	PUNCT	.	_	3	punct	_	start_char=41|end_char=42
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=43|end_char=45
+2	blinded	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=53
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=54|end_char=57
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=58|end_char=66
+5	of	of	ADP	IN	_	6	case	_	start_char=67|end_char=69
+6	what	what	PRON	WP	PronType=Int	4	obl	_	start_char=70|end_char=74
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=75|end_char=77
+8	actually	actually	ADV	RB	Degree=Pos	10	advmod	_	start_char=78|end_char=86
+9	even	even	ADV	RB	_	10	advmod	_	start_char=87|end_char=91
+10	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	6	acl:relcl	_	start_char=92|end_char=101
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=102|end_char=105
+12	still	still	ADV	RB	Degree=Pos	13	advmod	_	start_char=106|end_char=111
+13	painting	paint	VERB	VBG	Tense=Pres|VerbForm=Part	2	conj	_	start_char=112|end_char=120
+14	everything	everything	NOUN	NN	Number=Sing	13	obj	_	start_char=121|end_char=131
+15	in	in	ADP	IN	_	16	case	_	start_char=132|end_char=134
+16	black	black	ADJ	JJ	Degree=Pos	13	obl	_	start_char=135|end_char=140
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=141|end_char=144
+18	white	white	ADJ	JJ	Degree=Pos	16	conj	_	start_char=145|end_char=150
+19	when	when	SCONJ	WRB	PronType=Int	27	mark	_	start_char=151|end_char=155
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=156|end_char=159
+21	world	world	NOUN	NN	Number=Sing	27	nsubj	_	start_char=160|end_char=165
+22	and	and	CCONJ	CC	_	24	cc	_	start_char=166|end_char=169
+23	current	current	ADJ	JJ	Degree=Pos	24	amod	_	start_char=170|end_char=177
+24	events	event	NOUN	NNS	Number=Plur	21	conj	_	start_char=178|end_char=184
+25	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	start_char=185|end_char=188
+26	a	a	DET	DT	Definite=Ind|PronType=Art	27	det	_	start_char=189|end_char=190
+27	mosaic	mosaic	NOUN	NN	Number=Sing	13	advcl	_	start_char=191|end_char=197
+28	of	of	ADP	IN	_	29	case	_	start_char=198|end_char=200
+29	colors	color	NOUN	NNS	Number=Plur	27	nmod	_	start_char=201|end_char=207
+30	and	and	CCONJ	CC	_	31	cc	_	start_char=208|end_char=211
+31	interpretations	interpretation	NOUN	NNS	Number=Plur	29	conj	_	start_char=212|end_char=227
+32	.	.	PUNCT	.	_	2	punct	_	start_char=227|end_char=228
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=230|end_char=234
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=235|end_char=239
+

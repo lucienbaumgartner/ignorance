@@ -1,0 +1,11 @@
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=10
+3	,	,	PUNCT	,	_	7	punct	_	start_char=10|end_char=11
+4	or	or	CCONJ	CC	_	7	cc	_	start_char=12|end_char=14
+5	at	at	ADP	IN	_	6	case	_	start_char=15|end_char=17
+6	least	least	ADJ	JJS	Degree=Sup	7	obl	_	start_char=18|end_char=23
+7	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=24|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	unwoke	unwoke	ADJ	JJ	Degree=Pos	7	conj	_	start_char=36|end_char=42
+10	...	...	PUNCT	.	_	2	punct	_	start_char=42|end_char=45
+

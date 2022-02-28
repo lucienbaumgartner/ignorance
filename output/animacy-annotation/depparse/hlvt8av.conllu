@@ -1,0 +1,26 @@
+1	People	person	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=0|end_char=6
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=7|end_char=10
+3	criticize	criticize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=11|end_char=20
+4	space	space	NOUN	NN	Number=Sing	5	compound	_	start_char=21|end_char=26
+5	exploration	exploration	NOUN	NN	Number=Sing	3	obj	_	start_char=27|end_char=38
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=39|end_char=42
+7	shortsighted	shortsighted	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=55
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=56|end_char=59
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=60|end_char=68
+10	of	of	ADP	IN	_	12	case	_	start_char=69|end_char=71
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=72|end_char=75
+12	benefits	benefit	NOUN	NNS	Number=Plur	9	obl	_	start_char=76|end_char=84
+13	.	.	PUNCT	.	_	7	punct	_	start_char=84|end_char=85
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=86|end_char=90
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=90|end_char=93
+3	clearly	clearly	ADV	RB	_	7	advmod	_	start_char=94|end_char=101
+4	not	not	PART	RB	_	7	advmod	_	start_char=102|end_char=105
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=106|end_char=109
+6	brightest	bright	ADJ	JJS	Degree=Sup	7	amod	_	start_char=110|end_char=119
+7	stars	star	NOUN	NNS	Number=Plur	0	root	_	start_char=120|end_char=125
+8	in	in	ADP	IN	_	10	case	_	start_char=126|end_char=128
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=129|end_char=132
+10	sky	sky	NOUN	NN	Number=Sing	7	nmod	_	start_char=133|end_char=136
+11	.	.	PUNCT	.	_	7	punct	_	start_char=136|end_char=137
+

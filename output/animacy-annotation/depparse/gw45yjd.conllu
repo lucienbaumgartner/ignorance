@@ -1,0 +1,21 @@
+1	Oh	oh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=2
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=3|end_char=5
+3	either	either	ADV	RB	_	2	advmod	_	start_char=6|end_char=12
+4	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	But	but	CCONJ	CC	_	8	cc	_	start_char=15|end_char=18
+2	for	for	ADP	IN	_	3	case	_	start_char=19|end_char=22
+3	once	once	ADV	RB	NumType=Mult	8	obl	_	start_char=23|end_char=27
+4	in	in	ADP	IN	_	6	case	_	start_char=28|end_char=30
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=31|end_char=33
+6	life	life	NOUN	NN	Number=Sing	3	nmod	_	start_char=34|end_char=38
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=39|end_char=40
+8	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=45
+9	both	both	CCONJ	CC	_	10	cc:preconj	_	start_char=46|end_char=50
+10	confident	confident	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=51|end_char=60
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=61|end_char=64
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=65|end_char=73
+13	of	of	ADP	IN	_	14	case	_	start_char=74|end_char=76
+14	specifics	specifics	NOUN	NNS	Number=Plur	10	obl	_	start_char=77|end_char=86
+15	.	.	PUNCT	.	_	8	punct	_	start_char=86|end_char=87
+

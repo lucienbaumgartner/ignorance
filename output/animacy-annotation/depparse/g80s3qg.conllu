@@ -1,0 +1,47 @@
+1	Ahaha	ahaha	INTJ	UH	_	0	root	_	start_char=0|end_char=5
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=6|end_char=7
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+3	that	that	SCONJ	IN	_	8	mark	_	start_char=13|end_char=17
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=18|end_char=23
+5	idiots	idiot	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=24|end_char=30
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=31|end_char=34
+7	so	so	ADV	RB	_	8	advmod	_	start_char=35|end_char=37
+8	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=38|end_char=45
+9	stupid	stupid	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=46|end_char=52
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=53|end_char=56
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=57|end_char=65
+12	that	that	SCONJ	IN	_	16	mark	_	start_char=66|end_char=70
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=71|end_char=75
+14	ca	can	AUX	MD	VerbForm=Fin	16	aux	_	start_char=76|end_char=78
+15	n't	not	PART	RB	_	16	advmod	_	start_char=78|end_char=81
+16	get	get	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=82|end_char=85
+17	women	woman	NOUN	NNS	Number=Plur	16	obj	_	start_char=86|end_char=91
+18	.	.	PUNCT	.	_	2	punct	_	start_char=91|end_char=92
+
+1	Laughs	laugh	NOUN	NNS	Number=Plur	0	root	_	start_char=95|end_char=101
+2	in	in	ADP	IN	_	4	case	_	start_char=102|end_char=104
+3	network	network	NOUN	NN	Number=Sing	4	compound	_	start_char=105|end_char=112
+4	engineer	engineer	NOUN	NN	Number=Sing	1	nmod	_	start_char=113|end_char=121
+5	.	.	PUNCT	.	_	1	punct	_	start_char=121|end_char=122
+
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=126|end_char=131
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=132|end_char=137
+3	alone	alone	ADV	RB	_	1	xcomp	_	start_char=138|end_char=143
+4	,	,	PUNCT	,	_	5	punct	_	start_char=143|end_char=144
+5	losers	loser	NOUN	NNS	Number=Plur	3	vocative	_	start_char=145|end_char=151
+6	!	!	PUNCT	.	_	1	punct	_	start_char=151|end_char=152
+
+1	Educated	educate	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	_	start_char=153|end_char=161
+2	women	woman	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=162|end_char=167
+3	will	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=168|end_char=172
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=173|end_char=175
+5	over	over	ADP	IN	_	6	case	_	start_char=176|end_char=180
+6	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=181|end_char=185
+7	enjoying	enjoy	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=186|end_char=194
+8	happy	happy	ADJ	JJ	Degree=Pos	11	amod	_	start_char=195|end_char=200
+9	,	,	PUNCT	,	_	11	punct	_	start_char=200|end_char=201
+10	healthy	healthy	ADJ	JJ	Degree=Pos	11	amod	_	start_char=202|end_char=209
+11	relationships	relationship	NOUN	NNS	Number=Plur	7	obj	_	start_char=210|end_char=223
+12	.	.	PUNCT	.	_	6	punct	_	start_char=223|end_char=224
+

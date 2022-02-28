@@ -1,0 +1,37 @@
+1	Exactly	exactly	ADV	RB	_	3	advmod	_	start_char=0|end_char=7
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=8|end_char=10
+3	thinking	thinking	NOUN	NN	Number=Sing	0	root	_	start_char=11|end_char=19
+4	,	,	PUNCT	,	_	8	punct	_	start_char=19|end_char=20
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=21|end_char=24
+6	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=25|end_char=28
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=28|end_char=30
+8	fine	fine	ADJ	JJ	Degree=Pos	3	conj	_	start_char=31|end_char=35
+9	!	!	PUNCT	.	_	3	punct	_	start_char=35|end_char=36
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=37|end_char=41
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=41|end_char=44
+3	eating	eat	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=45|end_char=51
+4	pomegranate	pomegranate	NOUN	NN	Number=Sing	5	compound	_	start_char=52|end_char=63
+5	seeds	seed	NOUN	NNS	Number=Plur	3	obj	_	start_char=64|end_char=69
+6	!	!	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=71|end_char=74
+2	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=75|end_char=82
+3	blissfully	blissfully	ADV	RB	_	4	advmod	_	start_char=83|end_char=93
+4	happy	happy	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=94|end_char=99
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=100|end_char=103
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=104|end_char=111
+7	of	of	ADP	IN	_	9	case	_	start_char=112|end_char=114
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=115|end_char=118
+9	torment	torment	NOUN	NN	Number=Sing	6	obl	_	start_char=119|end_char=126
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=127|end_char=128
+11	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=128|end_char=130
+12	subjecting	subject	VERB	VBG	Tense=Pres|VerbForm=Part	9	acl:relcl	_	start_char=131|end_char=141
+13	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	12	obj	_	start_char=142|end_char=148
+14	to	to	ADP	IN	_	12	obl	_	start_char=149|end_char=151
+15	for	for	ADP	IN	_	18	case	_	start_char=152|end_char=155
+16	no	no	DET	DT	_	18	det	_	start_char=156|end_char=158
+17	tangible	tangible	ADJ	JJ	Degree=Pos	18	amod	_	start_char=159|end_char=167
+18	reason	reason	NOUN	NN	Number=Sing	12	obl	_	start_char=168|end_char=174
+19	!	!	PUNCT	.	_	2	punct	_	start_char=174|end_char=175
+

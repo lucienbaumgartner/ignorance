@@ -1,0 +1,24 @@
+1	Also	also	ADV	RB	_	7	advmod	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	7	punct	_	start_char=4|end_char=5
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=6|end_char=9
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=10|end_char=12
+5	so	so	ADV	RB	_	6	advmod	_	start_char=13|end_char=15
+6	fantastically	fantastically	ADV	RB	_	7	advmod	_	start_char=16|end_char=29
+7	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=50
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=51|end_char=55
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=56|end_char=58
+12	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=59|end_char=64
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	start_char=65|end_char=67
+14	*	*	PUNCT	NFP	_	15	punct	_	start_char=68|end_char=69
+15	DON	DON	PROPN	NNP	Number=Sing	13	conj	_	start_char=69|end_char=72
+16	'	'	PUNCT	''	_	15	punct	_	start_char=72|end_char=73
+17	T*	T*	PROPN	NNP	Number=Sing	13	conj	_	start_char=73|end_char=75
+18	have	have	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=76|end_char=80
+19	things	thing	NOUN	NNS	Number=Plur	18	obj	_	start_char=81|end_char=87
+20	to	to	PART	TO	_	21	mark	_	start_char=88|end_char=90
+21	apologize	apologize	VERB	VB	VerbForm=Inf	19	acl	_	start_char=91|end_char=100
+22	about	about	ADP	IN	_	21	obl	_	start_char=101|end_char=106
+23	?	?	PUNCT	.	_	7	punct	_	start_char=106|end_char=107
+

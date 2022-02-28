@@ -1,0 +1,45 @@
+1	Yahg	Yahg	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=8
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=9|end_char=15
+4	similar	similar	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=23
+5	to	to	ADP	IN	_	6	case	_	start_char=24|end_char=26
+6	Asari	Asari	PROPN	NNP	Number=Sing	4	obl	_	start_char=27|end_char=32
+7	on	on	ADP	IN	_	10	case	_	start_char=33|end_char=35
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=36|end_char=39
+9	last	last	ADJ	JJ	Degree=Pos	10	amod	_	start_char=40|end_char=44
+10	cycle	cycle	NOUN	NN	Number=Sing	4	obl	_	start_char=45|end_char=50
+11	.	.	PUNCT	.	_	4	punct	_	start_char=50|end_char=51
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=52|end_char=56
+2	're	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=56|end_char=59
+3	primitive	primitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=60|end_char=69
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=70|end_char=73
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=74|end_char=81
+6	of	of	ADP	IN	_	11	case	_	start_char=82|end_char=84
+7	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=85|end_char=88
+8	Mass	mass	ADJ	JJ	Degree=Pos	9	amod	_	start_char=89|end_char=93
+9	Effect	effect	NOUN	NN	Number=Sing	11	compound	_	start_char=94|end_char=100
+10	relay	relay	NOUN	NN	Number=Sing	11	compound	_	start_char=101|end_char=106
+11	system	system	NOUN	NN	Number=Sing	5	obl	_	start_char=107|end_char=113
+12	or	or	CCONJ	CC	_	15	cc	_	start_char=114|end_char=116
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=117|end_char=120
+14	galactic	galactic	ADJ	JJ	Degree=Pos	15	amod	_	start_char=121|end_char=129
+15	community	community	NOUN	NN	Number=Sing	11	conj	_	start_char=130|end_char=139
+16	.	.	PUNCT	.	_	3	punct	_	start_char=139|end_char=140
+
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=141|end_char=146
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	_	start_char=147|end_char=151
+3	contact	contact	NOUN	NN	Number=Sing	11	nsubj	_	start_char=152|end_char=159
+4	with	with	ADP	IN	_	7	case	_	start_char=160|end_char=164
+5	spaceflight	spaceflight	NOUN	NN	Number=Sing	7	compound	_	start_char=165|end_char=176
+6	capable	capable	ADJ	JJ	Degree=Pos	7	amod	_	start_char=177|end_char=184
+7	races	race	NOUN	NNS	Number=Plur	3	nmod	_	start_char=185|end_char=190
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=191|end_char=193
+9	in	in	ADP	IN	_	11	case	_	start_char=194|end_char=196
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=197|end_char=200
+11	form	form	NOUN	NN	Number=Sing	0	root	_	start_char=201|end_char=205
+12	of	of	ADP	IN	_	15	case	_	start_char=206|end_char=208
+13	mysterious	mysterious	ADJ	JJ	Degree=Pos	15	amod	_	start_char=209|end_char=219
+14	alien	Alien	ADJ	JJ	Degree=Pos	15	amod	_	start_char=220|end_char=225
+15	abductions	abduction	NOUN	NNS	Number=Plur	11	nmod	_	start_char=226|end_char=236
+

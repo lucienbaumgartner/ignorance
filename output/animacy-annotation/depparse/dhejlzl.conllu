@@ -1,0 +1,11 @@
+1	"	"	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Conspire	conspire	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=1|end_char=9
+3	to	to	PART	TO	_	4	mark	_	start_char=10|end_char=12
+4	create	create	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=19
+5	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=20|end_char=22
+6	unaware	unaware	ADJ	JJ	Degree=Pos	9	amod	_	start_char=23|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	compliant	compliant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=44
+9	citizenry	citizenry	NOUN	NN	Number=Sing	4	obj	_	start_char=45|end_char=54
+10	"	"	PUNCT	''	_	2	punct	_	start_char=54|end_char=55
+

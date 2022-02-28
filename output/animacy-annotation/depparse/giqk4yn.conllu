@@ -1,0 +1,38 @@
+1	Red	Red	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=3
+2	dog	dog	NOUN	NN	Number=Sing	0	root	_	start_char=4|end_char=7
+3	.	.	PUNCT	.	_	2	punct	_	start_char=7|end_char=8
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=9|end_char=11
+2	youre	your	AUX	VBZ	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=17
+3	not	not	PART	RB	_	4	advmod	_	start_char=18|end_char=21
+4	Australian	Australian	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=22|end_char=32
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=33|end_char=36
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=37|end_char=44
+7	of	of	ADP	IN	_	9	case	_	start_char=45|end_char=47
+8	red	red	ADJ	JJ	Degree=Pos	9	amod	_	start_char=48|end_char=51
+9	dog	dog	NOUN	NN	Number=Sing	6	obl	_	start_char=52|end_char=55
+10	then	then	ADV	RB	PronType=Dem	11	advmod	_	start_char=56|end_char=60
+11	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=61|end_char=63
+12	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	11	iobj	_	start_char=64|end_char=72
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=73|end_char=74
+14	favour	favour	NOUN	NN	Number=Sing	11	obj	_	start_char=75|end_char=81
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=82|end_char=85
+16	watch	watch	VERB	VB	Mood=Imp|VerbForm=Fin	11	conj	_	start_char=86|end_char=91
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=92|end_char=94
+18	.	.	PUNCT	.	_	11	punct	_	start_char=94|end_char=95
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=96|end_char=99
+2	best	good	ADJ	JJS	Degree=Sup	3	amod	_	start_char=100|end_char=104
+3	film	film	NOUN	NN	Number=Sing	0	root	_	start_char=105|end_char=109
+4	with	with	ADP	IN	_	6	case	_	start_char=110|end_char=114
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=115|end_char=116
+6	dog	dog	NOUN	NN	Number=Sing	3	nmod	_	start_char=117|end_char=120
+7	ever	ever	ADV	RB	_	8	advmod	_	start_char=121|end_char=125
+8	made	make	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	start_char=126|end_char=130
+9	in	in	ADP	IN	_	11	case	_	start_char=131|end_char=133
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=134|end_char=137
+11	history	history	NOUN	NN	Number=Sing	8	obl	_	start_char=138|end_char=145
+12	of	of	ADP	IN	_	14	case	_	start_char=146|end_char=148
+13	dog	dog	NOUN	NN	Number=Sing	14	compound	_	start_char=149|end_char=152
+14	films	film	NOUN	NNS	Number=Plur	11	nmod	_	start_char=153|end_char=158
+

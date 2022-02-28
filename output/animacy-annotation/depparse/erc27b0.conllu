@@ -1,0 +1,59 @@
+1	What	what	PRON	WP	PronType=Int	3	det:predet	_	start_char=0|end_char=4
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=5|end_char=6
+3	story	story	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=12
+4	.	.	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=14|end_char=15
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=21
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=22|end_char=25
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=26|end_char=29
+5	take	take	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=30|end_char=34
+6	away	away	ADV	RB	_	5	advmod	_	start_char=35|end_char=39
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=40|end_char=41
+8	few	few	ADJ	JJ	Degree=Pos	9	amod	_	start_char=42|end_char=45
+9	things	thing	NOUN	NNS	Number=Plur	5	obj	_	start_char=46|end_char=52
+10	from	from	ADP	IN	_	11	case	_	start_char=53|end_char=57
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=58|end_char=60
+12	.	.	PUNCT	.	_	2	punct	_	start_char=60|end_char=61
+
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	6	aux	_	start_char=62|end_char=64
+2	n't	not	PART	RB	_	6	advmod	_	start_char=64|end_char=67
+3	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	6	cop	_	start_char=68|end_char=70
+4	so	so	ADV	RB	_	6	advmod	_	start_char=71|end_char=73
+5	blissfully	blissfully	ADV	RB	_	6	advmod	_	start_char=74|end_char=84
+6	kind	kind	ADJ	JJ	Degree=Pos	0	root	_	start_char=85|end_char=89
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=90|end_char=93
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=94|end_char=102
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=103|end_char=107
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=108|end_char=111
+11	lose	lose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=112|end_char=116
+12	everything	everything	PRON	NN	Number=Sing	11	obj	_	start_char=117|end_char=127
+13	.	.	PUNCT	.	_	6	punct	_	start_char=127|end_char=128
+
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	_	start_char=129|end_char=131
+2	n't	not	PART	RB	_	5	advmod	_	start_char=131|end_char=134
+3	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	5	cop	_	start_char=135|end_char=137
+4	so	so	ADV	RB	_	5	advmod	_	start_char=138|end_char=140
+5	mean	mean	VERB	VB	VerbForm=Fin	0	root	_	start_char=141|end_char=145
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=146|end_char=150
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=151|end_char=154
+8	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=155|end_char=160
+9	take	take	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=161|end_char=165
+10	everything	everything	PRON	NN	Number=Sing	9	obj	_	start_char=166|end_char=176
+11	from	from	ADP	IN	_	12	case	_	start_char=177|end_char=181
+12	someone	someone	PRON	NN	Number=Sing	9	obl	_	start_char=182|end_char=189
+13	so	so	ADV	RB	_	15	advmod	_	start_char=190|end_char=192
+14	blissfully	blissfully	ADV	RB	_	15	advmod	_	start_char=193|end_char=203
+15	kind	kind	ADJ	JJ	Degree=Pos	9	advmod	_	start_char=204|end_char=208
+16	.	.	PUNCT	.	_	5	punct	_	start_char=208|end_char=209
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=210|end_char=213
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	_	start_char=214|end_char=216
+3	n't	not	PART	RB	_	4	advmod	_	start_char=216|end_char=219
+4	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=220|end_char=223
+5	forest	forest	NOUN	NN	Number=Sing	6	compound	_	start_char=224|end_char=230
+6	demons	demon	NOUN	NNS	Number=Plur	4	obj	_	start_char=231|end_char=237
+7	eat	eat	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=238|end_char=241
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obj	_	start_char=242|end_char=245
+9	.	.	PUNCT	.	_	4	punct	_	start_char=245|end_char=246
+

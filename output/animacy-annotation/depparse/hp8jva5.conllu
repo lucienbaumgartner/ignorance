@@ -1,0 +1,29 @@
+1	Because	because	SCONJ	IN	_	8	mark	_	start_char=0|end_char=7
+2	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=8|end_char=14
+3	sharing	share	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=15|end_char=22
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=23|end_char=26
+5	checkpoint	checkpoint	NOUN	NN	Number=Sing	3	obj	_	start_char=27|end_char=37
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=38|end_char=41
+7	too	too	ADV	RB	_	8	advmod	_	start_char=42|end_char=45
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=54
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=55|end_char=58
+10	timid	timid	ADJ	JJ	Degree=Pos	8	conj	_	start_char=59|end_char=64
+11	to	to	PART	TO	_	12	mark	_	start_char=65|end_char=67
+12	kill	kill	VERB	VB	VerbForm=Inf	10	advcl	_	start_char=68|end_char=72
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=73|end_char=76
+14	ogre	ogre	NOUN	NN	Number=Sing	15	compound	_	start_char=77|end_char=81
+15	boss	boss	NOUN	NN	Number=Sing	12	obj	_	start_char=82|end_char=86
+16	.	.	PUNCT	.	_	8	punct	_	start_char=86|end_char=87
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=88|end_char=92
+2	setup	setup	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=93|end_char=98
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=99|end_char=103
+4	own	own	ADJ	JJ	Degree=Pos	6	amod	_	start_char=104|end_char=107
+5	fresh	fresh	ADJ	JJ	Degree=Pos	6	amod	_	start_char=108|end_char=113
+6	lfg	lfg	NOUN	NN	Number=Sing	2	obj	_	start_char=114|end_char=117
+7	going	go	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=118|end_char=123
+8	up	up	ADP	RP	_	7	compound:prt	_	start_char=124|end_char=126
+9	to	to	ADP	IN	_	10	case	_	start_char=127|end_char=129
+10	thrallway	thrallway	NOUN	NN	Number=Sing	7	obl	_	start_char=130|end_char=139
+11	.	.	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+

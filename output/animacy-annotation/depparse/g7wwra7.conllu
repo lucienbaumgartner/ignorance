@@ -1,0 +1,35 @@
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=0|end_char=4
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	start_char=5|end_char=8
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=9|end_char=13
+4	unpopular	unpopular	ADJ	JJ	Degree=Pos	5	amod	_	start_char=14|end_char=23
+5	opinion	opinion	NOUN	NN	Number=Sing	1	nsubj	_	start_char=24|end_char=31
+6	?	?	PUNCT	.	_	1	punct	_	start_char=31|end_char=32
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=33|end_char=34
+2	lot	lot	NOUN	NN	Number=Sing	5	nsubj	_	start_char=35|end_char=38
+3	of	of	ADP	IN	_	4	case	_	start_char=39|end_char=41
+4	people	people	NOUN	NNS	Number=Plur	2	nmod	_	start_char=42|end_char=48
+5	claim	claim	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=49|end_char=54
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=55|end_char=59
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=60|end_char=63
+8	then	then	ADV	RB	PronType=Dem	9	advmod	_	start_char=64|end_char=68
+9	show	show	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=69|end_char=73
+10	up	up	ADP	RP	_	9	compound:prt	_	start_char=74|end_char=76
+11	here	here	ADV	RB	PronType=Dem	9	advmod	_	start_char=77|end_char=81
+12	crying	cry	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=82|end_char=88
+13	about	about	SCONJ	IN	_	17	mark	_	start_char=89|end_char=94
+14	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=95|end_char=98
+15	brown	brown	ADJ	JJ	Degree=Pos	16	amod	_	start_char=99|end_char=104
+16	people	people	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=105|end_char=111
+17	suck	suck	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	_	start_char=112|end_char=116
+18	.	.	PUNCT	.	_	5	punct	_	start_char=116|end_char=117
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=118|end_char=120
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=120|end_char=122
+3	usually	usually	ADV	RB	_	5	advmod	_	start_char=123|end_char=130
+4	pretty	pretty	ADV	RB	_	5	advmod	_	start_char=131|end_char=137
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=145
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=146|end_char=149
+7	funny	funny	ADJ	JJ	Degree=Pos	5	conj	_	start_char=150|end_char=155
+8	.	.	PUNCT	.	_	5	punct	_	start_char=155|end_char=156
+

@@ -1,0 +1,28 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	actually	actually	ADV	RB	_	4	advmod	_	start_char=5|end_char=13
+4	remarkable	remarkable	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=24
+5	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=25|end_char=28
+6	somebody	somebody	PRON	NN	Number=Sing	10	nsubj	_	start_char=29|end_char=37
+7	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=38|end_char=41
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=42|end_char=44
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=45|end_char=49
+10	unaware	unaware	ADJ	JJ	Degree=Pos	4	csubj	_	start_char=50|end_char=57
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=58|end_char=61
+12	insane	insane	ADJ	JJ	Degree=Pos	10	conj	_	start_char=62|end_char=68
+13	.	.	PUNCT	.	_	4	punct	_	start_char=68|end_char=69
+
+1	Fatness	fatness	NOUN	NN	Number=Sing	2	nsubj	_	start_char=70|end_char=77
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=78|end_char=81
+3	little	little	ADJ	JJ	Degree=Pos	2	obj	_	start_char=82|end_char=88
+4	to	to	ADP	IN	_	5	case	_	start_char=89|end_char=91
+5	nothing	nothing	PRON	NN	Number=Sing	2	obl	_	start_char=92|end_char=99
+6	to	to	PART	TO	_	7	mark	_	start_char=100|end_char=102
+7	do	do	VERB	VB	VerbForm=Inf	5	acl	_	start_char=103|end_char=105
+8	with	with	ADP	IN	_	9	case	_	start_char=106|end_char=110
+9	health	health	NOUN	NN	Number=Sing	7	obl	_	start_char=111|end_char=117
+10	?	?	PUNCT	.	_	2	punct	_	start_char=117|end_char=118
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=119|end_char=123
+2	?!	?!	PUNCT	.	_	1	punct	_	start_char=123|end_char=125
+

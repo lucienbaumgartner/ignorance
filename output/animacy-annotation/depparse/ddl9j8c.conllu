@@ -1,0 +1,7 @@
+1	"	"	PUNCT	``	_	5	punct	_	start_char=0|end_char=1
+2	Unaware	unaware	ADJ	JJ	Degree=Pos	5	amod	_	start_char=1|end_char=8
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=9|end_char=12
+4	compliant	compliant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=13|end_char=22
+5	citizenry	citizenry	NOUN	NN	Number=Sing	0	root	_	start_char=23|end_char=32
+6	"	"	PUNCT	''	_	5	punct	_	start_char=32|end_char=33
+

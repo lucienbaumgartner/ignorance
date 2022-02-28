@@ -1,0 +1,31 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=6
+3	certainly	certainly	ADV	RB	_	5	advmod	_	start_char=7|end_char=16
+4	one	one	NUM	CD	NumType=Card	5	nummod	_	start_char=17|end_char=20
+5	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=24
+6	to	to	PART	TO	_	7	mark	_	start_char=25|end_char=27
+7	Interpret	interpret	VERB	VB	VerbForm=Inf	5	acl	_	start_char=28|end_char=37
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=38|end_char=40
+9	comment	comment	NOUN	NN	Number=Sing	7	obj	_	start_char=41|end_char=48
+10	.	.	PUNCT	.	_	5	punct	_	start_char=48|end_char=49
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=51|end_char=52
+2	very	very	ADV	RB	_	3	advmod	_	start_char=53|end_char=57
+3	bad	bad	ADJ	JJ	Degree=Pos	10	amod	_	start_char=58|end_char=61
+4	,	,	PUNCT	,	_	10	punct	_	start_char=61|end_char=62
+5	wrong	wrong	ADJ	JJ	Degree=Pos	10	amod	_	start_char=63|end_char=68
+6	,	,	PUNCT	,	_	7	punct	_	start_char=68|end_char=69
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=70|end_char=78
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=79|end_char=82
+9	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=83|end_char=89
+10	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=90|end_char=93
+11	to	to	PART	TO	_	12	mark	_	start_char=94|end_char=96
+12	interpret	interpret	VERB	VB	VerbForm=Inf	10	acl	_	start_char=97|end_char=106
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=107|end_char=109
+14	,	,	PUNCT	,	_	17	punct	_	start_char=109|end_char=110
+15	but	but	CCONJ	CC	_	17	cc	_	start_char=111|end_char=114
+16	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=115|end_char=117
+17	interpretation	interpretation	NOUN	NN	Number=Sing	10	conj	_	start_char=118|end_char=132
+18	nonetheless	nonetheless	ADV	RB	_	17	advmod	_	start_char=133|end_char=144
+19	.	.	PUNCT	.	_	10	punct	_	start_char=144|end_char=145
+

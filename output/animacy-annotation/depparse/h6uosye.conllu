@@ -1,0 +1,27 @@
+1	Which	which	PRON	WDT	PronType=Int	6	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=6|end_char=8
+3	all	all	DET	PDT	_	6	advmod	_	start_char=9|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+5	more	more	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=17|end_char=21
+6	reason	reason	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=28
+7	for	for	ADP	IN	_	10	case	_	start_char=29|end_char=32
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=33|end_char=36
+9	entire	entire	ADJ	JJ	Degree=Pos	10	amod	_	start_char=37|end_char=43
+10	team	team	NOUN	NN	Number=Sing	6	nmod	_	start_char=44|end_char=48
+11	to	to	PART	TO	_	12	mark	_	start_char=49|end_char=51
+12	get	get	VERB	VB	VerbForm=Inf	6	acl	_	start_char=52|end_char=55
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=56|end_char=59
+14	shot	shot	NOUN	NN	Number=Sing	12	obj	_	start_char=60|end_char=64
+15	.	.	PUNCT	.	_	6	punct	_	start_char=64|end_char=65
+
+1	Anything	anything	PRON	NN	Number=Sing	4	nsubj	_	start_char=66|end_char=74
+2	else	else	ADJ	JJ	Degree=Pos	1	amod	_	start_char=75|end_char=79
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=80|end_char=82
+4	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=96
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=97|end_char=100
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=101|end_char=109
+7	of	of	ADP	IN	_	9	case	_	start_char=110|end_char=112
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=113|end_char=116
+9	facts	fact	NOUN	NNS	Number=Plur	6	obl	_	start_char=117|end_char=122
+10	.	.	PUNCT	.	_	4	punct	_	start_char=122|end_char=123
+

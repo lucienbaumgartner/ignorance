@@ -1,0 +1,28 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=6
+3	horrible	horrible	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=20|end_char=28
+6	of	of	ADP	IN	_	7	case	_	start_char=29|end_char=31
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=32|end_char=36
+8	.	.	PUNCT	.	_	3	punct	_	start_char=36|end_char=37
+
+1	At	at	ADP	IN	_	6	advmod	_	start_char=38|end_char=40
+2	least	least	ADJ	JJS	Degree=Sup	1	fixed	_	start_char=41|end_char=46
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=47|end_char=51
+4	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=52|end_char=58
+5	of	of	PART	TO	_	6	mark	_	start_char=59|end_char=61
+6	let	let	VERB	VB	VerbForm=Inf	0	root	_	start_char=62|end_char=65
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=66|end_char=69
+8	make	make	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=70|end_char=74
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=75|end_char=76
+10	video	video	NOUN	NN	Number=Sing	8	obj	_	start_char=77|end_char=82
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=83|end_char=85
+12	something	something	PRON	NN	Number=Sing	10	conj	_	start_char=86|end_char=95
+13	to	to	PART	TO	_	14	mark	_	start_char=96|end_char=98
+14	prove	prove	VERB	VB	VerbForm=Inf	12	acl	_	start_char=99|end_char=104
+15	who	who	PRON	WP	PronType=Int	14	obj	_	start_char=105|end_char=108
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=109|end_char=112
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=113|end_char=116
+18	.	.	PUNCT	.	_	6	punct	_	start_char=116|end_char=117
+

@@ -1,0 +1,35 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	make	make	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=16
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=18
+6	complaint	complaint	NOUN	NN	Number=Sing	4	obj	_	start_char=19|end_char=28
+7	about	about	ADP	IN	_	9	case	_	start_char=29|end_char=34
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=35|end_char=39
+9	person	person	NOUN	NN	Number=Sing	6	nmod	_	start_char=40|end_char=46
+10	asap	asap	ADV	RB	_	4	advmod	_	start_char=47|end_char=51
+11	.	.	PUNCT	.	_	2	punct	_	start_char=51|end_char=52
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=53|end_char=56
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=63
+3	like	like	SCONJ	IN	_	6	mark	_	start_char=64|end_char=68
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=69|end_char=72
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=72|end_char=74
+6	dismissive	dismissive	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=75|end_char=85
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=86|end_char=89
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=90|end_char=98
+9	of	of	ADP	IN	_	11	case	_	start_char=99|end_char=101
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=102|end_char=106
+11	problems	problem	NOUN	NNS	Number=Plur	8	obl	_	start_char=107|end_char=115
+12	.	.	PUNCT	.	_	2	punct	_	start_char=115|end_char=116
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=117|end_char=119
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=120|end_char=122
+3	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	start_char=123|end_char=131
+4	to	to	PART	TO	_	5	mark	_	start_char=132|end_char=134
+5	get	get	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=135|end_char=138
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=139|end_char=140
+7	different	different	ADJ	JJ	Degree=Pos	8	amod	_	start_char=141|end_char=150
+8	doctor	doctor	NOUN	NN	Number=Sing	5	obj	_	start_char=151|end_char=157
+9	?	?	PUNCT	.	_	3	punct	_	start_char=157|end_char=158
+

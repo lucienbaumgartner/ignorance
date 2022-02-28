@@ -1,0 +1,38 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=18
+5	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=19|end_char=22
+6	anyone	anyone	PRON	NN	Number=Sing	7	nsubj	_	start_char=23|end_char=29
+7	grows	grow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=30|end_char=35
+8	up	up	ADP	RP	_	7	compound:prt	_	start_char=36|end_char=38
+9	to	to	PART	TO	_	12	mark	_	start_char=39|end_char=41
+10	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=42|end_char=44
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=45|end_char=49
+12	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	7	xcomp	_	start_char=50|end_char=58
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=59|end_char=62
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=63|end_char=70
+15	of	of	ADP	IN	_	16	case	_	start_char=71|end_char=73
+16	others	other	NOUN	NNS	Number=Plur	14	obl	_	start_char=74|end_char=80
+17	around	around	ADP	IN	_	18	case	_	start_char=81|end_char=87
+18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	nmod	_	start_char=88|end_char=92
+19	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=95|end_char=97
+2	apparently	apparently	ADV	RB	_	3	advmod	_	start_char=98|end_char=108
+3	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=109|end_char=116
+4	all	all	DET	PDT	_	7	det:predet	_	start_char=117|end_char=120
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=121|end_char=124
+6	fucking	fucking	ADJ	JJ	Degree=Pos	7	amod	_	start_char=125|end_char=132
+7	time	time	NOUN	NN	Number=Sing	3	obj	_	start_char=133|end_char=137
+8	,	,	PUNCT	,	_	3	punct	_	start_char=137|end_char=138
+9	though	though	ADV	RB	_	3	advmod	_	start_char=139|end_char=145
+10	.	.	PUNCT	.	_	3	punct	_	start_char=145|end_char=146
+
+1	In	in	ADP	IN	_	3	case	_	start_char=148|end_char=150
+2	all	all	DET	DT	_	3	det	_	start_char=151|end_char=154
+3	walks	walk	NOUN	NNS	Number=Plur	0	root	_	start_char=155|end_char=160
+4	of	of	ADP	IN	_	5	case	_	start_char=161|end_char=163
+5	life	life	NOUN	NN	Number=Sing	3	nmod	_	start_char=164|end_char=168
+6	.	.	PUNCT	.	_	3	punct	_	start_char=168|end_char=169
+

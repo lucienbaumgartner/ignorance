@@ -1,0 +1,16 @@
+1	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	for	for	SCONJ	IN	_	4	mark	_	start_char=10|end_char=13
+4	enlightening	enlighten	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=14|end_char=26
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	start_char=27|end_char=29
+6	in	in	ADP	IN	_	9	case	_	start_char=30|end_char=32
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=33|end_char=36
+8	meme	meme	NOUN	NN	Number=Sing	9	compound	_	start_char=37|end_char=41
+9	culture	culture	NOUN	NN	Number=Sing	4	obl	_	start_char=42|end_char=49
+10	,	,	PUNCT	,	_	1	punct	_	start_char=49|end_char=50
+11	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=51|end_char=52
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=53|end_char=56
+13	unaware	unaware	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=57|end_char=64
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=65|end_char=68
+15	naive	naive	ADJ	JJ	Degree=Pos	13	conj	_	start_char=69|end_char=74
+

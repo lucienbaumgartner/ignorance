@@ -1,0 +1,12 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=6|end_char=8
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=9|end_char=12
+3	spoiled	spoiled	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=13|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=25|end_char=33
+6	of	of	ADP	IN	_	7	case	_	start_char=34|end_char=36
+7	history	history	NOUN	NN	Number=Sing	5	obl	_	start_char=37|end_char=44
+8	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+

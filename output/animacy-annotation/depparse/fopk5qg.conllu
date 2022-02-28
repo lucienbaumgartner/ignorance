@@ -1,0 +1,57 @@
+1	Tempering	temper	VERB	VBG	VerbForm=Ger	5	csubj	_	start_char=0|end_char=9
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=10|end_char=12
+3	excitement	excitement	NOUN	NN	Number=Sing	1	obj	_	start_char=13|end_char=23
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=24|end_char=27
+5	prove	prove	VERB	VB	VerbForm=Inf	0	root	_	start_char=28|end_char=33
+6	incredibly	incredibly	ADV	RB	_	7	advmod	_	start_char=34|end_char=44
+7	difficult	difficult	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=45|end_char=54
+8	at	at	ADP	IN	_	9	case	_	start_char=55|end_char=57
+9	times	time	NOUN	NNS	Number=Plur	5	obl	_	start_char=58|end_char=63
+10	.	.	PUNCT	.	_	5	punct	_	start_char=63|end_char=64
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=65|end_char=71
+2	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=72|end_char=74
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=74|end_char=77
+4	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=78|end_char=82
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=83|end_char=85
+6	.	.	PUNCT	.	_	4	punct	_	start_char=85|end_char=86
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=87|end_char=89
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=90|end_char=93
+3	feel	feel	VERB	VB	VerbForm=Inf	0	root	_	start_char=94|end_char=98
+4	nearly	nearly	ADV	RB	_	5	advmod	_	start_char=99|end_char=105
+5	impossible	impossible	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=106|end_char=116
+6	to	to	PART	TO	_	7	mark	_	start_char=117|end_char=119
+7	temper	temper	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=120|end_char=126
+8	enough	enough	ADV	RB	_	7	advmod	_	start_char=127|end_char=133
+9	without	without	SCONJ	IN	_	10	mark	_	start_char=134|end_char=141
+10	feeling	feel	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=142|end_char=149
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=150|end_char=151
+12	sudden	sudden	ADJ	JJ	Degree=Pos	13	amod	_	start_char=152|end_char=158
+13	swing	swing	NOUN	NN	Number=Sing	10	obj	_	start_char=159|end_char=164
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=165|end_char=168
+15	other	other	ADJ	JJ	Degree=Pos	16	amod	_	start_char=169|end_char=174
+16	way	way	NOUN	NN	Number=Sing	10	obl:npmod	_	start_char=175|end_char=178
+17	.	.	PUNCT	.	_	3	punct	_	start_char=178|end_char=179
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=180|end_char=181
+2	despise	despise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=182|end_char=189
+3	feeling	feel	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=190|end_char=197
+4	bad	bad	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=198|end_char=201
+5	,	,	PUNCT	,	_	6	punct	_	start_char=201|end_char=202
+6	guilty	guilty	ADJ	JJ	Degree=Pos	4	conj	_	start_char=203|end_char=209
+7	,	,	PUNCT	,	_	9	punct	_	start_char=209|end_char=210
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=211|end_char=214
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=215|end_char=223
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=224|end_char=228
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=229|end_char=230
+12	cannot	cannot	AUX	MD	VerbForm=Fin	13	aux	_	start_char=231|end_char=237
+13	express	express	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=238|end_char=245
+14	what	what	PRON	WP	PronType=Int	13	obj	_	start_char=246|end_char=250
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=251|end_char=253
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=254|end_char=256
+17	flowing	flow	VERB	VBG	Tense=Pres|VerbForm=Part	14	acl:relcl	_	start_char=257|end_char=264
+18	through	through	ADP	IN	_	19	case	_	start_char=265|end_char=272
+19	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	17	obl	_	start_char=273|end_char=275
+20	.	.	PUNCT	.	_	2	punct	_	start_char=275|end_char=276
+

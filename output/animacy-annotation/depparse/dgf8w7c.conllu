@@ -1,0 +1,87 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5|end_char=8
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=9|end_char=12
+3	facing	face	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=13|end_char=19
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=20|end_char=23
+5	opposite	opposite	ADJ	JJ	Degree=Pos	6	amod	_	start_char=24|end_char=32
+6	direction	direction	NOUN	NN	Number=Sing	3	obj	_	start_char=33|end_char=42
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=44|end_char=47
+2	;he	;he	PRON	WDT	PronType=Rel	3	nsubj	_	start_char=47|end_char=50
+3	crosses	cross	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=51|end_char=58
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=59|end_char=62
+5	distance	distance	NOUN	NN	Number=Sing	3	obj	_	start_char=63|end_char=71
+6	to	to	PART	TO	_	7	mark	_	start_char=72|end_char=74
+7	strike	strike	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=75|end_char=81
+8	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=82|end_char=84
+9	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=85|end_char=92
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=93|end_char=96
+11	stationary	stationary	ADJ	JJ	Degree=Pos	9	conj	_	start_char=97|end_char=107
+12	victim	victim	NOUN	NN	Number=Sing	7	obj	_	start_char=108|end_char=114
+13	.	.	PUNCT	.	_	1	punct	_	start_char=114|end_char=115
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=117|end_char=120
+2	;	;	PUNCT	,	_	1	punct	_	start_char=120|end_char=121
+3	violent	violent	ADJ	JJ	Degree=Pos	5	amod	_	start_char=122|end_char=129
+4	nazi	nazi	NOUN	NN	Number=Sing	5	compound	_	start_char=130|end_char=134
+5	scum	scum	NOUN	NN	Number=Sing	6	nsubj	_	start_char=135|end_char=139
+6	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=140|end_char=143
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=144|end_char=146
+8	opportunity	opportunity	NOUN	NN	Number=Sing	6	obj	_	start_char=147|end_char=158
+9	to	to	PART	TO	_	10	mark	_	start_char=159|end_char=161
+10	sucker	sucker	VERB	VB	VerbForm=Inf	8	acl	_	start_char=162|end_char=168
+11	punch	punch	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=169|end_char=174
+12	someone	someone	PRON	NN	Number=Sing	11	obj	_	start_char=175|end_char=182
+
+1	???	???	PUNCT	.	_	0	root	_	start_char=185|end_char=188
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=190|end_char=193
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=194|end_char=196
+3	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=197|end_char=204
+4	about	about	ADP	IN	_	7	case	_	start_char=205|end_char=210
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=211|end_char=214
+6	same	same	ADJ	JJ	Degree=Pos	7	amod	_	start_char=215|end_char=219
+7	video	video	NOUN	NN	Number=Sing	3	obl	_	start_char=220|end_char=225
+8	?	?	PUNCT	.	_	3	punct	_	start_char=225|end_char=226
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=227|end_char=230
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=230|end_char=232
+3	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=233|end_char=240
+4	directly	directly	ADV	RB	_	3	advmod	_	start_char=241|end_char=249
+5	at	at	ADP	IN	_	6	case	_	start_char=250|end_char=252
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=253|end_char=256
+7	?	?	PUNCT	.	_	3	punct	_	start_char=256|end_char=257
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=259|end_char=260
+2	Before	before	ADV	RB	Degree=Pos	0	root	_	start_char=260|end_char=266
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=266|end_char=267
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=267|end_char=268
+2	http://i.imgur.com/38HU9Gt.png)	http://i.imgur.com/38hu9gt.png)	X	ADD	_	0	root	_	start_char=268|end_char=299
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=301|end_char=302
+2	After	after	ADV	RB	Degree=Pos	0	root	_	start_char=302|end_char=307
+3	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=307|end_char=308
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=308|end_char=309
+2	http://i.imgur.com/rLlXMtf.png)	http://i.imgur.com/rllxmtf.png)	X	ADD	_	0	root	_	start_char=309|end_char=340
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=342|end_char=345
+2	these	this	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=346|end_char=351
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=352|end_char=355
+4	"	"	PUNCT	``	_	6	punct	_	start_char=356|end_char=357
+5	alternative	alternative	ADJ	JJ	Degree=Pos	6	amod	_	start_char=357|end_char=368
+6	facts	fact	NOUN	NNS	Number=Plur	0	root	_	start_char=369|end_char=374
+7	"	"	PUNCT	''	_	6	punct	_	start_char=374|end_char=375
+8	that	that	PRON	WDT	PronType=Rel	12	obj	_	start_char=376|end_char=380
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=381|end_char=382
+10	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=382|end_char=385
+11	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	aux	_	start_char=386|end_char=390
+12	hearing	hear	VERB	VBG	Tense=Pres|VerbForm=Part	6	acl:relcl	_	start_char=391|end_char=398
+13	so	so	ADV	RB	_	14	advmod	_	start_char=399|end_char=401
+14	much	much	ADV	RB	_	12	advmod	_	start_char=402|end_char=406
+15	about	about	ADP	IN	_	8	case	_	start_char=407|end_char=412
+16	?	?	PUNCT	.	_	6	punct	_	start_char=412|end_char=413
+

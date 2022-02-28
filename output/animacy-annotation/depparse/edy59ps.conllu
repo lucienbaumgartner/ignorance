@@ -1,0 +1,53 @@
+1	Seriously	seriously	ADV	RB	_	3	advmod	_	start_char=0|end_char=9
+2	just	just	ADV	RB	_	3	advmod	_	start_char=10|end_char=14
+3	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+4	.	.	PUNCT	.	_	3	punct	_	start_char=19|end_char=20
+
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=26|end_char=31
+3	so	so	ADV	RB	_	4	advmod	_	start_char=32|end_char=34
+4	stubborn	stubborn	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=35|end_char=43
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=44|end_char=47
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=48|end_char=56
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=57|end_char=61
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=62|end_char=66
+9	theory	theory	NOUN	NN	Number=Sing	11	nsubj	_	start_char=67|end_char=73
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=74|end_char=76
+11	correct	correct	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=77|end_char=84
+12	.	.	PUNCT	.	_	1	punct	_	start_char=84|end_char=85
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=86|end_char=89
+2	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=90|end_char=92
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=92|end_char=95
+4	definitely	definitely	ADV	RB	Degree=Pos	5	advmod	_	start_char=96|end_char=106
+5	prove	prove	VERB	VB	VerbForm=Inf	0	root	_	start_char=107|end_char=112
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=113|end_char=115
+7	.	.	PUNCT	.	_	5	punct	_	start_char=115|end_char=116
+
+1	Meanwhile	meanwhile	ADV	RB	_	5	advmod	_	start_char=117|end_char=126
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=127|end_char=130
+3	clockblocking	clockblocking	NOUN	NN	Number=Sing	4	compound	_	start_char=131|end_char=144
+4	theory	theory	NOUN	NN	Number=Sing	5	nsubj	_	start_char=145|end_char=151
+5	holds	hold	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=152|end_char=157
+6	true	true	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=158|end_char=162
+7	in	in	ADP	IN	_	9	case	_	start_char=163|end_char=165
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=166|end_char=170
+9	situation	situation	NOUN	NN	Number=Sing	6	obl	_	start_char=171|end_char=180
+10	because	because	SCONJ	IN	_	13	mark	_	start_char=181|end_char=188
+11	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=189|end_char=192
+12	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	11	nmod:npmod	_	start_char=193|end_char=201
+13	admit	admit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=202|end_char=207
+14	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	start_char=208|end_char=211
+15	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=212|end_char=214
+16	n’t	not	PART	RB	Polarity=Neg	17	advmod	_	start_char=214|end_char=217
+17	know	know	VERB	VB	VerbForm=Inf	13	ccomp	_	start_char=218|end_char=222
+18	about	about	ADP	IN	_	21	case	_	start_char=223|end_char=228
+19	that	that	DET	DT	Number=Sing|PronType=Dem	21	det	_	start_char=229|end_char=233
+20	4th	4th	ADJ	JJ	Degree=Pos|NumType=Ord	21	amod	_	start_char=234|end_char=237
+21	gym	gym	NOUN	NN	Number=Sing	17	obl	_	start_char=238|end_char=241
+22	.	.	PUNCT	.	_	5	punct	_	start_char=241|end_char=242
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=245|end_char=249
+2	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=250|end_char=254
+3	.	.	PUNCT	.	_	2	punct	_	start_char=254|end_char=255
+

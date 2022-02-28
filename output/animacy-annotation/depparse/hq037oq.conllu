@@ -1,0 +1,37 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=7
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=11
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=12|end_char=14
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=15|end_char=17
+6	n't	not	PART	RB	_	7	advmod	_	start_char=17|end_char=20
+7	clueless	clueless	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=21|end_char=29
+8	.	.	PUNCT	.	_	3	punct	_	start_char=29|end_char=30
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=31|end_char=33
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=34|end_char=36
+3	self	self	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=37|end_char=41
+4	-	-	PUNCT	HYPH	_	5	punct	_	start_char=41|end_char=42
+5	centered	center	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=42|end_char=50
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=51|end_char=54
+7	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	start_char=55|end_char=63
+8	.	.	PUNCT	.	_	5	punct	_	start_char=63|end_char=64
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=65|end_char=67
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=68|end_char=70
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=71|end_char=76
+4	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=77|end_char=82
+5	to	to	ADP	IN	_	6	case	_	start_char=83|end_char=85
+6	much	much	ADJ	JJ	Degree=Pos	4	obl	_	start_char=86|end_char=90
+7	of	of	ADP	IN	_	11	case	_	start_char=91|end_char=93
+8	outside	outside	ADP	IN	_	11	case	_	start_char=94|end_char=101
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=102|end_char=107
+10	"	"	PUNCT	``	_	11	punct	_	start_char=108|end_char=109
+11	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=109|end_char=116
+12	"	"	PUNCT	''	_	11	punct	_	start_char=116|end_char=117
+13	.	.	PUNCT	.	_	4	punct	_	start_char=117|end_char=118
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=119|end_char=127
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=128|end_char=131
+3	pompous	pompous	ADJ	JJ	Degree=Pos	1	conj	_	start_char=132|end_char=139
+4	.	.	PUNCT	.	_	1	punct	_	start_char=139|end_char=140
+

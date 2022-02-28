@@ -1,0 +1,30 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=0|end_char=4
+2	woman	woman	NOUN	NN	Number=Sing	3	compound	_	start_char=5|end_char=10
+3	MTG	MTG	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=11|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=15|end_char=17
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=18|end_char=21
+6	most	most	ADV	RBS	_	7	advmod	_	start_char=22|end_char=26
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=35
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=36|end_char=39
+9	uneducated	uneducated	ADJ	JJ	Degree=Pos	7	conj	_	start_char=40|end_char=50
+10	....	....	PUNCT	,	_	7	punct	_	start_char=51|end_char=55
+11	well	well	ADV	RB	Degree=Pos	7	advmod	_	start_char=56|end_char=60
+12	except	except	ADP	IN	_	14	case	_	start_char=61|end_char=67
+13	for	for	ADP	IN	_	14	case	_	start_char=68|end_char=71
+14	Lauren	Lauren	PROPN	NNP	Number=Sing	7	obl	_	start_char=72|end_char=78
+15	Boebert	Boebert	PROPN	NNP	Number=Sing	14	flat	_	start_char=79|end_char=86
+16	.	.	PUNCT	.	_	7	punct	_	start_char=86|end_char=87
+
+1	Sickening	Sickening	ADJ	JJ	Degree=Pos	0	root	_	start_char=89|end_char=98
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=99|end_char=102
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	1	conj	_	start_char=103|end_char=113
+4	with	with	ADP	IN	_	5	case	_	start_char=114|end_char=118
+5	guns	gun	NOUN	NNS	Number=Plur	1	obl	_	start_char=119|end_char=123
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=124|end_char=127
+7	big	big	ADJ	JJ	Degree=Pos	8	amod	_	start_char=128|end_char=131
+8	mouths	mouth	NOUN	NNS	Number=Plur	5	conj	_	start_char=132|end_char=138
+9	with	with	ADP	IN	_	11	case	_	start_char=139|end_char=143
+10	no	no	DET	DT	_	11	det	_	start_char=144|end_char=146
+11	brains	brain	NOUN	NNS	Number=Plur	1	obl	_	start_char=147|end_char=153
+12	!!	!!	PUNCT	.	_	1	punct	_	start_char=153|end_char=155
+

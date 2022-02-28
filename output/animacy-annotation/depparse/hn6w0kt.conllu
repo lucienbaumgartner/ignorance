@@ -1,0 +1,18 @@
+1	Wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=5|end_char=8
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=9|end_char=12
+4	elaborate	elaborate	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=13|end_char=22
+5	on	on	ADP	IN	_	6	case	_	start_char=23|end_char=25
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obl	_	start_char=26|end_char=30
+7	?	?	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=32|end_char=33
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=33|end_char=35
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=43
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=44|end_char=47
+5	curious	curious	ADJ	JJ	Degree=Pos	3	conj	_	start_char=48|end_char=55
+6	what	what	PRON	WP	PronType=Int	9	obj	_	start_char=56|end_char=60
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=61|end_char=65
+8	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=65|end_char=68
+9	done	do	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	_	start_char=69|end_char=73
+

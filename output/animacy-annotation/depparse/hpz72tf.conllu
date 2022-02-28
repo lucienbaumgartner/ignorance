@@ -1,0 +1,39 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	all	all	DET	DT	_	1	det	_	start_char=4|end_char=7
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=8|end_char=10
+4	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=18
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=19|end_char=23
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=24|end_char=27
+7	vaccine	vaccine	NOUN	NN	Number=Sing	9	nsubj	_	start_char=28|end_char=35
+8	also	also	ADV	RB	_	9	advmod	_	start_char=36|end_char=40
+9	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=41|end_char=44
+10	risks	risk	NOUN	NNS	Number=Plur	9	obj	_	start_char=45|end_char=50
+11	,	,	PUNCT	,	_	12	punct	_	start_char=50|end_char=51
+12	right	right	ADV	RB	_	9	discourse	_	start_char=52|end_char=57
+13	?	?	PUNCT	.	_	4	punct	_	start_char=57|end_char=58
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=59|end_char=62
+2	not	not	PART	RB	_	4	advmod	_	start_char=63|end_char=66
+3	just	just	ADV	RB	_	4	advmod	_	start_char=67|end_char=71
+4	COVID	COVID	PROPN	NNP	Number=Sing	0	root	_	start_char=72|end_char=77
+5	?	?	PUNCT	.	_	4	punct	_	start_char=77|end_char=78
+
+1	Selfish	Selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=79|end_char=86
+2	not	not	ADV	RB	_	4	advmod	_	start_char=87|end_char=90
+3	to	to	PART	TO	_	4	mark	_	start_char=91|end_char=93
+4	get	get	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=94|end_char=97
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=98|end_char=100
+6	?	?	PUNCT	.	_	1	punct	_	start_char=100|end_char=101
+
+1	Maybe	maybe	ADV	RB	_	0	root	_	start_char=102|end_char=107
+2	.	.	PUNCT	.	_	1	punct	_	start_char=107|end_char=108
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=109|end_char=112
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=113|end_char=121
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=122|end_char=125
+4	unintelligent	unintelligent	ADJ	JJ	Degree=Pos	2	conj	_	start_char=126|end_char=139
+5	?	?	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+
+1	Nah	nah	INTJ	UH	_	0	root	_	start_char=141|end_char=144
+2	.	.	PUNCT	.	_	1	punct	_	start_char=144|end_char=145
+

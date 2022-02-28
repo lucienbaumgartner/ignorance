@@ -1,0 +1,17 @@
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	inconsiderate	inconsiderate	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=18
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=19|end_char=22
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=23|end_char=31
+5	of	of	ADP	IN	_	6	case	_	start_char=32|end_char=34
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=35|end_char=38
+7	!	!	PUNCT	.	_	2	punct	_	start_char=38|end_char=39
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=40|end_char=44
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=44|end_char=46
+3	NOT	not	PART	RB	_	5	advmod	_	start_char=47|end_char=50
+4	true	true	ADJ	JJ	Degree=Pos	5	amod	_	start_char=51|end_char=55
+5	love	love	NOUN	NN	Number=Sing	0	root	_	start_char=56|end_char=60
+6	!!	!!	PUNCT	.	_	5	punct	_	start_char=60|end_char=62
+
+1	💔	💔	PROPN	NNP	Number=Sing	0	root	_	start_char=63|end_char=64
+

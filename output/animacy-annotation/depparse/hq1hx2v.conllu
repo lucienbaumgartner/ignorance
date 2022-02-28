@@ -1,0 +1,33 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=8
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=9|end_char=12
+5	’ll	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=12|end_char=15
+6	find	find	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=16|end_char=20
+7	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	6	obj	_	start_char=21|end_char=29
+8	convinced	convince	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	start_char=30|end_char=39
+9	by	by	SCONJ	IN	_	10	mark	_	start_char=40|end_char=42
+10	ignoring	ignore	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=43|end_char=51
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=52|end_char=55
+12	evidence	evidence	NOUN	NN	Number=Sing	10	obj	_	start_char=56|end_char=64
+13	.	.	PUNCT	.	_	3	punct	_	start_char=64|end_char=65
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=66|end_char=69
+2	truth	truth	NOUN	NN	Number=Sing	3	nsubj	_	start_char=70|end_char=75
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=76|end_char=78
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=79|end_char=82
+5	’ll	will	AUX	MD	VerbForm=Fin	6	aux	_	start_char=82|end_char=85
+6	remain	remain	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=86|end_char=92
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=93|end_char=101
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=102|end_char=105
+9	proud	proud	ADJ	JJ	Degree=Pos	7	conj	_	start_char=106|end_char=111
+10	of	of	ADP	IN	_	11	case	_	start_char=112|end_char=114
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=115|end_char=117
+12	.	.	PUNCT	.	_	3	punct	_	start_char=117|end_char=118
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=119|end_char=123
+2	luck	luck	NOUN	NN	Number=Sing	0	root	_	start_char=124|end_char=128
+3	to	to	ADP	IN	_	4	case	_	start_char=129|end_char=131
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	nmod	_	start_char=132|end_char=135
+5	.	.	PUNCT	.	_	2	punct	_	start_char=135|end_char=136
+

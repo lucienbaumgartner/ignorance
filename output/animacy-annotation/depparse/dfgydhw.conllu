@@ -1,0 +1,18 @@
+1	"	"	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Conspire	conspire	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=1|end_char=9
+3	to	to	PART	TO	_	4	mark	_	start_char=10|end_char=12
+4	produce	produce	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=20
+5	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=21|end_char=23
+6	unaware	unaware	ADJ	JJ	Degree=Pos	9	amod	_	start_char=24|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	compliant	compliant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=36|end_char=45
+9	citizenry	citizenry	NOUN	NN	Number=Sing	4	obj	_	start_char=46|end_char=55
+10	"	"	PUNCT	''	_	9	punct	_	start_char=55|end_char=56
+11	-	-	PUNCT	,	_	2	punct	_	start_char=57|end_char=58
+12	Hillary	Hillary	PROPN	NNP	Number=Sing	2	parataxis	_	start_char=59|end_char=66
+13	2k16	2k16	PROPN	NNP	Number=Sing	12	flat	_	start_char=67|end_char=71
+
+1	:	:	PUNCT	:	_	0	root	_	start_char=75|end_char=76
+
+1	D	D	PROPN	NNP	Number=Sing	0	root	_	start_char=76|end_char=77
+

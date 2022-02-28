@@ -1,0 +1,18 @@
+1	For	for	ADP	IN	_	3	case	_	start_char=0|end_char=3
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=4|end_char=5
+3	dictator	dictator	NOUN	NN	Number=Sing	15	obl	_	start_char=6|end_char=14
+4	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=15|end_char=18
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=22|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	arrogant	arrogant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	to	to	ADP	IN	_	11	case	_	start_char=44|end_char=46
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=47|end_char=51
+11	point	point	NOUN	NN	Number=Sing	6	obl	_	start_char=52|end_char=57
+12	,	,	PUNCT	,	_	15	punct	_	start_char=57|end_char=58
+13	blunders	blunder	NOUN	NNS	Number=Plur	15	nsubj:pass	_	start_char=59|end_char=67
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux:pass	_	start_char=68|end_char=71
+15	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=72|end_char=77
+16	to	to	PART	TO	_	17	mark	_	start_char=78|end_char=80
+17	occur	occur	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=81|end_char=86
+

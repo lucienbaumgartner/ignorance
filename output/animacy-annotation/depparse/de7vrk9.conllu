@@ -1,0 +1,17 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=3|end_char=5
+3	better	good	ADJ	JJR	Degree=Cmp	0	root	_	start_char=6|end_char=12
+4	to	to	PART	TO	_	6	mark	_	start_char=13|end_char=15
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=16|end_char=18
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=19|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=39
+9	of	of	SCONJ	IN	_	10	case	_	start_char=40|end_char=42
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=43|end_char=47
+11	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=48|end_char=52
+12	on	on	ADP	RP	_	11	compound:prt	_	start_char=53|end_char=55
+13	in	in	ADP	IN	_	15	case	_	start_char=56|end_char=58
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=59|end_char=62
+15	news	news	NOUN	NN	Number=Sing	11	obl	_	start_char=63|end_char=67
+16	?	?	PUNCT	.	_	3	punct	_	start_char=67|end_char=68
+

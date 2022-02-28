@@ -1,0 +1,26 @@
+1	Love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=5|end_char=7
+3	.	.	PUNCT	.	_	1	punct	_	start_char=7|end_char=8
+
+1	Btw	btw	INTJ	UH	_	6	discourse	_	start_char=9|end_char=12
+2	,	,	PUNCT	,	_	6	punct	_	start_char=12|end_char=13
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=14|end_char=18
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=19|end_char=22
+5	only	only	ADV	RB	_	6	advmod	_	start_char=23|end_char=27
+6	hurt	hurt	VERB	VB	VerbForm=Inf	0	root	_	start_char=28|end_char=32
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=33|end_char=36
+8	rights	rights	NOUN	NNS	Number=Plur	9	compound	_	start_char=37|end_char=43
+9	base	base	NOUN	NN	Number=Sing	6	obj	_	start_char=44|end_char=48
+10	as	as	SCONJ	IN	_	14	mark	_	start_char=49|end_char=51
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=52|end_char=54
+12	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=54|end_char=56
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=57|end_char=60
+14	uneducated	uneducated	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=61|end_char=71
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=72|end_char=75
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=76|end_char=84
+17	that	that	PRON	WDT	PronType=Rel	19	nsubj	_	start_char=85|end_char=89
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=90|end_char=93
+19	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	14	acl:relcl	_	start_char=94|end_char=101
+20	sick	sick	ADJ	JJ	Degree=Pos	19	xcomp	_	start_char=102|end_char=106
+21	.	.	PUNCT	.	_	6	punct	_	start_char=106|end_char=107
+

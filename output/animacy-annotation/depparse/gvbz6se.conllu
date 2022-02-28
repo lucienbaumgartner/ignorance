@@ -1,0 +1,56 @@
+1	Google	Google	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=6
+2	translate	translate	VERB	VB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=16
+3	for	for	ADP	IN	_	4	case	_	start_char=17|end_char=20
+4	fun	fun	NOUN	NN	Number=Sing	2	obl	_	start_char=21|end_char=24
+5	:	:	PUNCT	:	_	2	punct	_	start_char=24|end_char=25
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=30
+2	;	;	PUNCT	:	_	1	punct	_	start_char=30|end_char=31
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=31|end_char=33
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=34|end_char=37
+3	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=38|end_char=42
+4	at	at	ADP	IN	_	6	case	_	start_char=43|end_char=45
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=46|end_char=49
+6	Buddha	Buddha	PROPN	NNP	Number=Sing	3	obl	_	start_char=50|end_char=56
+7	as	as	ADP	IN	_	14	case	_	start_char=57|end_char=59
+8	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=60|end_char=61
+9	pure	pure	ADJ	JJ	Degree=Pos	14	amod	_	start_char=62|end_char=66
+10	,	,	PUNCT	,	_	11	punct	_	start_char=66|end_char=67
+11	bright	bright	ADJ	JJ	Degree=Pos	9	conj	_	start_char=68|end_char=74
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=75|end_char=78
+13	liberating	liberating	ADJ	JJ	Degree=Pos	9	conj	_	start_char=79|end_char=89
+14	image	image	NOUN	NN	Number=Sing	3	obl	_	start_char=90|end_char=95
+15	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=97|end_char=100
+2	audience	audience	NOUN	NN	Number=Sing	4	nsubj	_	start_char=101|end_char=109
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=110|end_char=112
+4	filthy	filthy	ADJ	JJ	Degree=Pos	0	root	_	start_char=113|end_char=119
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=120|end_char=123
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=124|end_char=132
+7	of	of	ADP	IN	_	8	case	_	start_char=133|end_char=135
+8	life	life	NOUN	NN	Number=Sing	6	obl	_	start_char=136|end_char=140
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=141|end_char=144
+10	death	death	NOUN	NN	Number=Sing	8	conj	_	start_char=145|end_char=150
+11	.	.	PUNCT	.	_	4	punct	_	start_char=150|end_char=151
+
+1	Those	that	PRON	DT	Number=Plur|PronType=Dem	8	nsubj	_	start_char=152|end_char=157
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=158|end_char=161
+3	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=162|end_char=166
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=167|end_char=171
+5	solution	solution	NOUN	NN	Number=Sing	3	obj	_	start_char=172|end_char=180
+6	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=181|end_char=185
+7	not	not	PART	RB	_	8	advmod	_	start_char=186|end_char=189
+8	bodhi	bodhi	VERB	VB	VerbForm=Inf	0	root	_	start_char=190|end_char=195
+9	in	in	ADP	IN	_	11	case	_	start_char=196|end_char=198
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=199|end_char=202
+11	end	end	NOUN	NN	Number=Sing	8	obl	_	start_char=203|end_char=206
+12	.	.	PUNCT	.	_	8	punct	_	start_char=206|end_char=207
+
+1	For	for	ADP	IN	_	4	case	_	start_char=208|end_char=211
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=212|end_char=215
+3	same	same	ADJ	JJ	Degree=Pos	4	amod	_	start_char=216|end_char=220
+4	reason	reason	NOUN	NN	Number=Sing	0	root	_	start_char=221|end_char=227
+5	.	.	PUNCT	.	_	4	punct	_	start_char=227|end_char=228
+

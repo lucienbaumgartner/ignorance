@@ -1,0 +1,34 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Say	say	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=7
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=8|end_char=11
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=11|end_char=14
+4	free	free	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=15|end_char=19
+5	,	,	PUNCT	,	_	9	punct	_	start_char=19|end_char=20
+6	or	or	CCONJ	CC	_	9	cc	_	start_char=21|end_char=23
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=24|end_char=26
+8	'll	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=26|end_char=29
+9	arrest	arrest	VERB	VB	VerbForm=Inf	1	conj	_	start_char=30|end_char=36
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	start_char=37|end_char=40
+11	.	.	PUNCT	.	_	1	punct	_	start_char=40|end_char=41
+
+1	LMAO	lmao	INTJ	UH	_	7	discourse	_	start_char=43|end_char=47
+2	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=48|end_char=53
+3	commie	commie	ADJ	JJ	Degree=Pos	4	amod	_	start_char=54|end_char=60
+4	idiots	idiot	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=61|end_char=67
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=68|end_char=71
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=72|end_char=82
+7	oblivious	oblivious	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=92
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=93|end_char=96
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=97|end_char=104
+10	of	of	SCONJ	IN	_	12	mark	_	start_char=105|end_char=107
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=108|end_char=111
+12	contradictory	contradictory	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=112|end_char=125
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=126|end_char=130
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=131|end_char=134
+15	with	with	ADP	IN	_	17	case	_	start_char=135|end_char=139
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=140|end_char=144
+17	sentence	sentence	NOUN	NN	Number=Sing	12	obl	_	start_char=145|end_char=153
+18	.	.	PUNCT	.	_	7	punct	_	start_char=153|end_char=154
+

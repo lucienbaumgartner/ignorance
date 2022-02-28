@@ -1,0 +1,17 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=10|end_char=16
+4	dumb	dumb	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=17|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	,	,	PUNCT	,	_	13	punct	_	start_char=34|end_char=35
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=36|end_char=40
+9	way	way	NOUN	NN	Number=Sing	13	obl:tmod	_	start_char=41|end_char=44
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=45|end_char=49
+11	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=50|end_char=54
+12	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=55|end_char=57
+13	easier	easy	ADJ	JJR	Degree=Cmp	2	parataxis	_	start_char=58|end_char=64
+14	to	to	PART	TO	_	15	mark	_	start_char=65|end_char=67
+15	control	control	VERB	VB	VerbForm=Inf	13	advcl	_	start_char=68|end_char=75
+16	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+

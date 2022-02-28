@@ -1,0 +1,8 @@
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=0|end_char=6
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=10
+3	indeed	indeed	ADV	RB	_	4	advmod	_	start_char=11|end_char=17
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=26
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+6	damn	damn	ADV	RB	_	7	advmod	_	start_char=31|end_char=35
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=36|end_char=42
+

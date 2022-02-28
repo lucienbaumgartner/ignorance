@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=1|end_char=3
+3	not	not	PART	RB	_	6	advmod	_	start_char=4|end_char=7
+4	even	even	ADV	RB	_	6	advmod	_	start_char=8|end_char=12
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=13|end_char=14
+6	fan	fan	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=18
+7	of	of	ADP	IN	_	8	case	_	start_char=19|end_char=21
+8	Peterson	Peterson	PROPN	NNP	Number=Sing	6	nmod	_	start_char=22|end_char=30
+9	but	but	CCONJ	CC	_	14	cc	_	start_char=31|end_char=34
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=35|end_char=39
+11	comment	comment	NOUN	NN	Number=Sing	14	nsubj	_	start_char=40|end_char=47
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=48|end_char=50
+13	so	so	ADV	RB	_	14	advmod	_	start_char=51|end_char=53
+14	arrogant	arrogant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=54|end_char=62
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=63|end_char=66
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=67|end_char=75
+17	that	that	SCONJ	IN	_	19	mark	_	start_char=76|end_char=80
+18	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=81|end_char=83
+19	hurts	hurt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	start_char=84|end_char=89
+20	.	.	PUNCT	.	_	6	punct	_	start_char=89|end_char=90
+

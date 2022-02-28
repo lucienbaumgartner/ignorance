@@ -1,0 +1,24 @@
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=7|end_char=11
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=17
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=18|end_char=20
+6	will	will	AUX	MD	VerbForm=Fin	7	aux	_	start_char=21|end_char=25
+7	have	have	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=26|end_char=30
+8	extradition	extradition	NOUN	NN	Number=Sing	9	compound	_	start_char=31|end_char=42
+9	protection	protection	NOUN	NN	Number=Sing	7	obj	_	start_char=43|end_char=53
+10	in	in	ADP	IN	_	11	case	_	start_char=54|end_char=56
+11	Florida	Florida	PROPN	NNP	Number=Sing	9	nmod	_	start_char=57|end_char=64
+12	?	?	PUNCT	.	_	4	punct	_	start_char=64|end_char=65
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=66|end_char=70
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=71|end_char=74
+3	so	so	ADV	RB	_	4	advmod	_	start_char=75|end_char=77
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=84
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=85|end_char=88
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=89|end_char=97
+7	of	of	ADP	IN	_	9	case	_	start_char=98|end_char=100
+8	U.S.	U.S.	PROPN	NNP	Number=Sing	9	compound	_	start_char=101|end_char=105
+9	laws	law	NOUN	NNS	Number=Plur	6	obl	_	start_char=106|end_char=110
+10	.	.	PUNCT	.	_	4	punct	_	start_char=110|end_char=111
+

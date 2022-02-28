@@ -1,0 +1,33 @@
+1	used	use	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=0|end_char=4
+2	to	to	PART	TO	_	8	mark	_	start_char=5|end_char=7
+3	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=8|end_char=10
+4	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=11|end_char=12
+5	socialist	socialist	ADJ	JJ	Degree=Pos	8	amod	_	start_char=13|end_char=22
+6	,	,	PUNCT	,	_	8	punct	_	start_char=22|end_char=23
+7	borderline	borderline	ADJ	JJ	Degree=Pos	8	amod	_	start_char=24|end_char=34
+8	communist	communist	NOUN	NN	Number=Sing	1	xcomp	_	start_char=35|end_char=44
+
+1	until	until	SCONJ	IN	_	3	mark	_	start_char=46|end_char=51
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=52|end_char=53
+3	realized	realize	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	advcl	_	start_char=54|end_char=62
+4	that	that	SCONJ	IN	_	19	mark	_	start_char=63|end_char=67
+5	any	any	DET	DT	_	6	det	_	start_char=68|end_char=71
+6	time	time	NOUN	NN	Number=Sing	19	obl:tmod	_	start_char=72|end_char=76
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=77|end_char=80
+8	create	create	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=81|end_char=87
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=88|end_char=89
+10	position	position	NOUN	NN	Number=Sing	8	obj	_	start_char=90|end_char=98
+11	of	of	ADP	IN	_	12	case	_	start_char=99|end_char=101
+12	power	power	NOUN	NN	Number=Sing	10	nmod	_	start_char=102|end_char=107
+13	,	,	PUNCT	,	_	19	punct	_	start_char=107|end_char=108
+14	someone	someone	PRON	NN	Number=Sing	19	nsubj	_	start_char=109|end_char=116
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	amod	_	start_char=117|end_char=125
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=126|end_char=129
+17	corrupt	corrupt	ADJ	JJ	Degree=Pos	15	conj	_	start_char=130|end_char=137
+18	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=138|end_char=142
+19	kill	kill	VERB	VB	VerbForm=Inf	0	root	_	start_char=143|end_char=147
+20	to	to	PART	TO	_	21	mark	_	start_char=148|end_char=150
+21	have	have	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=151|end_char=155
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obj	_	start_char=156|end_char=158
+23	.	.	PUNCT	.	_	19	punct	_	start_char=158|end_char=159
+

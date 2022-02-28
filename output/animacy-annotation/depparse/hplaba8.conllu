@@ -1,0 +1,16 @@
+1	And	and	CCONJ	CC	_	8	cc	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=8|end_char=11
+4	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=12|end_char=14
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=15|end_char=23
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=24|end_char=27
+7	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	5	conj	_	start_char=28|end_char=41
+8	waste	waste	NOUN	NN	Number=Sing	0	root	_	start_char=42|end_char=47
+9	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+10	time	time	NOUN	NN	Number=Sing	8	nmod	_	start_char=51|end_char=55
+11	.	.	PUNCT	.	_	8	punct	_	start_char=55|end_char=56
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=57|end_char=60
+2	blocked	block	VERB	VBN	Tense=Past|VerbForm=Fin	0	root	_	start_char=61|end_char=68
+3	.	.	PUNCT	.	_	2	punct	_	start_char=68|end_char=69
+

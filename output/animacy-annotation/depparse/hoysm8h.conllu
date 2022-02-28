@@ -1,0 +1,20 @@
+1	Which	which	PRON	WDT	PronType=Int	3	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=6|end_char=8
+3	cool	cool	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=13
+4	because	because	SCONJ	IN	_	6	mark	_	start_char=14|end_char=21
+5	both	both	CCONJ	CC	_	6	cc:preconj	_	start_char=22|end_char=26
+6	thinking	think	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=27|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	breathing	breathe	VERB	VBG	VerbForm=Ger	6	conj	_	start_char=40|end_char=49
+9	happening	happen	VERB	VBG	VerbForm=Ger	6	conj	_	start_char=50|end_char=59
+10	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=60|end_char=64
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=65|end_char=68
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=69|end_char=72
+13	aware	aware	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=73|end_char=78
+14	AND	and	CCONJ	CC	_	15	cc	_	start_char=79|end_char=82
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=83|end_char=90
+16	of	of	ADP	IN	_	17	case	_	start_char=91|end_char=93
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obl	_	start_char=94|end_char=96
+18	happening	happen	VERB	VBG	VerbForm=Ger	15	advcl	_	start_char=97|end_char=106
+19	!	!	PUNCT	.	_	3	punct	_	start_char=106|end_char=107
+

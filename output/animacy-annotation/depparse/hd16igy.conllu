@@ -1,0 +1,22 @@
+1	Yes	yes	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4|end_char=6
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=9
+4	.	.	PUNCT	.	_	3	punct	_	start_char=9|end_char=10
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=12|end_char=14
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=14|end_char=16
+3	also	also	ADV	RB	_	5	advmod	_	start_char=17|end_char=21
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=22|end_char=25
+5	true	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=30
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=31|end_char=35
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=36|end_char=39
+8	vaccines	vaccine	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=40|end_char=48
+9	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	csubj	_	start_char=49|end_char=53
+10	people	people	NOUN	NNS	Number=Plur	9	obj	_	start_char=54|end_char=60
+11	hateful	hateful	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=61|end_char=68
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=69|end_char=72
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=73|end_char=81
+14	of	of	ADP	IN	_	15	case	_	start_char=82|end_char=84
+15	facts	fact	NOUN	NNS	Number=Plur	13	obl	_	start_char=85|end_char=90
+16	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+

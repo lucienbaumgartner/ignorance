@@ -1,0 +1,9 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=1|end_char=9
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=10|end_char=13
+3	annoying	annoying	ADJ	JJ	Degree=Pos	1	conj	_	start_char=14|end_char=22
+4	.	.	PUNCT	.	_	1	punct	_	start_char=22|end_char=23
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	start_char=29|end_char=33
+3	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+

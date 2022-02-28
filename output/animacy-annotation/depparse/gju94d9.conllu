@@ -1,0 +1,33 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=5|end_char=7
+3	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=8|end_char=15
+4	terrible	terrible	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=16|end_char=24
+5	...	...	PUNCT	,	_	3	punct	_	start_char=24|end_char=27
+6	sending	send	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=28|end_char=35
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	obj	_	start_char=36|end_char=37
+8	&lt	&lt	PUNCT	NFP	_	6	punct	_	start_char=38|end_char=41
+9	;	;	PUNCT	,	_	12	punct	_	start_char=41|end_char=42
+10	6	6	NUM	CD	NumType=Card	11	nummod	_	start_char=42|end_char=43
+11	year	year	NOUN	NN	Number=Sing	12	obl:npmod	_	start_char=44|end_char=48
+12	old	old	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=49|end_char=52
+13	to	to	PART	TO	_	14	mark	_	start_char=53|end_char=55
+14	deliver	deliver	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=56|end_char=63
+15	messages	message	NOUN	NNS	Number=Plur	14	obj	_	start_char=64|end_char=72
+16	during	during	ADP	IN	_	18	case	_	start_char=73|end_char=79
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=80|end_char=83
+18	war	war	NOUN	NN	Number=Sing	14	obl	_	start_char=84|end_char=87
+19	?	?	PUNCT	.	_	3	punct	_	start_char=87|end_char=88
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=89|end_char=90
+2	Take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=90|end_char=94
+3	Timmy	Timmy	PROPN	NNP	Number=Sing	2	obj	_	start_char=95|end_char=100
+4	,	,	PUNCT	,	_	2	punct	_	start_char=100|end_char=101
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=102|end_char=104
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=104|end_char=106
+7	small	small	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=107|end_char=112
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=113|end_char=116
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=117|end_char=124
+10	of	of	ADP	IN	_	11	case	_	start_char=125|end_char=127
+11	consequences	consequence	NOUN	NNS	Number=Plur	9	obl	_	start_char=128|end_char=140
+12	"	"	PUNCT	''	_	2	punct	_	start_char=140|end_char=141
+

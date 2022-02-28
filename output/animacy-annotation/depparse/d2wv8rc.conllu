@@ -1,0 +1,18 @@
+1	[	[	PUNCT	-LRB-	_	3	punct	_	start_char=0|end_char=1
+2	Like	like	INTJ	UH	_	3	discourse	_	start_char=1|end_char=5
+3	so	so	ADV	RB	_	0	root	_	start_char=6|end_char=8
+4	?	?	PUNCT	.	_	3	punct	_	start_char=8|end_char=9
+5	]	]	PUNCT	-RRB-	_	3	punct	_	start_char=9|end_char=10
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=10|end_char=11
+2	http://i.imgur.com/DdoXlfT.png)	http://i.imgur.com/ddoxlft.png)	X	ADD	_	0	root	_	start_char=11|end_char=42
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=43|end_char=44
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=45|end_char=48
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=56
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=57|end_char=60
+5	Canadian	Canadian	ADJ	JJ	Degree=Pos	3	conj	_	start_char=61|end_char=69
+6	...	...	PUNCT	,	_	3	punct	_	start_char=69|end_char=72
+7	sorry	sorry	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=72|end_char=77
+8	;)	;)	SYM	NFP	_	3	discourse	_	start_char=78|end_char=80
+

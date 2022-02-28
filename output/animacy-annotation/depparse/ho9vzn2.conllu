@@ -1,0 +1,20 @@
+1	No	no	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=9
+4	not	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=10|end_char=13
+5	.	.	PUNCT	.	_	3	punct	_	start_char=13|end_char=14
+
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=21
+2	like	like	SCONJ	IN	_	6	mark	_	start_char=22|end_char=26
+3	Dubov	Dubov	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=27|end_char=32
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	start_char=33|end_char=36
+5	slightly	slightly	ADV	RB	_	6	advmod	_	start_char=37|end_char=45
+6	overreacting	overreact	VERB	VBG	Tense=Pres|VerbForm=Part	1	advcl	_	start_char=46|end_char=58
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=59|end_char=62
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=63|end_char=71
+9	of	of	ADP	IN	_	12	case	_	start_char=72|end_char=74
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=75|end_char=78
+11	literary	literary	ADJ	JJ	Degree=Pos	12	amod	_	start_char=79|end_char=87
+12	expression	expression	NOUN	NN	Number=Sing	8	obl	_	start_char=88|end_char=98
+13	.	.	PUNCT	.	_	1	punct	_	start_char=98|end_char=99
+

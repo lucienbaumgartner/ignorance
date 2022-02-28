@@ -1,0 +1,38 @@
+1	Homer	Homer	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=5
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=6|end_char=9
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=10|end_char=12
+4	idiot	idiot	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=18
+5	,	,	PUNCT	,	_	9	punct	_	start_char=18|end_char=19
+6	but	but	CCONJ	CC	_	9	cc	_	start_char=20|end_char=23
+7	more	more	ADV	RBR	_	9	advmod	_	start_char=24|end_char=28
+8	just	just	ADV	RB	_	9	advmod	_	start_char=29|end_char=33
+9	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=34|end_char=41
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=42|end_char=45
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=46|end_char=54
+12	back	back	ADV	RB	_	9	advmod	_	start_char=55|end_char=59
+13	then	then	ADV	RB	PronType=Dem	14	advmod	_	start_char=60|end_char=64
+14	too	too	ADV	RB	_	9	advmod	_	start_char=65|end_char=68
+15	.	.	PUNCT	.	_	4	punct	_	start_char=68|end_char=69
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=70|end_char=73
+2	not	not	PART	RB	_	5	advmod	_	start_char=74|end_char=77
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=78|end_char=81
+4	absolute	absolute	ADJ	JJ	Degree=Pos	5	amod	_	start_char=82|end_char=90
+5	dipshit	dipshit	NOUN	NN	Number=Sing	0	root	_	start_char=91|end_char=98
+6	lobotomite	lobotomite	NOUN	NN	Number=Sing	5	advmod	_	start_char=99|end_char=109
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=110|end_char=112
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=113|end_char=115
+9	today	today	NOUN	NN	Number=Sing	5	acl:relcl	_	start_char=116|end_char=121
+10	.	.	PUNCT	.	_	5	punct	_	start_char=121|end_char=122
+
+1	Case	case	NOUN	NN	Number=Sing	0	root	_	start_char=125|end_char=129
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=130|end_char=133
+3	point	point	NOUN	NN	Number=Sing	1	conj	_	start_char=134|end_char=139
+4	:	:	PUNCT	:	_	1	punct	_	start_char=139|end_char=140
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=141|end_char=143
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=144|end_char=146
+3	for	for	ADP	IN	_	4	case	_	start_char=147|end_char=150
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	start_char=151|end_char=154
+5	.	.	PUNCT	.	_	1	punct	_	start_char=154|end_char=155
+

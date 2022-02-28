@@ -1,0 +1,27 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	next	next	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=8
+3	headline	headline	NOUN	NN	Number=Sing	6	nsubj	_	start_char=9|end_char=17
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=18|end_char=19
+5	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=20|end_char=24
+6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=25|end_char=27
+7	"	"	PUNCT	``	_	9	punct	_	start_char=28|end_char=29
+8	Earth	Earth	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=29|end_char=34
+9	bans	ban	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=35|end_char=39
+10	cruise	cruise	NOUN	NN	Number=Sing	11	compound	_	start_char=40|end_char=46
+11	ships	ship	NOUN	NNS	Number=Plur	9	obj	_	start_char=47|end_char=52
+12	"	"	PUNCT	''	_	9	punct	_	start_char=52|end_char=53
+13	but	but	CCONJ	CC	_	20	cc	_	start_char=54|end_char=57
+14	unfortunately	unfortunately	ADV	RB	_	20	advmod	_	start_char=58|end_char=71
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=72|end_char=76
+16	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=76|end_char=79
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=80|end_char=83
+18	too	too	ADV	RB	_	19	advmod	_	start_char=84|end_char=87
+19	many	many	ADJ	JJ	Degree=Pos	20	advmod	_	start_char=88|end_char=92
+20	gluttonous	gluttonous	ADJ	JJ	Degree=Pos	6	conj	_	start_char=93|end_char=103
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=104|end_char=107
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	20	conj	_	start_char=108|end_char=116
+23	that	that	PRON	WDT	PronType=Rel	24	nsubj	_	start_char=117|end_char=121
+24	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=122|end_char=126
+25	unfulfilling	unfulfilling	ADJ	JJ	Degree=Pos	26	amod	_	start_char=127|end_char=139
+26	travel	travel	NOUN	NN	Number=Sing	24	obj	_	start_char=140|end_char=146
+

@@ -1,0 +1,24 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	read	read	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+5	podesta	podesta	NOUN	NN	Number=Sing	6	compound	_	start_char=17|end_char=24
+6	emails	email	NOUN	NNS	Number=Plur	3	obj	_	start_char=25|end_char=31
+7	?	?	PUNCT	.	_	3	punct	_	start_char=31|end_char=32
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=33|end_char=35
+2	literally	literally	ADV	RB	_	3	advmod	_	start_char=36|end_char=45
+3	referred	refer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=46|end_char=54
+4	to	to	ADP	IN	_	6	case	_	start_char=55|end_char=57
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=58|end_char=61
+6	supporters	supporter	NOUN	NNS	Number=Plur	3	obl	_	start_char=62|end_char=72
+7	as	as	ADP	IN	_	13	case	_	start_char=73|end_char=75
+8	"	"	PUNCT	``	_	13	punct	_	start_char=76|end_char=77
+9	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=77|end_char=79
+10	unaware	unaware	ADJ	JJ	Degree=Pos	13	amod	_	start_char=80|end_char=87
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=88|end_char=91
+12	compliant	compliant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=92|end_char=101
+13	citizenry	citizenry	NOUN	NN	Number=Sing	3	obl	_	start_char=102|end_char=111
+14	.	.	PUNCT	.	_	3	punct	_	start_char=111|end_char=112
+15	"	"	PUNCT	''	_	3	punct	_	start_char=112|end_char=113
+

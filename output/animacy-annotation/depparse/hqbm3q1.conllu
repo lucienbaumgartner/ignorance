@@ -1,0 +1,17 @@
+1	Because	because	SCONJ	IN	_	6	mark	_	start_char=0|end_char=7
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=8|end_char=12
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=12|end_char=15
+4	not	not	PART	RB	_	6	advmod	_	start_char=16|end_char=19
+5	about	about	ADP	IN	_	6	case	_	start_char=20|end_char=25
+6	decency	decency	NOUN	NN	Number=Sing	11	advcl	_	start_char=26|end_char=33
+7	,	,	PUNCT	,	_	11	punct	_	start_char=33|end_char=34
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=35|end_char=39
+9	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=39|end_char=42
+10	about	about	SCONJ	IN	_	11	mark	_	start_char=43|end_char=48
+11	keeping	keep	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=49|end_char=56
+12	people	people	NOUN	NNS	Number=Plur	11	obj	_	start_char=57|end_char=63
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=64|end_char=72
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=73|end_char=76
+15	underpaid	underpaid	ADJ	JJ	Degree=Pos	13	conj	_	start_char=77|end_char=86
+16	.	.	PUNCT	.	_	11	punct	_	start_char=86|end_char=87
+

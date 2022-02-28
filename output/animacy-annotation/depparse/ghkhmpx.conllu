@@ -1,0 +1,41 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=7|end_char=10
+4	best	good	ADJ	JJS	Degree=Sup	5	amod	_	start_char=11|end_char=15
+5	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=20
+6	about	about	ADP	IN	_	7	case	_	start_char=21|end_char=26
+7	children	child	NOUN	NNS	Number=Plur	5	nmod	_	start_char=27|end_char=35
+8	.	.	PUNCT	.	_	5	punct	_	start_char=35|end_char=36
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=37|end_char=41
+2	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=41|end_char=44
+3	free	free	ADJ	JJ	Degree=Pos	5	amod	_	start_char=45|end_char=49
+4	private	private	ADJ	JJ	Degree=Pos	5	amod	_	start_char=50|end_char=57
+5	comedians	comedian	NOUN	NNS	Number=Plur	0	root	_	start_char=58|end_char=67
+6	and	and	CCONJ	CC	_	11	cc	_	start_char=68|end_char=71
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=72|end_char=76
+8	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=77|end_char=79
+9	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=79|end_char=82
+10	even	even	ADV	RB	_	11	advmod	_	start_char=83|end_char=87
+11	know	know	VERB	VB	VerbForm=Inf	5	conj	_	start_char=88|end_char=92
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=93|end_char=95
+13	.	.	PUNCT	.	_	5	punct	_	start_char=95|end_char=96
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=97|end_char=101
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=101|end_char=104
+3	hilarious	hilarious	ADJ	JJ	Degree=Pos	0	root	_	start_char=105|end_char=114
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=115|end_char=118
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=119|end_char=126
+6	of	of	ADP	IN	_	8	case	_	start_char=127|end_char=129
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=130|end_char=133
+8	fact	fact	NOUN	NN	Number=Sing	5	obl	_	start_char=134|end_char=138
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=139|end_char=143
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=144|end_char=148
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=149|end_char=152
+12	hilarious	hilarious	ADJ	JJ	Degree=Pos	8	acl	_	start_char=153|end_char=162
+13	which	which	PRON	WDT	PronType=Rel	14	nsubj	_	start_char=163|end_char=168
+14	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	start_char=169|end_char=174
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=175|end_char=177
+16	funnier	funny	ADJ	JJR	Degree=Cmp	14	xcomp	_	start_char=178|end_char=185
+17	somehow	somehow	ADV	RB	_	16	advmod	_	start_char=186|end_char=193
+

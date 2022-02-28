@@ -1,0 +1,18 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	in	in	ADP	IN	_	4	case	_	start_char=8|end_char=10
+4	drugs	drug	NOUN	NNS	Number=Plur	0	root	_	start_char=11|end_char=16
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=17|end_char=19
+6	blind	blind	ADJ	JJ	Degree=Pos	4	conj	_	start_char=20|end_char=25
+7	.	.	PUNCT	.	_	4	punct	_	start_char=25|end_char=26
+
+1	Literally	literally	ADV	RB	_	7	advmod	_	start_char=27|end_char=36
+2	how	how	ADV	WRB	PronType=Int	7	advmod	_	start_char=37|end_char=40
+3	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=41|end_char=44
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=45|end_char=48
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=49|end_char=51
+6	so	so	ADV	RB	_	7	advmod	_	start_char=52|end_char=54
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=55|end_char=63
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=64|end_char=67
+9	gross	gross	ADJ	JJ	Degree=Pos	7	conj	_	start_char=68|end_char=73
+

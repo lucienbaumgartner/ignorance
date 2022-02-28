@@ -1,0 +1,13 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	start_char=5|end_char=9
+3	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=30
+6	of	of	ADP	IN	_	11	case	_	start_char=31|end_char=33
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=34|end_char=37
+8	future	future	NOUN	NN	Number=Sing	11	nmod:poss	_	start_char=38|end_char=44
+9	's	's	PART	POS	_	8	case	_	start_char=44|end_char=46
+10	harsh	harsh	ADJ	JJ	Degree=Pos	11	amod	_	start_char=47|end_char=52
+11	reality	reality	NOUN	NN	Number=Sing	5	obl	_	start_char=53|end_char=60
+12	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+

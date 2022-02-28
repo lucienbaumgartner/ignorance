@@ -1,0 +1,20 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=6|end_char=9
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=14
+5	to	to	PART	TO	_	6	mark	_	start_char=15|end_char=17
+6	put	put	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=18|end_char=21
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=22|end_char=30
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=31|end_char=34
+9	arrogant	arrogant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=35|end_char=43
+10	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=44|end_char=48
+11	referring	refer	VERB	VBG	VerbForm=Ger	17	advcl	_	start_char=49|end_char=58
+12	to	to	ADP	IN	_	13	case	_	start_char=59|end_char=61
+13	nick	nick	PROPN	NNP	Number=Sing	11	obl	_	start_char=62|end_char=66
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=67|end_char=69
+15	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=69|end_char=71
+16	just	just	ADV	RB	_	17	advmod	_	start_char=72|end_char=76
+17	Implied	imply	VERB	VBN	Tense=Past|VerbForm=Part	4	parataxis	_	start_char=77|end_char=84
+18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=85|end_char=87
+19	friend	friend	NOUN	NN	Number=Sing	17	obj	_	start_char=88|end_char=94
+

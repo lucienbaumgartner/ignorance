@@ -1,0 +1,14 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=1|end_char=3
+3	just	just	ADV	RB	_	4	advmod	_	start_char=4|end_char=8
+4	blown	blow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=9|end_char=14
+5	away	away	ADV	RB	_	4	advmod	_	start_char=15|end_char=19
+6	by	by	ADP	IN	_	8	case	_	start_char=20|end_char=22
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=23|end_char=26
+8	oblivious	oblivious	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=27|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=48
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=49|end_char=53
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=54|end_char=57
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=58|end_char=61
+

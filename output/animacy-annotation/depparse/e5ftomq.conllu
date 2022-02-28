@@ -1,0 +1,157 @@
+1	Uhh	uhh	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	...	...	PUNCT	.	_	1	punct	_	start_char=3|end_char=6
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=7|end_char=8
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=9|end_char=11
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=16
+4	“	''	PUNCT	``	_	5	punct	_	start_char=17|end_char=18
+5	what	what	PRON	WP	PronType=Int	3	obj	_	start_char=18|end_char=22
+6	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=23|end_char=31
+7	”	''	PUNCT	''	_	6	punct	_	start_char=31|end_char=32
+8	because	because	SCONJ	IN	_	11	mark	_	start_char=33|end_char=40
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=41|end_char=42
+10	just	just	ADV	RB	_	11	advmod	_	start_char=43|end_char=47
+11	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=48|end_char=52
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=53|end_char=55
+13	?	?	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+
+1	Like	like	ADP	IN	_	2	case	_	start_char=57|end_char=61
+2	tf	tf	NOUN	NN	Number=Sing	0	root	_	start_char=62|end_char=64
+3	?	?	PUNCT	.	_	2	punct	_	start_char=64|end_char=65
+
+1	Lmao	lmao	INTJ	UH	_	0	root	_	start_char=66|end_char=70
+2	.	.	PUNCT	.	_	1	punct	_	start_char=70|end_char=71
+
+1	Yeah	yeah	INTJ	UH	_	6	discourse	_	start_char=74|end_char=78
+2	,	,	PUNCT	,	_	6	punct	_	start_char=78|end_char=79
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=80|end_char=81
+4	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=82|end_char=84
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=84|end_char=87
+6	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=88|end_char=92
+7	“	''	PUNCT	``	_	9	punct	_	start_char=93|end_char=94
+8	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=94|end_char=97
+9	side	side	NOUN	NN	Number=Sing	6	obj	_	start_char=98|end_char=102
+10	”	''	PUNCT	''	_	9	punct	_	start_char=102|end_char=103
+11	.	.	PUNCT	.	_	6	punct	_	start_char=103|end_char=104
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=105|end_char=109
+2	well	well	ADV	RB	Degree=Pos	4	advmod	_	start_char=110|end_char=114
+3	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=115|end_char=120
+4	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=121|end_char=123
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=124|end_char=126
+6	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	start_char=127|end_char=130
+7	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=130|end_char=133
+8	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=134|end_char=141
+9	,	,	PUNCT	,	_	12	punct	_	start_char=141|end_char=142
+10	very	very	ADV	RB	_	12	advmod	_	start_char=143|end_char=147
+11	very	very	ADV	RB	_	12	advmod	_	start_char=148|end_char=152
+12	unlikely	unlikely	ADJ	JJ	Degree=Pos|Polarity=Neg	8	parataxis	_	start_char=153|end_char=161
+13	though	though	ADV	RB	Degree=Pos	12	advmod	_	start_char=162|end_char=168
+14	.	.	PUNCT	.	_	8	punct	_	start_char=168|end_char=169
+
+1	Only	only	ADV	RB	_	2	advmod	_	start_char=172|end_char=176
+2	people	people	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=177|end_char=183
+3	excusing	excuse	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=184|end_char=192
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=193|end_char=197
+5	shit	shit	NOUN	NN	Number=Sing	3	obj	_	start_char=198|end_char=202
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=203|end_char=205
+7	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=206|end_char=212
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=213|end_char=216
+9	excuse	excuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=217|end_char=223
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=224|end_char=227
+11	bullshit	bullshit	NOUN	NN	Number=Sing	9	obj	_	start_char=228|end_char=236
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=237|end_char=241
+13	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=242|end_char=244
+14	when	when	SCONJ	WRB	PronType=Int	16	mark	_	start_char=245|end_char=249
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=250|end_char=254
+16	drink	drink	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=255|end_char=260
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=261|end_char=264
+18	“	''	PUNCT	``	_	19	punct	_	start_char=265|end_char=266
+19	blame	blame	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	conj	_	start_char=266|end_char=271
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	_	start_char=272|end_char=274
+21	on	on	ADP	IN	_	23	case	_	start_char=275|end_char=277
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=278|end_char=281
+23	alcohol	alcohol	NOUN	NN	Number=Sing	19	obl	_	start_char=282|end_char=289
+24	”	''	PUNCT	''	_	19	punct	_	start_char=289|end_char=290
+25	like	like	SCONJ	IN	_	29	mark	_	start_char=291|end_char=295
+26	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	start_char=296|end_char=300
+27	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	29	cop	_	start_char=301|end_char=304
+28	totally	totally	ADV	RB	_	29	advmod	_	start_char=305|end_char=312
+29	unaware	unaware	ADJ	JJ	Degree=Pos	19	advcl	_	start_char=313|end_char=320
+30	and	and	CCONJ	CC	_	31	cc	_	start_char=321|end_char=324
+31	incapable	incapable	ADJ	JJ	Degree=Pos	29	conj	_	start_char=325|end_char=334
+32	of	of	SCONJ	IN	_	33	mark	_	start_char=335|end_char=337
+33	controlling	control	VERB	VBG	VerbForm=Ger	31	advcl	_	start_char=338|end_char=349
+34	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	35	nmod:poss	_	start_char=350|end_char=355
+35	actions	action	NOUN	NNS	Number=Plur	33	obj	_	start_char=356|end_char=363
+36	.	.	PUNCT	.	_	7	punct	_	start_char=363|end_char=364
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=365|end_char=366
+2	drink	drink	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=367|end_char=372
+3	,	,	PUNCT	,	_	5	punct	_	start_char=372|end_char=373
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=374|end_char=378
+5	drunk	drunk	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=379|end_char=384
+6	,	,	PUNCT	,	_	7	punct	_	start_char=384|end_char=385
+7	passed	pass	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=386|end_char=392
+8	out	out	ADP	RP	_	7	compound:prt	_	start_char=393|end_char=396
+9	.	.	PUNCT	.	_	2	punct	_	start_char=396|end_char=397
+
+1	Never	never	ADV	RB	_	5	advmod	_	start_char=398|end_char=403
+2	once	once	ADV	RB	NumType=Mult	5	advmod	_	start_char=404|end_char=408
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=409|end_char=413
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=414|end_char=415
+5	excused	excuse	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=416|end_char=423
+6	shifty	shifty	ADJ	JJ	Degree=Pos	7	amod	_	start_char=424|end_char=430
+7	behavior	behavior	NOUN	NN	Number=Sing	5	obj	_	start_char=431|end_char=439
+8	because	because	SCONJ	IN	_	11	mark	_	start_char=440|end_char=447
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=448|end_char=449
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=450|end_char=453
+11	drunk	drunk	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=454|end_char=459
+12	.	.	PUNCT	.	_	5	punct	_	start_char=459|end_char=460
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=461|end_char=462
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=463|end_char=466
+3	something	something	PRON	NN	Number=Sing	2	obj	_	start_char=467|end_char=476
+4	shitty	shitty	ADJ	JJ	Degree=Pos	3	amod	_	start_char=477|end_char=483
+5	while	while	SCONJ	IN	_	6	mark	_	start_char=484|end_char=489
+6	drunk	drunk	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=490|end_char=495
+7	.	.	PUNCT	.	_	2	punct	_	start_char=495|end_char=496
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=497|end_char=500
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=501|end_char=502
+3	shit	shit	NOUN	NN	Number=Sing	4	compound	_	start_char=503|end_char=507
+4	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=508|end_char=514
+5	.	.	PUNCT	.	_	4	punct	_	start_char=514|end_char=515
+
+1	Not	not	PART	RB	_	3	advmod	_	start_char=516|end_char=519
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=520|end_char=523
+3	alcohol	alcohol	NOUN	NN	Number=Sing	0	root	_	start_char=524|end_char=531
+4	.	.	PUNCT	.	_	3	punct	_	start_char=531|end_char=532
+
+1	And	and	CCONJ	CC	_	7	cc	_	start_char=535|end_char=538
+2	yeah	yeah	INTJ	UH	_	7	discourse	_	start_char=539|end_char=543
+3	,	,	PUNCT	,	_	2	punct	_	start_char=543|end_char=544
+4	OPs	op	NOUN	NN	Number=Sing	7	nsubj	_	start_char=545|end_char=548
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=549|end_char=550
+6	shitty	shitty	ADJ	JJ	Degree=Pos	7	amod	_	start_char=551|end_char=557
+7	human	human	ADJ	JJ	Degree=Pos	0	root	_	start_char=558|end_char=563
+8	too	too	ADV	RB	Degree=Pos	7	advmod	_	start_char=564|end_char=567
+9	.	.	PUNCT	.	_	7	punct	_	start_char=567|end_char=568
+
+1	Should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=569|end_char=575
+2	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=575|end_char=578
+3	be	be	AUX	VB	VerbForm=Inf	4	aux	_	start_char=579|end_char=581
+4	drinking	drink	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=582|end_char=590
+5	to	to	ADP	IN	_	7	case	_	start_char=591|end_char=593
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=594|end_char=597
+7	point	point	NOUN	NN	Number=Sing	4	obl	_	start_char=598|end_char=603
+8	of	of	SCONJ	IN	_	10	mark	_	start_char=604|end_char=606
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=607|end_char=612
+10	black	black	ADJ	JJ	Degree=Pos	7	acl	_	start_char=613|end_char=618
+11	out	out	ADP	RP	_	10	compound:prt	_	start_char=619|end_char=622
+12	drunk	drunk	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=623|end_char=628
+13	to	to	PART	TO	_	14	mark	_	start_char=629|end_char=631
+14	begin	begin	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=632|end_char=637
+15	with	with	ADP	IN	_	14	obl	_	start_char=638|end_char=642
+16	.	.	PUNCT	.	_	4	punct	_	start_char=642|end_char=643
+

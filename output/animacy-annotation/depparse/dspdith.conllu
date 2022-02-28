@@ -1,0 +1,53 @@
+1	Part	part	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	of	of	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	game	game	NOUN	NN	Number=Sing	1	nmod	_	start_char=12|end_char=16
+5	,	,	PUNCT	,	_	1	punct	_	start_char=17|end_char=18
+
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=21|end_char=24
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=25|end_char=28
+3	risk	risk	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=29|end_char=33
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=34|end_char=38
+5	life	life	NOUN	NN	Number=Sing	3	obj	_	start_char=39|end_char=43
+6	getting	get	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=44|end_char=51
+7	all	all	DET	PDT	_	10	det:predet	_	start_char=52|end_char=55
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=56|end_char=59
+9	good	good	ADJ	JJ	Degree=Pos	10	amod	_	start_char=60|end_char=64
+10	loot	loot	NOUN	NN	Number=Sing	6	obj	_	start_char=65|end_char=69
+11	.	.	PUNCT	.	_	1	punct	_	start_char=69|end_char=70
+
+1	When	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=72|end_char=76
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=77|end_char=80
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=81|end_char=84
+4	unaware	unaware	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=85|end_char=92
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=93|end_char=96
+6	greedy	greedy	ADJ	JJ	Degree=Pos	4	conj	_	start_char=97|end_char=103
+7	,	,	PUNCT	,	_	9	punct	_	start_char=103|end_char=104
+8	Low	low	ADJ	JJ	Degree=Pos	9	amod	_	start_char=105|end_char=108
+9	health	health	NOUN	NN	Number=Sing	4	conj	_	start_char=109|end_char=115
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=116|end_char=119
+11	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=120|end_char=124
+12	to	to	PART	TO	_	13	mark	_	start_char=125|end_char=127
+13	heal	heal	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=128|end_char=132
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	start_char=133|end_char=135
+15	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=136|end_char=140
+16	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=141|end_char=144
+17	time	time	NOUN	NN	Number=Sing	15	obj	_	start_char=145|end_char=149
+18	to	to	PART	TO	_	19	mark	_	start_char=150|end_char=152
+19	shine	shine	VERB	VB	VerbForm=Inf	17	acl	_	start_char=153|end_char=158
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=159|end_char=162
+21	take	take	VERB	VB	VerbForm=Inf	19	conj	_	start_char=163|end_char=167
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=168|end_char=172
+23	things	thing	NOUN	NNS	Number=Plur	21	obj	_	start_char=173|end_char=179
+24	.	.	PUNCT	.	_	15	punct	_	start_char=179|end_char=180
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=184|end_char=188
+2	lack	lack	NOUN	NN	Number=Sing	9	nsubj	_	start_char=189|end_char=193
+3	of	of	ADP	IN	_	4	case	_	start_char=194|end_char=196
+4	awareness	awareness	NOUN	NN	Number=Sing	2	nmod	_	start_char=197|end_char=206
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=207|end_char=209
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=210|end_char=214
+7	own	own	ADJ	JJ	Degree=Pos	9	amod	_	start_char=215|end_char=218
+8	fault	fault	NOUN	NN	Number=Sing	9	compound	_	start_char=219|end_char=224
+9	buddy	buddy	NOUN	NN	Number=Sing	0	root	_	start_char=225|end_char=230
+

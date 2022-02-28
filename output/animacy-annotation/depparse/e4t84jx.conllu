@@ -1,0 +1,42 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=3|end_char=6
+3	fired	fire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=7|end_char=12
+4	less	less	ADJ	JJR	Degree=Cmp	6	advmod	_	start_char=13|end_char=17
+5	than	than	ADP	IN	_	4	fixed	_	start_char=18|end_char=22
+6	12	12	NUM	CD	NumType=Card	7	nummod	_	start_char=23|end_char=25
+7	hours	hour	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=26|end_char=31
+8	after	after	SCONJ	IN	_	11	mark	_	start_char=32|end_char=37
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=38|end_char=41
+10	scandal	scandal	NOUN	NN	Number=Sing	11	nsubj	_	start_char=42|end_char=49
+11	surfaced	surface	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	start_char=50|end_char=58
+12	.	.	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+
+1	With	with	ADP	IN	_	5	case	_	start_char=60|end_char=64
+2	multiple	multiple	ADJ	JJ	Degree=Pos	5	amod	_	start_char=65|end_char=73
+3	high	high	ADJ	JJ	Degree=Pos	4	amod	_	start_char=74|end_char=78
+4	level	level	NOUN	NN	Number=Sing	5	compound	_	start_char=79|end_char=84
+5	employees	employee	NOUN	NNS	Number=Plur	11	obl	_	start_char=85|end_char=94
+6	at	at	ADP	IN	_	8	case	_	start_char=95|end_char=97
+7	both	both	CCONJ	CC	_	8	cc:preconj	_	start_char=98|end_char=102
+8	Disney	Disney	PROPN	NNP	Number=Sing	5	nmod	_	start_char=103|end_char=109
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=110|end_char=113
+10	marvel	marvel	PROPN	NNP	Number=Sing	8	conj	_	start_char=114|end_char=120
+11	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=121|end_char=128
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=129|end_char=132
+13	uninvolved	uninvolved	ADJ	JJ	Degree=Pos	11	conj	_	start_char=133|end_char=143
+14	in	in	ADP	IN	_	16	case	_	start_char=144|end_char=146
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=147|end_char=150
+16	decision	decision	NOUN	NN	Number=Sing	11	obl	_	start_char=151|end_char=159
+17	.	.	PUNCT	.	_	11	punct	_	start_char=159|end_char=160
+
+1	Whole	Whole	ADJ	JJ	Degree=Pos	3	amod	_	start_char=161|end_char=166
+2	lotta	lotta	NOUN	NN	Number=Sing	3	compound	_	start_char=167|end_char=172
+3	thought	thought	NOUN	NN	Number=Sing	4	nsubj	_	start_char=173|end_char=180
+4	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=181|end_char=185
+5	into	into	ADP	IN	_	6	case	_	start_char=186|end_char=190
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=191|end_char=193
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=194|end_char=195
+8	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=195|end_char=197
+9	sure	sure	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=198|end_char=202
+10	.	.	PUNCT	.	_	4	punct	_	start_char=202|end_char=203
+

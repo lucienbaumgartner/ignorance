@@ -1,0 +1,21 @@
+1	usually	usually	ADV	RB	_	4	advmod	_	start_char=0|end_char=7
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=8|end_char=10
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=11|end_char=14
+4	reincarnated	reincarnate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=15|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=39
+7	of	of	ADP	IN	_	10	case	_	start_char=40|end_char=42
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=43|end_char=46
+9	previous	previous	ADJ	JJ	Degree=Pos	10	amod	_	start_char=47|end_char=55
+10	life	life	NOUN	NN	Number=Sing	6	obl	_	start_char=56|end_char=60
+11	so	so	ADV	RB	_	15	advmod	_	start_char=61|end_char=63
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=64|end_char=67
+13	wo	will	AUX	MD	VerbForm=Fin	15	aux	_	start_char=68|end_char=70
+14	n't	not	PART	RB	_	15	advmod	_	start_char=70|end_char=73
+15	have	have	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=74|end_char=78
+16	to	to	PART	TO	_	17	mark	_	start_char=79|end_char=81
+17	worry	worry	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=82|end_char=87
+18	about	about	ADP	IN	_	19	case	_	start_char=88|end_char=93
+19	that	that	PRON	DT	Number=Sing|PronType=Dem	17	obl	_	start_char=94|end_char=98
+20	thankfully	thankfully	ADV	RB	_	17	advmod	_	start_char=99|end_char=109
+

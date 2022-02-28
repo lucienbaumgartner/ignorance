@@ -1,0 +1,34 @@
+1	Ya	ya	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	People	person	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=4|end_char=10
+2	here	here	ADV	RB	PronType=Dem	1	advmod	_	start_char=11|end_char=15
+3	that	that	PRON	WDT	PronType=Rel	4	nsubj	_	start_char=16|end_char=20
+4	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=21|end_char=28
+5	XRP	XRP	PROPN	NNP	Number=Sing	4	obj	_	start_char=29|end_char=32
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=33|end_char=36
+7	some	some	DET	DT	_	8	det	_	start_char=37|end_char=41
+8	mixture	mixture	NOUN	NN	Number=Sing	0	root	_	start_char=42|end_char=49
+9	of	of	ADP	IN	_	10	case	_	start_char=50|end_char=52
+10	greedy	greedy	ADJ	JJ	Degree=Pos	8	nmod	_	start_char=53|end_char=59
+11	,	,	PUNCT	,	_	12	punct	_	start_char=59|end_char=60
+12	confused	confused	ADJ	JJ	Degree=Pos	8	amod	_	start_char=61|end_char=69
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=70|end_char=73
+14	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=74|end_char=81
+15	that	that	SCONJ	IN	_	19	mark	_	start_char=82|end_char=86
+16	XRP	XRP	PROPN	NNP	Number=Sing	19	nsubj	_	start_char=87|end_char=90
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=91|end_char=93
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=94|end_char=97
+19	opposite	opposite	NOUN	NN	Number=Sing	8	acl:relcl	_	start_char=98|end_char=106
+20	of	of	ADP	IN	_	21	case	_	start_char=107|end_char=109
+21	why	why	SCONJ	WRB	PronType=Int	19	nmod	_	start_char=110|end_char=113
+22	crypto	crypto	NOUN	NN	Number=Sing	24	nsubj:pass	_	start_char=114|end_char=120
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux:pass	_	start_char=121|end_char=124
+24	created	create	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	acl:relcl	_	start_char=125|end_char=132
+25	.	.	PUNCT	.	_	8	punct	_	start_char=132|end_char=133
+
+1	Corporate	corporate	ADJ	JJ	Degree=Pos	3	amod	_	start_char=134|end_char=143
+2	titty	titty	NOUN	NN	Number=Sing	3	compound	_	start_char=144|end_char=149
+3	coin	coin	NOUN	NN	Number=Sing	0	root	_	start_char=150|end_char=154
+4	.	.	PUNCT	.	_	3	punct	_	start_char=154|end_char=155
+

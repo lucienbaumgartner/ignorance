@@ -1,0 +1,11 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	guys	guy	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=4|end_char=8
+3	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+4	so	so	ADV	RB	_	5	advmod	_	start_char=14|end_char=16
+5	legit	legit	ADV	RB	_	6	advmod	_	start_char=17|end_char=22
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=23|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	happy	happy	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=40
+9	too	too	ADV	RB	_	6	advmod	_	start_char=41|end_char=44
+10	!	!	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+

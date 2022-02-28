@@ -1,0 +1,42 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	boyfriend	boyfriend	NOUN	NN	Number=Sing	4	nsubj	_	start_char=5|end_char=14
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=17
+4	insecure	insecure	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	of	of	ADP	IN	_	9	case	_	start_char=40|end_char=42
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=43|end_char=46
+9	facts	fact	NOUN	NNS	Number=Plur	6	obl	_	start_char=47|end_char=52
+10	.	.	PUNCT	.	_	4	punct	_	start_char=52|end_char=53
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=55|end_char=57
+2	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=62
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	iobj	_	start_char=63|end_char=66
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=67|end_char=69
+5	ultimatum	ultimatum	NOUN	NN	Number=Sing	2	obj	_	start_char=70|end_char=79
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=80|end_char=83
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=84|end_char=87
+8	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=88|end_char=95
+9	.	.	PUNCT	.	_	2	punct	_	start_char=95|end_char=96
+
+1	Now	now	ADV	RB	_	4	advmod	_	start_char=97|end_char=100
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=101|end_char=103
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=103|end_char=105
+4	asking	ask	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=106|end_char=112
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=113|end_char=116
+6	to	to	PART	TO	_	7	mark	_	start_char=117|end_char=119
+7	reconsider	reconsider	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=120|end_char=130
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=131|end_char=135
+9	ultimatum	ultimatum	NOUN	NN	Number=Sing	7	obj	_	start_char=136|end_char=145
+10	.	.	PUNCT	.	_	4	punct	_	start_char=145|end_char=146
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=147|end_char=150
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=151|end_char=157
+3	let	let	VERB	VB	VerbForm=Inf	0	root	_	start_char=158|end_char=161
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=162|end_char=166
+5	silence	silence	NOUN	NN	Number=Sing	3	obj	_	start_char=167|end_char=174
+6	speak	speak	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=175|end_char=180
+7	for	for	ADP	IN	_	8	case	_	start_char=181|end_char=184
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=185|end_char=188
+9	.	.	PUNCT	.	_	3	punct	_	start_char=188|end_char=189
+

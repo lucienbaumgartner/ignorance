@@ -1,0 +1,23 @@
+1	"	"	PUNCT	``	_	5	punct	_	start_char=0|end_char=1
+2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=1|end_char=4
+3	game	game	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=9
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=12
+5	great	great	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+6	as	as	ADV	RB	_	7	advmod	_	start_char=19|end_char=21
+7	long	long	ADV	RB	Degree=Pos	5	advmod	_	start_char=22|end_char=26
+8	as	as	SCONJ	IN	_	10	mark	_	start_char=27|end_char=29
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=30|end_char=33
+10	stay	stay	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=34|end_char=38
+11	uninformed	uninformed	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=39|end_char=49
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=50|end_char=53
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=54|end_char=62
+14	of	of	ADP	IN	_	15	case	_	start_char=63|end_char=65
+15	what	what	PRON	WP	PronType=Int	13	obl	_	start_char=66|end_char=70
+16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=70|end_char=72
+17	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	15	acl:relcl	_	start_char=73|end_char=82
+18	within	within	ADP	IN	_	20	case	_	start_char=83|end_char=89
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=90|end_char=93
+20	game	game	NOUN	NN	Number=Sing	17	obl	_	start_char=94|end_char=98
+21	.	.	PUNCT	.	_	5	punct	_	start_char=98|end_char=99
+22	"	"	PUNCT	''	_	5	punct	_	start_char=99|end_char=100
+

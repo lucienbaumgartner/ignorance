@@ -1,0 +1,105 @@
+1	Something	something	PRON	NN	Number=Sing	0	root	_	start_char=0|end_char=9
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=10|end_char=13
+3	seem	seem	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=14|end_char=18
+4	to	to	PART	TO	_	5	mark	_	start_char=19|end_char=21
+5	know	know	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=22|end_char=26
+6	nothing	nothing	PRON	NN	Number=Sing	5	obj	_	start_char=27|end_char=34
+7	about	about	ADP	IN	_	5	obl	_	start_char=35|end_char=40
+8	.	.	PUNCT	.	_	1	punct	_	start_char=40|end_char=41
+
+1	Yeats	Yeats	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=43|end_char=48
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=49|end_char=51
+3	notoriously	notoriously	ADV	RB	_	4	advmod	_	start_char=52|end_char=63
+4	itchy	itchy	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=69
+5	.	.	PUNCT	.	_	4	punct	_	start_char=69|end_char=70
+
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	start_char=72|end_char=77
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	start_char=78|end_char=81
+3	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=81|end_char=84
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=85|end_char=89
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=89|end_char=92
+6	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=93|end_char=97
+7	someone	someone	NOUN	NN	Number=Sing	10	nsubj	_	start_char=98|end_char=105
+8	else	else	ADJ	JJ	Degree=Pos	7	amod	_	start_char=106|end_char=110
+9	’s	's	PART	POS	_	7	case	_	start_char=110|end_char=112
+10	wo	will	AUX	MD	VerbForm=Fin	6	ccomp	_	start_char=113|end_char=115
+11	n’t	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=115|end_char=118
+12	.	.	PUNCT	.	_	6	punct	_	start_char=118|end_char=119
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=120|end_char=122
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=123|end_char=125
+3	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=126|end_char=130
+4	bad	bad	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=131|end_char=134
+5	,	,	PUNCT	,	_	8	punct	_	start_char=134|end_char=135
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=136|end_char=138
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=139|end_char=143
+8	be	be	VERB	VB	VerbForm=Inf	0	root	_	start_char=144|end_char=146
+9	.	.	PUNCT	.	_	8	punct	_	start_char=146|end_char=147
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=149|end_char=152
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=153|end_char=155
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=156|end_char=158
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=159|end_char=160
+5	fungus	fungus	NOUN	NN	Number=Sing	0	root	_	start_char=161|end_char=167
+6	.	.	PUNCT	.	_	5	punct	_	start_char=167|end_char=168
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=170|end_char=173
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=173|end_char=176
+3	speaking	speak	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=177|end_char=185
+4	to	to	ADP	IN	_	6	case	_	start_char=186|end_char=188
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=189|end_char=193
+6	experience	experience	NOUN	NN	Number=Sing	3	obl	_	start_char=194|end_char=204
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=205|end_char=208
+8	making	make	VERB	VBG	VerbForm=Ger	3	conj	_	start_char=209|end_char=215
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=216|end_char=218
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=219|end_char=220
+11	blanket	blanket	NOUN	NN	Number=Sing	12	compound	_	start_char=221|end_char=228
+12	statement	statement	NOUN	NN	Number=Sing	8	xcomp	_	start_char=229|end_char=238
+13	.	.	PUNCT	.	_	3	punct	_	start_char=238|end_char=239
+
+1	Not	not	ADV	RB	_	2	advmod	_	start_char=241|end_char=244
+2	everyone	everyone	PRON	NN	Number=Sing	4	nmod:poss	_	start_char=245|end_char=253
+3	’s	's	PART	POS	_	2	case	_	start_char=253|end_char=255
+4	experience	experience	NOUN	NN	Number=Sing	6	nsubj	_	start_char=256|end_char=266
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=267|end_char=269
+6	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=270|end_char=275
+7	to	to	PART	TO	_	10	mark	_	start_char=276|end_char=278
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=279|end_char=281
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=282|end_char=285
+10	same	same	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=286|end_char=290
+11	as	as	ADP	IN	_	12	case	_	start_char=291|end_char=293
+12	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	obl	_	start_char=294|end_char=299
+13	.	.	PUNCT	.	_	6	punct	_	start_char=299|end_char=300
+
+1	Congrats	congrat	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	start_char=302|end_char=310
+2	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	obj	_	start_char=311|end_char=316
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=317|end_char=319
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=319|end_char=322
+5	itchy	itchy	ADJ	JJ	Degree=Pos	0	root	_	start_char=323|end_char=328
+6	.	.	PUNCT	.	_	5	punct	_	start_char=328|end_char=329
+
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	start_char=330|end_char=334
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=335|end_char=337
+3	.	.	PUNCT	.	_	2	punct	_	start_char=337|end_char=338
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=340|end_char=343
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=343|end_char=346
+3	more	more	ADV	RBR	_	4	advmod	_	start_char=347|end_char=351
+4	the	the	DET	DT	Definite=Def|PronType=Art	0	root	_	start_char=352|end_char=355
+5	.	.	PUNCT	.	_	4	punct	_	start_char=355|end_char=356
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=357|end_char=358
+2	dick	dick	NOUN	NN	Number=Sing	0	root	_	start_char=359|end_char=363
+3	.	.	PUNCT	.	_	2	punct	_	start_char=363|end_char=364
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=365|end_char=368
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=368|end_char=371
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=372|end_char=380
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=381|end_char=384
+5	willing	willing	ADJ	JJ	Degree=Pos	3	conj	_	start_char=385|end_char=392
+6	to	to	PART	TO	_	7	mark	_	start_char=393|end_char=395
+7	stay	stay	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=396|end_char=400
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=401|end_char=405
+9	way	way	NOUN	NN	Number=Sing	7	obl:npmod	_	start_char=406|end_char=409
+10	.	.	PUNCT	.	_	3	punct	_	start_char=409|end_char=410
+

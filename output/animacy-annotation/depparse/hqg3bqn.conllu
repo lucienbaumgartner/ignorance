@@ -1,0 +1,23 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	start_char=13|end_char=17
+4	.	.	PUNCT	.	_	1	punct	_	start_char=17|end_char=18
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=19|end_char=23
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=23|end_char=25
+3	OK	ok	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=28
+4	though	though	ADV	RB	_	3	advmod	_	start_char=29|end_char=35
+5	.	.	PUNCT	.	_	3	punct	_	start_char=35|end_char=36
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=37|end_char=40
+2	'll	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=40|end_char=43
+3	never	never	ADV	RB	_	4	advmod	_	start_char=44|end_char=49
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=50|end_char=54
+5	any	any	ADV	RB	_	6	advmod	_	start_char=55|end_char=58
+6	better	good	ADJ	JJR	Degree=Cmp	4	xcomp	_	start_char=59|end_char=65
+7	unless	unless	SCONJ	IN	_	9	mark	_	start_char=66|end_char=72
+8	someone	someone	PRON	NN	Number=Sing	9	nsubj	_	start_char=73|end_char=80
+9	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=81|end_char=86
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	start_char=87|end_char=90
+11	.	.	PUNCT	.	_	4	punct	_	start_char=90|end_char=91
+

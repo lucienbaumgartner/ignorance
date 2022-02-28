@@ -1,0 +1,42 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	mad	mad	ADJ	JJ	Degree=Pos	5	advmod	_	start_char=4|end_char=7
+3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	start_char=8|end_char=11
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=12|end_char=15
+5	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=19
+6	about	about	ADP	IN	_	8	case	_	start_char=20|end_char=25
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=26|end_char=28
+8	8	8	NUM	CD	NumType=Card	5	obl	_	start_char=29|end_char=30
+9	?	?	PUNCT	.	_	5	punct	_	start_char=30|end_char=31
+
+1	Last	last	ADJ	JJ	Degree=Pos	8	advmod	_	start_char=32|end_char=36
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=37|end_char=38
+3	checked	check	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	start_char=39|end_char=46
+4	,	,	PUNCT	,	_	8	punct	_	start_char=46|end_char=47
+5	8	8	NUM	CD	NumType=Card	8	nsubj	_	start_char=48|end_char=49
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=50|end_char=52
+7	still	still	ADV	RB	_	8	advmod	_	start_char=53|end_char=58
+8	higher	high	ADJ	JJR	Degree=Cmp	0	root	_	start_char=59|end_char=65
+9	than	than	ADP	IN	_	10	case	_	start_char=66|end_char=70
+10	6	6	NUM	CD	NumType=Card	8	obl	_	start_char=71|end_char=72
+11	.	.	PUNCT	.	_	8	punct	_	start_char=72|end_char=73
+
+1	Anyone	anyone	PRON	NN	Number=Sing	12	nsubj	_	start_char=74|end_char=80
+2	who	who	PRON	WP	PronType=Rel	3	nsubj	_	start_char=81|end_char=84
+3	expects	expect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=85|end_char=92
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=93|end_char=98
+5	SO	so	ADV	RB	_	3	advmod	_	start_char=99|end_char=101
+6	to	to	PART	TO	_	7	mark	_	start_char=102|end_char=104
+7	rate	rate	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=105|end_char=109
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=110|end_char=114
+9	10/10	10/10	NUM	CD	NumType=Card	7	obj	_	start_char=115|end_char=120
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=121|end_char=123
+11	pretty	pretty	ADV	RB	_	12	advmod	_	start_char=124|end_char=130
+12	conceited	conceited	ADJ	JJ	Degree=Pos	0	root	_	start_char=131|end_char=140
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=141|end_char=144
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=145|end_char=152
+15	that	that	SCONJ	IN	_	18	mark	_	start_char=153|end_char=157
+16	nobody	nobody	PRON	NN	Number=Sing	18	nsubj	_	start_char=158|end_char=164
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=165|end_char=167
+18	perfect	perfect	ADJ	JJ	Degree=Pos	14	ccomp	_	start_char=168|end_char=175
+19	.	.	PUNCT	.	_	12	punct	_	start_char=175|end_char=176
+

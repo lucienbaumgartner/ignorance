@@ -1,0 +1,14 @@
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=0|end_char=3
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=4|end_char=8
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=12
+4	very	very	ADV	RB	_	5	advmod	_	start_char=13|end_char=17
+5	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=21
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=22|end_char=25
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=26|end_char=33
+8	of	of	ADP	IN	_	12	case	_	start_char=34|end_char=36
+9	most	most	ADJ	JJS	Degree=Sup	12	amod	_	start_char=37|end_char=41
+10	"	"	PUNCT	``	_	12	punct	_	start_char=42|end_char=43
+11	kids	kid	NOUN	NNS	Number=Plur	12	compound	_	start_char=43|end_char=47
+12	things	thing	NOUN	NNS	Number=Plur	7	obl	_	start_char=48|end_char=54
+13	"	"	PUNCT	''	_	5	punct	_	start_char=54|end_char=55
+

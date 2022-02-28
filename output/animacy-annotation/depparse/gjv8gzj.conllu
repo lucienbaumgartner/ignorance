@@ -1,0 +1,49 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=8
+4	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=9|end_char=12
+5	gf	gf	NOUN	NN	Number=Sing	6	nsubj	_	start_char=13|end_char=15
+6	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=16|end_char=19
+7	?	?	PUNCT	.	_	3	punct	_	start_char=19|end_char=20
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=21|end_char=23
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=27
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=28|end_char=29
+4	responsibility	responsibility	NOUN	NN	Number=Sing	2	obj	_	start_char=30|end_char=44
+5	just	just	ADV	RB	_	8	advmod	_	start_char=45|end_char=49
+6	as	as	SCONJ	IN	_	8	mark	_	start_char=50|end_char=52
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=53|end_char=56
+8	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=57|end_char=61
+9	.	.	PUNCT	.	_	2	punct	_	start_char=61|end_char=62
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=63|end_char=66
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=67|end_char=70
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=71|end_char=78
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=79|end_char=82
+5	careless	careless	ADJ	JJ	Degree=Pos	3	conj	_	start_char=83|end_char=91
+6	,	,	PUNCT	,	_	3	punct	_	start_char=91|end_char=92
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=93|end_char=95
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	start_char=96|end_char=99
+9	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=100|end_char=105
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=106|end_char=107
+11	voyeur	voyeur	NOUN	NN	Number=Sing	3	parataxis	_	start_char=108|end_char=114
+12	,	,	PUNCT	,	_	3	punct	_	start_char=114|end_char=115
+13	no	no	DET	DT	_	14	det	_	start_char=116|end_char=118
+14	one	one	NOUN	NN	Number=Sing	16	nsubj	_	start_char=119|end_char=122
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=123|end_char=125
+16	innocent	innocent	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=126|end_char=134
+17	here	here	ADV	RB	PronType=Dem	16	advmod	_	start_char=135|end_char=139
+18	.	.	PUNCT	.	_	3	punct	_	start_char=139|end_char=140
+
+1	But	but	CCONJ	CC	_	10	cc	_	start_char=141|end_char=144
+2	yes	yes	INTJ	UH	_	10	discourse	_	start_char=145|end_char=148
+3	,	,	PUNCT	,	_	10	punct	_	start_char=148|end_char=149
+4	in	in	ADP	IN	_	6	case	_	start_char=149|end_char=151
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=152|end_char=154
+6	opinion	opinion	NOUN	NN	Number=Sing	10	obl	_	start_char=155|end_char=162
+7	,	,	PUNCT	,	_	6	punct	_	start_char=162|end_char=163
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=164|end_char=166
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=167|end_char=170
+10	AH	ah	INTJ	UH	_	0	root	_	start_char=171|end_char=173
+11	!	!	PUNCT	.	_	10	punct	_	start_char=173|end_char=174
+

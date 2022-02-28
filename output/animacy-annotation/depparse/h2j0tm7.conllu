@@ -1,0 +1,37 @@
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	not	not	PART	RB	_	4	advmod	_	start_char=7|end_char=10
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=15
+5	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=16|end_char=19
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=20|end_char=23
+7	law	law	NOUN	NN	Number=Sing	8	nsubj	_	start_char=24|end_char=27
+8	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=28|end_char=33
+9	?	?	PUNCT	.	_	4	punct	_	start_char=33|end_char=34
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=35|end_char=36
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=36|end_char=38
+3	genuinely	genuinely	ADV	RB	_	4	advmod	_	start_char=39|end_char=48
+4	shocked	shocked	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=56
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=57|end_char=60
+6	horrified	horrify	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=61|end_char=70
+7	there	there	PRON	EX	_	8	expl	_	start_char=71|end_char=76
+8	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=77|end_char=80
+9	actually	actually	ADV	RB	_	8	advmod	_	start_char=81|end_char=89
+10	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=90|end_char=96
+11	out	out	ADV	RB	_	12	advmod	_	start_char=97|end_char=100
+12	there	there	ADV	RB	PronType=Dem	10	advmod	_	start_char=101|end_char=106
+13	so	so	ADV	RB	_	14	advmod	_	start_char=107|end_char=109
+14	uninformed	uninformed	ADJ	JJ	Degree=Pos	10	amod	_	start_char=110|end_char=120
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=121|end_char=124
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=125|end_char=133
+17	that	that	SCONJ	IN	_	20	mark	_	start_char=134|end_char=138
+18	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=139|end_char=143
+19	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=143|end_char=146
+20	capable	capable	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=147|end_char=154
+21	of	of	SCONJ	IN	_	22	mark	_	start_char=155|end_char=157
+22	saying	say	VERB	VBG	VerbForm=Ger	20	advcl	_	start_char=158|end_char=164
+23	something	something	PRON	NN	Number=Sing	22	obj	_	start_char=165|end_char=174
+24	like	like	ADP	IN	_	25	case	_	start_char=175|end_char=179
+25	this	this	PRON	DT	Number=Sing|PronType=Dem	23	nmod	_	start_char=180|end_char=184
+26	.	.	PUNCT	.	_	4	punct	_	start_char=184|end_char=185
+

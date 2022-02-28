@@ -1,0 +1,42 @@
+1	Boo	Boo	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	hoo	hoo	INTJ	UH	_	7	discourse	_	start_char=4|end_char=7
+3	hoo	hoo	INTJ	UH	_	7	discourse	_	start_char=8|end_char=11
+4	because	because	SCONJ	IN	_	7	mark	_	start_char=12|end_char=19
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=20|end_char=23
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=23|end_char=26
+7	having	have	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=27|end_char=33
+8	sex	sex	NOUN	NN	Number=Sing	7	obj	_	start_char=34|end_char=37
+9	while	while	SCONJ	IN	_	12	mark	_	start_char=38|end_char=43
+10	being	be	AUX	VBG	VerbForm=Ger	12	cop	_	start_char=44|end_char=49
+11	so	so	ADV	RB	_	12	advmod	_	start_char=50|end_char=52
+12	stupid	stupid	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=53|end_char=59
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=60|end_char=63
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=64|end_char=72
+15	that	that	SCONJ	IN	_	17	mark	_	start_char=73|end_char=77
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=78|end_char=81
+17	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=82|end_char=87
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=88|end_char=91
+19	can	can	AUX	MD	VerbForm=Fin	20	aux	_	start_char=92|end_char=95
+20	escape	escape	VERB	VB	VerbForm=Inf	17	ccomp	_	start_char=96|end_char=102
+21	nature	nature	NOUN	NN	Number=Sing	20	obj	_	start_char=103|end_char=109
+22	.	.	PUNCT	.	_	7	punct	_	start_char=109|end_char=110
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	compound	_	start_char=111|end_char=114
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=115|end_char=121
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=122|end_char=125
+4	hilariously	hilariously	ADV	RB	_	5	advmod	_	start_char=126|end_char=137
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=144
+6	.	.	PUNCT	.	_	5	punct	_	start_char=144|end_char=145
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=146|end_char=148
+2	n't	not	PART	RB	_	3	advmod	_	start_char=148|end_char=151
+3	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=152|end_char=156
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=157|end_char=159
+5	abortion	abortion	NOUN	NN	Number=Sing	3	obj	_	start_char=160|end_char=168
+6	or	or	CCONJ	CC	_	10	cc	_	start_char=169|end_char=171
+7	kids	kid	NOUN	NNS	Number=Plur	5	conj	_	start_char=172|end_char=176
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=177|end_char=179
+9	n't	not	PART	RB	_	10	advmod	_	start_char=179|end_char=182
+10	fuck	fuck	VERB	VB	VerbForm=Inf	3	conj	_	start_char=183|end_char=187
+11	.	.	PUNCT	.	_	3	punct	_	start_char=187|end_char=188
+

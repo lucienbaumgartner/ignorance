@@ -1,0 +1,12 @@
+1	enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=6|end_char=9
+3	ED	ED	PROPN	NNP	Number=Sing	4	compound	_	start_char=10|end_char=12
+4	kid	kid	NOUN	NN	Number=Sing	1	obj	_	start_char=13|end_char=16
+5	.	.	PUNCT	.	_	1	punct	_	start_char=16|end_char=17
+
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=18|end_char=22
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=23|end_char=28
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=29|end_char=37
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=38|end_char=41
+5	brainwashed	brainwash	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=42|end_char=53
+

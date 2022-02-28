@@ -1,0 +1,63 @@
+1	Komodo	Komodo	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=6
+2	dragons	dragon	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=7|end_char=14
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+4	venom	venom	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=25
+5	in	in	ADP	IN	_	7	case	_	start_char=26|end_char=28
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=29|end_char=34
+7	saliva	saliva	NOUN	NN	Number=Sing	3	obl	_	start_char=35|end_char=41
+8	.	.	PUNCT	.	_	3	punct	_	start_char=41|end_char=42
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=43|end_char=47
+2	helps	help	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=53
+3	kill	kill	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=54|end_char=58
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=59|end_char=64
+5	prey	prey	NOUN	NN	Number=Sing	3	obj	_	start_char=65|end_char=69
+6	faster	fast	ADV	RBR	Degree=Cmp	3	advmod	_	start_char=70|end_char=76
+7	by	by	SCONJ	IN	_	8	mark	_	start_char=77|end_char=79
+8	weakening	weaken	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=80|end_char=89
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	start_char=90|end_char=92
+10	.	.	PUNCT	.	_	2	punct	_	start_char=92|end_char=93
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=94|end_char=98
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=99|end_char=104
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=105|end_char=109
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=110|end_char=113
+5	deer	deer	NOUN	NN	Number=Sing	7	nsubj	_	start_char=114|end_char=118
+6	probably	probably	ADV	RB	_	7	advmod	_	start_char=119|end_char=127
+7	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=128|end_char=133
+8	nauseous	nauseous	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=134|end_char=142
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=143|end_char=146
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=147|end_char=154
+11	of	of	ADP	IN	_	12	case	_	start_char=155|end_char=157
+12	what	what	PRON	WP	PronType=Int	10	obl	_	start_char=158|end_char=162
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=162|end_char=164
+14	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	12	acl:relcl	_	start_char=165|end_char=174
+15	to	to	ADP	IN	_	16	case	_	start_char=175|end_char=177
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obl	_	start_char=178|end_char=180
+17	(	(	PUNCT	-LRB-	_	18	punct	_	start_char=181|end_char=182
+18	combination	combination	NOUN	NN	Number=Sing	14	appos	_	start_char=182|end_char=193
+19	of	of	ADP	IN	_	20	case	_	start_char=194|end_char=196
+20	adrenaline	adrenaline	NOUN	NN	Number=Sing	18	nmod	_	start_char=197|end_char=207
+21	and	and	CCONJ	CC	_	23	cc	_	start_char=208|end_char=211
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=212|end_char=215
+23	venom	venom	NOUN	NN	Number=Sing	20	conj	_	start_char=216|end_char=221
+24	)	)	PUNCT	-RRB-	_	18	punct	_	start_char=221|end_char=222
+25	.	.	PUNCT	.	_	2	punct	_	start_char=222|end_char=223
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=224|end_char=226
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=227|end_char=229
+3	supposedly	supposedly	ADV	RB	_	7	advmod	_	start_char=230|end_char=240
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=241|end_char=242
+5	mildly	mildly	ADV	RB	_	6	advmod	_	start_char=243|end_char=249
+6	painless	painless	ADJ	JJ	Degree=Pos	7	amod	_	start_char=250|end_char=258
+7	death	death	NOUN	NN	Number=Sing	0	root	_	start_char=259|end_char=264
+8	.	.	PUNCT	.	_	7	punct	_	start_char=264|end_char=265
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=268|end_char=274
+2	correct	correct	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=275|end_char=282
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=283|end_char=285
+4	if	if	SCONJ	IN	_	7	mark	_	start_char=286|end_char=288
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=289|end_char=290
+6	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=291|end_char=293
+7	wrong	wrong	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=294|end_char=299
+

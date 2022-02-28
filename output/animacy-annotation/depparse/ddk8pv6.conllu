@@ -1,0 +1,21 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	excerpt	excerpt	NOUN	NN	Number=Sing	18	nsubj	_	start_char=5|end_char=12
+3	from	from	ADP	IN	_	6	case	_	start_char=13|end_char=17
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=18|end_char=21
+5	Podesta	Podesta	PROPN	NNP	Number=Sing	6	compound	_	start_char=22|end_char=29
+6	emails	email	NOUN	NNS	Number=Plur	2	nmod	_	start_char=30|end_char=36
+7	about	about	SCONJ	IN	_	8	mark	_	start_char=37|end_char=42
+8	conspiring	conspire	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=43|end_char=53
+9	to	to	PART	TO	_	10	mark	_	start_char=54|end_char=56
+10	create	create	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=57|end_char=63
+11	an	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=64|end_char=66
+12	"	"	PUNCT	``	_	16	punct	_	start_char=67|end_char=68
+13	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=68|end_char=75
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=76|end_char=79
+15	compliant	compliant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=80|end_char=89
+16	citizenry	citizenry	NOUN	NN	Number=Sing	10	obj	_	start_char=90|end_char=99
+17	"	"	PUNCT	''	_	16	punct	_	start_char=99|end_char=100
+18	freaks	freak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=101|end_char=107
+19	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	obj	_	start_char=108|end_char=110
+20	out	out	ADP	RP	_	18	compound:prt	_	start_char=111|end_char=114
+

@@ -1,0 +1,51 @@
+1	Wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	!	!	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=7|end_char=8
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=8|end_char=11
+3	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=15
+4	access	access	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=22
+5	to	to	ADP	IN	_	6	case	_	start_char=23|end_char=25
+6	guns	gun	NOUN	NNS	Number=Plur	4	nmod	_	start_char=26|end_char=30
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=31|end_char=33
+8	entire	entire	ADJ	JJ	Degree=Pos	10	amod	_	start_char=34|end_char=40
+9	fucking	fucking	NOUN	NN	Number=Sing	10	compound	_	start_char=41|end_char=48
+10	life	life	NOUN	NN	Number=Sing	6	appos	_	start_char=49|end_char=53
+11	,	,	PUNCT	,	_	13	punct	_	start_char=53|end_char=54
+12	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=55|end_char=59
+13	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=60|end_char=68
+14	high	high	ADJ	JJ	Degree=Pos	16	amod	_	start_char=69|end_char=73
+15	capacity	capacity	NOUN	NN	Number=Sing	16	compound	_	start_char=74|end_char=82
+16	magazines	magazine	NOUN	NNS	Number=Plur	13	obj	_	start_char=83|end_char=92
+17	and	and	CCONJ	CC	_	20	cc	_	start_char=93|end_char=96
+18	high	high	ADJ	JJ	Degree=Pos	20	amod	_	start_char=97|end_char=101
+19	powered	power	VERB	VBN	Tense=Past|VerbForm=Part	20	amod	_	start_char=102|end_char=109
+20	rifles	rifle	NOUN	NNS	Number=Plur	16	conj	_	start_char=110|end_char=116
+21	.	.	PUNCT	.	_	3	punct	_	start_char=116|end_char=117
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=118|end_char=119
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=119|end_char=122
+3	had	have	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=123|end_char=126
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=127|end_char=128
+5	FOID	foid	NOUN	NN	Number=Sing	3	obj	_	start_char=129|end_char=133
+6	since	since	SCONJ	IN	_	9	mark	_	start_char=134|end_char=139
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=140|end_char=141
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=142|end_char=145
+9	8	8	NUM	CD	NumType=Card	3	advcl	_	start_char=146|end_char=147
+10	.	.	PUNCT	.	_	3	punct	_	start_char=147|end_char=148
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=149|end_char=153
+2	statement	statement	NOUN	NN	Number=Sing	5	nsubj	_	start_char=154|end_char=163
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=164|end_char=166
+4	utterly	utterly	ADV	RB	_	5	advmod	_	start_char=167|end_char=174
+5	contradictory	contradictory	ADJ	JJ	Degree=Pos	0	root	_	start_char=175|end_char=188
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=189|end_char=192
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=193|end_char=201
+8	of	of	ADP	IN	_	10	case	_	start_char=202|end_char=204
+9	basic	basic	ADJ	JJ	Degree=Pos	10	amod	_	start_char=205|end_char=210
+10	realities	reality	NOUN	NNS	Number=Plur	7	obl	_	start_char=211|end_char=220
+11	in	in	ADP	IN	_	13	case	_	start_char=221|end_char=223
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=224|end_char=228
+13	country	country	NOUN	NN	Number=Sing	10	nmod	_	start_char=229|end_char=236
+14	.	.	PUNCT	.	_	5	punct	_	start_char=236|end_char=237
+

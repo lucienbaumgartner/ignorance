@@ -1,0 +1,22 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=7|end_char=10
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=11|end_char=14
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=15|end_char=18
+6	so	so	ADV	RB	_	7	advmod	_	start_char=19|end_char=21
+7	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=22|end_char=29
+8	stupid	stupid	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=30|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=49
+11	that	that	SCONJ	IN	_	20	mark	_	start_char=50|end_char=54
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=55|end_char=58
+13	best	good	ADJ	JJS	Degree=Sup	14	amod	_	start_char=59|end_char=63
+14	response	response	NOUN	NN	Number=Sing	20	nsubj	_	start_char=64|end_char=72
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=73|end_char=76
+16	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=77|end_char=80
+17	think	think	VERB	VB	VerbForm=Inf	14	acl:relcl	_	start_char=81|end_char=86
+18	of	of	ADP	IN	_	17	obl	_	start_char=87|end_char=89
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=90|end_char=92
+20	slur	slur	NOUN	NN	Number=Sing	2	ccomp	_	start_char=93|end_char=97
+21	.	.	PUNCT	.	_	2	punct	_	start_char=97|end_char=98
+

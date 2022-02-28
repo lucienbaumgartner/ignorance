@@ -1,0 +1,73 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	n't	not	PART	RB	_	2	advmod	_	start_char=6|end_char=9
+4	.	.	PUNCT	.	_	2	punct	_	start_char=9|end_char=10
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=11|end_char=14
+2	literally	literally	ADV	RB	_	4	advmod	_	start_char=15|end_char=24
+3	cannot	cannot	AUX	MD	VerbForm=Fin	4	aux	_	start_char=25|end_char=31
+4	speak	speak	VERB	VB	VerbForm=Inf	0	root	_	start_char=32|end_char=37
+5	for	for	ADP	IN	_	6	case	_	start_char=38|end_char=41
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=42|end_char=44
+7	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=46|end_char=47
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=52
+3	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	2	obj	_	start_char=53|end_char=59
+4	better	good	ADJ	JJR	Degree=Cmp	2	xcomp	_	start_char=60|end_char=66
+5	than	than	ADP	IN	_	6	case	_	start_char=67|end_char=71
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=72|end_char=75
+7	.	.	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	Again	again	ADV	RB	_	3	advmod	_	start_char=77|end_char=82
+2	,	,	PUNCT	,	_	3	punct	_	start_char=82|end_char=83
+3	try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=84|end_char=87
+4	searching	search	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=88|end_char=97
+5	demisexuality	demisexuality	NOUN	NN	Number=Sing	4	obj	_	start_char=98|end_char=111
+6	.	.	PUNCT	.	_	3	punct	_	start_char=111|end_char=112
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=113|end_char=114
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=115|end_char=117
+3	n't	not	PART	RB	_	4	advmod	_	start_char=117|end_char=120
+4	feel	feel	VERB	VB	VerbForm=Inf	0	root	_	start_char=121|end_char=125
+5	sexually	sexually	ADV	RB	_	6	advmod	_	start_char=126|end_char=134
+6	attracted	attract	VERB	VBN	Tense=Past|VerbForm=Part	4	xcomp	_	start_char=135|end_char=144
+7	to	to	ADP	IN	_	8	case	_	start_char=145|end_char=147
+8	anyone	anyone	PRON	NN	Number=Sing	6	obl	_	start_char=148|end_char=154
+9	unless	unless	SCONJ	IN	_	11	mark	_	start_char=155|end_char=161
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=162|end_char=163
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=164|end_char=168
+12	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=169|end_char=170
+13	strong	strong	ADJ	JJ	Degree=Pos	15	amod	_	start_char=171|end_char=177
+14	emotional	emotional	ADJ	JJ	Degree=Pos	15	amod	_	start_char=178|end_char=187
+15	connection	connection	NOUN	NN	Number=Sing	11	obj	_	start_char=188|end_char=198
+16	.	.	PUNCT	.	_	4	punct	_	start_char=198|end_char=199
+
+1	Also	also	ADV	RB	_	5	advmod	_	start_char=200|end_char=204
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=205|end_char=209
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=209|end_char=211
+4	not	not	PART	RB	_	5	advmod	_	start_char=212|end_char=215
+5	what	what	PRON	WP	PronType=Int	0	root	_	start_char=216|end_char=220
+6	asexually	asexually	ADV	RB	_	8	advmod	_	start_char=221|end_char=230
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=231|end_char=233
+8	lmao	lmao	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=234|end_char=238
+9	.	.	PUNCT	.	_	5	punct	_	start_char=238|end_char=239
+
+1	Libido	libido	NOUN	NN	Number=Sing	5	nsubj	_	start_char=240|end_char=246
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=247|end_char=249
+3	n't	not	PART	RB	_	5	advmod	_	start_char=249|end_char=252
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=253|end_char=256
+5	same	same	ADJ	JJ	Degree=Pos	0	root	_	start_char=257|end_char=261
+6	as	as	ADP	IN	_	7	case	_	start_char=262|end_char=264
+7	attraction	attraction	NOUN	NN	Number=Sing	5	obl	_	start_char=265|end_char=275
+8	.	.	PUNCT	.	_	5	punct	_	start_char=275|end_char=276
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=277|end_char=280
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=280|end_char=283
+3	so	so	ADV	RB	_	4	advmod	_	start_char=284|end_char=286
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=287|end_char=295
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=296|end_char=299
+6	closed	close	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=300|end_char=306
+7	-minded	-minded	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=306|end_char=313
+8	.	.	PUNCT	.	_	4	punct	_	start_char=313|end_char=314
+

@@ -1,0 +1,36 @@
+1	Nah	nah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	bro	bro	INTJ	UH	_	7	discourse	_	start_char=4|end_char=7
+3	,	,	PUNCT	,	_	7	punct	_	start_char=7|end_char=8
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=9|end_char=12
+5	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=12|end_char=15
+6	just	just	ADV	RB	_	7	advmod	_	start_char=16|end_char=20
+7	creating	create	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=21|end_char=29
+8	absolutely	absolutely	ADV	RB	Degree=Pos	9	advmod	_	start_char=30|end_char=40
+9	insane	insane	ADJ	JJ	Degree=Pos	10	amod	_	start_char=41|end_char=47
+10	stereotypes	stereotype	NOUN	NNS	Number=Plur	7	obj	_	start_char=48|end_char=59
+11	in	in	ADP	IN	_	14	mark	_	start_char=60|end_char=62
+12	order	order	NOUN	NN	Number=Sing	11	fixed	_	start_char=63|end_char=68
+13	to	to	PART	TO	_	14	mark	_	start_char=69|end_char=71
+14	justify	justify	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=72|end_char=79
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=80|end_char=84
+16	vile	vile	ADJ	JJ	Degree=Pos	17	amod	_	start_char=85|end_char=89
+17	hatred	hatred	NOUN	NN	Number=Sing	14	obj	_	start_char=90|end_char=96
+18	of	of	ADP	IN	_	19	case	_	start_char=97|end_char=99
+19	people	people	NOUN	NNS	Number=Plur	17	nmod	_	start_char=100|end_char=106
+20	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	start_char=107|end_char=110
+21	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24	aux	_	start_char=110|end_char=113
+22	never	never	ADV	RB	Polarity=Neg	24	advmod	_	start_char=114|end_char=119
+23	even	even	ADV	RB	_	24	advmod	_	start_char=120|end_char=124
+24	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	19	acl:relcl	_	start_char=125|end_char=128
+25	.	.	PUNCT	.	_	7	punct	_	start_char=128|end_char=129
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=130|end_char=134
+2	subreddit	subreddit	NOUN	NN	Number=Sing	6	nsubj	_	start_char=135|end_char=144
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=145|end_char=147
+4	for	for	ADP	IN	_	6	case	_	start_char=148|end_char=151
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=152|end_char=155
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=156|end_char=164
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=165|end_char=168
+8	racist	racist	ADJ	JJ	Degree=Pos	6	conj	_	start_char=169|end_char=175
+9	.	.	PUNCT	.	_	6	punct	_	start_char=175|end_char=176
+

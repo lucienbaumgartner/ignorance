@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	Florida	Florida	PROPN	NNP	Number=Sing	0	root	_	start_char=5|end_char=12
+4	,	,	PUNCT	,	_	3	punct	_	start_char=12|end_char=13
+5	which	which	PRON	WDT	PronType=Rel	7	nsubj	_	start_char=14|end_char=19
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=20|end_char=23
+7	made	make	VERB	VBN	Tense=Past|VerbForm=Part	3	acl:relcl	_	start_char=24|end_char=28
+8	policy	policy	NOUN	NN	Number=Sing	7	obj	_	start_char=29|end_char=35
+9	of	of	SCONJ	IN	_	11	mark	_	start_char=36|end_char=38
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=39|end_char=44
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	acl	_	start_char=45|end_char=53
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=54|end_char=57
+13	arrogant	arrogant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=58|end_char=66
+14	.	.	PUNCT	.	_	3	punct	_	start_char=66|end_char=67
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=68|end_char=71
+2	decision	decision	NOUN	NN	Number=Sing	13	nsubj:pass	_	start_char=72|end_char=80
+3	to	to	PART	TO	_	4	mark	_	start_char=81|end_char=83
+4	administer	administer	VERB	VB	VerbForm=Inf	2	acl	_	start_char=84|end_char=94
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=95|end_char=98
+6	ineffective	ineffective	ADJ	JJ	Degree=Pos	8	amod	_	start_char=99|end_char=110
+7	antibody	antibody	NOUN	NN	Number=Sing	8	compound	_	start_char=111|end_char=119
+8	treatment	treatment	NOUN	NN	Number=Sing	4	obj	_	start_char=120|end_char=129
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=130|end_char=132
+10	probably	probably	ADV	RB	_	13	advmod	_	start_char=133|end_char=141
+11	not	not	PART	RB	_	13	advmod	_	start_char=142|end_char=145
+12	being	be	AUX	VBG	VerbForm=Ger	13	aux:pass	_	start_char=146|end_char=151
+13	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=152|end_char=156
+14	on	on	ADP	IN	_	16	case	_	start_char=157|end_char=159
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=160|end_char=163
+16	ground	ground	NOUN	NN	Number=Sing	13	obl	_	start_char=164|end_char=170
+17	.	.	PUNCT	.	_	13	punct	_	start_char=170|end_char=171
+

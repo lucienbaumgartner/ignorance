@@ -1,0 +1,23 @@
+1	Seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	to	to	PART	TO	_	4	mark	_	start_char=6|end_char=8
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=9|end_char=11
+4	unaware	unaware	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=12|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	unable	unable	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=30
+7	to	to	PART	TO	_	8	mark	_	start_char=31|end_char=33
+8	find	find	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=34|end_char=38
+9	things	thing	NOUN	NNS	Number=Plur	8	obj	_	start_char=39|end_char=45
+10	.	.	PUNCT	.	_	1	punct	_	start_char=45|end_char=46
+
+1	Ca	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=47|end_char=49
+2	n't	not	PART	RB	_	3	advmod	_	start_char=49|end_char=52
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=53|end_char=56
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=57|end_char=61
+5	lasting	last	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=62|end_char=69
+6	much	much	ADV	RB	_	7	advmod	_	start_char=70|end_char=74
+7	longer	long	ADV	RBR	Degree=Cmp	5	advmod	_	start_char=75|end_char=81
+8	.	.	PUNCT	.	_	3	punct	_	start_char=81|end_char=82
+
+1	Downvote	downvote	INTJ	UH	_	0	root	_	start_char=83|end_char=91
+2	.	.	PUNCT	.	_	1	punct	_	start_char=91|end_char=92
+

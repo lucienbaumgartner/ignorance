@@ -1,0 +1,37 @@
+1	like	like	SCONJ	IN	_	3	mark	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	advcl	_	start_char=7|end_char=11
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=12|end_char=15
+5	way	way	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=19
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=20|end_char=24
+7	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=25|end_char=29
+8	politics	politics	NOUN	NNS	Number=Plur	7	obj	_	start_char=30|end_char=38
+9	to	to	PART	TO	_	10	mark	_	start_char=39|end_char=41
+10	make	make	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=42|end_char=46
+11	more	more	ADJ	JJR	Degree=Cmp	13	amod	_	start_char=47|end_char=51
+12	money	money	NOUN	NN	Number=Sing	13	compound	_	start_char=52|end_char=57
+13	shows	show	NOUN	NNS	Number=Plur	10	obj	_	start_char=58|end_char=63
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=64|end_char=68
+15	aint	aint	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=69|end_char=73
+16	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=80
+
+1	just	just	ADV	RB	_	3	advmod	_	start_char=83|end_char=87
+2	how	how	SCONJ	WRB	PronType=Int	3	mark	_	start_char=88|end_char=91
+3	uncaring	uncaring	ADJ	JJ	Degree=Pos	0	root	_	start_char=92|end_char=100
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=101|end_char=104
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=105|end_char=113
+6	of	of	ADP	IN	_	8	case	_	start_char=114|end_char=116
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=117|end_char=120
+8	troubles	trouble	NOUN	NNS	Number=Plur	3	obl	_	start_char=121|end_char=129
+9	for	for	ADP	IN	_	10	case	_	start_char=130|end_char=133
+10	people	people	NOUN	NNS	Number=Plur	8	nmod	_	start_char=134|end_char=140
+11	below	below	ADP	IN	_	13	case	_	start_char=141|end_char=146
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=147|end_char=152
+13	standing	standing	NOUN	NN	Number=Sing	10	nmod	_	start_char=153|end_char=161
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=162|end_char=166
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=167|end_char=170
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=173|end_char=174
+2	true	true	ADJ	JJ	Degree=Pos	3	amod	_	start_char=175|end_char=179
+3	plutocracy	plutocracy	NOUN	NN	Number=Sing	0	root	_	start_char=180|end_char=190
+

@@ -1,0 +1,34 @@
+1	probably	probably	ADV	RB	_	4	advmod	_	start_char=0|end_char=8
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=9|end_char=10
+3	safe	safe	ADJ	JJ	Degree=Pos	4	amod	_	start_char=11|end_char=15
+4	bet	bet	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=19
+5	.	.	PUNCT	.	_	4	punct	_	start_char=19|end_char=20
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=22|end_char=23
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advmod	_	start_char=24|end_char=28
+3	theres	there	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=29|end_char=35
+4	something	something	NOUN	NN	Number=Sing	3	obj	_	start_char=36|end_char=45
+5	deeply	deeply	ADV	RB	_	6	advmod	_	start_char=46|end_char=52
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	amod	_	start_char=53|end_char=61
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=62|end_char=65
+8	offensive	offensive	ADJ	JJ	Degree=Pos	6	conj	_	start_char=66|end_char=75
+9	about	about	ADP	IN	_	10	case	_	start_char=76|end_char=81
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=82|end_char=84
+11	,	,	PUNCT	,	_	19	punct	_	start_char=84|end_char=85
+12	but	but	CCONJ	CC	_	19	cc	_	start_char=86|end_char=89
+13	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=90|end_char=93
+14	so	so	ADV	RB	_	15	advmod	_	start_char=94|end_char=96
+15	bonkers	bonker	NOUN	NNS	Number=Plur	19	obl:tmod	_	start_char=97|end_char=104
+16	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=105|end_char=106
+17	cant	cant	AUX	MD	VerbForm=Fin	19	aux	_	start_char=107|end_char=111
+18	exactly	exactly	ADV	RB	_	19	advmod	_	start_char=112|end_char=119
+19	pinpoint	pinpoint	VERB	VB	VerbForm=Inf	3	conj	_	start_char=120|end_char=128
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	_	start_char=129|end_char=131
+21	.	.	PUNCT	.	_	3	punct	_	start_char=131|end_char=132
+
+1	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=133|end_char=136
+2	all	all	ADV	RB	_	5	advmod	_	start_char=137|end_char=140
+3	over	over	ADP	IN	_	5	case	_	start_char=141|end_char=145
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=146|end_char=149
+5	place	place	NOUN	NN	Number=Sing	0	root	_	start_char=150|end_char=155
+

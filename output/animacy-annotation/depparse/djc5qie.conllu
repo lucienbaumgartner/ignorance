@@ -1,0 +1,41 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=12
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=13|end_char=15
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=16|end_char=18
+6	.	.	PUNCT	.	_	3	punct	_	start_char=18|end_char=19
+
+1	However	however	ADV	RB	_	8	advmod	_	start_char=23|end_char=30
+2	,	,	PUNCT	,	_	8	punct	_	start_char=30|end_char=31
+3	unfortunately	unfortunately	ADV	RB	_	8	advmod	_	start_char=32|end_char=45
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=46|end_char=49
+5	left	left	NOUN	NN	Number=Sing	8	nsubj:pass	_	start_char=50|end_char=54
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=55|end_char=59
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	aux:pass	_	start_char=60|end_char=64
+8	conned	con	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=65|end_char=71
+9	into	into	SCONJ	IN	_	17	mark	_	start_char=72|end_char=76
+10	being	be	AUX	VBG	VerbForm=Ger	17	cop	_	start_char=77|end_char=82
+11	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=83|end_char=85
+12	'	'	PUNCT	``	_	13	punct	_	start_char=86|end_char=87
+13	unaware	unaware	ADJ	JJ	Degree=Pos	17	amod	_	start_char=87|end_char=94
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=95|end_char=98
+15	compliant	compliant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=99|end_char=108
+16	'	'	PUNCT	''	_	13	punct	_	start_char=108|end_char=109
+17	citizenry	citizenry	NOUN	NN	Number=Sing	8	advcl	_	start_char=110|end_char=119
+18	.	.	PUNCT	.	_	8	punct	_	start_char=119|end_char=120
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=121|end_char=124
+2	weak	weak	ADJ	JJ	Degree=Pos	4	amod	_	start_char=125|end_char=129
+3	-	-	PUNCT	HYPH	_	4	punct	_	start_char=129|end_char=130
+4	minded	minded	ADJ	JJ	Degree=Pos	5	amod	_	start_char=130|end_char=136
+5	left	left	NOUN	NN	Number=Sing	8	nsubj:pass	_	start_char=137|end_char=141
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=142|end_char=146
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	aux:pass	_	start_char=147|end_char=151
+8	brainwashed	brainwash	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=152|end_char=163
+9	into	into	SCONJ	IN	_	10	mark	_	start_char=164|end_char=168
+10	siding	side	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=169|end_char=175
+11	with	with	ADP	IN	_	13	case	_	start_char=176|end_char=180
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=181|end_char=184
+13	establishment	establishment	NOUN	NN	Number=Sing	10	obl	_	start_char=185|end_char=198
+14	.	.	PUNCT	.	_	8	punct	_	start_char=198|end_char=199
+

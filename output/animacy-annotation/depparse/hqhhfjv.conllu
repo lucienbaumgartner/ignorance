@@ -1,0 +1,38 @@
+1	Bro	bro	INTJ	UH	_	5	discourse	_	start_char=0|end_char=3
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=4|end_char=6
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=7|end_char=9
+4	not	not	PART	RB	_	5	advmod	_	start_char=10|end_char=13
+5	live	live	VERB	VB	VerbForm=Inf	0	root	_	start_char=14|end_char=18
+6	in	in	ADP	IN	_	8	case	_	start_char=19|end_char=21
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=22|end_char=23
+8	time	time	NOUN	NN	Number=Sing	5	obl	_	start_char=24|end_char=28
+9	of	of	ADP	IN	_	12	case	_	start_char=29|end_char=31
+10	racial	racial	ADJ	JJ	Degree=Pos	11	amod	_	start_char=32|end_char=38
+11	nationalism	nationalism	NOUN	NN	Number=Sing	12	compound	_	start_char=39|end_char=50
+12	lmao	lmao	NOUN	NN	Number=Sing	8	nmod	_	start_char=51|end_char=55
+13	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=57|end_char=61
+2	at	at	ADP	IN	_	3	case	_	start_char=62|end_char=64
+3	nazis	nazi	NOUN	NNS	Number=Plur	1	obl	_	start_char=65|end_char=70
+4	if	if	SCONJ	IN	_	7	mark	_	start_char=71|end_char=73
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=74|end_char=77
+6	wanna	wanna	AUX	MD	VerbForm=Fin	7	aux	_	start_char=78|end_char=83
+7	see	see	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=84|end_char=87
+8	one	one	NUM	CD	NumType=Card	10	nummod	_	start_char=88|end_char=91
+9	racial	racial	ADJ	JJ	Degree=Pos	10	amod	_	start_char=92|end_char=98
+10	nationalism	nationalism	NOUN	NN	Number=Sing	7	obj	_	start_char=99|end_char=110
+11	.	.	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+
+1	Comparing	Comparing	VERB	VBG	VerbForm=Ger	8	csubj	_	start_char=112|end_char=121
+2	black	black	ADJ	JJ	Degree=Pos	3	amod	_	start_char=122|end_char=127
+3	peoples	people	NOUN	NNS	Number=Plur	4	compound	_	start_char=128|end_char=135
+4	identities	identity	NOUN	NNS	Number=Plur	1	obj	_	start_char=136|end_char=146
+5	to	to	ADP	IN	_	6	case	_	start_char=147|end_char=149
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nmod	_	start_char=150|end_char=154
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=155|end_char=157
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=158|end_char=166
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=167|end_char=170
+10	offensive	offensive	ADJ	JJ	Degree=Pos	8	conj	_	start_char=171|end_char=180
+11	.	.	PUNCT	.	_	8	punct	_	start_char=180|end_char=181
+

@@ -1,0 +1,18 @@
+1	Agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	Remember	remember	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=8|end_char=16
+2	,	,	PUNCT	,	_	1	punct	_	start_char=16|end_char=17
+3	Podesta	Podesta	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=18|end_char=25
+4	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	parataxis	_	start_char=26|end_char=32
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=33|end_char=36
+6	masses	mass	NOUN	NNS	Number=Plur	4	obj	_	start_char=37|end_char=43
+7	to	to	PART	TO	_	10	mark	_	start_char=44|end_char=46
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=47|end_char=49
+9	"	"	PUNCT	``	_	10	punct	_	start_char=50|end_char=51
+10	unaware	unaware	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=51|end_char=58
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=59|end_char=62
+12	compliant	compliant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=63|end_char=72
+13	"	"	PUNCT	''	_	10	punct	_	start_char=72|end_char=73
+14	.	.	PUNCT	.	_	1	punct	_	start_char=73|end_char=74
+

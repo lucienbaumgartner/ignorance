@@ -1,0 +1,63 @@
+1	Okay	okay	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+2	just	just	ADV	RB	_	3	advmod	_	start_char=7|end_char=11
+3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=16
+4	to	to	PART	TO	_	5	mark	_	start_char=17|end_char=19
+5	say	say	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=20|end_char=23
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=24|end_char=28
+7	because	because	SCONJ	IN	_	10	mark	_	start_char=29|end_char=36
+8	no	no	DET	DT	_	9	det	_	start_char=37|end_char=39
+9	one	one	NOUN	NN	Number=Sing	10	nsubj	_	start_char=40|end_char=43
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=44|end_char=46
+11	.	.	PUNCT	.	_	3	punct	_	start_char=46|end_char=47
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=48|end_char=50
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=50|end_char=52
+3	because	because	SCONJ	IN	_	10	mark	_	start_char=53|end_char=60
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=61|end_char=63
+5	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=63|end_char=66
+6	(	(	PUNCT	-LRB-	_	8	punct	_	start_char=67|end_char=68
+7	in	in	ADP	IN	_	8	case	_	start_char=68|end_char=70
+8	general	general	ADJ	JJ	Degree=Pos	10	obl	_	start_char=71|end_char=78
+9	)	)	PUNCT	-RRB-	_	8	punct	_	start_char=78|end_char=79
+10	uneducated	uneducated	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=80|end_char=90
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=91|end_char=94
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=95|end_char=102
+13	of	of	ADP	IN	_	14	case	_	start_char=103|end_char=105
+14	anyone	anyone	PRON	NN	Number=Sing	12	obl	_	start_char=106|end_char=112
+15	but	but	CCONJ	CC	_	16	case	_	start_char=113|end_char=116
+16	ourselves	ourselves	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	14	conj	_	start_char=117|end_char=126
+17	.	.	PUNCT	.	_	2	punct	_	start_char=126|end_char=127
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=128|end_char=129
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=130|end_char=134
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=135|end_char=136
+4	doctorate	doctorate	NOUN	NN	Number=Sing	5	compound	_	start_char=137|end_char=146
+5	degree	degree	NOUN	NN	Number=Sing	2	obj	_	start_char=147|end_char=153
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=154|end_char=157
+7	even	even	ADV	RB	_	10	advmod	_	start_char=158|end_char=162
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=163|end_char=164
+9	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=164|end_char=166
+10	guilty	guilty	ADJ	JJ	Degree=Pos	2	conj	_	start_char=167|end_char=173
+11	of	of	SCONJ	IN	_	13	mark	_	start_char=174|end_char=176
+12	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=177|end_char=182
+13	obtuse	obtuse	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=183|end_char=189
+14	about	about	ADP	IN	_	16	case	_	start_char=190|end_char=195
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=196|end_char=199
+16	rest	rest	NOUN	NN	Number=Sing	13	obl	_	start_char=200|end_char=204
+17	of	of	ADP	IN	_	19	case	_	start_char=205|end_char=207
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=208|end_char=211
+19	world	world	NOUN	NN	Number=Sing	16	nmod	_	start_char=212|end_char=217
+20	.	.	PUNCT	.	_	2	punct	_	start_char=217|end_char=218
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=219|end_char=221
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=221|end_char=223
+3	just	just	ADV	RB	_	5	advmod	_	start_char=224|end_char=228
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=229|end_char=232
+5	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=233|end_char=236
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=237|end_char=239
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=240|end_char=242
+8	here	here	ADV	RB	PronType=Dem	5	acl:relcl	_	start_char=243|end_char=247
+9	.	.	PUNCT	.	_	5	punct	_	start_char=247|end_char=248
+

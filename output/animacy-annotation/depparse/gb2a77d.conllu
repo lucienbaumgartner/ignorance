@@ -1,0 +1,34 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=0|end_char=3
+2	"	"	PUNCT	``	_	4	punct	_	start_char=4|end_char=5
+3	3	3	NUM	CD	NumType=Card	4	nummod	_	start_char=5|end_char=6
+4	November	November	PROPN	NNP	Number=Sing	7	compound	_	start_char=7|end_char=15
+5	2020	2020	NUM	CD	NumType=Card	4	nummod	_	start_char=16|end_char=20
+6	"	"	PUNCT	''	_	4	punct	_	start_char=20|end_char=21
+7	style	style	NOUN	NN	Number=Sing	8	nsubj	_	start_char=22|end_char=27
+8	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=28|end_char=32
+9	to	to	PART	TO	_	10	mark	_	start_char=33|end_char=35
+10	confuse	confuse	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=36|end_char=43
+11	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	start_char=44|end_char=46
+12	so	so	ADV	RB	_	13	advmod	_	start_char=47|end_char=49
+13	much	much	ADV	RB	_	10	advmod	_	start_char=50|end_char=54
+14	when	when	SCONJ	WRB	PronType=Int	17	mark	_	start_char=55|end_char=59
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=60|end_char=61
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=62|end_char=65
+17	younger	young	ADJ	JJR	Degree=Cmp	10	advcl	_	start_char=66|end_char=73
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=74|end_char=77
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	conj	_	start_char=78|end_char=85
+20	of	of	ADP	IN	_	22	case	_	start_char=86|end_char=88
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=89|end_char=92
+22	rules	rule	NOUN	NNS	Number=Plur	19	obl	_	start_char=93|end_char=98
+23	.	.	PUNCT	.	_	8	punct	_	start_char=98|end_char=99
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=101|end_char=103
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=104|end_char=107
+3	kinda	kinda	ADV	RB	_	4	advmod	_	start_char=108|end_char=113
+4	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=114|end_char=119
+5	reading	read	VERB	VBG	VerbForm=Ger	4	csubj	_	start_char=120|end_char=127
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=128|end_char=130
+7	out	out	ADP	RP	_	5	compound:prt	_	start_char=131|end_char=134
+8	literally	literally	ADV	RB	_	5	advmod	_	start_char=135|end_char=144
+9	.	.	PUNCT	.	_	4	punct	_	start_char=144|end_char=145
+

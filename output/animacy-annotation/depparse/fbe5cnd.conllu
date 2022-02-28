@@ -1,0 +1,22 @@
+1	Robbie	Robbie	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=6
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=9
+3	so	so	ADV	RB	_	4	advmod	_	start_char=10|end_char=12
+4	stunted	stunted	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=33
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=34|end_char=38
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=39|end_char=41
+9	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=42|end_char=48
+10	living	live	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=49|end_char=55
+11	in	in	ADP	IN	_	14	case	_	start_char=56|end_char=58
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=59|end_char=60
+13	small	small	ADJ	JJ	Degree=Pos	14	amod	_	start_char=61|end_char=66
+14	town	town	NOUN	NN	Number=Sing	10	obl	_	start_char=67|end_char=71
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=72|end_char=74
+16	inherently	inherently	ADV	RB	_	17	advmod	_	start_char=75|end_char=85
+17	undesirable	undesirable	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=86|end_char=97
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=99|end_char=102
+19	blocks	block	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	start_char=103|end_char=109
+20	creativity	creativity	NOUN	NN	Number=Sing	19	obj	_	start_char=110|end_char=120
+21	.	.	PUNCT	.	_	4	punct	_	start_char=120|end_char=121
+

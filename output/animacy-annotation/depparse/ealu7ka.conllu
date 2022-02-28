@@ -1,0 +1,24 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=47
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=53
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=54|end_char=57
+11	can	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=58|end_char=61
+12	tell	tell	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=62|end_char=66
+13	other	other	ADJ	JJ	Degree=Pos	14	amod	_	start_char=67|end_char=72
+14	people	people	NOUN	NNS	Number=Plur	12	obj	_	start_char=73|end_char=79
+15	what	what	PRON	WP	PronType=Int	16	nsubj	_	start_char=80|end_char=84
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=85|end_char=87
+17	and	and	CCONJ	CC	_	20	cc	_	start_char=88|end_char=91
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=92|end_char=94
+19	n't	not	PART	RB	_	20	advmod	_	start_char=94|end_char=97
+20	offensive	offensive	ADJ	JJ	Degree=Pos	12	conj	_	start_char=98|end_char=107
+21	to	to	ADP	IN	_	22	case	_	start_char=108|end_char=110
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	20	obl	_	start_char=111|end_char=115
+23	lmao	lmao	INTJ	UH	_	1	discourse	_	start_char=116|end_char=120
+

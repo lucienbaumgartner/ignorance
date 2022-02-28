@@ -1,0 +1,49 @@
+1	/	/	PUNCT	,	_	3	punct	_	start_char=0|end_char=1
+2	u/	u/	NOUN	NN	Number=Sing	3	compound	_	start_char=1|end_char=3
+3	neo_tree	neo_tree	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=11
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=13|end_char=16
+2	;	;	PUNCT	:	_	1	punct	_	start_char=16|end_char=17
+
+1	Not	not	PART	RB	_	3	advmod	_	start_char=17|end_char=20
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=21|end_char=23
+3	problem	problem	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=31
+4	if	if	SCONJ	IN	_	7	mark	_	start_char=32|end_char=34
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=35|end_char=38
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=39|end_char=42
+7	fat	fat	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=43|end_char=46
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=47|end_char=50
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=51|end_char=59
+10	of	of	ADP	IN	_	11	case	_	start_char=60|end_char=62
+11	history	history	NOUN	NN	Number=Sing	9	obl	_	start_char=63|end_char=70
+12	.	.	PUNCT	.	_	3	punct	_	start_char=70|end_char=71
+
+1	Rule	rule	NOUN	NN	Number=Sing	0	root	_	start_char=73|end_char=77
+2	1	1	NUM	CD	NumType=Card	1	nummod	_	start_char=78|end_char=79
+3	-	-	PUNCT	,	_	1	punct	_	start_char=80|end_char=81
+4	no	no	DET	DT	_	5	det	_	start_char=82|end_char=84
+5	attacks	attack	NOUN	NNS	Number=Plur	1	appos	_	start_char=85|end_char=92
+6	on	on	ADP	IN	_	8	case	_	start_char=93|end_char=95
+7	fellow	fellow	ADJ	JJ	Degree=Pos	8	amod	_	start_char=96|end_char=102
+8	users	user	NOUN	NNS	Number=Plur	5	nmod	_	start_char=103|end_char=108
+9	.	.	PUNCT	.	_	1	punct	_	start_char=108|end_char=109
+
+1	attack	attack	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=110|end_char=116
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=117|end_char=120
+3	argument	argument	NOUN	NN	Number=Sing	1	obj	_	start_char=121|end_char=129
+4	,	,	PUNCT	,	_	7	punct	_	start_char=129|end_char=130
+5	not	not	ADV	RB	_	7	advmod	_	start_char=131|end_char=134
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=135|end_char=138
+7	user	user	NOUN	NN	Number=Sing	3	conj	_	start_char=139|end_char=143
+8	.	.	PUNCT	.	_	1	punct	_	start_char=143|end_char=144
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=146|end_char=152
+2	edit	edit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=153|end_char=157
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=158|end_char=162
+4	comment	comment	NOUN	NN	Number=Sing	2	obj	_	start_char=163|end_char=170
+5	to	to	PART	TO	_	6	mark	_	start_char=171|end_char=173
+6	comply	comply	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=174|end_char=180
+7	with	with	ADP	IN	_	9	case	_	start_char=181|end_char=185
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=186|end_char=189
+9	rules	rule	NOUN	NNS	Number=Plur	6	obl	_	start_char=190|end_char=195
+

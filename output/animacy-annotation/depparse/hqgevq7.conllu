@@ -1,0 +1,9 @@
+1	dazed	dazed	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	3	punct	_	start_char=5|end_char=6
+3	confused	confused	ADJ	JJ	Degree=Pos	1	conj	_	start_char=7|end_char=15
+4	,	,	PUNCT	,	_	5	punct	_	start_char=15|end_char=16
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=17|end_char=25
+6	,	,	PUNCT	,	_	8	punct	_	start_char=25|end_char=26
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=27|end_char=30
+8	idiotic	idiotic	ADJ	JJ	Degree=Pos	1	conj	_	start_char=31|end_char=38
+

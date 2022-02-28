@@ -1,0 +1,132 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	literally	literally	ADV	RB	_	3	advmod	_	start_char=2|end_char=11
+3	linked	link	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+4	to	to	ADP	IN	_	6	case	_	start_char=19|end_char=21
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=22|end_char=26
+6	post	post	NOUN	NN	Number=Sing	3	obl	_	start_char=27|end_char=31
+7	saying	say	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=32|end_char=38
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=39|end_char=43
+9	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	ccomp	_	start_char=44|end_char=48
+10	from	from	ADP	IN	_	12	case	_	start_char=49|end_char=53
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=54|end_char=57
+12	US	US	PROPN	NNP	Number=Sing	9	obl	_	start_char=58|end_char=60
+13	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	start_char=63|end_char=67
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=67|end_char=69
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=70|end_char=71
+4	screen	screen	NOUN	NN	Number=Sing	5	compound	_	start_char=72|end_char=78
+5	capture	capture	NOUN	NN	Number=Sing	1	nsubj	_	start_char=79|end_char=86
+6	:	:	PUNCT	:	_	5	punct	_	start_char=86|end_char=87
+7	[	[	PUNCT	-LRB-	_	8	punct	_	start_char=89|end_char=90
+8	https://imgur.com/a/spCKkJv](https://imgur.com/a/spCKkJv)	https://imgur.com/a/spckkjv](https://imgur.com/a/spckkjv)	X	ADD	_	1	appos	_	start_char=90|end_char=147
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=150|end_char=153
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=154|end_char=157
+3	now	now	ADV	RB	_	4	advmod	_	start_char=158|end_char=161
+4	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=162|end_char=168
+5	someone	someone	PRON	NN	Number=Sing	7	nsubj	_	start_char=169|end_char=176
+6	else	else	ADJ	JJ	Degree=Pos	5	amod	_	start_char=177|end_char=181
+7	hijacked	hijack	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=182|end_char=190
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=191|end_char=195
+9	account	account	NOUN	NN	Number=Sing	7	obj	_	start_char=196|end_char=203
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=204|end_char=207
+11	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=208|end_char=212
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=213|end_char=217
+13	cartels	cartel	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=218|end_char=225
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=226|end_char=229
+15	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	11	ccomp	_	start_char=230|end_char=237
+16	RPGs	rpj	NOUN	NNS	Number=Plur	15	obj	_	start_char=238|end_char=242
+17	&amp	&amp	PUNCT	,	_	4	punct	_	start_char=243|end_char=247
+18	;	;	PUNCT	,	_	19	punct	_	start_char=247|end_char=248
+19	grenades	grenade	NOUN	NNS	Number=Plur	4	parataxis	_	start_char=249|end_char=257
+20	from	from	ADP	IN	_	22	case	_	start_char=258|end_char=262
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=263|end_char=266
+22	US	US	PROPN	NNP	Number=Sing	19	nmod	_	start_char=267|end_char=269
+23	?	?	PUNCT	.	_	4	punct	_	start_char=269|end_char=270
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=272|end_char=273
+2	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=274|end_char=281
+3	up	up	ADP	RP	_	2	compound:prt	_	start_char=282|end_char=284
+4	RPGs	rpj	NOUN	NNS	Number=Plur	2	obj	_	start_char=285|end_char=289
+5	&amp	&amp	PUNCT	,	_	2	punct	_	start_char=290|end_char=294
+6	;	;	PUNCT	,	_	2	punct	_	start_char=294|end_char=295
+7	grenades	grenade	NOUN	NNS	Number=Plur	2	parataxis	_	start_char=296|end_char=304
+8	because	because	SCONJ	IN	_	13	mark	_	start_char=305|end_char=312
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	start_char=313|end_char=317
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=318|end_char=321
+11	literally	literally	ADV	RB	_	13	advmod	_	start_char=322|end_char=331
+12	getting	get	AUX	VBG	VerbForm=Ger	13	aux:pass	_	start_char=332|end_char=339
+13	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	start_char=340|end_char=344
+14	in	in	ADP	IN	_	15	case	_	start_char=345|end_char=347
+15	Mexico	Mexico	PROPN	NNP	Number=Sing	13	obl	_	start_char=348|end_char=354
+16	:	:	PUNCT	:	_	18	punct	_	start_char=354|end_char=355
+17	[	[	PUNCT	-LRB-	_	18	punct	_	start_char=357|end_char=358
+18	https://www.breitbart.com/border/2018/01/31/mexican-border-state-cops-seize-russian-rpg-traffic-stop/](https://www.breitbart.com/border/2018/01/31/mexican-border-state-cops-seize-russian-rpg-traffic-stop/)	https://www.breitbart.com/border/2018/01/31/mexican-border-state-cops-seize-russian-rpg-traffic-stop/](https://www.breitbart.com/border/2018/01/31/mexican-border-state-cops-seize-russian-rpg-traffic-stop/)	X	ADD	_	2	parataxis	_	start_char=358|end_char=563
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=567|end_char=568
+2	http://world.time.com/2012/10/25/mexicos-drug-lords-ramp-up-their-arsenals-with-rpgs/](http://world.time.com/2012/10/25/mexicos-drug-lords-ramp-up-their-arsenals-with-rpgs/)	http://world.time.com/2012/10/25/mexicos-drug-lords-ramp-up-their-arsenals-with-rpgs/](http://world.time.com/2012/10/25/mexicos-drug-lords-ramp-up-their-arsenals-with-rpgs/)	X	ADD	_	0	root	_	start_char=568|end_char=741
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=745|end_char=746
+2	https://www.thedailybeast.com/mexicos-secret-narco-museum](https://www.thedailybeast.com/mexicos-secret-narco-museum)	https://www.thedailybeast.com/mexicos-secret-narco-museum](https://www.thedailybeast.com/mexicos-secret-narco-museum)	X	ADD	_	0	root	_	start_char=746|end_char=863
+3	[	[	PUNCT	-LRB-	_	4	punct	_	start_char=868|end_char=869
+4	https://www.cnn.com/2012/01/15/world/mexico-drug-war-essay/index.html](https://www.cnn.com/2012/01/15/world/mexico-drug-war-essay/index.html)	https://www.cnn.com/2012/01/15/world/mexico-drug-war-essay/index.html](https://www.cnn.com/2012/01/15/world/mexico-drug-war-essay/index.html)	X	ADD	_	2	list	_	start_char=869|end_char=1010
+
+1	with	with	ADP	IN	_	3	case	_	start_char=1013|end_char=1017
+2	cartel	cartel	NOUN	NN	Number=Sing	3	compound	_	start_char=1018|end_char=1024
+3	gunmen	gunman	NOUN	NNS	Number=Plur	0	root	_	start_char=1025|end_char=1031
+4	using	use	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=1032|end_char=1037
+5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	_	start_char=1038|end_char=1042
+6	to	to	PART	TO	_	7	mark	_	start_char=1043|end_char=1045
+7	shoot	shoot	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=1046|end_char=1051
+8	down	down	ADP	RP	_	7	compound:prt	_	start_char=1052|end_char=1056
+9	helicopters	helicopter	NOUN	NNS	Number=Plur	7	obj	_	start_char=1057|end_char=1068
+10	:	:	PUNCT	:	_	12	punct	_	start_char=1068|end_char=1069
+11	[	[	PUNCT	-LRB-	_	12	punct	_	start_char=1071|end_char=1072
+12	https://www.businessinsider.com/mexico-catch-cjng-jalisco-cartel-gunmen-who-shot-down-army-helicopter-2018-8](https://www.businessinsider.com/mexico-catch-cjng-jalisco-cartel-gunmen-who-shot-down-army-helicopter-2018-8)	https://www.businessinsider.com/mexico-catch-cjng-jalisco-cartel-gunmen-who-shot-down-army-helicopter-2018-8](https://www.businessinsider.com/mexico-catch-cjng-jalisco-cartel-gunmen-who-shot-down-army-helicopter-2018-8)	X	ADD	_	4	dep	_	start_char=1072|end_char=1291
+
+1	Hand	Hand	NOUN	NN	Number=Sing	2	compound	_	start_char=1294|end_char=1298
+2	grenades	grenade	NOUN	NNS	Number=Plur	0	root	_	start_char=1299|end_char=1307
+3	:	:	PUNCT	:	_	2	punct	_	start_char=1307|end_char=1308
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=1311|end_char=1312
+2	https://www.foxnews.com/world/grenade-attack-at-us-consulate-in-mexico-may-have-been-cartel-hit](https://www.foxnews.com/world/grenade-attack-at-us-consulate-in-mexico-may-have-been-cartel-hit)	https://www.foxnews.com/world/grenade-attack-at-us-consulate-in-mexico-may-have-been-cartel-hit](https://www.foxnews.com/world/grenade-attack-at-us-consulate-in-mexico-may-have-been-cartel-hit)	X	ADD	_	0	root	_	start_char=1312|end_char=1505
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=1509|end_char=1510
+2	https://www.nydailynews.com/news/national/hand-grenades-increasingly-mexican-cartels-article-1.1909015](https://www.nydailynews.com/news/national/hand-grenades-increasingly-mexican-cartels-article-1.1909015)	https://www.nydailynews.com/news/national/hand-grenades-increasingly-mexican-cartels-article-1.1909015](https://www.nydailynews.com/news/national/hand-grenades-increasingly-mexican-cartels-article-1.1909015)	X	ADD	_	0	root	_	start_char=1510|end_char=1717
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=1720|end_char=1724
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=1725|end_char=1727
+3	n't	not	PART	RB	_	5	advmod	_	start_char=1727|end_char=1730
+4	'	'	PUNCT	``	_	5	punct	_	start_char=1731|end_char=1732
+5	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=1732|end_char=1737
+6	'	'	PUNCT	''	_	5	punct	_	start_char=1737|end_char=1738
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=1739|end_char=1742
+8	fucking	fuck	VERB	VBG	VerbForm=Ger	5	parataxis	_	start_char=1743|end_char=1750
+9	dunce	dunce	NOUN	NN	Number=Sing	8	obj	_	start_char=1751|end_char=1756
+10	.	.	PUNCT	.	_	5	punct	_	start_char=1756|end_char=1757
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=1759|end_char=1763
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=1764|end_char=1766
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=1767|end_char=1770
+4	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=1771|end_char=1776
+5	so	so	ADV	RB	_	6	advmod	_	start_char=1777|end_char=1779
+6	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=1780|end_char=1790
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=1791|end_char=1794
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=1795|end_char=1803
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=1804|end_char=1808
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=1809|end_char=1812
+11	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=1813|end_char=1815
+12	n't	not	PART	RB	_	13	advmod	_	start_char=1815|end_char=1818
+13	have	have	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=1819|end_char=1823
+14	even	even	ADV	RB	_	18	advmod	_	start_char=1824|end_char=1828
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=1829|end_char=1830
+16	layman	layman	NOUN	NN	Number=Sing	18	nmod:poss	_	start_char=1831|end_char=1837
+17	's	's	PART	POS	_	16	case	_	start_char=1837|end_char=1839
+18	grasp	grasp	NOUN	NN	Number=Sing	13	obj	_	start_char=1840|end_char=1845
+19	of	of	ADP	IN	_	22	case	_	start_char=1846|end_char=1848
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=1849|end_char=1852
+21	subject	subject	NOUN	NN	Number=Sing	22	compound	_	start_char=1853|end_char=1860
+22	matter	matter	NOUN	NN	Number=Sing	18	nmod	_	start_char=1861|end_char=1867
+23	.	.	PUNCT	.	_	6	punct	_	start_char=1867|end_char=1868
+

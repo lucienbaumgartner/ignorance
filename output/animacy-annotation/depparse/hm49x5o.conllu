@@ -1,0 +1,29 @@
+1	Some	some	DET	DT	_	2	det	_	start_char=0|end_char=4
+2	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=5|end_char=11
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=12|end_char=15
+4	also	also	ADV	RB	_	6	advmod	_	start_char=16|end_char=20
+5	so	so	ADV	RB	_	6	advmod	_	start_char=21|end_char=23
+6	poor	poor	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=41
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=42|end_char=46
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=47|end_char=51
+11	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=52|end_char=54
+12	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=54|end_char=57
+13	even	even	ADV	RB	_	14	advmod	_	start_char=58|end_char=62
+14	think	think	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=63|end_char=68
+15	on	on	ADP	IN	_	18	case	_	start_char=69|end_char=71
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=72|end_char=75
+17	same	same	ADJ	JJ	Degree=Pos	18	amod	_	start_char=76|end_char=80
+18	plane	plane	NOUN	NN	Number=Sing	14	obl	_	start_char=81|end_char=86
+19	.	.	PUNCT	.	_	6	punct	_	start_char=86|end_char=87
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=89|end_char=90
+2	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=91|end_char=96
+3	with	with	ADP	IN	_	4	case	_	start_char=97|end_char=101
+4	Afghans	Afghans	PROPN	NNPS	Number=Plur	2	obl	_	start_char=102|end_char=109
+5	for	for	ADP	IN	_	7	case	_	start_char=110|end_char=113
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=114|end_char=115
+7	year	year	NOUN	NN	Number=Sing	2	obl	_	start_char=116|end_char=120
+8	.	.	PUNCT	.	_	2	punct	_	start_char=120|end_char=121
+

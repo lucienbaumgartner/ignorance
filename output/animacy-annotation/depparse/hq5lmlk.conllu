@@ -1,0 +1,29 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Matches	match	NOUN	NNS	Number=Plur	0	root	_	start_char=4|end_char=11
+2	perfectly	perfectly	ADV	RB	_	1	advmod	_	start_char=12|end_char=21
+
+1	Except	except	ADP	IN	_	4	case	_	start_char=23|end_char=29
+2	for	for	ADP	IN	_	4	case	_	start_char=30|end_char=33
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=34|end_char=37
+4	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=38|end_char=42
+5	where	where	SCONJ	WRB	PronType=Int	7	mark	_	start_char=43|end_char=48
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=49|end_char=51
+7	doesnt	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=52|end_char=58
+8	...	...	PUNCT	.	_	4	punct	_	start_char=58|end_char=61
+
+1	*	*	PUNCT	NFP	_	3	punct	_	start_char=62|end_char=63
+2	at	at	ADP	IN	_	3	case	_	start_char=63|end_char=65
+3	all	all	DET	DT	_	0	root	_	start_char=66|end_char=69
+4	*.	*.	PUNCT	NFP	_	3	punct	_	start_char=69|end_char=71
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=72|end_char=75
+2	continuing	continue	VERB	VBG	VerbForm=Ger	3	amod	_	start_char=76|end_char=86
+3	trend	trend	NOUN	NN	Number=Sing	0	root	_	start_char=87|end_char=92
+4	of	of	ADP	IN	_	6	case	_	start_char=93|end_char=95
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=96|end_char=99
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	nmod	_	start_char=100|end_char=108
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=109|end_char=112
+8	arrogant	arrogant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=113|end_char=121
+

@@ -1,0 +1,26 @@
+1	Yes	yes	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4|end_char=6
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=9
+4	and	and	CCONJ	CC	_	7	cc	_	start_char=10|end_char=13
+5	yes	yes	INTJ	UH	_	7	discourse	_	start_char=14|end_char=17
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=18|end_char=20
+7	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=21|end_char=25
+8	.	.	PUNCT	.	_	3	punct	_	start_char=25|end_char=26
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=27|end_char=30
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=31|end_char=36
+3	stupid	stupid	ADJ	JJ	Degree=Pos	11	csubj	_	start_char=37|end_char=43
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=44|end_char=47
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=48|end_char=56
+6	of	of	ADP	IN	_	8	case	_	start_char=57|end_char=59
+7	labor	labor	NOUN	NN	Number=Sing	8	compound	_	start_char=60|end_char=65
+8	laws	law	NOUN	NNS	Number=Plur	5	obl	_	start_char=66|end_char=70
+9	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=71|end_char=75
+10	n't	not	PART	RB	_	11	advmod	_	start_char=75|end_char=78
+11	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=79|end_char=83
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obj	_	start_char=84|end_char=87
+13	right	right	ADJ	JJ	Degree=Pos	15	amod	_	start_char=88|end_char=93
+14	little	little	ADJ	JJ	Degree=Pos	15	amod	_	start_char=94|end_char=100
+15	one	one	NOUN	NN	Number=Sing	11	obj	_	start_char=101|end_char=104
+16	.	.	PUNCT	.	_	11	punct	_	start_char=104|end_char=105
+

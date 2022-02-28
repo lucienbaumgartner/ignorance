@@ -1,0 +1,25 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj:pass	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=3|end_char=6
+3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9
+4	ideologically	ideologically	ADV	RB	Degree=Pos	5	advmod	_	start_char=10|end_char=23
+5	possessed	possess	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=24|end_char=33
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=34|end_char=37
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=38|end_char=46
+8	that	that	SCONJ	IN	_	13	mark	_	start_char=47|end_char=51
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=52|end_char=55
+10	ca	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=56|end_char=58
+11	n't	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=58|end_char=61
+12	even	even	ADV	RB	_	13	advmod	_	start_char=62|end_char=66
+13	tell	tell	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=67|end_char=71
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=72|end_char=75
+15	difference	difference	NOUN	NN	Number=Sing	13	obj	_	start_char=76|end_char=86
+16	between	between	SCONJ	IN	_	17	mark	_	start_char=87|end_char=94
+17	watching	watch	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=95|end_char=103
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=104|end_char=105
+19	video	video	NOUN	NN	Number=Sing	17	obj	_	start_char=106|end_char=111
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=112|end_char=115
+21	reading	read	VERB	VBG	VerbForm=Ger	17	conj	_	start_char=116|end_char=123
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=124|end_char=125
+23	manifesto	manifesto	NOUN	NN	Number=Sing	21	obj	_	start_char=126|end_char=135
+24	.	.	PUNCT	.	_	5	punct	_	start_char=135|end_char=136
+

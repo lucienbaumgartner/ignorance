@@ -1,0 +1,9 @@
+1	cheap	cheap	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=10|end_char=18
+4	of	of	ADP	IN	_	7	case	_	start_char=19|end_char=21
+5	modern	modern	ADJ	JJ	Degree=Pos	7	amod	_	start_char=22|end_char=28
+6	tech	tech	NOUN	NN	Number=Sing	7	compound	_	start_char=29|end_char=33
+7	insecurity	insecurity	NOUN	NN	Number=Sing	1	obl	_	start_char=34|end_char=44
+8	.	.	PUNCT	.	_	1	punct	_	start_char=44|end_char=45
+

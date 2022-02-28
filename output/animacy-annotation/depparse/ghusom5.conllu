@@ -1,0 +1,21 @@
+1	there	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	no	no	DET	DT	_	4	det	_	start_char=9|end_char=11
+4	lie	lie	NOUN	NN	Number=Sing	2	nsubj	_	start_char=12|end_char=15
+5	.	.	PUNCT	.	_	2	punct	_	start_char=15|end_char=16
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=17|end_char=20
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=21|end_char=29
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=30|end_char=34
+4	to	to	PART	TO	_	6	mark	_	start_char=35|end_char=37
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=38|end_char=40
+6	unaware	unaware	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=41|end_char=48
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=49|end_char=52
+8	unconsious	unconsious	ADJ	JJ	Degree=Pos	6	conj	_	start_char=53|end_char=63
+9	otherwise	otherwise	ADV	RB	_	12	advmod	_	start_char=64|end_char=73
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=74|end_char=77
+11	wouldnt	wouldnt	AUX	MD	VerbForm=Fin	12	aux	_	start_char=78|end_char=85
+12	buy	buy	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=86|end_char=89
+13	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=90|end_char=94
+14	shit	shit	NOUN	NN	Number=Sing	12	obj	_	start_char=95|end_char=99
+

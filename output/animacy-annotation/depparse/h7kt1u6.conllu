@@ -1,0 +1,38 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=5
+3	too	too	ADV	RB	_	4	advmod	_	start_char=6|end_char=9
+4	immature	immature	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=23|end_char=31
+7	of	of	ADP	IN	_	9	case	_	start_char=32|end_char=34
+8	modern	modern	ADJ	JJ	Degree=Pos	9	amod	_	start_char=35|end_char=41
+9	requirements	requirement	NOUN	NNS	Number=Plur	6	obl	_	start_char=42|end_char=54
+10	for	for	ADP	IN	_	13	case	_	start_char=55|end_char=58
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=59|end_char=62
+12	true	true	ADJ	JJ	Degree=Pos	13	amod	_	start_char=63|end_char=67
+13	partnership	partnership	NOUN	NN	Number=Sing	9	nmod	_	start_char=68|end_char=79
+14	of	of	ADP	IN	_	15	case	_	start_char=80|end_char=82
+15	marriage	marriage	NOUN	NN	Number=Sing	13	nmod	_	start_char=83|end_char=91
+16	.	.	PUNCT	.	_	4	punct	_	start_char=91|end_char=92
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=95|end_char=97
+2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=98|end_char=103
+3	to	to	PART	TO	_	4	mark	_	start_char=104|end_char=106
+4	reimagine	reimagine	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=107|end_char=116
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=117|end_char=120
+6	future	future	ADJ	JJ	Degree=Pos	7	amod	_	start_char=121|end_char=127
+7	relationship	relationship	NOUN	NN	Number=Sing	4	obj	_	start_char=128|end_char=140
+8	with	with	ADP	IN	_	11	case	_	start_char=141|end_char=145
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=146|end_char=147
+10	modern	modern	ADJ	JJ	Degree=Pos	11	amod	_	start_char=148|end_char=154
+11	partner	partner	NOUN	NN	Number=Sing	4	obl	_	start_char=155|end_char=162
+12	.	.	PUNCT	.	_	2	punct	_	start_char=162|end_char=163
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=164|end_char=166
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=166|end_char=168
+3	not	not	PART	RB	_	4	advmod	_	start_char=169|end_char=172
+4	marrying	marry	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=173|end_char=181
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=182|end_char=185
+6	mother	mother	NOUN	NN	Number=Sing	4	obj	_	start_char=186|end_char=192
+7	.	.	PUNCT	.	_	4	punct	_	start_char=192|end_char=193
+

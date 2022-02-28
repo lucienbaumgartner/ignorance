@@ -1,0 +1,37 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	to	to	PART	TO	_	6	mark	_	start_char=9|end_char=11
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=12|end_char=14
+5	REALLY	really	ADV	RB	_	6	advmod	_	start_char=15|end_char=21
+6	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=22|end_char=29
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=30|end_char=33
+8	stupid	stupid	ADJ	JJ	Degree=Pos	6	conj	_	start_char=34|end_char=40
+9	to	to	PART	TO	_	10	mark	_	start_char=41|end_char=43
+10	have	have	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=44|end_char=48
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=49|end_char=52
+12	audacity	audacity	NOUN	NN	Number=Sing	10	obj	_	start_char=53|end_char=61
+13	to	to	PART	TO	_	14	mark	_	start_char=62|end_char=64
+14	say	say	VERB	VB	VerbForm=Inf	12	acl	_	start_char=65|end_char=68
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	14	obj	_	start_char=69|end_char=73
+16	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+
+1	Hey	hey	INTJ	UH	_	3	discourse	_	start_char=76|end_char=79
+2	,	,	PUNCT	,	_	3	punct	_	start_char=79|end_char=80
+3	TIMs	tim	NOUN	NNS	Number=Plur	0	root	_	start_char=81|end_char=85
+4	!	!	PUNCT	.	_	3	punct	_	start_char=85|end_char=86
+
+1	Try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=87|end_char=90
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=91|end_char=94
+3	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=95|end_char=98
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=99|end_char=103
+5	through	through	ADP	IN	_	10	case	_	start_char=104|end_char=111
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=112|end_char=116
+7	thick	thick	ADJ	JJ	Degree=Pos	10	amod	_	start_char=117|end_char=122
+8	,	,	PUNCT	,	_	10	punct	_	start_char=122|end_char=123
+9	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	10	amod	_	start_char=124|end_char=136
+10	skulls	skull	NOUN	NNS	Number=Plur	3	obl	_	start_char=137|end_char=143
+11	.	.	PUNCT	.	_	1	punct	_	start_char=143|end_char=144
+
+1	Kthx	Kthx	PROPN	NNP	Number=Sing	0	root	_	start_char=145|end_char=149
+2	.	.	PUNCT	.	_	1	punct	_	start_char=149|end_char=150
+

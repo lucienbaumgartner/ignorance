@@ -1,0 +1,34 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=2|end_char=5
+3	n’t	not	PART	RB	_	4	advmod	_	start_char=5|end_char=8
+4	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=13
+5	about	about	ADP	IN	_	7	mark	_	start_char=14|end_char=19
+6	ARK	ARK	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=20|end_char=23
+7	invest	invest	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=24|end_char=30
+8	until	until	ADP	IN	_	10	case	_	start_char=31|end_char=36
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=37|end_char=38
+10	month	month	NOUN	NN	Number=Sing	11	obl:npmod	_	start_char=39|end_char=44
+11	ago	ago	ADV	RB	_	7	advmod	_	start_char=45|end_char=48
+12	and	and	CCONJ	CC	_	16	cc	_	start_char=49|end_char=52
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=53|end_char=54
+14	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	aux:pass	_	start_char=55|end_char=58
+15	pretty	pretty	ADV	RB	_	16	advmod	_	start_char=59|end_char=65
+16	fucked	fuck	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=66|end_char=72
+17	hahaha	hahaha	INTJ	UH	_	16	discourse	_	start_char=73|end_char=79
+18	.	.	PUNCT	.	_	4	punct	_	start_char=79|end_char=80
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=81|end_char=83
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=83|end_char=85
+3	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=86|end_char=90
+4	to	to	PART	TO	_	6	mark	_	start_char=91|end_char=93
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=94|end_char=96
+6	naive	naive	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=97|end_char=102
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=103|end_char=106
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=107|end_char=115
+9	of	of	ADP	IN	_	11	case	_	start_char=116|end_char=118
+10	some	some	DET	DT	_	11	det	_	start_char=119|end_char=123
+11	things	thing	NOUN	NNS	Number=Plur	8	obl	_	start_char=124|end_char=130
+12	in	in	ADP	IN	_	13	case	_	start_char=131|end_char=133
+13	life	life	NOUN	NN	Number=Sing	11	nmod	_	start_char=134|end_char=138
+14	🤣	''	PUNCT	.	_	3	punct	_	start_char=139|end_char=140
+

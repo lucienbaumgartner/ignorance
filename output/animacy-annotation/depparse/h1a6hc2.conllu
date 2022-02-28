@@ -1,0 +1,36 @@
+1	Well	well	INTJ	UH	_	16	discourse	_	start_char=0|end_char=4
+2	on	on	ADP	IN	_	4	case	_	start_char=5|end_char=7
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=8|end_char=12
+4	day	day	NOUN	NN	Number=Sing	16	obl	_	start_char=13|end_char=16
+5	in	in	ADP	IN	_	6	case	_	start_char=17|end_char=19
+6	1960	1960	NUM	CD	NumType=Card	4	nmod	_	start_char=20|end_char=24
+7	both	both	DET	DT	_	16	nsubj	_	start_char=25|end_char=29
+8	of	of	ADP	IN	_	10	case	_	start_char=30|end_char=32
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=33|end_char=35
+10	parents	parent	NOUN	NNS	Number=Plur	7	nmod	_	start_char=36|end_char=43
+11	would	would	AUX	MD	VerbForm=Fin	16	aux	_	start_char=44|end_char=49
+12	have	have	AUX	VB	VerbForm=Inf	16	aux	_	start_char=50|end_char=54
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	16	cop	_	start_char=55|end_char=59
+14	13	13	NUM	CD	NumType=Card	15	nummod	_	start_char=60|end_char=62
+15	years	year	NOUN	NNS	Number=Plur	16	obl:npmod	_	start_char=63|end_char=68
+16	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=69|end_char=72
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=73|end_char=76
+18	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=77|end_char=84
+19	of	of	ADP	IN	_	23	case	_	start_char=85|end_char=87
+20	each	each	DET	DT	_	21	det	_	start_char=88|end_char=92
+21	other	other	ADJ	JJ	Degree=Pos	23	nmod:poss	_	start_char=93|end_char=98
+22	's	's	PART	POS	_	21	case	_	start_char=98|end_char=100
+23	existence	existence	NOUN	NN	Number=Sing	18	obl	_	start_char=101|end_char=110
+24	.	.	PUNCT	.	_	16	punct	_	start_char=110|end_char=111
+
+1	So	so	ADV	RB	_	5	advmod	_	start_char=113|end_char=115
+2	,	,	PUNCT	,	_	5	punct	_	start_char=115|end_char=116
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=117|end_char=118
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=119|end_char=122
+5	busy	busy	ADJ	JJ	Degree=Pos	0	root	_	start_char=123|end_char=127
+6	being	be	AUX	VBG	VerbForm=Ger	8	aux:pass	_	start_char=128|end_char=133
+7	not	not	PART	RB	_	8	advmod	_	start_char=134|end_char=137
+8	conceived	conceive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=138|end_char=147
+9	yet	yet	ADV	RB	_	8	advmod	_	start_char=148|end_char=151
+10	.	.	PUNCT	.	_	5	punct	_	start_char=151|end_char=152
+

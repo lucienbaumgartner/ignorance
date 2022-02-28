@@ -1,0 +1,36 @@
+1	So	so	ADV	RB	_	4	advmod	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=9
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	uninterested	uninterested	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=34
+7	.	.	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+
+1	Definition	Definition	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=46
+2	of	of	ADP	IN	_	3	case	_	start_char=47|end_char=49
+3	ignorance	ignorance	NOUN	NN	Number=Sing	1	nmod	_	start_char=50|end_char=59
+4	,	,	PUNCT	,	_	1	punct	_	start_char=59|end_char=60
+5	yeah	yeah	INTJ	UH	_	1	discourse	_	start_char=61|end_char=65
+6	?	?	PUNCT	.	_	1	punct	_	start_char=65|end_char=66
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=68|end_char=72
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=73|end_char=75
+3	short	short	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=81
+4	,	,	PUNCT	,	_	3	punct	_	start_char=81|end_char=82
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=83|end_char=86
+6	should	should	AUX	MD	VerbForm=Fin	7	aux	_	start_char=87|end_char=93
+7	read	read	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=94|end_char=98
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=99|end_char=101
+9	:	:	PUNCT	:	_	3	punct	_	start_char=101|end_char=102
+
+1	http://www.bbc.co.uk/history/worldwars/wwtwo/truman_01.shtml	http://www.bbc.co.uk/history/worldwars/wwtwo/truman_01.shtml	X	ADD	_	0	root	_	start_char=103|end_char=163
+
+1	tl;dr	tl;dr	NOUN	NN	Number=Sing	0	root	_	start_char=165|end_char=170
+2	?	?	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+
+1	Truman	Truman	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=172|end_char=178
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=179|end_char=182
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=183|end_char=184
+4	dick	dick	NOUN	NN	Number=Sing	0	root	_	start_char=185|end_char=189
+5	.	.	PUNCT	.	_	4	punct	_	start_char=189|end_char=190
+

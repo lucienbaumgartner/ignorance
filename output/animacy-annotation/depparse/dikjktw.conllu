@@ -1,0 +1,19 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	indoctrinated	indoctrinate	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	start_char=4|end_char=17
+3	left	left	NOUN	NN	Number=Sing	10	nsubj	_	start_char=18|end_char=22
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=23|end_char=26
+5	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=27|end_char=30
+6	'	'	PUNCT	``	_	10	punct	_	start_char=31|end_char=32
+7	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=32|end_char=39
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=40|end_char=43
+9	compliant	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=53
+10	citizenry	citizenry	NOUN	NN	Number=Sing	0	root	_	start_char=54|end_char=63
+11	'	'	PUNCT	''	_	10	punct	_	start_char=63|end_char=64
+12	that	that	PRON	WDT	PronType=Rel	15	obj	_	start_char=65|end_char=69
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=70|end_char=73
+14	democrats	Democrat	PROPN	NNPS	Number=Plur	15	nsubj	_	start_char=74|end_char=83
+15	conspired	conspire	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=84|end_char=93
+16	to	to	PART	TO	_	17	mark	_	start_char=94|end_char=96
+17	produce	produce	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=97|end_char=104
+18	.	.	PUNCT	.	_	10	punct	_	start_char=104|end_char=105
+

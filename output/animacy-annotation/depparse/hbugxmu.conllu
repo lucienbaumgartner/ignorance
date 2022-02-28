@@ -1,0 +1,145 @@
+1	Islam	Islam	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=5
+2	promotes	promote	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=14
+3	mindless	mindless	ADJ	JJ	Degree=Pos	4	amod	_	start_char=15|end_char=23
+4	violence	violence	NOUN	NN	Number=Sing	2	obj	_	start_char=24|end_char=32
+5	in	in	ADP	IN	_	7	case	_	start_char=33|end_char=35
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=36|end_char=39
+7	name	name	NOUN	NN	Number=Sing	2	obl	_	start_char=40|end_char=44
+8	of	of	ADP	IN	_	10	case	_	start_char=45|end_char=47
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=48|end_char=53
+10	deity	deity	NOUN	NN	Number=Sing	7	nmod	_	start_char=54|end_char=59
+11	:	:	PUNCT	:	_	2	punct	_	start_char=59|end_char=60
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=61|end_char=64
+13	believers	believer	NOUN	NNS	Number=Plur	19	nsubj:pass	_	start_char=65|end_char=74
+14	of	of	ADP	IN	_	16	case	_	start_char=75|end_char=77
+15	that	that	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=78|end_char=82
+16	faith	faith	NOUN	NN	Number=Sing	13	nmod	_	start_char=83|end_char=88
+17	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=89|end_char=93
+18	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	aux:pass	_	start_char=94|end_char=98
+19	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	start_char=99|end_char=103
+20	uneducated	uneducated	ADJ	JJ	Degree=Pos	19	xcomp	_	start_char=104|end_char=114
+21	,	,	PUNCT	,	_	22	punct	_	start_char=114|end_char=115
+22	uninformed	uninformed	ADJ	JJ	Degree=Pos	20	conj	_	start_char=116|end_char=126
+23	,	,	PUNCT	,	_	25	punct	_	start_char=126|end_char=127
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=128|end_char=131
+25	ignorant	ignorant	ADJ	JJ	Degree=Pos	19	conj	_	start_char=132|end_char=140
+26	of	of	SCONJ	IN	_	27	case	_	start_char=141|end_char=143
+27	what	what	PRON	WP	PronType=Int	25	obl	_	start_char=144|end_char=148
+28	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	start_char=149|end_char=151
+29	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	start_char=152|end_char=157
+30	to	to	PART	TO	_	32	mark	_	start_char=158|end_char=160
+31	be	be	AUX	VB	VerbForm=Inf	32	cop	_	start_char=161|end_char=163
+32	human	human	ADJ	JJ	Degree=Pos	29	xcomp	_	start_char=164|end_char=169
+33	in	in	ADP	IN	_	36	case	_	start_char=170|end_char=172
+34	the	the	DET	DT	Definite=Def|PronType=Art	36	det	_	start_char=173|end_char=176
+35	21st	21st	ADJ	JJ	Degree=Pos|NumType=Ord	36	amod	_	start_char=177|end_char=181
+36	Century	century	NOUN	NN	Number=Sing	32	obl	_	start_char=182|end_char=189
+37	.	.	PUNCT	.	_	2	punct	_	start_char=189|end_char=190
+
+1	So	so	ADV	RB	_	6	advmod	_	start_char=192|end_char=194
+2	yes	yes	INTJ	UH	_	6	discourse	_	start_char=195|end_char=198
+3	,	,	PUNCT	,	_	2	punct	_	start_char=198|end_char=199
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=200|end_char=204
+5	**	**	PUNCT	NFP	_	4	punct	_	start_char=205|end_char=207
+6	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=207|end_char=210
+7	**	**	PUNCT	NFP	_	8	punct	_	start_char=210|end_char=212
+8	savage	savage	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=213|end_char=219
+9	-	-	PUNCT	,	_	6	punct	_	start_char=220|end_char=221
+10	because	because	SCONJ	IN	_	13	mark	_	start_char=222|end_char=229
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=230|end_char=233
+12	Quran	Quran	PROPN	NNP	Number=Sing	13	nsubj	_	start_char=234|end_char=239
+13	demands	demand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=240|end_char=247
+14	that	that	SCONJ	IN	_	18	mark	_	start_char=248|end_char=252
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=253|end_char=257
+16	be	be	AUX	VB	VerbForm=Inf	18	cop	_	start_char=258|end_char=260
+17	that	that	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=261|end_char=265
+18	way	way	NOUN	NN	Number=Sing	13	ccomp	_	start_char=266|end_char=269
+19	.	.	PUNCT	.	_	6	punct	_	start_char=269|end_char=270
+
+1	Which	which	DET	WDT	PronType=Int	3	det	_	start_char=275|end_char=280
+2	Muslim	Muslim	ADJ	JJ	Degree=Pos	3	amod	_	start_char=281|end_char=287
+3	nation	nation	NOUN	NN	Number=Sing	7	obj	_	start_char=288|end_char=294
+4	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=295|end_char=300
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=301|end_char=304
+6	most	most	ADV	RBS	_	7	advmod	_	start_char=305|end_char=309
+7	prefer	prefer	VERB	VB	VerbForm=Inf	0	root	_	start_char=310|end_char=316
+8	to	to	PART	TO	_	9	mark	_	start_char=317|end_char=319
+9	live	live	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=320|end_char=324
+10	in	in	ADP	IN	_	9	obl	_	start_char=325|end_char=327
+11	?	?	PUNCT	.	_	7	punct	_	start_char=327|end_char=328
+
+1	Nigeria	Nigeria	PROPN	NNP	Number=Sing	0	root	_	start_char=329|end_char=336
+2	?	?	PUNCT	.	_	1	punct	_	start_char=336|end_char=337
+
+1	Somalia	Somalia	PROPN	NNP	Number=Sing	0	root	_	start_char=338|end_char=345
+2	?	?	PUNCT	.	_	1	punct	_	start_char=345|end_char=346
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=347|end_char=350
+2	Sudan	Sudan	PROPN	NNP	Number=Sing	0	root	_	start_char=351|end_char=356
+3	?	?	PUNCT	.	_	2	punct	_	start_char=356|end_char=357
+
+1	Aceh	Aceh	PROPN	NNP	Number=Sing	2	compound	_	start_char=358|end_char=362
+2	Province	Province	PROPN	NNP	Number=Sing	0	root	_	start_char=363|end_char=371
+3	in	in	ADP	IN	_	4	case	_	start_char=372|end_char=374
+4	Indonesia	Indonesia	PROPN	NNP	Number=Sing	2	nmod	_	start_char=375|end_char=384
+5	?	?	PUNCT	.	_	2	punct	_	start_char=384|end_char=385
+
+1	Saudia	Saudia	PROPN	NNP	Number=Sing	2	compound	_	start_char=386|end_char=392
+2	Arabia	Arabia	PROPN	NNP	Number=Sing	0	root	_	start_char=393|end_char=399
+3	?	?	PUNCT	.	_	2	punct	_	start_char=399|end_char=400
+
+1	Iraq	Iraq	PROPN	NNP	Number=Sing	0	root	_	start_char=401|end_char=405
+2	?	?	PUNCT	.	_	1	punct	_	start_char=405|end_char=406
+
+1	Iran	Iran	PROPN	NNP	Number=Sing	0	root	_	start_char=407|end_char=411
+2	?	?	PUNCT	.	_	1	punct	_	start_char=411|end_char=412
+
+1	Afghanistan	Afghanistan	PROPN	NNP	Number=Sing	0	root	_	start_char=413|end_char=424
+2	?	?	PUNCT	.	_	1	punct	_	start_char=424|end_char=425
+
+1	Maybe	maybe	ADV	RB	_	2	advmod	_	start_char=426|end_char=431
+2	Pakistan	Pakistan	PROPN	NNP	Number=Sing	0	root	_	start_char=432|end_char=440
+3	?	?	PUNCT	.	_	2	punct	_	start_char=440|end_char=441
+
+1	Which	which	DET	WDT	PronType=Int	3	det	_	start_char=449|end_char=454
+2	Islamic	Islamic	ADJ	NNP	Degree=Pos	3	amod	_	start_char=455|end_char=462
+3	State	State	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=463|end_char=468
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=469|end_char=471
+5	peaceful	peaceful	ADJ	JJ	Degree=Pos	0	root	_	start_char=472|end_char=480
+6	?	?	PUNCT	.	_	5	punct	_	start_char=480|end_char=481
+
+1	Name	name	NOUN	NN	Number=Sing	0	root	_	start_char=482|end_char=486
+2	one	one	NUM	CD	NumType=Card	1	nummod	_	start_char=487|end_char=490
+3	.	.	PUNCT	.	_	1	punct	_	start_char=490|end_char=491
+
+1	Which	which	DET	WDT	PronType=Int	2	det	_	start_char=499|end_char=504
+2	Islamic	Islamic	PROPN	NNP	Number=Sing	0	root	_	start_char=505|end_char=512
+
+1	State	state	NOUN	NN	Number=Sing	5	obj	_	start_char=513|end_char=518
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=519|end_char=524
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=525|end_char=528
+4	most	most	ADV	RBS	_	5	advmod	_	start_char=529|end_char=533
+5	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=534|end_char=538
+6	to	to	PART	TO	_	7	mark	_	start_char=539|end_char=541
+7	live	live	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=542|end_char=546
+8	in	in	ADP	IN	_	7	obl	_	start_char=547|end_char=549
+9	if	if	SCONJ	IN	_	12	mark	_	start_char=550|end_char=552
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=553|end_char=556
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=557|end_char=560
+12	female	female	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=561|end_char=567
+13	?	?	PUNCT	.	_	5	punct	_	start_char=567|end_char=568
+
+1	Which	which	DET	WDT	PronType=Int	3	det	_	start_char=576|end_char=581
+2	Islamic	Islamic	ADJ	NNP	Degree=Pos	3	amod	_	start_char=582|end_char=589
+3	State	State	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=590|end_char=595
+4	treats	treat	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=596|end_char=602
+5	non-	non-	DET	DT	_	6	det	_	start_char=603|end_char=607
+6	Muslims	Muslim	PROPN	NNPS	Number=Plur	4	obj	_	start_char=607|end_char=614
+7	fairly	fairly	ADV	RB	_	4	advmod	_	start_char=615|end_char=621
+8	?	?	PUNCT	.	_	4	punct	_	start_char=621|end_char=622
+
+1	Heard	Heard	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=627|end_char=632
+2	enough	enough	ADV	RB	_	1	advmod	_	start_char=633|end_char=639
+3	yet	yet	ADV	RB	_	1	advmod	_	start_char=640|end_char=643
+4	?	?	PUNCT	.	_	1	punct	_	start_char=643|end_char=644
+

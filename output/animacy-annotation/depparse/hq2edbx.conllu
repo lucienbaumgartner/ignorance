@@ -1,0 +1,38 @@
+1	All	all	DET	DT	_	10	nsubj	_	start_char=0|end_char=3
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4|end_char=6
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=7|end_char=10
+4	to	to	PART	TO	_	5	mark	_	start_char=11|end_char=13
+5	do	do	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=14|end_char=16
+6	to	to	PART	TO	_	7	mark	_	start_char=17|end_char=19
+7	go	go	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=20|end_char=22
+8	in	in	ADP	IN	_	7	obl	_	start_char=23|end_char=25
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=26|end_char=28
+10	wear	wear	VERB	VB	VerbForm=Inf	0	root	_	start_char=29|end_char=33
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=34|end_char=35
+12	mask	mask	NOUN	NN	Number=Sing	10	obj	_	start_char=36|end_char=40
+13	-	-	PUNCT	,	_	10	punct	_	start_char=41|end_char=42
+14	just	just	ADV	RB	_	17	advmod	_	start_char=43|end_char=47
+15	like	like	SCONJ	IN	_	17	mark	_	start_char=48|end_char=52
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=53|end_char=55
+17	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	start_char=56|end_char=59
+18	to	to	PART	TO	_	19	mark	_	start_char=60|end_char=62
+19	wear	wear	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=63|end_char=67
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=68|end_char=69
+21	shirt	shirt	NOUN	NN	Number=Sing	19	obj	_	start_char=70|end_char=75
+22	or	or	CCONJ	CC	_	23	cc	_	start_char=76|end_char=78
+23	wear	wear	VERB	VB	VerbForm=Inf	19	conj	_	start_char=79|end_char=83
+24	pants	pant	NOUN	NNS	Number=Plur	23	obj	_	start_char=84|end_char=89
+25	.	.	PUNCT	.	_	10	punct	_	start_char=89|end_char=90
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=92|end_char=100
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=101|end_char=104
+3	stubborn	stubborn	ADJ	JJ	Degree=Pos	1	conj	_	start_char=105|end_char=113
+4	.	.	PUNCT	.	_	1	punct	_	start_char=113|end_char=114
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=115|end_char=116
+2	complete	complete	ADJ	JJ	Degree=Pos	5	amod	_	start_char=117|end_char=125
+3	,	,	PUNCT	,	_	5	punct	_	start_char=125|end_char=126
+4	fucking	fucking	ADJ	JJ	Degree=Pos	5	amod	_	start_char=127|end_char=134
+5	dipshit	dipshit	NOUN	NN	Number=Sing	0	root	_	start_char=135|end_char=142
+6	.	.	PUNCT	.	_	5	punct	_	start_char=142|end_char=143
+

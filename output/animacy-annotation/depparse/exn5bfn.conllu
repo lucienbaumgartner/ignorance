@@ -1,0 +1,88 @@
+1	Literally	literally	ADV	RB	_	5	advmod	_	start_char=0|end_char=9
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=10|end_char=13
+3	most	most	ADV	RBS	_	4	advmod	_	start_char=14|end_char=18
+4	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	5	amod	_	start_char=19|end_char=29
+5	story	story	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=35
+6	.	.	PUNCT	.	_	5	punct	_	start_char=35|end_char=36
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=38|end_char=42
+2	just	just	ADV	RB	_	3	advmod	_	start_char=43|end_char=47
+3	screams	scream	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=55
+4	of	of	ADP	IN	_	5	case	_	start_char=56|end_char=58
+5	illegitimacy	illegitimacy	NOUN	NN	Number=Sing	3	obl	_	start_char=59|end_char=71
+6	.	.	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	Also	also	ADV	RB	_	0	root	_	start_char=75|end_char=79
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=80|end_char=84
+2	maxwell	maxwell	NOUN	NN	Number=Sing	3	compound	_	start_char=85|end_char=92
+3	lady	lady	NOUN	NN	Number=Sing	0	root	_	start_char=93|end_char=97
+4	faking	fake	VERB	VBG	VerbForm=Ger	3	acl	_	start_char=98|end_char=104
+5	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=105|end_char=110
+6	pix	pix	NOUN	NNS	Number=Plur	4	obj	_	start_char=111|end_char=114
+7	?	?	PUNCT	.	_	3	punct	_	start_char=115|end_char=116
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=119|end_char=122
+2	bone	bone	NOUN	NN	Number=Sing	0	root	_	start_char=123|end_char=127
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=128|end_char=130
+4	broke	break	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=131|end_char=136
+5	?	?	PUNCT	.	_	2	punct	_	start_char=136|end_char=137
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=140|end_char=143
+2	fact	fact	NOUN	NN	Number=Sing	0	root	_	start_char=144|end_char=148
+3	that	that	SCONJ	IN	_	7	mark	_	start_char=149|end_char=153
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=154|end_char=156
+5	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=157|end_char=159
+6	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=159|end_char=162
+7	know	know	VERB	VB	VerbForm=Inf	2	acl	_	start_char=163|end_char=167
+8	what	what	PRON	WP	PronType=Int	7	ccomp	_	start_char=168|end_char=172
+9	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=173|end_char=176
+10	cell	cell	NOUN	NN	Number=Sing	8	nsubj	_	start_char=177|end_char=181
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=182|end_char=184
+12	sheets	sheet	NOUN	NNS	Number=Plur	10	conj	_	start_char=185|end_char=191
+13	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	start_char=192|end_char=196
+14	like	like	ADP	IN	_	8	case	_	start_char=197|end_char=201
+15	?	?	PUNCT	.	_	2	punct	_	start_char=202|end_char=203
+
+1	Camera	camera	NOUN	NN	Number=Sing	3	nsubj:pass	_	start_char=205|end_char=211
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=212|end_char=215
+3	broken	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=216|end_char=222
+4	?	?	PUNCT	.	_	3	punct	_	start_char=222|end_char=223
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=226|end_char=229
+2	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=230|end_char=236
+3	that	that	PRON	WDT	PronType=Rel	4	nsubj	_	start_char=237|end_char=241
+4	planned	plan	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=242|end_char=249
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=250|end_char=254
+6	out	out	ADP	RP	_	4	compound:prt	_	start_char=255|end_char=258
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	start_char=259|end_char=263
+8	super	super	ADV	RB	_	9	advmod	_	start_char=264|end_char=269
+9	lazy	lazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=270|end_char=274
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=275|end_char=278
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=279|end_char=286
+12	that	that	SCONJ	IN	_	18	mark	_	start_char=287|end_char=291
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=292|end_char=295
+14	majority	majority	NOUN	NN	Number=Sing	18	nsubj	_	start_char=296|end_char=304
+15	of	of	ADP	IN	_	16	case	_	start_char=305|end_char=307
+16	people	people	NOUN	NNS	Number=Plur	14	nmod	_	start_char=308|end_char=314
+17	can	can	AUX	MD	VerbForm=Fin	18	aux	_	start_char=315|end_char=318
+18	put	put	VERB	VB	VerbForm=Inf	11	ccomp	_	start_char=319|end_char=322
+19	2	2	NUM	CD	NumType=Card	20	compound	_	start_char=323|end_char=324
+20	+2	+2	NUM	CD	NumType=Card	18	obj	_	start_char=324|end_char=326
+21	together	together	ADV	RB	_	18	advmod	_	start_char=327|end_char=335
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=336|end_char=339
+23	realize	realize	VERB	VB	VerbForm=Inf	18	conj	_	start_char=340|end_char=347
+24	how	how	SCONJ	WRB	PronType=Int	25	mark	_	start_char=348|end_char=351
+25	absurd	absurd	ADJ	JJ	Degree=Pos	23	ccomp	_	start_char=352|end_char=358
+26	this	this	DET	DT	Number=Sing|PronType=Dem	27	det	_	start_char=359|end_char=363
+27	saga	saga	NOUN	NN	Number=Sing	25	nsubj	_	start_char=364|end_char=368
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	start_char=369|end_char=371
+29	.	.	PUNCT	.	_	9	punct	_	start_char=371|end_char=372
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=375|end_char=378
+2	world	world	NOUN	NN	Number=Sing	0	root	_	start_char=379|end_char=384
+
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=385|end_char=387
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=388|end_char=389
+3	stage	stage	NOUN	NN	Number=Sing	0	root	_	start_char=390|end_char=395
+

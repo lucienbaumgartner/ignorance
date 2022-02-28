@@ -1,0 +1,6 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	jealous	jealous	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=30
+

@@ -1,0 +1,21 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	entirely	entirely	ADV	RB	_	4	advmod	_	start_char=8|end_char=16
+4	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	of	of	ADP	IN	_	9	case	_	start_char=39|end_char=41
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=42|end_char=45
+9	facts	fact	NOUN	NNS	Number=Plur	6	obl	_	start_char=46|end_char=51
+10	of	of	ADP	IN	_	12	case	_	start_char=52|end_char=54
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=55|end_char=58
+12	matter	matter	NOUN	NN	Number=Sing	9	nmod	_	start_char=59|end_char=65
+13	.	.	PUNCT	.	_	4	punct	_	start_char=65|end_char=66
+
+1	What	what	PRON	WP	PronType=Int	4	obj	_	start_char=67|end_char=71
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=72|end_char=74
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=75|end_char=78
+4	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	start_char=79|end_char=86
+5	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	4	xcomp	_	start_char=87|end_char=95
+6	?	?	PUNCT	.	_	4	punct	_	start_char=95|end_char=96
+

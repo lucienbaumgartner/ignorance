@@ -1,0 +1,63 @@
+1	BS	bs	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=2
+2	on	on	ADP	IN	_	3	case	_	start_char=3|end_char=5
+3	what	what	PRON	WP	PronType=Int	1	nmod	_	start_char=6|end_char=10
+4	?	?	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=12|end_char=15
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=16|end_char=21
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=22|end_char=23
+4	lie	lie	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=27
+5	about	about	ADP	IN	_	6	case	_	start_char=28|end_char=33
+6	something	something	PRON	NN	Number=Sing	4	obl	_	start_char=34|end_char=43
+7	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=44|end_char=48
+8	only	only	ADV	RB	_	9	advmod	_	start_char=49|end_char=53
+9	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=54|end_char=59
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obj	_	start_char=60|end_char=62
+11	look	look	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=63|end_char=67
+12	more	more	ADV	RBR	_	13	advmod	_	start_char=68|end_char=72
+13	oblivious	oblivious	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=73|end_char=82
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=83|end_char=86
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=87|end_char=95
+16	?	?	PUNCT	.	_	4	punct	_	start_char=95|end_char=96
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=97|end_char=101
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=102|end_char=107
+3	no	no	DET	DT	_	4	det	_	start_char=108|end_char=110
+4	sense	sense	NOUN	NN	Number=Sing	2	obj	_	start_char=111|end_char=116
+5	haha	haha	INTJ	UH	_	2	discourse	_	start_char=117|end_char=121
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=124|end_char=125
+2	just	just	ADV	RB	_	3	advmod	_	start_char=126|end_char=130
+3	figured	figure	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=131|end_char=138
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=139|end_char=142
+5	knight	knight	NOUN	NN	Number=Sing	6	nsubj	_	start_char=143|end_char=149
+6	joined	join	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=150|end_char=156
+7	up	up	ADP	RP	_	6	compound:prt	_	start_char=157|end_char=159
+8	with	with	ADP	IN	_	9	case	_	start_char=160|end_char=164
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obl	_	start_char=165|end_char=169
+10	after	after	SCONJ	IN	_	14	mark	_	start_char=170|end_char=175
+11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=176|end_char=180
+12	city	city	NOUN	NN	Number=Sing	14	nsubj:pass	_	start_char=181|end_char=185
+13	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux:pass	_	start_char=186|end_char=189
+14	destroyed	destroy	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	start_char=190|end_char=199
+15	,	,	PUNCT	,	_	24	punct	_	start_char=199|end_char=200
+16	and	and	CCONJ	CC	_	24	cc	_	start_char=201|end_char=204
+17	now	now	ADV	RB	_	24	advmod	_	start_char=205|end_char=208
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	start_char=209|end_char=211
+19	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=211|end_char=214
+20	just	just	ADV	RB	_	24	advmod	_	start_char=215|end_char=219
+21	in	in	ADP	IN	_	24	case	_	start_char=220|end_char=222
+22	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=223|end_char=224
+23	new	new	ADJ	JJ	Degree=Pos	24	amod	_	start_char=225|end_char=228
+24	location	location	NOUN	NN	Number=Sing	3	conj	_	start_char=229|end_char=237
+25	following	follow	VERB	VBG	VerbForm=Ger	26	case	_	start_char=238|end_char=247
+26	that	that	PRON	DT	Number=Sing|PronType=Dem	24	nmod	_	start_char=248|end_char=252
+27	.	.	PUNCT	.	_	3	punct	_	start_char=252|end_char=253
+
+1	Made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=254|end_char=258
+2	enough	enough	ADJ	JJ	Degree=Pos	3	amod	_	start_char=259|end_char=265
+3	sense	sense	NOUN	NN	Number=Sing	1	obj	_	start_char=266|end_char=271
+4	to	to	ADP	IN	_	5	case	_	start_char=272|end_char=274
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obl	_	start_char=275|end_char=277
+6	.	.	PUNCT	.	_	1	punct	_	start_char=277|end_char=278
+

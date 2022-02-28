@@ -1,0 +1,56 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	only	only	ADV	RB	_	3	advmod	_	start_char=3|end_char=7
+3	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=14|end_char=15
+5	tiny	tiny	ADJ	JJ	Degree=Pos	6	amod	_	start_char=16|end_char=20
+6	amount	amount	NOUN	NN	Number=Sing	3	obj	_	start_char=21|end_char=27
+7	of	of	ADP	IN	_	8	case	_	start_char=28|end_char=30
+8	intelligence	intelligence	NOUN	NN	Number=Sing	6	nmod	_	start_char=31|end_char=43
+9	to	to	PART	TO	_	10	mark	_	start_char=44|end_char=46
+10	realize	realize	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=47|end_char=54
+11	thats	thats	ADP	IN	_	13	case	_	start_char=55|end_char=60
+12	all	all	DET	DT	_	13	det	_	start_char=61|end_char=64
+13	bullshit	bullshit	NOUN	NN	Number=Sing	10	obl	_	start_char=65|end_char=73
+14	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	.	.	PUNCT	.	_	0	root	_	start_char=75|end_char=76
+
+1	Like	like	ADP	IN	_	5	case	_	start_char=77|end_char=81
+2	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=82|end_char=84
+3	infinitesimally	infinitesimally	ADV	RB	_	4	advmod	_	start_char=85|end_char=100
+4	small	small	ADJ	JJ	Degree=Pos	5	amod	_	start_char=101|end_char=106
+5	amount	amount	NOUN	NN	Number=Sing	0	root	_	start_char=107|end_char=113
+6	of	of	ADP	IN	_	7	case	_	start_char=114|end_char=116
+7	intelligence	intelligence	NOUN	NN	Number=Sing	5	nmod	_	start_char=117|end_char=129
+8	.	.	PUNCT	.	_	5	punct	_	start_char=129|end_char=130
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=131|end_char=132
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=133|end_char=137
+3	no	no	DET	DT	_	4	det	_	start_char=138|end_char=140
+4	sympathy	sympathy	NOUN	NN	Number=Sing	2	obj	_	start_char=141|end_char=149
+5	for	for	ADP	IN	_	7	case	_	start_char=150|end_char=153
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=154|end_char=159
+7	fucks	fuck	NOUN	NNS	Number=Plur	4	nmod	_	start_char=160|end_char=165
+8	.	.	PUNCT	.	_	2	punct	_	start_char=165|end_char=166
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=167|end_char=171
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=172|end_char=175
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=176|end_char=179
+4	type	type	NOUN	NN	Number=Sing	0	root	_	start_char=180|end_char=184
+5	of	of	ADP	IN	_	7	case	_	start_char=185|end_char=187
+6	willfully	willfully	ADV	RB	_	7	advmod	_	start_char=188|end_char=197
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=198|end_char=204
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=205|end_char=208
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=209|end_char=217
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=218|end_char=222
+11	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=223|end_char=227
+12	people	people	NOUN	NNS	Number=Plur	11	obj	_	start_char=228|end_char=234
+13	hurt	hurt	VERB	VBN	Tense=Past|VerbForm=Part	11	xcomp	_	start_char=235|end_char=239
+14	,	,	PUNCT	,	_	16	punct	_	start_char=239|end_char=240
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=241|end_char=242
+16	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=243|end_char=247
+17	no	no	DET	DT	_	18	det	_	start_char=248|end_char=250
+18	sympathy	sympathy	NOUN	NN	Number=Sing	16	obj	_	start_char=251|end_char=259
+19	whatsoever	whatsoever	ADV	RB	_	16	advmod	_	start_char=260|end_char=270
+20	.	.	PUNCT	.	_	4	punct	_	start_char=270|end_char=271
+

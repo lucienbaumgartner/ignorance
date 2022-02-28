@@ -1,0 +1,17 @@
+1	Who	who	PRON	WP	PronType=Int	2	nsubj	_	start_char=0|end_char=3
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=7
+3	time	time	NOUN	NN	Number=Sing	2	obj	_	start_char=8|end_char=12
+4	to	to	PART	TO	_	7	mark	_	start_char=13|end_char=15
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=16|end_char=18
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=19|end_char=23
+7	angry	angry	ADJ	JJ	Degree=Pos	3	acl	_	start_char=24|end_char=29
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=30|end_char=33
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=34|end_char=42
+10	?	?	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=44|end_char=48
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=49|end_char=54
+3	some	some	DET	DT	_	5	det	_	start_char=55|end_char=59
+4	real	real	ADJ	JJ	Degree=Pos	5	amod	_	start_char=60|end_char=64
+5	commitment	commitment	NOUN	NN	Number=Sing	2	obj	_	start_char=65|end_char=75
+

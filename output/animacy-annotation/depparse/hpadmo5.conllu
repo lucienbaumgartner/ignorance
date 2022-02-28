@@ -1,0 +1,19 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	ok	ok	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=7
+4	to	to	PART	TO	_	6	mark	_	start_char=8|end_char=10
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=11|end_char=13
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=14|end_char=22
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=23|end_char=26
+8	racist	racist	ADJ	JJ	Degree=Pos	6	conj	_	start_char=27|end_char=33
+9	as	as	ADV	RB	_	10	advmod	_	start_char=34|end_char=36
+10	long	long	ADV	RB	Degree=Pos	6	advmod	_	start_char=37|end_char=41
+11	as	as	SCONJ	IN	_	17	mark	_	start_char=42|end_char=44
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=45|end_char=47
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=47|end_char=49
+14	against	against	ADP	IN	_	17	case	_	start_char=50|end_char=57
+15	white	white	ADJ	JJ	Degree=Pos	17	amod	_	start_char=58|end_char=63
+16	conservative	conservative	ADJ	JJ	Degree=Pos	17	amod	_	start_char=64|end_char=76
+17	males	male	NOUN	NNS	Number=Plur	10	advcl	_	start_char=77|end_char=82
+18	…	…	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+

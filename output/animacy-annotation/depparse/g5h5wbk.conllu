@@ -1,0 +1,83 @@
+1	guy	guy	NOUN	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	mentally	mentally	ADV	RB	_	4	advmod	_	start_char=7|end_char=15
+4	deteriorating	deteriorate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=16|end_char=29
+5	.	.	PUNCT	.	_	4	punct	_	start_char=29|end_char=30
+
+1	possibly	possibly	ADV	RB	_	2	advmod	_	start_char=31|end_char=39
+2	dementia	dementia	NOUN	NN	Number=Sing	0	root	_	start_char=40|end_char=48
+3	?	?	PUNCT	.	_	2	punct	_	start_char=48|end_char=49
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=50|end_char=51
+2	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=52|end_char=56
+3	in	in	ADP	IN	_	5	case	_	start_char=57|end_char=59
+4	mental	mental	ADJ	JJ	Degree=Pos	5	amod	_	start_char=60|end_char=66
+5	health	health	NOUN	NN	Number=Sing	2	obl	_	start_char=67|end_char=73
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=74|end_char=77
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=78|end_char=80
+8	reminds	remind	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=81|end_char=88
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=89|end_char=91
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=92|end_char=93
+11	lot	lot	NOUN	NN	Number=Sing	8	obj	_	start_char=94|end_char=97
+12	of	of	ADP	IN	_	15	case	_	start_char=98|end_char=100
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=101|end_char=103
+14	geriatric	geriatric	ADJ	JJ	Degree=Pos	15	amod	_	start_char=104|end_char=113
+15	patients	patient	NOUN	NNS	Number=Plur	11	nmod	_	start_char=114|end_char=122
+16	.	.	PUNCT	.	_	2	punct	_	start_char=122|end_char=123
+
+1	easily	easily	ADV	RB	Degree=Pos	2	advmod	_	start_char=124|end_char=130
+2	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=131|end_char=139
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=140|end_char=143
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=144|end_char=151
+5	of	of	ADP	IN	_	6	case	_	start_char=152|end_char=154
+6	surroundings	surroundings	NOUN	NNS	Number=Plur	4	obl	_	start_char=155|end_char=167
+7	,	,	PUNCT	,	_	9	punct	_	start_char=167|end_char=168
+8	very	very	ADV	RB	_	9	advmod	_	start_char=169|end_char=173
+9	dependent	dependent	ADJ	JJ	Degree=Pos	2	conj	_	start_char=174|end_char=183
+10	on	on	ADP	IN	_	11	case	_	start_char=184|end_char=186
+11	others	other	NOUN	NNS	Number=Plur	9	obl	_	start_char=187|end_char=193
+12	,	,	PUNCT	,	_	13	punct	_	start_char=193|end_char=194
+13	making	make	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=195|end_char=201
+14	statements	statement	NOUN	NNS	Number=Plur	13	obj	_	start_char=202|end_char=212
+15	that	that	PRON	WDT	PronType=Rel	16	nsubj	_	start_char=213|end_char=217
+16	make	make	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=218|end_char=222
+17	no	no	DET	DT	_	18	det	_	start_char=223|end_char=225
+18	sense	sense	NOUN	NN	Number=Sing	16	obj	_	start_char=226|end_char=231
+19	.	.	PUNCT	.	_	2	punct	_	start_char=231|end_char=232
+
+1	things	thing	NOUN	NNS	Number=Plur	0	root	_	start_char=234|end_char=240
+2	like	like	ADP	IN	_	3	case	_	start_char=241|end_char=245
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	1	nmod	_	start_char=246|end_char=250
+4	.	.	PUNCT	.	_	1	punct	_	start_char=250|end_char=251
+
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=252|end_char=253
+2	honestly	honestly	ADV	RB	_	3	advmod	_	start_char=254|end_char=262
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=263|end_char=268
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	start_char=269|end_char=271
+5	should	should	AUX	MD	VerbForm=Fin	8	aux	_	start_char=272|end_char=278
+6	not	not	PART	RB	_	8	advmod	_	start_char=279|end_char=282
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	start_char=283|end_char=285
+8	paraded	parade	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=286|end_char=293
+9	around	around	ADP	IN	_	11	case	_	start_char=294|end_char=300
+10	national	national	ADJ	JJ	Degree=Pos	11	amod	_	start_char=301|end_char=309
+11	tv	tv	NOUN	NN	Number=Sing	8	obl	_	start_char=310|end_char=312
+12	like	like	ADP	IN	_	13	case	_	start_char=313|end_char=317
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	8	obl	_	start_char=318|end_char=322
+14	.	.	PUNCT	.	_	3	punct	_	start_char=322|end_char=323
+
+1	if	if	SCONJ	IN	_	3	mark	_	start_char=324|end_char=326
+2	there	there	PRON	EX	_	3	expl	_	start_char=327|end_char=332
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=333|end_char=335
+4	something	something	PRON	NN	Number=Sing	3	nsubj	_	start_char=336|end_char=345
+5	going	go	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=346|end_char=351
+6	on	on	ADP	IN	_	9	case	_	start_char=352|end_char=354
+7	mentally	mentally	ADV	RB	_	9	advmod	_	start_char=355|end_char=363
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=364|end_char=367
+9	cruel	cruel	ADJ	JJ	Degree=Pos	5	obl	_	start_char=368|end_char=373
+10	to	to	PART	TO	_	11	mark	_	start_char=374|end_char=376
+11	do	do	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=377|end_char=379
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=380|end_char=384
+13	to	to	ADP	IN	_	14	case	_	start_char=385|end_char=387
+14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=388|end_char=391
+15	.	.	PUNCT	.	_	3	punct	_	start_char=391|end_char=392
+

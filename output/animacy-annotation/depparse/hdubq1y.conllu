@@ -1,0 +1,38 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=30
+6	of	of	ADP	IN	_	7	case	_	start_char=31|end_char=33
+7	history	history	NOUN	NN	Number=Sing	5	obl	_	start_char=34|end_char=41
+8	if	if	SCONJ	IN	_	10	mark	_	start_char=42|end_char=44
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=45|end_char=48
+10	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=49|end_char=54
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=55|end_char=59
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=60|end_char=63
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=63|end_char=66
+14	planning	plan	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	start_char=67|end_char=75
+15	to	to	PART	TO	_	16	mark	_	start_char=76|end_char=78
+16	try	try	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=79|end_char=82
+17	again	again	ADV	RB	Degree=Pos	16	advmod	_	start_char=83|end_char=88
+18	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=90|end_char=94
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=96
+3	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=97|end_char=100
+4	coups	coup	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=101|end_char=106
+5	work	work	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=107|end_char=111
+6	.	.	PUNCT	.	_	2	punct	_	start_char=111|end_char=112
+
+1	First	first	ADV	RB	Degree=Pos	2	advmod	_	start_char=113|end_char=118
+2	one	one	NOUN	NN	Number=Sing	4	nsubj	_	start_char=119|end_char=122
+3	usually	usually	ADV	RB	Degree=Pos	4	advmod	_	start_char=123|end_char=130
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=131|end_char=135
+5	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=135|end_char=138
+6	but	but	CCONJ	CC	_	9	cc	_	start_char=139|end_char=142
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=143|end_char=147
+8	’ll	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=147|end_char=150
+9	keep	keep	VERB	VB	VerbForm=Inf	4	conj	_	start_char=151|end_char=155
+10	trying	try	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=156|end_char=162
+11	.	.	PUNCT	.	_	4	punct	_	start_char=162|end_char=163
+

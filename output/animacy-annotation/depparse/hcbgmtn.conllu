@@ -1,0 +1,17 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	really	really	ADV	RB	_	4	advmod	_	start_char=7|end_char=13
+4	sexist	sexist	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=20
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=21|end_char=24
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=33
+7	of	of	ADP	IN	_	14	mark	_	start_char=34|end_char=36
+8	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=37|end_char=40
+9	Apple	Apple	PROPN	NNP	Number=Sing	10	compound	_	start_char=41|end_char=46
+10	employees	employee	NOUN	NNS	Number=Plur	14	obj	_	start_char=47|end_char=56
+11	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=57|end_char=61
+12	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=62|end_char=63
+13	Cloud	Cloud	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=63|end_char=68
+14	set	set	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	start_char=69|end_char=72
+15	up	up	ADP	RP	_	14	compound:prt	_	start_char=73|end_char=75
+16	.	.	PUNCT	.	_	4	punct	_	start_char=75|end_char=76
+

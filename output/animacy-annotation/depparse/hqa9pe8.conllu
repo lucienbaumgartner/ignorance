@@ -1,0 +1,19 @@
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=2
+2	back	back	ADV	RB	_	1	advmod	_	start_char=3|end_char=7
+3	to	to	ADP	IN	_	14	case	_	start_char=8|end_char=10
+4	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=11|end_char=15
+5	uneducated	uneducated	ADJ	JJ	Degree=Pos	14	amod	_	start_char=16|end_char=26
+6	,	,	PUNCT	,	_	7	punct	_	start_char=26|end_char=27
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=28|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	chinese	Chinese	ADJ	JJ	Degree=Pos	5	conj	_	start_char=41|end_char=48
+10	/	/	SYM	,	_	11	cc	_	start_char=48|end_char=49
+11	russian	russian	ADJ	JJ	Degree=Pos	5	conj	_	start_char=49|end_char=56
+12	agent	agent	NOUN	NN	Number=Sing	14	compound	_	start_char=57|end_char=62
+13	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	_	start_char=63|end_char=69
+14	hellhole	hellhole	NOUN	NN	Number=Sing	1	obl	_	start_char=70|end_char=78
+15	called	call	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	_	start_char=79|end_char=85
+16	r/	r/	PROPN	NNP	Number=Sing	15	xcomp	_	start_char=86|end_char=88
+17	GenZedong	GenZedong	PROPN	NNP	Number=Sing	16	flat	_	start_char=88|end_char=97
+18	.	.	PUNCT	.	_	1	punct	_	start_char=97|end_char=98
+

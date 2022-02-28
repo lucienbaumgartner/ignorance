@@ -1,0 +1,46 @@
+1	"	"	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=1|end_char=4
+3	out	out	ADP	RP	_	2	compound:prt	_	start_char=5|end_char=8
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=9|end_char=11
+5	house	house	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=17
+6	[	[	PUNCT	-LRB-	_	9	punct	_	start_char=18|end_char=19
+7	N	N	NOUN	NN	Number=Sing	9	compound	_	start_char=19|end_char=20
+8	-	-	PUNCT	HYPH	_	9	punct	_	start_char=20|end_char=21
+9	word	word	NOUN	NN	Number=Sing	2	obj	_	start_char=21|end_char=25
+10	]	]	PUNCT	-RRB-	_	9	punct	_	start_char=25|end_char=26
+11	!	!	PUNCT	.	_	2	punct	_	start_char=26|end_char=27
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=28|end_char=31
+2	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=32|end_char=36
+3	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=37|end_char=41
+4	,	,	PUNCT	,	_	2	punct	_	start_char=41|end_char=42
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=43|end_char=45
+6	beautiful	beautiful	ADJ	JJ	Degree=Pos	8	amod	_	start_char=46|end_char=55
+7	interracial	interracial	ADJ	JJ	Degree=Pos	8	amod	_	start_char=56|end_char=67
+8	grandbabies	grandbaby	NOUN	NNS	Number=Plur	2	obj	_	start_char=68|end_char=79
+9	!	!	PUNCT	.	_	2	punct	_	start_char=79|end_char=80
+10	"	"	PUNCT	''	_	2	punct	_	start_char=80|end_char=81
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=82|end_char=83
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	start_char=84|end_char=89
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=90|end_char=93
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	start_char=94|end_char=98
+5	stealing	steal	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=99|end_char=107
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=108|end_char=112
+7	kids	kid	NOUN	NNS	Number=Plur	5	obj	_	start_char=113|end_char=117
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=118|end_char=121
+9	hiding	hide	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=122|end_char=128
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=129|end_char=134
+11	race	race	NOUN	NN	Number=Sing	9	obj	_	start_char=135|end_char=139
+12	from	from	ADP	IN	_	13	case	_	start_char=140|end_char=144
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obl	_	start_char=145|end_char=149
+14	.	.	PUNCT	.	_	3	punct	_	start_char=149|end_char=150
+
+1	Racists	racist	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=151|end_char=158
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=159|end_char=162
+3	next-level	next-level	ADJ	JJ	Degree=Pos	4	amod	_	start_char=163|end_char=173
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=174|end_char=182
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=183|end_char=186
+6	malicious	malicious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=187|end_char=196
+7	.	.	PUNCT	.	_	4	punct	_	start_char=196|end_char=197
+

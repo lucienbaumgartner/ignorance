@@ -1,0 +1,76 @@
+1	Yeah	yeah	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Every	every	DET	DT	_	2	det	_	start_char=7|end_char=12
+2	kid	kid	NOUN	NN	Number=Sing	4	nsubj	_	start_char=13|end_char=16
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=17|end_char=19
+4	different	different	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=29
+5	,	,	PUNCT	,	_	8	punct	_	start_char=29|end_char=30
+6	but	but	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+7	three	three	NUM	CD	NumType=Card	8	nsubj	_	start_char=35|end_char=40
+8	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=41|end_char=46
+9	like	like	ADP	IN	_	13	case	_	start_char=47|end_char=51
+10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=52|end_char=55
+11	worst	bad	ADV	RBS	Degree=Sup	12	advmod	_	start_char=56|end_char=61
+12	possible	possible	ADJ	JJ	Degree=Pos	13	amod	_	start_char=62|end_char=70
+13	age	age	NOUN	NN	Number=Sing	8	obl	_	start_char=71|end_char=74
+14	to	to	PART	TO	_	15	mark	_	start_char=75|end_char=77
+15	try	try	VERB	VB	VerbForm=Inf	13	acl	_	start_char=78|end_char=81
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	15	obj	_	start_char=82|end_char=86
+17	with	with	ADP	IN	_	15	obl	_	start_char=87|end_char=91
+18	and	and	CCONJ	CC	_	22	cc	_	start_char=92|end_char=95
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=96|end_char=97
+20	would	would	AUX	MD	VerbForm=Fin	22	aux	_	start_char=98|end_char=103
+21	n't	not	PART	RB	_	22	advmod	_	start_char=103|end_char=106
+22	do	do	VERB	VB	VerbForm=Inf	4	conj	_	start_char=107|end_char=109
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=110|end_char=112
+24	with	with	ADP	IN	_	28	case	_	start_char=113|end_char=117
+25	most	most	ADJ	JJS	Degree=Sup	28	amod	_	start_char=118|end_char=122
+26	3	3	NUM	CD	NumType=Card	27	nummod	_	start_char=123|end_char=124
+27	year	year	NOUN	NN	Number=Sing	28	compound	_	start_char=125|end_char=129
+28	olds	old	NOUN	NNS	Number=Plur	22	obl	_	start_char=130|end_char=134
+29	.	.	PUNCT	.	_	4	punct	_	start_char=134|end_char=135
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=137|end_char=141
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=141|end_char=144
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=145|end_char=148
+4	exact	exact	ADJ	JJ	Degree=Pos	6	amod	_	start_char=149|end_char=154
+5	wrong	wrong	ADJ	JJ	Degree=Pos	6	amod	_	start_char=155|end_char=160
+6	combination	combination	NOUN	NN	Number=Sing	0	root	_	start_char=161|end_char=172
+7	of	of	ADP	IN	_	8	case	_	start_char=173|end_char=175
+8	fast	fast	ADJ	JJ	Degree=Pos	6	nmod	_	start_char=176|end_char=180
+9	,	,	PUNCT	,	_	10	punct	_	start_char=180|end_char=181
+10	curious	curious	ADJ	JJ	Degree=Pos	8	conj	_	start_char=182|end_char=189
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=190|end_char=193
+12	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=194|end_char=201
+13	of	of	ADP	IN	_	14	case	_	start_char=202|end_char=204
+14	danger	danger	NOUN	NN	Number=Sing	12	obl	_	start_char=205|end_char=211
+15	.	.	PUNCT	.	_	6	punct	_	start_char=211|end_char=212
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=214|end_char=215
+2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	start_char=216|end_char=222
+3	bit	bit	NOUN	NN	Number=Sing	4	obl:npmod	_	start_char=223|end_char=226
+4	older	old	ADJ	JJR	Degree=Cmp	0	root	_	start_char=227|end_char=232
+5	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=233|end_char=237
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=238|end_char=242
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=243|end_char=246
+8	start	start	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=247|end_char=252
+9	to	to	PART	TO	_	10	mark	_	start_char=253|end_char=255
+10	listen	listen	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=256|end_char=262
+11	?	?	PUNCT	.	_	4	punct	_	start_char=262|end_char=263
+
+1	Sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=264|end_char=268
+2	.	.	PUNCT	.	_	1	punct	_	start_char=268|end_char=269
+
+1	Younger	young	ADJ	JJR	Degree=Cmp	0	root	_	start_char=271|end_char=278
+2	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=279|end_char=283
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=284|end_char=288
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=288|end_char=291
+5	less	less	ADV	RBR	Degree=Cmp	6	advmod	_	start_char=292|end_char=296
+6	mobile	mobile	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=297|end_char=303
+7	?	?	PUNCT	.	_	1	punct	_	start_char=303|end_char=304
+
+1	Also	also	ADV	RB	_	2	advmod	_	start_char=305|end_char=309
+2	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=310|end_char=314
+3	.	.	PUNCT	.	_	2	punct	_	start_char=314|end_char=315
+

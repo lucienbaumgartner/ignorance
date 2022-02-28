@@ -1,0 +1,45 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj:pass	_	start_char=0|end_char=4
+2	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=5|end_char=10
+3	all	all	ADV	RB	_	6	advmod	_	start_char=11|end_char=14
+4	have	have	AUX	VB	VerbForm=Inf	6	aux	_	start_char=15|end_char=19
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	aux:pass	_	start_char=20|end_char=24
+6	avoided	avoid	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=25|end_char=32
+7	.	.	PUNCT	.	_	6	punct	_	start_char=32|end_char=33
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=34|end_char=38
+2	simply	simply	ADV	RB	Degree=Pos	3	advmod	_	start_char=39|end_char=45
+3	needed	need	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=46|end_char=52
+4	to	to	PART	TO	_	5	mark	_	start_char=53|end_char=55
+5	make	make	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=56|end_char=60
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=61|end_char=63
+7	exception	exception	NOUN	NN	Number=Sing	5	obj	_	start_char=64|end_char=73
+8	to	to	ADP	IN	_	11	case	_	start_char=74|end_char=76
+9	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=77|end_char=79
+10	arbitrary	arbitrary	ADJ	JJ	Degree=Pos	11	amod	_	start_char=80|end_char=89
+11	policy	policy	NOUN	NN	Number=Sing	7	nmod	_	start_char=90|end_char=96
+12	,	,	PUNCT	,	_	14	punct	_	start_char=96|end_char=97
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=98|end_char=101
+14	roll	roll	VERB	VB	VerbForm=Inf	5	conj	_	start_char=102|end_char=106
+15	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=107|end_char=110
+16	use	use	NOUN	NN	Number=Sing	14	obj	_	start_char=111|end_char=114
+17	or	or	CCONJ	CC	_	19	cc	_	start_char=115|end_char=117
+18	loose	loose	ADV	RB	_	19	advmod	_	start_char=118|end_char=123
+19	leave	leave	VERB	VB	VerbForm=Inf	14	conj	_	start_char=124|end_char=129
+20	into	into	ADP	IN	_	21	case	_	start_char=130|end_char=134
+21	early	early	ADV	RB	Degree=Pos	19	advmod	_	start_char=135|end_char=140
+22	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=141|end_char=144
+23	next	next	ADJ	JJ	Degree=Pos	25	amod	_	start_char=145|end_char=149
+24	calendar	calendar	NOUN	NN	Number=Sing	25	compound	_	start_char=150|end_char=158
+25	year	year	NOUN	NN	Number=Sing	19	obl	_	start_char=159|end_char=163
+26	.	.	PUNCT	.	_	3	punct	_	start_char=163|end_char=164
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=165|end_char=168
+2	stubbornly	stubbornly	ADV	RB	_	3	advmod	_	start_char=169|end_char=179
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	nsubj	_	start_char=180|end_char=188
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=189|end_char=192
+5	greedy	greedy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=193|end_char=199
+6	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=200|end_char=204
+7	never	never	ADV	RB	_	8	advmod	_	start_char=205|end_char=210
+8	learn	learn	VERB	VB	VerbForm=Inf	0	root	_	start_char=211|end_char=216
+9	.	.	PUNCT	.	_	8	punct	_	start_char=216|end_char=217
+

@@ -1,0 +1,17 @@
+1	Because	because	SCONJ	IN	_	5	mark	_	start_char=0|end_char=7
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=8|end_char=10
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=12
+4	so	so	ADV	RB	_	5	advmod	_	start_char=13|end_char=15
+5	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=39
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=40|end_char=44
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=45|end_char=47
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=48|end_char=52
+11	n't	not	PART	RB	_	12	advmod	_	start_char=52|end_char=55
+12	need	need	VERB	VB	VerbForm=Inf	7	ccomp	_	start_char=56|end_char=60
+13	to	to	PART	TO	_	15	mark	_	start_char=61|end_char=63
+14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	start_char=64|end_char=66
+15	denied	deny	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	_	start_char=67|end_char=73
+16	.	.	PUNCT	.	_	5	punct	_	start_char=73|end_char=74
+

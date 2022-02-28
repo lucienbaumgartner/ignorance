@@ -1,0 +1,31 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=5
+3	now	now	ADV	RB	_	2	advmod	_	start_char=6|end_char=9
+4	that	that	SCONJ	IN	_	8	mark	_	start_char=10|end_char=14
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj:pass	_	start_char=15|end_char=16
+6	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=17|end_char=19
+7	being	be	AUX	VBG	VerbForm=Ger	8	aux:pass	_	start_char=20|end_char=25
+8	trolled	trol	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=26|end_char=33
+9	.	.	PUNCT	.	_	2	punct	_	start_char=33|end_char=34
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=35|end_char=39
+2	job	job	NOUN	NN	Number=Sing	0	root	_	start_char=40|end_char=43
+3	.	.	PUNCT	.	_	2	punct	_	start_char=43|end_char=44
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=48|end_char=51
+2	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=52|end_char=56
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=57|end_char=59
+4	away	away	ADV	RB	_	2	advmod	_	start_char=60|end_char=64
+5	because	because	SCONJ	IN	_	11	mark	_	start_char=65|end_char=72
+6	nobody	nobody	PRON	NN	Number=Sing	11	nsubj	_	start_char=73|end_char=79
+7	can	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=80|end_char=83
+8	possibly	possibly	ADV	RB	_	11	advmod	_	start_char=84|end_char=92
+9	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=93|end_char=95
+10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=96|end_char=100
+11	dense	dense	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=101|end_char=106
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=107|end_char=110
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=111|end_char=118
+14	of	of	ADP	IN	_	15	case	_	start_char=119|end_char=121
+15	themself	themself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	11	obl	_	start_char=122|end_char=130
+16	.	.	PUNCT	.	_	2	punct	_	start_char=130|end_char=131
+

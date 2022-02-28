@@ -1,0 +1,31 @@
+1	As	as	ADP	IN	_	4	case	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=3|end_char=4
+3	gay	gay	ADJ	JJ	Degree=Pos	4	amod	_	start_char=5|end_char=8
+4	man	man	NOUN	NN	Number=Sing	7	obl	_	start_char=9|end_char=12
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=13|end_char=16
+6	should	should	AUX	MD	VerbForm=Fin	7	aux	_	start_char=17|end_char=23
+7	champion	champion	VERB	VB	VerbForm=Inf	0	root	_	start_char=24|end_char=32
+8	tolerance	tolerance	NOUN	NN	Number=Sing	7	obj	_	start_char=33|end_char=42
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=43|end_char=46
+10	educate	educate	VERB	VB	VerbForm=Inf	7	conj	_	start_char=47|end_char=54
+11	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	10	obj	_	start_char=55|end_char=63
+12	before	before	SCONJ	IN	_	14	mark	_	start_char=64|end_char=70
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=71|end_char=74
+14	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	start_char=75|end_char=77
+15	around	around	SCONJ	IN	_	16	mark	_	start_char=78|end_char=84
+16	saying	say	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=85|end_char=91
+17	hey	hey	INTJ	UH	_	20	discourse	_	start_char=92|end_char=95
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	start_char=96|end_char=97
+19	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=97|end_char=99
+20	gay	gay	ADJ	JJ	Degree=Pos	7	parataxis	_	start_char=100|end_char=103
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=104|end_char=107
+22	ignorant	ignorant	ADJ	JJ	Degree=Pos	20	conj	_	start_char=108|end_char=116
+23	.	.	PUNCT	.	_	7	punct	_	start_char=116|end_char=117
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=118|end_char=122
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=123|end_char=125
+3	n’t	not	PART	RB	_	4	advmod	_	start_char=125|end_char=128
+4	fetch	fetch	VERB	VB	VerbForm=Inf	0	root	_	start_char=129|end_char=134
+5	Gretchen	Gretchen	PROPN	NNP	Number=Sing	4	obj	_	start_char=135|end_char=143
+6	.	.	PUNCT	.	_	4	punct	_	start_char=143|end_char=144
+

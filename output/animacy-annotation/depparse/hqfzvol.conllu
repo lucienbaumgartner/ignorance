@@ -1,0 +1,27 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	point	point	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=9
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=12
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=13|end_char=16
+5	differences	difference	NOUN	NNS	Number=Plur	0	root	_	start_char=17|end_char=28
+6	between	between	ADP	IN	_	7	case	_	start_char=29|end_char=36
+7	countries	country	NOUN	NNS	Number=Plur	5	nmod	_	start_char=37|end_char=46
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=47|end_char=50
+9	far	far	ADV	RB	Degree=Pos	10	advmod	_	start_char=51|end_char=54
+10	greater	great	ADJ	JJR	Degree=Cmp	5	acl:relcl	_	start_char=55|end_char=62
+11	than	than	ADP	IN	_	12	case	_	start_char=63|end_char=67
+12	states	state	NOUN	NNS	Number=Plur	10	obl	_	start_char=68|end_char=74
+13	.	.	PUNCT	.	_	5	punct	_	start_char=74|end_char=75
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=76|end_char=80
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=81|end_char=87
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=88|end_char=90
+4	obvious	obvious	ADJ	JJ	Degree=Pos	0	root	_	start_char=91|end_char=98
+5	unless	unless	SCONJ	IN	_	9	mark	_	start_char=99|end_char=105
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=106|end_char=109
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=110|end_char=113
+8	really	really	ADV	RB	_	9	advmod	_	start_char=114|end_char=120
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=121|end_char=129
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=130|end_char=133
+11	uneducated	uneducated	ADJ	JJ	Degree=Pos	9	conj	_	start_char=134|end_char=144
+12	.	.	PUNCT	.	_	4	punct	_	start_char=144|end_char=145
+

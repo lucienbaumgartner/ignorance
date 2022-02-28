@@ -1,0 +1,47 @@
+1	Wow	wow	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	...	...	PUNCT	,	_	6	punct	_	start_char=3|end_char=6
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=7|end_char=11
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=13
+5	incredibility	incredibility	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=14|end_char=27
+6	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=39
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=40|end_char=43
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=44|end_char=52
+9	of	of	ADP	IN	_	10	case	_	start_char=53|end_char=55
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=56|end_char=59
+11	.	.	PUNCT	.	_	6	punct	_	start_char=59|end_char=60
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=61|end_char=67
+2	for	for	SCONJ	IN	_	3	mark	_	start_char=68|end_char=71
+3	showing	show	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=72|end_char=79
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=80|end_char=82
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=83|end_char=87
+6	.	.	PUNCT	.	_	1	punct	_	start_char=87|end_char=88
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=89|end_char=90
+2	still	still	ADV	RB	_	3	advmod	_	start_char=91|end_char=96
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=97|end_char=101
+4	to	to	PART	TO	_	5	mark	_	start_char=102|end_char=104
+5	research	research	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=105|end_char=113
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=114|end_char=117
+7	nuance	nuance	NOUN	NN	Number=Sing	5	obj	_	start_char=118|end_char=124
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=125|end_char=128
+9	validity	validity	NOUN	NN	Number=Sing	7	conj	_	start_char=129|end_char=137
+10	about	about	ADP	IN	_	13	case	_	start_char=138|end_char=143
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=144|end_char=148
+12	other	other	ADJ	JJ	Degree=Pos	13	amod	_	start_char=149|end_char=154
+13	claims	claim	NOUN	NNS	Number=Plur	7	nmod	_	start_char=155|end_char=161
+14	,	,	PUNCT	,	_	19	punct	_	start_char=161|end_char=162
+15	but	but	CCONJ	CC	_	19	cc	_	start_char=163|end_char=166
+16	that	that	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=167|end_char=171
+17	video	video	NOUN	NN	Number=Sing	19	nsubj	_	start_char=172|end_char=177
+18	really	really	ADV	RB	_	19	advmod	_	start_char=178|end_char=184
+19	changes	change	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=185|end_char=192
+20	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=193|end_char=195
+21	view	view	NOUN	NN	Number=Sing	19	obj	_	start_char=196|end_char=200
+22	of	of	ADP	IN	_	23	case	_	start_char=201|end_char=203
+23	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nmod	_	start_char=204|end_char=207
+24	as	as	ADP	IN	_	26	case	_	start_char=208|end_char=210
+25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	start_char=211|end_char=212
+26	person	person	NOUN	NN	Number=Sing	19	obl	_	start_char=213|end_char=219
+27	.	.	PUNCT	.	_	3	punct	_	start_char=219|end_char=220
+

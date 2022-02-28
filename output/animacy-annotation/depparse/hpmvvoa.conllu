@@ -1,0 +1,35 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=4
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=10|end_char=11
+4	point	point	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=17
+5	.	.	PUNCT	.	_	2	punct	_	start_char=17|end_char=18
+
+1	People	person	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=20|end_char=26
+2	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=27|end_char=30
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=31|end_char=35
+4	done	do	VERB	VBN	Tense=Past|VerbForm=Part	1	acl:relcl	_	start_char=36|end_char=40
+5	more	more	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=41|end_char=45
+6	jobs	job	NOUN	NNS	Number=Plur	4	obj	_	start_char=46|end_char=50
+7	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=51|end_char=54
+8	preference	preference	NOUN	NN	Number=Sing	7	obj	_	start_char=55|end_char=65
+9	in	in	ADP	IN	_	11	case	_	start_char=66|end_char=68
+10	tie	tie	NOUN	NN	Number=Sing	11	compound	_	start_char=69|end_char=72
+11	breakers	breaker	NOUN	NNS	Number=Plur	7	obl	_	start_char=73|end_char=81
+12	.	.	PUNCT	.	_	7	punct	_	start_char=81|end_char=82
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=83|end_char=86
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=86|end_char=89
+3	just	just	ADV	RB	_	4	advmod	_	start_char=90|end_char=94
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=95|end_char=103
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=104|end_char=107
+6	unwilling	unwilling	ADJ	JJ	Degree=Pos	4	conj	_	start_char=108|end_char=117
+7	to	to	PART	TO	_	8	mark	_	start_char=118|end_char=120
+8	take	take	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=121|end_char=125
+9	2	2	NUM	CD	NumType=Card	10	nummod	_	start_char=126|end_char=127
+10	seconds	second	NOUN	NNS	Number=Plur	8	obj	_	start_char=128|end_char=135
+11	to	to	PART	TO	_	12	mark	_	start_char=136|end_char=138
+12	look	look	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=139|end_char=143
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=144|end_char=146
+14	up	up	ADP	RP	_	12	compound:prt	_	start_char=147|end_char=149
+15	.	.	PUNCT	.	_	4	punct	_	start_char=149|end_char=150
+

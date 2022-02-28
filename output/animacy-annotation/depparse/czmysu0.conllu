@@ -1,0 +1,28 @@
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=0|end_char=4
+2	about	about	ADP	IN	_	3	case	_	start_char=5|end_char=10
+3	people	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=11|end_char=17
+4	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=18|end_char=21
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=22|end_char=25
+6	aware	aware	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=26|end_char=31
+7	of	of	ADP	IN	_	9	case	_	start_char=32|end_char=34
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=35|end_char=38
+9	TPPA	TPPA	PROPN	NNP	Number=Sing	6	obl	_	start_char=39|end_char=43
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=44|end_char=47
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=48|end_char=51
+12	for	for	ADP	IN	_	13	case	_	start_char=52|end_char=55
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	conj	_	start_char=56|end_char=58
+14	?	?	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=60|end_char=63
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=64|end_char=67
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=68|end_char=72
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=73|end_char=80
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=81|end_char=84
+6	selfish	selfish	ADJ	JJ	Degree=Pos	4	conj	_	start_char=85|end_char=92
+7	,	,	PUNCT	,	_	12	punct	_	start_char=92|end_char=93
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=94|end_char=97
+9	protesters	protester	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=98|end_char=108
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=109|end_char=112
+11	still	still	ADV	RB	_	12	advmod	_	start_char=113|end_char=118
+12	dicks	dick	NOUN	NNS	Number=Plur	4	parataxis	_	start_char=119|end_char=124
+

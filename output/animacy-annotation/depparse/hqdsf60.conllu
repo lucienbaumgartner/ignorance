@@ -1,0 +1,22 @@
+1	Fucking	fucking	VERB	VBG	VerbForm=Ger	2	compound	_	start_char=0|end_char=7
+2	God	God	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=8|end_char=11
+3	Damned	damned	ADJ	JJ	Degree=Pos	10	amod	_	start_char=12|end_char=18
+4	Barbaric	Barbaric	ADJ	JJ	Degree=Pos	10	amod	_	start_char=19|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	Massoganistic	Massoganistic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=45
+7	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=46|end_char=54
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=55|end_char=58
+9	Uneducated	Uneducated	ADJ	JJ	Degree=Pos	4	conj	_	start_char=59|end_char=69
+10	MEN	men	NOUN	NNS	Number=Plur	0	root	_	start_char=70|end_char=73
+11	!!!	!!!	PUNCT	.	_	10	punct	_	start_char=73|end_char=76
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=77|end_char=78
+2	PRAY	pray	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=79|end_char=83
+3	YOUR	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=84|end_char=88
+4	PENISES	penise	NOUN	NNS	Number=Plur	2	obj	_	start_char=89|end_char=96
+5	.	.	PUNCT	.	_	2	punct	_	start_char=96|end_char=97
+
+1	ALL	all	DET	DT	_	2	det	_	start_char=97|end_char=100
+2	ROT	rot	NOUN	NN	Number=Sing	0	root	_	start_char=101|end_char=104
+3	!	!	PUNCT	.	_	2	punct	_	start_char=104|end_char=105
+

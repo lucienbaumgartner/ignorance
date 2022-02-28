@@ -1,0 +1,111 @@
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	world	world	NOUN	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=9
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=12
+4	far	far	ADV	RB	Degree=Pos	0	root	_	start_char=13|end_char=16
+5	from	from	ADP	IN	_	6	case	_	start_char=17|end_char=21
+6	free	free	ADJ	JJ	Degree=Pos	4	obl	_	start_char=22|end_char=26
+7	.	.	PUNCT	.	_	4	punct	_	start_char=26|end_char=27
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=28|end_char=31
+2	history	history	NOUN	NN	Number=Sing	10	nsubj	_	start_char=32|end_char=39
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj:pass	_	start_char=40|end_char=42
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=43|end_char=46
+5	taught	teach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl:relcl	_	start_char=47|end_char=53
+6	in	in	ADP	IN	_	7	case	_	start_char=54|end_char=56
+7	school	school	NOUN	NN	Number=Sing	5	obl	_	start_char=57|end_char=63
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=64|end_char=66
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=67|end_char=68
+10	lie	lie	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=72
+11	.	.	PUNCT	.	_	10	punct	_	start_char=72|end_char=73
+
+1	Groups	group	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=74|end_char=80
+2	of	of	ADP	IN	_	3	case	_	start_char=81|end_char=83
+3	elite	elite	NOUN	NN	Number=Sing	1	nmod	_	start_char=84|end_char=89
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=90|end_char=93
+5	fighting	fight	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=94|end_char=102
+6	for	for	ADP	IN	_	7	case	_	start_char=103|end_char=106
+7	control	control	NOUN	NN	Number=Sing	5	obl	_	start_char=107|end_char=114
+8	of	of	ADP	IN	_	9	case	_	start_char=115|end_char=117
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	nmod	_	start_char=118|end_char=120
+10	.	.	PUNCT	.	_	5	punct	_	start_char=120|end_char=121
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=122|end_char=125
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=126|end_char=128
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=129|end_char=132
+4	cattle	cattle	NOUN	NNS	Number=Plur	0	root	_	start_char=133|end_char=139
+5	to	to	ADP	IN	_	6	case	_	start_char=140|end_char=142
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	start_char=143|end_char=147
+7	.	.	PUNCT	.	_	4	punct	_	start_char=147|end_char=148
+
+1	As	as	ADV	RB	_	2	advmod	_	start_char=149|end_char=151
+2	long	long	ADV	RB	Degree=Pos	0	root	_	start_char=152|end_char=156
+3	as	as	SCONJ	IN	_	6	mark	_	start_char=157|end_char=159
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj:pass	_	start_char=160|end_char=162
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=163|end_char=166
+6	kept	keep	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	start_char=167|end_char=171
+7	stupid	stupid	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=172|end_char=178
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=179|end_char=182
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=183|end_char=190
+10	of	of	ADP	IN	_	12	case	_	start_char=191|end_char=193
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=194|end_char=197
+12	powerful	powerful	ADJ	JJ	Degree=Pos	9	obl	_	start_char=198|end_char=206
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	start_char=207|end_char=209
+14	could	could	AUX	MD	VerbForm=Fin	12	aux	_	start_char=210|end_char=215
+15	be	be	VERB	VB	VerbForm=Inf	12	cop	_	start_char=216|end_char=218
+16	.	.	PUNCT	.	_	2	punct	_	start_char=218|end_char=219
+
+1	Secret	Secret	ADJ	JJ	Degree=Pos	2	amod	_	start_char=220|end_char=226
+2	societies	society	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=227|end_char=236
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=237|end_char=239
+4	rule	rule	VERB	VB	VerbForm=Inf	0	root	_	start_char=240|end_char=244
+5	behind	behind	ADP	IN	_	7	case	_	start_char=245|end_char=251
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=252|end_char=255
+7	scenes	scene	NOUN	NNS	Number=Plur	4	obl	_	start_char=256|end_char=262
+8	.	.	PUNCT	.	_	4	punct	_	start_char=262|end_char=263
+
+1	Man	man	NOUN	NN	Number=Sing	4	nsubj	_	start_char=264|end_char=267
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=268|end_char=271
+3	not	not	PART	RB	_	4	advmod	_	start_char=272|end_char=275
+4	originate	originate	VERB	VB	VerbForm=Inf	0	root	_	start_char=276|end_char=285
+5	in	in	ADP	IN	_	6	case	_	start_char=286|end_char=288
+6	Sumeria	Sumeria	PROPN	NNP	Number=Sing	4	obl	_	start_char=289|end_char=296
+7	ten	ten	NUM	CD	NumType=Card	8	compound	_	start_char=297|end_char=300
+8	thousand	thousand	NUM	CD	NumType=Card	9	nummod	_	start_char=301|end_char=309
+9	years	year	NOUN	NNS	Number=Plur	10	obl:npmod	_	start_char=310|end_char=315
+10	ago	ago	ADV	RB	_	4	advmod	_	start_char=316|end_char=319
+11	.	.	PUNCT	.	_	4	punct	_	start_char=319|end_char=320
+
+1	Man	man	NOUN	NN	Number=Sing	3	nsubj	_	start_char=321|end_char=324
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=325|end_char=328
+3	walked	walk	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=329|end_char=335
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=336|end_char=339
+5	Earth	Earth	PROPN	NNP	Number=Sing	3	obj	_	start_char=340|end_char=345
+6	for	for	ADP	IN	_	7	case	_	start_char=346|end_char=349
+7	Aeons	Aeons	PROPN	NNPS	Number=Plur	3	obl	_	start_char=350|end_char=355
+8	.	.	PUNCT	.	_	3	punct	_	start_char=355|end_char=356
+
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=357|end_char=361
+2	aliens	alien	NOUN	NNS	Number=Plur	1	obj	_	start_char=362|end_char=368
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=369|end_char=372
+4	Alex	Alex	PROPN	NNP	Number=Sing	2	conj	_	start_char=373|end_char=377
+5	Jones	Jones	PROPN	NNP	Number=Sing	4	flat	_	start_char=378|end_char=383
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=384|end_char=385
+7	break	break	NOUN	NN	Number=Sing	1	obj	_	start_char=386|end_char=391
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=392|end_char=395
+9	research	research	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=396|end_char=404
+10	occult	occult	ADJ	JJ	Degree=Pos	11	amod	_	start_char=405|end_char=411
+11	societies	society	NOUN	NNS	Number=Plur	9	obj	_	start_char=412|end_char=421
+12	.	.	PUNCT	.	_	1	punct	_	start_char=421|end_char=422
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=423|end_char=427
+2	into	into	ADP	IN	_	3	case	_	start_char=428|end_char=432
+3	Aryans	Aryan	PROPN	NNPS	Number=Plur	1	obl	_	start_char=433|end_char=439
+4	,	,	PUNCT	,	_	5	punct	_	start_char=439|end_char=440
+5	Phoenicians	Phoenicians	PROPN	NNPS	Number=Plur	3	conj	_	start_char=441|end_char=452
+6	,	,	PUNCT	,	_	7	punct	_	start_char=452|end_char=453
+7	Hebrews	Hebrew	PROPN	NNPS	Number=Plur	3	conj	_	start_char=454|end_char=461
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=462|end_char=465
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=466|end_char=469
+10	Nephilim	Nephilim	PROPN	NNP	Number=Sing	3	conj	_	start_char=470|end_char=478
+11	.	.	PUNCT	.	_	1	punct	_	start_char=478|end_char=479
+

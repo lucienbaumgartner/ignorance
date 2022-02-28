@@ -1,0 +1,23 @@
+1	True	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	1	punct	_	start_char=4|end_char=5
+3	at	at	ADP	IN	_	9	advmod	_	start_char=6|end_char=8
+4	least	least	ADJ	JJS	Degree=Sup	3	fixed	_	start_char=9|end_char=14
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=15|end_char=19
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=20|end_char=23
+7	not	not	PART	RB	_	9	advmod	_	start_char=24|end_char=27
+8	,	,	PUNCT	,	_	9	punct	_	start_char=27|end_char=28
+9	blind	blind	ADJ	JJ	Degree=Pos	1	conj	_	start_char=29|end_char=34
+10	,	,	PUNCT	,	_	11	punct	_	start_char=34|end_char=35
+11	oblivious	oblivious	ADJ	JJ	Degree=Pos	9	conj	_	start_char=36|end_char=45
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=46|end_char=49
+13	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=50|end_char=57
+14	of	of	ADP	IN	_	16	case	_	start_char=58|end_char=60
+15	basic	basic	ADJ	JJ	Degree=Pos	16	amod	_	start_char=61|end_char=66
+16	things	thing	NOUN	NNS	Number=Plur	13	obl	_	start_char=67|end_char=73
+17	that	that	PRON	WDT	PronType=Rel	21	nsubj:pass	_	start_char=74|end_char=78
+18	can	can	AUX	MD	VerbForm=Fin	21	aux	_	start_char=79|end_char=82
+19	be	be	AUX	VB	VerbForm=Inf	21	aux:pass	_	start_char=83|end_char=85
+20	easily	easily	ADV	RB	_	21	advmod	_	start_char=86|end_char=92
+21	understood	understand	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	_	start_char=93|end_char=103
+22	.	.	PUNCT	.	_	1	punct	_	start_char=103|end_char=104
+

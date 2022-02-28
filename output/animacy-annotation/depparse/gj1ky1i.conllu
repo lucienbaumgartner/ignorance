@@ -1,0 +1,46 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	scrubbed	scrub	VERB	VBN	Tense=Past|VerbForm=Part	1	parataxis	_	start_char=5|end_char=13
+4	from	from	ADP	IN	_	6	case	_	start_char=14|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+6	internet	internet	NOUN	NN	Number=Sing	3	obl	_	start_char=23|end_char=31
+
+1	So	so	ADV	RB	_	8	advmod	_	start_char=33|end_char=35
+2	many	many	ADJ	JJ	Degree=Pos	8	nsubj	_	start_char=36|end_char=40
+3	of	of	ADP	IN	_	5	case	_	start_char=41|end_char=43
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=44|end_char=49
+5	people	people	NOUN	NNS	Number=Plur	2	nmod	_	start_char=50|end_char=56
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=57|end_char=59
+7	n’t	not	PART	RB	_	8	advmod	_	start_char=59|end_char=62
+8	seem	seem	VERB	VB	VerbForm=Inf	0	root	_	start_char=63|end_char=67
+9	to	to	PART	TO	_	10	mark	_	start_char=68|end_char=70
+10	know	know	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=71|end_char=75
+11	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=76|end_char=79
+12	*	*	PUNCT	NFP	_	13	punct	_	start_char=80|end_char=81
+13	anything	anything	PRON	NN	Number=Sing	15	nsubj	_	start_char=81|end_char=89
+14	*	*	PUNCT	NFP	_	13	punct	_	start_char=89|end_char=90
+15	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=91|end_char=96
+16	.	.	PUNCT	.	_	8	punct	_	start_char=96|end_char=97
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=98|end_char=102
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=102|end_char=105
+3	so	so	ADV	RB	_	4	advmod	_	start_char=106|end_char=108
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=109|end_char=115
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=116|end_char=119
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=120|end_char=128
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=129|end_char=133
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=134|end_char=135
+9	ca	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=136|end_char=138
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=138|end_char=141
+11	figure	figure	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=142|end_char=148
+12	out	out	ADP	RP	_	11	compound:prt	_	start_char=149|end_char=152
+13	how	how	SCONJ	WRB	PronType=Int	16	mark	_	start_char=153|end_char=156
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=157|end_char=161
+15	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=161|end_char=164
+16	able	able	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=165|end_char=169
+17	to	to	PART	TO	_	18	mark	_	start_char=170|end_char=172
+18	hold	hold	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=173|end_char=177
+19	down	down	ADP	RP	_	18	compound:prt	_	start_char=178|end_char=182
+20	jobs	job	NOUN	NNS	Number=Plur	18	obj	_	start_char=183|end_char=187
+21	.	.	PUNCT	.	_	4	punct	_	start_char=187|end_char=188
+

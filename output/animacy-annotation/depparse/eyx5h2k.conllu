@@ -1,0 +1,20 @@
+1	So	so	ADV	RB	_	4	advmod	_	start_char=0|end_char=2
+2	utterly	utterly	ADV	RB	_	4	advmod	_	start_char=3|end_char=10
+3	socially	socially	ADV	RB	_	4	advmod	_	start_char=11|end_char=19
+4	inept	inept	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=37
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=38|end_char=42
+8	there	there	PRON	EX	_	9	expl	_	start_char=43|end_char=48
+9	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=49|end_char=52
+10	regional	regional	ADJ	JJ	Degree=Pos	11	amod	_	start_char=53|end_char=61
+11	differences	difference	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=62|end_char=73
+12	in	in	SCONJ	IN	_	15	mark	_	start_char=74|end_char=76
+13	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=77|end_char=80
+14	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=81|end_char=87
+15	speak	speak	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl	_	start_char=88|end_char=93
+16	...	...	PUNCT	,	_	18	punct	_	start_char=93|end_char=96
+17	what	what	DET	WDT	PronType=Int	18	det	_	start_char=96|end_char=100
+18	fun	fun	NOUN	NN	Number=Sing	4	parataxis	_	start_char=101|end_char=104
+19	!	!	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+

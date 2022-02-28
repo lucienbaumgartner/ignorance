@@ -1,0 +1,55 @@
+1	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=6|end_char=8
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	start_char=9|end_char=12
+3	stating	state	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=13|end_char=20
+4	facts	fact	NOUN	NNS	Number=Plur	3	obj	_	start_char=21|end_char=26
+5	.	.	PUNCT	.	_	3	punct	_	start_char=26|end_char=27
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=28|end_char=31
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=32|end_char=34
+3	n't	not	PART	RB	_	4	advmod	_	start_char=34|end_char=37
+4	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=38|end_char=45
+5	but	but	CCONJ	CC	_	7	cc	_	start_char=46|end_char=49
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=50|end_char=53
+7	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=54|end_char=58
+8	across	across	ADV	RB	_	7	advmod	_	start_char=59|end_char=65
+9	as	as	ADP	IN	_	11	case	_	start_char=66|end_char=68
+10	so	so	ADV	RB	_	11	advmod	_	start_char=69|end_char=71
+11	unaware	unaware	ADJ	JJ	Degree=Pos	7	obl	_	start_char=72|end_char=79
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=80|end_char=83
+13	judgmental	judgmental	ADJ	JJ	Degree=Pos	11	conj	_	start_char=84|end_char=94
+
+1	these	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=96|end_char=101
+2	things	thing	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=102|end_char=108
+3	u	u	PRON	PRP	PronType=Prs	4	nsubj	_	start_char=109|end_char=110
+4	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=111|end_char=114
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=115|end_char=118
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=119|end_char=122
+7	reasons	reason	NOUN	NNS	Number=Plur	0	root	_	start_char=123|end_char=130
+8	why	why	SCONJ	WRB	PronType=Int	11	mark	_	start_char=131|end_char=134
+9	nobody	nobody	PRON	NN	Number=Sing	11	nsubj	_	start_char=135|end_char=141
+10	ever	ever	ADV	RB	_	11	advmod	_	start_char=142|end_char=146
+11	dares	dare	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=147|end_char=152
+12	communicate	communicate	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=153|end_char=164
+13	with	with	ADP	IN	_	15	case	_	start_char=165|end_char=169
+14	pw	pw	NOUN	NN	Number=Sing	15	compound	_	start_char=170|end_char=172
+15	BPD	bpd	NOUN	NN	Number=Sing	12	obl	_	start_char=173|end_char=176
+16	because	because	SCONJ	IN	_	22	mark	_	start_char=177|end_char=184
+17	none	none	NOUN	NN	Number=Sing	22	nsubj	_	start_char=185|end_char=189
+18	of	of	ADP	IN	_	19	case	_	start_char=190|end_char=192
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17	nmod	_	start_char=193|end_char=196
+20	ppl	ppl	NOUN	NNS	Number=Plur	17	nmod	_	start_char=197|end_char=200
+21	ever	ever	ADV	RB	_	22	advmod	_	start_char=201|end_char=205
+22	listen	listen	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=206|end_char=212
+23	to	to	ADP	IN	_	24	case	_	start_char=213|end_char=215
+24	shit	shit	NOUN	NN	Number=Sing	22	obl	_	start_char=216|end_char=220
+25	unless	unless	SCONJ	IN	_	27	mark	_	start_char=221|end_char=227
+26	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	start_char=228|end_char=230
+27	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	start_char=230|end_char=232
+28	to	to	PART	TO	_	29	mark	_	start_char=233|end_char=235
+29	worship	worship	VERB	VB	VerbForm=Inf	27	xcomp	_	start_char=236|end_char=243
+30	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	29	obj	_	start_char=244|end_char=247
+31	irrationally	irrationally	ADV	RB	_	29	advmod	_	start_char=248|end_char=260
+

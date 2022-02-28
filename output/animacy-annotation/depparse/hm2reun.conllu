@@ -1,0 +1,33 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	start_char=3|end_char=8
+3	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=12
+4	in	in	ADP	IN	_	5	case	_	start_char=13|end_char=15
+5	trouble	trouble	NOUN	NN	Number=Sing	3	obl	_	start_char=16|end_char=23
+6	if	if	SCONJ	IN	_	10	mark	_	start_char=24|end_char=26
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=27|end_char=29
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=30|end_char=34
+9	n’t	not	PART	RB	_	10	advmod	_	start_char=34|end_char=37
+10	pay	pay	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=38|end_char=41
+11	taxes	tax	NOUN	NNS	Number=Plur	10	obj	_	start_char=42|end_char=47
+12	on	on	ADP	IN	_	14	case	_	start_char=48|end_char=50
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=51|end_char=55
+14	income	income	NOUN	NN	Number=Sing	10	obl	_	start_char=56|end_char=62
+15	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=64|end_char=65
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=65|end_char=67
+3	assuming	assume	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=68|end_char=76
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=77|end_char=79
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=80|end_char=82
+6	n’t	not	PART	RB	_	9	advmod	_	start_char=82|end_char=85
+7	since	since	SCONJ	IN	_	9	mark	_	start_char=86|end_char=91
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=92|end_char=94
+9	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=95|end_char=101
+10	young	young	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=102|end_char=107
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=108|end_char=111
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=112|end_char=119
+13	of	of	ADP	IN	_	15	case	_	start_char=120|end_char=122
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=123|end_char=126
+15	process	process	NOUN	NN	Number=Sing	12	obl	_	start_char=127|end_char=134
+16	.	.	PUNCT	.	_	3	punct	_	start_char=134|end_char=135
+

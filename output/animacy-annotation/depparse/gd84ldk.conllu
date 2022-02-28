@@ -1,0 +1,28 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	too	too	ADV	RB	_	4	advmod	_	start_char=2|end_char=5
+3	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=6|end_char=11
+4	love	love	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=16
+5	to	to	PART	TO	_	8	mark	_	start_char=17|end_char=19
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=20|end_char=22
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=23|end_char=27
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=28|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=48
+11	of	of	ADP	IN	_	13	case	_	start_char=49|end_char=51
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=52|end_char=55
+13	world	world	NOUN	NN	Number=Sing	8	obl	_	start_char=56|end_char=61
+14	and	and	CCONJ	CC	_	16	cc	_	start_char=62|end_char=65
+15	other	other	ADJ	JJ	Degree=Pos	16	amod	_	start_char=66|end_char=71
+16	people	people	NOUN	NNS	Number=Plur	13	conj	_	start_char=72|end_char=78
+17	.	.	PUNCT	.	_	4	punct	_	start_char=78|end_char=79
+
+1	Alas	alas	INTJ	UH	_	6	discourse	_	start_char=80|end_char=84
+2	,	,	PUNCT	,	_	6	punct	_	start_char=84|end_char=85
+3	having	have	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=86|end_char=92
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=93|end_char=94
+5	conscience	conscience	NOUN	NN	Number=Sing	3	obj	_	start_char=95|end_char=105
+6	ruins	ruin	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=106|end_char=111
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=112|end_char=114
+8	for	for	ADP	IN	_	9	case	_	start_char=115|end_char=118
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obl	_	start_char=119|end_char=121
+

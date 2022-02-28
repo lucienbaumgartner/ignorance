@@ -1,0 +1,35 @@
+1	Things	thing	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=0|end_char=6
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=7|end_char=11
+3	changed	change	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=19
+4	,	,	PUNCT	,	_	3	punct	_	start_char=20|end_char=21
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=22|end_char=24
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=24|end_char=26
+7	not	not	PART	RB	_	10	advmod	_	start_char=27|end_char=30
+8	like	like	ADP	IN	_	10	case	_	start_char=31|end_char=35
+9	little	little	ADJ	JJ	Degree=Pos	10	amod	_	start_char=36|end_char=42
+10	house	house	NOUN	NN	Number=Sing	3	parataxis	_	start_char=43|end_char=48
+11	on	on	ADP	IN	_	13	case	_	start_char=49|end_char=51
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=52|end_char=55
+13	prairie	prairie	NOUN	NN	Number=Sing	10	nmod	_	start_char=56|end_char=63
+14	,	,	PUNCT	,	_	3	punct	_	start_char=63|end_char=64
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=65|end_char=68
+16	cities	city	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=69|end_char=75
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=76|end_char=79
+18	growing	grow	VERB	VBG	Tense=Pres|VerbForm=Part	3	parataxis	_	start_char=80|end_char=87
+19	..	..	PUNCT	.	_	18	punct	_	start_char=88|end_char=90
+20	etc	etc	X	FW	_	10	conj	_	start_char=91|end_char=94
+21	..	..	PUNCT	.	_	3	punct	_	start_char=95|end_char=97
+
+1	Although	although	SCONJ	IN	_	9	mark	_	start_char=98|end_char=106
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=107|end_char=108
+3	good	good	ADJ	JJ	Degree=Pos	4	amod	_	start_char=109|end_char=113
+4	percentage	percentage	NOUN	NN	Number=Sing	9	nsubj	_	start_char=114|end_char=124
+5	of	of	ADP	IN	_	6	case	_	start_char=125|end_char=127
+6	people	people	NOUN	NNS	Number=Plur	4	nmod	_	start_char=128|end_char=134
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=135|end_char=138
+8	still	still	ADV	RB	_	9	advmod	_	start_char=139|end_char=144
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=145|end_char=153
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=154|end_char=157
+11	racist	racist	ADJ	JJ	Degree=Pos	9	conj	_	start_char=158|end_char=164
+12	.	.	PUNCT	.	_	9	punct	_	start_char=165|end_char=166
+

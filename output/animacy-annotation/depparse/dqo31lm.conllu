@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	buying	buy	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=4|end_char=10
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=11|end_char=13
+5	non	non	ADJ	JJ	Degree=Pos	6	amod	_	start_char=14|end_char=17
+6	reddit	reddit	NOUN	NN	Number=Sing	8	compound	_	start_char=18|end_char=24
+7	aware	aware	ADJ	JJ	Degree=Pos	8	amod	_	start_char=25|end_char=30
+8	spouse	spouse	NOUN	NN	Number=Sing	3	obj	_	start_char=31|end_char=37
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=38|end_char=42
+10	Christmas	Christmas	PROPN	NNP	Number=Sing	8	appos	_	start_char=43|end_char=52
+11	.	.	PUNCT	.	_	3	punct	_	start_char=52|end_char=53
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=54|end_char=56
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=56|end_char=58
+3	not	not	PART	RB	_	6	advmod	_	start_char=59|end_char=62
+4	only	only	ADV	RB	_	6	advmod	_	start_char=63|end_char=67
+5	non	non	NOUN	NN	Number=Sing	6	det	_	start_char=68|end_char=71
+6	reddit	reddit	NOUN	NN	Number=Sing	0	root	_	start_char=72|end_char=78
+7	aware	aware	ADJ	JJ	Degree=Pos	6	amod	_	start_char=79|end_char=84
+8	,	,	PUNCT	,	_	11	punct	_	start_char=84|end_char=85
+9	but	but	CCONJ	CC	_	11	cc	_	start_char=86|end_char=89
+10	completely	completely	ADV	RB	_	11	advmod	_	start_char=90|end_char=100
+11	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=101|end_char=108
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=109|end_char=112
+13	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	start_char=113|end_char=118
+14	from	from	ADP	IN	_	17	case	_	start_char=119|end_char=123
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=124|end_char=127
+16	Far	Far	ADJ	NNP	Degree=Pos	17	amod	_	start_char=128|end_char=131
+17	East	East	PROPN	NNP	Number=Sing	13	obl	_	start_char=132|end_char=136
+18	.	.	PUNCT	.	_	6	punct	_	start_char=136|end_char=137
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=138|end_char=141
+2	company	company	NOUN	NN	Number=Sing	4	nsubj	_	start_char=142|end_char=149
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=150|end_char=153
+4	made	make	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=154|end_char=158
+5	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=159|end_char=162
+6	to	to	PART	TO	_	7	mark	_	start_char=163|end_char=165
+7	order	order	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=166|end_char=171
+8	and	and	CCONJ	CC	_	13	cc	_	start_char=172|end_char=175
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=176|end_char=178
+10	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=178|end_char=180
+11	currently	currently	ADV	RB	_	13	advmod	_	start_char=181|end_char=190
+12	in	in	ADP	IN	_	13	case	_	start_char=191|end_char=193
+13	shipping	shipping	NOUN	NN	Number=Sing	4	conj	_	start_char=194|end_char=202
+14	.	.	PUNCT	.	_	4	punct	_	start_char=202|end_char=203
+

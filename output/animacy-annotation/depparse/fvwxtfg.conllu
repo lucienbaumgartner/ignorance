@@ -1,0 +1,24 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9
+4	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=15
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=16|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=20|end_char=28
+7	,	,	PUNCT	,	_	4	punct	_	start_char=28|end_char=29
+8	that	that	SCONJ	IN	_	13	mark	_	start_char=30|end_char=34
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=35|end_char=38
+10	do	do	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=39|end_char=41
+11	n't	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=41|end_char=44
+12	even	even	ADV	RB	_	13	advmod	_	start_char=45|end_char=49
+13	see	see	VERB	VB	VerbForm=Inf	4	parataxis	_	start_char=50|end_char=53
+14	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=54|end_char=57
+15	ironically	ironically	ADV	RB	Degree=Pos	16	advmod	_	start_char=58|end_char=68
+16	dumb	dumb	ADJ	JJ	Degree=Pos	13	ccomp	_	start_char=69|end_char=73
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=74|end_char=78
+18	last	last	ADJ	JJ	Degree=Pos	19	amod	_	start_char=79|end_char=83
+19	comment	comment	NOUN	NN	Number=Sing	16	nsubj	_	start_char=84|end_char=91
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=92|end_char=95
+21	,	,	PUNCT	,	_	22	punct	_	start_char=95|end_char=96
+22	ahaha	ahaha	INTJ	UH	_	4	discourse	_	start_char=97|end_char=102
+23	.	.	PUNCT	.	_	4	punct	_	start_char=102|end_char=103
+

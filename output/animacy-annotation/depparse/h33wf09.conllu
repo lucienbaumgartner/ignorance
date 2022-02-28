@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	German	German	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=10
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=11|end_char=14
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=15|end_char=22
+6	of	of	ADP	IN	_	8	case	_	start_char=23|end_char=25
+7	both	both	DET	DT	_	8	det	_	start_char=26|end_char=30
+8	meanings	meaning	NOUN	NNS	Number=Plur	5	obl	_	start_char=31|end_char=39
+9	...	...	PUNCT	.	_	3	punct	_	start_char=39|end_char=42
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=43|end_char=46
+2	also	also	ADV	RB	_	6	advmod	_	start_char=47|end_char=51
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=52|end_char=53
+4	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=53|end_char=55
+5	in	in	ADP	IN	_	6	case	_	start_char=56|end_char=58
+6	public	public	ADJ	JJ	Degree=Pos	0	root	_	start_char=59|end_char=65
+7	so	so	ADV	RB	_	10	advmod	_	start_char=66|end_char=68
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=69|end_char=70
+9	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=70|end_char=72
+10	afraid	afraid	ADJ	JJ	Degree=Pos	6	parataxis	_	start_char=73|end_char=79
+11	to	to	ADP	IN	_	12	case	_	start_char=80|end_char=82
+12	Google	Google	PROPN	NNP	Number=Sing	10	obl	_	start_char=83|end_char=89
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obl	_	start_char=90|end_char=92
+14	.	.	PUNCT	.	_	6	punct	_	start_char=92|end_char=93
+
+1	What	what	PRON	WP	PronType=Int	3	nsubj	_	start_char=94|end_char=98
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=98|end_char=100
+3	cornholing	cornhol	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=101|end_char=111
+4	?	?	PUNCT	.	_	3	punct	_	start_char=111|end_char=112
+

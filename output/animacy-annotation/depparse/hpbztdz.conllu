@@ -1,0 +1,25 @@
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=4|end_char=6
+3	qualify	qualify	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=7|end_char=14
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=15|end_char=19
+5	statement	statement	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=29
+6	;	;	PUNCT	,	_	1	punct	_	start_char=29|end_char=30
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=31|end_char=39
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=40|end_char=43
+9	arrogant	arrogant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=52
+10	people	people	NOUN	NNS	Number=Plur	5	appos	_	start_char=53|end_char=59
+11	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=60|end_char=63
+12	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=64|end_char=68
+13	more	more	ADJ	JJR	Degree=Cmp	12	obj	_	start_char=69|end_char=73
+14	for	for	ADP	IN	_	17	case	_	start_char=74|end_char=77
+15	AM	am	NOUN	NN	Number=Sing	16	compound	_	start_char=78|end_char=80
+16	radio	radio	NOUN	NN	Number=Sing	17	compound	_	start_char=81|end_char=86
+17	ideologies	ideology	NOUN	NNS	Number=Plur	12	obl	_	start_char=87|end_char=97
+18	than	than	ADP	IN	_	21	case	_	start_char=98|end_char=102
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=103|end_char=108
+20	fellow	fellow	ADJ	JJ	Degree=Pos	21	amod	_	start_char=109|end_char=115
+21	man	man	NOUN	NN	Number=Sing	12	obl	_	start_char=116|end_char=119
+22	...	...	PUNCT	.	_	1	punct	_	start_char=119|end_char=122
+
+1	FTFY	FTFY	PROPN	NNP	Number=Sing	0	root	_	start_char=122|end_char=126
+

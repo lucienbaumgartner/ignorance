@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=7|end_char=12
+4	posts	post	NOUN	NNS	Number=Plur	2	obj	_	start_char=13|end_char=18
+5	where	where	SCONJ	WRB	PronType=Rel	7	mark	_	start_char=19|end_char=24
+6	everyone	everyone	PRON	NN	Number=Sing	7	nsubj	_	start_char=25|end_char=33
+7	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=34|end_char=39
+8	together	together	ADV	RB	_	7	advmod	_	start_char=40|end_char=48
+9	to	to	ADP	IN	_	10	case	_	start_char=49|end_char=51
+10	shit	shit	NOUN	NN	Number=Sing	7	obl	_	start_char=52|end_char=56
+11	on	on	ADP	IN	_	13	case	_	start_char=57|end_char=59
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=60|end_char=63
+13	OP	op	NOUN	NN	Number=Sing	7	obl	_	start_char=64|end_char=66
+14	for	for	SCONJ	IN	_	17	mark	_	start_char=67|end_char=70
+15	just	just	ADV	RB	_	17	advmod	_	start_char=71|end_char=75
+16	being	be	AUX	VBG	VerbForm=Ger	17	cop	_	start_char=76|end_char=81
+17	dumb	dumb	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=82|end_char=86
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=87|end_char=90
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	conj	_	start_char=91|end_char=98
+20	of	of	ADP	IN	_	21	case	_	start_char=99|end_char=101
+21	what	what	DET	WDT	PronType=Int	19	obl	_	start_char=102|end_char=106
+22	cringe	cringe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	start_char=107|end_char=113
+23	even	even	ADV	RB	_	24	advmod	_	start_char=114|end_char=118
+24	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	start_char=119|end_char=124
+

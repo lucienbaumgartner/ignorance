@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=7
+3	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+4	about	about	ADP	IN	_	5	case	_	start_char=14|end_char=19
+5	statistics	statistic	NOUN	NNS	Number=Plur	3	obl	_	start_char=20|end_char=30
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=31|end_char=34
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=35|end_char=38
+8	should	should	AUX	MD	VerbForm=Fin	9	aux	_	start_char=39|end_char=45
+9	delete	delete	VERB	VB	VerbForm=Inf	3	conj	_	start_char=46|end_char=52
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=53|end_char=57
+11	original	original	ADJ	JJ	Degree=Pos	12	amod	_	start_char=58|end_char=66
+12	post	post	NOUN	NN	Number=Sing	9	obj	_	start_char=67|end_char=71
+13	because	because	SCONJ	IN	_	16	mark	_	start_char=72|end_char=79
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=80|end_char=82
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=83|end_char=85
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=86|end_char=94
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=95|end_char=98
+18	stupid	stupid	ADJ	JJ	Degree=Pos	16	conj	_	start_char=99|end_char=105
+19	.	.	PUNCT	.	_	3	punct	_	start_char=105|end_char=106
+
+1	Repeating	repeat	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=107|end_char=116
+2	what	what	PRON	WP	PronType=Int	1	obj	_	start_char=117|end_char=121
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=122|end_char=123
+4	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=124|end_char=128
+5	back	back	ADV	RB	_	4	advmod	_	start_char=129|end_char=133
+6	at	at	ADP	IN	_	7	case	_	start_char=134|end_char=136
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=137|end_char=139
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=140|end_char=144
+9	n’t	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=144|end_char=147
+10	change	change	VERB	VB	VerbForm=Inf	0	root	_	start_char=148|end_char=154
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	10	obj	_	start_char=155|end_char=159
+12	.	.	PUNCT	.	_	10	punct	_	start_char=159|end_char=160
+

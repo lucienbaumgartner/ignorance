@@ -1,0 +1,31 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=7|end_char=11
+4	type	type	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=16
+5	of	of	ADP	IN	_	7	case	_	start_char=17|end_char=19
+6	age	age	NOUN	NN	Number=Sing	7	compound	_	start_char=20|end_char=23
+7	discrimination	discrimination	NOUN	NN	Number=Sing	4	nmod	_	start_char=24|end_char=38
+8	.	.	PUNCT	.	_	2	punct	_	start_char=38|end_char=39
+
+1	Making	make	VERB	VBG	VerbForm=Ger	11	csubj	_	start_char=40|end_char=46
+2	sweeping	sweeping	VERB	VBG	VerbForm=Ger	3	amod	_	start_char=47|end_char=55
+3	generalizations	generalization	NOUN	NNS	Number=Plur	1	obj	_	start_char=56|end_char=71
+4	about	about	ADP	IN	_	7	case	_	start_char=72|end_char=77
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=78|end_char=80
+6	entire	entire	ADJ	JJ	Degree=Pos	7	amod	_	start_char=81|end_char=87
+7	generation	generation	NOUN	NN	Number=Sing	3	nmod	_	start_char=88|end_char=98
+8	of	of	ADP	IN	_	9	case	_	start_char=99|end_char=101
+9	people	people	NOUN	NNS	Number=Plur	7	nmod	_	start_char=102|end_char=108
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=109|end_char=111
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=112|end_char=120
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=121|end_char=124
+13	juvenile	juvenile	ADJ	JJ	Degree=Pos	11	conj	_	start_char=125|end_char=133
+14	.	.	PUNCT	.	_	11	punct	_	start_char=133|end_char=134
+
+1	Obligatory	obligatory	ADJ	JJ	Degree=Pos	0	root	_	start_char=135|end_char=145
+2	:	:	PUNCT	:	_	5	punct	_	start_char=145|end_char=146
+3	“	''	PUNCT	``	_	5	punct	_	start_char=147|end_char=148
+4	ok	ok	ADJ	JJ	Degree=Pos	5	amod	_	start_char=148|end_char=150
+5	boomer	boomer	NOUN	NN	Number=Sing	1	appos	_	start_char=151|end_char=157
+6	”	''	PUNCT	''	_	5	punct	_	start_char=157|end_char=158
+

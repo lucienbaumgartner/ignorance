@@ -1,0 +1,26 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	privileged	privileged	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=27
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=28|end_char=31
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=32|end_char=40
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=41|end_char=45
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=46|end_char=49
+9	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=50|end_char=53
+10	shopping	shop	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=54|end_char=62
+11	for	for	ADP	IN	_	13	case	_	start_char=63|end_char=66
+12	superfluous	superfluous	ADJ	JJ	Degree=Pos	13	amod	_	start_char=67|end_char=78
+13	clothes	clothes	NOUN	NNS	Number=Plur	10	obl	_	start_char=79|end_char=86
+14	in	in	ADP	IN	_	17	case	_	start_char=87|end_char=89
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=90|end_char=93
+16	same	same	ADJ	JJ	Degree=Pos	17	amod	_	start_char=94|end_char=98
+17	category	category	NOUN	NN	Number=Sing	13	nmod	_	start_char=99|end_char=107
+18	as	as	ADP	IN	_	19	case	_	start_char=108|end_char=110
+19	electricity	electricity	NOUN	NN	Number=Sing	17	nmod	_	start_char=111|end_char=122
+20	or	or	CCONJ	CC	_	21	cc	_	start_char=123|end_char=125
+21	running	run	VERB	VBG	VerbForm=Ger	22	amod	_	start_char=126|end_char=133
+22	water	water	NOUN	NN	Number=Sing	19	conj	_	start_char=134|end_char=139
+23	or	or	CCONJ	CC	_	24	cc	_	start_char=140|end_char=142
+24	food	food	NOUN	NN	Number=Sing	19	conj	_	start_char=143|end_char=147
+25	.	.	PUNCT	.	_	1	punct	_	start_char=147|end_char=148
+

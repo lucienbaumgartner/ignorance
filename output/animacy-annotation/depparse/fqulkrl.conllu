@@ -1,0 +1,15 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=15
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=16|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=20|end_char=28
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=29|end_char=33
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=34|end_char=37
+9	could	could	AUX	MD	VerbForm=Fin	11	aux	_	start_char=38|end_char=43
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=43|end_char=46
+11	sense	sense	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=47|end_char=52
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=53|end_char=56
+13	sarcasm	sarcasm	NOUN	NN	Number=Sing	11	obj	_	start_char=57|end_char=64
+14	?	?	PUNCT	.	_	4	punct	_	start_char=64|end_char=65
+

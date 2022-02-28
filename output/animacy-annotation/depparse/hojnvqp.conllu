@@ -1,0 +1,29 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	richest	rich	ADJ	JJS	Degree=Sup	21	nsubj	_	start_char=4|end_char=11
+3	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=12|end_char=13
+4	factual	factual	ADJ	JJ	Degree=Pos	2	appos	_	start_char=13|end_char=20
+5	)	)	PUNCT	-RRB-	_	4	punct	_	start_char=20|end_char=21
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=22|end_char=25
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=26|end_char=29
+8	best	good	ADJ	JJS	Degree=Sup	2	conj	_	start_char=30|end_char=34
+9	(	(	PUNCT	-LRB-	_	12	punct	_	start_char=35|end_char=36
+10	if	if	SCONJ	IN	_	12	mark	_	start_char=36|end_char=38
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=39|end_char=42
+12	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=43|end_char=50
+13	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=51|end_char=58
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=59|end_char=62
+15	retarded	retarded	ADJ	JJ	Degree=Pos	13	conj	_	start_char=63|end_char=71
+16	nationalists	nationalist	NOUN	NNS	Number=Plur	12	obj	_	start_char=72|end_char=84
+17	calling	call	VERB	VBG	VerbForm=Ger	16	acl	_	start_char=85|end_char=92
+18	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	start_char=93|end_char=103
+19	patriots	patriot	NOUN	NNS	Number=Plur	17	obj	_	start_char=104|end_char=112
+20	)	)	PUNCT	-RRB-	_	12	punct	_	start_char=112|end_char=113
+21	country	country	NOUN	NN	Number=Sing	0	root	_	start_char=114|end_char=121
+22	in	in	ADP	IN	_	24	case	_	start_char=122|end_char=124
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=125|end_char=128
+24	world	world	NOUN	NN	Number=Sing	21	nmod	_	start_char=129|end_char=134
+25	.	.	PUNCT	.	_	21	punct	_	start_char=134|end_char=135
+
+1	Fucking	fucking	ADV	RB	_	2	advmod	_	start_char=137|end_char=144
+2	embarrassing	embarrassing	ADJ	JJ	Degree=Pos	0	root	_	start_char=145|end_char=157
+

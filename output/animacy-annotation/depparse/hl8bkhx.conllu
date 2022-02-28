@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=2|end_char=4
+3	n’t	not	PART	RB	_	5	advmod	_	start_char=4|end_char=7
+4	necessarily	necessarily	ADV	RB	_	5	advmod	_	start_char=8|end_char=19
+5	agree	agree	VERB	VB	VerbForm=Inf	0	root	_	start_char=20|end_char=25
+6	with	with	ADP	IN	_	7	case	_	start_char=26|end_char=30
+7	Eric	Eric	PROPN	NNP	Number=Sing	5	obl	_	start_char=31|end_char=35
+8	Andre	Andre	PROPN	NNP	Number=Sing	7	flat	_	start_char=36|end_char=41
+9	but	but	CCONJ	CC	_	17	cc	_	start_char=42|end_char=45
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=46|end_char=49
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=50|end_char=53
+12	Jerry	Jerry	PROPN	NNP	Number=Sing	10	conj	_	start_char=54|end_char=59
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=60|end_char=63
+14	/	/	PUNCT	,	_	17	cc	_	start_char=63|end_char=64
+15	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	cop	_	start_char=64|end_char=68
+16	still	still	ADV	RB	_	17	advmod	_	start_char=69|end_char=74
+17	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=75|end_char=82
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=83|end_char=86
+19	wrong	wrong	ADJ	JJ	Degree=Pos	17	conj	_	start_char=87|end_char=92
+20	.	.	PUNCT	.	_	5	punct	_	start_char=92|end_char=93
+

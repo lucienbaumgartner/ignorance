@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	problems	problem	NOUN	NNS	Number=Plur	0	root	_	start_char=4|end_char=12
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=13|end_char=16
+4	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=17|end_char=20
+5	originated	originate	VERB	VBN	Tense=Past|VerbForm=Part	2	acl:relcl	_	start_char=21|end_char=31
+6	not	not	ADV	RB	_	8	advmod	_	start_char=32|end_char=35
+7	in	in	SCONJ	IN	_	8	case	_	start_char=36|end_char=38
+8	what	what	PRON	WP	PronType=Int	5	obl	_	start_char=39|end_char=43
+9	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	acl:relcl	_	start_char=44|end_char=52
+10	-	-	PUNCT	,	_	9	punct	_	start_char=53|end_char=54
+11	but	but	CCONJ	CC	_	15	cc	_	start_char=55|end_char=58
+12	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=59|end_char=62
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=63|end_char=67
+14	parents	parent	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=68|end_char=75
+15	reacted	react	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	conj	_	start_char=76|end_char=83
+16	which	which	PRON	WDT	PronType=Rel	19	nsubj	_	start_char=84|end_char=89
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	start_char=90|end_char=93
+18	very	very	ADV	RB	_	19	advmod	_	start_char=94|end_char=98
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=99|end_char=107
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=108|end_char=111
+21	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	19	conj	_	start_char=112|end_char=125
+22	.	.	PUNCT	.	_	8	punct	_	start_char=125|end_char=126
+

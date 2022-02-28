@@ -1,0 +1,14 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=7|end_char=9
+4	dates	date	NOUN	NNS	Number=Plur	2	obj	_	start_char=10|end_char=15
+5	from	from	ADP	IN	_	6	case	_	start_char=16|end_char=20
+6	afar	afar	NOUN	NN	Number=Sing	2	obl	_	start_char=21|end_char=25
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=26|end_char=29
+8	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=30|end_char=37
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=38|end_char=42
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	start_char=43|end_char=47
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=48|end_char=51
+12	being	be	AUX	VBG	VerbForm=Ger	13	aux:pass	_	start_char=52|end_char=57
+13	watched	watch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	ccomp	_	start_char=58|end_char=65
+

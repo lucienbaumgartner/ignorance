@@ -1,0 +1,26 @@
+1	To	to	PART	TO	_	2	mark	_	start_char=0|end_char=2
+2	compare	compare	VERB	VB	VerbForm=Inf	10	csubj	_	start_char=3|end_char=10
+3	Texas	Texas	PROPN	NNP	Number=Sing	2	obj	_	start_char=11|end_char=16
+4	to	to	ADP	IN	_	6	case	_	start_char=17|end_char=19
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=20|end_char=23
+6	taliban	taliban	NOUN	NN	Number=Sing	2	obl	_	start_char=24|end_char=31
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=32|end_char=34
+8	so	so	ADV	RB	_	9	advmod	_	start_char=35|end_char=37
+9	wildly	wildly	ADV	RB	_	10	advmod	_	start_char=38|end_char=44
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=53
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=54|end_char=57
+12	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=58|end_char=64
+13	.	.	PUNCT	.	_	10	punct	_	start_char=64|end_char=65
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=66|end_char=68
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=68|end_char=70
+3	hilarious	hilarious	ADJ	JJ	Degree=Pos	0	root	_	start_char=71|end_char=80
+4	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=82|end_char=84
+2	god	god	NOUN	NN	Number=Sing	5	nsubj	_	start_char=85|end_char=88
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=89|end_char=92
+4	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=92|end_char=95
+5	pathetic	pathetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=96|end_char=104
+6	.	.	PUNCT	.	_	5	punct	_	start_char=104|end_char=105
+

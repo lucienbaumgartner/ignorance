@@ -1,0 +1,27 @@
+1	“	''	PUNCT	``	_	5	punct	_	start_char=0|end_char=1
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=1|end_char=2
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+4	not	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=5|end_char=8
+5	familiar	familiar	ADJ	JJ	Degree=Pos	11	parataxis	_	start_char=9|end_char=17
+6	”	''	PUNCT	''	_	5	punct	_	start_char=17|end_char=18
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=19|end_char=22
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=23|end_char=25
+9	so	so	ADV	RB	_	10	advmod	_	start_char=26|end_char=28
+10	blissfully	blissfully	ADV	RB	_	11	advmod	_	start_char=29|end_char=39
+11	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=47
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=48|end_char=51
+13	naive	naive	ADJ	JJ	Degree=Pos	11	conj	_	start_char=52|end_char=57
+14	.	.	PUNCT	.	_	11	punct	_	start_char=57|end_char=58
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=59|end_char=62
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=62|end_char=64
+3	precious	precious	ADJ	JJ	Degree=Pos	0	root	_	start_char=65|end_char=73
+4	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	Protect	protect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=75|end_char=82
+2	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=83|end_char=86
+3	at	at	ADP	IN	_	5	case	_	start_char=87|end_char=89
+4	all	all	DET	DT	_	5	det	_	start_char=90|end_char=93
+5	costs	cost	NOUN	NNS	Number=Plur	1	obl	_	start_char=94|end_char=99
+6	.	.	PUNCT	.	_	1	punct	_	start_char=99|end_char=100
+

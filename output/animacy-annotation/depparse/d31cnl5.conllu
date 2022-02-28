@@ -1,0 +1,25 @@
+1	Up	up	ADP	IN	_	4	case	_	start_char=0|end_char=2
+2	to	to	ADP	IN	_	1	fixed	_	start_char=3|end_char=5
+3	you	you	PRON	PRP	Person=2|PronType=Prs	4	nmod:poss	_	start_char=6|end_char=9
+4	dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=10|end_char=14
+5	,	,	PUNCT	,	_	10	punct	_	start_char=14|end_char=15
+6	but	but	CCONJ	CC	_	10	cc	_	start_char=16|end_char=19
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=20|end_char=21
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=22|end_char=24
+9	n't	not	PART	RB	_	10	advmod	_	start_char=24|end_char=27
+10	like	like	VERB	VB	VerbForm=Inf	4	conj	_	start_char=28|end_char=32
+11	listening	listen	VERB	VBG	VerbForm=Ger	10	xcomp	_	start_char=33|end_char=42
+12	to	to	ADP	IN	_	13	case	_	start_char=43|end_char=45
+13	people	people	NOUN	NNS	Number=Plur	11	obl	_	start_char=46|end_char=52
+14	who	who	PRON	WP	PronType=Rel	16	nsubj	_	start_char=53|end_char=56
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=57|end_char=60
+16	hypocrites	hypocrite	NOUN	NNS	Number=Plur	13	acl:relcl	_	start_char=61|end_char=71
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=72|end_char=75
+18	completely	completely	ADV	RB	_	19	advmod	_	start_char=76|end_char=86
+19	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=87|end_char=94
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=95|end_char=98
+21	unapologetic	unapologetic	ADJ	JJ	Degree=Pos	19	conj	_	start_char=99|end_char=111
+22	about	about	ADP	IN	_	23	case	_	start_char=112|end_char=117
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	_	start_char=118|end_char=120
+24	.	.	PUNCT	.	_	4	punct	_	start_char=120|end_char=121
+

@@ -1,0 +1,51 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+3	No	no	INTJ	UH	Polarity=Neg	1	discourse	_	start_char=4|end_char=6
+4	.	.	PUNCT	.	_	1	punct	_	start_char=6|end_char=7
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=8|end_char=12
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=15
+3	n’t	not	PART	RB	Polarity=Neg	2	advmod	_	start_char=15|end_char=18
+4	.	.	PUNCT	.	_	2	punct	_	start_char=18|end_char=19
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=20|end_char=22
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=22|end_char=24
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=25|end_char=27
+4	aping	aping	NOUN	NN	Number=Sing	0	root	_	start_char=28|end_char=33
+5	of	of	ADP	IN	_	6	case	_	start_char=34|end_char=36
+6	1950s	1950s	NOUN	NNS	Number=Plur	4	nmod	_	start_char=37|end_char=42
+7	McCarthyism	McCarthyism	PROPN	NNP	Number=Sing	6	flat	_	start_char=43|end_char=54
+8	.	.	PUNCT	.	_	4	punct	_	start_char=54|end_char=55
+
+1	Amazing	amazing	ADJ	JJ	Degree=Pos	0	root	_	start_char=56|end_char=63
+2	that	that	SCONJ	IN	_	6	mark	_	start_char=64|end_char=68
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj:pass	_	start_char=69|end_char=73
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=74|end_char=76
+5	n’t	not	PART	RB	_	6	advmod	_	start_char=76|end_char=79
+6	ridiculed	ridicule	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	start_char=80|end_char=89
+7	-	-	PUNCT	,	_	1	punct	_	start_char=90|end_char=91
+8	as	as	SCONJ	IN	_	11	mark	_	start_char=92|end_char=94
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=95|end_char=97
+10	should	should	AUX	MD	VerbForm=Fin	11	aux	_	start_char=98|end_char=104
+11	be	be	AUX	VB	VerbForm=Inf	6	advcl	_	start_char=105|end_char=107
+12	-	-	PUNCT	,	_	1	punct	_	start_char=108|end_char=109
+13	after	after	SCONJ	IN	_	15	mark	_	start_char=110|end_char=115
+14	what	what	PRON	WP	PronType=Int	15	nsubj	_	start_char=116|end_char=120
+15	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=121|end_char=129
+16	THEN	then	ADV	RB	PronType=Dem	15	advmod	_	start_char=130|end_char=134
+17	.	.	PUNCT	.	_	1	punct	_	start_char=134|end_char=135
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=138|end_char=142
+2	country	country	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=143|end_char=150
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=151|end_char=153
+4	jam	jam	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=154|end_char=157
+5	packed	pack	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=158|end_char=164
+6	with	with	ADP	IN	_	7	case	_	start_char=165|end_char=169
+7	IDIOTS	idiot	NOUN	NNS	Number=Plur	5	obl	_	start_char=170|end_char=176
+8	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=177|end_char=180
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=181|end_char=184
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=185|end_char=193
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=194|end_char=197
+12	uneducated	uneducated	ADJ	JJ	Degree=Pos	10	conj	_	start_char=198|end_char=208
+13	.	.	PUNCT	.	_	5	punct	_	start_char=208|end_char=209
+

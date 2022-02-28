@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=7
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=7|end_char=10
+4	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=14
+5	failed	fail	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=15|end_char=21
+6	lolcow	lolcow	NOUN	NN	Number=Sing	4	obj	_	start_char=22|end_char=28
+7	.	.	PUNCT	.	_	4	punct	_	start_char=28|end_char=29
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=30|end_char=32
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=32|end_char=34
+3	pretty	pretty	ADV	RB	_	4	advmod	_	start_char=35|end_char=41
+4	damn	damn	ADV	RB	_	5	advmod	_	start_char=42|end_char=46
+5	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=51
+6	at	at	SCONJ	IN	_	8	mark	_	start_char=52|end_char=54
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=55|end_char=60
+8	unaware	unaware	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=61|end_char=68
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=69|end_char=72
+10	pathetic	pathetic	ADJ	JJ	Degree=Pos	8	conj	_	start_char=73|end_char=81
+11	.	.	PUNCT	.	_	5	punct	_	start_char=81|end_char=82
+

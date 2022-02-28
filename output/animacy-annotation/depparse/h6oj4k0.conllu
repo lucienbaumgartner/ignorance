@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=7|end_char=10
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=10|end_char=13
+5	joking	joke	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=14|end_char=20
+6	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	Because	because	SCONJ	IN	_	9	mark	_	start_char=22|end_char=29
+2	if	if	SCONJ	IN	_	5	mark	_	start_char=30|end_char=32
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=33|end_char=36
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=36|end_char=39
+5	not	not	PART	RB	_	4	advmod	_	start_char=40|end_char=43
+6	,	,	PUNCT	,	_	9	punct	_	start_char=43|end_char=44
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj:pass	_	start_char=45|end_char=46
+8	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=46|end_char=48
+9	baffled	baffle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=49|end_char=56
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=57|end_char=61
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=62|end_char=65
+12	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=65|end_char=68
+13	so	so	ADV	RB	_	14	advmod	_	start_char=69|end_char=71
+14	naive	naive	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=72|end_char=77
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=78|end_char=81
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=82|end_char=89
+17	of	of	ADP	IN	_	19	case	_	start_char=90|end_char=92
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=93|end_char=96
+19	state	state	NOUN	NN	Number=Sing	16	obl	_	start_char=97|end_char=102
+20	of	of	ADP	IN	_	21	case	_	start_char=103|end_char=105
+21	affairs	affair	NOUN	NNS	Number=Plur	19	nmod	_	start_char=106|end_char=113
+22	.	.	PUNCT	.	_	9	punct	_	start_char=113|end_char=114
+

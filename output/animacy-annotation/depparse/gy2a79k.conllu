@@ -1,0 +1,17 @@
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	3	nsubj	_	start_char=0|end_char=5
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=6|end_char=8
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=25
+6	of	of	ADP	IN	_	8	case	_	start_char=26|end_char=28
+7	DND	DND	PROPN	NNP	Number=Sing	8	compound	_	start_char=29|end_char=32
+8	shit	shit	NOUN	NN	Number=Sing	5	obl	_	start_char=33|end_char=37
+9	.	.	PUNCT	.	_	3	punct	_	start_char=37|end_char=38
+
+1	Can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=39|end_char=42
+2	Trent	Trent	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=43|end_char=48
+3	scry	scry	VERB	VB	VerbForm=Inf	0	root	_	start_char=49|end_char=53
+4	across	across	ADP	IN	_	5	case	_	start_char=54|end_char=60
+5	planes	plane	NOUN	NNS	Number=Plur	3	obl	_	start_char=61|end_char=67
+6	?	?	PUNCT	.	_	3	punct	_	start_char=67|end_char=68
+

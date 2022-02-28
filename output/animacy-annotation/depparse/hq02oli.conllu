@@ -1,0 +1,22 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	photo	photo	NOUN	NN	Number=Sing	3	nsubj	_	start_char=5|end_char=10
+3	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=17|end_char=19
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=20|end_char=24
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=25|end_char=30
+7	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=31|end_char=37
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=38|end_char=41
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=42|end_char=50
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=51|end_char=54
+11	hateful	hateful	ADJ	JJ	Degree=Pos	9	conj	_	start_char=55|end_char=62
+12	.	.	PUNCT	.	_	3	punct	_	start_char=62|end_char=63
+
+1	What	what	PRON	WP	PronType=Int	4	obj	_	start_char=65|end_char=69
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=70|end_char=74
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=75|end_char=77
+4	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	start_char=78|end_char=82
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=83|end_char=86
+6	?	?	PUNCT	.	_	4	punct	_	start_char=86|end_char=87
+
+1	🤔	🤔	PROPN	NNP	Number=Sing	0	root	_	start_char=88|end_char=89
+

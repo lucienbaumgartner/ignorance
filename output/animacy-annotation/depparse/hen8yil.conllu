@@ -1,0 +1,47 @@
+1	Seriously	seriously	ADV	RB	_	0	root	_	start_char=0|end_char=9
+2	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=11|end_char=14
+2	many	many	ADJ	JJ	Degree=Pos	3	amod	_	start_char=15|end_char=19
+3	times	time	NOUN	NNS	Number=Plur	6	obj	_	start_char=20|end_char=25
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=26|end_char=29
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=30|end_char=34
+6	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=35|end_char=43
+7	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=44|end_char=47
+8	past	past	ADJ	JJ	Degree=Pos	12	amod	_	start_char=48|end_char=52
+9	12	12	NUM	CD	NumType=Card	12	nummod	_	start_char=53|end_char=55
+10	or	or	CCONJ	CC	_	11	cc	_	start_char=56|end_char=58
+11	so	so	ADV	RB	_	9	conj	_	start_char=59|end_char=61
+12	years	year	NOUN	NNS	Number=Plur	6	obj	_	start_char=62|end_char=67
+13	?	?	PUNCT	.	_	6	punct	_	start_char=67|end_char=68
+
+1	In	in	ADP	IN	_	2	case	_	start_char=70|end_char=72
+2	defense	defense	NOUN	NN	Number=Sing	16	obl	_	start_char=73|end_char=80
+3	of	of	ADP	IN	_	4	case	_	start_char=81|end_char=83
+4	most	most	ADJ	JJS	Degree=Sup	2	nmod	_	start_char=84|end_char=88
+5	of	of	ADP	IN	_	7	case	_	start_char=89|end_char=91
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=92|end_char=97
+7	ppl	ppl	NOUN	NNS	Number=Plur	4	nmod	_	start_char=98|end_char=101
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=102|end_char=106
+9	fall	fall	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=107|end_char=111
+10	for	for	ADP	IN	_	11	case	_	start_char=112|end_char=115
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=116|end_char=118
+12	,	,	PUNCT	,	_	16	punct	_	start_char=118|end_char=119
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=120|end_char=124
+14	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=124|end_char=127
+15	too	too	ADV	RB	Degree=Pos	16	advmod	_	start_char=128|end_char=131
+16	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=132|end_char=137
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=138|end_char=141
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=142|end_char=150
+19	of	of	ADP	IN	_	20	case	_	start_char=151|end_char=153
+20	history	history	NOUN	NN	Number=Sing	18	obl	_	start_char=154|end_char=161
+21	to	to	PART	TO	_	22	mark	_	start_char=162|end_char=164
+22	realize	realize	VERB	VB	VerbForm=Inf	16	advcl	_	start_char=165|end_char=172
+23	that	that	SCONJ	IN	_	26	mark	_	start_char=173|end_char=177
+24	this	this	PRON	DT	Number=Sing|PronType=Dem	26	nsubj	_	start_char=178|end_char=182
+25	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	start_char=183|end_char=186
+26	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	22	ccomp	_	start_char=187|end_char=195
+27	previously	previously	ADV	RB	_	26	advmod	_	start_char=196|end_char=206
+28	already	already	ADV	RB	_	26	advmod	_	start_char=207|end_char=214
+29	…	…	PUNCT	.	_	16	punct	_	start_char=214|end_char=215
+

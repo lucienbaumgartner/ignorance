@@ -1,0 +1,42 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=3|end_char=5
+3	cowardly	cowardly	ADJ	JJ	Degree=Pos	4	advmod	_	start_char=6|end_char=14
+4	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=15|end_char=20
+5	on	on	ADP	IN	_	7	case	_	start_char=21|end_char=23
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=24|end_char=27
+7	facts	fact	NOUN	NNS	Number=Plur	4	obl	_	start_char=28|end_char=33
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=34|end_char=38
+9	vaccines	vaccine	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=39|end_char=47
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=48|end_char=51
+11	demonstrably	demonstrably	ADV	RB	_	12	advmod	_	start_char=52|end_char=64
+12	safe	safe	ADJ	JJ	Degree=Pos	7	acl	_	start_char=65|end_char=69
+13	.	.	PUNCT	.	_	4	punct	_	start_char=69|end_char=70
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=72|end_char=75
+2	excuses	excuse	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=76|end_char=83
+3	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=84|end_char=90
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=91|end_char=95
+5	for	for	SCONJ	IN	_	7	mark	_	start_char=96|end_char=99
+6	not	not	PART	RB	_	7	advmod	_	start_char=100|end_char=103
+7	getting	get	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=104|end_char=111
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	start_char=112|end_char=116
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=117|end_char=120
+10	so	so	ADV	RB	_	11	advmod	_	start_char=121|end_char=123
+11	inconsistent	inconsistent	ADJ	JJ	Degree=Pos	0	root	_	start_char=124|end_char=136
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=137|end_char=140
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=141|end_char=149
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=150|end_char=153
+15	based	base	VERB	VBN	Tense=Past|VerbForm=Part	11	conj	_	start_char=154|end_char=159
+16	on	on	ADP	IN	_	17	case	_	start_char=160|end_char=162
+17	cowardice	cowardice	NOUN	NN	Number=Sing	15	obl	_	start_char=163|end_char=172
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=173|end_char=176
+19	ignorance	ignorance	NOUN	NN	Number=Sing	17	conj	_	start_char=177|end_char=186
+20	alone	alone	ADV	RB	_	15	advmod	_	start_char=187|end_char=192
+21	.	.	PUNCT	.	_	11	punct	_	start_char=192|end_char=193
+
+1	Anti	Anti	ADJ	JJ	Degree=Pos	2	amod	_	start_char=195|end_char=199
+2	vaxxers	vaxxer	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=200|end_char=207
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=208|end_char=211
+4	cowards	coward	NOUN	NNS	Number=Plur	0	root	_	start_char=212|end_char=219
+5	.	.	PUNCT	.	_	4	punct	_	start_char=219|end_char=220
+

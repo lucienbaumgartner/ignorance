@@ -1,0 +1,42 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=3|end_char=8
+3	have	have	AUX	VB	VerbForm=Inf	5	aux	_	start_char=9|end_char=13
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=14|end_char=18
+5	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=23
+6	if	if	SCONJ	IN	_	10	mark	_	start_char=24|end_char=26
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=27|end_char=31
+8	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	start_char=32|end_char=35
+9	just	just	ADV	RB	_	10	advmod	_	start_char=36|end_char=40
+10	stolen	steal	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	_	start_char=41|end_char=47
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=48|end_char=51
+12	loot	loot	NOUN	NN	Number=Sing	10	obj	_	start_char=52|end_char=56
+13	.	.	PUNCT	.	_	5	punct	_	start_char=56|end_char=57
+
+1	Clearly	clearly	ADV	RB	_	2	advmod	_	start_char=58|end_char=65
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=74
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=75|end_char=78
+4	selfish	selfish	ADJ	JJ	Degree=Pos	2	conj	_	start_char=79|end_char=86
+5	.	.	PUNCT	.	_	2	punct	_	start_char=86|end_char=87
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=88|end_char=93
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=97
+3	some	some	DET	DT	_	6	det	_	start_char=98|end_char=102
+4	lovely	lovely	ADJ	JJ	Degree=Pos	6	amod	_	start_char=103|end_char=109
+5	discord	discord	NOUN	NN	Number=Sing	6	compound	_	start_char=110|end_char=117
+6	communities	community	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=118|end_char=129
+7	out	out	ADV	RB	_	8	advmod	_	start_char=130|end_char=133
+8	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=134|end_char=139
+9	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=140|end_char=143
+10	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=144|end_char=149
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=150|end_char=152
+12	glad	glad	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=153|end_char=157
+13	to	to	PART	TO	_	14	mark	_	start_char=158|end_char=160
+14	have	have	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=161|end_char=165
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	obj	_	start_char=166|end_char=169
+16	.	.	PUNCT	.	_	2	punct	_	start_char=169|end_char=170
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=171|end_char=174
+2	help	help	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=175|end_char=179
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=180|end_char=183
+4	.	.	PUNCT	.	_	2	punct	_	start_char=183|end_char=184
+

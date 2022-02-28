@@ -1,0 +1,111 @@
+1	Enlighten	enlighten	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=9
+2	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	1	obj	_	start_char=10|end_char=16
+3	?!	?!	PUNCT	.	_	1	punct	_	start_char=16|end_char=18
+
+1	As	as	ADP	IN	_	3	case	_	start_char=19|end_char=21
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=22|end_char=23
+3	parent	parent	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=30
+4	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=31|end_char=34
+5	lives	live	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=35|end_char=40
+6	with	with	ADP	IN	_	7	case	_	start_char=41|end_char=45
+7	autism	autism	NOUN	NN	Number=Sing	5	obl	_	start_char=46|end_char=52
+8	EVERY	every	DET	DT	_	10	det	_	start_char=53|end_char=58
+9	SINGLE	single	ADJ	JJ	Degree=Pos	10	amod	_	start_char=59|end_char=65
+10	DAY	day	NOUN	NN	Number=Sing	5	obl:tmod	_	start_char=66|end_char=69
+11	?	?	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	As	as	ADP	IN	_	2	case	_	start_char=71|end_char=73
+2	someone	someone	PRON	NN	Number=Sing	0	root	_	start_char=74|end_char=81
+3	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=82|end_char=85
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=86|end_char=89
+5	personally	personally	ADV	RB	_	6	advmod	_	start_char=90|end_char=100
+6	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	2	acl:relcl	_	start_char=101|end_char=112
+7	some	some	DET	DT	_	6	obj	_	start_char=113|end_char=117
+8	of	of	ADP	IN	_	10	case	_	start_char=118|end_char=120
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=121|end_char=124
+10	things	thing	NOUN	NNS	Number=Plur	7	nmod	_	start_char=125|end_char=131
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=132|end_char=135
+12	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=136|end_char=140
+13	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	_	start_char=141|end_char=150
+14	?	?	PUNCT	.	_	2	punct	_	start_char=150|end_char=151
+
+1	As	as	ADP	IN	_	2	case	_	start_char=152|end_char=154
+2	someone	someone	PRON	NN	Number=Sing	19	obl	_	start_char=155|end_char=162
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=163|end_char=166
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=167|end_char=170
+5	deep	deep	ADJ	JJ	Degree=Pos	6	amod	_	start_char=171|end_char=175
+6	fear	fear	NOUN	NN	Number=Sing	4	obj	_	start_char=176|end_char=180
+7	that	that	SCONJ	IN	_	13	mark	_	start_char=181|end_char=185
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=186|end_char=189
+9	teasing	teasing	NOUN	NN	Number=Sing	13	nsubj	_	start_char=190|end_char=197
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=198|end_char=201
+11	stigmatism	stigmatism	NOUN	NN	Number=Sing	9	conj	_	start_char=202|end_char=212
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=213|end_char=217
+13	get	get	VERB	VB	VerbForm=Inf	6	acl	_	start_char=218|end_char=221
+14	through	through	ADV	RB	_	13	advmod	_	start_char=222|end_char=229
+15	and	and	CCONJ	CC	_	19	cc	_	start_char=230|end_char=233
+16	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=234|end_char=236
+17	son	son	NOUN	NN	Number=Sing	19	nsubj	_	start_char=237|end_char=240
+18	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=241|end_char=245
+19	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=246|end_char=251
+20	about	about	SCONJ	IN	_	21	mark	_	start_char=252|end_char=257
+21	harming	harm	VERB	VBG	VerbForm=Ger	19	advcl	_	start_char=258|end_char=265
+22	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	21	obj	_	start_char=266|end_char=273
+23	?	?	PUNCT	.	_	19	punct	_	start_char=273|end_char=274
+
+1	ENLIGHTEN	enlighten	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=275|end_char=284
+2	MYSELF	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=285|end_char=291
+3	?!	?!	PUNCT	.	_	1	punct	_	start_char=291|end_char=293
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=294|end_char=297
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=298|end_char=301
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=302|end_char=303
+4	bigot	bigot	NOUN	NN	Number=Sing	0	root	_	start_char=304|end_char=309
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=310|end_char=313
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=314|end_char=315
+7	moron	moron	NOUN	NN	Number=Sing	4	conj	_	start_char=316|end_char=321
+8	.	.	PUNCT	.	_	4	punct	_	start_char=321|end_char=322
+
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=323|end_char=326
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=327|end_char=330
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=331|end_char=334
+4	problem	problem	NOUN	NN	Number=Sing	0	root	_	start_char=335|end_char=342
+5	.	.	PUNCT	.	_	4	punct	_	start_char=342|end_char=343
+
+1	Handicap	handicap	NOUN	NN	Number=Sing	0	root	_	start_char=344|end_char=352
+2	?	?	PUNCT	.	_	1	punct	_	start_char=352|end_char=353
+
+1	How	how	ADV	WRB	PronType=Int	0	root	_	start_char=354|end_char=357
+2	about	about	ADP	IN	_	4	case	_	start_char=358|end_char=363
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=364|end_char=367
+4	handicap	handicap	NOUN	NN	Number=Sing	1	obl	_	start_char=368|end_char=376
+5	of	of	SCONJ	IN	_	8	mark	_	start_char=377|end_char=379
+6	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=380|end_char=385
+7	so	so	ADV	RB	_	8	advmod	_	start_char=386|end_char=388
+8	narcissistic	narcissistic	ADJ	JJ	Degree=Pos	4	acl	_	start_char=389|end_char=401
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=402|end_char=405
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=406|end_char=413
+11	that	that	SCONJ	IN	_	14	mark	_	start_char=414|end_char=418
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=419|end_char=422
+13	would	would	AUX	MD	VerbForm=Fin	14	aux	_	start_char=423|end_char=428
+14	tell	tell	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=429|end_char=433
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=434|end_char=437
+16	parent	parent	NOUN	NN	Number=Sing	14	obj	_	start_char=438|end_char=444
+17	of	of	ADP	IN	_	20	case	_	start_char=445|end_char=447
+18	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=448|end_char=450
+19	autistic	autistic	ADJ	JJ	Degree=Pos	20	amod	_	start_char=451|end_char=459
+20	child	child	NOUN	NN	Number=Sing	16	nmod	_	start_char=460|end_char=465
+21	to	to	PART	TO	_	22	mark	_	start_char=466|end_char=468
+22	enlighten	enlighten	VERB	VB	VerbForm=Inf	14	advcl	_	start_char=469|end_char=478
+23	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	22	obj	_	start_char=479|end_char=489
+24	about	about	ADP	IN	_	22	obl	_	start_char=490|end_char=495
+25	..	..	PUNCT	,	_	26	punct	_	start_char=495|end_char=497
+26	autism	autism	NOUN	NN	Number=Sing	14	parataxis	_	start_char=498|end_char=504
+27	?!	?!	PUNCT	.	_	1	punct	_	start_char=504|end_char=506
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=507|end_char=510
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=510|end_char=513
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=514|end_char=515
+4	halfwit	halfwit	NOUN	NN	Number=Sing	0	root	_	start_char=516|end_char=523
+5	.	.	PUNCT	.	_	4	punct	_	start_char=523|end_char=524
+

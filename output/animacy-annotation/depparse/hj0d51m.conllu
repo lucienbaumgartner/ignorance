@@ -1,0 +1,35 @@
+1	Chris	Chris	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=6|end_char=8
+3	strangely	strangely	ADV	RB	_	5	advmod	_	start_char=9|end_char=18
+4	both	both	ADV	RB	_	5	advmod	_	start_char=19|end_char=23
+5	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=29
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=30|end_char=33
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=34|end_char=41
+8	of	of	ADP	IN	_	9	case	_	start_char=42|end_char=44
+9	things	thing	NOUN	NNS	Number=Plur	7	obl	_	start_char=45|end_char=51
+10	.	.	PUNCT	.	_	5	punct	_	start_char=51|end_char=52
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=54|end_char=56
+2	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=62
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=63|end_char=65
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=65|end_char=67
+5	unhealthy	unhealthy	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=68|end_char=77
+6	but	but	CCONJ	CC	_	10	cc	_	start_char=78|end_char=81
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=82|end_char=84
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=85|end_char=89
+9	n’t	not	PART	RB	Polarity=Neg	10	advmod	_	start_char=89|end_char=92
+10	care	care	VERB	VB	VerbForm=Inf	2	conj	_	start_char=93|end_char=97
+11	.	.	PUNCT	.	_	2	punct	_	start_char=97|end_char=98
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=100|end_char=102
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=102|end_char=104
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=105|end_char=108
+4	purest	pure	ADJ	JJS	Degree=Sup	5	amod	_	start_char=109|end_char=115
+5	form	form	NOUN	NN	Number=Sing	0	root	_	start_char=116|end_char=120
+6	of	of	SCONJ	IN	_	8	mark	_	start_char=121|end_char=123
+7	not	not	PART	RB	_	8	advmod	_	start_char=124|end_char=127
+8	caring	care	VERB	VBG	VerbForm=Ger	5	acl	_	start_char=128|end_char=134
+9	about	about	ADP	IN	_	10	case	_	start_char=135|end_char=140
+10	consequences	consequence	NOUN	NNS	Number=Plur	8	obl	_	start_char=141|end_char=153
+11	.	.	PUNCT	.	_	5	punct	_	start_char=153|end_char=154
+

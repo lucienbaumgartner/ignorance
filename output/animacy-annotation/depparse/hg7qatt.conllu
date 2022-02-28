@@ -1,0 +1,22 @@
+1	the	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	problem	problem	NOUN	NN	Number=Sing	8	nsubj	_	start_char=4|end_char=11
+3	with	with	ADP	IN	_	4	case	_	start_char=12|end_char=16
+4	Americans	American	PROPN	NNPS	Number=Plur	2	nmod	_	start_char=17|end_char=26
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=27|end_char=29
+6	n't	not	PART	RB	_	8	advmod	_	start_char=29|end_char=32
+7	not	not	PART	RB	_	8	advmod	_	start_char=33|end_char=36
+8	speaking	speak	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=37|end_char=45
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=46|end_char=49
+10	language	language	NOUN	NN	Number=Sing	8	obj	_	start_char=50|end_char=58
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=59|end_char=61
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=61|end_char=63
+13	mostly	mostly	ADV	RB	_	16	advmod	_	start_char=64|end_char=70
+14	being	be	AUX	VBG	VerbForm=Ger	16	cop	_	start_char=71|end_char=76
+15	obnoxiously	obnoxiously	ADV	RB	_	16	advmod	_	start_char=77|end_char=88
+16	loud	loud	ADJ	JJ	Degree=Pos	8	parataxis	_	start_char=89|end_char=93
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=94|end_char=97
+18	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=98|end_char=105
+19	of	of	ADP	IN	_	21	case	_	start_char=106|end_char=108
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=109|end_char=113
+21	surroundings	surroundings	NOUN	NNS	Number=Plur	18	obl	_	start_char=114|end_char=126
+

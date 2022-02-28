@@ -1,0 +1,31 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	seriously	seriously	ADV	RB	_	3	advmod	_	start_char=4|end_char=13
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=19
+4	spamming	spam	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=20|end_char=28
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=29|end_char=33
+6	shit	shit	NOUN	NN	Number=Sing	4	obj	_	start_char=34|end_char=38
+7	around	around	ADV	RB	_	4	advmod	_	start_char=39|end_char=45
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=46|end_char=48
+9	gonna	gonna	PART	TO	_	10	mark	_	start_char=49|end_char=54
+10	do	do	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=55|end_char=57
+11	anything	anything	PRON	NN	Number=Sing	10	obj	_	start_char=58|end_char=66
+12	?	?	PUNCT	.	_	3	punct	_	start_char=66|end_char=67
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=68|end_char=71
+2	all	all	DET	DT	_	1	det	_	start_char=72|end_char=75
+3	trully	trully	ADV	RB	_	4	advmod	_	start_char=76|end_char=82
+4	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=83|end_char=90
+5	Valve	Valve	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=91|end_char=96
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=97|end_char=99
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=100|end_char=104
+8	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=105|end_char=111
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=112|end_char=115
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=116|end_char=123
+11	of	of	ADP	IN	_	13	case	_	start_char=124|end_char=126
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=127|end_char=130
+13	state	state	NOUN	NN	Number=Sing	10	obl	_	start_char=131|end_char=136
+14	if	if	SCONJ	IN	_	15	mark	_	start_char=137|end_char=139
+15	tf	tf	PROPN	NNP	Number=Sing	8	advcl	_	start_char=140|end_char=142
+16	2	2	NUM	CD	NumType=Card	15	nummod	_	start_char=142|end_char=143
+17	?	?	PUNCT	.	_	4	punct	_	start_char=143|end_char=144
+

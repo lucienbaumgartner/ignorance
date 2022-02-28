@@ -1,0 +1,21 @@
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	everyone	everyone	PRON	NN	Number=Sing	4	nsubj	_	start_char=7|end_char=15
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=16|end_char=22
+5	to	to	PART	TO	_	6	mark	_	start_char=23|end_char=25
+6	condition	condition	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=26|end_char=35
+7	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	start_char=36|end_char=46
+8	to	to	PART	TO	_	10	mark	_	start_char=47|end_char=49
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=50|end_char=52
+10	selfish	selfish	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=53|end_char=60
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=61|end_char=64
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=65|end_char=73
+13	of	of	ADP	IN	_	15	case	_	start_char=74|end_char=76
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=77|end_char=80
+15	crisis	crisis	NOUN	NN	Number=Sing	12	obl	_	start_char=81|end_char=87
+16	others	other	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=88|end_char=94
+17	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=95|end_char=99
+18	to	to	PART	TO	_	19	mark	_	start_char=100|end_char=102
+19	deal	deal	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=103|end_char=107
+20	witj	witj	PUNCT	.	_	4	punct	_	start_char=108|end_char=112
+

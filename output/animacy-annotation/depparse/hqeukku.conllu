@@ -1,0 +1,25 @@
+1	Tankies	tanky	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=0|end_char=7
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=11
+3	people	people	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=12|end_char=18
+4	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=19|end_char=22
+5	wank	wank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=23|end_char=27
+6	over	over	ADP	IN	_	7	case	_	start_char=28|end_char=32
+7	Communism	Communism	PROPN	NNP	Number=Sing	5	obl	_	start_char=33|end_char=42
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=43|end_char=46
+9	Communists	Communist	PROPN	NNPS	Number=Plur	7	conj	_	start_char=47|end_char=57
+10	,	,	PUNCT	,	_	2	punct	_	start_char=57|end_char=58
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=59|end_char=63
+12	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=63|end_char=66
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=67|end_char=70
+14	arch	arch	ADJ	JJ	Degree=Pos	15	amod	_	start_char=71|end_char=75
+15	nemesis	nemesis	NOUN	NN	Number=Sing	2	parataxis	_	start_char=76|end_char=83
+16	of	of	ADP	IN	_	17	case	_	start_char=84|end_char=86
+17	Wehraboos	Wehraboos	PROPN	NNP	Number=Sing	15	nmod	_	start_char=87|end_char=96
+18	despite	despite	SCONJ	IN	_	21	mark	_	start_char=97|end_char=104
+19	being	be	AUX	VBG	VerbForm=Ger	21	cop	_	start_char=105|end_char=110
+20	equally	equally	ADV	RB	_	21	advmod	_	start_char=111|end_char=118
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=119|end_char=127
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=128|end_char=131
+23	annoying	annoying	ADJ	JJ	Degree=Pos	21	conj	_	start_char=132|end_char=140
+24	.	.	PUNCT	.	_	2	punct	_	start_char=140|end_char=141
+

@@ -1,0 +1,27 @@
+1	Lmao	lmao	INTJ	UH	_	7	discourse	_	start_char=0|end_char=4
+2	that	that	SCONJ	IN	_	7	mark	_	start_char=5|end_char=9
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=10|end_char=13
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=14|end_char=17
+5	so	so	ADV	RB	_	6	advmod	_	start_char=18|end_char=20
+6	incredibly	incredibly	ADV	RB	_	7	advmod	_	start_char=21|end_char=31
+7	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=42
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=43|end_char=46
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=47|end_char=55
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=56|end_char=60
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=61|end_char=64
+12	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=65|end_char=70
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	14	nsubj	_	start_char=71|end_char=75
+14	equals	equal	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=76|end_char=82
+15	even	even	ADV	RB	_	17	advmod	_	start_char=83|end_char=87
+16	1	1	NUM	CD	NumType=Card	17	nummod	_	start_char=88|end_char=89
+17	%	%	SYM	NN	Number=Sing	14	obj	_	start_char=89|end_char=90
+18	of	of	ADP	IN	_	19	case	_	start_char=91|end_char=93
+19	what	what	PRON	WP	PronType=Int	17	nmod	_	start_char=94|end_char=98
+20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	_	start_char=99|end_char=102
+21	spend	spend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	start_char=103|end_char=108
+22	on	on	ADP	IN	_	23	case	_	start_char=109|end_char=111
+23	products	product	NOUN	NNS	Number=Plur	21	obl	_	start_char=112|end_char=120
+24	from	from	ADP	IN	_	25	case	_	start_char=121|end_char=125
+25	China	China	PROPN	NNP	Number=Sing	21	obl	_	start_char=126|end_char=131
+26	.	.	PUNCT	.	_	7	punct	_	start_char=131|end_char=132
+

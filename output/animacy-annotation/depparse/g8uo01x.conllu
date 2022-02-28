@@ -1,0 +1,33 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=8|end_char=11
+4	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	_	start_char=12|end_char=18
+5	clip	clip	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=23
+6	on	on	ADP	IN	_	8	case	_	start_char=24|end_char=26
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=27|end_char=31
+8	sub	sub	NOUN	NN	Number=Sing	5	nmod	_	start_char=32|end_char=35
+9	where	where	SCONJ	WRB	PronType=Rel	13	mark	_	start_char=36|end_char=41
+10	Gavin	Gavin	PROPN	NNP	Number=Sing	13	nsubj	_	start_char=42|end_char=47
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=48|end_char=50
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=51|end_char=54
+13	one	one	NOUN	NN	Number=Sing	5	acl:relcl	_	start_char=55|end_char=58
+14	to	to	PART	TO	_	15	mark	_	start_char=59|end_char=61
+15	make	make	VERB	VB	VerbForm=Inf	13	acl	_	start_char=62|end_char=66
+16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=67|end_char=70
+17	poorly	poorly	ADV	RB	_	18	advmod	_	start_char=71|end_char=77
+18	aged	aged	ADJ	JJ	Degree=Pos	19	amod	_	start_char=78|end_char=82
+19	comment	comment	NOUN	NN	Number=Sing	15	obj	_	start_char=83|end_char=90
+20	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=92|end_char=94
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=94|end_char=96
+3	like	like	SCONJ	IN	_	6	mark	_	start_char=97|end_char=101
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=102|end_char=104
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=104|end_char=106
+6	clairvoyant	clairvoyant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=107|end_char=118
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=119|end_char=122
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=123|end_char=130
+9	of	of	ADP	IN	_	10	case	_	start_char=131|end_char=133
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=134|end_char=136
+11	.	.	PUNCT	.	_	2	punct	_	start_char=136|end_char=137
+

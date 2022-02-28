@@ -1,0 +1,54 @@
+1	LOL	lol	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	!!	!!	PUNCT	.	_	1	punct	_	start_char=3|end_char=5
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=6|end_char=10
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=11|end_char=14
+3	n't	not	PART	RB	_	4	advmod	_	start_char=14|end_char=17
+4	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=23|end_char=25
+6	flawed	flawed	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=26|end_char=32
+7	.	.	PUNCT	.	_	4	punct	_	start_char=32|end_char=33
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=34|end_char=37
+2	being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=38|end_char=43
+3	uncoordinated	uncoordinated	ADJ	JJ	Degree=Pos	15	csubj	_	start_char=44|end_char=57
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=58|end_char=61
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=62|end_char=69
+6	of	of	ADP	IN	_	7	case	_	start_char=70|end_char=72
+7	wires	wire	NOUN	NNS	Number=Plur	5	obl	_	start_char=73|end_char=78
+8	in	in	ADP	IN	_	11	case	_	start_char=79|end_char=81
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=82|end_char=86
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=87|end_char=90
+11	home	home	NOUN	NN	Number=Sing	7	nmod	_	start_char=91|end_char=95
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=96|end_char=98
+13	not	not	PART	RB	_	15	advmod	_	start_char=99|end_char=102
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=103|end_char=108
+15	fault	fault	NOUN	NN	Number=Sing	0	root	_	start_char=109|end_char=114
+16	or	or	CCONJ	CC	_	17	cc	_	start_char=115|end_char=117
+17	problem	problem	NOUN	NN	Number=Sing	15	conj	_	start_char=118|end_char=125
+18	.	.	PUNCT	.	_	15	punct	_	start_char=125|end_char=126
+
+1	Next	next	ADJ	JJ	Degree=Pos	2	amod	_	start_char=128|end_char=132
+2	time	time	NOUN	NN	Number=Sing	10	obl:tmod	_	start_char=133|end_char=137
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=138|end_char=141
+4	plug	plug	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=142|end_char=146
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=147|end_char=149
+6	in	in	ADP	RP	_	4	compound:prt	_	start_char=150|end_char=152
+7	,	,	PUNCT	,	_	10	punct	_	start_char=152|end_char=153
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=154|end_char=157
+9	'll	will	AUX	MD	VerbForm=Fin	10	aux	_	start_char=157|end_char=160
+10	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=161|end_char=165
+11	sure	sure	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=166|end_char=170
+12	to	to	PART	TO	_	13	mark	_	start_char=171|end_char=173
+13	put	put	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=174|end_char=177
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=178|end_char=180
+15	out	out	ADP	RP	_	13	compound:prt	_	start_char=181|end_char=184
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=185|end_char=188
+17	way	way	NOUN	NN	Number=Sing	13	obj	_	start_char=189|end_char=192
+18	of	of	ADP	IN	_	22	case	_	start_char=193|end_char=195
+19	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=196|end_char=200
+20	clumsy	clumsy	ADJ	JJ	Degree=Pos	22	amod	_	start_char=201|end_char=207
+21	octopus	octopus	NOUN	NN	Number=Sing	22	compound	_	start_char=208|end_char=215
+22	feet	foot	NOUN	NNS	Number=Plur	17	nmod	_	start_char=216|end_char=220
+23	.	.	PUNCT	.	_	10	punct	_	start_char=220|end_char=221
+

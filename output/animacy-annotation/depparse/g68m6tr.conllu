@@ -1,0 +1,52 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	concur	concur	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=8
+3	.	.	PUNCT	.	_	2	punct	_	start_char=8|end_char=9
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=10|end_char=11
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=12|end_char=17
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	_	start_char=18|end_char=21
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=22|end_char=25
+5	nkla	nkla	NOUN	NNS	Number=Plur	3	conj	_	start_char=26|end_char=30
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=31|end_char=34
+7	linked	link	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=35|end_char=41
+8	together	together	ADV	RB	_	7	advmod	_	start_char=42|end_char=50
+9	even	even	ADV	RB	_	12	advmod	_	start_char=51|end_char=55
+10	if	if	SCONJ	IN	_	12	mark	_	start_char=56|end_char=58
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=59|end_char=61
+12	leaves	leave	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=62|end_char=68
+13	now	now	ADV	RB	_	12	advmod	_	start_char=69|end_char=72
+14	.	.	PUNCT	.	_	2	punct	_	start_char=72|end_char=73
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=74|end_char=75
+2	highly	highly	ADV	RB	_	3	advmod	_	start_char=76|end_char=82
+3	doubt	doubt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=83|end_char=88
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=89|end_char=92
+5	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=93|end_char=98
+6	c	c	NOUN	NN	Number=Sing	7	compound	_	start_char=99|end_char=100
+7	suites	suite	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=101|end_char=107
+8	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	_	start_char=108|end_char=112
+9	totally	totally	ADV	RB	_	12	advmod	_	start_char=113|end_char=120
+10	in	in	ADP	IN	_	12	case	_	start_char=121|end_char=123
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=124|end_char=127
+12	dark	dark	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=128|end_char=132
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=133|end_char=136
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=137|end_char=144
+15	of	of	ADP	IN	_	17	case	_	start_char=145|end_char=147
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=148|end_char=151
+17	shenanigans	shenanigan	NOUN	NNS	Number=Plur	14	obl	_	start_char=152|end_char=163
+18	.	.	PUNCT	.	_	3	punct	_	start_char=163|end_char=164
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=165|end_char=166
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=167|end_char=172
+3	nkla	nkla	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=173|end_char=177
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=178|end_char=180
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=181|end_char=186
+6	to	to	PART	TO	_	7	mark	_	start_char=187|end_char=189
+7	take	take	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=190|end_char=194
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=195|end_char=196
+9	major	major	ADJ	JJ	Degree=Pos	10	amod	_	start_char=197|end_char=202
+10	hit	hit	NOUN	NN	Number=Sing	7	obj	_	start_char=203|end_char=206
+11	either	either	DET	DT	_	12	det	_	start_char=207|end_char=213
+12	way	way	NOUN	NN	Number=Sing	7	obl:npmod	_	start_char=214|end_char=217
+13	.	.	PUNCT	.	_	2	punct	_	start_char=217|end_char=218
+

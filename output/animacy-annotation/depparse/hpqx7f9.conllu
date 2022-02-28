@@ -1,0 +1,10 @@
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+3	conservatives	conservative	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=7|end_char=20
+4	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=21|end_char=25
+5	people	people	NOUN	NNS	Number=Plur	4	obj	_	start_char=26|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=33|end_char=41
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=42|end_char=45
+8	illiterate	illiterate	ADJ	JJ	Degree=Pos	6	conj	_	start_char=46|end_char=56
+9	?	?	PUNCT	.	_	4	punct	_	start_char=56|end_char=57
+

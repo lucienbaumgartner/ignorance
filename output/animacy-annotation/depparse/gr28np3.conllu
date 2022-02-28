@@ -1,0 +1,23 @@
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=2
+2	friend	friend	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=9
+3	...	...	PUNCT	.	_	2	punct	_	start_char=9|end_char=12
+
+1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=13|end_char=17
+2	pure	pure	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=18|end_char=22
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=23|end_char=26
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=27|end_char=35
+5	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=37|end_char=41
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=42|end_char=44
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=45|end_char=46
+4	rabbit	rabbit	NOUN	NN	Number=Sing	5	compound	_	start_char=47|end_char=53
+5	hole	hole	NOUN	NN	Number=Sing	0	root	_	start_char=54|end_char=58
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=59|end_char=62
+7	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=63|end_char=65
+8	n't	not	PART	RB	_	10	advmod	_	start_char=65|end_char=68
+9	wanna	wanna	ADV	RB	_	10	advmod	_	start_char=69|end_char=74
+10	go	go	VERB	VB	VerbForm=Inf	5	acl:relcl	_	start_char=75|end_char=77
+11	down	down	ADP	RP	_	10	compound:prt	_	start_char=78|end_char=82
+12	.	.	PUNCT	.	_	5	punct	_	start_char=82|end_char=83
+

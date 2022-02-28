@@ -1,0 +1,25 @@
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	Alex	Alex	PROPN	NNP	Number=Sing	1	obj	_	start_char=5|end_char=9
+3	Jones	Jones	PROPN	NNP	Number=Sing	2	flat	_	start_char=10|end_char=15
+4	.	.	PUNCT	.	_	1	punct	_	start_char=15|end_char=16
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=18|end_char=19
+2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=20|end_char=25
+3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=26|end_char=29
+4	bullshit	bullshit	NOUN	NN	Number=Sing	16	nsubj	_	start_char=30|end_char=38
+5	with	with	ADP	IN	_	7	case	_	start_char=39|end_char=43
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=44|end_char=47
+7	parents	parent	NOUN	NNS	Number=Plur	4	nmod	_	start_char=48|end_char=55
+8	of	of	ADP	IN	_	12	case	_	start_char=56|end_char=58
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=59|end_char=62
+10	Sandy	Sandy	PROPN	NNP	Number=Sing	12	compound	_	start_char=63|end_char=68
+11	Hook	Hook	PROPN	NNP	Number=Sing	12	compound	_	start_char=69|end_char=73
+12	victims	victim	NOUN	NNS	Number=Plur	7	nmod	_	start_char=74|end_char=81
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=82|end_char=84
+14	both	both	CCONJ	CC	_	16	cc:preconj	_	start_char=85|end_char=89
+15	incredibly	incredibly	ADV	RB	_	16	advmod	_	start_char=90|end_char=100
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=101|end_char=109
+17	AND	and	CCONJ	CC	_	18	cc	_	start_char=110|end_char=113
+18	evil	evil	ADJ	JJ	Degree=Pos	16	conj	_	start_char=114|end_char=118
+19	.	.	PUNCT	.	_	2	punct	_	start_char=118|end_char=119
+

@@ -1,0 +1,17 @@
+1	Wrong	wrong	ADJ	JJ	Degree=Pos	10	advmod	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	10	punct	_	start_char=5|end_char=6
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=7|end_char=10
+4	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=11|end_char=16
+5	have	have	AUX	VB	VerbForm=Inf	10	aux	_	start_char=17|end_char=21
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	cop	_	start_char=22|end_char=26
+7	just	just	ADV	RB	_	10	advmod	_	start_char=27|end_char=31
+8	as	as	ADV	RB	_	9	advmod	_	start_char=32|end_char=34
+9	tactically	tactically	ADV	RB	_	10	advmod	_	start_char=35|end_char=45
+10	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=53
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=54|end_char=57
+12	dead	dead	ADJ	JJ	Degree=Pos	10	conj	_	start_char=58|end_char=62
+13	with	with	ADP	IN	_	16	case	_	start_char=63|end_char=67
+14	any	any	DET	DT	_	16	det	_	start_char=68|end_char=71
+15	other	other	ADJ	JJ	Degree=Pos	16	amod	_	start_char=72|end_char=77
+16	class	class	NOUN	NN	Number=Sing	10	obl	_	start_char=78|end_char=83
+

@@ -1,0 +1,26 @@
+1	Well	well	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	managed	manage	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=7|end_char=14
+4	to	to	PART	TO	_	5	mark	_	start_char=15|end_char=17
+5	recognise	recognise	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=18|end_char=27
+6	two	two	NUM	CD	NumType=Card	8	nummod	_	start_char=28|end_char=31
+7	different	different	ADJ	JJ	Degree=Pos	8	amod	_	start_char=32|end_char=41
+8	flags	flag	NOUN	NNS	Number=Plur	5	obj	_	start_char=42|end_char=47
+9	.	.	PUNCT	.	_	3	punct	_	start_char=47|end_char=48
+
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=49|end_char=54
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=55|end_char=58
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=58|end_char=61
+4	daft	daft	ADJ	JJ	Degree=Pos	0	root	_	start_char=62|end_char=66
+5	,	,	PUNCT	,	_	7	punct	_	start_char=66|end_char=67
+6	slightly	slightly	ADV	RB	_	7	advmod	_	start_char=68|end_char=76
+7	retarded	retarded	ADJ	JJ	Degree=Pos	4	conj	_	start_char=77|end_char=85
+8	,	,	PUNCT	,	_	10	punct	_	start_char=85|end_char=86
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=87|end_char=90
+10	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=91|end_char=98
+11	of	of	ADP	IN	_	13	case	_	start_char=99|end_char=101
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=102|end_char=105
+13	world	world	NOUN	NN	Number=Sing	10	obl	_	start_char=106|end_char=111
+14	around	around	ADP	IN	_	15	case	_	start_char=112|end_char=118
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	13	nmod	_	start_char=119|end_char=122
+

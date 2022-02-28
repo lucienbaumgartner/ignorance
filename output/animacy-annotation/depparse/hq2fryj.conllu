@@ -1,0 +1,47 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=9|end_char=11
+4	dumb	dumb	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=12|end_char=16
+5	for	for	SCONJ	IN	_	6	mark	_	start_char=17|end_char=20
+6	making	make	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=21|end_char=27
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=28|end_char=29
+8	blanket	blanket	NOUN	NN	Number=Sing	9	compound	_	start_char=30|end_char=37
+9	statement	statement	NOUN	NN	Number=Sing	6	obj	_	start_char=38|end_char=47
+10	that	that	PRON	WDT	PronType=Rel	14	mark	_	start_char=48|end_char=52
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=53|end_char=56
+12	'd	would	AUX	MD	VerbForm=Fin	14	aux	_	start_char=56|end_char=58
+13	never	never	ADV	RB	_	14	advmod	_	start_char=59|end_char=64
+14	see	see	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=65|end_char=68
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=69|end_char=70
+16	video	video	NOUN	NN	Number=Sing	14	obj	_	start_char=71|end_char=76
+17	of	of	ADP	IN	_	19	case	_	start_char=77|end_char=79
+18	American	American	ADJ	JJ	Degree=Pos	19	amod	_	start_char=80|end_char=88
+19	kids	kid	NOUN	NNS	Number=Plur	16	nmod	_	start_char=89|end_char=93
+20	doing	do	VERB	VBG	VerbForm=Ger	19	acl	_	start_char=94|end_char=99
+21	this	this	PRON	DT	Number=Sing|PronType=Dem	20	obj	_	start_char=100|end_char=104
+22	in	in	ADP	IN	_	23	case	_	start_char=105|end_char=107
+23	gym	gym	NOUN	NN	Number=Sing	20	obl	_	start_char=108|end_char=111
+24	.	.	PUNCT	.	_	2	punct	_	start_char=111|end_char=112
+
+1	Then	then	ADV	RB	PronType=Dem	2	advmod	_	start_char=113|end_char=117
+2	make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=118|end_char=122
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=123|end_char=124
+4	blanket	blanket	NOUN	NN	Number=Sing	5	compound	_	start_char=125|end_char=132
+5	statement	statement	NOUN	NN	Number=Sing	2	obj	_	start_char=133|end_char=142
+6	that	that	SCONJ	IN	_	11	mark	_	start_char=143|end_char=147
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=148|end_char=151
+8	whole	whole	ADJ	JJ	Degree=Pos	9	amod	_	start_char=152|end_char=157
+9	country	country	NOUN	NN	Number=Sing	11	nsubj	_	start_char=158|end_char=165
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=166|end_char=168
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	acl	_	start_char=169|end_char=177
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=178|end_char=181
+13	lazy	lazy	ADJ	JJ	Degree=Pos	11	conj	_	start_char=182|end_char=186
+14	.	.	PUNCT	.	_	2	punct	_	start_char=186|end_char=187
+
+1	Hypocrisy	hypocrisy	NOUN	NN	Number=Sing	2	nsubj	_	start_char=188|end_char=197
+2	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=198|end_char=203
+3	good	good	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=204|end_char=208
+4	on	on	ADP	IN	_	5	case	_	start_char=209|end_char=211
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	_	start_char=212|end_char=215
+6	.	.	PUNCT	.	_	2	punct	_	start_char=215|end_char=216
+

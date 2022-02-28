@@ -1,0 +1,26 @@
+1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	mom	mom	NOUN	NN	Number=Sing	6	nsubj	_	start_char=4|end_char=7
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=8|end_char=10
+4	so	so	ADV	RB	_	5	advmod	_	start_char=11|end_char=13
+5	culturally	culturally	ADV	RB	_	6	advmod	_	start_char=14|end_char=24
+6	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=49
+9	.	.	PUNCT	.	_	6	punct	_	start_char=49|end_char=50
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=51|end_char=55
+2	family	family	NOUN	NN	Number=Sing	5	nsubj	_	start_char=56|end_char=62
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=63|end_char=65
+4	so	so	ADV	RB	_	5	advmod	_	start_char=66|end_char=68
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=69|end_char=76
+6	annoying	annoying	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=77|end_char=85
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=86|end_char=89
+8	stuck	stick	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	start_char=90|end_char=95
+9	up	up	ADP	RP	_	8	compound:prt	_	start_char=96|end_char=98
+10	.	.	PUNCT	.	_	5	punct	_	start_char=98|end_char=99
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=100|end_char=101
+2	true	true	ADJ	JJ	Degree=Pos	3	amod	_	start_char=102|end_char=106
+3	Karen	Karen	PROPN	NNP	Number=Sing	0	root	_	start_char=107|end_char=112
+4	.	.	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+

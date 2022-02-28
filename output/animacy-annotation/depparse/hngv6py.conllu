@@ -1,0 +1,37 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	Chiron	Chiron	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=7|end_char=13
+4	in	in	ADP	IN	_	7	case	_	start_char=14|end_char=16
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=17|end_char=20
+6	2nd	2nd	ADJ	JJ	Degree=Pos|NumType=Ord	7	amod	_	start_char=21|end_char=24
+7	house	house	NOUN	NN	Number=Sing	3	nmod	_	start_char=25|end_char=30
+8	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=36
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obj	_	start_char=37|end_char=40
+10	feel	feel	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=41|end_char=45
+11	undervalued	undervalue	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=46|end_char=57
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=58|end_char=61
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=62|end_char=69
+14	of	of	ADP	IN	_	16	case	_	start_char=70|end_char=72
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=73|end_char=77
+16	worth	worth	NOUN	NN	Number=Sing	13	obl	_	start_char=78|end_char=83
+17	.	.	PUNCT	.	_	8	punct	_	start_char=83|end_char=84
+
+1	Chiron	Chiron	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=85|end_char=91
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=92|end_char=94
+3	also	also	ADV	RB	_	5	advmod	_	start_char=95|end_char=99
+4	in	in	ADP	IN	_	5	case	_	start_char=100|end_char=102
+5	Capricorn	Capricorn	PROPN	NNP	Number=Sing	0	root	_	start_char=103|end_char=112
+6	,	,	PUNCT	,	_	9	punct	_	start_char=112|end_char=113
+7	so	so	ADV	RB	_	9	advmod	_	start_char=114|end_char=116
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=117|end_char=121
+9	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=122|end_char=127
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	start_char=128|end_char=131
+11	feel	feel	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=132|end_char=136
+12	unnoticed	unnoticed	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=137|end_char=146
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=147|end_char=150
+14	not	not	PART	RB	_	15	advmod	_	start_char=151|end_char=154
+15	accomplished	accomplish	VERB	VBN	Tense=Past|VerbForm=Part	11	conj	_	start_char=155|end_char=167
+16	in	in	ADP	IN	_	17	case	_	start_char=168|end_char=170
+17	someway	someway	NOUN	NN	Number=Sing	15	obl	_	start_char=171|end_char=178
+18	.	.	PUNCT	.	_	5	punct	_	start_char=178|end_char=179
+

@@ -1,0 +1,21 @@
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	funny	funny	ADJ	JJ	Degree=Pos	11	nsubj	_	start_char=4|end_char=9
+3	as	as	ADP	IN	_	4	case	_	start_char=10|end_char=12
+4	hell	hell	NOUN	NN	Number=Sing	2	obl	_	start_char=13|end_char=17
+5	,	,	PUNCT	,	_	11	punct	_	start_char=17|end_char=18
+6	folks	folk	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=19|end_char=24
+7	like	like	ADP	IN	_	8	case	_	start_char=25|end_char=29
+8	these	this	PRON	DT	Number=Plur|PronType=Dem	6	nmod	_	start_char=30|end_char=35
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=36|end_char=39
+10	so	so	ADV	RB	_	11	advmod	_	start_char=40|end_char=42
+11	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=50
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=51|end_char=54
+13	shitty	shitty	ADJ	JJ	Degree=Pos	11	conj	_	start_char=55|end_char=61
+14	.	.	PUNCT	.	_	11	punct	_	start_char=61|end_char=62
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=63|end_char=67
+2	laugh	laugh	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=68|end_char=73
+3	at	at	ADP	IN	_	4	case	_	start_char=74|end_char=76
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obl	_	start_char=77|end_char=81
+5	mate	mate	NOUN	NN	Number=Sing	2	advmod	_	start_char=82|end_char=86
+

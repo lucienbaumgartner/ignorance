@@ -1,0 +1,61 @@
+1	Yet	yet	ADV	RB	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=5|end_char=9
+2	n't	not	PART	RB	_	3	advmod	_	start_char=9|end_char=12
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=17
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=18|end_char=19
+5	vaccine	vaccine	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=27
+6	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=28|end_char=32
+7	can	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=33|end_char=36
+8	entirely	entirely	ADV	RB	_	9	advmod	_	start_char=37|end_char=45
+9	stop	stop	VERB	VB	VerbForm=Inf	5	acl:relcl	_	start_char=46|end_char=50
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=51|end_char=53
+11	,	,	PUNCT	,	_	3	punct	_	start_char=53|end_char=54
+12	yet	yet	ADV	RB	_	3	advmod	_	start_char=55|end_char=58
+13	.	.	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+
+1	Unfortunately	unfortunately	ADV	RB	_	5	advmod	_	start_char=60|end_char=73
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=74|end_char=76
+3	probably	probably	ADV	RB	_	5	advmod	_	start_char=77|end_char=85
+4	never	never	ADV	RB	_	5	advmod	_	start_char=86|end_char=91
+5	will	will	AUX	MD	VerbForm=Fin	0	root	_	start_char=92|end_char=96
+6	if	if	SCONJ	IN	_	11	mark	_	start_char=97|end_char=99
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	start_char=100|end_char=102
+8	ca	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=103|end_char=105
+9	n't	not	PART	RB	_	11	advmod	_	start_char=105|end_char=108
+10	first	first	ADV	RB	_	11	advmod	_	start_char=109|end_char=114
+11	get	get	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=115|end_char=118
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=119|end_char=122
+13	people	people	NOUN	NNS	Number=Plur	11	obj	_	start_char=123|end_char=129
+14	who	who	PRON	WP	PronType=Rel	15	nsubj	_	start_char=130|end_char=133
+15	deny	deny	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=134|end_char=138
+16	vaccine	vaccine	NOUN	NN	Number=Sing	17	compound	_	start_char=139|end_char=146
+17	science	science	NOUN	NN	Number=Sing	15	obj	_	start_char=147|end_char=154
+18	all	all	ADV	RB	_	19	advmod	_	start_char=155|end_char=158
+19	together	together	ADV	RB	_	15	advmod	_	start_char=159|end_char=167
+20	to	to	PART	TO	_	21	mark	_	start_char=168|end_char=170
+21	stop	stop	VERB	VB	VerbForm=Inf	15	advcl	_	start_char=171|end_char=175
+22	being	be	AUX	VBG	VerbForm=Ger	24	cop	_	start_char=176|end_char=181
+23	so	so	ADV	RB	_	24	advmod	_	start_char=182|end_char=184
+24	selfish	selfish	ADJ	JJ	Degree=Pos	21	xcomp	_	start_char=185|end_char=192
+25	and	and	CCONJ	CC	_	26	cc	_	start_char=193|end_char=196
+26	ignorant	ignorant	ADJ	JJ	Degree=Pos	24	conj	_	start_char=197|end_char=205
+27	and	and	CCONJ	CC	_	30	cc	_	start_char=206|end_char=209
+28	un	un	ADJ	JJ	Degree=Pos	30	amod	_	start_char=210|end_char=212
+29	-	-	PUNCT	HYPH	_	30	punct	_	start_char=212|end_char=213
+30	American	American	ADJ	JJ	Degree=Pos	24	conj	_	start_char=213|end_char=221
+31	.	.	PUNCT	.	_	5	punct	_	start_char=221|end_char=222
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=223|end_char=227
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=228|end_char=231
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=232|end_char=235
+4	reason	reason	NOUN	NN	Number=Sing	5	compound	_	start_char=236|end_char=242
+5	delta	delta	NOUN	NN	Number=Sing	0	root	_	start_char=243|end_char=248
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=249|end_char=252
+7	omicron	omicron	NOUN	NN	Number=Sing	8	nsubj	_	start_char=253|end_char=260
+8	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=261|end_char=269
+9	.	.	PUNCT	.	_	5	punct	_	start_char=269|end_char=270
+
+1	🤷🏼	🤷🏼	PROPN	NNP	Number=Sing	0	root	_	start_char=271|end_char=273
+

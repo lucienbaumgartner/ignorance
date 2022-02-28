@@ -1,0 +1,21 @@
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=3|end_char=5
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=6|end_char=8
+4	,	,	PUNCT	,	_	11	punct	_	start_char=8|end_char=9
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=10|end_char=12
+6	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=12|end_char=14
+7	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=15|end_char=17
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=18|end_char=26
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=27|end_char=30
+10	unintentional	unintentional	ADJ	JJ	Degree=Pos	8	conj	_	start_char=31|end_char=44
+11	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=45|end_char=48
+12	.	.	PUNCT	.	_	11	punct	_	start_char=48|end_char=49
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=51|end_char=52
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=52|end_char=54
+3	not	not	PART	RB	_	4	advmod	_	start_char=55|end_char=58
+4	familiar	familiar	ADJ	JJ	Degree=Pos	0	root	_	start_char=59|end_char=67
+5	with	with	ADP	IN	_	6	case	_	start_char=68|end_char=72
+6	JoJo	JoJo	PROPN	NNP	Number=Sing	4	obl	_	start_char=73|end_char=77
+7	.	.	PUNCT	.	_	4	punct	_	start_char=77|end_char=78
+

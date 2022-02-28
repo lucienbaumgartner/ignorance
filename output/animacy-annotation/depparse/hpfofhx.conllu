@@ -1,0 +1,12 @@
+1	Do	do	AUX	VB	VerbForm=Fin	5	aux	_	start_char=0|end_char=2
+2	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=2|end_char=5
+3	just	just	ADV	RB	_	5	advmod	_	start_char=6|end_char=10
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=11|end_char=13
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=22
+6	,	,	PUNCT	,	_	8	punct	_	start_char=22|end_char=23
+7	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	8	cop	_	start_char=24|end_char=26
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	parataxis	_	start_char=27|end_char=35
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=36|end_char=39
+10	proud	proud	ADJ	JJ	Degree=Pos	8	conj	_	start_char=40|end_char=45
+11	!	!	PUNCT	.	_	5	punct	_	start_char=45|end_char=46
+

@@ -1,0 +1,36 @@
+1	Disagree	disagree	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=8
+2	.	.	PUNCT	.	_	1	punct	_	start_char=8|end_char=9
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=11|end_char=15
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=16|end_char=20
+3	yet	yet	ADV	RB	_	2	advmod	_	start_char=21|end_char=24
+4	to	to	PART	TO	_	6	mark	_	start_char=25|end_char=27
+5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	start_char=28|end_char=30
+6	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	start_char=31|end_char=37
+7	for	for	ADP	IN	_	8	case	_	start_char=38|end_char=41
+8	lies	lie	NOUN	NNS	Number=Plur	6	obl	_	start_char=42|end_char=46
+9	.	.	PUNCT	.	_	2	punct	_	start_char=46|end_char=47
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=49|end_char=51
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=51|end_char=53
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=57
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=58|end_char=61
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=62|end_char=70
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=71|end_char=75
+7	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=76|end_char=82
+8	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=83|end_char=88
+9	any	any	DET	DT	_	10	det	_	start_char=89|end_char=92
+10	opposition	opposition	NOUN	NN	Number=Sing	15	nsubj:pass	_	start_char=93|end_char=103
+11	to	to	ADP	IN	_	13	case	_	start_char=104|end_char=106
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=107|end_char=110
+13	dems	dem	NOUN	NNS	Number=Plur	10	nmod	_	start_char=111|end_char=115
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	start_char=116|end_char=118
+15	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	ccomp	_	start_char=119|end_char=123
+16	as	as	ADP	IN	_	20	case	_	start_char=124|end_char=126
+17	"	"	PUNCT	``	_	20	punct	_	start_char=127|end_char=128
+18	Republican	Republican	ADJ	JJ	Degree=Pos	20	amod	_	start_char=128|end_char=138
+19	talking	talking	NOUN	NN	Number=Sing	20	compound	_	start_char=139|end_char=146
+20	point	point	NOUN	NN	Number=Sing	15	obl	_	start_char=147|end_char=152
+21	"	"	PUNCT	''	_	20	punct	_	start_char=152|end_char=153
+22	.	.	PUNCT	.	_	3	punct	_	start_char=153|end_char=154
+

@@ -1,0 +1,47 @@
+1	No	no	DET	DT	_	2	det	_	start_char=0|end_char=2
+2	surprise	surprise	NOUN	NN	Number=Sing	0	root	_	start_char=3|end_char=11
+3	there	there	ADV	RB	PronType=Dem	2	advmod	_	start_char=12|end_char=17
+4	,	,	PUNCT	,	_	2	punct	_	start_char=17|end_char=18
+5	Trump	Trump	PROPN	NNP	Number=Sing	6	compound	_	start_char=19|end_char=24
+6	supporters	supporter	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=25|end_char=35
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=36|end_char=39
+8	racist	racist	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=40|end_char=46
+9	.	.	PUNCT	.	_	2	punct	_	start_char=46|end_char=47
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=48|end_char=52
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=53|end_char=55
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=56|end_char=59
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=60|end_char=64
+5	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=65|end_char=72
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=73|end_char=76
+7	.	.	PUNCT	.	_	3	punct	_	start_char=76|end_char=77
+
+1	Racists	racist	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=78|end_char=85
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=86|end_char=89
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=90|end_char=94
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=95|end_char=98
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=99|end_char=107
+6	,	,	PUNCT	,	_	3	punct	_	start_char=107|end_char=108
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=109|end_char=113
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=114|end_char=116
+9	why	why	SCONJ	WRB	PronType=Int	3	parataxis	_	start_char=117|end_char=120
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=121|end_char=125
+11	support	support	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=126|end_char=133
+12	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=134|end_char=137
+13	.	.	PUNCT	.	_	3	punct	_	start_char=137|end_char=138
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=142|end_char=145
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	_	start_char=146|end_char=150
+3	surprise	surprise	NOUN	NN	Number=Sing	4	nsubj	_	start_char=151|end_char=159
+4	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=160|end_char=163
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=164|end_char=168
+6	there	there	PRON	EX	_	7	expl	_	start_char=169|end_char=174
+7	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=175|end_char=178
+8	so	so	ADV	RB	_	9	advmod	_	start_char=179|end_char=181
+9	many	many	ADJ	JJ	Degree=Pos	11	amod	_	start_char=182|end_char=186
+10	dumb	dumb	ADJ	JJ	Degree=Pos	11	amod	_	start_char=187|end_char=191
+11	racists	racist	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=192|end_char=199
+12	in	in	ADP	IN	_	13	case	_	start_char=200|end_char=202
+13	America	America	PROPN	NNP	Number=Sing	11	nmod	_	start_char=203|end_char=210
+14	:(	:(	SYM	NFP	_	4	discourse	_	start_char=211|end_char=213
+

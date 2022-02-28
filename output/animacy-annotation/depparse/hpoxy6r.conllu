@@ -1,0 +1,51 @@
+1	Absolutely	absolutely	ADV	RB	_	0	root	_	start_char=0|end_char=10
+2	!	!	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	Very	very	ADV	RB	_	3	advmod	_	start_char=12|end_char=16
+2	near	near	ADP	IN	_	3	case	_	start_char=17|end_char=21
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	start_char=22|end_char=24
+4	there	there	PRON	EX	_	5	expl	_	start_char=25|end_char=30
+5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=31|end_char=33
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=34|end_char=35
+7	couple	couple	NOUN	NN	Number=Sing	5	nsubj	_	start_char=36|end_char=42
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=43|end_char=46
+9	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=47|end_char=51
+10	to	to	ADP	IN	_	14	case	_	start_char=52|end_char=54
+11	trump	trump	PROPN	NNP	Number=Sing	14	nmod:poss	_	start_char=55|end_char=60
+12	’s	's	PART	POS	_	11	case	_	start_char=60|end_char=62
+13	treasonous	treasonous	ADJ	JJ	Degree=Pos	14	amod	_	start_char=63|end_char=73
+14	rally	rally	NOUN	NN	Number=Sing	9	obl	_	start_char=74|end_char=79
+15	on	on	ADP	IN	_	17	case	_	start_char=80|end_char=82
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=83|end_char=86
+17	6th	6th	NOUN	NN	Number=Sing	9	obl	_	start_char=87|end_char=90
+18	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+
+1	Down	down	ADP	IN	_	3	case	_	start_char=92|end_char=96
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=97|end_char=100
+3	street	street	NOUN	NN	Number=Sing	7	nsubj	_	start_char=101|end_char=107
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=108|end_char=110
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=111|end_char=112
+6	Q	q	NOUN	NN	Number=Sing	7	compound	_	start_char=113|end_char=114
+7	guy	guy	NOUN	NN	Number=Sing	0	root	_	start_char=115|end_char=118
+8	.	.	PUNCT	.	_	7	punct	_	start_char=118|end_char=119
+
+1	trump	trump	PROPN	NNP	Number=Sing	2	compound	_	start_char=120|end_char=125
+2	flags	flag	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=126|end_char=131
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=132|end_char=135
+4	banners	banner	NOUN	NNS	Number=Plur	2	conj	_	start_char=136|end_char=143
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=144|end_char=148
+6	flown	fly	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=149|end_char=154
+7	all	all	ADV	RB	_	10	advmod	_	start_char=155|end_char=158
+8	over	over	ADP	IN	_	10	case	_	start_char=159|end_char=163
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=164|end_char=166
+10	neighborhood	neighborhood	NOUN	NN	Number=Sing	6	obl	_	start_char=167|end_char=179
+11	.	.	PUNCT	.	_	6	punct	_	start_char=179|end_char=180
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=181|end_char=186
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=187|end_char=193
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=194|end_char=197
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=198|end_char=206
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=207|end_char=210
+6	sick	sick	ADJ	JJ	Degree=Pos	4	conj	_	start_char=211|end_char=215
+7	.	.	PUNCT	.	_	4	punct	_	start_char=215|end_char=216
+

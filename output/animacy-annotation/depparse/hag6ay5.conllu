@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	no	no	DET	DT	_	4	det	_	start_char=8|end_char=10
+4	different	different	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=20
+5	than	than	ADP	IN	_	9	case	_	start_char=21|end_char=25
+6	gay	gay	ADJ	JJ	Degree=Pos	9	amod	_	start_char=26|end_char=29
+7	“	''	PUNCT	``	_	9	punct	_	start_char=30|end_char=31
+8	conversion	conversion	NOUN	NN	Number=Sing	9	compound	_	start_char=31|end_char=41
+9	therapy	therapy	NOUN	NN	Number=Sing	4	obl	_	start_char=42|end_char=49
+10	.	.	PUNCT	.	_	9	punct	_	start_char=49|end_char=50
+11	”	''	PUNCT	''	_	9	punct	_	start_char=50|end_char=51
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=52|end_char=54
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=54|end_char=56
+3	cruel	cruel	ADJ	JJ	Degree=Pos	0	root	_	start_char=57|end_char=62
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=63|end_char=66
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=67|end_char=75
+6	of	of	ADP	IN	_	8	case	_	start_char=76|end_char=78
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=79|end_char=82
+8	truth	truth	NOUN	NN	Number=Sing	5	obl	_	start_char=83|end_char=88
+9	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=92|end_char=95
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=96|end_char=100
+3	always	always	ADV	RB	_	4	advmod	_	start_char=101|end_char=107
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=108|end_char=112
+5	ADHD	ADHD	PROPN	NNP	Number=Sing	4	obj	_	start_char=113|end_char=117
+6	.	.	PUNCT	.	_	4	punct	_	start_char=117|end_char=118
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=119|end_char=123
+2	mom	mom	NOUN	NN	Number=Sing	3	nsubj	_	start_char=124|end_char=127
+3	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=128|end_char=133
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=134|end_char=137
+5	therapy	therapy	NOUN	NN	Number=Sing	3	obj	_	start_char=138|end_char=145
+6	.	.	PUNCT	.	_	3	punct	_	start_char=145|end_char=146
+

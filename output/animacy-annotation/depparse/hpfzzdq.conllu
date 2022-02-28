@@ -1,0 +1,35 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=7
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=8|end_char=10
+4	embarrassed	embarrass	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=11|end_char=22
+5	to	to	PART	TO	_	9	mark	_	start_char=23|end_char=25
+6	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=26|end_char=28
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=29|end_char=30
+8	black	black	ADJ	JJ	Degree=Pos	9	amod	_	start_char=31|end_char=36
+9	person	person	NOUN	NN	Number=Sing	4	xcomp	_	start_char=37|end_char=43
+10	in	in	ADP	IN	_	12	case	_	start_char=44|end_char=46
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=47|end_char=51
+12	country	country	NOUN	NN	Number=Sing	9	nmod	_	start_char=52|end_char=59
+13	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=61|end_char=66
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=67|end_char=73
+3	obviously	obviously	ADV	RB	_	4	advmod	_	start_char=74|end_char=83
+4	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=84|end_char=91
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=92|end_char=95
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=95|end_char=98
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=99|end_char=107
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=108|end_char=111
+9	helpless	helpless	ADJ	JJ	Degree=Pos	7	conj	_	start_char=112|end_char=120
+10	.	.	PUNCT	.	_	4	punct	_	start_char=120|end_char=121
+
+1	Not	not	PART	RB	_	2	advmod	_	start_char=123|end_char=126
+2	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=127|end_char=131
+3	why	why	SCONJ	WRB	PronType=Int	6	mark	_	start_char=132|end_char=135
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=136|end_char=139
+5	'd	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=139|end_char=141
+6	vote	vote	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=142|end_char=146
+7	for	for	ADP	IN	_	8	case	_	start_char=147|end_char=150
+8	that	that	PRON	DT	Number=Sing|PronType=Dem	6	obl	_	start_char=151|end_char=155
+9	.	.	PUNCT	.	_	2	punct	_	start_char=155|end_char=156
+

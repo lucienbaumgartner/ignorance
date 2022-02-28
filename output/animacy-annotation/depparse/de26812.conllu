@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	ones	one	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=4|end_char=8
+3	in	in	ADP	IN	_	4	case	_	start_char=9|end_char=11
+4	control	control	NOUN	NN	Number=Sing	2	nmod	_	start_char=12|end_char=19
+5	yes	yes	INTJ	UH	_	13	discourse	_	start_char=20|end_char=23
+6	,	,	PUNCT	,	_	13	punct	_	start_char=23|end_char=24
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=25|end_char=30
+8	supporters	supporter	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=31|end_char=41
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=42|end_char=45
+10	drones	drone	NOUN	NNS	Number=Plur	8	conj	_	start_char=46|end_char=52
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=53|end_char=56
+12	stupid	stupid	ADJ	JJ	Degree=Pos	13	amod	_	start_char=57|end_char=63
+13	fucks	fuck	NOUN	NNS	Number=Plur	0	root	_	start_char=64|end_char=69
+14	though	though	ADV	RB	_	13	advmod	_	start_char=70|end_char=76
+15	.	.	PUNCT	.	_	13	punct	_	start_char=76|end_char=77
+
+1	An	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=78|end_char=80
+2	unaware	unaware	ADJ	JJ	Degree=Pos	5	amod	_	start_char=81|end_char=88
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=89|end_char=92
+4	compliant	compliant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=93|end_char=102
+5	citizenry	citizenry	NOUN	NN	Number=Sing	0	root	_	start_char=103|end_char=112
+6	.	.	PUNCT	.	_	5	punct	_	start_char=112|end_char=113
+

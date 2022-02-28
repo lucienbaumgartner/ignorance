@@ -1,0 +1,25 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	naive	naive	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=36|end_char=40
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=41|end_char=44
+9	truly	truly	ADV	RB	_	10	advmod	_	start_char=45|end_char=50
+10	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=51|end_char=58
+11	that	that	SCONJ	IN	_	14	mark	_	start_char=59|end_char=63
+12	everybody	everybody	PRON	NN	Number=Sing	14	nsubj	_	start_char=64|end_char=73
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=74|end_char=76
+14	capable	capable	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=77|end_char=84
+15	of	of	SCONJ	IN	_	16	mark	_	start_char=85|end_char=87
+16	living	live	VERB	VBG	VerbForm=Ger	14	advcl	_	start_char=88|end_char=94
+17	life	life	NOUN	NN	Number=Sing	16	obj	_	start_char=95|end_char=99
+18	without	without	ADP	IN	_	19	case	_	start_char=100|end_char=107
+19	alcohol	alcohol	NOUN	NN	Number=Sing	16	obl	_	start_char=108|end_char=115
+20	or	or	CCONJ	CC	_	21	cc	_	start_char=116|end_char=118
+21	cigarettes	cigarette	NOUN	NNS	Number=Plur	19	conj	_	start_char=119|end_char=129
+22	or	or	CCONJ	CC	_	23	cc	_	start_char=130|end_char=132
+23	drugs	drug	NOUN	NNS	Number=Plur	19	conj	_	start_char=133|end_char=138
+24	.	.	PUNCT	.	_	1	punct	_	start_char=138|end_char=139
+

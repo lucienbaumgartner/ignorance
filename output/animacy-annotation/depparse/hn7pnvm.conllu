@@ -1,0 +1,33 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	attac	attac	VERB	VBD	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=11|end_char=13
+2	protec	prote	VERB	VBD	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=20
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=23|end_char=25
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=26|end_char=28
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=28|end_char=31
+4	get	get	AUX	VB	VerbForm=Inf	5	aux:pass	_	start_char=32|end_char=35
+5	paid	pay	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=36|end_char=40
+6	enough	enough	ADV	RB	_	5	advmod	_	start_char=41|end_char=47
+7	showing	show	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=48|end_char=55
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=56|end_char=60
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=61|end_char=64
+10	industry	industry	NOUN	NN	Number=Sing	12	nsubj	_	start_char=65|end_char=73
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=74|end_char=76
+12	corrupt	corrupt	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=77|end_char=84
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=85|end_char=88
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=89|end_char=97
+15	of	of	ADP	IN	_	18	case	_	start_char=98|end_char=100
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=101|end_char=104
+17	true	true	ADJ	JJ	Degree=Pos	18	amod	_	start_char=105|end_char=109
+18	beauty	beauty	NOUN	NN	Number=Sing	14	obl	_	start_char=110|end_char=116
+19	of	of	ADP	IN	_	21	case	_	start_char=117|end_char=119
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=120|end_char=123
+21	world	world	NOUN	NN	Number=Sing	18	nmod	_	start_char=124|end_char=129
+22	.	.	PUNCT	.	_	5	punct	_	start_char=129|end_char=130
+
+1	Aka	aka	ADP	IN	_	2	case	_	start_char=131|end_char=134
+2	cats	cat	NOUN	NNS	Number=Plur	0	root	_	start_char=135|end_char=139
+3	.	.	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+

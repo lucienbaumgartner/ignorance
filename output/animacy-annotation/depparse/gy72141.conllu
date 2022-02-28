@@ -1,0 +1,16 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=6
+3	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7|end_char=13
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	start_char=14|end_char=16
+5	look	look	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=17|end_char=21
+6	stupid	stupid	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=22|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=41
+9	of	of	ADP	IN	_	10	case	_	start_char=42|end_char=44
+10	science	science	NOUN	NN	Number=Sing	8	obl	_	start_char=45|end_char=52
+11	by	by	SCONJ	IN	_	12	mark	_	start_char=53|end_char=55
+12	promoting	promote	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=56|end_char=65
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=66|end_char=70
+14	rubbish	rubbish	NOUN	NN	Number=Sing	12	obj	_	start_char=71|end_char=78
+15	.	.	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+

@@ -1,0 +1,16 @@
+1	Man.	man.	NOUN	NN	Number=Sing	2	nsubj	_	start_char=0|end_char=4
+2	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	racist	racist	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=24
+5	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=26|end_char=29
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=30|end_char=34
+3	high	high	ADJ	JJ	Degree=Pos	4	amod	_	start_char=35|end_char=39
+4	ass	ass	NOUN	NN	Number=Sing	1	obj	_	start_char=40|end_char=43
+5	out	out	ADP	IN	_	8	case	_	start_char=44|end_char=47
+6	of	of	ADP	IN	_	8	case	_	start_char=48|end_char=50
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=51|end_char=55
+8	ass	ass	NOUN	NN	Number=Sing	1	obl	_	start_char=56|end_char=59
+9	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+

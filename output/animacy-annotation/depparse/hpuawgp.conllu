@@ -1,0 +1,21 @@
+1	Clearly	clearly	ADV	RB	Degree=Pos	5	advmod	_	start_char=0|end_char=7
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=14
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=14|end_char=17
+5	strength	strength	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=26
+6	train	train	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=27|end_char=32
+7	regularly	regularly	ADV	RB	Degree=Pos	6	advmod	_	start_char=33|end_char=42
+8	or	or	CCONJ	CC	_	12	cc	_	start_char=43|end_char=45
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=46|end_char=49
+10	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=50|end_char=55
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=55|end_char=58
+12	say	say	VERB	VB	VerbForm=Inf	5	conj	_	start_char=59|end_char=62
+13	something	something	NOUN	NN	Number=Sing	12	obj	_	start_char=63|end_char=72
+14	so	so	ADV	RB	_	15	advmod	_	start_char=73|end_char=75
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	amod	_	start_char=76|end_char=84
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=85|end_char=88
+17	devoid	devoid	ADJ	JJ	Degree=Pos	15	conj	_	start_char=89|end_char=95
+18	of	of	ADP	IN	_	19	case	_	start_char=96|end_char=98
+19	empathy	empathy	NOUN	NN	Number=Sing	17	obl	_	start_char=99|end_char=106
+20	.	.	PUNCT	.	_	5	punct	_	start_char=106|end_char=107
+

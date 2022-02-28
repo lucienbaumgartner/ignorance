@@ -1,0 +1,30 @@
+1	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	running	run	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=8|end_char=15
+3	away	away	ADV	RB	_	2	advmod	_	start_char=16|end_char=20
+4	from	from	ADP	IN	_	6	case	_	start_char=21|end_char=25
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=26|end_char=30
+6	country	country	NOUN	NN	Number=Sing	2	obl	_	start_char=31|end_char=38
+7	because	because	SCONJ	IN	_	11	mark	_	start_char=39|end_char=46
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=47|end_char=50
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	start_char=51|end_char=55
+10	too	too	ADV	RB	_	11	advmod	_	start_char=56|end_char=59
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=60|end_char=68
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=69|end_char=72
+13	useless	useless	ADJ	JJ	Degree=Pos	11	conj	_	start_char=73|end_char=80
+14	to	to	PART	TO	_	15	mark	_	start_char=81|end_char=83
+15	save	save	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=84|end_char=88
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=89|end_char=91
+17	.	.	PUNCT	.	_	1	punct	_	start_char=91|end_char=92
+
+1	Better	better	ADV	RBR	Degree=Cmp	2	advmod	_	start_char=93|end_char=99
+2	come	come	VERB	VB	VerbForm=Fin	0	root	_	start_char=100|end_char=104
+3	to	to	ADP	IN	_	4	case	_	start_char=105|end_char=107
+4	america	america	PROPN	NNP	Number=Sing	2	obl	_	start_char=108|end_char=115
+5	,	,	PUNCT	,	_	6	punct	_	start_char=115|end_char=116
+6	land	land	NOUN	NN	Number=Sing	2	parataxis	_	start_char=117|end_char=121
+7	of	of	ADP	IN	_	8	case	_	start_char=122|end_char=124
+8	terror	terror	NOUN	NN	Number=Sing	6	nmod	_	start_char=125|end_char=131
+9	????	????	PUNCT	.	_	2	punct	_	start_char=131|end_char=135
+
+1	lawjik	lawjik	PROPN	NNP	Number=Sing	0	root	_	start_char=137|end_char=143
+

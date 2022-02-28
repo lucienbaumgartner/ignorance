@@ -1,0 +1,42 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=1|end_char=4
+3	never	never	ADV	RB	_	4	advmod	_	start_char=5|end_char=10
+4	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=11|end_char=21
+5	anyone	anyone	PRON	NN	Number=Sing	4	obj	_	start_char=22|end_char=28
+6	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=29|end_char=32
+7	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=33|end_char=38
+8	so	so	ADV	RB	_	9	advmod	_	start_char=39|end_char=41
+9	hard	hard	ADV	RB	Degree=Pos	7	advmod	_	start_char=42|end_char=46
+10	to	to	PART	TO	_	11	mark	_	start_char=47|end_char=49
+11	look	look	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=50|end_char=54
+12	badass	badass	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=55|end_char=61
+13	while	while	SCONJ	IN	_	14	mark	_	start_char=62|end_char=67
+14	spouting	spout	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=68|end_char=76
+15	nonsense	nonsense	NOUN	NN	Number=Sing	14	obj	_	start_char=77|end_char=85
+16	,	,	PUNCT	,	_	18	punct	_	start_char=85|end_char=86
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=87|end_char=88
+18	badass	badass	ADJ	JJ	Degree=Pos	14	advmod	_	start_char=89|end_char=95
+19	.	.	PUNCT	.	_	4	punct	_	start_char=95|end_char=96
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=98|end_char=101
+2	just	just	ADV	RB	_	3	advmod	_	start_char=102|end_char=106
+3	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=107|end_char=112
+4	somewhere	somewhere	ADV	RB	_	3	advmod	_	start_char=113|end_char=122
+5	between	between	ADP	IN	_	6	case	_	start_char=123|end_char=130
+6	stubborn	stubborn	ADJ	JJ	Degree=Pos	3	obl	_	start_char=131|end_char=139
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=140|end_char=143
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=144|end_char=152
+9	.	.	PUNCT	.	_	3	punct	_	start_char=152|end_char=153
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=155|end_char=159
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	parataxis	_	start_char=160|end_char=164
+3	,	,	PUNCT	,	_	7	punct	_	start_char=164|end_char=165
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=166|end_char=168
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=168|end_char=170
+6	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=171|end_char=174
+7	podcast	podcast	NOUN	NN	Number=Sing	0	root	_	start_char=175|end_char=182
+8	,	,	PUNCT	,	_	10	punct	_	start_char=182|end_char=183
+9	so	so	ADV	RB	_	10	advmod	_	start_char=184|end_char=186
+10	whatever	whatever	PRON	WDT	PronType=Int	7	conj	_	start_char=187|end_char=195
+11	.	.	PUNCT	.	_	7	punct	_	start_char=195|end_char=196
+

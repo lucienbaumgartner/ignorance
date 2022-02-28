@@ -1,0 +1,16 @@
+1	17	17	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	_	start_char=0|end_char=2
+2	years	year	NOUN	NNS	Number=Plur	3	obl:npmod	_	start_char=3|end_char=8
+3	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=12
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=13|end_char=16
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=17|end_char=24
+6	that	that	SCONJ	IN	_	13	mark	_	start_char=25|end_char=29
+7	animal	animal	NOUN	NN	Number=Sing	8	compound	_	start_char=30|end_char=36
+8	products	product	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=37|end_char=45
+9	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=46|end_char=49
+10	n’t	not	PART	RB	Polarity=Neg	13	advmod	_	start_char=49|end_char=52
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=53|end_char=56
+12	only	only	ADJ	JJ	Degree=Pos	13	amod	_	start_char=57|end_char=61
+13	source	source	NOUN	NN	Number=Sing	5	ccomp	_	start_char=62|end_char=68
+14	of	of	ADP	IN	_	15	case	_	start_char=69|end_char=71
+15	protein	protein	NOUN	NN	Number=Sing	13	nmod	_	start_char=72|end_char=79
+

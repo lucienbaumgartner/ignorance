@@ -1,0 +1,22 @@
+1	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=7
+3	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=8|end_char=14
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=15|end_char=19
+5	prone	prone	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=25
+6	to	to	SCONJ	IN	_	11	mark	_	start_char=26|end_char=28
+7	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=29|end_char=34
+8	so	so	ADV	RB	_	10	advmod	_	start_char=35|end_char=37
+9	entirely	entirely	ADV	RB	_	10	advmod	_	start_char=38|end_char=46
+10	completely	completely	ADV	RB	_	11	advmod	_	start_char=47|end_char=57
+11	unaware	unaware	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=58|end_char=65
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=66|end_char=69
+13	disconnected	disconnect	VERB	VBN	Tense=Past|VerbForm=Part	11	conj	_	start_char=70|end_char=82
+14	from	from	ADP	IN	_	17	case	_	start_char=83|end_char=87
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=88|end_char=91
+16	obvious	obvious	ADJ	JJ	Degree=Pos	17	amod	_	start_char=92|end_char=99
+17	function	function	NOUN	NN	Number=Sing	13	obl	_	start_char=100|end_char=108
+18	in	in	ADP	IN	_	20	case	_	start_char=109|end_char=111
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=112|end_char=115
+20	world	world	NOUN	NN	Number=Sing	17	nmod	_	start_char=116|end_char=121
+21	?	?	PUNCT	.	_	5	punct	_	start_char=121|end_char=122
+

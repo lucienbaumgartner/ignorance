@@ -1,0 +1,75 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	mom	mom	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=8
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=9|end_char=11
+4	just	just	ADV	RB	_	5	advmod	_	start_char=12|end_char=16
+5	protecting	protect	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=17|end_char=27
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	_	start_char=28|end_char=31
+7	.	.	PUNCT	.	_	5	punct	_	start_char=31|end_char=32
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=33|end_char=36
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=37|end_char=39
+3	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=40|end_char=45
+4	.	.	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=47|end_char=50
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=51|end_char=54
+3	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=55|end_char=60
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=61|end_char=64
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=65|end_char=72
+6	of	of	ADP	IN	_	9	case	_	start_char=73|end_char=75
+7	all	all	DET	PDT	_	9	det:predet	_	start_char=76|end_char=79
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=80|end_char=83
+9	things	thing	NOUN	NNS	Number=Plur	5	obl	_	start_char=84|end_char=90
+10	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=91|end_char=95
+11	could	could	AUX	MD	VerbForm=Fin	12	aux	_	start_char=96|end_char=101
+12	happen	happen	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=102|end_char=108
+13	.	.	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=110|end_char=113
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=114|end_char=116
+3	not	not	PART	RB	_	4	advmod	_	start_char=117|end_char=120
+4	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=121|end_char=127
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=128|end_char=130
+6	personal	personal	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=131|end_char=139
+7	to	to	ADP	IN	_	9	case	_	start_char=140|end_char=142
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=143|end_char=147
+9	guy	guy	NOUN	NN	Number=Sing	6	obl	_	start_char=148|end_char=151
+10	.	.	PUNCT	.	_	4	punct	_	start_char=151|end_char=152
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=153|end_char=156
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=157|end_char=159
+3	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=160|end_char=166
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=167|end_char=168
+5	standard	standard	ADJ	JJ	Degree=Pos	6	amod	_	start_char=169|end_char=177
+6	policy	policy	NOUN	NN	Number=Sing	3	obj	_	start_char=178|end_char=184
+7	.	.	PUNCT	.	_	3	punct	_	start_char=184|end_char=185
+
+1	When	when	SCONJ	WRB	PronType=Int	4	mark	_	start_char=186|end_char=190
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=191|end_char=194
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=195|end_char=198
+4	18	18	NUM	CD	NumType=Card	7	advcl	_	start_char=199|end_char=201
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=202|end_char=205
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=206|end_char=209
+7	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=210|end_char=212
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=213|end_char=217
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=218|end_char=221
+10	thing	thing	NOUN	NN	Number=Sing	7	obj	_	start_char=222|end_char=227
+11	,	,	PUNCT	,	_	21	punct	_	start_char=227|end_char=228
+12	but	but	CCONJ	CC	_	21	cc	_	start_char=229|end_char=232
+13	while	while	SCONJ	IN	_	18	mark	_	start_char=233|end_char=238
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=239|end_char=242
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=243|end_char=246
+16	under	under	ADP	IN	_	18	case	_	start_char=247|end_char=252
+17	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=253|end_char=256
+18	care	care	NOUN	NN	Number=Sing	21	advcl	_	start_char=257|end_char=261
+19	,	,	PUNCT	,	_	21	punct	_	start_char=261|end_char=262
+20	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=263|end_char=266
+21	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=267|end_char=272
+22	to	to	PART	TO	_	23	mark	_	start_char=273|end_char=275
+23	make	make	VERB	VB	VerbForm=Inf	21	xcomp	_	start_char=276|end_char=280
+24	sure	sure	ADJ	JJ	Degree=Pos	23	xcomp	_	start_char=281|end_char=285
+25	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	27	nsubj	_	start_char=286|end_char=289
+26	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	cop	_	start_char=290|end_char=293
+27	okay	okay	ADJ	JJ	Degree=Pos	24	ccomp	_	start_char=294|end_char=298
+28	.	.	PUNCT	.	_	7	punct	_	start_char=298|end_char=299
+

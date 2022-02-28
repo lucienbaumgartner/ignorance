@@ -1,0 +1,33 @@
+1	During	during	ADP	IN	_	2	case	_	start_char=0|end_char=6
+2	surgery	surgery	NOUN	NN	Number=Sing	7	nmod	_	start_char=7|end_char=14
+3	,	,	PUNCT	,	_	7	punct	_	start_char=14|end_char=15
+4	hopefully	hopefully	ADV	RB	_	7	advmod	_	start_char=16|end_char=25
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=26|end_char=28
+6	expensive	expensive	ADJ	JJ	Degree=Pos	7	amod	_	start_char=29|end_char=38
+7	one	one	NOUN	NN	Number=Sing	0	root	_	start_char=39|end_char=42
+8	...	...	PUNCT	.	_	7	punct	_	start_char=42|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=46|end_char=47
+2	'll	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=47|end_char=50
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=51|end_char=53
+4	unconscious	unconscious	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=65
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=66|end_char=69
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=70|end_char=77
+7	of	of	ADP	IN	_	8	case	_	start_char=78|end_char=80
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=81|end_char=83
+9	...	...	PUNCT	.	_	4	punct	_	start_char=83|end_char=86
+
+1	Also	also	ADV	RB	_	7	advmod	_	start_char=87|end_char=91
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=92|end_char=94
+3	'll	will	AUX	MD	VerbForm=Fin	7	aux	_	start_char=94|end_char=97
+4	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=98|end_char=100
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=101|end_char=103
+6	final	final	ADJ	JJ	Degree=Pos	7	amod	_	start_char=104|end_char=109
+7	fuck	fuck	NOUN	NN	Number=Sing	0	root	_	start_char=110|end_char=114
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	appos	_	start_char=115|end_char=118
+9	too	too	ADV	RB	_	13	advmod	_	start_char=119|end_char=122
+10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=123|end_char=126
+11	expensive	expensive	ADJ	JJ	Degree=Pos	13	amod	_	start_char=127|end_char=136
+12	medical	medical	ADJ	JJ	Degree=Pos	13	amod	_	start_char=137|end_char=144
+13	bills	bill	NOUN	NNS	Number=Plur	7	appos	_	start_char=145|end_char=150
+

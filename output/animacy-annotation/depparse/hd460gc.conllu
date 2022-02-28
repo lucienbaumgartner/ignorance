@@ -1,0 +1,36 @@
+1	No	no	INTJ	UH	_	6	discourse	_	start_char=0|end_char=2
+2	-	-	PUNCT	,	_	6	punct	_	start_char=2|end_char=3
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=4|end_char=7
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=7|end_char=9
+5	so	so	ADV	RB	_	6	advmod	_	start_char=10|end_char=12
+6	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=13|end_char=20
+7	uneducated	uneducated	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=21|end_char=31
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=36|end_char=44
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=45|end_char=49
+11	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=50|end_char=53
+12	truly	truly	ADV	RB	_	13	advmod	_	start_char=54|end_char=59
+13	believes	believe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=60|end_char=68
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=69|end_char=71
+15	.	.	PUNCT	.	_	6	punct	_	start_char=71|end_char=72
+
+1	Gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=75|end_char=79
+2	in	in	ADP	IN	_	5	case	_	start_char=80|end_char=82
+3	cop	cop	NOUN	NN	Number=Sing	5	nmod:poss	_	start_char=83|end_char=86
+4	’s	's	PART	POS	_	3	case	_	start_char=86|end_char=88
+5	face	face	NOUN	NN	Number=Sing	1	obl	_	start_char=89|end_char=93
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=94|end_char=97
+7	yells	yell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=98|end_char=103
+8	inanities	inanity	NOUN	NNS	Number=Plur	7	obj	_	start_char=104|end_char=113
+9	at	at	ADP	IN	_	10	case	_	start_char=114|end_char=116
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	start_char=117|end_char=120
+11	for	for	ADP	IN	_	13	case	_	start_char=121|end_char=124
+12	two	two	NUM	CD	NumType=Card	13	nummod	_	start_char=125|end_char=128
+13	minutes	minute	NOUN	NNS	Number=Plur	7	obl	_	start_char=129|end_char=136
+14	...	...	PUNCT	.	_	1	punct	_	start_char=136|end_char=139
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=142|end_char=143
+2	DID	did	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=144|end_char=147
+3	NOTHING	nothing	PRON	NN	Number=Sing	2	obj	_	start_char=148|end_char=155
+4	WRONG	wrong	ADJ	JJ	Degree=Pos	3	amod	_	start_char=156|end_char=161
+

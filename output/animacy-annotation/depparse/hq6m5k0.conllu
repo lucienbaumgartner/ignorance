@@ -1,0 +1,26 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	same	same	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=8
+3	answer	answer	NOUN	NN	Number=Sing	14	nsubj	_	start_char=9|end_char=15
+4	for	for	ADP	IN	_	5	case	_	start_char=16|end_char=19
+5	why	why	SCONJ	WRB	PronType=Int	3	nmod	_	start_char=20|end_char=23
+6	any	any	DET	DT	_	8	det	_	start_char=24|end_char=27
+7	"	"	PUNCT	``	_	8	punct	_	start_char=28|end_char=29
+8	X	x	NOUN	NN	Number=Sing	14	nsubj	_	start_char=29|end_char=30
+9	"	"	PUNCT	''	_	8	punct	_	start_char=30|end_char=31
+10	in	in	ADP	IN	_	11	case	_	start_char=32|end_char=34
+11	Worm	Worm	PROPN	NNP	Number=Sing	8	nmod	_	start_char=35|end_char=39
+12	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=40|end_char=44
+13	n't	not	PART	RB	_	14	advmod	_	start_char=44|end_char=47
+14	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=48|end_char=52
+15	sense	sense	NOUN	NN	Number=Sing	14	obj	_	start_char=53|end_char=58
+16	:	:	PUNCT	:	_	14	punct	_	start_char=58|end_char=59
+17	Wildbow	Wildbow	PROPN	NNP	Number=Sing	24	nsubj	_	start_char=60|end_char=67
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=68|end_char=70
+19	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=71|end_char=72
+20	deeply	deeply	ADV	RB	_	21	advmod	_	start_char=73|end_char=79
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	24	amod	_	start_char=80|end_char=88
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=89|end_char=92
+23	pretentious	pretentious	ADJ	JJ	Degree=Pos	21	conj	_	start_char=93|end_char=104
+24	hack	hack	NOUN	NN	Number=Sing	14	parataxis	_	start_char=105|end_char=109
+25	.	.	PUNCT	.	_	14	punct	_	start_char=109|end_char=110
+

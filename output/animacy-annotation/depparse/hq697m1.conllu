@@ -1,0 +1,11 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	confident	confident	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=22
+4	.	.	PUNCT	.	_	1	punct	_	start_char=22|end_char=23
+
+1	Always	Always	ADV	RB	_	4	advmod	_	start_char=24|end_char=30
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=31|end_char=32
+3	great	great	ADJ	JJ	Degree=Pos	4	amod	_	start_char=33|end_char=38
+4	combo	combo	NOUN	NN	Number=Sing	0	root	_	start_char=39|end_char=44
+5	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+

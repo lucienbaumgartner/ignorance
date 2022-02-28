@@ -1,0 +1,21 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	fucking	fuck	VERB	VBG	VerbForm=Part	1	xcomp	_	start_char=17|end_char=24
+5	racist	racist	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=25|end_char=31
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=32|end_char=35
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=36|end_char=44
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=45|end_char=49
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=50|end_char=53
+10	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=54|end_char=56
+11	out	out	ADP	IN	_	14	case	_	start_char=57|end_char=60
+12	of	of	ADP	IN	_	14	case	_	start_char=61|end_char=63
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=64|end_char=68
+14	way	way	NOUN	NN	Number=Sing	10	obl	_	start_char=69|end_char=72
+15	to	to	PART	TO	_	16	mark	_	start_char=73|end_char=75
+16	tattoo	tattoo	VERB	VB	VerbForm=Inf	10	advcl	_	start_char=76|end_char=82
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=83|end_char=85
+18	on	on	ADP	IN	_	19	case	_	start_char=86|end_char=88
+19	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	16	obl	_	start_char=89|end_char=97
+20	😑	''	PUNCT	.	_	1	punct	_	start_char=98|end_char=99
+

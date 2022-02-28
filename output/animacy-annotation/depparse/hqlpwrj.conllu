@@ -1,0 +1,27 @@
+1	Rap	Rap	PROPN	NNP	Number=Sing	4	nsubj:pass	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=4|end_char=6
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=6|end_char=9
+4	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=10|end_char=15
+5	for	for	ADP	IN	_	9	mark	_	start_char=16|end_char=19
+6	white	white	ADJ	JJ	Degree=Pos	7	amod	_	start_char=20|end_char=25
+7	people	people	NOUN	NNS	Number=Plur	4	obl	_	start_char=26|end_char=32
+8	to	to	PART	TO	_	9	mark	_	start_char=33|end_char=35
+9	listen	listen	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=36|end_char=42
+10	to	to	ADP	IN	_	9	obl	_	start_char=43|end_char=45
+11	.	.	PUNCT	.	_	4	punct	_	start_char=45|end_char=46
+
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=47|end_char=51
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=52|end_char=56
+3	voice	voice	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=57|end_char=62
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=63|end_char=68
+5	opinion	opinion	NOUN	NN	Number=Sing	3	obj	_	start_char=69|end_char=76
+6	on	on	ADP	IN	_	7	case	_	start_char=77|end_char=79
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=80|end_char=82
+8	,	,	PUNCT	,	_	11	punct	_	start_char=82|end_char=83
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=84|end_char=86
+10	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=86|end_char=88
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=89|end_char=97
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=98|end_char=101
+13	unwarranted	unwarranted	ADJ	JJ	Degree=Pos	11	conj	_	start_char=102|end_char=113
+14	.	.	PUNCT	.	_	11	punct	_	start_char=113|end_char=114
+

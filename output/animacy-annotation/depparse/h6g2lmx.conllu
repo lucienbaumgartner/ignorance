@@ -1,0 +1,19 @@
+1	Just	just	ADV	RB	_	6	advmod	_	start_char=0|end_char=4
+2	like	like	SCONJ	IN	_	6	mark	_	start_char=5|end_char=9
+3	those	that	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=10|end_char=15
+4	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=16|end_char=22
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=23|end_char=26
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=27|end_char=37
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=38|end_char=41
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=42|end_char=50
+9	,	,	PUNCT	,	_	11	punct	_	start_char=50|end_char=51
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	start_char=52|end_char=56
+11	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=62
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=63|end_char=66
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=67|end_char=70
+14	too	too	ADV	RB	_	11	ccomp	_	start_char=71|end_char=74
+15	for	for	SCONJ	IN	_	16	mark	_	start_char=75|end_char=78
+16	hating	hate	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=79|end_char=85
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obj	_	start_char=86|end_char=90
+18	.	.	PUNCT	.	_	11	punct	_	start_char=90|end_char=91
+

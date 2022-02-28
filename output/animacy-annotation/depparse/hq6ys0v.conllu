@@ -1,0 +1,111 @@
+1	Even	even	ADV	RB	_	3	advmod	_	start_char=0|end_char=4
+2	after	after	ADP	IN	_	3	case	_	start_char=5|end_char=10
+3	all	all	DET	DT	_	10	obl	_	start_char=11|end_char=14
+4	of	of	ADP	IN	_	5	case	_	start_char=15|end_char=17
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nmod	_	start_char=18|end_char=22
+6	,	,	PUNCT	,	_	10	punct	_	start_char=22|end_char=23
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	start_char=24|end_char=27
+8	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=27|end_char=30
+9	still	still	ADV	RB	Degree=Pos	10	advmod	_	start_char=31|end_char=36
+10	choosing	choose	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=37|end_char=45
+11	to	to	PART	TO	_	17	mark	_	start_char=46|end_char=48
+12	be	be	AUX	VB	VerbForm=Inf	17	cop	_	start_char=49|end_char=51
+13	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=52|end_char=54
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	amod	_	start_char=55|end_char=63
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=64|end_char=67
+16	immature	immature	ADJ	JJ	Degree=Pos	14	conj	_	start_char=68|end_char=76
+17	kid	kid	NOUN	NN	Number=Sing	10	xcomp	_	start_char=77|end_char=80
+18	.	.	PUNCT	.	_	10	punct	_	start_char=80|end_char=81
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=82|end_char=85
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=86|end_char=90
+3	n't	not	PART	RB	_	4	advmod	_	start_char=90|end_char=93
+4	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=94|end_char=98
+5	jack	jack	PROPN	NNP	Number=Sing	6	compound	_	start_char=99|end_char=103
+6	shit	shit	NOUN	NN	Number=Sing	4	obj	_	start_char=104|end_char=108
+7	in	in	ADP	IN	_	9	case	_	start_char=109|end_char=111
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=112|end_char=116
+9	argument	argument	NOUN	NN	Number=Sing	4	obl	_	start_char=117|end_char=125
+10	.	.	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=127|end_char=130
+2	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=131|end_char=138
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=139|end_char=143
+4	argument	argument	NOUN	NN	Number=Sing	2	obj	_	start_char=144|end_char=152
+5	just	just	ADV	RB	_	7	advmod	_	start_char=153|end_char=157
+6	to	to	PART	TO	_	7	mark	_	start_char=158|end_char=160
+7	waste	waste	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=161|end_char=166
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=167|end_char=169
+9	time	time	NOUN	NN	Number=Sing	7	obj	_	start_char=170|end_char=174
+10	.	.	PUNCT	.	_	2	punct	_	start_char=174|end_char=175
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=176|end_char=179
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=180|end_char=184
+3	yet	yet	ADV	RB	_	2	advmod	_	start_char=185|end_char=188
+4	to	to	PART	TO	_	5	mark	_	start_char=189|end_char=191
+5	prove	prove	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=192|end_char=197
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=198|end_char=201
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=201|end_char=204
+8	right	right	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=205|end_char=210
+9	.	.	PUNCT	.	_	2	punct	_	start_char=210|end_char=211
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=212|end_char=215
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=215|end_char=218
+3	instead	instead	ADV	RB	_	5	advmod	_	start_char=219|end_char=226
+4	just	just	ADV	RB	_	5	advmod	_	start_char=227|end_char=231
+5	showing	show	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=232|end_char=239
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	iobj	_	start_char=240|end_char=242
+7	links	link	NOUN	NNS	Number=Plur	5	obj	_	start_char=243|end_char=248
+8	of	of	ADP	IN	_	9	case	_	start_char=249|end_char=251
+9	articles	article	NOUN	NNS	Number=Plur	7	nmod	_	start_char=252|end_char=260
+10	made	make	VERB	VBN	Tense=Past|VerbForm=Part	9	acl	_	start_char=261|end_char=265
+11	by	by	ADP	IN	_	12	case	_	start_char=266|end_char=268
+12	people	people	NOUN	NNS	Number=Plur	10	obl	_	start_char=269|end_char=275
+13	who	who	PRON	WP	PronType=Rel	16	nsubj	_	start_char=276|end_char=279
+14	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=280|end_char=282
+15	n't	not	PART	RB	_	16	advmod	_	start_char=282|end_char=285
+16	work	work	VERB	VB	VerbForm=Inf	12	acl:relcl	_	start_char=286|end_char=290
+17	at	at	ADP	IN	_	18	case	_	start_char=291|end_char=293
+18	Disney	Disney	PROPN	NNP	Number=Sing	16	obl	_	start_char=294|end_char=300
+19	nor	nor	CCONJ	CC	_	20	cc	_	start_char=301|end_char=304
+20	Sony	Sony	PROPN	NNP	Number=Sing	18	conj	_	start_char=305|end_char=309
+21	.	.	PUNCT	.	_	5	punct	_	start_char=309|end_char=310
+
+1	Why	why	ADV	WRB	PronType=Int	6	advmod	_	start_char=311|end_char=314
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=315|end_char=318
+3	n't	not	PART	RB	_	6	advmod	_	start_char=318|end_char=321
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=322|end_char=325
+5	not	not	PART	RB	_	6	advmod	_	start_char=326|end_char=329
+6	understanding	understand	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=330|end_char=343
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=344|end_char=348
+8	?!	?!	PUNCT	.	_	6	punct	_	start_char=348|end_char=350
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=351|end_char=354
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=355|end_char=359
+3	serious	serious	ADJ	JJ	Degree=Pos	4	amod	_	start_char=360|end_char=367
+4	help	help	NOUN	NN	Number=Sing	2	obj	_	start_char=368|end_char=372
+5	,	,	PUNCT	,	_	6	punct	_	start_char=372|end_char=373
+6	kid	kid	NOUN	NN	Number=Sing	4	appos	_	start_char=374|end_char=377
+7	.	.	PUNCT	.	_	2	punct	_	start_char=377|end_char=378
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=379|end_char=380
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=380|end_char=382
+3	actually	actually	ADV	RB	_	4	advmod	_	start_char=383|end_char=391
+4	worried	worried	ADJ	JJ	Degree=Pos	0	root	_	start_char=392|end_char=399
+5	about	about	ADP	IN	_	6	case	_	start_char=400|end_char=405
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=406|end_char=409
+7	.	.	PUNCT	.	_	4	punct	_	start_char=409|end_char=410
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=412|end_char=413
+2	Promise	promise	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=413|end_char=420
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=421|end_char=423
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=424|end_char=427
+5	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=428|end_char=432
+6	into	into	ADP	IN	_	7	case	_	start_char=433|end_char=437
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=438|end_char=440
+8	.	.	PUNCT	.	_	2	punct	_	start_char=440|end_char=441
+9	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=441|end_char=442
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=442|end_char=443
+2	https://www.cdc.gov/mentalhealth/learn/index.htm)	https://www.cdc.gov/mentalhealth/learn/index.htm)	X	ADD	_	0	root	_	start_char=443|end_char=492
+

@@ -1,0 +1,47 @@
+1	Yup	yup	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=5|end_char=9
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=10|end_char=13
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=14|end_char=17
+4	caretakers	caretaker	NOUN	NNS	Number=Plur	1	conj	_	start_char=18|end_char=28
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=29|end_char=32
+6	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=33|end_char=36
+7	only	only	ADJ	JJ	Degree=Pos	9	amod	_	start_char=37|end_char=41
+8	two	two	NUM	CD	NumType=Card	9	nummod	_	start_char=42|end_char=45
+9	FEs	fes	NOUN	NNS	Number=Plur	0	root	_	start_char=46|end_char=49
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=50|end_char=51
+11	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=52|end_char=56
+12	conquering	conquer	VERB	VBG	VerbForm=Ger	11	xcomp	_	start_char=57|end_char=67
+13	on	on	ADP	IN	_	18	case	_	start_char=68|end_char=70
+14	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=71|end_char=73
+15	regular	regular	ADJ	JJ	Degree=Pos	16	amod	_	start_char=74|end_char=81
+16	let	let	NOUN	NN	Number=Sing	18	nmod:poss	_	start_char=82|end_char=85
+17	’s	's	PART	POS	_	16	case	_	start_char=85|end_char=87
+18	plays	play	NOUN	NNS	Number=Plur	12	obl	_	start_char=88|end_char=93
+19	.	.	PUNCT	.	_	9	punct	_	start_char=93|end_char=94
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=97|end_char=98
+2	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=99|end_char=106
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=107|end_char=111
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=112|end_char=114
+5	care	care	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=115|end_char=119
+6	about	about	ADP	IN	_	9	case	_	start_char=120|end_char=125
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=126|end_char=129
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	_	start_char=130|end_char=135
+9	species	species	NOUN	NNS	Number=Plur	5	obl	_	start_char=136|end_char=143
+10	.	.	PUNCT	.	_	2	punct	_	start_char=143|end_char=144
+
+1	All	all	DET	DT	_	4	nsubj	_	start_char=145|end_char=148
+2	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=149|end_char=151
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=152|end_char=154
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=155|end_char=163
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=164|end_char=167
+6	outdated	outdated	ADJ	JJ	Degree=Pos	4	conj	_	start_char=168|end_char=176
+7	but	but	CCONJ	CC	_	9	cc	_	start_char=177|end_char=180
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=181|end_char=185
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=186|end_char=190
+10	good	good	ADJ	JJ	Degree=Pos	11	amod	_	start_char=191|end_char=195
+11	intentions	intention	NOUN	NNS	Number=Plur	9	obj	_	start_char=196|end_char=206
+12	.	.	PUNCT	.	_	4	punct	_	start_char=206|end_char=207
+

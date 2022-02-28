@@ -1,0 +1,13 @@
+1	That	that	SCONJ	IN	_	6	mark	_	start_char=0|end_char=4
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=5|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=8|end_char=11
+4	all	all	ADV	RB	_	6	advmod	_	start_char=12|end_char=15
+5	geographically	geographically	ADV	RB	_	6	advmod	_	start_char=16|end_char=30
+6	illiterate	illiterate	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=41
+7	,	,	PUNCT	,	_	9	punct	_	start_char=41|end_char=42
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=43|end_char=46
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=47|end_char=55
+10	of	of	ADP	IN	_	12	case	_	start_char=56|end_char=58
+11	foreign	foreign	ADJ	JJ	Degree=Pos	12	amod	_	start_char=59|end_char=66
+12	affairs	affair	NOUN	NNS	Number=Plur	9	obl	_	start_char=67|end_char=74
+

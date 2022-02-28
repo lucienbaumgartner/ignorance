@@ -1,0 +1,45 @@
+1	For	for	ADP	IN	_	2	case	_	start_char=0|end_char=3
+2	anyone	anyone	PRON	NN	Number=Sing	16	obl	_	start_char=4|end_char=10
+3	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=11|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=15|end_char=17
+5	heavily	heavily	ADV	RB	_	6	advmod	_	start_char=18|end_char=25
+6	pregnant	pregnant	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=26|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=46
+9	of	of	ADP	IN	_	10	case	_	start_char=47|end_char=49
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=50|end_char=54
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=55|end_char=58
+12	ECV	ecv	NOUN	NN	Number=Sing	10	conj	_	start_char=59|end_char=62
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=63|end_char=65
+14	this	this	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=66|end_char=70
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=71|end_char=73
+16	let	let	VERB	VB	VerbForm=Inf	0	root	_	start_char=74|end_char=77
+17	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	obj	_	start_char=78|end_char=80
+18	pass	pass	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=81|end_char=85
+19	along	along	ADP	IN	_	23	case	_	start_char=86|end_char=91
+20	some	some	DET	DT	_	23	det	_	start_char=92|end_char=96
+21	hard	hard	ADV	RB	Degree=Pos	22	advmod	_	start_char=97|end_char=101
+22	earned	earn	VERB	VBN	Tense=Past|VerbForm=Part	23	amod	_	start_char=102|end_char=108
+23	wisdom	wisdom	NOUN	NN	Number=Sing	18	obl	_	start_char=109|end_char=115
+24	:	:	PUNCT	:	_	16	punct	_	start_char=115|end_char=116
+
+1	DO	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	start_char=119|end_char=121
+2	NOT	not	PART	RB	_	3	advmod	_	start_char=122|end_char=125
+3	WATCH	watch	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=126|end_char=131
+4	YOUTUBE	YOUTUBE	PROPN	NNP	Number=Sing	5	compound	_	start_char=132|end_char=139
+5	VIDEOS	video	NOUN	NNS	Number=Plur	3	obj	_	start_char=140|end_char=146
+6	OF	of	ADP	IN	_	8	case	_	start_char=147|end_char=149
+7	THIS	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=150|end_char=154
+8	PROCEDURE	procedure	NOUN	NN	Number=Sing	5	nmod	_	start_char=155|end_char=164
+9	.	.	PUNCT	.	_	3	punct	_	start_char=164|end_char=165
+
+1	JUST	just	ADV	RB	_	3	advmod	_	start_char=166|end_char=170
+2	DONT	dont	AUX	MD	VerbForm=Fin	3	aux	_	start_char=171|end_char=175
+3	DO	do	VERB	VB	VerbForm=Fin	0	root	_	start_char=176|end_char=178
+4	IT	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=179|end_char=181
+5	.	.	PUNCT	.	_	3	punct	_	start_char=181|end_char=182
+
+1	SAVE	save	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=183|end_char=187
+2	YOURSELVES	yourselve	NOUN	NNS	Number=Plur	1	obj	_	start_char=188|end_char=198
+3	.	.	PUNCT	.	_	1	punct	_	start_char=198|end_char=199
+

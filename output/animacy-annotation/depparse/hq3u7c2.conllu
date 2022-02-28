@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	never	never	ADV	RB	_	3	advmod	_	start_char=2|end_char=7
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=13|end_char=17
+5	dude	dude	NOUN	NN	Number=Sing	3	obj	_	start_char=18|end_char=22
+6	,	,	PUNCT	,	_	5	punct	_	start_char=22|end_char=23
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=24|end_char=28
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=29|end_char=37
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=38|end_char=41
+10	so	so	ADV	RB	_	8	conj	_	start_char=42|end_char=44
+11	defensive	defensive	ADJ	JJ	Degree=Pos	5	conj	_	start_char=45|end_char=54
+12	over	over	ADP	IN	_	14	case	_	start_char=55|end_char=59
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=60|end_char=61
+14	show	show	NOUN	NN	Number=Sing	11	obl	_	start_char=62|end_char=66
+15	Lmao	lmao	NOUN	NN	Number=Sing	3	punct	_	start_char=67|end_char=71
+

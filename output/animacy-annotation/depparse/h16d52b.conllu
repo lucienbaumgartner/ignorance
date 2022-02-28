@@ -1,0 +1,66 @@
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=12
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=13|end_char=16
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=16|end_char=19
+7	very	very	ADV	RB	_	8	advmod	_	start_char=20|end_char=24
+8	naive	naive	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=25|end_char=30
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=31|end_char=34
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=35|end_char=43
+11	of	of	ADP	IN	_	13	case	_	start_char=44|end_char=46
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=47|end_char=50
+13	situation	situation	NOUN	NN	Number=Sing	10	obl	_	start_char=51|end_char=60
+14	if	if	SCONJ	IN	_	16	mark	_	start_char=61|end_char=63
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=64|end_char=67
+16	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=68|end_char=73
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=74|end_char=76
+18	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=76|end_char=78
+19	about	about	ADP	IN	_	21	case	_	start_char=79|end_char=84
+20	"	"	PUNCT	``	_	21	punct	_	start_char=85|end_char=86
+21	trust	trust	NOUN	NN	Number=Sing	16	ccomp	_	start_char=86|end_char=91
+22	"	"	PUNCT	''	_	21	punct	_	start_char=91|end_char=92
+23	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=94|end_char=97
+2	EU	EU	PROPN	NNP	Number=Sing	3	compound	_	start_char=98|end_char=100
+3	engineers	engineer	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=101|end_char=110
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=111|end_char=112
+5	disagreement	disagreement	NOUN	NN	Number=Sing	0	root	_	start_char=113|end_char=125
+6	over	over	ADP	IN	_	9	case	_	start_char=126|end_char=130
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=131|end_char=132
+8	certain	certain	ADJ	JJ	Degree=Pos	9	amod	_	start_char=133|end_char=140
+9	part	part	NOUN	NN	Number=Sing	5	nmod	_	start_char=141|end_char=145
+10	of	of	ADP	IN	_	12	case	_	start_char=146|end_char=148
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=149|end_char=152
+12	deal	deal	NOUN	NN	Number=Sing	9	nmod	_	start_char=153|end_char=157
+
+1	Bullshit	bullshit	NOUN	NN	Number=Sing	0	root	_	start_char=159|end_char=167
+2	.	.	PUNCT	.	_	1	punct	_	start_char=167|end_char=168
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=169|end_char=172
+2	EU	EU	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=173|end_char=175
+3	expects	expect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=176|end_char=183
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=184|end_char=187
+5	UK	UK	PROPN	NNP	Number=Sing	3	obj	_	start_char=188|end_char=190
+6	to	to	PART	TO	_	7	mark	_	start_char=191|end_char=193
+7	stick	stick	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=194|end_char=199
+8	to	to	ADP	IN	_	10	case	_	start_char=200|end_char=202
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=203|end_char=206
+10	agreement	agreement	NOUN	NN	Number=Sing	7	obl	_	start_char=207|end_char=216
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=217|end_char=219
+12	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=220|end_char=226
+13	just	just	ADV	RB	_	14	advmod	_	start_char=227|end_char=231
+14	months	month	NOUN	NNS	Number=Plur	15	obl:npmod	_	start_char=232|end_char=238
+15	ago	ago	ADV	RB	_	12	advmod	_	start_char=239|end_char=242
+16	.	.	PUNCT	.	_	3	punct	_	start_char=242|end_char=243
+
+1	Should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=244|end_char=250
+2	n't	not	PART	RB	_	5	advmod	_	start_char=250|end_char=253
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=254|end_char=256
+4	too	too	ADV	RB	_	5	advmod	_	start_char=257|end_char=260
+5	much	much	ADJ	JJ	Degree=Pos	0	root	_	start_char=261|end_char=265
+6	to	to	PART	TO	_	7	mark	_	start_char=266|end_char=268
+7	ask	ask	VERB	VB	VerbForm=Inf	5	acl	_	start_char=269|end_char=272
+8	.	.	PUNCT	.	_	5	punct	_	start_char=272|end_char=273
+

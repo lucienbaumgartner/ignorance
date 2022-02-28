@@ -1,0 +1,25 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	poor	poor	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=35|end_char=39
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=40|end_char=43
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=44|end_char=48
+10	to	to	PART	TO	_	11	mark	_	start_char=49|end_char=51
+11	write	write	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=52|end_char=57
+12	negative	negative	ADJ	JJ	Degree=Pos	13	amod	_	start_char=58|end_char=66
+13	feedback	feedback	NOUN	NN	Number=Sing	11	obj	_	start_char=67|end_char=75
+14	on	on	ADP	IN	_	15	case	_	start_char=76|end_char=78
+15	Reddit	Reddit	PROPN	NNP	Number=Sing	11	obl	_	start_char=79|end_char=85
+16	.	.	PUNCT	.	_	1	punct	_	start_char=85|end_char=86
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=87|end_char=88
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=89|end_char=93
+3	sorry	sorry	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=94|end_char=99
+4	for	for	ADP	IN	_	5	case	_	start_char=100|end_char=103
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=104|end_char=107
+6	buddy	buddy	NOUN	NN	Number=Sing	3	obl	_	start_char=108|end_char=113
+7	.	.	PUNCT	.	_	2	punct	_	start_char=113|end_char=114
+

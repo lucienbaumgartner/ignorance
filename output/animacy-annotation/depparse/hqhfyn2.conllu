@@ -1,0 +1,13 @@
+1	Republicans	Republican	PROPN	NNPS	Number=Plur	8	nsubj	_	start_char=0|end_char=11
+2	bitching	bitch	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=12|end_char=20
+3	about	about	ADP	IN	_	5	case	_	start_char=21|end_char=26
+4	Cancel	cancel	NOUN	NN	Number=Sing	5	compound	_	start_char=27|end_char=33
+5	Culture	Culture	NOUN	NN	Number=Sing	2	obl	_	start_char=34|end_char=41
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=42|end_char=45
+7	so	so	ADV	RB	_	8	advmod	_	start_char=46|end_char=48
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=57
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=58|end_char=61
+10	full	full	ADJ	JJ	Degree=Pos	8	conj	_	start_char=62|end_char=66
+11	of	of	ADP	IN	_	12	case	_	start_char=67|end_char=69
+12	shit	shit	NOUN	NN	Number=Sing	10	obl	_	start_char=70|end_char=74
+

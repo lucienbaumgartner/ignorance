@@ -1,0 +1,43 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=6
+3	definetly	definetly	ADV	RB	_	4	advmod	_	start_char=7|end_char=16
+4	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=17|end_char=23
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=24|end_char=25
+6	new	new	ADJ	JJ	Degree=Pos	7	amod	_	start_char=26|end_char=29
+7	person	person	NOUN	NN	Number=Sing	4	xcomp	_	start_char=30|end_char=36
+8	since	since	ADP	IN	_	9	case	_	start_char=37|end_char=42
+9	then	then	ADV	RB	PronType=Dem	4	obl	_	start_char=43|end_char=47
+10	.	.	PUNCT	.	_	4	punct	_	start_char=47|end_char=48
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=49|end_char=51
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=51|end_char=54
+3	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=55|end_char=62
+4	about	about	ADV	RB	_	5	advmod	_	start_char=63|end_char=68
+5	6	6	NUM	CD	NumType=Card	8	nummod	_	start_char=69|end_char=70
+6	-	-	SYM	SYM	_	7	case	_	start_char=70|end_char=71
+7	7	7	NUM	CD	NumType=Card	5	nmod	_	start_char=71|end_char=72
+8	years	year	NOUN	NNS	Number=Plur	9	obl:npmod	_	start_char=73|end_char=78
+9	ago	ago	ADV	RB	_	3	advmod	_	start_char=79|end_char=82
+10	.	.	PUNCT	.	_	3	punct	_	start_char=82|end_char=83
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=84|end_char=85
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=86|end_char=89
+3	in	in	ADP	IN	_	5	case	_	start_char=90|end_char=92
+4	high	high	ADJ	JJ	Degree=Pos	5	amod	_	start_char=93|end_char=97
+5	school	school	NOUN	NN	Number=Sing	0	root	_	start_char=98|end_char=104
+6	,	,	PUNCT	,	_	10	punct	_	start_char=104|end_char=105
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=106|end_char=109
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=110|end_char=111
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=112|end_char=115
+10	immature	immature	ADJ	JJ	Degree=Pos	5	conj	_	start_char=116|end_char=124
+11	,	,	PUNCT	,	_	13	punct	_	start_char=124|end_char=125
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=126|end_char=129
+13	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=130|end_char=137
+14	of	of	ADP	IN	_	15	case	_	start_char=138|end_char=140
+15	what	what	PRON	WP	PronType=Int	13	obl	_	start_char=141|end_char=145
+16	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=146|end_char=148
+17	right	right	ADJ	JJ	Degree=Pos	15	acl:relcl	_	start_char=149|end_char=154
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=155|end_char=158
+19	wrong	wrong	ADJ	JJ	Degree=Pos	17	conj	_	start_char=159|end_char=164
+20	.	.	PUNCT	.	_	5	punct	_	start_char=164|end_char=165
+

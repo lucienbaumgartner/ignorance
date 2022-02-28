@@ -1,0 +1,24 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	just	just	ADV	RB	_	3	advmod	_	start_char=5|end_char=9
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+4	to	to	PART	TO	_	5	mark	_	start_char=15|end_char=17
+5	play	play	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=18|end_char=22
+6	lazily	lazily	ADV	RB	_	5	advmod	_	start_char=23|end_char=29
+7	,	,	PUNCT	,	_	8	punct	_	start_char=29|end_char=30
+8	cheap	cheap	ADJ	JJ	Degree=Pos	6	conj	_	start_char=31|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=48
+11	and	and	CCONJ	CC	_	15	cc	_	start_char=49|end_char=52
+12	then	then	ADV	RB	PronType=Dem	15	advmod	_	start_char=53|end_char=57
+13	not	not	PART	RB	_	15	advmod	_	start_char=58|end_char=61
+14	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=62|end_char=64
+15	responsible	responsible	ADJ	JJ	Degree=Pos	3	conj	_	start_char=65|end_char=76
+16	for	for	SCONJ	IN	_	17	mark	_	start_char=77|end_char=80
+17	getting	get	VERB	VBG	VerbForm=Ger	15	advcl	_	start_char=81|end_char=88
+18	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	17	obj	_	start_char=89|end_char=99
+19	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part	17	xcomp	_	start_char=100|end_char=106
+20	through	through	ADP	IN	_	22	case	_	start_char=107|end_char=114
+21	these	this	DET	DT	Number=Plur|PronType=Dem	22	det	_	start_char=115|end_char=120
+22	actions	action	NOUN	NNS	Number=Plur	19	obl	_	start_char=121|end_char=128
+23	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+

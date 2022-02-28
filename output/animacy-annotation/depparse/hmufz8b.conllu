@@ -1,0 +1,38 @@
+1	Swedish	Swedish	ADJ	JJ	Degree=Pos	7	nsubj	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=19
+4	of	of	ADP	IN	_	5	case	_	start_char=20|end_char=22
+5	Biltema	Biltema	PROPN	NNP	Number=Sing	3	obl	_	start_char=23|end_char=30
+6	,	,	PUNCT	,	_	7	punct	_	start_char=30|end_char=31
+7	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=32|end_char=35
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=36|end_char=40
+9	Finn	Finn	PROPN	NNP	Number=Sing	7	obj	_	start_char=41|end_char=45
+10	bro	brin	PART	TO	_	11	mark	_	start_char=46|end_char=49
+11	help	help	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=50|end_char=54
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obj	_	start_char=55|end_char=58
+13	out	out	ADP	RP	_	11	compound:prt	_	start_char=59|end_char=62
+14	:	:	PUNCT	:	_	7	punct	_	start_char=62|end_char=63
+
+1	https://productimages.biltema.com/v1/image/imagebyfilename/84-096_xl_1.jpg	https://productimages.biltema.com/v1/image/imagebyfilename/84-096_xl_1.jpg	X	ADD	_	0	root	_	start_char=65|end_char=139
+
+1	Not	not	PART	RB	_	3	advmod	_	start_char=141|end_char=144
+2	so	so	ADV	RB	_	3	advmod	_	start_char=145|end_char=147
+3	common	common	ADJ	JJ	Degree=Pos	0	root	_	start_char=148|end_char=154
+4	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=155|end_char=159
+5	either	either	CCONJ	CC	_	3	advmod	_	start_char=160|end_char=166
+6	,	,	PUNCT	,	_	3	punct	_	start_char=166|end_char=167
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=168|end_char=169
+8	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=169|end_char=172
+9	rarely	rarely	ADV	RB	_	10	advmod	_	start_char=173|end_char=179
+10	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	3	parataxis	_	start_char=180|end_char=184
+11	these	this	PRON	DT	Number=Plur|PronType=Dem	10	obj	_	start_char=185|end_char=190
+12	in	in	ADP	IN	_	13	case	_	start_char=191|end_char=193
+13	estates	estate	NOUN	NNS	Number=Plur	10	obl	_	start_char=194|end_char=201
+14	but	but	CCONJ	CC	_	15	cc	_	start_char=202|end_char=205
+15	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	start_char=206|end_char=210
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	obj	_	start_char=211|end_char=215
+17	none	none	NOUN	NN	Number=Sing	15	obj	_	start_char=216|end_char=220
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=221|end_char=224
+19	less	less	ADJ	JJR	Degree=Cmp	15	xcomp	_	start_char=225|end_char=229
+20	.	.	PUNCT	.	_	3	punct	_	start_char=229|end_char=230
+

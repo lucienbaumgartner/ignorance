@@ -1,0 +1,39 @@
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=0|end_char=3
+2	very	very	ADV	RB	_	3	advmod	_	start_char=4|end_char=8
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=16
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=17|end_char=20
+5	trashy	trashy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=21|end_char=27
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=28|end_char=30
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=31|end_char=35
+8	remark	remark	NOUN	NN	Number=Sing	3	conj	_	start_char=36|end_char=42
+9	!	!	PUNCT	.	_	3	punct	_	start_char=42|end_char=43
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=44|end_char=47
+2	not	not	ADV	RB	_	4	advmod	_	start_char=48|end_char=51
+3	YOUR	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=52|end_char=56
+4	SPACE	space	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=62
+5	.	.	PUNCT	.	_	4	punct	_	start_char=62|end_char=63
+
+1	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=64|end_char=67
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=68|end_char=69
+3	space	space	NOUN	NN	Number=Sing	0	root	_	start_char=70|end_char=75
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=76|end_char=78
+5	all	all	DET	DT	_	4	det	_	start_char=79|end_char=82
+6	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=83|end_char=88
+7	.	.	PUNCT	.	_	3	punct	_	start_char=88|end_char=89
+
+1	And	and	CCONJ	CC	_	7	cc	_	start_char=90|end_char=93
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=94|end_char=98
+3	comment	comment	NOUN	NN	Number=Sing	7	nsubj	_	start_char=99|end_char=106
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=108|end_char=111
+5	behavior	behavior	NOUN	NN	Number=Sing	3	conj	_	start_char=112|end_char=120
+6	just	just	ADV	RB	_	7	advmod	_	start_char=122|end_char=126
+7	turned	turn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=127|end_char=133
+8	pride	pride	NOUN	NN	Number=Sing	7	obj	_	start_char=134|end_char=139
+9	into	into	ADP	IN	_	13	case	_	start_char=140|end_char=144
+10	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=145|end_char=146
+11	low	low	ADJ	JJ	Degree=Pos	13	amod	_	start_char=147|end_char=150
+12	class	class	NOUN	NN	Number=Sing	13	compound	_	start_char=151|end_char=156
+13	ZOO	zoo	NOUN	NN	Number=Sing	7	obl	_	start_char=157|end_char=160
+14	.	.	PUNCT	.	_	7	punct	_	start_char=160|end_char=161
+

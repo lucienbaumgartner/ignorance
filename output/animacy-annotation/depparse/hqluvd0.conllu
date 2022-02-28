@@ -1,0 +1,9 @@
+1	Racist	Racist	ADJ	JJ	Degree=Pos	7	amod	_	start_char=0|end_char=6
+2	,	,	PUNCT	,	_	3	punct	_	start_char=6|end_char=7
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=8|end_char=16
+4	,	,	PUNCT	,	_	6	punct	_	start_char=16|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	lazy	lazy	ADJ	JJ	Degree=Pos	1	conj	_	start_char=22|end_char=26
+7	opinion	opinion	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=34
+8	.	.	PUNCT	.	_	7	punct	_	start_char=34|end_char=35
+

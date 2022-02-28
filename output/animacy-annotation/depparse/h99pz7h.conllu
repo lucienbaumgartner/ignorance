@@ -1,0 +1,52 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	no	no	DET	DT	_	4	det	_	start_char=7|end_char=9
+4	idea	idea	NOUN	NN	Number=Sing	2	obj	_	start_char=10|end_char=14
+5	who	who	PRON	WP	PronType=Rel	12	obj	_	start_char=15|end_char=18
+6	any	any	DET	DT	_	13	nsubj	_	start_char=19|end_char=22
+7	of	of	ADP	IN	_	9	case	_	start_char=23|end_char=25
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=26|end_char=29
+9	people	people	NOUN	NNS	Number=Plur	6	nmod	_	start_char=30|end_char=36
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=37|end_char=40
+11	just	just	ADV	RB	_	12	advmod	_	start_char=41|end_char=45
+12	mentioned	mention	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:relcl	_	start_char=46|end_char=55
+13	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=56|end_char=59
+14	.	.	PUNCT	.	_	2	punct	_	start_char=59|end_char=60
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=61|end_char=64
+2	should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=65|end_char=71
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=72|end_char=74
+4	like	like	ADP	IN	_	5	case	_	start_char=75|end_char=79
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=80|end_char=82
+6	.	.	PUNCT	.	_	5	punct	_	start_char=82|end_char=83
+
+1	Happy	happy	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=89
+2	,	,	PUNCT	,	_	3	punct	_	start_char=89|end_char=90
+3	peaceful	peaceful	ADJ	JJ	Degree=Pos	1	conj	_	start_char=91|end_char=99
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=100|end_char=103
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=104|end_char=112
+6	of	of	ADP	IN	_	7	case	_	start_char=113|end_char=115
+7	e-celebs	e-celeb	NOUN	NNS	Number=Plur	1	obl	_	start_char=116|end_char=124
+8	.	.	PUNCT	.	_	1	punct	_	start_char=124|end_char=125
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=127|end_char=131
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=131|end_char=134
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=135|end_char=143
+4	too	too	ADV	RB	_	3	advmod	_	start_char=144|end_char=147
+5	.	.	PUNCT	.	_	3	punct	_	start_char=147|end_char=148
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=149|end_char=152
+2	amount	amount	NOUN	NN	Number=Sing	8	nsubj	_	start_char=153|end_char=159
+3	of	of	ADP	IN	_	5	case	_	start_char=160|end_char=162
+4	stream	stream	NOUN	NN	Number=Sing	5	compound	_	start_char=163|end_char=169
+5	views	view	NOUN	NNS	Number=Plur	2	nmod	_	start_char=170|end_char=175
+6	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=176|end_char=180
+7	not	not	PART	RB	_	8	advmod	_	start_char=181|end_char=184
+8	correlate	correlate	VERB	VB	VerbForm=Inf	0	root	_	start_char=185|end_char=194
+9	to	to	ADP	IN	_	11	case	_	start_char=195|end_char=197
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=198|end_char=199
+11	game	game	NOUN	NN	Number=Sing	8	obl	_	start_char=200|end_char=204
+12	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=205|end_char=210
+13	successful	successful	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=211|end_char=221
+14	.	.	PUNCT	.	_	8	punct	_	start_char=221|end_char=222
+

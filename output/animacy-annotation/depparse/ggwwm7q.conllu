@@ -1,0 +1,56 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=5|end_char=10
+3	literally	literally	ADV	RB	_	5	advmod	_	start_char=11|end_char=20
+4	never	never	ADV	RB	_	5	advmod	_	start_char=21|end_char=26
+5	happened	happen	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=35
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=36|end_char=39
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=40|end_char=45
+8	way	way	NOUN	NN	Number=Sing	9	obl:npmod	_	start_char=46|end_char=49
+9	around	around	ADV	RB	_	5	advmod	_	start_char=50|end_char=56
+10	.	.	PUNCT	.	_	5	punct	_	start_char=56|end_char=57
+
+1	Americans	American	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=58|end_char=67
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=68|end_char=71
+3	so	so	ADV	RB	_	4	advmod	_	start_char=72|end_char=74
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=83
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=84|end_char=87
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=88|end_char=96
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=97|end_char=101
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=102|end_char=106
+9	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=106|end_char=109
+10	totally	totally	ADV	RB	_	11	advmod	_	start_char=110|end_char=117
+11	oblivious	oblivious	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=118|end_char=127
+12	to	to	ADP	IN	_	14	case	_	start_char=128|end_char=130
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=131|end_char=134
+14	anything	anything	PRON	NN	Number=Sing	11	obl	_	start_char=135|end_char=143
+15	beyond	beyond	ADP	IN	_	17	case	_	start_char=144|end_char=150
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=151|end_char=156
+17	borders	border	NOUN	NNS	Number=Plur	14	nmod	_	start_char=157|end_char=164
+18	.	.	PUNCT	.	_	4	punct	_	start_char=164|end_char=165
+
+1	Even	even	ADV	RB	_	4	advmod	_	start_char=166|end_char=170
+2	to	to	ADP	IN	_	4	case	_	start_char=171|end_char=173
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=174|end_char=175
+4	neighbour	neighbour	NOUN	NN	Number=Sing	0	root	_	start_char=176|end_char=185
+5	right	right	ADV	RB	_	7	advmod	_	start_char=186|end_char=191
+6	above	above	ADP	IN	_	7	case	_	start_char=192|end_char=197
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	start_char=198|end_char=202
+8	.	.	PUNCT	.	_	4	punct	_	start_char=202|end_char=203
+
+1	No	no	DET	DT	_	2	det	_	start_char=204|end_char=206
+2	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=207|end_char=210
+3	any	any	DET	DT	_	4	det	_	start_char=211|end_char=214
+4	American	American	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=215|end_char=223
+5	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=224|end_char=229
+6	any	any	DET	DT	_	7	det	_	start_char=230|end_char=233
+7	part	part	NOUN	NN	Number=Sing	5	obj	_	start_char=234|end_char=238
+8	of	of	ADP	IN	_	9	case	_	start_char=239|end_char=241
+9	O	o	PROPN	NNP	Number=Sing	7	nmod	_	start_char=242|end_char=243
+10	Canada	Canada	PROPN	NNP	Number=Sing	9	flat	_	start_char=244|end_char=250
+11	let	let	VERB	VB	VerbForm=Fin	5	advcl	_	start_char=251|end_char=254
+12	alone	alone	ADV	RB	_	11	advmod	_	start_char=255|end_char=260
+13	all	all	DET	DT	_	11	obj	_	start_char=261|end_char=264
+14	of	of	ADP	IN	_	15	case	_	start_char=265|end_char=267
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nmod	_	start_char=268|end_char=270
+16	.	.	PUNCT	.	_	2	punct	_	start_char=270|end_char=271
+

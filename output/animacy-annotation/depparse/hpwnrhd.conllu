@@ -1,0 +1,32 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	sucks	suck	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+3	if	if	SCONJ	IN	_	5	mark	_	start_char=9|end_char=11
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=12|end_char=16
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=17|end_char=20
+6	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	No	no	DET	DT	_	6	advmod	_	start_char=22|end_char=24
+2	-	-	PUNCT	,	_	1	punct	_	start_char=24|end_char=25
+3	one	one	PRON	PRP	_	6	nsubj:pass	_	start_char=25|end_char=28
+4	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=29|end_char=35
+5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	start_char=36|end_char=38
+6	bullied	bully	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=39|end_char=46
+7	because	because	ADP	IN	_	10	case	_	start_char=47|end_char=54
+8	of	of	ADP	IN	_	7	fixed	_	start_char=55|end_char=57
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=58|end_char=63
+10	beliefs	belief	NOUN	NNS	Number=Plur	6	obl	_	start_char=64|end_char=71
+11	.	.	PUNCT	.	_	6	punct	_	start_char=71|end_char=72
+
+1	Even	even	ADV	RB	_	6	advmod	_	start_char=74|end_char=78
+2	if	if	SCONJ	IN	_	6	mark	_	start_char=79|end_char=81
+3	those	that	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=82|end_char=87
+4	beliefs	belief	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=88|end_char=95
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=96|end_char=99
+6	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=110
+7	,	,	PUNCT	,	_	8	punct	_	start_char=110|end_char=111
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=112|end_char=120
+9	,	,	PUNCT	,	_	11	punct	_	start_char=120|end_char=121
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=122|end_char=125
+11	hateful	hateful	ADJ	JJ	Degree=Pos	6	conj	_	start_char=126|end_char=133
+12	.	.	PUNCT	.	_	6	punct	_	start_char=133|end_char=134
+

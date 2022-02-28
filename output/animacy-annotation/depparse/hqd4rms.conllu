@@ -1,0 +1,25 @@
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=8
+3	give	give	VERB	VB	VerbForm=Inf	0	root	_	start_char=9|end_char=13
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=14|end_char=15
+5	fuck	fuck	NOUN	NN	Number=Sing	3	obj	_	start_char=16|end_char=20
+6	cause	cause	SCONJ	IN	_	15	mark	_	start_char=21|end_char=26
+7	youre	your	PRON	PRP$	_	11	nmod:poss	_	start_char=27|end_char=32
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=33|end_char=41
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=42|end_char=45
+10	conservative	conservative	ADJ	JJ	Degree=Pos	8	conj	_	start_char=46|end_char=58
+11	utorrent	utorrent	NOUN	NN	Number=Sing	15	nsubj	_	start_char=59|end_char=67
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=68|end_char=71
+13	bittorrent	bittorrent	NOUN	NN	Number=Sing	11	conj	_	start_char=72|end_char=82
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=83|end_char=86
+15	some	some	DET	DT	_	3	advcl	_	start_char=87|end_char=91
+16	of	of	ADP	IN	_	20	case	_	start_char=92|end_char=94
+17	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=95|end_char=98
+18	shittiest	shitty	ADJ	JJS	Degree=Sup	20	amod	_	start_char=99|end_char=108
+19	torrenting	torrenting	NOUN	NN	Number=Sing	20	compound	_	start_char=109|end_char=119
+20	softwares	software	NOUN	NNS	Number=Plur	15	nmod	_	start_char=120|end_char=129
+21	in	in	ADP	IN	_	24	case	_	start_char=130|end_char=132
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	start_char=133|end_char=136
+23	contemporary	contemporary	ADJ	JJ	Degree=Pos	24	amod	_	start_char=137|end_char=149
+24	landscape	landscape	NOUN	NN	Number=Sing	20	nmod	_	start_char=150|end_char=159
+

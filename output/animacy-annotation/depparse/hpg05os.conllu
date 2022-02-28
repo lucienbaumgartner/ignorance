@@ -1,0 +1,210 @@
+1	no	no	INTJ	UH	_	5	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	5	punct	_	start_char=2|end_char=3
+3	pronouns	pronoun	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=4|end_char=12
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=16
+5	something	something	PRON	NN	Number=Sing	0	root	_	start_char=17|end_char=26
+6	some	some	DET	DT	_	7	det	_	start_char=27|end_char=31
+7	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=32|end_char=38
+8	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=39|end_char=42
+9	everyday	everyday	NOUN	NN	Number=Sing	8	obj	_	start_char=43|end_char=51
+10	yet	yet	ADV	RB	_	11	advmod	_	start_char=52|end_char=55
+11	try	try	VERB	VB	VerbForm=Inf	5	acl:relcl	_	start_char=56|end_char=59
+12	to	to	PART	TO	_	13	mark	_	start_char=60|end_char=62
+13	push	push	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=63|end_char=67
+
+1	on	on	ADP	IN	_	3	case	_	start_char=69|end_char=71
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=72|end_char=75
+3	rest	rest	NOUN	NN	Number=Sing	0	root	_	start_char=76|end_char=80
+4	of	of	ADP	IN	_	5	case	_	start_char=81|end_char=83
+5	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	nmod	_	start_char=84|end_char=86
+6	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=87|end_char=90
+7	dont	do	AUX	MD	VerbForm=Fin	8	aux	_	start_char=91|end_char=95
+8	use	use	VERB	VB	VerbForm=Inf	3	acl:relcl	_	start_char=96|end_char=99
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=100|end_char=104
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=105|end_char=108
+11	then	then	ADV	RB	PronType=Dem	12	advmod	_	start_char=109|end_char=113
+12	make	make	VERB	VB	VerbForm=Inf	8	conj	_	start_char=114|end_char=118
+13	out	out	ADP	RP	_	12	compound:prt	_	start_char=119|end_char=122
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	start_char=123|end_char=125
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=126|end_char=129
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=130|end_char=133
+17	bad	bad	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=134|end_char=137
+
+1	guys	guy	NOUN	NNS	Number=Plur	6	vocative	_	start_char=139|end_char=143
+2	because	because	SCONJ	IN	_	6	mark	_	start_char=144|end_char=151
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=152|end_char=154
+4	either	either	DET	DT	_	3	det	_	start_char=155|end_char=161
+5	dont	do	AUX	MD	VerbForm=Fin	6	aux	_	start_char=162|end_char=166
+6	use	use	VERB	VB	VerbForm=Inf	0	root	_	start_char=167|end_char=170
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	start_char=171|end_char=175
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=176|end_char=178
+9	buy	buy	VERB	VB	VerbForm=Inf	6	conj	_	start_char=179|end_char=182
+10	into	into	ADP	IN	_	12	case	_	start_char=183|end_char=187
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=188|end_char=191
+12	nonsense	nonsense	NOUN	NN	Number=Sing	9	obl	_	start_char=192|end_char=200
+13	around	around	ADV	RB	Degree=Pos	9	advmod	_	start_char=201|end_char=207
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=209|end_char=211
+
+1	Upvote	upvote	NOUN	NN	Number=Sing	0	root	_	start_char=213|end_char=219
+2	Reply	reply	NOUN	NN	Number=Sing	1	appos	_	start_char=220|end_char=225
+
+1	000	000	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=227|end_char=230
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=232|end_char=234
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=235|end_char=238
+3	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=239|end_char=249
+4	what	what	DET	WDT	PronType=Int	5	det	_	start_char=250|end_char=254
+5	pronouns	pronoun	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=255|end_char=263
+6	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=264|end_char=267
+7	?	?	PUNCT	.	_	3	punct	_	start_char=267|end_char=268
+
+1	Because	because	SCONJ	IN	_	3	mark	_	start_char=269|end_char=276
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=277|end_char=280
+3	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=281|end_char=285
+4	as	as	ADV	RB	_	3	advmod	_	start_char=286|end_char=288
+
+1	illiterate	illiterate	ADJ	JJ	Degree=Pos	0	root	_	start_char=290|end_char=300
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=301|end_char=304
+3	dumb	dumb	ADJ	JJ	Degree=Pos	1	conj	_	start_char=305|end_char=309
+4	as	as	SCONJ	IN	_	7	mark	_	start_char=310|end_char=312
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=313|end_char=316
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=317|end_char=320
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=321|end_char=329
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=330|end_char=333
+9	queerphobic	queerphobic	ADJ	JJ	Degree=Pos	7	conj	_	start_char=334|end_char=345
+10	.	.	PUNCT	.	_	1	punct	_	start_char=345|end_char=346
+
+1	Pronouns	pronoun	NOUN	NNS	Number=Plur	0	root	_	start_char=347|end_char=355
+
+1	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=357|end_char=360
+2	"	"	PUNCT	``	_	4	punct	_	start_char=361|end_char=362
+3	HE	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=362|end_char=364
+4	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=365|end_char=372
+5	to	to	PART	TO	_	6	mark	_	start_char=373|end_char=375
+6	wash	wash	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=376|end_char=380
+7	HIS	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=381|end_char=384
+8	clothes	clothes	NOUN	NNS	Number=Plur	6	obj	_	start_char=385|end_char=392
+9	"	"	PUNCT	''	_	4	punct	_	start_char=392|end_char=393
+10	or	or	CCONJ	CC	_	13	cc	_	start_char=394|end_char=396
+11	"	"	PUNCT	``	_	13	punct	_	start_char=397|end_char=398
+12	SHE	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=398|end_char=401
+13	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=402|end_char=406
+14	to	to	PART	TO	_	15	mark	_	start_char=407|end_char=409
+15	do	do	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=410|end_char=412
+16	makeup	makeup	NOUN	NN	Number=Sing	15	obj	_	start_char=413|end_char=419
+17	in	in	ADV	RB	_	15	advmod	_	start_char=420|end_char=422
+
+1	HER	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=424|end_char=427
+2	house	house	NOUN	NN	Number=Sing	0	root	_	start_char=428|end_char=433
+3	"	"	PUNCT	''	_	2	punct	_	start_char=433|end_char=434
+4	.	.	PUNCT	.	_	2	punct	_	start_char=434|end_char=435
+
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=436|end_char=438
+2	someone	someone	PRON	NN	Number=Sing	5	nsubj	_	start_char=439|end_char=446
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=447|end_char=451
+4	n't	not	PART	RB	_	5	advmod	_	start_char=451|end_char=454
+5	use	use	VERB	VB	VerbForm=Inf	0	root	_	start_char=455|end_char=458
+6	pronouns	pronoun	NOUN	NNS	Number=Plur	5	obj	_	start_char=459|end_char=467
+7	everyday	everyday	ADV	RB	_	5	advmod	_	start_char=468|end_char=476
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=477|end_char=481
+9	just	just	ADV	RB	_	5	advmod	_	start_char=482|end_char=486
+
+1	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	start_char=488|end_char=490
+2	n't	not	PART	RB	_	3	advmod	_	start_char=490|end_char=493
+3	talk	talk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=494|end_char=498
+4	as	as	SCONJ	IN	_	8	mark	_	start_char=499|end_char=501
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	start_char=502|end_char=504
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=504|end_char=506
+7	nearly	nearly	ADV	RB	_	8	advmod	_	start_char=507|end_char=513
+8	impossible	impossible	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=514|end_char=524
+9	to	to	PART	TO	_	11	mark	_	start_char=525|end_char=527
+10	not	not	PART	RB	_	11	advmod	_	start_char=528|end_char=531
+11	use	use	VERB	VB	VerbForm=Inf	8	csubj	_	start_char=532|end_char=535
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=536|end_char=540
+13	.	.	PUNCT	.	_	3	punct	_	start_char=540|end_char=541
+
+1	IT	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=543|end_char=545
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=546|end_char=549
+3	THEY	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	conj	_	start_char=550|end_char=554
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=555|end_char=558
+5	pronouns	pronoun	NOUN	NNS	Number=Plur	0	root	_	start_char=559|end_char=567
+6	.	.	PUNCT	.	_	5	punct	_	start_char=567|end_char=568
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=569|end_char=572
+2	literally	literally	ADV	RB	_	3	advmod	_	start_char=573|end_char=582
+3	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=583|end_char=587
+4	pronouns	pronoun	NOUN	NNS	Number=Plur	3	obj	_	start_char=588|end_char=596
+5	trying	try	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=597|end_char=603
+6	to	to	PART	TO	_	7	mark	_	start_char=604|end_char=606
+7	say	say	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=607|end_char=610
+
+1	that	that	SCONJ	IN	_	5	mark	_	start_char=612|end_char=616
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=617|end_char=620
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=621|end_char=623
+4	n't	not	PART	RB	_	5	advmod	_	start_char=623|end_char=626
+5	use	use	VERB	VB	VerbForm=Inf	0	root	_	start_char=627|end_char=630
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	start_char=631|end_char=635
+7	.	.	PUNCT	.	_	5	punct	_	start_char=635|end_char=636
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=637|end_char=638
+2	single	single	ADJ	JJ	Degree=Pos	4	amod	_	start_char=639|end_char=645
+3	google	google	NOUN	NN	Number=Sing	4	compound	_	start_char=646|end_char=652
+4	search	search	NOUN	NN	Number=Sing	6	nsubj	_	start_char=653|end_char=659
+5	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=660|end_char=665
+6	reveal	reveal	VERB	VB	VerbForm=Inf	0	root	_	start_char=666|end_char=672
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=673|end_char=677
+
+1	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=679|end_char=682
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=682|end_char=685
+3	just	just	ADV	RB	_	4	advmod	_	start_char=686|end_char=690
+4	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=691|end_char=697
+5	stuff	stuff	NOUN	NN	Number=Sing	4	obj	_	start_char=698|end_char=703
+6	up	up	ADP	RP	_	4	compound:prt	_	start_char=704|end_char=706
+7	.	.	PUNCT	.	_	4	punct	_	start_char=706|end_char=707
+
+1	Upvote	upvote	NOUN	NN	Number=Sing	0	root	_	start_char=709|end_char=715
+
+1	Reply	reply	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=717|end_char=722
+
+1	ooo	ooo	PROPN	NNP	Number=Sing	0	root	_	start_char=724|end_char=727
+
+1	---	---	PUNCT	NFP	_	0	root	_	start_char=731|end_char=734
+
+1	v0.3.0	v0.3.0	NUM	CD	NumType=Card	0	root	_	start_char=736|end_char=742
+2	|	|	PUNCT	NFP	_	1	punct	_	start_char=743|end_char=744
+3	This	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=745|end_char=749
+4	message	message	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=750|end_char=757
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=758|end_char=761
+6	posted	post	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	parataxis	_	start_char=762|end_char=768
+7	by	by	ADP	IN	_	9	case	_	start_char=769|end_char=771
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=772|end_char=773
+9	bot	bot	NOUN	NN	Number=Sing	6	obl	_	start_char=774|end_char=777
+10	.	.	PUNCT	.	_	6	punct	_	start_char=777|end_char=778
+11	|	|	PUNCT	NFP	_	6	punct	_	start_char=779|end_char=780
+12	[	[	PUNCT	-LRB-	_	13	punct	_	start_char=781|end_char=782
+13	FAQ	faq	NOUN	NN	Number=Sing	1	parataxis	_	start_char=782|end_char=785
+14	]	]	PUNCT	-RRB-	_	13	punct	_	start_char=785|end_char=786
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=786|end_char=787
+2	https://www.reddit.com/r/TranscribersOfReddit/wiki/index)	https://www.reddit.com/r/transcribersofreddit/wiki/index)	X	ADD	_	0	root	_	start_char=787|end_char=844
+3	|	|	PUNCT	NFP	_	2	punct	_	start_char=845|end_char=846
+4	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=847|end_char=848
+5	Source	source	NOUN	NN	Number=Sing	2	list	_	start_char=848|end_char=854
+6	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=854|end_char=855
+7	(	(	PUNCT	-LRB-	_	8	punct	_	start_char=855|end_char=856
+8	https://github.com/GrafeasGroup/tor_ocr/)	https://github.com/grafeasgroup/tor_ocr/)	X	ADD	_	5	list	_	start_char=856|end_char=897
+9	|	|	PUNCT	,	_	8	punct	_	start_char=898|end_char=899
+10	Questions	question	NOUN	NNS	Number=Plur	2	list	_	start_char=900|end_char=909
+11	?	?	PUNCT	.	_	2	punct	_	start_char=909|end_char=910
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=911|end_char=912
+2	Message	message	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=912|end_char=919
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=920|end_char=923
+4	mods	mod	NOUN	NNS	Number=Plur	2	obj	_	start_char=924|end_char=928
+5	!	!	PUNCT	.	_	2	punct	_	start_char=928|end_char=929
+6	]	]	PUNCT	-RRB-	_	2	punct	_	start_char=929|end_char=930
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=930|end_char=931
+2	https://www.reddit.com/message/compose?to=%2Fr%2FTranscribersOfReddit&amp;subject=Bot%20Question&amp;message=)	https://www.reddit.com/message/compose?to=%2fr%2ftranscribersofreddit&amp;subject=bot%20question&amp;message=)	X	ADD	_	0	root	_	start_char=931|end_char=1041
+

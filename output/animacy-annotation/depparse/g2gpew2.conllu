@@ -1,0 +1,210 @@
+1	Because	because	ADV	RB	_	0	root	_	start_char=0|end_char=7
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=8|end_char=9
+2	pointed	point	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=10|end_char=17
+3	that	that	SCONJ	IN	_	21	mark	_	start_char=18|end_char=22
+4	those	that	PRON	DT	Number=Plur|PronType=Dem	21	nsubj	_	start_char=23|end_char=28
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=29|end_char=32
+6	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=33|end_char=36
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=37|end_char=40
+8	structure	structure	NOUN	NN	Number=Sing	6	obj	_	start_char=41|end_char=50
+9	"	"	PUNCT	``	_	10	punct	_	start_char=51|end_char=52
+10	su	su	X	FW	Foreign=Yes	8	appos	_	start_char=52|end_char=54
+11	xxx	xxx	X	FW	Foreign=Yes	10	flat	_	start_char=55|end_char=58
+12	de	de	X	FW	Foreign=Yes	10	flat	_	start_char=59|end_char=61
+13	él	él	X	FW	Foreign=Yes	10	flat	_	start_char=62|end_char=64
+14	,	,	PUNCT	,	_	10	punct	_	start_char=64|end_char=65
+15	su	su	X	FW	Foreign=Yes	10	flat	_	start_char=66|end_char=68
+16	xxx	xxx	X	FW	Foreign=Yes	15	flat	_	start_char=69|end_char=72
+17	de	de	X	FW	Foreign=Yes	15	flat	_	start_char=73|end_char=75
+18	ella	ella	X	FW	Foreign=Yes	15	flat	_	start_char=76|end_char=80
+19	"	"	PUNCT	''	_	15	punct	_	start_char=80|end_char=81
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=82|end_char=85
+21	poor	poor	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=86|end_char=90
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=91|end_char=94
+23	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=95|end_char=103
+24	.	.	PUNCT	.	_	2	punct	_	start_char=103|end_char=104
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=105|end_char=109
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=110|end_char=118
+3	points	point	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=119|end_char=125
+4	to	to	ADP	IN	_	6	case	_	start_char=126|end_char=128
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=129|end_char=130
+6	reality	reality	NOUN	NN	Number=Sing	3	obl	_	start_char=131|end_char=138
+7	in	in	ADP	IN	_	11	case	_	start_char=139|end_char=141
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=142|end_char=145
+9	country	country	NOUN	NN	Number=Sing	6	nmod	_	start_char=146|end_char=153
+10	/	/	SYM	,	_	11	cc	_	start_char=153|end_char=154
+11	customs	custom	NOUN	NNS	Number=Plur	9	conj	_	start_char=154|end_char=161
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj:pass	_	start_char=162|end_char=164
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux:pass	_	start_char=165|end_char=168
+14	little	little	ADJ	JJ	Degree=Pos	15	obl:npmod	_	start_char=169|end_char=175
+15	bound	bind	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	parataxis	_	start_char=176|end_char=181
+16	to	to	ADP	IN	_	18	case	_	start_char=182|end_char=184
+17	self	self	NOUN	NN	Number=Sing	18	compound	_	start_char=185|end_char=189
+18	reflexión	reflexión	NOUN	NN	Number=Sing	15	obl	_	start_char=190|end_char=199
+19	and	and	CCONJ	CC	_	21	cc	_	start_char=200|end_char=203
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	start_char=204|end_char=206
+21	prefer	prefer	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	conj	_	start_char=207|end_char=213
+22	to	to	PART	TO	_	23	mark	_	start_char=214|end_char=216
+23	face	face	VERB	VB	VerbForm=Inf	21	xcomp	_	start_char=217|end_char=221
+24	consecuences	consecuence	NOUN	NNS	Number=Plur	23	obj	_	start_char=222|end_char=234
+25	that	that	PRON	WDT	PronType=Rel	27	nsubj	_	start_char=235|end_char=239
+26	to	to	PART	TO	_	27	mark	_	start_char=240|end_char=242
+27	accept	accept	VERB	VB	VerbForm=Inf	24	acl	_	start_char=243|end_char=249
+28	one	one	NUM	CD	NumType=Card	30	nmod:poss	_	start_char=250|end_char=253
+29	's	's	PART	POS	_	28	case	_	start_char=253|end_char=255
+30	mistakes	mistake	NOUN	NNS	Number=Plur	27	obj	_	start_char=256|end_char=264
+31	.	.	PUNCT	.	_	3	punct	_	start_char=264|end_char=265
+
+1	But	but	CCONJ	CC	_	11	cc	_	start_char=267|end_char=270
+2	,	,	PUNCT	,	_	11	punct	_	start_char=270|end_char=271
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=272|end_char=275
+4	truth	truth	NOUN	NN	Number=Sing	11	nsubj	_	start_char=276|end_char=281
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=282|end_char=284
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	start_char=285|end_char=289
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=290|end_char=292
+8	so	so	ADV	RB	_	9	advmod	_	start_char=293|end_char=295
+9	low	low	ADJ	JJ	Degree=Pos	11	amod	_	start_char=296|end_char=299
+10	level	level	NOUN	NN	Number=Sing	11	compound	_	start_char=300|end_char=305
+11	slang	slang	NOUN	NN	Number=Sing	0	root	_	start_char=306|end_char=311
+12	than	than	SCONJ	IN	_	13	mark	_	start_char=312|end_char=316
+13	saying	say	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=317|end_char=323
+14	un	un	PROPN	NNP	Number=Sing	15	compound	_	start_char=324|end_char=326
+15	English	English	PROPN	NNP	Number=Sing	13	obj	_	start_char=327|end_char=334
+16	:	:	PUNCT	:	_	19	punct	_	start_char=335|end_char=336
+17	"	"	PUNCT	``	_	19	punct	_	start_char=336|end_char=337
+18	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=337|end_char=340
+19	car	car	NOUN	NN	Number=Sing	13	ccomp	_	start_char=341|end_char=344
+20	of	of	ADP	IN	_	21	case	_	start_char=345|end_char=347
+21	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	start_char=348|end_char=351
+22	"	"	PUNCT	''	_	19	punct	_	start_char=351|end_char=352
+23	.	.	PUNCT	.	_	11	punct	_	start_char=352|end_char=353
+
+1	Utterly	utterly	ADV	RB	_	2	advmod	_	start_char=354|end_char=361
+2	nonsense	nonsense	NOUN	NN	Number=Sing	0	root	_	start_char=362|end_char=370
+3	.	.	PUNCT	.	_	2	punct	_	start_char=370|end_char=371
+
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	2	nummod	_	start_char=373|end_char=376
+2	advance	advance	NOUN	NN	Number=Sing	11	nsubj	_	start_char=377|end_char=384
+3	Spanish	Spanish	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=385|end_char=392
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=393|end_char=396
+5	over	over	ADP	IN	_	7	case	_	start_char=397|end_char=401
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=402|end_char=407
+7	languages	language	NOUN	NNS	Number=Plur	4	obl	_	start_char=408|end_char=417
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=418|end_char=420
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=421|end_char=424
+10	implicit	implicit	ADJ	JJ	Degree=Pos	11	amod	_	start_char=425|end_char=433
+11	form	form	NOUN	NN	Number=Sing	0	root	_	start_char=434|end_char=438
+12	:	:	PUNCT	:	_	11	punct	_	start_char=438|end_char=439
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=440|end_char=443
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=444|end_char=447
+3	say	say	VERB	VB	VerbForm=Inf	0	root	_	start_char=448|end_char=451
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=452|end_char=453
+5	lot	lot	NOUN	NN	Number=Sing	3	obj	_	start_char=454|end_char=457
+6	with	with	ADP	IN	_	10	case	_	start_char=458|end_char=462
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	10	nummod	_	start_char=463|end_char=466
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=467|end_char=469
+9	two	two	NUM	CD	NumForm=Word|NumType=Card	7	conj	_	start_char=470|end_char=473
+10	words	word	NOUN	NNS	Number=Plur	5	nmod	_	start_char=474|end_char=479
+11	in	in	ADP	IN	_	13	case	_	start_char=480|end_char=482
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=483|end_char=484
+13	sentence	sentence	NOUN	NN	Number=Sing	10	nmod	_	start_char=485|end_char=493
+14	,	,	PUNCT	,	_	15	punct	_	start_char=493|end_char=494
+15	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	start_char=495|end_char=503
+16	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	start_char=504|end_char=507
+17	were	be	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	18	cop	_	start_char=508|end_char=512
+18	clear	clear	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=513|end_char=518
+19	with	with	ADP	IN	_	22	case	_	start_char=519|end_char=523
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=524|end_char=527
+21	previous	previous	ADJ	JJ	Degree=Pos	22	amod	_	start_char=528|end_char=536
+22	ideas	idea	NOUN	NNS	Number=Plur	18	obl	_	start_char=537|end_char=542
+23	.	.	PUNCT	.	_	3	punct	_	start_char=542|end_char=543
+
+1	Example	example	NOUN	NN	Number=Sing	0	root	_	start_char=544|end_char=551
+2	:	:	PUNCT	:	_	1	punct	_	start_char=551|end_char=552
+
+1	"	"	PUNCT	``	_	2	punct	_	start_char=554|end_char=555
+2	Juan	Juan	PROPN	NNP	Number=Sing	0	root	_	start_char=555|end_char=559
+3	sanó	sanó	X	FW	_	2	flat	_	start_char=560|end_char=564
+4	ayer	ayer	X	FW	_	2	flat	_	start_char=565|end_char=569
+5	.	.	PUNCT	.	_	2	punct	_	start_char=569|end_char=570
+
+1	La	La	PROPN	NNP	Number=Sing	0	root	_	start_char=571|end_char=573
+2	semana	Semana	PROPN	NNP	Number=Sing	1	flat	_	start_char=574|end_char=580
+3	pasada	Casada	PROPN	NNP	Number=Sing	1	flat	_	start_char=581|end_char=587
+4	enfermó	enfermó	X	FW	_	1	flat	_	start_char=588|end_char=595
+5	.	.	PUNCT	.	_	1	punct	_	start_char=595|end_char=596
+
+1	Hoy	Hoy	PROPN	NNP	Number=Sing	0	root	_	start_char=597|end_char=600
+2	Jugó	Jugó	PROPN	NNP	Number=Sing	1	flat	_	start_char=601|end_char=605
+3	futbol	futbol	PROPN	NNP	Number=Sing	1	flat	_	start_char=606|end_char=612
+4	.	.	PUNCT	.	_	1	punct	_	start_char=612|end_char=613
+
+1	Ganó	Ganó	PROPN	NNP	Number=Sing	0	root	_	start_char=614|end_char=618
+2	.	.	PUNCT	.	_	1	punct	_	start_char=618|end_char=619
+
+1	Le	Le	X	FW	_	0	root	_	start_char=620|end_char=622
+2	dieron	dieron	X	FW	_	1	flat	_	start_char=623|end_char=629
+3	una	una	X	FW	_	1	goeswith	_	start_char=630|end_char=633
+4	beca	beca	X	FW	_	1	goeswith	_	start_char=634|end_char=638
+5	"	"	PUNCT	''	_	1	punct	_	start_char=638|end_char=639
+
+1	Juan	Juan	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=641|end_char=645
+2	healed	heal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=646|end_char=652
+3	yesterday	yesterday	NOUN	NN	Number=Sing	2	obl:tmod	_	start_char=653|end_char=662
+4	.	.	PUNCT	.	_	2	punct	_	start_char=662|end_char=663
+
+1	Last	last	ADJ	JJ	Degree=Pos	2	amod	_	start_char=664|end_char=668
+2	week	week	NOUN	NN	Number=Sing	4	obl:tmod	_	start_char=669|end_char=673
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=674|end_char=676
+4	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=677|end_char=680
+5	sick	sick	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=681|end_char=685
+6	.	.	PUNCT	.	_	4	punct	_	start_char=685|end_char=686
+
+1	Today	today	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=687|end_char=692
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=693|end_char=695
+3	played	play	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=696|end_char=702
+4	football	football	NOUN	NN	Number=Sing	3	obj	_	start_char=703|end_char=711
+5	.	.	PUNCT	.	_	3	punct	_	start_char=711|end_char=712
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=713|end_char=715
+2	won	win	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=716|end_char=719
+3	.	.	PUNCT	.	_	2	punct	_	start_char=719|end_char=720
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=721|end_char=725
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=726|end_char=730
+3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	start_char=731|end_char=734
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=735|end_char=736
+5	schoolarship	schoolarship	NOUN	NN	Number=Sing	2	obj	_	start_char=737|end_char=749
+6	.	.	PUNCT	.	_	2	punct	_	start_char=749|end_char=750
+
+1	As	as	ADV	RB	_	0	root	_	start_char=752|end_char=754
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=755|end_char=758
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=759|end_char=762
+3	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=763|end_char=766
+4	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=767|end_char=771
+5	pronouns	pronoun	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=772|end_char=780
+6	became	become	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=781|end_char=787
+7	optional	optional	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=788|end_char=796
+8	after	after	ADP	IN	_	11	case	_	start_char=797|end_char=802
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=803|end_char=806
+10	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	11	amod	_	start_char=807|end_char=812
+11	use	use	NOUN	NN	Number=Sing	7	obl	_	start_char=813|end_char=816
+12	,	,	PUNCT	,	_	19	punct	_	start_char=816|end_char=817
+13	and	and	CCONJ	CC	_	19	cc	_	start_char=818|end_char=821
+14	if	if	SCONJ	IN	_	19	mark	_	start_char=822|end_char=824
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=825|end_char=828
+16	verb	verb	NOUN	NN	Number=Sing	17	compound	_	start_char=829|end_char=833
+17	conjugation	conjugation	NOUN	NN	Number=Sing	19	nsubj	_	start_char=834|end_char=845
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=846|end_char=848
+19	clear	clear	ADJ	JJ	Degree=Pos	6	conj	_	start_char=849|end_char=854
+20	enough	enough	ADV	RB	Degree=Pos	19	advmod	_	start_char=855|end_char=861
+21	to	to	PART	TO	_	22	mark	_	start_char=862|end_char=864
+22	distinguish	distinguish	VERB	VB	VerbForm=Inf	19	advcl	_	start_char=866|end_char=877
+23	between	between	ADP	IN	_	24	case	_	start_char=878|end_char=885
+24	subjects	subject	NOUN	NNS	Number=Plur	22	obl	_	start_char=886|end_char=894
+25	.	.	PUNCT	.	_	3	punct	_	start_char=894|end_char=895
+

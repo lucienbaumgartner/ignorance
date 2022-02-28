@@ -1,0 +1,20 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	5	advmod	_	start_char=8|end_char=10
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=11|end_char=21
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=28
+6	,	,	PUNCT	,	_	7	punct	_	start_char=28|end_char=29
+7	selfish	selfish	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=37
+8	,	,	PUNCT	,	_	9	punct	_	start_char=37|end_char=38
+9	hateful	hateful	ADJ	JJ	Degree=Pos	5	conj	_	start_char=39|end_char=46
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=47|end_char=50
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=51|end_char=59
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=60|end_char=64
+13	there	there	PRON	EX	_	14	expl	_	start_char=65|end_char=70
+14	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=71|end_char=74
+15	no	no	DET	DT	_	16	det	_	start_char=75|end_char=77
+16	words	word	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=78|end_char=83
+17	for	for	ADP	IN	_	18	case	_	start_char=84|end_char=87
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nmod	_	start_char=88|end_char=90
+19	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+

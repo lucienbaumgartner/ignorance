@@ -1,0 +1,7 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	compliant	compliant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=21
+4	no	no	ADV	RB	_	5	advmod	_	start_char=22|end_char=24
+5	longer	long	ADV	RBR	Degree=Cmp	1	advmod	_	start_char=25|end_char=31
+6	.	.	PUNCT	.	_	1	punct	_	start_char=31|end_char=32
+

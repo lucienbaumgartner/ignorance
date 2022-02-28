@@ -1,0 +1,38 @@
+1	When	when	ADV	WRB	PronType=Int	0	root	_	start_char=0|end_char=4
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	start_char=5|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=9|end_char=12
+4	last	last	ADJ	JJ	Degree=Pos	5	amod	_	start_char=13|end_char=17
+5	time	time	NOUN	NN	Number=Sing	1	nsubj	_	start_char=18|end_char=22
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=23|end_char=26
+7	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=27|end_char=32
+8	on	on	ADP	IN	_	10	case	_	start_char=33|end_char=35
+9	Illinois	Illinois	PROPN	NNP	Number=Sing	10	compound	_	start_char=36|end_char=44
+10	roads	road	NOUN	NNS	Number=Plur	7	obl	_	start_char=45|end_char=50
+11	?	?	PUNCT	.	_	1	punct	_	start_char=50|end_char=51
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=52|end_char=55
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=56|end_char=62
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=63|end_char=72
+4	naive	naive	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=73|end_char=78
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=79|end_char=82
+6	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=83|end_char=90
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=91|end_char=95
+8	urban	urban	ADJ	JJ	Degree=Pos	9	amod	_	start_char=96|end_char=101
+9	centers	center	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=102|end_char=109
+10	tend	tend	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=110|end_char=114
+11	to	to	PART	TO	_	12	mark	_	start_char=115|end_char=117
+12	skew	skew	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=118|end_char=122
+13	blue	blue	ADJ	JJ	Degree=Pos	16	amod	_	start_char=123|end_char=127
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=128|end_char=131
+15	rural	rural	ADJ	JJ	Degree=Pos	13	conj	_	start_char=132|end_char=137
+16	areas	area	NOUN	NNS	Number=Plur	12	obj	_	start_char=138|end_char=143
+17	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=144|end_char=147
+18	red	red	ADJ	JJ	Degree=Pos	10	conj	_	start_char=148|end_char=151
+19	.	.	PUNCT	.	_	2	punct	_	start_char=151|end_char=152
+
+1	No	no	DET	DT	_	2	det	_	start_char=153|end_char=155
+2	one	one	NOUN	NN	Number=Sing	4	nsubj	_	start_char=156|end_char=159
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=160|end_char=162
+4	seceding	secede	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=163|end_char=171
+5	.	.	PUNCT	.	_	4	punct	_	start_char=171|end_char=172
+

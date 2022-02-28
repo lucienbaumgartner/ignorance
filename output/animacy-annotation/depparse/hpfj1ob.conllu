@@ -1,0 +1,28 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=11
+4	also	also	ADV	RB	_	5	advmod	_	start_char=12|end_char=16
+5	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=17|end_char=20
+6	kis	kis	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=21|end_char=24
+7	insaan	insaan	NOUN	NN	Number=Sing	5	obj	_	start_char=25|end_char=31
+8	ne	ne	ADP	IN	_	10	case	_	start_char=32|end_char=34
+9	bataya	bataya	NOUN	NN	Number=Sing	10	compound	_	start_char=35|end_char=41
+10	psychologists	psychologist	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=42|end_char=55
+11	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=56|end_char=61
+12	on	on	ADP	IN	_	14	case	_	start_char=62|end_char=64
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=65|end_char=68
+14	chakra	chakra	NOUN	NN	Number=Sing	11	obl	_	start_char=69|end_char=75
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=76|end_char=79
+16	aura	aura	NOUN	NN	Number=Sing	14	conj	_	start_char=80|end_char=84
+17	?	?	PUNCT	.	_	3	punct	_	start_char=84|end_char=85
+18	🤦	''	PUNCT	''	_	3	punct	_	start_char=86|end_char=87
+
+1	Like	like	SCONJ	IN	_	4	mark	_	start_char=88|end_char=92
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=93|end_char=96
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=97|end_char=99
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=108
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=109|end_char=112
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=113|end_char=120
+7	too	too	ADV	RB	_	4	advmod	_	start_char=121|end_char=124
+8	.	.	PUNCT	.	_	4	punct	_	start_char=124|end_char=125
+

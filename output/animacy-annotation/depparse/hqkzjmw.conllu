@@ -1,0 +1,26 @@
+1	For	for	SCONJ	IN	_	4	mark	_	start_char=0|end_char=3
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=4|end_char=6
+3	to	to	PART	TO	_	4	mark	_	start_char=7|end_char=9
+4	think	think	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=10|end_char=15
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=16|end_char=20
+6	,	,	PUNCT	,	_	9	punct	_	start_char=20|end_char=21
+7	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=22|end_char=23
+8	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=24|end_char=29
+9	feel	feel	VERB	VB	VerbForm=Inf	0	root	_	start_char=30|end_char=34
+10	selfish	selfish	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=35|end_char=42
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=43|end_char=46
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=47|end_char=55
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=56|end_char=59
+14	not	not	PART	RB	_	16	advmod	_	start_char=60|end_char=63
+15	self	self	NOUN	NN	Number=Sing	16	obl:npmod	_	start_char=64|end_char=68
+16	aware	aware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=69|end_char=74
+17	.	.	PUNCT	.	_	9	punct	_	start_char=74|end_char=75
+
+1	Maybe	maybe	ADV	RB	_	4	advmod	_	start_char=76|end_char=81
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=82|end_char=86
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=87|end_char=91
+4	change	change	VERB	VB	VerbForm=Inf	0	root	_	start_char=92|end_char=98
+5	over	over	ADP	IN	_	6	case	_	start_char=99|end_char=103
+6	time	time	NOUN	NN	Number=Sing	4	obl	_	start_char=104|end_char=108
+7	.	.	PUNCT	.	_	4	punct	_	start_char=108|end_char=109
+

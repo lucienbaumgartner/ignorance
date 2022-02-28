@@ -1,0 +1,26 @@
+1	truly	truly	ADV	RB	_	4	advmod	_	start_char=0|end_char=5
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=6|end_char=9
+3	only	only	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=14
+4	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=20
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=21|end_char=23
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=23|end_char=25
+7	good	good	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=26|end_char=30
+8	at	at	ADP	IN	_	7	obl	_	start_char=31|end_char=33
+9	,	,	PUNCT	,	_	13	punct	_	start_char=33|end_char=34
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=35|end_char=38
+11	being	be	AUX	VBG	VerbForm=Ger	13	cop	_	start_char=39|end_char=44
+12	so	so	ADV	RB	_	13	advmod	_	start_char=45|end_char=47
+13	blind	blind	ADJ	JJ	Degree=Pos	4	conj	_	start_char=48|end_char=53
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=54|end_char=57
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=58|end_char=66
+16	that	that	SCONJ	IN	_	22	mark	_	start_char=67|end_char=71
+17	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=72|end_char=75
+18	"	"	PUNCT	``	_	19	punct	_	start_char=76|end_char=77
+19	friends	friend	NOUN	NNS	Number=Plur	22	nsubj	_	start_char=77|end_char=84
+20	"	"	PUNCT	''	_	19	punct	_	start_char=84|end_char=85
+21	can	can	AUX	MD	VerbForm=Fin	22	aux	_	start_char=86|end_char=89
+22	bleed	bleed	VERB	VB	VerbForm=Inf	15	ccomp	_	start_char=90|end_char=95
+23	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	start_char=96|end_char=99
+24	dry	dry	ADJ	JJ	Degree=Pos	22	xcomp	_	start_char=100|end_char=103
+25	.	.	PUNCT	.	_	4	punct	_	start_char=103|end_char=104
+

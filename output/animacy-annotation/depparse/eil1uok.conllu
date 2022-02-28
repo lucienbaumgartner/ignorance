@@ -1,0 +1,28 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=7
+4	insult	insult	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=14
+5	to	to	ADP	IN	_	7	case	_	start_char=15|end_char=17
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=18|end_char=19
+7	terrorist	terrorist	NOUN	NN	Number=Sing	4	nmod	_	start_char=20|end_char=29
+8	,	,	PUNCT	,	_	11	punct	_	start_char=29|end_char=30
+9	not	not	ADV	RB	_	11	advmod	_	start_char=31|end_char=34
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=35|end_char=36
+11	praise	praise	NOUN	NN	Number=Sing	4	conj	_	start_char=37|end_char=43
+12	for	for	ADP	IN	_	13	case	_	start_char=44|end_char=47
+13	another	another	DET	DT	_	11	nmod	_	start_char=48|end_char=55
+14	.	.	PUNCT	.	_	4	punct	_	start_char=55|end_char=56
+
+1	Stop	stop	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=57|end_char=61
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=62|end_char=67
+3	so	so	ADV	RB	_	4	advmod	_	start_char=68|end_char=70
+4	sensitive	sensitive	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=71|end_char=80
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=81|end_char=84
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=85|end_char=93
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=94|end_char=98
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=99|end_char=102
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=103|end_char=105
+10	n't	not	PART	RB	_	11	advmod	_	start_char=105|end_char=108
+11	understand	understand	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=109|end_char=119
+12	.	.	PUNCT	.	_	1	punct	_	start_char=119|end_char=120
+

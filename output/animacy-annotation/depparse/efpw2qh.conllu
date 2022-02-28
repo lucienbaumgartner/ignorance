@@ -1,0 +1,28 @@
+1	murdered	murder	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	_	start_char=0|end_char=8
+2	because	because	SCONJ	IN	_	3	mark	_	start_char=9|end_char=16
+3	pompous	pompous	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=17|end_char=24
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=25|end_char=28
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=29|end_char=37
+6	,	,	PUNCT	,	_	17	punct	_	start_char=37|end_char=38
+7	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=39|end_char=43
+8	line	line	NOUN	NN	Number=Sing	17	nsubj	_	start_char=44|end_char=48
+9	"	"	PUNCT	``	_	15	punct	_	start_char=49|end_char=50
+10	whiteness	whiteness	NOUN	NN	Number=Sing	15	nsubj	_	start_char=50|end_char=59
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	start_char=60|end_char=63
+12	never	never	ADV	RB	_	15	advmod	_	start_char=64|end_char=69
+13	of	of	ADP	IN	_	15	case	_	start_char=70|end_char=72
+14	any	any	DET	DT	_	15	det	_	start_char=73|end_char=76
+15	benefit	benefit	NOUN	NN	Number=Sing	17	advcl	_	start_char=77|end_char=84
+16	"	"	PUNCT	''	_	15	punct	_	start_char=84|end_char=85
+17	adds	add	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=86|end_char=90
+18	murder	murder	NOUN	NN	Number=Sing	17	obj	_	start_char=91|end_char=97
+19	because	because	ADP	IN	_	21	case	_	start_char=98|end_char=105
+20	bigoted	bigoted	ADJ	JJ	Degree=Pos	21	amod	_	start_char=106|end_char=113
+21	idiot	idiot	NOUN	NN	Number=Sing	17	obl	_	start_char=114|end_char=119
+22	.	.	PUNCT	.	_	17	punct	_	start_char=119|end_char=120
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=121|end_char=122
+2	murder	murder	NOUN	NN	Number=Sing	3	compound	_	start_char=123|end_char=129
+3	trifecta	trifecta	NOUN	NN	Number=Sing	0	root	_	start_char=130|end_char=138
+4	?	?	PUNCT	.	_	3	punct	_	start_char=138|end_char=139
+

@@ -1,0 +1,36 @@
+1	Ahhhh	ahhhh	INTJ	UH	_	4	discourse	_	start_char=0|end_char=5
+2	minor	minor	ADJ	JJ	Degree=Pos	4	amod	_	start_char=6|end_char=11
+3	grammatical	grammatical	ADJ	JJ	Degree=Pos	4	amod	_	start_char=12|end_char=23
+4	corrections	correction	NOUN	NNS	Number=Plur	0	root	_	start_char=24|end_char=35
+5	.	.	PUNCT	.	_	4	punct	_	start_char=35|end_char=36
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=37|end_char=40
+2	last	last	ADJ	JJ	Degree=Pos	3	amod	_	start_char=41|end_char=45
+3	bastion	bastion	NOUN	NN	Number=Sing	0	root	_	start_char=46|end_char=53
+4	of	of	ADP	IN	_	6	case	_	start_char=54|end_char=56
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=57|end_char=60
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	nmod	_	start_char=61|end_char=69
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=70|end_char=73
+8	disproven	disprove	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	_	start_char=74|end_char=83
+9	.	.	PUNCT	.	_	3	punct	_	start_char=83|end_char=84
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=85|end_char=86
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=86|end_char=88
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=89|end_char=90
+4	writer	writer	NOUN	NN	Number=Sing	0	root	_	start_char=91|end_char=97
+5	btw	btw	INTJ	UH	_	4	discourse	_	start_char=98|end_char=101
+6	,	,	PUNCT	,	_	7	punct	_	start_char=101|end_char=102
+7	irl	IRL	INTJ	UH	_	4	discourse	_	start_char=103|end_char=106
+8	.	.	PUNCT	.	_	4	punct	_	start_char=106|end_char=107
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=108|end_char=109
+2	dont	do	AUX	MD	VerbForm=Fin	3	aux	_	start_char=110|end_char=114
+3	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=115|end_char=119
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=120|end_char=123
+5	to	to	PART	TO	_	6	mark	_	start_char=124|end_char=126
+6	teach	teach	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=127|end_char=132
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	iobj	_	start_char=133|end_char=135
+8	grammar	grammar	NOUN	NN	Number=Sing	6	obj	_	start_char=136|end_char=143
+9	.	.	PUNCT	.	_	3	punct	_	start_char=143|end_char=144
+10	;)	;)	SYM	NFP	_	3	discourse	_	start_char=145|end_char=147
+

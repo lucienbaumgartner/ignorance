@@ -1,0 +1,17 @@
+1	No	no	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3|end_char=4
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=5|end_char=9
+4	what	what	PRON	WP	PronType=Int	6	obj	_	start_char=10|end_char=14
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=15|end_char=16
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=17|end_char=21
+7	because	because	SCONJ	IN	_	10	mark	_	start_char=22|end_char=29
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=30|end_char=31
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=32|end_char=35
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=36|end_char=44
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=45|end_char=48
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=49|end_char=56
+13	of	of	ADP	IN	_	15	case	_	start_char=57|end_char=59
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=60|end_char=63
+15	situation	situation	NOUN	NN	Number=Sing	12	obl	_	start_char=64|end_char=73
+16	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+

@@ -1,0 +1,39 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=6
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=7|end_char=10
+3	really	really	ADV	RB	_	4	advmod	_	start_char=11|end_char=17
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=23|end_char=27
+6	small-	small-	NOUN	NN	Number=Sing	4	obj	_	start_char=28|end_char=34
+7	minded	minded	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=34|end_char=40
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=41|end_char=44
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=45|end_char=53
+10	of	of	ADP	IN	_	12	case	_	start_char=54|end_char=56
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=57|end_char=58
+12	prescription	prescription	NOUN	NN	Number=Sing	9	obl	_	start_char=59|end_char=71
+13	of	of	ADP	IN	_	15	case	_	start_char=72|end_char=74
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=75|end_char=78
+15	world	world	NOUN	NN	Number=Sing	12	nmod	_	start_char=79|end_char=84
+16	?	?	PUNCT	.	_	4	punct	_	start_char=84|end_char=85
+
+1	Pro	pro	NOUN	NN	Number=Sing	2	compound	_	start_char=87|end_char=90
+2	tip	tip	NOUN	NN	Number=Sing	0	root	_	start_char=91|end_char=94
+3	:	:	PUNCT	:	_	2	punct	_	start_char=94|end_char=95
+4	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	6	aux	_	start_char=96|end_char=98
+5	n't	not	PART	RB	_	6	advmod	_	start_char=98|end_char=101
+6	insult	insult	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=102|end_char=108
+7	someone	someone	PRON	NN	Number=Sing	9	nmod:poss	_	start_char=109|end_char=116
+8	's	's	PART	POS	_	7	case	_	start_char=116|end_char=118
+9	intelligence	intelligence	NOUN	NN	Number=Sing	6	obj	_	start_char=119|end_char=131
+10	while	while	SCONJ	IN	_	11	mark	_	start_char=132|end_char=137
+11	misspelling	misspel	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=138|end_char=149
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=150|end_char=153
+13	words	word	NOUN	NNS	Number=Plur	11	obj	_	start_char=154|end_char=159
+14	used	use	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	_	start_char=160|end_char=164
+15	in	in	ADP	IN	_	17	case	_	start_char=165|end_char=167
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=168|end_char=171
+17	insult	insult	NOUN	NN	Number=Sing	14	obl	_	start_char=172|end_char=178
+18	.	.	PUNCT	.	_	2	punct	_	start_char=178|end_char=179
+

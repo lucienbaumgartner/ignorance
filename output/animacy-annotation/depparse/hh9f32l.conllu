@@ -1,0 +1,95 @@
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	start_char=4|end_char=7
+3	go	go	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=8|end_char=10
+4	.	.	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=12|end_char=15
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=16|end_char=18
+3	unsupportive	unsupportive	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=31
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=32|end_char=35
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=36|end_char=44
+6	of	of	ADP	IN	_	9	case	_	start_char=45|end_char=47
+7	current	current	ADJ	JJ	Degree=Pos	9	amod	_	start_char=48|end_char=55
+8	employment	employment	NOUN	NN	Number=Sing	9	compound	_	start_char=56|end_char=66
+9	issues	issue	NOUN	NNS	Number=Plur	5	obl	_	start_char=67|end_char=73
+10	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=77|end_char=79
+2	once	once	ADV	RB	NumType=Mult	3	advmod	_	start_char=80|end_char=84
+3	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=85|end_char=89
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	iobj	_	start_char=90|end_char=92
+5	8	8	NUM	CD	NumType=Card	6	nummod	_	start_char=93|end_char=94
+6	months	month	NOUN	NNS	Number=Plur	3	obj	_	start_char=95|end_char=101
+7	to	to	PART	TO	_	8	mark	_	start_char=102|end_char=104
+8	get	get	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=105|end_char=108
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=109|end_char=110
+10	job	job	NOUN	NN	Number=Sing	8	obj	_	start_char=111|end_char=114
+11	,	,	PUNCT	,	_	12	punct	_	start_char=114|end_char=115
+12	sending	send	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=116|end_char=123
+13	out	out	ADP	RP	_	12	compound:prt	_	start_char=124|end_char=127
+14	resumes	resume	NOUN	NNS	Number=Plur	12	obj	_	start_char=128|end_char=135
+15	every	every	DET	DT	_	16	det	_	start_char=136|end_char=141
+16	day	day	NOUN	NN	Number=Sing	12	obl:tmod	_	start_char=142|end_char=145
+17	.	.	PUNCT	.	_	3	punct	_	start_char=145|end_char=146
+
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=147|end_char=149
+2	power	power	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=150|end_char=155
+3	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=156|end_char=159
+4	shut	shut	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=160|end_char=164
+5	off	off	ADP	RP	_	4	compound:prt	_	start_char=165|end_char=168
+6	.	.	PUNCT	.	_	4	punct	_	start_char=168|end_char=169
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=170|end_char=172
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=173|end_char=176
+3	terrible	terrible	ADJ	JJ	Degree=Pos	0	root	_	start_char=177|end_char=185
+4	.	.	PUNCT	.	_	3	punct	_	start_char=185|end_char=186
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=187|end_char=190
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=191|end_char=192
+3	finally	finally	ADV	RB	_	4	advmod	_	start_char=193|end_char=200
+4	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=201|end_char=204
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=205|end_char=206
+6	job	job	NOUN	NN	Number=Sing	4	obj	_	start_char=207|end_char=210
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=211|end_char=214
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=215|end_char=217
+9	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=218|end_char=224
+10	out	out	ADP	RP	_	9	compound:prt	_	start_char=225|end_char=228
+11	.	.	PUNCT	.	_	4	punct	_	start_char=228|end_char=229
+
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	start_char=232|end_char=234
+2	n't	not	PART	RB	_	3	advmod	_	start_char=234|end_char=237
+3	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=238|end_char=242
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=243|end_char=244
+5	shit	shit	NOUN	NN	Number=Sing	6	compound	_	start_char=245|end_char=249
+6	job	job	NOUN	NN	Number=Sing	3	obj	_	start_char=250|end_char=253
+7	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=254|end_char=258
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=259|end_char=263
+9	make	make	VERB	VB	VerbForm=Inf	6	acl:relcl	_	start_char=264|end_char=268
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=269|end_char=271
+11	harder	hard	ADJ	JJR	Degree=Cmp	9	xcomp	_	start_char=272|end_char=278
+12	to	to	PART	TO	_	13	mark	_	start_char=279|end_char=281
+13	get	get	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=282|end_char=285
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=286|end_char=287
+15	good	good	ADJ	JJ	Degree=Pos	16	amod	_	start_char=288|end_char=292
+16	one	one	NOUN	NN	Number=Sing	13	obj	_	start_char=293|end_char=296
+17	.	.	PUNCT	.	_	3	punct	_	start_char=296|end_char=297
+
+1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=298|end_char=302
+2	on	on	ADP	IN	_	3	case	_	start_char=303|end_char=305
+3	UE	ue	NOUN	NN	Number=Sing	1	obl	_	start_char=306|end_char=308
+4	,	,	PUNCT	,	_	8	punct	_	start_char=308|end_char=309
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=310|end_char=312
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=312|end_char=314
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=315|end_char=319
+8	money	money	NOUN	NN	Number=Sing	1	parataxis	_	start_char=320|end_char=325
+9	anyway	anyway	ADV	RB	_	8	advmod	_	start_char=326|end_char=332
+10	,	,	PUNCT	,	_	12	punct	_	start_char=332|end_char=333
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=334|end_char=337
+12	keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	8	conj	_	start_char=338|end_char=342
+13	looking	look	VERB	VBG	VerbForm=Ger	12	xcomp	_	start_char=343|end_char=350
+14	for	for	ADP	IN	_	17	case	_	start_char=351|end_char=354
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=355|end_char=356
+16	good	good	ADJ	JJ	Degree=Pos	17	amod	_	start_char=357|end_char=361
+17	job	job	NOUN	NN	Number=Sing	13	obl	_	start_char=362|end_char=365
+18	.	.	PUNCT	.	_	1	punct	_	start_char=365|end_char=366
+

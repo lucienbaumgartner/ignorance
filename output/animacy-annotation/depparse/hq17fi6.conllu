@@ -1,0 +1,44 @@
+1	Conservative	Conservative	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=12
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=13|end_char=16
+3	religious	religious	ADJ	JJ	Degree=Pos	1	conj	_	start_char=17|end_char=26
+4	=	=	PUNCT	,	_	1	punct	_	start_char=27|end_char=28
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=29|end_char=37
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=38|end_char=41
+7	delusional	delusional	ADJ	JJ	Degree=Pos	5	conj	_	start_char=42|end_char=52
+8	.	.	PUNCT	.	_	1	punct	_	start_char=52|end_char=53
+
+1	Sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=54|end_char=60
+2	like	like	SCONJ	IN	_	5	mark	_	start_char=61|end_char=65
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=66|end_char=70
+4	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=70|end_char=73
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	start_char=74|end_char=78
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=79|end_char=80
+7	great	great	ADJ	JJ	Degree=Pos	8	amod	_	start_char=81|end_char=86
+8	job	job	NOUN	NN	Number=Sing	5	obj	_	start_char=87|end_char=90
+9	of	of	SCONJ	IN	_	10	mark	_	start_char=91|end_char=93
+10	brainwashing	brainwashing	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=94|end_char=106
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=107|end_char=110
+12	.	.	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=112|end_char=113
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=114|end_char=118
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=119|end_char=123
+4	sister	sister	NOUN	NN	Number=Sing	5	nsubj	_	start_char=124|end_char=130
+5	stops	stop	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=131|end_char=136
+6	visiting	visit	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=137|end_char=145
+7	so	so	SCONJ	IN	_	13	mark	_	start_char=146|end_char=148
+8	that	that	SCONJ	IN	_	7	fixed	_	start_char=149|end_char=153
+9	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=154|end_char=157
+10	child	child	NOUN	NN	Number=Sing	13	nsubj	_	start_char=158|end_char=163
+11	wo	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=164|end_char=166
+12	n't	not	PART	RB	_	13	advmod	_	start_char=166|end_char=169
+13	suffer	suffer	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=170|end_char=176
+14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=177|end_char=180
+15	same	same	ADJ	JJ	Degree=Pos	17	amod	_	start_char=181|end_char=185
+16	sad	sad	ADJ	JJ	Degree=Pos	17	amod	_	start_char=186|end_char=189
+17	fate	fate	NOUN	NN	Number=Sing	13	obj	_	start_char=190|end_char=194
+18	.	.	PUNCT	.	_	2	punct	_	start_char=194|end_char=195
+
+1	Pathetic	Pathetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=196|end_char=204
+2	.	.	PUNCT	.	_	1	punct	_	start_char=204|end_char=205
+

@@ -1,0 +1,28 @@
+1	Lol	lol	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=8|end_char=11
+4	just	just	ADV	RB	_	7	advmod	_	start_char=12|end_char=16
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=17|end_char=22
+6	blatantly	blatantly	ADV	RB	_	7	advmod	_	start_char=23|end_char=32
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=33|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	belligerent	belligerent	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=57
+10	.	.	PUNCT	.	_	7	punct	_	start_char=57|end_char=58
+
+1	Pretty	pretty	ADV	RB	_	2	advmod	_	start_char=59|end_char=65
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=69
+3	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+
+1	Nice	nice	ADJ	JJ	Degree=Pos	2	amod	_	start_char=71|end_char=75
+2	job	job	NOUN	NN	Number=Sing	0	root	_	start_char=76|end_char=79
+3	of	of	SCONJ	IN	_	6	mark	_	start_char=80|end_char=82
+4	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=83|end_char=88
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=89|end_char=90
+6	know	know	NOUN	NN	Number=Sing	2	acl	_	start_char=91|end_char=95
+7	-	-	PUNCT	,	_	2	punct	_	start_char=95|end_char=96
+8	nothing	nothing	PRON	NN	Number=Sing	2	appos	_	start_char=96|end_char=103
+9	dipshit	dipshit	NOUN	NN	Number=Sing	8	amod	_	start_char=104|end_char=111
+10	from	from	ADP	IN	_	11	case	_	start_char=112|end_char=116
+11	Oregon	Oregon	PROPN	NNP	Number=Sing	9	obl	_	start_char=117|end_char=123
+12	.	.	PUNCT	.	_	2	punct	_	start_char=123|end_char=124
+

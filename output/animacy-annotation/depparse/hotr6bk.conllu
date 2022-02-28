@@ -1,0 +1,24 @@
+1	Interesting	interesting	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=11
+2	to	to	PART	TO	_	3	mark	_	start_char=12|end_char=14
+3	hear	hear	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=15|end_char=19
+4	men	man	NOUN	NNS	Number=Plur	3	obj	_	start_char=20|end_char=23
+5	evaluate	evaluate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=24|end_char=32
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	start_char=33|end_char=38
+7	men	man	NOUN	NNS	Number=Plur	5	obj	_	start_char=39|end_char=42
+8	,	,	PUNCT	,	_	1	punct	_	start_char=42|end_char=43
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=44|end_char=48
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=50|end_char=53
+11	usually	usually	ADV	RB	_	13	advmod	_	start_char=54|end_char=61
+12	so	so	ADV	RB	_	13	advmod	_	start_char=62|end_char=64
+13	clueless	clueless	ADJ	JJ	Degree=Pos	1	parataxis	_	start_char=65|end_char=73
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=74|end_char=77
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=78|end_char=85
+16	of	of	ADP	IN	_	17	case	_	start_char=86|end_char=88
+17	what	what	DET	WDT	PronType=Int	15	obl	_	start_char=89|end_char=93
+18	women	woman	NOUN	NNS	Number=Plur	20	nsubj	_	start_char=94|end_char=99
+19	actually	actually	ADV	RB	_	20	advmod	_	start_char=100|end_char=108
+20	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=109|end_char=113
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=114|end_char=117
+22	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	conj	_	start_char=118|end_char=122
+23	😂🤣	😂🤣	PUNCT	.	_	1	punct	_	start_char=123|end_char=125
+

@@ -1,0 +1,61 @@
+1	Dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=8
+3	so	so	ADV	RB	_	4	advmod	_	start_char=9|end_char=11
+4	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=17
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=18|end_char=22
+6	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=23|end_char=31
+7	.	.	PUNCT	.	_	4	punct	_	start_char=31|end_char=32
+
+1	Fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=33|end_char=37
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=38|end_char=42
+3	guy	guy	NOUN	NN	Number=Sing	1	obj	_	start_char=43|end_char=46
+4	.	.	PUNCT	.	_	1	punct	_	start_char=46|end_char=47
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=48|end_char=49
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=50|end_char=54
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=55|end_char=58
+4	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=59|end_char=63
+5	out	out	ADV	RB	_	4	advmod	_	start_char=64|end_char=67
+6	okay	okay	ADV	RB	_	4	advmod	_	start_char=68|end_char=72
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=73|end_char=76
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=77|end_char=79
+9	only	only	ADV	RB	_	10	advmod	_	start_char=80|end_char=84
+10	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=85|end_char=88
+11	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=89|end_char=90
+12	cold	cold	ADJ	JJ	Degree=Pos	16	amod	_	start_char=91|end_char=95
+13	or	or	CCONJ	CC	_	15	cc	_	start_char=96|end_char=98
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=99|end_char=100
+15	smokers	smoker	NOUN	NNS	Number=Plur	16	compound	_	start_char=101|end_char=108
+16	cough	cough	NOUN	NN	Number=Sing	10	obj	_	start_char=109|end_char=114
+17	or	or	CCONJ	CC	_	19	cc	_	start_char=115|end_char=117
+18	some	some	DET	DT	_	19	det	_	start_char=118|end_char=122
+19	such	such	ADJ	JJ	Degree=Pos	16	conj	_	start_char=123|end_char=127
+20	.	.	PUNCT	.	_	2	punct	_	start_char=127|end_char=128
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=129|end_char=130
+2	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=131|end_char=136
+3	tho	though	INTJ	UH	_	8	discourse	_	start_char=137|end_char=140
+4	,	,	PUNCT	,	_	8	punct	_	start_char=140|end_char=141
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=142|end_char=145
+6	world	world	NOUN	NN	Number=Sing	8	nsubj:pass	_	start_char=146|end_char=151
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=152|end_char=154
+8	populated	populate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=155|end_char=164
+9	by	by	ADP	IN	_	19	case	_	start_char=165|end_char=167
+10	so	so	ADV	RB	_	11	advmod	_	start_char=168|end_char=170
+11	many	many	ADJ	JJ	Degree=Pos	19	amod	_	start_char=171|end_char=175
+12	selfish	selfish	ADJ	JJ	Degree=Pos	19	amod	_	start_char=176|end_char=183
+13	,	,	PUNCT	,	_	14	punct	_	start_char=183|end_char=184
+14	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=185|end_char=193
+15	,	,	PUNCT	,	_	16	punct	_	start_char=193|end_char=194
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=195|end_char=203
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=204|end_char=207
+18	pompous	pompous	ADJ	JJ	Degree=Pos	12	conj	_	start_char=208|end_char=215
+19	d-bags	d-bags	NOUN	NNS	Number=Plur	8	obl	_	start_char=216|end_char=222
+20	,	,	PUNCT	,	_	23	punct	_	start_char=222|end_char=223
+21	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=224|end_char=226
+22	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=226|end_char=228
+23	unbelievable	unbelievable	ADJ	JJ	Degree=Pos	8	conj	_	start_char=229|end_char=241
+24	.	.	PUNCT	.	_	2	punct	_	start_char=241|end_char=242
+

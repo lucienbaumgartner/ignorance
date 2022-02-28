@@ -1,0 +1,25 @@
+1	Honestly	honestly	ADV	RB	_	2	advmod	_	start_char=0|end_char=8
+2	mate	mate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+3	,	,	PUNCT	,	_	2	punct	_	start_char=13|end_char=14
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=15|end_char=18
+5	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=18|end_char=21
+6	really	really	ADV	RB	Degree=Pos	7	advmod	_	start_char=22|end_char=28
+7	had	have	VERB	VBN	Tense=Past|VerbForm=Part	2	parataxis	_	start_char=29|end_char=32
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=33|end_char=34
+9	nightmare	nightmare	NOUN	NN	Number=Sing	7	obj	_	start_char=35|end_char=44
+10	here	here	ADV	RB	PronType=Dem	7	advmod	_	start_char=45|end_char=49
+11	.	.	PUNCT	.	_	2	punct	_	start_char=49|end_char=50
+
+1	Gonna	gonna	INTJ	UH	_	2	discourse	_	start_char=51|end_char=56
+2	discontinue	discontinue	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=57|end_char=68
+3	engaging	engage	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=69|end_char=77
+4	with	with	ADP	IN	_	5	case	_	start_char=78|end_char=82
+5	someone	someone	PRON	NN	Number=Sing	3	obl	_	start_char=83|end_char=90
+6	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=91|end_char=94
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=95|end_char=97
+8	both	both	ADV	RB	_	9	advmod	_	start_char=98|end_char=102
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=103|end_char=111
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=112|end_char=115
+11	apathetic	apathetic	ADJ	JJ	Degree=Pos	9	conj	_	start_char=116|end_char=125
+12	.	.	PUNCT	.	_	2	punct	_	start_char=125|end_char=126
+

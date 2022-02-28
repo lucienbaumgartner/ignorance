@@ -1,0 +1,36 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=3|end_char=9
+3	still	still	ADV	RB	_	4	advmod	_	start_char=10|end_char=15
+4	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=19
+5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=20|end_char=22
+6	option	option	NOUN	NN	Number=Sing	4	obj	_	start_char=23|end_char=29
+7	to	to	PART	TO	_	8	mark	_	start_char=30|end_char=32
+8	remove	remove	VERB	VB	VerbForm=Inf	6	acl	_	start_char=33|end_char=39
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=40|end_char=43
+10	battle	battle	NOUN	NN	Number=Sing	11	compound	_	start_char=44|end_char=50
+11	belt	belt	NOUN	NN	Number=Sing	8	obj	_	start_char=51|end_char=55
+12	if	if	SCONJ	IN	_	14	mark	_	start_char=56|end_char=58
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=59|end_char=61
+14	so	so	ADV	RB	_	8	advcl	_	start_char=62|end_char=64
+15	please	please	INTJ	UH	_	4	discourse	_	start_char=65|end_char=71
+16	.	.	PUNCT	.	_	4	punct	_	start_char=71|end_char=72
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=73|end_char=77
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=78|end_char=80
+3	just	just	ADV	RB	_	4	advmod	_	start_char=81|end_char=85
+4	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=86|end_char=89
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=90|end_char=93
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=94|end_char=102
+7	of	of	ADP	IN	_	8	case	_	start_char=103|end_char=105
+8	Ubisoft	Ubisoft	PROPN	NNP	Number=Sing	6	obl	_	start_char=106|end_char=113
+9	despite	despite	ADP	IN	_	14	case	_	start_char=114|end_char=121
+10	all	all	DET	PDT	_	14	det:predet	_	start_char=122|end_char=125
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=126|end_char=129
+12	other	other	ADJ	JJ	Degree=Pos	14	amod	_	start_char=130|end_char=135
+13	cool	cool	ADJ	JJ	Degree=Pos	14	amod	_	start_char=136|end_char=140
+14	things	thing	NOUN	NNS	Number=Plur	4	obl	_	start_char=141|end_char=147
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=148|end_char=152
+16	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=152|end_char=155
+17	done	do	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	start_char=156|end_char=160
+18	.	.	PUNCT	.	_	4	punct	_	start_char=160|end_char=161
+

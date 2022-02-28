@@ -1,0 +1,50 @@
+1	Kinda	kinda	ADV	RB	Degree=Pos	2	advmod	_	start_char=0|end_char=5
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=11
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=12|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	3	conj	_	start_char=25|end_char=37
+6	to	to	PART	TO	_	7	mark	_	start_char=38|end_char=40
+7	stop	stop	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=41|end_char=45
+8	scrolling	scrol	VERB	VBG	VerbForm=Ger	7	xcomp	_	start_char=46|end_char=55
+9	,	,	PUNCT	,	_	10	punct	_	start_char=55|end_char=56
+10	reach	reach	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=57|end_char=62
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=63|end_char=66
+12	comments	comment	NOUN	NNS	Number=Plur	10	obj	_	start_char=67|end_char=75
+13	,	,	PUNCT	,	_	14	punct	_	start_char=75|end_char=76
+14	type	type	VERB	VB	Mood=Imp|VerbForm=Fin	2	parataxis	_	start_char=77|end_char=81
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=82|end_char=83
+16	new	new	ADJ	JJ	Degree=Pos	17	amod	_	start_char=84|end_char=87
+17	comment	comment	NOUN	NN	Number=Sing	14	obj	_	start_char=88|end_char=95
+18	about	about	SCONJ	IN	_	23	mark	_	start_char=96|end_char=101
+19	how	how	SCONJ	WRB	PronType=Int	23	mark	_	start_char=102|end_char=105
+20	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	start_char=106|end_char=109
+21	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	23	aux	_	start_char=110|end_char=112
+22	n’t	not	PART	RB	Polarity=Neg	23	advmod	_	start_char=112|end_char=115
+23	like	like	VERB	VB	VerbForm=Inf	17	acl	_	start_char=116|end_char=120
+24	someone	someone	NOUN	NN	Number=Sing	27	nmod:poss	_	start_char=121|end_char=128
+25	else	else	ADJ	JJ	Degree=Pos	24	amod	_	start_char=129|end_char=133
+26	’s	's	PART	POS	_	24	case	_	start_char=133|end_char=135
+27	opinion	opinion	NOUN	NN	Number=Sing	23	obj	_	start_char=136|end_char=143
+28	.	.	PUNCT	.	_	2	punct	_	start_char=143|end_char=144
+
+1	Regardless	regardless	ADV	RB	_	5	advmod	_	start_char=145|end_char=155
+2	,	,	PUNCT	,	_	5	punct	_	start_char=155|end_char=156
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=157|end_char=160
+4	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=160|end_char=163
+5	correct	correct	ADJ	JJ	Degree=Pos	0	root	_	start_char=164|end_char=171
+6	.	.	PUNCT	.	_	5	punct	_	start_char=171|end_char=172
+
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=173|end_char=178
+2	goals	goal	NOUN	NNS	Number=Plur	8	nsubj:pass	_	start_char=179|end_char=184
+3	of	of	ADP	IN	_	5	case	_	start_char=185|end_char=187
+4	constant	constant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=188|end_char=196
+5	attention	attention	NOUN	NN	Number=Sing	2	nmod	_	start_char=197|end_char=206
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=207|end_char=211
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	aux:pass	_	start_char=212|end_char=216
+8	met	meet	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=217|end_char=220
+9	.	.	PUNCT	.	_	8	punct	_	start_char=220|end_char=221
+
+1	No	no	DET	DT	_	2	det	_	start_char=222|end_char=224
+2	question	question	NOUN	NN	Number=Sing	0	root	_	start_char=225|end_char=233
+3	.	.	PUNCT	.	_	2	punct	_	start_char=233|end_char=234
+

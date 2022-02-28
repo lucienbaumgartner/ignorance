@@ -1,0 +1,35 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=0|end_char=3
+2	n't	not	PART	RB	_	7	advmod	_	start_char=3|end_char=6
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=7|end_char=11
+4	even	even	ADV	RB	_	7	advmod	_	start_char=12|end_char=16
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=17|end_char=18
+6	little	little	ADJ	JJ	Degree=Pos	7	obl:npmod	_	start_char=19|end_char=25
+7	scared	scared	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=32
+8	for	for	ADP	IN	_	11	case	_	start_char=33|end_char=36
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=37|end_char=42
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=43|end_char=46
+11	safety	safety	NOUN	NN	Number=Sing	7	obl	_	start_char=47|end_char=53
+12	at	at	ADP	IN	_	14	case	_	start_char=54|end_char=56
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=57|end_char=61
+14	point	point	NOUN	NN	Number=Sing	7	obl	_	start_char=62|end_char=67
+15	?	?	PUNCT	.	_	7	punct	_	start_char=67|end_char=68
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=69|end_char=70
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=71|end_char=75
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=76|end_char=80
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=81|end_char=84
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=85|end_char=93
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=94|end_char=97
+7	privileged	privileged	ADJ	JJ	Degree=Pos	5	conj	_	start_char=98|end_char=108
+8	but	but	CCONJ	CC	_	10	cc	_	start_char=109|end_char=112
+9	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=113|end_char=114
+10	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=115|end_char=122
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=123|end_char=127
+12	wete	wete	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=128|end_char=132
+13	also	also	ADV	RB	_	14	advmod	_	start_char=133|end_char=137
+14	invested	invest	VERB	VBN	Tense=Past|VerbForm=Part	10	ccomp	_	start_char=138|end_char=146
+15	in	in	ADP	IN	_	18	case	_	start_char=147|end_char=149
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=150|end_char=155
+17	own	own	ADJ	JJ	Degree=Pos	18	amod	_	start_char=156|end_char=159
+18	survival	survival	NOUN	NN	Number=Sing	14	obl	_	start_char=160|end_char=168
+

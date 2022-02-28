@@ -1,0 +1,13 @@
+1	Taxi	Taxi	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=4
+2	drivers	driver	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=5|end_char=12
+3	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=13|end_char=17
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=18|end_char=21
+5	old	old	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=25
+6	,	,	PUNCT	,	_	7	punct	_	start_char=25|end_char=26
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=27|end_char=34
+8	,	,	PUNCT	,	_	11	punct	_	start_char=34|end_char=35
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=36|end_char=39
+10	super	super	ADV	RB	_	11	advmod	_	start_char=40|end_char=45
+11	dangerous	dangerous	ADJ	JJ	Degree=Pos	5	conj	_	start_char=46|end_char=55
+12	.	.	PUNCT	.	_	5	punct	_	start_char=55|end_char=56
+

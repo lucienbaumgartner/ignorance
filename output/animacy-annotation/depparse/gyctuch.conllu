@@ -1,0 +1,19 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	guess	guess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	everyone	everyone	PRON	NN	Number=Sing	8	nsubj:pass	_	start_char=8|end_char=16
+4	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=17|end_char=21
+5	disagrees	disagree	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=22|end_char=31
+6	must	must	AUX	MD	VerbForm=Fin	8	aux	_	start_char=32|end_char=36
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	start_char=37|end_char=39
+8	insulted	insult	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=40|end_char=48
+9	.	.	PUNCT	.	_	2	punct	_	start_char=48|end_char=49
+
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	start_char=50|end_char=53
+2	typically	typically	ADV	RB	_	3	advmod	_	start_char=54|end_char=63
+3	childish	childish	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=72
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=73|end_char=76
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=77|end_char=85
+6	of	of	ADP	IN	_	7	case	_	start_char=86|end_char=88
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=89|end_char=92
+8	.	.	PUNCT	.	_	3	punct	_	start_char=92|end_char=93
+

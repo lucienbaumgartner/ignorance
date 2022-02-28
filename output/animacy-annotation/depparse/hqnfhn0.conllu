@@ -1,0 +1,29 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=4
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	just	just	ADV	RB	_	4	advmod	_	start_char=8|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	upset	upset	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=31
+7	.	.	PUNCT	.	_	4	punct	_	start_char=31|end_char=32
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=34|end_char=36
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=36|end_char=38
+3	not	not	PART	RB	_	4	advmod	_	start_char=39|end_char=42
+4	uncommon	uncommon	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=51
+5	here	here	ADV	RB	PronType=Dem	4	advmod	_	start_char=52|end_char=56
+6	.	.	PUNCT	.	_	4	punct	_	start_char=56|end_char=57
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=59|end_char=60
+2	fair	fair	ADJ	JJ	Degree=Pos	3	amod	_	start_char=61|end_char=65
+3	reading	reading	NOUN	NN	Number=Sing	4	nsubj	_	start_char=66|end_char=73
+4	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=74|end_char=79
+5	brains	brain	NOUN	NNS	Number=Plur	4	obj	_	start_char=80|end_char=86
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=87|end_char=90
+7	heart	heart	NOUN	NN	Number=Sing	5	conj	_	start_char=91|end_char=96
+8	,	,	PUNCT	,	_	11	punct	_	start_char=96|end_char=97
+9	not	not	ADV	RB	_	11	advmod	_	start_char=98|end_char=101
+10	everyone	everyone	PRON	NN	Number=Sing	11	nsubj	_	start_char=102|end_char=110
+11	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=111|end_char=114
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=115|end_char=119
+13	.	.	PUNCT	.	_	4	punct	_	start_char=119|end_char=120
+

@@ -1,0 +1,39 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=0|end_char=3
+2	government	government	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=14
+3	money	money	NOUN	NN	Number=Sing	4	compound	_	start_char=15|end_char=20
+4	printer	printer	NOUN	NN	Number=Sing	17	nsubj	_	start_char=21|end_char=28
+5	,	,	PUNCT	,	_	7	punct	_	start_char=28|end_char=29
+6	corporate	corporate	ADJ	JJ	Degree=Pos	7	amod	_	start_char=30|end_char=39
+7	welfare	welfare	NOUN	NN	Number=Sing	4	conj	_	start_char=40|end_char=47
+8	,	,	PUNCT	,	_	10	punct	_	start_char=47|end_char=48
+9	PPP	ppp	NOUN	NN	Number=Sing	10	compound	_	start_char=49|end_char=52
+10	loans	loan	NOUN	NNS	Number=Plur	4	conj	_	start_char=53|end_char=58
+11	,	,	PUNCT	,	_	14	punct	_	start_char=58|end_char=59
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=60|end_char=63
+13	tax	tax	NOUN	NN	Number=Sing	14	compound	_	start_char=64|end_char=67
+14	breaks	break	NOUN	NNS	Number=Plur	4	conj	_	start_char=68|end_char=74
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=75|end_char=78
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=79|end_char=82
+17	reasons	reason	NOUN	NNS	Number=Plur	0	root	_	start_char=83|end_char=90
+18	for	for	ADP	IN	_	21	case	_	start_char=91|end_char=94
+19	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=95|end_char=98
+20	current	current	ADJ	JJ	Degree=Pos	21	amod	_	start_char=99|end_char=106
+21	inflation	inflation	NOUN	NN	Number=Sing	17	nmod	_	start_char=107|end_char=116
+22	.	.	PUNCT	.	_	17	punct	_	start_char=116|end_char=117
+
+1	Blaming	blame	VERB	VBG	VerbForm=Ger	4	csubj	_	start_char=119|end_char=126
+2	workers	worker	NOUN	NNS	Number=Plur	1	obj	_	start_char=127|end_char=134
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=135|end_char=137
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=146
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=147|end_char=150
+6	wrong	wrong	ADJ	JJ	Degree=Pos	4	conj	_	start_char=151|end_char=156
+7	.	.	PUNCT	.	_	4	punct	_	start_char=156|end_char=157
+
+1	Blaming	blame	VERB	VBG	VerbForm=Ger	4	csubj	_	start_char=159|end_char=166
+2	lockdowns	lockdown	NOUN	NN	Number=Sing	1	obj	_	start_char=167|end_char=176
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=177|end_char=179
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=180|end_char=188
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=189|end_char=192
+6	wrong	wrong	ADJ	JJ	Degree=Pos	4	conj	_	start_char=193|end_char=198
+7	.	.	PUNCT	.	_	4	punct	_	start_char=198|end_char=199
+

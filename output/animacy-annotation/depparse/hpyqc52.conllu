@@ -1,0 +1,47 @@
+1	These	this	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=0|end_char=5
+2	wackadoo	wackadoo	ADJ	JJ	Degree=Pos	3	amod	_	start_char=6|end_char=14
+3	conservatives	conservative	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=15|end_char=28
+4	and	and	CCONJ	CC	_	11	cc	_	start_char=29|end_char=32
+5	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=33|end_char=38
+6	“	''	PUNCT	``	_	11	punct	_	start_char=39|end_char=40
+7	either	either	CCONJ	CC	_	11	det	_	start_char=40|end_char=46
+8	/	/	PUNCT	,	_	9	punct	_	start_char=46|end_char=47
+9	or	or	CCONJ	CC	_	7	conj	_	start_char=47|end_char=49
+10	”	''	PUNCT	''	_	9	punct	_	start_char=49|end_char=50
+11	fanaticism	fanaticism	NOUN	NN	Number=Sing	3	conj	_	start_char=50|end_char=60
+12	🤦‍♂️	🤦‍♂️	NOUN	NN	Number=Sing	0	root	_	start_char=61|end_char=65
+13	.	.	PUNCT	.	_	12	punct	_	start_char=65|end_char=66
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=67|end_char=69
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=69|end_char=71
+3	entirely	entirely	ADV	RB	_	4	advmod	_	start_char=72|end_char=80
+4	likely	likely	ADJ	JJ	Degree=Pos	0	root	_	start_char=81|end_char=87
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=88|end_char=92
+6	Trump	Trump	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=93|end_char=98
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=99|end_char=101
+8	both	both	ADV	RB	_	9	advmod	_	start_char=102|end_char=106
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=107|end_char=115
+10	AND	and	CCONJ	CC	_	11	cc	_	start_char=116|end_char=119
+11	evil	evil	ADJ	JJ	Degree=Pos	9	conj	_	start_char=120|end_char=124
+12	.	.	PUNCT	.	_	4	punct	_	start_char=124|end_char=125
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=126|end_char=129
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=130|end_char=133
+3	gotta	gotta	AUX	MD	VerbForm=Fin	5	aux	_	start_char=134|end_char=139
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=140|end_char=142
+5	able	able	ADJ	JJ	Degree=Pos	0	root	_	start_char=143|end_char=147
+6	to	to	PART	TO	_	7	mark	_	start_char=148|end_char=150
+7	understand	understand	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=151|end_char=161
+8	basic	basic	ADJ	JJ	Degree=Pos	9	amod	_	start_char=162|end_char=167
+9	NUANCE	nuance	NOUN	NN	Number=Sing	7	obj	_	start_char=168|end_char=174
+10	first	first	ADV	RB	Degree=Pos	7	advmod	_	start_char=175|end_char=180
+11	,	,	PUNCT	,	_	18	punct	_	start_char=180|end_char=181
+12	which	which	PRON	WDT	PronType=Rel	18	nsubj	_	start_char=182|end_char=187
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=188|end_char=190
+14	definitely	definitely	ADV	RB	Degree=Pos	18	advmod	_	start_char=191|end_char=201
+15	not	not	PART	RB	Polarity=Neg	18	advmod	_	start_char=202|end_char=205
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=206|end_char=211
+17	strong	strong	ADJ	JJ	Degree=Pos	18	amod	_	start_char=212|end_char=218
+18	suit	suit	NOUN	NN	Number=Sing	9	acl:relcl	_	start_char=219|end_char=223
+19	.	.	PUNCT	.	_	5	punct	_	start_char=223|end_char=224
+

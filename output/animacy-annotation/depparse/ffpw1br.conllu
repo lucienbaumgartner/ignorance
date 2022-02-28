@@ -1,0 +1,58 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=4
+2	husband	husband	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=15
+4	very	very	ADV	RB	_	5	advmod	_	start_char=16|end_char=20
+5	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=26
+6	.	.	PUNCT	.	_	5	punct	_	start_char=26|end_char=27
+
+1	Psychiatry	psychiatry	NOUN	NN	Number=Sing	6	nsubj	_	start_char=28|end_char=38
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=39|end_char=41
+3	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=42|end_char=44
+4	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=45|end_char=56
+5	medical	medical	ADJ	JJ	Degree=Pos	6	amod	_	start_char=57|end_char=64
+6	field	field	NOUN	NN	Number=Sing	0	root	_	start_char=65|end_char=70
+7	,	,	PUNCT	,	_	9	punct	_	start_char=70|end_char=71
+8	doctors	doctor	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=72|end_char=79
+9	spend	spend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	parataxis	_	start_char=80|end_char=85
+10	7	7	NUM	CD	NumType=Card	12	nummod	_	start_char=86|end_char=87
+11	+	+	SYM	SYM	_	12	cc	_	start_char=87|end_char=88
+12	years	year	NOUN	NNS	Number=Plur	9	obj	_	start_char=89|end_char=94
+13	in	in	ADP	IN	_	15	case	_	start_char=95|end_char=97
+14	med	med	NOUN	NN	Number=Sing	15	compound	_	start_char=98|end_char=101
+15	school	school	NOUN	NN	Number=Sing	9	obl	_	start_char=102|end_char=108
+16	.	.	PUNCT	.	_	6	punct	_	start_char=108|end_char=109
+
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=110|end_char=113
+2	“	''	PUNCT	``	_	3	punct	_	start_char=114|end_char=115
+3	belief	belief	NOUN	NN	Number=Sing	11	nsubj	_	start_char=115|end_char=121
+4	”	''	PUNCT	''	_	3	punct	_	start_char=121|end_char=122
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=123|end_char=127
+6	counseling	counseling	NOUN	NN	Number=Sing	9	nsubj	_	start_char=128|end_char=138
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=139|end_char=141
+8	n’t	not	PART	RB	Polarity=Neg	9	advmod	_	start_char=141|end_char=144
+9	real	real	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=145|end_char=149
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=150|end_char=152
+11	backwards	backwards	ADV	RB	Degree=Pos	0	root	_	start_char=153|end_char=162
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=163|end_char=166
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=167|end_char=175
+14	.	.	PUNCT	.	_	11	punct	_	start_char=175|end_char=176
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=177|end_char=181
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=182|end_char=184
+3	not	not	PART	RB	_	5	advmod	_	start_char=185|end_char=188
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=189|end_char=193
+5	problem	problem	NOUN	NN	Number=Sing	0	root	_	start_char=194|end_char=201
+6	.	.	PUNCT	.	_	5	punct	_	start_char=201|end_char=202
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=203|end_char=205
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=206|end_char=208
+3	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=209|end_char=213
+4	angry	angry	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=214|end_char=219
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=220|end_char=222
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=223|end_char=225
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=226|end_char=228
+8	idiot	idiot	NOUN	NN	Number=Sing	0	root	_	start_char=229|end_char=234
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=235|end_char=238
+10	abusive	abusive	ADJ	JJ	Degree=Pos	8	conj	_	start_char=239|end_char=246
+11	.	.	PUNCT	.	_	8	punct	_	start_char=246|end_char=247
+

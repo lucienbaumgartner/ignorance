@@ -1,0 +1,35 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6|end_char=9
+4	flying	fly	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	_	start_char=10|end_char=16
+5	there	there	ADV	RB	PronType=Dem	4	advmod	_	start_char=17|end_char=22
+6	,	,	PUNCT	,	_	10	punct	_	start_char=22|end_char=23
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=24|end_char=27
+8	should	should	AUX	MD	VerbForm=Fin	10	aux	_	start_char=28|end_char=34
+9	be	be	AUX	VB	VerbForm=Inf	10	aux	_	start_char=35|end_char=37
+10	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=38|end_char=43
+11	to	to	ADP	IN	_	12	case	_	start_char=44|end_char=46
+12	Whitehorse	Whitehorse	PROPN	NNP	Number=Sing	10	obl	_	start_char=47|end_char=57
+13	,	,	PUNCT	,	_	15	punct	_	start_char=57|end_char=58
+14	not	not	ADV	RB	_	15	advmod	_	start_char=59|end_char=62
+15	Alaska	Alaska	PROPN	NNP	Number=Sing	12	appos	_	start_char=63|end_char=69
+16	....	....	PUNCT	.	_	10	punct	_	start_char=69|end_char=73
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=75|end_char=78
+2	americans	American	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=79|end_char=88
+3	just	just	ADV	RB	_	5	advmod	_	start_char=89|end_char=93
+4	utterly	utterly	ADV	RB	_	5	advmod	_	start_char=94|end_char=101
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=109
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=110|end_char=113
+7	blind	blind	ADJ	JJ	Degree=Pos	5	conj	_	start_char=114|end_char=119
+8	to	to	ADP	IN	_	10	case	_	start_char=120|end_char=122
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=123|end_char=126
+10	fact	fact	NOUN	NN	Number=Sing	7	obl	_	start_char=127|end_char=131
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=132|end_char=136
+12	other	other	ADJ	JJ	Degree=Pos	13	amod	_	start_char=137|end_char=142
+13	countries	country	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=143|end_char=152
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=153|end_char=156
+15	cities	city	NOUN	NNS	Number=Plur	13	conj	_	start_char=157|end_char=163
+16	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl	_	start_char=164|end_char=169
+17	?	?	PUNCT	.	_	5	punct	_	start_char=169|end_char=170
+

@@ -1,0 +1,15 @@
+1	Better	better	ADJ	JJR	Degree=Cmp	0	root	_	start_char=0|end_char=6
+2	to	to	PART	TO	_	4	mark	_	start_char=7|end_char=9
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=10|end_char=12
+4	uninformed	uninformed	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=13|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	aware	aware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=33
+7	of	of	ADP	IN	_	8	case	_	start_char=34|end_char=36
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obl	_	start_char=37|end_char=39
+9	than	than	ADP	IN	_	10	case	_	start_char=40|end_char=44
+10	misinformed	misinformed	ADJ	JJ	Degree=Pos	6	obl	_	start_char=45|end_char=56
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=57|end_char=60
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=61|end_char=68
+13	of	of	ADP	IN	_	14	case	_	start_char=69|end_char=71
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=72|end_char=74
+

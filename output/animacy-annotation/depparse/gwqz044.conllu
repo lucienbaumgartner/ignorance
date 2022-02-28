@@ -1,0 +1,29 @@
+1	*	*	PUNCT	NFP	_	2	punct	_	start_char=0|end_char=1
+2	Democrats	Democrat	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=1|end_char=10
+3	*	*	PUNCT	NFP	_	2	punct	_	start_char=10|end_char=11
+4	truly	truly	ADV	RB	_	5	advmod	_	start_char=12|end_char=17
+5	depend	depend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=18|end_char=24
+6	on	on	ADP	IN	_	8	case	_	start_char=25|end_char=27
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=28|end_char=31
+8	dumb	dumb	ADJ	JJ	Degree=Pos	5	obl	_	start_char=32|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=49
+11	?	?	PUNCT	.	_	5	punct	_	start_char=49|end_char=50
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=51|end_char=55
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=56|end_char=58
+3	some	some	DET	DT	_	5	det	_	start_char=59|end_char=63
+4	masterful	masterful	ADJ	JJ	Degree=Pos	5	amod	_	start_char=64|end_char=73
+5	projection	projection	NOUN	NN	Number=Sing	0	root	_	start_char=74|end_char=84
+6	.	.	PUNCT	.	_	5	punct	_	start_char=84|end_char=85
+
+1	Could	could	AUX	MD	VerbForm=Fin	3	aux	_	start_char=86|end_char=91
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=92|end_char=93
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=94|end_char=96
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=97|end_char=98
+5	case	case	NOUN	NN	Number=Sing	6	compound	_	start_char=99|end_char=103
+6	study	study	NOUN	NN	Number=Sing	3	obj	_	start_char=104|end_char=109
+7	on	on	ADP	IN	_	8	case	_	start_char=110|end_char=112
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=113|end_char=116
+9	?	?	PUNCT	.	_	3	punct	_	start_char=116|end_char=117
+

@@ -1,0 +1,47 @@
+1	Pretty	pretty	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=11
+3	.	.	PUNCT	.	_	2	punct	_	start_char=11|end_char=12
+
+1	But	but	CCONJ	CC	_	7	cc	_	start_char=13|end_char=16
+2	regardless	regardless	ADV	RB	_	7	advmod	_	start_char=17|end_char=27
+3	,	,	PUNCT	,	_	7	punct	_	start_char=27|end_char=28
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=29|end_char=30
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=31|end_char=33
+6	n't	not	PART	RB	_	7	advmod	_	start_char=33|end_char=36
+7	care	care	VERB	VB	VerbForm=Inf	0	root	_	start_char=37|end_char=41
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=42|end_char=46
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=47|end_char=50
+10	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=50|end_char=53
+11	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	7	ccomp	_	start_char=54|end_char=60
+12	to	to	PART	TO	_	13	mark	_	start_char=61|end_char=63
+13	make	make	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=64|end_char=68
+14	quick	quick	ADJ	JJ	Degree=Pos	15	amod	_	start_char=69|end_char=74
+15	cash	cash	NOUN	NN	Number=Sing	13	obj	_	start_char=75|end_char=79
+16	by	by	SCONJ	IN	_	17	mark	_	start_char=80|end_char=82
+17	scamming	scam	VERB	VBG	VerbForm=Ger	13	advcl	_	start_char=83|end_char=91
+18	.	.	PUNCT	.	_	7	punct	_	start_char=91|end_char=92
+
+1	Just	just	ADV	RB	_	4	advmod	_	start_char=93|end_char=97
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	_	start_char=98|end_char=100
+3	n't	not	PART	RB	_	4	advmod	_	start_char=100|end_char=103
+4	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=104|end_char=106
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=107|end_char=109
+6	here	here	ADV	RB	PronType=Dem	4	advmod	_	start_char=110|end_char=114
+7	,	,	PUNCT	,	_	4	punct	_	start_char=114|end_char=115
+8	shit	shit	NOUN	NN	Number=Sing	10	nsubj	_	start_char=116|end_char=120
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=121|end_char=123
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=124|end_char=132
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=133|end_char=136
+12	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	10	conj	_	start_char=137|end_char=150
+13	.	.	PUNCT	.	_	4	punct	_	start_char=150|end_char=151
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=153|end_char=158
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=159|end_char=162
+3	other	other	ADJ	JJ	Degree=Pos	4	amod	_	start_char=163|end_char=168
+4	subreddits	subreddit	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=169|end_char=179
+5	to	to	PART	TO	_	6	mark	_	start_char=180|end_char=182
+6	post	post	VERB	VB	VerbForm=Inf	4	acl	_	start_char=183|end_char=187
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=188|end_char=190
+8	on	on	ADP	RP	_	6	compound:prt	_	start_char=191|end_char=193
+9	.	.	PUNCT	.	_	2	punct	_	start_char=193|end_char=194
+

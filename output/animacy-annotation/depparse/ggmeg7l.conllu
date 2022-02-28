@@ -1,0 +1,35 @@
+1	No	no	INTJ	UH	_	6	discourse	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=3|end_char=5
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=7
+4	not	not	PART	RB	_	6	advmod	_	start_char=8|end_char=11
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=12|end_char=13
+6	joke	joke	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=18
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=19|end_char=20
+8	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=20|end_char=22
+9	probably	probably	ADV	RB	_	11	advmod	_	start_char=23|end_char=31
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=32|end_char=37
+11	dumb	dumb	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=38|end_char=42
+12	as	as	ADP	IN	_	13	case	_	start_char=43|end_char=45
+13	usual	usual	ADJ	JJ	Degree=Pos	11	obl	_	start_char=46|end_char=51
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=52|end_char=55
+15	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=56|end_char=63
+16	of	of	ADP	IN	_	17	case	_	start_char=64|end_char=66
+17	something	something	PRON	NN	Number=Sing	15	obl	_	start_char=67|end_char=76
+18	,	,	PUNCT	,	_	23	punct	_	start_char=76|end_char=77
+19	but	but	CCONJ	CC	_	23	cc	_	start_char=78|end_char=81
+20	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	start_char=82|end_char=86
+21	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	start_char=87|end_char=91
+22	UA	UA	PROPN	NNP	Number=Sing	23	nsubj	_	start_char=92|end_char=94
+23	stand	stand	VERB	VB	VerbForm=Inf	6	conj	_	start_char=95|end_char=100
+24	for	for	ADP	IN	_	25	case	_	start_char=101|end_char=104
+25	something	something	PRON	NN	Number=Sing	23	obl	_	start_char=105|end_char=114
+26	?	?	PUNCT	.	_	6	punct	_	start_char=114|end_char=115
+
+1	Or	or	CCONJ	CC	_	6	cc	_	start_char=116|end_char=118
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=119|end_char=121
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=122|end_char=124
+4	just	just	ADV	RB	_	6	advmod	_	start_char=125|end_char=129
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=130|end_char=131
+6	name	name	NOUN	NN	Number=Sing	0	root	_	start_char=132|end_char=136
+7	?	?	PUNCT	.	_	6	punct	_	start_char=136|end_char=137
+

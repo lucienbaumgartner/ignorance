@@ -1,0 +1,39 @@
+1	No	no	INTJ	UH	Polarity=Neg	4	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	4	punct	_	start_char=2|end_char=3
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4|end_char=6
+4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+5	not	not	PART	RB	_	4	advmod	_	start_char=9|end_char=12
+6	.	.	PUNCT	.	_	4	punct	_	start_char=12|end_char=13
+
+1	Americans	American	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=14|end_char=23
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=24|end_char=27
+3	just	just	ADV	RB	_	5	advmod	_	start_char=28|end_char=32
+4	very	very	ADV	RB	_	5	advmod	_	start_char=33|end_char=37
+5	spoiled	spoiled	ADJ	JJ	Degree=Pos	0	root	_	start_char=38|end_char=45
+6	.	.	PUNCT	.	_	5	punct	_	start_char=45|end_char=46
+
+1	Only	only	ADV	RB	_	2	advmod	_	start_char=47|end_char=51
+2	30	30	NUM	CD	NumType=Card	3	nummod	_	start_char=52|end_char=54
+3	%	%	SYM	NN	Number=Sing	0	root	_	start_char=54|end_char=55
+4	of	of	ADP	IN	_	5	case	_	start_char=56|end_char=58
+5	Americans	American	PROPN	NNPS	Number=Plur	3	nmod	_	start_char=59|end_char=68
+6	own	own	ADJ	JJ	Degree=Pos	7	amod	_	start_char=69|end_char=72
+7	passports	passport	NOUN	NNS	Number=Plur	3	nmod	_	start_char=73|end_char=82
+8	,	,	PUNCT	,	_	13	punct	_	start_char=82|end_char=83
+9	so	so	ADV	RB	_	13	advmod	_	start_char=84|end_char=86
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=87|end_char=91
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=91|end_char=94
+12	generally	generally	ADV	RB	_	13	advmod	_	start_char=95|end_char=104
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=105|end_char=113
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=114|end_char=117
+15	lack	lack	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	conj	_	start_char=118|end_char=122
+16	perspective	perspective	NOUN	NN	Number=Sing	15	obj	_	start_char=123|end_char=134
+17	of	of	ADP	IN	_	18	case	_	start_char=135|end_char=137
+18	how	how	SCONJ	WRB	PronType=Int	16	nmod	_	start_char=138|end_char=141
+19	things	thing	NOUN	NNS	Number=Plur	23	nsubj	_	start_char=142|end_char=148
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=149|end_char=152
+21	outside	outside	ADP	IN	_	23	case	_	start_char=153|end_char=160
+22	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=161|end_char=166
+23	bubble	bubble	NOUN	NN	Number=Sing	18	acl:relcl	_	start_char=167|end_char=173
+24	.	.	PUNCT	.	_	3	punct	_	start_char=173|end_char=174
+

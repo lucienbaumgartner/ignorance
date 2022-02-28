@@ -1,0 +1,26 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=2|end_char=7
+3	like	like	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	to	to	PART	TO	_	5	mark	_	start_char=13|end_char=15
+5	apologize	apologize	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=16|end_char=25
+6	on	on	ADP	IN	_	7	case	_	start_char=26|end_char=28
+7	behalf	behalf	NOUN	NN	Number=Sing	5	obl	_	start_char=29|end_char=35
+8	of	of	ADP	IN	_	10	case	_	start_char=36|end_char=38
+9	Smash	Smash	PROPN	NNP	Number=Sing	10	compound	_	start_char=39|end_char=44
+10	fans	fan	NOUN	NNS	Number=Plur	7	nmod	_	start_char=45|end_char=49
+11	.	.	PUNCT	.	_	3	punct	_	start_char=49|end_char=50
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=52|end_char=54
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=55|end_char=58
+3	not	not	PART	RB	_	6	advmod	_	start_char=59|end_char=62
+4	all	all	ADV	RB	_	6	advmod	_	start_char=63|end_char=66
+5	so	so	ADV	RB	_	6	advmod	_	start_char=67|end_char=69
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=76
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=77|end_char=80
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=81|end_char=89
+9	of	of	SCONJ	IN	_	10	mark	_	start_char=90|end_char=92
+10	fighting	fight	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=93|end_char=101
+11	game	game	NOUN	NN	Number=Sing	12	compound	_	start_char=102|end_char=106
+12	history	history	NOUN	NN	Number=Sing	10	obj	_	start_char=107|end_char=114
+13	.	.	PUNCT	.	_	6	punct	_	start_char=114|end_char=115
+

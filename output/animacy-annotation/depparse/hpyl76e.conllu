@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=34
+7	.	.	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=36|end_char=43
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=44|end_char=49
+3	so	so	ADV	RB	_	4	advmod	_	start_char=50|end_char=52
+4	deluded	delude	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=53|end_char=60
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=61|end_char=64
+6	put	put	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=65|end_char=68
+7	"	"	PUNCT	``	_	10	punct	_	start_char=69|end_char=70
+8	massive	massive	ADJ	JJ	Degree=Pos	10	amod	_	start_char=70|end_char=77
+9	user	user	NOUN	NN	Number=Sing	10	compound	_	start_char=78|end_char=82
+10	incentives	incentive	NOUN	NNS	Number=Plur	6	obj	_	start_char=83|end_char=93
+11	"	"	PUNCT	''	_	10	punct	_	start_char=93|end_char=94
+12	as	as	ADP	IN	_	15	case	_	start_char=95|end_char=97
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=98|end_char=99
+14	bullet	bullet	NOUN	NN	Number=Sing	15	compound	_	start_char=100|end_char=106
+15	point	point	NOUN	NN	Number=Sing	6	obl	_	start_char=107|end_char=112
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=113|end_char=116
+17	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=117|end_char=120
+18	to	to	PART	TO	_	19	mark	_	start_char=121|end_char=123
+19	paint	paint	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=124|end_char=129
+20	that	that	PRON	DT	Number=Sing|PronType=Dem	19	obj	_	start_char=130|end_char=134
+21	as	as	ADP	IN	_	23	case	_	start_char=135|end_char=137
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=138|end_char=139
+23	negative	negative	NOUN	NN	Number=Sing	19	obl	_	start_char=140|end_char=148
+24	.	.	PUNCT	.	_	1	punct	_	start_char=148|end_char=149
+
+1	Lmfao	lmfao	INTJ	UH	_	0	root	_	start_char=150|end_char=155
+2	.	.	PUNCT	.	_	1	punct	_	start_char=155|end_char=156
+

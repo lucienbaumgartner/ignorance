@@ -1,0 +1,14 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	problem	problem	NOUN	NN	Number=Sing	4	nsubj	_	start_char=4|end_char=11
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=14
+4	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=15|end_char=21
+5	like	like	ADP	IN	_	6	case	_	start_char=22|end_char=26
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	start_char=27|end_char=30
+7	caring	care	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=31|end_char=37
+8	about	about	ADP	IN	_	11	case	_	start_char=38|end_char=43
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=44|end_char=47
+10	proudly	proudly	ADV	RB	_	11	advmod	_	start_char=48|end_char=55
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	obl	_	start_char=56|end_char=64
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=65|end_char=68
+13	stupid	stupid	ADJ	JJ	Degree=Pos	11	conj	_	start_char=69|end_char=75
+

@@ -1,0 +1,20 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=25
+5	of	of	ADP	IN	_	6	case	_	start_char=26|end_char=28
+6	what	what	PRON	WP	PronType=Int	4	obl	_	start_char=29|end_char=33
+7	most	most	ADJ	JJS	Degree=Sup	9	amod	_	start_char=34|end_char=38
+8	English	English	ADJ	JJ	Degree=Pos	9	amod	_	start_char=39|end_char=46
+9	fans	fan	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=47|end_char=51
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=52|end_char=55
+11	like	like	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=56|end_char=60
+12	.	.	PUNCT	.	_	2	punct	_	start_char=60|end_char=61
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=62|end_char=63
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=63|end_char=65
+3	not	not	PART	RB	_	5	advmod	_	start_char=66|end_char=69
+4	even	even	ADV	RB	_	5	advmod	_	start_char=70|end_char=74
+5	English	English	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=82
+6	.	.	PUNCT	.	_	5	punct	_	start_char=82|end_char=83
+

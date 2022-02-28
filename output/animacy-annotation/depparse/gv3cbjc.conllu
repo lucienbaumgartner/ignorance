@@ -1,0 +1,46 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	parataxis	_	start_char=2|end_char=6
+3	...	...	PUNCT	,	_	8	punct	_	start_char=6|end_char=9
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=9|end_char=11
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=12|end_char=16
+6	even	even	ADV	RB	_	8	advmod	_	start_char=17|end_char=21
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=22|end_char=23
+8	excuse	excuse	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=30
+9	?	?	PUNCT	.	_	8	punct	_	start_char=30|end_char=31
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=32|end_char=35
+2	repeated	repeat	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=36|end_char=44
+3	that	that	SCONJ	IN	_	6	mark	_	start_char=45|end_char=49
+4	Jews	Jew	PROPN	NNPS	Number=Plur	6	nsubj	_	start_char=50|end_char=54
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=55|end_char=58
+6	killing	kill	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=59|end_char=66
+7	people	people	NOUN	NNS	Number=Plur	6	obj	_	start_char=67|end_char=73
+8	from	from	ADP	IN	_	9	case	_	start_char=74|end_char=78
+9	space	space	NOUN	NN	Number=Sing	6	obl	_	start_char=79|end_char=84
+10	.	.	PUNCT	.	_	2	punct	_	start_char=84|end_char=85
+
+1	Oh	oh	INTJ	UH	_	12	discourse	_	start_char=86|end_char=88
+2	that	that	SCONJ	IN	_	5	mark	_	start_char=89|end_char=93
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=94|end_char=97
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=98|end_char=101
+5	stupid	stupid	ADJ	JJ	Degree=Pos	12	advcl	_	start_char=102|end_char=108
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=109|end_char=112
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=113|end_char=121
+8	of	of	ADP	IN	_	10	case	_	start_char=122|end_char=124
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=125|end_char=128
+10	source	source	NOUN	NN	Number=Sing	7	obl	_	start_char=129|end_char=135
+11	just	just	ADV	RB	_	12	advmod	_	start_char=136|end_char=140
+12	tells	tell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=141|end_char=146
+13	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	start_char=147|end_char=149
+14	as	as	ADV	RB	_	15	advmod	_	start_char=150|end_char=152
+15	much	much	ADV	RB	Degree=Pos	12	obj	_	start_char=153|end_char=157
+16	as	as	SCONJ	IN	_	18	mark	_	start_char=158|end_char=160
+17	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=161|end_char=164
+18	stupid	stupid	ADJ	JJ	Degree=Pos	14	advcl	_	start_char=165|end_char=171
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=172|end_char=175
+20	racist	racist	ADJ	JJ	Degree=Pos	18	conj	_	start_char=176|end_char=182
+21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=183|end_char=186
+22	really	really	ADV	RB	_	23	advmod	_	start_char=187|end_char=193
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=194|end_char=196
+24	.	.	PUNCT	.	_	12	punct	_	start_char=196|end_char=197
+

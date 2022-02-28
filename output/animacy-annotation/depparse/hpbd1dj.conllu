@@ -1,0 +1,57 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=6
+3	not	not	PART	RB	_	5	advmod	_	start_char=7|end_char=10
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=11|end_char=14
+5	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=15|end_char=20
+6	though	though	ADV	RB	_	5	advmod	_	start_char=21|end_char=27
+7	.	.	PUNCT	.	_	5	punct	_	start_char=27|end_char=28
+
+1	Either	either	DET	DT	_	2	det	_	start_char=29|end_char=35
+2	rules	rule	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=36|end_char=41
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=42|end_char=45
+4	for	for	ADP	IN	_	5	case	_	start_char=46|end_char=49
+5	everyone	everyone	PRON	NN	Number=Sing	0	root	_	start_char=50|end_char=58
+6	or	or	CCONJ	CC	_	8	cc	_	start_char=59|end_char=61
+7	for	for	ADP	IN	_	8	case	_	start_char=62|end_char=65
+8	no-one	no-one	ADJ	JJ	Degree=Pos	5	conj	_	start_char=66|end_char=72
+9	.	.	PUNCT	.	_	5	punct	_	start_char=72|end_char=73
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=76|end_char=78
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=78|end_char=80
+3	not	not	PART	RB	_	5	advmod	_	start_char=81|end_char=84
+4	BJ	BJ	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=85|end_char=87
+5	cutting	cut	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=88|end_char=95
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=96|end_char=100
+7	budget	budget	NOUN	NN	Number=Sing	5	obj	_	start_char=101|end_char=107
+8	,	,	PUNCT	,	_	5	punct	_	start_char=107|end_char=108
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=109|end_char=111
+10	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=111|end_char=113
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=114|end_char=117
+12	Tories	Tories	PROPN	NNPS	Number=Plur	5	parataxis	_	start_char=118|end_char=124
+13	.	.	PUNCT	.	_	5	punct	_	start_char=124|end_char=125
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=126|end_char=128
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=129|end_char=133
+3	students	student	NOUN	NNS	Number=Plur	1	obj	_	start_char=134|end_char=142
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=143|end_char=146
+5	all	all	DET	DT	_	3	conj	_	start_char=147|end_char=150
+6	of	of	ADP	IN	_	7	case	_	start_char=151|end_char=153
+7	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	nmod	_	start_char=154|end_char=156
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=157|end_char=158
+9	favour	favour	NOUN	NN	Number=Sing	1	obj	_	start_char=159|end_char=165
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=166|end_char=169
+11	remind	remind	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=170|end_char=176
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=177|end_char=181
+13	every	every	DET	DT	_	14	det	_	start_char=182|end_char=187
+14	day	day	NOUN	NN	Number=Sing	11	obl:tmod	_	start_char=188|end_char=191
+15	which	which	DET	WDT	PronType=Int	16	det	_	start_char=192|end_char=197
+16	party	party	NOUN	NN	Number=Sing	17	nsubj	_	start_char=198|end_char=203
+17	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	start_char=204|end_char=209
+18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=210|end_char=214
+19	to	to	PART	TO	_	21	mark	_	start_char=215|end_char=217
+20	be	be	AUX	VB	VerbForm=Inf	21	cop	_	start_char=218|end_char=220
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	xcomp	_	start_char=221|end_char=229
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=230|end_char=233
+23	hungry	hungry	ADJ	JJ	Degree=Pos	21	conj	_	start_char=234|end_char=240
+24	.	.	PUNCT	.	_	1	punct	_	start_char=240|end_char=241
+

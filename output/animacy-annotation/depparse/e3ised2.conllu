@@ -1,0 +1,77 @@
+1	[	[	PUNCT	-LRB-	_	4	punct	_	start_char=0|end_char=1
+2	to	to	ADP	IN	_	4	case	_	start_char=1|end_char=3
+3	:	:	PUNCT	:	_	4	punct	_	start_char=3|end_char=4
+4	John	John	PROPN	NNP	Number=Sing	0	root	_	start_char=5|end_char=9
+5	Podesta	Podesta	PROPN	NNP	Number=Sing	4	flat	_	start_char=10|end_char=17
+6	]	]	PUNCT	-RRB-	_	4	punct	_	start_char=17|end_char=18
+
+1	“	''	PUNCT	``	_	2	punct	_	start_char=20|end_char=21
+2	...	...	PUNCT	.	_	0	root	_	start_char=21|end_char=24
+
+1	And	and	CCONJ	CC	_	12	cc	_	start_char=25|end_char=28
+2	as	as	SCONJ	IN	_	5	mark	_	start_char=29|end_char=31
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=32|end_char=33
+4	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=33|end_char=36
+5	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	start_char=37|end_char=46
+6	,	,	PUNCT	,	_	12	punct	_	start_char=46|end_char=47
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=48|end_char=50
+8	've	have	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=50|end_char=53
+9	all	all	ADV	RB	_	12	advmod	_	start_char=54|end_char=57
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	cop	_	start_char=58|end_char=62
+11	quite	quite	ADV	RB	_	12	advmod	_	start_char=63|end_char=68
+12	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=76
+13	to	to	PART	TO	_	14	mark	_	start_char=77|end_char=79
+14	demean	demean	VERB	VB	VerbForm=Inf	12	acl	_	start_char=80|end_char=86
+15	government	government	NOUN	NN	Number=Sing	14	obj	_	start_char=87|end_char=97
+16	,	,	PUNCT	,	_	17	punct	_	start_char=97|end_char=98
+17	drop	drop	VERB	VB	VerbForm=Inf	14	conj	_	start_char=99|end_char=103
+18	civics	civic	NOUN	NNS	Number=Plur	17	obj	_	start_char=104|end_char=110
+19	and	and	CCONJ	CC	_	22	cc	_	start_char=111|end_char=114
+20	in	in	ADP	IN	_	22	case	_	start_char=115|end_char=117
+21	general	general	ADJ	JJ	Degree=Pos	22	amod	_	start_char=118|end_char=125
+22	conspire	conspire	NOUN	NN	Number=Sing	17	conj	_	start_char=126|end_char=134
+23	to	to	PART	TO	_	24	mark	_	start_char=135|end_char=137
+24	produce	produce	VERB	VB	VerbForm=Inf	22	acl	_	start_char=138|end_char=145
+25	an	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	start_char=146|end_char=148
+26	unaware	unaware	ADJ	JJ	Degree=Pos	29	amod	_	start_char=149|end_char=156
+27	and	and	CCONJ	CC	_	28	cc	_	start_char=157|end_char=160
+28	compliant	compliant	ADJ	JJ	Degree=Pos	26	conj	_	start_char=161|end_char=170
+29	citizenry	citizenry	NOUN	NN	Number=Sing	24	obj	_	start_char=171|end_char=180
+30	.	.	PUNCT	.	_	12	punct	_	start_char=180|end_char=181
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=182|end_char=185
+2	unawareness	unawareness	NOUN	NN	Number=Sing	3	nsubj	_	start_char=186|end_char=197
+3	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=198|end_char=205
+4	strong	strong	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=206|end_char=212
+5	but	but	CCONJ	CC	_	9	cc	_	start_char=213|end_char=216
+6	compliance	compliance	NOUN	NN	Number=Sing	9	nsubj	_	start_char=217|end_char=227
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=228|end_char=230
+8	obviously	obviously	ADV	RB	_	9	advmod	_	start_char=231|end_char=240
+9	fading	fade	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=241|end_char=247
+10	rapidly	rapidly	ADV	RB	_	9	advmod	_	start_char=248|end_char=255
+11	.	.	PUNCT	.	_	3	punct	_	start_char=255|end_char=256
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=257|end_char=261
+2	problem	problem	NOUN	NN	Number=Sing	3	nsubj	_	start_char=262|end_char=269
+3	demands	demand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=270|end_char=277
+4	some	some	DET	DT	_	8	det	_	start_char=278|end_char=282
+5	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=283|end_char=290
+6	,	,	PUNCT	,	_	8	punct	_	start_char=290|end_char=291
+7	serious	serious	ADJ	JJ	Degree=Pos	8	amod	_	start_char=292|end_char=299
+8	thinking	thinking	NOUN	NN	Number=Sing	3	obj	_	start_char=300|end_char=308
+9	-	-	PUNCT	,	_	8	punct	_	start_char=309|end_char=310
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=311|end_char=314
+11	not	not	PART	RB	_	13	advmod	_	start_char=315|end_char=318
+12	just	just	ADV	RB	_	13	advmod	_	start_char=319|end_char=323
+13	poll	poll	VERB	VB	VerbForm=Inf	3	conj	_	start_char=324|end_char=328
+14	driven	drive	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=329|end_char=335
+15	,	,	PUNCT	,	_	19	punct	_	start_char=335|end_char=336
+16	demographically	demographically	ADV	RB	_	18	advmod	_	start_char=337|end_char=352
+17	-	-	PUNCT	HYPH	_	18	punct	_	start_char=352|end_char=353
+18	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	start_char=353|end_char=361
+19	messaging	message	NOUN	NN	Number=Sing	13	obj	_	start_char=362|end_char=371
+20	.	.	PUNCT	.	_	3	punct	_	start_char=371|end_char=372
+21	”	''	PUNCT	''	_	3	punct	_	start_char=372|end_char=373
+
+1	https://wikileaks.org/podesta-emails/emailid/3599	https://wikileaks.org/podesta-emails/emailid/3599	X	ADD	_	0	root	_	start_char=375|end_char=424
+

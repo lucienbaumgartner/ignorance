@@ -1,0 +1,62 @@
+1	-	-	PUNCT	NFP	_	0	root	_	start_char=0|end_char=1
+
+1	Third	third	ADJ	JJ	Degree=Pos|NumType=Ord	2	amod	_	start_char=2|end_char=7
+2	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=14
+
+1	-	-	PUNCT	NFP	_	3	punct	_	start_char=16|end_char=17
+2	Team	team	NOUN	NN	Number=Sing	3	compound	_	start_char=18|end_char=22
+3	colors	color	NOUN	NNS	Number=Plur	0	root	_	start_char=23|end_char=29
+4	enabled	enable	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=30|end_char=37
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=39|end_char=40
+2	Armor	armor	NOUN	NN	Number=Sing	0	root	_	start_char=41|end_char=46
+3	hiding	hide	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=47|end_char=53
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=54|end_char=58
+5	own	own	ADJ	JJ	Degree=Pos	6	amod	_	start_char=59|end_char=62
+6	colors	color	NOUN	NNS	Number=Plur	3	obj	_	start_char=63|end_char=69
+
+1	-	-	PUNCT	NFP	_	3	punct	_	start_char=71|end_char=72
+2	Spamming	spamming	NOUN	NN	Number=Sing	3	compound	_	start_char=73|end_char=81
+3	voicelines	voiceline	NOUN	NNS	Number=Plur	0	root	_	start_char=82|end_char=92
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=94|end_char=95
+2	Hitting	hit	VERB	VBG	VerbForm=Ger	0	root	_	start_char=96|end_char=103
+3	map	map	NOUN	NN	Number=Sing	4	compound	_	start_char=104|end_char=107
+4	geometry	geometry	NOUN	NN	Number=Sing	2	obj	_	start_char=108|end_char=116
+5	despite	despite	ADP	IN	_	6	case	_	start_char=117|end_char=124
+6	enemies	enemy	NOUN	NNS	Number=Plur	2	obl	_	start_char=125|end_char=132
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=133|end_char=138
+8	stationary	stationary	ADJ	JJ	Degree=Pos	6	acl	_	start_char=139|end_char=149
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=150|end_char=153
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=154|end_char=161
+11	of	of	ADP	IN	_	12	case	_	start_char=162|end_char=164
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obl	_	start_char=165|end_char=168
+13	(	(	PUNCT	-LRB-	_	14	punct	_	start_char=169|end_char=170
+14	LOL	lol	INTJ	UH	_	2	discourse	_	start_char=170|end_char=173
+15	)	)	PUNCT	-RRB-	_	14	punct	_	start_char=173|end_char=174
+
+1	-	-	PUNCT	NFP	_	2	punct	_	start_char=176|end_char=177
+2	Misses	miss	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=178|end_char=184
+3	against	against	ADP	IN	_	4	case	_	start_char=185|end_char=192
+4	enemies	enemy	NOUN	NNS	Number=Plur	2	obl	_	start_char=193|end_char=200
+5	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	start_char=201|end_char=205
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=206|end_char=209
+7	barely	barely	ADV	RB	_	8	advmod	_	start_char=210|end_char=216
+8	moving	move	VERB	VBG	Tense=Pres|VerbForm=Part	4	acl:relcl	_	start_char=217|end_char=223
+
+1	Wow	wow	INTJ	UH	_	5	discourse	_	start_char=225|end_char=228
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=229|end_char=230
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=231|end_char=233
+4	so	so	ADV	RB	_	5	advmod	_	start_char=234|end_char=236
+5	surprised	surprised	ADJ	JJ	Degree=Pos	0	root	_	start_char=237|end_char=246
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=247|end_char=251
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=252|end_char=255
+8	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=256|end_char=260
+9	archers	archer	NOUN	NNS	Number=Plur	8	obj	_	start_char=261|end_char=268
+10	.	.	PUNCT	.	_	5	punct	_	start_char=268|end_char=269
+
+1	What	what	PRON	WP	PronType=Int	3	det:predet	_	start_char=270|end_char=274
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=275|end_char=276
+3	shocker	shocker	NOUN	NN	Number=Sing	0	root	_	start_char=277|end_char=284
+4	.	.	PUNCT	.	_	3	punct	_	start_char=284|end_char=285
+

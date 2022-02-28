@@ -1,0 +1,20 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=8|end_char=10
+4	inexperienced	inexperienced	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	of	of	ADP	IN	_	9	case	_	start_char=38|end_char=40
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=41|end_char=44
+9	field	field	NOUN	NN	Number=Sing	6	obl	_	start_char=45|end_char=50
+10	for	for	ADP	IN	_	13	case	_	start_char=51|end_char=54
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=55|end_char=59
+12	next	next	ADJ	JJ	Degree=Pos	13	amod	_	start_char=60|end_char=64
+13	interview	interview	NOUN	NN	Number=Sing	9	nmod	_	start_char=65|end_char=74
+14	,	,	PUNCT	,	_	18	punct	_	start_char=74|end_char=75
+15	or	or	CCONJ	CC	_	18	cc	_	start_char=76|end_char=78
+16	just	just	ADV	RB	_	18	advmod	_	start_char=79|end_char=83
+17	in	in	ADP	IN	_	18	advmod	_	start_char=84|end_char=86
+18	experienced	experience	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=87|end_char=98
+19	.	.	PUNCT	.	_	4	punct	_	start_char=98|end_char=99
+

@@ -1,0 +1,16 @@
+1	Congratulations	congratulation	NOUN	NNS	Number=Plur	0	root	_	start_char=0|end_char=15
+2	!	!	PUNCT	.	_	1	punct	_	start_char=15|end_char=16
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=17|end_char=20
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=21|end_char=24
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=25|end_char=28
+4	internet	internet	NOUN	NN	Number=Sing	5	compound	_	start_char=29|end_char=37
+5	thing	thing	NOUN	NN	Number=Sing	2	obj	_	start_char=38|end_char=43
+6	of	of	SCONJ	IN	_	9	mark	_	start_char=44|end_char=46
+7	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=47|end_char=52
+8	both	both	CCONJ	CC	_	9	cc:preconj	_	start_char=53|end_char=57
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=58|end_char=66
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=67|end_char=70
+11	rude	rude	ADJ	JJ	Degree=Pos	9	conj	_	start_char=71|end_char=75
+12	!	!	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+

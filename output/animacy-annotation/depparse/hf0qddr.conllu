@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=6|end_char=9
+2	original	original	ADJ	JJ	Degree=Pos	3	amod	_	start_char=10|end_char=18
+3	comment	comment	NOUN	NN	Number=Sing	4	nsubj	_	start_char=19|end_char=26
+4	came	come	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=27|end_char=31
+5	off	off	ADP	RP	_	4	compound:prt	_	start_char=32|end_char=35
+6	as	as	ADP	IN	_	8	case	_	start_char=36|end_char=38
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=39|end_char=40
+8	mix	mix	NOUN	NN	Number=Sing	4	obl	_	start_char=41|end_char=44
+9	between	between	ADP	IN	_	10	case	_	start_char=45|end_char=52
+10	arrogant	arrogant	ADJ	JJ	Degree=Pos	8	nmod	_	start_char=53|end_char=61
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=62|end_char=65
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=66|end_char=74
+13	.	.	PUNCT	.	_	4	punct	_	start_char=74|end_char=75
+
+1	Of	of	ADP	IN	_	7	advmod	_	start_char=76|end_char=78
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=79|end_char=85
+3	police	police	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=86|end_char=92
+4	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=93|end_char=95
+5	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=95|end_char=98
+6	immediately	immediately	ADV	RB	Degree=Pos	7	advmod	_	start_char=99|end_char=110
+7	shoot	shoot	VERB	VB	VerbForm=Inf	0	root	_	start_char=111|end_char=116
+8	black	black	ADJ	JJ	Degree=Pos	9	amod	_	start_char=117|end_char=122
+9	people	people	NOUN	NNS	Number=Plur	7	obj	_	start_char=123|end_char=129
+10	.	.	PUNCT	.	_	7	punct	_	start_char=129|end_char=130
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=131|end_char=134
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=135|end_char=137
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=137|end_char=139
+4	definitely	definitely	ADV	RB	_	5	advmod	_	start_char=140|end_char=150
+5	happened	happen	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=151|end_char=159
+6	before	before	ADV	RB	Degree=Pos	5	advmod	_	start_char=160|end_char=166
+7	!	!	PUNCT	.	_	5	punct	_	start_char=166|end_char=167
+

@@ -1,0 +1,40 @@
+1	Holy	Holy	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	shit	shit	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=9
+3	.	.	PUNCT	.	_	2	punct	_	start_char=9|end_char=10
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=11|end_char=14
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=18
+3	so	so	ADV	RB	_	4	advmod	_	start_char=19|end_char=21
+4	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=32
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=33|end_char=36
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=37|end_char=45
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=46|end_char=50
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=51|end_char=54
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=55|end_char=60
+10	CEO	ceo	NOUN	NN	Number=Sing	14	nsubj	_	start_char=61|end_char=64
+11	’s	's	PART	POS	_	10	case	_	start_char=64|end_char=66
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=67|end_char=70
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=70|end_char=73
+14	workers	worker	NOUN	NNS	Number=Plur	9	ccomp	_	start_char=74|end_char=81
+15	.	.	PUNCT	.	_	4	punct	_	start_char=81|end_char=82
+
+1	What	what	PRON	WP	PronType=Int	3	det:predet	_	start_char=83|end_char=87
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=88|end_char=91
+3	fuck	fuck	NOUN	NN	Number=Sing	0	root	_	start_char=92|end_char=96
+4	.	.	PUNCT	.	_	3	punct	_	start_char=96|end_char=97
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=98|end_char=99
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=99|end_char=101
+3	not	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=102|end_char=105
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=106|end_char=111
+5	to	to	PART	TO	_	6	mark	_	start_char=112|end_char=114
+6	continue	continue	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=115|end_char=123
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=124|end_char=128
+8	,	,	PUNCT	,	_	4	punct	_	start_char=128|end_char=129
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=130|end_char=133
+10	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=133|end_char=136
+11	clearly	clearly	ADV	RB	_	13	advmod	_	start_char=137|end_char=144
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=145|end_char=146
+13	moron	moron	NOUN	NN	Number=Sing	4	parataxis	_	start_char=147|end_char=152
+14	lmao	lmao	INTJ	UH	_	4	discourse	_	start_char=153|end_char=157
+

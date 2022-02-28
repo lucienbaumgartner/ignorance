@@ -1,0 +1,45 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	in	in	ADP	IN	_	5	case	_	start_char=7|end_char=9
+4	information	information	NOUN	NN	Number=Sing	5	compound	_	start_char=10|end_char=21
+5	security	security	NOUN	NN	Number=Sing	2	obl	_	start_char=22|end_char=30
+6	.	.	PUNCT	.	_	2	punct	_	start_char=30|end_char=31
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=32|end_char=33
+2	study	study	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=39
+3	these	this	DET	DT	Number=Plur|PronType=Dem	4	det	_	start_char=40|end_char=45
+4	cases	case	NOUN	NNS	Number=Plur	2	obj	_	start_char=46|end_char=51
+5	often	often	ADV	RB	_	2	advmod	_	start_char=52|end_char=57
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=58|end_char=61
+7	extensively	extensively	ADV	RB	_	5	conj	_	start_char=62|end_char=73
+8	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=81
+2	clown	clown	NOUN	NN	Number=Sing	1	vocative	_	start_char=82|end_char=87
+3	,	,	PUNCT	,	_	8	punct	_	start_char=87|end_char=88
+4	but	but	CCONJ	CC	_	8	cc	_	start_char=89|end_char=92
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=93|end_char=97
+6	projection	projection	NOUN	NN	Number=Sing	8	nsubj	_	start_char=98|end_char=108
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=109|end_char=112
+8	missed	miss	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	start_char=113|end_char=119
+9	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=120|end_char=123
+10	mark	mark	NOUN	NN	Number=Sing	8	obj	_	start_char=124|end_char=128
+11	.	.	PUNCT	.	_	1	punct	_	start_char=128|end_char=129
+
+1	Simply	simply	ADV	RB	_	12	advmod	_	start_char=130|end_char=136
+2	because	because	SCONJ	IN	_	5	mark	_	start_char=137|end_char=144
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=145|end_char=148
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=149|end_char=152
+5	uneducated	uneducated	ADJ	JJ	Degree=Pos	12	advcl	_	start_char=153|end_char=163
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=164|end_char=167
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=168|end_char=176
+8	,	,	PUNCT	,	_	12	punct	_	start_char=176|end_char=177
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=178|end_char=182
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=183|end_char=187
+11	not	not	PART	RB	_	12	advmod	_	start_char=188|end_char=191
+12	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=192|end_char=196
+13	everyone	everyone	PRON	NN	Number=Sing	15	nsubj	_	start_char=197|end_char=205
+14	else	else	ADJ	JJ	Degree=Pos	13	amod	_	start_char=206|end_char=210
+15	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=211|end_char=213
+16	.	.	PUNCT	.	_	12	punct	_	start_char=213|end_char=214
+

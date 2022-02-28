@@ -1,0 +1,53 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	loved	love	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	idea	idea	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=16
+5	of	of	ADP	IN	_	7	case	_	start_char=17|end_char=19
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=20|end_char=23
+7	story	story	NOUN	NN	Number=Sing	4	nmod	_	start_char=24|end_char=29
+8	.	.	PUNCT	.	_	2	punct	_	start_char=29|end_char=30
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=31|end_char=33
+2	Happy	happy	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=34|end_char=39
+3	Few	few	ADJ	JJ	Degree=Pos	5	nsubj	_	start_char=40|end_char=43
+4	basically	basically	ADV	RB	_	5	advmod	_	start_char=44|end_char=53
+5	ripped	rip	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=54|end_char=60
+6	off	off	ADP	IN	_	8	case	_	start_char=61|end_char=64
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=65|end_char=68
+8	idea	idea	NOUN	NN	Number=Sing	5	obl	_	start_char=69|end_char=73
+9	entirely	entirely	ADV	RB	_	5	advmod	_	start_char=74|end_char=82
+10	.	.	PUNCT	.	_	2	punct	_	start_char=82|end_char=83
+
+1	Make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=84|end_char=88
+2	super	super	ADJ	JJ	Degree=Pos	3	amod	_	start_char=89|end_char=94
+3	soldiers	soldier	NOUN	NNS	Number=Plur	1	obj	_	start_char=95|end_char=103
+4	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=104|end_char=108
+5	become	become	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=109|end_char=115
+6	dumb	dumb	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=116|end_char=120
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=121|end_char=124
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=125|end_char=133
+9	of	of	ADP	IN	_	11	case	_	start_char=134|end_char=136
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=137|end_char=140
+11	horrors	horror	NOUN	NNS	Number=Plur	6	obl	_	start_char=141|end_char=148
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=149|end_char=153
+13	commit	commit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=154|end_char=160
+14	.	.	PUNCT	.	_	1	punct	_	start_char=160|end_char=161
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=162|end_char=165
+2	mechanic	mechanic	NOUN	NN	Number=Sing	16	nsubj	_	start_char=166|end_char=174
+3	that	that	PRON	WDT	PronType=Rel	7	obj	_	start_char=175|end_char=179
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=180|end_char=184
+5	ca	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=185|end_char=187
+6	n't	not	PART	RB	_	7	advmod	_	start_char=187|end_char=190
+7	see	see	VERB	VB	VerbForm=Inf	2	acl:relcl	_	start_char=191|end_char=194
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obj	_	start_char=195|end_char=198
+9	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=199|end_char=203
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=204|end_char=207
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=207|end_char=210
+12	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	_	start_char=211|end_char=218
+13	dead	dead	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=219|end_char=223
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=224|end_char=227
+15	really	really	ADV	RB	_	16	advmod	_	start_char=228|end_char=234
+16	unique	unique	ADJ	JJ	Degree=Pos	0	root	_	start_char=235|end_char=241
+17	.	.	PUNCT	.	_	16	punct	_	start_char=241|end_char=242
+

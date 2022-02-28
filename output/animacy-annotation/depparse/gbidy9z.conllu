@@ -1,0 +1,42 @@
+1	Lmao	lmao	INTJ	UH	_	6	discourse	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=5|end_char=8
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=9|end_char=12
+4	so	so	ADV	RB	_	6	advmod	_	start_char=13|end_char=15
+5	pathetically	pathetically	ADV	RB	_	6	advmod	_	start_char=16|end_char=28
+6	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=39
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=40|end_char=43
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=44|end_char=52
+9	that	that	SCONJ	IN	_	15	mark	_	start_char=53|end_char=57
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=58|end_char=59
+11	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=59|end_char=61
+12	not	not	PART	RB	_	15	advmod	_	start_char=62|end_char=65
+13	even	even	ADV	RB	_	15	advmod	_	start_char=66|end_char=70
+14	gonna	gonna	ADV	RB	_	15	advmod	_	start_char=71|end_char=76
+15	bother	bother	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=77|end_char=83
+16	.	.	PUNCT	.	_	6	punct	_	start_char=83|end_char=84
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=85|end_char=87
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=88|end_char=93
+3	be	be	AUX	VB	VerbForm=Inf	0	root	_	start_char=94|end_char=96
+4	like	like	SCONJ	IN	_	5	mark	_	start_char=97|end_char=101
+5	talking	talk	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=102|end_char=109
+6	to	to	ADP	IN	_	8	case	_	start_char=110|end_char=112
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=113|end_char=114
+8	wall	wall	NOUN	NN	Number=Sing	5	obl	_	start_char=115|end_char=119
+9	because	because	SCONJ	IN	_	13	mark	_	start_char=120|end_char=127
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=128|end_char=131
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=132|end_char=135
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	conj	_	start_char=136|end_char=138
+13	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=139|end_char=143
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=144|end_char=147
+15	same	same	ADJ	JJ	Degree=Pos	16	amod	_	start_char=148|end_char=152
+16	intelligence	intelligence	NOUN	NN	Number=Sing	13	obj	_	start_char=153|end_char=165
+17	.	.	PUNCT	.	_	3	punct	_	start_char=165|end_char=166
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=169|end_char=175
+2	for	for	ADP	IN	_	4	case	_	start_char=176|end_char=179
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=180|end_char=183
+4	laugh	laugh	NOUN	NN	Number=Sing	1	nmod	_	start_char=184|end_char=189
+5	tho	though	NOUN	NN	Number=Sing	1	vocative	_	start_char=190|end_char=193
+6	😂	😂	SYM	NFP	_	1	discourse	_	start_char=194|end_char=195
+

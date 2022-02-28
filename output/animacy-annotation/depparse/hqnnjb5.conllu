@@ -1,0 +1,26 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	literally	literally	ADV	RB	_	3	advmod	_	start_char=3|end_char=12
+3	is🤣🤣🤣	is🤣🤣🤣	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=18
+4	THIS	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=19|end_char=23
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=24|end_char=26
+6	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=27|end_char=30
+7	willfully	willfully	ADV	RB	_	8	advmod	_	start_char=31|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=41|end_char=49
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=50|end_char=53
+10	uneducated	uneducated	ADJ	JJ	Degree=Pos	8	conj	_	start_char=54|end_char=64
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=65|end_char=68
+12	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=69|end_char=72
+13	.	.	PUNCT	.	_	3	punct	_	start_char=72|end_char=73
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=74|end_char=77
+2	all	all	DET	DT	_	6	nsubj	_	start_char=78|end_char=81
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=82|end_char=85
+4	Aussies	Aussies	PROPN	NNPS	Number=Plur	2	acl:relcl	_	start_char=86|end_char=93
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	advmod	_	start_char=94|end_char=98
+6	slow	slow	ADJ	JJ	Degree=Pos	0	root	_	start_char=99|end_char=103
+7	,	,	PUNCT	,	_	8	punct	_	start_char=103|end_char=104
+8	seriously	seriously	ADV	RB	_	6	advmod	_	start_char=105|end_char=114
+9	??	??	PUNCT	.	_	6	punct	_	start_char=114|end_char=116
+
+1	LMAO	lmao	INTJ	UH	_	0	root	_	start_char=117|end_char=121
+

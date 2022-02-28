@@ -1,0 +1,45 @@
+1	"	"	PUNCT	``	_	5	punct	_	start_char=0|end_char=1
+2	Why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=1|end_char=4
+3	are	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=5|end_char=8
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=9|end_char=12
+5	defending	defend	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=13|end_char=22
+6	Muslims	Muslim	PROPN	NNPS	Number=Plur	5	obj	_	start_char=23|end_char=30
+7	,	,	PUNCT	,	_	5	punct	_	start_char=30|end_char=31
+8	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=32|end_char=36
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=37|end_char=40
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=41|end_char=44
+11	not	not	PART	RB	_	13	advmod	_	start_char=45|end_char=48
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=49|end_char=50
+13	Muslim	Muslim	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=51|end_char=57
+14	?	?	PUNCT	.	_	5	punct	_	start_char=57|end_char=58
+15	"	"	PUNCT	''	_	5	punct	_	start_char=58|end_char=59
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=60|end_char=64
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=65|end_char=67
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=68|end_char=71
+4	equivalent	equivalent	ADJ	JJ	Degree=Pos	0	root	_	start_char=72|end_char=82
+5	to	to	ADP	IN	_	6	case	_	start_char=83|end_char=85
+6	what	what	PRON	WP	PronType=Int	4	obl	_	start_char=86|end_char=90
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=91|end_char=94
+8	just	just	ADV	RB	_	9	advmod	_	start_char=95|end_char=99
+9	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=100|end_char=104
+10	.	.	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=107|end_char=111
+2	comment	comment	NOUN	NN	Number=Sing	6	nsubj	_	start_char=112|end_char=119
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=120|end_char=122
+4	so	so	ADV	RB	_	5	advmod	_	start_char=123|end_char=125
+5	ridiculously	ridiculously	ADV	RB	_	6	advmod	_	start_char=126|end_char=138
+6	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=139|end_char=146
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=147|end_char=150
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=151|end_char=159
+9	that	that	SCONJ	IN	_	15	mark	_	start_char=160|end_char=164
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=165|end_char=166
+11	literally	literally	ADV	RB	_	15	advmod	_	start_char=167|end_char=176
+12	ca	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=177|end_char=179
+13	n't	not	PART	RB	_	15	advmod	_	start_char=179|end_char=182
+14	properly	properly	ADV	RB	_	15	advmod	_	start_char=183|end_char=191
+15	process	process	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=192|end_char=199
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=200|end_char=202
+17	.	.	PUNCT	.	_	6	punct	_	start_char=202|end_char=203
+

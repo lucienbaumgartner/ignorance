@@ -1,0 +1,60 @@
+1	Ugh	ugh	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=5|end_char=6
+4	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=7|end_char=12
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=12|end_char=15
+6	stand	stand	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=21
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	6	obj	_	start_char=22|end_char=26
+8	.	.	PUNCT	.	_	6	punct	_	start_char=26|end_char=27
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=28|end_char=29
+2	stop	stop	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=30|end_char=34
+3	reading	read	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=35|end_char=42
+4	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	Every	every	DET	DT	_	2	det	_	start_char=44|end_char=49
+2	idiot	idiot	NOUN	NN	Number=Sing	7	nsubj	_	start_char=50|end_char=55
+3	like	like	ADP	IN	_	4	case	_	start_char=56|end_char=60
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	2	nmod	_	start_char=61|end_char=65
+5	ca	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=66|end_char=68
+6	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=68|end_char=71
+7	spell	spell	VERB	VB	VerbForm=Inf	0	root	_	start_char=72|end_char=77
+8	sh*t	shit	NOUN	NN	Number=Sing	7	obj	_	start_char=78|end_char=82
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=83|end_char=86
+10	lacks	lack	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=87|end_char=92
+11	so	so	ADV	RB	_	12	advmod	_	start_char=93|end_char=95
+12	much	much	ADJ	JJ	Degree=Pos	13	amod	_	start_char=96|end_char=100
+13	grammar	grammar	NOUN	NN	Number=Sing	10	obj	_	start_char=101|end_char=108
+14	.	.	PUNCT	.	_	7	punct	_	start_char=108|end_char=109
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=110|end_char=114
+2	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=115|end_char=120
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=121|end_char=124
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=125|end_char=133
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=134|end_char=137
+6	illiterate	illiterate	ADJ	JJ	Degree=Pos	4	conj	_	start_char=138|end_char=148
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=149|end_char=153
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=154|end_char=157
+9	.	.	PUNCT	.	_	2	punct	_	start_char=157|end_char=158
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=159|end_char=162
+2	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=163|end_char=167
+3	‘	'	PUNCT	``	_	4	punct	_	start_char=168|end_char=169
+4	no	no	INTJ	UH	Polarity=Neg	2	ccomp	_	start_char=169|end_char=171
+5	’	'	PUNCT	''	_	4	punct	_	start_char=171|end_char=172
+6	,	,	PUNCT	,	_	11	punct	_	start_char=172|end_char=173
+7	and	and	CCONJ	CC	_	11	cc	_	start_char=174|end_char=177
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=178|end_char=182
+9	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=182|end_char=185
+10	stupidity	stupidity	NOUN	NN	Number=Sing	11	nsubj	_	start_char=186|end_char=195
+11	keeps	keep	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=196|end_char=201
+12	going	go	VERB	VBG	VerbForm=Ger	11	xcomp	_	start_char=202|end_char=207
+13	‘	'	PUNCT	``	_	14	punct	_	start_char=208|end_char=209
+14	yes	yes	INTJ	UH	_	12	obj	_	start_char=209|end_char=212
+15	’	'	PUNCT	''	_	14	punct	_	start_char=212|end_char=213
+16	.	.	PUNCT	.	_	2	punct	_	start_char=213|end_char=214
+
+1	Idiot	idiot	NOUN	NN	Number=Sing	2	compound	_	start_char=215|end_char=220
+2	fool	fool	NOUN	NN	Number=Sing	0	root	_	start_char=221|end_char=225
+3	.	.	PUNCT	.	_	2	punct	_	start_char=225|end_char=226
+

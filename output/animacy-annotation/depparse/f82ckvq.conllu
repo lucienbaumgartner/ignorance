@@ -1,0 +1,30 @@
+1	Or	or	CCONJ	CC	_	4	cc	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=3|end_char=5
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=6|end_char=9
+4	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=10|end_char=15
+5	as	as	ADP	IN	_	7	case	_	start_char=16|end_char=18
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=19|end_char=20
+7	passage	passage	NOUN	NN	Number=Sing	4	obl	_	start_char=21|end_char=28
+8	to	to	PART	TO	_	9	mark	_	start_char=29|end_char=31
+9	keep	keep	VERB	VB	VerbForm=Inf	7	acl	_	start_char=32|end_char=36
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=37|end_char=40
+11	poor	poor	ADJ	JJ	Degree=Pos	9	obj	_	start_char=41|end_char=45
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=46|end_char=49
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=50|end_char=58
+14	that	that	DET	DT	Number=Sing|PronType=Dem	15	det	_	start_char=59|end_char=63
+15	way	way	NOUN	NN	Number=Sing	9	obl:npmod	_	start_char=64|end_char=67
+16	so	so	ADV	RB	_	19	mark	_	start_char=68|end_char=70
+17	as	as	SCONJ	IN	_	19	mark	_	start_char=71|end_char=73
+18	to	to	PART	TO	_	16	fixed	_	start_char=74|end_char=76
+19	believe	believe	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=77|end_char=84
+20	that	that	SCONJ	IN	_	24	mark	_	start_char=85|end_char=89
+21	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=90|end_char=95
+22	squalor	squalor	NOUN	NN	Number=Sing	24	nsubj	_	start_char=96|end_char=103
+23	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	_	start_char=104|end_char=107
+24	superior	superior	ADJ	JJ	Degree=Pos	19	ccomp	_	start_char=108|end_char=116
+25	.	.	PUNCT	.	_	4	punct	_	start_char=116|end_char=117
+
+1	Mental	mental	ADJ	JJ	Degree=Pos	2	amod	_	start_char=118|end_char=124
+2	bondage	bondage	NOUN	NN	Number=Sing	3	compound	_	start_char=125|end_char=132
+3	imo.	imo.	NOUN	NN	Number=Sing	0	root	_	start_char=133|end_char=137
+

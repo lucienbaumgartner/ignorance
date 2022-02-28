@@ -1,0 +1,8 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	overconfident	overconfident	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=26
+4	,	,	PUNCT	,	_	6	punct	_	start_char=26|end_char=27
+5	awesome	awesome	ADJ	JJ	Degree=Pos	6	amod	_	start_char=28|end_char=35
+6	combo	combo	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=41
+7	...	...	PUNCT	.	_	6	punct	_	start_char=41|end_char=44
+

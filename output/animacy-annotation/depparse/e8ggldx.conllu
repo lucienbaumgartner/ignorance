@@ -1,0 +1,36 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=3|end_char=6
+3	100	100	NUM	CD	NumType=Card	4	nummod	_	start_char=7|end_char=10
+4	%	%	SYM	NN	Number=Sing	5	obl:npmod	_	start_char=10|end_char=11
+5	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=25
+6	.	.	PUNCT	.	_	5	punct	_	start_char=25|end_char=26
+
+1	Not	not	PART	RB	_	5	advmod	_	start_char=27|end_char=30
+2	because	because	SCONJ	IN	_	5	mark	_	start_char=31|end_char=38
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=39|end_char=41
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	start_char=42|end_char=45
+5	pantomiming	pantomime	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=46|end_char=57
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=58|end_char=60
+7	,	,	PUNCT	,	_	13	punct	_	start_char=60|end_char=61
+8	but	but	CCONJ	CC	_	13	cc	_	start_char=62|end_char=65
+9	because	because	SCONJ	IN	_	13	mark	_	start_char=66|end_char=73
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=74|end_char=77
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=78|end_char=81
+12	completely	completely	ADV	RB	_	13	advmod	_	start_char=82|end_char=92
+13	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=93|end_char=100
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=101|end_char=104
+15	unable	unable	ADJ	JJ	Degree=Pos	13	conj	_	start_char=105|end_char=111
+16	to	to	PART	TO	_	17	mark	_	start_char=112|end_char=114
+17	object	object	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=115|end_char=121
+18	.	.	PUNCT	.	_	5	punct	_	start_char=121|end_char=122
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=123|end_char=125
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=125|end_char=127
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=128|end_char=131
+4	photo	photo	NOUN	NN	Number=Sing	0	root	_	start_char=132|end_char=137
+5	equivalent	equivalent	ADJ	JJ	Degree=Pos	4	amod	_	start_char=138|end_char=148
+6	of	of	ADP	IN	_	8	case	_	start_char=149|end_char=151
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=152|end_char=153
+8	roofie	roofie	NOUN	NN	Number=Sing	5	obl	_	start_char=154|end_char=160
+9	.	.	PUNCT	.	_	4	punct	_	start_char=160|end_char=161
+

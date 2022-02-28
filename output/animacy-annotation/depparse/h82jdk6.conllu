@@ -1,0 +1,22 @@
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=2
+2	n’t	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=2|end_char=5
+3	know	know	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=11|end_char=14
+5	reason	reason	NOUN	NN	Number=Sing	3	obj	_	start_char=15|end_char=21
+6	for	for	ADP	IN	_	8	case	_	start_char=22|end_char=25
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=26|end_char=29
+8	downvotes	downvote	NOUN	NNS	Number=Plur	5	nmod	_	start_char=30|end_char=39
+9	,	,	PUNCT	,	_	3	punct	_	start_char=39|end_char=40
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=41|end_char=42
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=43|end_char=46
+12	genuinely	genuinely	ADV	RB	_	13	advmod	_	start_char=47|end_char=56
+13	unaware	unaware	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=57|end_char=64
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=65|end_char=68
+15	curious	curious	ADJ	JJ	Degree=Pos	13	conj	_	start_char=69|end_char=76
+16	.	.	PUNCT	.	_	3	punct	_	start_char=76|end_char=77
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=78|end_char=84
+2	for	for	ADP	IN	_	4	case	_	start_char=85|end_char=88
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=89|end_char=92
+4	explanation	explanation	NOUN	NN	Number=Sing	1	nmod	_	start_char=93|end_char=104
+

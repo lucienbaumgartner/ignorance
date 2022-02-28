@@ -1,0 +1,15 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=7|end_char=10
+4	most	most	ADV	RBS	_	5	advmod	_	start_char=11|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=16|end_char=24
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28
+7	stupidest	stupide	ADJ	JJS	Degree=Sup	5	conj	_	start_char=29|end_char=38
+8	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=39|end_char=44
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=45|end_char=46
+10	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=47|end_char=51
+11	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	8	acl:relcl	_	start_char=52|end_char=57
+12	in	in	ADP	IN	_	14	case	_	start_char=58|end_char=60
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=61|end_char=62
+14	while	while	NOUN	NN	Number=Sing	11	obl	_	start_char=63|end_char=68
+

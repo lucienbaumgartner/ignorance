@@ -1,0 +1,54 @@
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=0|end_char=6
+2	educate	educate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=7|end_char=14
+3	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	iobj	_	start_char=15|end_char=23
+4	buddy	buddy	NOUN	NN	Number=Sing	2	obj	_	start_char=24|end_char=29
+5	.	.	PUNCT	.	_	2	punct	_	start_char=29|end_char=30
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=31|end_char=32
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=32|end_char=34
+3	not	not	PART	RB	_	4	advmod	_	start_char=35|end_char=38
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=39|end_char=44
+5	to	to	PART	TO	_	6	mark	_	start_char=45|end_char=47
+6	do	do	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=48|end_char=50
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=51|end_char=53
+8	for	for	ADP	IN	_	9	case	_	start_char=54|end_char=57
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=58|end_char=61
+10	.	.	PUNCT	.	_	4	punct	_	start_char=61|end_char=62
+
+1	And	and	CCONJ	CC	_	8	cc	_	start_char=64|end_char=67
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=68|end_char=72
+3	version	version	NOUN	NN	Number=Sing	8	nsubj	_	start_char=73|end_char=80
+4	of	of	ADP	IN	_	5	case	_	start_char=81|end_char=83
+5	facts	fact	NOUN	NNS	Number=Plur	3	nmod	_	start_char=84|end_char=89
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=90|end_char=92
+7	SO	so	ADV	RB	_	8	advmod	_	start_char=93|end_char=95
+8	twisted	twisted	ADJ	JJ	Degree=Pos	0	root	_	start_char=96|end_char=103
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=104|end_char=107
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=108|end_char=116
+11	that	that	SCONJ	IN	_	19	mark	_	start_char=117|end_char=121
+12	getting	get	VERB	VBG	VerbForm=Ger	19	csubj	_	start_char=122|end_char=129
+13	out	out	ADP	IN	_	16	case	_	start_char=130|end_char=133
+14	of	of	ADP	IN	_	16	case	_	start_char=134|end_char=136
+15	that	that	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=137|end_char=141
+16	bubble	bubble	NOUN	NN	Number=Sing	12	obl	_	start_char=142|end_char=148
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=149|end_char=151
+18	practically	practically	ADV	RB	_	19	advmod	_	start_char=152|end_char=163
+19	impossible	impossible	ADJ	JJ	Degree=Pos	8	conj	_	start_char=164|end_char=174
+20	for	for	ADP	IN	_	21	case	_	start_char=175|end_char=178
+21	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	19	obl	_	start_char=179|end_char=182
+22	unless	unless	SCONJ	IN	_	24	mark	_	start_char=183|end_char=189
+23	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	24	nsubj	_	start_char=190|end_char=193
+24	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	advcl	_	start_char=194|end_char=199
+25	to	to	PART	TO	_	24	xcomp	_	start_char=200|end_char=202
+26	.	.	PUNCT	.	_	8	punct	_	start_char=202|end_char=203
+
+1	Hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=204|end_char=208
+2	something	something	PRON	NN	Number=Sing	3	nsubj	_	start_char=209|end_char=218
+3	shines	shine	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=219|end_char=225
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=226|end_char=227
+5	bright	bright	ADJ	JJ	Degree=Pos	6	amod	_	start_char=228|end_char=234
+6	light	light	NOUN	NN	Number=Sing	3	obj	_	start_char=235|end_char=240
+7	on	on	ADP	IN	_	8	case	_	start_char=241|end_char=243
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	start_char=244|end_char=247
+9	.	.	PUNCT	.	_	1	punct	_	start_char=247|end_char=248
+

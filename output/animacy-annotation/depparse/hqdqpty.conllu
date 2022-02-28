@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=2|end_char=7
+3	not	not	PART	RB	_	5	advmod	_	start_char=8|end_char=11
+4	quite	quite	ADV	RB	_	5	advmod	_	start_char=12|end_char=17
+5	call	call	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+6	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=23|end_char=27
+7	"	"	PUNCT	``	_	10	punct	_	start_char=28|end_char=29
+8	asshole	asshole	NOUN	NN	Number=Sing	10	compound	_	start_char=29|end_char=36
+9	"	"	PUNCT	''	_	10	punct	_	start_char=36|end_char=37
+10	territory	territory	NOUN	NN	Number=Sing	5	obj	_	start_char=38|end_char=47
+11	,	,	PUNCT	,	_	15	punct	_	start_char=47|end_char=48
+12	but	but	CCONJ	CC	_	15	cc	_	start_char=49|end_char=52
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=53|end_char=54
+14	would	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=55|end_char=60
+15	call	call	VERB	VB	VerbForm=Inf	5	conj	_	start_char=61|end_char=65
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=66|end_char=68
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=69|end_char=77
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=78|end_char=81
+19	clueless	clueless	ADJ	JJ	Degree=Pos	17	conj	_	start_char=82|end_char=90
+20	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+

@@ -1,0 +1,12 @@
+1	Got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	everyone	everyone	PRON	NN	Number=Sing	1	obj	_	start_char=4|end_char=12
+3	"	"	PUNCT	``	_	4	punct	_	start_char=13|end_char=14
+4	unaware	unaware	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=14|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	compliant	compliant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=35
+7	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+8	"	"	PUNCT	''	_	1	punct	_	start_char=36|end_char=37
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=39|end_char=40
+2	https://wikileaks.org/podesta-emails/emailid/3599](https://wikileaks.org/podesta-emails/emailid/3599)	https://wikileaks.org/podesta-emails/emailid/3599](https://wikileaks.org/podesta-emails/emailid/3599)	X	ADD	_	0	root	_	start_char=40|end_char=141
+

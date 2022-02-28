@@ -1,0 +1,43 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	existence	existence	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=13
+3	of	of	ADP	IN	_	4	case	_	start_char=14|end_char=16
+4	ppl	ppl	NOUN	NNS	Number=Plur	2	nmod	_	start_char=17|end_char=20
+5	like	like	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+6	AtomicNinja	AtomicNinja	PROPN	NNP	Number=Sing	5	obj	_	start_char=26|end_char=37
+7	down	down	ADP	IN	_	8	case	_	start_char=38|end_char=42
+8	there	there	ADV	RB	PronType=Dem	5	obl	_	start_char=43|end_char=48
+9	.	.	PUNCT	.	_	5	punct	_	start_char=48|end_char=49
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=50|end_char=53
+2	whole	whole	ADJ	JJ	Degree=Pos	6	amod	_	start_char=54|end_char=59
+3	exclusionist	exclusionist	NOUN	NN	Number=Sing	6	compound	_	start_char=60|end_char=72
+4	/	/	SYM	,	_	5	punct	_	start_char=73|end_char=74
+5	TERF	TERF	PROPN	NNP	Number=Sing	3	conj	_	start_char=75|end_char=79
+6	rhetoric	rhetoric	NOUN	NN	Number=Sing	0	root	_	start_char=80|end_char=88
+7	+	+	SYM	SYM	_	6	advmod	_	start_char=89|end_char=90
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=91|end_char=94
+2	"	"	PUNCT	``	_	6	punct	_	start_char=95|end_char=96
+3	Queer	Queer	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=96|end_char=101
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=102|end_char=104
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=105|end_char=106
+6	slur	slur	NOUN	NN	Number=Sing	8	compound	_	start_char=107|end_char=111
+7	"	"	PUNCT	''	_	6	punct	_	start_char=111|end_char=112
+8	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=113|end_char=118
+9	,	,	PUNCT	,	_	8	punct	_	start_char=118|end_char=119
+10	really	really	ADV	RB	_	8	advmod	_	start_char=120|end_char=126
+11	.	.	PUNCT	.	_	8	punct	_	start_char=126|end_char=127
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=128|end_char=134
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=135|end_char=138
+3	so	so	ADV	RB	_	4	advmod	_	start_char=139|end_char=141
+4	disillusioned	disillusioned	ADJ	JJ	Degree=Pos	0	root	_	start_char=142|end_char=155
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=156|end_char=159
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=160|end_char=167
+7	of	of	ADP	IN	_	9	case	_	start_char=168|end_char=170
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=171|end_char=174
+9	LGBTQ	LGBTQ	PROPN	NNP	Number=Sing	6	obl	_	start_char=175|end_char=180
+10	+	+	SYM	SYM	_	11	cc	_	start_char=180|end_char=181
+11	history	history	NOUN	NN	Number=Sing	9	conj	_	start_char=182|end_char=189
+12	.	.	PUNCT	.	_	4	punct	_	start_char=189|end_char=190
+

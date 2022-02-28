@@ -1,0 +1,21 @@
+1	Except	except	SCONJ	IN	_	3	mark	_	start_char=0|end_char=6
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=7|end_char=9
+3	owns	own	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+4	part	part	NOUN	NN	Number=Sing	3	obj	_	start_char=15|end_char=19
+5	of	of	ADP	IN	_	6	case	_	start_char=20|end_char=22
+6	blackrock	blackrock	NOUN	NN	Number=Sing	4	nmod	_	start_char=23|end_char=32
+7	,	,	PUNCT	,	_	3	punct	_	start_char=32|end_char=33
+8	right	right	ADV	RB	_	3	discourse	_	start_char=34|end_char=39
+9	?	?	PUNCT	.	_	3	punct	_	start_char=39|end_char=40
+
+1	Jfc	Jfc	PROPN	NNP	Number=Sing	2	compound	_	start_char=41|end_char=44
+2	liberals	liberal	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=45|end_char=53
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=54|end_char=57
+4	just	just	ADV	RB	_	5	advmod	_	start_char=58|end_char=62
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=63|end_char=71
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=72|end_char=75
+7	dumb	dumb	ADJ	JJ	Degree=Pos	5	conj	_	start_char=76|end_char=80
+8	as	as	ADP	IN	_	9	case	_	start_char=81|end_char=83
+9	shit	shit	NOUN	NN	Number=Sing	5	obl	_	start_char=84|end_char=88
+10	.	.	PUNCT	.	_	5	punct	_	start_char=88|end_char=89
+

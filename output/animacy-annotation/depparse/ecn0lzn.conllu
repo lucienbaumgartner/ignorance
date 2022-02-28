@@ -1,0 +1,36 @@
+1	In	in	ADP	IN	_	5	case	_	start_char=0|end_char=2
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=3|end_char=7
+3	/	/	SYM	,	_	4	cc	_	start_char=7|end_char=8
+4	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	start_char=8|end_char=11
+5	language	language	NOUN	NN	Number=Sing	8	obl	_	start_char=12|end_char=20
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=21|end_char=22
+7	probably	probably	ADV	RB	_	8	advmod	_	start_char=23|end_char=31
+8	count	count	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=32|end_char=37
+9	as	as	ADP	IN	_	11	case	_	start_char=38|end_char=40
+10	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=41|end_char=43
+11	atheist	atheist	NOUN	NN	Number=Sing	8	obl	_	start_char=44|end_char=51
+12	.	.	PUNCT	.	_	8	punct	_	start_char=51|end_char=52
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=53|end_char=54
+2	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=55|end_char=59
+3	SV	SV	PROPN	NNP	Number=Sing	2	obj	_	start_char=60|end_char=62
+4	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	nmod:npmod	_	start_char=63|end_char=70
+5	offensive	offensive	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=71|end_char=80
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=81|end_char=84
+7	arrogant	arrogant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=85|end_char=93
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=94|end_char=97
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=98|end_char=106
+10	.	.	PUNCT	.	_	2	punct	_	start_char=106|end_char=107
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=108|end_char=112
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=113|end_char=115
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=116|end_char=118
+4	view	view	NOUN	NN	Number=Sing	0	root	_	start_char=119|end_char=123
+5	of	of	ADP	IN	_	6	case	_	start_char=124|end_char=126
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	start_char=127|end_char=130
+7	,	,	PUNCT	,	_	10	punct	_	start_char=130|end_char=131
+8	not	not	ADV	RB	_	10	advmod	_	start_char=132|end_char=135
+9	of	of	ADP	IN	_	10	case	_	start_char=136|end_char=138
+10	Christians	Christian	PROPN	NNPS	Number=Plur	4	nmod	_	start_char=139|end_char=149
+11	.	.	PUNCT	.	_	4	punct	_	start_char=149|end_char=150
+

@@ -1,0 +1,103 @@
+1	Regardless	regardless	ADV	RB	_	0	root	_	start_char=0|end_char=10
+2	of	of	ADP	IN	_	3	case	_	start_char=11|end_char=13
+3	who	who	PRON	WP	PronType=Int	1	obl	_	start_char=14|end_char=17
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=18|end_char=20
+5	what	what	PRON	WP	PronType=Int	3	conj	_	start_char=21|end_char=25
+6	posted	post	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=26|end_char=32
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=33|end_char=35
+8	.	.	PUNCT	.	_	1	punct	_	start_char=36|end_char=37
+
+1	If	if	SCONJ	IN	_	9	mark	_	start_char=38|end_char=40
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=41|end_char=44
+3	product	product	NOUN	NN	Number=Sing	9	nsubj	_	start_char=45|end_char=52
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=53|end_char=55
+5	service	service	NOUN	NN	Number=Sing	3	conj	_	start_char=56|end_char=63
+6	being	be	AUX	VBG	VerbForm=Ger	7	aux:pass	_	start_char=64|end_char=69
+7	sold	sell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	start_char=70|end_char=74
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=75|end_char=77
+9	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=82
+10	for	for	ADP	IN	_	11	case	_	start_char=83|end_char=86
+11	people	people	NOUN	NNS	Number=Plur	9	obl	_	start_char=87|end_char=93
+12	and	and	CCONJ	CC	_	17	cc	_	start_char=94|end_char=97
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=98|end_char=101
+14	“	''	PUNCT	``	_	15	punct	_	start_char=102|end_char=103
+15	upline	upline	NOUN	NN	Number=Sing	17	nsubj	_	start_char=103|end_char=109
+16	”	''	PUNCT	''	_	15	punct	_	start_char=109|end_char=110
+17	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	start_char=111|end_char=114
+18	integrity	integrity	NOUN	NN	Number=Sing	17	obj	_	start_char=115|end_char=124
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=125|end_char=128
+20	morals	moral	NOUN	NNS	Number=Plur	18	conj	_	start_char=129|end_char=135
+21	.	.	PUNCT	.	_	9	punct	_	start_char=135|end_char=136
+
+1	Meaning	mean	VERB	VBG	VerbForm=Ger	0	root	_	start_char=137|end_char=144
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=145|end_char=149
+3	actually	actually	ADV	RB	_	4	advmod	_	start_char=150|end_char=158
+4	care	care	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=159|end_char=163
+5	about	about	ADP	IN	_	6	case	_	start_char=164|end_char=169
+6	people	people	NOUN	NNS	Number=Plur	4	obl	_	start_char=170|end_char=176
+7	(	(	PUNCT	-LRB-	_	8	punct	_	start_char=177|end_char=178
+8	clients	client	NOUN	NNS	Number=Plur	6	appos	_	start_char=178|end_char=185
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=186|end_char=189
+10	recruits	recruit	NOUN	NNS	Number=Plur	8	conj	_	start_char=190|end_char=198
+11	)	)	PUNCT	-RRB-	_	8	punct	_	start_char=198|end_char=199
+
+1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	start_char=200|end_char=204
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=205|end_char=208
+3	MLM	MLM	PROPN	NNP	Number=Sing	0	root	_	start_char=209|end_char=212
+
+1	May	may	AUX	MD	VerbForm=Fin	2	aux	_	start_char=213|end_char=216
+2	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=217|end_char=221
+3	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=222|end_char=226
+4	benefits	benefit	NOUN	NNS	Number=Plur	2	obj	_	start_char=227|end_char=235
+5	.	.	PUNCT	.	_	2	punct	_	start_char=235|end_char=236
+
+1	Everyone	everyone	PRON	NN	Number=Sing	5	nsubj	_	start_char=237|end_char=245
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=245|end_char=247
+3	just	just	ADV	RB	_	5	advmod	_	start_char=248|end_char=252
+4	so	so	ADV	RB	_	5	advmod	_	start_char=253|end_char=255
+5	freaking	freak	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=256|end_char=264
+6	fearful	fearful	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=265|end_char=272
+7	,	,	PUNCT	,	_	8	punct	_	start_char=272|end_char=273
+8	prideful	prideful	ADJ	JJ	Degree=Pos	6	conj	_	start_char=274|end_char=282
+9	,	,	PUNCT	,	_	11	punct	_	start_char=282|end_char=283
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=284|end_char=287
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=288|end_char=296
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=297|end_char=301
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=302|end_char=306
+14	blanket	blanket	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=307|end_char=314
+15	all	all	DET	DT	_	16	det	_	start_char=315|end_char=318
+16	MLMs	mlm	NOUN	NNS	Number=Plur	14	obj	_	start_char=319|end_char=323
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=324|end_char=327
+18	same	same	ADJ	JJ	Degree=Pos	14	obj	_	start_char=328|end_char=332
+19	.	.	PUNCT	.	_	5	punct	_	start_char=332|end_char=333
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=334|end_char=336
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=336|end_char=338
+3	just	just	ADV	RB	_	5	advmod	_	start_char=339|end_char=343
+4	not	not	PART	RB	_	5	advmod	_	start_char=344|end_char=347
+5	true	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=348|end_char=352
+6	.	.	PUNCT	.	_	5	punct	_	start_char=352|end_char=353
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=354|end_char=359
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=360|end_char=362
+3	good	good	ADJ	JJ	Degree=Pos	2	nsubj	_	start_char=363|end_char=367
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=368|end_char=371
+5	bad	bad	ADJ	JJ	Degree=Pos	3	conj	_	start_char=372|end_char=375
+6	at	at	ADP	IN	_	7	case	_	start_char=376|end_char=378
+7	everything	everything	PRON	NN	Number=Sing	3	obl	_	start_char=379|end_char=389
+8	and	and	CCONJ	CC	_	17	cc	_	start_char=390|end_char=393
+9	saying	say	VERB	VBG	VerbForm=Ger	17	csubj	_	start_char=394|end_char=400
+10	all	all	DET	DT	_	11	det	_	start_char=401|end_char=404
+11	MLMs	mlm	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=405|end_char=409
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=410|end_char=413
+13	bad	bad	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=414|end_char=417
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=418|end_char=420
+15	just	just	ADV	RB	_	17	advmod	_	start_char=421|end_char=425
+16	plain	plain	ADV	RB	_	17	advmod	_	start_char=426|end_char=431
+17	STUPID	stupid	ADJ	JJ	Degree=Pos	2	conj	_	start_char=432|end_char=438
+18	.	.	PUNCT	.	_	2	punct	_	start_char=438|end_char=439
+
+1	Get	get	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=440|end_char=443
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=444|end_char=445
+3	life	life	NOUN	NN	Number=Sing	1	obj	_	start_char=446|end_char=450
+

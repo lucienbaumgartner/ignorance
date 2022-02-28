@@ -1,0 +1,12 @@
+1	Again	again	ADV	RB	_	0	root	_	start_char=0|end_char=5
+2	as	as	SCONJ	IN	_	4	mark	_	start_char=6|end_char=8
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=9|end_char=10
+4	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	start_char=11|end_char=15
+5	research	research	NOUN	NN	Number=Sing	4	obj	_	start_char=16|end_char=24
+6	before	before	SCONJ	IN	_	8	mark	_	start_char=25|end_char=31
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=32|end_char=37
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=38|end_char=46
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+10	bigoted	bigoted	ADJ	JJ	Degree=Pos	8	conj	_	start_char=51|end_char=58
+11	.	.	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+

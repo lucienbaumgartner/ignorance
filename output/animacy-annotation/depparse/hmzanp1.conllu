@@ -1,0 +1,14 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=16
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=29
+7	of	of	ADP	IN	_	9	case	_	start_char=30|end_char=32
+8	medical	medical	ADJ	JJ	Degree=Pos	9	amod	_	start_char=33|end_char=40
+9	science	science	NOUN	NN	Number=Sing	6	obl	_	start_char=41|end_char=48
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=49|end_char=51
+11	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=51|end_char=53
+12	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	4	parataxis	_	start_char=54|end_char=61
+13	laughable	laughable	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=62|end_char=71
+

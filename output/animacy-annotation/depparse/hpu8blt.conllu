@@ -1,0 +1,35 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=7|end_char=8
+4	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=8|end_char=11
+5	had	have	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	_	start_char=12|end_char=15
+6	really	really	ADV	RB	_	7	advmod	_	start_char=16|end_char=22
+7	bad	bad	ADJ	JJ	Degree=Pos	8	amod	_	start_char=23|end_char=26
+8	experiences	experience	NOUN	NNS	Number=Plur	5	obj	_	start_char=27|end_char=38
+9	with	with	ADP	IN	_	10	case	_	start_char=39|end_char=43
+10	women	woman	NOUN	NNS	Number=Plur	8	nmod	_	start_char=44|end_char=49
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=50|end_char=53
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=54|end_char=58
+13	no	no	DET	DT	_	14	det	_	start_char=59|end_char=61
+14	reason	reason	NOUN	NN	Number=Sing	12	obj	_	start_char=62|end_char=68
+15	to	to	PART	TO	_	17	mark	_	start_char=69|end_char=71
+16	really	really	ADV	RB	_	17	advmod	_	start_char=72|end_char=78
+17	like	like	VERB	VB	VerbForm=Inf	14	acl	_	start_char=79|end_char=83
+18	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	obj	_	start_char=84|end_char=88
+19	and	and	CCONJ	CC	_	21	cc	_	start_char=89|end_char=92
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=93|end_char=94
+21	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	conj	_	start_char=95|end_char=99
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	start_char=100|end_char=104
+23	to	to	PART	TO	_	25	mark	_	start_char=105|end_char=107
+24	be	be	AUX	VB	VerbForm=Inf	25	cop	_	start_char=108|end_char=110
+25	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	xcomp	_	start_char=111|end_char=119
+26	and	and	CCONJ	CC	_	27	cc	_	start_char=120|end_char=123
+27	rude	rude	ADJ	JJ	Degree=Pos	25	conj	_	start_char=124|end_char=128
+28	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	cop	_	start_char=129|end_char=131
+29	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	31	nsubj	_	start_char=132|end_char=133
+30	an	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	start_char=134|end_char=136
+31	incel	incel	NOUN	NN	Number=Sing	21	parataxis	_	start_char=137|end_char=142
+32	?	?	PUNCT	.	_	2	punct	_	start_char=142|end_char=143
+
+1	🤣🤣🤣	🤣🤣🤣	PROPN	NNP	Number=Sing	0	root	_	start_char=143|end_char=146
+

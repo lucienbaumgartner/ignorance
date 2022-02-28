@@ -1,0 +1,18 @@
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=0|end_char=4
+2	average	average	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=12
+3	SJW	sjw	NOUN	NN	Number=Sing	8	nsubj	_	start_char=13|end_char=16
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=17|end_char=19
+5	n't	not	PART	RB	_	8	advmod	_	start_char=19|end_char=22
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=23|end_char=26
+7	deep	deep	ADJ	JJ	Degree=Pos	8	amod	_	start_char=27|end_char=31
+8	state	state	NOUN	NN	Number=Sing	0	root	_	start_char=32|end_char=37
+9	,	,	PUNCT	,	_	8	punct	_	start_char=37|end_char=38
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=39|end_char=43
+11	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=43|end_char=46
+12	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=47|end_char=50
+13	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=51|end_char=58
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=59|end_char=62
+15	compliant	compliant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=63|end_char=72
+16	citizenry	citizenry	NOUN	NN	Number=Sing	8	parataxis	_	start_char=73|end_char=82
+17	.	.	PUNCT	.	_	8	punct	_	start_char=82|end_char=83
+

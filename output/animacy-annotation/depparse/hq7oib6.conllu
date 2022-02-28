@@ -1,0 +1,21 @@
+1	Well	well	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=5|end_char=6
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	start_char=7|end_char=10
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=10|end_char=13
+5	limiting	limit	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=14|end_char=22
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=23|end_char=25
+7	to	to	ADP	IN	_	10	case	_	start_char=26|end_char=28
+8	just	just	ADV	RB	_	10	advmod	_	start_char=29|end_char=33
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=34|end_char=39
+10	politicians	politician	NOUN	NNS	Number=Plur	5	obl	_	start_char=40|end_char=51
+11	,	,	PUNCT	,	_	5	punct	_	start_char=51|end_char=52
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	start_char=53|end_char=55
+13	consider	consider	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=56|end_char=64
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=65|end_char=70
+15	voters	voter	NOUN	NNS	Number=Plur	13	obj	_	start_char=71|end_char=77
+16	laughably	laughably	ADV	RB	_	17	advmod	_	start_char=78|end_char=87
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=88|end_char=96
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=97|end_char=100
+19	inept	inept	ADJ	JJ	Degree=Pos	17	conj	_	start_char=101|end_char=106
+20	.	.	PUNCT	.	_	5	punct	_	start_char=106|end_char=107
+

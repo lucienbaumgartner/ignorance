@@ -1,0 +1,21 @@
+1	Seriously	seriously	ADV	RB	_	3	advmod	_	start_char=0|end_char=9
+2	cant	cant	AUX	MD	VerbForm=Fin	3	aux	_	start_char=10|end_char=14
+3	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=22
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=23|end_char=26
+5	comments	comment	NOUN	NNS	Number=Plur	3	obj	_	start_char=27|end_char=35
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=36|end_char=37
+7	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=37|end_char=39
+8	reading	read	VERB	VBG	Tense=Pres|VerbForm=Part	5	acl:relcl	_	start_char=40|end_char=47
+9	.	.	PUNCT	.	_	3	punct	_	start_char=47|end_char=48
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=49|end_char=51
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=51|end_char=53
+3	so	so	ADV	RB	_	4	advmod	_	start_char=54|end_char=56
+4	gross	gross	ADJ	JJ	Degree=Pos	0	root	_	start_char=57|end_char=62
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=63|end_char=66
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=67|end_char=75
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=76|end_char=80
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=81|end_char=84
+9	sad	sad	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=85|end_char=88
+10	.	.	PUNCT	.	_	4	punct	_	start_char=88|end_char=89
+

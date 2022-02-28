@@ -1,0 +1,31 @@
+1	Chinese	Chinese	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=7
+2	HR	hr	NOUN	NN	Number=Sing	8	nsubj	_	start_char=8|end_char=10
+3	in	in	ADP	IN	_	5	case	_	start_char=11|end_char=13
+4	large	large	ADJ	JJ	Degree=Pos	5	amod	_	start_char=14|end_char=19
+5	MNCs	mnc	NOUN	NNS	Number=Plur	2	nmod	_	start_char=20|end_char=24
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=25|end_char=28
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=29|end_char=32
+8	worst	bad	ADJ	JJS	Degree=Sup	0	root	_	start_char=33|end_char=38
+9	,	,	PUNCT	,	_	10	punct	_	start_char=38|end_char=39
+10	arrogant	arrogant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=40|end_char=48
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=49|end_char=52
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=53|end_char=61
+13	of	of	ADP	IN	_	15	case	_	start_char=62|end_char=64
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=65|end_char=68
+15	business	business	NOUN	NN	Number=Sing	12	obl	_	start_char=69|end_char=77
+16	.	.	PUNCT	.	_	8	punct	_	start_char=77|end_char=78
+
+1	Largely	largely	ADV	RB	_	2	advmod	_	start_char=79|end_char=86
+2	unable	unable	ADJ	JJ	Degree=Pos	0	root	_	start_char=87|end_char=93
+3	to	to	PART	TO	_	4	mark	_	start_char=94|end_char=96
+4	help	help	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=97|end_char=101
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=102|end_char=105
+6	actual	actual	ADJ	JJ	Degree=Pos	7	amod	_	start_char=106|end_char=112
+7	business	business	NOUN	NN	Number=Sing	4	obj	_	start_char=113|end_char=121
+8	find	find	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=122|end_char=126
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=127|end_char=130
+10	people	people	NOUN	NNS	Number=Plur	8	obj	_	start_char=131|end_char=137
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=138|end_char=142
+12	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=143|end_char=147
+13	.	.	PUNCT	.	_	2	punct	_	start_char=147|end_char=148
+

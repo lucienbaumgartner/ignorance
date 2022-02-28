@@ -1,0 +1,21 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	easier	easy	ADJ	JJR	Degree=Cmp	0	root	_	start_char=5|end_char=11
+4	to	to	PART	TO	_	5	mark	_	start_char=12|end_char=14
+5	remain	remain	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=15|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=22|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	afraid	afraid	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=41
+9	than	than	SCONJ	IN	_	11	mark	_	start_char=42|end_char=46
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=47|end_char=49
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=50|end_char=52
+12	to	to	PART	TO	_	13	mark	_	start_char=53|end_char=55
+13	spend	spend	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=56|end_char=61
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=62|end_char=63
+15	few	few	ADJ	JJ	Degree=Pos	16	amod	_	start_char=64|end_char=67
+16	minutes	minute	NOUN	NNS	Number=Plur	13	obj	_	start_char=68|end_char=75
+17	to	to	PART	TO	_	19	mark	_	start_char=76|end_char=78
+18	be	be	AUX	VB	VerbForm=Inf	19	aux:pass	_	start_char=79|end_char=81
+19	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	start_char=82|end_char=90
+20	.	.	PUNCT	.	_	3	punct	_	start_char=90|end_char=91
+

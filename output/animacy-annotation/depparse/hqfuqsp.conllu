@@ -1,0 +1,26 @@
+1	Kid	kid	NOUN	NN	Number=Sing	2	nsubj	_	start_char=0|end_char=3
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=7
+3	no	no	DET	DT	_	5	det	_	start_char=8|end_char=10
+4	situational	situational	ADJ	JJ	Degree=Pos	5	amod	_	start_char=11|end_char=22
+5	awareness	awareness	NOUN	NN	Number=Sing	2	obj	_	start_char=23|end_char=32
+6	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+
+1	Kids	kid	NOUN	NNS	Number=Plur	2	compound	_	start_char=34|end_char=38
+2	parents	parent	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=39|end_char=46
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=47|end_char=50
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=59
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=60|end_char=63
+6	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=64|end_char=70
+7	.	.	PUNCT	.	_	4	punct	_	start_char=70|end_char=71
+
+1	Guard	Guard	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=72|end_char=77
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=78|end_char=80
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=81|end_char=82
+4	dick	dick	NOUN	NN	Number=Sing	0	root	_	start_char=83|end_char=87
+5	.	.	PUNCT	.	_	4	punct	_	start_char=87|end_char=88
+
+1	Video	video	NOUN	NN	Number=Sing	0	root	_	start_char=89|end_char=94
+2	of	of	ADP	IN	_	3	case	_	start_char=95|end_char=97
+3	losers	loser	NOUN	NNS	Number=Plur	1	nmod	_	start_char=98|end_char=104
+4	.	.	PUNCT	.	_	1	punct	_	start_char=104|end_char=105
+

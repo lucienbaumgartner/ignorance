@@ -1,0 +1,21 @@
+1	What	what	PRON	WP	PronType=Int	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+4	with	with	SCONJ	IN	_	5	mark	_	start_char=14|end_char=18
+5	criticizing	criticize	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=19|end_char=30
+6	contentment	contentment	NOUN	NN	Number=Sing	5	obj	_	start_char=31|end_char=42
+7	with	with	ADP	IN	_	9	case	_	start_char=43|end_char=47
+8	demeaning	demeaning	ADJ	JJ	Degree=Pos	9	amod	_	start_char=48|end_char=57
+9	government	government	NOUN	NN	Number=Sing	5	obl	_	start_char=58|end_char=68
+10	,	,	PUNCT	,	_	11	punct	_	start_char=68|end_char=69
+11	dropping	drop	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=70|end_char=78
+12	civics	civic	NOUN	NNS	Number=Plur	11	obj	_	start_char=79|end_char=85
+13	resulting	result	VERB	VBG	VerbForm=Ger	12	acl	_	start_char=86|end_char=95
+14	in	in	ADP	IN	_	19	case	_	start_char=96|end_char=98
+15	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=99|end_char=101
+16	unaware	unaware	ADJ	JJ	Degree=Pos	19	amod	_	start_char=102|end_char=109
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=110|end_char=113
+18	complacent	complacent	ADJ	JJ	Degree=Pos	16	conj	_	start_char=114|end_char=124
+19	citizenry	citizenry	NOUN	NN	Number=Sing	13	obl	_	start_char=125|end_char=134
+20	?	?	PUNCT	.	_	3	punct	_	start_char=134|end_char=135
+

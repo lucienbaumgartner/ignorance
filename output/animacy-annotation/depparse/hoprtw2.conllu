@@ -1,0 +1,34 @@
+1	Vaush	Vaush	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=6|end_char=8
+3	sometimes	sometimes	ADV	RB	_	4	advmod	_	start_char=9|end_char=18
+4	tolerable	tolerable	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	capable	capable	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=40
+7	of	of	SCONJ	IN	_	8	mark	_	start_char=41|end_char=43
+8	having	have	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=44|end_char=50
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=51|end_char=52
+10	discussion	discussion	NOUN	NN	Number=Sing	8	obj	_	start_char=53|end_char=63
+11	/	/	SYM	,	_	12	cc	_	start_char=63|end_char=64
+12	debate	debate	NOUN	NN	Number=Sing	10	conj	_	start_char=64|end_char=70
+13	without	without	SCONJ	IN	_	14	mark	_	start_char=71|end_char=78
+14	throwing	throw	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=79|end_char=87
+15	personal	personal	ADJ	JJ	Degree=Pos	16	amod	_	start_char=88|end_char=96
+16	attacks	attack	NOUN	NNS	Number=Plur	14	obj	_	start_char=97|end_char=104
+17	.	.	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=106|end_char=109
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	_	start_char=110|end_char=115
+3	two	two	NUM	CD	NumType=Card	4	nsubj	_	start_char=116|end_char=119
+4	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=120|end_char=125
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=126|end_char=130
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=131|end_char=134
+7	so	so	ADV	RB	_	8	advmod	_	start_char=135|end_char=137
+8	smart	smart	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=138|end_char=143
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=144|end_char=147
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=148|end_char=155
+11	of	of	ADP	IN	_	14	case	_	start_char=156|end_char=158
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=159|end_char=164
+13	own	own	ADJ	JJ	Degree=Pos	14	amod	_	start_char=165|end_char=168
+14	racism	racism	NOUN	NN	Number=Sing	10	obl	_	start_char=169|end_char=175
+15	.	.	PUNCT	.	_	4	punct	_	start_char=175|end_char=176
+

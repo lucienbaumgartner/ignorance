@@ -1,0 +1,19 @@
+1	People	person	NOUN	NNS	Number=Plur	5	nsubj:pass	_	start_char=0|end_char=6
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=7|end_char=11
+3	still	still	ADV	RB	_	5	advmod	_	start_char=12|end_char=17
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=18|end_char=22
+5	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=23|end_char=27
+6	following	follow	VERB	VBG	VerbForm=Ger	8	case	_	start_char=28|end_char=37
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=38|end_char=43
+8	orders	order	NOUN	NNS	Number=Plur	5	obl	_	start_char=44|end_char=50
+9	.	.	PUNCT	.	_	5	punct	_	start_char=50|end_char=51
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=52|end_char=56
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=57|end_char=59
+3	simply	simply	ADV	RB	_	4	advmod	_	start_char=60|end_char=66
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=75
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=76|end_char=79
+6	childishly	childishly	ADV	RB	_	7	advmod	_	start_char=80|end_char=90
+7	naive	naive	ADJ	JJ	Degree=Pos	4	conj	_	start_char=91|end_char=96
+8	.	.	PUNCT	.	_	4	punct	_	start_char=96|end_char=97
+

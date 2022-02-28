@@ -1,0 +1,12 @@
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=4|end_char=7
+3	someone	someone	PRON	NN	Number=Sing	6	nsubj	_	start_char=8|end_char=15
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=16|end_char=18
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=19|end_char=23
+6	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=33|end_char=40
+9	of	of	ADP	IN	_	11	case	_	start_char=41|end_char=43
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=44|end_char=47
+11	situation	situation	NOUN	NN	Number=Sing	6	obl	_	start_char=48|end_char=57
+

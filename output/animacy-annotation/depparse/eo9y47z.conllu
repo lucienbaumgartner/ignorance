@@ -1,0 +1,12 @@
+1	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=11
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=12|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=16|end_char=24
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=25|end_char=29
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=30|end_char=33
+8	still	still	ADV	RB	_	9	advmod	_	start_char=34|end_char=39
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=40|end_char=45
+10	that	that	PRON	DT	Number=Sing|PronType=Dem	9	obj	_	start_char=46|end_char=50
+11	.	.	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+

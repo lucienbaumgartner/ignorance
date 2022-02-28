@@ -1,0 +1,35 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=7|end_char=10
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=11|end_char=14
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=15|end_char=18
+6	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=19|end_char=25
+7	to	to	PART	TO	_	8	mark	_	start_char=26|end_char=28
+8	tell	tell	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=29|end_char=33
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	iobj	_	start_char=34|end_char=36
+10	what	what	PRON	WP	PronType=Int	11	nsubj	_	start_char=37|end_char=41
+11	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	ccomp	_	start_char=42|end_char=50
+12	in	in	ADP	IN	_	15	case	_	start_char=51|end_char=53
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=54|end_char=56
+14	own	own	ADJ	JJ	Degree=Pos	15	amod	_	start_char=57|end_char=60
+15	life	life	NOUN	NN	Number=Sing	11	obl	_	start_char=61|end_char=65
+16	,	,	PUNCT	,	_	19	punct	_	start_char=65|end_char=66
+17	to	to	ADP	IN	_	19	case	_	start_char=67|end_char=69
+18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=70|end_char=72
+19	wife	wife	NOUN	NN	Number=Sing	11	obl	_	start_char=73|end_char=77
+20	that	that	PRON	WDT	PronType=Rel	22	obj	_	start_char=78|end_char=82
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	start_char=83|end_char=84
+22	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	acl:relcl	_	start_char=85|end_char=88
+23	with	with	ADP	IN	_	27	case	_	start_char=89|end_char=93
+24	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	27	nmod:poss	_	start_char=94|end_char=96
+25	own	own	ADJ	JJ	Degree=Pos	27	amod	_	start_char=97|end_char=100
+26	fucking	fucking	ADJ	JJ	Degree=Pos	27	amod	_	start_char=101|end_char=108
+27	eyes	eye	NOUN	NNS	Number=Plur	22	obl	_	start_char=109|end_char=113
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=115|end_char=118
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=119|end_char=122
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=123|end_char=131
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=132|end_char=135
+5	rude	rude	ADJ	JJ	Degree=Pos	3	conj	_	start_char=136|end_char=140
+6	.	.	PUNCT	.	_	3	punct	_	start_char=140|end_char=141
+

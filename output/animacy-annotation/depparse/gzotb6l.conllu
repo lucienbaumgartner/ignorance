@@ -1,0 +1,57 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	true	true	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=8
+3	Mandalorians	Mandalorian	PROPN	NNPS	Number=Plur	8	nsubj	_	start_char=9|end_char=21
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=22|end_char=25
+5	n't	not	PART	RB	_	8	advmod	_	start_char=25|end_char=28
+6	even	even	ADV	RB	_	8	advmod	_	start_char=29|end_char=33
+7	human	human	ADJ	JJ	Degree=Pos	8	amod	_	start_char=34|end_char=39
+8	dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=40|end_char=44
+9	,	,	PUNCT	,	_	13	punct	_	start_char=44|end_char=45
+10	and	and	CCONJ	CC	_	13	cc	_	start_char=46|end_char=49
+11	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=50|end_char=54
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	cop	_	start_char=55|end_char=59
+13	dead	dead	ADJ	JJ	Degree=Pos	8	conj	_	start_char=60|end_char=64
+14	for	for	ADP	IN	_	15	case	_	start_char=65|end_char=68
+15	thousands	thousand	NOUN	NNS	Number=Plur	13	obl	_	start_char=69|end_char=78
+16	of	of	ADP	IN	_	17	case	_	start_char=79|end_char=81
+17	years	year	NOUN	NNS	Number=Plur	15	nmod	_	start_char=82|end_char=87
+18	.	.	PUNCT	.	_	8	punct	_	start_char=87|end_char=88
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=89|end_char=93
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	start_char=94|end_char=98
+3	warriors	warrior	NOUN	NNS	Number=Plur	0	root	_	start_char=99|end_char=107
+4	,	,	PUNCT	,	_	9	punct	_	start_char=107|end_char=108
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=109|end_char=112
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=113|end_char=117
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=118|end_char=121
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=122|end_char=127
+9	culture	culture	NOUN	NN	Number=Sing	3	conj	_	start_char=128|end_char=135
+10	,	,	PUNCT	,	_	11	punct	_	start_char=135|end_char=136
+11	period	period	NOUN	NN	Number=Sing	9	conj	_	start_char=137|end_char=143
+12	.	.	PUNCT	.	_	3	punct	_	start_char=143|end_char=144
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=145|end_char=149
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=150|end_char=153
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=154|end_char=157
+4	true	true	ADJ	JJ	Degree=Pos	5	amod	_	start_char=158|end_char=162
+5	Mandalorians	Mandalorian	PROPN	NNPS	Number=Plur	0	root	_	start_char=163|end_char=175
+6	,	,	PUNCT	,	_	5	punct	_	start_char=175|end_char=176
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=177|end_char=180
+8	end	end	NOUN	NN	Number=Sing	5	appos	_	start_char=181|end_char=184
+9	.	.	PUNCT	.	_	5	punct	_	start_char=184|end_char=185
+
+1	Any	any	DET	DT	_	3	det	_	start_char=186|end_char=189
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	_	start_char=190|end_char=195
+3	statement	statement	NOUN	NN	Number=Sing	8	nsubj	_	start_char=196|end_char=205
+4	on	on	ADP	IN	_	5	case	_	start_char=206|end_char=208
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nmod	_	start_char=209|end_char=211
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=212|end_char=214
+7	just	just	ADV	RB	_	8	advmod	_	start_char=215|end_char=219
+8	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=220|end_char=225
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=226|end_char=229
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=230|end_char=238
+11	of	of	ADP	IN	_	13	case	_	start_char=239|end_char=241
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=242|end_char=245
+13	lore	lore	NOUN	NN	Number=Sing	10	obl	_	start_char=246|end_char=250
+14	.	.	PUNCT	.	_	8	punct	_	start_char=250|end_char=251
+

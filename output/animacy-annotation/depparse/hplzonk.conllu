@@ -1,0 +1,44 @@
+1	Buddy	buddy	NOUN	NN	Number=Sing	4	discourse	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=6|end_char=9
+3	just	just	ADV	RB	_	4	advmod	_	start_char=10|end_char=14
+4	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+5	digging	dig	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=20|end_char=27
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=28|end_char=32
+7	hole	hole	NOUN	NN	Number=Sing	5	obj	_	start_char=33|end_char=37
+8	deeper	deep	ADJ	JJR	Degree=Cmp	5	xcomp	_	start_char=38|end_char=44
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+10	deeper	deep	ADJ	JJR	Degree=Cmp	8	conj	_	start_char=49|end_char=55
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=56|end_char=59
+12	looking	look	VERB	VBG	VerbForm=Ger	5	conj	_	start_char=60|end_char=67
+13	more	more	ADV	RBR	_	14	advmod	_	start_char=68|end_char=72
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=73|end_char=81
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=82|end_char=85
+16	more	more	ADV	RBR	_	17	advmod	_	start_char=86|end_char=90
+17	racist	racist	ADJ	JJ	Degree=Pos	14	conj	_	start_char=91|end_char=97
+18	with	with	ADP	IN	_	20	case	_	start_char=98|end_char=102
+19	each	each	DET	DT	_	20	det	_	start_char=103|end_char=107
+20	statement	statement	NOUN	NN	Number=Sing	17	obl	_	start_char=108|end_char=117
+21	.	.	PUNCT	.	_	4	punct	_	start_char=117|end_char=118
+
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=119|end_char=123
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	iobj	_	start_char=124|end_char=126
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=127|end_char=128
+4	rest	rest	NOUN	NN	Number=Sing	1	obj	_	start_char=129|end_char=133
+5	.	.	PUNCT	.	_	1	punct	_	start_char=133|end_char=134
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=135|end_char=139
+2	views	view	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=140|end_char=145
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=146|end_char=149
+4	abhorrent	abhorrent	ADJ	JJ	Degree=Pos	0	root	_	start_char=150|end_char=159
+5	and	and	CCONJ	CC	_	10	cc	_	start_char=160|end_char=163
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=164|end_char=167
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=168|end_char=171
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=172|end_char=173
+9	terrible	terrible	ADJ	JJ	Degree=Pos	10	amod	_	start_char=174|end_char=182
+10	person	person	NOUN	NN	Number=Sing	4	conj	_	start_char=183|end_char=189
+11	for	for	SCONJ	IN	_	12	mark	_	start_char=190|end_char=193
+12	having	have	VERB	VBG	VerbForm=Ger	10	advcl	_	start_char=194|end_char=200
+13	that	that	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=201|end_char=205
+14	worldview	worldview	NOUN	NN	Number=Sing	12	obj	_	start_char=206|end_char=215
+15	.	.	PUNCT	.	_	4	punct	_	start_char=215|end_char=216
+

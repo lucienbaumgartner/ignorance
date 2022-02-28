@@ -1,0 +1,25 @@
+1	Then	then	ADV	RB	PronType=Dem	11	advmod	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	11	punct	_	start_char=4|end_char=5
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=6|end_char=8
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=9|end_char=12
+5	concept	concept	NOUN	NN	Number=Sing	11	nsubj	_	start_char=13|end_char=20
+6	of	of	ADP	IN	_	8	case	_	start_char=21|end_char=23
+7	human	human	ADJ	JJ	Degree=Pos	8	amod	_	start_char=24|end_char=29
+8	rights	rights	NOUN	NNS	Number=Plur	5	nmod	_	start_char=30|end_char=36
+9	merely	merely	ADV	RB	_	11	advmod	_	start_char=37|end_char=43
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=44|end_char=45
+11	means	means	NOUN	NN	Number=Sing	0	root	_	start_char=46|end_char=51
+12	of	of	SCONJ	IN	_	13	mark	_	start_char=52|end_char=54
+13	preventing	prevent	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=55|end_char=65
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=66|end_char=69
+15	natural	natural	ADJ	JJ	Degree=Pos	16	amod	_	start_char=70|end_char=77
+16	selection	selection	NOUN	NN	Number=Sing	13	obj	_	start_char=78|end_char=87
+17	of	of	ADP	IN	_	23	case	_	start_char=88|end_char=90
+18	an	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=91|end_char=93
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	23	amod	_	start_char=94|end_char=102
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=103|end_char=106
+21	inferior	inferior	ADJ	JJ	Degree=Pos	19	conj	_	start_char=107|end_char=115
+22	human	human	ADJ	JJ	Degree=Pos	23	amod	_	start_char=116|end_char=121
+23	species	species	NOUN	NN	Number=Sing	16	nmod	_	start_char=122|end_char=129
+24	?	?	PUNCT	.	_	11	punct	_	start_char=129|end_char=130
+

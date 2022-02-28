@@ -1,0 +1,15 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=11
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=12|end_char=15
+5	scared	scared	ADJ	JJ	Degree=Pos	3	conj	_	start_char=16|end_char=22
+6	to	to	PART	TO	_	7	mark	_	start_char=23|end_char=25
+7	click	click	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=26|end_char=31
+8	.	.	PUNCT	.	_	3	punct	_	start_char=31|end_char=32
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=33|end_char=37
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=38|end_char=40
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=41|end_char=45
+4	sub	sub	NOUN	NN	Number=Sing	1	nsubj	_	start_char=46|end_char=49
+5	?	?	PUNCT	.	_	1	punct	_	start_char=49|end_char=50
+

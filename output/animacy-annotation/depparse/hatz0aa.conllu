@@ -1,0 +1,57 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	like	like	ADP	IN	_	4	case	_	start_char=5|end_char=9
+4	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=10|end_char=16
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=17|end_char=20
+6	pray	pray	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=21|end_char=25
+7	for	for	ADP	IN	_	10	case	_	start_char=26|end_char=29
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=30|end_char=35
+9	sport	sport	NOUN	NN	Number=Sing	10	compound	_	start_char=36|end_char=41
+10	team	team	NOUN	NN	Number=Sing	6	obl	_	start_char=42|end_char=46
+11	.	.	PUNCT	.	_	4	punct	_	start_char=46|end_char=47
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=48|end_char=50
+2	God	God	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=51|end_char=54
+3	exists	exist	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=55|end_char=61
+4	,	,	PUNCT	,	_	8	punct	_	start_char=61|end_char=62
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=63|end_char=66
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=67|end_char=70
+7	so	so	ADV	RB	_	8	advmod	_	start_char=71|end_char=73
+8	petty	petty	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=79
+9	,	,	PUNCT	,	_	8	punct	_	start_char=79|end_char=80
+10	so	so	ADV	RB	_	12	advmod	_	start_char=81|end_char=83
+11	small	small	ADJ	JJ	Degree=Pos	12	amod	_	start_char=84|end_char=89
+12	minded	minded	ADJ	JJ	Degree=Pos	8	conj	_	start_char=90|end_char=96
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=97|end_char=100
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=101|end_char=109
+15	that	that	SCONJ	IN	_	17	mark	_	start_char=110|end_char=114
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=115|end_char=118
+17	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=119|end_char=122
+18	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=123|end_char=126
+19	to	to	PART	TO	_	20	mark	_	start_char=127|end_char=129
+20	make	make	VERB	VB	VerbForm=Inf	17	xcomp	_	start_char=130|end_char=134
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=135|end_char=139
+22	team	team	NOUN	NN	Number=Sing	20	obj	_	start_char=140|end_char=144
+23	win	win	VERB	VB	VerbForm=Inf	20	xcomp	_	start_char=145|end_char=148
+24	?	?	PUNCT	.	_	8	punct	_	start_char=148|end_char=149
+
+1	What	what	PRON	WP	PronType=Int	0	root	_	start_char=150|end_char=154
+2	in	in	ADP	IN	_	5	case	_	start_char=155|end_char=157
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=158|end_char=161
+4	actual	actual	ADJ	JJ	Degree=Pos	5	amod	_	start_char=162|end_char=168
+5	fuck	fuck	NOUN	NN	Number=Sing	1	nmod	_	start_char=169|end_char=173
+6	.	.	PUNCT	.	_	1	punct	_	start_char=173|end_char=174
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=175|end_char=177
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=177|end_char=179
+3	like	like	SCONJ	IN	_	5	mark	_	start_char=180|end_char=184
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=185|end_char=189
+5	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=190|end_char=194
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=195|end_char=200
+7	religion	religion	NOUN	NN	Number=Sing	11	nsubj	_	start_char=201|end_char=209
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=210|end_char=212
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=213|end_char=214
+10	complete	complete	ADJ	JJ	Degree=Pos	11	amod	_	start_char=215|end_char=223
+11	sham	sham	NOUN	NN	Number=Sing	5	ccomp	_	start_char=224|end_char=228
+12	.	.	PUNCT	.	_	2	punct	_	start_char=228|end_char=229
+

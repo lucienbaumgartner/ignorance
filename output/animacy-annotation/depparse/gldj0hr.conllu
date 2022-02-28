@@ -1,0 +1,36 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=7|end_char=9
+4	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=11
+5	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=12|end_char=21
+6	,	,	PUNCT	,	_	10	punct	_	start_char=21|end_char=22
+7	but	but	CCONJ	CC	_	10	cc	_	start_char=23|end_char=26
+8	that	that	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=27|end_char=31
+9	title	title	NOUN	NN	Number=Sing	10	nsubj	_	start_char=32|end_char=37
+10	echoes	echoe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=38|end_char=44
+11	what	what	PRON	WP	PronType=Int	13	obj	_	start_char=45|end_char=49
+12	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=50|end_char=53
+13	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	ccomp	_	start_char=54|end_char=58
+14	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	Very	very	ADV	RB	_	2	advmod	_	start_char=60|end_char=64
+2	anti	anti	ADJ	JJ	Degree=Pos	3	amod	_	start_char=65|end_char=69
+3	Semitic	Semitic	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=77
+4	,	,	PUNCT	,	_	6	punct	_	start_char=77|end_char=78
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=79|end_char=82
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=83|end_char=91
+7	.	.	PUNCT	.	_	3	punct	_	start_char=91|end_char=92
+
+1	**	**	PUNCT	NFP	_	3	punct	_	start_char=95|end_char=97
+2	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=97|end_char=101
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=102|end_char=106
+4	...**	...**	PUNCT	NFP	_	3	punct	_	start_char=106|end_char=111
+
+1	George	George	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=112|end_char=118
+2	Clinton	Clinton	PROPN	NNP	Number=Sing	1	flat	_	start_char=119|end_char=126
+3	definitely	definitely	ADV	RB	_	4	advmod	_	start_char=127|end_char=137
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=138|end_char=141
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=142|end_char=143
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	start_char=144|end_char=148
+7	one	one	NOUN	NN	Number=Sing	4	obj	_	start_char=149|end_char=152
+

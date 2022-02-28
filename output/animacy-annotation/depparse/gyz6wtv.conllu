@@ -1,0 +1,34 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=11
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=12|end_char=15
+4	dense	dense	ADJ	JJ	Degree=Pos	2	conj	_	start_char=16|end_char=21
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=22|end_char=25
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=26|end_char=29
+7	that	that	SCONJ	IN	_	11	mark	_	start_char=30|end_char=34
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=35|end_char=38
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=39|end_char=41
+10	n't	not	PART	RB	_	11	advmod	_	start_char=41|end_char=44
+11	see	see	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=45|end_char=48
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=49|end_char=52
+13	irony	irony	NOUN	NN	Number=Sing	11	obj	_	start_char=53|end_char=58
+14	of	of	ADP	IN	_	17	case	_	start_char=59|end_char=61
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=62|end_char=63
+16	Libertarian	Libertarian	ADJ	JJ	Degree=Pos	17	amod	_	start_char=64|end_char=75
+17	subreddit	subreddit	NOUN	NN	Number=Sing	13	nmod	_	start_char=76|end_char=85
+18	being	be	AUX	VBG	VerbForm=Ger	20	cop	_	start_char=86|end_char=91
+19	anti	anti	ADJ	JJ	Degree=Pos	20	amod	_	start_char=92|end_char=96
+20	speech	speech	NOUN	NN	Number=Sing	17	acl	_	start_char=97|end_char=103
+21	,	,	PUNCT	,	_	20	punct	_	start_char=103|end_char=104
+22	including	include	VERB	VBG	VerbForm=Ger	23	case	_	start_char=105|end_char=114
+23	trolls	troll	NOUN	NNS	Number=Plur	20	nmod	_	start_char=115|end_char=121
+24	?	?	PUNCT	.	_	2	punct	_	start_char=121|end_char=122
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=123|end_char=127
+2	sub	sub	NOUN	NN	Number=Sing	4	nsubj	_	start_char=128|end_char=131
+3	actually	actually	ADV	RB	_	4	advmod	_	start_char=132|end_char=140
+4	practices	practice	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=141|end_char=150
+5	what	what	PRON	WP	PronType=Int	4	obj	_	start_char=151|end_char=155
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=156|end_char=158
+7	preaches	preach	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=159|end_char=167
+8	.	.	PUNCT	.	_	4	punct	_	start_char=167|end_char=168
+

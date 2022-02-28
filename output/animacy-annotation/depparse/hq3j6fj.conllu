@@ -1,0 +1,26 @@
+1	lmfao	lmfao	INTJ	UH	_	4	discourse	_	start_char=0|end_char=5
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6|end_char=9
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=10|end_char=13
+4	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=14|end_char=21
+5	about	about	ADP	IN	_	6	case	_	start_char=22|end_char=27
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obl	_	start_char=28|end_char=30
+7	?	?	PUNCT	.	_	4	punct	_	start_char=30|end_char=31
+
+1	what	what	PRON	WP	PronType=Int	4	obj	_	start_char=32|end_char=36
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=37|end_char=41
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=42|end_char=43
+4	posted	post	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=44|end_char=50
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=51|end_char=55
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=56|end_char=58
+7	"	"	PUNCT	``	_	8	punct	_	start_char=59|end_char=60
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=60|end_char=68
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=69|end_char=72
+10	racist	racist	ADJ	JJ	Degree=Pos	8	conj	_	start_char=73|end_char=79
+11	"	"	PUNCT	''	_	8	punct	_	start_char=79|end_char=80
+12	?	?	PUNCT	.	_	8	punct	_	start_char=80|end_char=81
+
+1	Care	Care	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=82|end_char=86
+2	to	to	PART	TO	_	3	mark	_	start_char=87|end_char=89
+3	elaborate	elaborate	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=90|end_char=99
+4	?	?	PUNCT	.	_	1	punct	_	start_char=99|end_char=100
+

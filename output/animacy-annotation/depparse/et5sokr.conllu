@@ -1,0 +1,30 @@
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=8
+4	enough	enough	ADJ	JJ	Degree=Pos	3	advmod	_	start_char=9|end_char=15
+5	to	to	PART	TO	_	6	mark	_	start_char=16|end_char=18
+6	do	do	VERB	VB	VerbForm=Inf	4	acl	_	start_char=19|end_char=21
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=22|end_char=24
+8	to	to	ADP	IN	_	10	case	_	start_char=25|end_char=27
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=28|end_char=32
+10	kids	kid	NOUN	NNS	Number=Plur	6	obl	_	start_char=33|end_char=37
+11	,	,	PUNCT	,	_	14	punct	_	start_char=37|end_char=38
+12	but	but	CCONJ	CC	_	14	cc	_	start_char=39|end_char=42
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=43|end_char=47
+14	pet	pet	NOUN	NN	Number=Sing	10	conj	_	start_char=48|end_char=51
+15	?	?	PUNCT	.	_	3	punct	_	start_char=51|end_char=52
+
+1	there	there	PRON	EX	_	2	expl	_	start_char=53|end_char=58
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=59|end_char=62
+3	no	no	DET	DT	_	4	det	_	start_char=63|end_char=65
+4	words	word	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=66|end_char=71
+5	to	to	PART	TO	_	6	mark	_	start_char=72|end_char=74
+6	describe	describe	VERB	VB	VerbForm=Inf	4	acl	_	start_char=75|end_char=83
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=84|end_char=87
+8	cruel	cruel	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=88|end_char=93
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=94|end_char=97
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=98|end_char=106
+11	that	that	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	_	start_char=107|end_char=111
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=112|end_char=114
+13	.	.	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+

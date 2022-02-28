@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	pains	pain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=9|end_char=11
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=12|end_char=16
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=17|end_char=21
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=22|end_char=24
+7	real	real	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=25|end_char=29
+8	and	and	CCONJ	CC	_	11	cc	_	start_char=30|end_char=33
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=34|end_char=38
+10	there	there	PRON	EX	_	11	expl	_	start_char=39|end_char=44
+11	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	conj	_	start_char=45|end_char=48
+12	people	people	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=49|end_char=55
+13	who	who	PRON	WP	PronType=Rel	16	nsubj	_	start_char=56|end_char=59
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=60|end_char=63
+15	actually	actually	ADV	RB	_	16	advmod	_	start_char=64|end_char=72
+16	this	this	PRON	DT	Number=Sing|PronType=Dem	12	acl:relcl	_	start_char=73|end_char=77
+17	unaware	unaware	ADJ	JJ	Degree=Pos	12	acl:relcl	_	start_char=78|end_char=85
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=86|end_char=89
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=90|end_char=98
+20	.	.	PUNCT	.	_	2	punct	_	start_char=98|end_char=99
+
+1	Unbelievable	unbelievable	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=112
+

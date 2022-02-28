@@ -1,0 +1,24 @@
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=4|end_char=8
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=9|end_char=13
+4	clown	clown	NOUN	NN	Number=Sing	6	nsubj	_	start_char=14|end_char=19
+5	still	still	ADV	RB	_	6	advmod	_	start_char=20|end_char=25
+6	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=26|end_char=30
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=31|end_char=32
+8	show	show	NOUN	NN	Number=Sing	6	obj	_	start_char=33|end_char=37
+9	?	?	PUNCT	.	_	6	punct	_	start_char=37|end_char=38
+
+1	Also	also	ADV	RB	_	4	advmod	_	start_char=39|end_char=43
+2	Trump	Trump	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=44|end_char=49
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=50|end_char=52
+4	both	both	DET	DT	_	0	root	_	start_char=53|end_char=57
+5	of	of	ADP	IN	_	7	case	_	start_char=58|end_char=60
+6	those	that	DET	DT	Number=Plur|PronType=Dem	4	nmod	_	start_char=61|end_char=66
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	nmod	_	start_char=67|end_char=75
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=76|end_char=79
+9	evil	evil	ADJ	JJ	Degree=Pos	7	conj	_	start_char=80|end_char=84
+10	-	-	PUNCT	,	_	4	punct	_	start_char=85|end_char=86
+11	Just	just	ADV	RB	_	13	advmod	_	start_char=87|end_char=91
+12	like	like	ADP	IN	_	13	case	_	start_char=92|end_char=96
+13	Alex	Alex	PROPN	NNP	Number=Sing	4	nmod	_	start_char=97|end_char=101
+

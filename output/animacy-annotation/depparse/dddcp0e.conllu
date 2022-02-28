@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	author	author	NOUN	NN	Number=Sing	11	nsubj	_	start_char=4|end_char=10
+3	of	of	ADP	IN	_	5	case	_	start_char=11|end_char=13
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=14|end_char=17
+5	email	email	NOUN	NN	Number=Sing	2	nmod	_	start_char=18|end_char=23
+6	,	,	PUNCT	,	_	7	punct	_	start_char=23|end_char=24
+7	Bill	Bill	PROPN	NNP	Number=Sing	5	appos	_	start_char=25|end_char=29
+8	Ivey	Ivey	PROPN	NNP	Number=Sing	7	flat	_	start_char=30|end_char=34
+9	,	,	PUNCT	,	_	2	punct	_	start_char=34|end_char=35
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=36|end_char=38
+11	criticizing	criticize	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=39|end_char=50
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=51|end_char=54
+13	production	production	NOUN	NN	Number=Sing	11	obj	_	start_char=55|end_char=65
+14	of	of	ADP	IN	_	20	case	_	start_char=66|end_char=68
+15	an	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=69|end_char=71
+16	"	"	PUNCT	``	_	20	punct	_	start_char=72|end_char=73
+17	unaware	unaware	ADJ	JJ	Degree=Pos	20	amod	_	start_char=73|end_char=80
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=81|end_char=84
+19	compliant	compliant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=85|end_char=94
+20	citizenry	citizenry	NOUN	NN	Number=Sing	13	nmod	_	start_char=95|end_char=104
+21	"	"	PUNCT	''	_	20	punct	_	start_char=104|end_char=105
+22	.	.	PUNCT	.	_	11	punct	_	start_char=105|end_char=106
+

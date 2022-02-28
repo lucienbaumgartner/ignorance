@@ -1,0 +1,8 @@
+1	Short	short	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=5
+2	sighted	sight	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=13
+3	,	,	PUNCT	,	_	4	punct	_	start_char=13|end_char=14
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	rude	rude	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=32
+7	.	.	PUNCT	.	_	2	punct	_	start_char=32|end_char=33
+

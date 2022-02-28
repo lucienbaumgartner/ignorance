@@ -1,0 +1,18 @@
+1	Why	why	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=4|end_char=6
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=7|end_char=11
+4	grandma	grandma	NOUN	NN	Number=Sing	6	nsubj	_	start_char=12|end_char=19
+5	so	so	ADV	RB	_	6	advmod	_	start_char=20|end_char=22
+6	callous	callous	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=44|end_char=48
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=49|end_char=52
+11	wo	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=53|end_char=55
+12	n't	not	PART	RB	_	13	advmod	_	start_char=55|end_char=58
+13	get	get	VERB	VB	VerbForm=Inf	8	ccomp	_	start_char=59|end_char=62
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=63|end_char=66
+15	vaccine	vaccine	NOUN	NN	Number=Sing	13	obj	_	start_char=67|end_char=74
+16	herself	herself	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obl:npmod	_	start_char=75|end_char=82
+17	?	?	PUNCT	.	_	6	punct	_	start_char=82|end_char=83
+

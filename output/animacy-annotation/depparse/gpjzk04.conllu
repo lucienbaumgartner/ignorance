@@ -1,0 +1,14 @@
+1	Ad.	Ad.	PROPN	NNP	Number=Sing	3	compound	_	start_char=0|end_char=3
+2	agency	agency	NOUN	NN	Number=Sing	3	compound	_	start_char=4|end_char=10
+3	folks	folk	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=11|end_char=16
+4	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=22
+5	consumers	consumer	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=23|end_char=32
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=33|end_char=36
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=37|end_char=43
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=44|end_char=47
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=48|end_char=55
+10	of	of	ADP	IN	_	12	case	_	start_char=56|end_char=58
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=59|end_char=62
+12	obvious	obvious	ADJ	JJ	Degree=Pos	9	obl	_	start_char=63|end_char=70
+13	.	.	PUNCT	.	_	4	punct	_	start_char=70|end_char=71
+

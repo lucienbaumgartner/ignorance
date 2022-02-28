@@ -1,0 +1,44 @@
+1	with	with	ADP	IN	_	3	case	_	start_char=0|end_char=4
+2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=5|end_char=8
+3	knee	knee	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=13
+4	against	against	ADP	IN	_	6	case	_	start_char=14|end_char=21
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=22|end_char=25
+6	spine	spine	NOUN	NN	Number=Sing	3	nmod	_	start_char=26|end_char=31
+7	?	?	PUNCT	.	_	3	punct	_	start_char=31|end_char=32
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=34|end_char=35
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=36|end_char=40
+3	have	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=41|end_char=45
+4	missed	miss	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=46|end_char=52
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=53|end_char=57
+6	.	.	PUNCT	.	_	4	punct	_	start_char=57|end_char=58
+
+1	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=59|end_char=62
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	_	start_char=63|end_char=66
+3	mentally	mentally	ADV	RB	_	4	advmod	_	start_char=67|end_char=75
+4	challenged	challenge	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=76|end_char=86
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=87|end_char=90
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=91|end_char=98
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=99|end_char=103
+8	knees	knee	NOUN	NNS	Number=Plur	10	nsubj:pass	_	start_char=104|end_char=109
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	start_char=110|end_char=113
+10	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	ccomp	_	start_char=114|end_char=121
+11	in	in	ADP	IN	_	14	case	_	start_char=122|end_char=124
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=125|end_char=129
+13	lower	low	ADJ	JJR	Degree=Cmp	14	amod	_	start_char=130|end_char=135
+14	body	body	NOUN	NN	Number=Sing	10	obl	_	start_char=136|end_char=140
+15	or	or	CCONJ	CC	_	18	cc	_	start_char=141|end_char=143
+16	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=144|end_char=148
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	start_char=149|end_char=150
+18	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=151|end_char=155
+19	all	all	DET	PDT	_	21	det:predet	_	start_char=156|end_char=159
+20	these	this	DET	DT	Number=Plur|PronType=Dem	21	det	_	start_char=160|end_char=165
+21	years	year	NOUN	NNS	Number=Plur	23	obl:npmod	_	start_char=166|end_char=171
+22	completely	completely	ADV	RB	_	23	advmod	_	start_char=172|end_char=182
+23	unaware	unaware	ADJ	JJ	Degree=Pos	18	xcomp	_	start_char=183|end_char=190
+24	of	of	ADP	IN	_	25	case	_	start_char=191|end_char=193
+25	what	what	DET	WDT	PronType=Int	23	obl	_	start_char=194|end_char=198
+26	knees	knee	NOUN	NNS	Number=Plur	27	nsubj	_	start_char=199|end_char=204
+27	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	start_char=205|end_char=208
+28	.	.	PUNCT	.	_	4	punct	_	start_char=208|end_char=209
+

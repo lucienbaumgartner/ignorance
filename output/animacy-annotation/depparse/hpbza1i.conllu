@@ -1,0 +1,14 @@
+1	Oh	oh	INTJ	UH	_	6	discourse	_	start_char=0|end_char=2
+2	okay	okay	INTJ	UH	_	6	discourse	_	start_char=3|end_char=7
+3	so	so	ADV	RB	_	6	advmod	_	start_char=8|end_char=10
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=11|end_char=14
+5	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=14|end_char=17
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=26
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=27|end_char=30
+8	fat	fat	ADJ	JJ	Degree=Pos	9	advmod	_	start_char=31|end_char=34
+9	phobic	phobic	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=41
+10	,	,	PUNCT	,	_	11	punct	_	start_char=41|end_char=42
+11	got	get	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	start_char=43|end_char=46
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=47|end_char=49
+13	.	.	PUNCT	.	_	6	punct	_	start_char=49|end_char=50
+

@@ -1,0 +1,34 @@
+1	Common	common	ADJ	JJ	Degree=Pos	3	amod	_	start_char=0|end_char=6
+2	Chinese	Chinese	ADJ	JJ	Degree=Pos	3	amod	_	start_char=7|end_char=14
+3	people	people	NOUN	NNS	Number=Plur	7	nsubj:pass	_	start_char=15|end_char=21
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=22|end_char=24
+5	not	not	PART	RB	_	7	advmod	_	start_char=25|end_char=28
+6	be	be	AUX	VB	VerbForm=Inf	7	aux:pass	_	start_char=29|end_char=31
+7	blamed	blame	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=32|end_char=38
+8	here	here	ADV	RB	PronType=Dem	7	advmod	_	start_char=39|end_char=43
+9	.	.	PUNCT	.	_	7	punct	_	start_char=43|end_char=44
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=45|end_char=49
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=50|end_char=53
+3	so	so	ADV	RB	_	4	advmod	_	start_char=54|end_char=56
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=57|end_char=62
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=63|end_char=66
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=67|end_char=75
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=76|end_char=80
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=81|end_char=83
+9	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=84|end_char=89
+10	surprise	surprise	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=90|end_char=98
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=99|end_char=102
+12	.	.	PUNCT	.	_	4	punct	_	start_char=102|end_char=103
+
+1	Years	year	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=104|end_char=109
+2	of	of	SCONJ	IN	_	3	mark	_	start_char=110|end_char=112
+3	brainwashing	brainwashing	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=113|end_char=125
+4	somewhat	somewhat	ADV	RB	_	5	advmod	_	start_char=126|end_char=134
+5	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=135|end_char=139
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	start_char=140|end_char=144
+7	out	out	ADP	IN	_	9	case	_	start_char=145|end_char=148
+8	of	of	ADP	IN	_	9	case	_	start_char=149|end_char=151
+9	reality	reality	NOUN	NN	Number=Sing	5	obl	_	start_char=152|end_char=159
+10	.	.	PUNCT	.	_	5	punct	_	start_char=159|end_char=160
+

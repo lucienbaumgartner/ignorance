@@ -1,0 +1,55 @@
+1	Well	well	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	what	what	PRON	WP	PronType=Int	5	obj	_	start_char=5|end_char=9
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=10|end_char=12
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=13|end_char=16
+5	expect	expect	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=23
+6	.	.	PUNCT	.	_	5	punct	_	start_char=23|end_char=24
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=25|end_char=30
+2	cops	cop	NOUN	NNS	Number=Plur	5	nsubj:pass	_	start_char=31|end_char=35
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=36|end_char=39
+4	poorly	poorly	ADV	RB	_	5	advmod	_	start_char=40|end_char=46
+5	trained	train	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=47|end_char=54
+6	,	,	PUNCT	,	_	7	punct	_	start_char=54|end_char=55
+7	trigger	trigger	VERB	VB	VerbForm=Inf	5	conj	_	start_char=56|end_char=63
+8	happy	happy	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=64|end_char=69
+9	,	,	PUNCT	,	_	11	punct	_	start_char=69|end_char=70
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=71|end_char=74
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=75|end_char=83
+12	of	of	ADP	IN	_	14	case	_	start_char=84|end_char=86
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=87|end_char=90
+14	law	law	NOUN	NN	Number=Sing	11	obl	_	start_char=91|end_char=94
+15	.	.	PUNCT	.	_	5	punct	_	start_char=94|end_char=95
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=96|end_char=99
+2	worst	bad	ADJ	JJS	Degree=Sup	3	amod	_	start_char=100|end_char=105
+3	crime	crime	NOUN	NN	Number=Sing	10	nsubj	_	start_char=106|end_char=111
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=112|end_char=115
+5	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=116|end_char=119
+6	commit	commit	VERB	VB	VerbForm=Inf	3	acl:relcl	_	start_char=120|end_char=126
+7	in	in	ADP	IN	_	8	case	_	start_char=127|end_char=129
+8	America	America	PROPN	NNP	Number=Sing	6	obl	_	start_char=130|end_char=137
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=138|end_char=140
+10	disrespting	disrespt	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=141|end_char=152
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=153|end_char=154
+12	police	police	NOUN	NN	Number=Sing	13	compound	_	start_char=155|end_char=161
+13	officer	officer	NOUN	NN	Number=Sing	10	obj	_	start_char=162|end_char=169
+14	.	.	PUNCT	.	_	10	punct	_	start_char=169|end_char=170
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=171|end_char=174
+2	these	this	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=175|end_char=180
+3	thugs	thug	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=181|end_char=186
+4	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=187|end_char=190
+5	basic	basic	ADJ	JJ	Degree=Pos	7	amod	_	start_char=191|end_char=196
+6	human	human	ADJ	JJ	Degree=Pos	7	amod	_	start_char=197|end_char=202
+7	decency	decency	NOUN	NN	Number=Sing	4	obj	_	start_char=203|end_char=210
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=211|end_char=214
+9	respect	respect	NOUN	NN	Number=Sing	7	conj	_	start_char=215|end_char=222
+10	as	as	ADP	IN	_	12	case	_	start_char=223|end_char=225
+11	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=226|end_char=228
+12	affront	affront	NOUN	NN	Number=Sing	4	obl	_	start_char=229|end_char=236
+13	to	to	ADP	IN	_	15	case	_	start_char=237|end_char=239
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=240|end_char=245
+15	honor	honor	NOUN	NN	Number=Sing	12	nmod	_	start_char=246|end_char=251
+16	.	.	PUNCT	.	_	4	punct	_	start_char=251|end_char=252
+

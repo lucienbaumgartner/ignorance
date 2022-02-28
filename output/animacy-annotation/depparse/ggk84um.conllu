@@ -1,0 +1,15 @@
+1	Can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	someone	someone	PRON	NN	Number=Sing	4	nsubj:pass	_	start_char=4|end_char=11
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	start_char=12|end_char=14
+4	infected	infect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=15|end_char=23
+5	,	,	PUNCT	,	_	6	punct	_	start_char=23|end_char=24
+6	infectious	infectious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=25|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=40|end_char=47
+9	of	of	ADP	IN	_	11	case	_	start_char=48|end_char=50
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=51|end_char=56
+11	infection	infection	NOUN	NN	Number=Sing	8	obl	_	start_char=57|end_char=66
+12	with	with	ADP	IN	_	13	case	_	start_char=67|end_char=71
+13	coronavirus	coronavirus	NOUN	NN	Number=Sing	11	nmod	_	start_char=72|end_char=83
+14	?	?	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+

@@ -1,0 +1,45 @@
+1	Hello	hello	INTJ	UH	_	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=7|end_char=8
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=8|end_char=11
+3	anaesthetised	anaesthetise	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=12|end_char=25
+4	for	for	ADP	IN	_	7	case	_	start_char=26|end_char=29
+5	ECT	ect	ADV	RB	_	6	advmod	_	start_char=30|end_char=33
+6	many	many	ADJ	JJ	Degree=Pos	7	amod	_	start_char=34|end_char=38
+7	times	time	NOUN	NNS	Number=Plur	3	obl	_	start_char=39|end_char=44
+8	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=46|end_char=49
+2	patient	patient	NOUN	NN	Number=Sing	4	nsubj	_	start_char=50|end_char=57
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=58|end_char=60
+4	asleep	asleep	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=67
+5	,	,	PUNCT	,	_	7	punct	_	start_char=67|end_char=68
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=69|end_char=72
+7	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=73|end_char=80
+8	of	of	ADP	IN	_	10	case	_	start_char=81|end_char=83
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=84|end_char=87
+10	procedure	procedure	NOUN	NN	Number=Sing	7	obl	_	start_char=88|end_char=97
+11	.	.	PUNCT	.	_	4	punct	_	start_char=97|end_char=98
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj:pass	_	start_char=99|end_char=103
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	start_char=103|end_char=106
+3	also	also	ADV	RB	_	5	advmod	_	start_char=107|end_char=111
+4	not	not	PART	RB	_	5	advmod	_	start_char=112|end_char=115
+5	strapped	strap	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=116|end_char=124
+6	down	down	ADP	RP	_	5	compound:prt	_	start_char=125|end_char=129
+7	...	...	PUNCT	.	_	5	punct	_	start_char=129|end_char=132
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=134|end_char=138
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=139|end_char=142
+3	just	just	ADV	RB	_	4	advmod	_	start_char=143|end_char=147
+4	watched	watch	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=148|end_char=155
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=156|end_char=157
+6	horror	horror	NOUN	NN	Number=Sing	7	compound	_	start_char=158|end_char=164
+7	film	film	NOUN	NN	Number=Sing	4	obj	_	start_char=165|end_char=169
+8	,	,	PUNCT	,	_	10	punct	_	start_char=169|end_char=170
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=171|end_char=174
+10	gotten	get	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	start_char=175|end_char=181
+11	confused	confused	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=182|end_char=190
+12	?	?	PUNCT	.	_	4	punct	_	start_char=190|end_char=191
+

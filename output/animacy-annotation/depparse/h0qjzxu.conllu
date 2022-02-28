@@ -1,0 +1,30 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	2	aux	_	start_char=0|end_char=5
+2	overgeneralising	overgeneralise	VERB	VBG	Tense=Pres|VerbForm=Part	18	csubj	_	start_char=6|end_char=22
+3	,	,	PUNCT	,	_	4	punct	_	start_char=22|end_char=23
+4	dismissive	dismissive	ADJ	JJ	Degree=Pos	2	conj	_	start_char=24|end_char=34
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=35|end_char=38
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=39|end_char=47
+7	of	of	ADP	IN	_	8	case	_	start_char=48|end_char=50
+8	something	something	PRON	NN	Number=Sing	6	obl	_	start_char=51|end_char=60
+9	due	due	ADP	IN	_	11	case	_	start_char=61|end_char=64
+10	to	to	ADP	IN	_	9	fixed	_	start_char=65|end_char=67
+11	potential	potential	NOUN	NN	Number=Sing	8	nmod	_	start_char=68|end_char=77
+12	(	(	PUNCT	-LRB-	_	16	punct	_	start_char=78|end_char=79
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=79|end_char=82
+14	not	not	PART	RB	_	16	advmod	_	start_char=83|end_char=86
+15	even	even	ADV	RB	_	16	advmod	_	start_char=87|end_char=91
+16	correct	correct	ADJ	JJ	Degree=Pos	11	conj	_	start_char=92|end_char=99
+17	)	)	PUNCT	-RRB-	_	16	punct	_	start_char=99|end_char=100
+18	affiliation	affiliation	NOUN	NN	Number=Sing	0	root	_	start_char=101|end_char=112
+19	with	with	ADP	IN	_	21	case	_	start_char=113|end_char=117
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=118|end_char=119
+21	group	group	NOUN	NN	Number=Sing	18	nmod	_	start_char=120|end_char=125
+
+1	Now	now	ADV	RB	_	5	advmod	_	start_char=128|end_char=131
+2	where	where	ADV	WRB	PronType=Int	5	advmod	_	start_char=132|end_char=137
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=138|end_char=142
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=143|end_char=144
+5	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=145|end_char=150
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=151|end_char=155
+7	before	before	ADV	RB	Degree=Pos	5	advmod	_	start_char=156|end_char=162
+

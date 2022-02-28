@@ -1,0 +1,30 @@
+1	Assuming	assume	VERB	VBG	VerbForm=Ger	12	csubj	_	start_char=0|end_char=8
+2	someone	someone	PRON	NN	Number=Sing	5	nsubj	_	start_char=9|end_char=16
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=17|end_char=21
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=21|end_char=24
+5	care	care	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=25|end_char=29
+6	about	about	ADP	IN	_	7	case	_	start_char=30|end_char=35
+7	someone	someone	NOUN	NN	Number=Sing	5	obl	_	start_char=36|end_char=43
+8	because	because	SCONJ	IN	_	10	mark	_	start_char=44|end_char=51
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=52|end_char=56
+10	cheated	cheat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	advcl	_	start_char=57|end_char=64
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=65|end_char=67
+12	cruel	cruel	ADJ	JJ	Degree=Pos	0	root	_	start_char=68|end_char=73
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=74|end_char=77
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	conj	_	start_char=78|end_char=86
+15	of	of	ADP	IN	_	17	case	_	start_char=87|end_char=89
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=90|end_char=93
+17	reasons	reason	NOUN	NNS	Number=Plur	14	obl	_	start_char=94|end_char=101
+18	why	why	SCONJ	WRB	PronType=Int	20	mark	_	start_char=102|end_char=105
+19	people	people	NOUN	NNS	Number=Plur	20	nsubj	_	start_char=106|end_char=112
+20	cheat	cheat	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=113|end_char=118
+21	.	.	PUNCT	.	_	5	punct	_	start_char=118|end_char=119
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=120|end_char=123
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=124|end_char=127
+3	love	love	VERB	VB	VerbForm=Inf	0	root	_	start_char=128|end_char=132
+4	someone	someone	PRON	NN	Number=Sing	3	obj	_	start_char=133|end_char=140
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=141|end_char=144
+6	cheat	cheat	VERB	VB	VerbForm=Inf	3	conj	_	start_char=145|end_char=150
+7	.	.	PUNCT	.	_	3	punct	_	start_char=150|end_char=151
+

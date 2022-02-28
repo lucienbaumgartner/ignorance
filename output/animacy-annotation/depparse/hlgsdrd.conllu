@@ -1,0 +1,17 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	trashy	trashy	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=18
+4	….	..	PUNCT	.	_	1	punct	_	start_char=18|end_char=20
+
+1	Yep	yep	INTJ	UH	_	7	discourse	_	start_char=21|end_char=24
+2	,	,	PUNCT	,	_	7	punct	_	start_char=24|end_char=25
+3	Memaw	Memaw	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=26|end_char=31
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=32|end_char=35
+5	John	John	PROPN	NNP	Number=Sing	3	conj	_	start_char=36|end_char=40
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=41|end_char=44
+7	two	two	NUM	CD	NumType=Card	0	root	_	start_char=45|end_char=48
+8	of	of	ADP	IN	_	10	case	_	start_char=49|end_char=51
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=52|end_char=55
+10	same	same	ADJ	JJ	Degree=Pos	7	nmod	_	start_char=56|end_char=60
+11	.	.	PUNCT	.	_	7	punct	_	start_char=60|end_char=61
+

@@ -1,0 +1,26 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	comment	comment	NOUN	NN	Number=Sing	6	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=13|end_char=15
+4	so	so	ADV	RB	_	5	advmod	_	start_char=16|end_char=18
+5	laughably	laughably	ADV	RB	_	6	advmod	_	start_char=19|end_char=28
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=49
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=50|end_char=54
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=55|end_char=56
+11	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=56|end_char=58
+12	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	start_char=59|end_char=64
+13	to	to	PART	TO	_	14	mark	_	start_char=65|end_char=67
+14	assume	assume	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=68|end_char=74
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=75|end_char=78
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=79|end_char=82
+17	just	just	ADV	RB	_	18	advmod	_	start_char=83|end_char=87
+18	trolling	trol	VERB	VBG	Tense=Pres|VerbForm=Part	14	ccomp	_	start_char=88|end_char=96
+19	now	now	ADV	RB	_	18	advmod	_	start_char=97|end_char=100
+20	.	.	PUNCT	.	_	6	punct	_	start_char=100|end_char=101
+
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=102|end_char=107
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=108|end_char=111
+3	troll	troll	NOUN	NN	Number=Sing	1	obj	_	start_char=112|end_char=117
+4	.	.	PUNCT	.	_	1	punct	_	start_char=117|end_char=118
+

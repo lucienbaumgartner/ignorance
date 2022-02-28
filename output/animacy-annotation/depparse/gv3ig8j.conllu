@@ -1,0 +1,25 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=0|end_char=4
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=8
+3	to	to	PART	TO	_	5	mark	_	start_char=9|end_char=11
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=12|end_char=14
+5	fake	fake	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=15|end_char=19
+6	.	.	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=21|end_char=22
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=23|end_char=25
+3	n't	not	PART	RB	_	4	advmod	_	start_char=25|end_char=28
+4	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=29|end_char=33
+5	to	to	PART	TO	_	6	mark	_	start_char=34|end_char=36
+6	believe	believe	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=37|end_char=44
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=45|end_char=46
+8	real	real	ADJ	JJ	Degree=Pos	9	amod	_	start_char=47|end_char=51
+9	person	person	NOUN	NN	Number=Sing	13	nsubj	_	start_char=52|end_char=58
+10	could	could	AUX	MD	VerbForm=Fin	13	aux	_	start_char=59|end_char=64
+11	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=65|end_char=67
+12	THIS	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=68|end_char=72
+13	terrible	terrible	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=73|end_char=81
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=82|end_char=85
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=86|end_char=93
+16	of	of	ADP	IN	_	17	case	_	start_char=94|end_char=96
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obl	_	start_char=97|end_char=99
+

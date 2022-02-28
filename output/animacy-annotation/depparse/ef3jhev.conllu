@@ -1,0 +1,28 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	fought	fight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	for	for	ADP	IN	_	5	case	_	start_char=10|end_char=13
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=14|end_char=17
+5	safety	safety	NOUN	NN	Number=Sing	2	obl	_	start_char=18|end_char=24
+6	,	,	PUNCT	,	_	10	punct	_	start_char=24|end_char=25
+7	or	or	CCONJ	CC	_	10	cc	_	start_char=26|end_char=28
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=29|end_char=32
+9	forefathers	forefather	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=33|end_char=44
+10	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=45|end_char=48
+11	,	,	PUNCT	,	_	15	punct	_	start_char=48|end_char=49
+12	so	so	ADV	RB	_	15	advmod	_	start_char=50|end_char=52
+13	everyone	everyone	PRON	NN	Number=Sing	15	nsubj	_	start_char=53|end_char=61
+14	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=62|end_char=65
+15	come	come	VERB	VB	VerbForm=Inf	2	conj	_	start_char=66|end_char=70
+16	?	?	PUNCT	.	_	2	punct	_	start_char=70|end_char=71
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=72|end_char=74
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=75|end_char=78
+3	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=79|end_char=86
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=87|end_char=90
+5	juvenile	juvenile	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=91|end_char=99
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=100|end_char=103
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=104|end_char=112
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=113|end_char=117
+9	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=118|end_char=124
+10	?	?	PUNCT	.	_	3	punct	_	start_char=124|end_char=125
+

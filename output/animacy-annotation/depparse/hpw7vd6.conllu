@@ -1,0 +1,51 @@
+1	i'd	i'd	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	hear	hear	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=16
+5	what	what	PRON	WP	PronType=Int	4	obj	_	start_char=17|end_char=21
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=22|end_char=25
+7	honestly	honestly	ADV	RB	_	8	advmod	_	start_char=26|end_char=34
+8	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=35|end_char=42
+9	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	what	what	PRON	WP	PronType=Int	2	nsubj	_	start_char=44|end_char=48
+2	gain	gain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=49|end_char=53
+3	do	do	VERB	VB	Mood=Ind|VerbForm=Inf	2	xcomp	_	start_char=54|end_char=56
+4	"	"	PUNCT	``	_	5	punct	_	start_char=57|end_char=58
+5	billionares	billionare	NOUN	NNS	Number=Plur	3	obj	_	start_char=58|end_char=69
+6	"	"	PUNCT	''	_	5	punct	_	start_char=69|end_char=70
+7	get	get	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=71|end_char=74
+8	from	from	SCONJ	IN	_	9	mark	_	start_char=75|end_char=79
+9	controlling	control	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=80|end_char=91
+10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=92|end_char=95
+11	federal	federal	ADJ	JJ	Degree=Pos	12	amod	_	start_char=96|end_char=103
+12	crime	crime	NOUN	NN	Number=Sing	13	compound	_	start_char=104|end_char=109
+13	stats	stat	NOUN	NNS	Number=Plur	9	obj	_	start_char=110|end_char=115
+14	?	?	PUNCT	.	_	2	punct	_	start_char=115|end_char=116
+
+1	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=117|end_char=121
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=122|end_char=125
+3	EVER	ever	ADV	RB	_	4	advmod	_	start_char=126|end_char=130
+4	lived	live	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=131|end_char=136
+5	or	or	CCONJ	CC	_	11	cc	_	start_char=137|end_char=139
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	cop	_	start_char=140|end_char=144
+7	near	near	ADP	IN	_	11	case	_	start_char=145|end_char=149
+8	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=150|end_char=151
+9	major	major	ADJ	JJ	Degree=Pos	11	amod	_	start_char=152|end_char=157
+10	urban	urban	ADJ	JJ	Degree=Pos	11	amod	_	start_char=158|end_char=163
+11	city	city	NOUN	NN	Number=Sing	4	conj	_	start_char=164|end_char=168
+12	?	?	PUNCT	.	_	4	punct	_	start_char=168|end_char=169
+
+1	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=170|end_char=173
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=174|end_char=180
+3	try	try	VERB	VB	VerbForm=Inf	0	root	_	start_char=181|end_char=184
+4	touching	touch	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=185|end_char=193
+5	glass	glass	NOUN	NN	Number=Sing	4	obj	_	start_char=194|end_char=199
+6	,	,	PUNCT	,	_	8	punct	_	start_char=199|end_char=200
+7	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	start_char=201|end_char=204
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=205|end_char=213
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=214|end_char=217
+10	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	_	start_char=218|end_char=227
+11	moron	moron	NOUN	NN	Number=Sing	5	conj	_	start_char=228|end_char=233
+12	.	.	PUNCT	.	_	3	punct	_	start_char=233|end_char=234
+

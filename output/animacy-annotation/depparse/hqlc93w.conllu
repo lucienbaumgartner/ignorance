@@ -1,0 +1,26 @@
+1	Ah	ah	INTJ	UH	_	4	discourse	_	start_char=0|end_char=2
+2	so	so	ADV	RB	_	4	advmod	_	start_char=3|end_char=5
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=8
+4	agree	agree	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=9|end_char=14
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=15|end_char=18
+6	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=18|end_char=21
+7	hateful	hateful	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=22|end_char=29
+8	,	,	PUNCT	,	_	9	punct	_	start_char=29|end_char=30
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=31|end_char=39
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=40|end_char=43
+11	phobic	phobic	ADJ	JJ	Degree=Pos	7	conj	_	start_char=44|end_char=50
+12	then	then	ADV	RB	PronType=Dem	7	advmod	_	start_char=51|end_char=55
+13	.	.	PUNCT	.	_	4	punct	_	start_char=55|end_char=56
+
+1	At	at	ADP	IN	_	9	advmod	_	start_char=57|end_char=59
+2	least	least	ADJ	JJS	Degree=Sup	1	fixed	_	start_char=60|end_char=65
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=66|end_char=69
+4	can	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=70|end_char=73
+5	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=74|end_char=76
+6	right	right	ADV	RB	_	9	advmod	_	start_char=77|end_char=82
+7	about	about	ADV	RB	_	8	advmod	_	start_char=83|end_char=88
+8	one	one	NUM	CD	NumType=Card	9	nummod	_	start_char=89|end_char=92
+9	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=93|end_char=98
+10	today	today	NOUN	NN	Number=Sing	9	obl:tmod	_	start_char=99|end_char=104
+11	.	.	PUNCT	.	_	9	punct	_	start_char=104|end_char=105
+

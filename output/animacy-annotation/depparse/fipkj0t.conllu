@@ -1,0 +1,25 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=0|end_char=3
+2	US	US	PROPN	NNP	Number=Sing	3	compound	_	start_char=4|end_char=6
+3	education	education	NOUN	NN	Number=Sing	4	compound	_	start_char=7|end_char=16
+4	system	system	NOUN	NN	Number=Sing	7	nsubj	_	start_char=17|end_char=23
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=24|end_char=26
+6	intentionally	intentionally	ADV	RB	_	7	advmod	_	start_char=27|end_char=40
+7	bad	bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=44
+8	to	to	PART	TO	_	9	mark	_	start_char=45|end_char=47
+9	keep	keep	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=48|end_char=52
+10	people	people	NOUN	NNS	Number=Plur	9	obj	_	start_char=53|end_char=59
+11	dumb	dumb	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=60|end_char=64
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=65|end_char=68
+13	poor	poor	ADJ	JJ	Degree=Pos	11	conj	_	start_char=69|end_char=73
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=74|end_char=77
+15	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=78|end_char=85
+16	that	that	SCONJ	IN	_	19	mark	_	start_char=86|end_char=90
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=91|end_char=95
+18	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=95|end_char=98
+19	voting	voting	VERB	VBG	Tense=Pres|VerbForm=Part	15	ccomp	_	start_char=99|end_char=105
+20	against	against	ADP	IN	_	23	case	_	start_char=106|end_char=113
+21	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=114|end_char=119
+22	best	good	ADJ	JJS	Degree=Sup	23	amod	_	start_char=120|end_char=124
+23	interests	interest	NOUN	NNS	Number=Plur	19	obl	_	start_char=125|end_char=134
+24	.	.	PUNCT	.	_	7	punct	_	start_char=134|end_char=135
+

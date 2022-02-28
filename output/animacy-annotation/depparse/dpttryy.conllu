@@ -1,0 +1,33 @@
+1	&gt	&gt	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=5|end_char=6
+4	disagree	disagree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=15
+5	with	with	ADP	IN	_	8	case	_	start_char=16|end_char=20
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=21|end_char=26
+7	tax	tax	NOUN	NN	Number=Sing	8	compound	_	start_char=27|end_char=30
+8	hypocrisy	hypocrisy	NOUN	NN	Number=Sing	4	obl	_	start_char=31|end_char=40
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=42|end_char=43
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=43|end_char=45
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=53
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=54|end_char=57
+5	uninformed	uninformed	ADJ	JJ	Degree=Pos	3	conj	_	start_char=58|end_char=68
+6	-	-	PUNCT	,	_	3	punct	_	start_char=69|end_char=70
+7	what	what	PRON	WP	PronType=Int	10	obj	_	start_char=71|end_char=75
+8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=76|end_char=80
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=81|end_char=85
+10	said	say	VERB	VBN	Tense=Past|VerbForm=Part	3	parataxis	_	start_char=86|end_char=90
+11	about	about	ADP	IN	_	12	case	_	start_char=91|end_char=96
+12	taxes	tax	NOUN	NNS	Number=Plur	10	obl	_	start_char=97|end_char=102
+13	?	?	PUNCT	.	_	3	punct	_	start_char=102|end_char=103
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=104|end_char=105
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=106|end_char=113
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=114|end_char=118
+4	just	just	ADV	RB	_	5	advmod	_	start_char=119|end_char=123
+5	focused	focus	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=124|end_char=131
+6	on	on	ADP	IN	_	8	case	_	start_char=132|end_char=134
+7	foreign	foreign	ADJ	JJ	Degree=Pos	8	amod	_	start_char=135|end_char=142
+8	aid	aid	NOUN	NN	Number=Sing	5	obl	_	start_char=143|end_char=146
+9	...	...	PUNCT	.	_	2	punct	_	start_char=146|end_char=149
+

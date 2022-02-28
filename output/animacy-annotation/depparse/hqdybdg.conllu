@@ -1,0 +1,17 @@
+1	Oh	oh	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+3	Well	well	INTJ	UH	_	1	discourse	_	start_char=4|end_char=8
+4	.	.	PUNCT	.	_	1	punct	_	start_char=8|end_char=9
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=10|end_char=13
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=16
+3	not	not	PART	RB	Polarity=Neg	2	advmod	_	start_char=17|end_char=20
+4	.	.	PUNCT	.	_	2	punct	_	start_char=20|end_char=21
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=22|end_char=25
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=25|end_char=28
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=37
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=38|end_char=41
+5	mediocre	mediocre	ADJ	JJ	Degree=Pos	3	conj	_	start_char=42|end_char=50
+6	.	.	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+

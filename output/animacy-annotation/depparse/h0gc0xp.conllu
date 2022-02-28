@@ -1,0 +1,14 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	blind	blind	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	of	of	ADP	IN	_	8	case	_	start_char=36|end_char=38
+8	reality	reality	NOUN	NN	Number=Sing	6	obl	_	start_char=39|end_char=46
+9	that	that	PRON	WDT	PronType=Rel	11	obj	_	start_char=47|end_char=51
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=52|end_char=55
+11	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=56|end_char=58
+12	n't	not	PART	RB	_	11	advmod	_	start_char=58|end_char=61
+13	.	.	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+

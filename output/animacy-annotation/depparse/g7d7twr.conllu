@@ -1,0 +1,27 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	6	advmod	_	start_char=14|end_char=16
+4	self	self	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=17|end_char=21
+5	-	-	PUNCT	HYPH	_	6	punct	_	start_char=21|end_char=22
+6	important	important	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=22|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=36|end_char=44
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=45|end_char=49
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=50|end_char=53
+11	expect	expect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=54|end_char=60
+12	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=61|end_char=62
+13	late	late	ADJ	JJ	Degree=Pos	17	amod	_	start_char=63|end_char=67
+14	night	night	NOUN	NN	Number=Sing	15	compound	_	start_char=68|end_char=73
+15	talk	talk	NOUN	NN	Number=Sing	16	compound	_	start_char=74|end_char=78
+16	show	show	NOUN	NN	Number=Sing	17	compound	_	start_char=79|end_char=83
+17	host	host	NOUN	NN	Number=Sing	11	obj	_	start_char=84|end_char=88
+18	to	to	PART	TO	_	19	mark	_	start_char=89|end_char=91
+19	suck	suck	VERB	VB	VerbForm=Inf	17	acl	_	start_char=92|end_char=96
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=97|end_char=101
+21	cock	cock	NOUN	NN	Number=Sing	19	obj	_	start_char=102|end_char=106
+22	and	and	CCONJ	CC	_	24	cc	_	start_char=107|end_char=110
+23	not	not	PART	RB	_	24	advmod	_	start_char=111|end_char=114
+24	rib	rib	VERB	VB	VerbForm=Inf	19	conj	_	start_char=115|end_char=118
+25	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	24	obj	_	start_char=119|end_char=122
+26	.	.	PUNCT	.	_	1	punct	_	start_char=122|end_char=123
+

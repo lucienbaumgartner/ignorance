@@ -1,0 +1,25 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=4|end_char=7
+3	amish	amish	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=25
+6	of	of	ADP	IN	_	11	mark	_	start_char=26|end_char=28
+7	how	how	SCONJ	WRB	PronType=Int	3	obl	_	start_char=29|end_char=32
+8	computers	computer	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=33|end_char=42
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=43|end_char=46
+10	communication	communication	NOUN	NN	Number=Sing	8	conj	_	start_char=47|end_char=60
+11	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=61|end_char=66
+12	?	?	PUNCT	.	_	3	punct	_	start_char=66|end_char=67
+
+1	Or	or	CCONJ	CC	_	3	cc	_	start_char=68|end_char=70
+2	just	just	ADV	RB	_	3	advmod	_	start_char=71|end_char=75
+3	playing	play	VERB	VBG	VerbForm=Ger	0	root	_	start_char=76|end_char=83
+4	for	for	ADP	IN	_	6	case	_	start_char=84|end_char=87
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=88|end_char=91
+6	sake	sake	NOUN	NN	Number=Sing	3	obl	_	start_char=92|end_char=96
+7	of	of	ADP	IN	_	10	case	_	start_char=97|end_char=99
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=100|end_char=104
+9	fake	fake	ADJ	JJ	Degree=Pos	10	amod	_	start_char=105|end_char=109
+10	outrage	outrage	NOUN	NN	Number=Sing	6	nmod	_	start_char=110|end_char=117
+11	?	?	PUNCT	.	_	3	punct	_	start_char=117|end_char=118
+

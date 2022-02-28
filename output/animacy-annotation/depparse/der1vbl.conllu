@@ -1,0 +1,27 @@
+1	"	"	PUNCT	``	_	7	punct	_	start_char=0|end_char=1
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=1|end_char=3
+3	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=3|end_char=6
+4	all	all	ADV	RB	_	7	advmod	_	start_char=7|end_char=10
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	cop	_	start_char=11|end_char=15
+6	quite	quite	ADV	RB	_	7	advmod	_	start_char=16|end_char=21
+7	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=29
+8	to	to	PART	TO	_	9	mark	_	start_char=30|end_char=32
+9	demean	demean	VERB	VB	VerbForm=Inf	7	acl	_	start_char=33|end_char=39
+10	government	government	NOUN	NN	Number=Sing	9	obj	_	start_char=40|end_char=50
+11	,	,	PUNCT	,	_	12	punct	_	start_char=50|end_char=51
+12	drop	drop	VERB	VB	VerbForm=Inf	9	conj	_	start_char=52|end_char=56
+13	civics	civic	NOUN	NNS	Number=Plur	12	obj	_	start_char=57|end_char=63
+14	and	and	CCONJ	CC	_	17	cc	_	start_char=64|end_char=67
+15	in	in	ADP	IN	_	17	case	_	start_char=68|end_char=70
+16	general	general	ADJ	JJ	Degree=Pos	17	amod	_	start_char=71|end_char=78
+17	conspire	conspire	NOUN	NN	Number=Sing	12	conj	_	start_char=79|end_char=87
+18	to	to	PART	TO	_	19	mark	_	start_char=88|end_char=90
+19	produce	produce	VERB	VB	VerbForm=Inf	17	acl	_	start_char=91|end_char=98
+20	an	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=99|end_char=101
+21	unaware	unaware	ADJ	JJ	Degree=Pos	24	amod	_	start_char=102|end_char=109
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=110|end_char=113
+23	compliant	compliant	ADJ	JJ	Degree=Pos	21	conj	_	start_char=114|end_char=123
+24	citizenry	citizenry	NOUN	NN	Number=Sing	19	obj	_	start_char=124|end_char=133
+25	.	.	PUNCT	.	_	7	punct	_	start_char=133|end_char=134
+26	"	"	PUNCT	''	_	7	punct	_	start_char=134|end_char=135
+

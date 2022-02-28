@@ -1,0 +1,41 @@
+1	Be	be	AUX	VB	Mood=Imp|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=3|end_char=4
+3	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=9
+4	of	of	ADP	IN	_	6	case	_	start_char=10|end_char=12
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+6	solution	solution	NOUN	NN	Number=Sing	3	nmod	_	start_char=17|end_char=25
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=26|end_char=29
+8	get	get	AUX	VB	Mood=Imp|VerbForm=Fin	9	aux:pass	_	start_char=30|end_char=33
+9	vaxxed	vaxx	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	start_char=34|end_char=40
+10	.	.	PUNCT	.	_	3	punct	_	start_char=40|end_char=41
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=42|end_char=43
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=44|end_char=48
+3	no	no	DET	DT	_	4	det	_	start_char=49|end_char=51
+4	respect	respect	NOUN	NN	Number=Sing	2	obj	_	start_char=52|end_char=59
+5	for	for	ADP	IN	_	6	case	_	start_char=60|end_char=63
+6	those	that	PRON	DT	Number=Plur|PronType=Dem	4	nmod	_	start_char=64|end_char=69
+7	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=70|end_char=73
+8	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=74|end_char=80
+9	to	to	PART	TO	_	13	mark	_	start_char=81|end_char=83
+10	not	not	PART	RB	_	13	advmod	_	start_char=84|end_char=87
+11	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=88|end_char=90
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=91|end_char=92
+13	part	part	NOUN	NN	Number=Sing	8	xcomp	_	start_char=93|end_char=97
+14	of	of	ADP	IN	_	16	case	_	start_char=98|end_char=100
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=101|end_char=104
+16	solution	solution	NOUN	NN	Number=Sing	13	nmod	_	start_char=105|end_char=113
+17	.	.	PUNCT	.	_	2	punct	_	start_char=113|end_char=114
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=115|end_char=118
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=119|end_char=122
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=123|end_char=128
+4	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=129|end_char=136
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=137|end_char=140
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=141|end_char=149
+7	of	of	ADP	IN	_	9	case	_	start_char=150|end_char=152
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=153|end_char=156
+9	advice	advice	NOUN	NN	Number=Sing	6	obl	_	start_char=157|end_char=163
+10	from	from	ADP	IN	_	11	case	_	start_char=164|end_char=168
+11	experts	expert	NOUN	NNS	Number=Plur	9	nmod	_	start_char=169|end_char=176
+

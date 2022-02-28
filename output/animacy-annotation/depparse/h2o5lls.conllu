@@ -1,0 +1,24 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	very	very	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	elitist	elitist	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=32
+7	of	of	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=36|end_char=39
+9	😂	at	ADP	IN	_	15	case	_	start_char=40|end_char=41
+10	like	like	ADP	IN	_	15	case	_	start_char=42|end_char=46
+11	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=47|end_char=48
+12	huge	huge	ADJ	JJ	Degree=Pos	15	amod	_	start_char=49|end_char=53
+13	flashing	flash	NOUN	NN	Number=Sing	14	compound	_	start_char=54|end_char=62
+14	neon	neon	NOUN	NN	Number=Sing	15	compound	_	start_char=63|end_char=67
+15	sign	sign	NOUN	NN	Number=Sing	4	obl	_	start_char=68|end_char=72
+16	saying	say	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=73|end_char=79
+17	“	''	PUNCT	``	_	21	punct	_	start_char=80|end_char=81
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=81|end_char=82
+19	DON	don	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=83|end_char=86
+20	’T	not	PART	TO	_	21	advmod	_	start_char=86|end_char=88
+21	UNDERSTAND	understand	VERB	VB	VerbForm=Inf	16	ccomp	_	start_char=89|end_char=99
+22	ART	ART	PROPN	NNP	Number=Sing	21	obj	_	start_char=100|end_char=103
+23	”	''	PUNCT	''	_	21	punct	_	start_char=103|end_char=104
+

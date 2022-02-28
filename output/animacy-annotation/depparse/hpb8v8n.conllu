@@ -1,0 +1,14 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=0|end_char=3
+2	most	most	ADV	RBS	_	3	advmod	_	start_char=4|end_char=8
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	amod	_	start_char=9|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	privileged	privileged	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=32
+6	statement	statement	NOUN	NN	Number=Sing	0	root	_	start_char=33|end_char=42
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=43|end_char=44
+8	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=44|end_char=47
+9	read	read	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	_	start_char=48|end_char=52
+10	on	on	ADP	IN	_	11	case	_	start_char=53|end_char=55
+11	here	here	ADV	RB	PronType=Dem	9	obl	_	start_char=56|end_char=60
+12	lol	lol	INTJ	UH	_	6	discourse	_	start_char=61|end_char=64
+13	.	.	PUNCT	.	_	6	punct	_	start_char=64|end_char=65
+

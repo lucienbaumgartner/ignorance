@@ -1,0 +1,44 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	to	to	PART	TO	_	7	mark	_	start_char=7|end_char=9
+4	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=10|end_char=12
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=13|end_char=16
+6	only	only	ADJ	JJ	Degree=Pos	7	amod	_	start_char=17|end_char=21
+7	person	person	NOUN	NN	Number=Sing	2	xcomp	_	start_char=22|end_char=28
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=29|end_char=33
+9	views	view	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=34|end_char=39
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=40|end_char=43
+11	death	death	NOUN	NN	Number=Sing	9	obj	_	start_char=44|end_char=49
+12	as	as	SCONJ	IN	_	13	mark	_	start_char=50|end_char=52
+13	unintentional	unintentional	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=53|end_char=66
+14	.	.	PUNCT	.	_	2	punct	_	start_char=66|end_char=67
+
+1	Seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=68|end_char=74
+2	to	to	ADP	IN	_	3	case	_	start_char=75|end_char=77
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obl	_	start_char=78|end_char=80
+4	that	that	SCONJ	IN	_	9	mark	_	start_char=81|end_char=85
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=86|end_char=88
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=89|end_char=92
+7	just	just	ADV	RB	_	9	advmod	_	start_char=93|end_char=97
+8	completely	completely	ADV	RB	_	9	advmod	_	start_char=98|end_char=108
+9	despondent	despondent	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=109|end_char=119
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=120|end_char=123
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=124|end_char=131
+12	of	of	ADP	IN	_	14	case	_	start_char=132|end_char=134
+13	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=135|end_char=138
+14	surroundings	surroundings	NOUN	NNS	Number=Plur	11	obl	_	start_char=139|end_char=151
+15	when	when	SCONJ	WRB	PronType=Int	17	mark	_	start_char=152|end_char=156
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=157|end_char=159
+17	knocked	knock	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	start_char=160|end_char=167
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=168|end_char=171
+19	lantern	lantern	NOUN	NN	Number=Sing	17	obj	_	start_char=172|end_char=179
+20	over	over	ADP	RP	_	17	compound:prt	_	start_char=180|end_char=184
+21	.	.	PUNCT	.	_	1	punct	_	start_char=184|end_char=185
+
+1	Either	either	DET	DT	_	2	det	_	start_char=188|end_char=194
+2	way	way	NOUN	NN	Number=Sing	4	obl:npmod	_	start_char=195|end_char=198
+3	,	,	PUNCT	,	_	4	punct	_	start_char=198|end_char=199
+4	fuck	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=200|end_char=204
+5	Chuck	Chuck	PROPN	NNP	Number=Sing	4	obj	_	start_char=205|end_char=210
+6	.	.	PUNCT	.	_	4	punct	_	start_char=210|end_char=211
+

@@ -1,0 +1,23 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	aspire	aspire	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	to	to	PART	TO	_	4	mark	_	start_char=10|end_char=12
+4	create	create	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=13|end_char=19
+5	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=20|end_char=22
+6	unaware	unaware	ADJ	JJ	Degree=Pos	9	amod	_	start_char=23|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	compliant	compliant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=44
+9	citizenry	citizenry	NOUN	NN	Number=Sing	4	obj	_	start_char=45|end_char=54
+10	.	.	PUNCT	.	_	2	punct	_	start_char=54|end_char=55
+
+1	Unawareness	unawareness	NOUN	NN	Number=Sing	4	nsubj	_	start_char=56|end_char=67
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=68|end_char=70
+3	still	still	ADV	RB	_	4	advmod	_	start_char=71|end_char=76
+4	strong	strong	ADJ	JJ	Degree=Pos	0	root	_	start_char=77|end_char=83
+5	but	but	CCONJ	CC	_	8	cc	_	start_char=84|end_char=87
+6	compliance	compliance	NOUN	NN	Number=Sing	8	nsubj	_	start_char=88|end_char=98
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=99|end_char=101
+8	starting	start	VERB	VBG	Tense=Pres|VerbForm=Part	4	conj	_	start_char=102|end_char=110
+9	to	to	PART	TO	_	10	mark	_	start_char=111|end_char=113
+10	fade	fade	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=114|end_char=118
+11	.	.	PUNCT	.	_	4	punct	_	start_char=118|end_char=119
+

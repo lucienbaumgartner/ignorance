@@ -1,0 +1,18 @@
+1	TLDR	tldr	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	:	:	PUNCT	:	_	1	punct	_	start_char=5|end_char=6
+3	in	in	ADP	IN	_	4	case	_	start_char=7|end_char=9
+4	short	short	ADJ	JJ	Degree=Pos	1	nmod	_	start_char=10|end_char=15
+5	…	…	PUNCT	,	_	1	punct	_	start_char=15|end_char=16
+6	(	(	PUNCT	-LRB-	_	7	punct	_	start_char=16|end_char=17
+7	most	most	ADJ	JJS	Degree=Sup	1	appos	_	start_char=17|end_char=21
+8	)	)	PUNCT	-RRB-	_	7	punct	_	start_char=21|end_char=22
+
+1	Americans	American	PROPN	NNPS	Number=Plur	3	nsubj	_	start_char=23|end_char=32
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=33|end_char=36
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=41
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=42|end_char=45
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=46|end_char=54
+6	of	of	ADP	IN	_	8	case	_	start_char=55|end_char=57
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=58|end_char=63
+8	countries	country	NOUN	NNS	Number=Plur	5	obl	_	start_char=64|end_char=73
+

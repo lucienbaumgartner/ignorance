@@ -1,0 +1,14 @@
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+3	stand	stand	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	csubj	_	start_char=6|end_char=11
+4	by	by	ADP	IN	_	5	case	_	start_char=12|end_char=14
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	start_char=15|end_char=19
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=20|end_char=22
+7	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=27
+8	,	,	PUNCT	,	_	9	punct	_	start_char=27|end_char=28
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=29|end_char=37
+10	,	,	PUNCT	,	_	12	punct	_	start_char=37|end_char=38
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=39|end_char=42
+12	pedantic	pedantic	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=51
+13	.	.	PUNCT	.	_	7	punct	_	start_char=51|end_char=52
+

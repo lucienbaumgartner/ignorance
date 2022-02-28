@@ -1,0 +1,25 @@
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=0|end_char=3
+2	also	also	ADV	RB	_	3	advmod	_	start_char=4|end_char=8
+3	deluded	delude	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=16
+4	.	.	PUNCT	.	_	3	punct	_	start_char=16|end_char=17
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=18|end_char=20
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=21|end_char=25
+3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	_	start_char=26|end_char=29
+4	any	any	DET	DT	_	5	det	_	start_char=30|end_char=33
+5	intelligence	intelligence	NOUN	NN	Number=Sing	3	obj	_	start_char=34|end_char=46
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=47|end_char=51
+7	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=52|end_char=57
+8	n't	not	PART	RB	_	10	advmod	_	start_char=57|end_char=60
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=61|end_char=63
+10	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=64|end_char=68
+11	of	of	ADP	IN	_	18	case	_	start_char=69|end_char=71
+12	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=72|end_char=75
+13	'	'	PUNCT	``	_	14	punct	_	start_char=76|end_char=77
+14	unaware	unaware	ADJ	JJ	Degree=Pos	18	amod	_	start_char=77|end_char=84
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=85|end_char=88
+16	compliant	compliant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=89|end_char=98
+17	'	'	PUNCT	''	_	14	punct	_	start_char=98|end_char=99
+18	citizenry	citizenry	NOUN	NN	Number=Sing	10	nmod	_	start_char=100|end_char=109
+19	.	.	PUNCT	.	_	10	punct	_	start_char=109|end_char=110
+

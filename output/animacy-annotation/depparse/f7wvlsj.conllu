@@ -1,0 +1,24 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	dumb	dumb	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=35|end_char=39
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=40|end_char=43
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=44|end_char=49
+10	that	that	SCONJ	IN	_	13	mark	_	start_char=50|end_char=54
+11	zap	zap	NOUN	NN	Number=Sing	13	nsubj	_	start_char=55|end_char=58
+12	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=59|end_char=62
+13	scammed	scam	VERB	VBN	Tense=Past|VerbForm=Part	9	ccomp	_	start_char=63|end_char=70
+14	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=71|end_char=74
+15	players	player	NOUN	NNS	Number=Plur	13	obj	_	start_char=75|end_char=82
+16	when	when	SCONJ	WRB	PronType=Int	18	mark	_	start_char=83|end_char=87
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=88|end_char=92
+18	agreed	agree	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	advcl	_	start_char=93|end_char=99
+19	not	not	ADV	RB	_	22	advmod	_	start_char=100|end_char=103
+20	to	to	PART	TO	_	22	mark	_	start_char=104|end_char=106
+21	get	get	AUX	VB	VerbForm=Inf	22	aux:pass	_	start_char=107|end_char=110
+22	paid	pay	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	xcomp	_	start_char=111|end_char=115
+23	LUL	lul	ADP	IN	_	1	punct	_	start_char=116|end_char=119
+

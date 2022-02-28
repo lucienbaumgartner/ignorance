@@ -1,0 +1,27 @@
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	for	for	SCONJ	IN	_	4	mark	_	start_char=10|end_char=13
+4	posting	post	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=14|end_char=21
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=22|end_char=26
+6	!	!	PUNCT	.	_	1	punct	_	start_char=26|end_char=27
+
+1	Lots	lot	NOUN	NNS	Number=Plur	0	root	_	start_char=28|end_char=32
+2	of	of	ADP	IN	_	3	case	_	start_char=33|end_char=35
+3	people	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=36|end_char=42
+4	poopooing	poopooing	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=43|end_char=52
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=53|end_char=57
+6	as	as	ADP	IN	_	8	case	_	start_char=58|end_char=60
+7	old	old	ADJ	JJ	Degree=Pos	8	amod	_	start_char=61|end_char=64
+8	news	news	NOUN	NN	Number=Sing	4	obl	_	start_char=65|end_char=69
+9	,	,	PUNCT	,	_	13	punct	_	start_char=69|end_char=70
+10	but	but	CCONJ	CC	_	13	cc	_	start_char=71|end_char=74
+11	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=75|end_char=76
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=77|end_char=80
+13	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=81|end_char=88
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=89|end_char=92
+15	happy	happy	ADJ	JJ	Degree=Pos	13	conj	_	start_char=93|end_char=98
+16	to	to	PART	TO	_	17	mark	_	start_char=99|end_char=101
+17	see	see	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=102|end_char=105
+18	this	this	PRON	DT	Number=Sing|PronType=Dem	17	obj	_	start_char=106|end_char=110
+19	.	.	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+

@@ -1,0 +1,44 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=2|end_char=5
+3	just	just	ADV	RB	_	4	advmod	_	start_char=6|end_char=10
+4	asking	ask	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=11|end_char=17
+5	to	to	PART	TO	_	6	mark	_	start_char=18|end_char=20
+6	get	get	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=21|end_char=24
+7	out	out	ADP	IN	_	10	case	_	start_char=25|end_char=28
+8	of	of	ADP	IN	_	10	case	_	start_char=29|end_char=31
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=32|end_char=35
+10	group	group	NOUN	NN	Number=Sing	6	obl	_	start_char=36|end_char=41
+11	.	.	PUNCT	.	_	4	punct	_	start_char=41|end_char=42
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=43|end_char=45
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=46|end_char=48
+3	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=49|end_char=56
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=57|end_char=60
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=61|end_char=69
+6	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=71|end_char=75
+2	comment	comment	NOUN	NN	Number=Sing	6	nsubj	_	start_char=76|end_char=83
+3	about	about	ADP	IN	_	4	case	_	start_char=84|end_char=89
+4	dating	dating	NOUN	NN	Number=Sing	2	nmod	_	start_char=90|end_char=96
+5	really	really	ADV	RB	_	6	advmod	_	start_char=97|end_char=103
+6	bothered	bother	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=104|end_char=112
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	start_char=113|end_char=115
+8	.	.	PUNCT	.	_	6	punct	_	start_char=115|end_char=116
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=117|end_char=119
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=120|end_char=124
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=125|end_char=127
+4	feel	feel	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=128|end_char=132
+5	sad	sad	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=133|end_char=136
+6	about	about	ADP	IN	_	8	case	_	start_char=137|end_char=142
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=143|end_char=146
+8	comparison	comparison	NOUN	NN	Number=Sing	5	obl	_	start_char=147|end_char=157
+9	.	.	PUNCT	.	_	2	punct	_	start_char=157|end_char=158
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=159|end_char=165
+2	for	for	ADP	IN	_	4	case	_	start_char=166|end_char=169
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=170|end_char=173
+4	comment	comment	NOUN	NN	Number=Sing	1	nmod	_	start_char=174|end_char=181
+5	.	.	PUNCT	.	_	1	punct	_	start_char=181|end_char=182
+

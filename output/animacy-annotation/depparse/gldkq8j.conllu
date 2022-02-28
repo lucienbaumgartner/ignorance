@@ -1,0 +1,22 @@
+1	Reddit	Reddit	PROPN	NNP	Number=Sing	3	nmod:poss	_	start_char=0|end_char=6
+2	's	's	PART	POS	_	1	case	_	start_char=6|end_char=8
+3	format	format	NOUN	NN	Number=Sing	6	nsubj	_	start_char=9|end_char=15
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=16|end_char=19
+5	easily	easily	ADV	RB	Degree=Pos	6	advmod	_	start_char=20|end_char=26
+6	distort	distort	VERB	VB	VerbForm=Inf	0	root	_	start_char=27|end_char=34
+7	reality	reality	NOUN	NN	Number=Sing	6	obj	_	start_char=35|end_char=42
+8	,	,	PUNCT	,	_	15	punct	_	start_char=42|end_char=43
+9	and	and	CCONJ	CC	_	15	cc	_	start_char=44|end_char=47
+10	reddit	reddit	NOUN	NN	Number=Sing	12	nmod:poss	_	start_char=48|end_char=54
+11	's	's	PART	POS	_	10	case	_	start_char=54|end_char=56
+12	demographics	demographics	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=57|end_char=69
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=70|end_char=73
+14	fairly	fairly	ADV	RB	Degree=Pos	15	advmod	_	start_char=74|end_char=80
+15	naive	naive	ADJ	JJ	Degree=Pos	6	conj	_	start_char=81|end_char=86
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=87|end_char=90
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=91|end_char=99
+18	of	of	ADP	IN	_	20	case	_	start_char=100|end_char=102
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=103|end_char=106
+20	world	world	NOUN	NN	Number=Sing	17	obl	_	start_char=107|end_char=112
+21	.	.	PUNCT	.	_	6	punct	_	start_char=112|end_char=113
+

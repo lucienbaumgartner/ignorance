@@ -1,0 +1,14 @@
+1	Americans	American	PROPN	NNPS	Number=Plur	2	nsubj	_	start_char=0|end_char=9
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+3	narrow	narrow	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=15|end_char=21
+4	minded	minded	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=22|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=41
+7	of	of	ADP	IN	_	10	case	_	start_char=42|end_char=44
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=45|end_char=50
+9	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=51|end_char=54
+10	dispositions	disposition	NOUN	NNS	Number=Plur	6	obl	_	start_char=55|end_char=67
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=68|end_char=71
+12	predicaments	predicament	NOUN	NNS	Number=Plur	10	conj	_	start_char=72|end_char=84
+13	.	.	PUNCT	.	_	2	punct	_	start_char=84|end_char=85
+

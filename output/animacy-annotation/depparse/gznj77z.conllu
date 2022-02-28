@@ -1,0 +1,22 @@
+1	No	no	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3|end_char=4
+3	disagre	disagre	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=12
+4	,	,	PUNCT	,	_	12	punct	_	start_char=12|end_char=13
+5	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=14|end_char=20
+6	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=21|end_char=24
+7	run	run	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=25|end_char=28
+8	companies	company	NOUN	NNS	Number=Plur	7	obj	_	start_char=29|end_char=38
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=39|end_char=42
+10	usually	usually	ADV	RB	_	12	advmod	_	start_char=43|end_char=50
+11	pretty	pretty	ADV	RB	_	12	advmod	_	start_char=51|end_char=57
+12	dumb	dumb	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=58|end_char=62
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=63|end_char=66
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=67|end_char=74
+15	of	of	ADP	IN	_	16	case	_	start_char=75|end_char=77
+16	what	what	PRON	WP	PronType=Int	14	obl	_	start_char=78|end_char=82
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=83|end_char=85
+18	really	really	ADV	RB	_	19	advmod	_	start_char=86|end_char=92
+19	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	16	acl:relcl	_	start_char=93|end_char=98
+20	on	on	ADP	RP	_	19	compound:prt	_	start_char=99|end_char=101
+21	.	.	PUNCT	.	_	3	punct	_	start_char=101|end_char=102
+

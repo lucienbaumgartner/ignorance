@@ -1,0 +1,36 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	no	no	DET	DT	_	3	det	_	start_char=3|end_char=5
+3	one	one	NOUN	NN	Number=Sing	4	nsubj	_	start_char=6|end_char=9
+4	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=10|end_char=15
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=16|end_char=18
+6	,	,	PUNCT	,	_	9	punct	_	start_char=18|end_char=19
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=20|end_char=24
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=25|end_char=29
+9	add	add	VERB	VB	VerbForm=Inf	0	root	_	start_char=30|end_char=33
+10	boosts	boost	NOUN	NNS	Number=Plur	9	obj	_	start_char=34|end_char=40
+11	.	.	PUNCT	.	_	9	punct	_	start_char=40|end_char=41
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=42|end_char=46
+2	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=47|end_char=51
+3	to	to	PART	TO	_	4	mark	_	start_char=52|end_char=54
+4	add	add	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=55|end_char=58
+5	up	up	ADP	RP	_	4	compound:prt	_	start_char=59|end_char=61
+6	to	to	ADP	IN	_	7	case	_	start_char=62|end_char=64
+7	$	$	SYM	$	_	4	obl	_	start_char=65|end_char=66
+8	22	22	NUM	CD	NumType=Card	7	nummod	_	start_char=66|end_char=68
+9	extra	extra	ADJ	JJ	Degree=Pos	7	amod	_	start_char=69|end_char=74
+10	until	until	SCONJ	IN	_	12	mark	_	start_char=75|end_char=80
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=81|end_char=85
+12	hired	hire	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	advcl	_	start_char=86|end_char=91
+13	people	people	NOUN	NNS	Number=Plur	12	obj	_	start_char=92|end_char=98
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	amod	_	start_char=99|end_char=107
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=108|end_char=111
+16	desperate	desperate	ADJ	JJ	Degree=Pos	14	conj	_	start_char=112|end_char=121
+17	enough	enough	ADJ	JJ	Degree=Pos	16	advmod	_	start_char=122|end_char=128
+18	to	to	PART	TO	_	19	mark	_	start_char=129|end_char=131
+19	take	take	VERB	VB	VerbForm=Inf	17	advcl	_	start_char=132|end_char=136
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	start_char=137|end_char=141
+21	without	without	ADP	IN	_	22	case	_	start_char=142|end_char=149
+22	that	that	PRON	DT	Number=Sing|PronType=Dem	19	obl	_	start_char=150|end_char=154
+23	.	.	PUNCT	.	_	2	punct	_	start_char=154|end_char=155
+

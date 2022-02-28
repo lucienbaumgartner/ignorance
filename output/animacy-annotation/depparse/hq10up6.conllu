@@ -1,0 +1,25 @@
+1	there	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=8
+3	no	no	DET	DT	_	4	det	_	start_char=9|end_char=11
+4	talking	talking	NOUN	NN	Number=Sing	2	nsubj	_	start_char=12|end_char=19
+5	with	with	ADP	IN	_	7	case	_	start_char=20|end_char=24
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=25|end_char=29
+7	people	people	NOUN	NNS	Number=Plur	4	nmod	_	start_char=30|end_char=36
+8	.	.	PUNCT	.	_	2	punct	_	start_char=36|end_char=37
+
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=38|end_char=42
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=43|end_char=46
+3	so	so	ADV	RB	_	5	advmod	_	start_char=47|end_char=49
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=50|end_char=60
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=69
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=70|end_char=73
+7	brainwased	brainwase	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Part	5	conj	_	start_char=74|end_char=84
+8	,	,	PUNCT	,	_	5	punct	_	start_char=84|end_char=85
+9	there	there	PRON	EX	_	10	expl	_	start_char=86|end_char=91
+10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=92|end_char=94
+11	nothing	nothing	PRON	NN	Number=Sing	10	nsubj	_	start_char=95|end_char=102
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	start_char=103|end_char=105
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=106|end_char=109
+14	do	do	VERB	VB	VerbForm=Inf	11	acl:relcl	_	start_char=110|end_char=112
+15	.	.	PUNCT	.	_	5	punct	_	start_char=112|end_char=113
+

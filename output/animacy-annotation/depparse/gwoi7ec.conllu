@@ -1,0 +1,34 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	not	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=5|end_char=8
+4	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=14
+5	because	because	SCONJ	IN	_	9	mark	_	start_char=15|end_char=22
+6	those	that	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=23|end_char=28
+7	people	people	NOUN	NNS	Number=Plur	9	nsubj:pass	_	start_char=29|end_char=35
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=36|end_char=39
+9	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	start_char=40|end_char=49
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=50|end_char=53
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=54|end_char=62
+12	of	of	ADP	IN	_	14	case	_	start_char=63|end_char=65
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=66|end_char=69
+14	world	world	NOUN	NN	Number=Sing	11	obl	_	start_char=70|end_char=75
+15	outside	outside	ADP	IN	_	23	case	_	start_char=76|end_char=83
+16	of	of	ADP	IN	_	15	fixed	_	start_char=84|end_char=86
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	start_char=87|end_char=92
+18	car-centric	car-centric	ADJ	JJ	Degree=Pos	23	amod	_	start_char=93|end_char=104
+19	,	,	PUNCT	,	_	20	punct	_	start_char=104|end_char=105
+20	miserable	miserable	ADJ	JJ	Degree=Pos	18	conj	_	start_char=106|end_char=115
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=116|end_char=119
+22	monotonous	monotonous	ADJ	JJ	Degree=Pos	18	conj	_	start_char=120|end_char=130
+23	suburb	suburb	NOUN	NN	Number=Sing	9	obl	_	start_char=131|end_char=137
+24	.	.	PUNCT	.	_	4	punct	_	start_char=137|end_char=138
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=139|end_char=143
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=143|end_char=146
+3	better	well	ADV	RBR	Degree=Cmp	5	advmod	_	start_char=147|end_char=153
+4	off	off	ADP	RP	_	5	advmod	_	start_char=154|end_char=157
+5	away	away	ADV	RB	_	0	root	_	start_char=158|end_char=162
+6	from	from	ADP	IN	_	7	case	_	start_char=163|end_char=167
+7	cities	city	NOUN	NNS	Number=Plur	5	obl	_	start_char=168|end_char=174
+8	.	.	PUNCT	.	_	5	punct	_	start_char=174|end_char=175
+

@@ -1,0 +1,11 @@
+1	Oh	oh	INTJ	UH	_	4	discourse	_	start_char=0|end_char=2
+2	now	now	ADV	RB	_	4	advmod	_	start_char=3|end_char=6
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=7|end_char=9
+4	realizes	realize	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=18
+5	Trump	Trump	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=19|end_char=24
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=25|end_char=27
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=28|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	evil	evil	ADJ	JJ	Degree=Pos	7	conj	_	start_char=41|end_char=45
+10	.	.	PUNCT	.	_	4	punct	_	start_char=45|end_char=46
+

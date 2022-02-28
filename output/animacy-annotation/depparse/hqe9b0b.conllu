@@ -1,0 +1,197 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	from	from	ADP	IN	_	5	case	_	start_char=7|end_char=11
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=12|end_char=13
+5	family	family	NOUN	NN	Number=Sing	2	obl	_	start_char=14|end_char=20
+6	of	of	ADP	IN	_	9	case	_	start_char=21|end_char=23
+7	very	very	ADV	RB	_	8	advmod	_	start_char=24|end_char=28
+8	punctual	punctual	ADJ	JJ	Degree=Pos	9	amod	_	start_char=29|end_char=37
+9	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=38|end_char=44
+10	.	.	PUNCT	.	_	2	punct	_	start_char=44|end_char=45
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	start_char=46|end_char=47
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=48|end_char=51
+3	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=52|end_char=56
+4	on	on	ADP	IN	_	7	case	_	start_char=57|end_char=59
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=60|end_char=62
+6	due	due	ADJ	JJ	Degree=Pos	7	amod	_	start_char=63|end_char=66
+7	date	date	NOUN	NN	Number=Sing	3	obl	_	start_char=67|end_char=71
+8	!	!	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	Been	be	AUX	VBN	Tense=Past|VerbForm=Part	3	cop	_	start_char=73|end_char=77
+2	on	on	ADP	IN	_	3	case	_	start_char=78|end_char=80
+3	time	time	NOUN	NN	Number=Sing	0	root	_	start_char=81|end_char=85
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=86|end_char=88
+5	whole	whole	ADJ	JJ	Degree=Pos	6	amod	_	start_char=89|end_char=94
+6	life	life	NOUN	NN	Number=Sing	3	nmod:npmod	_	start_char=95|end_char=99
+7	!	!	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=102|end_char=103
+2	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=104|end_char=108
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=109|end_char=115
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=116|end_char=121
+5	late	late	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=122|end_char=126
+6	.	.	PUNCT	.	_	2	punct	_	start_char=126|end_char=127
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=128|end_char=129
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=130|end_char=134
+3	someone	someone	PRON	NN	Number=Sing	2	obj	_	start_char=135|end_char=142
+4	in	in	ADP	IN	_	6	case	_	start_char=143|end_char=145
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=146|end_char=148
+6	life	life	NOUN	NN	Number=Sing	3	nmod	_	start_char=149|end_char=153
+7	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=154|end_char=158
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=159|end_char=161
+9	never	never	ADV	RB	_	11	advmod	_	start_char=162|end_char=167
+10	on	on	ADP	IN	_	11	case	_	start_char=168|end_char=170
+11	time	time	NOUN	NN	Number=Sing	3	acl:relcl	_	start_char=171|end_char=175
+12	.	.	PUNCT	.	_	2	punct	_	start_char=175|end_char=176
+
+1	Like	like	ADP	IN	_	2	case	_	start_char=177|end_char=181
+2	hours	hour	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=182|end_char=187
+3	late	late	ADV	RB	Degree=Pos	0	root	_	start_char=188|end_char=192
+4	.	.	PUNCT	.	_	3	punct	_	start_char=192|end_char=193
+
+1	Every	every	DET	DT	_	2	det	_	start_char=194|end_char=199
+2	time	time	NOUN	NN	Number=Sing	0	root	_	start_char=200|end_char=204
+3	!	!	PUNCT	.	_	2	punct	_	start_char=204|end_char=205
+
+1	Can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=206|end_char=209
+2	never	never	ADV	RB	_	3	advmod	_	start_char=210|end_char=215
+3	plan	plan	VERB	VB	VerbForm=Inf	0	root	_	start_char=216|end_char=220
+4	anything	anything	PRON	NN	Number=Sing	3	obj	_	start_char=221|end_char=229
+5	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=230|end_char=235
+6	days	day	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=236|end_char=240
+7	.	.	PUNCT	.	_	3	punct	_	start_char=240|end_char=241
+
+1	Person	person	NOUN	NN	Number=Sing	3	nsubj:pass	_	start_char=242|end_char=248
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=249|end_char=251
+3	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=252|end_char=257
+4	to	to	PART	TO	_	6	mark	_	start_char=258|end_char=260
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=261|end_char=263
+6	there	there	ADV	RB	PronType=Dem	3	xcomp	_	start_char=264|end_char=269
+7	at	at	ADP	IN	_	8	case	_	start_char=270|end_char=272
+8	10	10	NUM	CD	NumType=Card	6	obl	_	start_char=273|end_char=275
+9	,	,	PUNCT	,	_	3	punct	_	start_char=275|end_char=276
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=277|end_char=281
+11	might	might	AUX	MD	VerbForm=Fin	12	aux	_	start_char=282|end_char=287
+12	show	show	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=288|end_char=292
+13	up	up	ADP	RP	_	12	compound:prt	_	start_char=293|end_char=295
+14	11	11	NUM	CD	NumType=Card	12	obj	_	start_char=296|end_char=298
+15	at	at	ADP	IN	_	17	case	_	start_char=299|end_char=301
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=302|end_char=305
+17	earliest	early	ADJ	JJS	Degree=Sup	12	obl	_	start_char=306|end_char=314
+18	.	.	PUNCT	.	_	3	punct	_	start_char=314|end_char=315
+
+1	Sometime	sometime	ADV	RB	_	2	advmod	_	start_char=316|end_char=324
+2	2	2	NUM	CD	NumType=Card	0	root	_	start_char=325|end_char=326
+3	,	,	PUNCT	,	_	2	punct	_	start_char=326|end_char=327
+4	even	even	ADV	RB	_	6	advmod	_	start_char=327|end_char=331
+5	5	5	NUM	CD	NumType=Card	6	nummod	_	start_char=332|end_char=333
+6	o'clock	o'clock	NOUN	NNS	Number=Plur	9	obl:tmod	_	start_char=334|end_char=341
+7	before	before	SCONJ	IN	_	9	mark	_	start_char=342|end_char=348
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=349|end_char=353
+9	show	show	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	start_char=354|end_char=358
+10	up	up	ADP	RP	_	9	compound:prt	_	start_char=359|end_char=361
+11	.	.	PUNCT	.	_	1	punct	_	start_char=361|end_char=362
+
+1	Whole	Whole	ADJ	JJ	Degree=Pos	2	amod	_	start_char=363|end_char=368
+2	day	day	NOUN	NN	Number=Sing	3	nsubj	_	start_char=369|end_char=372
+3	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=373|end_char=377
+4	!	!	PUNCT	.	_	3	punct	_	start_char=377|end_char=378
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=380|end_char=382
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=382|end_char=384
+3	so	so	ADV	RB	_	4	advmod	_	start_char=385|end_char=387
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=388|end_char=396
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=397|end_char=400
+6	selfish	selfish	ADJ	JJ	Degree=Pos	4	conj	_	start_char=401|end_char=408
+7	.	.	PUNCT	.	_	4	punct	_	start_char=408|end_char=409
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=410|end_char=412
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=413|end_char=416
+3	knock	knock	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=417|end_char=422
+4	on	on	ADP	IN	_	5	case	_	start_char=423|end_char=425
+5	effects	effect	NOUN	NNS	Number=Plur	3	obl	_	start_char=426|end_char=433
+6	to	to	ADP	IN	_	8	case	_	start_char=434|end_char=436
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=437|end_char=442
+8	people	people	NOUN	NNS	Number=Plur	5	nmod	_	start_char=443|end_char=449
+9	too	too	ADV	RB	_	3	advmod	_	start_char=450|end_char=453
+10	.	.	PUNCT	.	_	3	punct	_	start_char=453|end_char=454
+
+1	Example	example	NOUN	NN	Number=Sing	5	obl:tmod	_	start_char=456|end_char=463
+2	,	,	PUNCT	,	_	1	punct	_	start_char=463|end_char=464
+3	person	person	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=465|end_char=471
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	start_char=472|end_char=475
+5	meant	mean	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=476|end_char=481
+6	to	to	PART	TO	_	8	mark	_	start_char=482|end_char=484
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=485|end_char=487
+8	somewhere	somewhere	ADV	RB	_	5	xcomp	_	start_char=488|end_char=497
+9	at	at	ADP	IN	_	11	case	_	start_char=498|end_char=500
+10	10	10	NUM	CD	NumType=Card	11	nummod	_	start_char=501|end_char=503
+11	am	am	NOUN	NN	Number=Sing	8	obl	_	start_char=503|end_char=505
+12	.	.	PUNCT	.	_	5	punct	_	start_char=505|end_char=506
+
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=508|end_char=511
+2	n't	not	PART	RB	_	3	advmod	_	start_char=511|end_char=514
+3	show	show	VERB	VB	VerbForm=Inf	0	root	_	start_char=515|end_char=519
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=520|end_char=522
+5	till	till	ADP	IN	_	7	case	_	start_char=523|end_char=527
+6	5	5	NUM	CD	NumType=Card	7	nummod	_	start_char=528|end_char=529
+7	pm	pm	NOUN	NN	Number=Sing	3	obl	_	start_char=529|end_char=531
+8	....	....	PUNCT	,	_	3	punct	_	start_char=531|end_char=535
+9	in	in	ADP	IN	_	10	case	_	start_char=535|end_char=537
+10	turn	turn	NOUN	NN	Number=Sing	24	obl	_	start_char=538|end_char=542
+11	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=543|end_char=547
+12	left	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=548|end_char=552
+13	7	7	NUM	CD	NumType=Card	15	nummod	_	start_char=553|end_char=554
+14	other	other	ADJ	JJ	Degree=Pos	15	amod	_	start_char=555|end_char=560
+15	people	people	NOUN	NNS	Number=Plur	12	obj	_	start_char=561|end_char=567
+16	in	in	ADP	IN	_	17	case	_	start_char=568|end_char=570
+17	limbo	limbo	NOUN	NN	Number=Sing	12	obl	_	start_char=571|end_char=576
+18	,	,	PUNCT	,	_	19	punct	_	start_char=576|end_char=577
+19	waiting	wait	VERB	VBG	VerbForm=Ger	12	advcl	_	start_char=578|end_char=585
+20	around	around	ADV	RB	_	19	advmod	_	start_char=586|end_char=592
+21	,	,	PUNCT	,	_	24	punct	_	start_char=592|end_char=593
+22	could	could	AUX	MD	VerbForm=Fin	24	aux	_	start_char=594|end_char=599
+23	n't	not	PART	RB	_	24	advmod	_	start_char=599|end_char=602
+24	go	go	VERB	VB	VerbForm=Inf	3	conj	_	start_char=603|end_char=605
+25	about	about	ADP	IN	_	27	case	_	start_char=606|end_char=611
+26	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	nmod:poss	_	start_char=612|end_char=617
+27	day	day	NOUN	NN	Number=Sing	24	obl	_	start_char=618|end_char=621
+28	for	for	ADP	IN	_	30	case	_	start_char=622|end_char=625
+29	7	7	NUM	CD	NumType=Card	30	nummod	_	start_char=626|end_char=627
+30	hours	hour	NOUN	NNS	Number=Plur	24	obl	_	start_char=628|end_char=633
+31	.	.	PUNCT	.	_	3	punct	_	start_char=633|end_char=634
+
+1	As	as	ADP	IN	_	3	case	_	start_char=636|end_char=638
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=639|end_char=640
+3	person	person	NOUN	NN	Number=Sing	10	obl	_	start_char=641|end_char=647
+4	with	with	ADP	IN	_	5	case	_	start_char=648|end_char=652
+5	anxiety	anxiety	NOUN	NN	Number=Sing	3	nmod	_	start_char=653|end_char=660
+6	,	,	PUNCT	,	_	10	punct	_	start_char=660|end_char=661
+7	those	that	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=662|end_char=667
+8	7	7	NUM	CD	NumType=Card	9	nummod	_	start_char=668|end_char=669
+9	hours	hour	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=670|end_char=675
+10	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=676|end_char=680
+11	like	like	ADP	IN	_	13	case	_	start_char=681|end_char=685
+12	7	7	NUM	CD	NumType=Card	13	nummod	_	start_char=686|end_char=687
+13	days	day	NOUN	NNS	Number=Plur	10	obl	_	start_char=688|end_char=692
+14	.	.	PUNCT	.	_	10	punct	_	start_char=692|end_char=693
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=695|end_char=699
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=700|end_char=704
+3	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=705|end_char=711
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=712|end_char=715
+5	waiting	wait	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=716|end_char=723
+6	and	and	CCONJ	CC	_	10	cc	_	start_char=724|end_char=727
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=728|end_char=732
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=733|end_char=735
+9	not	not	PART	RB	_	10	advmod	_	start_char=736|end_char=739
+10	care	care	VERB	VB	VerbForm=Inf	2	conj	_	start_char=740|end_char=744
+11	.	.	PUNCT	.	_	2	punct	_	start_char=744|end_char=745
+
+1	Drives	drive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=747|end_char=753
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	start_char=754|end_char=756
+3	mad	mad	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=757|end_char=760
+4	!	!	PUNCT	.	_	1	punct	_	start_char=760|end_char=761
+

@@ -1,0 +1,22 @@
+1	Because	because	SCONJ	IN	_	6	mark	_	start_char=0|end_char=7
+2	some	some	DET	DT	_	3	det	_	start_char=8|end_char=12
+3	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=13|end_char=19
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=20|end_char=23
+5	so	so	ADV	RB	_	6	advmod	_	start_char=24|end_char=26
+6	hateful	hateful	ADJ	JJ	Degree=Pos	0	root	_	start_char=27|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=47
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=48|end_char=52
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=53|end_char=57
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=58|end_char=62
+12	nothing	nothing	PRON	NN	Number=Sing	11	obj	_	start_char=63|end_char=70
+13	to	to	PART	TO	_	14	mark	_	start_char=71|end_char=73
+14	offer	offer	VERB	VB	VerbForm=Inf	12	acl	_	start_char=74|end_char=79
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=80|end_char=84
+16	world	world	NOUN	NN	Number=Sing	14	obj	_	start_char=85|end_char=90
+17	except	except	ADP	IN	_	20	case	_	start_char=91|end_char=97
+18	for	for	ADP	IN	_	20	case	_	start_char=98|end_char=101
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=102|end_char=107
+20	bigotry	bigotry	NOUN	NN	Number=Sing	14	obl	_	start_char=108|end_char=115
+21	.	.	PUNCT	.	_	6	punct	_	start_char=115|end_char=116
+

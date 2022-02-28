@@ -1,0 +1,42 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=7
+4	animal	animal	NOUN	NN	Number=Sing	0	root	_	start_char=8|end_char=14
+5	.	.	PUNCT	.	_	4	punct	_	start_char=14|end_char=15
+
+1	Like	like	ADP	IN	_	3	case	_	start_char=16|end_char=20
+2	every	every	DET	DT	_	3	det	_	start_char=21|end_char=26
+3	animal	animal	NOUN	NN	Number=Sing	9	obl	_	start_char=27|end_char=33
+4	,	,	PUNCT	,	_	3	punct	_	start_char=33|end_char=34
+5	including	include	VERB	VBG	VerbForm=Ger	6	case	_	start_char=35|end_char=44
+6	humans	human	NOUN	NNS	Number=Plur	3	nmod	_	start_char=45|end_char=51
+7	,	,	PUNCT	,	_	9	punct	_	start_char=51|end_char=52
+8	dogs	dog	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=53|end_char=57
+9	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=58|end_char=62
+10	violent	violent	ADJ	JJ	Degree=Pos	11	amod	_	start_char=63|end_char=70
+11	instincts	instinct	NOUN	NNS	Number=Plur	9	obj	_	start_char=71|end_char=80
+12	.	.	PUNCT	.	_	9	punct	_	start_char=80|end_char=81
+
+1	To	to	PART	TO	_	2	mark	_	start_char=84|end_char=86
+2	think	think	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=87|end_char=92
+3	otherwise	otherwise	ADV	RB	_	2	advmod	_	start_char=93|end_char=102
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=103|end_char=105
+5	to	to	PART	TO	_	9	mark	_	start_char=106|end_char=108
+6	not	not	PART	RB	_	9	advmod	_	start_char=109|end_char=112
+7	only	only	ADV	RB	_	9	advmod	_	start_char=113|end_char=117
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=118|end_char=120
+9	incorrect	incorrect	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=121|end_char=130
+10	,	,	PUNCT	,	_	12	punct	_	start_char=130|end_char=131
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=132|end_char=134
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=135|end_char=137
+13	also	also	ADV	RB	_	12	advmod	_	start_char=138|end_char=142
+14	to	to	PART	TO	_	16	mark	_	start_char=143|end_char=145
+15	be	be	AUX	VB	VerbForm=Inf	16	cop	_	start_char=146|end_char=148
+16	disrespectful	disrespectful	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=149|end_char=162
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=163|end_char=166
+18	unaware	unaware	ADJ	JJ	Degree=Pos	16	conj	_	start_char=167|end_char=174
+19	of	of	ADP	IN	_	21	case	_	start_char=175|end_char=177
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=178|end_char=182
+21	dog	dog	NOUN	NN	Number=Sing	18	obl	_	start_char=183|end_char=186
+22	.	.	PUNCT	.	_	4	punct	_	start_char=186|end_char=187
+

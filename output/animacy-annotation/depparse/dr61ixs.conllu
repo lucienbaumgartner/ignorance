@@ -1,0 +1,64 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	country	country	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=12
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=13|end_char=16
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux	_	start_char=17|end_char=21
+5	descending	descend	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=22|end_char=32
+6	into	into	ADP	IN	_	9	case	_	start_char=33|end_char=37
+7	insane	insane	ADJ	JJ	Degree=Pos	9	amod	_	start_char=38|end_char=44
+8	republican	Republican	ADJ	JJ	Degree=Pos	9	amod	_	start_char=45|end_char=55
+9	hysteria	hysteria	NOUN	NN	Number=Sing	5	obl	_	start_char=56|end_char=64
+10	for	for	ADP	IN	_	11	case	_	start_char=65|end_char=68
+11	decades	decade	NOUN	NNS	Number=Plur	5	obl	_	start_char=69|end_char=76
+12	.	.	PUNCT	.	_	5	punct	_	start_char=76|end_char=77
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=78|end_char=82
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=83|end_char=85
+3	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=85|end_char=88
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=89|end_char=90
+5	new	new	ADJ	JJ	Degree=Pos	6	amod	_	start_char=91|end_char=94
+6	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=95|end_char=100
+7	.	.	PUNCT	.	_	6	punct	_	start_char=100|end_char=101
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=102|end_char=104
+2	all	all	DET	DT	_	1	det	_	start_char=105|end_char=108
+3	should	should	AUX	MD	VerbForm=Fin	6	aux	_	start_char=109|end_char=115
+4	’ve	have	AUX	VB	VerbForm=Inf	6	aux	_	start_char=115|end_char=118
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	start_char=119|end_char=123
+6	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=124|end_char=129
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=130|end_char=133
+8	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	_	start_char=134|end_char=141
+9	to	to	PART	TO	_	10	mark	_	start_char=142|end_char=144
+10	prevent	prevent	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=145|end_char=152
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	10	obj	_	start_char=153|end_char=157
+12	.	.	PUNCT	.	_	6	punct	_	start_char=157|end_char=158
+
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=159|end_char=162
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=163|end_char=165
+3	better	well	ADV	RBR	_	5	advmod	_	start_char=166|end_char=172
+4	never	never	ADV	RB	_	5	advmod	_	start_char=173|end_char=178
+5	go	go	VERB	VB	VerbForm=Inf	0	root	_	start_char=179|end_char=181
+6	back	back	ADV	RB	_	5	advmod	_	start_char=182|end_char=186
+7	to	to	SCONJ	IN	_	9	mark	_	start_char=187|end_char=189
+8	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=190|end_char=195
+9	unaware	unaware	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=196|end_char=203
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=204|end_char=207
+11	unengaged	unengaged	ADJ	JJ	Degree=Pos	9	conj	_	start_char=208|end_char=217
+12	.	.	PUNCT	.	_	5	punct	_	start_char=217|end_char=218
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=219|end_char=221
+2	cannot	cannot	AUX	MD	VerbForm=Fin	3	aux	_	start_char=222|end_char=228
+3	allow	allow	VERB	VB	VerbForm=Inf	0	root	_	start_char=229|end_char=234
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=235|end_char=239
+5	to	to	PART	TO	_	6	mark	_	start_char=240|end_char=242
+6	happen	happen	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=243|end_char=249
+7	again	again	ADV	RB	_	6	advmod	_	start_char=250|end_char=255
+8	.	.	PUNCT	.	_	3	punct	_	start_char=255|end_char=256
+
+1	Never	never	ADV	RB	_	2	advmod	_	start_char=257|end_char=262
+2	disengage	disengage	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=263|end_char=272
+3	.	.	PUNCT	.	_	2	punct	_	start_char=272|end_char=273
+
+1	Stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=274|end_char=278
+2	involved	involved	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=279|end_char=287
+3	.	.	PUNCT	.	_	1	punct	_	start_char=287|end_char=288
+

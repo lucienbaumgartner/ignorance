@@ -1,0 +1,52 @@
+1	Oh	oh	INTJ	UH	_	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	Ok	ok	INTJ	UH	_	2	discourse	_	start_char=4|end_char=6
+2	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=11
+3	.	.	PUNCT	.	_	2	punct	_	start_char=11|end_char=12
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=13|end_char=16
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=16|end_char=19
+3	just	just	ADV	RB	_	4	advmod	_	start_char=20|end_char=24
+4	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=29
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=30|end_char=33
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=34|end_char=42
+7	.	.	PUNCT	.	_	4	punct	_	start_char=42|end_char=43
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=44|end_char=48
+2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=50|end_char=54
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=55|end_char=57
+4	more	more	ADV	RBR	_	5	advmod	_	start_char=58|end_char=62
+5	clear	clear	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=63|end_char=68
+6	.	.	PUNCT	.	_	2	punct	_	start_char=68|end_char=69
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=70|end_char=71
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=72|end_char=74
+3	interested	interested	ADJ	JJ	Degree=Pos	0	root	_	start_char=75|end_char=85
+4	though	though	ADV	RB	_	3	advmod	_	start_char=86|end_char=92
+5	,	,	PUNCT	,	_	3	punct	_	start_char=92|end_char=93
+6	why	why	ADV	WRB	PronType=Int	9	advmod	_	start_char=94|end_char=97
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=98|end_char=101
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=102|end_char=105
+9	hanging	hang	VERB	VBG	Tense=Pres|VerbForm=Part	3	parataxis	_	start_char=106|end_char=113
+10	around	around	ADP	IN	_	12	case	_	start_char=114|end_char=120
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=121|end_char=125
+12	sub	sub	NOUN	NN	Number=Sing	9	obl	_	start_char=126|end_char=129
+13	if	if	SCONJ	IN	_	17	mark	_	start_char=130|end_char=132
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	start_char=133|end_char=136
+15	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=136|end_char=139
+16	so	so	ADV	RB	_	17	advmod	_	start_char=140|end_char=142
+17	aggressive	aggressive	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=143|end_char=153
+18	towards	towards	ADP	IN	_	19	case	_	start_char=154|end_char=161
+19	religion	religion	NOUN	NN	Number=Sing	17	obl	_	start_char=162|end_char=170
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=171|end_char=174
+21	people	people	NOUN	NNS	Number=Plur	19	conj	_	start_char=175|end_char=181
+22	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	19	acl	_	start_char=182|end_char=190
+23	by	by	ADP	IN	_	24	case	_	start_char=191|end_char=193
+24	religion	religion	NOUN	NN	Number=Sing	22	obl	_	start_char=194|end_char=202
+25	?	?	PUNCT	.	_	3	punct	_	start_char=202|end_char=203
+
+1	Feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=204|end_char=209
+2	masochistic	masochistic	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=210|end_char=221
+3	.	.	PUNCT	.	_	1	punct	_	start_char=221|end_char=222
+

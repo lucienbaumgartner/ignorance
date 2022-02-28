@@ -1,0 +1,41 @@
+1	Inept	Inept	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=10|end_char=18
+4	of	of	ADP	IN	_	6	case	_	start_char=19|end_char=21
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=22|end_char=25
+6	situation	situation	NOUN	NN	Number=Sing	1	obl	_	start_char=26|end_char=35
+7	on	on	ADP	IN	_	9	case	_	start_char=36|end_char=38
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=39|end_char=42
+9	ground	ground	NOUN	NN	Number=Sing	6	nmod	_	start_char=43|end_char=49
+10	.	.	PUNCT	.	_	1	punct	_	start_char=49|end_char=50
+
+1	COVID	COVID	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=51|end_char=56
+2	and	and	CCONJ	CC	_	5	cc	_	start_char=57|end_char=60
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=61|end_char=64
+4	housing	housing	NOUN	NN	Number=Sing	5	compound	_	start_char=65|end_char=72
+5	situation	situation	NOUN	NN	Number=Sing	1	conj	_	start_char=73|end_char=82
+6	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=83|end_char=87
+7	steered	steer	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=88|end_char=95
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=96|end_char=98
+9	vote	vote	NOUN	NN	Number=Sing	7	obj	_	start_char=99|end_char=103
+10	in	in	ADP	IN	_	14	case	_	start_char=104|end_char=106
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=107|end_char=108
+12	very	very	ADV	RB	_	13	advmod	_	start_char=109|end_char=113
+13	clear	clear	ADJ	JJ	Degree=Pos	14	amod	_	start_char=114|end_char=119
+14	direction	direction	NOUN	NN	Number=Sing	7	obl	_	start_char=120|end_char=129
+15	.	.	PUNCT	.	_	7	punct	_	start_char=129|end_char=130
+
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=131|end_char=135
+2	pandering	pander	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=136|end_char=145
+3	to	to	ADP	IN	_	6	case	_	start_char=146|end_char=148
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=149|end_char=152
+5	older	old	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=153|end_char=158
+6	generation	generation	NOUN	NN	Number=Sing	2	obl	_	start_char=159|end_char=169
+7	,	,	PUNCT	,	_	12	punct	_	start_char=169|end_char=170
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=171|end_char=175
+9	ivory	ivory	NOUN	NN	Number=Sing	10	compound	_	start_char=176|end_char=181
+10	towers	tower	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=182|end_char=188
+11	will	will	AUX	MD	VerbForm=Fin	12	aux	_	start_char=189|end_char=193
+12	crumble	crumble	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=194|end_char=201
+13	.	.	PUNCT	.	_	1	punct	_	start_char=201|end_char=202
+

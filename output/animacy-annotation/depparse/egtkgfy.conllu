@@ -1,0 +1,33 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	1	punct	_	start_char=3|end_char=4
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=4|end_char=8
+4	n't	not	PART	RB	_	6	advmod	_	start_char=8|end_char=11
+5	really	really	ADV	RB	_	6	advmod	_	start_char=12|end_char=18
+6	do	do	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=19|end_char=21
+7	anything	anything	PRON	NN	Number=Sing	6	obj	_	start_char=22|end_char=30
+8	to	to	PART	TO	_	9	mark	_	start_char=31|end_char=33
+9	encourage	encourage	VERB	VB	VerbForm=Inf	7	acl	_	start_char=34|end_char=43
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=44|end_char=47
+11	cult	cult	NOUN	NN	Number=Sing	9	obj	_	start_char=48|end_char=52
+
+1	Lmao	lmao	INTJ	UH	_	0	root	_	start_char=54|end_char=58
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=60|end_char=61
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=61|end_char=63
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=69
+4	but	but	CCONJ	CC	_	8	cc	_	start_char=70|end_char=73
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=74|end_char=78
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=79|end_char=81
+7	so	so	ADV	RB	_	8	advmod	_	start_char=82|end_char=84
+8	naive	naive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=85|end_char=90
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=91|end_char=94
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=95|end_char=103
+11	that	that	SCONJ	IN	_	14	mark	_	start_char=104|end_char=108
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=109|end_char=111
+13	legitimately	legitimately	ADV	RB	_	14	advmod	_	start_char=112|end_char=124
+14	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=125|end_char=130
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	start_char=131|end_char=133
+16	question	question	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=134|end_char=142
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=143|end_char=147
+18	motivations	motivation	NOUN	NNS	Number=Plur	16	obj	_	start_char=148|end_char=159
+

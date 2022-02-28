@@ -1,0 +1,22 @@
+1	nah	nah	INTJ	UH	_	8	discourse	_	start_char=0|end_char=3
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=4|end_char=8
+3	sub	sub	NOUN	NN	Number=Sing	8	nsubj	_	start_char=9|end_char=12
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=13|end_char=15
+5	just	just	ADV	RB	_	8	advmod	_	start_char=16|end_char=20
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=21|end_char=22
+7	classic	classic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=23|end_char=30
+8	circlejerk	circlejerk	NOUN	NN	Number=Sing	0	root	_	start_char=31|end_char=41
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=43|end_char=45
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=45|end_char=47
+3	even	even	ADV	RB	_	6	advmod	_	start_char=48|end_char=52
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=53|end_char=54
+5	double	double	ADJ	JJ	Degree=Pos	6	amod	_	start_char=55|end_char=61
+6	whammy	whammy	NOUN	NN	Number=Sing	0	root	_	start_char=62|end_char=68
+7	of	of	ADP	IN	_	10	case	_	start_char=69|end_char=71
+8	self	self	NOUN	NN	Number=Sing	10	compound	_	start_char=72|end_char=76
+9	-	-	PUNCT	HYPH	_	10	punct	_	start_char=76|end_char=77
+10	unaware	unaware	ADJ	JJ	Degree=Pos	6	nmod	_	start_char=77|end_char=84
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=85|end_char=88
+12	meta	meta	NOUN	NN	Number=Sing	10	conj	_	start_char=89|end_char=93
+

@@ -1,0 +1,41 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=2|end_char=6
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=7|end_char=11
+4	what	what	PRON	WP	PronType=Int	6	nsubj	_	start_char=12|end_char=16
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=17|end_char=20
+6	racist	racist	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=21|end_char=27
+7	.	.	PUNCT	.	_	3	punct	_	start_char=27|end_char=28
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=29|end_char=32
+2	fail	fail	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=33|end_char=37
+3	to	to	PART	TO	_	4	mark	_	start_char=38|end_char=40
+4	see	see	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=41|end_char=44
+5	what	what	PRON	WP	PronType=Int	7	nsubj	_	start_char=45|end_char=49
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=50|end_char=52
+7	racist	racist	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=53|end_char=59
+8	because	because	SCONJ	IN	_	12	mark	_	start_char=60|end_char=67
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=68|end_char=71
+10	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=72|end_char=74
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=74|end_char=77
+12	think	think	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=78|end_char=83
+13	what	what	PRON	WP	PronType=Int	15	nsubj:pass	_	start_char=84|end_char=88
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	start_char=89|end_char=92
+15	pointed	point	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	ccomp	_	start_char=93|end_char=100
+16	out	out	ADP	RP	_	15	compound:prt	_	start_char=101|end_char=104
+17	as	as	SCONJ	IN	_	20	mark	_	start_char=105|end_char=107
+18	racist	racist	ADJ	JJ	Degree=Pos	20	nsubj	_	start_char=108|end_char=114
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=115|end_char=117
+20	racist	racist	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=118|end_char=124
+21	.	.	PUNCT	.	_	2	punct	_	start_char=124|end_char=125
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=126|end_char=130
+2	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=131|end_char=136
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=137|end_char=140
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=141|end_char=149
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=150|end_char=153
+6	racist	racist	ADJ	JJ	Degree=Pos	4	conj	_	start_char=154|end_char=160
+7	.	.	PUNCT	.	_	2	punct	_	start_char=160|end_char=161
+
+1	Congrats	congrat	NOUN	NNS	Number=Plur	0	root	_	start_char=162|end_char=170
+2	!	!	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+

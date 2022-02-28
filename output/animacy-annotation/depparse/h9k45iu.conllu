@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	sure	sure	ADV	RB	Degree=Pos	3	advmod	_	start_char=2|end_char=6
+3	hope	hope	VERB	VBP	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=12|end_char=15
+5	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=16|end_char=18
+6	n’t	not	PART	RB	Polarity=Neg	7	advmod	_	start_char=18|end_char=21
+7	get	get	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=22|end_char=25
+8	anyone	anyone	NOUN	NN	Number=Sing	7	obj	_	start_char=26|end_char=32
+9	sick	sick	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=33|end_char=37
+10	because	because	SCONJ	IN	_	13	mark	_	start_char=38|end_char=45
+11	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	start_char=46|end_char=49
+12	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=49|end_char=52
+13	asymptomatic	asymptomatic	ADJ	JJ	Degree=Pos	7	advcl	_	start_char=53|end_char=65
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=66|end_char=69
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=70|end_char=77
+16	that	that	SCONJ	IN	_	19	mark	_	start_char=78|end_char=82
+17	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	start_char=83|end_char=86
+18	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=86|end_char=89
+19	contagious	contagious	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=90|end_char=100
+20	.	.	PUNCT	.	_	3	punct	_	start_char=100|end_char=101
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=103|end_char=107
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=108|end_char=113
+3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	start_char=114|end_char=116
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=117|end_char=127
+5	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=128|end_char=135
+6	of	of	ADP	IN	_	7	case	_	start_char=136|end_char=138
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=139|end_char=142
+8	.	.	PUNCT	.	_	5	punct	_	start_char=142|end_char=143
+

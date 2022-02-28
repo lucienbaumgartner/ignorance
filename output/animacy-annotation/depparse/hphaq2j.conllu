@@ -1,0 +1,18 @@
+1	Gotcha	gotcha	NOUN	NN	Number=Sing	2	discourse	_	start_char=0|end_char=6
+2	thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=7|end_char=13
+3	.	.	PUNCT	.	_	2	punct	_	start_char=13|end_char=14
+
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=15|end_char=22
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=23|end_char=24
+3	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=24|end_char=26
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=27|end_char=35
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=36|end_char=39
+6	curious	curious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=40|end_char=47
+7	,	,	PUNCT	,	_	8	punct	_	start_char=47|end_char=48
+8	what	what	PRON	WP	PronType=Int	0	root	_	start_char=49|end_char=53
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=54|end_char=56
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=57|end_char=60
+11	Monroney	Monroney	PROPN	NNP	Number=Sing	12	compound	_	start_char=61|end_char=69
+12	label	label	NOUN	NN	Number=Sing	8	nsubj	_	start_char=70|end_char=75
+13	?	?	PUNCT	.	_	8	punct	_	start_char=75|end_char=76
+

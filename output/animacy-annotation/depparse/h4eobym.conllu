@@ -1,0 +1,32 @@
+1	Any	any	DET	DT	_	2	det	_	start_char=0|end_char=3
+2	lawyer	lawyer	NOUN	NN	Number=Sing	10	nsubj:pass	_	start_char=4|end_char=10
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=11|end_char=14
+4	signed	sign	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=15|end_char=21
+5	onto	onto	ADP	IN	_	7	case	_	start_char=22|end_char=26
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=27|end_char=31
+7	bullshit	bullshit	NOUN	NN	Number=Sing	4	obl	_	start_char=32|end_char=40
+8	should	should	AUX	MD	VerbForm=Fin	10	aux	_	start_char=41|end_char=47
+9	be	be	AUX	VB	VerbForm=Inf	10	aux:pass	_	start_char=48|end_char=50
+10	embarrassed	embarrass	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=51|end_char=62
+11	as	as	SCONJ	IN	_	13	mark	_	start_char=63|end_char=65
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=66|end_char=68
+13	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	start_char=69|end_char=74
+14	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	start_char=75|end_char=79
+15	look	look	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=80|end_char=84
+16	completely	completely	ADV	RB	_	17	advmod	_	start_char=85|end_char=95
+17	stupid	stupid	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=96|end_char=102
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=103|end_char=106
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=107|end_char=115
+20	of	of	ADP	IN	_	22	case	_	start_char=116|end_char=118
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=119|end_char=122
+22	law	law	NOUN	NN	Number=Sing	19	obl	_	start_char=123|end_char=126
+23	.	.	PUNCT	.	_	10	punct	_	start_char=126|end_char=127
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=128|end_char=132
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=133|end_char=135
+3	pathetic	pathetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=136|end_char=144
+4	,	,	PUNCT	,	_	3	punct	_	start_char=144|end_char=145
+5	just	just	ADV	RB	_	6	advmod	_	start_char=146|end_char=150
+6	pathetic	pathetic	ADJ	JJ	Degree=Pos	3	conj	_	start_char=151|end_char=159
+7	.	.	PUNCT	.	_	3	punct	_	start_char=159|end_char=160
+

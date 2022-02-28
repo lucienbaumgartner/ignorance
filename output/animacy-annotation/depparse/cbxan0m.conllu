@@ -1,0 +1,37 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=11
+5	any	any	DET	DT	_	6	det	_	start_char=12|end_char=15
+6	misrepresentation	misrepresentation	NOUN	NN	Number=Sing	4	obj	_	start_char=16|end_char=33
+7	though	though	ADV	RB	_	4	advmod	_	start_char=34|end_char=40
+8	.	.	PUNCT	.	_	4	punct	_	start_char=40|end_char=41
+
+1	All	all	DET	PDT	_	4	det:predet	_	start_char=42|end_char=45
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=46|end_char=49
+3	ad	ad	NOUN	NN	Number=Sing	4	compound	_	start_char=50|end_char=52
+4	states	state	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=53|end_char=59
+5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=62
+6	that	that	SCONJ	IN	_	12	mark	_	start_char=63|end_char=67
+7	MDMA	MDMA	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=68|end_char=72
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=73|end_char=75
+9	not	not	PART	RB	_	12	advmod	_	start_char=76|end_char=79
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=80|end_char=81
+11	good	good	ADJ	JJ	Degree=Pos	12	amod	_	start_char=82|end_char=86
+12	time	time	NOUN	NN	Number=Sing	5	ccomp	_	start_char=87|end_char=91
+13	if	if	SCONJ	IN	_	14	mark	_	start_char=92|end_char=94
+14	slipped	slip	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	start_char=95|end_char=102
+15	to	to	ADP	IN	_	16	case	_	start_char=103|end_char=105
+16	someone	someone	PRON	NN	Number=Sing	14	obl	_	start_char=106|end_char=113
+17	who	who	PRON	WP	PronType=Rel	20	nsubj	_	start_char=114|end_char=117
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=118|end_char=120
+19	very	very	ADV	RB	_	20	advmod	_	start_char=121|end_char=125
+20	drunk	drunk	ADJ	JJ	Degree=Pos	16	acl:relcl	_	start_char=126|end_char=131
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=132|end_char=135
+22	unaware	unaware	ADJ	JJ	Degree=Pos	20	conj	_	start_char=136|end_char=143
+23	that	that	SCONJ	IN	_	26	mark	_	start_char=144|end_char=148
+24	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	start_char=149|end_char=153
+25	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	aux	_	start_char=154|end_char=157
+26	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	22	ccomp	_	start_char=158|end_char=164
+27	MDMA	MDMA	PROPN	NNP	Number=Sing	26	obj	_	start_char=165|end_char=169
+

@@ -1,0 +1,13 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	sorry	sorry	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=23
+
+1	But	but	CCONJ	CC	_	2	cc	_	start_char=25|end_char=28
+2	what	what	PRON	WP	PronType=Int	0	root	_	start_char=29|end_char=33
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=34|end_char=37
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=38|end_char=43
+5	songs	song	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=44|end_char=49
+6	?	?	PUNCT	.	_	2	punct	_	start_char=49|end_char=50
+

@@ -1,0 +1,20 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=0|end_char=5
+2	too	too	ADV	RB	Degree=Pos	3	advmod	_	start_char=6|end_char=9
+3	one	one	NUM	CD	NumType=Card	4	nsubj	_	start_char=10|end_char=13
+4	dimensional	dimensional	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=47
+9	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=48|end_char=54
+10	to	to	PART	TO	_	11	mark	_	start_char=55|end_char=57
+11	listen	listen	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=58|end_char=64
+12	to	to	ADP	IN	_	14	case	_	start_char=65|end_char=67
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=68|end_char=71
+14	viewpoint	viewpoint	NOUN	NN	Number=Sing	11	obl	_	start_char=72|end_char=81
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=82|end_char=85
+16	things	thing	NOUN	NNS	Number=Plur	14	conj	_	start_char=86|end_char=92
+17	from	from	ADP	IN	_	19	case	_	start_char=93|end_char=97
+18	other	other	ADJ	JJ	Degree=Pos	19	amod	_	start_char=98|end_char=103
+19	perspectives	perspective	NOUN	NNS	Number=Plur	16	nmod	_	start_char=104|end_char=116
+

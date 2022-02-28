@@ -1,0 +1,33 @@
+1	Yeah	yeah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=4
+2	exactly	exactly	ADV	RB	Degree=Pos	7	advmod	_	start_char=5|end_char=12
+3	,	,	PUNCT	,	_	7	punct	_	start_char=12|end_char=13
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj:pass	_	start_char=14|end_char=18
+5	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=18|end_char=21
+6	so	so	ADV	RB	_	7	advmod	_	start_char=22|end_char=24
+7	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=25|end_char=33
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=34|end_char=37
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=38|end_char=45
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=46|end_char=50
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=51|end_char=55
+12	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=56|end_char=58
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=58|end_char=61
+14	realize	realize	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=62|end_char=69
+15	how	how	SCONJ	WRB	PronType=Int	16	mark	_	start_char=70|end_char=73
+16	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	14	ccomp	_	start_char=74|end_char=86
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=87|end_char=89
+18	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=90|end_char=92
+19	,	,	PUNCT	,	_	23	punct	_	start_char=92|end_char=93
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=94|end_char=96
+21	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=96|end_char=98
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=99|end_char=102
+23	definition	definition	NOUN	NN	Number=Sing	7	parataxis	_	start_char=103|end_char=113
+24	of	of	ADP	IN	_	25	case	_	start_char=114|end_char=116
+25	irony	irony	NOUN	NN	Number=Sing	23	nmod	_	start_char=117|end_char=122
+26	.	.	PUNCT	.	_	7	punct	_	start_char=122|end_char=123
+
+1	Cant	cant	AUX	MD	VerbForm=Fin	2	aux	_	start_char=125|end_char=129
+2	fix	fix	VERB	VB	VerbForm=Inf	0	root	_	start_char=130|end_char=133
+3	stupid	stupid	ADJ	JJ	Degree=Pos	4	amod	_	start_char=134|end_char=140
+4	🤷‍♂	🤷‍♂	NOUN	NNS	Number=Sing	2	obj	_	start_char=141|end_char=144
+5	️	''	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

@@ -1,0 +1,44 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	so	so	ADV	RB	_	4	advmod	_	start_char=8|end_char=10
+4	stubborn	stubborn	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=32
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=33|end_char=37
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=38|end_char=40
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=40|end_char=42
+10	time	time	NOUN	NN	Number=Sing	6	ccomp	_	start_char=43|end_char=47
+11	to	to	PART	TO	_	13	mark	_	start_char=48|end_char=50
+12	just	just	ADV	RB	_	13	advmod	_	start_char=51|end_char=55
+13	block	block	VERB	VB	VerbForm=Inf	10	acl	_	start_char=56|end_char=61
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	13	obj	_	start_char=62|end_char=65
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=66|end_char=69
+16	move	move	VERB	VB	VerbForm=Inf	13	conj	_	start_char=70|end_char=74
+17	on	on	ADP	RP	_	16	compound:prt	_	start_char=75|end_char=77
+18	.	.	PUNCT	.	_	4	punct	_	start_char=77|end_char=78
+
+1	Think	think	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=79|end_char=84
+2	whatever	whatever	PRON	WP	PronType=Int	4	obj	_	start_char=85|end_char=93
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=94|end_char=97
+4	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	start_char=98|end_char=102
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=103|end_char=106
+6	dish	dish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=107|end_char=111
+7	out	out	ADP	RP	_	6	compound:prt	_	start_char=112|end_char=115
+8	opinions	opinion	NOUN	NNS	Number=Plur	6	obj	_	start_char=116|end_char=124
+9	as	as	ADP	IN	_	10	case	_	start_char=125|end_char=127
+10	fact	fact	NOUN	NN	Number=Sing	6	obl	_	start_char=128|end_char=132
+11	because	because	SCONJ	IN	_	13	mark	_	start_char=133|end_char=140
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=141|end_char=144
+13	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=145|end_char=150
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=151|end_char=154
+15	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=155|end_char=159
+16	everything	everything	PRON	NN	Number=Sing	15	obj	_	start_char=160|end_char=170
+17	.	.	PUNCT	.	_	1	punct	_	start_char=170|end_char=171
+
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=172|end_char=178
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=179|end_char=183
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=184|end_char=187
+4	are	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=188|end_char=191
+5	insufferable	insufferable	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=192|end_char=204
+6	.	.	PUNCT	.	_	2	punct	_	start_char=204|end_char=205
+

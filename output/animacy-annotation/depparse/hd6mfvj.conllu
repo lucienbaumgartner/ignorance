@@ -1,0 +1,21 @@
+1	"	"	PUNCT	``	_	8	punct	_	start_char=0|end_char=1
+2	Real	real	ADJ	JJ	Degree=Pos	3	amod	_	start_char=1|end_char=5
+3	men	man	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=6|end_char=9
+4	"	"	PUNCT	''	_	3	punct	_	start_char=9|end_char=10
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=11|end_char=14
+6	also	also	ADV	RB	_	8	advmod	_	start_char=15|end_char=19
+7	terminally	terminally	ADV	RB	_	8	advmod	_	start_char=20|end_char=30
+8	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=31|end_char=37
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=38|end_char=41
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=42|end_char=50
+11	of	of	ADP	IN	_	15	case	_	start_char=51|end_char=53
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=54|end_char=57
+13	most	most	ADV	RBS	_	14	advmod	_	start_char=58|end_char=62
+14	basic	basic	ADJ	JJ	Degree=Pos	15	amod	_	start_char=63|end_char=68
+15	facts	fact	NOUN	NNS	Number=Plur	10	obl	_	start_char=69|end_char=74
+16	.	.	PUNCT	.	_	8	punct	_	start_char=74|end_char=75
+
+1	Essential	Essential	ADJ	JJ	Degree=Pos	2	amod	_	start_char=76|end_char=85
+2	traits	trait	NOUN	NNS	Number=Plur	0	root	_	start_char=86|end_char=92
+3	.	.	PUNCT	.	_	2	punct	_	start_char=92|end_char=93
+

@@ -1,0 +1,48 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=3|end_char=5
+3	all	all	DET	PDT	_	5	det:predet	_	start_char=6|end_char=9
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=10|end_char=13
+5	powers	power	NOUN	NNS	Number=Plur	0	root	_	start_char=14|end_char=20
+6	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	_	start_char=21|end_char=29
+7	.	.	PUNCT	.	_	5	punct	_	start_char=29|end_char=30
+
+1	Essentially	essentially	ADV	RB	_	4	advmod	_	start_char=31|end_char=42
+2	,	,	PUNCT	,	_	1	punct	_	start_char=42|end_char=43
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=44|end_char=46
+4	everything	everything	PRON	NN	Number=Sing	0	root	_	start_char=47|end_char=57
+5	.	.	PUNCT	.	_	4	punct	_	start_char=57|end_char=58
+
+1	One	one	PRON	PRP	_	3	nsubj	_	start_char=59|end_char=62
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	start_char=63|end_char=68
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=69|end_char=73
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=74|end_char=75
+5	solid	solid	ADJ	JJ	Degree=Pos	6	amod	_	start_char=76|end_char=81
+6	argument	argument	NOUN	NN	Number=Sing	3	obj	_	start_char=82|end_char=90
+7	that	that	PRON	WDT	PronType=Rel	11	obj	_	start_char=91|end_char=95
+8	Captain	Captain	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=96|end_char=103
+9	Planet	Planet	PROPN	NNP	Number=Sing	8	flat	_	start_char=104|end_char=110
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=111|end_char=113
+11	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	6	acl:relcl	_	start_char=114|end_char=119
+12	Don	Don	PROPN	NNP	Number=Sing	11	obj	_	start_char=120|end_char=123
+13	Cheadle	Cheadle	PROPN	NNP	Number=Sing	12	flat	_	start_char=124|end_char=131
+14	like	like	ADP	IN	_	17	case	_	start_char=132|end_char=136
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=137|end_char=138
+16	Clark	Clark	PROPN	NNP	Number=Sing	17	compound	_	start_char=139|end_char=144
+17	Kent	Kent	PROPN	NNP	Number=Sing	11	obl	_	start_char=145|end_char=149
+18	to	to	PART	TO	_	19	mark	_	start_char=150|end_char=152
+19	make	make	VERB	VB	VerbForm=Inf	11	advcl	_	start_char=153|end_char=157
+20	those	that	PRON	DT	Number=Plur|PronType=Dem	19	obj	_	start_char=158|end_char=163
+21	around	around	ADP	IN	_	22	case	_	start_char=164|end_char=170
+22	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod	_	start_char=171|end_char=174
+23	unaware	unaware	ADJ	JJ	Degree=Pos	20	amod	_	start_char=175|end_char=182
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=183|end_char=186
+25	comfortable	comfortable	ADJ	JJ	Degree=Pos	23	conj	_	start_char=187|end_char=198
+26	.	.	PUNCT	.	_	3	punct	_	start_char=198|end_char=199
+
+1	War	War	PROPN	NNP	Number=Sing	2	compound	_	start_char=200|end_char=203
+2	Machine	Machine	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=204|end_char=211
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=212|end_char=214
+4	Captain	Captain	PROPN	NNP	Number=Sing	0	root	_	start_char=215|end_char=222
+5	Planet	Planet	PROPN	NNP	Number=Sing	4	flat	_	start_char=223|end_char=229
+6	.	.	PUNCT	.	_	4	punct	_	start_char=229|end_char=230
+

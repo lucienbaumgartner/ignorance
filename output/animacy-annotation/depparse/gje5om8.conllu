@@ -1,0 +1,42 @@
+1	"	"	PUNCT	``	_	0	root	_	start_char=0|end_char=1
+
+1	Unskilled	unskilled	ADJ	JJ	Degree=Pos	15	nsubj	_	start_char=2|end_char=11
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=12|end_char=15
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=16|end_char=23
+4	of	of	ADP	IN	_	5	case	_	start_char=24|end_char=26
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=27|end_char=29
+6	:	:	PUNCT	:	_	15	punct	_	start_char=29|end_char=30
+7	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=31|end_char=34
+8	difficulties	difficulty	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=35|end_char=47
+9	in	in	SCONJ	IN	_	10	mark	_	start_char=48|end_char=50
+10	recognizing	recognize	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=51|end_char=62
+11	one	one	NUM	CD	NumType=Card	14	nmod:poss	_	start_char=63|end_char=66
+12	's	's	PART	POS	_	11	case	_	start_char=66|end_char=68
+13	own	own	ADJ	JJ	Degree=Pos	14	amod	_	start_char=69|end_char=72
+14	incompetence	incompetence	NOUN	NN	Number=Sing	10	obj	_	start_char=73|end_char=85
+15	lead	lead	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=86|end_char=90
+16	to	to	ADP	IN	_	20	case	_	start_char=91|end_char=93
+17	inflated	inflate	VERB	VBN	Tense=Past|VerbForm=Part	20	amod	_	start_char=94|end_char=102
+18	self	self	NOUN	NN	Number=Sing	20	compound	_	start_char=103|end_char=107
+19	-	-	PUNCT	HYPH	_	20	punct	_	start_char=107|end_char=108
+20	assessments	assessment	NOUN	NNS	Number=Plur	15	obl	_	start_char=108|end_char=119
+21	"	"	PUNCT	''	_	15	punct	_	start_char=119|end_char=120
+
+1	J	J	PROPN	NNP	Number=Sing	0	root	_	start_char=122|end_char=123
+2	Kruger	Kruger	PROPN	NNP	Number=Sing	1	flat	_	start_char=124|end_char=130
+3	et	et	X	FW	_	4	cc	_	start_char=131|end_char=133
+4	al.	al.	X	FW	Abbr=Yes	1	conj	_	start_char=134|end_char=137
+
+1	J	J	PROPN	NNP	Number=Sing	0	root	_	start_char=138|end_char=139
+2	Pers	Per	PROPN	NNP	Number=Sing	1	flat	_	start_char=140|end_char=144
+3	Soc	Soc	PROPN	NNP	Number=Sing	1	flat	_	start_char=145|end_char=148
+4	Psychol	Psychol	PROPN	NNP	Number=Sing	1	flat	_	start_char=149|end_char=156
+5	.	.	PUNCT	.	_	1	punct	_	start_char=156|end_char=157
+
+1	1999	1999	NUM	CD	NumType=Card	0	root	_	start_char=158|end_char=162
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=165|end_char=167
+2	explains	explain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=168|end_char=176
+3	much	much	ADV	RB	_	2	obj	_	start_char=177|end_char=181
+4	.	.	PUNCT	.	_	2	punct	_	start_char=181|end_char=182
+

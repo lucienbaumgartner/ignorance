@@ -1,0 +1,22 @@
+1	what	what	PRON	WP	PronType=Int	3	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=6
+3	troubling	troubling	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=16
+4	about	about	ADP	IN	_	6	case	_	start_char=17|end_char=22
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=23|end_char=26
+6	past	past	NOUN	NN	Number=Sing	3	obl	_	start_char=27|end_char=31
+7	?	?	PUNCT	.	_	3	punct	_	start_char=31|end_char=32
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=33|end_char=34
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=34|end_char=36
+3	genuinely	genuinely	ADV	RB	_	4	advmod	_	start_char=37|end_char=46
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=47|end_char=54
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=55|end_char=58
+6	curious	curious	ADJ	JJ	Degree=Pos	4	conj	_	start_char=59|end_char=66
+7	.	.	PUNCT	.	_	4	punct	_	start_char=66|end_char=67
+
+1	Edit	edit	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=73
+2	:	:	PUNCT	:	_	1	punct	_	start_char=73|end_char=74
+3	Dawkins	Dawkins	PROPN	NNP	Number=Sing	5	nmod:poss	_	start_char=75|end_char=82
+4	's	's	PART	POS	_	3	case	_	start_char=82|end_char=84
+5	past	past	NOUN	NN	Number=Sing	1	appos	_	start_char=85|end_char=89
+

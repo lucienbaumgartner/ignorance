@@ -1,0 +1,20 @@
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=0|end_char=3
+2	all	all	DET	PDT	_	3	det:predet	_	start_char=4|end_char=7
+3	those	that	PRON	DT	Number=Plur|PronType=Dem	0	root	_	start_char=8|end_char=13
+4	who	who	PRON	WP	PronType=Rel	6	nsubj:pass	_	start_char=14|end_char=17
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=18|end_char=22
+6	murdered	murder	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	acl:relcl	_	start_char=23|end_char=31
+7	to	to	PART	TO	_	8	mark	_	start_char=32|end_char=34
+8	keep	keep	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=35|end_char=39
+9	humanity	humanity	NOUN	NN	Number=Sing	8	obj	_	start_char=40|end_char=48
+10	blind	blind	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=49|end_char=54
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=55|end_char=58
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=59|end_char=67
+13	of	of	ADP	IN	_	15	case	_	start_char=68|end_char=70
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=71|end_char=74
+15	reality	reality	NOUN	NN	Number=Sing	12	obl	_	start_char=75|end_char=82
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	start_char=83|end_char=85
+17	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=86|end_char=90
+18	in	in	ADP	IN	_	17	obl	_	start_char=91|end_char=93
+19	.	.	PUNCT	.	_	3	punct	_	start_char=93|end_char=94
+

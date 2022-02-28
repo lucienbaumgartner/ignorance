@@ -1,0 +1,32 @@
+1	I'd	if	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=3
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	say	say	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=15
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=16|end_char=19
+6	conservatives	conservative	NOUN	NNS	Number=Plur	4	obj	_	start_char=20|end_char=33
+7	as	as	ADV	RB	_	8	advmod	_	start_char=35|end_char=37
+8	long	long	ADV	RB	Degree=Pos	4	advmod	_	start_char=38|end_char=42
+9	as	as	SCONJ	IN	_	14	mark	_	start_char=43|end_char=45
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=46|end_char=49
+11	libs	lib	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=50|end_char=54
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=55|end_char=57
+13	n't	not	PART	RB	_	14	advmod	_	start_char=57|end_char=60
+14	control	control	VERB	VB	VerbForm=Inf	8	advcl	_	start_char=61|end_char=68
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=69|end_char=72
+16	government	government	NOUN	NN	Number=Sing	14	obj	_	start_char=73|end_char=83
+17	.	.	PUNCT	.	_	2	punct	_	start_char=83|end_char=84
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=85|end_char=87
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=87|end_char=89
+3	quite	quite	ADV	RB	_	4	advmod	_	start_char=90|end_char=95
+4	biased	biased	ADJ	JJ	Degree=Pos	0	root	_	start_char=96|end_char=102
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=103|end_char=106
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=107|end_char=115
+7	of	of	ADP	IN	_	8	case	_	start_char=116|end_char=118
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=119|end_char=122
+9	to	to	PART	TO	_	10	mark	_	start_char=123|end_char=125
+10	say	say	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=126|end_char=129
+11	liberals	liberal	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=130|end_char=138
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=139|end_char=142
+13	smarter	smart	ADJ	JJR	Degree=Cmp	10	ccomp	_	start_char=143|end_char=150
+

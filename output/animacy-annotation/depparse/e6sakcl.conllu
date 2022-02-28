@@ -1,0 +1,56 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=11|end_char=14
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=15|end_char=22
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=23|end_char=26
+7	insensitive	insensitive	ADJ	JJ	Degree=Pos	5	conj	_	start_char=27|end_char=38
+8	many	many	ADJ	JJ	Degree=Pos	9	amod	_	start_char=39|end_char=43
+9	guys	guy	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=44|end_char=48
+10	can	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=49|end_char=52
+11	be	be	VERB	VB	VerbForm=Inf	5	cop	_	start_char=53|end_char=55
+12	.	.	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=57|end_char=60
+2	rarely	rarely	ADV	RB	_	3	advmod	_	start_char=61|end_char=67
+3	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=68|end_char=71
+4	comments	comment	NOUN	NNS	Number=Plur	3	obj	_	start_char=72|end_char=80
+5	from	from	ADP	IN	_	6	case	_	start_char=81|end_char=85
+6	women	woman	NOUN	NNS	Number=Plur	4	nmod	_	start_char=86|end_char=91
+7	,	,	PUNCT	,	_	8	punct	_	start_char=91|end_char=92
+8	ugly	ugly	ADJ	JJ	Degree=Pos	6	conj	_	start_char=92|end_char=96
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=97|end_char=99
+10	stacy	stacy	NOUN	NN	Number=Sing	6	conj	_	start_char=100|end_char=105
+11	,	,	PUNCT	,	_	3	punct	_	start_char=105|end_char=106
+12	saying	say	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=107|end_char=113
+13	someone	someone	PRON	NN	Number=Sing	15	nsubj	_	start_char=114|end_char=121
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=122|end_char=124
+15	ugly	ugly	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=125|end_char=129
+16	.	.	PUNCT	.	_	3	punct	_	start_char=129|end_char=130
+
+1	Or	or	CCONJ	CC	_	10	cc	_	start_char=131|end_char=133
+2	someone	someone	PRON	NN	Number=Sing	0	root	_	start_char=134|end_char=141
+3	saying	say	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=142|end_char=148
+4	hi	hi	INTJ	UH	_	3	obj	_	start_char=149|end_char=151
+5	only	only	ADV	RB	_	7	advmod	_	start_char=152|end_char=156
+6	to	to	ADP	IN	_	7	case	_	start_char=157|end_char=159
+7	chad	chad	PROPN	NNP	Number=Sing	3	obl	_	start_char=160|end_char=164
+8	and	and	CCONJ	CC	_	10	cc	_	start_char=165|end_char=168
+9	completely	completely	ADV	RB	_	10	advmod	_	start_char=169|end_char=179
+10	ignoring	ignore	VERB	VBG	VerbForm=Ger	3	conj	_	start_char=180|end_char=188
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=189|end_char=192
+12	ugly	ugly	ADJ	JJ	Degree=Pos	13	amod	_	start_char=193|end_char=197
+13	friends	friend	NOUN	NNS	Number=Plur	10	obj	_	start_char=198|end_char=205
+14	.	.	PUNCT	.	_	2	punct	_	start_char=205|end_char=206
+
+1	Usually	usually	ADV	RB	_	4	advmod	_	start_char=207|end_char=214
+2	women	woman	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=215|end_char=220
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=221|end_char=224
+4	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=225|end_char=229
+5	even	even	ADV	RB	_	9	advmod	_	start_char=230|end_char=234
+6	if	if	SCONJ	IN	_	9	mark	_	start_char=235|end_char=237
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=238|end_char=240
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=241|end_char=243
+9	superficial	superficial	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=244|end_char=255
+10	.	.	PUNCT	.	_	4	punct	_	start_char=255|end_char=256
+

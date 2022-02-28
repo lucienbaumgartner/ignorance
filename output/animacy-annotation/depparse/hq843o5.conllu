@@ -1,0 +1,29 @@
+1	Like	like	SCONJ	IN	_	3	mark	_	start_char=0|end_char=4
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	advcl	_	start_char=7|end_char=11
+4	,	,	PUNCT	,	_	13	punct	_	start_char=11|end_char=12
+5	if	if	SCONJ	IN	_	8	mark	_	start_char=13|end_char=15
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=16|end_char=17
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=18|end_char=21
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	advcl	_	start_char=22|end_char=30
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=31|end_char=34
+10	incorrect	incorrect	ADJ	JJ	Degree=Pos	8	conj	_	start_char=35|end_char=44
+11	,	,	PUNCT	,	_	13	punct	_	start_char=44|end_char=45
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=46|end_char=47
+13	apologize	apologize	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=48|end_char=57
+14	.	.	PUNCT	.	_	13	punct	_	start_char=57|end_char=58
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=59|end_char=62
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=63|end_char=64
+3	apologize	apologize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=65|end_char=74
+4	,	,	PUNCT	,	_	5	punct	_	start_char=74|end_char=75
+5	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=76|end_char=81
+6	like	like	SCONJ	IN	_	8	mark	_	start_char=82|end_char=86
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=87|end_char=88
+8	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=89|end_char=93
+9	to	to	PART	TO	_	10	mark	_	start_char=94|end_char=96
+10	do	do	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=97|end_char=99
+11	some	some	DET	DT	_	12	det	_	start_char=100|end_char=104
+12	reading	reading	NOUN	NN	Number=Sing	10	obj	_	start_char=105|end_char=112
+13	.	.	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+

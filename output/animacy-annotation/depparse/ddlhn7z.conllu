@@ -1,0 +1,31 @@
+1	**	**	PUNCT	NFP	_	8	punct	_	start_char=0|end_char=2
+2	"	"	PUNCT	``	_	8	punct	_	start_char=2|end_char=3
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=3|end_char=5
+4	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=5|end_char=8
+5	all	all	ADV	RB	_	8	advmod	_	start_char=9|end_char=12
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	cop	_	start_char=13|end_char=17
+7	quite	quite	ADV	RB	_	8	advmod	_	start_char=18|end_char=23
+8	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=31
+9	to	to	PART	TO	_	10	mark	_	start_char=32|end_char=34
+10	demean	demean	VERB	VB	VerbForm=Inf	8	acl	_	start_char=35|end_char=41
+11	government	government	NOUN	NN	Number=Sing	10	obj	_	start_char=42|end_char=52
+12	,	,	PUNCT	,	_	13	punct	_	start_char=52|end_char=53
+13	drop	drop	VERB	VB	VerbForm=Inf	10	conj	_	start_char=54|end_char=58
+14	civics	civic	NOUN	NNS	Number=Plur	13	obj	_	start_char=59|end_char=65
+15	,	,	PUNCT	,	_	19	punct	_	start_char=65|end_char=66
+16	and	and	CCONJ	CC	_	19	cc	_	start_char=67|end_char=70
+17	in	in	ADP	IN	_	18	case	_	start_char=71|end_char=73
+18	general	general	ADJ	JJ	Degree=Pos	19	obl	_	start_char=74|end_char=81
+19	conspire	conspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	conj	_	start_char=82|end_char=90
+20	to	to	PART	TO	_	21	mark	_	start_char=91|end_char=93
+21	produce	produce	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=94|end_char=101
+22	an	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	start_char=102|end_char=104
+23	unaware	unaware	ADJ	JJ	Degree=Pos	26	amod	_	start_char=105|end_char=112
+24	and	and	CCONJ	CC	_	25	cc	_	start_char=113|end_char=116
+25	compliant	compliant	ADJ	JJ	Degree=Pos	23	conj	_	start_char=117|end_char=126
+26	citizenry	citizenry	NOUN	NN	Number=Sing	21	obj	_	start_char=127|end_char=136
+27	"	"	PUNCT	''	_	8	punct	_	start_char=136|end_char=137
+28	**	**	PUNCT	NFP	_	8	punct	_	start_char=137|end_char=139
+
+1	https://wikileaks.org/podesta-emails/emailid/3599	https://wikileaks.org/podesta-emails/emailid/3599	X	ADD	_	0	root	_	start_char=141|end_char=190
+

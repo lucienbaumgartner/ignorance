@@ -1,0 +1,38 @@
+1	Precisely	precisely	ADV	RB	_	0	root	_	start_char=0|end_char=9
+2	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=11|end_char=17
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=18|end_char=22
+3	turn	turn	VERB	VB	VerbForm=Inf	0	root	_	start_char=23|end_char=27
+4	criticism	criticism	NOUN	NN	Number=Sing	3	obj	_	start_char=28|end_char=37
+5	of	of	ADP	IN	_	7	case	_	start_char=38|end_char=40
+6	religious	religious	ADJ	JJ	Degree=Pos	7	amod	_	start_char=41|end_char=50
+7	customs	custom	NOUN	NNS	Number=Plur	4	nmod	_	start_char=51|end_char=58
+8	or	or	CCONJ	CC	_	10	cc	_	start_char=59|end_char=61
+9	abusive	abusive	ADJ	JJ	Degree=Pos	10	amod	_	start_char=62|end_char=69
+10	practices	practice	NOUN	NNS	Number=Plur	7	conj	_	start_char=70|end_char=79
+11	into	into	ADP	IN	_	12	case	_	start_char=80|end_char=84
+12	racism	racism	NOUN	NN	Number=Sing	3	obl	_	start_char=85|end_char=91
+13	or	or	CCONJ	CC	_	14	cc	_	start_char=92|end_char=94
+14	hate	hate	VERB	VB	VerbForm=Inf	3	conj	_	start_char=95|end_char=99
+15	for	for	ADP	IN	_	17	case	_	start_char=100|end_char=103
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=104|end_char=107
+17	religion	religion	NOUN	NN	Number=Sing	14	obl	_	start_char=108|end_char=116
+18	as	as	ADP	IN	_	19	case	_	start_char=117|end_char=119
+19	such	such	ADJ	JJ	Degree=Pos	14	obl	_	start_char=120|end_char=124
+20	.	.	PUNCT	.	_	3	punct	_	start_char=124|end_char=125
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=126|end_char=128
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=128|end_char=130
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=131|end_char=141
+4	dismissive	dismissive	ADJ	JJ	Degree=Pos	0	root	_	start_char=142|end_char=152
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=153|end_char=156
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=157|end_char=165
+7	of	of	ADP	IN	_	9	case	_	start_char=166|end_char=168
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=169|end_char=172
+9	facts	fact	NOUN	NNS	Number=Plur	6	obl	_	start_char=173|end_char=178
+10	at	at	ADP	IN	_	12	case	_	start_char=179|end_char=181
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=182|end_char=185
+12	hand	hand	NOUN	NN	Number=Sing	9	nmod	_	start_char=186|end_char=190
+13	.	.	PUNCT	.	_	4	punct	_	start_char=190|end_char=191
+

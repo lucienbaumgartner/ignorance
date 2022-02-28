@@ -1,0 +1,24 @@
+1	Some	some	DET	DT	_	2	det	_	start_char=0|end_char=4
+2	guys	guy	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=5|end_char=9
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=13
+4	too	too	ADV	RB	_	5	advmod	_	start_char=14|end_char=17
+5	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=22
+6	to	to	PART	TO	_	7	mark	_	start_char=23|end_char=25
+7	tell	tell	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=26|end_char=30
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obj	_	start_char=31|end_char=34
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=35|end_char=39
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=40|end_char=43
+11	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=43|end_char=46
+12	overly	overly	ADV	RB	_	13	advmod	_	start_char=47|end_char=53
+13	aggressive	aggressive	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=54|end_char=64
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=65|end_char=68
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	conj	_	start_char=69|end_char=76
+16	of	of	ADP	IN	_	19	case	_	start_char=77|end_char=79
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=80|end_char=84
+18	own	own	ADJ	JJ	Degree=Pos	19	amod	_	start_char=85|end_char=88
+19	strength	strength	NOUN	NN	Number=Sing	15	obl	_	start_char=89|end_char=97
+20	&amp	&amp	PUNCT	NFP	_	5	punct	_	start_char=98|end_char=102
+21	;	;	PUNCT	:	_	22	punct	_	start_char=102|end_char=103
+22	weight	weight	NOUN	NN	Number=Sing	13	conj	_	start_char=104|end_char=110
+23	.	.	PUNCT	.	_	5	punct	_	start_char=110|end_char=111
+

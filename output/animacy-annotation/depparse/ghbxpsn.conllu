@@ -1,0 +1,47 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=1|end_char=3
+3	not	not	PART	RB	_	5	advmod	_	start_char=4|end_char=7
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=8|end_char=9
+5	psychic	psychic	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=17
+6	but	but	CCONJ	CC	_	11	cc	_	start_char=18|end_char=21
+7	without	without	ADP	IN	_	8	case	_	start_char=22|end_char=29
+8	weed	weed	NOUN	NN	Number=Sing	11	obl	_	start_char=30|end_char=34
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=35|end_char=36
+10	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=36|end_char=38
+11	solipstic	solipstic	ADJ	JJ	Degree=Pos	5	conj	_	start_char=39|end_char=48
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=49|end_char=52
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=53|end_char=60
+14	of	of	ADP	IN	_	16	case	_	start_char=61|end_char=63
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=64|end_char=66
+16	surroundings	surroundings	NOUN	NNS	Number=Plur	13	obl	_	start_char=67|end_char=79
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=80|end_char=83
+18	other	other	ADJ	JJ	Degree=Pos	19	amod	_	start_char=84|end_char=89
+19	people	people	NOUN	NNS	Number=Plur	16	conj	_	start_char=90|end_char=96
+20	.	.	PUNCT	.	_	5	punct	_	start_char=96|end_char=97
+
+1	With	with	ADP	IN	_	2	case	_	start_char=98|end_char=102
+2	weed	weed	NOUN	NN	Number=Sing	6	obl	_	start_char=103|end_char=107
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=108|end_char=109
+4	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=109|end_char=111
+5	hyper	hyper	ADV	RB	_	6	advmod	_	start_char=112|end_char=117
+6	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=118|end_char=123
+7	of	of	ADP	IN	_	8	case	_	start_char=124|end_char=126
+8	surroundings	surroundings	NOUN	NNS	Number=Plur	6	obl	_	start_char=127|end_char=139
+9	,	,	PUNCT	,	_	10	punct	_	start_char=139|end_char=140
+10	people	people	NOUN	NNS	Number=Plur	8	conj	_	start_char=141|end_char=147
+11	,	,	PUNCT	,	_	12	punct	_	start_char=147|end_char=148
+12	emotions	emotion	NOUN	NNS	Number=Plur	8	conj	_	start_char=149|end_char=157
+13	around	around	ADP	IN	_	14	case	_	start_char=158|end_char=164
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	start_char=165|end_char=167
+15	,	,	PUNCT	,	_	17	punct	_	start_char=167|end_char=168
+16	self	self	NOUN	NN	Number=Sing	17	nsubj	_	start_char=169|end_char=173
+17	conscious	conscious	ADJ	JJ	Degree=Pos	8	conj	_	start_char=174|end_char=183
+18	.	.	PUNCT	.	_	6	punct	_	start_char=183|end_char=184
+
+1	So	so	ADV	RB	_	6	advmod	_	start_char=185|end_char=187
+2	weed	weed	NOUN	NN	Number=Sing	6	nsubj	_	start_char=188|end_char=192
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=193|end_char=195
+4	not	not	PART	RB	_	6	advmod	_	start_char=196|end_char=199
+5	for	for	ADP	IN	_	6	case	_	start_char=200|end_char=203
+6	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	start_char=204|end_char=206
+

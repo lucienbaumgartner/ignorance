@@ -1,0 +1,31 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=4
+3	not	not	PART	RB	Polarity=Neg	2	advmod	_	start_char=5|end_char=8
+4	that	that	SCONJ	IN	_	8	mark	_	start_char=9|end_char=13
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=14|end_char=15
+6	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=16|end_char=18
+7	n’t	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=18|end_char=21
+8	believe	believe	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=22|end_char=29
+9	such	such	ADJ	JJ	Degree=Pos	10	amod	_	start_char=30|end_char=34
+10	people	people	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=35|end_char=41
+11	exist	exist	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=42|end_char=47
+12	.	.	PUNCT	.	_	2	punct	_	start_char=47|end_char=48
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=49|end_char=52
+2	tweet	tweet	NOUN	NN	Number=Sing	5	nsubj	_	start_char=53|end_char=58
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=59|end_char=61
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=62|end_char=72
+5	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=73|end_char=77
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=78|end_char=81
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=82|end_char=90
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=91|end_char=95
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=96|end_char=97
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=98|end_char=103
+11	someone	someone	PRON	NN	Number=Sing	16	nsubj	_	start_char=104|end_char=111
+12	who	who	PRON	WP	PronType=Rel	14	nsubj	_	start_char=112|end_char=115
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=116|end_char=118
+14	joking	joke	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=119|end_char=125
+15	would	would	AUX	MD	VerbForm=Fin	16	aux	_	start_char=126|end_char=131
+16	say	say	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=132|end_char=135
+17	.	.	PUNCT	.	_	5	punct	_	start_char=135|end_char=136
+

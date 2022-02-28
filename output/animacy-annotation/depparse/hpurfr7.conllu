@@ -1,0 +1,17 @@
+1	nah	nah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=3
+2	just	just	ADV	RB	_	7	advmod	_	start_char=4|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=9|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=13|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	violent	violent	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=33
+7	ones	one	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=34|end_char=38
+8	,	,	PUNCT	,	_	9	punct	_	start_char=38|end_char=39
+9	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=40|end_char=44
+10	generalizing	generalize	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=45|end_char=57
+11	shit	shit	NOUN	NN	Number=Sing	10	obj	_	start_char=58|end_char=62
+12	without	without	SCONJ	IN	_	13	mark	_	start_char=63|end_char=70
+13	seeing	see	VERB	VBG	VerbForm=Ger	9	advcl	_	start_char=71|end_char=77
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=78|end_char=81
+15	bigger	big	ADJ	JJR	Degree=Cmp	16	amod	_	start_char=82|end_char=88
+16	picture	picture	NOUN	NN	Number=Sing	13	obj	_	start_char=89|end_char=96
+

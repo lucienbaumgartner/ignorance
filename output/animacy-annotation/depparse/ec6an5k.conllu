@@ -1,0 +1,46 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5|end_char=7
+2	speaks	speak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=14
+3	to	to	ADP	IN	_	4	case	_	start_char=15|end_char=17
+4	much	much	ADV	RB	_	2	obl	_	start_char=18|end_char=22
+5	about	about	ADP	IN	_	8	case	_	start_char=23|end_char=28
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=29|end_char=33
+7	GFs	gfs	NOUN	NNS	Number=Plur	8	compound	_	start_char=34|end_char=37
+8	character	character	NOUN	NN	Number=Sing	2	obl	_	start_char=38|end_char=47
+9	that	that	SCONJ	IN	_	15	mark	_	start_char=48|end_char=52
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=53|end_char=56
+11	'd	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=56|end_char=58
+12	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=59|end_char=61
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=62|end_char=63
+14	willing	willing	ADJ	JJ	Degree=Pos	15	amod	_	start_char=64|end_char=71
+15	participate	participate	NOUN	NN	Number=Sing	2	advcl	_	start_char=72|end_char=83
+16	,	,	PUNCT	,	_	19	punct	_	start_char=83|end_char=84
+17	and	and	CCONJ	CC	_	19	cc	_	start_char=85|end_char=88
+18	so	so	ADV	RB	_	19	advmod	_	start_char=89|end_char=91
+19	blase`	blase`	ADJ	JJ	Degree=Pos	15	conj	_	start_char=92|end_char=98
+20	,	,	PUNCT	,	_	19	punct	_	start_char=98|end_char=99
+21	about	about	SCONJ	IN	_	22	mark	_	start_char=100|end_char=105
+22	participating	participate	VERB	VBG	VerbForm=Ger	19	advcl	_	start_char=106|end_char=119
+23	in	in	ADP	IN	_	24	case	_	start_char=120|end_char=122
+24	something	something	PRON	NN	Number=Sing	22	obl	_	start_char=123|end_char=132
+25	so	so	ADV	RB	_	26	advmod	_	start_char=133|end_char=135
+26	violating	violate	VERB	VBG	VerbForm=Ger	24	acl	_	start_char=136|end_char=145
+27	and	and	CCONJ	CC	_	28	cc	_	start_char=146|end_char=149
+28	degrading	degrade	VERB	VBG	VerbForm=Ger	26	conj	_	start_char=150|end_char=159
+29	for	for	ADP	IN	_	35	case	_	start_char=160|end_char=163
+30	an	a	DET	DT	Definite=Ind|PronType=Art	35	det	_	start_char=164|end_char=166
+31	unaware	unaware	ADJ	JJ	Degree=Pos	35	amod	_	start_char=167|end_char=174
+32	and	and	CCONJ	CC	_	33	cc	_	start_char=175|end_char=178
+33	unknowing	unknowing	ADJ	JJ	Degree=Pos	31	conj	_	start_char=179|end_char=188
+34	3rd	3rd	ADJ	JJ	Degree=Pos|NumType=Ord	35	amod	_	start_char=189|end_char=192
+35	party	party	NOUN	NN	Number=Sing	26	obl	_	start_char=193|end_char=198
+36	.	.	PUNCT	.	_	2	punct	_	start_char=198|end_char=199
+
+1	Shes	she	VERB	VB	Mood=Ind|VerbForm=Fin	0	root	_	start_char=202|end_char=206
+2	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=207|end_char=208
+3	disgusting	disgusting	ADJ	JJ	Degree=Pos	5	amod	_	start_char=209|end_char=219
+4	human	human	ADJ	JJ	Degree=Pos	5	amod	_	start_char=220|end_char=225
+5	being	being	NOUN	NN	Number=Sing	1	obj	_	start_char=226|end_char=231
+6	.	.	PUNCT	.	_	1	punct	_	start_char=231|end_char=232
+

@@ -1,0 +1,27 @@
+1	Fr	Fr	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=0|end_char=2
+2	ppl	ppl	PRON	PRP	PronType=Prs	6	nsubj	_	start_char=3|end_char=6
+3	nowadays	nowadays	ADV	RB	_	6	advmod	_	start_char=7|end_char=15
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=16|end_char=19
+5	too	too	ADV	RB	_	6	advmod	_	start_char=20|end_char=23
+6	stubborn	stubborn	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=46|end_char=49
+10	only	only	ADV	RB	_	11	advmod	_	start_char=50|end_char=54
+11	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=55|end_char=59
+12	af	af	NOUN	NN	Number=Sing	11	obj	_	start_char=60|end_char=62
+13	about	about	ADP	IN	_	17	case	_	start_char=63|end_char=68
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=69|end_char=74
+15	damn	damn	ADJ	JJ	Degree=Pos	17	amod	_	start_char=75|end_char=79
+16	stupid	stupid	ADJ	JJ	Degree=Pos	17	amod	_	start_char=80|end_char=86
+17	reps	rep	NOUN	NNS	Number=Plur	11	obl	_	start_char=87|end_char=91
+18	instead	instead	ADV	RB	_	20	mark	_	start_char=92|end_char=99
+19	of	of	SCONJ	IN	_	18	fixed	_	start_char=100|end_char=102
+20	realizing	realize	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=103|end_char=112
+21	what	what	PRON	WP	PronType=Int	23	nsubj	_	start_char=113|end_char=117
+22	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	start_char=117|end_char=119
+23	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	20	ccomp	_	start_char=120|end_char=129
+24	outside	outside	ADP	IN	_	26	case	_	start_char=130|end_char=137
+25	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	26	nmod:poss	_	start_char=138|end_char=143
+26	house	house	NOUN	NN	Number=Sing	23	obl	_	start_char=144|end_char=149
+

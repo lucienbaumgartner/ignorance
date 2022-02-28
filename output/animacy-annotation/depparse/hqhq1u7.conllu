@@ -1,0 +1,27 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	everything	everything	PRON	NN	Number=Sing	2	obj	_	start_char=10|end_char=20
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=21|end_char=24
+5	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=25|end_char=29
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=30|end_char=32
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=33|end_char=41
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=42|end_char=45
+9	hateful	hateful	ADJ	JJ	Degree=Pos	7	conj	_	start_char=46|end_char=53
+10	,	,	PUNCT	,	_	13	punct	_	start_char=53|end_char=54
+11	but	but	CCONJ	CC	_	13	cc	_	start_char=55|end_char=58
+12	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=59|end_char=62
+13	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=63|end_char=67
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=68|end_char=70
+15	anyway	anyway	ADV	RB	_	13	advmod	_	start_char=71|end_char=77
+16	because	because	SCONJ	IN	_	20	mark	_	start_char=78|end_char=85
+17	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=86|end_char=89
+18	only	only	ADJ	JJ	Degree=Pos	19	amod	_	start_char=90|end_char=94
+19	goal	goal	NOUN	NN	Number=Sing	20	nsubj	_	start_char=95|end_char=99
+20	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=100|end_char=102
+21	to	to	PART	TO	_	22	mark	_	start_char=103|end_char=105
+22	rile	rile	VERB	VB	VerbForm=Inf	20	ccomp	_	start_char=106|end_char=110
+23	up	up	ADP	RP	_	22	compound:prt	_	start_char=111|end_char=113
+24	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	_	start_char=114|end_char=117
+25	supporters	supporter	NOUN	NNS	Number=Plur	22	obj	_	start_char=118|end_char=128
+26	.	.	PUNCT	.	_	2	punct	_	start_char=128|end_char=129
+

@@ -1,0 +1,41 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=13
+5	intelligence	intelligence	NOUN	NN	Number=Sing	6	nsubj	_	start_char=14|end_char=26
+6	inures	inure	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=27|end_char=33
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	start_char=34|end_char=37
+8	from	from	SCONJ	IN	_	10	mark	_	start_char=38|end_char=42
+9	being	be	AUX	VBG	VerbForm=Ger	10	cop	_	start_char=43|end_char=48
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=49|end_char=57
+11	and	and	CCONJ	CC	_	14	cc	_	start_char=58|end_char=61
+12	thick	thick	ADJ	JJ	Degree=Pos	14	compound	_	start_char=62|end_char=67
+13	-	-	PUNCT	HYPH	_	14	punct	_	start_char=67|end_char=68
+14	headed	head	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	start_char=68|end_char=74
+15	,	,	PUNCT	,	_	16	punct	_	start_char=74|end_char=75
+16	sadly	sadly	ADV	RB	_	10	advmod	_	start_char=76|end_char=81
+17	.	.	PUNCT	.	_	4	punct	_	start_char=81|end_char=82
+
+1	Also	also	ADV	RB	_	3	advmod	_	start_char=84|end_char=88
+2	,	,	PUNCT	,	_	3	punct	_	start_char=88|end_char=89
+3	welcome	welcome	INTJ	UH	_	0	root	_	start_char=90|end_char=97
+4	to	to	ADP	IN	_	6	case	_	start_char=98|end_char=100
+5	Reddit	Reddit	PROPN	NNP	Number=Sing	6	compound	_	start_char=101|end_char=107
+6	newbie	newbie	NOUN	NN	Number=Sing	3	obl	_	start_char=108|end_char=114
+7	(	(	PUNCT	-LRB-	_	10	punct	_	start_char=115|end_char=116
+8	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=116|end_char=117
+9	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=117|end_char=119
+10	one	one	NUM	CD	NumType=Card	6	parataxis	_	start_char=120|end_char=123
+11	too	too	ADV	RB	_	10	advmod	_	start_char=124|end_char=127
+12	)	)	PUNCT	-RRB-	_	10	punct	_	start_char=127|end_char=128
+13	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=130|end_char=131
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=132|end_char=136
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	start_char=137|end_char=139
+4	both	both	DET	DT	_	3	det	_	start_char=140|end_char=144
+5	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=145|end_char=149
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	start_char=150|end_char=152
+7	here	here	ADV	RB	PronType=Dem	5	advmod	_	start_char=153|end_char=157
+8	.	.	PUNCT	.	_	2	punct	_	start_char=157|end_char=158
+

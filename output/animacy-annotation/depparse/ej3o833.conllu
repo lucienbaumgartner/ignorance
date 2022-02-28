@@ -1,0 +1,57 @@
+1	&gt	&gt	INTJ	UH	_	16	discourse	_	start_char=0|end_char=3
+2	;	;	PUNCT	,	_	16	punct	_	start_char=3|end_char=4
+3	As	as	ADP	IN	_	9	case	_	start_char=4|end_char=6
+4	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=7|end_char=9
+5	ICU	icu	NOUN	NN	Number=Sing	8	compound	_	start_char=10|end_char=13
+6	/	/	PUNCT	,	_	7	cc	_	start_char=13|end_char=14
+7	Rapid	rapid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=14|end_char=19
+8	Response	response	NOUN	NN	Number=Sing	9	compound	_	start_char=20|end_char=28
+9	RN	rn	NOUN	NN	Number=Sing	16	obl	_	start_char=29|end_char=31
+10	of	of	ADP	IN	_	12	case	_	start_char=32|end_char=34
+11	13	13	NUM	CD	NumType=Card	12	nummod	_	start_char=35|end_char=37
+12	years	year	NOUN	NNS	Number=Plur	9	nmod	_	start_char=38|end_char=43
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=44|end_char=45
+14	almost	almost	ADV	RB	_	16	advmod	_	start_char=46|end_char=52
+15	just	just	ADV	RB	_	16	advmod	_	start_char=53|end_char=57
+16	ranted	rant	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=58|end_char=64
+17	.	.	PUNCT	.	_	16	punct	_	start_char=64|end_char=65
+
+1	Then	then	ADV	RB	PronType=Dem	2	advmod	_	start_char=66|end_char=70
+2	decided	decide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=71|end_char=78
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj:pass	_	start_char=79|end_char=82
+4	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=82|end_char=85
+5	so	so	ADV	RB	_	6	advmod	_	start_char=86|end_char=88
+6	ill	ill	ADJ	JJ	Degree=Pos	7	advmod	_	start_char=89|end_char=92
+7	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=93|end_char=101
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=102|end_char=105
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=106|end_char=114
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=115|end_char=119
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=120|end_char=123
+12	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=123|end_char=126
+13	not	not	PART	RB	_	14	advmod	_	start_char=127|end_char=130
+14	worth	worth	ADJ	JJ	Degree=Pos	9	ccomp	_	start_char=131|end_char=136
+15	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=137|end_char=139
+16	time	time	NOUN	NN	Number=Sing	14	obj	_	start_char=140|end_char=144
+17	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+
+1	Lmao	lmao	INTJ	UH	_	0	root	_	start_char=148|end_char=152
+2	OK	ok	INTJ	UH	_	1	discourse	_	start_char=153|end_char=155
+3	.	.	PUNCT	.	_	1	punct	_	start_char=155|end_char=156
+
+1	Nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=157|end_char=161
+2	to	to	PART	TO	_	3	mark	_	start_char=162|end_char=164
+3	see	see	VERB	VB	VerbForm=Inf	1	csubj	_	start_char=165|end_char=168
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=169|end_char=172
+5	substitute	substitute	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=173|end_char=183
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=184|end_char=188
+7	job	job	NOUN	NN	Number=Sing	5	obj	_	start_char=189|end_char=192
+8	for	for	ADP	IN	_	10	case	_	start_char=193|end_char=196
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=197|end_char=198
+10	lack	lack	NOUN	NN	Number=Sing	5	obl	_	start_char=199|end_char=203
+11	of	of	ADP	IN	_	12	case	_	start_char=204|end_char=206
+12	personality	personality	NOUN	NN	Number=Sing	10	nmod	_	start_char=207|end_char=218
+13	there	there	ADV	RB	PronType=Dem	10	advmod	_	start_char=219|end_char=224
+14	Kevo	Kevo	PROPN	NNP	Number=Sing	12	appos	_	start_char=225|end_char=229
+15	CCRN	CCRN	PROPN	NNP	Number=Sing	14	flat	_	start_char=230|end_char=234
+16	.	.	PUNCT	.	_	1	punct	_	start_char=234|end_char=235
+

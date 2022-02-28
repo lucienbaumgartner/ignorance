@@ -1,0 +1,21 @@
+1	Lechialinc	Lechialinc	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=10
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=11|end_char=14
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=18
+4	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=40|end_char=43
+8	suffering	suffer	VERB	VBG	VerbForm=Ger	4	conj	_	start_char=44|end_char=53
+9	from	from	ADP	IN	_	10	case	_	start_char=54|end_char=58
+10	Dunning	Dunning	PROPN	NNP	Number=Sing	8	obl	_	start_char=59|end_char=66
+11	-	-	PUNCT	HYPH	_	10	punct	_	start_char=66|end_char=67
+12	Kruger	Kruger	PROPN	NNP	Number=Sing	10	flat	_	start_char=67|end_char=73
+13	.	.	PUNCT	.	_	4	punct	_	start_char=73|end_char=74
+
+1	Wear	wear	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=76|end_char=80
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=81|end_char=82
+3	mask	mask	NOUN	NN	Number=Sing	1	obj	_	start_char=83|end_char=87
+4	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=88|end_char=91
+5	utter	utter	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=92|end_char=97
+6	walloper	walloper	NOUN	NN	Number=Sing	5	obj	_	start_char=98|end_char=106
+

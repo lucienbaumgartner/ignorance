@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	start_char=8|end_char=12
+4	to	to	PART	TO	_	6	mark	_	start_char=13|end_char=15
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=16|end_char=18
+6	one	one	NUM	CD	NumType=Card	2	xcomp	_	start_char=19|end_char=22
+7	of	of	ADP	IN	_	15	case	_	start_char=23|end_char=25
+8	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=26|end_char=29
+9	most	most	ADV	RBS	_	12	advmod	_	start_char=30|end_char=34
+10	self	self	ADV	RB	_	12	advmod	_	start_char=35|end_char=39
+11	-	-	PUNCT	HYPH	_	12	punct	_	start_char=39|end_char=40
+12	unaware	unaware	ADJ	JJ	Degree=Pos	15	amod	_	start_char=40|end_char=47
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=48|end_char=51
+14	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	12	conj	_	start_char=52|end_char=64
+15	posts	post	NOUN	NNS	Number=Plur	6	nmod	_	start_char=65|end_char=70
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj:pass	_	start_char=71|end_char=73
+17	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	start_char=73|end_char=75
+18	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	acl:relcl	_	start_char=76|end_char=80
+19	yet	yet	ADV	RB	_	18	advmod	_	start_char=81|end_char=84
+20	.	.	PUNCT	.	_	2	punct	_	start_char=84|end_char=85
+

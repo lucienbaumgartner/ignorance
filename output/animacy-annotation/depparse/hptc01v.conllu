@@ -1,0 +1,12 @@
+1	So	so	ADV	RB	_	4	advmod	_	start_char=0|end_char=2
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=3|end_char=5
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=16
+5	AND	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	delusional	delusional	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=31
+7	.	.	PUNCT	.	_	4	punct	_	start_char=31|end_char=32
+
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=33|end_char=40
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	1	obj	_	start_char=41|end_char=45
+3	.	.	PUNCT	.	_	1	punct	_	start_char=45|end_char=46
+

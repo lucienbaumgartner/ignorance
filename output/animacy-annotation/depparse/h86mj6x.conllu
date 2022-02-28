@@ -1,0 +1,16 @@
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Bilkul	Bilkul	PROPN	NNP	Number=Sing	0	root	_	start_char=5|end_char=11
+2	laga	laga	PROPN	NNP	Number=Sing	1	flat	_	start_char=12|end_char=16
+3	.	.	PUNCT	.	_	1	punct	_	start_char=16|end_char=17
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=18|end_char=20
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=21|end_char=24
+3	unnecessary	unnecessary	ADJ	JJ	Degree=Pos	0	root	_	start_char=25|end_char=36
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=37|end_char=40
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=41|end_char=48
+6	of	of	ADP	IN	_	7	case	_	start_char=49|end_char=51
+7	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=52|end_char=55
+8	.	.	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+

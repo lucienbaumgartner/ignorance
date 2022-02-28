@@ -1,0 +1,19 @@
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=0|end_char=4
+2	exemplifies	exemplify	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=16
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=17|end_char=20
+4	toxicity	toxicity	NOUN	NN	Number=Sing	2	obj	_	start_char=21|end_char=29
+5	of	of	ADP	IN	_	6	case	_	start_char=30|end_char=32
+6	shoes	shoe	NOUN	NNS	Number=Plur	4	nmod	_	start_char=33|end_char=38
+7	,	,	PUNCT	,	_	2	punct	_	start_char=38|end_char=39
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	start_char=40|end_char=42
+9	've	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=42|end_char=45
+10	become	become	VERB	VBN	Tense=Past|VerbForm=Part	2	parataxis	_	start_char=46|end_char=52
+11	oblivious	oblivious	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=53|end_char=62
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=63|end_char=66
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=67|end_char=75
+14	of	of	ADP	IN	_	17	case	_	start_char=76|end_char=78
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=79|end_char=82
+16	own	own	ADJ	JJ	Degree=Pos	17	amod	_	start_char=83|end_char=86
+17	biology	biology	NOUN	NN	Number=Sing	13	obl	_	start_char=87|end_char=94
+18	...	...	PUNCT	.	_	2	punct	_	start_char=94|end_char=97
+

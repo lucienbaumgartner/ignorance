@@ -1,0 +1,18 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=2|end_char=4
+3	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=5|end_char=11
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=12|end_char=17
+5	cautious	cautious	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=18|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=39
+8	of	of	ADP	IN	_	9	case	_	start_char=40|end_char=42
+9	what	what	PRON	WP	PronType=Int	7	obl	_	start_char=43|end_char=47
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=48|end_char=50
+11	possible	possible	ADJ	JJ	Degree=Pos	9	acl:relcl	_	start_char=51|end_char=59
+12	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=60|end_char=64
+13	using	use	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=65|end_char=70
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=71|end_char=72
+15	places	place	NOUN	NNS	Number=Plur	13	obj	_	start_char=73|end_char=79
+16	wifi	wifi	NOUN	NN	Number=Sing	13	obj	_	start_char=80|end_char=84
+17	.	.	PUNCT	.	_	3	punct	_	start_char=84|end_char=85
+

@@ -1,0 +1,43 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=4|end_char=6
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=9
+3	extremely	extremely	ADV	RB	_	4	advmod	_	start_char=10|end_char=19
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=41
+7	of	of	ADP	IN	_	8	case	_	start_char=42|end_char=44
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=45|end_char=48
+9	to	to	PART	TO	_	10	mark	_	start_char=49|end_char=51
+10	claim	claim	VERB	VB	VerbForm=Inf	4	csubj	_	start_char=52|end_char=57
+11	that	that	SCONJ	IN	_	17	mark	_	start_char=58|end_char=62
+12	there	there	ADV	RB	PronType=Dem	17	advmod	_	start_char=63|end_char=68
+13	100	100	NUM	CD	NumType=Card	14	nummod	_	start_char=69|end_char=72
+14	%	%	SYM	NN	Number=Sing	17	nsubj	_	start_char=72|end_char=73
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=74|end_char=76
+16	no	no	DET	DT	_	17	det	_	start_char=77|end_char=79
+17	god	god	NOUN	NN	Number=Sing	10	ccomp	_	start_char=80|end_char=83
+18	,	,	PUNCT	,	_	17	punct	_	start_char=83|end_char=84
+19	especially	especially	ADV	RB	_	21	advmod	_	start_char=85|end_char=95
+20	without	without	ADP	IN	_	21	case	_	start_char=96|end_char=103
+21	evidence	evidence	NOUN	NN	Number=Sing	17	obl	_	start_char=104|end_char=112
+22	.	.	PUNCT	.	_	4	punct	_	start_char=112|end_char=113
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=115|end_char=117
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=118|end_char=120
+3	no	no	ADV	RB	_	4	advmod	_	start_char=121|end_char=123
+4	more	more	ADV	RBR	_	5	advmod	_	start_char=124|end_char=128
+5	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=129|end_char=137
+6	as	as	SCONJ	IN	_	7	mark	_	start_char=138|end_char=140
+7	saying	say	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=141|end_char=147
+8	unicorns	unicorn	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=148|end_char=156
+9	or	or	CCONJ	CC	_	15	cc	_	start_char=157|end_char=159
+10	Spiderman	Spiderman	PROPN	NNP	Number=Sing	8	conj	_	start_char=160|end_char=169
+11	100	100	NUM	CD	NumType=Card	12	nummod	_	start_char=170|end_char=173
+12	%	%	SYM	NN	Number=Sing	15	nsubj	_	start_char=173|end_char=174
+13	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=175|end_char=179
+14	no't	no't	PART	RB	_	15	advmod	_	start_char=180|end_char=184
+15	exist	exist	VERB	VB	VerbForm=Inf	7	ccomp	_	start_char=185|end_char=190
+16	.	.	PUNCT	.	_	5	punct	_	start_char=190|end_char=191
+

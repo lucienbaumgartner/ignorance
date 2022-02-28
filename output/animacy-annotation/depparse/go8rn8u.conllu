@@ -1,0 +1,24 @@
+1	Lets	let	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	be	be	AUX	VB	VerbForm=Inf	3	cop	_	start_char=5|end_char=7
+3	honest	honest	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=8|end_char=14
+4	....	....	PUNCT	.	_	1	punct	_	start_char=14|end_char=18
+
+1	Kevin	Kevin	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=18|end_char=23
+2	Feige	Feige	PROPN	NNP	Number=Sing	1	flat	_	start_char=24|end_char=29
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=30|end_char=32
+4	n't	not	PART	RB	_	6	advmod	_	start_char=32|end_char=35
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=36|end_char=40
+6	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=45
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=46|end_char=49
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=50|end_char=57
+9	of	of	ADP	IN	_	12	case	_	start_char=58|end_char=60
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=61|end_char=64
+11	fan	fan	NOUN	NN	Number=Sing	12	compound	_	start_char=65|end_char=68
+12	bases	basis	NOUN	NNS	Number=Plur	8	obl	_	start_char=69|end_char=74
+13	to	to	PART	TO	_	14	mark	_	start_char=75|end_char=77
+14	do	do	VERB	VB	VerbForm=Inf	12	acl	_	start_char=78|end_char=80
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=81|end_char=85
+16	cast	cast	NOUN	NN	Number=Sing	14	obj	_	start_char=86|end_char=90
+17	anyways	anyways	ADV	RB	_	14	advmod	_	start_char=91|end_char=98
+18	.....	.....	PUNCT	.	_	6	punct	_	start_char=98|end_char=103
+

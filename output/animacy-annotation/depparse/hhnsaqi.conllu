@@ -1,0 +1,36 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=0|end_char=4
+2	touched	touch	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=5|end_char=12
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	start_char=13|end_char=15
+4	in	in	ADP	IN	_	6	case	_	start_char=16|end_char=18
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+6	feels	feel	NOUN	NNS	Number=Plur	2	obl	_	start_char=23|end_char=28
+7	,	,	PUNCT	,	_	2	punct	_	start_char=28|end_char=29
+8	especially	especially	ADV	RB	_	13	advmod	_	start_char=30|end_char=40
+9	since	since	SCONJ	IN	_	13	mark	_	start_char=41|end_char=46
+10	BOTW	BOTW	PROPN	NNP	Number=Sing	11	compound	_	start_char=47|end_char=51
+11	Link	Link	PROPN	NNP	Number=Sing	13	nsubj:pass	_	start_char=52|end_char=56
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=57|end_char=59
+13	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	start_char=60|end_char=64
+14	to	to	PART	TO	_	18	mark	_	start_char=65|end_char=67
+15	have	have	AUX	VB	VerbForm=Inf	18	aux	_	start_char=68|end_char=72
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	cop	_	start_char=73|end_char=77
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=78|end_char=81
+18	youngest	young	ADJ	JJS	Degree=Sup	13	xcomp	_	start_char=82|end_char=90
+19	to	to	PART	TO	_	21	mark	_	start_char=91|end_char=93
+20	ever	ever	ADV	RB	_	21	advmod	_	start_char=94|end_char=98
+21	wield	wield	VERB	VB	VerbForm=Inf	18	xcomp	_	start_char=99|end_char=104
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=105|end_char=108
+23	sword	sword	NOUN	NN	Number=Sing	21	obj	_	start_char=109|end_char=114
+24	.	.	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=116|end_char=118
+2	young	young	ADJ	JJ	Degree=Pos	0	root	_	start_char=119|end_char=124
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=125|end_char=128
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=129|end_char=136
+5	of	of	ADP	IN	_	6	case	_	start_char=137|end_char=139
+6	what	what	PRON	WP	PronType=Int	4	obl	_	start_char=140|end_char=144
+7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=144|end_char=146
+8	to	to	PART	TO	_	9	mark	_	start_char=147|end_char=149
+9	come	come	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=150|end_char=154
+10	.	.	PUNCT	.	_	2	punct	_	start_char=154|end_char=155
+

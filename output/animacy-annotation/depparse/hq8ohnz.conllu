@@ -1,0 +1,72 @@
+1	Let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	’s	us	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	_	start_char=3|end_char=5
+3	put	put	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=6|end_char=9
+4	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=10|end_char=14
+5	theory	theory	NOUN	NN	Number=Sing	3	obj	_	start_char=15|end_char=21
+6	to	to	ADP	IN	_	8	case	_	start_char=22|end_char=24
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=25|end_char=26
+8	test	test	NOUN	NN	Number=Sing	3	obl	_	start_char=27|end_char=31
+9	.	.	PUNCT	.	_	1	punct	_	start_char=31|end_char=32
+
+1	Who	who	PRON	WP	PronType=Int	4	nsubj	_	start_char=33|end_char=36
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=37|end_char=39
+3	more	more	ADV	RBR	_	4	advmod	_	start_char=40|end_char=44
+4	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=52
+5	:	:	PUNCT	:	_	4	punct	_	start_char=52|end_char=53
+
+1	1	1	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=56|end_char=57
+2	.	.	PUNCT	.	_	1	punct	_	start_char=57|end_char=58
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=59|end_char=62
+2	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=63|end_char=69
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=70|end_char=73
+4	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=74|end_char=79
+5	natural	natural	ADJ	JJ	Degree=Pos	6	amod	_	start_char=80|end_char=87
+6	selection	selection	NOUN	NN	Number=Sing	4	obj	_	start_char=88|end_char=97
+7	to	to	PART	TO	_	8	mark	_	start_char=98|end_char=100
+8	make	make	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=101|end_char=105
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=106|end_char=109
+10	human	human	ADJ	JJ	Degree=Pos	11	amod	_	start_char=110|end_char=115
+11	race	race	NOUN	NN	Number=Sing	8	obj	_	start_char=116|end_char=120
+12	more	more	ADV	RBR	_	13	advmod	_	start_char=121|end_char=125
+13	conscious	conscious	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=126|end_char=135
+14	,	,	PUNCT	,	_	15	punct	_	start_char=135|end_char=136
+15	considerate	considerate	ADJ	JJ	Degree=Pos	13	conj	_	start_char=137|end_char=148
+16	,	,	PUNCT	,	_	17	punct	_	start_char=148|end_char=149
+17	thoughtful	thoughtful	ADJ	JJ	Degree=Pos	13	conj	_	start_char=150|end_char=160
+18	,	,	PUNCT	,	_	19	punct	_	start_char=160|end_char=161
+19	smart	smart	ADJ	JJ	Degree=Pos	13	conj	_	start_char=162|end_char=167
+20	,	,	PUNCT	,	_	22	punct	_	start_char=167|end_char=168
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=169|end_char=172
+22	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part	13	conj	_	start_char=173|end_char=181
+23	?	?	PUNCT	.	_	13	punct	_	start_char=181|end_char=182
+
+1	2	2	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=185|end_char=186
+2	.	.	PUNCT	.	_	1	punct	_	start_char=186|end_char=187
+
+1	Or	or	CCONJ	CC	_	3	cc	_	start_char=188|end_char=190
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=191|end_char=194
+3	person	person	NOUN	NN	Number=Sing	0	root	_	start_char=195|end_char=201
+4	who	who	PRON	WP	PronType=Rel	5	nsubj	_	start_char=202|end_char=205
+5	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=206|end_char=211
+6	to	to	PART	TO	_	7	mark	_	start_char=212|end_char=214
+7	enable	enable	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=215|end_char=221
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=222|end_char=225
+9	selfish	selfish	ADJ	JJ	Degree=Pos	7	obj	_	start_char=226|end_char=233
+10	,	,	PUNCT	,	_	11	punct	_	start_char=233|end_char=234
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=235|end_char=243
+12	,	,	PUNCT	,	_	14	punct	_	start_char=243|end_char=244
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=245|end_char=248
+14	arrogant	arrogant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=249|end_char=257
+15	to	to	PART	TO	_	16	mark	_	start_char=258|end_char=260
+16	continue	continue	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=261|end_char=269
+17	to	to	PART	TO	_	18	mark	_	start_char=270|end_char=272
+18	behave	behave	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=273|end_char=279
+19	so	so	ADV	RB	_	21	advmod	_	start_char=280|end_char=282
+20	while	while	SCONJ	IN	_	21	mark	_	start_char=283|end_char=288
+21	holding	hold	VERB	VBG	VerbForm=Ger	18	advcl	_	start_char=289|end_char=296
+22	society	society	NOUN	NN	Number=Sing	21	obj	_	start_char=297|end_char=304
+23	back	back	ADV	RB	Degree=Pos	21	advmod	_	start_char=305|end_char=309
+24	collectively	collectively	ADV	RB	Degree=Pos	21	advmod	_	start_char=310|end_char=322
+25	?	?	PUNCT	.	_	3	punct	_	start_char=322|end_char=323
+

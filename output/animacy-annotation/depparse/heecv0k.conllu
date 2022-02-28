@@ -1,0 +1,30 @@
+1	100	100	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=3
+2	%	%	SYM	NN	Number=Sing	0	root	_	start_char=3|end_char=4
+3	.	.	PUNCT	.	_	2	punct	_	start_char=4|end_char=5
+
+1	Watching	watch	VERB	VBG	VerbForm=Ger	0	root	_	start_char=6|end_char=14
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	1	obj	_	start_char=15|end_char=19
+3	go	go	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=20|end_char=22
+4	down	down	ADP	RP	_	3	compound:prt	_	start_char=23|end_char=27
+5	with	with	ADP	IN	_	7	case	_	start_char=28|end_char=32
+6	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=33|end_char=35
+7	grandma	grandma	NOUN	NN	Number=Sing	3	obl	_	start_char=36|end_char=43
+8	right	right	ADV	RB	_	9	advmod	_	start_char=44|end_char=49
+9	now	now	ADV	RB	_	3	advmod	_	start_char=50|end_char=53
+10	.	.	PUNCT	.	_	1	punct	_	start_char=53|end_char=54
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=55|end_char=57
+2	many	many	ADJ	JJ	Degree=Pos	3	amod	_	start_char=58|end_char=62
+3	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=63|end_char=69
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=70|end_char=73
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=74|end_char=84
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=85|end_char=92
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=93|end_char=96
+8	unparared	unparared	ADJ	JJ	Degree=Pos	6	conj	_	start_char=97|end_char=106
+9	for	for	ADP	IN	_	11	case	_	start_char=107|end_char=110
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=111|end_char=114
+11	eventuality	eventuality	NOUN	NN	Number=Sing	6	obl	_	start_char=115|end_char=126
+12	of	of	ADP	IN	_	13	case	_	start_char=127|end_char=129
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nmod	_	start_char=130|end_char=132
+14	.	.	PUNCT	.	_	6	punct	_	start_char=132|end_char=133
+

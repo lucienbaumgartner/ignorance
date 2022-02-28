@@ -1,0 +1,16 @@
+1	Why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=0|end_char=3
+2	have	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=4|end_char=8
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=9|end_char=13
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=14|end_char=18
+5	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=26
+6	to	to	PART	TO	_	7	mark	_	start_char=27|end_char=29
+7	conspire	conspire	VERB	VB	VerbForm=Inf	5	acl	_	start_char=30|end_char=38
+8	to	to	PART	TO	_	9	mark	_	start_char=39|end_char=41
+9	produce	produce	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=42|end_char=49
+10	an	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=50|end_char=52
+11	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=53|end_char=60
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=61|end_char=64
+13	compliant	compliant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=65|end_char=74
+14	citizenry	citizenry	NOUN	NN	Number=Sing	9	obj	_	start_char=75|end_char=84
+15	?	?	PUNCT	.	_	5	punct	_	start_char=84|end_char=85
+

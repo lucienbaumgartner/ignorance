@@ -1,0 +1,45 @@
+1	Found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=6|end_char=9
+3	nicegirl	nicegirl	NOUN	NN	Number=Sing	1	obj	_	start_char=10|end_char=18
+4	!	!	PUNCT	.	_	1	punct	_	start_char=18|end_char=19
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=21|end_char=24
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=25|end_char=27
+3	n't	not	PART	RB	_	4	advmod	_	start_char=27|end_char=30
+4	control	control	VERB	VB	VerbForm=Inf	0	root	_	start_char=31|end_char=38
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=39|end_char=40
+6	man	man	NOUN	NN	Number=Sing	8	nmod:poss	_	start_char=41|end_char=44
+7	's	's	PART	POS	_	6	case	_	start_char=44|end_char=46
+8	emotions	emotion	NOUN	NNS	Number=Plur	4	obj	_	start_char=47|end_char=55
+9	and	and	CCONJ	CC	_	16	cc	_	start_char=56|end_char=59
+10	wanting	want	VERB	VBG	VerbForm=Ger	16	csubj	_	start_char=60|end_char=67
+11	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	start_char=68|end_char=71
+12	to	to	PART	TO	_	13	mark	_	start_char=72|end_char=74
+13	cry	cry	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=75|end_char=78
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=79|end_char=81
+15	disgustingly	disgustingly	ADV	RB	_	16	advmod	_	start_char=82|end_char=94
+16	toxic	toxic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=95|end_char=100
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=101|end_char=104
+18	selfish	selfish	ADJ	JJ	Degree=Pos	16	conj	_	start_char=105|end_char=112
+19	.	.	PUNCT	.	_	4	punct	_	start_char=112|end_char=113
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=115|end_char=119
+2	sub	sub	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=120|end_char=123
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=124|end_char=126
+4	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=127|end_char=131
+5	to	to	PART	TO	_	6	mark	_	start_char=132|end_char=134
+6	shame	shame	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=135|end_char=140
+7	women	woman	NOUN	NNS	Number=Plur	6	obj	_	start_char=141|end_char=146
+8	like	like	ADP	IN	_	9	case	_	start_char=147|end_char=151
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=152|end_char=155
+10	so	so	ADV	RB	_	12	advmod	_	start_char=156|end_char=158
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=159|end_char=162
+12	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=163|end_char=166
+13	how	how	SCONJ	WRB	PronType=Int	14	mark	_	start_char=167|end_char=170
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=171|end_char=178
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=179|end_char=182
+16	pathetic	pathetic	ADJ	JJ	Degree=Pos	14	conj	_	start_char=183|end_char=191
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=192|end_char=195
+18	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	start_char=196|end_char=200
+19	.	.	PUNCT	.	_	4	punct	_	start_char=200|end_char=201
+

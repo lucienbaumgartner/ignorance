@@ -1,0 +1,35 @@
+1	Never	never	ADV	RB	_	2	advmod	_	start_char=0|end_char=5
+2	mind	mind	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=11|end_char=14
+4	fact	fact	NOUN	NN	Number=Sing	2	obj	_	start_char=15|end_char=19
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=20|end_char=24
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=25|end_char=29
+7	murder	murder	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl	_	start_char=30|end_char=36
+8	people	people	NOUN	NNS	Number=Plur	7	obj	_	start_char=37|end_char=43
+9	.	.	PUNCT	.	_	2	punct	_	start_char=43|end_char=44
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=45|end_char=47
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=48|end_char=51
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=52|end_char=55
+4	patriotic	patriotic	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=56|end_char=65
+5	,	,	PUNCT	,	_	6	punct	_	start_char=65|end_char=66
+6	join	join	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=67|end_char=71
+7	.	.	PUNCT	.	_	6	punct	_	start_char=71|end_char=72
+
+1	Joining	join	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=74|end_char=81
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=82|end_char=85
+3	US	US	PROPN	NNP	Number=Sing	4	compound	_	start_char=86|end_char=88
+4	military	military	NOUN	NN	Number=Sing	1	obj	_	start_char=89|end_char=97
+5	just	just	ADV	RB	_	8	advmod	_	start_char=98|end_char=102
+6	for	for	ADP	IN	_	8	case	_	start_char=103|end_char=106
+7	basic	basic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=107|end_char=112
+8	benefits	benefit	NOUN	NNS	Number=Plur	1	obl	_	start_char=114|end_char=122
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=123|end_char=125
+10	shortsighted	shortsighted	ADJ	JJ	Degree=Pos	0	root	_	start_char=126|end_char=138
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=139|end_char=142
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=143|end_char=151
+13	of	of	ADP	IN	_	15	case	_	start_char=152|end_char=154
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=155|end_char=158
+15	world	world	NOUN	NN	Number=Sing	12	obl	_	start_char=159|end_char=164
+16	.	.	PUNCT	.	_	10	punct	_	start_char=164|end_char=165
+

@@ -1,0 +1,42 @@
+1	Google	Google	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=6
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	flat	_	start_char=7|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=13|end_char=16
+2	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=16|end_char=19
+3	obviously	obviously	ADV	RB	Degree=Pos	4	advmod	_	start_char=20|end_char=29
+4	uninformed	uninformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=40
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=41|end_char=44
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=45|end_char=53
+7	of	of	ADP	IN	_	9	case	_	start_char=54|end_char=56
+8	contemporary	contemporary	ADJ	JJ	Degree=Pos	9	amod	_	start_char=57|end_char=69
+9	US	US	PROPN	NNP	Abbr=Yes|Number=Sing	6	obl	_	start_char=70|end_char=72
+10	if	if	SCONJ	IN	_	14	mark	_	start_char=73|end_char=75
+11	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	start_char=76|end_char=79
+12	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=80|end_char=82
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=82|end_char=85
+14	know	know	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=86|end_char=90
+15	what	what	PRON	WP	PronType=Int	16	nsubj	_	start_char=91|end_char=95
+16	happened	happen	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	ccomp	_	start_char=96|end_char=104
+17	in	in	ADP	IN	_	18	case	_	start_char=105|end_char=107
+18	Koreatown	Koreatown	PROPN	NNP	Number=Sing	16	obl	_	start_char=108|end_char=117
+19	,	,	PUNCT	,	_	20	punct	_	start_char=117|end_char=118
+20	LA	LA	PROPN	NNP	Number=Sing	18	conj	_	start_char=119|end_char=121
+21	,	,	PUNCT	,	_	22	punct	_	start_char=121|end_char=122
+22	1992	1992	NUM	CD	NumForm=Digit|NumType=Card	18	nmod:tmod	_	start_char=123|end_char=127
+23	.	.	PUNCT	.	_	4	punct	_	start_char=127|end_char=128
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=129|end_char=134
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=134|end_char=136
+3	been	be	VERB	VBN	Tense=Past|VerbForm=Part	2	cop	_	start_char=137|end_char=141
+4	songs	song	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=142|end_char=147
+5	written	write	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	start_char=148|end_char=155
+6	about	about	ADP	IN	_	7	case	_	start_char=156|end_char=161
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=162|end_char=164
+8	.	.	PUNCT	.	_	2	punct	_	start_char=164|end_char=165
+
+1	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=166|end_char=168
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=169|end_char=173
+3	homework	homework	NOUN	NN	Number=Sing	1	obj	_	start_char=174|end_char=182
+4	.	.	PUNCT	.	_	1	punct	_	start_char=182|end_char=183
+

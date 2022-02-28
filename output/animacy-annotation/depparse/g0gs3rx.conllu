@@ -1,0 +1,67 @@
+1	All	all	DET	PDT	_	3	det:predet	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	things	thing	NOUN	NNS	Number=Plur	0	root	_	start_char=8|end_char=14
+4	that	that	PRON	WDT	PronType=Rel	5	nsubj	_	start_char=15|end_char=19
+5	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	start_char=20|end_char=24
+6	wrong	wrong	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=25|end_char=30
+7	before	before	SCONJ	IN	_	9	mark	_	start_char=31|end_char=37
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=38|end_char=40
+9	suicided	suicide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	start_char=41|end_char=49
+10	.	.	PUNCT	.	_	3	punct	_	start_char=49|end_char=50
+
+1	Video	video	NOUN	NN	Number=Sing	0	root	_	start_char=51|end_char=56
+2	not	not	PART	RB	Polarity=Neg	3	advmod	_	start_char=57|end_char=60
+3	working	work	VERB	VBG	VerbForm=Ger	4	amod	_	start_char=61|end_char=68
+4	guards	guard	NOUN	NNS	Number=Plur	1	conj	_	start_char=69|end_char=75
+5	unaware	unaware	ADJ	JJ	Degree=Pos	4	amod	_	start_char=76|end_char=83
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=84|end_char=87
+7	absent	absent	ADJ	JJ	Degree=Pos	5	conj	_	start_char=88|end_char=94
+8	.	.	PUNCT	.	_	1	punct	_	start_char=94|end_char=95
+
+1	Killing	kill	VERB	VBG	VerbForm=Ger	0	root	_	start_char=96|end_char=103
+2	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obj	_	start_char=104|end_char=111
+3	after	after	SCONJ	IN	_	7	mark	_	start_char=112|end_char=117
+4	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=118|end_char=123
+5	on	on	ADP	IN	_	7	case	_	start_char=124|end_char=126
+6	suicide	suicide	NOUN	NN	Number=Sing	7	compound	_	start_char=127|end_char=134
+7	watch	watch	NOUN	NN	Number=Sing	1	advcl	_	start_char=135|end_char=140
+8	.	.	PUNCT	.	_	1	punct	_	start_char=140|end_char=141
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=142|end_char=145
+2	all	all	DET	DT	_	3	det	_	start_char=146|end_char=149
+3	happenstance	happenstance	NOUN	NN	Number=Sing	0	root	_	start_char=150|end_char=162
+4	.	.	PUNCT	.	_	3	punct	_	start_char=162|end_char=163
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=166|end_char=167
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=168|end_char=172
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=173|end_char=177
+4	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=178|end_char=182
+5	sit	sit	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=183|end_char=186
+6	as	as	ADP	IN	_	7	case	_	start_char=187|end_char=189
+7	conspiracy	conspiracy	NOUN	NN	Number=Sing	5	obl	_	start_char=190|end_char=200
+8	with	with	ADP	IN	_	9	case	_	start_char=201|end_char=205
+9	some	some	DET	DT	_	5	obl	_	start_char=206|end_char=210
+10	.	.	PUNCT	.	_	2	punct	_	start_char=210|end_char=211
+
+1	But	but	CCONJ	CC	_	11	cc	_	start_char=212|end_char=215
+2	wealthy	wealthy	ADJ	JJ	Degree=Pos	4	amod	_	start_char=216|end_char=223
+3	"	"	PUNCT	``	_	4	punct	_	start_char=224|end_char=225
+4	elites	elite	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=225|end_char=231
+5	"	"	PUNCT	''	_	4	punct	_	start_char=231|end_char=232
+6	like	like	ADP	IN	_	8	case	_	start_char=233|end_char=237
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=238|end_char=241
+8	Trumps	Trumps	PROPN	NNPS	Number=Plur	4	nmod	_	start_char=242|end_char=248
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=249|end_char=252
+10	Clintons	Clinton	PROPN	NNPS	Number=Plur	8	conj	_	start_char=253|end_char=261
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=262|end_char=266
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=267|end_char=268
+13	good	good	ADJ	JJ	Degree=Pos	14	amod	_	start_char=269|end_char=273
+14	bit	bit	NOUN	NN	Number=Sing	11	obj	_	start_char=274|end_char=277
+15	of	of	ADP	IN	_	18	case	_	start_char=278|end_char=280
+16	strange	strange	ADJ	JJ	Degree=Pos	18	amod	_	start_char=281|end_char=288
+17	coincidental	coincidental	ADJ	JJ	Degree=Pos	18	amod	_	start_char=289|end_char=301
+18	deaths	death	NOUN	NNS	Number=Plur	14	nmod	_	start_char=302|end_char=308
+19	surrounding	surround	VERB	VBG	VerbForm=Ger	18	acl	_	start_char=309|end_char=320
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	start_char=321|end_char=325
+21	.	.	PUNCT	.	_	11	punct	_	start_char=325|end_char=326
+

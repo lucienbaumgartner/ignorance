@@ -1,0 +1,28 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=7|end_char=9
+4	,	,	PUNCT	,	_	2	punct	_	start_char=9|end_char=10
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=11|end_char=14
+6	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=15|end_char=20
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=21|end_char=25
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=26|end_char=28
+9	high	high	ADJ	JJ	Degree=Pos	10	amod	_	start_char=30|end_char=34
+10	school	school	NOUN	NN	Number=Sing	6	ccomp	_	start_char=35|end_char=41
+11	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	Once	once	SCONJ	IN	_	3	mark	_	start_char=45|end_char=49
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=50|end_char=53
+3	mature	mature	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=54|end_char=60
+4	,	,	PUNCT	,	_	7	punct	_	start_char=60|end_char=61
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=62|end_char=65
+6	will	will	AUX	MD	VerbForm=Fin	7	aux	_	start_char=66|end_char=70
+7	see	see	VERB	VB	VerbForm=Inf	0	root	_	start_char=71|end_char=74
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=75|end_char=78
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=79|end_char=87
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=88|end_char=91
+11	dumb	dumb	ADJ	JJ	Degree=Pos	9	conj	_	start_char=92|end_char=96
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=97|end_char=100
+13	really	really	ADV	RB	_	14	advmod	_	start_char=101|end_char=107
+14	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=108|end_char=111
+15	.	.	PUNCT	.	_	7	punct	_	start_char=111|end_char=112
+

@@ -1,0 +1,9 @@
+1	Well	well	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=5|end_char=9
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=10|end_char=12
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=17
+5	unaware	unaware	ADJ	JJ	Degree=Pos	8	amod	_	start_char=18|end_char=25
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=26|end_char=29
+7	compliant	compliant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=39
+8	supporters	supporter	NOUN	NNS	Number=Plur	4	obj	_	start_char=40|end_char=50
+

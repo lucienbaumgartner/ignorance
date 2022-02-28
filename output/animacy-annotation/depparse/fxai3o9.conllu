@@ -1,0 +1,27 @@
+1	like	like	SCONJ	IN	_	3	mark	_	start_char=0|end_char=4
+2	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=5|end_char=6
+3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	start_char=7|end_char=11
+4	,	,	PUNCT	,	_	11	punct	_	start_char=11|end_char=12
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=13|end_char=16
+6	mom	mom	NOUN	NN	Number=Sing	11	nsubj	_	start_char=17|end_char=20
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=21|end_char=23
+8	maybe	maybe	ADV	RB	_	11	advmod	_	start_char=24|end_char=29
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=30|end_char=31
+10	little	little	ADJ	JJ	Degree=Pos	11	obl:npmod	_	start_char=32|end_char=38
+11	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=39|end_char=45
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=46|end_char=49
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=50|end_char=58
+14	,	,	PUNCT	,	_	11	punct	_	start_char=58|end_char=59
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	17	nsubj	_	start_char=60|end_char=64
+16	doesnt	doesnt	AUX	MD	VerbForm=Fin	17	aux	_	start_char=65|end_char=71
+17	make	make	VERB	VB	VerbForm=Inf	11	parataxis	_	start_char=72|end_char=76
+18	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	start_char=77|end_char=80
+19	insane	insane	ADJ	JJ	Degree=Pos	17	xcomp	_	start_char=81|end_char=87
+20	.	.	PUNCT	.	_	11	punct	_	start_char=87|end_char=88
+
+1	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=89|end_char=93
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=94|end_char=96
+3	insaneparents	insaneparent	NOUN	NNS	Number=Plur	0	root	_	start_char=97|end_char=110
+4	not	not	PART	RB	_	5	advmod	_	start_char=111|end_char=114
+5	stupidparents	stupidparent	NOUN	NNS	Number=Plur	3	conj	_	start_char=115|end_char=128
+

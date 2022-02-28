@@ -1,0 +1,25 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	7	discourse	_	start_char=0|end_char=3
+2	;how	;how	PRON	PRP	PronType=Int	7	nsubj	_	start_char=3|end_char=7
+3	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=8|end_char=13
+4	someone	someone	PRON	NN	Number=Sing	7	nsubj	_	start_char=14|end_char=21
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=22|end_char=24
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=25|end_char=26
+7	CEO	ceo	NOUN	NN	Number=Sing	0	root	_	start_char=27|end_char=30
+8	of	of	ADP	IN	_	12	case	_	start_char=31|end_char=33
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=34|end_char=35
+10	publicly	publicly	ADV	RB	_	11	advmod	_	start_char=36|end_char=44
+11	traded	trade	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	start_char=45|end_char=51
+12	company	company	NOUN	NN	Number=Sing	7	nmod	_	start_char=52|end_char=59
+13	without	without	SCONJ	IN	_	14	mark	_	start_char=60|end_char=67
+14	working	work	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=68|end_char=75
+15	hard	hard	ADV	RB	Degree=Pos	14	advmod	_	start_char=76|end_char=80
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=82|end_char=85
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=86|end_char=89
+3	really	really	ADV	RB	_	5	advmod	_	start_char=90|end_char=96
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=97|end_char=101
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=102|end_char=109
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=110|end_char=113
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=114|end_char=122
+8	?	?	PUNCT	.	_	5	punct	_	start_char=122|end_char=123
+

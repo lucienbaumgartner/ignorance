@@ -1,0 +1,21 @@
+1	So	so	ADV	RB	_	2	advmod	_	start_char=0|end_char=2
+2	cite	cite	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=8|end_char=11
+4	actul	actul	NOUN	NN	Number=Sing	5	compound	_	start_char=12|end_char=17
+5	studies	study	NOUN	NNS	Number=Plur	2	obj	_	start_char=18|end_char=25
+6	.	.	PUNCT	.	_	2	punct	_	start_char=25|end_char=26
+
+1	Otherwise	otherwise	ADV	RB	_	3	advmod	_	start_char=27|end_char=36
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=37|end_char=40
+3	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=41|end_char=45
+4	lazy	lazy	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=46|end_char=50
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=51|end_char=54
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=55|end_char=63
+7	of	of	ADP	IN	_	8	case	_	start_char=64|end_char=66
+8	what	what	PRON	WP	PronType=Int	6	obl	_	start_char=67|end_char=71
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=72|end_char=73
+10	nonbiased	nonbiased	ADJ	JJ	Degree=Pos	11	amod	_	start_char=74|end_char=83
+11	source	source	NOUN	NN	Number=Sing	12	nsubj	_	start_char=84|end_char=90
+12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=91|end_char=93
+13	.	.	PUNCT	.	_	3	punct	_	start_char=93|end_char=94
+

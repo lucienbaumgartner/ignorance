@@ -1,0 +1,25 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+4	idiots	idiot	NOUN	NNS	Number=Plur	0	root	_	start_char=9|end_char=15
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	start_char=16|end_char=19
+6	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=20|end_char=26
+7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=27|end_char=30
+8	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=31|end_char=34
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=35|end_char=38
+10	vile	vile	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=39|end_char=43
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=44|end_char=47
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=48|end_char=56
+13	that	that	PRON	WDT	PronType=Rel	15	nsubj	_	start_char=57|end_char=61
+14	still	still	ADV	RB	_	15	advmod	_	start_char=62|end_char=67
+15	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=68|end_char=72
+16	this	this	DET	DT	Number=Sing|PronType=Dem	18	det	_	start_char=73|end_char=77
+17	sorry	sorry	ADJ	JJ	Degree=Pos	18	amod	_	start_char=78|end_char=83
+18	excuse	excuse	NOUN	NN	Number=Sing	15	obj	_	start_char=84|end_char=90
+19	for	for	ADP	IN	_	21	case	_	start_char=91|end_char=94
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=95|end_char=96
+21	human	human	NOUN	NN	Number=Sing	18	nmod	_	start_char=97|end_char=102
+22	being	be	AUX	VBG	VerbForm=Ger	24	cop	_	start_char=103|end_char=108
+23	still	still	ADV	RB	_	24	advmod	_	start_char=109|end_char=114
+24	relevant	relevant	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=115|end_char=123
+

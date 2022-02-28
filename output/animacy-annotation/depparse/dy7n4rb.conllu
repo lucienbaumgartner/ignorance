@@ -1,0 +1,21 @@
+1	Enjoy	enjoy	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=6|end_char=10
+3	safe	safe	ADJ	JJ	Degree=Pos	4	amod	_	start_char=11|end_char=15
+4	space	space	NOUN	NN	Number=Sing	1	obj	_	start_char=16|end_char=21
+5	.	.	PUNCT	.	_	1	punct	_	start_char=21|end_char=22
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=23|end_char=27
+2	fun	fun	NOUN	NN	Number=Sing	1	obj	_	start_char=28|end_char=31
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=32|end_char=37
+4	unaware	unaware	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=38|end_char=45
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=46|end_char=49
+6	unaccountable	unaccountable	ADJ	JJ	Degree=Pos	4	conj	_	start_char=50|end_char=63
+7	for	for	ADP	IN	_	9	case	_	start_char=64|end_char=67
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=68|end_char=72
+9	actions	action	NOUN	NNS	Number=Plur	6	obl	_	start_char=73|end_char=80
+10	in	in	ADP	IN	_	13	case	_	start_char=81|end_char=83
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=84|end_char=88
+12	troll	troll	NOUN	NN	Number=Sing	13	compound	_	start_char=89|end_char=94
+13	cave	cave	NOUN	NN	Number=Sing	9	nmod	_	start_char=95|end_char=99
+14	.	.	PUNCT	.	_	1	punct	_	start_char=99|end_char=100
+

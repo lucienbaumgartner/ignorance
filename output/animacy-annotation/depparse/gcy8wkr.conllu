@@ -1,0 +1,59 @@
+1	Wow	wow	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	!	!	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=5|end_char=9
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=10|end_char=12
+3	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=13|end_char=14
+4	truly	truly	ADV	RB	_	5	advmod	_	start_char=15|end_char=20
+5	wholesome	wholesome	ADJ	JJ	Degree=Pos	7	amod	_	start_char=21|end_char=30
+6	epic	epic	ADJ	JJ	Degree=Pos	7	amod	_	start_char=31|end_char=35
+7	routine	routine	NOUN	NN	Number=Sing	0	root	_	start_char=36|end_char=43
+8	.	.	PUNCT	.	_	7	punct	_	start_char=43|end_char=44
+
+1	What	what	DET	WDT	PronType=Int	2	det	_	start_char=45|end_char=49
+2	strains	strain	NOUN	NNS	Number=Plur	5	obj	_	start_char=50|end_char=57
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=58|end_char=61
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=62|end_char=65
+5	partaking	partake	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=66|end_char=75
+6	in	in	ADP	RP	_	5	compound:prt	_	start_char=76|end_char=78
+7	if	if	SCONJ	IN	_	10	mark	_	start_char=79|end_char=81
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=82|end_char=83
+9	may	may	AUX	MD	VerbForm=Fin	10	aux	_	start_char=84|end_char=87
+10	ask	ask	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=88|end_char=91
+11	?	?	PUNCT	.	_	5	punct	_	start_char=91|end_char=92
+
+1	sativa	sativa	NOUN	NN	Number=Sing	3	nsubj	_	start_char=93|end_char=99
+2	usually	usually	ADV	RB	_	3	advmod	_	start_char=100|end_char=107
+3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=108|end_char=113
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=114|end_char=116
+5	more	more	ADV	RBR	_	6	advmod	_	start_char=117|end_char=121
+6	cerebral	cerebral	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=122|end_char=130
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=131|end_char=134
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=135|end_char=142
+9	of	of	ADP	IN	_	11	case	_	start_char=143|end_char=145
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=146|end_char=148
+11	body	body	NOUN	NN	Number=Sing	8	obl	_	start_char=149|end_char=153
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=154|end_char=157
+13	indica	indica	NOUN	NN	Number=Sing	14	nsubj	_	start_char=158|end_char=164
+14	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=165|end_char=170
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	start_char=171|end_char=173
+16	aware	aware	ADJ	JJ	Degree=Pos	14	xcomp	_	start_char=174|end_char=179
+17	of	of	ADP	IN	_	19	case	_	start_char=180|end_char=182
+18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=183|end_char=185
+19	body	body	NOUN	NN	Number=Sing	16	obl	_	start_char=186|end_char=190
+20	but	but	CCONJ	CC	_	21	cc	_	start_char=191|end_char=194
+21	heavy	heavy	ADJ	JJ	Degree=Pos	19	conj	_	start_char=195|end_char=200
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=202|end_char=207
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=208|end_char=211
+3	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=212|end_char=216
+4	strains	strain	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=217|end_char=224
+5	out	out	ADV	RB	_	6	advmod	_	start_char=225|end_char=228
+6	there	there	ADV	RB	PronType=Dem	4	advmod	_	start_char=229|end_char=234
+7	with	with	ADP	IN	_	12	case	_	start_char=235|end_char=239
+8	highly	highly	ADV	RB	_	9	advmod	_	start_char=240|end_char=246
+9	divergent	divergent	ADJ	JJ	Degree=Pos	12	amod	_	start_char=247|end_char=256
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=257|end_char=260
+11	beneficial	beneficial	ADJ	JJ	Degree=Pos	9	conj	_	start_char=261|end_char=271
+12	affects	affect	NOUN	NNS	Number=Plur	6	obl	_	start_char=272|end_char=279
+

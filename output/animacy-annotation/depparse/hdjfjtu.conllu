@@ -1,0 +1,28 @@
+1	Or	or	CCONJ	CC	_	4	cc	_	start_char=0|end_char=2
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=3|end_char=9
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=10|end_char=13
+4	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=31
+7	of	of	ADP	IN	_	9	case	_	start_char=32|end_char=34
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=35|end_char=38
+9	power	power	NOUN	NN	Number=Sing	6	obl	_	start_char=39|end_char=44
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=45|end_char=49
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=50|end_char=54
+12	over	over	ADP	IN	_	14	case	_	start_char=55|end_char=59
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=60|end_char=65
+14	body	body	NOUN	NN	Number=Sing	11	obl	_	start_char=66|end_char=70
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=71|end_char=74
+16	emotions	emotion	NOUN	NNS	Number=Plur	14	conj	_	start_char=75|end_char=83
+17	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+
+1	Because	because	SCONJ	IN	_	5	mark	_	start_char=86|end_char=93
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=94|end_char=98
+3	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=99|end_char=101
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=101|end_char=104
+5	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=105|end_char=109
+6	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	start_char=110|end_char=113
+7	to	to	PART	TO	_	8	mark	_	start_char=114|end_char=116
+8	know	know	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=117|end_char=121
+9	.	.	PUNCT	.	_	5	punct	_	start_char=121|end_char=122
+

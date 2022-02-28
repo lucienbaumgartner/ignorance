@@ -1,0 +1,22 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	immature	immature	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=47
+9	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=52
+10	to	to	PART	TO	_	11	mark	_	start_char=53|end_char=55
+11	hide	hide	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=56|end_char=60
+12	behind	behind	ADP	IN	_	14	case	_	start_char=61|end_char=67
+13	"	"	PUNCT	``	_	14	punct	_	start_char=68|end_char=69
+14	racism	racism	NOUN	NN	Number=Sing	11	obl	_	start_char=69|end_char=75
+15	"	"	PUNCT	''	_	14	punct	_	start_char=75|end_char=76
+16	in	in	ADP	IN	_	18	case	_	start_char=77|end_char=79
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=80|end_char=83
+18	face	face	NOUN	NN	Number=Sing	11	obl	_	start_char=84|end_char=88
+19	of	of	ADP	IN	_	21	case	_	start_char=89|end_char=91
+20	any	any	DET	DT	_	21	det	_	start_char=92|end_char=95
+21	criticism	criticism	NOUN	NN	Number=Sing	18	nmod	_	start_char=96|end_char=105
+

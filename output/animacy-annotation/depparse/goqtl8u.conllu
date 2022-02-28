@@ -1,0 +1,31 @@
+1	Hahaha	hahaha	INTJ	UH	_	5	discourse	_	start_char=0|end_char=6
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=7|end_char=10
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+4	so	so	ADV	RB	_	5	advmod	_	start_char=15|end_char=17
+5	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=28
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=29|end_char=32
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=33|end_char=40
+8	of	of	ADP	IN	_	11	case	_	start_char=41|end_char=43
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=44|end_char=48
+10	own	own	ADJ	JJ	Degree=Pos	11	amod	_	start_char=49|end_char=52
+11	views	view	NOUN	NNS	Number=Plur	7	obl	_	start_char=53|end_char=58
+12	.	.	PUNCT	.	_	5	punct	_	start_char=58|end_char=59
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=60|end_char=62
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=63|end_char=66
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	start_char=67|end_char=72
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=73|end_char=76
+5	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=77|end_char=81
+6	to	to	PART	TO	_	7	mark	_	start_char=82|end_char=84
+7	curtail	curtail	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=85|end_char=92
+8	"	"	PUNCT	``	_	10	punct	_	start_char=93|end_char=94
+9	bad	bad	ADJ	JJ	Degree=Pos	10	amod	_	start_char=94|end_char=97
+10	ideas	idea	NOUN	NNS	Number=Plur	7	obj	_	start_char=98|end_char=103
+11	"	"	PUNCT	''	_	10	punct	_	start_char=103|end_char=104
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=105|end_char=108
+13	ai	be	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=109|end_char=111
+14	n't	not	PART	RB	_	16	advmod	_	start_char=111|end_char=114
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=115|end_char=116
+16	libertarian	libertarian	NOUN	NN	Number=Sing	0	root	_	start_char=117|end_char=128
+17	.	.	PUNCT	.	_	16	punct	_	start_char=128|end_char=129
+

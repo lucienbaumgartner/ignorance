@@ -1,0 +1,43 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	thinking	think	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=8|end_char=16
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=17|end_char=20
+4	government	government	NOUN	NN	Number=Sing	5	nsubj	_	start_char=21|end_char=31
+5	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=32|end_char=37
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=38|end_char=39
+7	shit	shit	NOUN	NN	Number=Sing	5	obj	_	start_char=40|end_char=44
+8	about	about	ADP	IN	_	10	case	_	start_char=45|end_char=50
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=51|end_char=54
+10	opinion	opinion	NOUN	NN	Number=Sing	7	nmod	_	start_char=55|end_char=62
+11	.	.	PUNCT	.	_	1	punct	_	start_char=62|end_char=63
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=65|end_char=67
+2	pose	pose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=68|end_char=72
+3	no	no	DET	DT	_	4	det	_	start_char=73|end_char=75
+4	threat	threat	NOUN	NN	Number=Sing	2	obj	_	start_char=76|end_char=82
+5	to	to	ADP	IN	_	6	case	_	start_char=83|end_char=85
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	start_char=86|end_char=90
+7	.	.	PUNCT	.	_	2	punct	_	start_char=90|end_char=91
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=93|end_char=97
+2	death	death	NOUN	NN	Number=Sing	3	compound	_	start_char=98|end_char=103
+3	spiral	spiral	NOUN	NN	Number=Sing	5	nsubj	_	start_char=104|end_char=110
+4	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=111|end_char=115
+5	continue	continue	VERB	VB	VerbForm=Inf	0	root	_	start_char=116|end_char=124
+6	until	until	ADP	IN	_	7	case	_	start_char=125|end_char=130
+7	collapse	collapse	NOUN	NN	Number=Sing	5	obl	_	start_char=131|end_char=139
+8	.	.	PUNCT	.	_	5	punct	_	start_char=139|end_char=140
+
+1	Most	most	ADJ	JJS	Degree=Sup	3	amod	_	start_char=142|end_char=146
+2	American	American	ADJ	JJ	Degree=Pos	3	amod	_	start_char=147|end_char=155
+3	citizens	citizen	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=156|end_char=164
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=165|end_char=168
+5	weak	weak	ADJ	JJ	Degree=Pos	0	root	_	start_char=169|end_char=173
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=174|end_char=177
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=178|end_char=186
+8	of	of	ADP	IN	_	10	case	_	start_char=187|end_char=189
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=190|end_char=193
+10	situation	situation	NOUN	NN	Number=Sing	7	obl	_	start_char=194|end_char=203
+11	at	at	ADP	IN	_	12	case	_	start_char=204|end_char=206
+12	hand	hand	NOUN	NN	Number=Sing	10	nmod	_	start_char=207|end_char=211
+13	.	.	PUNCT	.	_	5	punct	_	start_char=211|end_char=212
+

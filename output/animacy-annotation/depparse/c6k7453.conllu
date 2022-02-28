@@ -1,0 +1,23 @@
+1	Bahahaha	Bahahaha	PROPN	NNP	Number=Sing	6	vocative	_	start_char=0|end_char=8
+2	at	at	ADP	IN	_	6	advmod	_	start_char=9|end_char=11
+3	least	least	ADJ	JJS	Degree=Sup	2	fixed	_	start_char=12|end_char=17
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=18|end_char=21
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=22|end_char=25
+6	asleep	asleep	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=44
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=45|end_char=49
+10	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=50|end_char=53
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	start_char=54|end_char=57
+12	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	start_char=58|end_char=63
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	12	obj	_	start_char=64|end_char=68
+14	and	and	CCONJ	CC	_	16	cc	_	start_char=69|end_char=72
+15	not	not	PART	RB	_	16	advmod	_	start_char=73|end_char=76
+16	awake	awake	ADJ	JJ	Degree=Pos	12	conj	_	start_char=77|end_char=82
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=83|end_char=86
+18	doing	do	VERB	VBG	VerbForm=Ger	12	conj	_	start_char=87|end_char=92
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=93|end_char=95
+20	on	on	ADP	IN	_	21	case	_	start_char=96|end_char=98
+21	purpose	purpose	NOUN	NN	Number=Sing	18	obl	_	start_char=99|end_char=106
+22	!	!	PUNCT	.	_	6	punct	_	start_char=106|end_char=107
+

@@ -1,0 +1,26 @@
+1	SEC	SEC	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=0|end_char=3
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9
+4	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=15
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=16|end_char=19
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=20|end_char=28
+7	that	that	SCONJ	IN	_	13	mark	_	start_char=29|end_char=33
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=34|end_char=38
+9	going	go	VERB	VBG	VerbForm=Ger	6	ccomp	_	start_char=39|end_char=44
+10	after	after	SCONJ	IN	_	13	mark	_	start_char=45|end_char=50
+11	Coinbase	Coinbase	PROPN	NNP	Number=Sing	13	nsubj	_	start_char=51|end_char=59
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=60|end_char=64
+13	backfire	backfire	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=65|end_char=73
+14	in	in	ADP	IN	_	16	case	_	start_char=74|end_char=76
+15	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=77|end_char=82
+16	face	face	NOUN	NN	Number=Sing	13	obl	_	start_char=83|end_char=87
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=88|end_char=91
+18	bring	bring	VERB	VB	VerbForm=Inf	13	conj	_	start_char=92|end_char=97
+19	more	more	ADJ	JJR	Degree=Cmp	20	amod	_	start_char=98|end_char=102
+20	awareness	awareness	NOUN	NN	Number=Sing	18	obj	_	start_char=103|end_char=112
+21	for	for	ADP	IN	_	23	case	_	start_char=113|end_char=116
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	start_char=117|end_char=120
+23	need	need	NOUN	NN	Number=Sing	20	nmod	_	start_char=121|end_char=125
+24	of	of	ADP	IN	_	25	case	_	start_char=126|end_char=128
+25	crypto	crypto	NOUN	NN	Number=Sing	23	nmod	_	start_char=129|end_char=135
+

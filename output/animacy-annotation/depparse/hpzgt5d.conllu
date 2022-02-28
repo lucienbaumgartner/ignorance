@@ -1,0 +1,39 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	actually	actually	ADV	RB	_	4	advmod	_	start_char=8|end_char=16
+4	listen	listen	VERB	VB	VerbForm=Inf	0	root	_	start_char=17|end_char=23
+5	to	to	ADP	IN	_	7	case	_	start_char=24|end_char=26
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=27|end_char=30
+7	podcast	podcast	NOUN	NN	Number=Sing	4	obl	_	start_char=31|end_char=38
+8	?	?	PUNCT	.	_	4	punct	_	start_char=38|end_char=39
+
+1	how	how	ADV	WRB	PronType=Int	4	advmod	_	start_char=40|end_char=43
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=44|end_char=47
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=48|end_char=51
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=52|end_char=57
+5	that	that	SCONJ	IN	_	8	mark	_	start_char=58|end_char=62
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=63|end_char=65
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=66|end_char=69
+8	listen	listen	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=70|end_char=76
+9	to	to	ADP	IN	_	10	case	_	start_char=77|end_char=79
+10	what	what	PRON	WP	PronType=Int	8	obl	_	start_char=80|end_char=84
+11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=85|end_char=87
+12	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=88|end_char=92
+13	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	Playing	play	VERB	VBG	VerbForm=Ger	0	root	_	start_char=94|end_char=101
+2	down	down	ADP	RP	_	1	compound:prt	_	start_char=102|end_char=106
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=107|end_char=108
+4	true	true	ADJ	JJ	Degree=Pos	6	amod	_	start_char=109|end_char=113
+5	American	American	ADJ	JJ	Degree=Pos	6	amod	_	start_char=114|end_char=122
+6	hero	hero	NOUN	NN	Number=Sing	1	obj	_	start_char=123|end_char=127
+7	as	as	ADP	IN	_	10	case	_	start_char=128|end_char=130
+8	just	just	ADV	RB	_	10	advmod	_	start_char=131|end_char=135
+9	some	some	DET	DT	_	10	det	_	start_char=136|end_char=140
+10	lawyer	lawyer	NOUN	NN	Number=Sing	1	obl	_	start_char=141|end_char=147
+11	,	,	PUNCT	,	_	13	punct	_	start_char=147|end_char=148
+12	truly	truly	ADV	RB	_	13	advmod	_	start_char=149|end_char=154
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	amod	_	start_char=155|end_char=163
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=164|end_char=167
+15	pathetic	pathetic	ADJ	JJ	Degree=Pos	13	conj	_	start_char=168|end_char=176
+

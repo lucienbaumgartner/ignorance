@@ -1,0 +1,40 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=30
+6	of	of	ADP	IN	_	7	case	_	start_char=31|end_char=33
+7	science	science	NOUN	NN	Number=Sing	5	obl	_	start_char=34|end_char=41
+8	.	.	PUNCT	.	_	3	punct	_	start_char=41|end_char=42
+
+1	And	and	CCONJ	CC	_	6	cc	_	start_char=43|end_char=46
+2	yes	yes	INTJ	UH	_	6	discourse	_	start_char=47|end_char=50
+3	,	,	PUNCT	,	_	6	punct	_	start_char=50|end_char=51
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=52|end_char=53
+5	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=54|end_char=57
+6	allow	allow	VERB	VB	VerbForm=Inf	0	root	_	start_char=58|end_char=63
+7	or	or	CCONJ	CC	_	8	cc	_	start_char=64|end_char=66
+8	ban	ban	VERB	VB	VerbForm=Inf	6	conj	_	start_char=67|end_char=70
+9	anyone	anyone	PRON	NN	Number=Sing	6	obj	_	start_char=71|end_char=77
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=78|end_char=79
+11	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=80|end_char=84
+12	in	in	ADP	IN	_	14	case	_	start_char=85|end_char=87
+13	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=88|end_char=90
+14	home	home	NOUN	NN	Number=Sing	11	obl	_	start_char=91|end_char=95
+15	for	for	ADP	IN	_	17	case	_	start_char=96|end_char=99
+16	whatever	whatever	DET	WDT	PronType=Int	17	det	_	start_char=100|end_char=108
+17	reason	reason	NOUN	NN	Number=Sing	11	obl	_	start_char=109|end_char=115
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=116|end_char=117
+19	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=118|end_char=122
+20	.	.	PUNCT	.	_	6	punct	_	start_char=122|end_char=123
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=124|end_char=126
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=126|end_char=128
+3	MY	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=129|end_char=131
+4	home	home	NOUN	NN	Number=Sing	0	root	_	start_char=132|end_char=136
+5	.	.	PUNCT	.	_	4	punct	_	start_char=136|end_char=137
+
+1	Bye.	Bye.	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=140|end_char=144
+2	Blocked	block	VERB	VBD	Tense=Past|VerbForm=Part	0	root	_	start_char=145|end_char=152
+3	.	.	PUNCT	.	_	2	punct	_	start_char=152|end_char=153
+

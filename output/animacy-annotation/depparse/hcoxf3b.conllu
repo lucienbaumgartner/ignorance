@@ -1,0 +1,22 @@
+1	Again	again	ADV	RB	_	3	advmod	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	3	punct	_	start_char=5|end_char=6
+3	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=30
+6	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=34|end_char=37
+8	breed	breed	NOUN	NN	Number=Sing	3	obl	_	start_char=38|end_char=43
+9	.	.	PUNCT	.	_	3	punct	_	start_char=43|end_char=44
+
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=45|end_char=47
+2	back	back	ADV	RB	_	1	advmod	_	start_char=48|end_char=52
+3	to	to	ADP	IN	_	5	case	_	start_char=53|end_char=55
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=56|end_char=60
+5	hate	hate	NOUN	NN	Number=Sing	1	obl	_	start_char=61|end_char=65
+6	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	_	start_char=66|end_char=72
+7	sub	sub	ADP	IN	_	10	case	_	start_char=73|end_char=76
+8	little	little	ADJ	JJ	Degree=Pos	10	amod	_	start_char=77|end_char=83
+9	mental	mental	ADJ	JJ	Degree=Pos	10	amod	_	start_char=84|end_char=90
+10	midget	midget	NOUN	NN	Number=Sing	6	obl	_	start_char=91|end_char=97
+11	…	…	PUNCT	.	_	1	punct	_	start_char=97|end_char=98
+

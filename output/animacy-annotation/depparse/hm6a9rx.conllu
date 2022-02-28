@@ -1,0 +1,15 @@
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=4
+2	Americans	American	PROPN	NNPS	Number=Plur	4	nsubj	_	start_char=5|end_char=14
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=15|end_char=18
+4	oblivious	oblivious	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=40
+7	of	of	ADP	IN	_	9	case	_	start_char=41|end_char=43
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=44|end_char=47
+9	shit	shit	NOUN	NN	Number=Sing	6	obl	_	start_char=48|end_char=52
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=53|end_char=57
+11	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=58|end_char=65
+12	outside	outside	ADP	IN	_	13	case	_	start_char=66|end_char=73
+13	America	America	PROPN	NNP	Number=Sing	11	obl	_	start_char=74|end_char=81
+14	….	..	PUNCT	.	_	4	punct	_	start_char=81|end_char=83
+

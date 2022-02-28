@@ -1,0 +1,12 @@
+1	How	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=0|end_char=3
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=4|end_char=8
+3	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=9|end_char=12
+4	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=13|end_char=15
+5	that	that	DET	DT	Number=Sing|PronType=Dem	8	det	_	start_char=16|end_char=20
+6	self	self	NOUN	NN	Number=Sing	8	compound	_	start_char=21|end_char=25
+7	-	-	PUNCT	HYPH	_	8	punct	_	start_char=25|end_char=26
+8	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=33
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=34|end_char=37
+10	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	8	conj	_	start_char=38|end_char=50
+11	.	.	PUNCT	.	_	8	punct	_	start_char=50|end_char=51
+

@@ -1,0 +1,46 @@
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=2
+2	dad	dad	NOUN	NN	Number=Sing	4	nsubj	_	start_char=3|end_char=6
+3	once	once	ADV	RB	NumType=Mult	4	advmod	_	start_char=7|end_char=11
+4	posted	post	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+5	photos	photo	NOUN	NNS	Number=Plur	4	obj	_	start_char=19|end_char=25
+6	of	of	ADP	IN	_	8	case	_	start_char=26|end_char=28
+7	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=29|end_char=32
+8	visit	visit	NOUN	NN	Number=Sing	5	nmod	_	start_char=33|end_char=38
+9	to	to	ADP	IN	_	12	case	_	start_char=39|end_char=41
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=42|end_char=43
+11	Thai	Thai	ADJ	JJ	Degree=Pos	12	amod	_	start_char=44|end_char=48
+12	brothel	brothel	NOUN	NN	Number=Sing	4	obl	_	start_char=49|end_char=56
+13	on	on	ADP	IN	_	14	case	_	start_char=57|end_char=59
+14	insta	insta	NOUN	NN	Number=Sing	12	nmod	_	start_char=60|end_char=65
+15	.	.	PUNCT	.	_	4	punct	_	start_char=65|end_char=66
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=67|end_char=70
+2	pics	pic	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=71|end_char=75
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=76|end_char=80
+4	nasty	nasty	ADJ	JJ	Degree=Pos	0	root	_	start_char=81|end_char=86
+5	,	,	PUNCT	,	_	10	punct	_	start_char=86|end_char=87
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=88|end_char=91
+7	woman	woman	NOUN	NN	Number=Sing	10	nsubj	_	start_char=92|end_char=97
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=98|end_char=100
+9	payed	pay	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=101|end_char=106
+10	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=107|end_char=113
+11	miserable	miserable	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=114|end_char=123
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=124|end_char=127
+13	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=128|end_char=135
+14	that	that	SCONJ	IN	_	17	mark	_	start_char=136|end_char=140
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=141|end_char=143
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	start_char=144|end_char=147
+17	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	13	ccomp	_	start_char=148|end_char=154
+18	pictures	picture	NOUN	NNS	Number=Plur	17	obj	_	start_char=155|end_char=163
+19	of	of	ADP	IN	_	20	case	_	start_char=164|end_char=166
+20	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nmod	_	start_char=167|end_char=170
+21	.	.	PUNCT	.	_	4	punct	_	start_char=170|end_char=171
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=172|end_char=173
+2	felt	feel	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=174|end_char=178
+3	so	so	ADV	RB	_	4	advmod	_	start_char=179|end_char=181
+4	ashamed	ashamed	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=182|end_char=189
+5	of	of	ADP	IN	_	6	case	_	start_char=190|end_char=192
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=193|end_char=196
+7	.	.	PUNCT	.	_	2	punct	_	start_char=196|end_char=197
+

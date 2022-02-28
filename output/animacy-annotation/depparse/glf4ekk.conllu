@@ -1,0 +1,33 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	sound	sound	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=9
+3	immature	immature	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=10|end_char=18
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=19|end_char=22
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=23|end_char=31
+6	of	of	ADP	IN	_	10	mark	_	start_char=32|end_char=34
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=35|end_char=38
+8	complicated	complicated	ADJ	JJ	Degree=Pos	9	amod	_	start_char=39|end_char=50
+9	life	life	NOUN	NN	Number=Sing	10	nsubj	_	start_char=51|end_char=55
+10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=56|end_char=58
+11	.	.	PUNCT	.	_	2	punct	_	start_char=58|end_char=59
+
+1	Sex	sex	NOUN	NN	Number=Sing	4	nsubj	_	start_char=60|end_char=63
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=64|end_char=66
+3	very	very	ADV	RB	_	4	advmod	_	start_char=67|end_char=71
+4	important	important	ADJ	JJ	Degree=Pos	0	root	_	start_char=72|end_char=81
+5	in	in	ADP	IN	_	7	case	_	start_char=82|end_char=84
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=85|end_char=86
+7	marriage	marriage	NOUN	NN	Number=Sing	4	obl	_	start_char=87|end_char=95
+8	.	.	PUNCT	.	_	4	punct	_	start_char=95|end_char=96
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=97|end_char=100
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=101|end_char=103
+3	not	not	PART	RB	_	6	advmod	_	start_char=104|end_char=107
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=108|end_char=109
+5	bad	bad	ADJ	JJ	Degree=Pos	6	amod	_	start_char=110|end_char=113
+6	wife	wife	NOUN	NN	Number=Sing	0	root	_	start_char=114|end_char=118
+7	for	for	SCONJ	IN	_	8	mark	_	start_char=119|end_char=122
+8	feeling	feel	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=123|end_char=130
+9	sexually	sexually	ADV	RB	_	10	advmod	_	start_char=131|end_char=139
+10	unfulfilled	unfulfilled	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=140|end_char=151
+11	.	.	PUNCT	.	_	6	punct	_	start_char=151|end_char=152
+

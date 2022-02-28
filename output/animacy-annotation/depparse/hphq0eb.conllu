@@ -1,0 +1,35 @@
+1	Not	not	PART	RB	_	2	advmod	_	start_char=0|end_char=3
+2	really	really	ADV	RB	_	0	root	_	start_char=4|end_char=10
+3	though	though	ADV	RB	_	2	advmod	_	start_char=11|end_char=17
+4	.	.	PUNCT	.	_	2	punct	_	start_char=17|end_char=18
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=19|end_char=25
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=26|end_char=29
+3	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=36
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=37|end_char=40
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=41|end_char=49
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=50|end_char=53
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=54|end_char=58
+8	jump	jump	VERB	VB	VerbForm=Inf	3	conj	_	start_char=59|end_char=63
+9	to	to	ADP	IN	_	10	case	_	start_char=64|end_char=66
+10	conclusions	conclusion	NOUN	NNS	Number=Plur	8	obl	_	start_char=67|end_char=78
+11	especially	especially	ADV	RB	_	13	advmod	_	start_char=79|end_char=89
+12	in	in	ADP	IN	_	13	case	_	start_char=90|end_char=92
+13	Germany	Germany	PROPN	NNP	Number=Sing	8	obl	_	start_char=93|end_char=100
+14	where	where	SCONJ	WRB	PronType=Rel	19	mark	_	start_char=101|end_char=106
+15	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=107|end_char=109
+16	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=109|end_char=111
+17	even	even	ADV	RB	_	18	advmod	_	start_char=112|end_char=116
+18	more	more	ADV	RBR	_	19	advmod	_	start_char=117|end_char=121
+19	sensitive	sensitive	ADJ	JJ	Degree=Pos	13	acl:relcl	_	start_char=122|end_char=131
+20	with	with	ADP	IN	_	23	case	_	start_char=132|end_char=136
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=137|end_char=138
+22	certain	certain	ADJ	JJ	Degree=Pos	23	amod	_	start_char=139|end_char=146
+23	symbol	symbol	NOUN	NN	Number=Sing	19	obl	_	start_char=147|end_char=153
+24	(	(	PUNCT	-LRB-	_	27	punct	_	start_char=154|end_char=155
+25	for	for	ADP	IN	_	27	case	_	start_char=155|end_char=158
+26	good	good	ADJ	JJ	Degree=Pos	27	amod	_	start_char=159|end_char=163
+27	reasons	reason	NOUN	NNS	Number=Plur	23	nmod	_	start_char=164|end_char=171
+28	)	)	PUNCT	-RRB-	_	27	punct	_	start_char=171|end_char=172
+29	.	.	PUNCT	.	_	3	punct	_	start_char=172|end_char=173
+

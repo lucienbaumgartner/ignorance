@@ -1,0 +1,27 @@
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=0|end_char=6
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=7|end_char=11
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=12|end_char=15
+4	who	who	PRON	WP	PronType=Rel	7	nsubj	_	start_char=16|end_char=19
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=20|end_char=23
+6	too	too	ADV	RB	Degree=Pos	7	advmod	_	start_char=24|end_char=27
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=28|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	arrogant	arrogant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=41|end_char=49
+10	to	to	PART	TO	_	11	mark	_	start_char=50|end_char=52
+11	approach	approach	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=53|end_char=61
+12	this	this	PRON	DT	Number=Sing|PronType=Dem	11	obj	_	start_char=62|end_char=66
+13	rationally	rationally	ADV	RB	Degree=Pos	14	advmod	_	start_char=67|end_char=77
+14	harm	harm	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=78|end_char=82
+15	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	start_char=83|end_char=87
+16	cause	cause	NOUN	NN	Number=Sing	14	obj	_	start_char=88|end_char=93
+17	.	.	PUNCT	.	_	2	punct	_	start_char=93|end_char=94
+
+1	Please	please	INTJ	UH	_	5	discourse	_	start_char=95|end_char=101
+2	,	,	PUNCT	,	_	5	punct	_	start_char=101|end_char=102
+3	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	_	start_char=103|end_char=105
+4	n't	not	PART	RB	_	5	advmod	_	start_char=105|end_char=108
+5	display	display	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=109|end_char=116
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=117|end_char=121
+7	association	association	NOUN	NN	Number=Sing	5	obj	_	start_char=122|end_char=133
+8	.	.	PUNCT	.	_	5	punct	_	start_char=133|end_char=134
+

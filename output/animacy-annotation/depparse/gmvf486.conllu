@@ -1,0 +1,20 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	bored	bored	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=36|end_char=40
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=41|end_char=44
+9	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=45|end_char=48
+10	mad	mad	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=49|end_char=52
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=53|end_char=57
+12	an	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=58|end_char=60
+13	American	American	ADJ	JJ	Degree=Pos	15	amod	_	start_char=61|end_char=69
+14	girl	girl	NOUN	NN	Number=Sing	15	compound	_	start_char=70|end_char=74
+15	doll	doll	NOUN	NN	Number=Sing	16	nsubj	_	start_char=75|end_char=79
+16	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=80|end_char=83
+17	gay	gay	ADJ	JJ	Degree=Pos	18	amod	_	start_char=84|end_char=87
+18	aunts	aunt	NOUN	NNS	Number=Plur	16	obj	_	start_char=88|end_char=93
+19	.	.	PUNCT	.	_	1	punct	_	start_char=93|end_char=94
+

@@ -1,0 +1,20 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	guy	guy	NOUN	NN	Number=Sing	7	nsubj	_	start_char=4|end_char=7
+3	in	in	ADP	IN	_	4	case	_	start_char=8|end_char=10
+4	question	question	NOUN	NN	Number=Sing	2	nmod	_	start_char=11|end_char=19
+5	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=20|end_char=24
+6	n't	not	PART	RB	_	7	advmod	_	start_char=24|end_char=27
+7	seem	seem	VERB	VB	VerbForm=Inf	0	root	_	start_char=28|end_char=32
+8	actively	actively	ADV	RB	_	9	advmod	_	start_char=33|end_char=41
+9	malicious	malicious	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=42|end_char=51
+10	.	.	PUNCT	.	_	7	punct	_	start_char=51|end_char=52
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=53|end_char=57
+2	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=58|end_char=64
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=65|end_char=68
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=69|end_char=76
+5	of	of	ADP	IN	_	7	case	_	start_char=77|end_char=79
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=80|end_char=83
+7	actions	action	NOUN	NNS	Number=Plur	4	obl	_	start_char=84|end_char=91
+8	.	.	PUNCT	.	_	2	punct	_	start_char=91|end_char=92
+

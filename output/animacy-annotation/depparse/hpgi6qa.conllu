@@ -1,0 +1,44 @@
+1	Nothing	nothing	PRON	NN	Number=Sing	0	root	_	start_char=0|end_char=7
+2	magic	magic	NOUN	NN	Number=Sing	1	dep	_	start_char=8|end_char=13
+3	about	about	ADP	IN	_	5	case	_	start_char=14|end_char=19
+4	those	that	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=20|end_char=25
+5	hats	hat	NOUN	NNS	Number=Plur	1	nmod	_	start_char=26|end_char=30
+6	.	.	PUNCT	.	_	1	punct	_	start_char=30|end_char=31
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=32|end_char=34
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=35|end_char=38
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=38|end_char=41
+4	curious	curious	ADJ	JJ	Degree=Pos	10	advcl	_	start_char=42|end_char=49
+5	what	what	PRON	WP	PronType=Int	4	obj	_	start_char=50|end_char=54
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=55|end_char=59
+7	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=59|end_char=62
+8	for	for	ADP	IN	_	5	case	_	start_char=63|end_char=66
+9	,	,	PUNCT	,	_	10	punct	_	start_char=66|end_char=67
+10	ask	ask	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=68|end_char=71
+11	someone	someone	PRON	NN	Number=Sing	10	obj	_	start_char=72|end_char=79
+12	who	who	PRON	WP	PronType=Rel	13	nsubj	_	start_char=80|end_char=83
+13	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=84|end_char=89
+14	what	what	PRON	WP	PronType=Int	13	obj	_	start_char=90|end_char=94
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=95|end_char=99
+16	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=99|end_char=102
+17	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	13	ccomp	_	start_char=103|end_char=110
+18	about	about	ADP	IN	_	14	case	_	start_char=111|end_char=116
+19	.	.	PUNCT	.	_	10	punct	_	start_char=116|end_char=117
+
+1	Making	make	VERB	VBG	VerbForm=Ger	10	csubj	_	start_char=118|end_char=124
+2	fun	fun	NOUN	NN	Number=Sing	1	obj	_	start_char=125|end_char=128
+3	of	of	ADP	IN	_	4	case	_	start_char=129|end_char=131
+4	something	something	NOUN	NN	Number=Sing	2	nmod	_	start_char=132|end_char=141
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=142|end_char=145
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=146|end_char=148
+7	n't	not	PART	RB	_	8	advmod	_	start_char=148|end_char=151
+8	understand	understand	VERB	VB	VerbForm=Inf	4	acl:relcl	_	start_char=152|end_char=162
+9	just	just	ADV	RB	_	10	advmod	_	start_char=163|end_char=167
+10	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=168|end_char=173
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obj	_	start_char=174|end_char=177
+12	sound	sound	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=178|end_char=183
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	12	xcomp	_	start_char=184|end_char=192
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=193|end_char=196
+15	stupid	stupid	ADJ	JJ	Degree=Pos	13	conj	_	start_char=197|end_char=203
+16	.	.	PUNCT	.	_	10	punct	_	start_char=203|end_char=204
+

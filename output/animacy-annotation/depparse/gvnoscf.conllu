@@ -1,0 +1,37 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=2|end_char=4
+3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	start_char=5|end_char=10
+4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=11|end_char=14
+5	both	both	CCONJ	CC	_	6	cc:preconj	_	start_char=15|end_char=19
+6	aware	aware	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=20|end_char=25
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=26|end_char=29
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=30|end_char=37
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=38|end_char=42
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=43|end_char=45
+11	.	.	PUNCT	.	_	3	punct	_	start_char=45|end_char=46
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=48|end_char=50
+2	really	really	ADV	RB	_	4	advmod	_	start_char=51|end_char=57
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=58|end_char=61
+4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=62|end_char=67
+5	off	off	ADP	IN	_	8	case	_	start_char=68|end_char=71
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=72|end_char=75
+7	deep	deep	ADJ	JJ	Degree=Pos	8	amod	_	start_char=76|end_char=80
+8	end	end	NOUN	NN	Number=Sing	4	obl	_	start_char=81|end_char=84
+9	,	,	PUNCT	,	_	12	punct	_	start_char=84|end_char=85
+10	so	so	ADV	RB	_	12	advmod	_	start_char=86|end_char=88
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=89|end_char=91
+12	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=92|end_char=97
+13	out	out	ADP	RP	_	12	compound:prt	_	start_char=98|end_char=101
+14	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=102|end_char=105
+15	"	"	PUNCT	``	_	19	punct	_	start_char=106|end_char=107
+16	old	old	ADJ	JJ	Degree=Pos	17	amod	_	start_char=107|end_char=110
+17	Kanye	Kanye	PROPN	NNP	Number=Sing	19	compound	_	start_char=111|end_char=116
+18	"	"	PUNCT	''	_	17	punct	_	start_char=116|end_char=117
+19	crowd	crowd	NOUN	NN	Number=Sing	23	nsubj	_	start_char=118|end_char=123
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	cop	_	start_char=124|end_char=127
+21	n't	not	PART	RB	_	23	advmod	_	start_char=127|end_char=130
+22	exactly	exactly	ADV	RB	_	23	advmod	_	start_char=131|end_char=138
+23	wrong	wrong	ADJ	JJ	Degree=Pos	12	ccomp	_	start_char=139|end_char=144
+24	.	.	PUNCT	.	_	4	punct	_	start_char=144|end_char=145
+

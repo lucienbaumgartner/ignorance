@@ -1,0 +1,23 @@
+1	Lol	lol	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=4|end_char=5
+3	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=10
+4	!	!	PUNCT	.	_	3	punct	_	start_char=10|end_char=11
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=12|end_char=14
+2	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=15|end_char=19
+3	petty	petty	ADJ	JJ	Degree=Pos	4	amod	_	start_char=20|end_char=25
+4	Betties	Bettie	PROPN	NNPS	Number=Plur	0	root	_	start_char=26|end_char=33
+5	in	in	ADP	IN	_	6	case	_	start_char=34|end_char=36
+6	here	here	ADV	RB	PronType=Dem	4	nmod	_	start_char=37|end_char=41
+7	who	who	PRON	WP	PronType=Rel	10	nsubj	_	start_char=42|end_char=45
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=46|end_char=49
+9	very	very	ADV	RB	_	10	advmod	_	start_char=50|end_char=54
+10	unconscious	unconscious	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=55|end_char=66
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=67|end_char=70
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=71|end_char=78
+13	of	of	ADP	IN	_	16	case	_	start_char=79|end_char=81
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=82|end_char=87
+15	own	own	ADJ	JJ	Degree=Pos	16	amod	_	start_char=88|end_char=91
+16	insecurities	insecurity	NOUN	NNS	Number=Plur	12	obl	_	start_char=92|end_char=104
+17	.	.	PUNCT	.	_	4	punct	_	start_char=104|end_char=105
+

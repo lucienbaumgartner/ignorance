@@ -1,0 +1,20 @@
+1	Racist	Racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=6
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=7|end_char=10
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=11|end_char=19
+4	of	of	ADP	IN	_	6	case	_	start_char=20|end_char=22
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=23|end_char=26
+6	fact	fact	NOUN	NN	Number=Sing	1	obl	_	start_char=27|end_char=31
+7	that	that	SCONJ	IN	_	13	mark	_	start_char=32|end_char=36
+8	'	'	PUNCT	``	_	10	punct	_	start_char=37|end_char=38
+9	white	white	ADJ	JJ	Degree=Pos	10	amod	_	start_char=38|end_char=43
+10	people	people	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=44|end_char=50
+11	'	'	PUNCT	''	_	10	punct	_	start_char=50|end_char=51
+12	probably	probably	ADV	RB	_	13	advmod	_	start_char=52|end_char=60
+13	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl	_	start_char=61|end_char=64
+14	more	more	ADJ	JJR	Degree=Cmp	15	amod	_	start_char=65|end_char=69
+15	scalping	scalping	NOUN	NN	Number=Sing	13	obj	_	start_char=70|end_char=78
+16	of	of	ADP	IN	_	18	case	_	start_char=79|end_char=81
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=82|end_char=85
+18	natives	native	NOUN	NNS	Number=Plur	15	nmod	_	start_char=86|end_char=93
+19	.	.	PUNCT	.	_	1	punct	_	start_char=93|end_char=94
+

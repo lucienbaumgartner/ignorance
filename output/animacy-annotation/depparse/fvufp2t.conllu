@@ -1,0 +1,52 @@
+1	Wow	wow	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=11
+3	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=12|end_char=17
+4	so	so	ADV	RB	_	5	advmod	_	start_char=18|end_char=20
+5	fucking	fuck	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=21|end_char=28
+6	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part	5	xcomp	_	start_char=29|end_char=38
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=39|end_char=42
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=43|end_char=51
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=52|end_char=56
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=57|end_char=60
+11	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=61|end_char=64
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=65|end_char=66
+13	black	black	ADJ	JJ	Degree=Pos	14	amod	_	start_char=67|end_char=72
+14	guy	guy	NOUN	NN	Number=Sing	11	obj	_	start_char=73|end_char=76
+15	in	in	ADP	IN	_	16	case	_	start_char=77|end_char=79
+16	tats	tat	NOUN	NNS	Number=Plur	14	nmod	_	start_char=80|end_char=84
+17	and	and	CCONJ	CC	_	20	cc	_	start_char=85|end_char=88
+18	and	and	CCONJ	CC	_	20	cc	_	start_char=89|end_char=92
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	start_char=93|end_char=94
+20	grill	grill	NOUN	NN	Number=Sing	16	conj	_	start_char=95|end_char=100
+21	and	and	CCONJ	CC	_	23	cc	_	start_char=101|end_char=104
+22	automatically	automatically	ADV	RB	_	23	advmod	_	start_char=105|end_char=118
+23	assume	assume	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=119|end_char=125
+24	"	"	PUNCT	``	_	26	punct	_	start_char=126|end_char=127
+25	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	26	nsubj	_	start_char=127|end_char=130
+26	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	ccomp	_	start_char=131|end_char=135
+27	what	what	PRON	WP	PronType=Int	26	obj	_	start_char=136|end_char=140
+28	?	?	PUNCT	.	_	2	punct	_	start_char=140|end_char=141
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=142|end_char=146
+2	guy	guy	NOUN	NN	Number=Sing	4	nsubj	_	start_char=147|end_char=150
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=151|end_char=154
+4	weed	weed	VERB	VBN	VerbForm=Part	0	root	_	start_char=155|end_char=159
+5	on	on	ADP	IN	_	6	case	_	start_char=160|end_char=162
+6	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	start_char=163|end_char=166
+7	to	to	PART	TO	_	8	mark	_	start_char=167|end_char=169
+8	sell	sell	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=170|end_char=174
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=175|end_char=177
+10	,	,	PUNCT	,	_	11	punct	_	start_char=177|end_char=178
+11	guaranteed	guarantee	VERB	VBN	Tense=Past|VerbForm=Part	8	advcl	_	start_char=179|end_char=189
+12	.	.	PUNCT	.	_	4	punct	_	start_char=189|end_char=190
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=191|end_char=192
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=193|end_char=199
+3	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	start_char=200|end_char=203
+4	for	for	ADP	IN	_	5	case	_	start_char=204|end_char=207
+5	some	some	DET	DT	_	3	obl	_	start_char=208|end_char=212
+6	"	"	PUNCT	''	_	3	punct	_	start_char=212|end_char=213
+7	.	.	PUNCT	.	_	3	punct	_	start_char=213|end_char=214
+
+1	Jfc.	Jfc.	PROPN	NNP	Number=Sing	0	root	_	start_char=215|end_char=219
+

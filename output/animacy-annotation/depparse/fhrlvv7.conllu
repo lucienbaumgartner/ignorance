@@ -1,0 +1,66 @@
+1	Try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=3
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=4|end_char=9
+3	undiagnosed	undiagnosed	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=21
+4	ADHD	adhd	NOUN	NN	Number=Sing	1	xcomp	_	start_char=22|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	autistic	autistic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	.	.	PUNCT	.	_	1	punct	_	start_char=39|end_char=40
+
+1	To	to	PART	TO	_	2	mark	_	start_char=41|end_char=43
+2	say	say	VERB	VB	VerbForm=Inf	9	csubj	_	start_char=44|end_char=47
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=48|end_char=49
+4	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=50|end_char=55
+5	with	with	ADP	IN	_	6	case	_	start_char=56|end_char=60
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=61|end_char=64
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=65|end_char=67
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=68|end_char=70
+9	understatement	understatement	ADJ	JJ	Degree=Pos	0	root	_	start_char=71|end_char=85
+10	.	.	PUNCT	.	_	9	punct	_	start_char=85|end_char=86
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=87|end_char=88
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=89|end_char=92
+3	always	always	ADV	RB	_	4	advmod	_	start_char=93|end_char=99
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=100|end_char=105
+5	everything	everything	PRON	NN	Number=Sing	4	obj	_	start_char=106|end_char=116
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=117|end_char=118
+7	could	could	AUX	MD	VerbForm=Fin	5	acl:relcl	_	start_char=119|end_char=124
+8	to	to	PART	TO	_	9	mark	_	start_char=125|end_char=127
+9	fit	fit	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=128|end_char=131
+10	in	in	ADP	RP	_	9	compound:prt	_	start_char=132|end_char=134
+11	,	,	PUNCT	,	_	12	punct	_	start_char=134|end_char=135
+12	get	get	VERB	VB	VerbForm=Inf	9	conj	_	start_char=136|end_char=139
+13	friends	friend	NOUN	NNS	Number=Plur	12	obj	_	start_char=140|end_char=147
+14	,	,	PUNCT	,	_	15	punct	_	start_char=147|end_char=148
+15	try	try	VERB	VB	VerbForm=Inf	12	conj	_	start_char=149|end_char=152
+16	.	.	PUNCT	.	_	4	punct	_	start_char=152|end_char=153
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=154|end_char=155
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=156|end_char=159
+3	STILL	still	ADV	RB	_	4	advmod	_	start_char=160|end_char=165
+4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=166|end_char=171
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=172|end_char=176
+6	up	up	ADP	RP	_	4	compound:prt	_	start_char=177|end_char=179
+7	until	until	ADP	IN	_	10	case	_	start_char=180|end_char=185
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=186|end_char=187
+9	few	few	ADJ	JJ	Degree=Pos	10	amod	_	start_char=188|end_char=191
+10	years	year	NOUN	NNS	Number=Plur	11	obl:npmod	_	start_char=192|end_char=197
+11	ago	ago	ADV	RB	_	4	advmod	_	start_char=198|end_char=201
+12	(	(	PUNCT	-LRB-	_	17	punct	_	start_char=202|end_char=203
+13	when	when	SCONJ	WRB	PronType=Int	17	mark	_	start_char=203|end_char=207
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=208|end_char=209
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=210|end_char=213
+16	still	still	ADV	RB	_	17	advmod	_	start_char=214|end_char=219
+17	unaware	unaware	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=220|end_char=227
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=228|end_char=231
+19	undiagnosed	undiagnosed	ADJ	JJ	Degree=Pos	17	conj	_	start_char=232|end_char=243
+20	)	)	PUNCT	-RRB-	_	17	punct	_	start_char=243|end_char=244
+21	.	.	PUNCT	.	_	4	punct	_	start_char=244|end_char=245
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=246|end_char=248
+2	much	much	ADJ	JJ	Degree=Pos	3	amod	_	start_char=249|end_char=253
+3	money	money	NOUN	NN	Number=Sing	0	root	_	start_char=254|end_char=259
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=260|end_char=263
+5	damage	damage	NOUN	NN	Number=Sing	3	conj	_	start_char=264|end_char=270
+6	done	do	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=271|end_char=275
+7	.	.	PUNCT	.	_	3	punct	_	start_char=275|end_char=276
+

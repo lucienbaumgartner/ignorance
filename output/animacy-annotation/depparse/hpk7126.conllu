@@ -1,0 +1,34 @@
+1	Anti-vaxxers	anti-vaxxer	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=0|end_char=12
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=13|end_char=16
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=25
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=26|end_char=29
+5	selfish	selfish	ADJ	JJ	Degree=Pos	3	conj	_	start_char=30|end_char=37
+6	,	,	PUNCT	,	_	8	punct	_	start_char=37|end_char=38
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=39|end_char=42
+8	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=43|end_char=48
+9	responsibility	responsibility	NOUN	NN	Number=Sing	8	obj	_	start_char=49|end_char=63
+10	for	for	ADP	IN	_	12	case	_	start_char=64|end_char=67
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=68|end_char=71
+12	fact	fact	NOUN	NN	Number=Sing	8	obl	_	start_char=72|end_char=76
+13	that	that	SCONJ	IN	_	19	mark	_	start_char=77|end_char=81
+14	this	this	DET	DT	Number=Sing|PronType=Dem	15	det	_	start_char=82|end_char=86
+15	pandemic	pandemic	NOUN	NN	Number=Sing	19	nsubj	_	start_char=87|end_char=95
+16	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	start_char=96|end_char=99
+17	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	cop	_	start_char=100|end_char=104
+18	as	as	ADV	RB	_	19	advmod	_	start_char=105|end_char=107
+19	bad	bad	ADJ	JJ	Degree=Pos	12	acl	_	start_char=108|end_char=111
+20	as	as	SCONJ	IN	_	23	mark	_	start_char=112|end_char=114
+21	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=115|end_char=117
+22	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	start_char=118|end_char=121
+23	been	be	AUX	VBN	Tense=Past|VerbForm=Part	19	advcl	_	start_char=122|end_char=126
+24	.	.	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+
+1	Give	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=128|end_char=132
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	start_char=133|end_char=135
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=136|end_char=137
+4	break	break	NOUN	NN	Number=Sing	1	obj	_	start_char=138|end_char=143
+5	with	with	ADP	IN	_	7	case	_	start_char=144|end_char=148
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=149|end_char=153
+7	bullshit	bullshit	NOUN	NN	Number=Sing	4	nmod	_	start_char=154|end_char=162
+8	.	.	PUNCT	.	_	1	punct	_	start_char=162|end_char=163
+

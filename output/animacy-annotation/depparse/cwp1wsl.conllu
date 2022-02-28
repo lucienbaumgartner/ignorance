@@ -1,0 +1,28 @@
+1	Argh	argh	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=5|end_char=7
+3	blood	blood	NOUN	NN	Number=Sing	5	nsubj	_	start_char=8|end_char=13
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=14|end_char=16
+5	boiling	boil	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=17|end_char=24
+6	!	!	PUNCT	.	_	5	punct	_	start_char=24|end_char=25
+
+1	Honestly	honestly	ADV	RB	_	8	advmod	_	start_char=26|end_char=34
+2	,	,	PUNCT	,	_	8	punct	_	start_char=34|end_char=35
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=36|end_char=39
+4	these	this	DET	DT	Number=Plur|PronType=Dem	5	det	_	start_char=40|end_char=45
+5	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=46|end_char=52
+6	just	just	ADV	RB	_	8	advmod	_	start_char=53|end_char=57
+7	totally	totally	ADV	RB	_	8	advmod	_	start_char=58|end_char=65
+8	oblivious	oblivious	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=75
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=76|end_char=79
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=80|end_char=87
+11	that	that	SCONJ	IN	_	13	mark	_	start_char=88|end_char=92
+12	others	other	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=93|end_char=99
+13	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=100|end_char=105
+14	or	or	CCONJ	CC	_	19	cc	_	start_char=106|end_char=108
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=109|end_char=112
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	start_char=113|end_char=117
+17	just	just	ADV	RB	_	19	advmod	_	start_char=118|end_char=122
+18	egocentric	egocentric	ADJ	JJ	Degree=Pos	19	amod	_	start_char=123|end_char=133
+19	asshats	asshat	NOUN	NNS	Number=Plur	8	conj	_	start_char=134|end_char=141
+20	?	?	PUNCT	.	_	8	punct	_	start_char=141|end_char=142
+

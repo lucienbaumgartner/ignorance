@@ -1,0 +1,19 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=5|end_char=7
+4	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	5	amod	_	start_char=8|end_char=21
+5	comparison	comparison	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=32
+6	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=33|end_char=37
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=37|end_char=39
+8	incredibly	incredibly	ADV	RB	_	9	advmod	_	start_char=40|end_char=50
+9	unaware	unaware	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=51|end_char=58
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=59|end_char=62
+11	mental	mental	ADJ	JJ	Degree=Pos	9	conj	_	start_char=63|end_char=69
+12	.	.	PUNCT	.	_	5	punct	_	start_char=69|end_char=70
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=71|end_char=74
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=74|end_char=77
+3	beyond	beyond	ADP	IN	_	4	case	_	start_char=78|end_char=84
+4	help	help	NOUN	NN	Number=Sing	0	root	_	start_char=85|end_char=89
+5	.	.	PUNCT	.	_	4	punct	_	start_char=89|end_char=90
+

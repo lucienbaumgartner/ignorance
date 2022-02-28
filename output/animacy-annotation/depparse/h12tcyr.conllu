@@ -1,0 +1,35 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	so	so	ADV	RB	_	4	advmod	_	start_char=4|end_char=6
+4	confused	confused	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=15
+5	.	.	PUNCT	.	_	4	punct	_	start_char=15|end_char=16
+
+1	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=17|end_char=20
+2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=21|end_char=24
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=25|end_char=28
+4	cop	cop	NOUN	NN	Number=Sing	5	nsubj	_	start_char=29|end_char=32
+5	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=33|end_char=37
+6	A	a	DET	DT	Definite=Ind|PronType=Art	5	obj	_	start_char=38|end_char=39
+7	)	)	PUNCT	-RRB-	_	5	punct	_	start_char=39|end_char=40
+8	dude	dude	NOUN	NN	Number=Sing	12	nsubj	_	start_char=40|end_char=44
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=45|end_char=48
+10	on	on	ADP	IN	_	12	case	_	start_char=49|end_char=51
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=52|end_char=55
+12	tracks	track	NOUN	NNS	Number=Plur	5	parataxis	_	start_char=56|end_char=62
+13	300	300	NUM	CD	NumType=Card	14	nummod	_	start_char=63|end_char=66
+14	yards	yard	NOUN	NNS	Number=Plur	15	obl:npmod	_	start_char=66|end_char=71
+15	away	away	ADV	RB	_	12	advmod	_	start_char=72|end_char=76
+16	B	b	NUM	LS	_	21	nummod	_	start_char=77|end_char=78
+17	)	)	PUNCT	-RRB-	_	16	punct	_	start_char=78|end_char=79
+18	that	that	SCONJ	IN	_	21	mark	_	start_char=79|end_char=83
+19	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=84|end_char=86
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	_	start_char=87|end_char=90
+21	deaf	deaf	ADJ	JJ	Degree=Pos	12	conj	_	start_char=91|end_char=95
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=96|end_char=99
+23	unaware	unaware	ADJ	JJ	Degree=Pos	21	conj	_	start_char=100|end_char=107
+24	of	of	ADP	IN	_	27	case	_	start_char=108|end_char=110
+25	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	start_char=111|end_char=114
+26	approaching	approach	VERB	VBG	VerbForm=Ger	27	amod	_	start_char=115|end_char=126
+27	train	train	NOUN	NN	Number=Sing	23	obl	_	start_char=127|end_char=132
+28	???	???	PUNCT	.	_	12	punct	_	start_char=132|end_char=135
+

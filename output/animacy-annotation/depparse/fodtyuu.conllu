@@ -1,0 +1,53 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=6
+3	arguing	argue	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7|end_char=14
+4	with	with	ADP	IN	_	5	case	_	start_char=15|end_char=19
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obl	_	start_char=20|end_char=22
+6	on	on	ADP	IN	_	7	case	_	start_char=23|end_char=25
+7	something	something	PRON	NN	Number=Sing	3	obl	_	start_char=26|end_char=35
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=36|end_char=37
+9	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=38|end_char=43
+10	with	with	ADP	IN	_	9	obl	_	start_char=44|end_char=48
+11	.	.	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=50|end_char=53
+2	protesters	protester	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=54|end_char=64
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=65|end_char=68
+4	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=69|end_char=79
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=80|end_char=83
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=84|end_char=92
+7	.	.	PUNCT	.	_	4	punct	_	start_char=92|end_char=93
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=94|end_char=98
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=99|end_char=103
+3	n’t	not	PART	RB	_	4	advmod	_	start_char=103|end_char=106
+4	change	change	VERB	VB	VerbForm=Inf	0	root	_	start_char=107|end_char=113
+5	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=114|end_char=117
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=118|end_char=119
+7	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=120|end_char=124
+8	about	about	ADP	IN	_	10	case	_	start_char=125|end_char=130
+9	cuomos	cuomo	NOUN	NNS	Number=Plur	10	compound	_	start_char=131|end_char=137
+10	comments	comment	NOUN	NNS	Number=Plur	7	obl	_	start_char=138|end_char=146
+11	.	.	PUNCT	.	_	4	punct	_	start_char=146|end_char=147
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=148|end_char=151
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=152|end_char=155
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=156|end_char=159
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=160|end_char=166
+5	to	to	PART	TO	_	7	mark	_	start_char=167|end_char=169
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=170|end_char=172
+7	abrasive	abrasive	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=173|end_char=181
+8	towards	towards	ADP	IN	_	9	case	_	start_char=182|end_char=189
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	start_char=190|end_char=192
+10	.	.	PUNCT	.	_	4	punct	_	start_char=192|end_char=193
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=194|end_char=197
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	start_char=198|end_char=201
+3	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=202|end_char=212
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=213|end_char=215
+5	better	good	ADJ	JJR	Degree=Cmp	3	xcomp	_	start_char=216|end_char=222
+6	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=223|end_char=227
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=228|end_char=231
+8	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=231|end_char=234
+9	older	old	ADJ	JJR	Degree=Cmp	3	advcl	_	start_char=235|end_char=240
+

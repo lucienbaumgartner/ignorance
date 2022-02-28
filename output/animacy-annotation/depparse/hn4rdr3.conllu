@@ -1,0 +1,43 @@
+1	President	President	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=0|end_char=9
+2	Trump	Trump	PROPN	NNP	Number=Sing	1	flat	_	start_char=10|end_char=15
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=16|end_char=18
+4	Hillary	Hillary	PROPN	NNP	Number=Sing	7	nmod:poss	_	start_char=19|end_char=26
+5	Clinton	Clinton	PROPN	NNP	Number=Sing	4	flat	_	start_char=27|end_char=34
+6	’s	's	PART	POS	_	4	case	_	start_char=34|end_char=36
+7	fault	fault	NOUN	NN	Number=Sing	0	root	_	start_char=37|end_char=42
+8	.	.	PUNCT	.	_	7	punct	_	start_char=42|end_char=43
+
+1	Change	change	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=44|end_char=50
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=51|end_char=53
+3	mind	mind	NOUN	NN	Number=Sing	1	obj	_	start_char=54|end_char=58
+4	.	.	PUNCT	.	_	1	punct	_	start_char=58|end_char=59
+
+1	If	if	SCONJ	IN	_	7	mark	_	start_char=60|end_char=62
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=63|end_char=66
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=67|end_char=70
+4	n’t	not	PART	RB	_	7	advmod	_	start_char=70|end_char=73
+5	so	so	ADV	RB	_	7	advmod	_	start_char=74|end_char=76
+6	power	power	NOUN	NN	Number=Sing	7	obl:npmod	_	start_char=77|end_char=82
+7	hungry	hungry	ADJ	JJ	Degree=Pos	22	advcl	_	start_char=83|end_char=89
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=90|end_char=93
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=94|end_char=101
+10	of	of	ADP	IN	_	12	mark	_	start_char=102|end_char=104
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=105|end_char=108
+12	unpopular	unpopular	ADJ	JJ	Degree=Pos	9	advcl	_	start_char=109|end_char=118
+13	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=119|end_char=122
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=123|end_char=125
+15	,	,	PUNCT	,	_	22	punct	_	start_char=125|end_char=126
+16	Bernie	Bernie	PROPN	NNP	Number=Sing	22	nsubj	_	start_char=127|end_char=133
+17	would	would	AUX	MD	VerbForm=Fin	22	aux	_	start_char=134|end_char=139
+18	have	have	AUX	VB	VerbForm=Inf	22	aux	_	start_char=140|end_char=144
+19	been	be	AUX	VBN	Tense=Past|VerbForm=Part	22	cop	_	start_char=145|end_char=149
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=150|end_char=153
+21	Democratic	Democratic	ADJ	JJ	Degree=Pos	22	amod	_	start_char=154|end_char=164
+22	candidate	candidate	NOUN	NN	Number=Sing	0	root	_	start_char=165|end_char=174
+23	and	and	CCONJ	CC	_	26	cc	_	start_char=175|end_char=178
+24	would	would	AUX	MD	VerbForm=Fin	26	aux	_	start_char=179|end_char=184
+25	have	have	AUX	VB	VerbForm=Inf	26	aux	_	start_char=185|end_char=189
+26	beaten	beat	VERB	VBN	Tense=Past|VerbForm=Part	22	conj	_	start_char=190|end_char=196
+27	trump	trump	PROPN	NNP	Number=Sing	26	obj	_	start_char=197|end_char=202
+28	.	.	PUNCT	.	_	22	punct	_	start_char=202|end_char=203
+

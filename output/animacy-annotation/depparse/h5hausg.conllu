@@ -1,0 +1,18 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=7|end_char=9
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=10|end_char=11
+5	little	little	ADJ	JJ	Degree=Pos	6	obl:npmod	_	start_char=12|end_char=18
+6	immature	immature	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=19|end_char=27
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=28|end_char=31
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=32|end_char=40
+9	of	of	ADP	IN	_	10	case	_	start_char=41|end_char=43
+10	privilege	privilege	NOUN	NN	Number=Sing	8	obl	_	start_char=44|end_char=53
+11	,	,	PUNCT	,	_	16	punct	_	start_char=53|end_char=54
+12	but	but	CCONJ	CC	_	16	cc	_	start_char=55|end_char=58
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=59|end_char=63
+14	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=63|end_char=65
+15	just	just	ADV	RB	_	16	advmod	_	start_char=66|end_char=70
+16	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	conj	_	start_char=71|end_char=73
+17	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+

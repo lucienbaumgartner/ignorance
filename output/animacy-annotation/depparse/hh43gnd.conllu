@@ -1,0 +1,74 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=3
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=4|end_char=8
+3	drunk	drunk	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=14
+4	?	?	PUNCT	.	_	3	punct	_	start_char=14|end_char=15
+
+1	Or	or	CCONJ	CC	_	6	cc	_	start_char=16|end_char=18
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=22
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=23|end_char=27
+4	just	just	ADV	RB	_	6	advmod	_	start_char=28|end_char=32
+5	regularly	regularly	ADV	RB	_	6	advmod	_	start_char=33|end_char=42
+6	agressive	agressive	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=52
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=53|end_char=56
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=57|end_char=64
+9	of	of	ADP	IN	_	10	case	_	start_char=65|end_char=67
+10	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=68|end_char=80
+11	like	like	ADP	IN	_	12	case	_	start_char=81|end_char=85
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nmod	_	start_char=86|end_char=90
+13	?	?	PUNCT	.	_	6	punct	_	start_char=90|end_char=91
+
+1	Would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=93|end_char=98
+2	have	have	AUX	VB	VerbForm=Inf	3	aux	_	start_char=99|end_char=103
+3	loved	love	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=104|end_char=109
+4	for	for	ADP	IN	_	6	case	_	start_char=110|end_char=113
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=114|end_char=117
+6	bus	bus	NOUN	NN	Number=Sing	3	obl	_	start_char=118|end_char=121
+7	to	to	PART	TO	_	9	mark	_	start_char=122|end_char=124
+8	just	just	ADV	RB	_	9	advmod	_	start_char=125|end_char=129
+9	do	do	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=130|end_char=132
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=133|end_char=136
+11	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	12	amod	_	start_char=137|end_char=142
+12	tap	tap	NOUN	NN	Number=Sing	9	obj	_	start_char=143|end_char=146
+13	,	,	PUNCT	,	_	15	punct	_	start_char=146|end_char=147
+14	to	to	PART	TO	_	15	mark	_	start_char=148|end_char=150
+15	scare	scare	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=151|end_char=156
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	obj	_	start_char=157|end_char=161
+17	off	off	ADP	RP	_	15	compound:prt	_	start_char=162|end_char=165
+18	.	.	PUNCT	.	_	3	punct	_	start_char=165|end_char=166
+
+1	Now	now	ADV	RB	_	4	advmod	_	start_char=167|end_char=170
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=171|end_char=174
+3	driver	driver	NOUN	NN	Number=Sing	4	nsubj	_	start_char=175|end_char=181
+4	killed	kill	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=182|end_char=188
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=189|end_char=190
+6	girl	girl	NOUN	NN	Number=Sing	4	obj	_	start_char=191|end_char=195
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=196|end_char=199
+8	ruined	ruin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=200|end_char=206
+9	not	not	ADV	RB	_	12	advmod	_	start_char=207|end_char=210
+10	only	only	ADV	RB	_	12	cc:preconj	_	start_char=211|end_char=215
+11	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=216|end_char=219
+12	life	life	NOUN	NN	Number=Sing	8	obj	_	start_char=220|end_char=224
+13	but	but	CCONJ	CC	_	14	cc	_	start_char=225|end_char=228
+14	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	conj	_	start_char=229|end_char=232
+15	as	as	ADV	RB	_	8	advmod	_	start_char=233|end_char=235
+16	well	well	ADV	RB	Degree=Pos	15	fixed	_	start_char=236|end_char=240
+17	.	.	PUNCT	.	_	4	punct	_	start_char=240|end_char=241
+
+1	What	what	PRON	WP	PronType=Int	4	obj	_	start_char=242|end_char=246
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	start_char=247|end_char=250
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=251|end_char=253
+4	thinking	think	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=254|end_char=262
+5	?	?	PUNCT	.	_	4	punct	_	start_char=262|end_char=263
+
+1	Always	Always	ADV	RB	_	2	advmod	_	start_char=265|end_char=271
+2	expect	expect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=272|end_char=278
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=279|end_char=282
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	_	start_char=283|end_char=288
+5	person	person	NOUN	NN	Number=Sing	2	obj	_	start_char=289|end_char=295
+6	to	to	PART	TO	_	8	mark	_	start_char=296|end_char=298
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=299|end_char=301
+8	crazier	crazy	ADJ	JJR	Degree=Cmp	2	xcomp	_	start_char=302|end_char=309
+9	than	than	ADP	IN	_	10	case	_	start_char=310|end_char=314
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obl	_	start_char=315|end_char=318
+11	.	.	PUNCT	.	_	2	punct	_	start_char=318|end_char=319
+

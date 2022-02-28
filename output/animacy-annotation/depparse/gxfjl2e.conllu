@@ -1,0 +1,72 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=44|end_char=47
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=53
+10	that	that	SCONJ	IN	_	15	mark	_	start_char=54|end_char=58
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=59|end_char=62
+12	good	good	ADJ	JJ	Degree=Pos	13	amod	_	start_char=63|end_char=67
+13	things	thing	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=68|end_char=74
+14	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=75|end_char=78
+15	justify	justify	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=79|end_char=86
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=87|end_char=90
+17	horrors	horror	NOUN	NNS	Number=Plur	15	obj	_	start_char=91|end_char=98
+18	of	of	ADP	IN	_	19	case	_	start_char=99|end_char=101
+19	life	life	NOUN	NN	Number=Sing	17	nmod	_	start_char=102|end_char=106
+20	.	.	PUNCT	.	_	1	punct	_	start_char=106|end_char=107
+
+1	No	no	DET	DT	_	2	det	_	start_char=108|end_char=110
+2	one	one	NOUN	NN	Number=Sing	3	nsubj	_	start_char=111|end_char=114
+3	talked	talk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=115|end_char=121
+4	about	about	SCONJ	IN	_	6	mark	_	start_char=122|end_char=127
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=128|end_char=133
+6	able	able	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=134|end_char=138
+7	to	to	PART	TO	_	8	mark	_	start_char=139|end_char=141
+8	enjoy	enjoy	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=142|end_char=147
+9	life	life	NOUN	NN	Number=Sing	8	obj	_	start_char=148|end_char=152
+10	.	.	PUNCT	.	_	3	punct	_	start_char=152|end_char=153
+
+1	Of	of	ADP	IN	_	5	advmod	_	start_char=154|end_char=156
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=157|end_char=163
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=164|end_char=167
+4	can	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=168|end_char=171
+5	enjoy	enjoy	VERB	VB	VerbForm=Inf	0	root	_	start_char=172|end_char=177
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=178|end_char=182
+7	life	life	NOUN	NN	Number=Sing	5	obj	_	start_char=183|end_char=187
+8	.	.	PUNCT	.	_	5	punct	_	start_char=187|end_char=188
+
+1	But	but	CCONJ	CC	_	5	cc	_	start_char=189|end_char=192
+2	life	life	NOUN	NN	Number=Sing	5	nsubj	_	start_char=193|end_char=197
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=198|end_char=200
+4	also	also	ADV	RB	_	5	advmod	_	start_char=201|end_char=205
+5	horrible	horrible	ADJ	JJ	Degree=Pos	0	root	_	start_char=206|end_char=214
+6	for	for	ADP	IN	_	9	case	_	start_char=215|end_char=218
+7	countless	countless	ADJ	JJ	Degree=Pos	9	amod	_	start_char=219|end_char=228
+8	human	human	ADJ	JJ	Degree=Pos	9	amod	_	start_char=229|end_char=234
+9	beings	being	NOUN	NNS	Number=Plur	5	obl	_	start_char=235|end_char=241
+10	.	.	PUNCT	.	_	5	punct	_	start_char=241|end_char=242
+
+1	One	one	PRON	PRP	_	4	nsubj	_	start_char=243|end_char=246
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=247|end_char=251
+3	n't	not	PART	RB	_	4	advmod	_	start_char=251|end_char=254
+4	negate	negate	VERB	VB	VerbForm=Inf	0	root	_	start_char=255|end_char=261
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=262|end_char=265
+6	other	other	ADJ	JJ	Degree=Pos	4	obj	_	start_char=266|end_char=271
+7	.	.	PUNCT	.	_	4	punct	_	start_char=271|end_char=272
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=273|end_char=279
+2	educate	educate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=280|end_char=287
+3	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	obj	_	start_char=288|end_char=296
+4	before	before	SCONJ	IN	_	5	mark	_	start_char=297|end_char=303
+5	talking	talk	VERB	VBG	VerbForm=Ger	2	advcl	_	start_char=304|end_char=311
+6	nonsense	nonsense	NOUN	NN	Number=Sing	5	obj	_	start_char=312|end_char=320
+7	.	.	PUNCT	.	_	2	punct	_	start_char=320|end_char=321
+
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=322|end_char=327
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=328|end_char=331
+3	.	.	PUNCT	.	_	1	punct	_	start_char=331|end_char=332
+

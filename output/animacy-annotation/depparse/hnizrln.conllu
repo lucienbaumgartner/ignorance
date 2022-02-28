@@ -1,0 +1,26 @@
+1	So	so	ADV	RB	_	10	advmod	_	start_char=0|end_char=2
+2	what	what	PRON	WP	PronType=Int	10	nsubj	_	start_char=3|end_char=7
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=8|end_char=12
+4	saying	saying	NOUN	NN	Number=Sing	8	nsubj	_	start_char=13|end_char=19
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=20|end_char=22
+6	at	at	ADP	IN	_	8	case	_	start_char=23|end_char=25
+7	4:37	4:37	NUM	CD	NumType=Card	8	nummod	_	start_char=26|end_char=30
+8	am	am	NOUN	NN	Number=Sing	2	obl	_	start_char=30|end_char=32
+9	there	there	PRON	EX	_	10	expl	_	start_char=33|end_char=38
+10	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=39|end_char=41
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=42|end_char=43
+12	99	99	NUM	CD	NumType=Card	13	nummod	_	start_char=44|end_char=46
+13	%	%	SYM	NN	Number=Sing	14	compound	_	start_char=46|end_char=47
+14	guarantee	guarantee	NOUN	NN	Number=Sing	10	nsubj	_	start_char=48|end_char=57
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	start_char=58|end_char=61
+16	will	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=62|end_char=66
+17	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=67|end_char=69
+18	completly	completely	ADV	RB	_	19	advmod	_	start_char=70|end_char=79
+19	unaware	unaware	ADJ	JJ	Degree=Pos	14	acl:relcl	_	start_char=80|end_char=87
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=88|end_char=91
+21	vulnerable	vulnerable	ADJ	JJ	Degree=Pos	19	conj	_	start_char=92|end_char=102
+22	....	....	PUNCT	.	_	10	punct	_	start_char=102|end_char=106
+
+1	Interesting	interesting	ADJ	JJ	Degree=Pos	0	root	_	start_char=107|end_char=118
+2	🤔	''	PUNCT	.	_	1	punct	_	start_char=119|end_char=120
+

@@ -1,0 +1,26 @@
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=0|end_char=4
+2	Netflix	Netflix	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=5|end_char=12
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=13|end_char=16
+4	chill	chill	VERB	VB	VerbForm=Inf	2	conj	_	start_char=17|end_char=22
+5	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	start_char=23|end_char=27
+6	sex	sex	NOUN	NN	Number=Sing	5	obj	_	start_char=28|end_char=31
+7	?	?	PUNCT	.	_	5	punct	_	start_char=31|end_char=32
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=34|end_char=35
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=36|end_char=38
+3	/	/	SYM	,	_	6	punct	_	start_char=38|end_char=39
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=39|end_char=42
+5	seriously	seriously	ADV	RB	_	6	advmod	_	start_char=43|end_char=52
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=53|end_char=60
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=61|end_char=64
+8	very	very	ADV	RB	_	9	advmod	_	start_char=65|end_char=69
+9	confused	confused	ADJ	JJ	Degree=Pos	6	conj	_	start_char=70|end_char=78
+10	by	by	SCONJ	IN	_	15	mark	_	start_char=79|end_char=81
+11	how	how	SCONJ	WRB	PronType=Int	12	mark	_	start_char=82|end_char=85
+12	quickly	quickly	ADV	RB	_	15	advmod	_	start_char=86|end_char=93
+13	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=94|end_char=98
+14	conversation	conversation	NOUN	NN	Number=Sing	15	nsubj	_	start_char=99|end_char=111
+15	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	start_char=112|end_char=118
+16	south	south	ADV	RB	_	15	advmod	_	start_char=119|end_char=124
+17	.	.	PUNCT	.	_	6	punct	_	start_char=124|end_char=125
+

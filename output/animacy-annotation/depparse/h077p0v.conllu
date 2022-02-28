@@ -1,0 +1,47 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=7
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=8|end_char=9
+4	damn	damn	ADV	RB	_	5	advmod	_	start_char=10|end_char=14
+5	good	good	ADJ	JJ	Degree=Pos	6	amod	_	start_char=15|end_char=19
+6	question	question	NOUN	NN	Number=Sing	0	root	_	start_char=20|end_char=28
+7	.	.	PUNCT	.	_	6	punct	_	start_char=28|end_char=29
+
+1	Huge	huge	ADJ	JJ	Degree=Pos	3	amod	_	start_char=30|end_char=34
+2	grey	grey	ADJ	JJ	Degree=Pos	3	amod	_	start_char=35|end_char=39
+3	area	area	NOUN	NN	Number=Sing	0	root	_	start_char=40|end_char=44
+4	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=45|end_char=49
+5	,	,	PUNCT	,	_	3	punct	_	start_char=49|end_char=50
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=51|end_char=52
+7	expect	expect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=53|end_char=59
+8	.	.	PUNCT	.	_	3	punct	_	start_char=59|end_char=60
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=61|end_char=62
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=63|end_char=68
+3	argue	argue	VERB	VB	VerbForm=Inf	0	root	_	start_char=69|end_char=74
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=75|end_char=79
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=80|end_char=82
+6	still	still	ADV	RB	_	8	advmod	_	start_char=83|end_char=88
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=89|end_char=91
+8	issue	issue	NOUN	NN	Number=Sing	3	ccomp	_	start_char=92|end_char=97
+9	of	of	ADP	IN	_	11	case	_	start_char=98|end_char=100
+10	“	''	PUNCT	``	_	11	punct	_	start_char=101|end_char=102
+11	consent	consent	NOUN	NN	Number=Sing	8	nmod	_	start_char=102|end_char=109
+12	”	''	PUNCT	''	_	11	punct	_	start_char=109|end_char=110
+13	because	because	SCONJ	IN	_	16	mark	_	start_char=111|end_char=118
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=119|end_char=122
+15	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	cop	_	start_char=123|end_char=127
+16	unaware	unaware	ADJ	JJ	Degree=Pos	8	advcl	_	start_char=128|end_char=135
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=136|end_char=139
+18	unwilling	unwilling	ADJ	JJ	Degree=Pos	16	conj	_	start_char=140|end_char=149
+19	.	.	PUNCT	.	_	3	punct	_	start_char=149|end_char=150
+
+1	Hmm	hmm	INTJ	UH	_	0	root	_	start_char=151|end_char=154
+2	.	.	PUNCT	.	_	1	punct	_	start_char=154|end_char=155
+
+1	Lawyers	lawyer	NOUN	NNS	Number=Plur	0	root	_	start_char=156|end_char=163
+2	of	of	ADP	IN	_	3	case	_	start_char=164|end_char=166
+3	Reddit	Reddit	PROPN	NNP	Number=Sing	1	nmod	_	start_char=167|end_char=173
+4	,	,	PUNCT	,	_	1	punct	_	start_char=173|end_char=174
+5	assemble	assemble	VERB	VB	VerbForm=Fin	1	parataxis	_	start_char=175|end_char=183
+6	!	!	PUNCT	.	_	1	punct	_	start_char=183|end_char=184
+

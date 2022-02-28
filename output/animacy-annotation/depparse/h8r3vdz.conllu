@@ -1,0 +1,19 @@
+1	Sexsomnia	Sexsomnia	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=9
+2	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	Nothing	nothing	PRON	NN	Number=Sing	0	root	_	start_char=11|end_char=18
+2	like	like	SCONJ	IN	_	3	mark	_	start_char=19|end_char=23
+3	waking	wake	VERB	VBG	Tense=Pres|VerbForm=Ger	1	acl	_	start_char=24|end_char=30
+4	waking	wake	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=31|end_char=37
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=38|end_char=48
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=49|end_char=56
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=57|end_char=60
+8	unprotected	unprotected	ADJ	JJ	Degree=Pos	6	conj	_	start_char=61|end_char=72
+9	,	,	PUNCT	,	_	13	punct	_	start_char=72|end_char=73
+10	yet	yet	CCONJ	CC	_	13	cc	_	start_char=74|end_char=77
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=78|end_char=82
+12	partner	partner	NOUN	NN	Number=Sing	13	nsubj	_	start_char=83|end_char=90
+13	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=91|end_char=97
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	nsubj	_	start_char=98|end_char=101
+15	initiated	initiate	VERB	VBN	Tense=Past|VerbForm=Part	13	ccomp	_	start_char=102|end_char=111
+

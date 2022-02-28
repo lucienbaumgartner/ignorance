@@ -1,0 +1,8 @@
+1	God	God	PROPN	NNP	Number=Sing	4	vocative	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=7|end_char=10
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=19
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=20|end_char=23
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=34
+7	.	.	PUNCT	.	_	4	punct	_	start_char=34|end_char=35
+

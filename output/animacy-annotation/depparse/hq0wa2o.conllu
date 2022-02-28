@@ -1,0 +1,40 @@
+1	white	white	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=5
+2	women	woman	NOUN	NNS	Number=Plur	0	root	_	start_char=6|end_char=11
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	start_char=12|end_char=15
+4	race	race	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=16|end_char=20
+5	play	play	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=21|end_char=25
+6	using	use	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=26|end_char=31
+7	brown	brown	ADJ	JJ	Degree=Pos	9	amod	_	start_char=32|end_char=37
+8	strap	strap	NOUN	NN	Number=Sing	9	compound	_	start_char=38|end_char=43
+9	ons&lt	ons&lt	NOUN	NN	Number=Sing	6	obj	_	start_char=44|end_char=50
+10	;&lt	;&lt	PUNCT	,	_	5	punct	_	start_char=50|end_char=54
+11	;	;	PUNCT	:	_	14	punct	_	start_char=54|end_char=55
+12	&lt	&lt	PUNCT	NFP	_	14	punct	_	start_char=55|end_char=58
+13	;	;	PUNCT	:	_	14	punct	_	start_char=58|end_char=59
+14	educate	educate	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	5	parataxis	_	start_char=60|end_char=67
+15	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	14	obj	_	start_char=68|end_char=76
+16	.	.	PUNCT	.	_	5	punct	_	start_char=76|end_char=77
+
+1	this	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=78|end_char=82
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=83|end_char=85
+3	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=86|end_char=93
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=94|end_char=102
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=103|end_char=106
+6	gross	gross	ADJ	JJ	Degree=Pos	4	conj	_	start_char=107|end_char=112
+7	.	.	PUNCT	.	_	3	punct	_	start_char=112|end_char=113
+
+1	MY	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=114|end_char=116
+2	PEOPLE	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=117|end_char=123
+3	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=124|end_char=127
+4	NOT	not	PART	RB	_	5	advmod	_	start_char=128|end_char=131
+5	HERE	here	ADV	RB	PronType=Dem	0	root	_	start_char=132|end_char=136
+6	TO	to	PART	TO	_	7	mark	_	start_char=137|end_char=139
+7	USE	use	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=140|end_char=143
+8	FOR	for	ADP	IN	_	13	case	_	start_char=144|end_char=147
+9	YOUR	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=148|end_char=152
+10	FETISH	FETISH	PROPN	NNP	Number=Sing	13	compound	_	start_char=153|end_char=159
+11	AND	and	CCONJ	CC	_	12	cc	_	start_char=160|end_char=163
+12	FINANCIAL	financial	ADJ	JJ	Degree=Pos	10	conj	_	start_char=164|end_char=173
+13	GAIN	gain	NOUN	NN	Number=Sing	7	obl	_	start_char=174|end_char=178
+14	.	.	PUNCT	.	_	5	punct	_	start_char=178|end_char=179
+

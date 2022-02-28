@@ -1,0 +1,27 @@
+1	Unless	unless	SCONJ	IN	_	6	mark	_	start_char=0|end_char=6
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=7|end_char=10
+3	Clippers	Clippers	PROPN	NNPS	Number=Plur	6	nsubj	_	start_char=11|end_char=19
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=20|end_char=23
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=24|end_char=34
+6	clueless	clueless	ADJ	JJ	Degree=Pos	21	advcl	_	start_char=35|end_char=43
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=44|end_char=47
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=48|end_char=55
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=56|end_char=60
+10	Pek	Pek	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=61|end_char=64
+11	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=65|end_char=68
+12	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=69|end_char=70
+13	potentially	potentially	ADV	RB	_	14	advmod	_	start_char=71|end_char=82
+14	career	career	NOUN	NN	Number=Sing	16	compound	_	start_char=83|end_char=89
+15	ending	end	VERB	VBG	VerbForm=Ger	16	amod	_	start_char=90|end_char=96
+16	injury	injury	NOUN	NN	Number=Sing	11	obj	_	start_char=97|end_char=103
+17	,	,	PUNCT	,	_	21	punct	_	start_char=103|end_char=104
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=105|end_char=106
+19	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=107|end_char=109
+20	n't	not	PART	RB	_	21	advmod	_	start_char=109|end_char=112
+21	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=113|end_char=118
+22	anyone	anyone	PRON	NN	Number=Sing	23	nsubj	_	start_char=119|end_char=125
+23	trades	trade	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	start_char=126|end_char=132
+24	for	for	ADP	IN	_	25	case	_	start_char=133|end_char=136
+25	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obl	_	start_char=137|end_char=140
+26	.	.	PUNCT	.	_	21	punct	_	start_char=140|end_char=141
+

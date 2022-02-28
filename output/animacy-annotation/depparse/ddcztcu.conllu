@@ -1,0 +1,39 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	might	might	AUX	MD	VerbForm=Fin	3	aux	_	start_char=5|end_char=10
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=11|end_char=15
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=16|end_char=17
+5	powerful	powerful	ADJ	JJ	Degree=Pos	6	amod	_	start_char=18|end_char=26
+6	meme	meme	NOUN	NN	Number=Sing	3	obj	_	start_char=27|end_char=31
+7	,	,	PUNCT	,	_	12	punct	_	start_char=31|end_char=32
+8	but	but	CCONJ	CC	_	12	cc	_	start_char=33|end_char=36
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=37|end_char=39
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=40|end_char=42
+11	n't	not	PART	RB	_	12	advmod	_	start_char=42|end_char=45
+12	concise	concise	ADJ	JJ	Degree=Pos	3	conj	_	start_char=46|end_char=53
+13	enough	enough	ADV	RB	_	12	advmod	_	start_char=54|end_char=60
+14	.	.	PUNCT	.	_	3	punct	_	start_char=60|end_char=61
+
+1	&gt	&gt	INTJ	UH	_	12	discourse	_	start_char=63|end_char=66
+2	;	;	PUNCT	:	_	8	punct	_	start_char=66|end_char=67
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=67|end_char=69
+4	've	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=69|end_char=72
+5	all	all	ADV	RB	_	8	advmod	_	start_char=73|end_char=76
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	cop	_	start_char=77|end_char=81
+7	quite	quite	ADV	RB	_	8	advmod	_	start_char=82|end_char=87
+8	content	content	NOUN	NN	Number=Sing	12	parataxis	_	start_char=88|end_char=95
+9	to	to	ADP	IN	_	10	case	_	start_char=96|end_char=98
+10	[...	[...	NOUN	NN	Number=Sing	8	nmod	_	start_char=99|end_char=103
+11	]	]	PUNCT	-RRB-	_	8	punct	_	start_char=103|end_char=104
+12	conspire	conspire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=105|end_char=113
+13	to	to	PART	TO	_	14	mark	_	start_char=114|end_char=116
+14	produce	produce	VERB	VB	VerbForm=Inf	12	xcomp	_	start_char=117|end_char=124
+15	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=125|end_char=127
+16	unaware	unaware	ADJ	JJ	Degree=Pos	19	amod	_	start_char=128|end_char=135
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=136|end_char=139
+18	compliant	compliant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=140|end_char=149
+19	citizenry	citizenry	NOUN	NN	Number=Sing	14	obj	_	start_char=150|end_char=159
+20	.	.	PUNCT	.	_	12	punct	_	start_char=159|end_char=160
+
+1	Hmm	hmm	INTJ	UH	_	0	root	_	start_char=162|end_char=165
+2	...	...	PUNCT	.	_	1	punct	_	start_char=165|end_char=168
+

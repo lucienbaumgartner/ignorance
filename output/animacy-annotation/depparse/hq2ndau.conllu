@@ -1,0 +1,16 @@
+1	Ooooooohhhh	Ooooooohhhh	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=11
+2	!!!	!!!	PUNCT	.	_	1	punct	_	start_char=11|end_char=14
+
+1	Can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=15|end_char=18
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=19|end_char=21
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=22|end_char=24
+4	both	both	DET	DT	_	0	root	_	start_char=25|end_char=29
+5	?	?	PUNCT	.	_	4	punct	_	start_char=29|end_char=30
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=31|end_char=33
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=34|end_char=36
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=45
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=46|end_char=49
+5	evil	evil	ADJ	JJ	Degree=Pos	3	conj	_	start_char=50|end_char=54
+6	?!	?!	PUNCT	.	_	3	punct	_	start_char=54|end_char=56
+

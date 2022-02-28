@@ -1,0 +1,31 @@
+1	Yes	yes	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	there	there	PRON	EX	_	3	expl	_	start_char=4|end_char=9
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=12
+4	.	.	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=14|end_char=16
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=16|end_char=18
+3	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=19|end_char=25
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=26|end_char=31
+5	Transmisic	Transmisic	PROPN	NNP	Number=Sing	3	xcomp	_	start_char=32|end_char=42
+6	.	.	PUNCT	.	_	3	punct	_	start_char=42|end_char=43
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=44|end_char=47
+2	co-adoption	co-adoption	NOUN	NN	Number=Sing	11	nsubj	_	start_char=48|end_char=59
+3	of	of	ADP	IN	_	4	case	_	start_char=60|end_char=62
+4	phobias	phobias	NOUN	NNS	Number=Plur	2	nmod	_	start_char=63|end_char=70
+5	being	be	AUX	VBG	VerbForm=Ger	6	aux:pass	_	start_char=71|end_char=76
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	start_char=77|end_char=81
+7	for	for	SCONJ	IN	_	8	mark	_	start_char=82|end_char=85
+8	hating	hate	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=86|end_char=92
+9	someone	someone	PRON	NN	Number=Sing	8	obj	_	start_char=93|end_char=100
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=101|end_char=103
+11	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=104|end_char=110
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=111|end_char=114
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=115|end_char=123
+14	of	of	ADP	IN	_	17	case	_	start_char=124|end_char=126
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=127|end_char=130
+16	English	English	ADJ	JJ	Degree=Pos	17	amod	_	start_char=131|end_char=138
+17	language	language	NOUN	NN	Number=Sing	13	obl	_	start_char=139|end_char=147
+18	.	.	PUNCT	.	_	11	punct	_	start_char=147|end_char=148
+

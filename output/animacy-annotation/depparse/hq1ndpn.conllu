@@ -1,0 +1,20 @@
+1	Dude	dude	NOUN	NN	Number=Sing	5	nsubj	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=5|end_char=8
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=12
+4	so	so	ADV	RB	_	5	advmod	_	start_char=13|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=24
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28
+7	misguided	misguide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=29|end_char=38
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=39|end_char=42
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=43|end_char=51
+10	scary	scary	ADJ	JJ	Degree=Pos	7	obj	_	start_char=52|end_char=57
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=58|end_char=61
+12	sad	sad	ADJ	JJ	Degree=Pos	10	conj	_	start_char=62|end_char=65
+13	.	.	PUNCT	.	_	5	punct	_	start_char=65|end_char=66
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=68|end_char=71
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=72|end_char=76
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=77|end_char=78
+4	therapist	therapist	NOUN	NN	Number=Sing	2	obj	_	start_char=79|end_char=88
+5	.	.	PUNCT	.	_	2	punct	_	start_char=88|end_char=89
+

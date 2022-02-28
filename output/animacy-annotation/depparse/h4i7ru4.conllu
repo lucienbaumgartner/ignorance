@@ -1,0 +1,27 @@
+1	Perfect	perfect	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=7
+2	for	for	ADP	IN	_	4	case	_	start_char=8|end_char=11
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=12|end_char=13
+4	student	student	NOUN	NN	Number=Sing	1	obl	_	start_char=14|end_char=21
+5	who	who	PRON	WP	PronType=Rel	9	nsubj	_	start_char=22|end_char=25
+6	might	might	AUX	MD	VerbForm=Fin	9	aux	_	start_char=26|end_char=31
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=32|end_char=34
+8	so	so	ADV	RB	_	9	advmod	_	start_char=35|end_char=37
+9	desperate	desperate	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=38|end_char=47
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=48|end_char=51
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=52|end_char=59
+12	of	of	ADP	IN	_	14	case	_	start_char=60|end_char=62
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=63|end_char=68
+14	rights	rights	NOUN	NNS	Number=Plur	11	obl	_	start_char=69|end_char=75
+15	that	that	PRON	WDT	PronType=Rel	19	obj	_	start_char=76|end_char=80
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=81|end_char=82
+17	might	might	AUX	MD	VerbForm=Fin	19	aux	_	start_char=83|end_char=88
+18	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=89|end_char=91
+19	able	able	ADJ	JJ	Degree=Pos	14	acl:relcl	_	start_char=92|end_char=96
+20	to	to	PART	TO	_	21	mark	_	start_char=97|end_char=99
+21	manipulate	manipulate	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=100|end_char=110
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	start_char=111|end_char=115
+23	into	into	SCONJ	IN	_	24	mark	_	start_char=116|end_char=120
+24	doing	do	VERB	VBG	VerbForm=Ger	21	advcl	_	start_char=121|end_char=126
+25	this	this	PRON	DT	Number=Sing|PronType=Dem	24	obj	_	start_char=127|end_char=131
+26	!	!	PUNCT	.	_	1	punct	_	start_char=131|end_char=132
+

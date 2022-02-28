@@ -1,0 +1,74 @@
+1	So	so	ADV	RB	_	3	advmod	_	start_char=0|end_char=2
+2	there	there	PRON	EX	_	3	expl	_	start_char=3|end_char=8
+3	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=12
+4	no	no	DET	DT	_	5	det	_	start_char=13|end_char=15
+5	power	power	NOUN	NN	Number=Sing	3	nsubj	_	start_char=16|end_char=21
+6	dynamic	dynamic	ADJ	JJ	Degree=Pos	5	amod	_	start_char=22|end_char=29
+7	in	in	ADP	IN	_	8	case	_	start_char=30|end_char=32
+8	redlining	redlining	NOUN	NN	Number=Sing	6	obl	_	start_char=33|end_char=42
+9	?	?	PUNCT	.	_	3	punct	_	start_char=42|end_char=43
+
+1	No	no	DET	DT	_	2	det	_	start_char=44|end_char=46
+2	power	power	NOUN	NN	Number=Sing	0	root	_	start_char=47|end_char=52
+3	dynamic	dynamic	ADJ	JJ	Degree=Pos	2	amod	_	start_char=53|end_char=60
+4	in	in	ADP	IN	_	5	case	_	start_char=61|end_char=63
+5	slavery	slavery	NOUN	NN	Number=Sing	3	obl	_	start_char=64|end_char=71
+6	?	?	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	No	no	DET	DT	_	2	det	_	start_char=73|end_char=75
+2	power	power	NOUN	NN	Number=Sing	3	nsubj	_	start_char=76|end_char=81
+3	dynamic	dynamic	ADJ	JJ	Degree=Pos	0	root	_	start_char=82|end_char=89
+4	with	with	ADP	IN	_	5	case	_	start_char=90|end_char=94
+5	George	George	PROPN	NNP	Number=Sing	3	obl	_	start_char=95|end_char=101
+6	Floyd	Floyd	PROPN	NNP	Number=Sing	5	flat	_	start_char=102|end_char=107
+7	?	?	PUNCT	.	_	3	punct	_	start_char=107|end_char=108
+
+1	No	no	DET	DT	_	2	det	_	start_char=109|end_char=111
+2	power	power	NOUN	NN	Number=Sing	0	root	_	start_char=112|end_char=117
+3	dynamic	dynamic	ADJ	JJ	Degree=Pos	2	amod	_	start_char=118|end_char=125
+4	with	with	ADP	IN	_	9	case	_	start_char=126|end_char=130
+5	discriminatory	discriminatory	ADJ	JJ	Degree=Pos	9	amod	_	start_char=131|end_char=145
+6	hiring	hiring	NOUN	NN	Number=Sing	9	compound	_	start_char=146|end_char=152
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=153|end_char=156
+8	promoting	promote	NOUN	NN	Number=Sing	6	conj	_	start_char=157|end_char=166
+9	practices	practice	NOUN	NNS	Number=Plur	3	obl	_	start_char=167|end_char=176
+10	?	?	PUNCT	.	_	3	punct	_	start_char=176|end_char=177
+
+1	Racist	Racist	ADJ	JJ	Degree=Pos	4	nsubj	_	start_char=180|end_char=186
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=187|end_char=190
+3	constantly	constantly	ADV	RB	_	4	advmod	_	start_char=191|end_char=201
+4	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=202|end_char=208
+5	to	to	PART	TO	_	6	mark	_	start_char=209|end_char=211
+6	reduce	reduce	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=212|end_char=218
+7	racism	racism	NOUN	NN	Number=Sing	6	obj	_	start_char=219|end_char=225
+8	to	to	ADP	IN	_	9	case	_	start_char=226|end_char=228
+9	people	people	NOUN	NNS	Number=Plur	6	obl	_	start_char=229|end_char=235
+10	not	not	PART	RB	_	11	advmod	_	start_char=236|end_char=239
+11	liking	like	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=240|end_char=246
+12	…	…	PUNCT	,	_	4	punct	_	start_char=246|end_char=247
+13	thereby	thereby	ADV	RB	_	14	advmod	_	start_char=248|end_char=255
+14	giving	give	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=256|end_char=262
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	iobj	_	start_char=263|end_char=267
+16	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=268|end_char=270
+17	out	out	NOUN	NN	Number=Sing	14	obj	_	start_char=271|end_char=274
+18	to	to	PART	TO	_	20	mark	_	start_char=275|end_char=277
+19	be	be	AUX	VB	VerbForm=Inf	20	cop	_	start_char=278|end_char=280
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	acl	_	start_char=281|end_char=289
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=290|end_char=293
+22	dismissive	dismissive	ADJ	JJ	Degree=Pos	20	conj	_	start_char=294|end_char=304
+23	.	.	PUNCT	.	_	4	punct	_	start_char=304|end_char=305
+
+1	Just	just	ADV	RB	_	5	advmod	_	start_char=306|end_char=310
+2	like	like	SCONJ	IN	_	5	mark	_	start_char=311|end_char=315
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=316|end_char=319
+4	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=319|end_char=322
+5	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=323|end_char=328
+6	now	now	ADV	RB	_	5	advmod	_	start_char=329|end_char=332
+7	.	.	PUNCT	.	_	5	punct	_	start_char=332|end_char=333
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=334|end_char=337
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=337|end_char=340
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=341|end_char=342
+4	🤡	🤡	NOUN	NN	Number=Sing	5	compound	_	start_char=343|end_char=344
+5	bud	bud	NOUN	NN	Number=Sing	0	root	_	start_char=345|end_char=348
+

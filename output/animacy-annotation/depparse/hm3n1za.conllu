@@ -1,0 +1,27 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=5|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=8|end_char=11
+4	main	main	ADJ	JJ	Degree=Pos	5	amod	_	start_char=12|end_char=16
+5	reason	reason	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=23
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=24|end_char=25
+7	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux:pass	_	start_char=26|end_char=29
+8	irritated	irritate	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	start_char=30|end_char=39
+9	with	with	ADP	IN	_	10	case	_	start_char=40|end_char=44
+10	people	people	NOUN	NNS	Number=Plur	8	obl	_	start_char=45|end_char=51
+11	because	because	SCONJ	IN	_	14	mark	_	start_char=52|end_char=59
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=60|end_char=64
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=65|end_char=68
+14	treating	treat	VERB	VBG	Tense=Pres|VerbForm=Part	8	advcl	_	start_char=69|end_char=77
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	start_char=78|end_char=80
+16	like	like	SCONJ	IN	_	19	mark	_	start_char=81|end_char=85
+17	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=86|end_char=87
+18	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	cop	_	start_char=87|end_char=89
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	advcl	_	start_char=90|end_char=98
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=99|end_char=102
+21	unaware	unaware	ADJ	JJ	Degree=Pos	19	conj	_	start_char=103|end_char=110
+22	of	of	ADP	IN	_	25	case	_	start_char=111|end_char=113
+23	all	all	DET	PDT	_	25	det:predet	_	start_char=114|end_char=117
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=118|end_char=121
+25	risks	risk	NOUN	NNS	Number=Plur	21	obl	_	start_char=122|end_char=127
+26	.	.	PUNCT	.	_	5	punct	_	start_char=127|end_char=128
+

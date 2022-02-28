@@ -1,0 +1,35 @@
+1	Joe	Joe	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=5|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	Kendra	Kendra	PROPN	NNP	Number=Sing	1	conj	_	start_char=12|end_char=18
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=22
+5	so	so	ADV	RB	_	6	advmod	_	start_char=23|end_char=25
+6	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=36|end_char=44
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=45|end_char=49
+10	there	there	PRON	EX	_	11	expl	_	start_char=50|end_char=55
+11	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=55|end_char=57
+12	no	no	DET	DT	_	13	det	_	start_char=58|end_char=60
+13	way	way	NOUN	NN	Number=Sing	11	nsubj	_	start_char=61|end_char=64
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	start_char=65|end_char=66
+15	could	could	AUX	MD	VerbForm=Fin	19	aux	_	start_char=67|end_char=72
+16	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=73|end_char=75
+17	self	self	NOUN	NN	Number=Sing	19	obl:npmod	_	start_char=76|end_char=80
+18	-	-	PUNCT	HYPH	_	19	punct	_	start_char=80|end_char=81
+19	aware	aware	ADJ	JJ	Degree=Pos	13	acl:relcl	_	start_char=81|end_char=86
+20	enough	enough	ADJ	JJ	Degree=Pos	19	advmod	_	start_char=87|end_char=93
+21	to	to	PART	TO	_	22	mark	_	start_char=94|end_char=96
+22	have	have	VERB	VB	VerbForm=Inf	19	advcl	_	start_char=97|end_char=101
+23	a	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	start_char=102|end_char=103
+24	hard	hard	ADJ	JJ	Degree=Pos	25	amod	_	start_char=104|end_char=108
+25	life	life	NOUN	NN	Number=Sing	22	obj	_	start_char=109|end_char=113
+26	if	if	SCONJ	IN	_	30	mark	_	start_char=114|end_char=116
+27	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	start_char=117|end_char=118
+28	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	cop	_	start_char=119|end_char=122
+29	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	nmod:poss	_	start_char=123|end_char=128
+30	child	child	NOUN	NN	Number=Sing	22	advcl	_	start_char=129|end_char=134
+31	.	.	PUNCT	.	_	6	punct	_	start_char=134|end_char=135
+

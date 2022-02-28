@@ -1,0 +1,37 @@
+1	Only	only	ADV	RB	_	4	advmod	_	start_char=0|end_char=4
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+3	most	most	ADV	RBS	_	4	advmod	_	start_char=9|end_char=13
+4	privileged	privileged	ADJ	JJ	Degree=Pos	10	nsubj	_	start_char=14|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=37
+7	of	of	ADP	IN	_	8	case	_	start_char=38|end_char=40
+8	fools	fool	NOUN	NNS	Number=Plur	4	obl	_	start_char=41|end_char=46
+9	would	would	AUX	MD	VerbForm=Fin	10	aux	_	start_char=47|end_char=52
+10	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=53|end_char=58
+11	Biden	Biden	PROPN	NNP	Number=Sing	16	nsubj	_	start_char=59|end_char=64
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=65|end_char=68
+13	Trump	Trump	PROPN	NNP	Number=Sing	11	conj	_	start_char=69|end_char=74
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=75|end_char=78
+15	remotely	remotely	ADV	RB	_	16	advmod	_	start_char=79|end_char=87
+16	similar	similar	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=88|end_char=95
+17	.	.	PUNCT	.	_	10	punct	_	start_char=95|end_char=96
+
+1	One	one	PRON	PRP	_	6	nsubj	_	start_char=97|end_char=100
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=101|end_char=103
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=104|end_char=105
+4	boring	boring	ADJ	JJ	Degree=Pos	6	amod	_	start_char=106|end_char=112
+5	social	social	ADJ	JJ	Degree=Pos	6	amod	_	start_char=113|end_char=119
+6	liberal	liberal	NOUN	NN	Number=Sing	0	root	_	start_char=120|end_char=127
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=128|end_char=131
+8	other	other	ADJ	JJ	Degree=Pos	9	nsubj	_	start_char=132|end_char=137
+9	tried	try	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	acl:relcl	_	start_char=138|end_char=143
+10	to	to	PART	TO	_	11	mark	_	start_char=144|end_char=146
+11	kill	kill	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=147|end_char=151
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=152|end_char=155
+13	democracy	democracy	NOUN	NN	Number=Sing	11	obj	_	start_char=156|end_char=165
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=166|end_char=169
+15	attacks	attack	NOUN	NNS	Number=Plur	13	conj	_	start_char=170|end_char=177
+16	human	human	ADJ	JJ	Degree=Pos	17	amod	_	start_char=178|end_char=183
+17	rights	rights	NOUN	NNS	Number=Plur	13	conj	_	start_char=184|end_char=190
+18	.	.	PUNCT	.	_	6	punct	_	start_char=190|end_char=191
+

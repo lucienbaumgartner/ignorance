@@ -1,0 +1,19 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=6
+3	one	one	NUM	CD	NumType=Card	0	root	_	start_char=7|end_char=10
+4	of	of	ADP	IN	_	7	case	_	start_char=11|end_char=13
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=14|end_char=17
+6	worst	bad	ADJ	JJS	Degree=Sup	7	amod	_	start_char=18|end_char=23
+7	subs	sub	NOUN	NNS	Number=Plur	3	nmod	_	start_char=24|end_char=28
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=29|end_char=30
+9	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=30|end_char=33
+10	ever	ever	ADV	RB	_	11	advmod	_	start_char=34|end_char=38
+11	come	come	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	_	start_char=39|end_char=43
+12	across	across	ADV	RB	_	11	advmod	_	start_char=44|end_char=50
+13	.	.	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=52|end_char=60
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=61|end_char=64
+3	hateful	hateful	ADJ	JJ	Degree=Pos	1	conj	_	start_char=65|end_char=72
+4	.	.	PUNCT	.	_	1	punct	_	start_char=72|end_char=73
+

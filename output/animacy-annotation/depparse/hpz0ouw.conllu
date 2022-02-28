@@ -1,0 +1,67 @@
+1	So	so	ADV	RB	_	2	advmod	_	start_char=0|end_char=2
+2	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=3|end_char=6
+3	.	.	PUNCT	.	_	2	punct	_	start_char=6|end_char=7
+
+1	Wow	wow	INTJ	UH	_	5	discourse	_	start_char=9|end_char=12
+2	,	,	PUNCT	,	_	5	punct	_	start_char=12|end_char=13
+3	what	what	PRON	WP	PronType=Int	5	det:predet	_	start_char=14|end_char=18
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=19|end_char=20
+5	controlling	control	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=32
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=33|end_char=36
+7	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part	9	amod	_	start_char=37|end_char=45
+8	weird	weird	ADJ	JJ	Degree=Pos	9	amod	_	start_char=46|end_char=51
+9	o	o	NOUN	NN	Number=Sing	5	conj	_	start_char=51|end_char=52
+10	--	--	PUNCT	:	_	5	punct	_	start_char=52|end_char=54
+
+1	Kyle	Kyle	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=55|end_char=59
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=60|end_char=62
+3	ridiculously	ridiculously	ADV	RB	_	4	advmod	_	start_char=63|end_char=75
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=76|end_char=84
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=85|end_char=88
+6	judgemental	judgemental	ADJ	JJ	Degree=Pos	4	conj	_	start_char=89|end_char=100
+7	.	.	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=103|end_char=107
+2	riddance	riddance	NOUN	NN	Number=Sing	0	root	_	start_char=108|end_char=116
+3	to	to	ADP	IN	_	4	case	_	start_char=117|end_char=119
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	start_char=120|end_char=123
+5	.	.	PUNCT	.	_	2	punct	_	start_char=123|end_char=124
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=126|end_char=129
+2	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=130|end_char=133
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=134|end_char=137
+4	right	right	ADJ	JJ	Degree=Pos	5	amod	_	start_char=138|end_char=143
+5	thing	thing	NOUN	NN	Number=Sing	2	obj	_	start_char=144|end_char=149
+6	.	.	PUNCT	.	_	2	punct	_	start_char=149|end_char=150
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=151|end_char=152
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=153|end_char=158
+3	not	not	PART	RB	_	4	advmod	_	start_char=159|end_char=162
+4	trust	trust	VERB	VB	VerbForm=Inf	0	root	_	start_char=163|end_char=168
+5	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	start_char=169|end_char=172
+6	around	around	ADP	IN	_	8	case	_	start_char=173|end_char=179
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=180|end_char=183
+8	house	house	NOUN	NN	Number=Sing	4	obl	_	start_char=184|end_char=189
+9	or	or	CCONJ	CC	_	10	cc	_	start_char=190|end_char=192
+10	cat	cat	NOUN	NN	Number=Sing	8	conj	_	start_char=193|end_char=196
+11	.	.	PUNCT	.	_	4	punct	_	start_char=196|end_char=197
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=199|end_char=201
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	start_char=202|end_char=205
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=206|end_char=211
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	start_char=212|end_char=214
+5	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=214|end_char=216
+6	fine	fine	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=217|end_char=221
+7	to	to	PART	TO	_	8	mark	_	start_char=222|end_char=224
+8	lock	lock	VERB	VB	VerbForm=Inf	6	csubj	_	start_char=225|end_char=229
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=230|end_char=233
+10	cat	cat	NOUN	NN	Number=Sing	8	obj	_	start_char=234|end_char=237
+11	up	up	ADP	RP	_	8	compound:prt	_	start_char=238|end_char=240
+12	/	/	SYM	,	_	13	cc	_	start_char=240|end_char=241
+13	let	let	VERB	VB	VerbForm=Inf	8	conj	_	start_char=241|end_char=244
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=245|end_char=248
+15	cat	cat	NOUN	NN	Number=Sing	13	obj	_	start_char=249|end_char=252
+16	out	out	ADP	RP	_	13	compound:prt	_	start_char=253|end_char=256
+17	,	,	PUNCT	,	_	18	punct	_	start_char=256|end_char=257
+18	etc.	etc.	X	FW	_	13	list	_	start_char=258|end_char=262
+

@@ -1,0 +1,35 @@
+1	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	fucking	fuck	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=17|end_char=24
+5	delusional	delusional	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=25|end_char=35
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=36|end_char=39
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=40|end_char=48
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=49|end_char=53
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=54|end_char=57
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=58|end_char=63
+11	only	only	ADV	RB	_	12	advmod	_	start_char=64|end_char=68
+12	drunks	drunk	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=69|end_char=75
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=76|end_char=79
+14	drug	drug	NOUN	NN	Number=Sing	15	compound	_	start_char=80|end_char=84
+15	addicts	addict	NOUN	NNS	Number=Plur	12	conj	_	start_char=85|end_char=92
+16	struggle	struggle	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	ccomp	_	start_char=93|end_char=101
+17	with	with	ADP	IN	_	18	case	_	start_char=102|end_char=106
+18	employment	employment	NOUN	NN	Number=Sing	16	obl	_	start_char=107|end_char=117
+19	.	.	PUNCT	.	_	1	punct	_	start_char=117|end_char=118
+
+1	Someone	someone	PRON	NN	Number=Sing	4	nsubj	_	start_char=120|end_char=127
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=127|end_char=129
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	start_char=130|end_char=134
+4	drinking	drink	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=135|end_char=143
+5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=144|end_char=147
+6	Murdoch	Murdoch	PROPN	NNP	Number=Sing	9	compound	_	start_char=148|end_char=155
+7	kool	kool	NOUN	NN	Number=Sing	9	compound	_	start_char=156|end_char=160
+8	-	-	PUNCT	HYPH	_	9	punct	_	start_char=160|end_char=161
+9	aid	aid	NOUN	NN	Number=Sing	4	obj	_	start_char=161|end_char=164
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=165|end_char=166
+11	little	little	ADJ	JJ	Degree=Pos	13	obl:npmod	_	start_char=167|end_char=173
+12	too	too	ADV	RB	_	13	advmod	_	start_char=174|end_char=177
+13	much	much	ADV	RB	_	4	advmod	_	start_char=178|end_char=182
+14	.	.	PUNCT	.	_	4	punct	_	start_char=182|end_char=183
+

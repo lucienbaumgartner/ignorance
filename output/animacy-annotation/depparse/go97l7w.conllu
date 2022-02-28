@@ -1,0 +1,79 @@
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=3|end_char=6
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=7|end_char=11
+4	anything	anything	PRON	NN	Number=Sing	3	obj	_	start_char=12|end_char=20
+5	to	to	PART	TO	_	6	mark	_	start_char=21|end_char=23
+6	add	add	VERB	VB	VerbForm=Inf	4	acl	_	start_char=24|end_char=27
+7	to	to	ADP	IN	_	9	case	_	start_char=28|end_char=30
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=31|end_char=34
+9	discussion	discussion	NOUN	NN	Number=Sing	6	obl	_	start_char=35|end_char=45
+10	then	then	ADV	RB	PronType=Dem	11	advmod	_	start_char=46|end_char=50
+11	do	do	VERB	VB	Mood=Imp|VerbForm=Inf	0	root	_	start_char=51|end_char=53
+12	so	so	ADV	RB	_	11	advmod	_	start_char=54|end_char=56
+13	.	.	PUNCT	.	_	11	punct	_	start_char=56|end_char=57
+
+1	Otherwise	otherwise	ADV	RB	_	3	advmod	_	start_char=58|end_char=67
+2	,	,	PUNCT	,	_	3	punct	_	start_char=67|end_char=68
+3	shut	shut	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=69|end_char=73
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=74|end_char=77
+5	fuck	fuck	NOUN	NN	Number=Sing	3	obj	_	start_char=78|end_char=82
+6	up	up	ADP	RP	_	3	compound:prt	_	start_char=83|end_char=85
+7	.	.	PUNCT	.	_	3	punct	_	start_char=85|end_char=86
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=89|end_char=92
+2	numbers	number	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=93|end_char=100
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=101|end_char=104
+4	there	there	ADV	RB	PronType=Dem	0	root	_	start_char=105|end_char=110
+5	.	.	PUNCT	.	_	4	punct	_	start_char=110|end_char=111
+
+1	Covid	Covid	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=112|end_char=117
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=118|end_char=120
+3	not	not	PART	RB	_	6	advmod	_	start_char=121|end_char=124
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=125|end_char=126
+5	big	big	ADJ	JJ	Degree=Pos	6	amod	_	start_char=127|end_char=130
+6	deal	deal	NOUN	NN	Number=Sing	0	root	_	start_char=131|end_char=135
+7	to	to	ADP	IN	_	9	case	_	start_char=136|end_char=138
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=139|end_char=140
+9	majority	majority	NOUN	NN	Number=Sing	6	nmod	_	start_char=141|end_char=149
+10	of	of	ADP	IN	_	12	case	_	start_char=150|end_char=152
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=153|end_char=156
+12	population	population	NOUN	NN	Number=Sing	9	nmod	_	start_char=157|end_char=167
+13	.	.	PUNCT	.	_	6	punct	_	start_char=167|end_char=168
+
+1	Shutting	shut	VERB	VBG	VerbForm=Ger	5	csubj	_	start_char=169|end_char=177
+2	down	down	ADP	RP	_	1	compound:prt	_	start_char=178|end_char=182
+3	everything	everything	PRON	NN	Number=Sing	5	nsubj	_	start_char=183|end_char=193
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=194|end_char=196
+5	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=197|end_char=203
+6	.	.	PUNCT	.	_	5	punct	_	start_char=203|end_char=204
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=205|end_char=208
+2	correct	correct	ADJ	JJ	Degree=Pos	3	amod	_	start_char=209|end_char=216
+3	way	way	NOUN	NN	Number=Sing	4	nsubj	_	start_char=217|end_char=220
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=221|end_char=223
+5	to	to	PART	TO	_	6	mark	_	start_char=224|end_char=226
+6	keep	keep	VERB	VB	VerbForm=Inf	4	ccomp	_	start_char=227|end_char=231
+7	everything	everything	PRON	NN	Number=Sing	6	obj	_	start_char=232|end_char=242
+8	open	open	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=243|end_char=247
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=248|end_char=251
+10	everyone	everyone	PRON	NN	Number=Sing	7	conj	_	start_char=252|end_char=260
+11	working	work	VERB	VBG	VerbForm=Ger	10	acl	_	start_char=261|end_char=268
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=269|end_char=272
+13	protect	protect	VERB	VB	VerbForm=Inf	11	conj	_	start_char=273|end_char=280
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=281|end_char=284
+15	old	old	ADJ	JJ	Degree=Pos	13	obj	_	start_char=285|end_char=288
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=289|end_char=292
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=293|end_char=296
+18	weak	weak	ADJ	JJ	Degree=Pos	15	conj	_	start_char=297|end_char=301
+19	.	.	PUNCT	.	_	4	punct	_	start_char=301|end_char=302
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=304|end_char=307
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=308|end_char=311
+3	just	just	ADV	RB	_	4	advmod	_	start_char=312|end_char=316
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=317|end_char=323
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=324|end_char=327
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=328|end_char=336
+7	of	of	ADP	IN	_	8	case	_	start_char=337|end_char=339
+8	science	science	NOUN	NN	Number=Sing	6	obl	_	start_char=340|end_char=347
+9	.	.	PUNCT	.	_	4	punct	_	start_char=347|end_char=348
+

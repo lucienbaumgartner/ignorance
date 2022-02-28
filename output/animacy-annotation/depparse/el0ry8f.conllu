@@ -1,0 +1,35 @@
+1	Only	only	ADV	RB	_	6	advmod	_	start_char=0|end_char=4
+2	if	if	SCONJ	IN	_	6	mark	_	start_char=5|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=8|end_char=11
+4	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=14
+5	completely	completely	ADV	RB	_	6	advmod	_	start_char=15|end_char=25
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=48
+9	that	that	SCONJ	IN	_	14	mark	_	start_char=49|end_char=53
+10	oil	oil	NOUN	NN	Number=Sing	13	compound	_	start_char=54|end_char=57
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=58|end_char=61
+12	gas	gas	NOUN	NN	Number=Sing	10	conj	_	start_char=62|end_char=65
+13	companies	company	NOUN	NNS	Number=Plur	14	nsubj	_	start_char=66|end_char=75
+14	own	own	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=76|end_char=79
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=80|end_char=81
+16	significant	significant	ADJ	JJ	Degree=Pos	17	amod	_	start_char=82|end_char=93
+17	portion	portion	NOUN	NN	Number=Sing	14	obj	_	start_char=94|end_char=101
+18	of	of	ADP	IN	_	21	case	_	start_char=102|end_char=104
+19	renewable	renewable	ADJ	JJ	Degree=Pos	21	amod	_	start_char=105|end_char=114
+20	energy	energy	NOUN	NN	Number=Sing	21	compound	_	start_char=115|end_char=121
+21	patents	patent	NOUN	NNS	Number=Plur	17	nmod	_	start_char=122|end_char=129
+22	.	.	PUNCT	.	_	6	punct	_	start_char=129|end_char=130
+
+1	Heads	head	NOUN	NNS	Number=Plur	3	discourse	_	start_char=131|end_char=136
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=137|end_char=141
+3	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=142|end_char=146
+4	money	money	NOUN	NN	Number=Sing	3	obj	_	start_char=147|end_char=152
+5	,	,	PUNCT	,	_	8	punct	_	start_char=152|end_char=153
+6	tails	tail	NOUN	NNS	Number=Plur	8	obj	_	start_char=154|end_char=159
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=160|end_char=164
+8	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=165|end_char=169
+9	money	money	NOUN	NN	Number=Sing	8	obj	_	start_char=170|end_char=175
+10	too	too	ADV	RB	_	8	advmod	_	start_char=176|end_char=179
+11	.	.	PUNCT	.	_	3	punct	_	start_char=179|end_char=180
+

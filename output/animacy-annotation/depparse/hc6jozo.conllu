@@ -1,0 +1,30 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=5|end_char=9
+3	inherent	inherent	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=18
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=19|end_char=21
+5	and	and	CCONJ	CC	_	12	cc	_	start_char=22|end_char=25
+6	if	if	SCONJ	IN	_	12	mark	_	start_char=26|end_char=28
+7	no	no	DET	DT	_	8	det	_	start_char=29|end_char=31
+8	one	one	NOUN	NN	Number=Sing	12	obl	_	start_char=32|end_char=35
+9	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=36|end_char=40
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=41|end_char=43
+11	will	will	AUX	MD	VerbForm=Fin	12	aux	_	start_char=44|end_char=48
+12	escheat	escheat	VERB	VB	VerbForm=Inf	3	conj	_	start_char=49|end_char=56
+13	to	to	ADP	IN	_	15	case	_	start_char=57|end_char=59
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=60|end_char=63
+15	state	state	NOUN	NN	Number=Sing	12	obl	_	start_char=64|end_char=69
+16	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=72|end_char=76
+2	position	position	NOUN	NN	Number=Sing	5	nsubj	_	start_char=77|end_char=85
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=86|end_char=88
+4	short	short	ADV	RB	_	5	advmod	_	start_char=89|end_char=94
+5	sighted	sight	ADJ	JJ	Degree=Pos	0	root	_	start_char=95|end_char=102
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=103|end_char=106
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=107|end_char=115
+8	of	of	ADP	IN	_	9	case	_	start_char=116|end_char=118
+9	how	how	SCONJ	WRB	PronType=Int	7	obl	_	start_char=119|end_char=122
+10	things	thing	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=123|end_char=129
+11	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=130|end_char=134
+12	.	.	PUNCT	.	_	5	punct	_	start_char=134|end_char=135
+

@@ -1,0 +1,24 @@
+1	Truck	truck	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=5
+2	drivers	driver	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=6|end_char=13
+3	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=17
+4	really	really	ADV	RB	_	5	advmod	_	start_char=18|end_char=24
+5	tired	tired	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=25|end_char=30
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=31|end_char=34
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=35|end_char=42
+8	of	of	ADP	IN	_	10	case	_	start_char=43|end_char=45
+9	there	there	PRON	PRP$	Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=46|end_char=51
+10	surroundings	surroundings	NOUN	NNS	Number=Plur	7	obl	_	start_char=52|end_char=64
+11	sometime	sometime	ADV	RB	_	7	advmod	_	start_char=65|end_char=73
+12	so	so	ADV	RB	_	18	advmod	_	start_char=74|end_char=76
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=77|end_char=79
+14	might	might	AUX	MD	VerbForm=Fin	18	aux	_	start_char=80|end_char=85
+15	of	have	AUX	VB	VerbForm=Inf	18	aux	_	start_char=86|end_char=88
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	18	cop	_	start_char=89|end_char=93
+17	an	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=94|end_char=96
+18	accident	accident	NOUN	NN	Number=Sing	3	parataxis	_	start_char=97|end_char=105
+19	or	or	CCONJ	CC	_	23	cc	_	start_char=106|end_char=108
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=109|end_char=111
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	start_char=112|end_char=114
+22	an	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=115|end_char=117
+23	idiot	idiot	NOUN	NN	Number=Sing	18	conj	_	start_char=118|end_char=123
+

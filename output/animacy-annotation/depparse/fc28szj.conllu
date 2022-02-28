@@ -1,0 +1,37 @@
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=0|end_char=4
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=5|end_char=8
+3	checked	check	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=9|end_char=16
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=17|end_char=20
+5	post	post	NOUN	NN	Number=Sing	6	compound	_	start_char=21|end_char=25
+6	history	history	NOUN	NN	Number=Sing	3	obj	_	start_char=26|end_char=33
+7	?	?	PUNCT	.	_	3	punct	_	start_char=33|end_char=34
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=35|end_char=37
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=37|end_char=39
+3	so	so	ADV	RB	_	4	advmod	_	start_char=40|end_char=42
+4	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=46
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=47|end_char=50
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=51|end_char=59
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=60|end_char=64
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=65|end_char=66
+9	half	half	ADV	RB	_	10	advmod	_	start_char=67|end_char=71
+10	suspect	suspect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=72|end_char=79
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=80|end_char=82
+12	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=82|end_char=84
+13	satire	satire	NOUN	NN	Number=Sing	10	ccomp	_	start_char=85|end_char=91
+14	.	.	PUNCT	.	_	4	punct	_	start_char=91|end_char=92
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=93|end_char=95
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=96|end_char=98
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=98|end_char=100
+4	not	not	PART	RB	_	3	advmod	_	start_char=101|end_char=104
+5	,	,	PUNCT	,	_	9	punct	_	start_char=104|end_char=105
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=106|end_char=110
+7	one	one	NOUN	NN	Number=Sing	9	nsubj	_	start_char=111|end_char=114
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=115|end_char=117
+9	DNR	DNR	PROPN	NNP	Number=Sing	0	root	_	start_char=118|end_char=121
+10	all	all	DET	PDT	_	12	det:predet	_	start_char=122|end_char=125
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=126|end_char=129
+12	way	way	NOUN	NN	Number=Sing	9	obl:npmod	_	start_char=130|end_char=133
+13	.	.	PUNCT	.	_	9	punct	_	start_char=133|end_char=134
+

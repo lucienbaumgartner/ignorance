@@ -1,0 +1,25 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	where	where	SCONJ	WRB	PronType=Int	0	root	_	start_char=8|end_char=13
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=14|end_char=17
+5	stereotype	stereotype	NOUN	NN	Number=Sing	12	nsubj	_	start_char=18|end_char=28
+6	of	of	ADP	IN	_	7	case	_	start_char=29|end_char=31
+7	Americans	American	PROPN	NNPS	Number=Plur	5	nmod	_	start_char=32|end_char=41
+8	being	be	AUX	VBG	VerbForm=Ger	9	cop	_	start_char=42|end_char=47
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	acl:relcl	_	start_char=48|end_char=56
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=57|end_char=60
+11	selfish	selfish	ADJ	JJ	Degree=Pos	9	conj	_	start_char=61|end_char=68
+12	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=69|end_char=74
+13	from	from	ADP	IN	_	12	obl	_	start_char=75|end_char=79
+14	.	.	PUNCT	.	_	3	punct	_	start_char=79|end_char=80
+
+1	.	.	PUNCT	.	_	0	root	_	start_char=81|end_char=82
+
+1	Also	also	ADV	RB	_	2	advmod	_	start_char=84|end_char=88
+2	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=89|end_char=93
+3	butchering	butcher	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=94|end_char=104
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=105|end_char=108
+5	English	English	ADJ	JJ	Degree=Pos	6	amod	_	start_char=109|end_char=116
+6	language	language	NOUN	NN	Number=Sing	3	obj	_	start_char=117|end_char=125
+7	.	.	PUNCT	.	_	2	punct	_	start_char=125|end_char=126
+

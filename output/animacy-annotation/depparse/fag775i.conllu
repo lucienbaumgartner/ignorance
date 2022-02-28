@@ -1,0 +1,28 @@
+1	Confirmed	confirm	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=0|end_char=9
+2	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=11|end_char=12
+2	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=12|end_char=14
+3	from	from	ADP	IN	_	4	case	_	start_char=15|end_char=19
+4	NorCal	NorCal	PROPN	NNP	Number=Sing	0	root	_	start_char=20|end_char=26
+5	and	and	CCONJ	CC	_	13	cc	_	start_char=27|end_char=30
+6	Sacramento	Sacramento	PROPN	NNP	Number=Sing	10	compound	_	start_char=31|end_char=41
+7	/	/	SYM	,	_	8	cc	_	start_char=41|end_char=42
+8	Bay	Bay	PROPN	NNP	Number=Sing	10	compound	_	start_char=42|end_char=45
+9	Area	Area	PROPN	NNP	Number=Sing	10	compound	_	start_char=46|end_char=50
+10	drivers	driver	NOUN	NNS	Number=Plur	13	nsubj:pass	_	start_char=51|end_char=58
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	_	start_char=59|end_char=62
+12	shite	shite	ADV	RB	_	13	advmod	_	start_char=63|end_char=68
+13	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	start_char=69|end_char=77
+14	to	to	ADP	IN	_	15	case	_	start_char=78|end_char=80
+15	SoCal	SoCal	PROPN	NNP	Number=Sing	13	obl	_	start_char=81|end_char=86
+16	because	because	SCONJ	IN	_	20	mark	_	start_char=87|end_char=94
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=95|end_char=99
+18	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=99|end_char=102
+19	soooo	so	ADV	RB	_	20	advmod	_	start_char=103|end_char=108
+20	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	13	advcl	_	start_char=109|end_char=116
+21	unaware	unaware	ADJ	JJ	Degree=Pos	20	xcomp	_	start_char=117|end_char=124
+22	and	and	CCONJ	CC	_	23	cc	_	start_char=125|end_char=128
+23	unpredictable	unpredictable	ADJ	JJ	Degree=Pos	21	conj	_	start_char=129|end_char=142
+24	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+

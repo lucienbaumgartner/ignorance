@@ -1,0 +1,20 @@
+1	calm	calm	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	down	down	ADP	RP	_	1	compound:prt	_	start_char=5|end_char=9
+3	.	.	PUNCT	.	_	1	punct	_	start_char=9|end_char=10
+
+1	no	no	DET	DT	_	2	det	_	start_char=11|end_char=13
+2	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=14|end_char=17
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=18|end_char=21
+4	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=21|end_char=24
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	advmod	_	start_char=25|end_char=29
+6	dense	dense	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=30|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=47
+9	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+10	what	what	PRON	WP	PronType=Int	6	obl	_	start_char=51|end_char=55
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=56|end_char=58
+12	being	be	AUX	VBG	VerbForm=Ger	13	aux:pass	_	start_char=59|end_char=64
+13	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	acl:relcl	_	start_char=65|end_char=69
+14	here	here	ADV	RB	PronType=Dem	13	advmod	_	start_char=70|end_char=74
+15	.	.	PUNCT	.	_	2	punct	_	start_char=74|end_char=75
+

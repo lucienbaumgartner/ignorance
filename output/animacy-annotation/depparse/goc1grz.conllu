@@ -1,0 +1,26 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=4
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	not	not	PART	RB	_	4	advmod	_	start_char=8|end_char=11
+4	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=16
+5	necessarily	necessarily	ADV	RB	_	4	advmod	_	start_char=17|end_char=28
+6	.	.	PUNCT	.	_	4	punct	_	start_char=28|end_char=29
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=30|end_char=32
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=32|end_char=34
+3	just	just	ADV	RB	_	6	advmod	_	start_char=35|end_char=39
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=40|end_char=43
+5	vocal	vocal	ADJ	JJ	Degree=Pos	6	amod	_	start_char=44|end_char=49
+6	minority	minority	NOUN	NN	Number=Sing	0	root	_	start_char=50|end_char=58
+7	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	start_char=59|end_char=63
+8	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=63|end_char=65
+9	really	really	ADV	RB	_	10	advmod	_	start_char=66|end_char=72
+10	arrogant	arrogant	ADJ	JJ	Degree=Pos	6	acl:relcl	_	start_char=73|end_char=81
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=82|end_char=85
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=86|end_char=94
+13	that	that	PRON	WDT	PronType=Rel	14	nsubj	_	start_char=95|end_char=99
+14	make	make	VERB	VB	VerbForm=Fin	10	conj	_	start_char=100|end_char=104
+15	Americans	American	PROPN	NNPS	Number=Plur	16	nsubj	_	start_char=105|end_char=114
+16	look	look	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	start_char=115|end_char=119
+17	dumb	dumb	ADJ	JJ	Degree=Pos	16	xcomp	_	start_char=120|end_char=124
+18	.	.	PUNCT	.	_	6	punct	_	start_char=124|end_char=125
+

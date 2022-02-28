@@ -1,0 +1,45 @@
+1	Before	before	ADV	RB	Degree=Pos	0	root	_	start_char=0|end_char=6
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=7|end_char=8
+2	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=14|end_char=15
+4	couple	couple	NOUN	NN	Number=Sing	2	obj	_	start_char=16|end_char=22
+5	of	of	ADP	IN	_	7	case	_	start_char=23|end_char=25
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=26|end_char=31
+7	comments	comment	NOUN	NNS	Number=Plur	4	nmod	_	start_char=32|end_char=40
+8	,	,	PUNCT	,	_	2	punct	_	start_char=40|end_char=41
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	start_char=42|end_char=43
+10	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	aux	_	start_char=44|end_char=47
+11	never	never	ADV	RB	_	12	advmod	_	start_char=48|end_char=53
+12	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	2	parataxis	_	start_char=54|end_char=59
+13	teppanyaki	teppanyaki	NOUN	NN	Number=Sing	12	obj	_	start_char=60|end_char=70
+14	referred	refer	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	_	start_char=71|end_char=79
+15	to	to	ADP	IN	_	14	obl	_	start_char=80|end_char=82
+16	as	as	ADP	IN	_	17	case	_	start_char=83|end_char=85
+17	hibachi	hibachi	NOUN	NN	Number=Sing	14	obl	_	start_char=86|end_char=93
+18	.	.	PUNCT	.	_	2	punct	_	start_char=93|end_char=94
+
+1	Unfortunately	unfortunately	ADV	RB	_	6	advmod	_	start_char=95|end_char=108
+2	,	,	PUNCT	,	_	1	punct	_	start_char=108|end_char=109
+3	yoire	yoire	PRON	PRP	Number=Sing|PronType=Prs	14	nsubj	_	start_char=110|end_char=115
+4	probably	probably	ADV	RB	_	14	advmod	_	start_char=116|end_char=124
+5	right	right	ADV	RB	_	6	advmod	_	start_char=125|end_char=130
+6	in	in	ADP	IN	_	14	mark	_	start_char=131|end_char=133
+7	that	that	SCONJ	IN	_	14	mark	_	start_char=134|end_char=138
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=139|end_char=140
+9	certain	certain	ADJ	JJ	Degree=Pos	10	amod	_	start_char=141|end_char=148
+10	type	type	NOUN	NN	Number=Sing	14	nsubj	_	start_char=149|end_char=153
+11	of	of	ADP	IN	_	12	case	_	start_char=154|end_char=156
+12	person	person	NOUN	NN	Number=Sing	10	nmod	_	start_char=157|end_char=163
+13	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=164|end_char=168
+14	prefer	prefer	VERB	VB	VerbForm=Inf	0	root	_	start_char=169|end_char=175
+15	to	to	PART	TO	_	16	mark	_	start_char=176|end_char=178
+16	remain	remain	VERB	VB	VerbForm=Inf	14	xcomp	_	start_char=179|end_char=185
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	xcomp	_	start_char=186|end_char=194
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=195|end_char=198
+19	insensitive	insensitive	ADJ	JJ	Degree=Pos	17	conj	_	start_char=199|end_char=210
+20	to	to	ADP	IN	_	22	case	_	start_char=211|end_char=213
+21	other	other	ADJ	JJ	Degree=Pos	22	amod	_	start_char=214|end_char=219
+22	cultures	culture	NOUN	NNS	Number=Plur	19	obl	_	start_char=220|end_char=228
+23	.	.	PUNCT	.	_	6	punct	_	start_char=228|end_char=229
+

@@ -1,0 +1,20 @@
+1	Why	why	ADV	WRB	PronType=Int	7	advmod	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	fuck	fuck	NOUN	NN	Number=Sing	7	nsubj	_	start_char=8|end_char=12
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=13|end_char=16
+5	that	that	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=17|end_char=21
+6	reply	reply	NOUN	NN	Number=Sing	7	nsubj	_	start_char=22|end_char=27
+7	downvoted	downvote	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=28|end_char=37
+8	so	so	ADV	RB	_	9	advmod	_	start_char=38|end_char=40
+9	much	much	ADV	RB	_	7	advmod	_	start_char=41|end_char=45
+10	?	?	PUNCT	.	_	7	punct	_	start_char=45|end_char=46
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=47|end_char=51
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	start_char=52|end_char=56
+3	clearly	clearly	ADV	RB	_	5	advmod	_	start_char=57|end_char=64
+4	just	just	ADV	RB	_	5	advmod	_	start_char=65|end_char=69
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=70|end_char=77
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=78|end_char=81
+7	hopeful	hopeful	ADJ	JJ	Degree=Pos	5	conj	_	start_char=82|end_char=89
+8	.	.	PUNCT	.	_	5	punct	_	start_char=89|end_char=90
+

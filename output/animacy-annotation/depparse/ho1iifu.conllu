@@ -1,0 +1,30 @@
+1	Why	why	ADV	WRB	PronType=Int	0	root	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=4|end_char=7
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=8|end_char=11
+4	dudes	dude	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=12|end_char=17
+5	with	with	ADP	IN	_	7	case	_	start_char=18|end_char=22
+6	slave	slave	NOUN	NN	Number=Sing	7	compound	_	start_char=23|end_char=28
+7	fantasies	fantasy	NOUN	NNS	Number=Plur	4	nmod	_	start_char=29|end_char=38
+8	so	so	ADV	RB	_	9	advmod	_	start_char=39|end_char=41
+9	freaking	freak	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=42|end_char=50
+10	demanding	demand	VERB	VBG	VerbForm=Ger	9	xcomp	_	start_char=51|end_char=60
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=61|end_char=64
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=65|end_char=73
+13	of	of	ADP	IN	_	14	case	_	start_char=74|end_char=76
+14	boundaries	boundary	NOUN	NNS	Number=Plur	10	obl	_	start_char=77|end_char=87
+15	?	?	PUNCT	.	_	1	punct	_	start_char=87|end_char=88
+
+1	Every	every	DET	DT	_	2	det	_	start_char=89|end_char=94
+2	time	time	NOUN	NN	Number=Sing	12	obl:tmod	_	start_char=95|end_char=99
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=100|end_char=101
+4	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=101|end_char=104
+5	come	come	VERB	VBN	Tense=Past|VerbForm=Part	2	acl:relcl	_	start_char=105|end_char=109
+6	across	across	ADP	IN	_	7	case	_	start_char=110|end_char=116
+7	one	one	NUM	CD	NumType=Card	5	obl	_	start_char=117|end_char=120
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=121|end_char=123
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=123|end_char=125
+10	such	such	DET	PDT	_	12	det:predet	_	start_char=126|end_char=130
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=131|end_char=132
+12	drag	drag	NOUN	NN	Number=Sing	0	root	_	start_char=133|end_char=137
+13	.	.	PUNCT	.	_	12	punct	_	start_char=137|end_char=138
+

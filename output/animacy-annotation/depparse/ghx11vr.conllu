@@ -1,0 +1,33 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=2|end_char=7
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=7|end_char=10
+4	necessarily	necessarily	ADV	RB	_	5	advmod	_	start_char=11|end_char=22
+5	put	put	VERB	VB	VerbForm=Inf	0	root	_	start_char=23|end_char=26
+6	blame	blame	NOUN	NN	Number=Sing	5	obj	_	start_char=27|end_char=32
+7	on	on	ADP	IN	_	8	case	_	start_char=33|end_char=35
+8	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	5	obl	_	start_char=36|end_char=44
+9	.	.	PUNCT	.	_	5	punct	_	start_char=44|end_char=45
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=46|end_char=49
+2	existing	exist	VERB	VBG	VerbForm=Ger	0	root	_	start_char=50|end_char=58
+3	and	and	CCONJ	CC	_	5	cc	_	start_char=59|end_char=62
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=63|end_char=68
+5	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	conj	_	start_char=69|end_char=77
+6	isnt	isnt	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=78|end_char=82
+7	starting	start	VERB	VBG	VerbForm=Ger	6	xcomp	_	start_char=83|end_char=91
+8	anything	anything	PRON	NN	Number=Sing	7	obj	_	start_char=92|end_char=100
+9	.	.	PUNCT	.	_	2	punct	_	start_char=100|end_char=101
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=102|end_char=104
+2	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=105|end_char=111
+3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=112|end_char=116
+4	to	to	PART	TO	_	6	mark	_	start_char=117|end_char=119
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=120|end_char=122
+6	hateful	hateful	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=123|end_char=130
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=131|end_char=134
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=135|end_char=143
+9	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=144|end_char=148
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=149|end_char=151
+11	on	on	ADP	IN	_	12	case	_	start_char=152|end_char=154
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	parataxis	_	start_char=155|end_char=159
+

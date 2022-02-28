@@ -1,0 +1,17 @@
+1	Pretty	pretty	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=17
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=18|end_char=21
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=22|end_char=30
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=31|end_char=35
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	start_char=36|end_char=39
+7	think	think	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=40|end_char=45
+8	of	of	ADP	IN	_	10	case	_	start_char=46|end_char=48
+9	Soon	soon	ADV	RB	Degree=Pos	7	advmod	_	start_char=49|end_char=53
+10	Yi	Yi	PROPN	NNP	Number=Sing	7	obl	_	start_char=54|end_char=56
+11	as	as	ADP	IN	_	14	case	_	start_char=57|end_char=59
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=60|end_char=61
+13	“	''	PUNCT	``	_	14	punct	_	start_char=62|end_char=63
+14	chink	chink	NOUN	NN	Number=Sing	7	obl	_	start_char=63|end_char=68
+15	”	''	PUNCT	''	_	14	punct	_	start_char=68|end_char=69
+16	.	.	PUNCT	.	_	2	punct	_	start_char=69|end_char=70
+

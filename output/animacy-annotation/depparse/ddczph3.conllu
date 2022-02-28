@@ -1,0 +1,22 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=7
+3	ideology	ideology	NOUN	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=16
+4	involves	involve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	start_char=17|end_char=25
+5	making	make	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=26|end_char=32
+6	people	people	NOUN	NNS	Number=Plur	5	obj	_	start_char=33|end_char=39
+7	"	"	PUNCT	``	_	8	punct	_	start_char=40|end_char=41
+8	unaware	unaware	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=41|end_char=48
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=49|end_char=52
+10	compliant	compliant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=53|end_char=62
+11	"	"	PUNCT	''	_	8	punct	_	start_char=62|end_char=63
+12	for	for	ADP	IN	_	13	case	_	start_char=64|end_char=67
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=68|end_char=70
+14	to	to	PART	TO	_	15	mark	_	start_char=71|end_char=73
+15	work	work	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=74|end_char=78
+16	,	,	PUNCT	,	_	20	punct	_	start_char=78|end_char=79
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=80|end_char=84
+18	ideology	ideology	NOUN	NN	Number=Sing	20	nsubj	_	start_char=85|end_char=93
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=94|end_char=96
+20	evil	evil	ADJ	JJ	Degree=Pos	0	root	_	start_char=97|end_char=101
+21	.	.	PUNCT	.	_	20	punct	_	start_char=101|end_char=102
+

@@ -1,0 +1,35 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	dont	do	AUX	MD	VerbForm=Fin	4	aux	_	start_char=7|end_char=11
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=17
+5	women	woman	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=18|end_char=23
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=24|end_char=28
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=29|end_char=31
+8	easier	easy	ADJ	JJR	Degree=Cmp	6	xcomp	_	start_char=32|end_char=38
+9	,	,	PUNCT	,	_	4	punct	_	start_char=38|end_char=39
+10	then	then	ADV	RB	PronType=Dem	6	advmod	_	start_char=40|end_char=44
+11	either	either	CCONJ	CC	_	10	advmod	_	start_char=45|end_char=51
+
+1	1	1	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	start_char=53|end_char=54
+2	.	.	PUNCT	.	_	1	punct	_	start_char=54|end_char=55
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=56|end_char=59
+2	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=64
+3	in	in	ADP	IN	_	5	case	_	start_char=65|end_char=67
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=68|end_char=69
+5	cave	cave	NOUN	NN	Number=Sing	2	obl	_	start_char=70|end_char=74
+
+1	2	2	NUM	LS	_	6	nummod	_	start_char=76|end_char=77
+2	.	.	PUNCT	.	_	1	punct	_	start_char=77|end_char=78
+3	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=79|end_char=82
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=82|end_char=85
+5	just	just	ADV	RB	_	6	advmod	_	start_char=86|end_char=90
+6	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=91|end_char=95
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=96|end_char=99
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=100|end_char=107
+9	of	of	ADP	IN	_	11	case	_	start_char=108|end_char=110
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=111|end_char=114
+11	world	world	NOUN	NN	Number=Sing	8	obl	_	start_char=115|end_char=120
+12	around	around	ADP	IN	_	13	case	_	start_char=121|end_char=127
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	nmod	_	start_char=128|end_char=131
+

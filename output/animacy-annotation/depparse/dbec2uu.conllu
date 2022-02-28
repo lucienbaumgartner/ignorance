@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	still	still	ADV	RB	_	3	advmod	_	start_char=2|end_char=7
+3	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=12
+4	to	to	PART	TO	_	5	mark	_	start_char=13|end_char=15
+5	understand	understand	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=16|end_char=26
+6	where	where	SCONJ	WRB	PronType=Int	10	mark	_	start_char=27|end_char=32
+7	other	other	ADJ	JJ	Degree=Pos	8	amod	_	start_char=33|end_char=38
+8	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=39|end_char=45
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=46|end_char=49
+10	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	start_char=50|end_char=56
+11	from	from	ADP	IN	_	10	obl	_	start_char=57|end_char=61
+12	.	.	PUNCT	.	_	3	punct	_	start_char=61|end_char=62
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=63|end_char=65
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=65|end_char=67
+3	when	when	SCONJ	WRB	PronType=Int	5	mark	_	start_char=68|end_char=72
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=73|end_char=77
+5	become	become	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=78|end_char=84
+6	dismissive	dismissive	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=85|end_char=95
+7	,	,	PUNCT	,	_	8	punct	_	start_char=95|end_char=96
+8	uninteresting	uninteresting	ADJ	JJ	Degree=Pos	6	conj	_	start_char=97|end_char=110
+9	,	,	PUNCT	,	_	11	punct	_	start_char=110|end_char=111
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=112|end_char=115
+11	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=116|end_char=123
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=124|end_char=128
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	start_char=129|end_char=130
+14	unfollow	unfollow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	start_char=131|end_char=139
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	start_char=140|end_char=144
+16	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+

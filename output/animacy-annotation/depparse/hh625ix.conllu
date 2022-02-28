@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	simple	simple	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=10
+3	solution	solution	NOUN	NN	Number=Sing	7	nsubj	_	start_char=11|end_char=19
+4	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=20|end_char=25
+5	be	be	AUX	VB	VerbForm=Inf	7	aux	_	start_char=26|end_char=28
+6	not	not	PART	RB	_	7	advmod	_	start_char=29|end_char=32
+7	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=33|end_char=40
+8	throwing	throw	VERB	VBG	VerbForm=Ger	7	xcomp	_	start_char=41|end_char=49
+9	bombs	bomb	NOUN	NNS	Number=Plur	8	obj	_	start_char=50|end_char=55
+10	on	on	ADP	IN	_	11	case	_	start_char=56|end_char=58
+11	people	people	NOUN	NNS	Number=Plur	8	obl	_	start_char=59|end_char=65
+12	living	live	VERB	VBG	VerbForm=Ger	11	acl	_	start_char=66|end_char=72
+13	about	about	ADV	RB	_	14	advmod	_	start_char=73|end_char=78
+14	10000	10000	NUM	CD	NumType=Card	15	nummod	_	start_char=79|end_char=84
+15	kilometers	kilometer	NOUN	NNS	Number=Plur	12	obj	_	start_char=85|end_char=95
+16	from	from	ADP	IN	_	21	case	_	start_char=96|end_char=100
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	start_char=101|end_char=105
+18	unaware	unaware	ADJ	JJ	Degree=Pos	21	amod	_	start_char=106|end_char=113
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=114|end_char=117
+20	bloodthirsty	bloodthirsty	ADJ	JJ	Degree=Pos	18	conj	_	start_char=118|end_char=130
+21	asses	ass	NOUN	NNS	Number=Plur	12	obl	_	start_char=131|end_char=136
+22	.	.	PUNCT	.	_	7	punct	_	start_char=136|end_char=137
+

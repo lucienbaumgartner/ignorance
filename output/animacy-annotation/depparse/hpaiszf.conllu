@@ -1,0 +1,46 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	laugh	laugh	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=8
+3	at	at	ADP	IN	_	5	case	_	start_char=9|end_char=11
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=12|end_char=15
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=16|end_char=24
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=25|end_char=28
+7	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=29|end_char=35
+8	humans	human	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=36|end_char=42
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=43|end_char=46
+10	be	be	VERB	VB	VerbForm=Inf	5	cop	_	start_char=47|end_char=49
+11	.	.	PUNCT	.	_	2	punct	_	start_char=49|end_char=50
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=51|end_char=53
+2	laugh	laugh	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=54|end_char=59
+3	in	in	ADP	IN	_	5	case	_	start_char=60|end_char=62
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=63|end_char=66
+5	face	face	NOUN	NN	Number=Sing	2	obl	_	start_char=67|end_char=71
+6	of	of	ADP	IN	_	8	case	_	start_char=72|end_char=74
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=75|end_char=78
+8	Apocalypse	Apocalypse	PROPN	NNP	Number=Sing	5	nmod	_	start_char=79|end_char=89
+9	.	.	PUNCT	.	_	2	punct	_	start_char=89|end_char=90
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=91|end_char=96
+2	to	to	PART	TO	_	3	mark	_	start_char=97|end_char=99
+3	hurt	hurt	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=100|end_char=104
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=105|end_char=109
+5	dumbassfeelings	dumbassfeeling	NOUN	NNS	Number=Plur	3	obj	_	start_char=110|end_char=125
+6	🤣	''	PUNCT	,	_	10	punct	_	start_char=126|end_char=127
+7	Probably	probably	ADV	RB	_	10	advmod	_	start_char=128|end_char=136
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=137|end_char=138
+9	Trump	Trump	PROPN	NNP	Number=Sing	10	compound	_	start_char=139|end_char=144
+10	supporter	supporter	NOUN	NN	Number=Sing	1	parataxis	_	start_char=145|end_char=154
+11	that	that	PRON	WDT	PronType=Rel	12	nsubj	_	start_char=155|end_char=159
+12	spent	spend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	start_char=160|end_char=165
+13	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=166|end_char=169
+14	last	last	ADJ	JJ	Degree=Pos	17	amod	_	start_char=170|end_char=174
+15	four	four	NUM	CD	NumType=Card	16	nummod	_	start_char=175|end_char=179
+16	years	year	NOUN	NNS	Number=Plur	17	compound	_	start_char=180|end_char=185
+17	drinking	drinking	NOUN	NN	Number=Sing	12	obj	_	start_char=186|end_char=194
+18	,	,	PUNCT	,	_	20	punct	_	start_char=194|end_char=195
+19	so	so	ADV	RB	_	20	advmod	_	start_char=196|end_char=198
+20	called	call	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	start_char=199|end_char=205
+21	liberal	liberal	ADJ	JJ	Degree=Pos	22	amod	_	start_char=206|end_char=213
+22	tears	tear	NOUN	NNS	Number=Plur	20	obj	_	start_char=214|end_char=219
+23	.	.	PUNCT	.	_	1	punct	_	start_char=219|end_char=220
+

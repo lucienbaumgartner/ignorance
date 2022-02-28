@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	dislike	dislike	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=9
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=10|end_char=14
+4	idea	idea	NOUN	NN	Number=Sing	2	obj	_	start_char=15|end_char=19
+5	,	,	PUNCT	,	_	2	punct	_	start_char=19|end_char=20
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=21|end_char=22
+7	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=23|end_char=28
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=29|end_char=31
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=31|end_char=33
+10	very	very	ADV	RB	_	13	advmod	_	start_char=34|end_char=38
+11	short	short	ADJ	JJ	Degree=Pos	13	amod	_	start_char=39|end_char=44
+12	-	-	PUNCT	HYPH	_	13	punct	_	start_char=44|end_char=45
+13	sighted	sight	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=45|end_char=52
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=53|end_char=56
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=57|end_char=65
+16	of	of	ADP	IN	_	18	case	_	start_char=66|end_char=68
+17	game	game	NOUN	NN	Number=Sing	18	compound	_	start_char=69|end_char=73
+18	mechanics	mechanic	NOUN	NNS	Number=Plur	15	obl	_	start_char=74|end_char=83
+19	.	.	PUNCT	.	_	2	punct	_	start_char=83|end_char=84
+

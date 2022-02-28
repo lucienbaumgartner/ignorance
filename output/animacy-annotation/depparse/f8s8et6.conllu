@@ -1,0 +1,53 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=8
+3	to	to	PART	TO	_	4	mark	_	start_char=9|end_char=11
+4	believe	believe	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=12|end_char=19
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=20|end_char=24
+6	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	How	how	ADV	WRB	PronType=Int	7	advmod	_	start_char=26|end_char=29
+2	can	can	AUX	MD	VerbForm=Fin	7	aux	_	start_char=30|end_char=33
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=34|end_char=35
+4	person	person	NOUN	NN	Number=Sing	7	nsubj	_	start_char=36|end_char=42
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=43|end_char=45
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=46|end_char=50
+7	seflcentered	seflcentered	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=63
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=64|end_char=67
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=68|end_char=76
+10	that	that	SCONJ	IN	_	12	mark	_	start_char=77|end_char=81
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=82|end_char=86
+12	flat	flat	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=87|end_char=91
+13	out	out	ADP	RP	_	12	compound:prt	_	start_char=92|end_char=95
+14	ignore	ignore	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	xcomp	_	start_char=96|end_char=102
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=103|end_char=106
+16	belittle	belittle	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	start_char=107|end_char=115
+17	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=116|end_char=121
+18	own	own	ADJ	JJ	Degree=Pos	19	amod	_	start_char=122|end_char=125
+19	kid	kid	NOUN	NN	Number=Sing	22	nmod:poss	_	start_char=126|end_char=129
+20	's	's	PART	POS	_	19	case	_	start_char=129|end_char=131
+21	valid	valid	ADJ	JJ	Degree=Pos	22	amod	_	start_char=132|end_char=137
+22	problems	problem	NOUN	NNS	Number=Plur	16	obj	_	start_char=138|end_char=146
+23	?	?	PUNCT	.	_	7	punct	_	start_char=146|end_char=147
+
+1	Why	why	ADV	WRB	PronType=Int	4	advmod	_	start_char=148|end_char=151
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=152|end_char=157
+3	anyone	anyone	PRON	NN	Number=Sing	4	nsubj	_	start_char=158|end_char=164
+4	wanna	wanna	VERB	VB	VerbForm=Inf	0	root	_	start_char=165|end_char=170
+5	"	"	PUNCT	``	_	6	punct	_	start_char=171|end_char=172
+6	one	one	NUM	CD	NumType=Card	9	nummod	_	start_char=172|end_char=175
+7	up	up	ADP	RP	_	6	case	_	start_char=176|end_char=178
+8	"	"	PUNCT	''	_	6	punct	_	start_char=178|end_char=179
+9	someone	someone	PRON	NN	Number=Sing	4	obj	_	start_char=180|end_char=187
+10	by	by	SCONJ	IN	_	11	mark	_	start_char=188|end_char=190
+11	having	have	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=191|end_char=197
+12	worse	bad	ADJ	JJR	Degree=Cmp	14	amod	_	start_char=198|end_char=203
+13	mental	mental	ADJ	JJ	Degree=Pos	14	amod	_	start_char=204|end_char=210
+14	illnesses	illness	NOUN	NNS	Number=Plur	11	obj	_	start_char=211|end_char=220
+15	than	than	ADP	IN	_	16	case	_	start_char=221|end_char=225
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	start_char=226|end_char=230
+17	?	?	PUNCT	.	_	4	punct	_	start_char=230|end_char=231
+
+1	THIS	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=232|end_char=236
+2	FUCKING	fucking	ADJ	JJ	Degree=Pos	3	advmod	_	start_char=237|end_char=244
+3	LUDICROUS	LUDICROUS	ADJ	JJ	Degree=Pos	0	root	_	start_char=245|end_char=254
+

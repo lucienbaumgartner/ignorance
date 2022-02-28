@@ -1,0 +1,68 @@
+1	Wow	wow	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	so	so	ADV	RB	_	4	advmod	_	start_char=5|end_char=7
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=16
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=17|end_char=20
+6	uneducated	uneducated	ADJ	JJ	Degree=Pos	4	conj	_	start_char=21|end_char=31
+7	.	.	PUNCT	.	_	4	punct	_	start_char=31|end_char=32
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=34|end_char=37
+2	realize	realize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=38|end_char=45
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=46|end_char=49
+4	tallest	tallest	ADJ	JJS	Degree=Sup	5	amod	_	start_char=50|end_char=57
+5	mountain	mountain	NOUN	NN	Number=Sing	12	nsubj	_	start_char=58|end_char=66
+6	in	in	ADP	IN	_	9	case	_	start_char=67|end_char=69
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=70|end_char=73
+8	lower	low	ADJ	JJR	Degree=Cmp	9	amod	_	start_char=74|end_char=79
+9	48	48	NUM	CD	NumType=Card	5	nmod	_	start_char=80|end_char=82
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=83|end_char=85
+11	in	in	ADP	IN	_	12	case	_	start_char=86|end_char=88
+12	California	California	PROPN	NNP	Number=Sing	2	ccomp	_	start_char=89|end_char=99
+13	,	,	PUNCT	,	_	12	punct	_	start_char=99|end_char=100
+14	right	right	ADV	RB	_	12	discourse	_	start_char=101|end_char=106
+15	?	?	PUNCT	.	_	2	punct	_	start_char=106|end_char=107
+
+1	Never	never	ADV	RB	_	2	advmod	_	start_char=109|end_char=114
+2	heard	hear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=115|end_char=120
+3	of	of	ADP	IN	_	6	case	_	start_char=121|end_char=123
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=124|end_char=127
+5	Sierra	Sierra	PROPN	NNP	Number=Sing	6	compound	_	start_char=128|end_char=134
+6	mountains	mountain	NOUN	NNS	Number=Plur	2	obl	_	start_char=135|end_char=144
+7	?	?	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+
+1	Yosemite	Yosemite	PROPN	NNP	Number=Sing	0	root	_	start_char=146|end_char=154
+2	?	?	PUNCT	.	_	1	punct	_	start_char=154|end_char=155
+
+1	Sequoia	Sequoia	PROPN	NNP	Number=Sing	3	compound	_	start_char=156|end_char=163
+2	National	National	ADJ	NNP	Degree=Pos	3	amod	_	start_char=164|end_char=172
+3	Park	Park	PROPN	NNP	Number=Sing	0	root	_	start_char=173|end_char=177
+4	?	?	PUNCT	.	_	3	punct	_	start_char=177|end_char=178
+
+1	San	San	PROPN	NNP	Number=Sing	3	compound	_	start_char=180|end_char=183
+2	Gabriel	Gabriel	PROPN	NNP	Number=Sing	1	flat	_	start_char=184|end_char=191
+3	mountains	mountain	NOUN	NNS	Number=Plur	0	root	_	start_char=192|end_char=201
+4	?	?	PUNCT	.	_	3	punct	_	start_char=201|end_char=202
+
+1	Lake	Lake	PROPN	NNP	Number=Sing	0	root	_	start_char=204|end_char=208
+
+1	Tahoe	Tahoe	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=209|end_char=214
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=215|end_char=218
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=219|end_char=222
+4	most	most	ADV	RBS	_	5	advmod	_	start_char=223|end_char=227
+5	ski	ski	NOUN	NN	Number=Sing	6	compound	_	start_char=228|end_char=231
+6	resorts	resort	NOUN	NNS	Number=Plur	2	obj	_	start_char=232|end_char=239
+7	of	of	ADP	IN	_	8	case	_	start_char=240|end_char=242
+8	anywhere	anywhere	ADV	RB	_	6	nmod	_	start_char=243|end_char=251
+9	in	in	ADP	IN	_	11	case	_	start_char=252|end_char=254
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=255|end_char=258
+11	US	US	PROPN	NNP	Number=Sing	8	nmod	_	start_char=259|end_char=261
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=262|end_char=265
+13	just	just	ADV	RB	_	14	advmod	_	start_char=266|end_char=270
+14	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=271|end_char=274
+15	6	6	NUM	CD	NumType=Card	16	nummod	_	start_char=275|end_char=276
+16	'	'	NOUN	NNS	Number=Plur	14	obj	_	start_char=276|end_char=277
+17	in	in	ADP	IN	_	19	case	_	start_char=278|end_char=280
+18	3	3	NUM	CD	NumType=Card	19	nummod	_	start_char=281|end_char=282
+19	days	day	NOUN	NNS	Number=Plur	14	obl	_	start_char=283|end_char=287
+20	.	.	PUNCT	.	_	2	punct	_	start_char=287|end_char=288
+

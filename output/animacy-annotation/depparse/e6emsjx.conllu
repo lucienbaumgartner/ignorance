@@ -1,0 +1,16 @@
+1	Nope	nope	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=5|end_char=9
+3	latterly	latterly	ADV	RB	_	4	advmod	_	start_char=10|end_char=18
+4	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=19|end_char=23
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=24|end_char=28
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	start_char=29|end_char=33
+7	happy	happy	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=34|end_char=39
+8	to	to	PART	TO	_	9	mark	_	start_char=40|end_char=42
+9	create	create	VERB	VB	VerbForm=Inf	7	xcomp	_	start_char=43|end_char=49
+10	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=50|end_char=51
+11	unaware	unaware	ADJ	JJ	Degree=Pos	14	amod	_	start_char=52|end_char=59
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=60|end_char=63
+13	compliant	compliant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=64|end_char=73
+14	citizenry	citizenry	NOUN	NN	Number=Sing	9	obj	_	start_char=74|end_char=83
+15	.	.	PUNCT	.	_	4	punct	_	start_char=83|end_char=84
+

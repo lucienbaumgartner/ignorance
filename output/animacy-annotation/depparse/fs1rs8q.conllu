@@ -1,0 +1,31 @@
+1	If	if	SCONJ	IN	_	13	mark	_	start_char=0|end_char=2
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=7
+3	contribution	contribution	NOUN	NN	Number=Sing	13	nsubj	_	start_char=8|end_char=20
+4	to	to	ADP	IN	_	7	case	_	start_char=21|end_char=23
+5	ending	end	VERB	VBG	VerbForm=Ger	7	amod	_	start_char=24|end_char=30
+6	child	child	NOUN	NN	Number=Sing	7	compound	_	start_char=31|end_char=36
+7	abuse	abuse	NOUN	NN	Number=Sing	3	nmod	_	start_char=37|end_char=42
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=43|end_char=45
+9	just	just	ADV	RB	_	13	advmod	_	start_char=46|end_char=50
+10	"	"	PUNCT	``	_	13	punct	_	start_char=51|end_char=52
+11	not	not	PART	RB	_	13	advmod	_	start_char=52|end_char=55
+12	abuse	abuse	NOUN	NN	Number=Sing	13	compound	_	start_char=56|end_char=61
+13	children	child	NOUN	NNS	Number=Plur	18	advcl	_	start_char=62|end_char=70
+14	"	"	PUNCT	''	_	13	punct	_	start_char=70|end_char=71
+15	then	then	ADV	RB	PronType=Dem	18	advmod	_	start_char=72|end_char=76
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=77|end_char=80
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=81|end_char=84
+18	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=85|end_char=90
+19	enough	enough	ADV	RB	_	18	advmod	_	start_char=91|end_char=97
+20	.	.	PUNCT	.	_	18	punct	_	start_char=97|end_char=98
+
+1	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=99|end_char=102
+2	how	how	SCONJ	WRB	PronType=Int	3	mark	_	start_char=103|end_char=106
+3	inadequate	inadequate	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=107|end_char=117
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=118|end_char=121
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=122|end_char=130
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=131|end_char=135
+7	statement	statement	NOUN	NN	Number=Sing	3	nsubj	_	start_char=136|end_char=145
+8	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=146|end_char=148
+9	?	?	PUNCT	.	_	1	punct	_	start_char=148|end_char=149
+

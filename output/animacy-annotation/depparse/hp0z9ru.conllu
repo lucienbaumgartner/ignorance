@@ -1,0 +1,36 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=0|end_char=3
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=3|end_char=6
+3	obviously	obviously	ADV	RB	_	5	advmod	_	start_char=7|end_char=16
+4	never	never	ADV	RB	_	5	advmod	_	start_char=17|end_char=22
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=23|end_char=27
+6	any	any	DET	DT	_	7	det	_	start_char=28|end_char=31
+7	plumbing	plumbing	NOUN	NN	Number=Sing	5	obj	_	start_char=32|end_char=40
+8	.	.	PUNCT	.	_	5	punct	_	start_char=40|end_char=41
+
+1	Walking	walk	VERB	VBG	VerbForm=Ger	14	csubj	_	start_char=43|end_char=50
+2	nude	nude	NOUN	NN	Number=Sing	1	obj	_	start_char=51|end_char=55
+3	in	in	ADP	IN	_	5	case	_	start_char=56|end_char=58
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=59|end_char=61
+5	alley	alley	NOUN	NN	Number=Sing	1	obl	_	start_char=62|end_char=67
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=68|end_char=71
+7	expecting	expect	VERB	VBG	VerbForm=Ger	1	conj	_	start_char=72|end_char=81
+8	to	to	PART	TO	_	10	mark	_	start_char=82|end_char=84
+9	be	be	AUX	VB	VerbForm=Inf	10	aux:pass	_	start_char=85|end_char=87
+10	left	leave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	start_char=88|end_char=92
+11	alone	alone	ADV	RB	Degree=Pos	10	advmod	_	start_char=93|end_char=98
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=99|end_char=101
+13	n't	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=101|end_char=104
+14	entitlement	entitlement	NOUN	NN	Number=Sing	0	root	_	start_char=105|end_char=116
+15	.	.	PUNCT	.	_	14	punct	_	start_char=116|end_char=117
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj:pass	_	start_char=118|end_char=121
+2	called	call	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=122|end_char=128
+3	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=129|end_char=134
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=135|end_char=145
+5	delusional	delusional	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=146|end_char=156
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=157|end_char=160
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=161|end_char=169
+8	of	of	ADP	IN	_	9	case	_	start_char=170|end_char=172
+9	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=173|end_char=180
+10	.	.	PUNCT	.	_	5	punct	_	start_char=180|end_char=181
+

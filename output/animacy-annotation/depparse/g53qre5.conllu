@@ -1,0 +1,11 @@
+1	Values	value	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=6
+2	objectivity	objectivity	NOUN	NN	Number=Sing	1	obj	_	start_char=7|end_char=18
+3	but	but	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=23|end_char=25
+5	heavily	heavily	ADV	RB	_	6	advmod	_	start_char=26|end_char=33
+6	subjective	subjective	ADJ	JJ	Degree=Pos	1	conj	_	start_char=34|end_char=44
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=45|end_char=48
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=49|end_char=56
+9	of	of	ADP	IN	_	10	case	_	start_char=57|end_char=59
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=60|end_char=62
+

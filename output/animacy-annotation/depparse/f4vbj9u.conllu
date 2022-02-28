@@ -1,0 +1,33 @@
+1	Funniest	funny	ADJ	JJS	Degree=Sup	2	amod	_	start_char=0|end_char=8
+2	part	part	NOUN	NN	Number=Sing	3	nsubj	_	start_char=9|end_char=13
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=16
+4	that	that	SCONJ	IN	_	8	mark	_	start_char=17|end_char=21
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=22|end_char=24
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=25|end_char=27
+7	so	so	ADV	RB	_	8	advmod	_	start_char=28|end_char=30
+8	inept	inept	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=31|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=41|end_char=49
+11	that	that	SCONJ	IN	_	15	mark	_	start_char=50|end_char=54
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=55|end_char=57
+13	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	aux	_	start_char=58|end_char=61
+14	n't	not	PART	RB	_	15	advmod	_	start_char=61|end_char=64
+15	realize	realize	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=65|end_char=72
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=73|end_char=75
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	start_char=76|end_char=79
+18	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	15	ccomp	_	start_char=80|end_char=85
+19	anything	anything	PRON	NN	Number=Sing	18	obj	_	start_char=86|end_char=94
+20	wrong	wrong	ADJ	JJ	Degree=Pos	19	amod	_	start_char=95|end_char=100
+21	.	.	PUNCT	.	_	3	punct	_	start_char=100|end_char=101
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=102|end_char=104
+2	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=105|end_char=111
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=112|end_char=115
+4	incriminating	incriminate	VERB	VBG	VerbForm=Ger	6	amod	_	start_char=116|end_char=129
+5	phone	phone	NOUN	NN	Number=Sing	6	compound	_	start_char=130|end_char=135
+6	call	call	NOUN	NN	Number=Sing	2	obj	_	start_char=136|end_char=140
+7	"	"	PUNCT	``	_	8	punct	_	start_char=141|end_char=142
+8	perfect	perfect	ADJ	JJ	Degree=Pos	6	amod	_	start_char=142|end_char=149
+9	.	.	PUNCT	.	_	2	punct	_	start_char=149|end_char=150
+10	"	"	PUNCT	''	_	2	punct	_	start_char=150|end_char=151
+

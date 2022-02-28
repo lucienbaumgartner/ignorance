@@ -1,0 +1,91 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=1|end_char=3
+3	not	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	ignoring	ignore	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=8|end_char=16
+5	anything	anything	PRON	NN	Number=Sing	4	obj	_	start_char=17|end_char=25
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=26|end_char=29
+7	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=29|end_char=32
+8	typed	type	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	start_char=33|end_char=38
+9	.	.	PUNCT	.	_	4	punct	_	start_char=38|end_char=39
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=41|end_char=44
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=44|end_char=47
+3	simply	simply	ADV	RB	_	4	advmod	_	start_char=48|end_char=54
+4	angry	angry	ADJ	JJ	Degree=Pos	0	root	_	start_char=55|end_char=60
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=61|end_char=64
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=65|end_char=73
+7	of	of	ADP	IN	_	8	case	_	start_char=74|end_char=76
+8	how	how	SCONJ	WRB	PronType=Int	6	obl	_	start_char=77|end_char=80
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=81|end_char=84
+10	law	law	NOUN	NN	Number=Sing	11	nsubj	_	start_char=85|end_char=88
+11	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=89|end_char=94
+12	.	.	PUNCT	.	_	4	punct	_	start_char=94|end_char=95
+
+1	If	if	SCONJ	IN	_	7	mark	_	start_char=98|end_char=100
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=101|end_char=105
+3	name	name	NOUN	NN	Number=Sing	7	nsubj	_	start_char=106|end_char=110
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=111|end_char=113
+5	on	on	ADP	IN	_	7	case	_	start_char=114|end_char=116
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=117|end_char=120
+7	lease	lease	NOUN	NN	Number=Sing	11	advcl	_	start_char=121|end_char=126
+8	,	,	PUNCT	,	_	11	punct	_	start_char=126|end_char=127
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=128|end_char=131
+10	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=131|end_char=134
+11	liable	liable	ADJ	JJ	Degree=Pos	0	root	_	start_char=135|end_char=141
+12	for	for	ADP	IN	_	14	case	_	start_char=142|end_char=145
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=146|end_char=149
+14	rent	rent	NOUN	NN	Number=Sing	11	obl	_	start_char=150|end_char=154
+15	to	to	ADP	IN	_	17	case	_	start_char=155|end_char=157
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=158|end_char=162
+17	landlord	landlord	NOUN	NN	Number=Sing	14	nmod	_	start_char=163|end_char=171
+18	.	.	PUNCT	.	_	11	punct	_	start_char=171|end_char=172
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=173|end_char=177
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=177|end_char=179
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=180|end_char=182
+4	.	.	PUNCT	.	_	3	punct	_	start_char=182|end_char=183
+
+1	End	end	NOUN	NN	Number=Sing	0	root	_	start_char=184|end_char=187
+2	of	of	ADP	IN	_	3	case	_	start_char=188|end_char=190
+3	story	story	NOUN	NN	Number=Sing	1	nmod	_	start_char=191|end_char=196
+4	.	.	PUNCT	.	_	1	punct	_	start_char=196|end_char=197
+
+1	Nothing	nothing	PRON	NN	Number=Sing	0	root	_	start_char=198|end_char=205
+2	to	to	PART	TO	_	3	mark	_	start_char=206|end_char=208
+3	change	change	VERB	VB	VerbForm=Inf	1	acl	_	start_char=209|end_char=215
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obj	_	start_char=216|end_char=220
+5	.	.	PUNCT	.	_	1	punct	_	start_char=220|end_char=221
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=223|end_char=225
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=226|end_char=229
+3	stop	stop	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	start_char=230|end_char=234
+4	paying	pay	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=235|end_char=241
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=242|end_char=246
+6	rent	rent	NOUN	NN	Number=Sing	4	obj	_	start_char=247|end_char=251
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=252|end_char=254
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	_	start_char=255|end_char=259
+9	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=260|end_char=262
+10	nothing	nothing	PRON	NN	Number=Sing	9	obj	_	start_char=263|end_char=270
+11	to	to	PART	TO	_	12	mark	_	start_char=271|end_char=273
+12	get	get	VERB	VB	VerbForm=Inf	10	acl	_	start_char=274|end_char=277
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	iobj	_	start_char=278|end_char=281
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=282|end_char=286
+15	money	money	NOUN	NN	Number=Sing	12	obj	_	start_char=287|end_char=292
+16	back	back	ADV	RB	_	12	advmod	_	start_char=293|end_char=297
+17	.	.	PUNCT	.	_	9	punct	_	start_char=297|end_char=298
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=299|end_char=301
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=302|end_char=306
+3	put	put	VERB	VB	VerbForm=Inf	0	root	_	start_char=307|end_char=310
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	start_char=311|end_char=314
+5	into	into	ADP	IN	_	6	case	_	start_char=315|end_char=319
+6	debt	debt	NOUN	NN	Number=Sing	3	obl	_	start_char=320|end_char=324
+7	with	with	ADP	IN	_	9	case	_	start_char=325|end_char=329
+8	all	all	DET	DT	_	9	det	_	start_char=330|end_char=333
+9	consequences	consequence	NOUN	NNS	Number=Plur	3	obl	_	start_char=334|end_char=346
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=347|end_char=351
+11	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=352|end_char=356
+12	with	with	ADP	IN	_	13	case	_	start_char=357|end_char=361
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	11	obl	_	start_char=362|end_char=366
+14	.	.	PUNCT	.	_	3	punct	_	start_char=366|end_char=367
+

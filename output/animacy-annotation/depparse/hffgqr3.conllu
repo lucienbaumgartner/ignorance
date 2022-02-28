@@ -1,0 +1,33 @@
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=3
+2	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=9
+3	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=10|end_char=14
+4	youre	your	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=15|end_char=20
+5	both	both	ADV	RB	_	6	advmod	_	start_char=21|end_char=25
+6	uninformed	uninformed	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=26|end_char=36
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=37|end_char=40
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=49
+9	.	.	PUNCT	.	_	2	punct	_	start_char=49|end_char=50
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=51|end_char=55
+2	or	or	CCONJ	CC	_	3	cc	_	start_char=56|end_char=58
+3	youre	your	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	_	start_char=59|end_char=64
+4	here	here	ADV	RB	PronType=Dem	0	root	_	start_char=65|end_char=69
+5	to	to	PART	TO	_	6	mark	_	start_char=70|end_char=72
+6	try	try	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=73|end_char=76
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=77|end_char=80
+8	antagonize	antagonize	VERB	VB	VerbForm=Inf	6	conj	_	start_char=81|end_char=91
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	start_char=92|end_char=94
+10	.	.	PUNCT	.	_	4	punct	_	start_char=94|end_char=95
+
+1	Either	either	DET	DT	_	2	det	_	start_char=96|end_char=102
+2	way	way	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=103|end_char=106
+3	,	,	PUNCT	,	_	5	punct	_	start_char=106|end_char=107
+4	i'm	i'm	ADV	RB	_	5	advmod	_	start_char=108|end_char=111
+5	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=112|end_char=116
+6	trying	try	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=117|end_char=123
+7	to	to	PART	TO	_	8	mark	_	start_char=124|end_char=126
+8	discuss	discuss	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=127|end_char=134
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	8	obj	_	start_char=135|end_char=139
+10	with	with	ADP	IN	_	11	case	_	start_char=140|end_char=144
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	obl	_	start_char=145|end_char=148
+

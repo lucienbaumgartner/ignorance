@@ -1,0 +1,31 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=4|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=7|end_char=10
+4	stupidest	stupide	ADJ	JJS	Degree=Sup	5	amod	_	start_char=11|end_char=20
+5	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=26
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=27|end_char=28
+7	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=28|end_char=31
+8	ever	ever	ADV	RB	_	9	advmod	_	start_char=32|end_char=36
+9	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	start_char=37|end_char=42
+10	.	.	PUNCT	.	_	5	punct	_	start_char=42|end_char=43
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=44|end_char=45
+2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=46|end_char=50
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	start_char=51|end_char=54
+4	to	to	PART	TO	_	5	mark	_	start_char=55|end_char=57
+5	get	get	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=58|end_char=61
+6	downvoted	downvoted	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=62|end_char=71
+7	but	but	CCONJ	CC	_	11	cc	_	start_char=72|end_char=75
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=76|end_char=78
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=78|end_char=80
+10	so	so	ADV	RB	_	11	advmod	_	start_char=81|end_char=83
+11	stupid	stupid	ADJ	JJ	Degree=Pos	2	conj	_	start_char=84|end_char=90
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=91|end_char=94
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=95|end_char=103
+14	that	that	SCONJ	IN	_	16	mark	_	start_char=104|end_char=108
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	start_char=109|end_char=110
+16	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=111|end_char=115
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=116|end_char=118
+18	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part	16	xcomp	_	start_char=119|end_char=126
+19	.	.	PUNCT	.	_	2	punct	_	start_char=126|end_char=127
+

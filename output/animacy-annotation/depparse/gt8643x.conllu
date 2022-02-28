@@ -1,0 +1,21 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=4|end_char=7
+3	such	such	DET	PDT	_	7	det:predet	_	start_char=8|end_char=12
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=13|end_char=14
+5	dunning	dunning	ADJ	JJ	Degree=Pos	7	amod	_	start_char=15|end_char=22
+6	kruger	kruger	NOUN	NN	Number=Sing	7	compound	_	start_char=23|end_char=29
+7	type	type	NOUN	NN	Number=Sing	0	root	_	start_char=30|end_char=34
+8	of	of	ADP	IN	_	9	case	_	start_char=35|end_char=37
+9	rude	rude	ADJ	JJ	Degree=Pos	7	nmod	_	start_char=38|end_char=42
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=43|end_char=46
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=47|end_char=55
+12	,	,	PUNCT	,	_	18	punct	_	start_char=55|end_char=56
+13	of	of	ADP	IN	_	18	advmod	_	start_char=57|end_char=59
+14	course	course	NOUN	NN	Number=Sing	13	fixed	_	start_char=60|end_char=66
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	start_char=67|end_char=70
+16	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	start_char=71|end_char=73
+17	n't	not	PART	RB	_	18	advmod	_	start_char=73|end_char=76
+18	realize	realize	VERB	VB	VerbForm=Inf	7	parataxis	_	start_char=77|end_char=84
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	start_char=85|end_char=87
+20	.	.	PUNCT	.	_	7	punct	_	start_char=87|end_char=88
+

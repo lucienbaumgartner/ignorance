@@ -1,0 +1,19 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	fairly	fairly	ADV	RB	_	4	advmod	_	start_char=9|end_char=15
+4	stupid	stupid	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=16|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=27|end_char=34
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=35|end_char=39
+8	people	people	NOUN	NNS	Number=Plur	12	nsubj	_	start_char=40|end_char=46
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=47|end_char=49
+10	n't	not	PART	RB	_	12	advmod	_	start_char=49|end_char=52
+11	all	all	DET	DT	_	12	advmod	_	start_char=53|end_char=56
+12	work	work	VERB	VB	VerbForm=Inf	6	ccomp	_	start_char=57|end_char=61
+13	at	at	ADP	IN	_	17	case	_	start_char=62|end_char=64
+14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=65|end_char=68
+15	exact	exact	ADJ	JJ	Degree=Pos	17	amod	_	start_char=69|end_char=74
+16	same	same	ADJ	JJ	Degree=Pos	17	amod	_	start_char=75|end_char=79
+17	time	time	NOUN	NN	Number=Sing	12	obl	_	start_char=80|end_char=84
+18	.	.	PUNCT	.	_	2	punct	_	start_char=84|end_char=85
+

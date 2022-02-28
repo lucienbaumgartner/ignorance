@@ -1,0 +1,68 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=1|end_char=3
+3	so	so	ADV	RB	_	4	advmod	_	start_char=4|end_char=6
+4	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=12
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=13|end_char=17
+6	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=18|end_char=26
+7	to	to	ADP	IN	_	8	case	_	start_char=27|end_char=29
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=30|end_char=33
+9	.	.	PUNCT	.	_	4	punct	_	start_char=33|end_char=34
+
+1	Some	some	DET	DT	_	3	det	_	start_char=35|end_char=39
+2	medical	medical	ADJ	JJ	Degree=Pos	3	amod	_	start_char=40|end_char=47
+3	professionals	professional	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=48|end_char=61
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=62|end_char=65
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=66|end_char=74
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=75|end_char=78
+7	incompetent	incompetent	ADJ	JJ	Degree=Pos	5	conj	_	start_char=79|end_char=90
+8	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=92|end_char=94
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=94|end_char=96
+3	infuriating	infuriate	ADJ	JJ	Degree=Pos	0	root	_	start_char=97|end_char=108
+4	.	.	PUNCT	.	_	3	punct	_	start_char=108|end_char=109
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=110|end_char=113
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=114|end_char=116
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=116|end_char=118
+4	something	something	PRON	NN	Number=Sing	0	root	_	start_char=119|end_char=128
+5	women	woman	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=129|end_char=134
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=135|end_char=139
+7	to	to	PART	TO	_	8	mark	_	start_char=140|end_char=142
+8	deal	deal	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=143|end_char=147
+9	with	with	ADP	IN	_	10	case	_	start_char=148|end_char=152
+10	way	way	NOUN	NN	Number=Sing	8	obl	_	start_char=153|end_char=156
+11	too	too	ADV	RB	_	12	advmod	_	start_char=157|end_char=160
+12	much	much	ADV	RB	Degree=Pos	8	advmod	_	start_char=161|end_char=165
+13	.	.	PUNCT	.	_	4	punct	_	start_char=165|end_char=166
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=168|end_char=172
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=173|end_char=176
+3	checked	check	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=177|end_char=184
+4	out	out	ADP	RP	_	3	compound:prt	_	start_char=185|end_char=188
+5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=189|end_char=192
+6	childfree	childfree	ADJ	JJ	Degree=Pos	9	amod	_	start_char=193|end_char=202
+7	friendly	friendly	ADJ	JJ	Degree=Pos	9	amod	_	start_char=203|end_char=211
+8	doctors	doctor	NOUN	NNS	Number=Plur	9	compound	_	start_char=212|end_char=219
+9	list	list	NOUN	NN	Number=Sing	3	obj	_	start_char=220|end_char=224
+10	on	on	ADP	IN	_	11	case	_	start_char=225|end_char=227
+11	r/childfree	r/childfree	NOUN	NN	Number=Sing	9	nmod	_	start_char=228|end_char=239
+12	?	?	PUNCT	.	_	3	punct	_	start_char=239|end_char=240
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=241|end_char=245
+2	might	might	AUX	MD	VerbForm=Fin	6	aux	_	start_char=246|end_char=251
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=252|end_char=254
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=255|end_char=258
+5	easiest	easy	ADJ	JJS	Degree=Sup	6	amod	_	start_char=259|end_char=266
+6	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=267|end_char=270
+7	to	to	PART	TO	_	8	mark	_	start_char=271|end_char=273
+8	find	find	VERB	VB	VerbForm=Inf	6	acl	_	start_char=274|end_char=278
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=279|end_char=280
+10	doctor	doctor	NOUN	NN	Number=Sing	8	obj	_	start_char=281|end_char=287
+11	who	who	PRON	WP	PronType=Rel	13	nsubj	_	start_char=288|end_char=291
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	_	start_char=292|end_char=296
+13	do	do	VERB	VB	VerbForm=Inf	10	acl:relcl	_	start_char=297|end_char=299
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=300|end_char=304
+15	hysterectomy	hysterectomy	NOUN	NN	Number=Sing	13	obj	_	start_char=305|end_char=317
+16	.	.	PUNCT	.	_	6	punct	_	start_char=317|end_char=318
+

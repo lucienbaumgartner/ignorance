@@ -1,0 +1,13 @@
+1	How	how	ADV	WRB	PronType=Int	0	root	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	start_char=4|end_char=7
+3	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=8|end_char=14
+4	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	start_char=15|end_char=19
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	amod	_	start_char=20|end_char=28
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=29|end_char=32
+7	just	just	ADV	RB	_	8	advmod	_	start_char=33|end_char=37
+8	sad	sad	ADJ	JJ	Degree=Pos	5	conj	_	start_char=38|end_char=41
+9	individuals	individual	NOUN	NNS	Number=Plur	1	nsubj	_	start_char=42|end_char=53
+10	all	all	ADV	RB	_	11	advmod	_	start_char=54|end_char=57
+11	around	around	ADV	RB	_	9	advmod	_	start_char=58|end_char=64
+12	.	.	PUNCT	.	_	1	punct	_	start_char=64|end_char=65
+

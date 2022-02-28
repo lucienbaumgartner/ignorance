@@ -1,0 +1,50 @@
+1	no	no	INTJ	UH	_	3	discourse	_	start_char=0|end_char=2
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=3|end_char=7
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=8|end_char=11
+4	n't	not	PART	RB	_	3	advmod	_	start_char=11|end_char=14
+5	.	.	PUNCT	.	_	3	punct	_	start_char=14|end_char=15
+
+1	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=16|end_char=18
+2	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	start_char=19|end_char=23
+3	at	at	ADP	IN	_	5	case	_	start_char=24|end_char=26
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=27|end_char=30
+5	data	datum	NOUN	NNS	Number=Plur	2	obl	_	start_char=31|end_char=35
+6	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+1	omicron	omicron	NOUN	NN	Number=Sing	3	nsubj	_	start_char=37|end_char=44
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=45|end_char=47
+3	doubling	double	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=48|end_char=56
+4	every	every	DET	DT	_	6	det	_	start_char=57|end_char=62
+5	two	two	NUM	CD	NumType=Card	6	nummod	_	start_char=63|end_char=66
+6	days	day	NOUN	NNS	Number=Plur	3	obl:tmod	_	start_char=67|end_char=71
+7	.	.	PUNCT	.	_	3	punct	_	start_char=71|end_char=72
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=73|end_char=75
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=75|end_char=77
+3	less	less	ADV	RBR	Degree=Cmp	4	advmod	_	start_char=78|end_char=82
+4	deadly	deadly	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=89
+5	than	than	ADP	IN	_	6	case	_	start_char=90|end_char=94
+6	delta	delta	NOUN	NN	Number=Sing	4	obl	_	start_char=95|end_char=100
+7	.	.	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=102|end_char=106
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=107|end_char=111
+3	n't	not	PART	RB	_	4	advmod	_	start_char=111|end_char=114
+4	said	say	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=115|end_char=119
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=120|end_char=124
+6	before	before	ADV	RB	_	4	advmod	_	start_char=125|end_char=131
+7	.	.	PUNCT	.	_	4	punct	_	start_char=131|end_char=132
+
+1	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=133|end_char=137
+2	making	make	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=138|end_char=144
+3	stuff	stuff	NOUN	NN	Number=Sing	2	obj	_	start_char=145|end_char=150
+4	up	up	ADP	RP	_	2	compound:prt	_	start_char=151|end_char=153
+5	as	as	ADP	IN	_	7	case	_	start_char=154|end_char=156
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=157|end_char=159
+7	excuse	excuse	NOUN	NN	Number=Sing	2	obl	_	start_char=160|end_char=166
+8	to	to	PART	TO	_	10	mark	_	start_char=167|end_char=169
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=170|end_char=172
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	acl	_	start_char=173|end_char=181
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=182|end_char=185
+12	loud	loud	ADJ	JJ	Degree=Pos	10	conj	_	start_char=186|end_char=190
+

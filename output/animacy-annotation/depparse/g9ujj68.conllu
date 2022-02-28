@@ -1,0 +1,25 @@
+1	Or	or	CCONJ	CC	_	8	cc	_	start_char=0|end_char=2
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=3|end_char=7
+3	friends	friend	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=8|end_char=15
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=16|end_char=19
+5	family	family	NOUN	NN	Number=Sing	3	conj	_	start_char=20|end_char=26
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=27|end_char=30
+7	more	more	ADV	RBR	_	8	advmod	_	start_char=31|end_char=35
+8	affluent	affluent	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=44
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=45|end_char=48
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=49|end_char=56
+11	of	of	ADP	IN	_	13	case	_	start_char=57|end_char=59
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=60|end_char=61
+13	disease	disease	NOUN	NN	Number=Sing	10	obl	_	start_char=62|end_char=69
+14	that	that	PRON	WDT	PronType=Rel	17	nsubj	_	start_char=70|end_char=74
+15	would	would	AUX	MD	VerbForm=Fin	17	aux	_	start_char=75|end_char=80
+16	mainly	mainly	ADV	RB	_	17	advmod	_	start_char=81|end_char=87
+17	kill	kill	VERB	VB	VerbForm=Inf	13	acl:relcl	_	start_char=88|end_char=92
+18	off	off	ADP	RP	_	17	compound:prt	_	start_char=93|end_char=96
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=97|end_char=100
+20	poorer	poorer	ADJ	JJR	Degree=Cmp	21	amod	_	start_char=101|end_char=107
+21	population	population	NOUN	NN	Number=Sing	17	obj	_	start_char=108|end_char=118
+22	without	without	ADP	IN	_	23	case	_	start_char=119|end_char=126
+23	notice	notice	NOUN	NN	Number=Sing	17	obl	_	start_char=127|end_char=133
+24	?	?	PUNCT	.	_	8	punct	_	start_char=133|end_char=134
+

@@ -1,0 +1,34 @@
+1	So	so	ADV	RB	_	6	advmod	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=3|end_char=6
+3	’re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=6|end_char=9
+4	against	against	ADP	IN	_	6	case	_	start_char=10|end_char=17
+5	protected	protect	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=18|end_char=27
+6	classes	class	NOUN	NNS	Number=Plur	0	root	_	start_char=28|end_char=35
+7	.	.	PUNCT	.	_	6	punct	_	start_char=35|end_char=36
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=37|end_char=39
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=40|end_char=43
+3	not	not	PART	RB	_	4	advmod	_	start_char=44|end_char=47
+4	belong	belong	VERB	VB	VerbForm=Inf	0	root	_	start_char=48|end_char=54
+5	to	to	ADP	IN	_	6	case	_	start_char=55|end_char=57
+6	any	any	DET	DT	_	4	obl	_	start_char=58|end_char=61
+7	,	,	PUNCT	,	_	14	punct	_	start_char=61|end_char=62
+8	and	and	CCONJ	CC	_	14	cc	_	start_char=63|end_char=66
+9	/	/	PUNCT	,	_	10	punct	_	start_char=66|end_char=67
+10	or	or	CCONJ	CC	_	14	cc	_	start_char=67|end_char=69
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=70|end_char=73
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=74|end_char=77
+13	just	just	ADV	RB	_	14	advmod	_	start_char=78|end_char=82
+14	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=83|end_char=91
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=92|end_char=95
+16	idealistic	idealistic	ADJ	JJ	Degree=Pos	14	conj	_	start_char=96|end_char=106
+17	about	about	SCONJ	IN	_	18	case	_	start_char=107|end_char=112
+18	what	what	PRON	WP	PronType=Int	16	obl	_	start_char=113|end_char=117
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=118|end_char=121
+20	world	world	NOUN	NN	Number=Sing	22	nsubj	_	start_char=122|end_char=127
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=128|end_char=130
+22	like	like	ADP	IN	_	18	case	_	start_char=131|end_char=135
+23	without	without	ADP	IN	_	24	case	_	start_char=136|end_char=143
+24	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	obl	_	start_char=144|end_char=148
+25	?	?	PUNCT	.	_	4	punct	_	start_char=148|end_char=149
+

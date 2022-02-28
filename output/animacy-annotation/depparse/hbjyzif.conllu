@@ -1,0 +1,36 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	exactly	exactly	ADV	RB	_	5	advmod	_	start_char=7|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=15|end_char=18
+5	same	same	ADJ	JJ	Degree=Pos	2	obj	_	start_char=19|end_char=23
+6	.	.	PUNCT	.	_	2	punct	_	start_char=23|end_char=24
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=25|end_char=26
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=27|end_char=34
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=35|end_char=38
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=39|end_char=42
+5	smart	smart	ADJ	JJ	Degree=Pos	2	ccomp	_	start_char=43|end_char=48
+6	and	and	CCONJ	CC	_	8	cc	_	start_char=49|end_char=52
+7	now	now	ADV	RB	_	8	advmod	_	start_char=53|end_char=56
+8	realize	realize	VERB	VB	Mood=Ind|VerbForm=Fin	2	conj	_	start_char=57|end_char=64
+9	,	,	PUNCT	,	_	16	punct	_	start_char=64|end_char=65
+10	no	no	INTJ	UH	_	16	discourse	_	start_char=66|end_char=68
+11	,	,	PUNCT	,	_	16	punct	_	start_char=68|end_char=69
+12	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=70|end_char=73
+13	not	not	ADV	RB	_	14	advmod	_	start_char=74|end_char=77
+14	speaking	speak	VERB	VBG	VerbForm=Ger	16	csubj	_	start_char=78|end_char=86
+15	just	just	ADV	RB	_	16	advmod	_	start_char=87|end_char=91
+16	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	start_char=92|end_char=96
+17	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	start_char=97|end_char=100
+18	appear	appear	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=101|end_char=107
+19	that	that	DET	DT	Number=Sing|PronType=Dem	20	det	_	start_char=108|end_char=112
+20	way	way	NOUN	NN	Number=Sing	18	obl:npmod	_	start_char=113|end_char=116
+21	...	...	PUNCT	,	_	2	punct	_	start_char=116|end_char=119
+22	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	start_char=119|end_char=122
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	start_char=123|end_char=125
+24	really	really	ADV	RB	_	26	advmod	_	start_char=126|end_char=132
+25	really	really	ADV	RB	_	26	advmod	_	start_char=133|end_char=139
+26	unaware	unaware	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=140|end_char=147
+27	and	and	CCONJ	CC	_	28	cc	_	start_char=148|end_char=151
+28	dumb	dumb	ADJ	JJ	Degree=Pos	26	conj	_	start_char=152|end_char=156
+

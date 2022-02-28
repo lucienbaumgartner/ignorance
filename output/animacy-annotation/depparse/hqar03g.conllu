@@ -1,0 +1,12 @@
+1	Whatever	whatever	PRON	WDT	PronType=Int	3	nsubj	_	start_char=0|end_char=8
+2	,	,	PUNCT	,	_	3	punct	_	start_char=8|end_char=9
+3	mate	mate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+4	,	,	PUNCT	,	_	5	punct	_	start_char=14|end_char=15
+5	stay	stay	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	start_char=16|end_char=20
+6	angry	angry	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=21|end_char=26
+7	,	,	PUNCT	,	_	8	punct	_	start_char=26|end_char=27
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=28|end_char=36
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=37|end_char=40
+10	wrong	wrong	ADJ	JJ	Degree=Pos	6	conj	_	start_char=41|end_char=46
+11	.	.	PUNCT	.	_	3	punct	_	start_char=46|end_char=47
+

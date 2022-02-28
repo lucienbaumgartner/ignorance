@@ -1,0 +1,29 @@
+1	Because	because	SCONJ	IN	_	3	mark	_	start_char=0|end_char=7
+2	there	there	PRON	EX	_	3	expl	_	start_char=8|end_char=13
+3	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=13|end_char=15
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=16|end_char=17
+5	tendency	tendency	NOUN	NN	Number=Sing	3	nsubj	_	start_char=18|end_char=26
+6	of	of	ADP	IN	_	12	case	_	start_char=27|end_char=29
+7	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=30|end_char=33
+8	modern	modern	ADJ	JJ	Degree=Pos	12	amod	_	start_char=34|end_char=40
+9	"	"	PUNCT	``	_	12	punct	_	start_char=41|end_char=42
+10	conservative	conservative	ADJ	JJ	Degree=Pos	12	amod	_	start_char=42|end_char=54
+11	"	"	PUNCT	''	_	12	punct	_	start_char=54|end_char=55
+12	movement	movement	NOUN	NN	Number=Sing	5	nmod	_	start_char=56|end_char=64
+13	to	to	PART	TO	_	16	mark	_	start_char=65|end_char=67
+14	be	be	AUX	VB	VerbForm=Inf	16	cop	_	start_char=68|end_char=70
+15	tone	tone	ADJ	JJ	Degree=Pos	16	advmod	_	start_char=71|end_char=75
+16	deaf	deaf	ADJ	JJ	Degree=Pos	12	acl	_	start_char=76|end_char=80
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=81|end_char=84
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=85|end_char=93
+19	of	of	ADP	IN	_	20	case	_	start_char=94|end_char=96
+20	reality	reality	NOUN	NN	Number=Sing	18	obl	_	start_char=97|end_char=104
+21	.	.	PUNCT	.	_	3	punct	_	start_char=104|end_char=105
+
+1	Case	case	NOUN	NN	Number=Sing	0	root	_	start_char=108|end_char=112
+2	in	in	ADP	IN	_	3	case	_	start_char=113|end_char=115
+3	point	point	NOUN	NN	Number=Sing	1	nmod	_	start_char=116|end_char=121
+4	:	:	PUNCT	:	_	1	punct	_	start_char=121|end_char=122
+
+1	https://www.eenews.net/articles/people-can-die-texas-bill-would-strip-worker-water-breaks/	https://www.eenews.net/articles/people-can-die-texas-bill-would-strip-worker-water-breaks/	X	ADD	_	0	root	_	start_char=124|end_char=214
+

@@ -1,0 +1,47 @@
+1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=0|end_char=2
+2	original	original	ADJ	JJ	Degree=Pos	3	amod	_	start_char=3|end_char=11
+3	opinion	opinion	NOUN	NN	Number=Sing	4	nsubj	_	start_char=12|end_char=19
+4	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=20|end_char=23
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=24|end_char=28
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=29|end_char=32
+7	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=33|end_char=37
+8	uneducated	uneducated	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=38|end_char=48
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=49|end_char=52
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=53|end_char=61
+11	.	.	PUNCT	.	_	4	punct	_	start_char=61|end_char=62
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=65|end_char=69
+2	opinion	opinion	NOUN	NN	Number=Sing	5	nsubj:pass	_	start_char=70|end_char=77
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=78|end_char=81
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	_	start_char=82|end_char=86
+5	reaffirmed	reaffirm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=87|end_char=97
+6	with	with	ADP	IN	_	7	case	_	start_char=98|end_char=102
+7	each	each	DET	DT	_	5	obl	_	start_char=103|end_char=107
+8	of	of	ADP	IN	_	10	case	_	start_char=108|end_char=110
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=111|end_char=115
+10	responses	response	NOUN	NNS	Number=Plur	7	nmod	_	start_char=116|end_char=125
+11	.	.	PUNCT	.	_	5	punct	_	start_char=125|end_char=126
+
+1	Now	now	ADV	RB	_	4	advmod	_	start_char=128|end_char=131
+2	,	,	PUNCT	,	_	4	punct	_	start_char=131|end_char=132
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=133|end_char=134
+4	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=135|end_char=142
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=143|end_char=147
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=148|end_char=151
+7	suffer	suffer	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=152|end_char=158
+8	from	from	ADP	IN	_	10	case	_	start_char=159|end_char=163
+9	substance	substance	NOUN	NN	Number=Sing	10	compound	_	start_char=164|end_char=173
+10	abuse	abuse	NOUN	NN	Number=Sing	7	obl	_	start_char=174|end_char=179
+11	.	.	PUNCT	.	_	4	punct	_	start_char=179|end_char=180
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=181|end_char=182
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=183|end_char=187
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=188|end_char=191
+4	seek	seek	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=192|end_char=196
+5	help	help	NOUN	NN	Number=Sing	4	obj	_	start_char=197|end_char=201
+6	.	.	PUNCT	.	_	2	punct	_	start_char=201|end_char=202
+
+1	God	God	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=203|end_char=206
+2	bless	bless	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=207|end_char=212
+3	.	.	PUNCT	.	_	2	punct	_	start_char=212|end_char=213
+

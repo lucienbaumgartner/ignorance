@@ -1,0 +1,19 @@
+1	Okay	okay	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=6|end_char=10
+2	than	than	ADP	IN	_	1	nmod	_	start_char=11|end_char=15
+3	.	.	PUNCT	.	_	1	punct	_	start_char=15|end_char=16
+
+1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=23
+2	for	for	SCONJ	IN	_	3	mark	_	start_char=24|end_char=27
+3	pointing	point	VERB	VBG	VerbForm=Ger	1	acl	_	start_char=28|end_char=36
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=37|end_char=39
+5	out	out	ADP	RP	_	3	compound:prt	_	start_char=40|end_char=43
+6	for	for	ADP	IN	_	7	case	_	start_char=44|end_char=47
+7	those	that	DET	DT	Number=Plur|PronType=Dem	8	det	_	start_char=48|end_char=53
+8	unaware	unaware	ADJ	JJ	Degree=Pos	3	obl	_	start_char=54|end_char=61
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=62|end_char=65
+10	confused	confused	ADJ	JJ	Degree=Pos	8	conj	_	start_char=66|end_char=74
+11	.	.	PUNCT	.	_	1	punct	_	start_char=74|end_char=75
+

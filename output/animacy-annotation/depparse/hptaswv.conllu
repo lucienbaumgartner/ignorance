@@ -1,0 +1,25 @@
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	.	.	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	American	American	ADJ	JJ	Degree=Pos	2	amod	_	start_char=5|end_char=13
+2	culture	culture	NOUN	NN	Number=Sing	4	nsubj	_	start_char=14|end_char=21
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=22|end_char=24
+4	…bad	…bad	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=28
+5	.	.	PUNCT	.	_	4	punct	_	start_char=28|end_char=29
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=30|end_char=36
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=37|end_char=40
+3	greedy	greedy	ADJ	JJ	Degree=Pos	0	root	_	start_char=41|end_char=47
+4	,	,	PUNCT	,	_	5	punct	_	start_char=47|end_char=48
+5	selfish	selfish	ADJ	JJ	Degree=Pos	3	conj	_	start_char=49|end_char=56
+6	,	,	PUNCT	,	_	7	punct	_	start_char=56|end_char=57
+7	lazy	lazy	ADJ	JJ	Degree=Pos	3	conj	_	start_char=58|end_char=62
+8	,	,	PUNCT	,	_	9	punct	_	start_char=62|end_char=63
+9	dumb	dumb	ADJ	JJ	Degree=Pos	3	conj	_	start_char=64|end_char=68
+10	,	,	PUNCT	,	_	11	punct	_	start_char=68|end_char=69
+11	impatient	impatient	ADJ	JJ	Degree=Pos	3	conj	_	start_char=70|end_char=79
+12	,	,	PUNCT	,	_	13	punct	_	start_char=79|end_char=80
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=81|end_char=89
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=90|end_char=93
+15	apathetic	apathetic	ADJ	JJ	Degree=Pos	3	conj	_	start_char=94|end_char=103
+

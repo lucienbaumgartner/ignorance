@@ -1,0 +1,23 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=2|end_char=10
+3	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=16
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=17|end_char=19
+5	might	might	AUX	MD	VerbForm=Fin	8	aux	_	start_char=20|end_char=25
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=26|end_char=28
+7	that	that	ADV	RB	_	8	advmod	_	start_char=29|end_char=33
+8	stupid	stupid	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=34|end_char=40
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=41|end_char=44
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=45|end_char=53
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=54|end_char=58
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=59|end_char=61
+13	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=62|end_char=66
+14	n’t	not	PART	RB	_	16	advmod	_	start_char=66|end_char=69
+15	even	even	ADV	RB	_	16	advmod	_	start_char=70|end_char=74
+16	realize	realize	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=75|end_char=82
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=83|end_char=86
+18	reference	reference	NOUN	NN	Number=Sing	16	obj	_	start_char=87|end_char=96
+19	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=97|end_char=99
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	start_char=100|end_char=102
+21	making	make	VERB	VBG	Tense=Pres|VerbForm=Part	18	acl:relcl	_	start_char=103|end_char=109
+22	.	.	PUNCT	.	_	3	punct	_	start_char=109|end_char=110
+

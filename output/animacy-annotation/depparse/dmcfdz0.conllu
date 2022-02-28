@@ -1,0 +1,28 @@
+1	Considering	consider	VERB	VBG	VerbForm=Ger	12	advcl	_	start_char=0|end_char=11
+2	May	May	PROPN	NNP	Number=Sing	4	nmod:poss	_	start_char=12|end_char=15
+3	's	's	PART	POS	_	2	case	_	start_char=15|end_char=17
+4	performance	performance	NOUN	NN	Number=Sing	1	obj	_	start_char=18|end_char=29
+5	as	as	ADP	IN	_	6	case	_	start_char=30|end_char=32
+6	Leader	leader	NOUN	NN	Number=Sing	4	nmod	_	start_char=33|end_char=39
+7	,	,	PUNCT	,	_	12	punct	_	start_char=39|end_char=40
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=41|end_char=43
+9	would	would	AUX	MD	VerbForm=Fin	12	aux	_	start_char=44|end_char=49
+10	just	just	ADV	RB	_	12	advmod	_	start_char=50|end_char=54
+11	be	be	AUX	VB	VerbForm=Inf	12	cop	_	start_char=55|end_char=57
+12	proper	proper	ADJ	JJ	Degree=Pos	0	root	_	start_char=58|end_char=64
+13	if	if	SCONJ	IN	_	15	mark	_	start_char=65|end_char=67
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	start_char=68|end_char=72
+15	ousted	oust	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	advcl	_	start_char=73|end_char=79
+16	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	_	start_char=80|end_char=83
+17	.	.	PUNCT	.	_	12	punct	_	start_char=83|end_char=84
+
+1	From	from	ADP	IN	_	3	case	_	start_char=85|end_char=89
+2	any	any	DET	DT	_	3	det	_	start_char=90|end_char=93
+3	angle	angle	NOUN	NN	Number=Sing	6	obl	_	start_char=94|end_char=99
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=100|end_char=103
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=104|end_char=106
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=107|end_char=114
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=115|end_char=118
+8	incompetent	incompetent	ADJ	JJ	Degree=Pos	6	conj	_	start_char=119|end_char=130
+9	anyway	anyway	ADV	RB	_	6	advmod	_	start_char=131|end_char=137
+

@@ -1,0 +1,43 @@
+1	Who	who	PRON	WP	PronType=Int	2	nsubj	_	start_char=0|end_char=3
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=5
+3	to	to	PART	TO	_	4	mark	_	start_char=6|end_char=8
+4	say	say	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=9|end_char=12
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=13|end_char=17
+6	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=17|end_char=20
+7	pin	pin	NOUN	NN	Number=Sing	8	compound	_	start_char=21|end_char=24
+8	pricking	prick	VERB	VBG	Tense=Pres|VerbForm=Part	4	ccomp	_	start_char=25|end_char=33
+9	people	people	NOUN	NNS	Number=Plur	8	obj	_	start_char=34|end_char=40
+10	?	?	PUNCT	.	_	2	punct	_	start_char=40|end_char=41
+
+1	For	for	ADP	IN	_	2	case	_	start_char=42|end_char=45
+2	all	all	DET	DT	_	4	obl	_	start_char=46|end_char=49
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=50|end_char=52
+4	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=53|end_char=57
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=58|end_char=62
+6	could	could	AUX	MD	VerbForm=Fin	8	aux	_	start_char=64|end_char=69
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=70|end_char=72
+8	drunk	drunk	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=73|end_char=78
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=79|end_char=82
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=83|end_char=90
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=91|end_char=94
+12	getting	get	AUX	VBG	VerbForm=Ger	13	aux:pass	_	start_char=95|end_char=102
+13	injected	inject	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	start_char=103|end_char=111
+14	.	.	PUNCT	.	_	4	punct	_	start_char=111|end_char=112
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=113|end_char=115
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=115|end_char=117
+3	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	0	root	_	start_char=118|end_char=128
+4	either	either	CCONJ	CC	_	5	cc:preconj	_	start_char=129|end_char=135
+5	way	way	NOUN	NN	Number=Sing	3	obl:npmod	_	start_char=136|end_char=139
+6	,	,	PUNCT	,	_	11	punct	_	start_char=139|end_char=140
+7	spiking	spike	VERB	VBG	VerbForm=Ger	11	nsubj	_	start_char=141|end_char=148
+8	/	/	SYM	,	_	9	cc	_	start_char=148|end_char=149
+9	injection	injection	NOUN	NN	Number=Sing	7	conj	_	start_char=149|end_char=158
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=159|end_char=163
+11	happen	happen	VERB	VB	VerbForm=Inf	3	conj	_	start_char=164|end_char=170
+12	and	and	CCONJ	CC	_	14	cc	_	start_char=171|end_char=174
+13	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=175|end_char=178
+14	messed	mess	VERB	VBN	Tense=Past|VerbForm=Part	11	conj	_	start_char=179|end_char=185
+15	up	up	ADP	RP	_	14	compound:prt	_	start_char=186|end_char=188
+16	.	.	PUNCT	.	_	3	punct	_	start_char=188|end_char=189
+

@@ -1,0 +1,46 @@
+1	Yeah	yeah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=4
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=5|end_char=8
+3	more	more	ADJ	JJR	Degree=Cmp	1	conj	_	start_char=9|end_char=13
+4	rappers	rapper	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=14|end_char=21
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=22|end_char=25
+6	n't	not	PART	RB	_	7	advmod	_	start_char=25|end_char=28
+7	apologetic	apologetic	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=39
+8	or	or	CCONJ	CC	_	9	cc	_	start_char=40|end_char=42
+9	remorseful	remorseful	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=53
+10	for	for	ADP	IN	_	14	case	_	start_char=54|end_char=57
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=58|end_char=61
+12	fucked	fuck	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	_	start_char=62|end_char=68
+13	up	up	ADP	RP	_	14	compound	_	start_char=69|end_char=71
+14	shit	shit	NOUN	NN	Number=Sing	7	obl	_	start_char=72|end_char=76
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=77|end_char=81
+16	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=81|end_char=84
+17	done	do	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	start_char=85|end_char=89
+18	.	.	PUNCT	.	_	7	punct	_	start_char=89|end_char=90
+
+1	X	X	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=91|end_char=92
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=93|end_char=101
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=102|end_char=105
+4	,	,	PUNCT	,	_	6	punct	_	start_char=105|end_char=106
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=107|end_char=110
+6	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	start_char=111|end_char=115
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=116|end_char=118
+8	effort	effort	NOUN	NN	Number=Sing	6	obj	_	start_char=119|end_char=125
+9	to	to	PART	TO	_	10	mark	_	start_char=126|end_char=128
+10	turn	turn	VERB	VB	VerbForm=Inf	8	acl	_	start_char=129|end_char=133
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=134|end_char=137
+12	life	life	NOUN	NN	Number=Sing	10	obj	_	start_char=138|end_char=142
+13	around	around	ADV	RB	_	10	advmod	_	start_char=143|end_char=149
+14	.	.	PUNCT	.	_	3	punct	_	start_char=149|end_char=150
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=151|end_char=153
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=153|end_char=155
+3	annoying	annoying	ADJ	JJ	Degree=Pos	0	root	_	start_char=156|end_char=164
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=165|end_char=168
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=169|end_char=177
+6	that	that	SCONJ	IN	_	8	mark	_	start_char=178|end_char=182
+7	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=183|end_char=189
+8	ignore	ignore	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	ccomp	_	start_char=190|end_char=196
+9	that	that	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=197|end_char=201
+10	fact	fact	NOUN	NN	Number=Sing	8	obj	_	start_char=202|end_char=206
+11	.	.	PUNCT	.	_	3	punct	_	start_char=206|end_char=207
+

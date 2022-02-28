@@ -1,0 +1,43 @@
+1	Yeah	yeah	INTJ	UH	_	8	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	8	punct	_	start_char=4|end_char=5
+3	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=6|end_char=9
+4	coordination	coordination	NOUN	NN	Number=Sing	5	compound	_	start_char=10|end_char=22
+5	abilities	ability	NOUN	NNS	Number=Plur	8	nsubj:pass	_	start_char=23|end_char=32
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=33|end_char=36
+7	clearly	clearly	ADV	RB	_	8	advmod	_	start_char=37|end_char=44
+8	impaired	impair	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=45|end_char=53
+9	and	and	CCONJ	CC	_	13	cc	_	start_char=54|end_char=57
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=58|end_char=60
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	start_char=60|end_char=62
+12	mind	mind	NOUN	NN	Number=Sing	13	obl:npmod	_	start_char=63|end_char=67
+13	blowing	blow	VERB	VBG	VerbForm=Ger	8	conj	_	start_char=68|end_char=75
+14	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=76|end_char=79
+15	unaware	unaware	ADJ	JJ	Degree=Pos	13	ccomp	_	start_char=80|end_char=87
+16	and	and	CCONJ	CC	_	21	cc	_	start_char=88|end_char=91
+17	dismissive	dismissive	ADJ	JJ	Degree=Pos	18	amod	_	start_char=92|end_char=102
+18	mc	mc	NOUN	NN	Number=Sing	21	nsubj	_	start_char=103|end_char=105
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=106|end_char=108
+20	of	of	ADP	IN	_	21	case	_	start_char=109|end_char=111
+21	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	ccomp	_	start_char=112|end_char=116
+22	...	...	PUNCT	.	_	8	punct	_	start_char=116|end_char=119
+
+1	Or	or	CCONJ	CC	_	6	cc	_	start_char=120|end_char=122
+2	maybe	maybe	ADV	RB	_	6	advmod	_	start_char=123|end_char=128
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=129|end_char=132
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=133|end_char=135
+5	just	just	ADV	RB	_	6	advmod	_	start_char=136|end_char=140
+6	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=141|end_char=145
+7	at	at	SCONJ	IN	_	8	mark	_	start_char=146|end_char=148
+8	ignoring	ignore	VERB	VBG	VerbForm=Ger	6	advcl	_	start_char=149|end_char=157
+9	.	.	PUNCT	.	_	6	punct	_	start_char=157|end_char=158
+
+1	Hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=159|end_char=163
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=164|end_char=165
+3	provider	provider	NOUN	NN	Number=Sing	5	nsubj	_	start_char=166|end_char=174
+4	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=175|end_char=179
+5	push	push	VERB	VB	VerbForm=Inf	1	ccomp	_	start_char=180|end_char=184
+6	for	for	ADP	IN	_	8	case	_	start_char=185|end_char=188
+7	more	more	ADJ	JJR	Degree=Cmp	8	amod	_	start_char=189|end_char=193
+8	interventions	intervention	NOUN	NNS	Number=Plur	5	obl	_	start_char=194|end_char=207
+9	.	.	PUNCT	.	_	1	punct	_	start_char=207|end_char=208
+

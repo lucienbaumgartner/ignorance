@@ -1,0 +1,37 @@
+1	Feel	feel	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	free	free	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=5|end_char=9
+3	to	to	PART	TO	_	4	mark	_	start_char=10|end_char=12
+4	elaborate	elaborate	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=13|end_char=22
+5	or	or	CCONJ	CC	_	15	cc	_	start_char=23|end_char=25
+6	if	if	SCONJ	IN	_	9	mark	_	start_char=26|end_char=28
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=29|end_char=32
+8	just	just	ADV	RB	_	9	advmod	_	start_char=33|end_char=37
+9	want	want	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	15	advcl	_	start_char=38|end_char=42
+10	to	to	PART	TO	_	11	mark	_	start_char=43|end_char=45
+11	trade	trade	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=46|end_char=51
+12	insults	insult	NOUN	NNS	Number=Plur	11	obj	_	start_char=52|end_char=59
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=60|end_char=61
+14	’d	have	AUX	MD	VerbForm=Fin	15	aux	_	start_char=61|end_char=63
+15	like	like	VERB	VB	VerbForm=Inf	1	conj	_	start_char=64|end_char=68
+16	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	15	obj	_	start_char=69|end_char=72
+17	to	to	PART	TO	_	18	mark	_	start_char=73|end_char=75
+18	know	know	VERB	VB	VerbForm=Inf	15	xcomp	_	start_char=76|end_char=80
+19	,	,	PUNCT	,	_	21	punct	_	start_char=80|end_char=81
+20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	start_char=82|end_char=83
+21	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=84|end_char=89
+22	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	24	nsubj	_	start_char=90|end_char=93
+23	are	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=94|end_char=97
+24	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	ccomp	_	start_char=98|end_char=106
+25	and	and	CCONJ	CC	_	26	cc	_	start_char=107|end_char=110
+26	petty	petty	ADJ	JJ	Degree=Pos	24	conj	_	start_char=111|end_char=116
+27	.	.	PUNCT	.	_	1	punct	_	start_char=116|end_char=117
+
+1	Have	have	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=118|end_char=122
+2	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=123|end_char=124
+3	great	great	ADJ	JJ	Degree=Pos	7	amod	_	start_char=125|end_char=130
+4	day	day	NOUN	NN	Number=Sing	7	compound	_	start_char=131|end_char=134
+5	key	key	ADJ	JJ	Degree=Pos	7	amod	_	start_char=135|end_char=138
+6	board	board	NOUN	NN	Number=Sing	7	compound	_	start_char=139|end_char=144
+7	warrior	warrior	NOUN	NN	Number=Sing	1	obj	_	start_char=145|end_char=152
+8	.	.	PUNCT	.	_	1	punct	_	start_char=152|end_char=153
+

@@ -1,0 +1,44 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	assuming	assume	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=4|end_char=12
+4	anyone	anyone	PRON	NN	Number=Sing	14	nsubj	_	start_char=13|end_char=19
+5	referring	refer	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=20|end_char=29
+6	to	to	ADP	IN	_	7	case	_	start_char=30|end_char=32
+7	those	that	PRON	DT	Number=Plur|PronType=Dem	5	obl	_	start_char=33|end_char=38
+8	as	as	ADP	IN	_	11	case	_	start_char=39|end_char=41
+9	"	"	PUNCT	``	_	11	punct	_	start_char=42|end_char=43
+10	chicken	chicken	NOUN	NN	Number=Sing	11	compound	_	start_char=43|end_char=50
+11	feet	foot	NOUN	NNS	Number=Plur	5	obl	_	start_char=51|end_char=55
+12	"	"	PUNCT	''	_	11	punct	_	start_char=55|end_char=56
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=57|end_char=59
+14	oblivious	oblivious	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=60|end_char=69
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=70|end_char=73
+16	unaware	unaware	ADJ	JJ	Degree=Pos	14	conj	_	start_char=74|end_char=81
+17	that	that	SCONJ	IN	_	24	mark	_	start_char=82|end_char=86
+18	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=87|end_char=90
+19	VT	VT	PROPN	NNP	Number=Sing	20	compound	_	start_char=91|end_char=93
+20	mascot	mascot	NOUN	NN	Number=Sing	21	compound	_	start_char=94|end_char=100
+21	costume	costume	NOUN	NN	Number=Sing	24	nsubj	_	start_char=101|end_char=108
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=109|end_char=111
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=112|end_char=113
+24	Turkey	Turkey	PROPN	NNP	Number=Sing	16	ccomp	_	start_char=114|end_char=120
+25	.	.	PUNCT	.	_	3	punct	_	start_char=120|end_char=121
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=123|end_char=127
+2	n't	not	PART	RB	_	3	advmod	_	start_char=127|end_char=130
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=131|end_char=135
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=136|end_char=139
+5	helmet	helmet	NOUN	NN	Number=Sing	3	obj	_	start_char=140|end_char=146
+6	any	any	ADV	RB	_	8	advmod	_	start_char=147|end_char=150
+7	better	well	ADV	RBR	Degree=Cmp	8	advmod	_	start_char=151|end_char=157
+8	looking	look	VERB	VBG	VerbForm=Ger	3	xcomp	_	start_char=158|end_char=165
+9	,	,	PUNCT	,	_	11	punct	_	start_char=165|end_char=166
+10	but	but	CCONJ	CC	_	11	cc	_	start_char=167|end_char=170
+11	c'mon	c'mon	INTJ	UH	_	3	conj	_	start_char=171|end_char=176
+12	.	.	PUNCT	.	_	3	punct	_	start_char=176|end_char=177
+
+1	Turkey	Turkey	PROPN	NNP	Number=Sing	0	root	_	start_char=178|end_char=184
+2	!=	!=	PUNCT	,	_	1	punct	_	start_char=185|end_char=187
+3	Chicken	Chicken	PROPN	NNP	Number=Sing	1	parataxis	_	start_char=188|end_char=195
+4	.	.	PUNCT	.	_	1	punct	_	start_char=195|end_char=196
+

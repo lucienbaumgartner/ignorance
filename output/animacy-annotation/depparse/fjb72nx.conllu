@@ -1,0 +1,56 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=0|end_char=4
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=5|end_char=8
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=9|end_char=11
+4	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	_	start_char=12|end_char=17
+5	thinking	thinking	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=26
+6	as	as	ADV	RB	_	5	advmod	_	start_char=27|end_char=29
+7	well	well	ADV	RB	Degree=Pos	6	fixed	_	start_char=30|end_char=34
+8	.	.	PUNCT	.	_	5	punct	_	start_char=34|end_char=35
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=36|end_char=39
+2	guy	guy	NOUN	NN	Number=Sing	5	nsubj	_	start_char=40|end_char=43
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=44|end_char=46
+4	just	just	ADV	RB	_	5	advmod	_	start_char=47|end_char=51
+5	spewing	spew	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=52|end_char=59
+6	wishful	wishful	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=60|end_char=67
+7	thinking	think	VERB	VBG	VerbForm=Ger	5	xcomp	_	start_char=68|end_char=76
+8	because	because	SCONJ	IN	_	12	mark	_	start_char=77|end_char=84
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=85|end_char=87
+10	ca	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=88|end_char=90
+11	n't	not	PART	RB	_	12	advmod	_	start_char=90|end_char=93
+12	bare	bear	VERB	VB	VerbForm=Inf	7	advcl	_	start_char=94|end_char=98
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=99|end_char=102
+14	thought	thought	NOUN	NN	Number=Sing	12	obj	_	start_char=103|end_char=110
+15	of	of	ADP	IN	_	18	case	_	start_char=111|end_char=113
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=114|end_char=117
+17	political	political	ADJ	JJ	Degree=Pos	18	amod	_	start_char=118|end_char=127
+18	views	view	NOUN	NNS	Number=Plur	14	nmod	_	start_char=128|end_char=133
+19	being	be	AUX	VBG	VerbForm=Ger	21	cop	_	start_char=134|end_char=139
+20	in	in	ADP	IN	_	21	case	_	start_char=140|end_char=142
+21	par	par	NOUN	NN	Number=Sing	12	advcl	_	start_char=143|end_char=146
+22	with	with	ADP	IN	_	25	case	_	start_char=147|end_char=151
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=152|end_char=155
+24	Nazi	Nazi	ADJ	JJ	Degree=Pos	25	amod	_	start_char=156|end_char=160
+25	party	party	NOUN	NN	Number=Sing	21	nmod	_	start_char=161|end_char=166
+26	.	.	PUNCT	.	_	5	punct	_	start_char=166|end_char=167
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=168|end_char=169
+2	actually	actually	ADV	RB	_	3	advmod	_	start_char=170|end_char=178
+3	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=179|end_char=183
+4	sorry	sorry	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=184|end_char=189
+5	for	for	ADP	IN	_	7	case	_	start_char=190|end_char=193
+6	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=194|end_char=199
+7	people	people	NOUN	NNS	Number=Plur	4	obl	_	start_char=200|end_char=206
+8	.	.	PUNCT	.	_	3	punct	_	start_char=206|end_char=207
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=208|end_char=212
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=212|end_char=215
+3	so	so	ADV	RB	_	4	advmod	_	start_char=216|end_char=218
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=219|end_char=225
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=226|end_char=229
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=230|end_char=238
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=239|end_char=243
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=244|end_char=246
+9	hurts	hurt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=247|end_char=252
+10	.	.	PUNCT	.	_	4	punct	_	start_char=252|end_char=253
+

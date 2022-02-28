@@ -1,0 +1,8 @@
+1	Simply	simply	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	untrue	untrue	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=13
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=14|end_char=17
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=18|end_char=26
+5	of	of	ADP	IN	_	6	case	_	start_char=27|end_char=29
+6	history	history	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=37
+7	.	.	PUNCT	.	_	2	punct	_	start_char=37|end_char=38
+

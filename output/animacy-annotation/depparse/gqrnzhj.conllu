@@ -1,0 +1,45 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=9
+3	like	like	SCONJ	IN	_	7	mark	_	start_char=10|end_char=14
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=15|end_char=18
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=19|end_char=22
+6	genuinely	genuinely	ADV	RB	Degree=Pos	7	advmod	_	start_char=23|end_char=32
+7	sorry	sorry	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=33|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=51
+10	of	of	SCONJ	IN	_	15	mark	_	start_char=52|end_char=54
+11	how	how	SCONJ	WRB	PronType=Int	9	obl	_	start_char=55|end_char=58
+12	that	that	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=59|end_char=63
+13	joke	joke	NOUN	NN	Number=Sing	15	nsubj	_	start_char=64|end_char=68
+14	can	can	AUX	MD	VerbForm=Fin	15	aux	_	start_char=69|end_char=72
+15	hurt	hurt	VERB	VB	VerbForm=Inf	11	acl:relcl	_	start_char=73|end_char=77
+16	.	.	PUNCT	.	_	2	punct	_	start_char=77|end_char=78
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=79|end_char=80
+2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=81|end_char=83
+3	glad	glad	ADJ	JJ	Degree=Pos	0	root	_	start_char=84|end_char=88
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=89|end_char=92
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=93|end_char=97
+6	something	something	PRON	NN	Number=Sing	5	obj	_	start_char=98|end_char=107
+7	.	.	PUNCT	.	_	3	punct	_	start_char=107|end_char=108
+
+1	Sometimes	sometimes	ADV	RB	_	3	advmod	_	start_char=109|end_char=118
+2	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=119|end_char=125
+3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=126|end_char=130
+4	just	just	ADV	RB	_	6	advmod	_	start_char=131|end_char=135
+5	one	one	NUM	CD	NumType=Card	6	nummod	_	start_char=136|end_char=139
+6	person	person	NOUN	NN	Number=Sing	3	obj	_	start_char=140|end_char=146
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=147|end_char=152
+8	honest	honest	ADJ	JJ	Degree=Pos	6	acl	_	start_char=153|end_char=159
+9	to	to	PART	TO	_	10	mark	_	start_char=160|end_char=162
+10	help	help	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=163|end_char=167
+11	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	obj	_	start_char=168|end_char=172
+12	understand	understand	VERB	VB	VerbForm=Inf	10	xcomp	_	start_char=173|end_char=183
+13	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=184|end_char=187
+14	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	start_char=188|end_char=193
+15	words	word	NOUN	NNS	Number=Plur	18	nsubj:pass	_	start_char=194|end_char=199
+16	can	can	AUX	MD	VerbForm=Fin	18	aux	_	start_char=200|end_char=203
+17	be	be	AUX	VB	VerbForm=Inf	18	aux:pass	_	start_char=204|end_char=206
+18	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	ccomp	_	start_char=207|end_char=212
+19	.	.	PUNCT	.	_	3	punct	_	start_char=212|end_char=213
+

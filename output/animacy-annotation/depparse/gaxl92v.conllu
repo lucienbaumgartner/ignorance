@@ -1,0 +1,61 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=6|end_char=10
+2	brother	brother	NOUN	NN	Number=Sing	3	nsubj	_	start_char=11|end_char=18
+3	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=25
+4	like	like	ADP	IN	_	6	case	_	start_char=26|end_char=30
+5	hard	hard	ADJ	JJ	Degree=Pos	6	amod	_	start_char=31|end_char=35
+6	work	work	NOUN	NN	Number=Sing	3	obl	_	start_char=36|end_char=40
+7	.	.	PUNCT	.	_	3	punct	_	start_char=40|end_char=41
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=42|end_char=44
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=45|end_char=47
+3	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	25	advcl	_	start_char=48|end_char=54
+4	to	to	PART	TO	_	5	mark	_	start_char=55|end_char=57
+5	make	make	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=58|end_char=62
+6	sure	sure	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=63|end_char=67
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=68|end_char=69
+8	girl	girl	NOUN	NN	Number=Sing	9	nsubj	_	start_char=70|end_char=74
+9	likes	like	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=75|end_char=80
+10	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=81|end_char=84
+11	for	for	ADP	IN	_	13	case	_	start_char=85|end_char=88
+12	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=89|end_char=92
+13	personality	personality	NOUN	NN	Number=Sing	9	obl	_	start_char=93|end_char=104
+14	and	and	CCONJ	CC	_	17	cc	_	start_char=105|end_char=108
+15	not	not	ADV	RB	_	17	advmod	_	start_char=109|end_char=112
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=113|end_char=116
+17	money	money	NOUN	NN	Number=Sing	13	conj	_	start_char=117|end_char=122
+18	,	,	PUNCT	,	_	25	punct	_	start_char=122|end_char=123
+19	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=124|end_char=126
+20	should	should	AUX	MD	VerbForm=Fin	25	aux	_	start_char=127|end_char=133
+21	be	be	AUX	VB	VerbForm=Inf	25	cop	_	start_char=134|end_char=136
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=137|end_char=138
+23	bit	bit	NOUN	NN	Number=Sing	24	obl:npmod	_	start_char=139|end_char=142
+24	more	more	ADV	RBR	_	25	advmod	_	start_char=143|end_char=147
+25	conservative	conservative	ADJ	JJ	Degree=Pos	0	root	_	start_char=148|end_char=160
+26	about	about	SCONJ	IN	_	27	mark	_	start_char=161|end_char=166
+27	showing	show	VERB	VBG	VerbForm=Ger	25	advcl	_	start_char=167|end_char=174
+28	off	off	ADP	RP	_	27	compound:prt	_	start_char=175|end_char=178
+29	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	nmod:poss	_	start_char=179|end_char=182
+30	wealth	wealth	NOUN	NN	Number=Sing	27	obj	_	start_char=183|end_char=189
+31	.	.	PUNCT	.	_	25	punct	_	start_char=189|end_char=190
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=191|end_char=193
+2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=194|end_char=199
+3	quite	quite	ADV	RB	_	4	advmod	_	start_char=200|end_char=205
+4	paranoid	paranoid	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=206|end_char=214
+5	,	,	PUNCT	,	_	7	punct	_	start_char=214|end_char=215
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=216|end_char=219
+7	unaware	unaware	ADJ	JJ	Degree=Pos	2	conj	_	start_char=220|end_char=227
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=228|end_char=232
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=233|end_char=235
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=236|end_char=238
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=239|end_char=242
+12	problem	problem	NOUN	NN	Number=Sing	7	ccomp	_	start_char=243|end_char=250
+13	.	.	PUNCT	.	_	2	punct	_	start_char=250|end_char=251
+
+1	Maybe	maybe	ADV	RB	_	2	advmod	_	start_char=252|end_char=257
+2	suggest	suggest	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=258|end_char=265
+3	counselling	counselling	NOUN	NN	Number=Sing	2	obj	_	start_char=266|end_char=277
+4	?	?	PUNCT	.	_	2	punct	_	start_char=277|end_char=278
+

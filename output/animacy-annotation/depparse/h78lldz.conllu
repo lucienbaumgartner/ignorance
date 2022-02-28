@@ -1,0 +1,42 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=15
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=16|end_char=20
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=21|end_char=23
+7	real	real	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=24|end_char=28
+8	.	.	PUNCT	.	_	4	punct	_	start_char=28|end_char=29
+
+1	Someone	someone	PRON	NN	Number=Sing	6	nsubj	_	start_char=31|end_char=38
+2	cannot	cannot	AUX	MD	VerbForm=Fin	6	aux	_	start_char=39|end_char=45
+3	really	really	ADV	RB	_	6	advmod	_	start_char=46|end_char=52
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=53|end_char=55
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=56|end_char=60
+6	sheltered	shelter	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=70
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=71|end_char=74
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=75|end_char=83
+9	of	of	ADP	IN	_	10	case	_	start_char=84|end_char=86
+10	things	thing	NOUN	NNS	Number=Plur	6	obl	_	start_char=87|end_char=93
+11	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=94|end_char=98
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	start_char=99|end_char=103
+13	attend	attend	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=104|end_char=110
+14	school	school	NOUN	NN	Number=Sing	13	obj	_	start_char=111|end_char=117
+15	,	,	PUNCT	,	_	16	punct	_	start_char=117|end_char=118
+16	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	start_char=119|end_char=123
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=124|end_char=125
+18	job	job	NOUN	NN	Number=Sing	16	obj	_	start_char=126|end_char=129
+19	and	and	CCONJ	CC	_	21	cc	_	start_char=130|end_char=133
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=134|end_char=137
+21	able	able	ADJ	JJ	Degree=Pos	16	conj	_	start_char=138|end_char=142
+22	to	to	PART	TO	_	23	mark	_	start_char=143|end_char=145
+23	use	use	VERB	VB	VerbForm=Inf	21	xcomp	_	start_char=146|end_char=149
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=150|end_char=153
+25	internet	internet	NOUN	NN	Number=Sing	23	obj	_	start_char=154|end_char=162
+26	.	.	PUNCT	.	_	6	punct	_	start_char=162|end_char=163
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=165|end_char=169
+2	person	person	NOUN	NN	Number=Sing	4	nsubj	_	start_char=170|end_char=176
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=177|end_char=179
+4	trolling	trol	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=180|end_char=188
+5	.	.	PUNCT	.	_	4	punct	_	start_char=188|end_char=189
+

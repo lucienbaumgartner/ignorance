@@ -1,0 +1,41 @@
+1	There	there	PRON	EX	_	2	expl	_	start_char=0|end_char=5
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=6|end_char=9
+3	homeless	homeless	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=18
+4	people	people	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=19|end_char=25
+5	living	live	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=26|end_char=32
+6	on	on	ADP	IN	_	8	case	_	start_char=33|end_char=35
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=36|end_char=39
+8	beach	beach	NOUN	NN	Number=Sing	5	obl	_	start_char=40|end_char=45
+9	.	.	PUNCT	.	_	2	punct	_	start_char=45|end_char=46
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=47|end_char=48
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=48|end_char=50
+3	sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=56
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj:pass	_	start_char=57|end_char=60
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	start_char=61|end_char=64
+6	so	so	ADV	RB	_	7	advmod	_	start_char=65|end_char=67
+7	blinded	blind	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	_	start_char=68|end_char=75
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=76|end_char=79
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=80|end_char=88
+10	that	that	SCONJ	IN	_	14	mark	_	start_char=89|end_char=93
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=94|end_char=97
+12	ca	can	AUX	MD	VerbForm=Fin	14	aux	_	start_char=98|end_char=100
+13	n’t	not	PART	RB	Polarity=Neg	14	advmod	_	start_char=100|end_char=103
+14	see	see	VERB	VB	VerbForm=Inf	9	ccomp	_	start_char=104|end_char=107
+15	through	through	ADP	IN	_	17	case	_	start_char=108|end_char=115
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=116|end_char=119
+17	lies	lie	NOUN	NNS	Number=Plur	14	obl	_	start_char=120|end_char=124
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=125|end_char=128
+19	BS	bs	NOUN	NN	Number=Sing	17	conj	_	start_char=129|end_char=131
+20	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	21	nsubj	_	start_char=132|end_char=135
+21	spew	spew	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=136|end_char=140
+22	.	.	PUNCT	.	_	3	punct	_	start_char=141|end_char=142
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=143|end_char=145
+2	must	must	AUX	MD	VerbForm=Fin	3	aux	_	start_char=146|end_char=150
+3	suck	suck	VERB	VB	VerbForm=Inf	0	root	_	start_char=151|end_char=155
+4	to	to	PART	TO	_	6	mark	_	start_char=156|end_char=158
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=159|end_char=161
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	xcomp	_	start_char=162|end_char=165
+7	.	.	PUNCT	.	_	3	punct	_	start_char=166|end_char=167
+

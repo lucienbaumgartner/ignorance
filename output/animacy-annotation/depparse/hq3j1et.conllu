@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=2|end_char=4
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=5|end_char=8
+4	reaction	reaction	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=17
+5	from	from	ADP	IN	_	7	case	_	start_char=18|end_char=22
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=23|end_char=24
+7	kid	kid	NOUN	NN	Number=Sing	4	nmod	_	start_char=25|end_char=28
+8	(	(	PUNCT	-LRB-	_	11	punct	_	start_char=28|end_char=29
+9	or	or	CCONJ	CC	_	11	cc	_	start_char=29|end_char=31
+10	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	_	start_char=32|end_char=41
+11	adult	adult	NOUN	NN	Number=Sing	7	conj	_	start_char=42|end_char=47
+12	)	)	PUNCT	-RRB-	_	11	punct	_	start_char=47|end_char=48
+13	that	that	PRON	WDT	PronType=Rel	14	nsubj	_	start_char=49|end_char=53
+14	posts	post	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=54|end_char=59
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	amod	_	start_char=60|end_char=68
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=69|end_char=72
+17	racist	racist	ADJ	JJ	Degree=Pos	15	conj	_	start_char=73|end_char=79
+18	stuff	stuff	NOUN	NN	Number=Sing	14	obj	_	start_char=80|end_char=85
+19	on	on	ADP	IN	_	20	case	_	start_char=86|end_char=88
+20	Reddit	Reddit	PROPN	NNP	Number=Sing	18	nmod	_	start_char=89|end_char=95
+21	all	all	DET	DT	_	22	det	_	start_char=96|end_char=99
+22	day	day	NOUN	NN	Number=Sing	14	obl:tmod	_	start_char=100|end_char=103
+

@@ -1,0 +1,14 @@
+1	Yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=5|end_char=7
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=10
+4	satisfying	satisfying	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=21
+5	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=22|end_char=26
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=27|end_char=30
+7	catch	catch	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=31|end_char=36
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=37|end_char=39
+9	item	item	NOUN	NN	Number=Sing	7	obj	_	start_char=40|end_char=44
+10	unaware	unaware	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=45|end_char=52
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=53|end_char=56
+12	unshielded	unshielded	ADJ	JJ	Degree=Pos	10	conj	_	start_char=57|end_char=67
+13	!	!	PUNCT	.	_	4	punct	_	start_char=67|end_char=68
+

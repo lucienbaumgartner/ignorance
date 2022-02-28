@@ -1,0 +1,35 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=1|end_char=3
+3	all	all	ADV	RB	_	5	advmod	_	start_char=4|end_char=7
+4	for	for	ADP	IN	_	5	case	_	start_char=8|end_char=11
+5	WV	WV	PROPN	NNP	Number=Sing	0	root	_	start_char=12|end_char=14
+6	to	to	PART	TO	_	7	mark	_	start_char=15|end_char=17
+7	renounce	renounce	VERB	VB	VerbForm=Inf	5	advcl	_	start_char=18|end_char=26
+8	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=27|end_char=30
+9	crown	crown	NOUN	NN	Number=Sing	7	obj	_	start_char=31|end_char=36
+10	as	as	ADP	IN	_	11	case	_	start_char=37|end_char=39
+11	queen	queen	NOUN	NN	Number=Sing	7	obl	_	start_char=40|end_char=45
+12	of	of	ADP	IN	_	15	case	_	start_char=46|end_char=48
+13	all	all	DET	DT	_	15	det	_	start_char=49|end_char=52
+14	welfare	welfare	NOUN	NN	Number=Sing	15	compound	_	start_char=53|end_char=60
+15	states	state	NOUN	NNS	Number=Plur	11	nmod	_	start_char=61|end_char=67
+16	since	since	SCONJ	IN	_	20	mark	_	start_char=68|end_char=73
+17	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	start_char=74|end_char=78
+18	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=79|end_char=82
+19	so	so	ADV	RB	_	20	advmod	_	start_char=83|end_char=85
+20	morally	morally	ADV	RB	_	7	advcl	_	start_char=86|end_char=93
+21	against	against	ADP	IN	_	24	case	_	start_char=94|end_char=101
+22	free	free	ADJ	JJ	Degree=Pos	24	amod	_	start_char=102|end_char=106
+23	loading	loading	NOUN	NN	Number=Sing	24	compound	_	start_char=107|end_char=114
+24	communism	communism	NOUN	NN	Number=Sing	20	obl	_	start_char=115|end_char=124
+25	.	.	PUNCT	.	_	5	punct	_	start_char=124|end_char=125
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=126|end_char=128
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=128|end_char=130
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=131|end_char=139
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=140|end_char=143
+5	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	3	conj	_	start_char=144|end_char=156
+6	at	at	ADP	IN	_	7	case	_	start_char=157|end_char=159
+7	best	good	ADJ	JJS	Degree=Sup	3	obl	_	start_char=160|end_char=164
+8	.	.	PUNCT	.	_	3	punct	_	start_char=164|end_char=165
+

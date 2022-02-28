@@ -1,0 +1,8 @@
+1	Fat	fat	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=3|end_char=4
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=5|end_char=13
+4	,	,	PUNCT	,	_	6	punct	_	start_char=13|end_char=14
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=15|end_char=18
+6	angry	angry	ADJ	JJ	Degree=Pos	1	conj	_	start_char=19|end_char=24
+7	.	.	PUNCT	.	_	1	punct	_	start_char=24|end_char=25
+

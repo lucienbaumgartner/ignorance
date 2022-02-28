@@ -1,0 +1,24 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=4
+2	obviously	obviously	ADV	RB	_	3	advmod	_	start_char=5|end_char=14
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=15|end_char=19
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=20|end_char=21
+5	job	job	NOUN	NN	Number=Sing	3	obj	_	start_char=22|end_char=25
+6	if	if	SCONJ	IN	_	9	mark	_	start_char=26|end_char=28
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=29|end_char=33
+8	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=33|end_char=36
+9	buying	buy	VERB	VBG	Tense=Pres|VerbForm=Part	3	advcl	_	start_char=37|end_char=43
+10	crypto	crypto	NOUN	NN	Number=Sing	11	compound	_	start_char=44|end_char=50
+11	currency	currency	NOUN	NN	Number=Sing	9	obj	_	start_char=51|end_char=59
+12	.	.	PUNCT	.	_	3	punct	_	start_char=59|end_char=60
+
+1	What	what	DET	WDT	PronType=Int	2	det	_	start_char=61|end_char=65
+2	kind	kind	NOUN	NN	Number=Sing	9	nsubj	_	start_char=66|end_char=70
+3	of	of	ADP	IN	_	7	case	_	start_char=71|end_char=73
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	amod	_	start_char=74|end_char=82
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=83|end_char=86
+6	unnecessary	unnecessary	ADJ	JJ	Degree=Pos	4	conj	_	start_char=87|end_char=98
+7	post	post	NOUN	NN	Number=Sing	2	nmod	_	start_char=99|end_char=103
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=104|end_char=106
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=107|end_char=111
+10	?	?	PUNCT	.	_	9	punct	_	start_char=111|end_char=112
+

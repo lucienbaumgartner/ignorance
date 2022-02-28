@@ -1,0 +1,47 @@
+1	Insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=11
+2	AND	and	CCONJ	CC	_	3	cc	_	start_char=12|end_char=15
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=16|end_char=24
+4	.	.	PUNCT	.	_	1	punct	_	start_char=24|end_char=25
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=26|end_char=30
+2	poor	poor	ADJ	JJ	Degree=Pos	3	amod	_	start_char=31|end_char=35
+3	kid	kid	NOUN	NN	Number=Sing	5	nsubj	_	start_char=36|end_char=39
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=40|end_char=42
+5	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=43|end_char=48
+6	to	to	PART	TO	_	7	mark	_	start_char=49|end_char=51
+7	hate	hate	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=52|end_char=56
+8	life	life	NOUN	NN	Number=Sing	7	obj	_	start_char=57|end_char=61
+9	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	_	start_char=62|end_char=67
+10	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	start_char=68|end_char=72
+11	as	as	ADP	IN	_	13	case	_	start_char=73|end_char=75
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=76|end_char=77
+13	prop	prop	NOUN	NN	Number=Sing	10	obl	_	start_char=78|end_char=82
+14	for	for	ADP	IN	_	16	case	_	start_char=83|end_char=86
+15	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=87|end_char=90
+16	attention	attention	NOUN	NN	Number=Sing	13	nmod	_	start_char=91|end_char=100
+17	seeking	seek	VERB	VBG	VerbForm=Ger	16	acl	_	start_char=101|end_char=108
+18	mombie	mombie	NOUN	NN	Number=Sing	17	obj	_	start_char=109|end_char=115
+19	.	.	PUNCT	.	_	5	punct	_	start_char=115|end_char=116
+
+1	Who	who	PRON	WP	PronType=Int	17	nsubj	_	start_char=119|end_char=122
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=123|end_char=126
+3	hell	hell	NOUN	NN	Number=Sing	4	nsubj	_	start_char=127|end_char=131
+4	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=132|end_char=138
+5	bringing	bring	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=139|end_char=147
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=148|end_char=149
+7	germ	germ	NOUN	NN	Number=Sing	8	compound	_	start_char=150|end_char=154
+8	bomb	bomb	NOUN	NN	Number=Sing	5	obj	_	start_char=155|end_char=159
+9	to	to	ADP	IN	_	12	case	_	start_char=160|end_char=162
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=163|end_char=164
+11	cancer	cancer	NOUN	NN	Number=Sing	12	compound	_	start_char=165|end_char=171
+12	facility	facility	NOUN	NN	Number=Sing	5	obl	_	start_char=172|end_char=180
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=181|end_char=183
+14	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=184|end_char=185
+15	good	good	ADJ	JJ	Degree=Pos	17	amod	_	start_char=186|end_char=190
+16	fucking	fucking	NOUN	NN	Number=Sing	17	compound	_	start_char=191|end_char=198
+17	idea	idea	NOUN	NN	Number=Sing	0	root	_	start_char=199|end_char=203
+18	?	?	PUNCT	.	_	17	punct	_	start_char=203|end_char=204
+
+1	WTAF	WTAF	PROPN	NNP	Number=Sing	0	root	_	start_char=205|end_char=209
+2	!	!	PUNCT	.	_	1	punct	_	start_char=209|end_char=210
+

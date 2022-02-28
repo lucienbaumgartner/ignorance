@@ -1,0 +1,25 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=4|end_char=6
+3	good	good	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=11
+4	to	to	PART	TO	_	5	mark	_	start_char=12|end_char=14
+5	hear	hear	VERB	VB	VerbForm=Inf	3	csubj	_	start_char=15|end_char=19
+6	,	,	PUNCT	,	_	3	punct	_	start_char=19|end_char=20
+7	still	still	ADV	RB	_	10	advmod	_	start_char=21|end_char=26
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=27|end_char=28
+9	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=29|end_char=31
+10	confused	confused	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=32|end_char=40
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=41|end_char=44
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=45|end_char=53
+13	of	of	ADP	IN	_	16	case	_	start_char=54|end_char=56
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=57|end_char=60
+15	good	good	ADJ	JJ	Degree=Pos	16	amod	_	start_char=61|end_char=65
+16	sites	site	NOUN	NNS	Number=Plur	12	obl	_	start_char=66|end_char=71
+17	so	so	ADV	RB	_	23	mark	_	start_char=72|end_char=74
+18	if	if	SCONJ	IN	_	20	mark	_	start_char=75|end_char=77
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	start_char=78|end_char=81
+20	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	advcl	_	start_char=82|end_char=86
+21	suggestions	suggestion	NOUN	NNS	Number=Plur	20	obj	_	start_char=87|end_char=98
+22	please	please	INTJ	UH	_	23	discourse	_	start_char=99|end_char=105
+23	tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	start_char=106|end_char=110
+24	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	obj	_	start_char=111|end_char=113
+

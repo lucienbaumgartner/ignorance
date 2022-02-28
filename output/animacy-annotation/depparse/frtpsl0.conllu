@@ -1,0 +1,45 @@
+1	CarMax	CarMax	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=0|end_char=6
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=7|end_char=9
+3	in	in	ADP	IN	_	5	case	_	start_char=10|end_char=12
+4	better	good	ADJ	JJR	Degree=Cmp	5	amod	_	start_char=13|end_char=19
+5	shape	shape	NOUN	NN	Number=Sing	0	root	_	start_char=20|end_char=25
+6	then	then	ADV	RB	PronType=Dem	7	advmod	_	start_char=26|end_char=30
+7	Carvana	Carvana	PROPN	NNP	Number=Sing	5	appos	_	start_char=31|end_char=38
+8	regarding	regard	VERB	VBG	VerbForm=Ger	10	case	_	start_char=39|end_char=48
+9	cash	cash	NOUN	NN	Number=Sing	10	compound	_	start_char=49|end_char=53
+10	flow	flow	NOUN	NN	Number=Sing	7	nmod	_	start_char=54|end_char=58
+11	.	.	PUNCT	.	_	5	punct	_	start_char=58|end_char=59
+
+1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=60|end_char=65
+2	management	management	NOUN	NN	Number=Sing	4	nsubj	_	start_char=66|end_char=76
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=77|end_char=80
+4	adapted	adapt	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=81|end_char=88
+5	to	to	ADP	IN	_	7	case	_	start_char=89|end_char=91
+6	new	new	ADJ	JJ	Degree=Pos	7	amod	_	start_char=92|end_char=95
+7	reality	reality	NOUN	NN	Number=Sing	4	obl	_	start_char=96|end_char=103
+8	.	.	PUNCT	.	_	4	punct	_	start_char=103|end_char=104
+
+1	Carvana	Carvana	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=105|end_char=112
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=113|end_char=116
+3	n’t.	n’t.	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	start_char=116|end_char=120
+4	Carvana	Carvana	PROPN	NNP	Number=Sing	2	obj	_	start_char=123|end_char=130
+5	.	.	PUNCT	.	_	2	punct	_	start_char=130|end_char=131
+6	Ca	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=132|end_char=134
+7	n’t.	n’t.	PART	RB	_	9	advmod	_	start_char=134|end_char=138
+8	Stop.	Stop.	PROPN	NNP	Number=Sing	9	compound	_	start_char=139|end_char=144
+9	Spending	spending	NOUN	NN	Number=Sing	2	parataxis	_	start_char=145|end_char=153
+10	.	.	PUNCT	.	_	2	punct	_	start_char=153|end_char=154
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=156|end_char=160
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=161|end_char=164
+3	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=165|end_char=172
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=173|end_char=176
+5	clueless	clueless	ADJ	JJ	Degree=Pos	3	conj	_	start_char=177|end_char=185
+6	as	as	ADP	IN	_	9	case	_	start_char=186|end_char=188
+7	to	to	ADP	IN	_	6	fixed	_	start_char=189|end_char=191
+8	how	how	SCONJ	WRB	PronType=Int	9	mark	_	start_char=192|end_char=195
+9	screwed	screw	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	start_char=196|end_char=203
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=204|end_char=208
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=209|end_char=212
+12	.	.	PUNCT	.	_	3	punct	_	start_char=212|end_char=213
+

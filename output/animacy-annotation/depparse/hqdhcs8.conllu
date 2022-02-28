@@ -1,0 +1,36 @@
+1	Bersatu	Bersatu	PROPN	NNP	Number=Sing	2	compound	_	start_char=0|end_char=7
+2	ministers	minister	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=8|end_char=17
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=18|end_char=21
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=22|end_char=25
+5	worst	bad	ADJ	JJS	Degree=Sup	0	root	_	start_char=26|end_char=31
+6	in	in	ADP	IN	_	8	case	_	start_char=32|end_char=34
+7	any	any	DET	DT	_	8	det	_	start_char=35|end_char=38
+8	governments	government	NOUN	NNS	Number=Plur	5	obl	_	start_char=39|end_char=50
+9	.	.	PUNCT	.	_	5	punct	_	start_char=50|end_char=51
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=52|end_char=56
+2	prove	prove	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=57|end_char=62
+3	again	again	ADV	RB	_	2	advmod	_	start_char=63|end_char=68
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=69|end_char=72
+5	again	again	ADV	RB	_	8	advmod	_	start_char=73|end_char=78
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=79|end_char=83
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=84|end_char=87
+8	incompetent	incompetent	ADJ	JJ	Degree=Pos	2	conj	_	start_char=88|end_char=99
+9	,	,	PUNCT	,	_	10	punct	_	start_char=99|end_char=100
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=101|end_char=109
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=110|end_char=113
+12	arrogant	arrogant	ADJ	JJ	Degree=Pos	13	amod	_	start_char=114|end_char=122
+13	fools	fool	NOUN	NNS	Number=Plur	8	conj	_	start_char=123|end_char=128
+14	.	.	PUNCT	.	_	2	punct	_	start_char=128|end_char=129
+
+1	No	no	DET	DT	_	2	det	_	start_char=130|end_char=132
+2	wonder	wonder	NOUN	NN	Number=Sing	9	nsubj	_	start_char=133|end_char=139
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=140|end_char=143
+4	previous	previous	ADJ	JJ	Degree=Pos	6	amod	_	start_char=144|end_char=152
+5	PN	pn	NOUN	NN	Number=Sing	6	compound	_	start_char=153|end_char=155
+6	government	government	NOUN	NN	Number=Sing	9	nsubj	_	start_char=156|end_char=166
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=167|end_char=169
+8	so	so	ADV	RB	_	9	advmod	_	start_char=170|end_char=172
+9	shit	shit	ADJ	JJ	Degree=Pos	0	root	_	start_char=173|end_char=177
+10	.	.	PUNCT	.	_	2	punct	_	start_char=177|end_char=178
+

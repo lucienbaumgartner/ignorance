@@ -1,0 +1,43 @@
+1	China	China	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=0|end_char=5
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	start_char=6|end_char=9
+3	literally	literally	ADV	RB	_	6	advmod	_	start_char=10|end_char=19
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=20|end_char=23
+5	biggest	big	ADJ	JJS	Degree=Sup	6	amod	_	start_char=24|end_char=31
+6	supporter	supporter	NOUN	NN	Number=Sing	0	root	_	start_char=32|end_char=41
+7	of	of	ADP	IN	_	11	case	_	start_char=42|end_char=44
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=45|end_char=48
+9	previous	previous	ADJ	JJ	Degree=Pos	11	amod	_	start_char=49|end_char=57
+10	military	military	ADJ	JJ	Degree=Pos	11	amod	_	start_char=58|end_char=66
+11	junta	junta	NOUN	NN	Number=Sing	6	nmod	_	start_char=67|end_char=72
+12	before	before	SCONJ	IN	_	15	mark	_	start_char=73|end_char=79
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=80|end_char=83
+14	NLD	NLD	PROPN	NNP	Number=Sing	15	nsubj	_	start_char=84|end_char=87
+15	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	advcl	_	start_char=88|end_char=92
+16	over	over	ADP	RP	_	15	compound:prt	_	start_char=93|end_char=97
+17	.	.	PUNCT	.	_	6	punct	_	start_char=97|end_char=98
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=99|end_char=103
+2	junta	junta	NOUN	NN	Number=Sing	3	nsubj	_	start_char=104|end_char=109
+3	maintained	maintain	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=110|end_char=120
+4	stability	stability	NOUN	NN	Number=Sing	3	obj	_	start_char=121|end_char=130
+5	for	for	ADP	IN	_	6	case	_	start_char=131|end_char=134
+6	decades	decade	NOUN	NNS	Number=Plur	3	obl	_	start_char=135|end_char=142
+7	.	.	PUNCT	.	_	3	punct	_	start_char=142|end_char=143
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj:pass	_	start_char=144|end_char=147
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=147|end_char=150
+3	getting	get	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=151|end_char=158
+4	clowned	clown	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=159|end_char=166
+5	on	on	ADP	RP	_	4	compound:prt	_	start_char=167|end_char=169
+6	by	by	ADP	IN	_	7	case	_	start_char=170|end_char=172
+7	everybody	everybody	NOUN	NN	Number=Sing	4	obl	_	start_char=173|end_char=182
+8	because	because	SCONJ	IN	_	11	mark	_	start_char=183|end_char=190
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	start_char=191|end_char=194
+10	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=194|end_char=197
+11	wrong	wrong	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=198|end_char=203
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=204|end_char=207
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=208|end_char=216
+14	of	of	ADP	IN	_	15	case	_	start_char=217|end_char=219
+15	history	history	NOUN	NN	Number=Sing	13	obl	_	start_char=220|end_char=227
+16	.	.	PUNCT	.	_	4	punct	_	start_char=227|end_char=228
+

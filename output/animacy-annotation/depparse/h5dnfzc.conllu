@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=4
+3	n't	not	PART	RB	_	5	advmod	_	start_char=4|end_char=7
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=8|end_char=11
+5	fricking	frick	VERB	VBG	VerbForm=Ger	20	csubj	_	start_char=12|end_char=20
+6	blind	blind	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=21|end_char=26
+7	,	,	PUNCT	,	_	8	punct	_	start_char=26|end_char=27
+8	careless	careless	ADJ	JJ	Degree=Pos	6	conj	_	start_char=28|end_char=36
+9	,	,	PUNCT	,	_	20	punct	_	start_char=36|end_char=37
+10	and	and	CCONJ	CC	_	20	cc	_	start_char=38|end_char=41
+11	unaware	unaware	ADJ	JJ	Degree=Pos	20	nsubj	_	start_char=42|end_char=49
+12	of	of	ADP	IN	_	16	case	_	start_char=50|end_char=52
+13	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=53|end_char=58
+14	surrounding	surround	VERB	VBG	VerbForm=Ger	16	amod	_	start_char=59|end_char=70
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=71|end_char=72
+16	person	person	NOUN	NN	Number=Sing	11	obl	_	start_char=73|end_char=79
+17	should	should	AUX	MD	VerbForm=Fin	20	aux	_	start_char=80|end_char=86
+18	be	be	AUX	VB	VerbForm=Inf	20	aux	_	start_char=87|end_char=89
+19	not	not	PART	RB	_	20	advmod	_	start_char=90|end_char=93
+20	notice	notice	VERB	VB	VerbForm=Inf	2	conj	_	start_char=94|end_char=100
+21	that	that	PRON	DT	Number=Sing|PronType=Dem	20	obj	_	start_char=101|end_char=105
+22	honestly	honestly	ADV	RB	_	20	advmod	_	start_char=106|end_char=114
+23	.	.	PUNCT	.	_	2	punct	_	start_char=114|end_char=115
+

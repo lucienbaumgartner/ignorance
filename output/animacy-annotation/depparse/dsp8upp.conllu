@@ -1,0 +1,29 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=7
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=13|end_char=14
+5	history	history	NOUN	NN	Number=Sing	3	obj	_	start_char=15|end_char=22
+6	,	,	PUNCT	,	_	3	punct	_	start_char=22|end_char=23
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=24|end_char=27
+8	issue	issue	NOUN	NN	Number=Sing	12	nsubj	_	start_char=28|end_char=33
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=34|end_char=36
+10	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=37|end_char=41
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=42|end_char=44
+12	have	have	VERB	VB	VerbForm=Inf	3	parataxis	_	start_char=45|end_char=49
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=50|end_char=51
+14	present	present	NOUN	NN	Number=Sing	12	obj	_	start_char=52|end_char=59
+15	.	.	PUNCT	.	_	3	punct	_	start_char=59|end_char=60
+
+1	Dismissing	dismiss	VERB	VBG	VerbForm=Ger	6	csubj	_	start_char=61|end_char=71
+2	all	all	DET	DT	_	3	det	_	start_char=72|end_char=75
+3	discussion	discussion	NOUN	NN	Number=Sing	1	obj	_	start_char=76|end_char=86
+4	otherwise	otherwise	ADV	RB	_	6	advmod	_	start_char=87|end_char=96
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=97|end_char=99
+6	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=100|end_char=104
+7	,	,	PUNCT	,	_	8	punct	_	start_char=104|end_char=105
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=106|end_char=113
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=114|end_char=117
+10	intentionally	intentionally	ADV	RB	_	11	advmod	_	start_char=118|end_char=131
+11	thick	thick	ADJ	JJ	Degree=Pos	6	conj	_	start_char=132|end_char=137
+12	.	.	PUNCT	.	_	6	punct	_	start_char=137|end_char=138
+

@@ -1,0 +1,27 @@
+1	Internet	internet	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=8
+2	atheists	atheist	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=9|end_char=17
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=18|end_char=21
+4	like	like	ADP	IN	_	7	case	_	start_char=22|end_char=26
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=27|end_char=30
+6	worst	bad	ADJ	JJS	Degree=Sup	7	amod	_	start_char=31|end_char=36
+7	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=37|end_char=43
+8	to	to	PART	TO	_	9	mark	_	start_char=44|end_char=46
+9	make	make	VERB	VB	VerbForm=Inf	7	acl	_	start_char=47|end_char=51
+10	memes	meme	NOUN	NNS	Number=Plur	9	obj	_	start_char=52|end_char=57
+11	.	.	PUNCT	.	_	7	punct	_	start_char=57|end_char=58
+
+1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	start_char=59|end_char=63
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=64|end_char=66
+3	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=67|end_char=72
+4	to	to	ADP	IN	_	5	case	_	start_char=73|end_char=75
+5	religion	religion	NOUN	NN	Number=Sing	3	obl	_	start_char=76|end_char=84
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=85|end_char=89
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=90|end_char=93
+8	always	always	ADV	RB	_	11	advmod	_	start_char=94|end_char=100
+9	so	so	ADV	RB	_	10	advmod	_	start_char=101|end_char=103
+10	self	self	ADV	RB	Degree=Pos	11	advmod	_	start_char=104|end_char=108
+11	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=109|end_char=116
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=117|end_char=120
+13	bitter	bitter	ADJ	JJ	Degree=Pos	11	conj	_	start_char=121|end_char=127
+14	.	.	PUNCT	.	_	11	punct	_	start_char=127|end_char=128
+

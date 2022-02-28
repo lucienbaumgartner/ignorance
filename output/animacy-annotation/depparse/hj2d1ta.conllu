@@ -1,0 +1,54 @@
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=3|end_char=7
+3	to	to	PART	TO	_	4	mark	_	start_char=8|end_char=10
+4	stop	stop	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=11|end_char=15
+5	being	be	AUX	VBG	VerbForm=Ger	6	cop	_	start_char=16|end_char=21
+6	complacent	complacent	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=22|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	of	of	ADP	IN	_	13	case	_	start_char=46|end_char=48
+10	video	video	NOUN	NN	Number=Sing	13	compound	_	start_char=49|end_char=54
+11	game	game	NOUN	NN	Number=Sing	12	compound	_	start_char=55|end_char=59
+12	companies	company	NOUN	NNS	Number=Plur	13	compound	_	start_char=60|end_char=69
+13	man	man	NOUN	NN	Number=Sing	8	obl	_	start_char=70|end_char=73
+14	.	.	PUNCT	.	_	2	punct	_	start_char=73|end_char=74
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=75|end_char=78
+2	not	not	ADV	RB	_	3	advmod	_	start_char=79|end_char=82
+3	worth	worth	ADJ	JJ	Degree=Pos	0	root	_	start_char=83|end_char=88
+4	60	60	NUM	CD	NumType=Card	5	nummod	_	start_char=89|end_char=91
+5	bucks	buck	NOUN	NNS	Number=Plur	3	obj	_	start_char=92|end_char=97
+6	.	.	PUNCT	.	_	3	punct	_	start_char=97|end_char=98
+
+1	Point	point	NOUN	NN	Number=Sing	2	compound	_	start_char=99|end_char=104
+2	blank	blank	NOUN	NN	Number=Sing	0	root	_	start_char=105|end_char=110
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=111|end_char=113
+2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=114|end_char=119
+3	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part	2	xcomp	_	start_char=120|end_char=125
+4	and	and	CCONJ	CC	_	8	cc	_	start_char=126|end_char=129
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=130|end_char=132
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=133|end_char=136
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=137|end_char=140
+8	reason	reason	NOUN	NN	Number=Sing	2	conj	_	start_char=141|end_char=147
+9	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nsubj:pass	_	start_char=148|end_char=151
+10	not	not	ADV	RB	_	12	advmod	_	start_char=152|end_char=155
+11	getting	get	AUX	VBG	VerbForm=Ger	12	aux:pass	_	start_char=156|end_char=163
+12	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl:relcl	_	start_char=164|end_char=169
+13	.	.	PUNCT	.	_	2	punct	_	start_char=169|end_char=170
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=171|end_char=175
+2	only	only	ADV	RB	_	3	advmod	_	start_char=176|end_char=180
+3	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=181|end_char=184
+4	away	away	ADV	RB	_	3	advmod	_	start_char=185|end_char=189
+5	with	with	SCONJ	IN	_	6	case	_	start_char=190|end_char=194
+6	what	what	PRON	WP	PronType=Int	3	obl	_	start_char=195|end_char=199
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=200|end_char=202
+8	let	let	VERB	VBD	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=203|end_char=206
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=207|end_char=211
+10	.	.	PUNCT	.	_	3	punct	_	start_char=211|end_char=212
+
+1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=213|end_char=216
+2	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=217|end_char=220
+3	.	.	PUNCT	.	_	2	punct	_	start_char=220|end_char=221
+

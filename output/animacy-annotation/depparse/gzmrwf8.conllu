@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	unbelievable	unbelievable	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=16
+3	part	part	NOUN	NN	Number=Sing	4	nsubj	_	start_char=17|end_char=21
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=22|end_char=24
+5	that	that	SCONJ	IN	_	13	mark	_	start_char=25|end_char=29
+6	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=30|end_char=33
+7	willfully	willfully	ADV	RB	_	8	advmod	_	start_char=34|end_char=43
+8	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=44|end_char=51
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=52|end_char=55
+10	compliant	compliant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=56|end_char=65
+11	party	party	NOUN	NN	Number=Sing	12	compound	_	start_char=66|end_char=71
+12	faithful	faithful	NOUN	NN	Number=Sing	13	nsubj	_	start_char=72|end_char=80
+13	turned	turn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=81|end_char=87
+14	on	on	ADP	IN	_	15	case	_	start_char=88|end_char=90
+15	Assange	Assange	PROPN	NNP	Number=Sing	13	obl	_	start_char=91|end_char=98
+16	instead	instead	ADV	RB	_	13	advmod	_	start_char=99|end_char=106
+17	tar	tar	PUNCT	,	_	19	punct	_	start_char=107|end_char=110
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=111|end_char=114
+19	feathering	feathering	VERB	VBG	VerbForm=Ger	13	conj	_	start_char=115|end_char=125
+20	these	this	DET	DT	Number=Plur|PronType=Dem	21	det	_	start_char=126|end_char=131
+21	creeps	creep	NOUN	NNS	Number=Plur	19	obj	_	start_char=132|end_char=138
+22	.	.	PUNCT	.	_	4	punct	_	start_char=138|end_char=139
+

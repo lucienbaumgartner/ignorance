@@ -1,0 +1,29 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	As	as	SCONJ	IN	_	6	mark	_	start_char=5|end_char=7
+2	if	if	SCONJ	IN	_	6	mark	_	start_char=8|end_char=10
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=11|end_char=15
+4	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=15|end_char=18
+5	just	just	ADV	RB	_	6	advmod	_	start_char=19|end_char=23
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=31
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=32|end_char=35
+8	too	too	ADV	RB	_	9	advmod	_	start_char=36|end_char=39
+9	stubborn	stubborn	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=48
+10	.	.	PUNCT	.	_	6	punct	_	start_char=48|end_char=49
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=52|end_char=56
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=57|end_char=59
+3	ignorance	ignorance	NOUN	NN	Number=Sing	0	root	_	start_char=60|end_char=69
+4	.	.	PUNCT	.	_	3	punct	_	start_char=69|end_char=70
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=71|end_char=74
+2	word	word	NOUN	NN	Number=Sing	8	nsubj	_	start_char=75|end_char=79
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=80|end_char=83
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=84|end_char=87
+5	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	2	acl:relcl	_	start_char=88|end_char=95
+6	for	for	ADP	IN	_	5	obl	_	start_char=96|end_char=99
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=100|end_char=102
+8	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=103|end_char=111
+9	.	.	PUNCT	.	_	8	punct	_	start_char=111|end_char=112
+

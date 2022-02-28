@@ -1,0 +1,25 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=0|end_char=3
+2	ol’	ol’	ADJ	JJ	Degree=Pos	3	amod	_	start_char=4|end_char=7
+3	US	US	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=8|end_char=10
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=11|end_char=14
+5	A	A	PROPN	NNP	Number=Sing	3	conj	_	start_char=15|end_char=16
+6	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=17|end_char=20
+7	nothing	nothing	PRON	NN	Number=Sing	6	obj	_	start_char=21|end_char=28
+8	like	like	ADP	IN	_	11	case	_	start_char=29|end_char=33
+9	Germany	Germany	PROPN	NNP	Number=Sing	11	nmod:poss	_	start_char=34|end_char=41
+10	’s	's	PART	POS	_	9	case	_	start_char=41|end_char=43
+11	laws	law	NOUN	NNS	Number=Plur	7	nmod	_	start_char=44|end_char=48
+12	.	.	PUNCT	.	_	6	punct	_	start_char=48|end_char=49
+
+1	lol	lol	INTJ	UH	_	0	root	_	start_char=50|end_char=53
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=54|end_char=56
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=57|end_char=60
+3	free	free	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=65
+4	to	to	PART	TO	_	5	mark	_	start_char=66|end_char=68
+5	die	die	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=69|end_char=72
+6	unaware	unaware	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=73|end_char=80
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=81|end_char=84
+8	uninformed	uninformed	ADJ	JJ	Degree=Pos	6	conj	_	start_char=85|end_char=95
+9	.	.	PUNCT	.	_	3	punct	_	start_char=95|end_char=96
+

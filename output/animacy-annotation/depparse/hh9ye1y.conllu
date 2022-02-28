@@ -1,0 +1,33 @@
+1	To	to	PART	TO	_	3	mark	_	start_char=0|end_char=2
+2	be	be	AUX	VB	VerbForm=Inf	3	cop	_	start_char=3|end_char=5
+3	fair	fair	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=6|end_char=10
+4	,	,	PUNCT	,	_	11	punct	_	start_char=10|end_char=11
+5	tons	ton	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=12|end_char=16
+6	of	of	ADP	IN	_	9	case	_	start_char=17|end_char=19
+7	leg	leg	NOUN	NN	Number=Sing	9	compound	_	start_char=20|end_char=23
+8	breaking	breaking	NOUN	NN	Number=Sing	9	compound	_	start_char=24|end_char=32
+9	tackles	tackles	NOUN	NNS	Number=Plur	5	nmod	_	start_char=33|end_char=40
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=41|end_char=44
+11	unintentional	unintentional	ADJ	JJ	Degree=Pos	0	root	_	start_char=45|end_char=58
+12	.	.	PUNCT	.	_	11	punct	_	start_char=58|end_char=59
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=60|end_char=62
+2	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=63|end_char=70
+3	cause	cause	SCONJ	IN	_	6	mark	_	start_char=71|end_char=76
+4	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=77|end_char=83
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=84|end_char=87
+6	reckless	reckless	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=88|end_char=96
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=97|end_char=100
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=101|end_char=108
+9	of	of	ADP	IN	_	11	case	_	start_char=109|end_char=111
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=112|end_char=117
+11	surroundings	surroundings	NOUN	NNS	Number=Plur	8	obl	_	start_char=118|end_char=130
+12	,	,	PUNCT	,	_	16	punct	_	start_char=130|end_char=131
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=132|end_char=135
+14	therefore	therefore	ADV	RB	_	16	advmod	_	start_char=136|end_char=145
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=146|end_char=150
+16	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	start_char=151|end_char=158
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=159|end_char=162
+18	punishment	punishment	NOUN	NN	Number=Sing	16	obj	_	start_char=163|end_char=173
+19	.	.	PUNCT	.	_	2	punct	_	start_char=173|end_char=174
+

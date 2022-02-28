@@ -1,0 +1,12 @@
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	comment	comment	NOUN	NN	Number=Sing	5	nsubj	_	start_char=5|end_char=12
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=13|end_char=15
+4	so	so	ADV	RB	_	5	advmod	_	start_char=16|end_char=18
+5	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=19|end_char=29
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=30|end_char=33
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=34|end_char=42
+8	that	that	SCONJ	IN	_	10	mark	_	start_char=43|end_char=47
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=48|end_char=50
+10	hurts	hurt	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=51|end_char=56
+11	.	.	PUNCT	.	_	5	punct	_	start_char=56|end_char=57
+

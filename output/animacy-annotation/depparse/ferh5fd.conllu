@@ -1,0 +1,33 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	brainwashed	brainwash	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=17|end_char=28
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=29|end_char=32
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=33|end_char=41
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=42|end_char=46
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=47|end_char=50
+9	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=51|end_char=54
+10	freedom	freedom	NOUN	NN	Number=Sing	9	obj	_	start_char=55|end_char=62
+11	of	of	ADP	IN	_	12	case	_	start_char=63|end_char=65
+12	speech	speech	NOUN	NN	Number=Sing	10	nmod	_	start_char=66|end_char=72
+13	to	to	PART	TO	_	14	mark	_	start_char=73|end_char=75
+14	defend	defend	VERB	VB	VerbForm=Inf	9	advcl	_	start_char=76|end_char=82
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=83|end_char=84
+16	government	government	NOUN	NN	Number=Sing	14	obj	_	start_char=85|end_char=95
+17	that	that	PRON	WDT	PronType=Rel	18	nsubj	_	start_char=96|end_char=100
+18	fears	fear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=101|end_char=106
+19	to	to	PART	TO	_	20	mark	_	start_char=107|end_char=109
+20	give	give	VERB	VB	VerbForm=Inf	18	xcomp	_	start_char=110|end_char=114
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nmod:poss	_	start_char=115|end_char=117
+22	's	's	PART	POS	_	21	case	_	start_char=117|end_char=119
+23	citizens	citizen	NOUN	NNS	Number=Plur	20	iobj	_	start_char=120|end_char=128
+24	freedom	freedom	NOUN	NN	Number=Sing	20	obj	_	start_char=129|end_char=136
+25	of	of	ADP	IN	_	26	case	_	start_char=137|end_char=139
+26	speech	speech	NOUN	NN	Number=Sing	24	nmod	_	start_char=140|end_char=146
+27	.	.	PUNCT	.	_	1	punct	_	start_char=146|end_char=147
+
+1	What	what	PRON	WP	PronType=Int	3	det:predet	_	start_char=149|end_char=153
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=154|end_char=155
+3	joke	joke	NOUN	NN	Number=Sing	0	root	_	start_char=156|end_char=160
+4	.	.	PUNCT	.	_	3	punct	_	start_char=160|end_char=161
+

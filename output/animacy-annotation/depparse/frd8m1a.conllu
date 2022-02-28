@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	looking	look	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=7|end_char=14
+4	for	for	ADP	IN	_	5	case	_	start_char=15|end_char=18
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	start_char=19|end_char=23
+6	because	because	SCONJ	IN	_	10	mark	_	start_char=24|end_char=31
+7	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=32|end_char=33
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	start_char=34|end_char=37
+9	very	very	ADV	RB	_	10	advmod	_	start_char=38|end_char=42
+10	confused	confused	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=43|end_char=51
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=52|end_char=55
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=56|end_char=63
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=64|end_char=68
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	start_char=69|end_char=72
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=73|end_char=76
+16	norm	norm	NOUN	NN	Number=Sing	12	ccomp	_	start_char=77|end_char=81
+17	in	in	ADP	IN	_	18	case	_	start_char=82|end_char=84
+18	Japan	Japan	PROPN	NNP	Number=Sing	16	nmod	_	start_char=85|end_char=90
+19	,	,	PUNCT	,	_	20	punct	_	start_char=90|end_char=91
+20	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	start_char=92|end_char=97
+21	sense	sense	NOUN	NN	Number=Sing	20	obj	_	start_char=98|end_char=103
+22	,	,	PUNCT	,	_	23	punct	_	start_char=103|end_char=104
+23	ty	ty	NOUN	NN	Number=Sing	20	obj	_	start_char=105|end_char=107
+

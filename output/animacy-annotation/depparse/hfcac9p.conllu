@@ -1,0 +1,36 @@
+1	But	but	CCONJ	CC	_	7	cc	_	start_char=0|end_char=3
+2	in	in	ADP	IN	_	4	case	_	start_char=4|end_char=6
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=7|end_char=11
+4	case	case	NOUN	NN	Number=Sing	7	obl	_	start_char=12|end_char=16
+5	,	,	PUNCT	,	_	7	punct	_	start_char=16|end_char=17
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=18|end_char=20
+7	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+8	that	that	SCONJ	IN	_	15	mark	_	start_char=26|end_char=30
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	start_char=31|end_char=36
+10	religions	religion	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=37|end_char=46
+11	or	or	CCONJ	CC	_	12	cc	_	start_char=47|end_char=49
+12	faith	faith	NOUN	NN	Number=Sing	10	conj	_	start_char=50|end_char=55
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=56|end_char=58
+14	either	either	CCONJ	CC	_	15	cc:preconj	_	start_char=59|end_char=65
+15	man	man	NOUN	NN	Number=Sing	7	ccomp	_	start_char=66|end_char=69
+16	made	make	VERB	VBN	Tense=Past|VerbForm=Part	15	acl	_	start_char=70|end_char=74
+17	or	or	CCONJ	CC	_	20	cc	_	start_char=75|end_char=77
+18	of	of	ADP	IN	_	20	case	_	start_char=78|end_char=80
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=81|end_char=84
+20	devil	devil	NOUN	NN	Number=Sing	15	conj	_	start_char=85|end_char=90
+21	.	.	PUNCT	.	_	7	punct	_	start_char=90|end_char=91
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=92|end_char=96
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=96|end_char=98
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=99|end_char=104
+4	rude	rude	ADJ	JJ	Degree=Pos	0	root	_	start_char=105|end_char=109
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=110|end_char=113
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=114|end_char=122
+7	.	.	PUNCT	.	_	4	punct	_	start_char=122|end_char=123
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=124|end_char=128
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=129|end_char=131
+3	very	very	ADV	RB	_	4	advmod	_	start_char=132|end_char=136
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=137|end_char=142
+5	.	.	PUNCT	.	_	4	punct	_	start_char=142|end_char=143
+

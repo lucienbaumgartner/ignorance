@@ -1,0 +1,34 @@
+1	Gomez	Gomez	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=6|end_char=8
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=9|end_char=10
+4	Spanish	Spanish	ADJ	JJ	Degree=Pos	5	amod	_	start_char=11|end_char=18
+5	name	name	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=23
+6	.	.	PUNCT	.	_	5	punct	_	start_char=23|end_char=24
+
+1	Spain	Spain	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=25|end_char=30
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=31|end_char=33
+3	part	part	NOUN	NN	Number=Sing	0	root	_	start_char=34|end_char=38
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=39|end_char=41
+5	Europe	Europe	PROPN	NNP	Number=Sing	3	conj	_	start_char=42|end_char=48
+6	.	.	PUNCT	.	_	3	punct	_	start_char=48|end_char=49
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=50|end_char=53
+2	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=60
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=61|end_char=64
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=65|end_char=73
+5	of	of	ADP	IN	_	6	case	_	start_char=74|end_char=76
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obl	_	start_char=77|end_char=80
+7	,	,	PUNCT	,	_	9	punct	_	start_char=80|end_char=81
+8	to	to	PART	TO	_	9	mark	_	start_char=82|end_char=84
+9	say	say	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=85|end_char=88
+10	that	that	SCONJ	IN	_	17	mark	_	start_char=89|end_char=93
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=94|end_char=95
+12	white	white	ADJ	JJ	Degree=Pos	13	amod	_	start_char=96|end_char=101
+13	person	person	NOUN	NN	Number=Sing	17	nsubj:pass	_	start_char=102|end_char=108
+14	can	can	AUX	MD	VerbForm=Fin	17	aux	_	start_char=109|end_char=112
+15	not	not	PART	RB	_	17	advmod	_	start_char=113|end_char=116
+16	be	be	AUX	VB	VerbForm=Inf	17	aux:pass	_	start_char=117|end_char=119
+17	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	ccomp	_	start_char=120|end_char=126
+18	Gomez	Gomez	PROPN	NNP	Number=Sing	17	xcomp	_	start_char=127|end_char=132
+19	.	.	PUNCT	.	_	2	punct	_	start_char=132|end_char=133
+

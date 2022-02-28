@@ -1,0 +1,34 @@
+1	And	and	CCONJ	CC	_	5	cc	_	start_char=0|end_char=3
+2	yet	yet	CCONJ	CC	_	5	cc	_	start_char=4|end_char=7
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+4	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=11|end_char=14
+5	taken	take	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=15|end_char=20
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=21|end_char=24
+7	time	time	NOUN	NN	Number=Sing	5	obj	_	start_char=25|end_char=29
+8	to	to	PART	TO	_	9	mark	_	start_char=30|end_char=32
+9	comment	comment	VERB	VB	VerbForm=Inf	7	acl	_	start_char=33|end_char=40
+10	on	on	ADP	IN	_	11	case	_	start_char=41|end_char=43
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	start_char=44|end_char=46
+12	.	.	PUNCT	.	_	5	punct	_	start_char=46|end_char=47
+
+1	Okay	okay	INTJ	UH	_	9	discourse	_	start_char=48|end_char=52
+2	,	,	PUNCT	,	_	9	punct	_	start_char=52|end_char=53
+3	on	on	ADP	IN	_	5	case	_	start_char=54|end_char=56
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	start_char=57|end_char=61
+5	occasion	occasion	NOUN	NN	Number=Sing	9	obl	_	start_char=62|end_char=70
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=71|end_char=74
+7	person	person	NOUN	NN	Number=Sing	9	nsubj	_	start_char=75|end_char=81
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=82|end_char=85
+9	clumsy	clumsy	ADJ	JJ	Degree=Pos	0	root	_	start_char=86|end_char=92
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=93|end_char=96
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=97|end_char=105
+12	,	,	PUNCT	,	_	16	punct	_	start_char=105|end_char=106
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	16	nsubj	_	start_char=107|end_char=111
+14	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=112|end_char=116
+15	n’t	not	PART	RB	Polarity=Neg	16	advmod	_	start_char=116|end_char=119
+16	mean	mean	VERB	VB	VerbForm=Inf	9	parataxis	_	start_char=120|end_char=124
+17	nobody	nobody	NOUN	NN	Number=Sing	19	nsubj	_	start_char=125|end_char=131
+18	should	should	AUX	MD	VerbForm=Fin	19	aux	_	start_char=132|end_char=138
+19	care	care	VERB	VB	VerbForm=Inf	16	ccomp	_	start_char=139|end_char=143
+20	.	.	PUNCT	.	_	9	punct	_	start_char=143|end_char=144
+

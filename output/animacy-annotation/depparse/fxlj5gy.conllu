@@ -1,0 +1,12 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=7|end_char=10
+4	realize	realize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=11|end_char=18
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=19|end_char=22
+6	offensive	offensive	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=23|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=45
+9	that	that	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=46|end_char=50
+10	comment	comment	NOUN	NN	Number=Sing	11	nsubj	_	start_char=51|end_char=58
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=59|end_char=61
+

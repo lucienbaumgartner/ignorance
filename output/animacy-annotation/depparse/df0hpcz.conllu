@@ -1,0 +1,22 @@
+1	Pedosta	Pedosta	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=0|end_char=7
+2	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=8|end_char=13
+3	for	for	ADP	IN	_	4	case	_	start_char=14|end_char=17
+4	WaPo	WaPo	PROPN	NNP	Number=Sing	2	obl	_	start_char=18|end_char=22
+5	now	now	ADV	RB	_	2	advmod	_	start_char=23|end_char=26
+6	so	so	ADV	RB	_	11	advmod	_	start_char=27|end_char=29
+7	yeah	yeah	INTJ	UH	_	11	discourse	_	start_char=30|end_char=34
+8	,	,	PUNCT	,	_	11	punct	_	start_char=34|end_char=35
+9	more	more	ADV	RBR	_	10	advmod	_	start_char=36|end_char=40
+10	fake	fake	ADJ	JJ	Degree=Pos	11	amod	_	start_char=41|end_char=45
+11	garbage	garbage	NOUN	NN	Number=Sing	2	parataxis	_	start_char=46|end_char=53
+12	to	to	PART	TO	_	13	mark	_	start_char=54|end_char=56
+13	come	come	VERB	VB	VerbForm=Inf	11	acl	_	start_char=57|end_char=61
+14	to	to	PART	TO	_	15	mark	_	start_char=62|end_char=64
+15	try	try	VERB	VB	VerbForm=Inf	13	xcomp	_	start_char=65|end_char=68
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=69|end_char=72
+17	keep	keep	VERB	VB	VerbForm=Inf	13	conj	_	start_char=73|end_char=77
+18	people	people	NOUN	NNS	Number=Plur	17	obj	_	start_char=78|end_char=84
+19	unaware	unaware	ADJ	JJ	Degree=Pos	17	xcomp	_	start_char=85|end_char=92
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=93|end_char=96
+21	compliant	compliant	ADJ	JJ	Degree=Pos	19	conj	_	start_char=97|end_char=106
+

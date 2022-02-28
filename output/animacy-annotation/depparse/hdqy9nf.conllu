@@ -1,0 +1,85 @@
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=0|end_char=4
+2	idiot	idiot	NOUN	NN	Number=Sing	10	nsubj	_	start_char=5|end_char=10
+3	talking	talk	VERB	VBG	VerbForm=Ger	2	acl	_	start_char=11|end_char=18
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=19|end_char=22
+5	entire	entire	ADJ	JJ	Degree=Pos	6	amod	_	start_char=23|end_char=29
+6	time	time	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=30|end_char=34
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	start_char=35|end_char=37
+8	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=37|end_char=39
+9	so	so	ADV	RB	_	10	advmod	_	start_char=40|end_char=42
+10	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=43|end_char=49
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=50|end_char=53
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=54|end_char=62
+13	that	that	SCONJ	IN	_	15	mark	_	start_char=63|end_char=67
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=68|end_char=70
+15	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	start_char=71|end_char=76
+16	like	like	SCONJ	IN	_	20	mark	_	start_char=77|end_char=81
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	20	nsubj	_	start_char=82|end_char=86
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=87|end_char=89
+19	completely	completely	ADV	RB	_	20	advmod	_	start_char=90|end_char=100
+20	fake	fake	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=101|end_char=105
+21	.	.	PUNCT	.	_	10	punct	_	start_char=105|end_char=106
+
+1	“	''	PUNCT	``	_	5	punct	_	start_char=108|end_char=109
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	start_char=109|end_char=113
+3	never	never	ADV	RB	_	5	advmod	_	start_char=114|end_char=119
+4	gonna	go	AUX	MD	VerbForm=Fin	5	aux	_	start_char=120|end_char=125
+5	catch	catch	VERB	VB	VerbForm=Inf	0	root	_	start_char=126|end_char=131
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obj	_	start_char=132|end_char=134
+7	.	.	PUNCT	.	_	5	punct	_	start_char=134|end_char=135
+8	”	''	PUNCT	''	_	5	punct	_	start_char=135|end_char=136
+
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=138|end_char=140
+2	?	?	PUNCT	.	_	1	punct	_	start_char=140|end_char=141
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=143|end_char=146
+2	’ve	have	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=146|end_char=149
+3	never	never	ADV	RB	_	4	advmod	_	start_char=150|end_char=155
+4	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=156|end_char=160
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=161|end_char=162
+6	television	television	NOUN	NN	Number=Sing	4	obj	_	start_char=163|end_char=173
+7	?	?	PUNCT	.	_	4	punct	_	start_char=173|end_char=174
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=176|end_char=180
+2	catch	catch	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=181|end_char=186
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=187|end_char=193
+4	all	all	DET	DT	_	5	det	_	start_char=194|end_char=197
+5	day	day	NOUN	NN	Number=Sing	2	obl:tmod	_	start_char=198|end_char=201
+6	.	.	PUNCT	.	_	2	punct	_	start_char=201|end_char=202
+
+1	“	''	PUNCT	``	_	2	punct	_	start_char=204|end_char=205
+2	Give	give	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=205|end_char=209
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=210|end_char=214
+4	hos	have	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=215|end_char=218
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=219|end_char=220
+6	run	run	NOUN	NN	Number=Sing	4	obj	_	start_char=221|end_char=224
+7	for	for	ADP	IN	_	9	case	_	start_char=225|end_char=228
+8	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=229|end_char=234
+9	money	money	NOUN	NN	Number=Sing	6	nmod	_	start_char=235|end_char=240
+10	…	…	PUNCT	:	_	2	punct	_	start_char=240|end_char=241
+11	”	''	PUNCT	''	_	2	punct	_	start_char=241|end_char=242
+
+1	HUH	huh	INTJ	UH	_	0	root	_	start_char=243|end_char=246
+2	?	?	PUNCT	.	_	1	punct	_	start_char=246|end_char=247
+
+1	Oh	oh	INTJ	UH	_	7	discourse	_	start_char=249|end_char=251
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=252|end_char=255
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=256|end_char=258
+4	favorite	favorite	NOUN	NN	Number=Sing	7	nsubj	_	start_char=259|end_char=267
+5	“	''	PUNCT	``	_	7	punct	_	start_char=268|end_char=269
+6	there	there	PRON	EX	_	7	expl	_	start_char=269|end_char=274
+7	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=274|end_char=276
+8	like	like	INTJ	UH	_	7	discourse	_	start_char=277|end_char=281
+9	ten	ten	NUM	CD	NumForm=Word|NumType=Card	7	nsubj	_	start_char=282|end_char=285
+10	of	of	ADP	IN	_	11	case	_	start_char=286|end_char=288
+11	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	nmod	_	start_char=289|end_char=293
+12	back	back	ADV	RB	Degree=Pos	7	advmod	_	start_char=294|end_char=298
+13	there	there	ADV	RB	PronType=Dem	7	advmod	_	start_char=299|end_char=304
+14	…	…	PUNCT	:	_	7	punct	_	start_char=304|end_char=305
+15	.	.	PUNCT	.	_	7	punct	_	start_char=305|end_char=306
+16	”	''	PUNCT	''	_	7	punct	_	start_char=306|end_char=307
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=309|end_char=313
+2	WOW	wow	INTJ	UH	_	0	root	_	start_char=314|end_char=317
+3	.	.	PUNCT	.	_	2	punct	_	start_char=317|end_char=318
+

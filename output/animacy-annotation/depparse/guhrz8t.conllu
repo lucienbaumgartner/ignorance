@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	'd	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=1|end_char=3
+3	worry	worry	VERB	VB	VerbForm=Inf	0	root	_	start_char=4|end_char=9
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	start_char=10|end_char=14
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	start_char=15|end_char=19
+6	blind	blind	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=20|end_char=25
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=26|end_char=29
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=30|end_char=37
+9	of	of	ADP	IN	_	11	case	_	start_char=38|end_char=40
+10	that	that	DET	DT	Number=Sing|PronType=Dem	11	det	_	start_char=41|end_char=45
+11	fact	fact	NOUN	NN	Number=Sing	8	obl	_	start_char=46|end_char=50
+12	,	,	PUNCT	,	_	3	punct	_	start_char=50|end_char=51
+13	perhaps	perhaps	ADV	RB	_	14	advmod	_	start_char=52|end_char=59
+14	yes	yes	INTJ	UH	_	3	discourse	_	start_char=60|end_char=63
+15	.	.	PUNCT	.	_	3	punct	_	start_char=63|end_char=64
+

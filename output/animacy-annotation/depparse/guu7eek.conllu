@@ -1,0 +1,19 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	both	both	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=12|end_char=17
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=18|end_char=21
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=22|end_char=30
+7	of	of	ADP	IN	_	8	case	_	start_char=31|end_char=33
+8	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=34|end_char=41
+9	.	.	PUNCT	.	_	4	punct	_	start_char=41|end_char=42
+
+1	Catholicism	Catholicism	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=43|end_char=54
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=55|end_char=57
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=58|end_char=61
+4	oldest	old	ADJ	JJS	Degree=Sup	5	amod	_	start_char=62|end_char=68
+5	version	version	NOUN	NN	Number=Sing	0	root	_	start_char=69|end_char=76
+6	of	of	ADP	IN	_	7	case	_	start_char=77|end_char=79
+7	christianity	christianity	NOUN	NN	Number=Sing	5	nmod	_	start_char=80|end_char=92
+8	.	.	PUNCT	.	_	5	punct	_	start_char=92|end_char=93
+

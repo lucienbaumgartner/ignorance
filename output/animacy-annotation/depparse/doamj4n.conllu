@@ -1,0 +1,14 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	just	just	ADV	RB	_	5	advmod	_	start_char=5|end_char=9
+4	another	another	DET	DT	_	5	det	_	start_char=10|end_char=17
+5	reminder	reminder	NOUN	NN	Number=Sing	0	root	_	start_char=18|end_char=26
+6	how	how	SCONJ	WRB	PronType=Int	7	mark	_	start_char=27|end_char=30
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	acl:relcl	_	start_char=31|end_char=38
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=39|end_char=42
+9	moronic	moronic	ADJ	JJ	Degree=Pos	7	conj	_	start_char=43|end_char=50
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=51|end_char=53
+11	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=54|end_char=59
+12	across	across	ADV	RB	_	11	advmod	_	start_char=60|end_char=66
+13	.	.	PUNCT	.	_	5	punct	_	start_char=66|end_char=67
+

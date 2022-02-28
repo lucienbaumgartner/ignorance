@@ -1,0 +1,26 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=3|end_char=6
+3	projecting	project	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7|end_char=17
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=18|end_char=19
+5	lot	lot	NOUN	NN	Number=Sing	3	obj	_	start_char=20|end_char=23
+6	here	here	ADV	RB	PronType=Dem	3	advmod	_	start_char=24|end_char=28
+7	.	.	PUNCT	.	_	3	punct	_	start_char=28|end_char=29
+
+1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=30|end_char=33
+2	bf	bf	NOUN	NN	Number=Sing	4	nsubj	_	start_char=34|end_char=36
+3	just	just	ADV	RB	_	4	advmod	_	start_char=37|end_char=41
+4	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=42|end_char=47
+5	unaware	unaware	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=48|end_char=55
+6	,	,	PUNCT	,	_	11	punct	_	start_char=55|end_char=56
+7	and	and	CCONJ	CC	_	11	cc	_	start_char=57|end_char=60
+8	many	many	ADJ	JJ	Degree=Pos	9	amod	_	start_char=61|end_char=65
+9	people	people	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=66|end_char=72
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=73|end_char=76
+11	coping	cope	VERB	VBG	Tense=Pres|VerbForm=Part	4	conj	_	start_char=77|end_char=83
+12	with	with	ADP	IN	_	13	case	_	start_char=84|end_char=88
+13	quarantine	quarantine	NOUN	NN	Number=Sing	11	obl	_	start_char=89|end_char=99
+14	through	through	ADP	IN	_	16	case	_	start_char=100|end_char=107
+15	video	video	NOUN	NN	Number=Sing	16	compound	_	start_char=108|end_char=113
+16	games	game	NOUN	NNS	Number=Plur	11	obl	_	start_char=114|end_char=119
+17	.	.	PUNCT	.	_	4	punct	_	start_char=119|end_char=120
+

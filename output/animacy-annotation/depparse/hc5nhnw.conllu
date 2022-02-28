@@ -1,0 +1,25 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Yeah	yeah	INTJ	UH	_	7	discourse	_	start_char=4|end_char=8
+2	,	,	PUNCT	,	_	7	punct	_	start_char=8|end_char=9
+3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=10|end_char=12
+4	could	could	AUX	MD	VerbForm=Fin	7	aux	_	start_char=13|end_char=18
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=19|end_char=21
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=22|end_char=23
+7	dick	dick	NOUN	NN	Number=Sing	0	root	_	start_char=24|end_char=28
+8	,	,	PUNCT	,	_	11	punct	_	start_char=28|end_char=29
+9	or	or	CCONJ	CC	_	11	cc	_	start_char=30|end_char=32
+10	just	just	ADV	RB	_	11	advmod	_	start_char=33|end_char=37
+11	inexperienced	inexperienced	ADJ	JJ	Degree=Pos	7	conj	_	start_char=38|end_char=51
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=52|end_char=55
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=56|end_char=63
+14	of	of	ADP	IN	_	16	case	_	start_char=64|end_char=66
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=67|end_char=71
+16	needs	need	NOUN	NNS	Number=Plur	13	obl	_	start_char=72|end_char=77
+17	.	.	PUNCT	.	_	7	punct	_	start_char=77|end_char=78
+
+1	Or	or	CCONJ	CC	_	2	cc	_	start_char=80|end_char=82
+2	both	both	DET	DT	_	0	root	_	start_char=83|end_char=87
+3	.	.	PUNCT	.	_	2	punct	_	start_char=87|end_char=88
+

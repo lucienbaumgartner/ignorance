@@ -1,0 +1,21 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=3|end_char=6
+3	schools	school	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=7|end_char=14
+4	taught	teach	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	14	advcl	_	start_char=15|end_char=21
+5	those	that	DET	DT	Number=Plur|PronType=Dem	6	det	_	start_char=22|end_char=27
+6	things	thing	NOUN	NNS	Number=Plur	4	obj	_	start_char=28|end_char=34
+7	,	,	PUNCT	,	_	14	punct	_	start_char=34|end_char=35
+8	then	then	ADV	RB	PronType=Dem	14	advmod	_	start_char=36|end_char=40
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=41|end_char=44
+10	citizenry	citizenry	NOUN	NN	Number=Sing	14	nsubj	_	start_char=45|end_char=54
+11	would	would	AUX	MD	VerbForm=Fin	14	aux	_	start_char=55|end_char=60
+12	n't	not	PART	RB	_	14	advmod	_	start_char=60|end_char=63
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	start_char=64|end_char=66
+14	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=74
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=75|end_char=78
+16	compliant	compliant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=79|end_char=88
+17	,	,	PUNCT	,	_	14	punct	_	start_char=88|end_char=89
+18	would	would	AUX	MD	VerbForm=Fin	14	parataxis	_	start_char=90|end_char=95
+19	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	start_char=96|end_char=100
+20	?	?	PUNCT	.	_	14	punct	_	start_char=100|end_char=101
+

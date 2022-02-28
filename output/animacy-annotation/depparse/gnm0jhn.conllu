@@ -1,0 +1,27 @@
+1	Being	be	AUX	VBG	VerbForm=Ger	3	cop	_	start_char=0|end_char=5
+2	filthy	filthy	ADV	RB	Degree=Pos	3	advmod	_	start_char=6|end_char=12
+3	rich	rich	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=17
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=18|end_char=21
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=22|end_char=29
+6	of	of	ADP	IN	_	8	case	_	start_char=30|end_char=32
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=33|end_char=37
+8	audience	audience	NOUN	NN	Number=Sing	5	obl	_	start_char=38|end_char=46
+9	and	and	CCONJ	CC	_	11	cc	_	start_char=47|end_char=50
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=51|end_char=54
+11	internet	internet	NOUN	NN	Number=Sing	8	conj	_	start_char=55|end_char=63
+12	as	as	SCONJ	IN	_	15	mark	_	start_char=64|end_char=66
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=67|end_char=68
+14	whole	whole	NOUN	NN	Number=Sing	15	nsubj	_	start_char=69|end_char=74
+15	describes	describe	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	start_char=75|end_char=84
+16	most	most	ADJ	JJS	Degree=Sup	17	amod	_	start_char=85|end_char=89
+17	YouTubers	YouTuber	PROPN	NNPS	Number=Plur	15	obj	_	start_char=90|end_char=99
+18	.	.	PUNCT	.	_	3	punct	_	start_char=99|end_char=100
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=101|end_char=105
+2	girl	girl	NOUN	NN	Number=Sing	4	nsubj:pass	_	start_char=106|end_char=110
+3	got	get	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=111|end_char=114
+4	spammed	spam	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=115|end_char=122
+5	to	to	ADP	IN	_	7	case	_	start_char=123|end_char=125
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=126|end_char=129
+7	moon	moon	NOUN	NN	Number=Sing	4	obl	_	start_char=130|end_char=134
+

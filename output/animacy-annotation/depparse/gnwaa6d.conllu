@@ -1,0 +1,63 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=7
+3	someone	someone	NOUN	NN	Number=Sing	5	nmod:poss	_	start_char=8|end_char=15
+4	's	's	PART	POS	_	3	case	_	start_char=15|end_char=17
+5	nose	nose	NOUN	NN	Number=Sing	2	obj	_	start_char=18|end_char=22
+6	once	once	ADV	RB	NumType=Mult	2	advmod	_	start_char=23|end_char=27
+7	by	by	ADP	IN	_	8	case	_	start_char=28|end_char=30
+8	reflex	reflex	NOUN	NN	Number=Sing	2	obl	_	start_char=31|end_char=37
+9	.	.	PUNCT	.	_	2	punct	_	start_char=37|end_char=38
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=39|end_char=40
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=41|end_char=44
+3	really	really	ADV	RB	_	4	advmod	_	start_char=45|end_char=51
+4	concentrated	concentrate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=52|end_char=64
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=65|end_char=68
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=69|end_char=76
+7	of	of	ADP	IN	_	9	case	_	start_char=77|end_char=79
+8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	start_char=80|end_char=82
+9	surroundings	surroundings	NOUN	NNS	Number=Plur	6	obl	_	start_char=83|end_char=95
+10	,	,	PUNCT	,	_	13	punct	_	start_char=95|end_char=96
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=97|end_char=100
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=101|end_char=103
+13	sneaked	sneak	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	start_char=104|end_char=111
+14	up	up	ADP	RP	_	13	compound:prt	_	start_char=112|end_char=114
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=115|end_char=118
+16	started	start	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	conj	_	start_char=119|end_char=126
+17	to	to	PART	TO	_	18	mark	_	start_char=127|end_char=129
+18	tickle	tickle	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=130|end_char=136
+19	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	obj	_	start_char=137|end_char=139
+20	.	.	PUNCT	.	_	4	punct	_	start_char=139|end_char=140
+
+1	Should	should	AUX	MD	VerbForm=Fin	4	aux	_	start_char=141|end_char=147
+2	n't	not	PART	RB	_	4	advmod	_	start_char=147|end_char=150
+3	have	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=151|end_char=155
+4	done	do	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=156|end_char=160
+5	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=161|end_char=165
+6	.	.	PUNCT	.	_	4	punct	_	start_char=165|end_char=166
+
+1	Got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=167|end_char=170
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=171|end_char=173
+3	elbow	elbow	NOUN	NN	Number=Sing	1	obj	_	start_char=174|end_char=179
+4	to	to	ADP	IN	_	6	case	_	start_char=180|end_char=182
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=183|end_char=186
+6	face	face	NOUN	NN	Number=Sing	1	obl	_	start_char=187|end_char=191
+7	.	.	PUNCT	.	_	1	punct	_	start_char=191|end_char=192
+
+1	But	but	CCONJ	CC	_	3	cc	_	start_char=195|end_char=198
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=199|end_char=203
+3	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=204|end_char=208
+4	much	much	ADV	RB	_	5	advmod	_	start_char=209|end_char=213
+5	less	less	ADJ	JJR	Degree=Cmp	7	advmod	_	start_char=214|end_char=218
+6	than	than	ADP	IN	_	5	fixed	_	start_char=219|end_char=223
+7	5	5	NUM	CD	NumType=Card	8	nummod	_	start_char=224|end_char=225
+8	minutes	minute	NOUN	NNS	Number=Plur	3	obj	_	start_char=226|end_char=233
+9	.	.	PUNCT	.	_	3	punct	_	start_char=233|end_char=234
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=235|end_char=236
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=236|end_char=238
+3	not	not	PART	RB	_	5	advmod	_	start_char=239|end_char=242
+4	that	that	ADV	RB	_	5	advmod	_	start_char=243|end_char=247
+5	cruel	cruel	ADJ	JJ	Degree=Pos	0	root	_	start_char=248|end_char=253
+6	.	.	PUNCT	.	_	5	punct	_	start_char=253|end_char=254
+

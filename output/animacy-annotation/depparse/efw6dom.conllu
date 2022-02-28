@@ -1,0 +1,56 @@
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	DID	dill	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=4|end_char=7
+3	NOT	not	PART	RB	_	4	advmod	_	start_char=8|end_char=11
+4	SHOW	show	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=16
+5	THAT	that	PRON	DT	Number=Sing|PronType=Dem	4	obj	_	start_char=17|end_char=21
+6	.	.	PUNCT	.	_	4	punct	_	start_char=21|end_char=22
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=24|end_char=27
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=28|end_char=31
+3	so	so	ADV	RB	_	5	advmod	_	start_char=32|end_char=34
+4	incredibly	incredibly	ADV	RB	_	5	advmod	_	start_char=35|end_char=45
+5	dishonest	dishonest	ADJ	JJ	Degree=Pos	0	root	_	start_char=46|end_char=55
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=56|end_char=59
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=60|end_char=68
+8	that	that	SCONJ	IN	_	11	mark	_	start_char=69|end_char=73
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=74|end_char=76
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=77|end_char=79
+11	astounding	astounding	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=80|end_char=90
+12	.	.	PUNCT	.	_	5	punct	_	start_char=90|end_char=91
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=93|end_char=96
+2	NO	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=97|end_char=99
+3	.	.	PUNCT	.	_	2	punct	_	start_char=99|end_char=100
+
+1	What	what	PRON	WP	PronType=Int	5	obj	_	start_char=101|end_char=105
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=106|end_char=107
+3	governor	governor	NOUN	NN	Number=Sing	4	nsubj	_	start_char=108|end_char=116
+4	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=117|end_char=121
+5	MEANS	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=122|end_char=127
+6	NOTHING	nothing	PRON	NN	Number=Sing	5	obj	_	start_char=128|end_char=135
+7	without	without	ADP	IN	_	8	case	_	start_char=136|end_char=143
+8	legislation	legislation	NOUN	NN	Number=Sing	6	nmod	_	start_char=144|end_char=155
+9	.	.	PUNCT	.	_	5	punct	_	start_char=155|end_char=156
+
+1	Show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=158|end_char=162
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	start_char=163|end_char=165
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=166|end_char=169
+4	text	text	NOUN	NN	Number=Sing	1	obj	_	start_char=170|end_char=174
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=175|end_char=177
+6	admit	admit	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	start_char=178|end_char=183
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=184|end_char=187
+8	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=187|end_char=190
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=191|end_char=192
+10	lying	lie	VERB	VBG	VerbForm=Ger	11	amod	_	start_char=193|end_char=198
+11	piece	piece	NOUN	NN	Number=Sing	6	ccomp	_	start_char=199|end_char=204
+12	of	of	ADP	IN	_	13	case	_	start_char=205|end_char=207
+13	trash	trash	NOUN	NN	Number=Sing	11	nmod	_	start_char=208|end_char=213
+14	with	with	ADP	IN	_	17	case	_	start_char=214|end_char=218
+15	no	no	DET	DT	_	17	det	_	start_char=219|end_char=221
+16	actual	actual	ADJ	JJ	Degree=Pos	17	amod	_	start_char=222|end_char=228
+17	knowledge	knowledge	NOUN	NN	Number=Sing	11	nmod	_	start_char=229|end_char=238
+18	on	on	ADP	IN	_	20	case	_	start_char=239|end_char=241
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=242|end_char=245
+20	subject	subject	NOUN	NN	Number=Sing	17	nmod	_	start_char=246|end_char=253
+21	.	.	PUNCT	.	_	1	punct	_	start_char=253|end_char=254
+

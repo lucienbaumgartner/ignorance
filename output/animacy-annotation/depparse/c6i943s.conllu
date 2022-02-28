@@ -1,0 +1,25 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=7
+3	clearly	clearly	ADV	RB	_	4	advmod	_	start_char=8|end_char=15
+4	American	American	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=24
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=25|end_char=28
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=29|end_char=36
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=37|end_char=41
+8	there	there	PRON	EX	_	9	expl	_	start_char=42|end_char=47
+9	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=48|end_char=50
+10	no	no	DET	DT	_	11	det	_	start_char=51|end_char=53
+11	requirement	requirement	NOUN	NN	Number=Sing	9	nsubj	_	start_char=54|end_char=65
+12	in	in	ADP	IN	_	14	case	_	start_char=66|end_char=68
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=69|end_char=73
+14	country	country	NOUN	NN	Number=Sing	11	nmod	_	start_char=74|end_char=81
+15	for	for	ADP	IN	_	17	case	_	start_char=82|end_char=85
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=86|end_char=89
+17	HIV	HIV	NOUN	NN	Number=Sing	14	nmod	_	start_char=90|end_char=93
+18	positive	positive	ADJ	JJ	Degree=Pos	17	amod	_	start_char=94|end_char=102
+19	to	to	PART	TO	_	20	mark	_	start_char=103|end_char=105
+20	notify	notify	VERB	VB	VerbForm=Inf	18	xcomp	_	start_char=106|end_char=112
+21	anyone	anyone	PRON	NN	Number=Sing	20	obj	_	start_char=113|end_char=119
+22	about	about	ADP	IN	_	23	case	_	start_char=120|end_char=125
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nmod	_	start_char=126|end_char=128
+24	.	.	PUNCT	.	_	4	punct	_	start_char=128|end_char=129
+

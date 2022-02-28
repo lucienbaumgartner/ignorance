@@ -1,0 +1,36 @@
+1	Bruh	bruh	INTJ	UH	_	2	discourse	_	start_char=0|end_char=4
+2	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	back	back	ADV	RB	_	2	advmod	_	start_char=8|end_char=12
+4	to	to	ADP	IN	_	5	case	_	start_char=13|end_char=15
+5	vanguard	vanguard	NOUN	NN	Number=Sing	2	obl	_	start_char=16|end_char=24
+6	.	.	PUNCT	.	_	2	punct	_	start_char=24|end_char=25
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=26|end_char=30
+2	approach	approach	NOUN	NN	Number=Sing	8	nsubj	_	start_char=31|end_char=39
+3	to	to	ADP	IN	_	5	case	_	start_char=40|end_char=42
+4	fighting	fighting	NOUN	NN	Number=Sing	5	compound	_	start_char=43|end_char=51
+5	games	game	NOUN	NNS	Number=Plur	2	nmod	_	start_char=52|end_char=57
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=58|end_char=60
+7	so	so	ADV	RB	_	8	advmod	_	start_char=61|end_char=63
+8	poor	poor	ADJ	JJ	Degree=Pos	0	root	_	start_char=64|end_char=68
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=69|end_char=72
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=73|end_char=81
+11	that	that	SCONJ	IN	_	15	mark	_	start_char=82|end_char=86
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=87|end_char=90
+13	must	must	AUX	MD	VerbForm=Fin	15	aux	_	start_char=91|end_char=95
+14	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=96|end_char=98
+15	shite	shite	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=99|end_char=104
+16	at	at	ADP	IN	_	17	case	_	start_char=105|end_char=107
+17	magic	magic	NOUN	NN	Number=Sing	15	obl	_	start_char=108|end_char=113
+18	.	.	PUNCT	.	_	8	punct	_	start_char=113|end_char=114
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=115|end_char=118
+2	probably	probably	ADV	RB	_	3	advmod	_	start_char=119|end_char=127
+3	play	play	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=128|end_char=132
+4	Mono	Mono	PROPN	NNP	Number=Sing	5	compound	_	start_char=133|end_char=137
+5	Red	Red	PROPN	NNP	Number=Sing	3	obj	_	start_char=138|end_char=141
+6	like	like	ADP	IN	_	8	case	_	start_char=142|end_char=146
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=147|end_char=149
+8	autist	autist	NOUN	NN	Number=Sing	3	obl	_	start_char=150|end_char=156
+9	.	.	PUNCT	.	_	3	punct	_	start_char=156|end_char=157
+

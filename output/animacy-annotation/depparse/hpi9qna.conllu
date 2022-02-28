@@ -1,0 +1,37 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=4|end_char=6
+3	not	not	PART	RB	_	4	advmod	_	start_char=7|end_char=10
+4	grounds	grounds	NOUN	NNS	Number=Plur	0	root	_	start_char=11|end_char=18
+5	to	to	PART	TO	_	6	mark	_	start_char=19|end_char=21
+6	make	make	VERB	VB	VerbForm=Inf	4	acl	_	start_char=22|end_char=26
+7	an	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=27|end_char=29
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=30|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	racist	racist	ADJ	JJ	Degree=Pos	8	conj	_	start_char=43|end_char=49
+11	statement	statement	NOUN	NN	Number=Sing	6	obj	_	start_char=50|end_char=59
+12	.	.	PUNCT	.	_	4	punct	_	start_char=59|end_char=60
+
+1	No	no	DET	DT	_	2	det	_	start_char=61|end_char=63
+2	one	one	NOUN	NN	Number=Sing	4	nsubj	_	start_char=64|end_char=67
+3	alive	alive	ADJ	JJ	Degree=Pos	2	amod	_	start_char=68|end_char=73
+4	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=74|end_char=77
+5	any	any	DET	DT	_	6	det	_	start_char=78|end_char=81
+6	hand	hand	NOUN	NN	Number=Sing	4	obj	_	start_char=82|end_char=86
+7	in	in	ADP	IN	_	9	case	_	start_char=87|end_char=89
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=90|end_char=93
+9	enslavement	enslavement	NOUN	NN	Number=Sing	6	nmod	_	start_char=94|end_char=105
+10	of	of	ADP	IN	_	12	case	_	start_char=106|end_char=108
+11	black	black	ADJ	JJ	Degree=Pos	12	amod	_	start_char=109|end_char=114
+12	people	people	NOUN	NNS	Number=Plur	9	nmod	_	start_char=115|end_char=121
+13	as	as	SCONJ	IN	_	17	mark	_	start_char=122|end_char=124
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	start_char=125|end_char=127
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	start_char=128|end_char=131
+16	before	before	ADP	IN	_	17	case	_	start_char=132|end_char=138
+17	1865	1865	NUM	CD	NumType=Card	4	advcl	_	start_char=139|end_char=143
+18	.	.	PUNCT	.	_	4	punct	_	start_char=143|end_char=144
+
+1	Even	even	ADV	RB	_	3	advmod	_	start_char=145|end_char=149
+2	racist	racist	ADJ	JJ	Degree=Pos	3	amod	_	start_char=150|end_char=156
+3	assholes	asshole	NOUN	NNS	Number=Plur	0	root	_	start_char=157|end_char=165
+4	.	.	PUNCT	.	_	3	punct	_	start_char=165|end_char=166
+

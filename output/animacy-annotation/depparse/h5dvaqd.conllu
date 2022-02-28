@@ -1,0 +1,52 @@
+1	Ah	ah	INTJ	UH	_	7	discourse	_	start_char=0|end_char=2
+2	,	,	PUNCT	,	_	1	punct	_	start_char=2|end_char=3
+3	yes	yes	INTJ	UH	_	7	discourse	_	start_char=4|end_char=7
+4	,	,	PUNCT	,	_	3	punct	_	start_char=7|end_char=8
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=9|end_char=12
+6	classic	classic	ADJ	JJ	Degree=Pos	7	amod	_	start_char=13|end_char=20
+7	ego	ego	NOUN	NN	Number=Sing	0	root	_	start_char=21|end_char=24
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=25|end_char=28
+9	arrogance	arrogance	NOUN	NN	Number=Sing	7	conj	_	start_char=29|end_char=38
+10	of	of	ADP	IN	_	12	case	_	start_char=39|end_char=41
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=42|end_char=45
+12	shit-cap	shit-cap	NOUN	NN	Number=Sing	7	nmod	_	start_char=46|end_char=54
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=55|end_char=58
+14	dumbertarian	dumbertarian	NOUN	NN	Number=Sing	12	conj	_	start_char=59|end_char=71
+15	.	.	PUNCT	.	_	7	punct	_	start_char=71|end_char=72
+
+1	"	"	PUNCT	``	_	4	punct	_	start_char=73|end_char=74
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=74|end_char=75
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=76|end_char=79
+4	negotiate	negotiate	VERB	VB	VerbForm=Inf	0	root	_	start_char=80|end_char=89
+5	better	good	ADJ	JJR	Degree=Cmp	4	obj	_	start_char=90|end_char=96
+6	on	on	ADP	IN	_	8	case	_	start_char=97|end_char=99
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=100|end_char=102
+8	own	own	ADJ	JJ	Degree=Pos	4	obl	_	start_char=103|end_char=106
+9	.	.	PUNCT	.	_	4	punct	_	start_char=106|end_char=107
+
+1	Having	have	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=108|end_char=114
+2	more	more	ADJ	JJR	Degree=Cmp	3	amod	_	start_char=115|end_char=119
+3	weight	weight	NOUN	NN	Number=Sing	1	obj	_	start_char=120|end_char=126
+4	behind	behind	ADP	IN	_	7	mark	_	start_char=127|end_char=133
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nsubj	_	start_char=134|end_char=136
+6	just	just	ADV	RB	_	7	advmod	_	start_char=137|end_char=141
+7	slows	slow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=142|end_char=147
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=148|end_char=150
+9	down	down	ADP	RP	_	7	compound:prt	_	start_char=151|end_char=155
+10	.	.	PUNCT	.	_	7	punct	_	start_char=155|end_char=156
+11	"	"	PUNCT	''	_	7	punct	_	start_char=156|end_char=157
+
+1	Those	that	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=158|end_char=163
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=164|end_char=170
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=171|end_char=174
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=175|end_char=185
+5	blind	blind	ADJ	JJ	Degree=Pos	0	root	_	start_char=186|end_char=191
+6	,	,	PUNCT	,	_	7	punct	_	start_char=191|end_char=192
+7	stupid	stupid	ADJ	JJ	Degree=Pos	5	conj	_	start_char=193|end_char=199
+8	,	,	PUNCT	,	_	10	punct	_	start_char=199|end_char=200
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=201|end_char=204
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=205|end_char=213
+11	of	of	ADP	IN	_	12	case	_	start_char=214|end_char=216
+12	history	history	NOUN	NN	Number=Sing	10	obl	_	start_char=217|end_char=224
+13	.	.	PUNCT	.	_	5	punct	_	start_char=224|end_char=225
+

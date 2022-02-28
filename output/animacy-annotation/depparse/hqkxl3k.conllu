@@ -1,0 +1,7 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=3|end_char=6
+3	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=7|end_char=12
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	immature	immature	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=34
+

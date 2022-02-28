@@ -1,0 +1,46 @@
+1	Lol	lol	INTJ	UH	_	3	discourse	_	start_char=0|end_char=3
+2	just	just	ADV	RB	_	3	advmod	_	start_char=4|end_char=8
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=12
+4	one	one	NUM	CD	NumType=Card	3	obj	_	start_char=13|end_char=16
+5	too	too	ADV	RB	_	3	advmod	_	start_char=17|end_char=20
+6	.	.	PUNCT	.	_	3	punct	_	start_char=20|end_char=21
+
+1	Said	Said	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=22|end_char=26
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=27|end_char=29
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=30|end_char=33
+4	so	so	ADV	RB	_	5	advmod	_	start_char=34|end_char=36
+5	happy	happy	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=37|end_char=42
+6	more	more	ADJ	JJR	Degree=Cmp	7	amod	_	start_char=43|end_char=47
+7	men	man	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=48|end_char=51
+8	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	aux	_	start_char=52|end_char=56
+9	waking	wake	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	start_char=57|end_char=63
+10	up	up	ADP	RP	_	9	compound:prt	_	start_char=64|end_char=66
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=67|end_char=70
+12	hating	hate	VERB	VBG	VerbForm=Ger	9	conj	_	start_char=71|end_char=77
+13	women	woman	NOUN	NNS	Number=Plur	12	obj	_	start_char=78|end_char=83
+14	.	.	PUNCT	.	_	1	punct	_	start_char=83|end_char=84
+
+1	Like	like	INTJ	UH	_	7	discourse	_	start_char=85|end_char=89
+2	lol	lol	INTJ	UH	_	7	discourse	_	start_char=90|end_char=93
+3	,	,	PUNCT	,	_	7	punct	_	start_char=93|end_char=94
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=95|end_char=98
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=99|end_char=103
+6	that	that	ADV	RB	_	7	advmod	_	start_char=104|end_char=108
+7	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=109|end_char=119
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=120|end_char=123
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=124|end_char=131
+10	of	of	ADP	IN	_	13	case	_	start_char=132|end_char=134
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=135|end_char=140
+12	own	own	ADJ	JJ	Degree=Pos	13	amod	_	start_char=141|end_char=144
+13	history	history	NOUN	NN	Number=Sing	9	obl	_	start_char=145|end_char=152
+14	?😂😂	?😂😂	PUNCT	.	_	7	punct	_	start_char=152|end_char=155
+
+1	Men	man	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=156|end_char=159
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=160|end_char=164
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	start_char=165|end_char=169
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=170|end_char=173
+5	bane	bane	NOUN	NN	Number=Sing	0	root	_	start_char=174|end_char=178
+6	since	since	ADP	IN	_	7	case	_	start_char=179|end_char=184
+7	day	day	NOUN	NN	Number=Sing	5	nmod	_	start_char=185|end_char=188
+8	1.	1.	NUM	CD	NumForm=Digit|NumType=Card	5	nmod	_	start_char=189|end_char=191
+

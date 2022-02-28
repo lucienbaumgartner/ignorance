@@ -1,0 +1,30 @@
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=6|end_char=8
+3	fellow	fellow	ADJ	JJ	Degree=Pos	5	amod	_	start_char=9|end_char=15
+4	rural	rural	ADJ	JJ	Degree=Pos	5	amod	_	start_char=16|end_char=21
+5	Mainers	Mainers	PROPN	NNPS	Number=Plur	8	nsubj	_	start_char=22|end_char=29
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=30|end_char=33
+7	extremely	extremely	ADV	RB	_	8	advmod	_	start_char=34|end_char=43
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	ccomp	_	start_char=44|end_char=52
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=53|end_char=56
+10	fearful	fearful	ADJ	JJ	Degree=Pos	8	conj	_	start_char=57|end_char=64
+11	of	of	ADP	IN	_	13	case	_	start_char=65|end_char=67
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=68|end_char=71
+13	vaccine	vaccine	NOUN	NN	Number=Sing	10	obl	_	start_char=72|end_char=79
+14	and	and	CCONJ	CC	_	16	cc	_	start_char=80|end_char=83
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=84|end_char=87
+16	way	way	NOUN	NN	Number=Sing	13	conj	_	start_char=88|end_char=91
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	start_char=92|end_char=94
+18	'	'	PUNCT	''	_	16	punct	_	start_char=95|end_char=96
+19	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=96|end_char=102
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	start_char=103|end_char=106
+21	government	government	NOUN	NN	Number=Sing	19	obj	_	start_char=107|end_char=117
+22	to	to	PART	TO	_	23	mark	_	start_char=118|end_char=120
+23	control	control	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=121|end_char=128
+24	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	23	obj	_	start_char=129|end_char=131
+25	.	.	PUNCT	.	_	1	punct	_	start_char=131|end_char=132
+26	"	"	PUNCT	''	_	1	punct	_	start_char=132|end_char=133
+
+1	Merica	Merica	PROPN	NNP	Number=Sing	0	root	_	start_char=134|end_char=140
+2	!	!	PUNCT	.	_	1	punct	_	start_char=140|end_char=141
+

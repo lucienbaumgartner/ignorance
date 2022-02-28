@@ -1,0 +1,23 @@
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	5	discourse	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	5	punct	_	start_char=5|end_char=6
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=7|end_char=10
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=11|end_char=14
+5	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=15|end_char=19
+6	to	to	PART	TO	_	7	mark	_	start_char=20|end_char=22
+7	have	have	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=23|end_char=27
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=28|end_char=29
+9	reasonable	reasonable	ADJ	JJ	Degree=Pos	10	amod	_	start_char=30|end_char=40
+10	discussion	discussion	NOUN	NN	Number=Sing	7	obj	_	start_char=41|end_char=51
+11	,	,	PUNCT	,	_	14	punct	_	start_char=51|end_char=52
+12	or	or	CCONJ	CC	_	14	cc	_	start_char=53|end_char=55
+13	just	just	ADV	RB	_	14	advmod	_	start_char=56|end_char=60
+14	write	write	VERB	VB	VerbForm=Inf	7	conj	_	start_char=61|end_char=66
+15	out	out	ADP	RP	_	14	compound:prt	_	start_char=67|end_char=70
+16	an	a	DET	DT	Definite=Ind|PronType=Art	21	det	_	start_char=71|end_char=73
+17	incredibly	incredibly	ADV	RB	_	18	advmod	_	start_char=74|end_char=84
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	21	amod	_	start_char=85|end_char=93
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=94|end_char=97
+20	inflammatory	inflammatory	ADJ	JJ	Degree=Pos	18	conj	_	start_char=98|end_char=110
+21	paragraph	paragraph	NOUN	NN	Number=Sing	14	obj	_	start_char=111|end_char=120
+22	?	?	PUNCT	.	_	5	punct	_	start_char=120|end_char=121
+

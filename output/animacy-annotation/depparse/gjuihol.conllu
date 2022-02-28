@@ -1,0 +1,19 @@
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=0|end_char=2
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=3|end_char=6
+3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	start_char=7|end_char=10
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=11|end_char=13
+5	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=14|end_char=19
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=20|end_char=22
+7	extra	extra	ADV	RB	_	8	advmod	_	start_char=23|end_char=28
+8	irritating	irritating	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=29|end_char=39
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=44|end_char=52
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=53|end_char=57
+12	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=58|end_char=61
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	start_char=62|end_char=65
+14	literally	literally	ADV	RB	_	16	advmod	_	start_char=66|end_char=75
+15	just	just	ADV	RB	_	16	advmod	_	start_char=76|end_char=80
+16	vacationing	vacation	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	start_char=81|end_char=92
+17	in	in	ADP	IN	_	18	case	_	start_char=93|end_char=95
+18	Tulum	Tulum	PROPN	NNP	Number=Sing	16	obl	_	start_char=96|end_char=101
+

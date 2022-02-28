@@ -1,0 +1,9 @@
+1	simply	simply	ADV	RB	_	2	advmod	_	start_char=0|end_char=6
+2	idiotic	idiotic	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=14
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=15|end_char=18
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=19|end_char=27
+5	of	of	ADP	IN	_	7	case	_	start_char=28|end_char=30
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=31|end_char=34
+7	history	history	NOUN	NN	Number=Sing	4	obl	_	start_char=35|end_char=42
+8	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+

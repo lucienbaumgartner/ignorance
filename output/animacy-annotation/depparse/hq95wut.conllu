@@ -1,0 +1,9 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=7|end_char=13
+4	like	like	ADP	IN	_	5	case	_	start_char=14|end_char=18
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	nmod	_	start_char=19|end_char=22
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	amod	_	start_char=23|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	uneducated	uneducated	ADJ	JJ	Degree=Pos	6	conj	_	start_char=36|end_char=46
+

@@ -1,0 +1,25 @@
+1	Hmm	hmm	INTJ	UH	_	4	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	4	punct	_	start_char=3|end_char=4
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=5|end_char=9
+4	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=10|end_char=14
+5	more	more	ADJ	JJR	Degree=Cmp	4	xcomp	_	start_char=15|end_char=19
+6	of	of	SCONJ	IN	_	8	mark	_	start_char=20|end_char=22
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=23|end_char=28
+8	insenstive	insenstive	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=29|end_char=39
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+10	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=44|end_char=51
+11	of	of	ADP	IN	_	13	case	_	start_char=52|end_char=54
+12	another	another	DET	DT	_	13	det	_	start_char=55|end_char=62
+13	race	race	NOUN	NN	Number=Sing	10	obl	_	start_char=63|end_char=67
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=68|end_char=71
+15	culture	culture	NOUN	NN	Number=Sing	13	conj	_	start_char=72|end_char=79
+16	,	,	PUNCT	,	_	18	punct	_	start_char=79|end_char=80
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=81|end_char=82
+18	case	case	NOUN	NN	Number=Sing	13	appos	_	start_char=83|end_char=87
+19	of	of	ADP	IN	_	20	case	_	start_char=88|end_char=90
+20	incompetence	incompetence	NOUN	NN	Number=Sing	18	nmod	_	start_char=91|end_char=103
+21	instead	instead	ADV	RB	Degree=Pos	23	case	_	start_char=104|end_char=111
+22	of	of	ADP	IN	_	21	fixed	_	start_char=112|end_char=114
+23	malice	malice	NOUN	NN	Number=Sing	18	nmod	_	start_char=115|end_char=121
+24	.	.	PUNCT	.	_	4	punct	_	start_char=121|end_char=122
+

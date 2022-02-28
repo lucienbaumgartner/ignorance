@@ -1,0 +1,6 @@
+1	*	*	PUNCT	NFP	_	2	punct	_	start_char=0|end_char=1
+2	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=1|end_char=8
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=9|end_char=12
+4	unafraid	unafraid	ADJ	JJ	Degree=Pos	2	conj	_	start_char=13|end_char=21
+5	*	*	PUNCT	NFP	_	2	punct	_	start_char=21|end_char=22
+

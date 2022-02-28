@@ -1,0 +1,24 @@
+1	Oh	oh	INTJ	UH	_	7	discourse	_	start_char=0|end_char=2
+2	wow	wow	INTJ	UH	_	7	discourse	_	start_char=3|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=7|end_char=8
+4	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=9|end_char=13
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	start_char=14|end_char=17
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=18|end_char=28
+7	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=36
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=41|end_char=49
+10	of	of	ADP	IN	_	12	case	_	start_char=50|end_char=52
+11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=53|end_char=57
+12	fact	fact	NOUN	NN	Number=Sing	9	obl	_	start_char=58|end_char=62
+13	.	.	PUNCT	.	_	7	punct	_	start_char=62|end_char=63
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=64|end_char=65
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=65|end_char=68
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=69|end_char=73
+4	to	to	PART	TO	_	5	mark	_	start_char=74|end_char=76
+5	do	do	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=77|end_char=79
+6	some	some	DET	DT	_	7	det	_	start_char=80|end_char=84
+7	reading	reading	NOUN	NN	Number=Sing	5	obj	_	start_char=85|end_char=92
+8	about	about	ADP	IN	_	9	case	_	start_char=93|end_char=98
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nmod	_	start_char=99|end_char=103
+

@@ -1,0 +1,25 @@
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	totally	totally	ADV	RB	_	4	advmod	_	start_char=8|end_char=15
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=33
+7	of	of	ADP	IN	_	11	case	_	start_char=34|end_char=36
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=37|end_char=40
+9	used	use	VERB	VBN	Tense=Past|VerbForm=Part	11	amod	_	start_char=41|end_char=45
+10	account	account	NOUN	NN	Number=Sing	11	compound	_	start_char=46|end_char=53
+11	market	market	NOUN	NN	Number=Sing	6	obl	_	start_char=54|end_char=60
+12	?	?	PUNCT	.	_	4	punct	_	start_char=60|end_char=61
+
+1	How	how	ADV	WRB	PronType=Int	5	advmod	_	start_char=62|end_char=65
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=66|end_char=68
+3	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=69|end_char=75
+4	actually	actually	ADV	RB	_	5	advmod	_	start_char=76|end_char=84
+5	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=85|end_char=92
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=93|end_char=97
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=98|end_char=100
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=101|end_char=102
+9	real	real	ADJ	JJ	Degree=Pos	10	amod	_	start_char=103|end_char=107
+10	story	story	NOUN	NN	Number=Sing	5	ccomp	_	start_char=108|end_char=113
+11	?	?	PUNCT	.	_	5	punct	_	start_char=113|end_char=114
+

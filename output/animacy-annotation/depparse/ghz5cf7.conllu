@@ -1,0 +1,24 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	aux:pass	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	sheltered	shelter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	start_char=17|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=40|end_char=44
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=45|end_char=48
+9	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=49|end_char=54
+10	Communists	Communist	PROPN	NNPS	Number=Plur	11	nsubj	_	start_char=55|end_char=65
+11	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	start_char=66|end_char=69
+12	children	child	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=70|end_char=78
+
+1	Socialism	socialism	NOUN	NN	Number=Sing	3	nsubj	_	start_char=80|end_char=89
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=90|end_char=92
+3	older	old	ADJ	JJR	Degree=Cmp	0	root	_	start_char=93|end_char=98
+4	than	than	ADP	IN	_	8	case	_	start_char=99|end_char=103
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=104|end_char=108
+6	great	great	ADJ	JJ	Degree=Pos	8	amod	_	start_char=109|end_char=114
+7	great	great	ADJ	JJ	Degree=Pos	8	amod	_	start_char=115|end_char=120
+8	grandfather	grandfather	NOUN	NN	Number=Sing	3	obl	_	start_char=121|end_char=132
+9	,	,	PUNCT	,	_	8	punct	_	start_char=132|end_char=133
+10	bud	bud	NOUN	NN	Number=Sing	8	appos	_	start_char=134|end_char=137
+

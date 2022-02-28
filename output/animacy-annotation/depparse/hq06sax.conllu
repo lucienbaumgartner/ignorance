@@ -1,0 +1,10 @@
+1	Defiant	defiant	ADJ	JJ	Degree=Pos	8	amod	_	start_char=0|end_char=7
+2	,	,	PUNCT	,	_	3	punct	_	start_char=7|end_char=8
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=9|end_char=17
+4	,	,	PUNCT	,	_	6	punct	_	start_char=17|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	flat	flat	ADJ	JJ	Degree=Pos	1	conj	_	start_char=23|end_char=27
+7	out	out	ADP	RP	_	8	advmod	_	start_char=28|end_char=31
+8	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=38
+9	.	.	PUNCT	.	_	8	punct	_	start_char=38|end_char=39
+

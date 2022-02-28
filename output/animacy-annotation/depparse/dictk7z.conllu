@@ -1,0 +1,66 @@
+1	Liberals	Liberals	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=0|end_char=8
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=9|end_char=12
+3	often	often	ADV	RB	_	5	advmod	_	start_char=13|end_char=18
+4	'	'	PUNCT	``	_	5	punct	_	start_char=19|end_char=20
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=20|end_char=27
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=28|end_char=31
+7	compliant	compliant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=32|end_char=41
+8	'	'	PUNCT	''	_	5	punct	_	start_char=41|end_char=42
+9	.	.	PUNCT	.	_	5	punct	_	start_char=42|end_char=43
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=44|end_char=48
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=49|end_char=51
+3	one	one	NUM	CD	NumType=Card	0	root	_	start_char=52|end_char=55
+4	of	of	ADP	IN	_	6	case	_	start_char=56|end_char=58
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=59|end_char=62
+6	reasons	reason	NOUN	NNS	Number=Plur	3	nmod	_	start_char=63|end_char=70
+7	why	why	SCONJ	WRB	PronType=Int	10	mark	_	start_char=71|end_char=74
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=75|end_char=79
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=80|end_char=83
+10	democrats	Democrat	PROPN	NNPS	Number=Plur	6	acl:relcl	_	start_char=84|end_char=93
+11	.	.	PUNCT	.	_	3	punct	_	start_char=93|end_char=94
+
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=95|end_char=97
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=98|end_char=102
+3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	start_char=103|end_char=107
+4	aware	aware	ADJ	JJ	Degree=Pos	11	advcl	_	start_char=108|end_char=113
+5	of	of	ADP	IN	_	7	case	_	start_char=114|end_char=116
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=117|end_char=120
+7	facts	fact	NOUN	NNS	Number=Plur	4	obl	_	start_char=121|end_char=126
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=127|end_char=131
+9	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=132|end_char=137
+10	n't	not	PART	RB	_	11	advmod	_	start_char=137|end_char=140
+11	vote	vote	VERB	VB	VerbForm=Inf	0	root	_	start_char=141|end_char=145
+12	democrat	Democrat	NOUN	NN	Number=Sing	11	obj	_	start_char=146|end_char=154
+13	.	.	PUNCT	.	_	11	punct	_	start_char=154|end_char=155
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=159|end_char=161
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=161|end_char=163
+3	also	also	ADV	RB	_	4	advmod	_	start_char=164|end_char=168
+4	one	one	NUM	CD	NumType=Card	0	root	_	start_char=169|end_char=172
+5	of	of	ADP	IN	_	7	case	_	start_char=173|end_char=175
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=176|end_char=179
+7	reasons	reason	NOUN	NNS	Number=Plur	4	nmod	_	start_char=180|end_char=187
+8	why	why	SCONJ	WRB	PronType=Int	10	mark	_	start_char=188|end_char=191
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=192|end_char=196
+10	lost	lose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=197|end_char=201
+11	.	.	PUNCT	.	_	4	punct	_	start_char=201|end_char=202
+
+1	Knowledge	knowledge	NOUN	NN	Number=Sing	3	nsubj	_	start_char=203|end_char=212
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=213|end_char=215
+3	power	power	NOUN	NN	Number=Sing	0	root	_	start_char=216|end_char=221
+4	,	,	PUNCT	,	_	8	punct	_	start_char=221|end_char=222
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=223|end_char=226
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=227|end_char=230
+7	globalists	globalist	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=231|end_char=241
+8	persuade	persuade	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=242|end_char=250
+9	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	start_char=251|end_char=255
+10	to	to	PART	TO	_	11	mark	_	start_char=256|end_char=258
+11	remain	remain	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=259|end_char=265
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	xcomp	_	start_char=266|end_char=274
+13	of	of	ADP	IN	_	14	case	_	start_char=275|end_char=277
+14	facts	fact	NOUN	NNS	Number=Plur	12	obl	_	start_char=278|end_char=283
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=284|end_char=287
+16	logic	logic	NOUN	NN	Number=Sing	14	conj	_	start_char=288|end_char=293
+17	.	.	PUNCT	.	_	3	punct	_	start_char=293|end_char=294
+

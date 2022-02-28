@@ -1,0 +1,26 @@
+1	Yeah	yeah	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	5	punct	_	start_char=4|end_char=5
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=6|end_char=10
+4	will	will	AUX	MD	VerbForm=Fin	5	aux	_	start_char=11|end_char=15
+5	work	work	VERB	VB	VerbForm=Inf	0	root	_	start_char=16|end_char=20
+6	.	.	PUNCT	.	_	5	punct	_	start_char=20|end_char=21
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=23|end_char=28
+2	folks	folk	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=29|end_char=34
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=35|end_char=38
+4	just	just	ADV	RB	_	5	advmod	_	start_char=39|end_char=43
+5	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=44|end_char=49
+6	great	great	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=50|end_char=55
+7	at	at	SCONJ	IN	_	8	mark	_	start_char=56|end_char=58
+8	showing	show	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=59|end_char=66
+9	how	how	SCONJ	WRB	PronType=Int	10	mark	_	start_char=67|end_char=70
+10	desperate	desperate	ADJ	JJ	Degree=Pos	8	ccomp	_	start_char=71|end_char=80
+11	,	,	PUNCT	,	_	12	punct	_	start_char=80|end_char=81
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=82|end_char=89
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=90|end_char=93
+14	generally	generally	ADV	RB	_	15	advmod	_	start_char=94|end_char=103
+15	stupid	stupid	ADJ	JJ	Degree=Pos	10	conj	_	start_char=104|end_char=110
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=111|end_char=115
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=116|end_char=119
+18	.	.	PUNCT	.	_	5	punct	_	start_char=119|end_char=120
+

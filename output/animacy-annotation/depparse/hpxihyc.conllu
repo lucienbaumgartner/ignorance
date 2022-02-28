@@ -1,0 +1,20 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=3|end_char=7
+3	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=8|end_char=11
+4	?	?	PUNCT	.	_	3	punct	_	start_char=11|end_char=12
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=13|end_char=14
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	start_char=15|end_char=20
+3	've	have	AUX	VB	VerbForm=Inf	4	aux	_	start_char=20|end_char=23
+4	assumed	assume	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=24|end_char=31
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=32|end_char=35
+6	flood	flood	NOUN	NN	Number=Sing	12	nsubj	_	start_char=36|end_char=41
+7	of	of	ADP	IN	_	11	case	_	start_char=42|end_char=44
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	amod	_	start_char=45|end_char=53
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=54|end_char=57
+10	hateful	hateful	ADJ	JJ	Degree=Pos	8	conj	_	start_char=58|end_char=65
+11	comments	comment	NOUN	NNS	Number=Plur	6	nmod	_	start_char=66|end_char=74
+12	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	start_char=75|end_char=78
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	start_char=79|end_char=81
+14	.	.	PUNCT	.	_	4	punct	_	start_char=81|end_char=82
+

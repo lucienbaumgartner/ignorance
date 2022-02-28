@@ -1,0 +1,41 @@
+1	Ganyu	Ganyu	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=5
+2	,	,	PUNCT	,	_	5	punct	_	start_char=5|end_char=6
+3	not	not	ADV	RB	_	5	advmod	_	start_char=7|end_char=10
+4	necessarily	necessarily	ADV	RB	_	5	advmod	_	start_char=11|end_char=22
+5	toxic	toxic	ADJ	JJ	Degree=Pos	1	conj	_	start_char=23|end_char=28
+6	,	,	PUNCT	,	_	9	punct	_	start_char=28|end_char=29
+7	but	but	CCONJ	CC	_	9	cc	_	start_char=30|end_char=33
+8	blatantly	blatantly	ADV	RB	_	9	advmod	_	start_char=34|end_char=43
+9	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=44|end_char=52
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=53|end_char=56
+11	dumb	dumb	ADJ	JJ	Degree=Pos	9	conj	_	start_char=57|end_char=61
+12	.	.	PUNCT	.	_	1	punct	_	start_char=61|end_char=62
+
+1	Someone	someone	PRON	NN	Number=Sing	2	nsubj	_	start_char=66|end_char=73
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=74|end_char=78
+3	WT	WT	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=79|end_char=81
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=82|end_char=84
+5	better	good	ADJ	JJR	Degree=Cmp	2	ccomp	_	start_char=85|end_char=91
+6	than	than	ADP	IN	_	7	case	_	start_char=92|end_char=96
+7	Shimenawa	Shimenawa	PROPN	NNP	Number=Sing	5	obl	_	start_char=97|end_char=106
+8	's	's	PART	POS	_	7	case	_	start_char=106|end_char=108
+9	because	because	SCONJ	IN	_	11	mark	_	start_char=109|end_char=116
+10	WT	WT	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=117|end_char=119
+11	gives	give	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	start_char=120|end_char=125
+12	35	35	NUM	CD	NumType=Card	13	nummod	_	start_char=126|end_char=128
+13	%	%	SYM	NN	Number=Sing	15	compound	_	start_char=128|end_char=129
+14	Extra	Extra	ADJ	JJ	Degree=Pos	15	amod	_	start_char=130|end_char=135
+15	dmg	dmg	NOUN	NN	Number=Sing	11	obj	_	start_char=136|end_char=139
+16	on	on	ADP	IN	_	17	case	_	start_char=140|end_char=142
+17	chargeattacks	chargeattack	NOUN	NNS	Number=Plur	11	obl	_	start_char=143|end_char=156
+18	..	..	PUNCT	.	_	2	punct	_	start_char=156|end_char=158
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=159|end_char=160
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=161|end_char=164
+3	dumbfounded	dumbfounded	ADJ	JJ	Degree=Pos	0	root	_	start_char=165|end_char=176
+4	at	at	ADP	IN	_	6	case	_	start_char=177|end_char=179
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	start_char=180|end_char=184
+6	level	level	NOUN	NN	Number=Sing	3	obl	_	start_char=185|end_char=190
+7	of	of	ADP	IN	_	8	case	_	start_char=191|end_char=193
+8	stupidness	stupidness	NOUN	NN	Number=Sing	6	nmod	_	start_char=194|end_char=204
+

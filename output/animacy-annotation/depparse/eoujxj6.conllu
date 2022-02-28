@@ -1,0 +1,44 @@
+1	If	if	SCONJ	IN	_	4	mark	_	start_char=0|end_char=2
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=3|end_char=6
+3	ever	ever	ADV	RB	_	4	advmod	_	start_char=7|end_char=11
+4	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	advcl	_	start_char=12|end_char=18
+5	in	in	ADP	IN	_	8	case	_	start_char=19|end_char=21
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=22|end_char=25
+7	big	big	ADJ	JJ	Degree=Pos	8	amod	_	start_char=26|end_char=29
+8	data	datum	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=34
+9	or	or	CCONJ	CC	_	12	cc	_	start_char=35|end_char=37
+10	machine	machine	NOUN	NN	Number=Sing	12	compound	_	start_char=38|end_char=45
+11	data	datum	NOUN	NN	Number=Plur	12	compound	_	start_char=46|end_char=50
+12	field	field	NOUN	NN	Number=Sing	8	conj	_	start_char=51|end_char=56
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=57|end_char=60
+14	'd	would	AUX	MD	VerbForm=Fin	15	aux	_	start_char=60|end_char=62
+15	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=63|end_char=67
+16	how	how	SCONJ	WRB	PronType=Int	18	mark	_	start_char=68|end_char=71
+17	utterly	utterly	ADV	RB	_	18	advmod	_	start_char=72|end_char=79
+18	wrong	wrong	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=80|end_char=85
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=86|end_char=89
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	18	conj	_	start_char=90|end_char=98
+21	that	that	SCONJ	IN	_	24	mark	_	start_char=99|end_char=103
+22	blanket	blanket	NOUN	NN	Number=Sing	23	compound	_	start_char=104|end_char=111
+23	statement	statement	NOUN	NN	Number=Sing	24	nsubj	_	start_char=112|end_char=121
+24	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	start_char=122|end_char=125
+25	.	.	PUNCT	.	_	15	punct	_	start_char=125|end_char=126
+
+1	90	90	NUM	CD	NumType=Card	2	nummod	_	start_char=128|end_char=130
+2	%	%	SYM	NN	Number=Sing	8	nsubj:pass	_	start_char=130|end_char=131
+3	of	of	ADP	IN	_	6	case	_	start_char=132|end_char=134
+4	transmitted	transmit	VERB	VBN	Tense=Past|VerbForm=Part	6	amod	_	start_char=135|end_char=146
+5	internet	internet	NOUN	NN	Number=Sing	6	compound	_	start_char=147|end_char=155
+6	data	datum	NOUN	NN	Number=Sing	2	nmod	_	start_char=156|end_char=160
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=161|end_char=163
+8	tossed	toss	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=164|end_char=170
+9	.	.	PUNCT	.	_	8	punct	_	start_char=170|end_char=171
+
+1	And	and	CCONJ	CC	_	4	cc	_	start_char=173|end_char=176
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=177|end_char=178
+3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=178|end_char=180
+4	erring	err	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=181|end_char=187
+5	on	on	ADP	IN	_	6	case	_	start_char=188|end_char=190
+6	safe	safe	ADJ	JJ	Degree=Pos	4	obl	_	start_char=191|end_char=195
+7	.	.	PUNCT	.	_	4	punct	_	start_char=195|end_char=196
+

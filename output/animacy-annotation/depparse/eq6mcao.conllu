@@ -1,0 +1,27 @@
+1	Yeah	yeah	INTJ	UH	_	4	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	4	punct	_	start_char=4|end_char=5
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=6|end_char=8
+4	covered	cover	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=16
+5	that	that	SCONJ	IN	_	9	mark	_	start_char=17|end_char=21
+6	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	start_char=22|end_char=25
+7	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=26|end_char=29
+8	pretty	pretty	ADV	RB	_	9	advmod	_	start_char=30|end_char=36
+9	dumb	dumb	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=37|end_char=41
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=42|end_char=45
+11	unaware	unaware	ADJ	JJ	Degree=Pos	9	conj	_	start_char=46|end_char=53
+12	that	that	SCONJ	IN	_	16	mark	_	start_char=54|end_char=58
+13	video	video	NOUN	NN	Number=Sing	14	compound	_	start_char=59|end_char=64
+14	games	game	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=65|end_char=70
+15	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=71|end_char=75
+16	let	let	VERB	VBN	VerbForm=Part	11	ccomp	_	start_char=76|end_char=79
+17	players	player	NOUN	NNS	Number=Plur	16	obj	_	start_char=80|end_char=87
+18	do	do	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=88|end_char=90
+19	these	this	DET	DT	Number=Plur|PronType=Dem	20	det	_	start_char=91|end_char=96
+20	things	thing	NOUN	NNS	Number=Plur	18	obj	_	start_char=97|end_char=103
+21	for	for	ADP	IN	_	22	case	_	start_char=104|end_char=107
+22	years	year	NOUN	NNS	Number=Plur	18	obl	_	start_char=108|end_char=113
+23	.	.	PUNCT	.	_	4	punct	_	start_char=113|end_char=114
+
+1	Next	next	ADV	RB	_	0	root	_	start_char=115|end_char=119
+2	!	!	PUNCT	.	_	1	punct	_	start_char=119|end_char=120
+

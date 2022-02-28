@@ -1,0 +1,32 @@
+1	Sometimes	sometimes	ADV	RB	_	0	root	_	start_char=0|end_char=9
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=10|end_char=11
+2	ca	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=12|end_char=14
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	_	start_char=14|end_char=17
+4	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=25
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=26|end_char=29
+6	irrational	irrational	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=30|end_char=40
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=41|end_char=44
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=45|end_char=53
+9	of	of	ADP	IN	_	11	case	_	start_char=54|end_char=56
+10	basketball	basketball	NOUN	NN	Number=Sing	11	compound	_	start_char=57|end_char=67
+11	knowledge	knowledge	NOUN	NN	Number=Sing	6	obl	_	start_char=68|end_char=77
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=78|end_char=79
+13	few	few	ADJ	JJ	Degree=Pos	14	amod	_	start_char=80|end_char=83
+14	members	member	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=84|end_char=91
+15	of	of	ADP	IN	_	17	case	_	start_char=92|end_char=94
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=95|end_char=99
+17	sub	sub	NOUN	NN	Number=Sing	14	nmod	_	start_char=100|end_char=103
+18	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=104|end_char=107
+19	.	.	PUNCT	.	_	4	punct	_	start_char=107|end_char=108
+
+1	Kind	kind	NOUN	NN	Number=Sing	3	nsubj	_	start_char=109|end_char=113
+2	of	of	ADP	IN	_	1	fixed	_	start_char=114|end_char=116
+3	blows	blow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=117|end_char=122
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=123|end_char=125
+5	mind	mind	NOUN	NN	Number=Sing	3	obj	_	start_char=126|end_char=130
+6	that	that	PRON	WDT	PronType=Rel	8	obj	_	start_char=131|end_char=135
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	start_char=136|end_char=140
+8	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=141|end_char=146
+9	.	.	PUNCT	.	_	3	punct	_	start_char=146|end_char=147
+

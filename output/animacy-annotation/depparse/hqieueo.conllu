@@ -1,0 +1,62 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=3|end_char=6
+3	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=7|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=18|end_char=19
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=20|end_char=23
+2	seem	seem	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+3	to	to	PART	TO	_	4	mark	_	start_char=29|end_char=31
+4	forget	forget	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=32|end_char=38
+5	that	that	SCONJ	IN	_	14	mark	_	start_char=39|end_char=43
+6	judo	judo	NOUN	NN	Number=Sing	14	nsubj	_	start_char=44|end_char=48
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=49|end_char=51
+8	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=52|end_char=55
+9	most	most	ADV	RBS	Degree=Sup	10	advmod	_	start_char=56|end_char=60
+10	used	use	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	_	start_char=61|end_char=65
+11	martial	martial	ADJ	JJ	Degree=Pos	14	amod	_	start_char=66|end_char=73
+12	art	art	NOUN	NN	Number=Sing	13	compound	_	start_char=74|end_char=77
+13	training	training	NOUN	NN	Number=Sing	14	compound	_	start_char=78|end_char=86
+14	police	police	NOUN	NNS	Number=Plur	4	ccomp	_	start_char=87|end_char=93
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=94|end_char=97
+16	military	military	ADJ	JJ	Degree=Pos	17	amod	_	start_char=98|end_char=106
+17	world	world	NOUN	NN	Number=Sing	18	compound	_	start_char=107|end_char=112
+18	wide	wide	ADJ	JJ	Degree=Pos	14	conj	_	start_char=113|end_char=117
+19	.	.	PUNCT	.	_	2	punct	_	start_char=117|end_char=118
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=119|end_char=122
+2	also	also	ADV	RB	_	3	advmod	_	start_char=123|end_char=127
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=128|end_char=132
+4	issues	issue	NOUN	NNS	Number=Plur	3	obj	_	start_char=133|end_char=139
+5	reading	read	VERB	VBG	VerbForm=Ger	4	acl	_	start_char=140|end_char=147
+6	.	.	PUNCT	.	_	3	punct	_	start_char=147|end_char=148
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=149|end_char=154
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=155|end_char=158
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	start_char=159|end_char=162
+4	forms	form	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=163|end_char=168
+5	of	of	ADP	IN	_	6	case	_	start_char=169|end_char=171
+6	judo	judo	NOUN	NN	Number=Sing	4	nmod	_	start_char=172|end_char=176
+7	,	,	PUNCT	,	_	8	punct	_	start_char=176|end_char=177
+8	combat	combat	NOUN	NN	Number=Sing	6	conj	_	start_char=178|end_char=184
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=185|end_char=188
+10	competition	competition	NOUN	NN	Number=Sing	6	conj	_	start_char=189|end_char=200
+11	.	.	PUNCT	.	_	2	punct	_	start_char=200|end_char=201
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=203|end_char=206
+2	never	never	ADV	RB	_	3	advmod	_	start_char=207|end_char=212
+3	faced	face	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=213|end_char=218
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=219|end_char=220
+5	real	real	ADJ	JJ	Degree=Pos	6	amod	_	start_char=221|end_char=225
+6	judoka	judoka	NOUN	NN	Number=Sing	3	obj	_	start_char=226|end_char=232
+7	trust	trust	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=233|end_char=238
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	start_char=239|end_char=241
+9	.	.	PUNCT	.	_	3	punct	_	start_char=241|end_char=242
+
+1	But	but	CCONJ	CC	_	4	cc	_	start_char=243|end_char=246
+2	hey	hey	INTJ	UH	_	4	discourse	_	start_char=247|end_char=250
+3	be	be	AUX	VB	Mood=Imp|VerbForm=Inf	4	cop	_	start_char=251|end_char=253
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=254|end_char=262
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=263|end_char=266
+6	arrogant	arrogant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=267|end_char=275
+7	.	.	PUNCT	.	_	4	punct	_	start_char=275|end_char=276
+

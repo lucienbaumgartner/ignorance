@@ -1,0 +1,21 @@
+1	Right	right	ADV	RB	_	0	root	_	start_char=0|end_char=5
+2	but	but	CCONJ	CC	_	6	cc	_	start_char=6|end_char=9
+3	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=10|end_char=14
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=15|end_char=18
+5	whole	whole	ADJ	JJ	Degree=Pos	6	amod	_	start_char=19|end_char=24
+6	EMINEM	EMINEM	PROPN	NNP	Number=Sing	1	nsubj	_	start_char=25|end_char=31
+7	!!!	!!!	PUNCT	.	_	1	punct	_	start_char=31|end_char=34
+
+1	Page	page	NOUN	NN	Number=Sing	3	nsubj	_	start_char=35|end_char=39
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=40|end_char=42
+3	hating	hate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=43|end_char=49
+4	on	on	ADP	IN	_	5	case	_	start_char=50|end_char=52
+5	Royce	Royce	PROPN	NNP	Number=Sing	3	obl	_	start_char=53|end_char=58
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=59|end_char=61
+7	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=61|end_char=63
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=64|end_char=72
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=73|end_char=76
+10	dumb	dumb	ADJ	JJ	Degree=Pos	8	conj	_	start_char=77|end_char=81
+11	as	as	ADP	IN	_	12	case	_	start_char=82|end_char=84
+12	fuck	fuck	ADJ	JJ	Degree=Pos	10	obl	_	start_char=85|end_char=89
+

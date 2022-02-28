@@ -1,0 +1,18 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=0|end_char=3
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=4|end_char=8
+3	roommate	roommate	NOUN	NN	Number=Sing	6	nsubj	_	start_char=9|end_char=17
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=18|end_char=20
+5	so	so	ADV	RB	_	6	advmod	_	start_char=21|end_char=23
+6	judgmental	judgmental	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=47
+9	of	of	SCONJ	IN	_	13	mark	_	start_char=48|end_char=50
+10	how	how	SCONJ	WRB	PronType=Int	8	obl	_	start_char=51|end_char=54
+11	defense	defense	NOUN	NN	Number=Sing	12	compound	_	start_char=55|end_char=62
+12	contractors	contractor	NOUN	NNS	Number=Plur	13	nsubj	_	start_char=63|end_char=74
+13	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	start_char=75|end_char=79
+14	within	within	ADP	IN	_	16	case	_	start_char=80|end_char=86
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=87|end_char=90
+16	DOD	DOD	PROPN	NNP	Number=Sing	13	obl	_	start_char=91|end_char=94
+17	.	.	PUNCT	.	_	6	punct	_	start_char=94|end_char=95
+

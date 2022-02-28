@@ -1,0 +1,35 @@
+1	if	if	SCONJ	IN	_	5	mark	_	start_char=0|end_char=2
+2	someone	someone	PRON	NN	Number=Sing	5	nsubj	_	start_char=3|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=13
+4	mentally	mentally	ADV	RB	_	5	advmod	_	start_char=14|end_char=22
+5	ill	ill	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=23|end_char=26
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=27|end_char=30
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=31|end_char=38
+8	of	of	SCONJ	IN	_	9	case	_	start_char=39|end_char=41
+9	what	what	PRON	WP	PronType=Int	7	obl	_	start_char=42|end_char=46
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=47|end_char=51
+11	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=51|end_char=54
+12	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	9	acl:relcl	_	start_char=55|end_char=60
+13	,	,	PUNCT	,	_	15	punct	_	start_char=60|end_char=61
+14	then	then	ADV	RB	PronType=Dem	15	advmod	_	start_char=62|end_char=66
+15	no	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=67|end_char=69
+16	.	.	PUNCT	.	_	15	punct	_	start_char=69|end_char=70
+
+1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	start_char=71|end_char=72
+2	crime	crime	NOUN	NN	Number=Sing	6	nsubj	_	start_char=73|end_char=78
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=79|end_char=81
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=82|end_char=83
+5	only	only	ADJ	JJ	Degree=Pos	6	amod	_	start_char=84|end_char=88
+6	crime	crime	NOUN	NN	Number=Sing	0	root	_	start_char=89|end_char=94
+7	if	if	SCONJ	IN	_	9	mark	_	start_char=95|end_char=97
+8	there	there	PRON	EX	_	9	expl	_	start_char=98|end_char=103
+9	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	start_char=103|end_char=105
+10	criminal	criminal	ADJ	JJ	Degree=Pos	11	amod	_	start_char=106|end_char=114
+11	behaviour	behaviour	NOUN	NN	Number=Sing	9	nsubj	_	start_char=115|end_char=124
+12	**	**	PUNCT	NFP	_	11	punct	_	start_char=125|end_char=127
+13	and	and	CCONJ	CC	_	16	cc	_	start_char=127|end_char=130
+14	**	**	PUNCT	NFP	_	16	punct	_	start_char=130|end_char=132
+15	criminal	criminal	ADJ	JJ	Degree=Pos	16	amod	_	start_char=133|end_char=141
+16	intent	intent	NOUN	NN	Number=Sing	11	conj	_	start_char=142|end_char=148
+17	.	.	PUNCT	.	_	6	punct	_	start_char=148|end_char=149
+

@@ -1,0 +1,33 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=2|end_char=4
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=5|end_char=6
+4	lot	lot	NOUN	NN	Number=Sing	5	obl:npmod	_	start_char=7|end_char=10
+5	more	more	ADJ	JJR	Degree=Cmp	0	root	_	start_char=11|end_char=15
+6	than	than	ADP	IN	_	9	case	_	start_char=16|end_char=20
+7	simply	simply	ADV	RB	_	9	advmod	_	start_char=21|end_char=27
+8	religious	religious	ADJ	JJ	Degree=Pos	9	amod	_	start_char=28|end_char=37
+9	differences	difference	NOUN	NNS	Number=Plur	5	obl	_	start_char=38|end_char=49
+10	.	.	PUNCT	.	_	5	punct	_	start_char=49|end_char=50
+
+1	Simplying	simply	VERB	VBG	VerbForm=Ger	18	csubj	_	start_char=51|end_char=60
+2	any	any	DET	DT	_	3	det	_	start_char=61|end_char=64
+3	conflict	conflict	NOUN	NN	Number=Sing	1	obj	_	start_char=65|end_char=73
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=74|end_char=76
+5	oppression	oppression	NOUN	NN	Number=Sing	3	conj	_	start_char=77|end_char=87
+6	as	as	ADP	IN	_	10	case	_	start_char=88|end_char=90
+7	"	"	PUNCT	``	_	10	punct	_	start_char=91|end_char=92
+8	invisible	invisible	ADJ	JJ	Degree=Pos	9	amod	_	start_char=92|end_char=101
+9	sky	sky	NOUN	NN	Number=Sing	10	compound	_	start_char=102|end_char=105
+10	friend	friend	NOUN	NN	Number=Sing	1	obl	_	start_char=106|end_char=112
+11	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	advcl	_	start_char=113|end_char=117
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=118|end_char=122
+13	to	to	PART	TO	_	14	mark	_	start_char=123|end_char=125
+14	do	do	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=126|end_char=128
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	start_char=129|end_char=131
+16	"	"	PUNCT	''	_	11	punct	_	start_char=131|end_char=132
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=133|end_char=135
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=136|end_char=144
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=145|end_char=148
+20	uninformed	uninformed	ADJ	JJ	Degree=Pos	18	conj	_	start_char=149|end_char=159
+21	.	.	PUNCT	.	_	18	punct	_	start_char=159|end_char=160
+

@@ -1,0 +1,19 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=5|end_char=7
+3	true	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=8|end_char=12
+4	for	for	ADP	IN	_	5	case	_	start_char=13|end_char=16
+5	everyone	everyone	PRON	NN	Number=Sing	3	obl	_	start_char=17|end_char=25
+6	.	.	PUNCT	.	_	3	punct	_	start_char=25|end_char=26
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=28|end_char=31
+2	statement	statement	NOUN	NN	Number=Sing	6	nsubj	_	start_char=32|end_char=41
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=42|end_char=45
+4	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=46|end_char=50
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=51|end_char=53
+6	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=54|end_char=60
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=61|end_char=64
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=65|end_char=73
+9	of	of	ADP	IN	_	10	case	_	start_char=74|end_char=76
+10	context	context	NOUN	NN	Number=Sing	8	obl	_	start_char=77|end_char=84
+11	.	.	PUNCT	.	_	6	punct	_	start_char=84|end_char=85
+

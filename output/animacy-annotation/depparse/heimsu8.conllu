@@ -1,0 +1,26 @@
+1	Some	some	DET	DT	_	10	nsubj	_	start_char=0|end_char=4
+2	of	of	ADP	IN	_	7	case	_	start_char=5|end_char=7
+3	these	this	DET	DT	Number=Plur|PronType=Dem	7	det	_	start_char=8|end_char=13
+4	“	''	PUNCT	``	_	5	punct	_	start_char=14|end_char=15
+5	woke	wake	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	compound	_	start_char=15|end_char=19
+6	”	''	PUNCT	''	_	5	punct	_	start_char=19|end_char=20
+7	people	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=21|end_char=27
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=28|end_char=31
+9	so	so	ADV	RB	_	10	advmod	_	start_char=32|end_char=34
+10	misinformed	misinformed	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=46
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=47|end_char=50
+12	ignorant	ignorant	ADJ	JJ	Degree=Pos	10	conj	_	start_char=51|end_char=59
+13	that	that	SCONJ	IN	_	20	mark	_	start_char=60|end_char=64
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=65|end_char=68
+15	things	thing	NOUN	NNS	Number=Plur	20	nsubj	_	start_char=69|end_char=75
+16	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=76|end_char=80
+17	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	start_char=81|end_char=84
+18	sometimes	sometimes	ADV	RB	_	20	advmod	_	start_char=85|end_char=94
+19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=95|end_char=98
+20	flat	flat	ADJ	JJ	Degree=Pos	10	conj	_	start_char=99|end_char=103
+21	out	out	ADP	RP	_	20	compound:prt	_	start_char=104|end_char=107
+22	just	just	ADV	RB	_	23	advmod	_	start_char=108|end_char=112
+23	racist	racist	ADJ	JJ	Degree=Pos	20	xcomp	_	start_char=113|end_char=119
+24	lol	lol	INTJ	UH	_	10	discourse	_	start_char=120|end_char=123
+25	.	.	PUNCT	.	_	10	punct	_	start_char=123|end_char=124
+

@@ -1,0 +1,25 @@
+1	Rigid	rigid	ADJ	JJ	Degree=Pos	5	nsubj	_	start_char=0|end_char=5
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=6|end_char=8
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=9|end_char=10
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	_	start_char=11|end_char=16
+5	way	way	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=20
+6	to	to	PART	TO	_	7	mark	_	start_char=21|end_char=23
+7	describe	describe	VERB	VB	VerbForm=Inf	5	acl	_	start_char=24|end_char=32
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=33|end_char=35
+9	.	.	PUNCT	.	_	5	punct	_	start_char=35|end_char=36
+
+1	Rigid	rigid	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=42
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=43|end_char=46
+3	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=47|end_char=54
+4	of	of	ADP	IN	_	5	case	_	start_char=55|end_char=57
+5	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=58|end_char=61
+6	others	other	NOUN	NNS	Number=Plur	8	nmod:poss	_	start_char=62|end_char=68
+7	’	's	PART	POS	_	6	case	_	start_char=68|end_char=69
+8	lives	life	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=70|end_char=75
+9	could	could	AUX	MD	VerbForm=Fin	11	aux	_	start_char=76|end_char=81
+10	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=82|end_char=84
+11	different	different	ADJ	JJ	Degree=Pos	1	advcl	_	start_char=85|end_char=94
+12	from	from	ADP	IN	_	13	case	_	start_char=95|end_char=99
+13	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	obl	_	start_char=100|end_char=104
+14	.	.	PUNCT	.	_	1	punct	_	start_char=104|end_char=105
+

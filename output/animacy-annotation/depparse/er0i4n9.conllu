@@ -1,0 +1,51 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	mainstream	mainstream	NOUN	NN	Number=Sing	6	nsubj	_	start_char=4|end_char=14
+3	of	of	ADP	IN	_	4	case	_	start_char=15|end_char=17
+4	America	America	PROPN	NNP	Number=Sing	2	nmod	_	start_char=18|end_char=25
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=26|end_char=28
+6	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=29|end_char=35
+7	,	,	PUNCT	,	_	8	punct	_	start_char=35|end_char=36
+8	tribal	tribal	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=43
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=44|end_char=47
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=48|end_char=56
+11	.	.	PUNCT	.	_	6	punct	_	start_char=56|end_char=57
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=61|end_char=65
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=66|end_char=68
+3	true	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=69|end_char=73
+4	today	today	NOUN	NN	Number=Sing	3	obl:tmod	_	start_char=74|end_char=79
+5	and	and	CCONJ	CC	_	9	cc	_	start_char=80|end_char=83
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=84|end_char=87
+7	in	in	ADP	IN	_	9	case	_	start_char=88|end_char=90
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=91|end_char=94
+9	1960	1960	NUM	CD	NumType=Card	3	conj	_	start_char=95|end_char=99
+10	's	's	PART	POS	_	9	case	_	start_char=99|end_char=101
+11	and	and	CCONJ	CC	_	13	cc	_	start_char=102|end_char=105
+12	for	for	ADP	IN	_	13	case	_	start_char=106|end_char=109
+13	all	all	DET	DT	_	9	conj	_	start_char=110|end_char=113
+14	of	of	ADP	IN	_	16	case	_	start_char=114|end_char=116
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=117|end_char=120
+16	history	history	NOUN	NN	Number=Sing	13	nmod	_	start_char=121|end_char=128
+17	of	of	ADP	IN	_	18	case	_	start_char=129|end_char=131
+18	America	America	PROPN	NNP	Number=Sing	16	nmod	_	start_char=132|end_char=139
+19	.	.	PUNCT	.	_	3	punct	_	start_char=139|end_char=140
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=142|end_char=146
+2	at	at	ADP	IN	_	3	case	_	start_char=147|end_char=149
+3	Kapernick	Kapernick	PROPN	NNP	Number=Sing	1	obl	_	start_char=150|end_char=159
+4	today	today	NOUN	NN	Number=Sing	1	obl:tmod	_	start_char=160|end_char=165
+5	.	.	PUNCT	.	_	1	punct	_	start_char=165|end_char=166
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=168|end_char=170
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=171|end_char=173
+3	some	some	DET	DT	_	5	det	_	start_char=174|end_char=178
+4	scary	scary	ADJ	JJ	Degree=Pos	5	amod	_	start_char=179|end_char=184
+5	caricature	caricature	NOUN	NN	Number=Sing	0	root	_	start_char=185|end_char=195
+6	too	too	ADV	RB	_	5	advmod	_	start_char=196|end_char=199
+7	.	.	PUNCT	.	_	5	punct	_	start_char=199|end_char=200
+
+1	America	America	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=204|end_char=211
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=212|end_char=214
+3	garbage	garbage	NOUN	NN	Number=Sing	0	root	_	start_char=215|end_char=222
+4	.	.	PUNCT	.	_	3	punct	_	start_char=222|end_char=223
+

@@ -1,0 +1,34 @@
+1	how	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=11
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=12|end_char=15
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=16|end_char=24
+5	of	of	ADP	IN	_	6	case	_	start_char=25|end_char=27
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=28|end_char=31
+7	.	.	PUNCT	.	_	2	punct	_	start_char=31|end_char=32
+
+1	there	there	PRON	EX	_	2	expl	_	start_char=33|end_char=38
+2	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=38|end_char=40
+3	people	people	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=41|end_char=47
+4	in	in	ADP	IN	_	6	case	_	start_char=48|end_char=50
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=51|end_char=54
+6	comments	comment	NOUN	NNS	Number=Plur	3	nmod	_	start_char=55|end_char=63
+7	giving	give	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=64|end_char=70
+8	genuine	genuine	ADJ	JJ	Degree=Pos	9	amod	_	start_char=71|end_char=78
+9	advice	advice	NOUN	NN	Number=Sing	7	obj	_	start_char=79|end_char=85
+10	who	who	PRON	WP	PronType=Rel	12	nsubj	_	start_char=86|end_char=89
+11	also	also	ADV	RB	_	12	advmod	_	start_char=90|end_char=94
+12	keep	keep	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=95|end_char=99
+13	fish	fish	NOUN	NN	Number=Sing	12	obj	_	start_char=100|end_char=104
+14	and	and	CCONJ	CC	_	19	cc	_	start_char=105|end_char=108
+15	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	start_char=109|end_char=112
+16	wo	will	AUX	MD	VerbForm=Fin	19	aux	_	start_char=113|end_char=115
+17	n’t	not	PART	RB	Polarity=Neg	19	advmod	_	start_char=115|end_char=118
+18	even	even	ADV	RB	_	19	advmod	_	start_char=119|end_char=123
+19	listen	listen	VERB	VB	VerbForm=Inf	12	conj	_	start_char=124|end_char=130
+20	to	to	ADP	IN	_	21	case	_	start_char=131|end_char=133
+21	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obl	_	start_char=134|end_char=138
+22	.	.	PUNCT	.	_	2	punct	_	start_char=138|end_char=139
+
+1	jfc	jfc	NOUN	NN	Number=Sing	2	compound	_	start_char=140|end_char=143
+2	dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=144|end_char=148
+

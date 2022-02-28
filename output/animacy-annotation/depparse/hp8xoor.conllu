@@ -1,0 +1,17 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	stupid	stupid	ADJ	JJ	Degree=Pos	3	nsubj	_	start_char=4|end_char=10
+3	deserve	deserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=18
+4	compassion	compassion	NOUN	NN	Number=Sing	3	obj	_	start_char=19|end_char=29
+5	,	,	PUNCT	,	_	9	punct	_	start_char=29|end_char=30
+6	but	but	CCONJ	CC	_	9	cc	_	start_char=31|end_char=34
+7	not	not	PART	RB	_	9	advmod	_	start_char=35|end_char=38
+8	so	so	ADV	RB	_	9	advmod	_	start_char=39|end_char=41
+9	much	much	ADV	RB	_	3	conj	_	start_char=42|end_char=46
+10	for	for	ADP	IN	_	13	case	_	start_char=47|end_char=50
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=51|end_char=54
+12	willfully	willfully	ADV	RB	_	13	advmod	_	start_char=56|end_char=65
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	obl	_	start_char=66|end_char=74
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=75|end_char=78
+15	selfish	selfish	ADJ	JJ	Degree=Pos	13	conj	_	start_char=79|end_char=86
+16	.	.	PUNCT	.	_	3	punct	_	start_char=86|end_char=87
+

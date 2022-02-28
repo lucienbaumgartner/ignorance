@@ -1,0 +1,70 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=7
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=8|end_char=11
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=14
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=15|end_char=16
+5	tldr	tldr	NOUN	NN	Number=Sing	3	obj	_	start_char=17|end_char=21
+6	for	for	ADP	IN	_	8	case	_	start_char=22|end_char=25
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=26|end_char=30
+8	tldr	tldr	NOUN	NN	Number=Sing	5	nmod	_	start_char=31|end_char=35
+
+1	...	...	PUNCT	,	_	5	punct	_	start_char=37|end_char=40
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=40|end_char=44
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=45|end_char=48
+4	too	too	ADV	RB	_	5	advmod	_	start_char=49|end_char=52
+5	long	long	ADJ	JJ	Degree=Pos	0	root	_	start_char=53|end_char=57
+6	for	for	ADP	IN	_	7	case	_	start_char=58|end_char=61
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=62|end_char=65
+8	?	?	PUNCT	.	_	5	punct	_	start_char=65|end_char=66
+
+1	&gt;tldr	&gt;tldr	NOUN	NN	Number=Sing	0	root	_	start_char=68|end_char=76
+2	;	;	PUNCT	,	_	1	punct	_	start_char=76|end_char=77
+3	to	to	PART	TO	_	4	mark	_	start_char=78|end_char=80
+4	assume	assume	VERB	VB	VerbForm=Inf	1	acl	_	start_char=81|end_char=87
+5	that	that	SCONJ	IN	_	17	mark	_	start_char=88|end_char=92
+6	if	if	SCONJ	IN	_	8	mark	_	start_char=93|end_char=95
+7	someone	someone	PRON	NN	Number=Sing	8	nsubj	_	start_char=96|end_char=103
+8	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	start_char=104|end_char=109
+9	money	money	NOUN	NN	Number=Sing	8	obj	_	start_char=110|end_char=115
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=116|end_char=118
+11	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	start_char=119|end_char=124
+12	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=125|end_char=129
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=130|end_char=133
+14	lazy	lazy	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=134|end_char=138
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=139|end_char=141
+16	extremely	extremely	ADV	RB	_	17	advmod	_	start_char=142|end_char=151
+17	classist	classist	ADJ	JJ	Degree=Pos	11	ccomp	_	start_char=152|end_char=160
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=161|end_char=164
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=165|end_char=173
+20	of	of	ADP	IN	_	21	case	_	start_char=174|end_char=176
+21	why	why	SCONJ	WRB	PronType=Int	19	obl	_	start_char=177|end_char=180
+22	that	that	PRON	DT	Number=Sing|PronType=Dem	24	nsubj	_	start_char=181|end_char=185
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	start_char=186|end_char=188
+24	classist	classist	ADJ	JJ	Degree=Pos	21	acl:relcl	_	start_char=189|end_char=197
+25	.	.	PUNCT	.	_	1	punct	_	start_char=197|end_char=198
+
+1	lol	lol	INTJ	UH	_	4	discourse	_	start_char=200|end_char=203
+2	and	and	CCONJ	CC	_	4	cc	_	start_char=204|end_char=207
+3	youre	your	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=208|end_char=213
+4	complaining	complain	VERB	VBG	VerbForm=Ger	0	root	_	start_char=214|end_char=225
+5	about	about	ADP	IN	_	6	case	_	start_char=226|end_char=231
+6	others	other	NOUN	NNS	Number=Plur	4	obl	_	start_char=232|end_char=238
+7	wanting	want	VERB	VBG	VerbForm=Ger	4	advcl	_	start_char=239|end_char=246
+8	handouts	handout	NOUN	NNS	Number=Plur	7	obj	_	start_char=247|end_char=255
+9	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=256|end_char=260
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=261|end_char=264
+11	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=265|end_char=269
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	start_char=270|end_char=272
+13	to	to	PART	TO	_	14	mark	_	start_char=273|end_char=275
+14	spoon	spoon	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=276|end_char=281
+15	feed	feed	VERB	VB	VerbForm=Inf	11	xcomp	_	start_char=282|end_char=286
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	iobj	_	start_char=287|end_char=290
+17	information	information	NOUN	NN	Number=Sing	15	obj	_	start_char=291|end_char=302
+18	.	.	PUNCT	.	_	15	punct	_	start_char=302|end_char=303
+
+1	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=304|end_char=311
+2	retard	retard	NOUN	NN	Number=Sing	1	obj	_	start_char=312|end_char=318
+3	lol	lol	INTJ	UH	_	1	discourse	_	start_char=319|end_char=322
+

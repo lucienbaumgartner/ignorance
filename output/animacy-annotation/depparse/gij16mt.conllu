@@ -1,0 +1,25 @@
+1	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=5
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	_	start_char=6|end_char=9
+3	,	,	PUNCT	,	_	1	punct	_	start_char=9|end_char=10
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=11|end_char=14
+5	system	system	NOUN	NN	Number=Sing	8	nsubj	_	start_char=15|end_char=21
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=22|end_char=25
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	aux	_	start_char=26|end_char=30
+8	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	1	parataxis	_	start_char=31|end_char=37
+9	to	to	PART	TO	_	10	mark	_	start_char=38|end_char=40
+10	keep	keep	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=41|end_char=45
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=46|end_char=49
+12	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=50|end_char=56
+13	dumb	dumb	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=57|end_char=61
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=62|end_char=65
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=66|end_char=74
+16	of	of	ADP	IN	_	18	case	_	start_char=75|end_char=77
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=78|end_char=81
+18	truth	truth	NOUN	NN	Number=Sing	15	obl	_	start_char=82|end_char=87
+19	Embrace	embrace	VERB	VB	VerbForm=Inf	18	acl	_	start_char=88|end_char=95
+20	any	any	DET	DT	_	19	obj	_	start_char=96|end_char=99
+21	who	who	PRON	WP	PronType=Rel	22	nsubj	_	start_char=100|end_char=103
+22	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=104|end_char=108
+23	this	this	DET	DT	Number=Sing|PronType=Dem	24	det	_	start_char=109|end_char=113
+24	realization	realization	NOUN	NN	Number=Sing	22	obj	_	start_char=114|end_char=125
+

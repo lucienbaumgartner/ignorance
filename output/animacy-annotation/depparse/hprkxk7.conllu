@@ -1,0 +1,99 @@
+1	Omg	omg	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	what	what	PRON	WP	PronType=Int	6	obl	_	start_char=4|end_char=8
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=9|end_char=12
+4	fuck	fuck	NOUN	NN	Number=Sing	6	nsubj	_	start_char=13|end_char=17
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=18|end_char=20
+6	wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=21|end_char=26
+7	with	with	ADP	IN	_	8	case	_	start_char=27|end_char=31
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=32|end_char=35
+9	people	people	NOUN	NNS	Number=Plur	6	obl	_	start_char=36|end_char=42
+10	.	.	PUNCT	.	_	6	punct	_	start_char=42|end_char=43
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=44|end_char=47
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=47|end_char=50
+3	just	just	ADV	RB	_	4	advmod	_	start_char=51|end_char=55
+4	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=56|end_char=62
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=63|end_char=66
+6	same	same	ADJ	JJ	Degree=Pos	8	amod	_	start_char=67|end_char=71
+7	damn	damn	ADJ	JJ	Degree=Pos	8	amod	_	start_char=72|end_char=76
+8	thing	thing	NOUN	NN	Number=Sing	4	obj	_	start_char=77|end_char=82
+9	.	.	PUNCT	.	_	4	punct	_	start_char=82|end_char=83
+
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=84|end_char=88
+2	defending	defend	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=89|end_char=98
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=99|end_char=102
+4	dumbass	dumbass	NOUN	NN	Number=Sing	2	obj	_	start_char=103|end_char=110
+5	.	.	PUNCT	.	_	1	punct	_	start_char=110|end_char=111
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=113|end_char=116
+2	;	;	PUNCT	:	_	1	punct	_	start_char=116|end_char=117
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=117|end_char=119
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=119|end_char=121
+3	implying	imply	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=122|end_char=130
+4	why	why	SCONJ	WRB	PronType=Int	6	mark	_	start_char=131|end_char=134
+5	there	there	PRON	EX	_	6	expl	_	start_char=135|end_char=140
+6	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	start_char=140|end_char=142
+7	no	no	DET	DT	_	8	det	_	start_char=143|end_char=145
+8	rebellion	rebellion	NOUN	NN	Number=Sing	6	nsubj	_	start_char=146|end_char=155
+9	against	against	ADP	IN	_	10	case	_	start_char=156|end_char=163
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nmod	_	start_char=164|end_char=166
+11	all	all	PRON	PDT	_	13	det:predet	_	start_char=167|end_char=170
+12	these	this	DET	DT	Number=Plur|PronType=Dem	13	det	_	start_char=171|end_char=176
+13	centuries	century	NOUN	NNS	Number=Plur	6	obl:tmod	_	start_char=177|end_char=186
+14	.	.	PUNCT	.	_	3	punct	_	start_char=186|end_char=187
+
+1	Yes	yes	INTJ	UH	_	3	discourse	_	start_char=189|end_char=192
+2	there	there	PRON	EX	_	3	expl	_	start_char=193|end_char=198
+3	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=199|end_char=203
+4	dumbass	dumbass	NOUN	NN	Number=Sing	3	nsubj	_	start_char=204|end_char=211
+5	.	.	PUNCT	.	_	3	punct	_	start_char=211|end_char=212
+
+1	Where	where	ADV	WRB	PronType=Int	0	root	_	start_char=213|end_char=218
+2	were	be	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	1	cop	_	start_char=219|end_char=223
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	nsubj	_	start_char=224|end_char=227
+4	during	during	ADP	IN	_	6	case	_	start_char=228|end_char=234
+5	history	history	NOUN	NN	Number=Sing	6	compound	_	start_char=235|end_char=242
+6	class	class	NOUN	NN	Number=Sing	1	obl	_	start_char=243|end_char=248
+7	?	?	PUNCT	.	_	1	punct	_	start_char=248|end_char=249
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=250|end_char=252
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=253|end_char=256
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=257|end_char=261
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=262|end_char=265
+5	brutal	brutal	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=266|end_char=272
+6	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=273|end_char=276
+7	trans-atlantic	trans-atlantic	ADJ	JJ	Degree=Pos	8	amod	_	start_char=277|end_char=291
+8	shave	shave	NOUN	NN	Number=Sing	5	nsubj	_	start_char=292|end_char=297
+9	trade	trade	NOUN	NN	Number=Sing	5	nsubj	_	start_char=298|end_char=303
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=304|end_char=307
+11	?	?	PUNCT	.	_	3	punct	_	start_char=307|end_char=308
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=309|end_char=311
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=312|end_char=315
+3	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=316|end_char=326
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=327|end_char=330
+5	retribution	retribution	NOUN	NN	Number=Sing	3	obj	_	start_char=331|end_char=342
+6	of	of	ADP	IN	_	8	case	_	start_char=343|end_char=345
+7	unsuccessful	unsuccessful	ADJ	JJ	Degree=Pos	8	amod	_	start_char=346|end_char=358
+8	uprisings	uprising	NOUN	NNS	Number=Plur	5	nmod	_	start_char=359|end_char=368
+9	?	?	PUNCT	.	_	3	punct	_	start_char=368|end_char=369
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=370|end_char=372
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=373|end_char=376
+3	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=377|end_char=380
+4	slave	slave	ADJ	JJ	Degree=Pos	5	amod	_	start_char=381|end_char=386
+5	rape	rape	NOUN	NN	Number=Sing	3	obj	_	start_char=387|end_char=391
+6	?	?	PUNCT	.	_	3	punct	_	start_char=391|end_char=392
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=393|end_char=397
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=398|end_char=400
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=401|end_char=409
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=410|end_char=413
+5	offensive	offensive	ADJ	JJ	Degree=Pos	3	conj	_	start_char=414|end_char=423
+6	.	.	PUNCT	.	_	3	punct	_	start_char=423|end_char=424
+
+1	FUCK	fuck	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=425|end_char=429
+2	OFF	off	ADP	RP	_	1	compound:prt	_	start_char=430|end_char=433
+3	.	.	PUNCT	.	_	1	punct	_	start_char=433|end_char=434
+

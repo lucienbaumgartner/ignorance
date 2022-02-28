@@ -1,0 +1,34 @@
+1	Anything	anything	PRON	NN	Number=Sing	6	nsubj	_	start_char=0|end_char=8
+2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=9|end_char=12
+3	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	start_char=13|end_char=17
+4	-	-	PUNCT	,	_	6	punct	_	start_char=18|end_char=19
+5	could	could	AUX	MD	VerbForm=Fin	6	aux	_	start_char=20|end_char=25
+6	backfire	backfire	VERB	VB	VerbForm=Inf	0	root	_	start_char=26|end_char=34
+7	.	.	PUNCT	.	_	6	punct	_	start_char=34|end_char=35
+
+1	Flat	Flat	ADJ	JJ	Degree=Pos	5	advmod	_	start_char=36|end_char=40
+2	out	out	ADP	RP	_	1	advmod	_	start_char=41|end_char=44
+3	ignoring	ignore	VERB	VBG	VerbForm=Ger	1	advcl	_	start_char=45|end_char=53
+4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=54|end_char=57
+5	could	could	AUX	MD	VerbForm=Fin	0	root	_	start_char=58|end_char=63
+6	also	also	ADV	RB	_	5	advmod	_	start_char=64|end_char=68
+7	...	...	PUNCT	,	_	5	punct	_	start_char=68|end_char=71
+8	esp	esp	ADV	RB	_	5	advmod	_	start_char=71|end_char=74
+9	if	if	SCONJ	IN	_	14	mark	_	start_char=75|end_char=77
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	start_char=78|end_char=80
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	start_char=81|end_char=83
+12	THAT	that	SCONJ	IN	_	14	mark	_	start_char=84|end_char=88
+13	socially	socially	ADV	RB	_	14	advmod	_	start_char=89|end_char=97
+14	unaware	unaware	ADJ	JJ	Degree=Pos	17	amod	_	start_char=98|end_char=105
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=106|end_char=109
+16	incel-ish	incel-ish	ADJ	JJ	Degree=Pos	14	conj	_	start_char=110|end_char=119
+17	acting	acting	NOUN	NN	Number=Sing	11	nsubj	_	start_char=120|end_char=126
+18	(	(	PUNCT	-LRB-	_	21	punct	_	start_char=127|end_char=128
+19	which	which	PRON	WDT	PronType=Rel	21	obj	_	start_char=128|end_char=133
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=134|end_char=136
+21	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	start_char=137|end_char=142
+22	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	start_char=143|end_char=145
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	start_char=146|end_char=148
+24	)	)	PUNCT	-RRB-	_	21	punct	_	start_char=148|end_char=149
+25	.	.	PUNCT	.	_	5	punct	_	start_char=149|end_char=150
+

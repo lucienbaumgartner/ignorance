@@ -1,0 +1,21 @@
+1	Perhaps	perhaps	ADV	RB	_	5	advmod	_	start_char=0|end_char=7
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	start_char=8|end_char=11
+3	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+4	simultaneously	simultaneously	ADV	RB	Degree=Pos	5	advmod	_	start_char=15|end_char=29
+5	aware	aware	ADJ	JJ	Degree=Pos	0	root	_	start_char=30|end_char=35
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=36|end_char=39
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=40|end_char=47
+8	of	of	ADP	IN	_	10	case	_	start_char=48|end_char=50
+9	such	such	ADJ	JJ	Degree=Pos	10	amod	_	start_char=51|end_char=55
+10	things	thing	NOUN	NNS	Number=Plur	7	obl	_	start_char=56|end_char=62
+11	due	due	ADP	IN	_	14	case	_	start_char=63|end_char=66
+12	to	to	ADP	IN	_	11	fixed	_	start_char=67|end_char=69
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=70|end_char=73
+14	paradox	paradox	NOUN	NN	Number=Sing	5	obl	_	start_char=74|end_char=81
+15	of	of	ADP	IN	_	19	case	_	start_char=82|end_char=84
+16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=85|end_char=88
+17	multi	multi	ADJ	JJ	Degree=Pos	18	amod	_	start_char=89|end_char=94
+18	verse	verse	NOUN	NN	Number=Sing	19	compound	_	start_char=95|end_char=100
+19	theory	theory	NOUN	NN	Number=Sing	14	nmod	_	start_char=101|end_char=107
+20	.	.	PUNCT	.	_	5	punct	_	start_char=107|end_char=108
+

@@ -1,0 +1,34 @@
+1	Old	Old	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=3
+2	PB	PB	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=4|end_char=6
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=7|end_char=10
+4	amazing	amazing	ADJ	JJ	Degree=Pos	0	root	_	start_char=11|end_char=18
+5	,	,	PUNCT	,	_	6	punct	_	start_char=18|end_char=19
+6	same	same	ADJ	JJ	Degree=Pos	4	conj	_	start_char=20|end_char=24
+7	with	with	ADP	IN	_	8	case	_	start_char=25|end_char=29
+8	Supernova	Supernova	PROPN	NNP	Number=Sing	6	obl	_	start_char=30|end_char=39
+9	.	.	PUNCT	.	_	4	punct	_	start_char=39|end_char=40
+
+1	Best	good	ADJ	JJS	Degree=Sup	2	amod	_	start_char=41|end_char=45
+2	days	day	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=46|end_char=50
+3	of	of	SCONJ	IN	_	4	case	_	start_char=51|end_char=53
+4	torrenting	torrenting	NOUN	NN	Number=Sing	2	nmod	_	start_char=54|end_char=64
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=65|end_char=68
+6	certainly	certainly	ADV	RB	_	8	advmod	_	start_char=69|end_char=78
+7	behind	behind	ADP	IN	_	8	case	_	start_char=79|end_char=85
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	0	root	_	start_char=86|end_char=88
+9	,	,	PUNCT	,	_	15	punct	_	start_char=88|end_char=89
+10	or	or	CCONJ	CC	_	15	cc	_	start_char=90|end_char=92
+11	maybe	maybe	ADV	RB	_	15	advmod	_	start_char=93|end_char=98
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=99|end_char=100
+13	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=100|end_char=102
+14	just	just	ADV	RB	_	15	advmod	_	start_char=103|end_char=107
+15	old	old	ADJ	JJ	Degree=Pos	8	conj	_	start_char=108|end_char=111
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=112|end_char=115
+17	unaware	unaware	ADJ	JJ	Degree=Pos	15	conj	_	start_char=116|end_char=123
+18	of	of	ADP	IN	_	20	case	_	start_char=124|end_char=126
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=127|end_char=130
+20	scene	scene	NOUN	NN	Number=Sing	17	obl	_	start_char=131|end_char=136
+21	these	this	DET	DT	Number=Plur|PronType=Dem	22	det	_	start_char=137|end_char=142
+22	days	day	NOUN	NNS	Number=Plur	15	obl:tmod	_	start_char=143|end_char=147
+23	.	.	PUNCT	.	_	8	punct	_	start_char=147|end_char=148
+

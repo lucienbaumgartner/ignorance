@@ -1,0 +1,48 @@
+1	BULL-FUCKING-SHIT	bull-fucking-shit	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=17
+2	.	.	PUNCT	.	_	1	punct	_	start_char=17|end_char=18
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=19|end_char=20
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=25
+3	absolutely	absolutely	ADV	RB	_	4	advmod	_	start_char=26|end_char=36
+4	0	0	NUM	CD	NumType=Card	5	nummod	_	start_char=37|end_char=38
+5	sympathy	sympathy	NOUN	NN	Number=Sing	2	obj	_	start_char=39|end_char=47
+6	for	for	ADP	IN	_	8	case	_	start_char=48|end_char=51
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=52|end_char=53
+8	person	person	NOUN	NN	Number=Sing	5	nmod	_	start_char=54|end_char=60
+9	so	so	ADV	RB	_	10	advmod	_	start_char=61|end_char=63
+10	detached	detached	ADJ	JJ	Degree=Pos	8	amod	_	start_char=64|end_char=72
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=73|end_char=76
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=77|end_char=84
+13	that	that	SCONJ	IN	_	16	mark	_	start_char=85|end_char=89
+14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	start_char=90|end_char=94
+15	could	could	AUX	MD	VerbForm=Fin	16	aux	_	start_char=95|end_char=100
+16	get	get	VERB	VB	VerbForm=Inf	12	ccomp	_	start_char=101|end_char=104
+17	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	16	obj	_	start_char=105|end_char=115
+18	caught	catch	VERB	VBN	Tense=Past|VerbForm=Part	16	xcomp	_	start_char=116|end_char=122
+19	in	in	ADP	IN	_	21	case	_	start_char=123|end_char=125
+20	this	this	DET	DT	Number=Sing|PronType=Dem	21	det	_	start_char=126|end_char=130
+21	situation	situation	NOUN	NN	Number=Sing	18	obl	_	start_char=131|end_char=140
+22	.	.	PUNCT	.	_	2	punct	_	start_char=140|end_char=141
+
+1	Flat	flat	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=142|end_char=146
+2	out	out	ADP	RP	_	1	compound:prt	_	start_char=147|end_char=150
+3	none	none	NOUN	NN	Number=Sing	1	obj	_	start_char=151|end_char=155
+4	.	.	PUNCT	.	_	1	punct	_	start_char=155|end_char=156
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=157|end_char=158
+2	draw	draw	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=159|end_char=163
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=164|end_char=165
+4	big	big	ADJ	JJ	Degree=Pos	6	amod	_	start_char=166|end_char=169
+5	fat	fat	ADJ	JJ	Degree=Pos	6	amod	_	start_char=170|end_char=173
+6	line	line	NOUN	NN	Number=Sing	2	obj	_	start_char=174|end_char=178
+7	in	in	ADP	IN	_	9	case	_	start_char=179|end_char=181
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=182|end_char=185
+9	sand	sand	NOUN	NN	Number=Sing	2	obl	_	start_char=186|end_char=190
+10	right	right	ADV	RB	_	13	advmod	_	start_char=191|end_char=196
+11	at	at	ADP	IN	_	13	case	_	start_char=197|end_char=199
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	start_char=200|end_char=204
+13	level	level	NOUN	NN	Number=Sing	2	obl	_	start_char=205|end_char=210
+14	of	of	ADP	IN	_	15	case	_	start_char=211|end_char=213
+15	stupid	stupid	ADJ	JJ	Degree=Pos	13	nmod	_	start_char=214|end_char=220
+16	.	.	PUNCT	.	_	2	punct	_	start_char=220|end_char=221
+

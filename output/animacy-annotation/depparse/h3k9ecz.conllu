@@ -1,0 +1,23 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=5|end_char=7
+3	such	such	PRON	PDT	_	6	det:predet	_	start_char=8|end_char=12
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=13|end_char=14
+5	bad	bad	ADJ	JJ	Degree=Pos	6	amod	_	start_char=15|end_char=18
+6	take	take	NOUN	NN	Number=Sing	0	root	_	start_char=19|end_char=23
+7	.	.	PUNCT	.	_	6	punct	_	start_char=23|end_char=24
+
+1	Not	not	ADV	RB	_	5	advmod	_	start_char=25|end_char=28
+2	to	to	PART	TO	_	5	mark	_	start_char=29|end_char=31
+3	mention	mention	VERB	VB	VerbForm=Inf	5	advmod	_	start_char=32|end_char=39
+4	extremely	extremely	ADV	RB	_	5	advmod	_	start_char=40|end_char=49
+5	entitled	entitled	ADJ	JJ	Degree=Pos	0	root	_	start_char=50|end_char=58
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=59|end_char=62
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=63|end_char=71
+8	of	of	ADP	IN	_	9	case	_	start_char=72|end_char=74
+9	what	what	PRON	WP	PronType=Int	7	obl	_	start_char=75|end_char=79
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=80|end_char=83
+11	lore	lore	NOUN	NN	Number=Sing	13	nsubj	_	start_char=84|end_char=88
+12	actually	actually	ADV	RB	_	13	advmod	_	start_char=89|end_char=97
+13	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=98|end_char=102
+14	.	.	PUNCT	.	_	5	punct	_	start_char=102|end_char=103
+

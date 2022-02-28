@@ -1,0 +1,18 @@
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=4|end_char=8
+3	n't	not	PART	RB	_	4	advmod	_	start_char=8|end_char=11
+4	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=12|end_char=16
+5	protecting	protect	VERB	VBG	VerbForm=Ger	4	xcomp	_	start_char=17|end_char=27
+6	.	.	PUNCT	.	_	4	punct	_	start_char=27|end_char=28
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=30|end_char=32
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=32|end_char=34
+3	not	not	PART	RB	_	2	advmod	_	start_char=35|end_char=38
+4	like	like	SCONJ	IN	_	7	mark	_	start_char=39|end_char=43
+5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=44|end_char=47
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=47|end_char=49
+7	unaware	unaware	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=50|end_char=57
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=58|end_char=61
+9	oblivious	oblivious	ADJ	JJ	Degree=Pos	7	conj	_	start_char=62|end_char=71
+10	.	.	PUNCT	.	_	2	punct	_	start_char=71|end_char=72
+

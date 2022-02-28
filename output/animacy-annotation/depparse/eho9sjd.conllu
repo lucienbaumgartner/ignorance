@@ -1,0 +1,26 @@
+1	Dude	dude	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	next	next	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=9
+3	time	time	NOUN	NN	Number=Sing	1	nmod:tmod	_	start_char=10|end_char=14
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=15|end_char=16
+5	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=17|end_char=20
+6	anyone	anyone	PRON	NN	Number=Sing	5	obj	_	start_char=21|end_char=27
+7	wearing	wear	VERB	VBG	VerbForm=Ger	6	acl	_	start_char=28|end_char=35
+8	red	red	ADJ	JJ	Degree=Pos	7	obj	_	start_char=36|end_char=39
+9	anything	anything	PRON	NN	Number=Sing	7	obj	_	start_char=40|end_char=48
+10	I'mma	I'mma	PRON	WDT	PronType=Prs	11	nsubj	_	start_char=49|end_char=54
+11	slap	slap	VERB	VB	VerbForm=Inf	9	acl:relcl	_	start_char=55|end_char=59
+12	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	start_char=60|end_char=64
+13	in	in	ADP	IN	_	15	case	_	start_char=65|end_char=67
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=68|end_char=71
+15	face	face	NOUN	NN	Number=Sing	11	obl	_	start_char=72|end_char=76
+16	.	.	PUNCT	.	_	1	punct	_	start_char=76|end_char=77
+
+1	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=79|end_char=82
+2	how	how	SCONJ	WRB	PronType=Int	3	mark	_	start_char=83|end_char=86
+3	stupid	stupid	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=87|end_char=93
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=94|end_char=97
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=98|end_char=106
+6	that	that	PRON	WDT	Number=Sing|PronType=Rel	7	nsubj	_	start_char=107|end_char=111
+7	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=112|end_char=118
+8	?	?	PUNCT	.	_	1	punct	_	start_char=118|end_char=119
+

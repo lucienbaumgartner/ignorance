@@ -1,0 +1,8 @@
+1	Wrong	wrong	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=6|end_char=9
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=10|end_char=18
+4	of	of	ADP	IN	_	6	case	_	start_char=19|end_char=21
+5	current	current	ADJ	JJ	Degree=Pos	6	amod	_	start_char=22|end_char=29
+6	reality	reality	NOUN	NN	Number=Sing	1	obl	_	start_char=30|end_char=37
+7	.	.	PUNCT	.	_	1	punct	_	start_char=37|end_char=38
+

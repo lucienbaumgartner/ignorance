@@ -1,0 +1,46 @@
+1	Lol	lol	INTJ	UH	_	2	discourse	_	start_char=0|end_char=3
+2	look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	at	at	SCONJ	IN	_	4	case	_	start_char=9|end_char=11
+4	what	what	PRON	WP	PronType=Int	2	obl	_	start_char=12|end_char=16
+5	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	start_char=17|end_char=25
+6	to	to	ADP	IN	_	8	case	_	start_char=26|end_char=28
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=29|end_char=32
+8	markets	market	NOUN	NNS	Number=Plur	5	obl	_	start_char=33|end_char=40
+9	surrounding	surround	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=41|end_char=52
+10	Toronto	Toronto	PROPN	NNP	Number=Sing	9	obj	_	start_char=53|end_char=60
+11	.	.	PUNCT	.	_	2	punct	_	start_char=60|end_char=61
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=63|end_char=65
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=66|end_char=69
+3	bound	bind	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=70|end_char=75
+4	to	to	PART	TO	_	5	mark	_	start_char=76|end_char=78
+5	happen	happen	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=79|end_char=85
+6	.	.	PUNCT	.	_	3	punct	_	start_char=85|end_char=86
+
+1	Unfair	unfair	ADJ	JJ	Degree=Pos	0	root	_	start_char=88|end_char=94
+2	,	,	PUNCT	,	_	1	punct	_	start_char=94|end_char=95
+3	absolutely	absolutely	ADV	RB	_	1	discourse	_	start_char=96|end_char=106
+4	.	.	PUNCT	.	_	1	punct	_	start_char=106|end_char=107
+
+1	Ridiculous	Ridiculous	ADJ	JJ	Degree=Pos	0	root	_	start_char=108|end_char=118
+2	,	,	PUNCT	,	_	1	punct	_	start_char=118|end_char=119
+3	also	also	ADV	RB	_	1	advmod	_	start_char=120|end_char=124
+4	yes	yes	INTJ	UH	_	1	discourse	_	start_char=125|end_char=128
+5	.	.	PUNCT	.	_	1	punct	_	start_char=128|end_char=129
+
+1	But	but	CCONJ	CC	_	11	cc	_	start_char=130|end_char=133
+2	to	to	PART	TO	_	3	mark	_	start_char=134|end_char=136
+3	think	think	VERB	VB	VerbForm=Inf	11	csubj	_	start_char=137|end_char=142
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=143|end_char=145
+5	would	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=146|end_char=151
+6	n't	not	PART	RB	_	7	advmod	_	start_char=151|end_char=154
+7	happen	happen	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=155|end_char=161
+8	here	here	ADV	RB	PronType=Dem	7	advmod	_	start_char=162|end_char=166
+9	would	would	AUX	MD	VerbForm=Fin	11	aux	_	start_char=167|end_char=172
+10	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=173|end_char=175
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=176|end_char=184
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=185|end_char=188
+13	wishful	wishful	ADJ	JJ	Degree=Pos	11	conj	_	start_char=189|end_char=196
+14	thinking	think	VERB	VBG	VerbForm=Ger	11	advcl	_	start_char=197|end_char=205
+15	.	.	PUNCT	.	_	11	punct	_	start_char=205|end_char=206
+

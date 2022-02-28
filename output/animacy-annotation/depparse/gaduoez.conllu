@@ -1,0 +1,29 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=0|end_char=3
+2	n't	not	PART	RB	_	3	advmod	_	start_char=3|end_char=6
+3	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=7|end_char=12
+4	about	about	ADP	IN	_	5	case	_	start_char=13|end_char=18
+5	Quagsire	Quagsire	PROPN	NNP	Number=Sing	3	obl	_	start_char=19|end_char=27
+6	,	,	PUNCT	,	_	8	punct	_	start_char=27|end_char=28
+7	will	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=29|end_char=33
+8	try	try	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=34|end_char=37
+9	to	to	PART	TO	_	10	mark	_	start_char=38|end_char=40
+10	find	find	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=41|end_char=45
+11	one	one	NUM	CD	NumType=Card	10	obj	_	start_char=46|end_char=49
+12	with	with	ADP	IN	_	16	case	_	start_char=50|end_char=54
+13	Unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=55|end_char=62
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=63|end_char=66
+15	good	good	ADJ	JJ	Degree=Pos	13	conj	_	start_char=67|end_char=71
+16	IVs	iv	NOUN	NNS	Number=Plur	11	nmod	_	start_char=72|end_char=75
+17	.	.	PUNCT	.	_	3	punct	_	start_char=75|end_char=76
+
+1	Also	also	ADV	RB	_	5	advmod	_	start_char=78|end_char=82
+2	,	,	PUNCT	,	_	5	punct	_	start_char=82|end_char=83
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=84|end_char=86
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=87|end_char=90
+5	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=91|end_char=95
+6	any	any	DET	DT	_	7	det	_	start_char=96|end_char=99
+7	idea	idea	NOUN	NN	Number=Sing	5	obj	_	start_char=100|end_char=104
+8	for	for	ADP	IN	_	9	case	_	start_char=105|end_char=108
+9	Grimmsnarl	Grimmsnarl	PROPN	NNP	Number=Sing	7	nmod	_	start_char=109|end_char=119
+10	?	?	PUNCT	.	_	5	punct	_	start_char=119|end_char=120
+

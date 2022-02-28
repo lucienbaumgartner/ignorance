@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	remember	remember	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=10
+3	back	back	ADV	RB	_	2	advmod	_	start_char=11|end_char=15
+4	when	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=16|end_char=20
+5	there	there	PRON	EX	_	6	expl	_	start_char=21|end_char=26
+6	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=27|end_char=31
+7	only	only	ADV	RB	_	8	advmod	_	start_char=32|end_char=36
+8	planes	plane	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=37|end_char=43
+9	,	,	PUNCT	,	_	11	punct	_	start_char=43|end_char=44
+10	so	so	ADV	RB	_	11	advmod	_	start_char=45|end_char=47
+11	innocent	innocent	ADJ	JJ	Degree=Pos	8	amod	_	start_char=48|end_char=56
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=57|end_char=60
+13	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=61|end_char=68
+14	of	of	ADP	IN	_	16	case	_	start_char=69|end_char=71
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=72|end_char=75
+16	pain	pain	NOUN	NN	Number=Sing	13	obl	_	start_char=76|end_char=80
+17	to	to	PART	TO	_	18	mark	_	start_char=81|end_char=83
+18	come	come	VERB	VB	VerbForm=Inf	16	acl	_	start_char=84|end_char=88
+19	.	.	PUNCT	.	_	2	punct	_	start_char=88|end_char=89
+

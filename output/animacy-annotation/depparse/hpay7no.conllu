@@ -1,0 +1,16 @@
+1	Underdeveloped	underdeveloped	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=14
+2	?	?	PUNCT	.	_	1	punct	_	start_char=14|end_char=15
+
+1	Please	please	INTJ	UH	_	2	discourse	_	start_char=16|end_char=22
+2	educate	educate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=23|end_char=30
+3	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	obj	_	start_char=31|end_char=39
+4	.	.	PUNCT	.	_	2	punct	_	start_char=39|end_char=40
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=41|end_char=45
+2	comment	comment	NOUN	NN	Number=Sing	3	nsubj	_	start_char=46|end_char=53
+3	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=54|end_char=60
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=61|end_char=69
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=70|end_char=73
+6	racist	racist	ADJ	JJ	Degree=Pos	4	conj	_	start_char=74|end_char=80
+7	.	.	PUNCT	.	_	3	punct	_	start_char=80|end_char=81
+

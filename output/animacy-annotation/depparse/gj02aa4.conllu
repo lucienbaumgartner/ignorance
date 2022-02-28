@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=1|end_char=3
+3	mad	mad	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=7
+4	that	that	SCONJ	IN	_	8	mark	_	start_char=8|end_char=12
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=13|end_char=14
+6	’ll	will	AUX	MD	VerbForm=Fin	8	aux	_	start_char=14|end_char=17
+7	now	now	ADV	RB	_	8	advmod	_	start_char=18|end_char=21
+8	have	have	VERB	VB	VerbForm=Inf	3	ccomp	_	start_char=22|end_char=26
+9	to	to	PART	TO	_	10	mark	_	start_char=27|end_char=29
+10	come	come	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=30|end_char=34
+11	back	back	ADV	RB	_	10	advmod	_	start_char=35|end_char=39
+12	later	late	ADV	RB	Degree=Cmp	10	advmod	_	start_char=40|end_char=45
+13	to	to	PART	TO	_	15	mark	_	start_char=46|end_char=48
+14	properly	properly	ADV	RB	_	15	advmod	_	start_char=49|end_char=57
+15	articulate	articulate	VERB	VB	VerbForm=Inf	10	advcl	_	start_char=58|end_char=68
+16	how	how	SCONJ	WRB	PronType=Int	17	mark	_	start_char=69|end_char=72
+17	misguided	misguided	ADJ	JJ	Degree=Pos	15	ccomp	_	start_char=73|end_char=82
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=83|end_char=86
+19	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=87|end_char=95
+20	that	that	DET	DT	Number=Sing|PronType=Dem	21	det	_	start_char=96|end_char=100
+21	statement	statement	NOUN	NN	Number=Sing	22	nsubj	_	start_char=101|end_char=110
+22	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=111|end_char=113
+23	...	...	PUNCT	.	_	3	punct	_	start_char=113|end_char=116
+

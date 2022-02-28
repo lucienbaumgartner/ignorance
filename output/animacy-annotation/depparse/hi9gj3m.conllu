@@ -1,0 +1,164 @@
+1	Wow	wow	INTJ	UH	_	0	root	_	start_char=0|end_char=3
+2	…	…	PUNCT	.	_	1	punct	_	start_char=3|end_char=4
+
+1	Ok	ok	INTJ	UH	_	0	root	_	start_char=4|end_char=6
+2	.	.	PUNCT	.	_	1	punct	_	start_char=6|end_char=7
+
+1	Obviously	obviously	ADV	RB	_	4	advmod	_	start_char=8|end_char=17
+2	,	,	PUNCT	,	_	4	punct	_	start_char=17|end_char=18
+3	there	there	PRON	EX	_	4	expl	_	start_char=19|end_char=24
+4	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=26
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=27|end_char=28
+6	disconnect	disconnect	NOUN	NN	Number=Sing	4	nsubj	_	start_char=29|end_char=39
+7	here	here	ADV	RB	PronType=Dem	6	advmod	_	start_char=40|end_char=44
+8	.	.	PUNCT	.	_	4	punct	_	start_char=44|end_char=45
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=46|end_char=48
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=48|end_char=50
+3	just	just	ADV	RB	_	5	advmod	_	start_char=51|end_char=55
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=56|end_char=57
+5	fact	fact	NOUN	NN	Number=Sing	0	root	_	start_char=58|end_char=62
+6	that	that	SCONJ	IN	_	9	mark	_	start_char=63|end_char=67
+7	K-Pop	K-Pop	PROPN	NNP	Number=Sing	9	nsubj:pass	_	start_char=68|end_char=73
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	start_char=74|end_char=76
+9	inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	start_char=77|end_char=85
+10	by	by	ADP	IN	_	13	case	_	start_char=86|end_char=88
+11	Western	western	ADJ	JJ	Degree=Pos	13	amod	_	start_char=89|end_char=96
+12	pop	pop	NOUN	NN	Number=Sing	13	compound	_	start_char=97|end_char=100
+13	ideologies	ideology	NOUN	NNS	Number=Plur	9	obl	_	start_char=101|end_char=111
+14	.	.	PUNCT	.	_	5	punct	_	start_char=111|end_char=112
+
+1	Everyone	everyone	PRON	NN	Number=Sing	2	nsubj	_	start_char=113|end_char=121
+2	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=122|end_char=127
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	start_char=128|end_char=132
+4	.	.	PUNCT	.	_	2	punct	_	start_char=132|end_char=133
+
+1	Also	also	ADV	RB	_	10	advmod	_	start_char=134|end_char=138
+2	,	,	PUNCT	,	_	10	punct	_	start_char=138|end_char=139
+3	some	some	DET	DT	_	4	det	_	start_char=140|end_char=144
+4	Koreans	Koreans	PROPN	NNPS	Number=Plur	10	nsubj	_	start_char=145|end_char=152
+5	in	in	ADP	IN	_	6	case	_	start_char=153|end_char=155
+6	K-Pop	K-Pop	PROPN	NNP	Number=Sing	4	nmod	_	start_char=156|end_char=161
+7	culturally	culturally	ADV	RB	_	8	advmod	_	start_char=162|end_char=172
+8	appropriate	appropriate	ADJ	JJ	Degree=Pos	10	ccomp	_	start_char=173|end_char=184
+9	,	,	PUNCT	,	_	10	punct	_	start_char=184|end_char=185
+10	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=186|end_char=189
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=190|end_char=193
+12	N-word	N-word	PROPN	NNP	Number=Sing	18	nsubj	_	start_char=194|end_char=200
+13	,	,	PUNCT	,	_	18	punct	_	start_char=200|end_char=201
+14	and	and	CCONJ	CC	_	18	cc	_	start_char=202|end_char=205
+15	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=206|end_char=209
+16	culturally	culturally	ADV	RB	_	18	advmod	_	start_char=210|end_char=220
+17	-	-	PUNCT	HYPH	_	18	punct	_	start_char=220|end_char=221
+18	insensitive	insensitive	ADJ	JJ	Degree=Pos	10	conj	_	start_char=221|end_char=232
+19	.	.	PUNCT	.	_	10	punct	_	start_char=232|end_char=233
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=234|end_char=238
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=239|end_char=241
+3	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=241|end_char=244
+4	“	''	PUNCT	``	_	5	punct	_	start_char=245|end_char=246
+5	imperialist	imperialist	ADJ	JJ	Degree=Pos	0	root	_	start_char=246|end_char=257
+6	”	''	PUNCT	''	_	5	punct	_	start_char=257|end_char=258
+7	.	.	PUNCT	.	_	5	punct	_	start_char=258|end_char=259
+
+1	And	and	CCONJ	CC	_	17	cc	_	start_char=260|end_char=263
+2	,	,	PUNCT	,	_	17	punct	_	start_char=263|end_char=264
+3	whether	whether	SCONJ	IN	_	7	mark	_	start_char=265|end_char=272
+4	or	or	CCONJ	CC	_	5	cc	_	start_char=273|end_char=275
+5	not	not	ADV	RB	_	3	fixed	_	start_char=276|end_char=279
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	start_char=280|end_char=282
+7	call	call	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	start_char=283|end_char=287
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	start_char=288|end_char=290
+9	K	k	NUM	CD	NumType=Card	7	obj	_	start_char=291|end_char=292
+10	,	,	PUNCT	,	_	17	punct	_	start_char=292|end_char=293
+11	J	J	INTJ	UH	_	17	discourse	_	start_char=294|end_char=295
+12	,	,	PUNCT	,	_	17	punct	_	start_char=295|end_char=296
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=297|end_char=298
+14	or	or	CCONJ	CC	_	15	cc	_	start_char=299|end_char=301
+15	anything	anything	PRON	NN	Number=Sing	13	conj	_	start_char=302|end_char=310
+16	else	else	ADJ	JJ	Degree=Pos	15	amod	_	start_char=311|end_char=315
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=316|end_char=318
+18	only	only	ADV	RB	_	20	advmod	_	start_char=319|end_char=323
+19	to	to	PART	TO	_	20	mark	_	start_char=324|end_char=326
+20	differentiate	differentiate	VERB	VB	VerbForm=Inf	17	ccomp	_	start_char=327|end_char=340
+21	.	.	PUNCT	.	_	17	punct	_	start_char=340|end_char=341
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=342|end_char=344
+2	use	use	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=345|end_char=348
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=349|end_char=351
+4	to	to	PART	TO	_	5	mark	_	start_char=352|end_char=354
+5	identify	identify	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=355|end_char=363
+6	.	.	PUNCT	.	_	2	punct	_	start_char=363|end_char=364
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=365|end_char=368
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=368|end_char=371
+3	still	still	ADV	RB	_	4	advmod	_	start_char=372|end_char=377
+4	missing	miss	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=378|end_char=385
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=386|end_char=389
+6	point	point	NOUN	NN	Number=Sing	4	obj	_	start_char=390|end_char=395
+7	.	.	PUNCT	.	_	4	punct	_	start_char=395|end_char=396
+
+1	So	so	ADV	RB	_	3	advmod	_	start_char=397|end_char=399
+2	,	,	PUNCT	,	_	3	punct	_	start_char=399|end_char=400
+3	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=401|end_char=404
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	start_char=405|end_char=407
+5	break	break	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=408|end_char=413
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=414|end_char=418
+7	down	down	ADP	RP	_	5	compound:prt	_	start_char=419|end_char=423
+8	for	for	ADP	IN	_	9	case	_	start_char=424|end_char=427
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	start_char=428|end_char=431
+10	.	.	PUNCT	.	_	3	punct	_	start_char=431|end_char=432
+
+1	-	-	PUNCT	NFP	_	7	punct	_	start_char=435|end_char=436
+2	K-Pop	K-Pop	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=437|end_char=442
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=443|end_char=445
+4	n’t	not	PART	RB	_	7	advmod	_	start_char=445|end_char=448
+5	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=449|end_char=451
+6	original	original	ADJ	JJ	Degree=Pos	7	amod	_	start_char=452|end_char=460
+7	genre	genre	NOUN	NN	Number=Sing	0	root	_	start_char=461|end_char=466
+8	.	.	PUNCT	.	_	7	punct	_	start_char=466|end_char=467
+
+1	-	-	PUNCT	,	_	4	punct	_	start_char=469|end_char=470
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=471|end_char=473
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=473|end_char=475
+4	built	build	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=476|end_char=481
+5	on	on	ADP	IN	_	8	case	_	start_char=482|end_char=484
+6	Western	western	ADJ	JJ	Degree=Pos	8	amod	_	start_char=485|end_char=492
+7	pop	pop	NOUN	NN	Number=Sing	8	compound	_	start_char=493|end_char=496
+8	ideologies	ideology	NOUN	NNS	Number=Plur	4	obl	_	start_char=497|end_char=507
+9	.	.	PUNCT	.	_	4	punct	_	start_char=507|end_char=508
+
+1	-	-	PUNCT	NFP	_	7	punct	_	start_char=510|end_char=511
+2	Many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=512|end_char=516
+3	K-Pop	K-Pop	PROPN	NNP	Number=Sing	4	compound	_	start_char=517|end_char=522
+4	idols	idol	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=523|end_char=528
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=529|end_char=532
+6	culturally	culturally	ADV	RB	_	7	advmod	_	start_char=533|end_char=543
+7	inappropriate	inappropriate	ADJ	JJ	Degree=Pos	0	root	_	start_char=544|end_char=557
+8	,	,	PUNCT	,	_	9	punct	_	start_char=557|end_char=558
+9	insensitive	insensitive	ADJ	JJ	Degree=Pos	7	conj	_	start_char=559|end_char=570
+10	,	,	PUNCT	,	_	12	punct	_	start_char=570|end_char=571
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=572|end_char=575
+12	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=576|end_char=583
+13	of	of	ADP	IN	_	15	case	_	start_char=584|end_char=586
+14	racial	racial	ADJ	JJ	Degree=Pos	15	amod	_	start_char=587|end_char=593
+15	slurs	slur	NOUN	NNS	Number=Plur	12	obl	_	start_char=594|end_char=599
+16	,	,	PUNCT	,	_	17	punct	_	start_char=599|end_char=600
+17	disparities	disparity	NOUN	NNS	Number=Plur	15	conj	_	start_char=601|end_char=612
+18	,	,	PUNCT	,	_	20	punct	_	start_char=612|end_char=613
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=614|end_char=617
+20	inequities	inequity	NOUN	NNS	Number=Plur	15	conj	_	start_char=618|end_char=628
+21	that	that	PRON	WDT	PronType=Rel	24	obj	_	start_char=629|end_char=633
+22	Black	Black	ADJ	JJ	Degree=Pos	23	amod	_	start_char=634|end_char=639
+23	people	people	NOUN	NNS	Number=Plur	24	nsubj	_	start_char=640|end_char=646
+24	face	face	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	start_char=647|end_char=651
+25	.	.	PUNCT	.	_	7	punct	_	start_char=651|end_char=652
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=655|end_char=658
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=658|end_char=661
+3	completely	completely	ADV	RB	_	4	advmod	_	start_char=662|end_char=672
+4	missing	miss	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=673|end_char=680
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=681|end_char=684
+6	point	point	NOUN	NN	Number=Sing	4	obj	_	start_char=685|end_char=690
+7	.	.	PUNCT	.	_	4	punct	_	start_char=690|end_char=691
+

@@ -1,0 +1,18 @@
+1	Maybe	maybe	ADV	RB	_	8	advmod	_	start_char=0|end_char=5
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=6|end_char=9
+3	real	real	ADJ	JJ	Degree=Pos	4	amod	_	start_char=10|end_char=14
+4	threat	threat	NOUN	NN	Number=Sing	8	nsubj	_	start_char=15|end_char=21
+5	to	to	ADP	IN	_	6	case	_	start_char=22|end_char=24
+6	democracy	democracy	NOUN	NN	Number=Sing	4	nmod	_	start_char=25|end_char=34
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=35|end_char=38
+8	polices	police	NOUN	NNS	Number=Plur	0	root	_	start_char=39|end_char=46
+9	designed	design	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	_	start_char=47|end_char=55
+10	to	to	PART	TO	_	11	mark	_	start_char=56|end_char=58
+11	create	create	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=59|end_char=65
+12	an	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=66|end_char=68
+13	unaware	unaware	ADJ	JJ	Degree=Pos	16	amod	_	start_char=69|end_char=76
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=77|end_char=80
+15	compliant	compliant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=81|end_char=90
+16	citizenry	citizenry	NOUN	NN	Number=Sing	11	obj	_	start_char=91|end_char=100
+17	?	?	PUNCT	.	_	8	punct	_	start_char=100|end_char=101
+

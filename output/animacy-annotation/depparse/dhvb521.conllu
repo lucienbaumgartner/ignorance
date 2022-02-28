@@ -1,0 +1,45 @@
+1	Dear	dear	ADJ	JJ	Degree=Pos	3	amod	_	start_char=0|end_char=4
+2	white	white	ADJ	JJ	Degree=Pos	3	amod	_	start_char=5|end_char=10
+3	people	people	NOUN	NNS	Number=Plur	0	root	_	start_char=11|end_char=17
+4	.	.	PUNCT	.	_	3	punct	_	start_char=17|end_char=18
+
+1	Stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=19|end_char=23
+2	taking	take	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=24|end_char=30
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	start_char=31|end_char=35
+4	redpills	redpill	NOUN	NNS	Number=Plur	2	obj	_	start_char=36|end_char=44
+5	and	and	CCONJ	CC	_	8	cc	_	start_char=45|end_char=48
+6	being	be	AUX	VBG	VerbForm=Ger	8	aux:pass	_	start_char=49|end_char=54
+7	so	so	ADV	RB	_	8	advmod	_	start_char=55|end_char=57
+8	woke	wake	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	_	start_char=58|end_char=62
+9	.	.	PUNCT	.	_	1	punct	_	start_char=62|end_char=63
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=65|end_char=67
+2	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=68|end_char=73
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	start_char=74|end_char=76
+4	better	good	ADJ	JJR	Degree=Cmp	2	xcomp	_	start_char=77|end_char=83
+5	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=84|end_char=88
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=89|end_char=92
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=93|end_char=96
+8	unaware	unaware	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=97|end_char=104
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=105|end_char=108
+10	compliant	compliant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=109|end_char=118
+11	.	.	PUNCT	.	_	2	punct	_	start_char=118|end_char=119
+
+1	Go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=120|end_char=122
+2	back	back	ADV	RB	_	1	advmod	_	start_char=123|end_char=127
+3	to	to	PART	TO	_	4	mark	_	start_char=128|end_char=130
+4	sleep	sleep	VERB	VB	VerbForm=Inf	1	advcl	_	start_char=131|end_char=136
+5	Sinsearly	Sinsearly	PROPN	NNP	Number=Sing	8	compound	_	start_char=137|end_char=146
+6	mr	mr	PROPN	NNP	Number=Sing	8	compound	_	start_char=147|end_char=149
+7	world	world	NOUN	NN	Number=Sing	8	compound	_	start_char=150|end_char=155
+8	domination	domination	NOUN	NN	Number=Sing	9	compound	_	start_char=156|end_char=166
+9	guys	guy	NOUN	NNS	Number=Plur	4	obj	_	start_char=167|end_char=171
+10	who	who	PRON	WP	PronType=Rel	11	nsubj	_	start_char=172|end_char=175
+11	own	own	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	start_char=176|end_char=179
+12	netflix	netflix	NOUN	NN	Number=Sing	11	obj	_	start_char=180|end_char=187
+13	*	*	PUNCT	NFP	_	16	punct	_	start_char=188|end_char=189
+14	soros	soros	PROPN	NNP	Number=Sing	16	compound	_	start_char=189|end_char=194
+15	n	n	PROPN	NNP	Number=Sing	16	compound	_	start_char=195|end_char=196
+16	co	co	PROPN	NNP	Number=Sing	11	obj	_	start_char=197|end_char=199
+17	*	*	PUNCT	NFP	_	1	punct	_	start_char=199|end_char=200
+

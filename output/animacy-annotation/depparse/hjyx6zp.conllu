@@ -1,0 +1,29 @@
+1	Jesus	Jesus	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=5
+2	Christ	Christ	PROPN	NNP	Number=Sing	1	flat	_	start_char=6|end_char=12
+3	!	!	PUNCT	.	_	1	punct	_	start_char=12|end_char=13
+
+1	There	there	PRON	EX	_	2	expl	_	start_char=14|end_char=19
+2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=19|end_char=21
+3	no	no	DET	DT	_	4	det	_	start_char=22|end_char=24
+4	way	way	NOUN	NN	Number=Sing	2	nsubj	_	start_char=25|end_char=28
+5	this	this	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	start_char=29|end_char=33
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=34|end_char=36
+7	real	real	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=37|end_char=41
+8	.	.	PUNCT	.	_	2	punct	_	start_char=41|end_char=42
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=43|end_char=44
+2	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=45|end_char=51
+3	to	to	PART	TO	_	4	mark	_	start_char=52|end_char=54
+4	believe	believe	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=55|end_char=62
+5	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=63|end_char=69
+6	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=70|end_char=75
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=76|end_char=80
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=81|end_char=84
+9	this	this	PRON	DT	Number=Sing|PronType=Dem	10	obl:npmod	_	start_char=85|end_char=89
+10	bad	bad	ADJ	JJ	Degree=Pos	2	parataxis	_	start_char=90|end_char=93
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=94|end_char=97
+12	unaware	unaware	ADJ	JJ	Degree=Pos	10	conj	_	start_char=98|end_char=105
+13	of	of	ADP	IN	_	14	case	_	start_char=106|end_char=108
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obl	_	start_char=109|end_char=111
+15	.	.	PUNCT	.	_	2	punct	_	start_char=111|end_char=112
+

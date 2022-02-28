@@ -1,0 +1,8 @@
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=0|end_char=3
+2	fucking	fuck	VERB	VBG	VerbForm=Ger	0	root	_	start_char=4|end_char=11
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=12|end_char=20
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=21|end_char=24
+5	biased	biased	ADJ	JJ	Degree=Pos	3	conj	_	start_char=25|end_char=31
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=32|end_char=36
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=37|end_char=40
+

@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=2|end_char=4
+3	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=5|end_char=12
+4	!	!	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	[	[	PUNCT	-LRB-	_	5	punct	_	start_char=14|end_char=15
+2	Clinton	Clinton	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=15|end_char=22
+3	Insiders	Insider	PROPN	NNPS	Number=Plur	2	flat	_	start_char=23|end_char=31
+4	“	''	PUNCT	``	_	5	punct	_	start_char=32|end_char=33
+5	Conspired	conspire	VERB	VBD	Tense=Past|VerbForm=Part	0	root	_	start_char=33|end_char=42
+6	To	to	PART	TO	_	7	mark	_	start_char=43|end_char=45
+7	Produce	produce	VERB	VB	VerbForm=Inf	5	xcomp	_	start_char=46|end_char=53
+8	An	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=54|end_char=56
+9	Unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=57|end_char=64
+10	And	and	CCONJ	CC	_	11	cc	_	start_char=65|end_char=68
+11	Compliant	compliant	ADJ	NNP	Degree=Pos	9	conj	_	start_char=69|end_char=78
+12	Citizenry	Citizenry	PROPN	NNP	Number=Sing	7	obj	_	start_char=79|end_char=88
+13	”	''	PUNCT	''	_	5	punct	_	start_char=88|end_char=89
+14	]	]	PUNCT	-RRB-	_	5	punct	_	start_char=89|end_char=90
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=90|end_char=91
+2	http://www.activistpost.com/2016/10/wikileaks-emails-show-clinton-insiders-conspired-produce-unaware-compliant-citizenry.html?utm_content=buffer12f30&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer)	http://www.activistpost.com/2016/10/wikileaks-emails-show-clinton-insiders-conspired-produce-unaware-compliant-citizenry.html?utm_content=buffer12f30&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer)	X	ADD	_	0	root	_	start_char=91|end_char=314
+

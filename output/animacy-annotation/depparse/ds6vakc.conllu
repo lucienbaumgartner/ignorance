@@ -1,0 +1,209 @@
+1	Why	why	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=4|end_char=7
+3	hell	hell	NOUN	NN	Number=Sing	6	obj	_	start_char=8|end_char=12
+4	would	would	AUX	MD	VerbForm=Fin	6	aux	_	start_char=13|end_char=18
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=19|end_char=22
+6	spill	spill	VERB	VB	VerbForm=Inf	0	root	_	start_char=23|end_char=28
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=29|end_char=32
+8	beans	bean	NOUN	NNS	Number=Plur	6	obj	_	start_char=33|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	give	give	VERB	VB	VerbForm=Inf	6	conj	_	start_char=43|end_char=47
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=48|end_char=51
+12	establishment	establishment	NOUN	NN	Number=Sing	10	obj	_	start_char=52|end_char=65
+13	/	/	SYM	,	_	15	cc	_	start_char=65|end_char=66
+14	media	media	NOUN	NN	Number=Sing	15	compound	_	start_char=66|end_char=71
+15	time	time	NOUN	NN	Number=Sing	12	conj	_	start_char=72|end_char=76
+16	to	to	PART	TO	_	17	mark	_	start_char=77|end_char=79
+17	create	create	VERB	VB	VerbForm=Inf	10	advcl	_	start_char=80|end_char=86
+18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=87|end_char=88
+19	narrative	narrative	NOUN	NN	Number=Sing	17	obj	_	start_char=89|end_char=98
+20	before	before	SCONJ	IN	_	23	mark	_	start_char=99|end_char=105
+21	indictments	indictment	NOUN	NNS	Number=Plur	23	nsubj:pass	_	start_char=106|end_char=117
+22	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	aux:pass	_	start_char=118|end_char=121
+23	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	_	start_char=122|end_char=128
+24	??	??	PUNCT	.	_	6	punct	_	start_char=128|end_char=130
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=133|end_char=136
+2	guys	guy	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=137|end_char=141
+3	really	really	ADV	RB	_	6	advmod	_	start_char=142|end_char=148
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=149|end_char=151
+5	n't	not	PART	RB	_	6	advmod	_	start_char=151|end_char=154
+6	get	get	VERB	VB	VerbForm=Inf	0	root	_	start_char=155|end_char=158
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	start_char=159|end_char=161
+8	.	.	PUNCT	.	_	6	punct	_	start_char=161|end_char=162
+
+1	THOUSANDS	thousand	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=163|end_char=172
+2	OF	of	ADP	IN	_	3	case	_	start_char=173|end_char=175
+3	PEOPLE	people	NOUN	NNS	Number=Plur	1	nmod	_	start_char=176|end_char=182
+4	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=183|end_char=186
+5	INVOLVED	involved	ADJ	JJ	Degree=Pos	0	root	_	start_char=187|end_char=195
+6	.	.	PUNCT	.	_	5	punct	_	start_char=195|end_char=196
+
+1	FOREIGN	foreign	ADJ	JJ	Degree=Pos	2	amod	_	start_char=197|end_char=204
+2	AGENCIES	agencie	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=205|end_char=213
+3	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=214|end_char=217
+4	INVOLVED	involved	ADJ	JJ	Degree=Pos	0	root	_	start_char=218|end_char=226
+5	.	.	PUNCT	.	_	4	punct	_	start_char=226|end_char=227
+
+1	TERRORISTS	terrorist	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=228|end_char=238
+2	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=239|end_char=242
+3	INVOLVED	involved	ADJ	JJ	Degree=Pos	0	root	_	start_char=243|end_char=251
+4	.	.	PUNCT	.	_	3	punct	_	start_char=251|end_char=252
+
+1	HUNDREDS	hundred	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=253|end_char=261
+2	OF	of	ADP	IN	_	3	case	_	start_char=262|end_char=264
+3	COMPANIES	companies	NOUN	NNS	Number=Plur	1	nmod	_	start_char=265|end_char=274
+4	ARE	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=275|end_char=278
+5	INVOLVED	involved	ADJ	JJ	Degree=Pos	0	root	_	start_char=279|end_char=287
+6	.	.	PUNCT	.	_	5	punct	_	start_char=287|end_char=288
+
+1	OUR	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=291|end_char=294
+2	MOST	most	ADV	RBS	_	3	advmod	_	start_char=295|end_char=299
+3	TOP	top	ADJ	JJ	Degree=Pos	5	amod	_	start_char=300|end_char=303
+4	SECRET	secret	ADJ	JJ	Degree=Pos	5	amod	_	start_char=304|end_char=310
+5	INFO	info	NOUN	NN	Number=Sing	7	nsubj:pass	_	start_char=311|end_char=315
+6	WAS	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	start_char=316|end_char=319
+7	LEAKED	leaked	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=320|end_char=326
+8	AND	and	CCONJ	CC	_	9	cc	_	start_char=327|end_char=330
+9	SOLD	sold	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	start_char=331|end_char=335
+10	.	.	PUNCT	.	_	7	punct	_	start_char=335|end_char=336
+
+1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=339|end_char=341
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=342|end_char=345
+3	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=346|end_char=350
+4	to	to	PART	TO	_	6	mark	_	start_char=351|end_char=353
+5	just	just	ADV	RB	_	6	advmod	_	start_char=354|end_char=358
+6	cause	cause	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=359|end_char=364
+7	complete	complete	ADJ	JJ	Degree=Pos	8	amod	_	start_char=365|end_char=373
+8	chaos	chaos	NOUN	NN	Number=Sing	6	obj	_	start_char=374|end_char=379
+9	??	??	PUNCT	.	_	3	punct	_	start_char=379|end_char=381
+
+1	90	90	NUM	CD	NumType=Card	2	nummod	_	start_char=382|end_char=384
+2	%	%	SYM	NN	Number=Sing	8	nsubj	_	start_char=384|end_char=385
+3	of	of	ADP	IN	_	6	case	_	start_char=386|end_char=388
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=389|end_char=392
+5	US	US	PROPN	NNP	Number=Sing	6	compound	_	start_char=393|end_char=395
+6	population	population	NOUN	NN	Number=Sing	2	nmod	_	start_char=396|end_char=406
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=407|end_char=409
+8	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=410|end_char=417
+9	unaware	unaware	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=418|end_char=425
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=426|end_char=429
+11	retarded	retarded	ADJ	JJ	Degree=Pos	9	conj	_	start_char=430|end_char=438
+12	.	.	PUNCT	.	_	8	punct	_	start_char=438|end_char=439
+
+1	Hell	Hell	PROPN	NNP	Number=Sing	0	root	_	start_char=440|end_char=444
+2	only	only	ADV	RB	_	4	advmod	_	start_char=445|end_char=449
+3	15	15	NUM	CD	NumType=Card	4	nummod	_	start_char=450|end_char=452
+4	%	%	SYM	NN	Number=Sing	1	appos	_	start_char=452|end_char=453
+5	of	of	ADP	IN	_	6	case	_	start_char=455|end_char=457
+6	Trump	Trump	PROPN	NNP	Number=Sing	4	nmod	_	start_char=458|end_char=463
+7	supporters	supporter	NOUN	NNS	Number=Plur	4	nmod	_	start_char=464|end_char=474
+8	if	if	SCONJ	IN	_	10	mark	_	start_char=475|end_char=477
+9	that	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	start_char=478|end_char=482
+10	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=483|end_char=487
+11	about	about	ADP	IN	_	15	case	_	start_char=488|end_char=493
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=494|end_char=497
+13	FBI	FBI	PROPN	NNP	Number=Sing	15	compound	_	start_char=498|end_char=501
+14	Record	Record	PROPN	NNP	Number=Sing	15	compound	_	start_char=502|end_char=508
+15	Vault	Vault	PROPN	NNP	Number=Sing	10	obl	_	start_char=509|end_char=514
+16	and	and	CCONJ	CC	_	18	cc	_	start_char=515|end_char=518
+17	7th	7th	ADJ	JJ	Degree=Pos|NumType=Ord	18	amod	_	start_char=519|end_char=522
+18	floor	floor	NOUN	NN	Number=Sing	15	conj	_	start_char=523|end_char=528
+19	.	.	PUNCT	.	_	1	punct	_	start_char=528|end_char=529
+
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=532|end_char=536
+2	around	around	ADP	IN	_	3	case	_	start_char=537|end_char=543
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obl	_	start_char=544|end_char=547
+4	.	.	PUNCT	.	_	1	punct	_	start_char=547|end_char=548
+
+1	People	person	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=549|end_char=555
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=556|end_char=559
+3	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=560|end_char=567
+4	stupid	stupid	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=568|end_char=574
+5	.	.	PUNCT	.	_	3	punct	_	start_char=574|end_char=575
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=576|end_char=578
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=579|end_char=583
+3	to	to	PART	TO	_	4	mark	_	start_char=584|end_char=586
+4	ease	ease	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=587|end_char=591
+5	into	into	ADP	IN	_	6	case	_	start_char=592|end_char=596
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	4	obl	_	start_char=597|end_char=601
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=602|end_char=605
+8	unravel	unravel	VERB	VB	VerbForm=Inf	4	conj	_	start_char=606|end_char=613
+9	everything	everything	PRON	NN	Number=Sing	8	obj	_	start_char=614|end_char=624
+10	like	like	ADP	IN	_	14	case	_	start_char=625|end_char=629
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=630|end_char=631
+12	fucking	fucking	ADJ	JJ	Degree=Pos	14	amod	_	start_char=632|end_char=639
+13	BuzzFeed	buzzFe	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	_	start_char=640|end_char=648
+14	article	article	NOUN	NN	Number=Sing	9	nmod	_	start_char=649|end_char=656
+15	for	for	ADP	IN	_	18	case	_	start_char=657|end_char=660
+16	these	this	DET	DT	Number=Plur|PronType=Dem	18	det	_	start_char=661|end_char=666
+17	dumb	dumb	ADJ	JJ	Degree=Pos	18	amod	_	start_char=667|end_char=671
+18	fucks	fuck	NOUN	NNS	Number=Plur	14	nmod	_	start_char=672|end_char=677
+19	.	.	PUNCT	.	_	2	punct	_	start_char=677|end_char=678
+
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=679|end_char=682
+2	military	military	NOUN	NN	Number=Sing	3	nsubj	_	start_char=683|end_char=691
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=692|end_char=695
+4	to	to	PART	TO	_	6	mark	_	start_char=696|end_char=698
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=699|end_char=701
+6	strong	strong	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=702|end_char=708
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=709|end_char=712
+8	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	_	start_char=713|end_char=721
+9	.	.	PUNCT	.	_	3	punct	_	start_char=721|end_char=722
+
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=723|end_char=726
+2	economy	economy	NOUN	NN	Number=Sing	3	nsubj	_	start_char=727|end_char=734
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=735|end_char=738
+4	to	to	PART	TO	_	6	mark	_	start_char=739|end_char=741
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=742|end_char=744
+6	stable	stable	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=745|end_char=751
+7	.	.	PUNCT	.	_	3	punct	_	start_char=751|end_char=752
+
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=753|end_char=756
+2	market	market	NOUN	NN	Number=Sing	3	nsubj	_	start_char=757|end_char=763
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=764|end_char=767
+4	to	to	PART	TO	_	6	mark	_	start_char=768|end_char=770
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=771|end_char=773
+6	stable	stable	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=774|end_char=780
+7	.	.	PUNCT	.	_	3	punct	_	start_char=780|end_char=781
+
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=782|end_char=785
+2	spirit	spirit	NOUN	NN	Number=Sing	3	nsubj	_	start_char=786|end_char=792
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=793|end_char=796
+4	to	to	PART	TO	_	6	mark	_	start_char=797|end_char=799
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=800|end_char=802
+6	stable	stable	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=803|end_char=809
+7	.	.	PUNCT	.	_	3	punct	_	start_char=809|end_char=810
+
+1	THIS	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=813|end_char=817
+2	ISN'T	isn't	NOUN	NN	Number=Sing	5	cop	_	start_char=818|end_char=823
+3	A	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=824|end_char=825
+4	FUCKING	fucking	ADJ	JJ	Degree=Pos	5	amod	_	start_char=826|end_char=833
+5	JOKE	joke	NOUN	NN	Number=Sing	0	root	_	start_char=834|end_char=838
+6	.	.	PUNCT	.	_	5	punct	_	start_char=838|end_char=839
+
+1	OUR	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=840|end_char=843
+2	COUNTRY	country	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=844|end_char=851
+3	WAS	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	start_char=852|end_char=855
+4	ABOUT	about	ADV	RB	_	6	advmod	_	start_char=856|end_char=861
+5	TO	to	ADP	IN	_	6	case	_	start_char=862|end_char=864
+6	DESTROYED	destroy	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=865|end_char=874
+7	BY	by	ADP	IN	_	8	case	_	start_char=875|end_char=877
+8	CLINTON	CLINTON	PROPN	NNP	Number=Sing	6	obl	_	start_char=878|end_char=885
+9	.	.	PUNCT	.	_	6	punct	_	start_char=885|end_char=886
+
+1	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=887|end_char=890
+2	THINK	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=891|end_char=896
+3	YOU	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=897|end_char=900
+4	CAN	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=901|end_char=904
+5	JUST	just	ADV	RB	_	6	advmod	_	start_char=905|end_char=909
+6	EXPOSE	expose	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=910|end_char=916
+7	THE	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=917|end_char=920
+8	TRUTH	truth	NOUN	NN	Number=Sing	6	obj	_	start_char=921|end_char=926
+9	WITHOUT	without	ADP	IN	_	10	case	_	start_char=927|end_char=934
+10	CONSEQUENCES	consekuence	NOUN	NNS	Number=Plur	6	obl	_	start_char=935|end_char=947
+11	AND	and	CCONJ	CC	_	12	cc	_	start_char=948|end_char=951
+12	CHAOS	chaos	NOUN	NN	Number=Sing	10	conj	_	start_char=952|end_char=957
+13	??	??	PUNCT	.	_	2	punct	_	start_char=957|end_char=959
+

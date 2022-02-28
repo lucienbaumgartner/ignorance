@@ -1,0 +1,28 @@
+1	Yeah	yeah	INTJ	UH	_	3	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	3	punct	_	start_char=4|end_char=5
+3	agreed	agree	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=6|end_char=12
+4	.	.	PUNCT	.	_	3	punct	_	start_char=12|end_char=13
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=15|end_char=17
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=17|end_char=19
+3	so	so	ADV	RB	_	4	advmod	_	start_char=20|end_char=22
+4	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	start_char=23|end_char=26
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=27|end_char=30
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=31|end_char=39
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=40|end_char=44
+8	some	some	DET	DT	_	9	det	_	start_char=45|end_char=49
+9	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=50|end_char=56
+10	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=57|end_char=62
+11	treating	treat	VERB	VBG	VerbForm=Ger	10	xcomp	_	start_char=63|end_char=71
+12	people	people	NOUN	NNS	Number=Plur	11	obj	_	start_char=72|end_char=78
+13	that	that	PRON	WDT	PronType=Rel	15	nsubj	_	start_char=79|end_char=83
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=84|end_char=87
+15	different	different	ADJ	JJ	Degree=Pos	12	acl:relcl	_	start_char=88|end_char=97
+16	from	from	ADP	IN	_	17	case	_	start_char=98|end_char=102
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	15	obl	_	start_char=103|end_char=107
+18	like	like	ADP	IN	_	19	case	_	start_char=108|end_char=112
+19	that	that	PRON	DT	Number=Sing|PronType=Dem	15	obl	_	start_char=113|end_char=117
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	start_char=118|end_char=120
+21	okay	okay	ADJ	JJ	Degree=Pos	4	conj	_	start_char=121|end_char=125
+22	.	.	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+

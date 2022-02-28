@@ -1,0 +1,32 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	ocs	oc	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=8|end_char=11
+4	not	not	PART	RB	_	5	advmod	_	start_char=12|end_char=15
+5	hot	hot	ADJ	JJ	Degree=Pos	0	root	_	start_char=16|end_char=19
+6	.	.	PUNCT	.	_	5	punct	_	start_char=19|end_char=20
+
+1	#	#	SYM	NN	Number=Sing	4	obl:tmod	_	start_char=22|end_char=23
+2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=23|end_char=27
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=28|end_char=31
+4	ugly	ugly	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=36
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=37|end_char=40
+6	childish	childish	ADJ	JJ	Degree=Pos	4	conj	_	start_char=41|end_char=49
+7	.	.	PUNCT	.	_	4	punct	_	start_char=49|end_char=50
+
+1	Stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=51|end_char=57
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=58|end_char=61
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=62|end_char=70
+4	.	.	PUNCT	.	_	1	punct	_	start_char=70|end_char=71
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=72|end_char=76
+2	what	what	PRON	WP	PronType=Int	0	root	_	start_char=77|end_char=81
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	start_char=82|end_char=86
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	start_char=87|end_char=90
+5	.	.	PUNCT	.	_	2	punct	_	start_char=90|end_char=91
+
+1	Put	put	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=92|end_char=95
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=96|end_char=100
+3	phone	phone	NOUN	NN	Number=Sing	1	obj	_	start_char=101|end_char=106
+4	down	down	ADP	RP	_	1	compound:prt	_	start_char=107|end_char=111
+5	child	child	NOUN	NN	Number=Sing	1	obj	_	start_char=112|end_char=117
+

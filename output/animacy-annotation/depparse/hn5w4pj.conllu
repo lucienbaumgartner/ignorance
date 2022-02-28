@@ -1,0 +1,26 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=7|end_char=8
+4	statistician	statistician	NOUN	NN	Number=Sing	0	root	_	start_char=9|end_char=21
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=22|end_char=25
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=26|end_char=33
+7	of	of	ADP	IN	_	10	case	_	start_char=34|end_char=36
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=37|end_char=40
+9	scientific	scientific	ADJ	JJ	Degree=Pos	10	amod	_	start_char=41|end_char=51
+10	method	method	NOUN	NN	Number=Sing	6	obl	_	start_char=52|end_char=58
+11	?	?	PUNCT	.	_	4	punct	_	start_char=58|end_char=59
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	start_char=60|end_char=62
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=62|end_char=64
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=65|end_char=66
+4	little	little	ADJ	JJ	Degree=Pos	5	obl:npmod	_	start_char=67|end_char=73
+5	hard	hard	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=78
+6	to	to	PART	TO	_	7	mark	_	start_char=79|end_char=81
+7	take	take	VERB	VB	VerbForm=Inf	5	csubj	_	start_char=82|end_char=86
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obj	_	start_char=87|end_char=90
+9	at	at	ADP	IN	_	11	case	_	start_char=91|end_char=93
+10	face	face	NOUN	NN	Number=Sing	11	compound	_	start_char=94|end_char=98
+11	value	value	NOUN	NN	Number=Sing	7	obl	_	start_char=99|end_char=104
+12	here	here	ADV	RB	PronType=Dem	7	advmod	_	start_char=105|end_char=109
+13	.	.	PUNCT	.	_	5	punct	_	start_char=109|end_char=110
+

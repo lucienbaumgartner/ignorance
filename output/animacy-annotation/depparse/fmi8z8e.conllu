@@ -1,0 +1,19 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=8|end_char=13
+3	so	so	ADV	RB	_	4	advmod	_	start_char=14|end_char=16
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=38
+7	that	that	SCONJ	IN	_	10	mark	_	start_char=39|end_char=43
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=44|end_char=47
+9	actually	actually	ADV	RB	_	10	advmod	_	start_char=48|end_char=56
+10	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=57|end_char=64
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=65|end_char=66
+12	single	single	ADJ	JJ	Degree=Pos	13	amod	_	start_char=67|end_char=73
+13	word	word	NOUN	NN	Number=Sing	10	obj	_	start_char=74|end_char=78
+14	of	of	ADP	IN	_	15	case	_	start_char=79|end_char=81
+15	this	this	PRON	DT	Number=Sing|PronType=Dem	13	nmod	_	start_char=82|end_char=86
+16	.	.	PUNCT	.	_	1	punct	_	start_char=86|end_char=87
+
+1	Whew	whew	INTJ	UH	_	0	root	_	start_char=88|end_char=92
+

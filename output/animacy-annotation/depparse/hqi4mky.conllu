@@ -1,0 +1,20 @@
+1	Forcing	force	VERB	VBG	VerbForm=Ger	14	csubj	_	start_char=0|end_char=7
+2	young	young	ADJ	JJ	Degree=Pos	3	amod	_	start_char=8|end_char=13
+3	men	man	NOUN	NNS	Number=Plur	1	obj	_	start_char=14|end_char=17
+4	to	to	PART	TO	_	5	mark	_	start_char=18|end_char=20
+5	vaccinate	vaccinate	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=21|end_char=30
+6	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=31|end_char=35
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	start_char=36|end_char=40
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=41|end_char=44
+9	likely	likely	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=45|end_char=51
+10	to	to	PART	TO	_	11	mark	_	start_char=52|end_char=54
+11	get	get	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=55|end_char=58
+12	myocarditis	myocarditis	NOUN	NN	Number=Sing	11	obj	_	start_char=59|end_char=70
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=71|end_char=73
+14	selfish	selfish	ADJ	JJ	Degree=Pos	0	root	_	start_char=74|end_char=81
+15	,	,	PUNCT	,	_	16	punct	_	start_char=81|end_char=82
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=83|end_char=91
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=92|end_char=95
+18	dangerous	dangerous	ADJ	JJ	Degree=Pos	14	conj	_	start_char=96|end_char=105
+19	.	.	PUNCT	.	_	14	punct	_	start_char=105|end_char=106
+

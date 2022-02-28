@@ -1,0 +1,54 @@
+1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=4
+2	thing	thing	NOUN	NN	Number=Sing	0	root	_	start_char=5|end_char=10
+3	that	that	PRON	WDT	PronType=Rel	6	nsubj	_	start_char=11|end_char=15
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=16|end_char=18
+5	n’t	not	PART	RB	Polarity=Neg	6	advmod	_	start_char=18|end_char=21
+6	what	what	PRON	WP	PronType=Int	2	acl:relcl	_	start_char=22|end_char=26
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=27|end_char=29
+8	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=29|end_char=32
+9	discussing	discuss	VERB	VBG	Tense=Pres|VerbForm=Part	6	acl:relcl	_	start_char=33|end_char=43
+10	.	.	PUNCT	.	_	2	punct	_	start_char=43|end_char=44
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=46|end_char=49
+2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=50|end_char=54
+3	:	:	PUNCT	:	_	2	punct	_	start_char=54|end_char=55
+
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=57|end_char=60
+2	;	;	PUNCT	:	_	1	punct	_	start_char=60|end_char=61
+
+1	Because	because	ADV	RB	_	0	root	_	start_char=61|end_char=68
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=69|end_char=70
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=71|end_char=75
+3	there	there	PRON	EX	_	5	expl	_	start_char=76|end_char=81
+4	should	should	AUX	MD	VerbForm=Fin	5	aux	_	start_char=82|end_char=88
+5	be	be	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=89|end_char=91
+6	just	just	ADV	RB	_	8	advmod	_	start_char=92|end_char=96
+7	as	as	ADV	RB	_	8	advmod	_	start_char=97|end_char=99
+8	many	many	ADJ	JJ	Degree=Pos	9	amod	_	start_char=100|end_char=104
+9	woman	woman	NOUN	NN	Number=Sing	5	nsubj	_	start_char=105|end_char=110
+10	as	as	ADP	IN	_	11	case	_	start_char=111|end_char=113
+11	men	man	NOUN	NNS	Number=Plur	9	nmod	_	start_char=114|end_char=117
+12	in	in	ADP	IN	_	13	case	_	start_char=118|end_char=120
+13	jail	jail	NOUN	NN	Number=Sing	11	nmod	_	start_char=121|end_char=125
+14	and	and	CCONJ	CC	_	16	cc	_	start_char=126|end_char=129
+15	death	death	NOUN	NN	Number=Sing	16	compound	_	start_char=130|end_char=135
+16	row	row	NOUN	NN	Number=Sing	13	conj	_	start_char=136|end_char=139
+17	.	.	PUNCT	.	_	2	punct	_	start_char=139|end_char=140
+
+1	That	that	DET	DT	Number=Sing|PronType=Dem	2	det	_	start_char=142|end_char=146
+2	statement	statement	NOUN	NN	Number=Sing	5	nsubj	_	start_char=147|end_char=156
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=157|end_char=159
+4	completely	completely	ADV	RB	_	5	advmod	_	start_char=160|end_char=170
+5	false	false	ADJ	JJ	Degree=Pos	0	root	_	start_char=171|end_char=176
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=177|end_char=180
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=181|end_char=189
+8	of	of	ADP	IN	_	9	case	_	start_char=190|end_char=192
+9	reality	reality	NOUN	NN	Number=Sing	7	obl	_	start_char=193|end_char=200
+10	.	.	PUNCT	.	_	5	punct	_	start_char=200|end_char=201
+
+1	Quit	quit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=202|end_char=206
+2	playing	play	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=207|end_char=214
+3	victim	victim	NOUN	NN	Number=Sing	2	obj	_	start_char=215|end_char=221
+4	.	.	PUNCT	.	_	1	punct	_	start_char=221|end_char=222
+

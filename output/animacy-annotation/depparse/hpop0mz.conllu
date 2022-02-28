@@ -1,0 +1,25 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=4|end_char=7
+3	have	have	VERB	VB	VerbForm=Inf	0	root	_	start_char=8|end_char=12
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=13|end_char=14
+5	list	list	NOUN	NN	Number=Sing	3	obj	_	start_char=15|end_char=19
+6	like	like	ADP	IN	_	7	case	_	start_char=20|end_char=24
+7	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nmod	_	start_char=25|end_char=29
+8	,	,	PUNCT	,	_	9	punct	_	start_char=29|end_char=30
+9	sure	sure	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=31|end_char=35
+10	.	.	PUNCT	.	_	3	punct	_	start_char=35|end_char=36
+
+1	But	but	CCONJ	CC	_	9	cc	_	start_char=37|end_char=40
+2	calling	call	VERB	VBG	VerbForm=Ger	7	csubj	_	start_char=41|end_char=48
+3	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=49|end_char=52
+4	Queen	Queen	PROPN	NNP	Number=Sing	2	obj	_	start_char=53|end_char=58
+5	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=59|end_char=61
+6	Dead	Dead	ADJ	JJ	Degree=Pos	7	amod	_	start_char=62|end_char=66
+7	overrated	overrated	ADJ	JJ	Degree=Pos	0	root	_	start_char=67|end_char=76
+8	simply	simply	ADV	RB	_	9	advmod	_	start_char=77|end_char=83
+9	feels	feel	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	start_char=84|end_char=89
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	xcomp	_	start_char=90|end_char=98
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=99|end_char=102
+12	contrarian	contrarian	ADJ	JJ	Degree=Pos	10	conj	_	start_char=103|end_char=113
+13	.	.	PUNCT	.	_	7	punct	_	start_char=113|end_char=114
+

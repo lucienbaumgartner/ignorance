@@ -1,0 +1,27 @@
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	;	;	PUNCT	,	_	1	punct	_	start_char=5|end_char=6
+3	new	new	ADJ	JJ	Degree=Pos	13	amod	_	start_char=7|end_char=10
+4	,	,	PUNCT	,	_	5	punct	_	start_char=10|end_char=11
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=12|end_char=20
+6	,	,	PUNCT	,	_	13	punct	_	start_char=20|end_char=21
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=22|end_char=25
+8	bad	bad	ADJ	JJ	Degree=Pos	10	amod	_	start_char=26|end_char=29
+9	-	-	PUNCT	HYPH	_	10	punct	_	start_char=29|end_char=30
+10	at-	at-	ADJ	JJ	Degree=Pos	11	compound	_	start_char=30|end_char=33
+11	researching	research	VERB	VBG	VerbForm=Ger	13	amod	_	start_char=33|end_char=44
+12	gun	gun	NOUN	NN	Number=Sing	13	compound	_	start_char=45|end_char=48
+13	owner	owner	NOUN	NN	Number=Sing	1	parataxis	_	start_char=49|end_char=54
+14	here	here	ADV	RB	PronType=Dem	13	advmod	_	start_char=55|end_char=59
+15	,	,	PUNCT	,	_	16	punct	_	start_char=59|end_char=60
+16	what	what	PRON	WP	PronType=Int	1	parataxis	_	start_char=61|end_char=65
+17	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=65|end_char=67
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=68|end_char=71
+19	issue	issue	NOUN	NN	Number=Sing	16	nsubj	_	start_char=72|end_char=77
+20	(	(	PUNCT	-LRB-	_	19	punct	_	start_char=77|end_char=78
+21	s	s	ADJ	AFX	_	19	amod	_	start_char=78|end_char=79
+22	)	)	PUNCT	-RRB-	_	19	punct	_	start_char=79|end_char=80
+23	with	with	ADP	IN	_	25	case	_	start_char=81|end_char=85
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	start_char=86|end_char=89
+25	NRA	NRA	PROPN	NNP	Number=Sing	19	nmod	_	start_char=90|end_char=93
+26	?	?	PUNCT	.	_	16	punct	_	start_char=93|end_char=94
+

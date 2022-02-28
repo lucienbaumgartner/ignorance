@@ -1,0 +1,52 @@
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=0|end_char=2
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=4
+3	because	because	SCONJ	IN	_	8	mark	_	start_char=5|end_char=12
+4	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=13|end_char=19
+5	here	here	ADV	RB	PronType=Dem	4	advmod	_	start_char=20|end_char=24
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=25|end_char=28
+7	so	so	ADV	RB	_	8	advmod	_	start_char=29|end_char=31
+8	racist	racist	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=32|end_char=38
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=39|end_char=42
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=43|end_char=51
+11	,	,	PUNCT	,	_	14	punct	_	start_char=51|end_char=52
+12	that	that	SCONJ	IN	_	14	mark	_	start_char=53|end_char=57
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	start_char=58|end_char=62
+14	vote	vote	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	parataxis	_	start_char=63|end_char=67
+15	for	for	ADP	IN	_	16	case	_	start_char=68|end_char=71
+16	people	people	NOUN	NNS	Number=Plur	14	obl	_	start_char=72|end_char=78
+17	who	who	PRON	WP	PronType=Rel	19	nsubj	_	start_char=79|end_char=82
+18	literally	literally	ADV	RB	_	19	advmod	_	start_char=83|end_char=92
+19	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	start_char=93|end_char=97
+20	to	to	PART	TO	_	21	mark	_	start_char=98|end_char=100
+21	hurt	hurt	VERB	VB	VerbForm=Inf	19	xcomp	_	start_char=101|end_char=105
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	start_char=106|end_char=110
+23	.	.	PUNCT	.	_	2	punct	_	start_char=110|end_char=111
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=112|end_char=115
+2	Republican	Republican	ADJ	JJ	Degree=Pos	3	amod	_	start_char=116|end_char=126
+3	party	party	NOUN	NN	Number=Sing	4	nsubj	_	start_char=127|end_char=132
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=133|end_char=136
+5	one	one	NUM	CD	NumType=Card	6	nummod	_	start_char=137|end_char=140
+6	agenda	agenda	NOUN	NN	Number=Sing	4	obj	_	start_char=141|end_char=147
+7	.	.	PUNCT	.	_	4	punct	_	start_char=147|end_char=148
+
+1	Make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=149|end_char=153
+2	people	people	NOUN	NNS	Number=Plur	1	obj	_	start_char=154|end_char=160
+3	suffer	suffer	VERB	VB	VerbForm=Inf	1	xcomp	_	start_char=161|end_char=167
+4	as	as	ADV	RB	_	5	advmod	_	start_char=168|end_char=170
+5	much	much	ADV	RB	Degree=Pos	3	advmod	_	start_char=171|end_char=175
+6	as	as	SCONJ	IN	_	7	mark	_	start_char=176|end_char=178
+7	possible	possible	ADJ	JJ	Degree=Pos	5	advcl	_	start_char=179|end_char=187
+8	while	while	SCONJ	IN	_	9	mark	_	start_char=188|end_char=193
+9	enriching	enrich	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=194|end_char=203
+10	themselves	themselves	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	start_char=204|end_char=214
+11	in	in	ADP	IN	_	13	case	_	start_char=215|end_char=217
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=218|end_char=221
+13	process	process	NOUN	NN	Number=Sing	9	obl	_	start_char=222|end_char=229
+14	.	.	PUNCT	.	_	1	punct	_	start_char=229|end_char=230
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=231|end_char=233
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=233|end_char=235
+3	disgusting	disgusting	ADJ	JJ	Degree=Pos	0	root	_	start_char=236|end_char=246
+4	.	.	PUNCT	.	_	3	punct	_	start_char=246|end_char=247
+

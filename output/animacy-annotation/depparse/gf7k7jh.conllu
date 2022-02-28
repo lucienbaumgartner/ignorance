@@ -1,0 +1,36 @@
+1	In	in	ADP	IN	_	6	advmod	_	start_char=0|end_char=2
+2	case	case	NOUN	NN	Number=Sing	1	fixed	_	start_char=3|end_char=7
+3	OP	OP	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=8|end_char=10
+4	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	aux	_	start_char=11|end_char=14
+5	n't	not	PART	RB	_	6	advmod	_	start_char=14|end_char=17
+6	want	want	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+7	to	to	PART	TO	_	8	mark	_	start_char=23|end_char=25
+8	answer	answer	VERB	VB	VerbForm=Inf	6	xcomp	_	start_char=26|end_char=32
+9	,	,	PUNCT	,	_	10	punct	_	start_char=32|end_char=33
+10	yes	yes	INTJ	UH	_	6	discourse	_	start_char=34|end_char=37
+11	.	.	PUNCT	.	_	6	punct	_	start_char=37|end_char=38
+
+1	Passed	pass	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=39|end_char=45
+2	out	out	ADP	RP	_	1	compound:prt	_	start_char=46|end_char=49
+3	drunk	drunk	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=50|end_char=55
+4	,	,	PUNCT	,	_	6	punct	_	start_char=55|end_char=56
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=57|end_char=60
+6	unaware	unaware	ADJ	JJ	Degree=Pos	1	conj	_	start_char=61|end_char=68
+7	that	that	SCONJ	IN	_	9	mark	_	start_char=69|end_char=73
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	start_char=74|end_char=77
+9	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=78|end_char=82
+10	to	to	PART	TO	_	11	mark	_	start_char=83|end_char=85
+11	eliminate	eliminate	VERB	VB	VerbForm=Inf	9	xcomp	_	start_char=86|end_char=95
+12	.	.	PUNCT	.	_	1	punct	_	start_char=95|end_char=96
+
+1	Until	until	SCONJ	IN	_	3	mark	_	start_char=97|end_char=102
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=103|end_char=106
+3	wake	wake	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=107|end_char=111
+4	up	up	ADP	RP	_	3	compound:prt	_	start_char=112|end_char=114
+5	in	in	ADP	IN	_	7	case	_	start_char=115|end_char=117
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=118|end_char=119
+7	puddle	puddle	NOUN	NN	Number=Sing	3	obl	_	start_char=120|end_char=126
+8	of	of	ADP	IN	_	9	case	_	start_char=127|end_char=129
+9	urine	urine	NOUN	NN	Number=Sing	7	nmod	_	start_char=130|end_char=135
+10	.	.	PUNCT	.	_	3	punct	_	start_char=135|end_char=136
+

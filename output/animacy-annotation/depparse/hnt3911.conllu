@@ -1,0 +1,34 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	always	always	ADV	RB	_	3	advmod	_	start_char=4|end_char=10
+3	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+4	off	off	ADP	RP	_	3	compound:prt	_	start_char=16|end_char=19
+5	incredibly	incredibly	ADV	RB	_	6	advmod	_	start_char=20|end_char=30
+6	unlikable	unlikable	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=31|end_char=40
+7	,	,	PUNCT	,	_	8	punct	_	start_char=40|end_char=41
+8	privileged	privileged	ADJ	JJ	Degree=Pos	6	conj	_	start_char=42|end_char=52
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=53|end_char=56
+10	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=57|end_char=64
+11	of	of	ADP	IN	_	15	mark	_	start_char=65|end_char=67
+12	how	how	SCONJ	WRB	PronType=Int	15	mark	_	start_char=68|end_char=71
+13	other	other	ADJ	JJ	Degree=Pos	14	amod	_	start_char=72|end_char=77
+14	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=78|end_char=84
+15	perceived	perceive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	advcl	_	start_char=85|end_char=94
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	obj	_	start_char=95|end_char=98
+17	.	.	PUNCT	.	_	3	punct	_	start_char=98|end_char=99
+
+1	Of	of	ADP	IN	_	7	advmod	_	start_char=100|end_char=102
+2	course	course	NOUN	NN	Number=Sing	1	fixed	_	start_char=103|end_char=109
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=110|end_char=113
+4	'd	would	AUX	MD	VerbForm=Fin	7	aux	_	start_char=113|end_char=115
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=116|end_char=118
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=119|end_char=121
+7	anti-vaxxer	anti-vaxxer	NOUN	NN	Number=Sing	0	root	_	start_char=122|end_char=133
+8	.	.	PUNCT	.	_	7	punct	_	start_char=133|end_char=134
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=135|end_char=138
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=139|end_char=142
+3	*	*	PUNCT	NFP	_	4	punct	_	start_char=143|end_char=144
+4	trash	trash	NOUN	NN	Number=Sing	0	root	_	start_char=144|end_char=149
+5	*	*	PUNCT	NFP	_	4	punct	_	start_char=149|end_char=150
+6	.	.	PUNCT	.	_	4	punct	_	start_char=151|end_char=152
+

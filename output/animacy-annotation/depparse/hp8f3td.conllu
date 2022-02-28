@@ -1,0 +1,36 @@
+1	Nothing	nothing	PRON	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=10
+3	100	100	NUM	CD	NumType=Card	4	nummod	_	start_char=11|end_char=14
+4	%	%	SYM	NN	Number=Sing	0	root	_	start_char=14|end_char=15
+5	,	,	PUNCT	,	_	7	punct	_	start_char=15|end_char=16
+6	not	not	ADV	RB	_	7	advmod	_	start_char=17|end_char=20
+7	seatbelts	seatbelt	NOUN	NNS	Number=Plur	4	conj	_	start_char=21|end_char=30
+8	,	,	PUNCT	,	_	10	punct	_	start_char=30|end_char=31
+9	not	not	ADV	RB	_	10	advmod	_	start_char=32|end_char=35
+10	airbags	airbag	NOUN	NNS	Number=Plur	4	conj	_	start_char=36|end_char=43
+11	,	,	PUNCT	,	_	13	punct	_	start_char=43|end_char=44
+12	not	not	ADV	RB	_	13	advmod	_	start_char=45|end_char=48
+13	ibuprofen	ibuprofen	NOUN	NN	Number=Sing	4	conj	_	start_char=49|end_char=58
+14	,	,	PUNCT	,	_	16	punct	_	start_char=58|end_char=59
+15	not	not	ADV	RB	_	16	advmod	_	start_char=60|end_char=63
+16	vaccines	vaccine	NOUN	NNS	Number=Plur	4	conj	_	start_char=64|end_char=72
+17	.	.	PUNCT	.	_	4	punct	_	start_char=72|end_char=73
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=75|end_char=78
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=78|end_char=81
+3	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=82|end_char=90
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=91|end_char=94
+5	delusional	delusional	ADJ	JJ	Degree=Pos	3	conj	_	start_char=95|end_char=105
+6	,	,	PUNCT	,	_	3	punct	_	start_char=105|end_char=106
+7	holy	holy	ADJ	JJ	Degree=Pos	8	amod	_	start_char=107|end_char=111
+8	crap	crap	NOUN	NN	Number=Sing	12	nsubj	_	start_char=112|end_char=116
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=117|end_char=120
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=121|end_char=122
+11	wild	wild	ADJ	JJ	Degree=Pos	12	amod	_	start_char=123|end_char=127
+12	ride	ride	NOUN	NN	Number=Sing	3	parataxis	_	start_char=128|end_char=132
+13	.	.	PUNCT	.	_	3	punct	_	start_char=132|end_char=133
+
+1	Go	go	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=135|end_char=137
+2	away	away	ADV	RB	_	1	advmod	_	start_char=138|end_char=142
+3	.	.	PUNCT	.	_	1	punct	_	start_char=142|end_char=143
+

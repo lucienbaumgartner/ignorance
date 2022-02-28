@@ -1,0 +1,44 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+2	at	at	ADP	IN	_	3	case	_	start_char=4|end_char=6
+3	all	all	DET	DT	_	1	nmod	_	start_char=7|end_char=10
+4	.	.	PUNCT	.	_	1	punct	_	start_char=10|end_char=11
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=12|end_char=15
+2	obduously	obduously	ADV	RB	_	3	advmod	_	start_char=16|end_char=25
+3	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=26|end_char=30
+4	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=31|end_char=34
+5	so	so	ADV	RB	_	6	advmod	_	start_char=35|end_char=37
+6	much	much	ADV	RB	_	3	advmod	_	start_char=38|end_char=42
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=43|end_char=46
+8	just	just	ADV	RB	_	9	advmod	_	start_char=47|end_char=51
+9	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=52|end_char=56
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=57|end_char=60
+11	best	good	ADJ	JJS	Degree=Sup	9	obj	_	start_char=61|end_char=65
+12	for	for	ADP	IN	_	13	case	_	start_char=66|end_char=69
+13	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	start_char=70|end_char=73
+14	.	.	PUNCT	.	_	3	punct	_	start_char=73|end_char=74
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=75|end_char=79
+2	cousins	cousin	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=80|end_char=87
+3	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=88|end_char=92
+4	to	to	PART	TO	_	6	mark	_	start_char=93|end_char=95
+5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=96|end_char=98
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=99|end_char=107
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=108|end_char=111
+8	unfair	unfair	ADJ	JJ	Degree=Pos	6	conj	_	start_char=112|end_char=118
+9	with	with	ADP	IN	_	12	case	_	start_char=119|end_char=123
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=124|end_char=128
+11	ginea	ginea	NOUN	NN	Number=Sing	12	compound	_	start_char=129|end_char=134
+12	pig	pig	NOUN	NN	Number=Sing	8	obl	_	start_char=135|end_char=138
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=139|end_char=142
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	start_char=143|end_char=144
+15	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=145|end_char=150
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj	_	start_char=151|end_char=154
+17	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux	_	start_char=154|end_char=157
+18	being	be	AUX	VBG	VerbForm=Ger	22	cop	_	start_char=158|end_char=163
+19	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	start_char=164|end_char=165
+20	great	great	ADJ	JJ	Degree=Pos	22	amod	_	start_char=166|end_char=171
+21	pet	pet	NOUN	NN	Number=Sing	22	compound	_	start_char=172|end_char=175
+22	owner	owner	NOUN	NN	Number=Sing	15	ccomp	_	start_char=176|end_char=181
+23	.	.	PUNCT	.	_	3	punct	_	start_char=181|end_char=182
+

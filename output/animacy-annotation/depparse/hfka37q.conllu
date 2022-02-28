@@ -1,0 +1,51 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=0|end_char=4
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7|end_char=14
+4	nuts	nut	NOUN	NNS	Number=Plur	3	obj	_	start_char=15|end_char=19
+5	.	.	PUNCT	.	_	3	punct	_	start_char=19|end_char=20
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=21|end_char=23
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=27
+3	serious	serious	ADJ	JJ	Degree=Pos	4	amod	_	start_char=28|end_char=35
+4	issues	issue	NOUN	NNS	Number=Plur	2	obj	_	start_char=36|end_char=42
+5	.	.	PUNCT	.	_	2	punct	_	start_char=42|end_char=43
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=44|end_char=46
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=47|end_char=51
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=52|end_char=54
+4	crazy	crazy	ADJ	JJ	Degree=Pos	0	root	_	start_char=55|end_char=60
+5	or	or	CCONJ	CC	_	6	cc	_	start_char=61|end_char=63
+6	have	have	VERB	VB	VerbForm=Inf	4	conj	_	start_char=64|end_char=68
+7	some	some	DET	DT	_	8	det	_	start_char=69|end_char=73
+8	something	something	PRON	NN	Number=Sing	6	obj	_	start_char=74|end_char=83
+9	else	else	ADJ	JJ	Degree=Pos	8	amod	_	start_char=84|end_char=88
+10	going	go	VERB	VBG	VerbForm=Ger	8	acl	_	start_char=89|end_char=94
+11	on	on	ADP	RP	_	10	compound:prt	_	start_char=95|end_char=97
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	13	nsubj	_	start_char=98|end_char=102
+13	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=103|end_char=106
+14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	start_char=107|end_char=110
+15	so	so	ADV	RB	_	16	advmod	_	start_char=111|end_char=113
+16	obsessive	obsessive	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=114|end_char=123
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=124|end_char=127
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=128|end_char=136
+19	of	of	SCONJ	IN	_	22	mark	_	start_char=137|end_char=139
+20	how	how	SCONJ	WRB	PronType=Int	22	mark	_	start_char=140|end_char=143
+21	to	to	PART	TO	_	22	mark	_	start_char=144|end_char=146
+22	have	have	VERB	VB	VerbForm=Inf	18	advcl	_	start_char=147|end_char=151
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	start_char=152|end_char=153
+24	conversation	conversation	NOUN	NN	Number=Sing	22	obj	_	start_char=154|end_char=166
+25	.	.	PUNCT	.	_	4	punct	_	start_char=166|end_char=167
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=169|end_char=171
+2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=172|end_char=177
+3	help	help	NOUN	NN	Number=Sing	2	obj	_	start_char=178|end_char=182
+4	if	if	SCONJ	IN	_	7	mark	_	start_char=183|end_char=185
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=186|end_char=188
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=188|end_char=190
+7	skimping	skimp	VERB	VBG	Tense=Pres|VerbForm=Part	2	advcl	_	start_char=191|end_char=199
+8	that	that	ADV	RB	_	9	advmod	_	start_char=200|end_char=204
+9	hard	hard	ADV	RB	Degree=Pos	7	advmod	_	start_char=205|end_char=209
+10	for	for	ADP	IN	_	12	case	_	start_char=210|end_char=213
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=214|end_char=217
+12	waifu	waifu	NOUN	NN	Number=Sing	7	obl	_	start_char=218|end_char=223
+

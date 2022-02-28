@@ -1,0 +1,76 @@
+1	Except	except	SCONJ	IN	_	5	mark	_	start_char=0|end_char=6
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=7|end_char=9
+3	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=10|end_char=12
+4	socially	socially	ADV	RB	_	5	advmod	_	start_char=13|end_char=21
+5	acceptable	acceptable	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=32
+6	.	.	PUNCT	.	_	5	punct	_	start_char=32|end_char=33
+
+1	In	in	ADP	IN	_	3	case	_	start_char=34|end_char=36
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	start_char=37|end_char=38
+3	shitload	shitload	NOUN	NN	Number=Sing	0	root	_	start_char=39|end_char=47
+4	of	of	ADP	IN	_	5	case	_	start_char=48|end_char=50
+5	states	state	NOUN	NNS	Number=Plur	3	nmod	_	start_char=51|end_char=57
+6	.	.	PUNCT	.	_	3	punct	_	start_char=57|end_char=58
+
+1	And	and	CCONJ	CC	_	13	cc	_	start_char=59|end_char=62
+2	states	state	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=63|end_char=69
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=70|end_char=73
+4	what	what	PRON	WP	PronType=Int	0	root	_	start_char=74|end_char=78
+5	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	start_char=79|end_char=83
+6	up	up	ADP	RP	_	5	compound:prt	_	start_char=84|end_char=86
+7	America	America	PROPN	NNP	Number=Sing	5	obj	_	start_char=87|end_char=94
+8	,	,	PUNCT	,	_	13	punct	_	start_char=94|end_char=95
+9	so	so	ADV	RB	_	13	advmod	_	start_char=96|end_char=98
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=99|end_char=103
+11	distinction	distinction	NOUN	NN	Number=Sing	13	nsubj	_	start_char=104|end_char=115
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=116|end_char=118
+13	stupid	stupid	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=119|end_char=125
+14	.	.	PUNCT	.	_	4	punct	_	start_char=125|end_char=126
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=129|end_char=132
+2	statement	statement	NOUN	NN	Number=Sing	20	nsubj	_	start_char=133|end_char=142
+3	"	"	PUNCT	``	_	6	punct	_	start_char=143|end_char=144
+4	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	start_char=144|end_char=146
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=147|end_char=149
+6	legal	legal	ADJ	JJ	Degree=Pos	2	acl:relcl	_	start_char=150|end_char=155
+7	to	to	PART	TO	_	9	mark	_	start_char=156|end_char=158
+8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	_	start_char=159|end_char=161
+9	married	marry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	start_char=162|end_char=169
+10	to	to	ADP	IN	_	14	case	_	start_char=170|end_char=172
+11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=173|end_char=174
+12	12	12	NUM	CD	NumType=Card	13	nummod	_	start_char=175|end_char=177
+13	year	year	NOUN	NN	Number=Sing	14	obl:npmod	_	start_char=178|end_char=182
+14	old	old	ADJ	JJ	Degree=Pos	9	obl	_	start_char=183|end_char=186
+15	in	in	ADP	IN	_	16	case	_	start_char=187|end_char=189
+16	America	America	PROPN	NNP	Number=Sing	14	nmod	_	start_char=190|end_char=197
+17	"	"	PUNCT	''	_	6	punct	_	start_char=197|end_char=198
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=199|end_char=201
+19	objectively	objectively	ADV	RB	_	20	advmod	_	start_char=202|end_char=213
+20	true	true	ADJ	JJ	Degree=Pos	0	root	_	start_char=214|end_char=218
+21	.	.	PUNCT	.	_	20	punct	_	start_char=218|end_char=219
+
+1	And	and	CCONJ	CC	_	15	cc	_	start_char=220|end_char=223
+2	to	to	PART	TO	_	3	mark	_	start_char=224|end_char=226
+3	say	say	VERB	VB	VerbForm=Inf	15	csubj	_	start_char=227|end_char=230
+4	that	that	SCONJ	IN	_	6	mark	_	start_char=231|end_char=235
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=236|end_char=238
+6	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	start_char=239|end_char=247
+7	"	"	PUNCT	``	_	11	punct	_	start_char=248|end_char=249
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=249|end_char=250
+9	long	long	ADJ	JJ	Degree=Pos	10	amod	_	start_char=251|end_char=255
+10	time	time	NOUN	NN	Number=Sing	11	obl:npmod	_	start_char=256|end_char=260
+11	ago	ago	ADV	RB	_	6	advmod	_	start_char=261|end_char=264
+12	"	"	PUNCT	''	_	11	punct	_	start_char=264|end_char=265
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=266|end_char=268
+14	factually	factually	ADV	RB	_	15	advmod	_	start_char=269|end_char=278
+15	incorrect	incorrect	ADJ	JJ	Degree=Pos	0	root	_	start_char=279|end_char=288
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=289|end_char=292
+17	ignorant	ignorant	ADJ	JJ	Degree=Pos	15	conj	_	start_char=293|end_char=301
+18	.	.	PUNCT	.	_	15	punct	_	start_char=301|end_char=302
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=303|end_char=307
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=308|end_char=311
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=312|end_char=314
+4	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=315|end_char=320
+5	.	.	PUNCT	.	_	4	punct	_	start_char=320|end_char=321
+

@@ -1,0 +1,45 @@
+1	Where	where	SCONJ	WRB	PronType=Int	4	mark	_	start_char=0|end_char=5
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=6|end_char=8
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=9|end_char=12
+4	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	csubj	_	start_char=13|end_char=18
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=19|end_char=21
+6	irrelevant	irrelevant	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=32
+7	.	.	PUNCT	.	_	6	punct	_	start_char=32|end_char=33
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=34|end_char=37
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=37|end_char=39
+3	wearing	wear	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=40|end_char=47
+4	semi-traditional	semi-traditional	ADJ	JJ	Degree=Pos	6	amod	_	start_char=48|end_char=64
+5	African	African	ADJ	JJ	Degree=Pos	6	amod	_	start_char=65|end_char=72
+6	dress	dress	NOUN	NN	Number=Sing	3	obj	_	start_char=73|end_char=78
+7	.	.	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=80|end_char=83
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=83|end_char=85
+3	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=86|end_char=93
+4	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=94|end_char=97
+5	body	body	NOUN	NN	Number=Sing	3	obj	_	start_char=98|end_char=102
+6	to	to	PART	TO	_	7	mark	_	start_char=103|end_char=105
+7	look	look	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=106|end_char=110
+8	African	African	ADJ	JJ	Degree=Pos	7	xcomp	_	start_char=111|end_char=118
+9	,	,	PUNCT	,	_	11	punct	_	start_char=118|end_char=119
+10	by	by	SCONJ	IN	_	11	mark	_	start_char=120|end_char=122
+11	darkening	darken	VERB	VBG	VerbForm=Ger	7	advcl	_	start_char=123|end_char=132
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	start_char=133|end_char=135
+13	.	.	PUNCT	.	_	3	punct	_	start_char=135|end_char=136
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=139|end_char=142
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=143|end_char=146
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=147|end_char=151
+4	culturally	culturally	ADV	RB	_	5	advmod	_	start_char=152|end_char=162
+5	stunted	stunted	ADJ	JJ	Degree=Pos	0	root	_	start_char=163|end_char=170
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=171|end_char=174
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=175|end_char=182
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=183|end_char=187
+9	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	start_char=188|end_char=191
+10	ca	can	AUX	MD	VerbForm=Fin	12	aux	_	start_char=192|end_char=194
+11	n’t	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=194|end_char=197
+12	recognise	recognise	VERB	VB	VerbForm=Inf	7	ccomp	_	start_char=198|end_char=207
+13	that	that	PRON	DT	Number=Sing|PronType=Dem	12	obj	_	start_char=208|end_char=212
+14	?	?	PUNCT	.	_	5	punct	_	start_char=212|end_char=213
+

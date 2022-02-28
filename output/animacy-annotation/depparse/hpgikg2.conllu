@@ -1,0 +1,22 @@
+1	Yeah	yeah	INTJ	UH	_	8	discourse	_	start_char=0|end_char=4
+2	,	,	PUNCT	,	_	8	punct	_	start_char=4|end_char=5
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	start_char=6|end_char=10
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=11|end_char=13
+5	n't	not	PART	RB	Polarity=Neg	8	advmod	_	start_char=13|end_char=16
+6	even	even	ADV	RB	_	8	advmod	_	start_char=17|end_char=21
+7	roller	roller	NOUN	NN	Number=Sing	8	compound	_	start_char=22|end_char=28
+8	blading	blading	NOUN	NN	Number=Sing	0	root	_	start_char=29|end_char=36
+9	.	.	PUNCT	.	_	8	punct	_	start_char=36|end_char=37
+
+1	Not	not	ADV	RB	_	8	advmod	_	start_char=40|end_char=43
+2	to	to	PART	TO	_	3	mark	_	start_char=44|end_char=46
+3	mention	mention	VERB	VB	VerbForm=Inf	8	mark	_	start_char=47|end_char=54
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=55|end_char=59
+5	post	post	NOUN	NN	Number=Sing	8	nsubj	_	start_char=60|end_char=64
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=65|end_char=67
+7	completely	completely	ADV	RB	_	8	advmod	_	start_char=68|end_char=78
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=79|end_char=87
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=88|end_char=91
+10	foolish	foolish	ADJ	JJ	Degree=Pos	8	conj	_	start_char=92|end_char=99
+11	.	.	PUNCT	.	_	8	punct	_	start_char=99|end_char=100
+

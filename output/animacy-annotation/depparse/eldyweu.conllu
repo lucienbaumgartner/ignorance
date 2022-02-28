@@ -1,0 +1,21 @@
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=0|end_char=3
+2	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=4|end_char=7
+3	someone	someone	PRON	NN	Number=Sing	6	nsubj	_	start_char=8|end_char=15
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=16|end_char=18
+5	so	so	ADV	RB	_	6	advmod	_	start_char=19|end_char=21
+6	heartless	heartless	ADJ	JJ	Degree=Pos	0	root	_	start_char=22|end_char=31
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=32|end_char=35
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=36|end_char=44
+9	that	that	SCONJ	IN	_	13	mark	_	start_char=45|end_char=49
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=50|end_char=53
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	aux:pass	_	start_char=54|end_char=58
+12	fuckin	fuckin	ADV	RB	_	13	advmod	_	start_char=59|end_char=65
+13	cut	cut	VERB	VBN	Tense=Past|VerbForm=Part	8	ccomp	_	start_char=66|end_char=69
+14	open	open	ADJ	JJ	Degree=Pos	13	xcomp	_	start_char=70|end_char=74
+15	and	and	CCONJ	CC	_	17	cc	_	start_char=75|end_char=78
+16	almost	almost	ADV	RB	_	17	advmod	_	start_char=79|end_char=85
+17	bleeding	bleed	VERB	VBG	VerbForm=Ger	13	conj	_	start_char=86|end_char=94
+18	to	to	ADP	IN	_	19	case	_	start_char=95|end_char=97
+19	death	death	NOUN	NN	Number=Sing	17	obl	_	start_char=98|end_char=103
+20	?	?	PUNCT	.	_	6	punct	_	start_char=103|end_char=104
+

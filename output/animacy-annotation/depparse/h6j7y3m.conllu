@@ -1,0 +1,23 @@
+1	Lol	lol	INTJ	UH	_	15	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	15	punct	_	start_char=3|end_char=4
+3	but	but	CCONJ	CC	_	15	cc	_	start_char=5|end_char=8
+4	jokes	joke	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=9|end_char=14
+5	aside	aside	ADV	RB	_	4	advmod	_	start_char=15|end_char=20
+6	,	,	PUNCT	,	_	15	punct	_	start_char=20|end_char=21
+7	9	9	NUM	CD	NumType=Card	12	nummod	_	start_char=22|end_char=23
+8	out	out	ADP	IN	_	12	case	_	start_char=24|end_char=27
+9	of	of	ADP	IN	_	10	case	_	start_char=28|end_char=30
+10	10	10	NUM	CD	NumType=Card	11	nummod	_	start_char=31|end_char=33
+11	times	time	NOUN	NNS	Number=Plur	12	compound	_	start_char=34|end_char=39
+12	antivaxxers	antivaxxer	NOUN	NNS	Number=Plur	4	nmod	_	start_char=40|end_char=51
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=52|end_char=55
+14	just	just	ADV	RB	_	15	advmod	_	start_char=56|end_char=60
+15	uneducated	uneducated	ADJ	JJ	Degree=Pos	0	root	_	start_char=61|end_char=71
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=72|end_char=75
+17	unaware	unaware	ADJ	JJ	Degree=Pos	15	conj	_	start_char=76|end_char=83
+18	of	of	ADP	IN	_	19	case	_	start_char=84|end_char=86
+19	how	how	SCONJ	WRB	PronType=Int	17	obl	_	start_char=87|end_char=90
+20	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	start_char=91|end_char=93
+21	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	start_char=94|end_char=99
+22	.	.	PUNCT	.	_	15	punct	_	start_char=99|end_char=100
+

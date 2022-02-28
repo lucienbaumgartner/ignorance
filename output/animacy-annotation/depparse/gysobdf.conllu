@@ -1,0 +1,22 @@
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=5|end_char=7
+3	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=8|end_char=11
+4	Republicans	Republican	PROPN	NNPS	Number=Plur	5	nsubj	_	start_char=12|end_char=23
+5	stay	stay	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=24|end_char=28
+6	in	in	ADP	IN	_	7	case	_	start_char=29|end_char=31
+7	power	power	NOUN	NN	Number=Sing	5	obl	_	start_char=32|end_char=37
+8	,	,	PUNCT	,	_	10	punct	_	start_char=37|end_char=38
+9	by	by	SCONJ	IN	_	10	mark	_	start_char=39|end_char=41
+10	keeping	keep	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=42|end_char=49
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=50|end_char=55
+12	voters	voter	NOUN	NNS	Number=Plur	10	obj	_	start_char=56|end_char=62
+13	dumb	dumb	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=63|end_char=67
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=68|end_char=71
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=72|end_char=80
+16	of	of	ADP	IN	_	17	case	_	start_char=81|end_char=83
+17	what	what	PRON	WP	PronType=Int	15	obl	_	start_char=84|end_char=88
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	start_char=89|end_char=91
+19	actually	actually	ADV	RB	_	20	advmod	_	start_char=92|end_char=100
+20	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	17	acl:relcl	_	start_char=101|end_char=110
+21	.	.	PUNCT	.	_	2	punct	_	start_char=110|end_char=111
+

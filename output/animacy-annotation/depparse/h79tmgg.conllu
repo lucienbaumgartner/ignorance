@@ -1,0 +1,24 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=0|end_char=2
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	start_char=2|end_char=4
+3	usually	usually	ADV	RB	_	4	advmod	_	start_char=5|end_char=12
+4	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=13|end_char=18
+5	on	on	ADP	IN	_	6	case	_	start_char=19|end_char=21
+6	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=22|end_char=25
+7	most	most	ADJ	JJS	Degree=Sup	8	nsubj	_	start_char=26|end_char=30
+8	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	start_char=31|end_char=35
+9	owners	owner	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=36|end_char=42
+10	drive	drive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=43|end_char=48
+11	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=49|end_char=54
+12	vehicle	vehicle	NOUN	NN	Number=Sing	10	obj	_	start_char=55|end_char=62
+13	.	.	PUNCT	.	_	4	punct	_	start_char=62|end_char=63
+
+1	Always	Always	ADV	RB	_	3	advmod	_	start_char=64|end_char=70
+2	overly	overly	ADV	RB	_	3	advmod	_	start_char=71|end_char=77
+3	aggressive	aggressive	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=88
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=89|end_char=92
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=93|end_char=100
+6	of	of	ADP	IN	_	8	case	_	start_char=101|end_char=103
+7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=104|end_char=109
+8	surroundings	surroundings	NOUN	NNS	Number=Plur	5	obl	_	start_char=110|end_char=122
+9	.	.	PUNCT	.	_	3	punct	_	start_char=122|end_char=123
+

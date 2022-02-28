@@ -1,0 +1,19 @@
+1	About	about	ADV	RB	_	2	advmod	_	start_char=0|end_char=5
+2	as	as	ADV	RB	_	3	advmod	_	start_char=6|end_char=8
+3	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=9|end_char=13
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=14|end_char=17
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=18|end_char=26
+6	of	of	ADP	IN	_	8	case	_	start_char=27|end_char=29
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=30|end_char=31
+8	take	take	NOUN	NN	Number=Sing	5	obl	_	start_char=32|end_char=36
+9	as	as	SCONJ	IN	_	12	mark	_	start_char=37|end_char=39
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	start_char=40|end_char=43
+11	’d	have	AUX	MD	VerbForm=Fin	12	aux	_	start_char=43|end_char=45
+12	expect	expect	VERB	VB	VerbForm=Inf	3	advcl	_	start_char=46|end_char=52
+13	from	from	ADP	IN	_	16	case	_	start_char=53|end_char=57
+14	an	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	start_char=58|end_char=60
+15	average	average	ADJ	JJ	Degree=Pos	16	amod	_	start_char=61|end_char=68
+16	moron	moron	NOUN	NN	Number=Sing	12	obl	_	start_char=69|end_char=74
+17	on	on	ADP	IN	_	18	case	_	start_char=75|end_char=77
+18	Reddit	Reddit	PROPN	NNP	Number=Sing	16	nmod	_	start_char=78|end_char=84
+

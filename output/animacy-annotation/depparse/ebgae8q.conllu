@@ -1,0 +1,41 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	clearly	clearly	ADV	RB	_	3	advmod	_	start_char=4|end_char=11
+3	missed	miss	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=12|end_char=18
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=19|end_char=21
+5	point	point	NOUN	NN	Number=Sing	3	obj	_	start_char=22|end_char=27
+6	.	.	PUNCT	.	_	3	punct	_	start_char=27|end_char=28
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=29|end_char=32
+2	idea	idea	NOUN	NN	Number=Sing	13	nsubj	_	start_char=33|end_char=37
+3	that	that	PRON	WDT	PronType=Rel	9	obj	_	start_char=38|end_char=42
+4	*	*	PUNCT	NFP	_	5	punct	_	start_char=43|end_char=44
+5	everyone	everyone	PRON	NN	Number=Sing	2	appos	_	start_char=44|end_char=52
+6	*	*	PUNCT	NFP	_	5	punct	_	start_char=52|end_char=53
+7	can	can	AUX	MD	VerbForm=Fin	9	aux	_	start_char=54|end_char=57
+8	just	just	ADV	RB	_	9	advmod	_	start_char=58|end_char=62
+9	do	do	VERB	VB	VerbForm=Inf	2	acl:relcl	_	start_char=63|end_char=65
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=66|end_char=67
+11	trade	trade	NOUN	NN	Number=Sing	9	obj	_	start_char=68|end_char=73
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	start_char=74|end_char=76
+13	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	_	start_char=77|end_char=83
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=84|end_char=87
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=88|end_char=96
+16	.	.	PUNCT	.	_	13	punct	_	start_char=96|end_char=97
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=98|end_char=102
+2	physically	physically	ADV	RB	_	4	advmod	_	start_char=103|end_char=113
+3	cannot	cannot	AUX	MD	VerbForm=Fin	4	aux	_	start_char=114|end_char=120
+4	happen	happen	VERB	VB	VerbForm=Inf	0	root	_	start_char=121|end_char=127
+5	.	.	PUNCT	.	_	4	punct	_	start_char=127|end_char=128
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=129|end_char=131
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=132|end_char=136
+3	people	people	NOUN	NNS	Number=Plur	2	obj	_	start_char=137|end_char=143
+4	in	in	ADP	IN	_	5	case	_	start_char=144|end_char=146
+5	jobs	job	NOUN	NNS	Number=Plur	2	obl	_	start_char=147|end_char=151
+6	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=152|end_char=156
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=157|end_char=160
+8	n't	not	PART	RB	_	9	advmod	_	start_char=160|end_char=163
+9	trades	trade	NOUN	NNS	Number=Plur	5	acl:relcl	_	start_char=164|end_char=170
+10	.	.	PUNCT	.	_	2	punct	_	start_char=170|end_char=171
+

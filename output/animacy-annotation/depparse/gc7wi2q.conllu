@@ -1,0 +1,22 @@
+1	8th	8th	ADJ	JJ	Degree=Pos|NumType=Ord	2	amod	_	start_char=0|end_char=3
+2	grader	grader	NOUN	NN	Number=Sing	6	nsubj	_	start_char=4|end_char=10
+3	here	here	ADV	RB	PronType=Dem	2	advmod	_	start_char=11|end_char=15
+4	,	,	PUNCT	,	_	6	punct	_	start_char=15|end_char=16
+5	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=17|end_char=20
+6	confirm	confirm	VERB	VB	VerbForm=Inf	0	root	_	start_char=21|end_char=28
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=29|end_char=30
+8	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=31|end_char=34
+9	6th	6th	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	_	start_char=35|end_char=38
+10	graders	grader	NOUN	NNS	Number=Plur	8	obj	_	start_char=39|end_char=46
+11	as	as	ADV	RB	_	12	advmod	_	start_char=47|end_char=49
+12	cute	cute	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=50|end_char=54
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=55|end_char=58
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=59|end_char=66
+15	of	of	ADP	IN	_	17	case	_	start_char=67|end_char=69
+16	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=70|end_char=75
+17	fate	fate	NOUN	NN	Number=Sing	14	obl	_	start_char=76|end_char=80
+18	known	know	VERB	VBN	Tense=Past|VerbForm=Part	17	acl	_	start_char=81|end_char=86
+19	as	as	ADP	IN	_	20	case	_	start_char=87|end_char=89
+20	pre-algebra	pre-algebra	NOUN	NN	Number=Sing	18	obl	_	start_char=90|end_char=101
+21	.	.	PUNCT	.	_	6	punct	_	start_char=101|end_char=102
+

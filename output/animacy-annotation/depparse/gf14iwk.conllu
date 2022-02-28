@@ -1,0 +1,83 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=7|end_char=8
+4	theory	theory	NOUN	NN	Number=Sing	2	obj	_	start_char=9|end_char=15
+5	.	.	PUNCT	.	_	2	punct	_	start_char=15|end_char=16
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=17|end_char=20
+2	dude	dude	NOUN	NN	Number=Sing	3	nsubj	_	start_char=21|end_char=25
+3	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=26|end_char=32
+4	in	in	ADP	IN	_	5	case	_	start_char=33|end_char=35
+5	pounds	pound	NOUN	NNS	Number=Plur	3	obl	_	start_char=36|end_char=42
+6	,	,	PUNCT	,	_	8	punct	_	start_char=42|end_char=43
+7	not	not	ADV	RB	_	8	advmod	_	start_char=44|end_char=47
+8	kg	kg	NOUN	NN	Number=Sing	5	conj	_	start_char=48|end_char=50
+9	.	.	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+
+1	Evidence	evidence	NOUN	NN	Number=Sing	0	root	_	start_char=52|end_char=60
+2	:	:	PUNCT	:	_	1	punct	_	start_char=60|end_char=61
+
+1	1	1	NUM	CD	NumType=Card	4	nummod	_	start_char=63|end_char=64
+2	-	-	SYM	SYM	_	3	case	_	start_char=64|end_char=65
+3	150	150	NUM	CD	NumType=Card	1	nmod	_	start_char=66|end_char=69
+4	lbs	lb	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=70|end_char=73
+5	=	=	SYM	SYM	_	0	root	_	start_char=74|end_char=75
+6	68	68	NUM	CD	NumType=Card	7	nummod	_	start_char=76|end_char=78
+7	kg	kg	NOUN	NN	Number=Sing	5	obj	_	start_char=79|end_char=81
+8	,	,	PUNCT	,	_	11	punct	_	start_char=81|end_char=82
+9	which	which	PRON	WDT	PronType=Rel	11	nsubj	_	start_char=83|end_char=88
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=89|end_char=91
+11	normal	normal	ADJ	JJ	Degree=Pos	7	acl:relcl	_	start_char=92|end_char=98
+12	.	.	PUNCT	.	_	5	punct	_	start_char=98|end_char=99
+
+1	But	but	CCONJ	CC	_	7	cc	_	start_char=100|end_char=103
+2	instead	instead	ADV	RB	_	4	case	_	start_char=104|end_char=111
+3	of	of	ADP	IN	_	2	fixed	_	start_char=112|end_char=114
+4	lbs	lb	NOUN	NNS	Number=Plur	7	obl	_	start_char=115|end_char=118
+5	,	,	PUNCT	,	_	7	punct	_	start_char=118|end_char=119
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=120|end_char=122
+7	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=123|end_char=127
+8	kg	kg	NOUN	NN	Number=Sing	7	obj	_	start_char=128|end_char=130
+9	.	.	PUNCT	.	_	7	punct	_	start_char=130|end_char=131
+
+1	2	2	NUM	LS	_	4	nummod	_	start_char=134|end_char=135
+2	-	-	PUNCT	,	_	1	punct	_	start_char=135|end_char=136
+3	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=137|end_char=139
+4	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=140|end_char=146
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=147|end_char=150
+6	too	too	ADV	RB	_	7	advmod	_	start_char=151|end_char=154
+7	skinny	skinny	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=155|end_char=161
+8	for	for	ADP	IN	_	12	case	_	start_char=162|end_char=165
+9	70	70	NUM	CD	NumType=Card	10	nummod	_	start_char=166|end_char=168
+10	kg.	kg.	NOUN	NN	Number=Sing	12	compound	_	start_char=169|end_char=172
+11	70	70	NUM	CD	NumType=Card	10	nummod	_	start_char=173|end_char=175
+12	kg	kg	NOUN	NN	Number=Sing	14	nsubj	_	start_char=176|end_char=178
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=179|end_char=181
+14	normal	normal	ADJ	JJ	Degree=Pos	4	advcl	_	start_char=182|end_char=188
+15	but	but	CCONJ	CC	_	18	cc	_	start_char=189|end_char=192
+16	70	70	NUM	CD	NumType=Card	17	nummod	_	start_char=193|end_char=195
+17	lbs	lb	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=196|end_char=199
+18	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	start_char=200|end_char=205
+19	31	31	NUM	CD	NumType=Card	20	nummod	_	start_char=206|end_char=208
+20	kg	kg	NOUN	NNS	Number=Plur	18	obj	_	start_char=209|end_char=211
+21	,	,	PUNCT	,	_	20	punct	_	start_char=211|end_char=212
+22	which	which	PRON	WDT	PronType=Rel	25	nsubj	_	start_char=213|end_char=218
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	start_char=219|end_char=221
+24	legit	legit	ADJ	JJ	Degree=Pos	25	amod	_	start_char=222|end_char=227
+25	skinny	skinny	ADJ	JJ	Degree=Pos	20	acl:relcl	_	start_char=228|end_char=234
+26	.	.	PUNCT	.	_	4	punct	_	start_char=234|end_char=235
+
+1	Conclusion	conclusion	NOUN	NN	Number=Sing	0	root	_	start_char=238|end_char=248
+2	:	:	PUNCT	:	_	1	punct	_	start_char=248|end_char=249
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=250|end_char=252
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=253|end_char=255
+3	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=256|end_char=266
+4	AND	and	CCONJ	CC	_	5	cc	_	start_char=267|end_char=270
+5	unaware	unaware	ADJ	JJ	Degree=Pos	3	conj	_	start_char=271|end_char=278
+6	of	of	ADP	IN	_	10	mark	_	start_char=279|end_char=281
+7	how	how	SCONJ	WRB	PronType=Int	5	obl	_	start_char=282|end_char=285
+8	measurement	measurement	NOUN	NN	Number=Sing	9	compound	_	start_char=286|end_char=297
+9	units	unit	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=298|end_char=303
+10	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	start_char=304|end_char=308
+

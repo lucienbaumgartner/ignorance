@@ -1,0 +1,15 @@
+1	Weird	weird	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	?	?	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=8|end_char=11
+2	mean	mean	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=12|end_char=16
+3	scary	scary	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=22
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=23|end_char=26
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=27|end_char=35
+6	of	of	ADP	IN	_	7	case	_	start_char=36|end_char=38
+7	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obl	_	start_char=39|end_char=43
+8	to	to	PART	TO	_	10	mark	_	start_char=44|end_char=46
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=47|end_char=49
+10	anti-vax	anti-vax	ADJ	JJ	Degree=Pos	3	advcl	_	start_char=50|end_char=58
+11	.	.	PUNCT	.	_	3	punct	_	start_char=58|end_char=59
+

@@ -1,0 +1,43 @@
+1	Lets	let	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	be	be	AUX	VB	VerbForm=Inf	3	cop	_	start_char=5|end_char=7
+3	honest	honest	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=8|end_char=14
+4	-	-	PUNCT	,	_	3	punct	_	start_char=14|end_char=15
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	start_char=16|end_char=18
+6	miss	miss	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=19|end_char=23
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=24|end_char=25
+8	time	time	NOUN	NN	Number=Sing	6	obj	_	start_char=26|end_char=30
+9	when	when	SCONJ	WRB	PronType=Int	12	mark	_	start_char=31|end_char=35
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=36|end_char=38
+11	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	_	start_char=39|end_char=43
+12	naive	naive	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=44|end_char=49
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=50|end_char=53
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=54|end_char=61
+15	of	of	ADP	IN	_	18	case	_	start_char=62|end_char=64
+16	all	all	DET	PDT	_	18	det:predet	_	start_char=65|end_char=68
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=69|end_char=72
+18	bullshit	bullshit	NOUN	NN	Number=Sing	14	obl	_	start_char=73|end_char=81
+19	.	.	PUNCT	.	_	1	punct	_	start_char=81|end_char=82
+
+1	For	for	ADP	IN	_	2	case	_	start_char=84|end_char=87
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	start_char=88|end_char=90
+3	,	,	PUNCT	,	_	9	punct	_	start_char=90|end_char=91
+4	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=92|end_char=96
+5	would	would	AUX	MD	VerbForm=Fin	9	aux	_	start_char=97|end_char=102
+6	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=103|end_char=105
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=106|end_char=109
+8	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	9	amod	_	start_char=110|end_char=115
+9	decade	decade	NOUN	NN	Number=Sing	0	root	_	start_char=116|end_char=122
+10	of	of	ADP	IN	_	12	case	_	start_char=123|end_char=125
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	start_char=126|end_char=130
+12	century	century	NOUN	NN	Number=Sing	9	nmod	_	start_char=131|end_char=138
+13	.	.	PUNCT	.	_	9	punct	_	start_char=138|end_char=139
+
+1	2nd	2nd	NOUN	NN	Number=Sing	5	nsubj	_	start_char=141|end_char=144
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=145|end_char=148
+3	3rd	3rd	ADV	RB	Degree=Pos	1	conj	_	start_char=149|end_char=152
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=153|end_char=157
+5	sucked	suck	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=158|end_char=164
+6	so	so	ADV	RB	_	7	advmod	_	start_char=165|end_char=167
+7	far	far	ADV	RB	Degree=Pos	5	advmod	_	start_char=168|end_char=171
+8	.	.	PUNCT	.	_	5	punct	_	start_char=171|end_char=172
+

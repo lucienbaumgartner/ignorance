@@ -1,0 +1,44 @@
+1	Definitely	definitely	ADV	RB	_	2	advmod	_	start_char=0|end_char=10
+2	pick	pick	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=11|end_char=15
+3	Deb	Deb	PROPN	NNP	Number=Sing	2	obj	_	start_char=16|end_char=19
+4	.	.	PUNCT	.	_	2	punct	_	start_char=19|end_char=20
+
+1	Andy	Andy	PROPN	NNP	Number=Sing	4	nmod:poss	_	start_char=21|end_char=25
+2	's	's	PART	POS	_	1	case	_	start_char=25|end_char=27
+3	good	good	ADJ	JJ	Degree=Pos	4	amod	_	start_char=28|end_char=32
+4	reviews	review	NOUN	NNS	Number=Plur	7	nsubj:pass	_	start_char=33|end_char=40
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux:pass	_	start_char=41|end_char=45
+6	completely	completely	ADV	RB	_	7	advmod	_	start_char=46|end_char=56
+7	debunked	debunk	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=57|end_char=65
+8	by	by	ADP	IN	_	10	case	_	start_char=66|end_char=68
+9	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=69|end_char=71
+10	friends	friend	NOUN	NNS	Number=Plur	7	obl	_	start_char=72|end_char=79
+11	last	last	ADJ	JJ	Degree=Pos	12	amod	_	start_char=80|end_char=84
+12	year	year	NOUN	NN	Number=Sing	7	obl:tmod	_	start_char=85|end_char=89
+13	-	-	PUNCT	,	_	7	punct	_	start_char=89|end_char=90
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=91|end_char=93
+15	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	parataxis	_	start_char=94|end_char=100
+16	to	to	PART	TO	_	19	mark	_	start_char=101|end_char=103
+17	be	be	AUX	VB	VerbForm=Inf	19	cop	_	start_char=104|end_char=106
+18	very	very	ADV	RB	_	19	advmod	_	start_char=107|end_char=111
+19	unstable	unstable	ADJ	JJ	Degree=Pos	15	xcomp	_	start_char=112|end_char=120
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=121|end_char=124
+21	unaware	unaware	ADJ	JJ	Degree=Pos	19	conj	_	start_char=125|end_char=132
+22	that	that	SCONJ	IN	_	25	mark	_	start_char=133|end_char=137
+23	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	start_char=138|end_char=140
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	start_char=141|end_char=144
+25	teaching	teach	VERB	VBG	Tense=Pres|VerbForm=Part	21	ccomp	_	start_char=145|end_char=153
+26	adults	adult	NOUN	NNS	Number=Plur	25	obj	_	start_char=154|end_char=160
+27	.	.	PUNCT	.	_	7	punct	_	start_char=160|end_char=161
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=162|end_char=163
+2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=164|end_char=167
+3	deb	deb	NOUN	NN	Number=Sing	2	obj	_	start_char=168|end_char=171
+4	and	and	CCONJ	CC	_	6	cc	_	start_char=172|end_char=175
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=176|end_char=177
+6	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	start_char=178|end_char=185
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=186|end_char=189
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	start_char=190|end_char=193
+9	great	great	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=194|end_char=199
+10	.	.	PUNCT	.	_	2	punct	_	start_char=199|end_char=200
+

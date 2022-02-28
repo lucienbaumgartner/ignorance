@@ -1,0 +1,19 @@
+1	In	in	ADP	IN	_	5	mark	_	start_char=0|end_char=2
+2	case	case	NOUN	NN	Number=Sing	1	fixed	_	start_char=3|end_char=7
+3	anyone	anyone	PRON	NN	Number=Sing	5	nsubj	_	start_char=8|end_char=14
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=15|end_char=17
+5	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=18|end_char=25
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=26|end_char=29
+7	interested	interested	ADJ	JJ	Degree=Pos	5	conj	_	start_char=30|end_char=40
+8	;	;	PUNCT	,	_	5	punct	_	start_char=40|end_char=41
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=42|end_char=46
+10	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=46|end_char=49
+11	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	5	parataxis	_	start_char=50|end_char=55
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=56|end_char=57
+13	US	US	PROPN	NNP	Number=Sing	14	compound	_	start_char=58|end_char=60
+14	tour	tour	NOUN	NN	Number=Sing	11	obj	_	start_char=61|end_char=65
+15	starting	start	VERB	VBG	VerbForm=Ger	14	acl	_	start_char=66|end_char=74
+16	in	in	ADP	IN	_	17	case	_	start_char=75|end_char=77
+17	January	January	PROPN	NNP	Number=Sing	15	obl	_	start_char=78|end_char=85
+18	!	!	PUNCT	.	_	5	punct	_	start_char=85|end_char=86
+

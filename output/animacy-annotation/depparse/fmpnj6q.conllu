@@ -1,0 +1,40 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=7|end_char=10
+3	literally	literally	ADV	RB	_	4	advmod	_	start_char=11|end_char=20
+4	saying	say	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=21|end_char=27
+5	black	black	ADJ	JJ	Degree=Pos	6	amod	_	start_char=28|end_char=33
+6	people	people	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=34|end_char=40
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	start_char=41|end_char=44
+8	so	so	ADV	RB	_	9	advmod	_	start_char=45|end_char=47
+9	stupid	stupid	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=48|end_char=54
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=55|end_char=58
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=59|end_char=67
+12	that	that	SCONJ	IN	_	16	mark	_	start_char=68|end_char=72
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj:pass	_	start_char=73|end_char=77
+14	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	start_char=77|end_char=80
+15	being	be	AUX	VBG	VerbForm=Ger	16	aux:pass	_	start_char=81|end_char=86
+16	forced	force	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	ccomp	_	start_char=87|end_char=93
+17	to	to	PART	TO	_	18	mark	_	start_char=94|end_char=96
+18	attack	attack	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=97|end_char=103
+19	random	random	ADJ	JJ	Degree=Pos	21	amod	_	start_char=104|end_char=110
+20	Asian	Asian	ADJ	JJ	Degree=Pos	21	amod	_	start_char=111|end_char=116
+21	people	people	NOUN	NNS	Number=Plur	18	obj	_	start_char=117|end_char=123
+22	because	because	SCONJ	IN	_	24	mark	_	start_char=124|end_char=131
+23	Trump	Trump	PROPN	NNP	Number=Sing	24	nsubj	_	start_char=132|end_char=137
+24	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	18	advcl	_	start_char=138|end_char=142
+25	mean	mean	VERB	VB	VerbForm=Inf	24	ccomp	_	start_char=143|end_char=147
+26	things	thing	NOUN	NNS	Number=Plur	25	obj	_	start_char=148|end_char=154
+27	about	about	ADP	IN	_	28	case	_	start_char=155|end_char=160
+28	China	China	PROPN	NNP	Number=Sing	26	nmod	_	start_char=161|end_char=166
+29	.	.	PUNCT	.	_	4	punct	_	start_char=166|end_char=167
+
+1	Straw	straw	ADJ	JJ	Degree=Pos	2	amod	_	start_char=169|end_char=174
+2	man	man	NOUN	NN	Number=Sing	0	root	_	start_char=175|end_char=178
+3	2	2	NUM	CD	NumType=Card	2	nummod	_	start_char=179|end_char=180
+4	:	:	PUNCT	:	_	2	punct	_	start_char=180|end_char=181
+5	electric	electric	ADJ	JJ	Degree=Pos	6	amod	_	start_char=182|end_char=190
+6	boogaloo	boogaloo	NOUN	NN	Number=Sing	2	appos	_	start_char=191|end_char=199
+

@@ -1,0 +1,27 @@
+1	Well	well	INTJ	UH	_	5	discourse	_	start_char=0|end_char=4
+2	DT	dt	NOUN	NN	Number=Sing	3	compound	_	start_char=5|end_char=7
+3	supporters	supporter	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=8|end_char=18
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=19|end_char=22
+5	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=23|end_char=30
+6	brain	brain	NOUN	NN	Number=Sing	5	obj	_	start_char=31|end_char=36
+7	dead	dead	ADJ	JJ	Degree=Pos	5	xcomp	_	start_char=37|end_char=41
+8	at	at	ADP	IN	_	10	case	_	start_char=42|end_char=44
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=45|end_char=49
+10	point	point	NOUN	NN	Number=Sing	5	obl	_	start_char=50|end_char=55
+11	OR	or	CCONJ	CC	_	14	cc	_	start_char=56|end_char=58
+12	so	so	ADV	RB	_	13	advmod	_	start_char=59|end_char=61
+13	unbelievably	unbelievably	ADV	RB	_	14	advmod	_	start_char=62|end_char=74
+14	naive	naive	ADJ	JJ	Degree=Pos	5	conj	_	start_char=75|end_char=80
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=81|end_char=84
+16	ignorant	ignorant	ADJ	JJ	Degree=Pos	14	conj	_	start_char=85|end_char=93
+17	that	that	SCONJ	IN	_	22	mark	_	start_char=94|end_char=98
+18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=99|end_char=104
+19	precious	precious	ADJ	JJ	Degree=Pos	20	amod	_	start_char=105|end_char=113
+20	opinion	opinion	NOUN	NN	Number=Sing	22	nsubj	_	start_char=114|end_char=121
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=122|end_char=124
+22	worth	worth	ADJ	JJ	Degree=Pos	16	ccomp	_	start_char=125|end_char=130
+23	less	less	ADJ	JJR	Degree=Cmp	22	obj	_	start_char=131|end_char=135
+24	than	than	ADP	IN	_	25	case	_	start_char=136|end_char=140
+25	nothing	nothing	PRON	NN	Number=Sing	22	obl	_	start_char=141|end_char=148
+26	.	.	PUNCT	.	_	5	punct	_	start_char=148|end_char=149
+

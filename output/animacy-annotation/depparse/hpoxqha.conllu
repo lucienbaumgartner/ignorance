@@ -1,0 +1,13 @@
+1	Nothing	nothing	PRON	NN	Number=Sing	4	nsubj	_	start_char=0|end_char=7
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=8|end_char=10
+3	so	so	ADV	RB	_	4	advmod	_	start_char=11|end_char=13
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	pathetic	pathetic	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	than	than	ADP	IN	_	9	case	_	start_char=36|end_char=40
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=41|end_char=44
+9	term	term	NOUN	NN	Number=Sing	4	obl	_	start_char=45|end_char=49
+10	"	"	PUNCT	``	_	11	punct	_	start_char=50|end_char=51
+11	influencer	influencer	NOUN	NN	Number=Sing	9	appos	_	start_char=51|end_char=61
+12	"	"	PUNCT	''	_	11	punct	_	start_char=61|end_char=62
+

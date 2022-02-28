@@ -1,0 +1,19 @@
+1	Opinions	opinion	NOUN	NNS	Number=Plur	0	root	_	start_char=0|end_char=8
+2	,	,	PUNCT	,	_	1	punct	_	start_char=8|end_char=9
+3	no	no	DET	DT	_	4	det	_	start_char=10|end_char=12
+4	matter	matter	NOUN	NN	Number=Sing	1	appos	_	start_char=13|end_char=19
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=20|end_char=23
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	acl:relcl	_	start_char=24|end_char=32
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=33|end_char=36
+8	dumb	dumb	ADJ	JJ	Degree=Pos	6	conj	_	start_char=37|end_char=41
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=42|end_char=46
+10	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=47|end_char=50
+11	,	,	PUNCT	,	_	14	punct	_	start_char=50|end_char=51
+12	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=52|end_char=54
+13	n't	not	PART	RB	_	14	advmod	_	start_char=54|end_char=57
+14	belong	belong	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=58|end_char=64
+15	in	in	ADP	IN	_	17	case	_	start_char=65|end_char=67
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=68|end_char=72
+17	sub	sub	NOUN	NN	Number=Sing	14	obl	_	start_char=73|end_char=76
+18	.	.	PUNCT	.	_	1	punct	_	start_char=76|end_char=77
+

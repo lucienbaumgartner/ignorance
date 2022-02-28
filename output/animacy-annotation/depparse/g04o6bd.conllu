@@ -1,0 +1,37 @@
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=0|end_char=2
+2	still	still	ADV	RB	_	3	advmod	_	start_char=3|end_char=8
+3	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=9|end_char=13
+4	advantage	advantage	NOUN	NN	Number=Sing	3	obj	_	start_char=14|end_char=23
+5	of	of	ADP	IN	_	7	case	_	start_char=24|end_char=26
+6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	start_char=27|end_char=30
+7	opportunities	opportunity	NOUN	NNS	Number=Plur	3	obl	_	start_char=31|end_char=44
+8	.	.	PUNCT	.	_	3	punct	_	start_char=44|end_char=45
+
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=46|end_char=48
+2	chose	choose	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=49|end_char=54
+3	to	to	PART	TO	_	4	mark	_	start_char=55|end_char=57
+4	learn	learn	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=58|end_char=63
+5	,	,	PUNCT	,	_	9	punct	_	start_char=63|end_char=64
+6	and	and	CCONJ	CC	_	9	cc	_	start_char=65|end_char=68
+7	not	not	PART	RB	_	9	advmod	_	start_char=69|end_char=72
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	start_char=73|end_char=75
+9	illiterate	illiterate	ADJ	JJ	Degree=Pos	2	conj	_	start_char=76|end_char=86
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=87|end_char=90
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=91|end_char=99
+12	.	.	PUNCT	.	_	2	punct	_	start_char=99|end_char=100
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=101|end_char=105
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	start_char=106|end_char=109
+3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=110|end_char=112
+4	point	point	NOUN	NN	Number=Sing	0	root	_	start_char=113|end_char=118
+5	.	.	PUNCT	.	_	4	punct	_	start_char=118|end_char=119
+
+1	Not	not	PART	RB	_	2	advmod	_	start_char=120|end_char=123
+2	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	start_char=124|end_char=128
+3	where	where	SCONJ	WRB	PronType=Int	5	mark	_	start_char=129|end_char=134
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=135|end_char=138
+5	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=139|end_char=142
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=143|end_char=146
+7	rest	rest	NOUN	NN	Number=Sing	5	obj	_	start_char=147|end_char=151
+8	.	.	PUNCT	.	_	2	punct	_	start_char=151|end_char=152
+

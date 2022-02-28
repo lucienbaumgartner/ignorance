@@ -1,0 +1,55 @@
+1	Imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=0|end_char=7
+2	not	not	PART	RB	_	3	advmod	_	start_char=8|end_char=11
+3	trying	try	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=12|end_char=18
+4	to	to	PART	TO	_	5	mark	_	start_char=19|end_char=21
+5	empathize	empathize	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=22|end_char=31
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=32|end_char=35
+7	rationalize	rationalize	VERB	VB	VerbForm=Inf	5	conj	_	start_char=36|end_char=47
+8	why	why	SCONJ	WRB	PronType=Int	10	mark	_	start_char=48|end_char=51
+9	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	start_char=52|end_char=58
+10	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	start_char=59|end_char=61
+11	things	thing	NOUN	NNS	Number=Plur	10	obj	_	start_char=62|end_char=68
+12	.	.	PUNCT	.	_	1	punct	_	start_char=68|end_char=69
+
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=70|end_char=72
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=73|end_char=76
+3	ca	can	AUX	MD	VerbForm=Fin	5	aux	_	start_char=77|end_char=79
+4	n't	not	PART	RB	_	5	advmod	_	start_char=79|end_char=82
+5	do	do	VERB	VB	VerbForm=Inf	15	advcl	_	start_char=83|end_char=85
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=86|end_char=90
+7	in	in	ADP	IN	_	8	case	_	start_char=91|end_char=93
+8	life	life	NOUN	NN	Number=Sing	5	obl	_	start_char=94|end_char=98
+9	,	,	PUNCT	,	_	15	punct	_	start_char=98|end_char=99
+10	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	start_char=100|end_char=103
+11	'll	will	AUX	MD	VerbForm=Fin	15	aux	_	start_char=103|end_char=106
+12	always	always	ADV	RB	_	15	advmod	_	start_char=107|end_char=113
+13	be	be	AUX	VB	VerbForm=Inf	15	cop	_	start_char=114|end_char=116
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=117|end_char=118
+15	child	child	NOUN	NN	Number=Sing	0	root	_	start_char=119|end_char=124
+16	throwing	throw	VERB	VBG	VerbForm=Ger	15	acl	_	start_char=125|end_char=133
+17	tantrums	tantrum	NOUN	NNS	Number=Plur	16	obj	_	start_char=134|end_char=142
+18	about	about	ADP	IN	_	19	case	_	start_char=143|end_char=148
+19	things	thing	NOUN	NNS	Number=Plur	16	obl	_	start_char=149|end_char=155
+20	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	22	nsubj	_	start_char=156|end_char=159
+21	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	cop	_	start_char=159|end_char=162
+22	unwilling	unwilling	ADJ	JJ	Degree=Pos	19	acl:relcl	_	start_char=163|end_char=172
+23	to	to	PART	TO	_	24	mark	_	start_char=173|end_char=175
+24	understand	understand	VERB	VB	VerbForm=Inf	22	xcomp	_	start_char=176|end_char=186
+25	.	.	PUNCT	.	_	15	punct	_	start_char=186|end_char=187
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=192|end_char=195
+2	people	people	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=196|end_char=202
+3	create	create	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=203|end_char=209
+4	and	and	CCONJ	CC	_	5	cc	_	start_char=210|end_char=213
+5	facilitate	facilitate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	start_char=214|end_char=224
+6	cheaters	cheater	NOUN	NNS	Number=Plur	5	obj	_	start_char=225|end_char=233
+7	.	.	PUNCT	.	_	3	punct	_	start_char=233|end_char=234
+
+1	Quit	quit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=235|end_char=239
+2	acting	act	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=240|end_char=246
+3	so	so	ADV	RB	_	4	advmod	_	start_char=247|end_char=249
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=250|end_char=258
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=259|end_char=262
+6	innocent	innocent	ADJ	JJ	Degree=Pos	4	conj	_	start_char=263|end_char=271
+7	.	.	PUNCT	.	_	1	punct	_	start_char=271|end_char=272
+

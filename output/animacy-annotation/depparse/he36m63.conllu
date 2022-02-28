@@ -1,0 +1,87 @@
+1	Did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	start_char=0|end_char=3
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=4|end_char=7
+3	just	just	ADV	RB	_	4	advmod	_	start_char=8|end_char=12
+4	deny	deny	VERB	VB	VerbForm=Inf	0	root	_	start_char=13|end_char=17
+5	someone	someone	PRON	NN	Number=Sing	4	obj	_	start_char=18|end_char=25
+6	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=26|end_char=31
+7	own	own	ADJ	JJ	Degree=Pos	10	amod	_	start_char=32|end_char=35
+8	custom	custom	ADJ	JJ	Degree=Pos	10	amod	_	start_char=36|end_char=42
+9	sexual	sexual	ADJ	JJ	Degree=Pos	10	amod	_	start_char=43|end_char=49
+10	preferences	preference	NOUN	NNS	Number=Plur	4	obj	_	start_char=50|end_char=61
+11	?	?	PUNCT	.	_	4	punct	_	start_char=61|end_char=62
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=63|end_char=66
+2	dare	dare	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=67|end_char=71
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=72|end_char=75
+4	!	!	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=77|end_char=81
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=82|end_char=84
+3	2021	2021	NUM	CD	NumType=Card	0	root	_	start_char=85|end_char=89
+4	and	and	CCONJ	CC	_	8	cc	_	start_char=90|end_char=93
+5	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=94|end_char=100
+6	can	can	AUX	MD	VerbForm=Fin	8	aux	_	start_char=101|end_char=104
+7	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=105|end_char=107
+8	whatever	whatever	PRON	WP	PronType=Int	3	conj	_	start_char=108|end_char=116
+9	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=117|end_char=121
+10	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=122|end_char=126
+11	!	!	PUNCT	.	_	3	punct	_	start_char=126|end_char=127
+
+1	If	if	SCONJ	IN	_	3	mark	_	start_char=128|end_char=130
+2	someone	someone	PRON	NN	Number=Sing	3	nsubj	_	start_char=131|end_char=138
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=139|end_char=143
+4	Semibisexual	Semibisexual	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=144|end_char=156
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=157|end_char=159
+6	different	different	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=160|end_char=169
+7	from	from	ADP	IN	_	8	case	_	start_char=170|end_char=174
+8	Straight	Straight	PROPN	NNP	Number=Sing	6	obl	_	start_char=175|end_char=183
+9	,	,	PUNCT	,	_	6	punct	_	start_char=183|end_char=184
+10	who	who	PRON	WP	PronType=Rel	14	nsubj	_	start_char=185|end_char=188
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=189|end_char=192
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	start_char=193|end_char=196
+13	to	to	PART	TO	_	14	mark	_	start_char=197|end_char=199
+14	deny	deny	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=200|end_char=204
+15	that	that	PRON	DT	Number=Sing|PronType=Dem	14	obj	_	start_char=205|end_char=209
+16	!	!	PUNCT	.	_	3	punct	_	start_char=209|end_char=210
+
+1	How	how	ADV	WRB	PronType=Int	6	advmod	_	start_char=211|end_char=214
+2	dare	dare	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=215|end_char=219
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	start_char=220|end_char=223
+4	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=224|end_char=226
+5	so	so	ADV	RB	_	6	advmod	_	start_char=227|end_char=229
+6	bigoted	bigoted	ADJ	JJ	Degree=Pos	0	root	_	start_char=230|end_char=237
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=238|end_char=241
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=242|end_char=250
+9	of	of	ADP	IN	_	13	case	_	start_char=251|end_char=253
+10	other	other	ADJ	JJ	Degree=Pos	11	amod	_	start_char=254|end_char=259
+11	people	people	NOUN	NNS	Number=Plur	13	nmod:poss	_	start_char=260|end_char=266
+12	's	's	PART	POS	_	11	case	_	start_char=266|end_char=268
+13	feelings	feeling	NOUN	NNS	Number=Plur	8	obl	_	start_char=269|end_char=277
+14	,	,	PUNCT	,	_	6	punct	_	start_char=277|end_char=278
+15	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	start_char=279|end_char=282
+16	Semiphobic	Semiphobic	PROPN	NNP	Number=Sing	17	nsubj	_	start_char=283|end_char=293
+17	jerk	jerk	VERB	VB	VerbForm=Fin	6	parataxis	_	start_char=294|end_char=298
+18	.	.	PUNCT	.	_	6	punct	_	start_char=298|end_char=299
+
+1	(	(	PUNCT	-LRB-	_	4	punct	_	start_char=302|end_char=303
+2	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=303|end_char=307
+3	n't	not	PART	RB	_	4	advmod	_	start_char=307|end_char=310
+4	feel	feel	VERB	VB	VerbForm=Inf	0	root	_	start_char=311|end_char=315
+5	so	so	ADV	RB	_	6	advmod	_	start_char=316|end_char=318
+6	good	good	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=319|end_char=323
+7	now	now	ADV	RB	_	4	advmod	_	start_char=324|end_char=327
+8	,	,	PUNCT	,	_	4	punct	_	start_char=327|end_char=328
+9	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	start_char=329|end_char=333
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	start_char=334|end_char=336
+11	?	?	PUNCT	.	_	4	punct	_	start_char=336|end_char=337
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=338|end_char=342
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=342|end_char=344
+3	what	what	PRON	WP	PronType=Int	0	root	_	start_char=345|end_char=349
+4	yall	yall	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=350|end_char=354
+5	sound	sound	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=355|end_char=360
+6	like	like	ADP	IN	_	8	case	_	start_char=361|end_char=365
+7	these	this	DET	DT	Number=Plur|PronType=Dem	8	det	_	start_char=366|end_char=371
+8	days	day	NOUN	NNS	Number=Plur	5	obl	_	start_char=372|end_char=376
+9	)	)	PUNCT	-RRB-	_	3	punct	_	start_char=376|end_char=377
+

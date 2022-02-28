@@ -1,0 +1,13 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	're	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=6
+3	so	so	ADV	RB	_	4	advmod	_	start_char=7|end_char=9
+4	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	0	root	_	start_char=10|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	that	that	SCONJ	IN	_	12	mark	_	start_char=36|end_char=40
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=41|end_char=43
+9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=43|end_char=45
+10	not	not	PART	RB	Polarity=Neg	12	advmod	_	start_char=46|end_char=49
+11	even	even	ADV	RB	_	12	advmod	_	start_char=50|end_char=54
+12	funny	funny	ADJ	JJ	Degree=Pos	4	parataxis	_	start_char=55|end_char=60
+

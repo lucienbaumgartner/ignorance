@@ -1,0 +1,27 @@
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=0|end_char=2
+2	.	.	PUNCT	.	_	1	punct	_	start_char=2|end_char=3
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=4|end_char=7
+2	wealthy	wealthy	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=8|end_char=15
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=16|end_char=19
+4	manipulating	manipulate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=20|end_char=32
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=33|end_char=36
+6	market	market	NOUN	NN	Number=Sing	4	obj	_	start_char=37|end_char=43
+7	to	to	PART	TO	_	8	mark	_	start_char=44|end_char=46
+8	buy	buy	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=47|end_char=50
+9	up	up	ADP	RP	_	8	compound:prt	_	start_char=51|end_char=53
+10	coins	coin	NOUN	NNS	Number=Plur	8	obj	_	start_char=54|end_char=59
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=60|end_char=63
+12	shares	share	NOUN	NNS	Number=Plur	10	conj	_	start_char=64|end_char=70
+13	from	from	ADP	IN	_	14	case	_	start_char=71|end_char=75
+14	those	that	PRON	DT	Number=Plur|PronType=Dem	8	obl	_	start_char=76|end_char=81
+15	that	that	PRON	WDT	PronType=Rel	17	nsubj	_	start_char=82|end_char=86
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=87|end_char=90
+17	poor	poor	ADJ	JJ	Degree=Pos	14	acl:relcl	_	start_char=91|end_char=95
+18	and	and	CCONJ	CC	_	19	cc	_	start_char=96|end_char=99
+19	desperate	desperate	ADJ	JJ	Degree=Pos	17	conj	_	start_char=100|end_char=109
+20	and	and	CCONJ	CC	_	21	cc	_	start_char=110|end_char=113
+21	ignorant	ignorant	ADJ	JJ	Degree=Pos	17	conj	_	start_char=114|end_char=122
+22	of	of	ADP	IN	_	23	case	_	start_char=123|end_char=125
+23	investing	investing	NOUN	NN	Number=Sing	21	obl	_	start_char=126|end_char=135
+

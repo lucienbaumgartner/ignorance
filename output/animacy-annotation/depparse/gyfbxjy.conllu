@@ -1,0 +1,39 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	Indian	Indian	ADJ	JJ	Degree=Pos	4	nsubj	_	start_char=4|end_char=10
+3	doesnt	doesnt	AUX	MD	VerbForm=Fin	4	aux	_	start_char=11|end_char=17
+4	need	need	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+5	to	to	PART	TO	_	6	mark	_	start_char=23|end_char=25
+6	know	know	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=26|end_char=30
+7	much	much	ADV	RB	_	6	obj	_	start_char=31|end_char=35
+8	about	about	ADP	IN	_	9	case	_	start_char=36|end_char=41
+9	America	America	PROPN	NNP	Number=Sing	7	obl	_	start_char=42|end_char=49
+10	to	to	PART	TO	_	11	mark	_	start_char=50|end_char=52
+11	realize	realize	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=53|end_char=60
+12	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=61|end_char=64
+13	situation	situation	NOUN	NN	Number=Sing	17	nsubj	_	start_char=65|end_char=74
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=75|end_char=77
+15	100	100	NUM	CD	NumType=Card	16	nummod	_	start_char=78|end_char=81
+16	times	time	NOUN	NNS	Number=Plur	17	obl:npmod	_	start_char=82|end_char=87
+17	worse	bad	ADJ	JJR	Degree=Cmp	11	ccomp	_	start_char=88|end_char=93
+18	.	.	PUNCT	.	_	4	punct	_	start_char=93|end_char=94
+
+1	Im	Im	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=95|end_char=97
+2	not	not	PART	RB	_	3	advmod	_	start_char=98|end_char=101
+3	saying	say	VERB	VBG	VerbForm=Ger	0	root	_	start_char=102|end_char=108
+4	Indians	Indian	PROPN	NNPS	Number=Plur	6	nsubj	_	start_char=109|end_char=116
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=117|end_char=120
+6	experts	expert	NOUN	NNS	Number=Plur	3	ccomp	_	start_char=121|end_char=128
+7	.	.	PUNCT	.	_	3	punct	_	start_char=128|end_char=129
+
+1	Im	Im	PRON	PRP	Number=Sing|PronType=Prs	2	nsubj	_	start_char=130|end_char=132
+2	saying	say	VERB	VBG	VerbForm=Ger	0	root	_	start_char=133|end_char=139
+3	certain	certain	ADJ	JJ	Degree=Pos	4	amod	_	start_char=140|end_char=147
+4	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=148|end_char=154
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=155|end_char=158
+6	spoiled	spoiled	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	start_char=159|end_char=166
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=167|end_char=170
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=171|end_char=178
+9	of	of	ADP	IN	_	10	case	_	start_char=179|end_char=181
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=182|end_char=184
+11	.	.	PUNCT	.	_	2	punct	_	start_char=184|end_char=185
+

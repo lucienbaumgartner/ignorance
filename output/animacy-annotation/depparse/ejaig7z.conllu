@@ -1,0 +1,12 @@
+1	Nope	nope	INTJ	UH	_	0	root	_	start_char=0|end_char=4
+2	.	.	PUNCT	.	_	1	punct	_	start_char=4|end_char=5
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=6|end_char=10
+2	showing	show	VERB	VBG	VerbForm=Ger	0	root	_	start_char=11|end_char=18
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=19|end_char=22
+4	unaware	unaware	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=23|end_char=30
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=31|end_char=34
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=35|end_char=43
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=44|end_char=47
+8	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=48|end_char=51
+

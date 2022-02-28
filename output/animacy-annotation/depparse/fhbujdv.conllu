@@ -1,0 +1,13 @@
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	start_char=0|end_char=3
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=4|end_char=6
+3	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	start_char=7|end_char=14
+4	how	how	SCONJ	WRB	PronType=Int	5	mark	_	start_char=15|end_char=18
+5	dumb	dumb	ADJ	JJ	Degree=Pos	3	ccomp	_	start_char=19|end_char=23
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=24|end_char=27
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=28|end_char=36
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	start_char=37|end_char=41
+9	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	start_char=42|end_char=48
+10	,	,	PUNCT	,	_	11	punct	_	start_char=48|end_char=49
+11	right	right	ADV	RB	Degree=Pos	9	advmod	_	start_char=50|end_char=55
+12	?	?	PUNCT	.	_	3	punct	_	start_char=55|end_char=56
+

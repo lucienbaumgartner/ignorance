@@ -1,0 +1,30 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=2|end_char=8
+3	at	at	ADP	IN	_	6	case	_	start_char=9|end_char=11
+4	Sally	Sally	PROPN	NNP	Number=Sing	6	nmod:poss	_	start_char=12|end_char=17
+5	's	's	PART	POS	_	4	case	_	start_char=17|end_char=19
+6	warehouse	warehouse	NOUN	NN	Number=Sing	2	obl	_	start_char=20|end_char=29
+7	back	back	ADV	RB	_	2	advmod	_	start_char=30|end_char=34
+8	when	when	SCONJ	WRB	PronType=Int	11	mark	_	start_char=35|end_char=39
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	start_char=40|end_char=41
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	start_char=42|end_char=45
+11	young	young	ADJ	JJ	Degree=Pos	2	advcl	_	start_char=46|end_char=51
+12	,	,	PUNCT	,	_	13	punct	_	start_char=51|end_char=52
+13	dumb	dumb	ADJ	JJ	Degree=Pos	11	conj	_	start_char=53|end_char=57
+14	,	,	PUNCT	,	_	16	punct	_	start_char=57|end_char=58
+15	and	and	CCONJ	CC	_	16	cc	_	start_char=59|end_char=62
+16	unaware	unaware	ADJ	JJ	Degree=Pos	11	conj	_	start_char=63|end_char=70
+17	of	of	ADP	IN	_	18	case	_	start_char=71|end_char=73
+18	L&amp	L&amp	PROPN	NNP	Number=Sing	16	obl	_	start_char=74|end_char=79
+19	;	;	PUNCT	:	_	2	punct	_	start_char=79|end_char=80
+
+1	I.	i.	X	LS	_	0	root	_	start_char=80|end_char=82
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=84|end_char=85
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	start_char=85|end_char=88
+3	leave	leave	VERB	VB	VerbForm=Inf	0	root	_	start_char=89|end_char=94
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=95|end_char=97
+5	at	at	ADP	IN	_	6	case	_	start_char=98|end_char=100
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	3	obl	_	start_char=101|end_char=105
+7	.	.	PUNCT	.	_	3	punct	_	start_char=105|end_char=106
+

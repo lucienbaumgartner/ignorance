@@ -1,0 +1,20 @@
+1	jfc	jfc	NOUN	NN	Number=Sing	3	vocative	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	3	punct	_	start_char=3|end_char=4
+3	imagine	imagine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=5|end_char=12
+4	being	be	AUX	VBG	VerbForm=Ger	6	aux:pass	_	start_char=13|end_char=18
+5	so	so	ADV	RB	_	6	advmod	_	start_char=19|end_char=21
+6	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	start_char=22|end_char=30
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=31|end_char=34
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=35|end_char=43
+9	that	that	SCONJ	IN	_	11	mark	_	start_char=44|end_char=48
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=49|end_char=52
+11	compare	compare	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	ccomp	_	start_char=53|end_char=60
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	start_char=61|end_char=62
+13	slight	slight	ADJ	JJ	Degree=Pos	14	amod	_	start_char=63|end_char=69
+14	inconvenience	inconvenience	NOUN	NN	Number=Sing	11	obj	_	start_char=70|end_char=83
+15	to	to	SCONJ	IN	_	19	mark	_	start_char=84|end_char=86
+16	being	be	AUX	VBG	VerbForm=Ger	19	cop	_	start_char=87|end_char=92
+17	in	in	ADP	IN	_	19	case	_	start_char=93|end_char=95
+18	nazi	nazi	ADJ	JJ	Degree=Pos	19	amod	_	start_char=96|end_char=100
+19	germany	germany	PROPN	NNP	Number=Sing	11	advcl	_	start_char=101|end_char=108
+

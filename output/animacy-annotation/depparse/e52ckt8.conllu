@@ -1,0 +1,77 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	Coral	Coral	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=4|end_char=9
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=10|end_char=12
+3	actually	actually	ADV	RB	_	6	advmod	_	start_char=13|end_char=21
+4	not	not	PART	RB	_	6	advmod	_	start_char=22|end_char=25
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=26|end_char=27
+6	plant	plant	NOUN	NN	Number=Sing	0	root	_	start_char=28|end_char=33
+7	,	,	PUNCT	,	_	11	punct	_	start_char=33|end_char=34
+8	but	but	CCONJ	CC	_	11	cc	_	start_char=35|end_char=38
+9	rather	rather	ADV	RB	_	11	advmod	_	start_char=39|end_char=45
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=46|end_char=47
+11	creature	creature	NOUN	NN	Number=Sing	6	conj	_	start_char=48|end_char=56
+12	.	.	PUNCT	.	_	6	punct	_	start_char=56|end_char=57
+
+1	Or	or	CCONJ	CC	_	8	cc	_	start_char=58|end_char=60
+2	rather	rather	ADV	RB	_	8	advmod	_	start_char=61|end_char=67
+3	,	,	PUNCT	,	_	8	punct	_	start_char=67|end_char=68
+4	thousands	thousand	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=69|end_char=78
+5	of	of	ADP	IN	_	7	case	_	start_char=79|end_char=81
+6	tiny	tiny	ADJ	JJ	Degree=Pos	7	amod	_	start_char=82|end_char=86
+7	creatures	creature	NOUN	NNS	Number=Plur	4	nmod	_	start_char=87|end_char=96
+8	called	call	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=97|end_char=103
+9	Polyps	Polyps	PROPN	NNPS	Number=Plur	8	obj	_	start_char=104|end_char=110
+10	.	.	PUNCT	.	_	8	punct	_	start_char=110|end_char=111
+
+1	Or	or	CCONJ	CC	_	4	cc	_	start_char=112|end_char=114
+2	rather	rather	ADV	RB	_	4	advmod	_	start_char=115|end_char=121
+3	,	,	PUNCT	,	_	2	punct	_	start_char=121|end_char=122
+4	both	both	DET	DT	_	0	root	_	start_char=123|end_char=127
+5	.	.	PUNCT	.	_	4	punct	_	start_char=127|end_char=128
+
+1	Each	each	DET	DT	_	8	nsubj	_	start_char=129|end_char=133
+2	of	of	ADP	IN	_	5	case	_	start_char=134|end_char=136
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=137|end_char=140
+4	tiny	tiny	ADJ	JJ	Degree=Pos	5	amod	_	start_char=141|end_char=145
+5	creatures	creature	NOUN	NNS	Number=Plur	1	nmod	_	start_char=146|end_char=155
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=156|end_char=158
+7	completely	completely	ADV	RB	Degree=Pos	8	advmod	_	start_char=159|end_char=169
+8	alive	alive	ADJ	JJ	Degree=Pos	0	root	_	start_char=170|end_char=175
+9	,	,	PUNCT	,	_	11	punct	_	start_char=175|end_char=176
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=177|end_char=180
+11	unaware	unaware	ADJ	JJ	Degree=Pos	8	conj	_	start_char=181|end_char=188
+12	that	that	SCONJ	IN	_	15	mark	_	start_char=189|end_char=193
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=194|end_char=196
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=197|end_char=199
+15	part	part	NOUN	NN	Number=Sing	11	ccomp	_	start_char=200|end_char=204
+16	of	of	ADP	IN	_	20	mark	_	start_char=205|end_char=207
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	start_char=208|end_char=209
+18	much	much	ADV	RB	Degree=Pos	19	advmod	_	start_char=210|end_char=214
+19	larger	large	ADJ	JJR	Degree=Cmp	15	nmod	_	start_char=215|end_char=221
+20	being	be	AUX	VBG	VerbForm=Ger	15	acl	_	start_char=222|end_char=227
+21	.	.	PUNCT	.	_	8	punct	_	start_char=227|end_char=228
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=229|end_char=232
+2	coral	coral	NOUN	NN	Number=Sing	3	compound	_	start_char=233|end_char=238
+3	experiences	experience	NOUN	NNS	Number=Plur	4	compound	_	start_char=239|end_char=250
+4	reality	reality	NOUN	NN	Number=Sing	0	root	_	start_char=251|end_char=258
+5	not	not	PART	RB	_	7	advmod	_	start_char=259|end_char=262
+6	through	through	ADP	IN	_	7	case	_	start_char=263|end_char=270
+7	itself	itself	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	nmod	_	start_char=271|end_char=277
+8	,	,	PUNCT	,	_	11	punct	_	start_char=277|end_char=278
+9	but	but	CCONJ	CC	_	11	cc	_	start_char=279|end_char=282
+10	through	through	ADP	IN	_	11	case	_	start_char=283|end_char=290
+11	thousands	thousand	NOUN	NNS	Number=Plur	4	conj	_	start_char=291|end_char=300
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=301|end_char=304
+13	thousands	thousand	NOUN	NNS	Number=Plur	11	conj	_	start_char=305|end_char=314
+14	of	of	ADP	IN	_	15	case	_	start_char=315|end_char=317
+15	polyps	polyp	NOUN	NNS	Number=Plur	13	nmod	_	start_char=318|end_char=324
+16	.	.	PUNCT	.	_	4	punct	_	start_char=324|end_char=325
+
+1	[	[	PUNCT	-LRB-	_	2	punct	_	start_char=327|end_char=328
+2	https://www.cnn.com/interactive/2018/08/world/great-barrier-reef/](https://www.cnn.com/interactive/2018/08/world/great-barrier-reef/)	https://www.cnn.com/interactive/2018/08/world/great-barrier-reef/](https://www.cnn.com/interactive/2018/08/world/great-barrier-reef/)	X	ADD	_	0	root	_	start_char=328|end_char=461
+3	\-	\-	PUNCT	-RRB-	_	2	punct	_	start_char=462|end_char=464
+4	;(	;(	PUNCT	NFP	_	2	punct	_	start_char=465|end_char=467
+

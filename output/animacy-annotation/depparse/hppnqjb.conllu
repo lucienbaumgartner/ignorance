@@ -1,0 +1,22 @@
+1	Obese	Obese	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=5
+2	.	.	PUNCT	.	_	1	punct	_	start_char=5|end_char=6
+3	Loud	loud	ADJ	JJ	Degree=Pos	1	list	_	start_char=7|end_char=11
+4	.	.	PUNCT	.	_	1	punct	_	start_char=11|end_char=12
+5	Patriotic	Patriotic	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=13|end_char=22
+6	.	.	PUNCT	.	_	1	punct	_	start_char=22|end_char=23
+
+1	Love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+2	guns	gun	NOUN	NNS	Number=Plur	1	obj	_	start_char=29|end_char=33
+3	.	.	PUNCT	.	_	1	punct	_	start_char=33|end_char=34
+
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=35|end_char=43
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=44|end_char=47
+3	oblivious	oblivious	ADJ	JJ	Degree=Pos	1	conj	_	start_char=48|end_char=57
+4	to	to	ADP	IN	_	6	case	_	start_char=58|end_char=60
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=61|end_char=64
+6	rest	rest	NOUN	NN	Number=Sing	1	obl	_	start_char=65|end_char=69
+7	of	of	ADP	IN	_	9	case	_	start_char=70|end_char=72
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=73|end_char=76
+9	world	world	NOUN	NN	Number=Sing	6	nmod	_	start_char=77|end_char=82
+10	.	.	PUNCT	.	_	1	punct	_	start_char=82|end_char=83
+

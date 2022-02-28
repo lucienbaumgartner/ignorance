@@ -1,0 +1,52 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=0|end_char=1
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=1|end_char=3
+3	not	not	PART	RB	_	4	advmod	_	start_char=4|end_char=7
+4	reading	read	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=8|end_char=15
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=16|end_char=20
+6	book	book	NOUN	NN	Number=Sing	4	obj	_	start_char=21|end_char=25
+7	.	.	PUNCT	.	_	4	punct	_	start_char=25|end_char=26
+
+1	**	**	PUNCT	NFP	_	29	punct	_	start_char=27|end_char=29
+2	If	if	SCONJ	IN	_	7	mark	_	start_char=29|end_char=31
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	start_char=32|end_char=35
+4	truly	truly	ADV	RB	_	7	advmod	_	start_char=36|end_char=41
+5	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=42|end_char=44
+6	n't	not	PART	RB	_	7	advmod	_	start_char=44|end_char=47
+7	believe	believe	VERB	VB	VerbForm=Inf	29	advcl	_	start_char=48|end_char=55
+8	game	game	NOUN	NN	Number=Sing	9	compound	_	start_char=56|end_char=60
+9	companies	company	NOUN	NNS	Number=Plur	16	nsubj	_	start_char=61|end_char=70
+10	/	/	SYM	,	_	11	cc	_	start_char=70|end_char=71
+11	publishers	publisher	NOUN	NNS	Number=Plur	9	conj	_	start_char=71|end_char=81
+12	/	/	SYM	,	_	13	cc	_	start_char=81|end_char=82
+13	movies	movie	NOUN	NNS	Number=Plur	9	conj	_	start_char=82|end_char=88
+14	/	/	SYM	,	_	15	cc	_	start_char=88|end_char=89
+15	media	media	NOUN	NNS	Number=Plur	9	conj	_	start_char=89|end_char=94
+16	cater	cater	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	start_char=95|end_char=100
+17	specifically	specifically	ADV	RB	_	16	advmod	_	start_char=101|end_char=113
+18	to	to	ADP	IN	_	19	case	_	start_char=114|end_char=116
+19	China	China	PROPN	NNP	Number=Sing	16	obl	_	start_char=117|end_char=122
+20	and	and	CCONJ	CC	_	22	cc	_	start_char=123|end_char=126
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=127|end_char=130
+22	money	money	NOUN	NN	Number=Sing	19	conj	_	start_char=131|end_char=136
+23	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	start_char=137|end_char=141
+24	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	cop	_	start_char=142|end_char=145
+25	worth	worth	ADJ	JJ	Degree=Pos	22	acl:relcl	_	start_char=146|end_char=151
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	29	nsubj	_	start_char=152|end_char=155
+27	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	29	cop	_	start_char=156|end_char=159
+28	truly	truly	ADV	RB	_	29	advmod	_	start_char=160|end_char=165
+29	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=166|end_char=171
+30	and	and	CCONJ	CC	_	31	cc	_	start_char=172|end_char=175
+31	ignorant	ignorant	ADJ	JJ	Degree=Pos	29	conj	_	start_char=176|end_char=184
+32	.	.	PUNCT	.	_	29	punct	_	start_char=184|end_char=185
+
+1	**	**	PUNCT	NFP	_	0	root	_	start_char=185|end_char=187
+
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	start_char=188|end_char=192
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=193|end_char=195
+3	all	all	DET	DT	_	0	root	_	start_char=196|end_char=199
+4	there	there	PRON	EX	_	5	expl	_	start_char=200|end_char=205
+5	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	start_char=206|end_char=208
+6	to	to	PART	TO	_	7	mark	_	start_char=209|end_char=211
+7	say	say	VERB	VB	VerbForm=Inf	5	ccomp	_	start_char=212|end_char=215
+8	.	.	PUNCT	.	_	3	punct	_	start_char=215|end_char=216
+

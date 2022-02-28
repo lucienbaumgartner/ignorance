@@ -1,0 +1,105 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	By	by	ADP	IN	_	3	case	_	start_char=5|end_char=7
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=8|end_char=12
+3	point	point	NOUN	NN	Number=Sing	8	obl	_	start_char=13|end_char=18
+4	of	of	ADP	IN	_	5	case	_	start_char=19|end_char=21
+5	view	view	NOUN	NN	Number=Sing	3	nmod	_	start_char=22|end_char=26
+6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=27|end_char=29
+7	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=29|end_char=31
+8	right	right	ADJ	JJ	Degree=Pos	0	root	_	start_char=32|end_char=37
+9	.	.	PUNCT	.	_	8	punct	_	start_char=37|end_char=38
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=39|end_char=42
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=43|end_char=44
+3	agree	agree	VERB	VBP	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=45|end_char=50
+4	.	.	PUNCT	.	_	3	punct	_	start_char=50|end_char=51
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=52|end_char=53
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=53|end_char=55
+3	all	all	ADV	RB	_	5	advmod	_	start_char=56|end_char=59
+4	for	for	ADP	IN	_	5	case	_	start_char=60|end_char=63
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	start_char=64|end_char=66
+6	.	.	PUNCT	.	_	5	punct	_	start_char=66|end_char=67
+
+1	But	but	CCONJ	CC	_	8	cc	_	start_char=68|end_char=71
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=72|end_char=75
+3	reality	reality	NOUN	NN	Number=Sing	8	nsubj:pass	_	start_char=76|end_char=83
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=84|end_char=86
+5	Christopher	Christopher	PROPN	NNP	Number=Sing	8	nsubj:pass	_	start_char=87|end_char=98
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	start_char=99|end_char=101
+7	so	so	ADV	RB	_	8	advmod	_	start_char=102|end_char=104
+8	entitled	entitle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=105|end_char=113
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=114|end_char=117
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=118|end_char=126
+11	that	that	SCONJ	IN	_	16	mark	_	start_char=127|end_char=131
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	start_char=132|end_char=134
+13	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	start_char=134|end_char=136
+14	out	out	ADP	IN	_	16	case	_	start_char=137|end_char=140
+15	of	of	ADP	IN	_	16	case	_	start_char=141|end_char=143
+16	touch	touch	NOUN	NN	Number=Sing	10	ccomp	_	start_char=144|end_char=149
+17	with	with	ADP	IN	_	19	case	_	start_char=150|end_char=154
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=155|end_char=158
+19	reality	reality	NOUN	NN	Number=Sing	16	nmod	_	start_char=159|end_char=166
+20	of	of	ADP	IN	_	21	case	_	start_char=167|end_char=169
+21	piracy	piracy	NOUN	NN	Number=Sing	19	nmod	_	start_char=170|end_char=176
+22	.	.	PUNCT	.	_	8	punct	_	start_char=176|end_char=177
+
+1	And	and	CCONJ	CC	_	2	cc	_	start_char=178|end_char=181
+2	why	why	SCONJ	WRB	PronType=Int	0	root	_	start_char=182|end_char=185
+3	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=186|end_char=192
+4	pirate	pirate	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	start_char=193|end_char=199
+5	in	in	ADP	IN	_	8	case	_	start_char=200|end_char=202
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=203|end_char=206
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	start_char=207|end_char=212
+8	place	place	NOUN	NN	Number=Sing	4	obl	_	start_char=213|end_char=218
+9	.	.	PUNCT	.	_	2	punct	_	start_char=218|end_char=219
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=224|end_char=225
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=226|end_char=228
+3	n't	not	PART	RB	_	4	advmod	_	start_char=228|end_char=231
+4	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=232|end_char=237
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=238|end_char=240
+6	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=240|end_char=242
+7	insulting	insult	VERB	VBG	Tense=Pres|VerbForm=Part	4	ccomp	_	start_char=243|end_char=252
+8	,	,	PUNCT	,	_	4	punct	_	start_char=252|end_char=253
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=254|end_char=256
+10	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=256|end_char=258
+11	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	4	parataxis	_	start_char=259|end_char=266
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=267|end_char=270
+13	truth	truth	NOUN	NN	Number=Sing	11	obj	_	start_char=271|end_char=276
+14	.	.	PUNCT	.	_	4	punct	_	start_char=276|end_char=277
+
+1	Being	be	AUX	VBG	VerbForm=Ger	4	cop	_	start_char=278|end_char=283
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=284|end_char=285
+3	Vic	Vic	PROPN	NNP	Number=Sing	4	compound	_	start_char=286|end_char=289
+4	supporter	supporter	NOUN	NN	Number=Sing	8	csubj	_	start_char=290|end_char=299
+5	for	for	ADP	IN	_	7	case	_	start_char=300|end_char=303
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=304|end_char=307
+7	writer	writer	NOUN	NN	Number=Sing	4	nmod	_	start_char=308|end_char=314
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=315|end_char=318
+9	nothing	nothing	PRON	NN	Number=Sing	8	obj	_	start_char=319|end_char=326
+10	to	to	PART	TO	_	11	mark	_	start_char=327|end_char=329
+11	do	do	VERB	VB	VerbForm=Inf	9	acl	_	start_char=330|end_char=332
+12	with	with	ADP	IN	_	14	case	_	start_char=333|end_char=337
+13	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	start_char=338|end_char=341
+14	job	job	NOUN	NN	Number=Sing	11	obl	_	start_char=342|end_char=345
+15	.	.	PUNCT	.	_	8	punct	_	start_char=345|end_char=346
+
+1	And	and	CCONJ	CC	_	8	cc	_	start_char=347|end_char=350
+2	by	by	ADP	IN	_	4	case	_	start_char=351|end_char=353
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=354|end_char=357
+4	way	way	NOUN	NN	Number=Sing	8	obl	_	start_char=358|end_char=361
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=362|end_char=363
+6	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=363|end_char=365
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=366|end_char=369
+8	owner	owner	NOUN	NN	Number=Sing	0	root	_	start_char=370|end_char=375
+9	of	of	ADP	IN	_	11	case	_	start_char=376|end_char=378
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=379|end_char=382
+11	tweet	tweet	NOUN	NN	Number=Sing	8	nmod	_	start_char=383|end_char=388
+12	that	that	PRON	WDT	PronType=Rel	14	obj	_	start_char=389|end_char=393
+13	Chris	Chris	PROPN	NNP	Number=Sing	14	nsubj	_	start_char=394|end_char=399
+14	respond	respond	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=400|end_char=407
+15	.	.	PUNCT	.	_	8	punct	_	start_char=407|end_char=408
+

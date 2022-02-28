@@ -1,0 +1,93 @@
+1	NTA	NTA	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=3
+
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=5|end_char=9
+2	parents	parent	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=10|end_char=17
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=18|end_char=21
+4	being	be	AUX	VBG	VerbForm=Ger	5	cop	_	start_char=22|end_char=27
+5	irresponsible	irresponsible	ADJ	JJ	Degree=Pos	0	root	_	start_char=28|end_char=41
+6	,	,	PUNCT	,	_	8	punct	_	start_char=41|end_char=42
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=43|end_char=46
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=47|end_char=55
+9	of	of	ADP	IN	_	11	case	_	start_char=56|end_char=58
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=59|end_char=63
+11	property	property	NOUN	NN	Number=Sing	8	obl	_	start_char=64|end_char=72
+12	.	.	PUNCT	.	_	5	punct	_	start_char=72|end_char=73
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=74|end_char=75
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=76|end_char=80
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=81|end_char=82
+4	1	1	NUM	CD	NumType=Card	5	nummod	_	start_char=83|end_char=84
+5	year	year	NOUN	NN	Number=Sing	6	obl:npmod	_	start_char=85|end_char=89
+6	old	old	ADJ	JJ	Degree=Pos	2	obj	_	start_char=90|end_char=93
+7	,	,	PUNCT	,	_	10	punct	_	start_char=93|end_char=94
+8	whom	whom	PRON	WP	PronType=Int	10	nsubj	_	start_char=95|end_char=99
+9	always	always	ADV	RB	_	10	advmod	_	start_char=100|end_char=106
+10	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	start_char=107|end_char=111
+11	into	into	ADP	IN	_	12	case	_	start_char=112|end_char=116
+12	everything	everything	PRON	NN	Number=Sing	10	obl	_	start_char=117|end_char=127
+13	.	.	PUNCT	.	_	2	punct	_	start_char=127|end_char=128
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=129|end_char=131
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	start_char=132|end_char=136
+3	to	to	PART	TO	_	5	mark	_	start_char=137|end_char=139
+4	constantly	constantly	ADV	RB	_	5	advmod	_	start_char=140|end_char=150
+5	lock	lock	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=151|end_char=155
+6	baby	baby	NOUN	NN	Number=Sing	7	compound	_	start_char=156|end_char=160
+7	gates	gate	NOUN	NNS	Number=Plur	5	obj	_	start_char=161|end_char=166
+8	,	,	PUNCT	,	_	10	punct	_	start_char=166|end_char=167
+9	close	close	ADJ	JJ	Degree=Pos	10	amod	_	start_char=168|end_char=173
+10	doors	door	NOUN	NNS	Number=Plur	7	conj	_	start_char=174|end_char=179
+11	,	,	PUNCT	,	_	13	punct	_	start_char=179|end_char=180
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=181|end_char=184
+13	move	move	VERB	VB	VerbForm=Inf	5	conj	_	start_char=185|end_char=189
+14	things	thing	NOUN	NNS	Number=Plur	13	obj	_	start_char=190|end_char=196
+15	from	from	ADP	IN	_	17	case	_	start_char=197|end_char=201
+16	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	start_char=202|end_char=205
+17	reach	reach	NOUN	NN	Number=Sing	13	obl	_	start_char=206|end_char=211
+18	.	.	PUNCT	.	_	2	punct	_	start_char=211|end_char=212
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=213|end_char=217
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	start_char=218|end_char=224
+3	know	know	VERB	VB	VerbForm=Inf	0	root	_	start_char=225|end_char=229
+4	better	good	ADJ	JJR	Degree=Cmp	3	xcomp	_	start_char=230|end_char=236
+5	as	as	ADP	IN	_	7	case	_	start_char=237|end_char=239
+6	veteran	veteran	ADJ	JJ	Degree=Pos	7	amod	_	start_char=240|end_char=247
+7	parents	parent	NOUN	NNS	Number=Plur	4	obl	_	start_char=248|end_char=255
+8	.	.	PUNCT	.	_	3	punct	_	start_char=255|end_char=256
+
+1	Tupically	tupically	ADV	RB	_	15	advmod	_	start_char=257|end_char=266
+2	,	,	PUNCT	,	_	15	punct	_	start_char=266|end_char=267
+3	when	when	SCONJ	WRB	PronType=Int	8	mark	_	start_char=268|end_char=272
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=273|end_char=274
+5	child	child	NOUN	NN	Number=Sing	8	nsubj	_	start_char=275|end_char=280
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=281|end_char=283
+7	being	be	AUX	VBG	VerbForm=Ger	8	cop	_	start_char=284|end_char=289
+8	quiet	quiet	ADJ	JJ	Degree=Pos	15	advcl	_	start_char=290|end_char=295
+9	,	,	PUNCT	,	_	15	punct	_	start_char=295|end_char=296
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	start_char=297|end_char=299
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=299|end_char=301
+12	up	up	ADP	IN	_	15	case	_	start_char=302|end_char=304
+13	to	to	ADP	IN	_	12	fixed	_	start_char=305|end_char=307
+14	no	no	DET	DT	_	15	det	_	start_char=308|end_char=310
+15	good	good	NOUN	NN	Number=Sing	0	root	_	start_char=311|end_char=315
+16	.	.	PUNCT	.	_	15	punct	_	start_char=315|end_char=316
+
+1	Sorry	sorry	ADJ	JJ	Degree=Pos	0	root	_	start_char=317|end_char=322
+2	for	for	ADP	IN	_	4	case	_	start_char=323|end_char=326
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=327|end_char=331
+4	loss	loss	NOUN	NN	Number=Sing	1	obl	_	start_char=332|end_char=336
+5	.	.	PUNCT	.	_	1	punct	_	start_char=336|end_char=337
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=338|end_char=339
+2	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=340|end_char=344
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obj	_	start_char=345|end_char=348
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	start_char=349|end_char=351
+5	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=352|end_char=356
+6	n't	not	PART	RB	_	7	advmod	_	start_char=356|end_char=359
+7	ruin	ruin	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=360|end_char=364
+8	anything	anything	PRON	NN	Number=Sing	7	obj	_	start_char=365|end_char=373
+9	else	else	ADJ	JJ	Degree=Pos	8	amod	_	start_char=374|end_char=378
+10	on	on	ADP	IN	_	11	case	_	start_char=379|end_char=381
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obl	_	start_char=382|end_char=385
+12	.	.	PUNCT	.	_	2	punct	_	start_char=385|end_char=386
+

@@ -1,0 +1,34 @@
+1	💯	and	CCONJ	CC	_	5	cc	_	start_char=0|end_char=1
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=2|end_char=3
+3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=4|end_char=6
+4	n’t	not	PART	RB	Polarity=Neg	5	advmod	_	start_char=6|end_char=9
+5	think	think	VERB	VB	VerbForm=Inf	0	root	_	start_char=10|end_char=15
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=16|end_char=17
+7	could	could	AUX	MD	VerbForm=Fin	10	aux	_	start_char=18|end_char=23
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	start_char=24|end_char=26
+9	more	more	ADV	RBR	_	10	advmod	_	start_char=27|end_char=31
+10	frustrated	frustrated	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=32|end_char=42
+11	with	with	ADP	IN	_	13	case	_	start_char=43|end_char=47
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=48|end_char=49
+13	group	group	NOUN	NN	Number=Sing	10	obl	_	start_char=50|end_char=55
+14	of	of	ADP	IN	_	15	case	_	start_char=56|end_char=58
+15	women	woman	NOUN	NNS	Number=Plur	13	nmod	_	start_char=59|end_char=64
+16	!	!	PUNCT	.	_	5	punct	_	start_char=64|end_char=65
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=66|end_char=70
+2	’re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=70|end_char=73
+3	acting	act	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=74|end_char=80
+4	so	so	ADV	RB	_	5	advmod	_	start_char=81|end_char=83
+5	pretentious	pretentious	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=84|end_char=95
+6	,	,	PUNCT	,	_	7	punct	_	start_char=95|end_char=96
+7	spoiled	spoiled	ADJ	JJ	Degree=Pos	5	conj	_	start_char=97|end_char=104
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=105|end_char=108
+9	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=109|end_char=116
+10	of	of	ADP	IN	_	11	case	_	start_char=117|end_char=119
+11	what	what	DET	WDT	PronType=Int	9	obl	_	start_char=120|end_char=124
+12	real	real	ADJ	JJ	Degree=Pos	13	amod	_	start_char=125|end_char=129
+13	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=130|end_char=136
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=137|end_char=140
+15	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	11	acl:relcl	_	start_char=141|end_char=146
+16	through	through	ADV	RB	_	15	advmod	_	start_char=147|end_char=154
+

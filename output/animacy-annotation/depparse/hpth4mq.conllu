@@ -1,0 +1,27 @@
+1	At	at	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	4	obl	_	start_char=3|end_char=8
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=9|end_char=10
+4	thought	think	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=11|end_char=18
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=19|end_char=21
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	start_char=22|end_char=25
+7	just	just	ADV	RB	_	8	advmod	_	start_char=26|end_char=30
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=31|end_char=39
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=40|end_char=43
+10	annoying	annoying	ADJ	JJ	Degree=Pos	8	conj	_	start_char=44|end_char=52
+11	but	but	CCONJ	CC	_	19	cc	_	start_char=53|end_char=56
+12	then	then	ADV	RB	PronType=Dem	19	advmod	_	start_char=57|end_char=61
+13	that	that	SCONJ	IN	_	17	mark	_	start_char=62|end_char=66
+14	“	''	PUNCT	``	_	17	punct	_	start_char=67|end_char=68
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	start_char=68|end_char=69
+16	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=69|end_char=71
+17	58	58	NUM	CD	NumForm=Digit|NumType=Card	19	nummod	_	start_char=72|end_char=74
+18	”	''	PUNCT	''	_	17	punct	_	start_char=74|end_char=75
+19	hit	hit	VERB	VB	VerbForm=Fin	4	ccomp	_	start_char=76|end_char=79
+20	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	obj	_	start_char=80|end_char=82
+21	like	like	ADP	IN	_	23	case	_	start_char=83|end_char=87
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	start_char=88|end_char=89
+23	brick	brick	NOUN	NN	Number=Sing	19	obl	_	start_char=90|end_char=95
+24	to	to	ADP	IN	_	26	case	_	start_char=96|end_char=98
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	start_char=99|end_char=102
+26	stomach	stomach	NOUN	NN	Number=Sing	23	nmod	_	start_char=103|end_char=110
+

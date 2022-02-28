@@ -1,0 +1,37 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	All	all	DET	DT	_	0	root	_	start_char=4|end_char=7
+2	of	of	ADP	IN	_	4	case	_	start_char=8|end_char=10
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=11|end_char=15
+4	comments	comment	NOUN	NNS	Number=Plur	1	nmod	_	start_char=16|end_char=24
+5	in	in	ADP	IN	_	7	case	_	start_char=25|end_char=27
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=28|end_char=32
+7	thread	thread	NOUN	NN	Number=Sing	4	nmod	_	start_char=33|end_char=39
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=41|end_char=44
+2	mean	mean	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis	_	start_char=45|end_char=49
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=50|end_char=53
+4	single	single	ADJ	JJ	Degree=Pos	5	amod	_	start_char=54|end_char=60
+5	comment	comment	NOUN	NN	Number=Sing	0	root	_	start_char=61|end_char=68
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	start_char=69|end_char=70
+7	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	start_char=71|end_char=75
+8	?	?	PUNCT	.	_	2	punct	_	start_char=75|end_char=76
+
+1	If	if	SCONJ	IN	_	5	mark	_	start_char=77|end_char=79
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=80|end_char=84
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=84|end_char=86
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=87|end_char=91
+5	take	take	NOUN	NN	Number=Sing	11	advcl	_	start_char=92|end_char=96
+6	,	,	PUNCT	,	_	11	punct	_	start_char=96|end_char=97
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	start_char=98|end_char=101
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=102|end_char=105
+9	extremely	extremely	ADV	RB	_	10	advmod	_	start_char=106|end_char=115
+10	close	close	ADJ	JJ	Degree=Pos	11	advmod	_	start_char=116|end_char=121
+11	minded	minded	ADJ	JJ	Degree=Pos	0	root	_	start_char=122|end_char=128
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=129|end_char=132
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=133|end_char=141
+14	of	of	ADP	IN	_	15	case	_	start_char=142|end_char=144
+15	reality	reality	NOUN	NN	Number=Sing	13	obl	_	start_char=145|end_char=152
+16	.	.	PUNCT	.	_	11	punct	_	start_char=152|end_char=153
+

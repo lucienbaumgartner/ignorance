@@ -1,0 +1,41 @@
+1	Yes	yes	INTJ	UH	_	6	discourse	_	start_char=0|end_char=3
+2	,	,	PUNCT	,	_	6	punct	_	start_char=3|end_char=4
+3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=5|end_char=8
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=9|end_char=11
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=12|end_char=13
+6	racist	racist	ADJ	JJ	Degree=Pos	0	root	_	start_char=14|end_char=20
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=21|end_char=24
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=25|end_char=33
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=34|end_char=37
+10	prone	prone	ADJ	JJ	Degree=Pos	6	conj	_	start_char=38|end_char=43
+11	to	to	ADP	IN	_	12	case	_	start_char=44|end_char=46
+12	toxicity	toxicity	NOUN	NN	Number=Sing	10	obl	_	start_char=47|end_char=55
+13	.	.	PUNCT	.	_	6	punct	_	start_char=55|end_char=56
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	start_char=58|end_char=61
+2	sound	sound	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	start_char=62|end_char=67
+3	like	like	SCONJ	IN	_	5	mark	_	start_char=68|end_char=72
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	start_char=73|end_char=76
+5	see	see	VERB	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=77|end_char=80
+6	way	way	NOUN	NN	Number=Sing	5	obj	_	start_char=81|end_char=84
+7	too	too	ADV	RB	Degree=Pos	8	advmod	_	start_char=85|end_char=88
+8	much	much	ADJ	JJ	Degree=Pos	5	obj	_	start_char=89|end_char=93
+9	of	of	ADP	IN	_	10	case	_	start_char=94|end_char=96
+10	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	start_char=97|end_char=100
+11	.	.	PUNCT	.	_	2	punct	_	start_char=100|end_char=101
+
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=103|end_char=107
+2	away	away	ADV	RB	Degree=Pos	1	advmod	_	start_char=108|end_char=112
+3	from	from	ADP	IN	_	5	case	_	start_char=113|end_char=117
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	start_char=118|end_char=122
+5	child	child	NOUN	NN	Number=Sing	1	obl	_	start_char=123|end_char=128
+6	,	,	PUNCT	,	_	1	punct	_	start_char=128|end_char=129
+7	lest	lest	AUX	MD	VerbForm=Fin	9	aux	_	start_char=130|end_char=134
+8	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=135|end_char=138
+9	teach	teach	VERB	VB	VerbForm=Inf	1	parataxis	_	start_char=139|end_char=144
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	iobj	_	start_char=145|end_char=148
+11	child	child	NOUN	NN	Number=Sing	13	compound	_	start_char=149|end_char=154
+12	idiotic	idiotic	ADJ	JJ	Degree=Pos	13	amod	_	start_char=155|end_char=162
+13	things	thing	NOUN	NNS	Number=Plur	9	obj	_	start_char=163|end_char=169
+14	.	.	PUNCT	.	_	1	punct	_	start_char=169|end_char=170
+

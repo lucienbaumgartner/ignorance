@@ -1,0 +1,20 @@
+1	Walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=0|end_char=6
+2	out	out	ADP	IN	_	5	case	_	start_char=7|end_char=10
+3	of	of	ADP	IN	_	5	case	_	start_char=11|end_char=13
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=14|end_char=17
+5	shower	shower	NOUN	NN	Number=Sing	1	obl	_	start_char=18|end_char=24
+6	unclothed	unclothed	ADJ	JJ	Degree=Pos	1	xcomp	_	start_char=25|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=46
+9	that	that	SCONJ	IN	_	15	mark	_	start_char=47|end_char=51
+10	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=52|end_char=54
+11	wife	wife	NOUN	NN	Number=Sing	13	nmod:poss	_	start_char=55|end_char=59
+12	's	's	PART	POS	_	11	case	_	start_char=59|end_char=61
+13	friend	friend	NOUN	NN	Number=Sing	15	nsubj	_	start_char=62|end_char=68
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	start_char=69|end_char=72
+15	over	over	ADV	RB	_	8	ccomp	_	start_char=73|end_char=77
+16	for	for	ADP	IN	_	18	case	_	start_char=78|end_char=81
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=82|end_char=83
+18	visit	visit	NOUN	NN	Number=Sing	15	obl	_	start_char=84|end_char=89
+19	.	.	PUNCT	.	_	1	punct	_	start_char=89|end_char=90
+

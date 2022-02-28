@@ -1,0 +1,78 @@
+1	As	as	ADP	IN	_	2	case	_	start_char=0|end_char=2
+2	someone	someone	PRON	NN	Number=Sing	10	obl	_	start_char=3|end_char=10
+3	from	from	ADP	IN	_	5	case	_	start_char=11|end_char=15
+4	another	another	DET	DT	_	5	det	_	start_char=16|end_char=23
+5	country	country	NOUN	NN	Number=Sing	2	nmod	_	start_char=24|end_char=31
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	start_char=32|end_char=33
+7	can	can	AUX	MD	VerbForm=Fin	10	aux	_	start_char=34|end_char=37
+8	still	still	ADV	RB	_	10	advmod	_	start_char=38|end_char=43
+9	barely	barely	ADV	RB	_	10	advmod	_	start_char=44|end_char=50
+10	believe	believe	VERB	VB	VerbForm=Inf	0	root	_	start_char=51|end_char=58
+11	that	that	SCONJ	IN	_	18	mark	_	start_char=59|end_char=63
+12	masks	mask	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=64|end_char=69
+13	in	in	ADP	IN	_	15	case	_	start_char=70|end_char=72
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	start_char=73|end_char=74
+15	pandemic	pandemic	NOUN	NN	Number=Sing	12	nmod	_	start_char=75|end_char=83
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=84|end_char=87
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	start_char=88|end_char=89
+18	point	point	NOUN	NN	Number=Sing	10	ccomp	_	start_char=90|end_char=95
+19	of	of	ADP	IN	_	20	case	_	start_char=96|end_char=98
+20	contention	contention	NOUN	NN	Number=Sing	18	nmod	_	start_char=99|end_char=109
+21	.	.	PUNCT	.	_	10	punct	_	start_char=109|end_char=110
+
+1	Like	like	INTJ	UH	_	2	discourse	_	start_char=112|end_char=116
+2	really	really	ADV	RB	_	0	root	_	start_char=117|end_char=123
+3	?	?	PUNCT	.	_	2	punct	_	start_char=123|end_char=124
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=125|end_char=127
+2	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=128|end_char=132
+3	in	in	ADP	IN	_	4	case	_	start_char=133|end_char=135
+4	1918	1918	NUM	CD	NumType=Card	2	obl	_	start_char=136|end_char=140
+5	that	that	SCONJ	IN	_	7	mark	_	start_char=141|end_char=145
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=146|end_char=150
+7	helped	help	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	ccomp	_	start_char=151|end_char=157
+8	,	,	PUNCT	,	_	12	punct	_	start_char=157|end_char=158
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	start_char=159|end_char=162
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	start_char=163|end_char=167
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=168|end_char=171
+12	solution	solution	NOUN	NN	Number=Sing	2	ccomp	_	start_char=172|end_char=180
+13	?	?	PUNCT	.	_	2	punct	_	start_char=180|end_char=181
+
+1	No	no	INTJ	UH	Polarity=Neg	0	root	_	start_char=182|end_char=184
+2	.	.	PUNCT	.	_	1	punct	_	start_char=184|end_char=185
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=187|end_char=190
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=191|end_char=195
+3	helpful	helpful	ADJ	JJ	Degree=Pos	0	root	_	start_char=196|end_char=203
+4	?	?	PUNCT	.	_	3	punct	_	start_char=203|end_char=204
+
+1	Yes	yes	INTJ	UH	_	0	root	_	start_char=205|end_char=208
+2	.	.	PUNCT	.	_	1	punct	_	start_char=208|end_char=209
+
+1	Why	why	ADV	WRB	PronType=Int	5	advmod	_	start_char=212|end_char=215
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=216|end_char=219
+3	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=220|end_char=226
+4	so	so	ADV	RB	_	5	advmod	_	start_char=227|end_char=229
+5	adamant	adamant	ADJ	JJ	Degree=Pos	0	root	_	start_char=230|end_char=237
+6	in	in	SCONJ	IN	_	8	mark	_	start_char=238|end_char=240
+7	not	not	PART	RB	_	8	advmod	_	start_char=241|end_char=244
+8	wanting	want	VERB	VBG	VerbForm=Ger	5	advcl	_	start_char=245|end_char=252
+9	to	to	PART	TO	_	10	mark	_	start_char=253|end_char=255
+10	help	help	VERB	VB	VerbForm=Inf	8	xcomp	_	start_char=256|end_char=260
+11	?	?	PUNCT	.	_	5	punct	_	start_char=260|end_char=261
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=262|end_char=263
+2	just	just	ADV	RB	_	5	advmod	_	start_char=264|end_char=268
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=269|end_char=271
+4	n't	not	PART	RB	_	5	advmod	_	start_char=271|end_char=274
+5	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	start_char=275|end_char=285
+6	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=286|end_char=289
+7	people	people	NOUN	NNS	Number=Plur	11	nsubj	_	start_char=290|end_char=296
+8	can	can	AUX	MD	VerbForm=Fin	11	aux	_	start_char=297|end_char=300
+9	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=301|end_char=303
+10	so	so	ADV	RB	_	11	advmod	_	start_char=304|end_char=306
+11	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	ccomp	_	start_char=307|end_char=315
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=316|end_char=319
+13	selfish	selfish	ADJ	JJ	Degree=Pos	11	conj	_	start_char=320|end_char=327
+14	..	..	PUNCT	.	_	5	punct	_	start_char=327|end_char=329
+

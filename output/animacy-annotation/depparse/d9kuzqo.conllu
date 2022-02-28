@@ -1,0 +1,18 @@
+1	Not	not	ADV	RB	_	2	advmod	_	start_char=0|end_char=3
+2	dumb	dumb	ADJ	JJ	Degree=Pos	0	root	_	start_char=4|end_char=8
+3	,	,	PUNCT	,	_	2	punct	_	start_char=8|end_char=9
+4	just	just	ADV	RB	_	5	advmod	_	start_char=10|end_char=14
+5	new	new	ADJ	JJ	Degree=Pos	2	conj	_	start_char=15|end_char=18
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=19|end_char=22
+7	unaware	unaware	ADJ	JJ	Degree=Pos	5	conj	_	start_char=23|end_char=30
+8	that	that	SCONJ	IN	_	12	mark	_	start_char=31|end_char=35
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=36|end_char=39
+10	tank	tank	NOUN	NN	Number=Sing	12	nsubj	_	start_char=40|end_char=44
+11	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=45|end_char=48
+12	full	full	ADJ	JJ	Degree=Pos	7	ccomp	_	start_char=49|end_char=53
+13	of	of	ADP	IN	_	16	case	_	start_char=54|end_char=56
+14	squad	squad	NOUN	NN	Number=Sing	16	compound	_	start_char=57|end_char=62
+15	-	-	PUNCT	HYPH	_	16	punct	_	start_char=62|end_char=63
+16	mates	mate	NOUN	NNS	Number=Plur	12	obl	_	start_char=63|end_char=68
+17	.	.	PUNCT	.	_	2	punct	_	start_char=68|end_char=69
+

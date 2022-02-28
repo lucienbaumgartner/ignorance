@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	wish	wish	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=2|end_char=6
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=7|end_char=8
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=9|end_char=12
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=13|end_char=16
+6	same	same	ADJ	JJ	Degree=Pos	7	amod	_	start_char=17|end_char=21
+7	optimism	optimism	NOUN	NN	Number=Sing	4	obj	_	start_char=22|end_char=30
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	start_char=31|end_char=32
+9	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	acl:relcl	_	start_char=33|end_char=36
+10	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=37|end_char=41
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	start_char=42|end_char=43
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	start_char=44|end_char=47
+13	younger	young	ADJ	JJR	Degree=Cmp	9	advcl	_	start_char=48|end_char=55
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=56|end_char=59
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	13	conj	_	start_char=60|end_char=68
+16	of	of	ADP	IN	_	19	case	_	start_char=69|end_char=71
+17	mankind	mankind	NOUN	NN	Number=Sing	19	nmod:poss	_	start_char=72|end_char=79
+18	's	's	PART	POS	_	17	case	_	start_char=79|end_char=81
+19	ignorance	ignorance	NOUN	NN	Number=Sing	15	obl	_	start_char=82|end_char=91
+20	,	,	PUNCT	,	_	22	punct	_	start_char=91|end_char=92
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=93|end_char=96
+22	arrogance	arrogance	NOUN	NN	Number=Sing	19	conj	_	start_char=97|end_char=106
+23	.	.	PUNCT	.	_	2	punct	_	start_char=106|end_char=107
+

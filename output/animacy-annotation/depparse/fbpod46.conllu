@@ -1,0 +1,46 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	And	and	CCONJ	CC	_	12	cc	_	start_char=4|end_char=7
+2	as	as	SCONJ	IN	_	5	mark	_	start_char=8|end_char=10
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=11|end_char=12
+4	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	start_char=12|end_char=15
+5	mentioned	mention	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	start_char=16|end_char=25
+6	,	,	PUNCT	,	_	12	punct	_	start_char=25|end_char=26
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	start_char=27|end_char=29
+8	’ve	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=29|end_char=32
+9	all	all	ADV	RB	_	12	advmod	_	start_char=33|end_char=36
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	12	cop	_	start_char=37|end_char=41
+11	quite	quite	ADV	RB	_	12	advmod	_	start_char=42|end_char=47
+12	content	content	NOUN	NN	Number=Sing	0	root	_	start_char=48|end_char=55
+13	to	to	PART	TO	_	14	mark	_	start_char=56|end_char=58
+14	demean	demean	VERB	VB	VerbForm=Inf	12	acl	_	start_char=59|end_char=65
+15	government	government	NOUN	NN	Number=Sing	14	obj	_	start_char=66|end_char=76
+16	,	,	PUNCT	,	_	17	punct	_	start_char=76|end_char=77
+17	drop	drop	VERB	VB	VerbForm=Inf	14	conj	_	start_char=78|end_char=82
+18	civics	civic	NOUN	NNS	Number=Plur	17	obj	_	start_char=83|end_char=89
+19	and	and	CCONJ	CC	_	22	cc	_	start_char=90|end_char=93
+20	in	in	ADP	IN	_	22	case	_	start_char=94|end_char=96
+21	general	general	ADJ	JJ	Degree=Pos	22	amod	_	start_char=97|end_char=104
+22	conspire	conspire	NOUN	NN	Number=Sing	17	conj	_	start_char=105|end_char=113
+23	to	to	PART	TO	_	24	mark	_	start_char=114|end_char=116
+24	produce	produce	VERB	VB	VerbForm=Inf	22	acl	_	start_char=117|end_char=124
+25	an	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	start_char=125|end_char=127
+26	unaware	unaware	ADJ	JJ	Degree=Pos	29	amod	_	start_char=128|end_char=135
+27	and	and	CCONJ	CC	_	28	cc	_	start_char=136|end_char=139
+28	compliant	compliant	ADJ	JJ	Degree=Pos	26	conj	_	start_char=140|end_char=149
+29	citizenry	citizenry	NOUN	NN	Number=Sing	24	obj	_	start_char=150|end_char=159
+30	.	.	PUNCT	.	_	12	punct	_	start_char=159|end_char=160
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=161|end_char=164
+2	unawareness	unawareness	NOUN	NN	Number=Sing	3	nsubj	_	start_char=165|end_char=176
+3	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=177|end_char=184
+4	strong	strong	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=185|end_char=191
+5	but	but	CCONJ	CC	_	9	cc	_	start_char=192|end_char=195
+6	compliance	compliance	NOUN	NN	Number=Sing	9	nsubj	_	start_char=196|end_char=206
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=207|end_char=209
+8	obviously	obviously	ADV	RB	_	9	advmod	_	start_char=210|end_char=219
+9	fading	fade	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	_	start_char=220|end_char=226
+10	rapidly	rapidly	ADV	RB	_	9	advmod	_	start_char=227|end_char=234
+11	.	.	PUNCT	.	_	3	punct	_	start_char=234|end_char=235
+

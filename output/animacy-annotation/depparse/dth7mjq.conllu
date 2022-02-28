@@ -1,0 +1,15 @@
+1	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	start_char=0|end_char=5
+2	conspiring	conspiring	NOUN	NN	Number=Sing	12	nsubj	_	start_char=6|end_char=16
+3	to	to	PART	TO	_	4	mark	_	start_char=17|end_char=19
+4	produce	produce	VERB	VB	VerbForm=Inf	2	acl	_	start_char=20|end_char=27
+5	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=28|end_char=30
+6	unaware	unaware	ADJ	JJ	Degree=Pos	9	amod	_	start_char=31|end_char=38
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=39|end_char=42
+8	compliant	compliant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=43|end_char=52
+9	citizenry	citizenry	NOUN	NN	Number=Sing	4	obj	_	start_char=53|end_char=62
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=63|end_char=66
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=67|end_char=77
+12	successful	successful	ADJ	JJ	Degree=Pos	0	root	_	start_char=78|end_char=88
+13	,	,	PUNCT	,	_	12	punct	_	start_char=88|end_char=89
+14	unfortunately	unfortunately	ADV	RB	_	12	advmod	_	start_char=90|end_char=103
+

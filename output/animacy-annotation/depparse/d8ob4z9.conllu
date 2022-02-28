@@ -1,0 +1,41 @@
+1	LitTTTTTE	LitTTTTTE	PROPN	NNP	Number=Sing	0	root	_	start_char=0|end_char=9
+
+1	Erraly	Erraly	PROPN	NNP	Number=Sing	2	compound	_	start_char=9|end_char=15
+2	hitler	hitler	NOUN	NN	Number=Sing	0	root	_	start_char=16|end_char=22
+3	.	.	PUNCT	.	_	2	punct	_	start_char=22|end_char=23
+
+1	Tell	tell	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=24|end_char=28
+2	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=29|end_char=32
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	start_char=33|end_char=37
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=38|end_char=41
+5	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=42|end_char=45
+6	"	"	PUNCT	``	_	10	punct	_	start_char=46|end_char=47
+7	unaware	unaware	ADJ	JJ	Degree=Pos	10	amod	_	start_char=47|end_char=54
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=55|end_char=58
+9	compliant	compliant	ADJ	JJ	Degree=Pos	7	conj	_	start_char=59|end_char=68
+10	citizenry	citizenry	NOUN	NN	Number=Sing	1	ccomp	_	start_char=69|end_char=78
+11	"	"	PUNCT	''	_	10	punct	_	start_char=78|end_char=79
+12	..	..	PUNCT	.	_	1	punct	_	start_char=79|end_char=81
+
+1	Show	show	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=82|end_char=86
+2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	iobj	_	start_char=87|end_char=91
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	start_char=92|end_char=96
+4	email	email	NOUN	NN	Number=Sing	1	obj	_	start_char=97|end_char=102
+
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=104|end_char=109
+2	people	people	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=110|end_char=116
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=117|end_char=120
+4	in	in	ADP	IN	_	6	case	_	start_char=121|end_char=123
+5	serious	serious	ADJ	JJ	Degree=Pos	6	amod	_	start_char=124|end_char=131
+6	denial	denial	NOUN	NN	Number=Sing	0	root	_	start_char=132|end_char=138
+7	for	for	ADP	IN	_	9	case	_	start_char=139|end_char=142
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=143|end_char=146
+9	love	love	NOUN	NN	Number=Sing	6	nmod	_	start_char=147|end_char=151
+10	of	of	ADP	IN	_	11	case	_	start_char=152|end_char=154
+11	all	all	DET	DT	_	9	nmod	_	start_char=155|end_char=158
+12	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=159|end_char=163
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=164|end_char=166
+14	just	just	ADV	RB	_	13	advmod	_	start_char=167|end_char=171
+
+1	WAKEUP	wakeup	NOUN	NN	Number=Sing	0	root	_	start_char=173|end_char=179
+

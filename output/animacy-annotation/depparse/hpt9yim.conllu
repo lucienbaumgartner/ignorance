@@ -1,0 +1,34 @@
+1	Pikachu	Pikachu	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=0|end_char=7
+2	vs	versus	ADP	IN	_	3	case	_	start_char=8|end_char=10
+3	Onix	Onix	PROPN	NNP	Number=Sing	1	nmod	_	start_char=11|end_char=15
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=16|end_char=18
+5	already	already	ADV	RB	_	7	advmod	_	start_char=19|end_char=26
+6	on	on	ADP	IN	_	7	case	_	start_char=27|end_char=29
+7	Sakugabooru	Sakugabooru	PROPN	NNP	Number=Sing	0	root	_	start_char=30|end_char=41
+8	.	.	PUNCT	.	_	7	punct	_	start_char=41|end_char=42
+
+1	Pikachu	Pikachu	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=44|end_char=51
+2	vs	versus	ADP	IN	_	3	case	_	start_char=52|end_char=54
+3	Taillow	Taillow	PROPN	NNP	Number=Sing	1	nmod	_	start_char=55|end_char=62
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	start_char=63|end_char=65
+5	n’t	not	PART	RB	_	7	advmod	_	start_char=65|end_char=68
+6	on	on	ADP	IN	_	7	case	_	start_char=69|end_char=71
+7	Sakugabooru	Sakugabooru	PROPN	NNP	Number=Sing	0	root	_	start_char=72|end_char=83
+8	AND	and	CCONJ	CC	_	11	cc	_	start_char=84|end_char=87
+9	IT	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	start_char=88|end_char=90
+10	SHOULD	should	AUX	MD	VerbForm=Fin	11	aux	_	start_char=91|end_char=97
+11	BE	be	VERB	VB	VerbForm=Inf	7	conj	_	start_char=98|end_char=100
+12	!	!	PUNCT	.	_	7	punct	_	start_char=100|end_char=101
+
+1	Seriously	seriously	ADV	RB	_	2	advmod	_	start_char=103|end_char=112
+2	why	why	ADV	WRB	PronType=Int	8	advmod	_	start_char=113|end_char=116
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=117|end_char=119
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=120|end_char=123
+5	sakuga	sakuga	ADJ	JJ	Degree=Pos	6	amod	_	start_char=124|end_char=130
+6	community	community	NOUN	NN	Number=Sing	8	nsubj	_	start_char=131|end_char=140
+7	so	so	ADV	RB	_	8	advmod	_	start_char=141|end_char=143
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=144|end_char=152
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=153|end_char=156
+10	hypocritical	hypocritical	ADJ	JJ	Degree=Pos	8	conj	_	start_char=157|end_char=169
+11	?	?	PUNCT	.	_	2	punct	_	start_char=169|end_char=170
+

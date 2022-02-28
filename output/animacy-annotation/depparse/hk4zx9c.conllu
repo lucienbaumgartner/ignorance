@@ -1,0 +1,14 @@
+1	well	well	INTJ	UH	_	8	discourse	_	start_char=0|end_char=4
+2	to	to	PART	TO	_	3	mark	_	start_char=5|end_char=7
+3	deny	deny	VERB	VB	VerbForm=Inf	8	csubj	_	start_char=8|end_char=12
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	start_char=13|end_char=15
+5	would	would	AUX	MD	VerbForm=Fin	8	aux	_	start_char=16|end_char=21
+6	be	be	AUX	VB	VerbForm=Inf	8	cop	_	start_char=22|end_char=24
+7	absolutely	absolutely	ADV	RB	_	8	advmod	_	start_char=25|end_char=35
+8	delusional	delusional	ADJ	JJ	Degree=Pos	0	root	_	start_char=36|end_char=46
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=47|end_char=50
+10	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	conj	_	start_char=51|end_char=59
+11	of	of	ADP	IN	_	12	case	_	start_char=60|end_char=62
+12	history	history	NOUN	NN	Number=Sing	10	obl	_	start_char=63|end_char=70
+13	.	.	PUNCT	.	_	8	punct	_	start_char=70|end_char=71
+

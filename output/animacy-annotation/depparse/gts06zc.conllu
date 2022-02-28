@@ -1,0 +1,20 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=0|end_char=3
+2	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4|end_char=8
+3	across	across	ADP	IN	_	2	advmod	_	start_char=9|end_char=15
+4	as	as	ADP	IN	_	6	case	_	start_char=16|end_char=18
+5	extremely	extremely	ADV	RB	_	6	advmod	_	start_char=19|end_char=28
+6	naiive	naiive	ADJ	JJ	Degree=Pos	2	obl	_	start_char=29|end_char=35
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=36|end_char=39
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	conj	_	start_char=40|end_char=48
+9	of	of	ADP	IN	_	10	case	_	start_char=49|end_char=51
+10	history	history	NOUN	NN	Number=Sing	6	obl	_	start_char=52|end_char=59
+11	when	when	SCONJ	WRB	PronType=Int	13	mark	_	start_char=60|end_char=64
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=65|end_char=68
+13	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=69|end_char=74
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	start_char=75|end_char=77
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	start_char=78|end_char=81
+16	ever	ever	ADV	RB	_	18	advmod	_	start_char=82|end_char=86
+17	about	about	ADP	IN	_	18	case	_	start_char=87|end_char=92
+18	democracy	democracy	NOUN	NN	Number=Sing	13	ccomp	_	start_char=93|end_char=102
+19	.	.	PUNCT	.	_	2	punct	_	start_char=102|end_char=103
+

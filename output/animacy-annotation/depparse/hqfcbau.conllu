@@ -1,0 +1,7 @@
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	start_char=0|end_char=4
+2	living	live	VERB	VBG	VerbForm=Ger	1	xcomp	_	start_char=5|end_char=11
+3	life	life	NOUN	NN	Number=Sing	2	obj	_	start_char=12|end_char=16
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	xcomp	_	start_char=17|end_char=25
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=26|end_char=29
+6	angry	angry	ADJ	JJ	Degree=Pos	4	conj	_	start_char=30|end_char=35
+

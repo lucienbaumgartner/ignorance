@@ -1,0 +1,34 @@
+1	Rock	rock	NOUN	NN	Number=Sing	2	compound	_	start_char=0|end_char=4
+2	music	music	NOUN	NN	Number=Sing	6	nsubj	_	start_char=5|end_char=10
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=11|end_char=13
+4	only	only	ADV	RB	_	6	advmod	_	start_char=14|end_char=18
+5	about	about	ADP	IN	_	6	case	_	start_char=19|end_char=24
+6	sex	sex	NOUN	NN	Number=Sing	0	root	_	start_char=25|end_char=28
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=29|end_char=32
+8	singing	sing	VERB	VBG	VerbForm=Ger	6	conj	_	start_char=33|end_char=40
+9	about	about	ADP	IN	_	11	case	_	start_char=41|end_char=46
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=47|end_char=51
+11	dick	dick	NOUN	NN	Number=Sing	8	obl	_	start_char=52|end_char=56
+12	!	!	PUNCT	.	_	6	punct	_	start_char=56|end_char=57
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=58|end_char=59
+2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=60|end_char=64
+3	cause	cause	SCONJ	IN	_	5	mark	_	start_char=65|end_char=70
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=71|end_char=72
+5	heard	hear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	start_char=73|end_char=78
+6	one	one	NUM	CD	NumType=Card	7	nummod	_	start_char=79|end_char=82
+7	song	song	NOUN	NN	Number=Sing	5	obj	_	start_char=83|end_char=87
+8	once	once	ADV	RB	NumType=Mult	5	advmod	_	start_char=88|end_char=92
+9	!	!	PUNCT	.	_	2	punct	_	start_char=92|end_char=93
+
+1	(	(	PUNCT	-LRB-	_	2	punct	_	start_char=95|end_char=96
+2	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	start_char=96|end_char=99
+3	how	how	SCONJ	WRB	PronType=Int	4	mark	_	start_char=100|end_char=103
+4	fucking	fuck	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=104|end_char=111
+5	dumb	dumb	ADJ	JJ	Degree=Pos	4	xcomp	_	start_char=112|end_char=116
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=117|end_char=120
+7	ignorant	ignorant	ADJ	JJ	Degree=Pos	5	conj	_	start_char=121|end_char=129
+8	that	that	PRON	WDT	Number=Sing|PronType=Dem	9	nsubj	_	start_char=130|end_char=134
+9	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=135|end_char=141
+10	)	)	PUNCT	-RRB-	_	2	punct	_	start_char=141|end_char=142
+

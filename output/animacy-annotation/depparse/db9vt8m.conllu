@@ -1,0 +1,32 @@
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=0|end_char=4
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux:pass	_	start_char=5|end_char=8
+3	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=9|end_char=13
+4	to	to	SCONJ	IN	_	5	mark	_	start_char=14|end_char=16
+5	dealing	deal	VERB	VBG	VerbForm=Ger	3	advcl	_	start_char=17|end_char=24
+6	with	with	ADP	IN	_	12	case	_	start_char=25|end_char=29
+7	an	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=30|end_char=32
+8	"	"	PUNCT	``	_	12	punct	_	start_char=33|end_char=34
+9	unaware	unaware	ADJ	JJ	Degree=Pos	12	amod	_	start_char=34|end_char=41
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=42|end_char=45
+11	compliant	compliant	ADJ	JJ	Degree=Pos	9	conj	_	start_char=46|end_char=55
+12	citizenry	citizenry	NOUN	NN	Number=Sing	5	obl	_	start_char=56|end_char=65
+13	.	.	PUNCT	.	_	3	punct	_	start_char=65|end_char=66
+14	"	"	PUNCT	''	_	3	punct	_	start_char=66|end_char=67
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=69|end_char=73
+2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux	_	start_char=74|end_char=78
+3	hoping	hope	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=79|end_char=85
+4	to	to	PART	TO	_	5	mark	_	start_char=86|end_char=88
+5	spread	spread	VERB	VB	VerbForm=Inf	3	xcomp	_	start_char=89|end_char=95
+6	this	this	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	start_char=96|end_char=100
+7	to	to	ADP	IN	_	9	case	_	start_char=101|end_char=103
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=104|end_char=107
+9	rest	rest	NOUN	NN	Number=Sing	5	obl	_	start_char=108|end_char=112
+10	of	of	ADP	IN	_	12	case	_	start_char=113|end_char=115
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=116|end_char=119
+12	population	population	NOUN	NN	Number=Sing	9	nmod	_	start_char=120|end_char=130
+13	with	with	ADP	IN	_	15	case	_	start_char=131|end_char=135
+14	MSM	MSM	PROPN	NNP	Number=Sing	15	compound	_	start_char=136|end_char=139
+15	propaganda	propaganda	NOUN	NN	Number=Sing	5	obl	_	start_char=140|end_char=150
+16	.	.	PUNCT	.	_	3	punct	_	start_char=150|end_char=151
+

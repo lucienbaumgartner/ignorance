@@ -1,0 +1,20 @@
+1	About	about	ADP	IN	_	2	case	_	start_char=0|end_char=5
+2	everything	everything	PRON	NN	Number=Sing	0	root	_	start_char=6|end_char=16
+3	honestly	honestly	ADV	RB	_	2	advmod	_	start_char=17|end_char=25
+4	.	.	PUNCT	.	_	2	punct	_	start_char=25|end_char=26
+
+1	People	person	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=27|end_char=33
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=34|end_char=37
+3	still	still	ADV	RB	_	4	advmod	_	start_char=38|end_char=43
+4	impressed	impressed	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=53
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=54|end_char=57
+6	unaware	unaware	ADJ	JJ	Degree=Pos	4	conj	_	start_char=58|end_char=65
+7	that	that	SCONJ	IN	_	13	mark	_	start_char=66|end_char=70
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=71|end_char=72
+9	device	device	NOUN	NN	Number=Sing	13	nsubj	_	start_char=73|end_char=79
+10	like	like	ADP	IN	_	11	case	_	start_char=80|end_char=84
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	9	nmod	_	start_char=85|end_char=89
+12	even	even	ADV	RB	_	13	advmod	_	start_char=90|end_char=94
+13	exist	exist	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	start_char=95|end_char=100
+14	.	.	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+

@@ -1,0 +1,22 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=0|end_char=3
+2	've	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=3|end_char=6
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	cop	_	start_char=7|end_char=11
+4	nothing	nothing	PRON	NN	Number=Sing	0	root	_	start_char=12|end_char=19
+5	but	but	CCONJ	CC	_	6	mark	_	start_char=20|end_char=23
+6	rude	rude	ADJ	JJ	Degree=Pos	4	conj	_	start_char=24|end_char=28
+7	and	and	CCONJ	CC	_	18	cc	_	start_char=29|end_char=32
+8	arguing	argue	VERB	VBG	VerbForm=Ger	18	csubj	_	start_char=33|end_char=40
+9	with	with	ADP	IN	_	10	case	_	start_char=41|end_char=45
+10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	start_char=46|end_char=48
+11	about	about	ADP	IN	_	13	case	_	start_char=49|end_char=54
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=55|end_char=56
+13	point	point	NOUN	NN	Number=Sing	8	obl	_	start_char=57|end_char=62
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=63|end_char=66
+15	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	start_char=67|end_char=72
+16	with	with	ADP	IN	_	15	obl	_	start_char=73|end_char=77
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	start_char=78|end_char=80
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=81|end_char=89
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=90|end_char=93
+20	foolish	foolish	ADJ	JJ	Degree=Pos	18	conj	_	start_char=94|end_char=101
+21	.	.	PUNCT	.	_	4	punct	_	start_char=101|end_char=102
+

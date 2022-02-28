@@ -1,0 +1,39 @@
+1	“	''	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Dickhead	dickhead	NOUN	NN	Number=Sing	0	root	_	start_char=1|end_char=9
+3	”	''	PUNCT	''	_	2	punct	_	start_char=9|end_char=10
+4	?	?	PUNCT	.	_	2	punct	_	start_char=10|end_char=11
+
+1	Those	that	DET	DT	Number=Plur|PronType=Dem	3	det	_	start_char=12|end_char=17
+2	“	''	PUNCT	``	_	3	punct	_	start_char=18|end_char=19
+3	dickheads	dickhead	NOUN	NNS	Number=Plur	7	nsubj	_	start_char=19|end_char=28
+4	”	''	PUNCT	''	_	3	punct	_	start_char=28|end_char=29
+5	could	could	AUX	MD	VerbForm=Fin	7	aux	_	start_char=30|end_char=35
+6	have	have	AUX	VB	VerbForm=Inf	7	aux	_	start_char=36|end_char=40
+7	compromised	compromise	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=41|end_char=52
+8	lungs	lung	NOUN	NNS	Number=Plur	7	obj	_	start_char=53|end_char=58
+9	,	,	PUNCT	,	_	11	punct	_	start_char=58|end_char=59
+10	severe	severe	ADJ	JJ	Degree=Pos	11	amod	_	start_char=60|end_char=66
+11	claustrophobia	claustrophobia	NOUN	NN	Number=Sing	8	conj	_	start_char=67|end_char=81
+12	,	,	PUNCT	,	_	14	punct	_	start_char=81|end_char=82
+13	sinus	sinus	NOUN	NN	Number=Sing	14	compound	_	start_char=83|end_char=88
+14	complications	complication	NOUN	NNS	Number=Plur	8	conj	_	start_char=89|end_char=102
+15	,	,	PUNCT	,	_	16	punct	_	start_char=102|end_char=103
+16	ete	ete	X	FW	_	8	conj	_	start_char=104|end_char=107
+17	.	.	PUNCT	.	_	7	punct	_	start_char=107|end_char=108
+
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	start_char=109|end_char=112
+2	insensitive	insensitive	ADJ	JJ	Degree=Pos	0	root	_	start_char=113|end_char=124
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=125|end_char=128
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	2	conj	_	start_char=129|end_char=137
+5	of	of	ADP	IN	_	6	case	_	start_char=138|end_char=140
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	start_char=141|end_char=144
+7	.	.	PUNCT	.	_	2	punct	_	start_char=144|end_char=145
+
+1	Those	that	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=146|end_char=151
+2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=152|end_char=158
+3	also	also	ADV	RB	_	4	advmod	_	start_char=159|end_char=163
+4	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=164|end_char=168
+5	to	to	ADP	IN	_	6	case	_	start_char=169|end_char=171
+6	errands	errand	NOUN	NNS	Number=Plur	4	obl	_	start_char=172|end_char=179
+7	.	.	PUNCT	.	_	4	punct	_	start_char=179|end_char=180
+

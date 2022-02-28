@@ -1,0 +1,31 @@
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=4
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	start_char=5|end_char=9
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=10|end_char=12
+4	aloof	aloof	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=18
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=19|end_char=22
+6	act	act	VERB	VB	VerbForm=Fin	4	conj	_	start_char=23|end_char=26
+7	like	like	SCONJ	IN	_	11	mark	_	start_char=27|end_char=31
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	start_char=32|end_char=36
+9	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	start_char=37|end_char=39
+10	n’t	not	PART	RB	Polarity=Neg	11	advmod	_	start_char=39|end_char=42
+11	know	know	VERB	VB	VerbForm=Inf	6	advcl	_	start_char=43|end_char=47
+12	things	thing	NOUN	NNS	Number=Plur	11	obj	_	start_char=48|end_char=54
+13	and	and	CCONJ	CC	_	15	cc	_	start_char=55|end_char=58
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=59|end_char=62
+15	stupid	stupid	ADJ	JJ	Degree=Pos	11	conj	_	start_char=63|end_char=69
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=70|end_char=73
+17	unaware	unaware	ADJ	JJ	Degree=Pos	15	conj	_	start_char=74|end_char=81
+18	of	of	ADP	IN	_	20	case	_	start_char=82|end_char=84
+19	there	there	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	start_char=85|end_char=90
+20	surroundings	surroundings	NOUN	NNS	Number=Plur	17	obl	_	start_char=91|end_char=103
+21	.	.	PUNCT	.	_	4	punct	_	start_char=103|end_char=104
+
+1	And	and	CCONJ	CC	_	3	cc	_	start_char=105|end_char=108
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=109|end_char=113
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=114|end_char=118
+4	no	no	DET	DT	_	5	det	_	start_char=119|end_char=121
+5	concept	concept	NOUN	NN	Number=Sing	3	obj	_	start_char=122|end_char=129
+6	of	of	ADP	IN	_	8	case	_	start_char=130|end_char=132
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=133|end_char=136
+8	future	future	NOUN	NN	Number=Sing	5	nmod	_	start_char=137|end_char=143
+

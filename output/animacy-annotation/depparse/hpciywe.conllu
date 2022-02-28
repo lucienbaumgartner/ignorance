@@ -1,0 +1,21 @@
+1	https://old.reddit.com/r/Seattle/comments/rk7okr/1_in_5_nurses_say_theyll_quit_their_careers_as/	https://old.reddit.com/r/seattle/comments/rk7okr/1_in_5_nurses_say_theyll_quit_their_careers_as/	X	ADD	_	0	root	_	start_char=0|end_char=96
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=99|end_char=102
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	start_char=103|end_char=106
+3	act	act	VERB	VB	VerbForm=Inf	0	root	_	start_char=107|end_char=110
+4	as	as	ADV	RB	_	5	advmod	_	start_char=111|end_char=113
+5	macho	macho	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=114|end_char=119
+6	as	as	SCONJ	IN	_	8	mark	_	start_char=120|end_char=122
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	start_char=123|end_char=126
+8	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	start_char=127|end_char=131
+9	,	,	PUNCT	,	_	15	punct	_	start_char=131|end_char=132
+10	but	but	CCONJ	CC	_	15	cc	_	start_char=133|end_char=136
+11	voluntarily	voluntarily	ADV	RB	_	15	advmod	_	start_char=137|end_char=148
+12	unvaccinated	unvaccinated	ADJ	JJ	Degree=Pos	13	amod	_	start_char=149|end_char=161
+13	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=162|end_char=168
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	start_char=169|end_char=172
+15	ignorant	ignorant	ADJ	JJ	Degree=Pos	3	conj	_	start_char=173|end_char=181
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=182|end_char=185
+17	selfish	selfish	ADJ	JJ	Degree=Pos	15	conj	_	start_char=186|end_char=193
+18	.	.	PUNCT	.	_	3	punct	_	start_char=193|end_char=194
+

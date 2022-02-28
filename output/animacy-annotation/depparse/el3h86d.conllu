@@ -1,0 +1,36 @@
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=0|end_char=2
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	start_char=3|end_char=5
+3	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	start_char=6|end_char=14
+4	that	that	SCONJ	IN	_	7	mark	_	start_char=15|end_char=19
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	start_char=20|end_char=24
+6	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	start_char=25|end_char=29
+7	dumb	dumb	ADJ	JJ	Degree=Pos	3	csubj	_	start_char=30|end_char=34
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=35|end_char=38
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=39|end_char=46
+10	that	that	SCONJ	IN	_	17	mark	_	start_char=47|end_char=51
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=52|end_char=55
+12	emoji	emoji	NOUN	NN	Number=Sing	17	nsubj	_	start_char=56|end_char=61
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	start_char=62|end_char=64
+14	n’t	not	PART	RB	Polarity=Neg	17	advmod	_	start_char=64|end_char=67
+15	just	just	ADV	RB	_	17	advmod	_	start_char=68|end_char=72
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=73|end_char=74
+17	cry	cry	NOUN	NN	Number=Sing	9	ccomp	_	start_char=75|end_char=78
+18	?	?	PUNCT	.	_	3	punct	_	start_char=78|end_char=79
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=80|end_char=81
+2	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=81|end_char=84
+3	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	start_char=85|end_char=89
+4	some	some	DET	DT	_	5	det	_	start_char=90|end_char=94
+5	boomers	boomer	NOUN	NNS	Number=Plur	3	obj	_	start_char=95|end_char=102
+6	who	who	PRON	WP	PronType=Rel	8	nsubj	_	start_char=103|end_char=106
+7	’ve	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=106|end_char=109
+8	used	use	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	start_char=110|end_char=114
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=115|end_char=118
+10	“	''	PUNCT	``	_	12	punct	_	start_char=119|end_char=120
+11	Joy	Joy	NOUN	NN	Number=Sing	12	compound	_	start_char=120|end_char=123
+12	Emoji	Emoji	PROPN	NNP	Number=Sing	8	obj	_	start_char=124|end_char=129
+13	”	''	PUNCT	''	_	12	punct	_	start_char=129|end_char=130
+14	without	without	SCONJ	IN	_	15	mark	_	start_char=131|end_char=138
+15	thinking	think	VERB	VBG	VerbForm=Ger	8	advcl	_	start_char=139|end_char=147
+16	.	.	PUNCT	.	_	3	punct	_	start_char=147|end_char=148
+

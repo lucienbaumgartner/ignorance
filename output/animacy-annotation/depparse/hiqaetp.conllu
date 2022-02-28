@@ -1,0 +1,22 @@
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=0|end_char=1
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1|end_char=3
+3	really	really	ADV	RB	_	4	advmod	_	start_char=4|end_char=10
+4	not	not	PART	RB	_	2	advmod	_	start_char=11|end_char=14
+5	,	,	PUNCT	,	_	2	punct	_	start_char=14|end_char=15
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	start_char=16|end_char=19
+7	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=19|end_char=22
+8	just	just	ADV	RB	_	10	advmod	_	start_char=23|end_char=27
+9	that	that	SCONJ	IN	_	10	mark	_	start_char=28|end_char=32
+10	fucking	fuck	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	start_char=33|end_char=40
+11	stupid	stupid	ADJ	JJ	Degree=Pos	10	xcomp	_	start_char=41|end_char=47
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=48|end_char=51
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	11	conj	_	start_char=52|end_char=60
+14	that	that	SCONJ	IN	_	16	mark	_	start_char=61|end_char=65
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	start_char=66|end_char=69
+16	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	start_char=70|end_char=76
+17	to	to	PART	TO	_	18	mark	_	start_char=77|end_char=79
+18	take	take	VERB	VB	VerbForm=Inf	16	xcomp	_	start_char=80|end_char=84
+19	on	on	ADP	IN	_	18	compound:prt	_	start_char=85|end_char=87
+20	new	new	ADJ	JJ	Degree=Pos	21	amod	_	start_char=88|end_char=91
+21	information	information	NOUN	NN	Number=Sing	18	obj	_	start_char=92|end_char=103
+

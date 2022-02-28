@@ -1,0 +1,52 @@
+1	Except	except	SCONJ	IN	_	3	mark	_	start_char=0|end_char=6
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	start_char=7|end_char=11
+3	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=11|end_char=14
+4	not	not	PART	RB	_	3	advmod	_	start_char=15|end_char=18
+5	.	.	PUNCT	.	_	3	punct	_	start_char=18|end_char=19
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=20|end_char=21
+2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=21|end_char=23
+3	literally	literally	ADV	RB	_	5	advmod	_	start_char=24|end_char=33
+4	in	in	ADP	IN	_	5	case	_	start_char=34|end_char=36
+5	healthcare	healthcare	NOUN	NN	Number=Sing	0	root	_	start_char=37|end_char=47
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=48|end_char=51
+7	studied	study	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	start_char=52|end_char=59
+8	immunology	immunology	NOUN	NN	Number=Sing	7	obj	_	start_char=60|end_char=70
+9	extensively	extensively	ADV	RB	_	7	advmod	_	start_char=71|end_char=82
+10	in	in	ADP	IN	_	11	case	_	start_char=83|end_char=85
+11	college	college	NOUN	NN	Number=Sing	7	obl	_	start_char=86|end_char=93
+12	.	.	PUNCT	.	_	5	punct	_	start_char=93|end_char=94
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	start_char=95|end_char=98
+2	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=99|end_char=105
+3	to	to	PART	TO	_	4	mark	_	start_char=106|end_char=108
+4	take	take	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=109|end_char=113
+5	scientific	scientific	ADJ	JJ	Degree=Pos	6	amod	_	start_char=114|end_char=124
+6	fact	fact	NOUN	NN	Number=Sing	4	obj	_	start_char=125|end_char=129
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=130|end_char=133
+8	believe	believe	VERB	VB	VerbForm=Inf	4	conj	_	start_char=134|end_char=141
+9	that	that	SCONJ	IN	_	12	mark	_	start_char=142|end_char=146
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=147|end_char=149
+11	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=149|end_char=151
+12	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	start_char=152|end_char=159
+13	points	point	NOUN	NNS	Number=Plur	12	obj	_	start_char=160|end_char=166
+14	,	,	PUNCT	,	_	16	punct	_	start_char=166|end_char=167
+15	political	political	ADJ	JJ	Degree=Pos	16	amod	_	start_char=168|end_char=177
+16	opinion	opinion	NOUN	NN	Number=Sing	13	conj	_	start_char=178|end_char=185
+17	.	.	PUNCT	.	_	2	punct	_	start_char=185|end_char=186
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=187|end_char=190
+2	anti	anti	ADJ	JJ	Degree=Pos	4	amod	_	start_char=191|end_char=195
+3	vax	vax	NOUN	NN	Number=Sing	4	compound	_	start_char=196|end_char=199
+4	movement	movement	NOUN	NN	Number=Sing	6	nsubj	_	start_char=200|end_char=208
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=209|end_char=211
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=212|end_char=220
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=221|end_char=224
+8	dangerous	dangerous	ADJ	JJ	Degree=Pos	6	conj	_	start_char=225|end_char=234
+9	to	to	ADP	IN	_	10	case	_	start_char=235|end_char=237
+10	humanity	humanity	NOUN	NN	Number=Sing	8	obl	_	start_char=238|end_char=246
+11	as	as	ADP	IN	_	13	case	_	start_char=247|end_char=249
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	start_char=250|end_char=251
+13	whole	whole	NOUN	NN	Number=Sing	6	obl	_	start_char=252|end_char=257
+14	.	.	PUNCT	.	_	6	punct	_	start_char=257|end_char=258
+

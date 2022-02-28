@@ -1,0 +1,17 @@
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	start_char=0|end_char=3
+2	sir	sir	PROPN	NNP	Number=Sing	1	flat	_	start_char=4|end_char=7
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=8|end_char=11
+4	so	so	ADV	RB	_	6	advmod	_	start_char=12|end_char=14
+5	blissfully	blissfully	ADV	RB	_	6	advmod	_	start_char=15|end_char=25
+6	innocent	innocent	ADJ	JJ	Degree=Pos	0	root	_	start_char=26|end_char=34
+7	and	and	CCONJ	CC	_	8	cc	_	start_char=35|end_char=38
+8	unaware	unaware	ADJ	JJ	Degree=Pos	6	conj	_	start_char=39|end_char=46
+9	of	of	ADP	IN	_	11	case	_	start_char=47|end_char=49
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=50|end_char=53
+11	creatures	creature	NOUN	NNS	Number=Plur	8	obl	_	start_char=54|end_char=63
+12	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=64|end_char=68
+13	reside	reside	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=69|end_char=75
+14	at	at	ADP	IN	_	16	case	_	start_char=76|end_char=78
+15	wargaming	wargaming	NOUN	NN	Number=Sing	16	compound	_	start_char=79|end_char=88
+16	centers	center	NOUN	NNS	Number=Plur	13	obl	_	start_char=89|end_char=96
+

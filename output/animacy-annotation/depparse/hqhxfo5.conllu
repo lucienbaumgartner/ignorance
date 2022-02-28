@@ -1,0 +1,14 @@
+1	Because	because	SCONJ	IN	_	4	mark	_	start_char=0|end_char=7
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=8|end_char=12
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=13|end_char=16
+4	naive	naive	ADJ	JJ	Degree=Pos	0	root	_	start_char=17|end_char=22
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=23|end_char=26
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=27|end_char=35
+7	and	and	CCONJ	CC	_	10	cc	_	start_char=36|end_char=39
+8	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	start_char=40|end_char=43
+9	not	not	PART	RB	_	10	advmod	_	start_char=44|end_char=47
+10	know	know	VERB	VB	VerbForm=Inf	4	conj	_	start_char=48|end_char=52
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=53|end_char=56
+12	consequences	consequence	NOUN	NNS	Number=Plur	10	obj	_	start_char=57|end_char=69
+13	.	.	PUNCT	.	_	4	punct	_	start_char=69|end_char=70
+

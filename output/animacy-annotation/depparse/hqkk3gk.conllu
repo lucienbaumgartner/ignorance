@@ -1,0 +1,51 @@
+1	&gt	&gt	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=3
+2	;	;	PUNCT	:	_	1	punct	_	start_char=3|end_char=4
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	start_char=4|end_char=5
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=6|end_char=9
+3	so	so	ADV	RB	_	4	advmod	_	start_char=10|end_char=12
+4	disturbed	disturb	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=13|end_char=22
+5	by	by	ADP	IN	_	7	case	_	start_char=23|end_char=25
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=26|end_char=29
+7	fact	fact	NOUN	NN	Number=Sing	4	obl	_	start_char=30|end_char=34
+8	that	that	SCONJ	IN	_	16	mark	_	start_char=35|end_char=39
+9	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	start_char=40|end_char=41
+10	35	35	NUM	CD	NumType=Card	11	nummod	_	start_char=42|end_char=44
+11	year	year	NOUN	NN	Number=Sing	12	obl:npmod	_	start_char=45|end_char=49
+12	old	old	ADJ	JJ	Degree=Pos	16	nsubj	_	start_char=50|end_char=53
+13	could	could	AUX	MD	VerbForm=Fin	16	aux	_	start_char=54|end_char=59
+14	be	be	AUX	VB	VerbForm=Inf	16	cop	_	start_char=60|end_char=62
+15	so	so	ADV	RB	_	16	advmod	_	start_char=63|end_char=65
+16	naive	naive	ADJ	JJ	Degree=Pos	7	acl	_	start_char=66|end_char=71
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=72|end_char=75
+18	ignorant	ignorant	ADJ	JJ	Degree=Pos	16	conj	_	start_char=76|end_char=84
+19	and	and	CCONJ	CC	_	20	cc	_	start_char=85|end_char=88
+20	risking	risk	VERB	VBG	VerbForm=Ger	16	conj	_	start_char=89|end_char=96
+21	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	start_char=97|end_char=100
+22	health	health	NOUN	NN	Number=Sing	20	obj	_	start_char=101|end_char=107
+23	.	.	PUNCT	.	_	4	punct	_	start_char=107|end_char=108
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=109|end_char=112
+2	people	people	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=113|end_char=119
+3	really	really	ADV	RB	_	5	advmod	_	start_char=120|end_char=126
+4	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=127|end_char=131
+5	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=132|end_char=140
+6	??	??	PUNCT	.	_	5	punct	_	start_char=140|end_char=142
+
+1	...	...	PUNCT	,	_	2	punct	_	start_char=144|end_char=147
+2	seriously	seriously	ADV	RB	_	0	root	_	start_char=147|end_char=156
+3	?	?	PUNCT	.	_	2	punct	_	start_char=156|end_char=157
+
+1	Have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=158|end_char=162
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=163|end_char=166
+3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	start_char=167|end_char=171
+4	visiting	visit	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=172|end_char=180
+5	another	another	DET	DT	_	6	det	_	start_char=181|end_char=188
+6	planet	planet	NOUN	NN	Number=Sing	4	obj	_	start_char=189|end_char=195
+7	for	for	ADP	IN	_	11	case	_	start_char=196|end_char=199
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	start_char=200|end_char=203
+9	last	last	ADJ	JJ	Degree=Pos	11	amod	_	start_char=204|end_char=208
+10	3	3	NUM	CD	NumType=Card	11	nummod	_	start_char=209|end_char=210
+11	years	year	NOUN	NNS	Number=Plur	4	obl	_	start_char=211|end_char=216
+12	?	?	PUNCT	.	_	4	punct	_	start_char=216|end_char=217
+

@@ -1,0 +1,7 @@
+1	Ignorant	Ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=0|end_char=8
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=9|end_char=12
+3	proud	proud	ADJ	JJ	Degree=Pos	1	conj	_	start_char=13|end_char=18
+4	of	of	ADP	IN	_	5	case	_	start_char=19|end_char=21
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	start_char=22|end_char=24
+6	.	.	PUNCT	.	_	1	punct	_	start_char=24|end_char=25
+

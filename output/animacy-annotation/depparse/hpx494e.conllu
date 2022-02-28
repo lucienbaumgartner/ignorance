@@ -1,0 +1,35 @@
+1	99	99	NUM	CD	NumType=Card	2	nummod	_	start_char=0|end_char=2
+2	%	%	SYM	NN	Number=Sing	10	nsubj	_	start_char=2|end_char=3
+3	of	of	ADP	IN	_	5	case	_	start_char=4|end_char=6
+4	Soundcloud	Soundcloud	PROPN	NNP	Number=Sing	5	compound	_	start_char=7|end_char=17
+5	rappers	rapper	NOUN	NNS	Number=Plur	2	nmod	_	start_char=18|end_char=25
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=26|end_char=29
+7	very	very	ADV	RB	_	8	advmod	_	start_char=30|end_char=34
+8	much	much	ADV	RB	_	10	advmod	_	start_char=35|end_char=39
+9	not	not	PART	RB	_	10	advmod	_	start_char=40|end_char=43
+10	mainstream	mainstream	ADJ	JJ	Degree=Pos	0	root	_	start_char=44|end_char=54
+11	,	,	PUNCT	,	_	10	punct	_	start_char=54|end_char=55
+12	why	why	ADV	WRB	PronType=Int	15	advmod	_	start_char=56|end_char=59
+13	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=60|end_char=63
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	start_char=64|end_char=67
+15	acting	act	VERB	VBG	Tense=Pres|VerbForm=Part	10	parataxis	_	start_char=68|end_char=74
+16	like	like	SCONJ	IN	_	20	mark	_	start_char=75|end_char=79
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	20	nsubj	_	start_char=80|end_char=84
+18	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=84|end_char=86
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	start_char=87|end_char=90
+20	majority	majority	NOUN	NN	Number=Sing	15	advcl	_	start_char=91|end_char=99
+21	of	of	ADP	IN	_	22	case	_	start_char=100|end_char=102
+22	what	what	DET	WDT	PronType=Int	20	nmod	_	start_char=103|end_char=107
+23	people	people	NOUN	NNS	Number=Plur	24	nsubj	_	start_char=108|end_char=114
+24	listen	listen	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	start_char=115|end_char=121
+25	to	to	ADP	IN	_	24	obl	_	start_char=122|end_char=124
+26	?	?	PUNCT	.	_	10	punct	_	start_char=124|end_char=125
+
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	start_char=126|end_char=129
+2	’re	be	AUX	VBP	Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=129|end_char=132
+3	just	just	ADV	RB	_	4	advmod	_	start_char=133|end_char=137
+4	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=138|end_char=146
+5	,	,	PUNCT	,	_	7	punct	_	start_char=146|end_char=147
+6	and	and	CCONJ	CC	_	7	cc	_	start_char=148|end_char=151
+7	stupid	stupid	ADJ	JJ	Degree=Pos	4	conj	_	start_char=152|end_char=158
+

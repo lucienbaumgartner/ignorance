@@ -1,0 +1,48 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	start_char=0|end_char=2
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=3|end_char=5
+3	definitely	definitely	ADV	RB	_	4	advmod	_	start_char=6|end_char=16
+4	satire	satire	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=23
+5	.	.	PUNCT	.	_	4	punct	_	start_char=23|end_char=24
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=25|end_char=28
+2	shots	shot	NOUN	NNS	Number=Plur	9	nsubj	_	start_char=29|end_char=34
+3	of	of	ADP	IN	_	5	case	_	start_char=35|end_char=37
+4	"	"	PUNCT	``	_	5	punct	_	start_char=38|end_char=39
+5	Kazakhstan	Kazakhstan	PROPN	NNP	Number=Sing	2	nmod	_	start_char=39|end_char=49
+6	"	"	PUNCT	''	_	5	punct	_	start_char=49|end_char=50
+7	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	start_char=51|end_char=55
+8	in	in	ADP	IN	_	9	case	_	start_char=56|end_char=58
+9	Romania	Romania	PROPN	NNP	Number=Sing	0	root	_	start_char=59|end_char=66
+10	.	.	PUNCT	.	_	9	punct	_	start_char=66|end_char=67
+
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	start_char=68|end_char=71
+2	"	"	PUNCT	``	_	3	punct	_	start_char=72|end_char=73
+3	Kazakh	Kazakh	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=73|end_char=79
+4	"	"	PUNCT	''	_	3	punct	_	start_char=79|end_char=80
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	start_char=81|end_char=83
+6	Hebrew	Hebrew	PROPN	NNP	Number=Sing	0	root	_	start_char=84|end_char=90
+7	.	.	PUNCT	.	_	6	punct	_	start_char=90|end_char=91
+
+1	Sacha	Sacha	PROPN	NNP	Number=Sing	6	nsubj	_	start_char=92|end_char=97
+2	Baron	Baron	PROPN	NNP	Number=Sing	1	flat	_	start_char=98|end_char=103
+3	Cohen	Cohen	PROPN	NNP	Number=Sing	1	flat	_	start_char=104|end_char=109
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=110|end_char=112
+5	just	just	ADV	RB	_	6	advmod	_	start_char=113|end_char=117
+6	illustrating	illustrate	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=118|end_char=130
+7	how	how	SCONJ	WRB	PronType=Int	8	mark	_	start_char=131|end_char=134
+8	ignorant	ignorant	ADJ	JJ	Degree=Pos	6	ccomp	_	start_char=135|end_char=143
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=144|end_char=147
+10	xenophobic	xenophobic	ADJ	JJ	Degree=Pos	8	conj	_	start_char=148|end_char=158
+11	Americans	American	PROPN	NNPS	Number=Plur	14	nsubj	_	start_char=159|end_char=168
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	start_char=169|end_char=172
+13	to	to	ADP	IN	_	14	case	_	start_char=173|end_char=175
+14	anyone	anyone	PRON	NN	Number=Sing	6	ccomp	_	start_char=176|end_char=182
+15	outside	outside	ADP	IN	_	18	case	_	start_char=183|end_char=190
+16	of	of	ADP	IN	_	18	case	_	start_char=191|end_char=193
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=194|end_char=197
+18	USA	USA	PROPN	NNP	Number=Sing	14	nmod	_	start_char=198|end_char=201
+19	or	or	CCONJ	CC	_	21	cc	_	start_char=202|end_char=204
+20	Western	western	ADJ	JJ	Degree=Pos	21	amod	_	start_char=205|end_char=212
+21	Europe	Europe	PROPN	NNP	Number=Sing	18	conj	_	start_char=213|end_char=219
+22	.	.	PUNCT	.	_	6	punct	_	start_char=219|end_char=220
+

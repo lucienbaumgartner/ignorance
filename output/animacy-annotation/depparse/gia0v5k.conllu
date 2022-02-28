@@ -1,0 +1,12 @@
+1	Bipolar	Bipolar	ADJ	JJ	Degree=Pos	2	amod	_	start_char=0|end_char=7
+2	mania	mania	NOUN	NN	Number=Sing	4	nsubj	_	start_char=8|end_char=13
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=14|end_char=17
+4	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=18|end_char=22
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	start_char=23|end_char=26
+6	feel	feel	VERB	VB	VerbForm=Inf	4	xcomp	_	start_char=27|end_char=31
+7	invincible	invincible	ADJ	JJ	Degree=Pos	6	xcomp	_	start_char=32|end_char=42
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=43|end_char=46
+9	unaware	unaware	ADJ	JJ	Degree=Pos	7	conj	_	start_char=47|end_char=54
+10	of	of	ADP	IN	_	11	case	_	start_char=55|end_char=57
+11	dangers	danger	NOUN	NNS	Number=Plur	9	obl	_	start_char=58|end_char=65
+

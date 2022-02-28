@@ -1,0 +1,31 @@
+1	Yeah	yeah	INTJ	UH	_	2	discourse	_	start_char=0|end_char=4
+2	looking	look	VERB	VBG	VerbForm=Ger	0	root	_	start_char=5|end_char=12
+3	back	back	ADV	RB	Degree=Pos	2	advmod	_	start_char=13|end_char=17
+4	on	on	ADP	IN	_	5	case	_	start_char=18|end_char=20
+5	alot	alot	DET	DT	_	2	obl	_	start_char=21|end_char=25
+6	of	of	ADP	IN	_	10	case	_	start_char=26|end_char=28
+7	those	that	DET	DT	Number=Plur|PronType=Dem	10	det	_	start_char=29|end_char=34
+8	real	real	ADJ	JJ	Degree=Pos	10	amod	_	start_char=35|end_char=39
+9	world	world	NOUN	NN	Number=Sing	10	compound	_	start_char=40|end_char=45
+10	seasons	season	NOUN	NNS	Number=Plur	5	nmod	_	start_char=46|end_char=53
+11	.	.	PUNCT	.	_	2	punct	_	start_char=53|end_char=54
+
+1	So	so	ADV	RB	_	2	advmod	_	start_char=55|end_char=57
+2	many	many	ADJ	JJ	Degree=Pos	4	amod	_	start_char=58|end_char=62
+3	cast	cast	NOUN	NN	Number=Sing	4	compound	_	start_char=63|end_char=67
+4	members	member	NOUN	NNS	Number=Plur	6	nsubj	_	start_char=68|end_char=75
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	start_char=76|end_char=80
+6	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=81|end_char=88
+7	and	and	CCONJ	CC	_	9	cc	_	start_char=89|end_char=92
+8	close	close	ADJ	JJ	Degree=Pos	9	advmod	_	start_char=93|end_char=98
+9	minded	minded	ADJ	JJ	Degree=Pos	6	conj	_	start_char=99|end_char=105
+10	to	to	ADP	IN	_	11	case	_	start_char=106|end_char=108
+11	situations	situation	NOUN	NNS	Number=Plur	9	obl	_	start_char=109|end_char=119
+12	people	people	NOUN	NNS	Number=Plur	11	appos	_	start_char=120|end_char=126
+13	different	different	ADJ	JJ	Degree=Pos	12	amod	_	start_char=127|end_char=136
+14	than	than	SCONJ	IN	_	17	mark	_	start_char=137|end_char=141
+15	than	than	SCONJ	IN	_	17	mark	_	start_char=142|end_char=146
+16	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	start_char=147|end_char=151
+17	go	go	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=152|end_char=154
+18	through	through	ADV	RB	_	17	advmod	_	start_char=155|end_char=162
+

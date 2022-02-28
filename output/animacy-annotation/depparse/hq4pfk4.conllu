@@ -1,0 +1,28 @@
+1	Exactly	exactly	ADV	RB	_	2	advmod	_	start_char=0|end_char=7
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	0	root	_	start_char=8|end_char=12
+3	.	.	PUNCT	.	_	2	punct	_	start_char=12|end_char=13
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=14|end_char=17
+2	type	type	NOUN	NN	Number=Sing	20	nsubj	_	start_char=18|end_char=22
+3	of	of	ADP	IN	_	5	case	_	start_char=23|end_char=25
+4	raging	rage	VERB	VBG	VerbForm=Ger	5	amod	_	start_char=26|end_char=32
+5	Islamophobia	islamophobia	PROPN	NNP	Number=Sing	2	nmod	_	start_char=33|end_char=45
+6	that	that	PRON	WDT	PronType=Rel	10	nsubj:pass	_	start_char=46|end_char=50
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	start_char=51|end_char=53
+8	just	just	ADV	RB	_	10	advmod	_	start_char=54|end_char=58
+9	being	be	AUX	VBG	VerbForm=Ger	10	aux:pass	_	start_char=59|end_char=64
+10	accepted	accept	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	start_char=65|end_char=73
+11	or	or	CCONJ	CC	_	13	cc	_	start_char=74|end_char=76
+12	massively	massively	ADV	RB	_	13	advmod	_	start_char=77|end_char=86
+13	agreed	agree	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	start_char=87|end_char=93
+14	with	with	ADP	IN	_	13	obl	_	start_char=94|end_char=98
+15	in	in	ADP	IN	_	17	case	_	start_char=99|end_char=101
+16	this	this	DET	DT	Number=Sing|PronType=Dem	17	det	_	start_char=102|end_char=106
+17	post	post	NOUN	NN	Number=Sing	13	obl	_	start_char=107|end_char=111
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=112|end_char=114
+19	both	both	CCONJ	CC	_	20	cc:preconj	_	start_char=115|end_char=119
+20	ignorant	ignorant	ADJ	JJ	Degree=Pos	0	root	_	start_char=120|end_char=128
+21	and	and	CCONJ	CC	_	22	cc	_	start_char=129|end_char=132
+22	gross	gross	ADJ	JJ	Degree=Pos	20	conj	_	start_char=133|end_char=138
+23	.	.	PUNCT	.	_	20	punct	_	start_char=138|end_char=139
+

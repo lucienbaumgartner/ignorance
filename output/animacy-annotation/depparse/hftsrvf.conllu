@@ -1,0 +1,17 @@
+1	Step	step	NOUN	NN	Number=Sing	0	root	_	start_char=0|end_char=4
+2	#	#	SYM	NN	Number=Sing	1	appos	_	start_char=5|end_char=6
+3	1	1	NUM	CD	NumType=Card	2	nummod	_	start_char=6|end_char=7
+4	,	,	PUNCT	,	_	1	punct	_	start_char=7|end_char=8
+5	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	10	aux	_	start_char=9|end_char=11
+6	n't	not	PART	RB	_	10	advmod	_	start_char=11|end_char=14
+7	be	be	AUX	VB	Mood=Imp|VerbForm=Fin	10	cop	_	start_char=15|end_char=17
+8	in	in	ADP	IN	_	10	case	_	start_char=18|end_char=20
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=21|end_char=25
+10	situation	situation	NOUN	NN	Number=Sing	1	parataxis	_	start_char=26|end_char=35
+11	.	.	PUNCT	.	_	1	punct	_	start_char=35|end_char=36
+
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=37|end_char=44
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=45|end_char=48
+3	unprepared	unprepared	ADJ	JJ	Degree=Pos	1	conj	_	start_char=49|end_char=59
+4	.	.	PUNCT	.	_	1	punct	_	start_char=59|end_char=60
+

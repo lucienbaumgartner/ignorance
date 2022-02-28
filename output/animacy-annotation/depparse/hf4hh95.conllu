@@ -1,0 +1,18 @@
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	start_char=0|end_char=2
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=3|end_char=6
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=7|end_char=10
+4	exact	exact	ADJ	JJ	Degree=Pos	5	amod	_	start_char=11|end_char=16
+5	opposite	opposite	NOUN	NN	Number=Sing	0	root	_	start_char=17|end_char=25
+6	.	.	PUNCT	.	_	5	punct	_	start_char=25|end_char=26
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	start_char=27|end_char=29
+2	must	must	AUX	MD	VerbForm=Fin	4	aux	_	start_char=30|end_char=34
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	start_char=35|end_char=37
+4	hard	hard	ADJ	JJ	Degree=Pos	0	root	_	start_char=38|end_char=42
+5	being	be	AUX	VBG	VerbForm=Ger	7	cop	_	start_char=43|end_char=48
+6	so	so	ADV	RB	_	7	advmod	_	start_char=49|end_char=51
+7	unaware	unaware	ADJ	JJ	Degree=Pos	4	csubj	_	start_char=52|end_char=59
+8	and	and	CCONJ	CC	_	9	cc	_	start_char=60|end_char=63
+9	delusional	delusional	ADJ	JJ	Degree=Pos	7	conj	_	start_char=64|end_char=74
+10	.	.	PUNCT	.	_	4	punct	_	start_char=74|end_char=75
+

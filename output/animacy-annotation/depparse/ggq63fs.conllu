@@ -1,0 +1,41 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	sister	sister	NOUN	NN	Number=Sing	5	nsubj	_	start_char=4|end_char=10
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	start_char=11|end_char=14
+4	actually	actually	ADV	RB	_	5	advmod	_	start_char=15|end_char=23
+5	awake	awake	ADJ	JJ	Degree=Pos	0	root	_	start_char=24|end_char=29
+6	when	when	SCONJ	WRB	PronType=Int	9	mark	_	start_char=30|end_char=34
+7	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	start_char=35|end_char=38
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	start_char=39|end_char=42
+9	shot	shoot	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	start_char=43|end_char=47
+10	.	.	PUNCT	.	_	5	punct	_	start_char=47|end_char=48
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=50|end_char=54
+2	n't	not	PART	RB	_	3	advmod	_	start_char=54|end_char=57
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	start_char=58|end_char=62
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	start_char=63|end_char=65
+5	any	any	ADV	RB	_	6	advmod	_	start_char=66|end_char=69
+6	less	less	ADV	RBR	Degree=Cmp	7	advmod	_	start_char=70|end_char=74
+7	cowardly	cowardly	ADJ	JJ	Degree=Pos	3	xcomp	_	start_char=75|end_char=83
+8	,	,	PUNCT	,	_	3	punct	_	start_char=83|end_char=84
+9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	start_char=85|end_char=88
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	start_char=89|end_char=92
+11	completely	completely	ADV	RB	_	12	advmod	_	start_char=93|end_char=103
+12	unarmed	unarmed	ADJ	JJ	Degree=Pos	3	parataxis	_	start_char=104|end_char=111
+13	and	and	CCONJ	CC	_	14	cc	_	start_char=112|end_char=115
+14	unaware	unaware	ADJ	JJ	Degree=Pos	12	conj	_	start_char=116|end_char=123
+15	of	of	ADP	IN	_	16	case	_	start_char=124|end_char=126
+16	what	what	PRON	WP	PronType=Int	14	obl	_	start_char=127|end_char=131
+17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	start_char=132|end_char=135
+18	about	about	ADV	RB	_	16	acl:relcl	_	start_char=136|end_char=141
+19	to	to	PART	TO	_	20	mark	_	start_char=142|end_char=144
+20	happen	happen	VERB	VB	VerbForm=Inf	18	xcomp	_	start_char=145|end_char=151
+21	.	.	PUNCT	.	_	3	punct	_	start_char=151|end_char=152
+
+1	Just	just	ADV	RB	_	2	advmod	_	start_char=153|end_char=157
+2	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=158|end_char=165
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	start_char=166|end_char=167
+4	'd	would	AUX	MD	VerbForm=Fin	5	aux	_	start_char=167|end_char=169
+5	clarify	clarify	VERB	VB	VerbForm=Inf	2	ccomp	_	start_char=170|end_char=177
+6	though	though	ADV	RB	_	5	advmod	_	start_char=178|end_char=184
+7	.	.	PUNCT	.	_	2	punct	_	start_char=184|end_char=185
+

@@ -1,0 +1,5 @@
+1	Unaware	unaware	ADJ	JJ	Degree=Pos	4	amod	_	start_char=0|end_char=7
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=8|end_char=11
+3	compliant	compliant	ADJ	JJ	Degree=Pos	1	conj	_	start_char=12|end_char=21
+4	citizenry	citizenry	NOUN	NN	Number=Sing	0	root	_	start_char=22|end_char=31
+

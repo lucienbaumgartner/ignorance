@@ -1,0 +1,97 @@
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	start_char=0|end_char=4
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=5|end_char=7
+3	really	really	ADV	RB	_	4	advmod	_	start_char=8|end_char=14
+4	arrogant	arrogant	ADJ	JJ	Degree=Pos	0	root	_	start_char=15|end_char=23
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=24|end_char=27
+6	ignorant	ignorant	ADJ	JJ	Degree=Pos	4	conj	_	start_char=28|end_char=36
+7	of	of	ADP	IN	_	8	case	_	start_char=37|end_char=39
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	start_char=40|end_char=43
+9	to	to	PART	TO	_	10	mark	_	start_char=44|end_char=46
+10	assume	assume	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=47|end_char=53
+11	that	that	SCONJ	IN	_	15	mark	_	start_char=54|end_char=58
+12	people	people	NOUN	NNS	Number=Plur	15	nsubj	_	start_char=59|end_char=65
+13	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	start_char=66|end_char=68
+14	n't	not	PART	RB	_	15	advmod	_	start_char=68|end_char=71
+15	enjoy	enjoy	VERB	VB	VerbForm=Inf	10	ccomp	_	start_char=72|end_char=77
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=78|end_char=81
+17	Two	two	NUM	CD	NumType=Card	18	nummod	_	start_char=82|end_char=85
+18	Worlds	Worlds	PROPN	NNPS	Number=Plur	15	obj	_	start_char=86|end_char=92
+19	just	just	ADV	RB	_	22	advmod	_	start_char=93|end_char=97
+20	to	to	PART	TO	_	22	mark	_	start_char=98|end_char=100
+21	be	be	AUX	VB	VerbForm=Inf	22	cop	_	start_char=101|end_char=103
+22	edgelords	edgelord	NOUN	NNS	Number=Plur	15	xcomp	_	start_char=104|end_char=113
+23	.	.	PUNCT	.	_	4	punct	_	start_char=113|end_char=114
+
+1	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	start_char=117|end_char=120
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	start_char=121|end_char=124
+3	seriously	seriously	ADV	RB	_	0	root	_	start_char=125|end_char=134
+4	that	that	SCONJ	IN	_	13	mark	_	start_char=135|end_char=139
+5	up	up	ADP	RP	_	8	case	_	start_char=140|end_char=142
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	start_char=143|end_char=147
+7	own	own	ADJ	JJ	Degree=Pos	8	amod	_	start_char=148|end_char=151
+8	ass	ass	NOUN	NN	Number=Sing	3	obl	_	start_char=152|end_char=155
+9	that	that	PRON	WDT	PronType=Rel	13	obj	_	start_char=156|end_char=160
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=161|end_char=164
+11	ca	can	AUX	MD	VerbForm=Fin	13	aux	_	start_char=165|end_char=167
+12	n't	not	PART	RB	_	13	advmod	_	start_char=167|end_char=170
+13	acknowledge	acknowledge	VERB	VB	VerbForm=Inf	8	acl:relcl	_	start_char=171|end_char=182
+14	why	why	SCONJ	WRB	PronType=Int	18	mark	_	start_char=183|end_char=186
+15	people	people	NOUN	NNS	Number=Plur	18	nsubj	_	start_char=187|end_char=193
+16	might	might	AUX	MD	VerbForm=Fin	18	aux	_	start_char=194|end_char=199
+17	wanna	wanna	ADV	RB	_	18	advmod	_	start_char=200|end_char=205
+18	stay	stay	VERB	VB	VerbForm=Inf	13	ccomp	_	start_char=206|end_char=210
+19	far	far	ADV	RB	Degree=Pos	20	advmod	_	start_char=211|end_char=214
+20	far	far	ADV	RB	Degree=Pos	21	advmod	_	start_char=215|end_char=218
+21	away	away	ADV	RB	_	18	advmod	_	start_char=219|end_char=223
+22	from	from	ADP	IN	_	23	case	_	start_char=224|end_char=228
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	_	start_char=229|end_char=231
+24	?	?	PUNCT	.	_	3	punct	_	start_char=231|end_char=232
+
+1	&amp;#x200B	&amp;#x200b	NOUN	NN	Number=Sing	0	root	_	start_char=234|end_char=245
+2	;	;	PUNCT	:	_	1	punct	_	start_char=245|end_char=246
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=248|end_char=249
+2	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	start_char=250|end_char=253
+3	some	some	DET	DT	_	5	det	_	start_char=254|end_char=258
+4	more	more	ADJ	JJR	Degree=Cmp	5	amod	_	start_char=259|end_char=263
+5	crap	crap	NOUN	NN	Number=Sing	2	obj	_	start_char=264|end_char=268
+6	for	for	ADP	IN	_	9	mark	_	start_char=269|end_char=272
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	nmod	_	start_char=273|end_char=276
+8	to	to	PART	TO	_	9	mark	_	start_char=277|end_char=279
+9	look	look	VERB	VB	VerbForm=Inf	2	advcl	_	start_char=280|end_char=284
+10	into	into	ADP	IN	_	9	obl	_	start_char=285|end_char=289
+11	if	if	SCONJ	IN	_	13	mark	_	start_char=290|end_char=292
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	start_char=293|end_char=296
+13	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	start_char=297|end_char=302
+14	people	people	NOUN	NNS	Number=Plur	17	nsubj	_	start_char=303|end_char=309
+15	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	start_char=310|end_char=312
+16	n't	not	PART	RB	_	17	advmod	_	start_char=312|end_char=315
+17	like	like	VERB	VB	VerbForm=Inf	13	ccomp	_	start_char=316|end_char=320
+18	Two	two	NUM	CD	NumType=Card	19	nummod	_	start_char=321|end_char=324
+19	Worlds	Worlds	PROPN	NNPS	Number=Plur	17	obj	_	start_char=325|end_char=331
+20	for	for	ADP	IN	_	22	case	_	start_char=332|end_char=335
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	start_char=336|end_char=339
+22	sake	sake	NOUN	NN	Number=Sing	17	obl	_	start_char=340|end_char=344
+23	of	of	SCONJ	IN	_	26	mark	_	start_char=345|end_char=347
+24	being	be	AUX	VBG	VerbForm=Ger	26	cop	_	start_char=348|end_char=353
+25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	_	start_char=354|end_char=355
+26	contrarian	contrarian	ADJ	JJ	Degree=Pos	22	acl	_	start_char=356|end_char=366
+27	.	.	PUNCT	.	_	2	punct	_	start_char=366|end_char=367
+
+1	Mistmare	Mistmare	PROPN	NNP	Number=Sing	0	root	_	start_char=369|end_char=377
+
+1	Plumbers	Plumber	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=379|end_char=387
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=388|end_char=390
+3	n't	not	PART	RB	_	4	advmod	_	start_char=390|end_char=393
+4	Wear	wear	VERB	VB	VerbForm=Inf	0	root	_	start_char=394|end_char=398
+5	Ties	tie	NOUN	NNS	Number=Plur	4	obj	_	start_char=399|end_char=403
+
+1	Aliens	alien	NOUN	NNS	Number=Plur	0	root	_	start_char=405|end_char=411
+2	:	:	PUNCT	:	_	1	punct	_	start_char=411|end_char=412
+3	Colonial	Colonial	ADJ	JJ	Degree=Pos	4	amod	_	start_char=413|end_char=421
+4	Marines	Marine	PROPN	NNPS	Number=Plur	1	appos	_	start_char=422|end_char=429
+
+1	Stalin	Stalin	PROPN	NNP	Number=Sing	0	root	_	start_char=431|end_char=437
+2	Vs	versus	ADP	IN	_	3	case	_	start_char=438|end_char=440
+3	Martians	Martian	PROPN	NNPS	Number=Plur	1	nmod	_	start_char=441|end_char=449
+

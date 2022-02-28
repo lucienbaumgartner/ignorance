@@ -1,0 +1,23 @@
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=0|end_char=3
+2	more	more	ADJ	JJR	Degree=Cmp	8	obl:tmod	_	start_char=4|end_char=8
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	start_char=9|end_char=10
+4	read	read	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	start_char=11|end_char=15
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=16|end_char=19
+6	more	more	ADV	RBR	_	4	obj	_	start_char=20|end_char=24
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	start_char=25|end_char=26
+8	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	start_char=27|end_char=31
+9	bhakts	bhakt	NOUN	NNS	Number=Plur	8	obj	_	start_char=32|end_char=38
+10	.	.	PUNCT	.	_	8	punct	_	start_char=38|end_char=39
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	start_char=40|end_char=44
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	start_char=45|end_char=48
+3	willingly	willingly	ADV	RB	_	4	advmod	_	start_char=49|end_char=58
+4	unaware	unaware	ADJ	JJ	Degree=Pos	0	root	_	start_char=59|end_char=66
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=67|end_char=70
+6	complicit	complicit	ADJ	JJ	Degree=Pos	4	conj	_	start_char=71|end_char=80
+7	in	in	ADP	IN	_	10	case	_	start_char=81|end_char=83
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=84|end_char=88
+9	grossly	grossly	ADV	RB	_	10	amod	_	start_char=89|end_char=96
+10	act	act	NOUN	NN	Number=Sing	6	obl	_	start_char=97|end_char=100
+11	.	.	PUNCT	.	_	4	punct	_	start_char=100|end_char=101
+

@@ -1,0 +1,39 @@
+1	thats	thats	INTJ	UH	_	3	discourse	_	start_char=0|end_char=5
+2	really	really	ADV	RB	Degree=Pos	3	advmod	_	start_char=6|end_char=12
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	start_char=13|end_char=17
+4	,	,	PUNCT	,	_	3	punct	_	start_char=17|end_char=18
+5	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	start_char=19|end_char=20
+6	like	like	VERB	VBP	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	start_char=21|end_char=25
+7	christian	Christian	ADJ	JJ	Degree=Pos	8	amod	_	start_char=26|end_char=35
+8	stuff	stuff	NOUN	NN	Number=Sing	6	obj	_	start_char=36|end_char=41
+9	actually	actually	ADV	RB	Degree=Pos	11	advmod	_	start_char=42|end_char=50
+10	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	start_char=51|end_char=56
+11	cool	cool	ADJ	JJ	Degree=Pos	6	advcl	_	start_char=57|end_char=61
+12	.	.	PUNCT	.	_	3	punct	_	start_char=61|end_char=62
+
+1	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	start_char=63|end_char=66
+2	really	really	ADV	RB	_	4	advmod	_	start_char=67|end_char=73
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=74|end_char=75
+4	shame	shame	NOUN	NN	Number=Sing	0	root	_	start_char=76|end_char=81
+5	how	how	SCONJ	WRB	PronType=Int	6	mark	_	start_char=82|end_char=85
+6	much	much	ADJ	JJ	Degree=Pos	7	amod	_	start_char=86|end_char=90
+7	people	people	NOUN	NNS	Number=Plur	8	nsubj	_	start_char=91|end_char=97
+8	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	csubj	_	start_char=98|end_char=101
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=102|end_char=105
+10	bible	bible	NOUN	NN	Number=Sing	8	obj	_	start_char=106|end_char=111
+11	to	to	PART	TO	_	13	mark	_	start_char=112|end_char=114
+12	be	be	AUX	VB	VerbForm=Inf	13	cop	_	start_char=115|end_char=117
+13	ignorant	ignorant	ADJ	JJ	Degree=Pos	8	xcomp	_	start_char=118|end_char=126
+14	and	and	CCONJ	CC	_	15	cc	_	start_char=127|end_char=130
+15	hateful	hateful	ADJ	JJ	Degree=Pos	13	conj	_	start_char=131|end_char=138
+16	,	,	PUNCT	,	_	20	punct	_	start_char=138|end_char=139
+17	but	but	CCONJ	CC	_	20	cc	_	start_char=140|end_char=143
+18	this	this	PRON	DT	Number=Sing|PronType=Dem	20	nsubj	_	start_char=144|end_char=148
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	start_char=149|end_char=151
+20	nice	nice	ADJ	JJ	Degree=Pos	4	conj	_	start_char=152|end_char=156
+21	.	.	PUNCT	.	_	4	punct	_	start_char=156|end_char=157
+
+1	very	very	ADV	RB	_	2	advmod	_	start_char=158|end_char=162
+2	cool	cool	ADJ	JJ	Degree=Pos	0	root	_	start_char=163|end_char=167
+3	.	.	PUNCT	.	_	2	punct	_	start_char=167|end_char=168
+
